@@ -1,0 +1,20 @@
+{
+  "name": "日文家教",
+  "short_name": "日文家教",
+  "description": "離線日文學習：單字、文法、選擇題、中日對照情境句",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f1a",
+  "theme_color": "#1a1a2e",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

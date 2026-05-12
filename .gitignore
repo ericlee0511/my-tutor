@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+
+# 原始日文小說素材（未公開內容、可能有版權）
+source_file/

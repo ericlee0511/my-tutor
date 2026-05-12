@@ -1,0 +1,53 @@
+{
+  "n5": [
+    {"question_en": "What is the reading of 「学校」?", "question_ja": "「学校」の読み方は？", "options": ["がっこう", "がくこう", "がくしゅう", "がくえん"], "answer": 0, "explanation_en": "「学校」 means 'school' and is read as がっこう.", "explanation_ja": "「学校」は『がっこう』と読みます。"},
+    {"question_en": "Which word means 'water'?", "question_ja": "「みず」の意味は？", "options": ["fire / 火", "water / 水", "wood / 木", "earth / 土"], "answer": 1, "explanation_en": "水 (みず) means water.", "explanation_ja": "「みず」は『水』、water の意味です。"},
+    {"question_en": "「私___学生です」 — fill in the blank.", "question_ja": "「私___学生です」 — 空欄に入る言葉は？", "options": ["を", "が", "は", "に"], "answer": 2, "explanation_en": "は is the topic marker: 'As for me, [I am] a student.'", "explanation_ja": "「は」は主題を表す助詞です。"},
+    {"question_en": "How do you say 'I eat sushi' in polite form?", "question_ja": "「寿司を食べます」の意味は？", "options": ["I eat sushi", "I made sushi", "I want sushi", "I like sushi"], "answer": 0, "explanation_en": "〜ます is polite present tense. 食べます = eat (polite).", "explanation_ja": "「食べます」は丁寧形で eat の意味です。"},
+    {"question_en": "Which is the て-form of 食べる?", "question_ja": "「食べる」のて形は？", "options": ["食べて", "食べた", "食べない", "食べます"], "answer": 0, "explanation_en": "Ru-verbs drop る and add て: 食べる → 食べて.", "explanation_ja": "る動詞は「る」を取って「て」を付けます。"},
+    {"question_en": "「今日___寒いです」 — fill in.", "question_ja": "「今日___寒いです」 — 空欄に入る言葉は？", "options": ["を", "は", "が", "に"], "answer": 1, "explanation_en": "は marks the topic: 'As for today, it is cold.'", "explanation_ja": "「は」は主題を表します。"},
+    {"question_en": "「いぬ」の漢字は？", "question_ja": "「いぬ」の漢字は？", "options": ["猫", "犬", "鳥", "魚"], "answer": 1, "explanation_en": "「いぬ」 is 犬 (dog). 猫 is cat, 鳥 is bird, 魚 is fish.", "explanation_ja": "「いぬ」は『犬』。猫はねこ、鳥はとり、魚はさかな。"},
+    {"question_en": "Which means 'to buy'?", "question_ja": "「to buy」を表す動詞は？", "options": ["売る", "買う", "貸す", "借りる"], "answer": 1, "explanation_en": "買う (かう) = to buy. 売る = to sell.", "explanation_ja": "「買う」は買う側、「売る」は売る側。"},
+    {"question_en": "「公園___猫がいます」 — fill in.", "question_ja": "「公園___猫がいます」 — 空欄に入る言葉は？", "options": ["で", "に", "を", "へ"], "answer": 1, "explanation_en": "に marks the place of existence (for います).", "explanation_ja": "存在を表す「います」の場所は「に」で示します。"},
+    {"question_en": "「電車___学校に行きます」 — fill in.", "question_ja": "「電車___学校に行きます」 — 空欄に入る言葉は？", "options": ["で", "に", "を", "が"], "answer": 0, "explanation_en": "で marks the means of transport.", "explanation_ja": "「で」は交通手段を表します。"},
+    {"question_en": "Which is the negative of 「行きます」?", "question_ja": "「行きます」の否定形は？", "options": ["行きません", "行きませんでした", "行きないです", "行きなかった"], "answer": 0, "explanation_en": "Polite present negative: ます → ません.", "explanation_ja": "丁寧形の否定は「ます」を「ません」に変えます。"},
+    {"question_en": "「私___音楽___好きです」 — fill in.", "question_ja": "「私___音楽___好きです」 — 空欄に入る言葉は？", "options": ["は／を", "は／が", "が／を", "を／は"], "answer": 1, "explanation_en": "Topic は + object marker が for 好き.", "explanation_ja": "好きの対象は「が」で示します。「私は音楽が好きです」。"}
+  ],
+  "n4": [
+    {"question_en": "「日本語を話す___ができます」 — fill in.", "question_ja": "「日本語を話す___ができます」 — 空欄に入る言葉は？", "options": ["の", "もの", "こと", "とき"], "answer": 2, "explanation_en": "〜ことができる expresses ability.", "explanation_ja": "「〜ことができる」で可能を表します。"},
+    {"question_en": "「明日早く起きなければ___」 — complete.", "question_ja": "「明日早く起きなければ___」 — 続きを選んで。", "options": ["なります", "なりません", "ならない", "ありません"], "answer": 1, "explanation_en": "〜なければなりません = 'must / have to'.", "explanation_ja": "「〜なければなりません」で義務を表します。"},
+    {"question_en": "Which means 'May I sit here?'", "question_ja": "「ここに座ってもいいですか」の意味は？", "options": ["I want to sit here", "May I sit here?", "I cannot sit here", "I will sit here"], "answer": 1, "explanation_en": "〜てもいいですか asks for permission.", "explanation_ja": "「〜てもいいですか」は許可を求める表現です。"},
+    {"question_en": "「明日は雨が降る___思います」 — fill in.", "question_ja": "「明日は雨が降る___思います」 — 空欄に入る言葉は？", "options": ["を", "に", "と", "が"], "answer": 2, "explanation_en": "「〜と思います」 = 'I think that ___'.", "explanation_ja": "「〜と思います」で意見・推測を表します。"},
+    {"question_en": "「準備」 means:", "question_ja": "「準備」の意味は？", "options": ["preparation", "experience", "promise", "graduation"], "answer": 0, "explanation_en": "準備 (じゅんび) = preparation.", "explanation_ja": "「準備」は『じゅんび』、用意することの意味です。"},
+    {"question_en": "「日本に行った___があります」 (have been to Japan) — fill in.", "question_ja": "「日本に行った___があります」 — 空欄に入る言葉は？", "options": ["こと", "もの", "ところ", "ばかり"], "answer": 0, "explanation_en": "〜たことがある = past experience.", "explanation_ja": "「〜たことがある」で経験を表します。"},
+    {"question_en": "「来年留学する___です」 (intend to study abroad) — fill in.", "question_ja": "「来年留学する___です」 — 空欄に入る言葉は？", "options": ["はず", "つもり", "こと", "もの"], "answer": 1, "explanation_en": "〜つもりだ = intention/plan.", "explanation_ja": "「〜つもり」で意志・予定を表します。"},
+    {"question_en": "「音楽を聞き___勉強します」 — fill in.", "question_ja": "「音楽を聞き___勉強します」 — 空欄に入る言葉は？", "options": ["ながら", "あいだ", "うちに", "とき"], "answer": 0, "explanation_en": "〜ながら = doing two things at once.", "explanation_ja": "「〜ながら」で同時動作を表します。"},
+    {"question_en": "「宿題をして___遊びます」 (after homework) — fill in.", "question_ja": "「宿題をして___遊びます」 — 空欄に入る言葉は？", "options": ["から", "ので", "ため", "あと"], "answer": 0, "explanation_en": "〜てから = after doing.", "explanation_ja": "「〜てから」で動作の順序を表します。"},
+    {"question_en": "「この本は読み___です」 (easy to read) — fill in.", "question_ja": "「この本は読み___です」 — 空欄に入る言葉は？", "options": ["やすい", "にくい", "たい", "がたい"], "answer": 0, "explanation_en": "〜やすい = easy to do.", "explanation_ja": "「〜やすい」で容易さを表します。"}
+  ],
+  "n3": [
+    {"question_en": "「ご飯を食べた___です」 (I just ate) — fill in.", "question_ja": "「ご飯を食べた___です」 — 空欄に入る言葉は？", "options": ["ところ", "ばかり", "とき", "あと"], "answer": 1, "explanation_en": "〜たばかり = just did.", "explanation_ja": "「〜たばかり」で『たった今〜した』を表します。"},
+    {"question_en": "「彼は来ない___です」 (apparently) — fill in.", "question_ja": "「彼は来ない___です」 — 空欄に入る言葉は？", "options": ["ようだ", "らしい", "そうだ", "みたい"], "answer": 1, "explanation_en": "〜らしい indicates hearsay/inference.", "explanation_ja": "「〜らしい」は伝聞や推量に使います。"},
+    {"question_en": "「音楽を聞き___勉強します」 — fill in.", "question_ja": "「音楽を聞き___勉強します」 — 空欄に入る言葉は？", "options": ["ながら", "あいだ", "うちに", "ついでに"], "answer": 0, "explanation_en": "〜ながら = simultaneously.", "explanation_ja": "「〜ながら」で二つの動作を同時に行います。"},
+    {"question_en": "「影響」 reading?", "question_ja": "「影響」の読み方は？", "options": ["えいきゅう", "えいきょう", "えきょう", "えいごう"], "answer": 1, "explanation_en": "「影響」 = えいきょう.", "explanation_ja": "「影響」は『えいきょう』。"},
+    {"question_en": "「このケーキはおいし___です」 (looks delicious) — fill in.", "question_ja": "「このケーキはおいし___です」 — 空欄に入る言葉は？", "options": ["そう", "らしい", "ようだ", "みたい"], "answer": 0, "explanation_en": "い-Adj(no い) + そう = looks ~ (visual judgment).", "explanation_ja": "「い形容詞-い+そう」で見た目の推量。"},
+    {"question_en": "「毎朝走る___しました」 (decided to run) — fill in.", "question_ja": "「毎朝走る___しました」 — 空欄に入る言葉は？", "options": ["ことに", "ように", "ものに", "そうに"], "answer": 0, "explanation_en": "〜ことにする = decide to (self-decision).", "explanation_ja": "「〜ことにする」で自分の決定を表します。"},
+    {"question_en": "「遅れる___は連絡してください」 (in case of being late) — fill in.", "question_ja": "「遅れる___は連絡してください」 — 空欄に入る言葉は？", "options": ["場合", "間", "とき", "あいだ"], "answer": 0, "explanation_en": "〜場合は = in the case that ~.", "explanation_ja": "「〜場合(は)」で条件を表します。"},
+    {"question_en": "「確認」 reading?", "question_ja": "「確認」の読み方は？", "options": ["がくにん", "かくにん", "かくじん", "がくじん"], "answer": 1, "explanation_en": "「確認」 = かくにん (confirmation).", "explanation_ja": "「確認」は『かくにん』。"}
+  ],
+  "n2": [
+    {"question_en": "「雨___、試合は行われた」 (despite rain) — fill in.", "question_ja": "「雨___、試合は行われた」 — 空欄に入る言葉は？", "options": ["にとって", "にもかかわらず", "について", "において"], "answer": 1, "explanation_en": "〜にもかかわらず = 'despite'.", "explanation_ja": "「〜にもかかわらず」で逆接を表します。"},
+    {"question_en": "「嫌いな___ではない」 — fill in.", "question_ja": "「嫌いな___ではない」 — 空欄に入る言葉は？", "options": ["わけ", "もの", "こと", "はず"], "answer": 0, "explanation_en": "〜わけではない = partial negation.", "explanation_ja": "「〜わけではない」で部分否定。"},
+    {"question_en": "「矛盾」 meaning?", "question_ja": "「矛盾」の意味は？", "options": ["agreement", "contradiction", "tradition", "competition"], "answer": 1, "explanation_en": "「矛盾」 (むじゅん) = contradiction.", "explanation_ja": "「矛盾」は『むじゅん』、つじつまが合わないこと。"},
+    {"question_en": "「勉強した___、試験に落ちた」 (although) — fill in.", "question_ja": "「勉強した___、試験に落ちた」 — 空欄に入る言葉は？", "options": ["ものの", "ものを", "ものか", "もので"], "answer": 0, "explanation_en": "〜ものの = although (concession).", "explanation_ja": "「〜ものの」で『〜けれども』。"},
+    {"question_en": "「私が知っている___、彼は正直です」 — fill in.", "question_ja": "「私が知っている___、彼は正直です」 — 空欄に入る言葉は？", "options": ["うちは", "限り", "あいだ", "うえで"], "answer": 1, "explanation_en": "〜限り(は) = 'as far as / as long as'.", "explanation_ja": "「〜限り(は)」で『〜の範囲では』。"},
+    {"question_en": "「この件___説明します」 (regarding) — fill in.", "question_ja": "「この件___説明します」 — 空欄に入る言葉は？", "options": ["に対して", "に関して", "にとって", "において"], "answer": 1, "explanation_en": "〜に関して = 'regarding/about' a topic.", "explanation_ja": "「〜に関して」で話題を示します。"}
+  ],
+  "n1": [
+    {"question_en": "「台風で中止を___された」 (forced to cancel) — fill in.", "question_ja": "「台風で中止を___された」 — 空欄に入る言葉は？", "options": ["余儀なく", "やむを得ず", "免れなく", "頼りなく"], "answer": 0, "explanation_en": "〜を余儀なくされる = forced by circumstances.", "explanation_ja": "「〜を余儀なくされる」で『やむを得ず〜する』。"},
+    {"question_en": "「示唆」 reading?", "question_ja": "「示唆」の読み方は？", "options": ["しさ", "じさ", "しじ", "じじ"], "answer": 0, "explanation_en": "「示唆」 = しさ.", "explanation_ja": "「示唆」は『しさ』。"},
+    {"question_en": "「彼は決断を先延ばしにする___がある」 — fill in.", "question_ja": "「彼は決断を先延ばしにする___がある」 — 空欄に入る言葉は？", "options": ["きらい", "ところ", "もの", "ばかり"], "answer": 0, "explanation_en": "〜きらいがある = tends to (negative).", "explanation_ja": "「〜きらいがある」は好ましくない傾向。"},
+    {"question_en": "「ベルが鳴る___、生徒は飛び出した」 (as soon as) — fill in.", "question_ja": "「ベルが鳴る___、生徒は飛び出した」 — 空欄に入る言葉は？", "options": ["が早いか", "間もなく", "とたんに", "や否や"], "answer": 0, "explanation_en": "〜が早いか = 'no sooner than / as soon as'.", "explanation_ja": "「〜が早いか」で『〜したとたんに』。"},
+    {"question_en": "「この映画を見ると泣か___」 (can't help crying) — fill in.", "question_ja": "「この映画を見ると泣か___」 — 空欄に入る言葉は？", "options": ["ずにはいられない", "ようがない", "わけにはいかない", "といったらない"], "answer": 0, "explanation_en": "〜ずにはいられない = can't help (doing).", "explanation_ja": "「〜ずにはいられない」で自然にそうしてしまう。"}
+  ]
+}

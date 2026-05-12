@@ -1,0 +1,53 @@
+{
+  "n5": [
+    {"pattern": "〜は〜です", "meaning_en": "X is Y (statement)", "meaning_ja": "「Xは」が主題、「Yです」が述語", "structure": "Noun は Noun です", "examples": [{"ja": "私は学生です。", "en": "I am a student.", "kana": "わたしはがくせいです。"}]},
+    {"pattern": "〜ます/〜ません", "meaning_en": "polite present/future verb form (affirm./neg.)", "meaning_ja": "丁寧形（現在・未来）の肯定/否定", "structure": "Verb stem + ます (肯定) / ません (否定)", "examples": [{"ja": "毎日勉強します。", "en": "I study every day.", "kana": "まいにちべんきょうします。"}]},
+    {"pattern": "〜を〜ます", "meaning_en": "do something (object marker を)", "meaning_ja": "目的語を示す「を」", "structure": "Noun を Verb-ます", "examples": [{"ja": "本を読みます。", "en": "I read a book.", "kana": "ほんをよみます。"}]},
+    {"pattern": "〜に行きます", "meaning_en": "go to (destination)", "meaning_ja": "目的地を示す", "structure": "Place に 行きます", "examples": [{"ja": "東京に行きます。", "en": "I go to Tokyo.", "kana": "とうきょうにいきます。"}]},
+    {"pattern": "〜たいです", "meaning_en": "want to (do verb)", "meaning_ja": "希望を表す", "structure": "Verb stem + たいです", "examples": [{"ja": "寿司が食べたいです。", "en": "I want to eat sushi.", "kana": "すしがたべたいです。"}]},
+    {"pattern": "〜があります/います", "meaning_en": "there is (object / living thing)", "meaning_ja": "存在を表す。物：あります、人/動物：います", "structure": "Noun が あります／います", "examples": [{"ja": "机の上に本があります。", "en": "There is a book on the desk.", "kana": "つくえのうえにほんがあります。"}, {"ja": "公園に猫がいます。", "en": "There is a cat in the park.", "kana": "こうえんにねこがいます。"}]},
+    {"pattern": "〜が好きです", "meaning_en": "like (something)", "meaning_ja": "好みを表す", "structure": "Noun が 好きです", "examples": [{"ja": "私は音楽が好きです。", "en": "I like music.", "kana": "わたしはおんがくがすきです。"}]},
+    {"pattern": "〜で〜ます", "meaning_en": "by/at/with (means/place/tool)", "meaning_ja": "手段・場所・道具を示す「で」", "structure": "Noun で Verb-ます", "examples": [{"ja": "電車で学校に行きます。", "en": "I go to school by train.", "kana": "でんしゃでがっこうにいきます。"}, {"ja": "図書館で勉強します。", "en": "I study at the library.", "kana": "としょかんでべんきょうします。"}]},
+    {"pattern": "〜から〜まで", "meaning_en": "from ~ to ~", "meaning_ja": "始まりと終わりを示す", "structure": "Noun から Noun まで", "examples": [{"ja": "九時から五時まで働きます。", "en": "I work from 9 to 5.", "kana": "くじからごじまではたらきます。"}]},
+    {"pattern": "〜より〜の方が", "meaning_en": "X is more ~ than Y", "meaning_ja": "二つを比較する", "structure": "X より Y の方が Adj", "examples": [{"ja": "夏より冬の方が好きです。", "en": "I like winter more than summer.", "kana": "なつよりふゆのほうがすきです。"}]},
+    {"pattern": "〜くないです / 〜じゃないです", "meaning_en": "negative of adjectives", "meaning_ja": "形容詞の否定", "structure": "い-Adj(- い + くない) / な-Adj + じゃない", "examples": [{"ja": "今日は寒くないです。", "en": "It's not cold today.", "kana": "きょうはさむくないです。"}, {"ja": "この部屋は静かじゃないです。", "en": "This room is not quiet.", "kana": "このへやはしずかじゃないです。"}]},
+    {"pattern": "〜ましょう / 〜ませんか", "meaning_en": "Let's ~ / shall we ~ ?", "meaning_ja": "誘い・提案", "structure": "Verb stem + ましょう / ませんか", "examples": [{"ja": "一緒に映画を見ましょう。", "en": "Let's watch a movie together.", "kana": "いっしょにえいがをみましょう。"}, {"ja": "コーヒーを飲みませんか。", "en": "Shall we have a coffee?", "kana": "コーヒーをのみませんか。"}]}
+  ],
+  "n4": [
+    {"pattern": "〜ています", "meaning_en": "ongoing action / state (-ing)", "meaning_ja": "進行中の動作または状態", "structure": "Verb-て + います", "examples": [{"ja": "今、本を読んでいます。", "en": "I am reading a book now.", "kana": "いま、ほんをよんでいます。"}]},
+    {"pattern": "〜ことができる", "meaning_en": "be able to (do)", "meaning_ja": "可能を表す", "structure": "Verb(辞書形) + ことができる", "examples": [{"ja": "日本語を話すことができます。", "en": "I can speak Japanese.", "kana": "にほんごをはなすことができます。"}]},
+    {"pattern": "〜なければなりません", "meaning_en": "must do, have to do", "meaning_ja": "義務を表す", "structure": "Verb(ない形) + なければなりません", "examples": [{"ja": "明日早く起きなければなりません。", "en": "I have to wake up early tomorrow.", "kana": "あしたはやくおきなければなりません。"}]},
+    {"pattern": "〜てもいいですか", "meaning_en": "May I (do)?", "meaning_ja": "許可を求める", "structure": "Verb-て + もいいですか", "examples": [{"ja": "ここに座ってもいいですか。", "en": "May I sit here?", "kana": "ここにすわってもいいですか。"}]},
+    {"pattern": "〜と思います", "meaning_en": "I think that", "meaning_ja": "意見・推測を述べる", "structure": "Plain form + と思います", "examples": [{"ja": "明日は雨が降ると思います。", "en": "I think it will rain tomorrow.", "kana": "あしたはあめがふるとおもいます。"}]},
+    {"pattern": "〜たことがある", "meaning_en": "have experience doing", "meaning_ja": "過去の経験を表す", "structure": "Verb(た形) + ことがある", "examples": [{"ja": "日本に行ったことがあります。", "en": "I have been to Japan.", "kana": "にほんにいったことがあります。"}]},
+    {"pattern": "〜つもりです", "meaning_en": "intend to (do)", "meaning_ja": "意志・予定を表す", "structure": "Verb(辞書形) + つもりです", "examples": [{"ja": "来年留学するつもりです。", "en": "I intend to study abroad next year.", "kana": "らいねんりゅうがくするつもりです。"}]},
+    {"pattern": "〜ながら", "meaning_en": "while doing", "meaning_ja": "二つの動作を同時に行う", "structure": "Verb stem + ながら", "examples": [{"ja": "音楽を聞きながら勉強します。", "en": "I study while listening to music.", "kana": "おんがくをききながらべんきょうします。"}]},
+    {"pattern": "〜てから", "meaning_en": "after doing", "meaning_ja": "動作の後で続ける", "structure": "Verb-て + から", "examples": [{"ja": "宿題をしてから遊びます。", "en": "I play after doing my homework.", "kana": "しゅくだいをしてからあそびます。"}]},
+    {"pattern": "〜やすい / 〜にくい", "meaning_en": "easy / hard to (do)", "meaning_ja": "しやすい・しにくい", "structure": "Verb stem + やすい/にくい", "examples": [{"ja": "この本は読みやすいです。", "en": "This book is easy to read.", "kana": "このほんはよみやすいです。"}, {"ja": "この字は読みにくいです。", "en": "These characters are hard to read.", "kana": "このじはよみにくいです。"}]}
+  ],
+  "n3": [
+    {"pattern": "〜ようになる", "meaning_en": "come to (do), become able to", "meaning_ja": "変化を表す", "structure": "Verb(辞書/可能形) + ようになる", "examples": [{"ja": "毎日練習して、泳げるようになりました。", "en": "After practicing daily, I came to be able to swim.", "kana": "まいにちれんしゅうして、およげるようになりました。"}]},
+    {"pattern": "〜ばかり", "meaning_en": "just (did), nothing but", "meaning_ja": "「〜したばかり」=直後／「〜ばかり」=それのみ", "structure": "Verb-た + ばかり / Noun + ばかり", "examples": [{"ja": "ご飯を食べたばかりです。", "en": "I just ate.", "kana": "ごはんをたべたばかりです。"}]},
+    {"pattern": "〜らしい", "meaning_en": "seems, apparently", "meaning_ja": "伝聞または推量", "structure": "Plain form + らしい", "examples": [{"ja": "彼は来ないらしいです。", "en": "Apparently he isn't coming.", "kana": "かれはこないらしいです。"}]},
+    {"pattern": "〜ながら", "meaning_en": "while doing (two actions at once)", "meaning_ja": "二つの動作を同時にする", "structure": "Verb-stem + ながら", "examples": [{"ja": "音楽を聞きながら勉強します。", "en": "I study while listening to music.", "kana": "おんがくをききながらべんきょうします。"}]},
+    {"pattern": "〜そうだ (様態)", "meaning_en": "looks like / seems (visual judgment)", "meaning_ja": "見た目から判断する推量", "structure": "Verb stem / い-Adj(no い) / な-Adj + そうだ", "examples": [{"ja": "このケーキはおいしそうです。", "en": "This cake looks delicious.", "kana": "このケーキはおいしそうです。"}]},
+    {"pattern": "〜なら", "meaning_en": "if it's the case that ~", "meaning_ja": "ある条件を前提にした提案・主張", "structure": "Noun/Plain form + なら", "examples": [{"ja": "日本へ行くなら、京都がおすすめです。", "en": "If you're going to Japan, I recommend Kyoto.", "kana": "にほんへいくなら、きょうとがおすすめです。"}]},
+    {"pattern": "〜ことにする", "meaning_en": "decide to (do)", "meaning_ja": "自分で決める", "structure": "Verb(辞書形/ない形) + ことにする", "examples": [{"ja": "毎朝走ることにしました。", "en": "I decided to run every morning.", "kana": "まいあさはしることにしました。"}]},
+    {"pattern": "〜場合(は)", "meaning_en": "in the case of", "meaning_ja": "もしそうなったら", "structure": "Plain form + 場合(は)", "examples": [{"ja": "遅れる場合は連絡してください。", "en": "In case you're late, please contact me.", "kana": "おくれるばあいはれんらくしてください。"}]}
+  ],
+  "n2": [
+    {"pattern": "〜にもかかわらず", "meaning_en": "in spite of, despite", "meaning_ja": "前項に反する結果", "structure": "Noun/Plain form + にもかかわらず", "examples": [{"ja": "雨にもかかわらず、試合は行われた。", "en": "Despite the rain, the game was held.", "kana": "あめにもかかわらず、しあいはおこなわれた。"}]},
+    {"pattern": "〜わけではない", "meaning_en": "it doesn't mean that", "meaning_ja": "部分的な否定", "structure": "Plain form + わけではない", "examples": [{"ja": "嫌いなわけではないが、好きでもない。", "en": "It's not that I hate it, but I don't like it either.", "kana": "きらいなわけではないが、すきでもない。"}]},
+    {"pattern": "〜ものの", "meaning_en": "although, even though", "meaning_ja": "事実は認めるが結果は予想と違う", "structure": "Plain form + ものの", "examples": [{"ja": "勉強したものの、試験に落ちた。", "en": "Although I studied, I failed the exam.", "kana": "べんきょうしたものの、しけんにおちた。"}]},
+    {"pattern": "〜に関して", "meaning_en": "regarding, concerning", "meaning_ja": "話題を示す（書き言葉に近い）", "structure": "Noun + に関して", "examples": [{"ja": "この件に関して説明します。", "en": "I will explain regarding this matter.", "kana": "このけんにかんしてせつめいします。"}]},
+    {"pattern": "〜ようがない", "meaning_en": "no way to (do)", "meaning_ja": "方法がない", "structure": "Verb stem + ようがない", "examples": [{"ja": "連絡先がわからないので、知らせようがない。", "en": "I don't know the contact, so there's no way to inform them.", "kana": "れんらくさきがわからないので、しらせようがない。"}]},
+    {"pattern": "〜限り(は)", "meaning_en": "as long as / as far as", "meaning_ja": "ある条件が続く間", "structure": "Plain form + 限り(は)", "examples": [{"ja": "私が知っている限り、彼は正直です。", "en": "As far as I know, he is honest.", "kana": "わたしがしっているかぎり、かれはしょうじきです。"}]}
+  ],
+  "n1": [
+    {"pattern": "〜を余儀なくされる", "meaning_en": "be forced to (do)", "meaning_ja": "やむを得ずそうすること", "structure": "Noun + を余儀なくされる", "examples": [{"ja": "台風で中止を余儀なくされた。", "en": "We were forced to cancel due to the typhoon.", "kana": "たいふうでちゅうしをよぎなくされた。"}]},
+    {"pattern": "〜ずにはいられない", "meaning_en": "cannot help but (do)", "meaning_ja": "我慢できずに自然にしてしまう", "structure": "Verb(ない形) + ずにはいられない", "examples": [{"ja": "この映画を見ると泣かずにはいられない。", "en": "I can't help crying when I watch this movie.", "kana": "このえいがをみるとなかずにはいられない。"}]},
+    {"pattern": "〜きらいがある", "meaning_en": "tend to (negative connotation)", "meaning_ja": "好ましくない傾向がある", "structure": "Verb(辞書形)/Noun の + きらいがある", "examples": [{"ja": "彼は決断を先延ばしにするきらいがある。", "en": "He tends to put off decisions.", "kana": "かれはけつだんをさきのばしにするきらいがある。"}]},
+    {"pattern": "〜が早いか", "meaning_en": "as soon as", "meaning_ja": "〜したとたんに", "structure": "Verb(辞書形/た形) + が早いか", "examples": [{"ja": "ベルが鳴るが早いか、生徒は教室を飛び出した。", "en": "As soon as the bell rang, the students rushed out of the classroom.", "kana": "ベルがなるがはやいか、せいとはきょうしつをとびだした。"}]},
+    {"pattern": "〜にあって", "meaning_en": "in the situation of (formal)", "meaning_ja": "ある特別な状況において（書き言葉）", "structure": "Noun + にあって", "examples": [{"ja": "この困難な状況にあって、リーダーシップが問われる。", "en": "In this difficult situation, leadership is tested.", "kana": "このこんなんなじょうきょうにあって、リーダーシップがとわれる。"}]}
+  ]
+}
