@@ -3,12 +3,12 @@ const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
 const STORIES = [
-  { key: "jap1", title: "修学旅行で仲良くないグループに入りました 1" },
-  { key: "jap2", title: "修学旅行で仲良くないグループに入りました 2" },
-  { key: "jap3", title: "消えた教室" },
-  { key: "jap4", title: "「祝祭村からの脱出」にまつわる記録" },
-  { key: "jap5", title: "人から聞いた話 1" },
-  { key: "jap6", title: "人から聞いた話 2" },
+  { key: "jap001", title: "修学旅行で仲良くないグループに入りました 1" },
+  { key: "jap002", title: "修学旅行で仲良くないグループに入りました 2" },
+  { key: "jap003", title: "消えた教室" },
+  { key: "jap004", title: "「祝祭村からの脱出」にまつわる記録" },
+  { key: "jap005", title: "人から聞いた話 1" },
+  { key: "jap006", title: "人から聞いた話 2" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
