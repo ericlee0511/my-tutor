@@ -21,7 +21,7 @@ function saveState() {
 }
 
 async function loadData() {
-  const sceneFiles = ["scenes_jap1", "scenes_jap2", "scenes_jap3"];
+  const sceneFiles = ["scenes_jap1", "scenes_jap2", "scenes_jap3", "scenes_jap4"];
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),

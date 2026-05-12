@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v5";
+const CACHE = "jp-tutor-v6";
 const ASSETS = [
   "./",
   "./index.html",
@@ -13,6 +13,7 @@ const ASSETS = [
   "./data/scenes_jap1.json",
   "./data/scenes_jap2.json",
   "./data/scenes_jap3.json",
+  "./data/scenes_jap4.json",
 ];
 
 self.addEventListener("install", e => {
