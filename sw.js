@@ -1,11 +1,12 @@
-const CACHE = "jp-tutor-v4";
+const CACHE = "jp-tutor-v5";
 const ASSETS = [
   "./",
   "./index.html",
   "./app.js",
   "./style.css",
   "./manifest.json",
-  "./icon.svg",
+  "./icon-192.png",
+  "./icon-512.png",
   "./data/vocab.json",
   "./data/grammar.json",
   "./data/quiz.json",
