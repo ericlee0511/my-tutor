@@ -34,9 +34,10 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  min-height: 100dvh;
+  height: 100vh;
+  height: 100dvh;
   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  overflow: hidden;
 }
 
 header {
@@ -72,6 +73,7 @@ main {
   flex-direction: column;
   padding: 16px;
   gap: 16px;
+  min-height: 0;
 }
 
 .actions {
@@ -102,6 +104,9 @@ main {
   border-radius: 14px;
   padding: 20px;
   flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   font-size: 16px;
   word-break: break-word;
   white-space: pre-wrap;
