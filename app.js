@@ -2,10 +2,18 @@ const LEVELS = ["n5", "n4", "n3", "n2", "n1"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
+const STORIES = [
+  { key: "jap1", title: "修学旅行で仲良くないグループに入りました 1" },
+  { key: "jap2", title: "修学旅行で仲良くないグループに入りました 2" },
+  { key: "jap3", title: "消えた教室" },
+  { key: "jap4", title: "「祝祭村からの脱出」にまつわる記録" },
+];
+
 let DATA = {};
 let state = {
   level: "n5",
   lang: "en",
+  story: null,
   history: {},
 };
 
@@ -21,17 +29,19 @@ function saveState() {
 }
 
 async function loadData() {
-  const sceneFiles = ["scenes_jap1", "scenes_jap2", "scenes_jap3", "scenes_jap4"];
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),
     fetch("data/quiz.json").then(r => r.json()),
-    ...sceneFiles.map(n => fetch(`data/${n}.json`).then(r => r.json())),
+    ...STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
   ]);
   DATA.vocab = loaded[0];
   DATA.grammar = loaded[1];
   DATA.quiz = loaded[2];
-  DATA.scenes = { all: loaded.slice(3).flatMap(d => d.all || []) };
+  DATA.scenes = {};
+  STORIES.forEach((s, i) => {
+    DATA.scenes[s.key] = loaded[3 + i].all || [];
+  });
   updateStats();
 }
 
@@ -40,12 +50,12 @@ function updateStats() {
     Object.values(DATA.vocab || {}).reduce((s, a) => s + a.length, 0) +
     Object.values(DATA.grammar || {}).reduce((s, a) => s + a.length, 0) +
     Object.values(DATA.quiz || {}).reduce((s, a) => s + a.length, 0) +
-    (DATA.scenes?.all?.length || 0);
+    Object.values(DATA.scenes || {}).reduce((s, a) => s + a.length, 0);
   document.getElementById("stats").textContent = `已載入 ${total} 項學習素材 · 離線可用`;
 }
 
 function pickRandom(pool, level, kind) {
-  const items = pool[level] || pool["n5"] || pool.all;
+  const items = pool[level];
   if (!items || !items.length) return null;
   const key = `${kind}_${level}`;
   let history = state.history[key] || [];
@@ -109,12 +119,56 @@ function fmtQuiz(item) {
   return html;
 }
 
-function fmtScene(item) {
-  let html = `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
+function fmtScene(item, storyTitle) {
+  let html = `<div class="story-banner">` +
+    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
+    `<button class="story-switch" type="button">換故事</button>` +
+    `</div>`;
+  html += `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
   if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
   html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
     `💬 ${escapeHTML(item.zh)}</span></div>`;
   return html;
+}
+
+function renderStoryPicker() {
+  const c = document.getElementById("content");
+  let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
+  STORIES.forEach(s => {
+    const count = (DATA.scenes?.[s.key] || []).length;
+    html += `<button class="story-option" type="button" data-key="${s.key}">` +
+      `<span class="story-option-title">${escapeHTML(s.title)}</span>` +
+      `<span class="story-option-count">${count} 句</span>` +
+      `</button>`;
+  });
+  html += `</div>`;
+  c.innerHTML = html;
+  c.querySelectorAll(".story-option").forEach(b => {
+    b.addEventListener("click", () => {
+      state.story = b.dataset.key;
+      saveState();
+      renderScene();
+    });
+  });
+}
+
+function renderScene() {
+  if (!state.story || !DATA.scenes?.[state.story]) {
+    renderStoryPicker();
+    return;
+  }
+  const item = pickRandom(DATA.scenes, state.story, "scene");
+  if (!item) {
+    document.getElementById("content").innerHTML = "<div class='hint'>沒有資料</div>";
+    return;
+  }
+  const story = STORIES.find(s => s.key === state.story);
+  document.getElementById("content").innerHTML = fmtScene(item, story.title);
+  document.querySelector(".story-switch")?.addEventListener("click", () => {
+    state.story = null;
+    saveState();
+    renderStoryPicker();
+  });
 }
 
 function render(action) {
@@ -123,17 +177,18 @@ function render(action) {
   if (action === "word") {
     item = pickRandom(DATA.vocab, state.level, "vocab");
     html = item ? fmtWord(item) : "<div class='hint'>沒有資料</div>";
+    c.innerHTML = html;
   } else if (action === "grammar") {
     item = pickRandom(DATA.grammar, state.level, "grammar");
     html = item ? fmtGrammar(item) : "<div class='hint'>沒有資料</div>";
+    c.innerHTML = html;
   } else if (action === "quiz") {
     item = pickRandom(DATA.quiz, state.level, "quiz");
     html = item ? fmtQuiz(item) : "<div class='hint'>沒有資料</div>";
+    c.innerHTML = html;
   } else if (action === "scene") {
-    item = pickRandom(DATA.scenes, "all", "scene");
-    html = item ? fmtScene(item) : "<div class='hint'>沒有資料</div>";
+    renderScene();
   }
-  c.innerHTML = html;
 }
 
 function cycleLevel() {

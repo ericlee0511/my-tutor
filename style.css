@@ -144,6 +144,77 @@ main {
   white-space: normal;
 }
 
+.picker-hint {
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.story-option {
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-family: inherit;
+  font-size: 15px;
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: transform 0.05s, background 0.15s;
+}
+.story-option:active {
+  transform: scale(0.98);
+}
+.story-option-title {
+  font-weight: 600;
+  line-height: 1.4;
+}
+.story-option-count {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.story-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  margin-bottom: 12px;
+  background: var(--accent-soft);
+  border-radius: 8px;
+  font-size: 13px;
+}
+.story-title {
+  color: var(--text);
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.story-switch {
+  background: transparent;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  border-radius: 6px;
+  padding: 3px 10px;
+  font-size: 12px;
+  font-family: inherit;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.story-switch:active {
+  transform: scale(0.95);
+}
+
 .spoiler {
   background: var(--spoiler);
   color: var(--spoiler);
