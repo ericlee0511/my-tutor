@@ -294,6 +294,12 @@ window.addEventListener("DOMContentLoaded", async () => {
   }
 
   if ("serviceWorker" in navigator) {
+    let reloading = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (reloading) return;
+      reloading = true;
+      window.location.reload();
+    });
     navigator.serviceWorker.register("sw.js", { updateViaCache: "none" })
       .then(reg => reg.update())
       .catch(() => {});
