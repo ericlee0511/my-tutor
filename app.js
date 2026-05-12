@@ -20,6 +20,7 @@ let DATA = {};
 let state = {
   level: "n5",
   lang: "en",
+  dir: "ja",
   story: null,
   history: {},
   timeline: [],
@@ -130,14 +131,23 @@ function fmtQuiz(item) {
 }
 
 function fmtScene(item, storyTitle) {
+  const dir = state.dir === "zh" ? "zh" : "ja";
   let html = `<div class="story-banner">` +
     `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
     `<button class="story-switch" type="button">換故事</button>` +
     `</div>`;
-  html += `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
-  if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
-  html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-    `💬 ${escapeHTML(item.zh)}</span></div>`;
+  if (dir === "ja") {
+    html += `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
+    if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `💬 ${escapeHTML(item.zh)}</span></div>`;
+  } else {
+    html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
+    let hidden = `🎭 ${escapeHTML(item.ja)}`;
+    if (item.kana) hidden += `<br>かな: ${escapeHTML(item.kana)}`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      hidden + `</span></div>`;
+  }
   return html;
 }
 
@@ -279,13 +289,25 @@ function cycleLang() {
   saveState();
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
 }
+function dirLabel() {
+  return state.dir === "zh" ? "中→日" : "日→中";
+}
+function cycleDir() {
+  state.dir = state.dir === "zh" ? "ja" : "zh";
+  saveState();
+  document.getElementById("dir-btn").textContent = dirLabel();
+  const entry = state.timeline[state.timelinePos];
+  if (entry) displayEntry(entry);
+}
 
 window.addEventListener("DOMContentLoaded", async () => {
   loadState();
   document.getElementById("level-btn").textContent = state.level.toUpperCase();
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
+  document.getElementById("dir-btn").textContent = dirLabel();
   document.getElementById("level-btn").addEventListener("click", cycleLevel);
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
+  document.getElementById("dir-btn").addEventListener("click", cycleDir);
   document.querySelectorAll(".action").forEach(b =>
     b.addEventListener("click", () => render(b.dataset.action))
   );
