@@ -282,12 +282,18 @@ function cycleLevel() {
   state.level = LEVELS[(i + 1) % LEVELS.length];
   saveState();
   document.getElementById("level-btn").textContent = state.level.toUpperCase();
+  const entry = state.timeline[state.timelinePos];
+  if (entry && entry.kind !== "scene") {
+    render(entry.kind);
+  }
 }
 function cycleLang() {
   const i = LANGS.indexOf(state.lang);
   state.lang = LANGS[(i + 1) % LANGS.length];
   saveState();
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
+  const entry = state.timeline[state.timelinePos];
+  if (entry) displayEntry(entry);
 }
 function dirLabel() {
   return state.dir === "zh" ? "中→日" : "日→中";
