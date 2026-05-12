@@ -9,6 +9,7 @@ const STORIES = [
   { key: "jap004", title: "「祝祭村からの脱出」にまつわる記録" },
   { key: "jap005", title: "人から聞いた話 1" },
   { key: "jap006", title: "人から聞いた話 2" },
+  { key: "jap007", title: "教室に二人っきりなんて聞いてない！" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
