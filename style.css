@@ -215,6 +215,37 @@ main {
   transform: scale(0.95);
 }
 
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.nav-btn {
+  flex: 1;
+  background: var(--card);
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  border-radius: 8px;
+  padding: 10px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.05s, background 0.15s;
+}
+.nav-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  border-color: var(--border);
+  color: var(--muted);
+}
+.nav-btn:active:not(:disabled) {
+  transform: scale(0.97);
+  background: var(--accent-soft);
+}
+
 .spoiler {
   background: var(--spoiler);
   color: var(--spoiler);

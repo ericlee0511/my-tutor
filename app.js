@@ -17,7 +17,10 @@ let state = {
   lang: "en",
   story: null,
   history: {},
+  timeline: [],
+  timelinePos: -1,
 };
+const MAX_TIMELINE = 50;
 
 function loadState() {
   try {
@@ -133,6 +136,77 @@ function fmtScene(item, storyTitle) {
   return html;
 }
 
+function pushTimeline(kind, key, item) {
+  state.timeline.length = state.timelinePos + 1;
+  state.timeline.push({ kind, key, item });
+  state.timelinePos = state.timeline.length - 1;
+  while (state.timeline.length > MAX_TIMELINE) {
+    state.timeline.shift();
+    state.timelinePos--;
+  }
+  saveState();
+}
+
+function formatEntry(entry) {
+  if (entry.kind === "word") return fmtWord(entry.item);
+  if (entry.kind === "grammar") return fmtGrammar(entry.item);
+  if (entry.kind === "quiz") return fmtQuiz(entry.item);
+  if (entry.kind === "scene") {
+    const story = STORIES.find(s => s.key === entry.key);
+    return fmtScene(entry.item, story?.title || "");
+  }
+  return "";
+}
+
+function renderNav() {
+  const canPrev = state.timelinePos > 0;
+  return `<div class="nav-buttons">` +
+    `<button class="nav-btn" id="prev-btn" type="button" ${canPrev ? "" : "disabled"}>← Previous</button>` +
+    `<button class="nav-btn" id="next-btn" type="button">Next →</button>` +
+    `</div>`;
+}
+
+function displayEntry(entry) {
+  document.getElementById("content").innerHTML = formatEntry(entry) + renderNav();
+  if (entry.kind === "scene") {
+    document.querySelector(".story-switch")?.addEventListener("click", () => {
+      state.story = null;
+      saveState();
+      renderStoryPicker();
+    });
+  }
+  document.getElementById("prev-btn")?.addEventListener("click", prevTimeline);
+  document.getElementById("next-btn")?.addEventListener("click", nextTimeline);
+}
+
+function prevTimeline() {
+  if (state.timelinePos > 0) {
+    state.timelinePos--;
+    saveState();
+    displayEntry(state.timeline[state.timelinePos]);
+  }
+}
+
+function nextTimeline() {
+  if (state.timelinePos < state.timeline.length - 1) {
+    state.timelinePos++;
+    saveState();
+    displayEntry(state.timeline[state.timelinePos]);
+    return;
+  }
+  const last = state.timeline[state.timelinePos];
+  if (!last) return;
+  if (last.kind === "scene") {
+    const item = pickRandom(DATA.scenes, last.key, "scene");
+    if (item) { pushTimeline("scene", last.key, item); displayEntry(state.timeline[state.timelinePos]); }
+  } else {
+    const poolName = last.kind === "word" ? "vocab" : last.kind;
+    const histKind = last.kind === "word" ? "vocab" : last.kind;
+    const item = pickRandom(DATA[poolName], last.key, histKind);
+    if (item) { pushTimeline(last.kind, last.key, item); displayEntry(state.timeline[state.timelinePos]); }
+  }
+}
+
 function renderStoryPicker() {
   const c = document.getElementById("content");
   let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
@@ -164,30 +238,25 @@ function renderScene() {
     document.getElementById("content").innerHTML = "<div class='hint'>沒有資料</div>";
     return;
   }
-  const story = STORIES.find(s => s.key === state.story);
-  document.getElementById("content").innerHTML = fmtScene(item, story.title);
-  document.querySelector(".story-switch")?.addEventListener("click", () => {
-    state.story = null;
-    saveState();
-    renderStoryPicker();
-  });
+  pushTimeline("scene", state.story, item);
+  displayEntry(state.timeline[state.timelinePos]);
 }
 
 function render(action) {
   const c = document.getElementById("content");
-  let item, html;
+  let item;
   if (action === "word") {
     item = pickRandom(DATA.vocab, state.level, "vocab");
-    html = item ? fmtWord(item) : "<div class='hint'>沒有資料</div>";
-    c.innerHTML = html;
+    if (item) { pushTimeline("word", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "grammar") {
     item = pickRandom(DATA.grammar, state.level, "grammar");
-    html = item ? fmtGrammar(item) : "<div class='hint'>沒有資料</div>";
-    c.innerHTML = html;
+    if (item) { pushTimeline("grammar", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "quiz") {
     item = pickRandom(DATA.quiz, state.level, "quiz");
-    html = item ? fmtQuiz(item) : "<div class='hint'>沒有資料</div>";
-    c.innerHTML = html;
+    if (item) { pushTimeline("quiz", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "scene") {
     renderScene();
   }
