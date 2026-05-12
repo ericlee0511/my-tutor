@@ -7,6 +7,7 @@ const STORIES = [
   { key: "jap2", title: "修学旅行で仲良くないグループに入りました 2" },
   { key: "jap3", title: "消えた教室" },
   { key: "jap4", title: "「祝祭村からの脱出」にまつわる記録" },
+  { key: "jap5", title: "人から聞いた話 1" },
 ];
 
 let DATA = {};
