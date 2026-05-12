@@ -166,8 +166,8 @@ function formatEntry(entry) {
 function renderNav() {
   const canPrev = state.timelinePos > 0;
   return `<div class="nav-buttons">` +
-    `<button class="nav-btn" id="prev-btn" type="button" ${canPrev ? "" : "disabled"}>← Previous</button>` +
-    `<button class="nav-btn" id="next-btn" type="button">Next →</button>` +
+    `<button class="nav-btn" id="prev-btn" type="button" ${canPrev ? "" : "disabled"}>← 上一個</button>` +
+    `<button class="nav-btn" id="next-btn" type="button">下一個 →</button>` +
     `</div>`;
 }
 
