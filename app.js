@@ -19,6 +19,7 @@ const STORIES = [
   { key: "jap014", title: "猫になった魔法使い" },
   { key: "jap015", title: "ダブルテイクアウトー氷の王者と万年二位" },
   { key: "jap016", title: "探偵研究部。ーカケラノセカイー 1 うわさの新入生を追え！" },
+  { key: "jap017", title: "探偵研究部。ーカケラノセカイー 2 部室争奪戦！" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
