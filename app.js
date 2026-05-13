@@ -15,6 +15,8 @@ const STORIES = [
   { key: "jap010", title: "学校の七不思議" },
   { key: "jap011", title: "メロい恋とエモい言葉図鑑" },
   { key: "jap012", title: "遊園地は眠らない" },
+  { key: "jap013", title: "終電を逃した夜、猫が拾った記憶" },
+  { key: "jap014", title: "猫になった魔法使い" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
