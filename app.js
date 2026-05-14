@@ -35,6 +35,7 @@ const STORIES = [
   { key: "jap030", title: "お見合い結婚しましたーしばらくはセックスレスという約束で！" },
   { key: "jap031", title: "卒業アルバムに写る「知らない生徒」ー取材記録" },
   { key: "jap032", title: "料理男子、恋をする" },
+  { key: "jap033", title: "事故物件シークレット研究会" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
