@@ -38,6 +38,7 @@ const STORIES = [
   { key: "jap033", title: "事故物件シークレット研究会" },
   { key: "jap034", title: "記録ー2025年3月、川瀬家の83日間" },
   { key: "jap035", title: "〇という名字の人にお気を付けください" },
+  { key: "jap036", title: "名もなき剣に、雪が降るー天文蓮華戦乱記" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
