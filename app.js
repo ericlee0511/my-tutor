@@ -36,6 +36,7 @@ const STORIES = [
   { key: "jap031", title: "卒業アルバムに写る「知らない生徒」ー取材記録" },
   { key: "jap032", title: "料理男子、恋をする" },
   { key: "jap033", title: "事故物件シークレット研究会" },
+  { key: "jap034", title: "記録ー2025年3月、川瀬家の83日間" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
