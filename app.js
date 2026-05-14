@@ -26,6 +26,7 @@ const STORIES = [
   { key: "jap023", title: "先生、近づいても、いいですか。" },
   { key: "jap021", title: "言の葉の翠" },
   { key: "jap022", title: "言の葉の憶" },
+  { key: "jap024", title: "たった二文字の香りと重さ" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
