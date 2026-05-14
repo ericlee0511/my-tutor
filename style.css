@@ -257,12 +257,14 @@ main {
 .spoiler {
   background: var(--spoiler);
   color: var(--spoiler);
-  padding: 6px 10px;
+  padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
   display: inline-block;
   transition: background 0.2s, color 0.2s;
   user-select: none;
+  font-size: 1.15rem;
+  line-height: 1.6;
 }
 .spoiler::before { content: "👆 點擊顯示答案 / 翻譯"; color: #f3f4f6; }
 .spoiler.revealed {
