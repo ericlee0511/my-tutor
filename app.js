@@ -32,6 +32,7 @@ const STORIES = [
   { key: "jap027", title: "私にこの感情の名前を教えてください" },
   { key: "jap028", title: "キミのココロは何色ですか？" },
   { key: "jap029", title: "死んだ彼女が遺した日記" },
+  { key: "jap030", title: "お見合い結婚しましたーしばらくはセックスレスという約束で！" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
