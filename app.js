@@ -41,6 +41,7 @@ const STORIES = [
   { key: "jap036", title: "名もなき剣に、雪が降るー天文蓮華戦乱記" },
   { key: "jap037", title: "名もなき剣に、雪が降るー厳島影譚" },
   { key: "jap038", title: "サヨナラケイジ" },
+  { key: "jap039", title: "夏色に溶けた僕らの夢は" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 let DATA = {};
