@@ -1,6 +1,17 @@
-const LEVELS = ["n5", "n4", "n3", "n2", "n1"];
+const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
+
+const KOREAN_STORIES = [
+  { key: "topik01", title: "카페에서의 하루" },
+];
+
+function isTopik() { return state.level && state.level.startsWith("t"); }
+function activeStories() { return isTopik() ? KOREAN_STORIES : STORIES; }
+function activeVocab() { return isTopik() ? DATA.vocab_ko : DATA.vocab; }
+function activeGrammar() { return isTopik() ? DATA.grammar_ko : DATA.grammar; }
+function activeQuiz() { return isTopik() ? DATA.quiz_ko : DATA.quiz; }
+function activeScenes() { return isTopik() ? DATA.scenes_ko : DATA.scenes; }
 
 const STORIES = [
   { key: "jap001", title: "修学旅行で仲良くないグループに入りました 1" },
@@ -79,28 +90,42 @@ function saveState() {
 }
 
 async function loadData() {
+  const jpFixed = 3;
+  const koFixed = 3;
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),
     fetch("data/quiz.json").then(r => r.json()),
+    fetch("data/vocab_ko.json").then(r => r.json()),
+    fetch("data/grammar_ko.json").then(r => r.json()),
+    fetch("data/quiz_ko.json").then(r => r.json()),
     ...STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
+    ...KOREAN_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
   ]);
   DATA.vocab = loaded[0];
   DATA.grammar = loaded[1];
   DATA.quiz = loaded[2];
+  DATA.vocab_ko = loaded[3];
+  DATA.grammar_ko = loaded[4];
+  DATA.quiz_ko = loaded[5];
+  const jpStart = jpFixed + koFixed;
+  const koStart = jpStart + STORIES.length;
   DATA.scenes = {};
   STORIES.forEach((s, i) => {
-    DATA.scenes[s.key] = loaded[3 + i].all || [];
+    DATA.scenes[s.key] = loaded[jpStart + i].all || [];
+  });
+  DATA.scenes_ko = {};
+  KOREAN_STORIES.forEach((s, i) => {
+    DATA.scenes_ko[s.key] = loaded[koStart + i].all || [];
   });
   updateStats();
 }
 
 function updateStats() {
+  const sum = obj => Object.values(obj || {}).reduce((s, a) => s + a.length, 0);
   const total =
-    Object.values(DATA.vocab || {}).reduce((s, a) => s + a.length, 0) +
-    Object.values(DATA.grammar || {}).reduce((s, a) => s + a.length, 0) +
-    Object.values(DATA.quiz || {}).reduce((s, a) => s + a.length, 0) +
-    Object.values(DATA.scenes || {}).reduce((s, a) => s + a.length, 0);
+    sum(DATA.vocab) + sum(DATA.grammar) + sum(DATA.quiz) + sum(DATA.scenes) +
+    sum(DATA.vocab_ko) + sum(DATA.grammar_ko) + sum(DATA.quiz_ko) + sum(DATA.scenes_ko);
   document.getElementById("stats").textContent = `已載入 ${total} 項學習素材 · 離線可用`;
 }
 
@@ -169,6 +194,53 @@ function fmtQuiz(item) {
   return html;
 }
 
+function fmtWordKo(item) {
+  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  if (item.romanization) html += `<div class="kana">羅馬拼音: ${escapeHTML(item.romanization)}</div>`;
+  if (item.hanja && item.hanja !== "" && item.hanja !== "—") {
+    html += `<div><span class="label">漢字:</span> ${escapeHTML(item.hanja)}</div>`;
+  }
+  html += `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+    `<div class="ex">例: ${escapeHTML(item.example_ko)}<br>` +
+    `   → ${escapeHTML(item.example_zh)}</div>`;
+  return html;
+}
+
+function fmtGrammarKo(item) {
+  let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
+    `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+    `<div><span class="label">結構:</span> ${escapeHTML(item.structure)}</div>`;
+  (item.examples || []).forEach((ex, i) => {
+    html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.ko)}<br>` +
+      `   → ${escapeHTML(ex.zh)}</div>`;
+  });
+  return html;
+}
+
+function fmtQuizKo(item) {
+  const letters = ["A", "B", "C", "D"];
+  const ansLetter = letters[item.answer];
+  let html = `<div class="headword">❓ ${escapeHTML(item.question_ko)}</div><div class="options">`;
+  item.options.forEach((opt, i) => {
+    html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
+  });
+  html += `</div>` +
+    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
+  return html;
+}
+
+function fmtSceneKo(item, storyTitle) {
+  let html = `<div class="story-banner">` +
+    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
+    `<button class="story-switch" type="button">換故事</button>` +
+    `</div>`;
+  html += `<div class="headword">🎭 ${escapeHTML(item.ko)}</div>`;
+  html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `💬 ${escapeHTML(item.zh)}</span></div>`;
+  return html;
+}
+
 function fmtScene(item, storyTitle) {
   const dir = state.dir === "zh" ? "zh" : "ja";
   let html = `<div class="story-banner">` +
@@ -190,9 +262,9 @@ function fmtScene(item, storyTitle) {
   return html;
 }
 
-function pushTimeline(kind, key, item) {
+function pushTimeline(kind, key, item, topik) {
   state.timeline.length = state.timelinePos + 1;
-  state.timeline.push({ kind, key, item });
+  state.timeline.push({ kind, key, item, mode: topik ? "topik" : "jp" });
   state.timelinePos = state.timeline.length - 1;
   while (state.timeline.length > MAX_TIMELINE) {
     state.timeline.shift();
@@ -202,14 +274,19 @@ function pushTimeline(kind, key, item) {
 }
 
 function formatEntry(entry) {
-  if (entry.kind === "word") return fmtWord(entry.item);
-  if (entry.kind === "grammar") return fmtGrammar(entry.item);
-  if (entry.kind === "quiz") return fmtQuiz(entry.item);
+  const ko = entry.mode === "topik" ||
+    entry.item?.word || entry.item?.question_ko || entry.item?.ko ||
+    (entry.item?.examples && entry.item.examples[0]?.ko);
+  if (entry.kind === "word") return ko ? fmtWordKo(entry.item) : fmtWord(entry.item);
+  if (entry.kind === "grammar") return ko ? fmtGrammarKo(entry.item) : fmtGrammar(entry.item);
+  if (entry.kind === "quiz") return ko ? fmtQuizKo(entry.item) : fmtQuiz(entry.item);
   if (entry.kind === "scene") {
-    const idx = STORIES.findIndex(s => s.key === entry.key);
-    const story = STORIES[idx];
+    const list = ko ? KOREAN_STORIES : STORIES;
+    const idx = list.findIndex(s => s.key === entry.key);
+    const story = list[idx];
     const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + ". " : "";
-    return fmtScene(entry.item, num + (story?.title || ""));
+    return ko ? fmtSceneKo(entry.item, num + (story?.title || ""))
+              : fmtScene(entry.item, num + (story?.title || ""));
   }
   return "";
 }
@@ -252,23 +329,29 @@ function nextTimeline() {
   }
   const last = state.timeline[state.timelinePos];
   if (!last) return;
+  const topik = last.mode === "topik";
   if (last.kind === "scene") {
-    const item = pickRandom(DATA.scenes, last.key, "scene");
-    if (item) { pushTimeline("scene", last.key, item); displayEntry(state.timeline[state.timelinePos]); }
+    const pool = topik ? DATA.scenes_ko : DATA.scenes;
+    const item = pickRandom(pool, last.key, "scene");
+    if (item) { pushTimeline("scene", last.key, item, topik); displayEntry(state.timeline[state.timelinePos]); }
   } else {
-    const poolName = last.kind === "word" ? "vocab" : last.kind;
+    const poolMap = topik
+      ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko }
+      : { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
     const histKind = last.kind === "word" ? "vocab" : last.kind;
-    const item = pickRandom(DATA[poolName], last.key, histKind);
-    if (item) { pushTimeline(last.kind, last.key, item); displayEntry(state.timeline[state.timelinePos]); }
+    const item = pickRandom(poolMap[last.kind], last.key, histKind);
+    if (item) { pushTimeline(last.kind, last.key, item, topik); displayEntry(state.timeline[state.timelinePos]); }
   }
 }
 
 function renderStoryPicker() {
   const c = document.getElementById("content");
+  const stories = activeStories();
+  const scenesData = activeScenes();
   let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
-  STORIES.forEach((s, i) => {
+  stories.forEach((s, i) => {
     const num = String(i + 1).padStart(2, "0");
-    const count = (DATA.scenes?.[s.key] || []).length;
+    const count = (scenesData?.[s.key] || []).length;
     html += `<button class="story-option" type="button" data-key="${s.key}">` +
       `<span class="story-option-title">${num}. ${escapeHTML(s.title)}</span>` +
       `<span class="story-option-count">${count} 句</span>` +
@@ -286,33 +369,35 @@ function renderStoryPicker() {
 }
 
 function renderScene() {
-  if (!state.story || !DATA.scenes?.[state.story]) {
+  const scenesData = activeScenes();
+  if (!state.story || !scenesData?.[state.story]) {
     renderStoryPicker();
     return;
   }
-  const item = pickRandom(DATA.scenes, state.story, "scene");
+  const item = pickRandom(scenesData, state.story, "scene");
   if (!item) {
     document.getElementById("content").innerHTML = "<div class='hint'>沒有資料</div>";
     return;
   }
-  pushTimeline("scene", state.story, item);
+  pushTimeline("scene", state.story, item, isTopik());
   displayEntry(state.timeline[state.timelinePos]);
 }
 
 function render(action) {
   const c = document.getElementById("content");
+  const topik = isTopik();
   let item;
   if (action === "word") {
-    item = pickRandom(DATA.vocab, state.level, "vocab");
-    if (item) { pushTimeline("word", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeVocab(), state.level, "vocab");
+    if (item) { pushTimeline("word", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "grammar") {
-    item = pickRandom(DATA.grammar, state.level, "grammar");
-    if (item) { pushTimeline("grammar", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeGrammar(), state.level, "grammar");
+    if (item) { pushTimeline("grammar", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "quiz") {
-    item = pickRandom(DATA.quiz, state.level, "quiz");
-    if (item) { pushTimeline("quiz", state.level, item); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeQuiz(), state.level, "quiz");
+    if (item) { pushTimeline("quiz", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "scene") {
     renderScene();
@@ -320,14 +405,27 @@ function render(action) {
 }
 
 function cycleLevel() {
-  const i = LEVELS.indexOf(state.level);
+  const prev = state.level;
+  const i = LEVELS.indexOf(prev);
   state.level = LEVELS[(i + 1) % LEVELS.length];
+  if (isTopik() !== prev.startsWith("t")) {
+    state.story = null;
+  }
   saveState();
   document.getElementById("level-btn").textContent = state.level.toUpperCase();
+  updateModeToggles();
   const entry = state.timeline[state.timelinePos];
   if (entry && entry.kind !== "scene") {
     render(entry.kind);
   }
+}
+
+function updateModeToggles() {
+  const topik = isTopik();
+  const langBtn = document.getElementById("lang-btn");
+  const dirBtn = document.getElementById("dir-btn");
+  if (langBtn) langBtn.style.display = topik ? "none" : "";
+  if (dirBtn) dirBtn.style.display = topik ? "none" : "";
 }
 function cycleLang() {
   const i = LANGS.indexOf(state.lang);
@@ -353,6 +451,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("level-btn").textContent = state.level.toUpperCase();
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
   document.getElementById("dir-btn").textContent = dirLabel();
+  updateModeToggles();
   document.getElementById("level-btn").addEventListener("click", cycleLevel);
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
