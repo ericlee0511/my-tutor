@@ -110,19 +110,19 @@ main {
   min-height: 0;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  font-size: 16px;
+  font-size: 14px;
   word-break: break-word;
   white-space: pre-wrap;
 }
 #content .headword {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
-  margin: 0 0 8px;
+  margin: 0 0 6px;
 }
 #content .kana {
   color: var(--muted);
-  font-size: 14px;
-  margin-bottom: 12px;
+  font-size: 13px;
+  margin-bottom: 10px;
 }
 #content .label {
   color: var(--muted);
@@ -265,7 +265,7 @@ main {
   box-sizing: border-box;
   transition: background 0.2s, color 0.2s;
   user-select: none;
-  font-size: 1.15rem;
+  font-size: 1rem;
   line-height: 1.6em;
   height: calc(3.2em + 16px);
   min-height: calc(3.2em + 16px);
