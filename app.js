@@ -7,6 +7,10 @@ const KOREAN_STORIES = [
 ];
 
 function isTopik() { return state.level && state.level.startsWith("t"); }
+function levelLabel(lvl) {
+  if (lvl && lvl.startsWith("t")) return "TOPIK " + lvl.slice(1);
+  return (lvl || "").toUpperCase();
+}
 function activeStories() { return isTopik() ? KOREAN_STORIES : STORIES; }
 function activeVocab() { return isTopik() ? DATA.vocab_ko : DATA.vocab; }
 function activeGrammar() { return isTopik() ? DATA.grammar_ko : DATA.grammar; }
@@ -412,7 +416,7 @@ function cycleLevel() {
     state.story = null;
   }
   saveState();
-  document.getElementById("level-btn").textContent = state.level.toUpperCase();
+  document.getElementById("level-btn").textContent = levelLabel(state.level);
   updateModeToggles();
   const entry = state.timeline[state.timelinePos];
   if (entry && entry.kind !== "scene") {
@@ -448,7 +452,7 @@ function cycleDir() {
 
 window.addEventListener("DOMContentLoaded", async () => {
   loadState();
-  document.getElementById("level-btn").textContent = state.level.toUpperCase();
+  document.getElementById("level-btn").textContent = levelLabel(state.level);
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
   document.getElementById("dir-btn").textContent = dirLabel();
   updateModeToggles();
