@@ -4,6 +4,26 @@ const STORAGE_KEY = "jp_tutor_state";
 
 const KOREAN_STORIES = [
   { key: "topik01", title: "카페에서의 하루" },
+  { key: "topik02", title: "학교에서의 첫날" },
+  { key: "topik03", title: "친구 집 방문" },
+  { key: "topik04", title: "시장에서 쇼핑" },
+  { key: "topik05", title: "한국 음식 만들기" },
+  { key: "topik06", title: "우리 가족 소개" },
+  { key: "topik07", title: "주말 계획" },
+  { key: "topik08", title: "한국어 수업" },
+  { key: "topik09", title: "카페에서의 만남" },
+  { key: "topik10", title: "도서관에서" },
+  { key: "topik11", title: "영화 보러 가는 날" },
+  { key: "topik12", title: "생일 파티" },
+  { key: "topik13", title: "비 오는 날" },
+  { key: "topik14", title: "공원 산책" },
+  { key: "topik15", title: "새 친구 만나기" },
+  { key: "topik16", title: "동물원 가기" },
+  { key: "topik17", title: "한국 슈퍼마켓" },
+  { key: "topik18", title: "길 물어보기" },
+  { key: "topik19", title: "미용실에서" },
+  { key: "topik20", title: "병원 방문" },
+  { key: "topik21", title: "식당 예약" },
 ];
 
 function isTopik() { return state.level && state.level.startsWith("t"); }
