@@ -204,8 +204,10 @@ function formatEntry(entry) {
   if (entry.kind === "grammar") return fmtGrammar(entry.item);
   if (entry.kind === "quiz") return fmtQuiz(entry.item);
   if (entry.kind === "scene") {
-    const story = STORIES.find(s => s.key === entry.key);
-    return fmtScene(entry.item, story?.title || "");
+    const idx = STORIES.findIndex(s => s.key === entry.key);
+    const story = STORIES[idx];
+    const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + ". " : "";
+    return fmtScene(entry.item, num + (story?.title || ""));
   }
   return "";
 }
@@ -262,10 +264,11 @@ function nextTimeline() {
 function renderStoryPicker() {
   const c = document.getElementById("content");
   let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
-  STORIES.forEach(s => {
+  STORIES.forEach((s, i) => {
+    const num = String(i + 1).padStart(2, "0");
     const count = (DATA.scenes?.[s.key] || []).length;
     html += `<button class="story-option" type="button" data-key="${s.key}">` +
-      `<span class="story-option-title">${escapeHTML(s.title)}</span>` +
+      `<span class="story-option-title">${num}. ${escapeHTML(s.title)}</span>` +
       `<span class="story-option-count">${count} 句</span>` +
       `</button>`;
   });
