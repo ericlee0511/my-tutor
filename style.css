@@ -260,23 +260,37 @@ main {
   padding: 8px 12px;
   border-radius: 8px;
   cursor: pointer;
-  display: inline-block;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
   transition: background 0.2s, color 0.2s;
   user-select: none;
   font-size: 1.15rem;
-  line-height: 1.6;
-  height: calc(1.15rem * 1.6 * 2);
+  line-height: 1.6em;
+  height: calc(3.2em + 16px);
+  min-height: calc(3.2em + 16px);
+  max-height: calc(3.2em + 16px);
   overflow: hidden;
   vertical-align: top;
+  position: relative;
 }
-.spoiler::before { content: "👆 點擊顯示答案 / 翻譯"; color: #f3f4f6; }
+.spoiler::before {
+  content: "👆 點擊顯示答案 / 翻譯";
+  color: #f3f4f6;
+  display: block;
+  position: absolute;
+  inset: 8px 12px;
+  pointer-events: none;
+}
 .spoiler.revealed {
   background: var(--accent-soft);
   color: var(--text);
   height: auto;
+  min-height: 0;
+  max-height: none;
   overflow: visible;
 }
-.spoiler.revealed::before { content: ""; }
+.spoiler.revealed::before { content: ""; display: none; }
 
 footer {
   padding: 8px 16px;
