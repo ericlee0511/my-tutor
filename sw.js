@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v79";
+const CACHE = "jp-tutor-v80";
 const ASSETS = [
   "./",
   "./index.html",
@@ -34,6 +34,18 @@ const ASSETS = [
   "./data/scenes_topik19.json",
   "./data/scenes_topik20.json",
   "./data/scenes_topik21.json",
+  "./data/scenes_topik22.json",
+  "./data/scenes_topik23.json",
+  "./data/scenes_topik24.json",
+  "./data/scenes_topik25.json",
+  "./data/scenes_topik26.json",
+  "./data/scenes_topik27.json",
+  "./data/scenes_topik28.json",
+  "./data/scenes_topik29.json",
+  "./data/scenes_topik30.json",
+  "./data/scenes_topik31.json",
+  "./data/scenes_topik32.json",
+  "./data/scenes_topik33.json",
   "./data/scenes_jap001.json",
   "./data/scenes_jap002.json",
   "./data/scenes_jap003.json",
