@@ -265,7 +265,7 @@ main {
   box-sizing: border-box;
   transition: background 0.2s, color 0.2s;
   user-select: none;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.6em;
   height: calc(3.2em + 16px);
   min-height: calc(3.2em + 16px);
