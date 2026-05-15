@@ -65,6 +65,17 @@ const KOREAN_STORIES = [
   { key: "topik60", title: "한국 카페에서 친구와 깊은 이야기" },
   { key: "topik61", title: "봉사 활동에 처음 참여하기" },
   { key: "topik62", title: "제주도 3박 4일 여행" },
+  { key: "topik63", title: "한국 회사에서 프로젝트 매니저로 일하기" },
+  { key: "topik64", title: "한국 대학원 입학 면접" },
+  { key: "topik65", title: "한국에서 부동산 매매 계약" },
+  { key: "topik66", title: "외국인 등록증 갱신과 비자 변경" },
+  { key: "topik67", title: "친구들과 정치 토론" },
+  { key: "topik68", title: "환경 보호 캠페인 기획" },
+  { key: "topik69", title: "스타트업 창업 도전" },
+  { key: "topik70", title: "국제 학회에서 논문 발표" },
+  { key: "topik71", title: "의료 분쟁 해결" },
+  { key: "topik72", title: "한국 드라마 제작 현장 인턴십" },
+  { key: "topik73", title: "비영리 단체 봉사 활동 운영" },
 ];
 
 function isTopik() { return state.level && state.level.startsWith("t"); }
