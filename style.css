@@ -265,11 +265,16 @@ main {
   user-select: none;
   font-size: 1.15rem;
   line-height: 1.6;
+  height: calc(1.15rem * 1.6 * 2);
+  overflow: hidden;
+  vertical-align: top;
 }
 .spoiler::before { content: "👆 點擊顯示答案 / 翻譯"; color: #f3f4f6; }
 .spoiler.revealed {
   background: var(--accent-soft);
   color: var(--text);
+  height: auto;
+  overflow: visible;
 }
 .spoiler.revealed::before { content: ""; }
 
