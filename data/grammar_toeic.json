@@ -2234,6 +2234,1176 @@
           "zh": "本季客訴客戶減少，因為支援團隊花在轉接保留上的時間較少。"
         }
       ]
+    },
+    {
+      "pattern": "Subjunctive after recommend (recommend that S + (should) V)",
+      "meaning_zh": "在 recommend 之後接 that 子句時，動詞使用原形（should 可省略），表示建議。",
+      "structure": "S + recommend + that + S + (should) + V(原形)",
+      "examples": [
+        {
+          "en": "The auditor recommends that the company hire an external consultant.",
+          "zh": "稽核員建議公司聘請一位外部顧問。"
+        },
+        {
+          "en": "We recommend that every employee attend the compliance training.",
+          "zh": "我們建議每位員工都參加合規訓練。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjunctive after insist (insist that S + (should) V)",
+      "meaning_zh": "在 insist 之後接 that 子句時，動詞使用原形，強調堅持要求。",
+      "structure": "S + insist + that + S + (should) + V(原形)",
+      "examples": [
+        {
+          "en": "The CEO insisted that the report be submitted by Friday.",
+          "zh": "執行長堅持該報告必須在週五前提交。"
+        },
+        {
+          "en": "Investors insist that the board disclose all relevant risks.",
+          "zh": "投資人堅持董事會揭露所有相關風險。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjunctive after suggest (suggest that S + (should) V)",
+      "meaning_zh": "在 suggest 之後的 that 子句中使用動詞原形，表示提議。",
+      "structure": "S + suggest + that + S + (should) + V(原形)",
+      "examples": [
+        {
+          "en": "The manager suggested that the team reduce overtime hours.",
+          "zh": "經理建議團隊減少加班時數。"
+        },
+        {
+          "en": "She suggested that the company adopt a flexible work policy.",
+          "zh": "她建議公司採用彈性工作政策。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjunctive after demand (demand that S + (should) V)",
+      "meaning_zh": "demand 後接 that 子句，動詞用原形，表強烈要求。",
+      "structure": "S + demand + that + S + (should) + V(原形)",
+      "examples": [
+        {
+          "en": "Shareholders demand that the CFO explain the quarterly losses.",
+          "zh": "股東要求財務長解釋季度虧損。"
+        },
+        {
+          "en": "Regulators demanded that the bank revise its risk model.",
+          "zh": "監管機構要求銀行修訂其風險模型。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjunctive with adjectives (It is essential that S + V)",
+      "meaning_zh": "用 It is + 重要性形容詞 + that 子句，動詞用原形。",
+      "structure": "It + be + essential/important/necessary + that + S + V(原形)",
+      "examples": [
+        {
+          "en": "It is essential that the contract be reviewed before signing.",
+          "zh": "在簽署前審閱該合約是不可或缺的。"
+        },
+        {
+          "en": "It is important that every supplier comply with our standards.",
+          "zh": "每家供應商遵守我們的標準是很重要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Second conditional (If + past, would + V)",
+      "meaning_zh": "第二類條件句，表示與現在事實相反的假設。",
+      "structure": "If + S + V(過去式), S + would/could/might + V(原形)",
+      "examples": [
+        {
+          "en": "If we lowered our prices, we would attract more clients.",
+          "zh": "如果我們調降價格，就會吸引更多客戶。"
+        },
+        {
+          "en": "If the office were closer, I would commute by bicycle.",
+          "zh": "如果辦公室再近一點，我就會騎腳踏車通勤。"
+        }
+      ]
+    },
+    {
+      "pattern": "Third conditional (If + past perfect, would have + p.p.)",
+      "meaning_zh": "第三類條件句，表示與過去事實相反的假設。",
+      "structure": "If + S + had + p.p., S + would/could/might + have + p.p.",
+      "examples": [
+        {
+          "en": "If we had launched earlier, we would have captured more market share.",
+          "zh": "如果我們提早上市，就會搶下更多市占率。"
+        },
+        {
+          "en": "If the supplier had delivered on time, the project would have succeeded.",
+          "zh": "若供應商準時交貨，這項專案就會成功。"
+        }
+      ]
+    },
+    {
+      "pattern": "Wish + past simple (present wish)",
+      "meaning_zh": "wish 後接過去式，表示與現在事實相反的願望。",
+      "structure": "S + wish + (that) + S + V(過去式)",
+      "examples": [
+        {
+          "en": "I wish our office had a better cafeteria for clients.",
+          "zh": "我希望我們辦公室有更好的客戶餐廳。"
+        },
+        {
+          "en": "She wishes the budget allowed for additional training sessions.",
+          "zh": "她希望預算能容許更多場訓練課程。"
+        }
+      ]
+    },
+    {
+      "pattern": "Wish + past perfect (past regret)",
+      "meaning_zh": "wish 後接過去完成式，表示對過去事實的遺憾。",
+      "structure": "S + wish + (that) + S + had + p.p.",
+      "examples": [
+        {
+          "en": "I wish I had attended the trade fair in Tokyo last month.",
+          "zh": "我真希望上個月有去參加東京的貿易展。"
+        },
+        {
+          "en": "The CEO wishes he had approved the merger proposal earlier.",
+          "zh": "執行長後悔當初沒有早點批准併購提案。"
+        }
+      ]
+    },
+    {
+      "pattern": "If only + past perfect",
+      "meaning_zh": "If only 表達強烈的悔恨或遺憾，比 wish 語氣更強。",
+      "structure": "If only + S + had + p.p.",
+      "examples": [
+        {
+          "en": "If only we had diversified our investments before the downturn.",
+          "zh": "要是我們在景氣下滑前分散投資就好了。"
+        },
+        {
+          "en": "If only the marketing team had launched the campaign in spring.",
+          "zh": "要是行銷團隊在春天就推出活動該有多好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with Hardly...when",
+      "meaning_zh": "Hardly 置句首倒裝，表示「一…就…」。",
+      "structure": "Hardly + had + S + p.p. + when + S + V(過去式)",
+      "examples": [
+        {
+          "en": "Hardly had the meeting started when the system crashed.",
+          "zh": "會議才剛開始系統就當機了。"
+        },
+        {
+          "en": "Hardly had we signed the contract when the supplier raised prices.",
+          "zh": "我們才剛簽完合約供應商就漲價了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with Not until",
+      "meaning_zh": "Not until 置句首時，主要子句需倒裝。",
+      "structure": "Not until + 時間/子句 + 助動詞 + S + V",
+      "examples": [
+        {
+          "en": "Not until the audit was complete did we release the financial report.",
+          "zh": "直到稽核完成我們才公布財務報告。"
+        },
+        {
+          "en": "Not until last week did the client confirm the order.",
+          "zh": "直到上週客戶才確認訂單。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with Only after",
+      "meaning_zh": "Only after 置句首時，主要子句需倒裝。",
+      "structure": "Only after + 子句/N + 助動詞 + S + V",
+      "examples": [
+        {
+          "en": "Only after the prototype passed testing did we launch production.",
+          "zh": "原型通過測試後我們才啟動量產。"
+        },
+        {
+          "en": "Only after lengthy negotiations did the two firms reach an agreement.",
+          "zh": "經過冗長談判後兩家公司才達成協議。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with Never (Never have I seen)",
+      "meaning_zh": "否定副詞 never 置句首時需倒裝，加強語氣。",
+      "structure": "Never + 助動詞 + S + V",
+      "examples": [
+        {
+          "en": "Never have we seen such strong demand for our flagship product.",
+          "zh": "我們從未看過旗艦產品有如此強勁的需求。"
+        },
+        {
+          "en": "Never had the company faced such a serious cash flow crisis.",
+          "zh": "公司從未面臨過如此嚴重的現金流危機。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with No sooner...than",
+      "meaning_zh": "No sooner 置句首倒裝，意指「一…就…」。",
+      "structure": "No sooner + had + S + p.p. + than + S + V(過去式)",
+      "examples": [
+        {
+          "en": "No sooner had we announced the product than orders began pouring in.",
+          "zh": "我們才剛宣布新產品訂單就湧入。"
+        },
+        {
+          "en": "No sooner had the keynote ended than reporters surrounded the CEO.",
+          "zh": "主題演講才剛結束記者就包圍了執行長。"
+        }
+      ]
+    },
+    {
+      "pattern": "Cleft sentence (It was X that...)",
+      "meaning_zh": "分裂句強調特定成分，常用 It was/is...that... 結構。",
+      "structure": "It + be + 強調部分 + that/who + 其餘子句",
+      "examples": [
+        {
+          "en": "It was the marketing director who proposed the rebranding strategy.",
+          "zh": "是行銷總監提出了品牌重塑策略。"
+        },
+        {
+          "en": "It was at the annual conference that we first met our partners.",
+          "zh": "我們是在年度大會上第一次與合作夥伴見面的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Cleft sentence with What (What S V is/was...)",
+      "meaning_zh": "用 What 子句作主詞，強調某事物。",
+      "structure": "What + S + V + is/was + 被強調的部分",
+      "examples": [
+        {
+          "en": "What we need is a clear roadmap for the next fiscal year.",
+          "zh": "我們需要的是下個會計年度的明確路線圖。"
+        },
+        {
+          "en": "What impressed the board was the team's transparent reporting.",
+          "zh": "讓董事會印象深刻的是團隊透明的回報方式。"
+        }
+      ]
+    },
+    {
+      "pattern": "So + adj + that (so...that 結構)",
+      "meaning_zh": "so + 形容詞 + that 表示「如此…以致於…」。",
+      "structure": "S + be + so + adj + that + 子句",
+      "examples": [
+        {
+          "en": "The demand was so high that we had to expand the warehouse.",
+          "zh": "需求量如此之大以致於我們必須擴建倉庫。"
+        },
+        {
+          "en": "The contract terms were so favorable that we signed immediately.",
+          "zh": "合約條款如此優惠以致於我們立即簽約。"
+        }
+      ]
+    },
+    {
+      "pattern": "Such + (a/an) + adj + N + that",
+      "meaning_zh": "such + 名詞片語 + that 表示「如此的…以致於…」。",
+      "structure": "S + be + such + (a/an) + adj + N + that + 子句",
+      "examples": [
+        {
+          "en": "It was such a successful launch that competitors took notice.",
+          "zh": "那是如此成功的發表會以致於競爭對手都注意到了。"
+        },
+        {
+          "en": "She is such a skilled negotiator that clients always trust her.",
+          "zh": "她是如此熟練的談判者以致於客戶總是信任她。"
+        }
+      ]
+    },
+    {
+      "pattern": "Too + adj + to + V",
+      "meaning_zh": "too…to… 表「太…而不能…」。",
+      "structure": "S + be + too + adj + (for sb) + to + V",
+      "examples": [
+        {
+          "en": "The proposal is too risky to approve without further analysis.",
+          "zh": "該提案風險過高，未經進一步分析無法批准。"
+        },
+        {
+          "en": "The deadline is too tight for the team to finish the prototype.",
+          "zh": "期限太緊，團隊無法完成原型。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adj + enough + to + V",
+      "meaning_zh": "enough + to 表示「足夠…去做…」。",
+      "structure": "S + be + adj + enough + to + V",
+      "examples": [
+        {
+          "en": "Our reserves are large enough to cover six months of operations.",
+          "zh": "我們的儲備金足以支應六個月的營運。"
+        },
+        {
+          "en": "The candidate is experienced enough to lead the regional office.",
+          "zh": "這位候選人經驗充足，足以領導區域辦公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "The more...the more (越…越…)",
+      "meaning_zh": "兩個比較級並列，表示一者改變另一者隨之改變。",
+      "structure": "The + 比較級 + S + V, the + 比較級 + S + V",
+      "examples": [
+        {
+          "en": "The more transparent the company is, the more investors trust it.",
+          "zh": "公司越透明，投資人就越信任。"
+        },
+        {
+          "en": "The harder the team works, the better the quarterly results become.",
+          "zh": "團隊越努力，季度業績就越好。"
+        }
+      ]
+    },
+    {
+      "pattern": "As if / As though (彷彿)",
+      "meaning_zh": "As if / As though 後接過去式，表示與事實相反的假設。",
+      "structure": "S + V + as if/as though + S + V(過去式)",
+      "examples": [
+        {
+          "en": "He talks as if he owned the entire company himself.",
+          "zh": "他講話彷彿整間公司都是他的一樣。"
+        },
+        {
+          "en": "She presented the figures as though she had personally audited them.",
+          "zh": "她報告數字時彷彿親自稽核過一般。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive with modal verbs (can/should be + p.p.)",
+      "meaning_zh": "情態助動詞 + be + 過去分詞，構成情態被動語態。",
+      "structure": "S + modal + be + p.p.",
+      "examples": [
+        {
+          "en": "All invoices must be approved by the finance department.",
+          "zh": "所有發票都必須由財務部批准。"
+        },
+        {
+          "en": "Confidential files should be stored in the secure server.",
+          "zh": "機密檔案應存放在安全伺服器中。"
+        }
+      ]
+    },
+    {
+      "pattern": "Perfect passive (has/have been + p.p.)",
+      "meaning_zh": "現在完成被動語態，表示動作已完成且影響至今。",
+      "structure": "S + have/has + been + p.p.",
+      "examples": [
+        {
+          "en": "The merger proposal has been reviewed by all board members.",
+          "zh": "併購提案已被所有董事審閱過。"
+        },
+        {
+          "en": "Several new policies have been implemented since last quarter.",
+          "zh": "自上一季以來已實施數項新政策。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past perfect passive (had been + p.p.)",
+      "meaning_zh": "過去完成被動，表示在過去某時點前已完成的被動動作。",
+      "structure": "S + had + been + p.p.",
+      "examples": [
+        {
+          "en": "By the time we arrived, the contract had already been signed.",
+          "zh": "我們抵達時，合約已經簽署完成了。"
+        },
+        {
+          "en": "The data had been encrypted before the breach was reported.",
+          "zh": "資料在外洩通報之前就已被加密。"
+        }
+      ]
+    },
+    {
+      "pattern": "Future passive (will be + p.p.)",
+      "meaning_zh": "未來被動語態，表示將來會發生的被動動作。",
+      "structure": "S + will + be + p.p.",
+      "examples": [
+        {
+          "en": "The annual report will be released next Monday morning.",
+          "zh": "年度報告將於下週一上午發布。"
+        },
+        {
+          "en": "All employees will be notified about the policy change tomorrow.",
+          "zh": "所有員工明天將被通知政策變動。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative have (have sth done)",
+      "meaning_zh": "have + 受詞 + 過去分詞，表示請別人做某事。",
+      "structure": "S + have + O + p.p.",
+      "examples": [
+        {
+          "en": "We had the office renovated before the grand opening.",
+          "zh": "在隆重開幕之前我們請人翻新了辦公室。"
+        },
+        {
+          "en": "The company has its financial statements audited every year.",
+          "zh": "公司每年都委託他人稽核財務報表。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative get (get sth done)",
+      "meaning_zh": "get + 受詞 + 過去分詞，口語上常代替 have，表示請別人完成某事。",
+      "structure": "S + get + O + p.p.",
+      "examples": [
+        {
+          "en": "We got the contracts translated into three languages overnight.",
+          "zh": "我們一夜之間把合約翻譯成三種語言。"
+        },
+        {
+          "en": "She got the presentation slides reviewed before the meeting.",
+          "zh": "她在會議前請人審閱了簡報投影片。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative make (make sb do)",
+      "meaning_zh": "make + 受詞 + 原形動詞，表示「使某人做某事」。",
+      "structure": "S + make + O + V(原形)",
+      "examples": [
+        {
+          "en": "The new policy makes managers report their progress weekly.",
+          "zh": "新政策要求經理們每週回報進度。"
+        },
+        {
+          "en": "The CEO made the team rework the entire marketing plan.",
+          "zh": "執行長要求團隊重做整個行銷計畫。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative let (let sb do)",
+      "meaning_zh": "let + 受詞 + 原形動詞，表示「讓某人做某事」。",
+      "structure": "S + let + O + V(原形)",
+      "examples": [
+        {
+          "en": "The supervisor let the interns join the strategy meeting.",
+          "zh": "主管讓實習生加入策略會議。"
+        },
+        {
+          "en": "Please let the assistant handle the travel arrangements.",
+          "zh": "請讓助理處理差旅安排。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative have sb do (have sb do)",
+      "meaning_zh": "have + 受詞 + 原形動詞，表示「請或安排某人做某事」。",
+      "structure": "S + have + O + V(原形)",
+      "examples": [
+        {
+          "en": "The director had the team present the results to investors.",
+          "zh": "總監請團隊向投資人簡報結果。"
+        },
+        {
+          "en": "We had the consultant audit our internal workflow last week.",
+          "zh": "我們上週請顧問稽核了我們的內部流程。"
+        }
+      ]
+    },
+    {
+      "pattern": "Help sb (to) do (help 後可省略 to)",
+      "meaning_zh": "help + 受詞 + (to) + 原形動詞，表示「幫助某人做某事」。",
+      "structure": "S + help + O + (to) + V(原形)",
+      "examples": [
+        {
+          "en": "Our mentor helped us draft the investor pitch deck.",
+          "zh": "我們的導師幫我們撰寫投資人簡報。"
+        },
+        {
+          "en": "The software helps employees track project deadlines easily.",
+          "zh": "這套軟體幫助員工輕鬆追蹤專案期限。"
+        }
+      ]
+    },
+    {
+      "pattern": "Participial phrase as adverbial (V-ing 分詞構句)",
+      "meaning_zh": "用現在分詞短語作狀語，表示同時或原因。",
+      "structure": "V-ing + ..., S + V",
+      "examples": [
+        {
+          "en": "Walking into the meeting, the CEO greeted every attendee warmly.",
+          "zh": "走進會議室時，執行長熱情地問候每位與會者。"
+        },
+        {
+          "en": "Seeing the strong sales figures, the board approved the bonuses.",
+          "zh": "看到強勁的銷售數字後，董事會批准了獎金。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past participial phrase (p.p. 被動分詞構句)",
+      "meaning_zh": "用過去分詞短語作狀語，表示被動意義。",
+      "structure": "p.p. + ..., S + V",
+      "examples": [
+        {
+          "en": "Founded in 1995, the company has grown into a global brand.",
+          "zh": "該公司創立於 1995 年，已成長為國際品牌。"
+        },
+        {
+          "en": "Impressed by the demo, the client signed a long-term contract.",
+          "zh": "被展示打動後，客戶簽署了長期合約。"
+        }
+      ]
+    },
+    {
+      "pattern": "Reduced relative clause with V-ing (進行式關係子句省略)",
+      "meaning_zh": "關係子句省略 which/who + be，留下 V-ing。",
+      "structure": "N + V-ing + ...",
+      "examples": [
+        {
+          "en": "The employees working on the new product are receiving extra training.",
+          "zh": "正在研發新產品的員工正接受額外訓練。"
+        },
+        {
+          "en": "Companies investing in green energy attract socially responsible funds.",
+          "zh": "投資綠能的公司吸引社會責任型基金。"
+        }
+      ]
+    },
+    {
+      "pattern": "Reduced relative clause with p.p.",
+      "meaning_zh": "關係子句省略 which/who + be，留下過去分詞。",
+      "structure": "N + p.p. + ...",
+      "examples": [
+        {
+          "en": "All documents submitted before the deadline will be processed first.",
+          "zh": "在截止日期前提交的所有文件將優先處理。"
+        },
+        {
+          "en": "Employees promoted last year received a special performance bonus.",
+          "zh": "去年獲晉升的員工領取了特別績效獎金。"
+        }
+      ]
+    },
+    {
+      "pattern": "Noun clause as subject (That 子句作主詞)",
+      "meaning_zh": "That 子句可作為句子的主詞。",
+      "structure": "That + S + V + V + ...",
+      "examples": [
+        {
+          "en": "That the merger was approved came as no surprise to analysts.",
+          "zh": "併購獲批這件事對分析師來說並不意外。"
+        },
+        {
+          "en": "That the company met its annual targets pleased the shareholders.",
+          "zh": "公司達成年度目標一事令股東滿意。"
+        }
+      ]
+    },
+    {
+      "pattern": "Noun clause as object (Whether 子句作受詞)",
+      "meaning_zh": "Whether 子句可作為動詞的受詞，表「是否」。",
+      "structure": "S + V + whether + S + V",
+      "examples": [
+        {
+          "en": "The committee will decide whether to extend the contract next month.",
+          "zh": "委員會將於下個月決定是否延長合約。"
+        },
+        {
+          "en": "We need to determine whether the new strategy is cost-effective.",
+          "zh": "我們需要判斷新策略是否具成本效益。"
+        }
+      ]
+    },
+    {
+      "pattern": "Noun clause as complement (The truth is that...)",
+      "meaning_zh": "That 子句可作為主詞補語。",
+      "structure": "S + be + that + S + V",
+      "examples": [
+        {
+          "en": "The fact is that our overseas operations have been profitable.",
+          "zh": "事實是我們的海外營運一直獲利。"
+        },
+        {
+          "en": "The truth is that customer feedback drives every product update.",
+          "zh": "事實是顧客回饋驅動著每一次產品更新。"
+        }
+      ]
+    },
+    {
+      "pattern": "If/Whether for noun clauses",
+      "meaning_zh": "If 和 whether 皆可引導名詞子句，但 if 多用於非正式情境。",
+      "structure": "S + V + if/whether + S + V",
+      "examples": [
+        {
+          "en": "Please confirm whether the shipment will arrive before Friday.",
+          "zh": "請確認貨物是否會在週五前抵達。"
+        },
+        {
+          "en": "I doubt if we can finalize the deal this quarter.",
+          "zh": "我懷疑我們是否能在本季敲定這筆交易。"
+        }
+      ]
+    },
+    {
+      "pattern": "Appositive that-clause (the fact that...)",
+      "meaning_zh": "同位語子句說明前面的名詞內容。",
+      "structure": "N + that + S + V",
+      "examples": [
+        {
+          "en": "The fact that revenues doubled this year impressed the investors.",
+          "zh": "今年營收翻倍的事實讓投資人印象深刻。"
+        },
+        {
+          "en": "We cannot ignore the possibility that the supplier may default.",
+          "zh": "我們不能忽視供應商可能違約的可能性。"
+        }
+      ]
+    },
+    {
+      "pattern": "Appositive with the idea/belief that...",
+      "meaning_zh": "the idea/belief 後接 that 子句說明其內容。",
+      "structure": "the idea/belief + that + S + V",
+      "examples": [
+        {
+          "en": "The idea that automation will improve efficiency is widely accepted.",
+          "zh": "自動化能提升效率的想法廣受認同。"
+        },
+        {
+          "en": "The belief that customers value transparency drives our marketing strategy.",
+          "zh": "顧客重視透明度的信念驅動我們的行銷策略。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunctive adverb however (然而)",
+      "meaning_zh": "however 為連接副詞，表轉折，前用分號或句點，後用逗號。",
+      "structure": "S + V; however, + S + V",
+      "examples": [
+        {
+          "en": "Sales rose sharply last quarter; however, costs also increased significantly.",
+          "zh": "上一季銷售大幅上升；然而成本也明顯增加。"
+        },
+        {
+          "en": "The product received great reviews. However, demand remained moderate.",
+          "zh": "該產品獲得好評。然而需求仍屬普通。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunctive adverb therefore (因此)",
+      "meaning_zh": "therefore 用於表示因果結論。",
+      "structure": "S + V; therefore, + S + V",
+      "examples": [
+        {
+          "en": "Demand is declining; therefore, we must adjust our production plan.",
+          "zh": "需求下滑；因此我們必須調整生產計畫。"
+        },
+        {
+          "en": "Margins are shrinking. Therefore, the board has cut discretionary spending.",
+          "zh": "利潤率正在縮減。因此董事會削減了非必要支出。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunctive adverb nevertheless (儘管如此)",
+      "meaning_zh": "nevertheless 表示「儘管如此」，連接前後對比的句子。",
+      "structure": "S + V; nevertheless, + S + V",
+      "examples": [
+        {
+          "en": "The market was volatile; nevertheless, our portfolio outperformed the benchmark.",
+          "zh": "市場波動劇烈；儘管如此，我們的投資組合仍優於基準指數。"
+        },
+        {
+          "en": "The product launch was delayed. Nevertheless, sales targets were met.",
+          "zh": "產品發表延遲了。儘管如此，銷售目標仍達成。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunctive adverb consequently (因此/結果)",
+      "meaning_zh": "consequently 表示因果關係，比 therefore 語氣更正式。",
+      "structure": "S + V; consequently, + S + V",
+      "examples": [
+        {
+          "en": "The supplier raised prices; consequently, we sought alternative vendors.",
+          "zh": "供應商漲價；因此我們尋找替代廠商。"
+        },
+        {
+          "en": "The audit revealed irregularities. Consequently, two managers were dismissed.",
+          "zh": "稽核發現異常。結果兩位經理遭解雇。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunctive adverb moreover (此外)",
+      "meaning_zh": "moreover 表示「此外」，用於補充說明。",
+      "structure": "S + V; moreover, + S + V",
+      "examples": [
+        {
+          "en": "The new system is faster; moreover, it requires less maintenance.",
+          "zh": "新系統較快；此外維護需求也較少。"
+        },
+        {
+          "en": "Sales doubled this quarter. Moreover, customer retention reached an all-time high.",
+          "zh": "本季銷售翻倍。此外客戶留存率達到歷史新高。"
+        }
+      ]
+    },
+    {
+      "pattern": "Emphatic negation with by no means",
+      "meaning_zh": "by no means 表示「絕不」，加強否定語氣。",
+      "structure": "S + be/V + by no means + ... (或置句首倒裝)",
+      "examples": [
+        {
+          "en": "The decision was by no means easy for the executive team.",
+          "zh": "這個決定對主管團隊來說絕非容易。"
+        },
+        {
+          "en": "By no means should confidential data be shared with third parties.",
+          "zh": "機密資料絕不應與第三方分享。"
+        }
+      ]
+    },
+    {
+      "pattern": "Emphatic negation with in no way",
+      "meaning_zh": "in no way 表示「絕不、毫不」，置句首時主句倒裝。",
+      "structure": "In no way + 助動詞 + S + V",
+      "examples": [
+        {
+          "en": "In no way does this delay affect our long-term commitment to clients.",
+          "zh": "此延誤絕不影響我們對客戶的長期承諾。"
+        },
+        {
+          "en": "In no way will the company tolerate violations of compliance rules.",
+          "zh": "公司絕不容忍違反合規規範的行為。"
+        }
+      ]
+    },
+    {
+      "pattern": "Double negative (not...without)",
+      "meaning_zh": "雙重否定表達肯定語氣，常用於正式商業書寫。",
+      "structure": "S + not + V + without + V-ing",
+      "examples": [
+        {
+          "en": "We cannot approve the budget without consulting the finance committee.",
+          "zh": "未諮詢財務委員會我們無法批准預算。"
+        },
+        {
+          "en": "The CEO never signs a contract without thoroughly reviewing all clauses.",
+          "zh": "執行長從不在未徹底審閱條款前簽署合約。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparison: no less than (多達)",
+      "meaning_zh": "no less than 表示「不少於、多達」，強調數量多。",
+      "structure": "no less than + 數量",
+      "examples": [
+        {
+          "en": "No less than fifty representatives attended the international supplier summit.",
+          "zh": "多達五十位代表出席了國際供應商峰會。"
+        },
+        {
+          "en": "The company invested no less than ten million dollars in research.",
+          "zh": "公司在研發上投入多達一千萬美元。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparison: not so much A as B",
+      "meaning_zh": "與其說是 A，不如說是 B，用於修正或強調。",
+      "structure": "not so much + A + as + B",
+      "examples": [
+        {
+          "en": "Success comes not so much from talent as from consistent effort.",
+          "zh": "成功與其說來自才能，不如說來自持續努力。"
+        },
+        {
+          "en": "Their failure was not so much a strategy issue as an execution problem.",
+          "zh": "他們的失敗與其說是策略問題，不如說是執行問題。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparison: as many...as (與…一樣多)",
+      "meaning_zh": "as many + 可數名詞 + as，比較數量相等。",
+      "structure": "as many + N + as + ...",
+      "examples": [
+        {
+          "en": "Our branch processes as many orders as the headquarters does daily.",
+          "zh": "我們分公司每天處理的訂單量與總部一樣多。"
+        },
+        {
+          "en": "We received as many applications as we did last hiring season.",
+          "zh": "我們收到的申請數量與上一招募季一樣多。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparison: the + 比較級 of the two",
+      "meaning_zh": "兩者之中較…的那一個，要用「the + 比較級」。",
+      "structure": "the + 比較級 + of the two + N",
+      "examples": [
+        {
+          "en": "The taller of the two candidates also has stronger leadership skills.",
+          "zh": "兩位候選人中較高的那位也具備更強的領導力。"
+        },
+        {
+          "en": "We selected the cheaper of the two suppliers for the trial order.",
+          "zh": "我們選了兩家供應商中較便宜的進行試訂單。"
+        }
+      ]
+    },
+    {
+      "pattern": "Each of + plural N + singular V",
+      "meaning_zh": "each of 後接複數名詞，動詞用單數。",
+      "structure": "Each of + the + 複數 N + 單數 V",
+      "examples": [
+        {
+          "en": "Each of our regional offices reports directly to the global headquarters.",
+          "zh": "我們每個區域辦公室都直接向全球總部回報。"
+        },
+        {
+          "en": "Each of the proposals deserves careful review by senior management.",
+          "zh": "每份提案都值得高階管理層仔細審閱。"
+        }
+      ]
+    },
+    {
+      "pattern": "Neither of + plural N + singular V",
+      "meaning_zh": "neither of 後接複數名詞，動詞通常用單數。",
+      "structure": "Neither of + the + 複數 N + 單數 V",
+      "examples": [
+        {
+          "en": "Neither of the proposals meets our minimum profitability requirements.",
+          "zh": "兩份提案都未達我們的最低獲利要求。"
+        },
+        {
+          "en": "Neither of the candidates has prior experience in financial auditing.",
+          "zh": "兩位候選人都沒有先前的財務稽核經驗。"
+        }
+      ]
+    },
+    {
+      "pattern": "The number of vs a number of",
+      "meaning_zh": "the number of 動詞用單數；a number of 動詞用複數。",
+      "structure": "The number of + N (單數 V) / A number of + N (複數 V)",
+      "examples": [
+        {
+          "en": "The number of subscribers has tripled since the platform was relaunched.",
+          "zh": "自平台重新上線以來，訂閱人數已增為三倍。"
+        },
+        {
+          "en": "A number of employees are participating in the leadership workshop.",
+          "zh": "有許多員工正參與領導力工作坊。"
+        }
+      ]
+    },
+    {
+      "pattern": "Look forward to + V-ing",
+      "meaning_zh": "look forward to 後接動名詞，表示期待。",
+      "structure": "S + look forward to + V-ing",
+      "examples": [
+        {
+          "en": "We look forward to receiving your detailed proposal by next Friday.",
+          "zh": "我們期待在下週五前收到您的詳細提案。"
+        },
+        {
+          "en": "The team looks forward to collaborating with the new business partners.",
+          "zh": "團隊期待與新事業夥伴合作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be used to + V-ing (習慣於)",
+      "meaning_zh": "be used to + V-ing 表示「習慣於做某事」。",
+      "structure": "S + be used to + V-ing/N",
+      "examples": [
+        {
+          "en": "Our sales team is used to handling international clients across time zones.",
+          "zh": "我們業務團隊習慣處理跨時區的國際客戶。"
+        },
+        {
+          "en": "She is used to negotiating contracts under tight deadlines.",
+          "zh": "她習慣在緊迫期限下談判合約。"
+        }
+      ]
+    },
+    {
+      "pattern": "Would rather...than (寧可…也不…)",
+      "meaning_zh": "would rather + 原形動詞 + than + 原形動詞，表示偏好。",
+      "structure": "S + would rather + V(原形) + than + V(原形)",
+      "examples": [
+        {
+          "en": "The CEO would rather delay launch than release an unfinished product.",
+          "zh": "執行長寧可延後上市也不願推出未完成的產品。"
+        },
+        {
+          "en": "Most clients would rather pay a premium than risk poor service.",
+          "zh": "多數客戶寧願多付一些也不願冒險使用差勁的服務。"
+        }
+      ]
+    },
+    {
+      "pattern": "Dedicated to + V-ing (致力於)",
+      "meaning_zh": "be dedicated/committed to 後接動名詞，表示致力。",
+      "structure": "S + be dedicated/committed to + V-ing",
+      "examples": [
+        {
+          "en": "Our company is dedicated to providing exceptional customer service worldwide.",
+          "zh": "本公司致力於提供全球卓越的顧客服務。"
+        },
+        {
+          "en": "The team is committed to meeting every project milestone on schedule.",
+          "zh": "團隊致力於按時達成每個專案里程碑。"
+        }
+      ]
+    },
+    {
+      "pattern": "Object to + V-ing (反對)",
+      "meaning_zh": "object to 後接動名詞，表示反對做某事。",
+      "structure": "S + object to + V-ing",
+      "examples": [
+        {
+          "en": "Several board members objected to outsourcing the entire IT department.",
+          "zh": "數位董事反對將整個 IT 部門外包。"
+        },
+        {
+          "en": "Employees objected to working overtime without additional compensation.",
+          "zh": "員工反對在無額外補償下加班。"
+        }
+      ]
+    },
+    {
+      "pattern": "Provided/Providing that (假如)",
+      "meaning_zh": "provided/providing that 引導條件子句，表示「假如、只要」。",
+      "structure": "Provided that + S + V, S + V",
+      "examples": [
+        {
+          "en": "Provided that all conditions are met, the merger will proceed in June.",
+          "zh": "假如所有條件皆滿足，併購案將於六月進行。"
+        },
+        {
+          "en": "Providing that the budget is approved, we can hire two new analysts.",
+          "zh": "只要預算獲批，我們就能聘請兩位新分析師。"
+        }
+      ]
+    },
+    {
+      "pattern": "Unless (除非)",
+      "meaning_zh": "unless 等於 if not，引導否定條件子句。",
+      "structure": "Unless + S + V, S + V",
+      "examples": [
+        {
+          "en": "Unless the supplier confirms delivery, we will cancel the entire order.",
+          "zh": "除非供應商確認交貨，否則我們將取消整筆訂單。"
+        },
+        {
+          "en": "Unless margins improve, the board may reconsider the expansion plan.",
+          "zh": "除非利潤率改善，董事會可能重新考慮擴張計畫。"
+        }
+      ]
+    },
+    {
+      "pattern": "In case + S + V (以防萬一)",
+      "meaning_zh": "in case 引導預防性條件子句。",
+      "structure": "S + V, in case + S + V",
+      "examples": [
+        {
+          "en": "Please back up all files in case the server fails again.",
+          "zh": "請備份所有檔案以防伺服器再次故障。"
+        },
+        {
+          "en": "Bring extra copies of the contract in case the client needs them.",
+          "zh": "請多帶幾份合約以防客戶需要。"
+        }
+      ]
+    },
+    {
+      "pattern": "As long as (只要)",
+      "meaning_zh": "as long as 表示條件「只要…就…」。",
+      "structure": "As long as + S + V, S + V",
+      "examples": [
+        {
+          "en": "As long as the deadline is met, the team can choose its hours.",
+          "zh": "只要能準時達成期限，團隊可以自選工時。"
+        },
+        {
+          "en": "Customers will stay loyal as long as quality remains consistently high.",
+          "zh": "只要品質持續優異，顧客就會保持忠誠。"
+        }
+      ]
+    },
+    {
+      "pattern": "It takes + sb + time + to + V",
+      "meaning_zh": "表示某人完成某事所需的時間。",
+      "structure": "It takes + sb + 時間 + to + V",
+      "examples": [
+        {
+          "en": "It takes the team about three weeks to prepare the annual report.",
+          "zh": "團隊大約需要三週時間準備年度報告。"
+        },
+        {
+          "en": "It took us six months to negotiate the new distribution agreement.",
+          "zh": "我們花了六個月談判新的經銷協議。"
+        }
+      ]
+    },
+    {
+      "pattern": "Spend + time/money + (in) V-ing",
+      "meaning_zh": "spend + 時間/金錢 + (in) + V-ing，表示花費。",
+      "structure": "S + spend + 時間/金錢 + (in) + V-ing",
+      "examples": [
+        {
+          "en": "The company spends millions of dollars improving cybersecurity each year.",
+          "zh": "公司每年花費數百萬美元提升網路安全。"
+        },
+        {
+          "en": "Managers spend hours reviewing applications during the hiring season.",
+          "zh": "經理在招募季要花數小時審閱應徵資料。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is no point in V-ing",
+      "meaning_zh": "做某事沒有意義或必要。",
+      "structure": "There is no point in + V-ing",
+      "examples": [
+        {
+          "en": "There is no point in delaying the announcement any further.",
+          "zh": "繼續延後公告毫無意義。"
+        },
+        {
+          "en": "There is no point in arguing once the contract has been signed.",
+          "zh": "合約一旦簽署，再爭論也沒有意義。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be on the verge of + V-ing (即將)",
+      "meaning_zh": "be on the verge of 表示「瀕臨、即將」。",
+      "structure": "S + be on the verge of + V-ing/N",
+      "examples": [
+        {
+          "en": "The company is on the verge of finalizing a strategic partnership.",
+          "zh": "公司即將敲定一項策略合作關係。"
+        },
+        {
+          "en": "Our division is on the verge of launching a revolutionary product.",
+          "zh": "我們部門即將推出革命性的產品。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be likely to + V (可能)",
+      "meaning_zh": "be likely to 表示「有可能做某事」。",
+      "structure": "S + be likely to + V",
+      "examples": [
+        {
+          "en": "Interest rates are likely to rise again in the coming quarter.",
+          "zh": "利率在下一季可能再次調升。"
+        },
+        {
+          "en": "Consumers are likely to spend more during the upcoming holiday season.",
+          "zh": "消費者在即將到來的假期季可能會花更多錢。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be supposed to + V (應該)",
+      "meaning_zh": "be supposed to 表示根據規定或預期應該做某事。",
+      "structure": "S + be supposed to + V",
+      "examples": [
+        {
+          "en": "All visitors are supposed to register at the front desk first.",
+          "zh": "所有訪客都應先在前台登記。"
+        },
+        {
+          "en": "Managers are supposed to submit quarterly reviews by the end of June.",
+          "zh": "經理應在六月底前提交季度檢討報告。"
+        }
+      ]
+    },
+    {
+      "pattern": "Cannot help + V-ing (忍不住)",
+      "meaning_zh": "cannot help + V-ing 表示「忍不住做某事」。",
+      "structure": "S + cannot help + V-ing",
+      "examples": [
+        {
+          "en": "Clients cannot help admiring our team's professionalism and attention to detail.",
+          "zh": "客戶不禁讚賞我們團隊的專業與細節重視。"
+        },
+        {
+          "en": "I cannot help feeling optimistic about the upcoming product launch.",
+          "zh": "我對即將到來的產品發表會不禁感到樂觀。"
+        }
+      ]
+    },
+    {
+      "pattern": "Had better + V (最好)",
+      "meaning_zh": "had better + 原形動詞，建議或勸告做某事。",
+      "structure": "S + had better + (not) + V(原形)",
+      "examples": [
+        {
+          "en": "We had better confirm the booking before the trade show begins.",
+          "zh": "我們最好在貿易展開始前確認訂位。"
+        },
+        {
+          "en": "The CFO had better review the figures before tomorrow's board meeting.",
+          "zh": "財務長最好在明天董事會議前再次審視這些數字。"
+        }
+      ]
+    },
+    {
+      "pattern": "May/Might as well + V (不妨)",
+      "meaning_zh": "may/might as well 表示「不妨、倒不如」。",
+      "structure": "S + may/might as well + V(原形)",
+      "examples": [
+        {
+          "en": "We might as well postpone the launch until quality issues are resolved.",
+          "zh": "我們不妨延後發表，等品質問題解決再說。"
+        },
+        {
+          "en": "Since the office is closed, we may as well work from home.",
+          "zh": "既然辦公室關閉，我們不妨在家工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is high time + S + past V (該是…的時候了)",
+      "meaning_zh": "It is high time 後接過去式，表示「早該做某事」。",
+      "structure": "It is high time + (that) + S + V(過去式)",
+      "examples": [
+        {
+          "en": "It is high time the company updated its outdated marketing strategy.",
+          "zh": "公司早該更新過時的行銷策略了。"
+        },
+        {
+          "en": "It is high time we invested in renewable energy for our facilities.",
+          "zh": "我們早該為廠房投資再生能源了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion with Little (Little did S know)",
+      "meaning_zh": "否定副詞 little 置句首時主句倒裝，表示「絲毫不、幾乎不」。",
+      "structure": "Little + 助動詞 + S + V",
+      "examples": [
+        {
+          "en": "Little did the investors know that the startup would dominate the market.",
+          "zh": "投資人絲毫不知這家新創公司將主宰市場。"
+        },
+        {
+          "en": "Little did we expect that the merger would face regulatory opposition.",
+          "zh": "我們完全沒料到併購案會遭遇監管機構反對。"
+        }
+      ]
     }
   ]
 }

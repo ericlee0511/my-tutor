@@ -5015,6 +5015,1106 @@
       ],
       "answer": 2,
       "explanation_zh": "形容詞最高級前須加定冠詞 the。"
+    },
+    {
+      "question_en": "Each of the regional managers _____ required to submit a quarterly report to headquarters.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation_zh": "主謂一致：each of + 複數名詞，動詞用單數 is。"
+    },
+    {
+      "question_en": "The number of complaints received this quarter _____ significantly lower than last year.",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "the number of 視為單數主詞，動詞用 is。"
+    },
+    {
+      "question_en": "Neither the CEO nor the board members _____ aware of the merger proposal at that time.",
+      "options": [
+        "were",
+        "was",
+        "is",
+        "has"
+      ],
+      "answer": 0,
+      "explanation_zh": "neither A nor B 句型動詞與最接近的主詞 B（複數）一致，用 were。"
+    },
+    {
+      "question_en": "A number of employees _____ expressed concerns about the new attendance policy.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "was"
+      ],
+      "answer": 0,
+      "explanation_zh": "a number of + 複數名詞，動詞用複數 have。"
+    },
+    {
+      "question_en": "Every applicant for the marketing position _____ to take an online aptitude test.",
+      "options": [
+        "needs",
+        "need",
+        "are needing",
+        "have"
+      ],
+      "answer": 0,
+      "explanation_zh": "every + 單數名詞，動詞用第三人稱單數 needs。"
+    },
+    {
+      "question_en": "The new accounting software has greatly improved the _____ of our monthly reports.",
+      "options": [
+        "accuracy",
+        "accurate",
+        "accurately",
+        "accurate"
+      ],
+      "answer": 0,
+      "explanation_zh": "介系詞 of 後接名詞，accuracy 為名詞。"
+    },
+    {
+      "question_en": "Our customer service team responds to inquiries _____ and professionally.",
+      "options": [
+        "promptly",
+        "prompt",
+        "promptness",
+        "prompting"
+      ],
+      "answer": 0,
+      "explanation_zh": "副詞修飾動詞 responds，且與 professionally 平行，用 promptly。"
+    },
+    {
+      "question_en": "The board members were _____ impressed by the candidate's detailed presentation.",
+      "options": [
+        "thoroughly",
+        "thorough",
+        "thoroughness",
+        "thoroughs"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾形容詞 impressed 需用副詞 thoroughly。"
+    },
+    {
+      "question_en": "The sales department has launched several _____ campaigns this quarter.",
+      "options": [
+        "innovative",
+        "innovation",
+        "innovate",
+        "innovatively"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 campaigns 需用形容詞 innovative。"
+    },
+    {
+      "question_en": "The marketing team conducted a thorough _____ of consumer preferences before the product launch.",
+      "options": [
+        "analysis",
+        "analyze",
+        "analytical",
+        "analytically"
+      ],
+      "answer": 0,
+      "explanation_zh": "冠詞 a 與形容詞 thorough 後接名詞 analysis。"
+    },
+    {
+      "question_en": "Our flights were delayed for hours; _____, the conference had already begun by the time we arrived.",
+      "options": [
+        "consequently",
+        "although",
+        "because",
+        "while"
+      ],
+      "answer": 0,
+      "explanation_zh": "表結果用轉折副詞 consequently（因此）。"
+    },
+    {
+      "question_en": "The proposal was well-researched; _____, the committee rejected it due to budget constraints.",
+      "options": [
+        "however",
+        "therefore",
+        "moreover",
+        "furthermore"
+      ],
+      "answer": 0,
+      "explanation_zh": "前後句轉折用 however（然而）。"
+    },
+    {
+      "question_en": "The factory exceeded its production targets; _____, employee morale has improved significantly.",
+      "options": [
+        "moreover",
+        "however",
+        "nevertheless",
+        "otherwise"
+      ],
+      "answer": 0,
+      "explanation_zh": "表進一步補充用 moreover（此外）。"
+    },
+    {
+      "question_en": "The proposal was rejected twice; _____, the team continued refining their idea.",
+      "options": [
+        "nevertheless",
+        "therefore",
+        "consequently",
+        "thus"
+      ],
+      "answer": 0,
+      "explanation_zh": "表讓步轉折用 nevertheless（儘管如此）。"
+    },
+    {
+      "question_en": "Sales have been slow this quarter; _____, management has decided to reduce the marketing budget.",
+      "options": [
+        "therefore",
+        "however",
+        "nevertheless",
+        "instead"
+      ],
+      "answer": 0,
+      "explanation_zh": "表結果用 therefore（因此）。"
+    },
+    {
+      "question_en": "_____ of the participants at the seminar received a complimentary tote bag and notebook.",
+      "options": [
+        "Most",
+        "Almost",
+        "Much",
+        "The most"
+      ],
+      "answer": 0,
+      "explanation_zh": "most of + the/限定詞 + 複數名詞，表示「大多數的」。"
+    },
+    {
+      "question_en": "There is very _____ time left before the deadline, so we must act quickly.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "a few"
+      ],
+      "answer": 0,
+      "explanation_zh": "time 為不可數名詞，「很少」用 little。"
+    },
+    {
+      "question_en": "Only _____ employees attended the optional training session held on Saturday.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "any"
+      ],
+      "answer": 0,
+      "explanation_zh": "可數名詞 employees「少數幾個」用 a few。"
+    },
+    {
+      "question_en": "The manager noted that there were too _____ qualified applicants for the senior role.",
+      "options": [
+        "few",
+        "little",
+        "much",
+        "less"
+      ],
+      "answer": 0,
+      "explanation_zh": "可數名詞 applicants「太少」用 few。"
+    },
+    {
+      "question_en": "We didn't receive _____ feedback from the focus group on the new packaging design.",
+      "options": [
+        "much",
+        "many",
+        "few",
+        "a few"
+      ],
+      "answer": 0,
+      "explanation_zh": "feedback 為不可數名詞，用 much。"
+    },
+    {
+      "question_en": "_____ of the two final candidates demonstrated strong leadership skills during the interview.",
+      "options": [
+        "Both",
+        "All",
+        "Either",
+        "Every"
+      ],
+      "answer": 0,
+      "explanation_zh": "指兩者皆是用 both of。"
+    },
+    {
+      "question_en": "_____ of the proposals submitted this week meets our minimum technical requirements.",
+      "options": [
+        "Neither",
+        "Both",
+        "All",
+        "Several"
+      ],
+      "answer": 0,
+      "explanation_zh": "Neither of + 複數名詞 + 單數動詞 meets，表示「兩者都不」。"
+    },
+    {
+      "question_en": "You can choose _____ the Tuesday or the Thursday slot for the orientation session.",
+      "options": [
+        "either",
+        "neither",
+        "both",
+        "all"
+      ],
+      "answer": 0,
+      "explanation_zh": "either A or B，表示二擇一。"
+    },
+    {
+      "question_en": "_____ employee in the department must complete the compliance training by Friday.",
+      "options": [
+        "Each",
+        "All",
+        "Both",
+        "Few"
+      ],
+      "answer": 0,
+      "explanation_zh": "each + 單數名詞 employee，表示「每一位」。"
+    },
+    {
+      "question_en": "_____ of the warehouse staff is permitted to enter the secure storage area without authorization.",
+      "options": [
+        "None",
+        "No",
+        "Both",
+        "All"
+      ],
+      "answer": 0,
+      "explanation_zh": "None of + 名詞，表示「沒有任何人」。"
+    },
+    {
+      "question_en": "If _____ has any objections to the new policy, please speak up before the meeting ends.",
+      "options": [
+        "anyone",
+        "someone",
+        "no one",
+        "everyone"
+      ],
+      "answer": 0,
+      "explanation_zh": "疑問/條件句中用 anyone（任何人）。"
+    },
+    {
+      "question_en": "_____ in the office was surprised when the CEO announced his early retirement.",
+      "options": [
+        "Everyone",
+        "Anyone",
+        "No one",
+        "Someone"
+      ],
+      "answer": 0,
+      "explanation_zh": "肯定句表示「每個人」用 everyone。"
+    },
+    {
+      "question_en": "_____ left a confidential file on the conference room table after the meeting.",
+      "options": [
+        "Someone",
+        "Anyone",
+        "No one",
+        "Everyone"
+      ],
+      "answer": 0,
+      "explanation_zh": "肯定句表示「某人」用 someone。"
+    },
+    {
+      "question_en": "_____ was willing to volunteer for the weekend inventory audit, so the manager assigned it himself.",
+      "options": [
+        "No one",
+        "Anyone",
+        "Someone",
+        "Everyone"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示「沒有人」用 no one。"
+    },
+    {
+      "question_en": "Please let me know if _____ from the IT department contacts you about the software update.",
+      "options": [
+        "anyone",
+        "someone",
+        "everyone",
+        "no one"
+      ],
+      "answer": 0,
+      "explanation_zh": "if 條件句中表示「任何人」用 anyone。"
+    },
+    {
+      "question_en": "The supervisor had the new intern _____ all the client files before the audit.",
+      "options": [
+        "organize",
+        "organizing",
+        "to organize",
+        "organized"
+      ],
+      "answer": 0,
+      "explanation_zh": "使役動詞 have + 受詞 + 原形動詞（主動關係）。"
+    },
+    {
+      "question_en": "The CEO made every department head _____ a detailed budget proposal by Friday.",
+      "options": [
+        "submit",
+        "to submit",
+        "submitting",
+        "submitted"
+      ],
+      "answer": 0,
+      "explanation_zh": "使役動詞 make + 受詞 + 原形動詞。"
+    },
+    {
+      "question_en": "The manager let her assistant _____ the meeting agenda independently this time.",
+      "options": [
+        "prepare",
+        "to prepare",
+        "preparing",
+        "prepared"
+      ],
+      "answer": 0,
+      "explanation_zh": "使役動詞 let + 受詞 + 原形動詞。"
+    },
+    {
+      "question_en": "Our colleagues helped us _____ the entire booth before the trade show opened.",
+      "options": [
+        "set up",
+        "setting up",
+        "to setting up",
+        "set"
+      ],
+      "answer": 0,
+      "explanation_zh": "help + 受詞 + (to) 原形動詞；此處用 set up。"
+    },
+    {
+      "question_en": "The trainer had the participants _____ in pairs to complete the role-play exercise.",
+      "options": [
+        "work",
+        "to work",
+        "worked",
+        "working"
+      ],
+      "answer": 0,
+      "explanation_zh": "have + 人 + 原形動詞，表使役。"
+    },
+    {
+      "question_en": "We need to have the projector _____ before tomorrow morning's investor presentation.",
+      "options": [
+        "repaired",
+        "repair",
+        "repairing",
+        "to repair"
+      ],
+      "answer": 0,
+      "explanation_zh": "have + 物 + 過去分詞，表「使某物被…」。"
+    },
+    {
+      "question_en": "Ms. Lin got her business cards _____ in both English and Japanese for the trade show.",
+      "options": [
+        "printed",
+        "printing",
+        "print",
+        "to print"
+      ],
+      "answer": 0,
+      "explanation_zh": "get + 物 + 過去分詞，表被動使役。"
+    },
+    {
+      "question_en": "The company has its financial statements _____ by an external auditor every year.",
+      "options": [
+        "reviewed",
+        "reviewing",
+        "review",
+        "to review"
+      ],
+      "answer": 0,
+      "explanation_zh": "have + 物 + 過去分詞，被動使役結構。"
+    },
+    {
+      "question_en": "I'd like to get the broken office chairs _____ as soon as possible.",
+      "options": [
+        "replaced",
+        "replace",
+        "replacing",
+        "to replace"
+      ],
+      "answer": 0,
+      "explanation_zh": "get + 物 + 過去分詞，使物品被替換。"
+    },
+    {
+      "question_en": "We had the conference room _____ to accommodate up to fifty attendees.",
+      "options": [
+        "redesigned",
+        "redesigning",
+        "redesign",
+        "to redesign"
+      ],
+      "answer": 0,
+      "explanation_zh": "have + 物 + 過去分詞，表使動關係。"
+    },
+    {
+      "question_en": "_____ the new policy will improve productivity remains to be seen.",
+      "options": [
+        "Whether",
+        "If",
+        "That",
+        "What"
+      ],
+      "answer": 0,
+      "explanation_zh": "名詞子句作主詞表「是否」用 whether，不可用 if。"
+    },
+    {
+      "question_en": "The committee will decide _____ the proposal should be implemented next month.",
+      "options": [
+        "whether",
+        "that",
+        "which",
+        "who"
+      ],
+      "answer": 0,
+      "explanation_zh": "名詞子句作受詞表「是否」，whether 較正式。"
+    },
+    {
+      "question_en": "_____ surprised everyone was that the merger was announced without prior notice.",
+      "options": [
+        "What",
+        "That",
+        "Which",
+        "It"
+      ],
+      "answer": 0,
+      "explanation_zh": "what 引導名詞子句作主詞，包含「使…的事物」。"
+    },
+    {
+      "question_en": "The CFO explained _____ the budget cuts were necessary in the current economic climate.",
+      "options": [
+        "why",
+        "what",
+        "which",
+        "whose"
+      ],
+      "answer": 0,
+      "explanation_zh": "why 引導名詞子句作 explain 的受詞，表原因。"
+    },
+    {
+      "question_en": "Please confirm _____ you will be able to attend the strategy meeting next Tuesday.",
+      "options": [
+        "whether",
+        "that",
+        "what",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "confirm 後表「是否」的名詞子句用 whether。"
+    },
+    {
+      "question_en": "It was Ms. Chen _____ negotiated the contract with the overseas supplier.",
+      "options": [
+        "who",
+        "which",
+        "what",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句 it was + 人 + who，強調主詞。"
+    },
+    {
+      "question_en": "It was the marketing campaign _____ helped us reach record sales last quarter.",
+      "options": [
+        "that",
+        "who",
+        "what",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句中強調事物用 that。"
+    },
+    {
+      "question_en": "It is only after extensive testing _____ a new product is approved for release.",
+      "options": [
+        "that",
+        "when",
+        "which",
+        "who"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句 it is + 副詞片語 + that。"
+    },
+    {
+      "question_en": "It was in the Tokyo office _____ the first prototype was developed.",
+      "options": [
+        "that",
+        "which",
+        "where",
+        "when"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句強調地點副詞片語用 that。"
+    },
+    {
+      "question_en": "It is the quality of our service _____ sets us apart from competitors.",
+      "options": [
+        "that",
+        "what",
+        "who",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句結構 it is + 名詞 + that。"
+    },
+    {
+      "question_en": "_____ working on the budget, please use the latest data from the finance portal.",
+      "options": [
+        "When",
+        "While",
+        "Since",
+        "Because"
+      ],
+      "answer": 0,
+      "explanation_zh": "when working 為時間子句省略，表示「當…時」。"
+    },
+    {
+      "question_en": "_____ received, all shipments must be inspected by the warehouse manager.",
+      "options": [
+        "Once",
+        "While",
+        "During",
+        "Although"
+      ],
+      "answer": 0,
+      "explanation_zh": "once received 為條件子句省略，表「一旦…」。"
+    },
+    {
+      "question_en": "_____ submitted, applications cannot be modified or withdrawn.",
+      "options": [
+        "Once",
+        "While",
+        "Although",
+        "Since"
+      ],
+      "answer": 0,
+      "explanation_zh": "once + 過去分詞，表「一旦…」。"
+    },
+    {
+      "question_en": "_____ asked about the merger, the CEO declined to comment publicly.",
+      "options": [
+        "When",
+        "While",
+        "If",
+        "Since"
+      ],
+      "answer": 0,
+      "explanation_zh": "when (he was) asked 為被動時間子句省略。"
+    },
+    {
+      "question_en": "_____ reading the manual, you should be able to operate the new printer.",
+      "options": [
+        "After",
+        "Before",
+        "Until",
+        "Unless"
+      ],
+      "answer": 0,
+      "explanation_zh": "after reading 表「在閱讀之後」，分詞表時間先後。"
+    },
+    {
+      "question_en": "The CEO unveiled _____ at the press conference yesterday.",
+      "options": [
+        "a beautiful new corporate logo",
+        "a corporate beautiful new logo",
+        "a new beautiful corporate logo",
+        "a corporate new beautiful logo"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價(beautiful) + 新舊(new) + 用途/類別(corporate) + 名詞。"
+    },
+    {
+      "question_en": "She placed _____ on the reception desk for visitors to admire.",
+      "options": [
+        "a stunning large ceramic vase",
+        "a large stunning ceramic vase",
+        "a ceramic large stunning vase",
+        "a stunning ceramic large vase"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價(stunning) + 大小(large) + 材質(ceramic) + 名詞。"
+    },
+    {
+      "question_en": "Our office features _____ that was custom-made in Italy.",
+      "options": [
+        "a beautiful old wooden table",
+        "a wooden beautiful old table",
+        "an old beautiful wooden table",
+        "a wooden old beautiful table"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價 + 年齡 + 材質 + 名詞。"
+    },
+    {
+      "question_en": "The lobby was redecorated with _____ for the company's anniversary.",
+      "options": [
+        "several elegant Italian leather sofas",
+        "several Italian elegant leather sofas",
+        "several leather elegant Italian sofas",
+        "several Italian leather elegant sofas"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價(elegant) + 來源(Italian) + 材質(leather) + 名詞。"
+    },
+    {
+      "question_en": "He chose _____ as his gift for the retiring director.",
+      "options": [
+        "a classic round silver watch",
+        "a round classic silver watch",
+        "a silver classic round watch",
+        "a silver round classic watch"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價(classic) + 形狀(round) + 材質(silver) + 名詞。"
+    },
+    {
+      "question_en": "The supervisor said that the deadline _____ been extended by one week.",
+      "options": [
+        "had",
+        "has",
+        "have",
+        "having"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述：主要動詞 said 為過去式，從屬子句完成式須改為 had + 過去分詞。"
+    },
+    {
+      "question_en": "The intern asked the manager _____ the report was due that afternoon.",
+      "options": [
+        "whether",
+        "that",
+        "what",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述 yes/no 疑問句用 whether/if。"
+    },
+    {
+      "question_en": "The HR director announced that the company _____ hire fifty new staff the following year.",
+      "options": [
+        "would",
+        "will",
+        "is going to",
+        "has"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述：will 在過去敘述中改為 would。"
+    },
+    {
+      "question_en": "Mr. Park told us he _____ joined the firm three months earlier.",
+      "options": [
+        "had",
+        "has",
+        "have",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述：較早動作用過去完成式 had joined。"
+    },
+    {
+      "question_en": "The client asked _____ the shipment would arrive by the end of the week.",
+      "options": [
+        "if",
+        "that",
+        "what",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述 yes/no 疑問句用 if 或 whether。"
+    },
+    {
+      "question_en": "The company invested heavily in new _____ to expand its overseas operations.",
+      "options": [
+        "facilities",
+        "facility",
+        "facilitate",
+        "facilitator"
+      ],
+      "answer": 0,
+      "explanation_zh": "可數名詞複數 facilities，表示多個設施。"
+    },
+    {
+      "question_en": "We need more detailed _____ about the supplier's payment terms before signing.",
+      "options": [
+        "information",
+        "informations",
+        "informative",
+        "inform"
+      ],
+      "answer": 0,
+      "explanation_zh": "information 為不可數名詞，無複數形。"
+    },
+    {
+      "question_en": "The training session provided participants with practical _____ for managing remote teams.",
+      "options": [
+        "advice",
+        "advices",
+        "advise",
+        "advised"
+      ],
+      "answer": 0,
+      "explanation_zh": "advice 為不可數名詞，無複數形。"
+    },
+    {
+      "question_en": "Our research has generated valuable _____ into consumer purchasing behavior.",
+      "options": [
+        "insights",
+        "insight",
+        "insightful",
+        "insightfully"
+      ],
+      "answer": 0,
+      "explanation_zh": "valuable insights（複數可數），表示多項見解。"
+    },
+    {
+      "question_en": "The company purchased several pieces of new _____ for the design department.",
+      "options": [
+        "equipment",
+        "equipments",
+        "equip",
+        "equipping"
+      ],
+      "answer": 0,
+      "explanation_zh": "equipment 為不可數名詞，用 pieces of equipment 表示計量。"
+    },
+    {
+      "question_en": "The success of the project depends largely _____ effective communication among teams.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "explanation_zh": "depend on，依靠/取決於。"
+    },
+    {
+      "question_en": "Our marketing team will focus _____ digital channels in the upcoming campaign.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "explanation_zh": "focus on，專注於。"
+    },
+    {
+      "question_en": "Online sales now account _____ nearly sixty percent of our annual revenue.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "in"
+      ],
+      "answer": 0,
+      "explanation_zh": "account for，佔（比例）。"
+    },
+    {
+      "question_en": "All vendors are required to comply _____ our updated safety standards.",
+      "options": [
+        "with",
+        "to",
+        "on",
+        "by"
+      ],
+      "answer": 0,
+      "explanation_zh": "comply with，遵守。"
+    },
+    {
+      "question_en": "The project's success will largely depend _____ how well the teams collaborate.",
+      "options": [
+        "on",
+        "of",
+        "to",
+        "in"
+      ],
+      "answer": 0,
+      "explanation_zh": "depend on + 名詞子句，取決於。"
+    },
+    {
+      "question_en": "Either the supervisor or her assistants _____ responsible for approving expense reports.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "has"
+      ],
+      "answer": 0,
+      "explanation_zh": "either A or B，動詞與最接近主詞 B（複數）一致。"
+    },
+    {
+      "question_en": "The implementation of the new procedures _____ taken longer than expected.",
+      "options": [
+        "has",
+        "have",
+        "are",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞 implementation 為單數，動詞用 has。"
+    },
+    {
+      "question_en": "Each of the proposals _____ carefully evaluated before a final decision is made.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "each of + 複數名詞 + 單數動詞 is。"
+    },
+    {
+      "question_en": "The data collected from the survey _____ being analyzed by the research team.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "此處 data 視為集合名詞單數，動詞用 is（商務常見用法）。"
+    },
+    {
+      "question_en": "Neither of the two finalists _____ available to start before next month.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "neither of + 複數名詞 + 單數動詞 is。"
+    },
+    {
+      "question_en": "The new branch will provide _____ services to small business owners.",
+      "options": [
+        "consulting",
+        "consult",
+        "consultative",
+        "consults"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 services 的動名詞 consulting 作形容詞用。"
+    },
+    {
+      "question_en": "All employees must demonstrate _____ to the company's code of ethics.",
+      "options": [
+        "commitment",
+        "commit",
+        "committed",
+        "committing"
+      ],
+      "answer": 0,
+      "explanation_zh": "demonstrate 後接名詞 commitment（承諾）。"
+    },
+    {
+      "question_en": "The director emphasized the _____ of meeting client expectations consistently.",
+      "options": [
+        "importance",
+        "important",
+        "importantly",
+        "importing"
+      ],
+      "answer": 0,
+      "explanation_zh": "the + 形容詞 of 結構錯誤，需用名詞 importance。"
+    },
+    {
+      "question_en": "Customer satisfaction is the _____ measure of our service quality.",
+      "options": [
+        "ultimate",
+        "ultimately",
+        "ultimateness",
+        "ultimating"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 measure 用形容詞 ultimate。"
+    },
+    {
+      "question_en": "The financial advisor offered _____ guidance during the budget planning meeting.",
+      "options": [
+        "valuable",
+        "value",
+        "valuably",
+        "values"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 guidance 用形容詞 valuable。"
+    },
+    {
+      "question_en": "The technology has changed dramatically; _____, our training materials must be updated.",
+      "options": [
+        "accordingly",
+        "however",
+        "otherwise",
+        "instead"
+      ],
+      "answer": 0,
+      "explanation_zh": "accordingly 表「因此/相應地」。"
+    },
+    {
+      "question_en": "_____ of the documents on the desk needs to be filed by end of business today.",
+      "options": [
+        "Each",
+        "All",
+        "Both",
+        "Many"
+      ],
+      "answer": 0,
+      "explanation_zh": "each + 單數名詞 + 單數動詞 needs。"
+    },
+    {
+      "question_en": "_____ of the candidates we interviewed met all the qualifications we required.",
+      "options": [
+        "None",
+        "No",
+        "Any",
+        "Either"
+      ],
+      "answer": 0,
+      "explanation_zh": "none of + 複數名詞，表示「沒有任何一個」。"
+    },
+    {
+      "question_en": "If _____ wants to contribute ideas, please email them to the project lead by Friday.",
+      "options": [
+        "anyone",
+        "someone",
+        "no one",
+        "everyone"
+      ],
+      "answer": 0,
+      "explanation_zh": "條件句 if 中用 anyone（任何人）。"
+    },
+    {
+      "question_en": "The CEO had her assistant _____ all the travel arrangements for the Asia tour.",
+      "options": [
+        "coordinate",
+        "coordinating",
+        "to coordinate",
+        "coordinated"
+      ],
+      "answer": 0,
+      "explanation_zh": "have + 人 + 原形動詞，使役主動。"
+    },
+    {
+      "question_en": "We need to get the conference materials _____ before participants arrive tomorrow.",
+      "options": [
+        "prepared",
+        "prepare",
+        "preparing",
+        "to prepare"
+      ],
+      "answer": 0,
+      "explanation_zh": "get + 物 + 過去分詞，使物被準備好。"
+    },
+    {
+      "question_en": "_____ remains unclear is whether the merger will be approved by regulators.",
+      "options": [
+        "What",
+        "That",
+        "Which",
+        "It"
+      ],
+      "answer": 0,
+      "explanation_zh": "what 引導名詞子句作主詞，含「…的事物」。"
+    },
+    {
+      "question_en": "It is the team's dedication _____ has made this project a success.",
+      "options": [
+        "that",
+        "what",
+        "who",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "強調句 it is + 名詞 + that。"
+    },
+    {
+      "question_en": "_____ properly maintained, the machinery should last another ten years.",
+      "options": [
+        "If",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "explanation_zh": "if (it is) properly maintained，條件子句省略主詞與 be 動詞。"
+    },
+    {
+      "question_en": "The conference room features _____ that was imported from Sweden last month.",
+      "options": [
+        "a stylish modern oak desk",
+        "a modern stylish oak desk",
+        "an oak stylish modern desk",
+        "a stylish oak modern desk"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞順序：評價(stylish) + 年齡(modern) + 材質(oak) + 名詞。"
+    },
+    {
+      "question_en": "The manager said the new system _____ be implemented the following month.",
+      "options": [
+        "would",
+        "will",
+        "is",
+        "has"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述：will 改為 would。"
+    },
+    {
+      "question_en": "We have received numerous _____ regarding the new office relocation plan.",
+      "options": [
+        "inquiries",
+        "inquiry",
+        "inquire",
+        "inquiring"
+      ],
+      "answer": 0,
+      "explanation_zh": "numerous + 可數複數名詞 inquiries。"
+    },
+    {
+      "question_en": "The committee insists _____ adherence to the established review process.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "explanation_zh": "insist on + 名詞，堅持要求。"
+    },
+    {
+      "question_en": "Most of the staff _____ already completed the mandatory cybersecurity training.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "was"
+      ],
+      "answer": 0,
+      "explanation_zh": "most of + 複數名詞（staff 為集合複數），動詞用 have。"
+    },
+    {
+      "question_en": "_____ in the meeting raised any objections to the proposed timeline.",
+      "options": [
+        "No one",
+        "Anyone",
+        "Someone",
+        "Everyone"
+      ],
+      "answer": 0,
+      "explanation_zh": "no one 表示「沒有人」，動詞用單數 raised。"
     }
   ]
 }

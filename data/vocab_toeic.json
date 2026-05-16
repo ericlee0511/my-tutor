@@ -16385,6 +16385,1260 @@
       "meaning_zh": "服務工單",
       "example_en": "Your service ticket has been escalated to the second level support team.",
       "example_zh": "您的服務工單已升級至第二線支援團隊。"
+    },
+    {
+      "word": "hazard assessment",
+      "meaning_zh": "危害評估",
+      "example_en": "The supervisor completed a hazard assessment of the loading dock last Friday afternoon.",
+      "example_zh": "主管上週五下午完成了裝卸區的危害評估。"
+    },
+    {
+      "word": "workplace injury",
+      "meaning_zh": "工作場所傷害",
+      "example_en": "Workplace injury rates dropped after the company introduced mandatory safety training sessions.",
+      "example_zh": "公司推行強制安全訓練後，工作場所傷害率下降。"
+    },
+    {
+      "word": "lockout-tagout",
+      "meaning_zh": "上鎖掛牌（機械斷電程序）",
+      "example_en": "Technicians must follow lockout-tagout procedures before servicing any electrical equipment.",
+      "example_zh": "技術人員維修任何電氣設備前必須遵守上鎖掛牌程序。"
+    },
+    {
+      "word": "OSHA compliance",
+      "meaning_zh": "符合職業安全衛生署規範",
+      "example_en": "Our plant passed the annual OSHA compliance audit without any major violations recorded.",
+      "example_zh": "我們工廠通過年度 OSHA 合規稽核，沒有任何重大違規記錄。"
+    },
+    {
+      "word": "respirator",
+      "meaning_zh": "呼吸防護器",
+      "example_en": "Workers handling solvents are required to wear a fitted respirator at all times.",
+      "example_zh": "處理溶劑的員工必須隨時配戴合適的呼吸防護器。"
+    },
+    {
+      "word": "ventilation system",
+      "meaning_zh": "通風系統",
+      "example_en": "The ventilation system was upgraded to reduce airborne contaminants in the paint shop.",
+      "example_zh": "通風系統升級以減少烤漆區空氣中的污染物。"
+    },
+    {
+      "word": "first aid kit",
+      "meaning_zh": "急救箱",
+      "example_en": "Every department must have a fully stocked first aid kit within easy reach.",
+      "example_zh": "每個部門必須備有觸手可及且補給充足的急救箱。"
+    },
+    {
+      "word": "noise exposure",
+      "meaning_zh": "噪音暴露",
+      "example_en": "Daily noise exposure on the factory floor must not exceed regulated decibel limits.",
+      "example_zh": "工廠日常噪音暴露不得超過法規分貝限值。"
+    },
+    {
+      "word": "safety data sheet",
+      "meaning_zh": "安全資料表 (SDS)",
+      "example_en": "The safety data sheet for every chemical must be accessible to workers on site.",
+      "example_zh": "每種化學品的安全資料表必須讓現場工人可取得。"
+    },
+    {
+      "word": "ergonomic assessment",
+      "meaning_zh": "人因工學評估",
+      "example_en": "Each new hire receives an ergonomic assessment of their workstation within the first week.",
+      "example_zh": "每位新進員工首週內會接受工作站人因工學評估。"
+    },
+    {
+      "word": "fall protection",
+      "meaning_zh": "墜落防護",
+      "example_en": "Roofers must always use fall protection harnesses when working above six feet.",
+      "example_zh": "屋頂工人在六英尺以上作業時必須使用墜落防護吊帶。"
+    },
+    {
+      "word": "confined space",
+      "meaning_zh": "侷限空間",
+      "example_en": "Entry into any confined space requires a permit and a trained standby attendant.",
+      "example_zh": "進入任何侷限空間需要許可證及一名受訓的待命人員。"
+    },
+    {
+      "word": "evacuation route",
+      "meaning_zh": "疏散路線",
+      "example_en": "Please familiarize yourself with the evacuation route posted near the main exit.",
+      "example_zh": "請熟悉張貼在主要出口附近的疏散路線。"
+    },
+    {
+      "word": "occupational hazard",
+      "meaning_zh": "職業危害",
+      "example_en": "Exposure to lead is a serious occupational hazard for battery plant employees.",
+      "example_zh": "鉛暴露對電池廠員工而言是嚴重的職業危害。"
+    },
+    {
+      "word": "safety harness",
+      "meaning_zh": "安全吊帶",
+      "example_en": "Inspect your safety harness before each shift to ensure it remains in good condition.",
+      "example_zh": "每班輪值前檢查安全吊帶，確保狀況良好。"
+    },
+    {
+      "word": "ergonomic keyboard",
+      "meaning_zh": "符合人因工程的鍵盤",
+      "example_en": "The company provided ergonomic keyboards to reduce wrist strain among office staff.",
+      "example_zh": "公司提供符合人因工程的鍵盤以減少辦公員工的腕部壓力。"
+    },
+    {
+      "word": "industrial hygiene",
+      "meaning_zh": "工業衛生",
+      "example_en": "Industrial hygiene specialists measured airborne dust levels in the grinding department weekly.",
+      "example_zh": "工業衛生專家每週測量研磨部門的空氣粉塵濃度。"
+    },
+    {
+      "word": "biohazard",
+      "meaning_zh": "生物危害",
+      "example_en": "Laboratory waste must be disposed of in the labeled biohazard containers at all times.",
+      "example_zh": "實驗室廢棄物必須隨時丟入標示為生物危害的容器。"
+    },
+    {
+      "word": "picking",
+      "meaning_zh": "揀貨",
+      "example_en": "Voice-directed picking has improved order accuracy in our largest distribution center.",
+      "example_zh": "語音導引揀貨提高了我們最大配送中心的訂單準確率。"
+    },
+    {
+      "word": "third-party logistics",
+      "meaning_zh": "第三方物流 (3PL)",
+      "example_en": "Outsourcing to a third-party logistics provider reduced our fixed warehousing costs.",
+      "example_zh": "外包給第三方物流業者降低了我們的固定倉儲成本。"
+    },
+    {
+      "word": "stock keeping unit",
+      "meaning_zh": "庫存單位 (SKU)",
+      "example_en": "Each stock keeping unit is tagged with a unique barcode for inventory tracking.",
+      "example_zh": "每個庫存單位皆貼上獨特條碼以追蹤庫存。"
+    },
+    {
+      "word": "warehouse management system",
+      "meaning_zh": "倉庫管理系統 (WMS)",
+      "example_en": "The new warehouse management system reduced picking errors by nearly 40 percent.",
+      "example_zh": "新倉庫管理系統將揀貨錯誤減少近 40%。"
+    },
+    {
+      "word": "cold chain",
+      "meaning_zh": "冷鏈",
+      "example_en": "Vaccines require an unbroken cold chain from manufacturer all the way to clinic.",
+      "example_zh": "疫苗需要從製造商到診所完整不斷的冷鏈。"
+    },
+    {
+      "word": "consignment",
+      "meaning_zh": "寄售；託運",
+      "example_en": "The shipment is being sent on consignment until the retailer confirms final acceptance.",
+      "example_zh": "貨品以寄售方式出貨，直到零售商確認最終驗收。"
+    },
+    {
+      "word": "last mile delivery",
+      "meaning_zh": "最後一哩配送",
+      "example_en": "Last mile delivery is often the most expensive segment of the supply chain.",
+      "example_zh": "最後一哩配送通常是供應鏈中最昂貴的一段。"
+    },
+    {
+      "word": "container ship",
+      "meaning_zh": "貨櫃船",
+      "example_en": "The container ship is expected to arrive at the Port of Long Beach Thursday.",
+      "example_zh": "貨櫃船預計週四抵達長堤港。"
+    },
+    {
+      "word": "TEU",
+      "meaning_zh": "二十呎標準貨櫃單位",
+      "example_en": "The new vessel can transport up to 24,000 TEU on a single voyage.",
+      "example_zh": "新船一趟可載運多達 24,000 TEU。"
+    },
+    {
+      "word": "trademark infringement",
+      "meaning_zh": "商標侵權",
+      "example_en": "We received a cease-and-desist letter alleging trademark infringement on our new logo.",
+      "example_zh": "我們收到一封警告函，指控新標誌構成商標侵權。"
+    },
+    {
+      "word": "royalties",
+      "meaning_zh": "權利金",
+      "example_en": "The author receives quarterly royalties based on net sales of the licensed textbook.",
+      "example_zh": "作者依授權教科書淨銷售獲得每季權利金。"
+    },
+    {
+      "word": "patent portfolio",
+      "meaning_zh": "專利組合",
+      "example_en": "Our patent portfolio includes 230 issued patents across five core technology areas.",
+      "example_zh": "我們的專利組合涵蓋五大核心技術領域共 230 項已核准專利。"
+    },
+    {
+      "word": "settlement agreement",
+      "meaning_zh": "和解協議",
+      "example_en": "Both parties signed a confidential settlement agreement ending the two-year legal dispute.",
+      "example_zh": "雙方簽署保密和解協議，結束長達兩年的法律糾紛。"
+    },
+    {
+      "word": "class action",
+      "meaning_zh": "集體訴訟",
+      "example_en": "Several shareholders filed a class action lawsuit alleging misleading financial disclosures.",
+      "example_zh": "數位股東提起集體訴訟，指控誤導性財務揭露。"
+    },
+    {
+      "word": "non-disclosure agreement",
+      "meaning_zh": "保密協議 (NDA)",
+      "example_en": "Please sign the non-disclosure agreement before viewing the confidential prototype designs.",
+      "example_zh": "查看機密原型設計前請先簽署保密協議。"
+    },
+    {
+      "word": "punitive damages",
+      "meaning_zh": "懲罰性賠償",
+      "example_en": "The jury awarded one million dollars in punitive damages to the plaintiff.",
+      "example_zh": "陪審團判給原告一百萬美元的懲罰性賠償。"
+    },
+    {
+      "word": "summary judgment",
+      "meaning_zh": "簡易判決",
+      "example_en": "The defendant filed a motion for summary judgment to dismiss the case early.",
+      "example_zh": "被告聲請簡易判決以提早駁回該案。"
+    },
+    {
+      "word": "expert witness",
+      "meaning_zh": "專家證人",
+      "example_en": "An expert witness in semiconductor design will testify at next months patent trial.",
+      "example_zh": "一位半導體設計專家證人將在下月專利審判中作證。"
+    },
+    {
+      "word": "tortious interference",
+      "meaning_zh": "侵權干擾",
+      "example_en": "The competitor faces a tortious interference claim for poaching contracted clients.",
+      "example_zh": "該競爭者因挖走簽約客戶而面臨侵權干擾索賠。"
+    },
+    {
+      "word": "patent troll",
+      "meaning_zh": "專利蟑螂",
+      "example_en": "Small startups are frequently targeted by patent trolls demanding licensing fees.",
+      "example_zh": "小型新創公司常成為要求授權費的專利蟑螂的目標。"
+    },
+    {
+      "word": "indemnification clause",
+      "meaning_zh": "賠償條款",
+      "example_en": "The indemnification clause requires the supplier to cover any third-party infringement claims.",
+      "example_zh": "賠償條款要求供應商承擔任何第三方侵權索賠。"
+    },
+    {
+      "word": "options pricing",
+      "meaning_zh": "選擇權定價",
+      "example_en": "The Black-Scholes model remains a standard framework for options pricing in equity markets.",
+      "example_zh": "Black-Scholes 模型仍是股票市場選擇權定價的標準框架。"
+    },
+    {
+      "word": "neobank",
+      "meaning_zh": "純網銀；新型數位銀行",
+      "example_en": "The neobank offers fee-free international transfers through its mobile-only platform.",
+      "example_zh": "該純網銀透過行動裝置專屬平台提供免費國際匯款。"
+    },
+    {
+      "word": "smart contract",
+      "meaning_zh": "智能合約",
+      "example_en": "Smart contracts automatically execute payment once predefined contractual conditions have been met.",
+      "example_zh": "智能合約在預設合約條件達成時自動執行付款。"
+    },
+    {
+      "word": "stablecoin",
+      "meaning_zh": "穩定幣",
+      "example_en": "Stablecoins are pegged to fiat currencies to minimize daily price volatility for users.",
+      "example_zh": "穩定幣與法定貨幣掛鉤以將每日價格波動最小化。"
+    },
+    {
+      "word": "open banking",
+      "meaning_zh": "開放銀行",
+      "example_en": "Open banking APIs enable third-party developers to build innovative personal finance apps.",
+      "example_zh": "開放銀行 API 讓第三方開發者打造創新的個人理財應用程式。"
+    },
+    {
+      "word": "peer-to-peer lending",
+      "meaning_zh": "點對點借貸",
+      "example_en": "Peer-to-peer lending platforms connect retail investors directly with individual borrowers online.",
+      "example_zh": "點對點借貸平台讓散戶投資人直接與個別借款人線上連結。"
+    },
+    {
+      "word": "tokenization",
+      "meaning_zh": "代幣化",
+      "example_en": "Asset tokenization enables fractional ownership of real estate through blockchain registries.",
+      "example_zh": "資產代幣化透過區塊鏈登記實現不動產的部分所有權。"
+    },
+    {
+      "word": "volatility index",
+      "meaning_zh": "波動率指數",
+      "example_en": "A rising volatility index typically reflects increased investor fear in the equity market.",
+      "example_zh": "上升的波動率指數通常反映股票市場投資人恐慌加劇。"
+    },
+    {
+      "word": "spot price",
+      "meaning_zh": "現貨價格",
+      "example_en": "The spot price of gold rose sharply following the central banks rate decision.",
+      "example_zh": "央行利率決議後黃金現貨價格急升。"
+    },
+    {
+      "word": "implied volatility",
+      "meaning_zh": "隱含波動率",
+      "example_en": "Traders monitor implied volatility to gauge market expectations of future price swings.",
+      "example_zh": "交易員監控隱含波動率以判斷市場對未來價格波動的預期。"
+    },
+    {
+      "word": "decentralized finance",
+      "meaning_zh": "去中心化金融 (DeFi)",
+      "example_en": "Decentralized finance protocols allow lending and borrowing without traditional intermediaries.",
+      "example_zh": "去中心化金融協議讓借貸無需傳統中介。"
+    },
+    {
+      "word": "regtech",
+      "meaning_zh": "監理科技",
+      "example_en": "Banks invest heavily in regtech solutions to automate complex compliance reporting requirements.",
+      "example_zh": "銀行大量投資監理科技解決方案以自動化複雜的合規申報。"
+    },
+    {
+      "word": "insurtech",
+      "meaning_zh": "保險科技",
+      "example_en": "Insurtech startups use telematics data to price auto insurance policies more accurately.",
+      "example_zh": "保險科技新創公司利用車聯網資料更精準訂定汽車保險費率。"
+    },
+    {
+      "word": "clinical trial",
+      "meaning_zh": "臨床試驗",
+      "example_en": "The phase three clinical trial will enroll 1,200 patients across twelve countries.",
+      "example_zh": "三期臨床試驗將於十二個國家招募 1,200 名病患。"
+    },
+    {
+      "word": "FDA approval",
+      "meaning_zh": "美國食品藥物管理局核准",
+      "example_en": "FDA approval is expected by the second quarter following the priority review submission.",
+      "example_zh": "依優先審查申請，預計第二季可獲得 FDA 核准。"
+    },
+    {
+      "word": "biosimilar",
+      "meaning_zh": "生物相似性藥品",
+      "example_en": "The biosimilar offers comparable efficacy at roughly 30 percent lower treatment cost.",
+      "example_zh": "該生物相似性藥品提供相當療效，治療成本約低 30%。"
+    },
+    {
+      "word": "prior authorization",
+      "meaning_zh": "事前授權（保險核可）",
+      "example_en": "Prior authorization from the insurer is required before scheduling the specialty infusion.",
+      "example_zh": "安排該項特殊靜脈注射前須取得保險公司的事前授權。"
+    },
+    {
+      "word": "active pharmaceutical ingredient",
+      "meaning_zh": "原料藥 (API)",
+      "example_en": "Our facility manufactures the active pharmaceutical ingredient used in the cardiovascular drug.",
+      "example_zh": "我們的廠房製造該心血管藥物所用的原料藥。"
+    },
+    {
+      "word": "good manufacturing practice",
+      "meaning_zh": "藥品優良製造規範 (GMP)",
+      "example_en": "All production sites must comply with good manufacturing practice standards for pharmaceuticals.",
+      "example_zh": "所有生產廠房須符合藥品優良製造規範。"
+    },
+    {
+      "word": "investigational new drug",
+      "meaning_zh": "新藥研究中藥品 (IND)",
+      "example_en": "The sponsor filed an investigational new drug application with the regulatory authority yesterday.",
+      "example_zh": "申辦者昨日向主管機關遞交新藥研究中藥品申請。"
+    },
+    {
+      "word": "pharmacovigilance",
+      "meaning_zh": "藥物安全監視",
+      "example_en": "Pharmacovigilance teams monitor adverse drug reactions reported by physicians and patients globally.",
+      "example_zh": "藥物安全監視團隊監控全球醫師與病患通報的藥物不良反應。"
+    },
+    {
+      "word": "generic drug",
+      "meaning_zh": "學名藥",
+      "example_en": "Once the patent expires, generic drug manufacturers can enter the market freely.",
+      "example_zh": "專利到期後，學名藥廠商可自由進入市場。"
+    },
+    {
+      "word": "drug formulary",
+      "meaning_zh": "藥物處方集",
+      "example_en": "The insurer updated its drug formulary to include several new biologic therapies.",
+      "example_zh": "保險公司更新藥物處方集以納入數種新的生物製劑療法。"
+    },
+    {
+      "word": "patient enrollment",
+      "meaning_zh": "病患招募",
+      "example_en": "Patient enrollment for the oncology study was completed two months ahead of schedule.",
+      "example_zh": "腫瘤研究的病患招募提前兩個月完成。"
+    },
+    {
+      "word": "adverse event",
+      "meaning_zh": "不良事件",
+      "example_en": "Investigators must report any serious adverse event to the sponsor within 24 hours.",
+      "example_zh": "研究人員須於 24 小時內向申辦者通報任何嚴重不良事件。"
+    },
+    {
+      "word": "protocol amendment",
+      "meaning_zh": "試驗計畫書修正",
+      "example_en": "A protocol amendment was issued to expand the inclusion criteria for elderly participants.",
+      "example_zh": "已發布試驗計畫書修正以擴大年長受試者的納入標準。"
+    },
+    {
+      "word": "investigator brochure",
+      "meaning_zh": "主持人手冊",
+      "example_en": "Each site received an updated investigator brochure detailing recent preclinical safety findings.",
+      "example_zh": "各試驗中心收到更新版主持人手冊，詳載近期臨床前安全發現。"
+    },
+    {
+      "word": "informed consent",
+      "meaning_zh": "知情同意",
+      "example_en": "Participants must sign an informed consent form before any study procedures begin.",
+      "example_zh": "受試者進行任何研究程序前必須簽署知情同意書。"
+    },
+    {
+      "word": "orphan drug",
+      "meaning_zh": "孤兒藥",
+      "example_en": "Orphan drug designation provides tax credits and extended market exclusivity to manufacturers.",
+      "example_zh": "孤兒藥資格提供製造商稅務減免與延長的市場專屬期。"
+    },
+    {
+      "word": "contract research organization",
+      "meaning_zh": "委託研究機構 (CRO)",
+      "example_en": "The sponsor outsourced data management to a contract research organization in Boston.",
+      "example_zh": "申辦者將資料管理委外給波士頓的一家委託研究機構。"
+    },
+    {
+      "word": "pharmacy benefit manager",
+      "meaning_zh": "藥品福利管理公司 (PBM)",
+      "example_en": "Pharmacy benefit managers negotiate drug prices on behalf of health insurance plans.",
+      "example_zh": "藥品福利管理公司代表健康保險方案協商藥價。"
+    },
+    {
+      "word": "drug efficacy",
+      "meaning_zh": "藥物療效",
+      "example_en": "The trial demonstrated significantly improved drug efficacy compared with the standard treatment.",
+      "example_zh": "試驗顯示該藥物療效顯著優於標準治療。"
+    },
+    {
+      "word": "real-world evidence",
+      "meaning_zh": "真實世界證據",
+      "example_en": "Real-world evidence from patient registries supports the long-term safety profile claims.",
+      "example_zh": "來自病患登錄的真實世界證據支持長期安全性主張。"
+    },
+    {
+      "word": "cold chain shipment",
+      "meaning_zh": "冷鏈出貨",
+      "example_en": "Every cold chain shipment includes data loggers monitoring temperature throughout transit.",
+      "example_zh": "每批冷鏈出貨皆配有資料記錄器全程監測溫度。"
+    },
+    {
+      "word": "REIT",
+      "meaning_zh": "不動產投資信託",
+      "example_en": "The REIT pays quarterly dividends derived from rental income on commercial office buildings.",
+      "example_zh": "該不動產投資信託發放源自商辦租金收入的季配息。"
+    },
+    {
+      "word": "cap rate",
+      "meaning_zh": "資本化率",
+      "example_en": "Investors compare cap rates to evaluate the relative return on commercial property purchases.",
+      "example_zh": "投資人比較資本化率以評估商用不動產購置的相對報酬。"
+    },
+    {
+      "word": "appraisal",
+      "meaning_zh": "估價",
+      "example_en": "The lender requires a professional appraisal before finalizing the commercial mortgage loan.",
+      "example_zh": "貸款機構在敲定商業房貸前要求專業估價。"
+    },
+    {
+      "word": "zoning",
+      "meaning_zh": "土地分區管制",
+      "example_en": "Local zoning regulations prohibit industrial use of the parcel adjacent to schools.",
+      "example_zh": "地方土地分區管制禁止學校旁地塊作工業用途。"
+    },
+    {
+      "word": "net operating income",
+      "meaning_zh": "淨營運收入 (NOI)",
+      "example_en": "Net operating income is calculated by subtracting operating expenses from gross rental revenue.",
+      "example_zh": "淨營運收入由總租金收入減去營運費用計算而得。"
+    },
+    {
+      "word": "tenant improvement",
+      "meaning_zh": "承租人裝修",
+      "example_en": "The landlord agreed to fund tenant improvement allowances of fifty dollars per square foot.",
+      "example_zh": "房東同意支付每平方英尺五十美元的承租人裝修補助。"
+    },
+    {
+      "word": "triple net lease",
+      "meaning_zh": "三淨租約",
+      "example_en": "Under a triple net lease, the tenant pays property taxes, insurance, and maintenance.",
+      "example_zh": "三淨租約下，承租人負擔房地產稅、保險與維護費用。"
+    },
+    {
+      "word": "ground lease",
+      "meaning_zh": "土地租賃",
+      "example_en": "The developer signed a 99-year ground lease for the downtown corner parcel.",
+      "example_zh": "開發商簽署市中心轉角地塊的 99 年土地租賃契約。"
+    },
+    {
+      "word": "real estate syndication",
+      "meaning_zh": "不動產聯合投資",
+      "example_en": "Real estate syndication pools capital from multiple investors to acquire larger commercial assets.",
+      "example_zh": "不動產聯合投資彙集多位投資人資金以購置較大型商用資產。"
+    },
+    {
+      "word": "closing costs",
+      "meaning_zh": "成交費用",
+      "example_en": "Closing costs typically include title insurance, attorney fees, and recording charges combined.",
+      "example_zh": "成交費用通常包括產權保險、律師費以及登記費用。"
+    },
+    {
+      "word": "title insurance",
+      "meaning_zh": "產權保險",
+      "example_en": "Title insurance protects the buyer against undiscovered defects in the property records.",
+      "example_zh": "產權保險保障買方避免未發現的房產登記瑕疵。"
+    },
+    {
+      "word": "mortgage-backed security",
+      "meaning_zh": "不動產抵押貸款證券",
+      "example_en": "Mortgage-backed securities derive cash flows from pooled residential home loan payments.",
+      "example_zh": "不動產抵押貸款證券的現金流來自集合的住宅房貸付款。"
+    },
+    {
+      "word": "real estate broker",
+      "meaning_zh": "不動產仲介",
+      "example_en": "A licensed real estate broker will represent the seller throughout the transaction process.",
+      "example_zh": "持牌不動產仲介將於整個交易過程中代表賣方。"
+    },
+    {
+      "word": "mixed-use development",
+      "meaning_zh": "複合式開發",
+      "example_en": "The mixed-use development combines residential apartments with ground-floor retail and offices.",
+      "example_zh": "該複合式開發結合住宅公寓與一樓零售及辦公室。"
+    },
+    {
+      "word": "1031 exchange",
+      "meaning_zh": "1031 條款換屋（美國延稅交易）",
+      "example_en": "A 1031 exchange allows investors to defer capital gains tax when reinvesting proceeds.",
+      "example_zh": "1031 條款換屋讓投資人在再投資款項時遞延資本利得稅。"
+    },
+    {
+      "word": "easement",
+      "meaning_zh": "地役權",
+      "example_en": "The utility company holds an easement to access the underground cables on this property.",
+      "example_zh": "公用事業公司持有進入此地產地下纜線的地役權。"
+    },
+    {
+      "word": "dumping",
+      "meaning_zh": "傾銷",
+      "example_en": "The commission opened an investigation into alleged dumping of imported steel pipes.",
+      "example_zh": "委員會就涉嫌傾銷的進口鋼管展開調查。"
+    },
+    {
+      "word": "certificate of origin",
+      "meaning_zh": "原產地證明書",
+      "example_en": "Importers must present a certificate of origin to qualify for preferential tariff treatment.",
+      "example_zh": "進口商須提示原產地證明書方可享有優惠關稅待遇。"
+    },
+    {
+      "word": "harmonized tariff schedule",
+      "meaning_zh": "調和關稅表",
+      "example_en": "Consult the harmonized tariff schedule to determine duty rates for imported textiles.",
+      "example_zh": "查閱調和關稅表以確定進口紡織品的關稅稅率。"
+    },
+    {
+      "word": "countervailing duty",
+      "meaning_zh": "平衡稅",
+      "example_en": "Countervailing duties offset subsidies that foreign governments grant to their exporters.",
+      "example_zh": "平衡稅抵銷外國政府對其出口商所提供的補貼。"
+    },
+    {
+      "word": "import quota",
+      "meaning_zh": "進口配額",
+      "example_en": "The import quota on sugar limits foreign suppliers to a fixed annual tonnage.",
+      "example_zh": "糖的進口配額將外國供應商限定在固定年度噸數。"
+    },
+    {
+      "word": "tariff rate quota",
+      "meaning_zh": "關稅配額",
+      "example_en": "Beef imports above the tariff rate quota incur substantially higher duty charges.",
+      "example_zh": "超過關稅配額的牛肉進口將承擔大幅較高的關稅。"
+    },
+    {
+      "word": "preferential trade agreement",
+      "meaning_zh": "優惠貿易協定",
+      "example_en": "The preferential trade agreement reduces duties on 90 percent of bilateral product categories.",
+      "example_zh": "優惠貿易協定降低雙邊 90% 產品類別的關稅。"
+    },
+    {
+      "word": "trade compliance",
+      "meaning_zh": "貿易合規",
+      "example_en": "Our trade compliance team screens every shipment against current export control regulations.",
+      "example_zh": "我們的貿易合規團隊依現行出口管制法規篩查每批貨物。"
+    },
+    {
+      "word": "tariff classification",
+      "meaning_zh": "關稅分類",
+      "example_en": "Incorrect tariff classification can result in customs fines and unexpected shipment delays.",
+      "example_zh": "錯誤的關稅分類可能導致海關罰款及意外的出貨延誤。"
+    },
+    {
+      "word": "valuation declaration",
+      "meaning_zh": "完稅價格申報",
+      "example_en": "Importers must submit an accurate valuation declaration along with the customs entry documents.",
+      "example_zh": "進口商須隨報關文件提交準確的完稅價格申報。"
+    },
+    {
+      "word": "customs bond",
+      "meaning_zh": "海關保證金",
+      "example_en": "A continuous customs bond is required for importers shipping multiple containers each month.",
+      "example_zh": "每月運送多櫃的進口商需要連續性海關保證金。"
+    },
+    {
+      "word": "anti-dumping duty",
+      "meaning_zh": "反傾銷稅",
+      "example_en": "The commission imposed a 25 percent anti-dumping duty on imported solar panels.",
+      "example_zh": "委員會對進口太陽能板課徵 25% 反傾銷稅。"
+    },
+    {
+      "word": "footfall",
+      "meaning_zh": "來客流量",
+      "example_en": "Footfall at the flagship store doubled during the back-to-school promotional campaign.",
+      "example_zh": "返校促銷活動期間旗艦店的來客流量加倍。"
+    },
+    {
+      "word": "perishables",
+      "meaning_zh": "易腐商品",
+      "example_en": "Perishables such as dairy and produce require strict temperature monitoring throughout transit.",
+      "example_zh": "乳製品與蔬果等易腐商品在運輸過程中需嚴格溫控。"
+    },
+    {
+      "word": "planogram",
+      "meaning_zh": "貨架陳列圖",
+      "example_en": "Store managers must follow the corporate planogram when arranging products on shelves.",
+      "example_zh": "店長排列貨架商品時必須遵守公司貨架陳列圖。"
+    },
+    {
+      "word": "average ticket size",
+      "meaning_zh": "平均客單價",
+      "example_en": "Upselling techniques helped increase the average ticket size by twelve percent monthly.",
+      "example_zh": "向上銷售技巧每月幫助平均客單價提升 12%。"
+    },
+    {
+      "word": "shelf life",
+      "meaning_zh": "保存期限",
+      "example_en": "Packaging improvements extended the shelf life of fresh pasta by an additional week.",
+      "example_zh": "包裝改良將新鮮義大利麵的保存期限延長一週。"
+    },
+    {
+      "word": "menu engineering",
+      "meaning_zh": "菜單工程",
+      "example_en": "Menu engineering balances popularity and profitability to optimize overall restaurant earnings.",
+      "example_zh": "菜單工程平衡受歡迎度與獲利能力以最佳化餐廳整體收益。"
+    },
+    {
+      "word": "front of house",
+      "meaning_zh": "外場",
+      "example_en": "Front of house staff coordinate seating, service, and guest experience throughout each shift.",
+      "example_zh": "外場員工於每班協調帶位、服務及賓客體驗。"
+    },
+    {
+      "word": "back of house",
+      "meaning_zh": "內場",
+      "example_en": "Back of house operations include kitchen prep, dishwashing, and inventory management duties.",
+      "example_zh": "內場作業包括廚房備料、洗碗及庫存管理工作。"
+    },
+    {
+      "word": "cover count",
+      "meaning_zh": "用餐人次",
+      "example_en": "The bistro reached an all-time high cover count during the holiday weekend service.",
+      "example_zh": "該小餐館於假期週末用餐人次創下歷史新高。"
+    },
+    {
+      "word": "private label",
+      "meaning_zh": "自有品牌",
+      "example_en": "Private label products typically deliver higher margins than comparable national brand items.",
+      "example_zh": "自有品牌商品通常較同類全國品牌商品提供更高利潤。"
+    },
+    {
+      "word": "shelf replenishment",
+      "meaning_zh": "貨架補貨",
+      "example_en": "Shelf replenishment takes place every morning before the store opens to customers.",
+      "example_zh": "貨架補貨於每天清晨開店前進行。"
+    },
+    {
+      "word": "fast casual",
+      "meaning_zh": "快速休閒餐飲",
+      "example_en": "Fast casual chains bridge the gap between traditional fast food and full-service dining.",
+      "example_zh": "快速休閒餐飲連鎖店填補傳統速食與全套服務餐飲之間的市場。"
+    },
+    {
+      "word": "table turnover",
+      "meaning_zh": "翻桌率",
+      "example_en": "Faster service procedures increased the lunchtime table turnover from 1.8 to 2.4.",
+      "example_zh": "更快的服務流程使午餐時段翻桌率從 1.8 提升至 2.4。"
+    },
+    {
+      "word": "click and collect",
+      "meaning_zh": "網路下單到店取貨",
+      "example_en": "Click and collect orders have grown 60 percent year over year at our chain.",
+      "example_zh": "本連鎖店的網路下單到店取貨訂單年增 60%。"
+    },
+    {
+      "word": "endcap display",
+      "meaning_zh": "端架陳列",
+      "example_en": "Brands often pay premium fees for prominent endcap display placement near checkout lanes.",
+      "example_zh": "品牌商常支付高額費用以取得靠近結帳通道的顯眼端架陳列位置。"
+    },
+    {
+      "word": "kitchen display system",
+      "meaning_zh": "廚房顯示系統 (KDS)",
+      "example_en": "The kitchen display system instantly shows new orders submitted from the dining room.",
+      "example_zh": "廚房顯示系統即時顯示用餐區送出的新訂單。"
+    },
+    {
+      "word": "secret shopper",
+      "meaning_zh": "神秘客",
+      "example_en": "A secret shopper visits each branch quarterly to evaluate service consistency objectively.",
+      "example_zh": "神秘客每季造訪各分店以客觀評估服務一致性。"
+    },
+    {
+      "word": "learning management system",
+      "meaning_zh": "學習管理系統 (LMS)",
+      "example_en": "The learning management system tracks course progress for thousands of employees worldwide.",
+      "example_zh": "該學習管理系統追蹤全球數千名員工的課程進度。"
+    },
+    {
+      "word": "microlearning",
+      "meaning_zh": "微學習",
+      "example_en": "Microlearning modules of five minutes each fit easily into the busy workday schedule.",
+      "example_zh": "每段五分鐘的微學習模組可輕鬆融入忙碌的工作日行程。"
+    },
+    {
+      "word": "adaptive learning",
+      "meaning_zh": "適性學習",
+      "example_en": "Adaptive learning platforms personalize content difficulty based on each learners performance.",
+      "example_zh": "適性學習平台依各學習者表現個人化內容難度。"
+    },
+    {
+      "word": "blended learning",
+      "meaning_zh": "混成學習",
+      "example_en": "Our blended learning approach combines virtual lectures with hands-on classroom workshops weekly.",
+      "example_zh": "我們的混成學習方法每週結合虛擬講座與實作課堂工作坊。"
+    },
+    {
+      "word": "SCORM compliance",
+      "meaning_zh": "SCORM 標準相容",
+      "example_en": "The vendor confirmed SCORM compliance so we can deploy the course across platforms.",
+      "example_zh": "廠商確認符合 SCORM 標準，因此我們可以跨平台部署該課程。"
+    },
+    {
+      "word": "instructional designer",
+      "meaning_zh": "教學設計師",
+      "example_en": "Our instructional designer crafts engaging course content tailored to adult corporate learners.",
+      "example_zh": "我們的教學設計師為成人企業學習者量身打造引人入勝的課程內容。"
+    },
+    {
+      "word": "completion rate",
+      "meaning_zh": "完成率",
+      "example_en": "The completion rate for our compliance training exceeded 92 percent across all regions.",
+      "example_zh": "我們合規訓練的完成率在所有區域超過 92%。"
+    },
+    {
+      "word": "knowledge retention",
+      "meaning_zh": "知識留存",
+      "example_en": "Spaced repetition techniques significantly improve long-term knowledge retention after initial training sessions.",
+      "example_zh": "間隔重複技巧顯著提升首次訓練後的長期知識留存。"
+    },
+    {
+      "word": "cohort-based course",
+      "meaning_zh": "同期班制課程",
+      "example_en": "Cohort-based courses build community among learners progressing through the program together.",
+      "example_zh": "同期班制課程在共同進展的學員之間培養社群感。"
+    },
+    {
+      "word": "edtech startup",
+      "meaning_zh": "教育科技新創",
+      "example_en": "The edtech startup raised a 20 million dollar Series B round last quarter.",
+      "example_zh": "該教育科技新創公司於上季完成 2,000 萬美元的 B 輪融資。"
+    },
+    {
+      "word": "learning analytics",
+      "meaning_zh": "學習分析",
+      "example_en": "Learning analytics dashboards help managers identify employees who need additional coaching support.",
+      "example_zh": "學習分析儀表板協助主管辨識需要額外輔導的員工。"
+    },
+    {
+      "word": "skill gap analysis",
+      "meaning_zh": "技能落差分析",
+      "example_en": "A thorough skill gap analysis informs the company training roadmap for next year.",
+      "example_zh": "完整的技能落差分析為公司明年的訓練藍圖提供依據。"
+    },
+    {
+      "word": "automotive",
+      "meaning_zh": "汽車產業的",
+      "example_en": "The automotive supplier delivers precision components to twelve major manufacturers worldwide.",
+      "example_zh": "該汽車零件供應商向全球十二家主要製造商供應精密零件。"
+    },
+    {
+      "word": "aerospace",
+      "meaning_zh": "航太業",
+      "example_en": "Aerospace contracts often span more than a decade due to strict certification timelines.",
+      "example_zh": "因嚴格的認證時程，航太合約通常橫跨十年以上。"
+    },
+    {
+      "word": "semiconductor",
+      "meaning_zh": "半導體",
+      "example_en": "Global semiconductor demand surged following expansion of artificial intelligence data centers.",
+      "example_zh": "人工智慧資料中心擴張後全球半導體需求激增。"
+    },
+    {
+      "word": "fab",
+      "meaning_zh": "晶圓廠",
+      "example_en": "Construction of the new fab will create approximately 4,000 high-tech engineering jobs.",
+      "example_zh": "新晶圓廠的興建將創造約 4,000 個高科技工程職缺。"
+    },
+    {
+      "word": "wafer",
+      "meaning_zh": "晶圓",
+      "example_en": "Each 300-millimeter wafer can produce hundreds of finished microprocessor chips.",
+      "example_zh": "每片 300 公釐晶圓可產出數百顆成品微處理器晶片。"
+    },
+    {
+      "word": "assembly line",
+      "meaning_zh": "組裝生產線",
+      "example_en": "The assembly line was reconfigured to accommodate the redesigned electric vehicle chassis.",
+      "example_zh": "組裝生產線經重新配置以容納重新設計的電動車底盤。"
+    },
+    {
+      "word": "just-in-time",
+      "meaning_zh": "即時供應",
+      "example_en": "Just-in-time inventory minimizes carrying costs but requires highly reliable supplier delivery.",
+      "example_zh": "即時供應庫存最小化持有成本，但需要高度可靠的供應商交貨。"
+    },
+    {
+      "word": "tier one supplier",
+      "meaning_zh": "一階供應商",
+      "example_en": "Tier one suppliers deliver complete assemblies directly to the automotive original equipment manufacturer.",
+      "example_zh": "一階供應商將完整組件直接交付給汽車原廠製造商。"
+    },
+    {
+      "word": "OEM",
+      "meaning_zh": "原廠設備製造商",
+      "example_en": "Our OEM partner manufactures the housing while we provide the internal electronic modules.",
+      "example_zh": "我們的 OEM 夥伴生產外殼，而我們提供內部電子模組。"
+    },
+    {
+      "word": "ODM",
+      "meaning_zh": "原廠設計製造商",
+      "example_en": "The ODM designs and produces tablet devices under several major consumer electronics brands.",
+      "example_zh": "該 ODM 為多家主要消費電子品牌設計並生產平板裝置。"
+    },
+    {
+      "word": "process control",
+      "meaning_zh": "製程控制",
+      "example_en": "Statistical process control charts monitor critical dimensions during high-volume machining production.",
+      "example_zh": "統計製程控制圖在大量機械加工生產中監控關鍵尺寸。"
+    },
+    {
+      "word": "powertrain",
+      "meaning_zh": "動力傳動系統",
+      "example_en": "The next-generation powertrain delivers higher torque while consuming significantly less fuel.",
+      "example_zh": "新一代動力傳動系統提供更高扭力且油耗顯著降低。"
+    },
+    {
+      "word": "avionics",
+      "meaning_zh": "航空電子設備",
+      "example_en": "The aircrafts updated avionics suite improves pilot situational awareness during instrument flight.",
+      "example_zh": "該機型更新的航空電子設備在儀器飛行時提升飛行員情境意識。"
+    },
+    {
+      "word": "etching",
+      "meaning_zh": "蝕刻",
+      "example_en": "Plasma etching creates the fine circuit patterns on each silicon wafer surface.",
+      "example_zh": "電漿蝕刻於每片矽晶圓表面形成細微電路圖案。"
+    },
+    {
+      "word": "lithography",
+      "meaning_zh": "微影製程",
+      "example_en": "Extreme ultraviolet lithography enables production of cutting-edge chips at smaller process nodes.",
+      "example_zh": "極紫外微影製程使最尖端晶片得以在更小製程節點生產。"
+    },
+    {
+      "word": "renewables",
+      "meaning_zh": "再生能源",
+      "example_en": "Renewables now supply more than 30 percent of the regions total electricity generation.",
+      "example_zh": "再生能源現供應該地區超過 30% 的總電力。"
+    },
+    {
+      "word": "photovoltaic",
+      "meaning_zh": "太陽光電",
+      "example_en": "The new photovoltaic array generates enough electricity to power 4,000 average households.",
+      "example_zh": "新太陽光電陣列產生的電力足以供應 4,000 戶一般家庭。"
+    },
+    {
+      "word": "wind farm",
+      "meaning_zh": "風力發電場",
+      "example_en": "The offshore wind farm will deliver clean energy to the coastal grid by 2027.",
+      "example_zh": "離岸風力發電場將於 2027 年前向沿海電網輸送潔淨能源。"
+    },
+    {
+      "word": "grid",
+      "meaning_zh": "電網",
+      "example_en": "Smart grid technology balances electricity supply and demand across the entire regional network.",
+      "example_zh": "智慧電網技術在整個區域網絡中平衡電力供需。"
+    },
+    {
+      "word": "decommission",
+      "meaning_zh": "除役",
+      "example_en": "The aging coal plant will decommission in stages over the next three years.",
+      "example_zh": "老舊燃煤電廠將於未來三年分階段除役。"
+    },
+    {
+      "word": "carbon capture",
+      "meaning_zh": "碳捕捉",
+      "example_en": "Carbon capture technology can reduce emissions from cement and steel production facilities.",
+      "example_zh": "碳捕捉技術可減少水泥與鋼鐵生產設施的排放。"
+    },
+    {
+      "word": "energy storage",
+      "meaning_zh": "儲能",
+      "example_en": "Large-scale energy storage stabilizes the grid when solar and wind output fluctuates.",
+      "example_zh": "大規模儲能在太陽能與風力輸出波動時穩定電網。"
+    },
+    {
+      "word": "feed-in tariff",
+      "meaning_zh": "再生能源躉購電價",
+      "example_en": "The feed-in tariff guarantees solar producers a fixed rate per kilowatt-hour generated.",
+      "example_zh": "再生能源躉購電價保證太陽能生產者每度電固定費率。"
+    },
+    {
+      "word": "hydroelectric",
+      "meaning_zh": "水力發電",
+      "example_en": "Hydroelectric dams remain one of the most established sources of renewable electricity globally.",
+      "example_zh": "水力發電壩仍是全球最成熟的再生能源來源之一。"
+    },
+    {
+      "word": "geothermal",
+      "meaning_zh": "地熱",
+      "example_en": "Geothermal energy provides reliable baseload power independent of weather or sunlight conditions.",
+      "example_zh": "地熱能提供不受天氣或日照影響的穩定基載電力。"
+    },
+    {
+      "word": "biomass",
+      "meaning_zh": "生質能",
+      "example_en": "Biomass plants convert agricultural waste into electricity and useful district heating energy.",
+      "example_zh": "生質能廠將農業廢棄物轉化為電力與有用的區域供熱能源。"
+    },
+    {
+      "word": "smart meter",
+      "meaning_zh": "智慧電表",
+      "example_en": "Smart meters allow utilities to monitor real-time household consumption and detect outages.",
+      "example_zh": "智慧電表讓公用事業能即時監控家戶用電並偵測停電。"
+    },
+    {
+      "word": "power purchase agreement",
+      "meaning_zh": "購電合約 (PPA)",
+      "example_en": "The corporation signed a ten-year power purchase agreement with the new solar developer.",
+      "example_zh": "該公司與新太陽能開發商簽署十年期購電合約。"
+    },
+    {
+      "word": "net zero",
+      "meaning_zh": "淨零排放",
+      "example_en": "Many multinational corporations have pledged to achieve net zero emissions by 2050.",
+      "example_zh": "許多跨國企業承諾於 2050 年達成淨零排放。"
+    },
+    {
+      "word": "electrolyzer",
+      "meaning_zh": "電解槽",
+      "example_en": "The electrolyzer splits water into hydrogen and oxygen using renewable electricity input.",
+      "example_zh": "電解槽利用再生電力將水分解為氫氣與氧氣。"
+    },
+    {
+      "word": "green hydrogen",
+      "meaning_zh": "綠氫",
+      "example_en": "Green hydrogen produced from renewable energy could decarbonize heavy industries within decades.",
+      "example_zh": "由再生能源製造的綠氫有望於數十年內讓重工業脫碳。"
+    },
+    {
+      "word": "transmission line",
+      "meaning_zh": "輸電線路",
+      "example_en": "The new transmission line will deliver wind-generated electricity to inland urban centers.",
+      "example_zh": "新輸電線路將把風電送至內陸都市中心。"
+    },
+    {
+      "word": "battery storage",
+      "meaning_zh": "電池儲能",
+      "example_en": "Battery storage projects help utilities shift solar output to evening peak hours.",
+      "example_zh": "電池儲能專案協助公用事業將太陽能輸出移至傍晚尖峰時段。"
+    },
+    {
+      "word": "renewable portfolio standard",
+      "meaning_zh": "再生能源配比標準",
+      "example_en": "Utilities must comply with the state renewable portfolio standard or face significant penalties.",
+      "example_zh": "公用事業必須遵守州的再生能源配比標準，否則將面臨重罰。"
+    },
+    {
+      "word": "energy audit",
+      "meaning_zh": "能源稽核",
+      "example_en": "An energy audit identified several opportunities to reduce monthly electricity costs significantly.",
+      "example_zh": "能源稽核找出數個可大幅降低每月電費的機會。"
+    },
+    {
+      "word": "microgrid",
+      "meaning_zh": "微電網",
+      "example_en": "The campus microgrid can disconnect from the main grid during widespread regional outages.",
+      "example_zh": "校園微電網可於大範圍區域停電時與主電網脫離運作。"
+    },
+    {
+      "word": "custodian bank",
+      "meaning_zh": "保管銀行",
+      "example_en": "The custodian bank safeguards client assets and processes routine settlement instructions efficiently.",
+      "example_zh": "保管銀行保管客戶資產並有效率地處理日常結算指示。"
+    },
+    {
+      "word": "KYC",
+      "meaning_zh": "認識你的客戶（身分查核）",
+      "example_en": "Banks must complete thorough KYC procedures before opening any new corporate account.",
+      "example_zh": "銀行於開立任何新企業帳戶前必須完成詳實的 KYC 程序。"
+    },
+    {
+      "word": "correspondent banking",
+      "meaning_zh": "通匯銀行業務",
+      "example_en": "Correspondent banking enables domestic banks to offer services in foreign currencies globally.",
+      "example_zh": "通匯銀行業務讓本地銀行能在全球提供外幣服務。"
+    },
+    {
+      "word": "nostro account",
+      "meaning_zh": "本行於對方銀行的帳戶",
+      "example_en": "The nostro account holds our funds at the foreign correspondent bank in Frankfurt.",
+      "example_zh": "該本行帳戶存放於我們在法蘭克福的外國通匯銀行。"
+    },
+    {
+      "word": "SWIFT code",
+      "meaning_zh": "SWIFT 銀行識別碼",
+      "example_en": "Please provide the recipient SWIFT code to ensure the international payment routes correctly.",
+      "example_zh": "請提供收款人 SWIFT 碼以確保國際付款正確路由。"
+    },
+    {
+      "word": "remittance",
+      "meaning_zh": "匯款",
+      "example_en": "Migrant workers frequently send remittances back to their families across Southeast Asia.",
+      "example_zh": "外籍勞工經常將匯款寄回東南亞各地的家人。"
+    },
+    {
+      "word": "trade finance",
+      "meaning_zh": "貿易融資",
+      "example_en": "Trade finance products help exporters bridge the cash flow gap until buyer payment.",
+      "example_zh": "貿易融資產品協助出口商在買方付款前彌補現金流缺口。"
+    },
+    {
+      "word": "deposit account",
+      "meaning_zh": "存款帳戶",
+      "example_en": "Open a deposit account at our branch to start earning competitive monthly interest rates.",
+      "example_zh": "於本分行開立存款帳戶即可開始享有具競爭力的月息。"
+    },
+    {
+      "word": "credit line",
+      "meaning_zh": "信用額度",
+      "example_en": "The bank extended a 50 million dollar credit line to the manufacturing firm.",
+      "example_zh": "銀行為該製造商延展五千萬美元的信用額度。"
+    },
+    {
+      "word": "interbank rate",
+      "meaning_zh": "銀行同業拆款利率",
+      "example_en": "The interbank rate fluctuates daily based on liquidity conditions across major financial markets.",
+      "example_zh": "銀行同業拆款利率依各主要金融市場的流動性狀況每日波動。"
+    },
+    {
+      "word": "automated clearing house",
+      "meaning_zh": "自動清算所 (ACH)",
+      "example_en": "Payroll is distributed through automated clearing house transfers every other Friday morning.",
+      "example_zh": "薪資每隔一週五早上透過自動清算所轉帳發放。"
+    },
+    {
+      "word": "real-time gross settlement",
+      "meaning_zh": "即時總額清算 (RTGS)",
+      "example_en": "Real-time gross settlement systems process high-value payments individually without netting between banks.",
+      "example_zh": "即時總額清算系統逐筆處理高金額付款，不在銀行間做淨額結算。"
+    },
+    {
+      "word": "vostro account",
+      "meaning_zh": "他行存於本行的帳戶",
+      "example_en": "The vostro account holds funds that foreign banks maintain at our institution domestically.",
+      "example_zh": "該帳戶存放外國銀行於本機構國內所維持的資金。"
+    },
+    {
+      "word": "FX risk",
+      "meaning_zh": "匯率風險",
+      "example_en": "Exporters use forward contracts to manage FX risk arising from delayed customer payments.",
+      "example_zh": "出口商利用遠期合約管理因客戶延遲付款而生的匯率風險。"
+    },
+    {
+      "word": "merchant acquirer",
+      "meaning_zh": "收單機構",
+      "example_en": "The merchant acquirer processes card transactions on behalf of thousands of small retailers.",
+      "example_zh": "收單機構代表數千家小型零售商處理刷卡交易。"
+    },
+    {
+      "word": "safety officer",
+      "meaning_zh": "安全主管",
+      "example_en": "The site safety officer inspects scaffolding daily before construction crews begin their tasks.",
+      "example_zh": "工地安全主管在施工人員開工前每日檢查鷹架。"
+    },
+    {
+      "word": "machine guarding",
+      "meaning_zh": "機械防護",
+      "example_en": "Proper machine guarding prevents accidental contact with moving parts during routine production.",
+      "example_zh": "適當的機械防護避免在例行生產時意外接觸移動零件。"
+    },
+    {
+      "word": "warehouse aisle",
+      "meaning_zh": "倉庫走道",
+      "example_en": "Maintain clear warehouse aisle widths to allow safe passage of forklifts and pedestrians.",
+      "example_zh": "保持倉庫走道寬度暢通，讓堆高機與行人安全通行。"
+    },
+    {
+      "word": "freight rate",
+      "meaning_zh": "運費費率",
+      "example_en": "Ocean freight rates have stabilized after a turbulent period of pandemic-related volatility.",
+      "example_zh": "經歷一段疫情相關的劇烈波動後，海運費率已趨穩定。"
+    },
+    {
+      "word": "patent infringement",
+      "meaning_zh": "專利侵權",
+      "example_en": "The lawsuit alleges patent infringement on three core algorithms used in the device.",
+      "example_zh": "訴訟指控該裝置使用的三項核心演算法構成專利侵權。"
+    },
+    {
+      "word": "currency forward",
+      "meaning_zh": "遠期外匯",
+      "example_en": "The treasury bought a six-month currency forward to lock in the euro purchase rate.",
+      "example_zh": "財務部買入六個月遠期外匯以鎖定購買歐元的匯率。"
+    },
+    {
+      "word": "patent expiration",
+      "meaning_zh": "專利到期",
+      "example_en": "Patent expiration of the blockbuster drug opens the market to generic competitors immediately.",
+      "example_zh": "暢銷藥的專利到期立即為學名藥競爭者開啟市場。"
+    },
+    {
+      "word": "biologic drug",
+      "meaning_zh": "生物製劑藥物",
+      "example_en": "Biologic drugs are produced from living cells and require complex manufacturing facilities.",
+      "example_zh": "生物製劑藥物由活細胞製造，需要複雜的生產設施。"
+    },
+    {
+      "word": "property management",
+      "meaning_zh": "物業管理",
+      "example_en": "The property management firm handles tenant communications, repairs, and routine building maintenance services.",
+      "example_zh": "物業管理公司負責承租戶溝通、維修及例行建物維護服務。"
+    },
+    {
+      "word": "commercial mortgage",
+      "meaning_zh": "商業房貸",
+      "example_en": "The commercial mortgage carries a fixed interest rate over a twenty-year amortization period.",
+      "example_zh": "該商業房貸以固定利率搭配二十年攤還期間。"
+    },
+    {
+      "word": "transshipment",
+      "meaning_zh": "轉運",
+      "example_en": "Transshipment through a regional hub significantly reduces direct shipping costs for smaller orders.",
+      "example_zh": "透過區域樞紐轉運可顯著降低小批量訂單的直接運費。"
+    },
+    {
+      "word": "rules of origin",
+      "meaning_zh": "原產地規則",
+      "example_en": "Goods must meet the rules of origin to qualify for free trade agreement benefits.",
+      "example_zh": "商品須符合原產地規則才能享有自由貿易協定優惠。"
+    },
+    {
+      "word": "barcode scanner",
+      "meaning_zh": "條碼掃描機",
+      "example_en": "Cashiers use a barcode scanner to ring up items quickly at the checkout counter.",
+      "example_zh": "收銀員使用條碼掃描機在結帳櫃台快速結帳。"
+    },
+    {
+      "word": "drive-thru",
+      "meaning_zh": "得來速",
+      "example_en": "Drive-thru orders now account for nearly 70 percent of total restaurant revenue daily.",
+      "example_zh": "得來速訂單目前佔餐廳每日總營收近 70%。"
+    },
+    {
+      "word": "course completion certificate",
+      "meaning_zh": "課程完成證書",
+      "example_en": "Learners receive a course completion certificate they can share on professional networking platforms.",
+      "example_zh": "學員獲得可在專業社群平台分享的課程完成證書。"
+    },
+    {
+      "word": "robotic arm",
+      "meaning_zh": "機械手臂",
+      "example_en": "Each robotic arm on the assembly line performs over 2,000 precise welds per hour.",
+      "example_zh": "組裝線上每支機械手臂每小時執行 2,000 次以上精確焊接。"
+    },
+    {
+      "word": "wind turbine",
+      "meaning_zh": "風力發電機",
+      "example_en": "Each wind turbine produces enough electricity to power roughly 1,500 homes annually.",
+      "example_zh": "每座風力發電機每年產生的電力足以供應約 1,500 戶家庭。"
+    },
+    {
+      "word": "swift payment",
+      "meaning_zh": "SWIFT 國際付款",
+      "example_en": "Swift payments enable secure cross-border transfers between participating financial institutions globally.",
+      "example_zh": "SWIFT 國際付款讓全球參與金融機構間進行安全跨境匯款。"
+    },
+    {
+      "word": "exposure limit",
+      "meaning_zh": "暴露限值",
+      "example_en": "Workers must rotate stations to stay below the daily chemical exposure limit.",
+      "example_zh": "員工須輪換工作站以維持低於每日化學品暴露限值。"
+    },
+    {
+      "word": "incident investigation",
+      "meaning_zh": "事故調查",
+      "example_en": "A thorough incident investigation identifies root causes and prevents similar future occurrences effectively.",
+      "example_zh": "徹底的事故調查找出根本原因並有效預防類似事件再次發生。"
+    },
+    {
+      "word": "wave picking",
+      "meaning_zh": "波次揀貨",
+      "example_en": "Wave picking groups similar orders together to maximize warehouse efficiency during peak periods.",
+      "example_zh": "波次揀貨將相似訂單合併以在尖峰時段最大化倉庫效率。"
+    },
+    {
+      "word": "alternative dispute resolution",
+      "meaning_zh": "替代爭議解決",
+      "example_en": "Alternative dispute resolution methods like mediation can save both parties significant legal expense.",
+      "example_zh": "如調解等替代爭議解決方式可為雙方節省可觀的法律費用。"
+    },
+    {
+      "word": "patent application",
+      "meaning_zh": "專利申請",
+      "example_en": "Our patent application for the new battery design was filed with the office Monday.",
+      "example_zh": "我們新電池設計的專利申請週一已向專利局提交。"
+    },
+    {
+      "word": "commodity futures",
+      "meaning_zh": "商品期貨",
+      "example_en": "Commodity futures contracts help producers stabilize revenue from volatile global market prices.",
+      "example_zh": "商品期貨合約幫助生產者穩定來自波動全球市場價格的營收。"
+    },
+    {
+      "word": "drug pipeline",
+      "meaning_zh": "藥物開發管線",
+      "example_en": "The pharmaceutical companys drug pipeline includes seven late-stage oncology development candidates.",
+      "example_zh": "該藥廠的藥物開發管線包括七個後期腫瘤候選藥物。"
+    },
+    {
+      "word": "real estate fund",
+      "meaning_zh": "不動產基金",
+      "example_en": "The real estate fund invests primarily in core office assets across major metropolitan areas.",
+      "example_zh": "該不動產基金主要投資於各大都會區的核心辦公資產。"
+    },
+    {
+      "word": "preferential tariff",
+      "meaning_zh": "優惠關稅",
+      "example_en": "Qualifying products benefit from preferential tariff treatment under the bilateral trade agreement.",
+      "example_zh": "符合條件的產品在雙邊貿易協定下享有優惠關稅待遇。"
+    },
+    {
+      "word": "cashier-less store",
+      "meaning_zh": "無收銀員商店",
+      "example_en": "The cashier-less store uses computer vision to automatically charge shoppers at exit.",
+      "example_zh": "無收銀員商店運用電腦視覺於離店時自動結帳。"
     }
   ]
 }
