@@ -168,6 +168,7 @@ main {
   background: var(--accent-soft);
   border-radius: 8px;
   font-weight: 500;
+  font-size: 16px;
 }
 #content .hint {
   color: var(--muted);
