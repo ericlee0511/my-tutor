@@ -96,6 +96,13 @@ const KOREAN_STORIES = [
   { key: "topik091", title: "대법원 상고심 변호인 변론" },
   { key: "topik092", title: "신경외과 전문의의 뇌종양 수술" },
   { key: "topik093", title: "현대 교향곡 세계 초연 지휘자의 무대" },
+  { key: "topik094", title: "청년 농촌 정착 지원 사업 현장 인터뷰" },
+  { key: "topik095", title: "한국 영화 OTT 글로벌 진출 협상" },
+  { key: "topik096", title: "위기 청소년 멘토링 프로그램 운영기" },
+  { key: "topik097", title: "인공지능 통번역 서비스 시연회" },
+  { key: "topik098", title: "한국 전통 한지 공방 체험 르포" },
+  { key: "topik099", title: "도심 옥상 텃밭 공동체 이야기" },
+  { key: "topik100", title: "한국 첫 민간 우주인 후보 면접 현장" },
 ];
 
 function isToeic() { return state.level === "toeic"; }
