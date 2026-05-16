@@ -304,3 +304,56 @@ footer {
   font-size: 12px;
   color: var(--muted);
 }
+
+.picker-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  z-index: 100;
+}
+.picker-overlay[hidden] { display: none; }
+.picker-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+.picker-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 8px;
+}
+.picker-btn {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 0;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.05s, background 0.15s;
+}
+.picker-btn:not(.picker-spacer):active {
+  transform: scale(0.95);
+  background: var(--accent);
+  color: var(--card);
+}
+.picker-btn.picker-current {
+  background: var(--accent);
+  color: var(--card);
+}
+.picker-btn.picker-spacer {
+  background: transparent;
+  border: none;
+  cursor: default;
+}

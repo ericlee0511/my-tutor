@@ -500,10 +500,10 @@ function render(action) {
   }
 }
 
-function cycleLevel() {
+function setLevel(next) {
   const prev = state.level;
-  const i = LEVELS.indexOf(prev);
-  state.level = LEVELS[(i + 1) % LEVELS.length];
+  if (next === prev) return;
+  state.level = next;
   if (isTopik() !== prev.startsWith("t")) {
     state.story = null;
   }
@@ -514,6 +514,17 @@ function cycleLevel() {
   if (entry && entry.kind !== "scene") {
     render(entry.kind);
   }
+}
+
+function openLevelPicker() {
+  const overlay = document.getElementById("level-picker");
+  overlay.querySelectorAll(".picker-btn[data-level]").forEach(b => {
+    b.classList.toggle("picker-current", b.dataset.level === state.level);
+  });
+  overlay.hidden = false;
+}
+function closeLevelPicker() {
+  document.getElementById("level-picker").hidden = true;
 }
 
 function updateModeToggles() {
@@ -548,7 +559,13 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
   document.getElementById("dir-btn").textContent = dirLabel();
   updateModeToggles();
-  document.getElementById("level-btn").addEventListener("click", cycleLevel);
+  document.getElementById("level-btn").addEventListener("click", openLevelPicker);
+  const picker = document.getElementById("level-picker");
+  picker.addEventListener("click", e => {
+    if (e.target === picker) { closeLevelPicker(); return; }
+    const btn = e.target.closest(".picker-btn[data-level]");
+    if (btn) { setLevel(btn.dataset.level); closeLevelPicker(); }
+  });
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
   document.querySelectorAll(".action").forEach(b =>
