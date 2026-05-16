@@ -1,0 +1,29 @@
+{
+  "title": "Email Marketing Performance Report",
+  "all": [
+    { "en": "This report summarizes the performance of our email program during the first quarter.", "zh": "本報告總結我們電子郵件方案於第一季的成效表現。" },
+    { "en": "A total of twenty four campaigns were sent to our subscriber base.", "zh": "總計向訂閱戶名單發送了二十四檔活動。" },
+    { "en": "Our active subscriber count grew from sixty thousand to sixty eight thousand.", "zh": "活躍訂閱人數從六萬人成長至六萬八千人。" },
+    { "en": "The average open rate across all sends was twenty six percent.", "zh": "所有寄發的平均開信率為百分之二十六。" },
+    { "en": "This figure exceeds the industry benchmark by roughly four percentage points.", "zh": "此數字超越業界基準約四個百分點。" },
+    { "en": "The average click through rate landed at three point eight percent.", "zh": "平均點擊率落在百分之三點八。" },
+    { "en": "Tuesday morning sends consistently outperformed other day and time slots.", "zh": "週二上午寄發的成效持續優於其他日期與時段。" },
+    { "en": "The product launch announcement generated our highest revenue per email.", "zh": "產品上市公告創造了我們最高的每封郵件營收。" },
+    { "en": "Loyalty members opened our messages at nearly twice the average rate.", "zh": "忠誠會員開信率接近平均值的兩倍。" },
+    { "en": "Subject lines featuring numbers outperformed those using emojis.", "zh": "含數字的主旨表現優於使用表情符號者。" },
+    { "en": "Personalized first name greetings lifted open rates by about three percent.", "zh": "個人化名字稱呼提升開信率約百分之三。" },
+    { "en": "Mobile devices accounted for seventy two percent of all opens.", "zh": "行動裝置占所有開信數的百分之七十二。" },
+    { "en": "Our unsubscribe rate stayed below zero point four percent throughout the quarter.", "zh": "整季退訂率維持在百分之零點四以下。" },
+    { "en": "Spam complaints remained negligible at fewer than ten reports per send.", "zh": "垃圾郵件投訴維持極低，每次寄發少於十件回報。" },
+    { "en": "The abandoned cart automation drove the strongest conversion at nine percent.", "zh": "棄購自動化郵件帶來最強轉換率達百分之九。" },
+    { "en": "Welcome series engagement remained healthy with a fifty percent open rate.", "zh": "歡迎信系列互動表現穩健，開信率達百分之五十。" },
+    { "en": "Two segments showed declining engagement and need re engagement flows.", "zh": "兩個分眾出現互動下滑，需要再喚醒流程。" },
+    { "en": "Image heavy templates loaded slowly on older Android devices.", "zh": "圖片量大的版型在較舊的 Android 裝置上載入緩慢。" },
+    { "en": "We will adopt lightweight templates and lazy loading in the next quarter.", "zh": "下一季我們將採用輕量版型與延遲載入。" },
+    { "en": "List hygiene cleaning removed about twelve hundred inactive addresses.", "zh": "名單清潔作業移除了約一千兩百個非活躍地址。" },
+    { "en": "Deliverability scores improved after we tightened our authentication settings.", "zh": "在我們強化驗證設定後，送達率分數有所改善。" },
+    { "en": "Total revenue attributed to email reached one point two million dollars.", "zh": "歸因於電子郵件的總營收達一百二十萬美元。" },
+    { "en": "Recommended next steps include richer segmentation and a content refresh.", "zh": "建議的下一步包含更細緻的分眾與內容更新。" },
+    { "en": "The detailed appendix contains campaign by campaign breakdowns for reference.", "zh": "詳細附件包含逐檔活動拆解可供參考。" }
+  ]
+}

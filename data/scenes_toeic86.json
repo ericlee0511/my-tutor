@@ -1,0 +1,28 @@
+{
+  "title": "Expense Reimbursement Policy",
+  "all": [
+    { "en": "This memo summarizes the updated expense reimbursement policy.", "zh": "本備忘錄整理最新的差旅費請款辦法。" },
+    { "en": "The policy applies to all full time and contract employees.", "zh": "本辦法適用於所有正職與約聘員工。" },
+    { "en": "Reimbursable expenses must be related to approved business activities.", "zh": "可請款費用須與經核准之業務活動相關。" },
+    { "en": "Travel, lodging, meals, and ground transportation are covered categories.", "zh": "差旅、住宿、餐費與地面交通屬於可請款項目。" },
+    { "en": "All claims must be submitted within thirty days of the trip.", "zh": "所有請款須於行程結束後三十天內提出。" },
+    { "en": "Receipts are required for any expense above twenty five dollars.", "zh": "凡單筆超過二十五美元的費用皆需檢附收據。" },
+    { "en": "Digital scans of receipts are accepted through the finance portal.", "zh": "可透過財務系統上傳收據之電子掃描檔。" },
+    { "en": "Meal expenses are capped at seventy dollars per day domestically.", "zh": "國內出差餐費每日上限為七十美元。" },
+    { "en": "International meal allowances follow the rates published quarterly.", "zh": "國際出差餐費依每季公告之標準辦理。" },
+    { "en": "Economy class flights are required for travel under six hours.", "zh": "飛行時間六小時以內須搭乘經濟艙。" },
+    { "en": "Premium economy may be booked for flights longer than six hours.", "zh": "飛行時間超過六小時可訂購豪華經濟艙。" },
+    { "en": "Hotel rates should remain within published city tier limits.", "zh": "住宿費用應控制於公告之城市分級上限內。" },
+    { "en": "Ride sharing services are preferred over rental cars when possible.", "zh": "可行時應優先使用共乘服務而非租車。" },
+    { "en": "Personal expenses charged to the corporate card must be flagged.", "zh": "以公司卡支付之個人費用須另行標註。" },
+    { "en": "Alcohol is reimbursable only during approved client entertainment.", "zh": "酒類僅於經核准之客戶招待中可請款。" },
+    { "en": "Spousal travel costs are not reimbursable under any circumstance.", "zh": "配偶差旅費用於任何情況下均不予補助。" },
+    { "en": "Mileage for personal vehicle use follows the standard federal rate.", "zh": "使用私人車輛之里程依聯邦標準費率核發。" },
+    { "en": "Claims missing approval signatures will be returned for correction.", "zh": "缺少核准簽章之請款單將退回補正。" },
+    { "en": "Repeated policy violations may result in disciplinary review.", "zh": "重複違反辦法者可能進入懲處審議程序。" },
+    { "en": "Finance will reimburse approved claims within ten business days.", "zh": "財務部將於十個營業日內撥付核准之請款。" },
+    { "en": "Direct questions about specific cases to the travel desk team.", "zh": "個案疑問請逕洽差旅服務窗口團隊。" },
+    { "en": "The complete policy document is available on the intranet portal.", "zh": "完整辦法文件可於內部入口網站查閱。" },
+    { "en": "Please review the updated rules before booking your next trip.", "zh": "請於規劃下次行程前先閱讀最新規範。" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Contract Negotiation Meeting Summary",
+  "all": [
+    { "en": "Both parties met on Tuesday to negotiate the master service agreement.", "zh": "雙方於週二會面協商主服務合約。" },
+    { "en": "The meeting was attended by legal counsel and procurement leaders.", "zh": "會議由法務顧問與採購主管出席。" },
+    { "en": "Our team was represented by the regional director and account manager.", "zh": "我方由區域總監與客戶經理代表出席。" },
+    { "en": "Discussions focused on pricing, payment terms, and liability clauses.", "zh": "討論聚焦於定價、付款條件與責任條款。" },
+    { "en": "The client requested a five percent discount on the annual subscription.", "zh": "客戶要求年度訂閱費五個百分點的折扣。" },
+    { "en": "We offered three percent in exchange for a three year commitment.", "zh": "我方提出三個百分點，以換取三年承諾。" },
+    { "en": "Net forty five payment terms were proposed instead of net thirty.", "zh": "客戶提出四十五天淨付款條件以取代三十天淨付款。" },
+    { "en": "Our finance team approved net forty as a reasonable compromise.", "zh": "我方財務團隊核准四十天淨付款作為合理折衷。" },
+    { "en": "The limitation of liability cap was a major point of debate.", "zh": "責任上限條款是主要的爭論焦點。" },
+    { "en": "The client wanted unlimited liability for data breach incidents.", "zh": "客戶希望資料外洩事件採無限責任。" },
+    { "en": "We countered with a cap equal to twelve months of fees.", "zh": "我方反提以十二個月費用為上限。" },
+    { "en": "Indemnification language will be redrafted by both legal teams.", "zh": "賠償條款語言將由雙方法務團隊重新草擬。" },
+    { "en": "Service level commitments were agreed at ninety nine point five percent uptime.", "zh": "服務水準承諾協議為百分之九十九點五的可用率。" },
+    { "en": "Service credits will apply when monthly uptime falls below target.", "zh": "當月度可用率低於目標時將適用服務點數補償。" },
+    { "en": "Data residency requirements call for storage within the European Union.", "zh": "資料駐留要求需將資料儲存於歐盟境內。" },
+    { "en": "We confirmed our regional data center supports this requirement.", "zh": "我方確認區域資料中心可支援此項要求。" },
+    { "en": "Termination for convenience requires ninety days written notice.", "zh": "便利終止需提前九十天書面通知。" },
+    { "en": "Auto renewal will trigger unless either party objects in writing.", "zh": "除非任一方以書面拒絕，否則合約將自動續約。" },
+    { "en": "Confidentiality obligations survive for five years after termination.", "zh": "保密義務於合約終止後仍延續五年。" },
+    { "en": "Open issues will be documented in a tracker shared between teams.", "zh": "未決事項將記錄於雙方共享的追蹤表中。" },
+    { "en": "The next negotiation session is scheduled for next Thursday afternoon.", "zh": "下次協商會議排定於下週四下午。" },
+    { "en": "We aim to complete signature by the end of the month.", "zh": "我們目標於月底前完成簽署。" },
+    { "en": "Overall, the meeting was constructive and forward looking.", "zh": "整體而言，會議具建設性且具前瞻性。" },
+    { "en": "Both sides expressed strong interest in finalizing the partnership.", "zh": "雙方皆表達儘速完成合作的強烈意願。" }
+  ]
+}

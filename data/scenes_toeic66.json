@@ -1,0 +1,29 @@
+{
+  "title": "Software Engineer Job Posting",
+  "all": [
+    { "en": "Our growing technology team is hiring a senior software engineer in Taipei.", "zh": "我們成長中的技術團隊正在台北招募一位資深軟體工程師。" },
+    { "en": "The position reports to the engineering manager of the platform group.", "zh": "此職位向平台組的工程經理直接彙報。" },
+    { "en": "We are looking for someone passionate about scalable backend systems.", "zh": "我們尋找對可擴展後端系統懷抱熱情的人選。" },
+    { "en": "The successful candidate will design, build, and maintain core services.", "zh": "錄取者將負責設計、建置並維護核心服務。" },
+    { "en": "You will collaborate closely with product managers and designers across regions.", "zh": "你將與跨區域的產品經理及設計師密切合作。" },
+    { "en": "Daily work includes code reviews, architecture discussions, and on-call rotations.", "zh": "日常工作包含程式碼審查、架構討論及輪值待命。" },
+    { "en": "We require at least five years of professional development experience.", "zh": "我們要求至少五年的專業開發經驗。" },
+    { "en": "Strong proficiency in Java, Go, or Python is considered essential.", "zh": "精通 Java、Go 或 Python 被視為必要條件。" },
+    { "en": "Familiarity with containerization tools such as Docker and Kubernetes is preferred.", "zh": "熟悉 Docker 及 Kubernetes 等容器化工具者尤佳。" },
+    { "en": "Experience with cloud platforms like AWS or GCP is highly desirable.", "zh": "具備 AWS 或 GCP 等雲端平台經驗者極受歡迎。" },
+    { "en": "Knowledge of distributed databases and message queues will be a strong advantage.", "zh": "具備分散式資料庫與訊息佇列知識將是強力加分。" },
+    { "en": "Excellent written and verbal communication in English is required for this role.", "zh": "此職位要求優秀的英文書寫及口語溝通能力。" },
+    { "en": "We value engineers who write clean, testable, and well-documented code.", "zh": "我們重視能撰寫清晰、可測試且具良好文件的工程師。" },
+    { "en": "A bachelor degree in computer science or a related field is preferred.", "zh": "電腦科學或相關領域學士學位者尤佳。" },
+    { "en": "Equivalent practical experience will be considered in lieu of formal education.", "zh": "等同的實務經驗可替代正式學歷。" },
+    { "en": "We offer a competitive salary, equity participation, and an annual bonus.", "zh": "我們提供具競爭力的薪資、股權參與及年度獎金。" },
+    { "en": "Benefits include comprehensive health insurance for employees and dependents.", "zh": "福利包括員工及眷屬的完整健康保險。" },
+    { "en": "Flexible working hours and a hybrid remote arrangement are available.", "zh": "我們提供彈性工時及混合遠端的工作安排。" },
+    { "en": "All engineers receive an annual learning budget of two thousand US dollars.", "zh": "所有工程師每年享有兩千美元的學習預算。" },
+    { "en": "We celebrate diversity and provide equal opportunity to all qualified applicants.", "zh": "我們珍視多元並對所有合格申請者提供平等機會。" },
+    { "en": "Interested candidates should submit a resume and a brief cover letter.", "zh": "有興趣者請繳交履歷及一份簡短的求職信。" },
+    { "en": "Optionally include a link to your GitHub profile or portfolio site.", "zh": "可選擇性附上你的 GitHub 連結或作品集網站。" },
+    { "en": "Applications will be reviewed on a rolling basis until the position is filled.", "zh": "申請將以滾動方式審查至職缺補滿為止。" },
+    { "en": "Shortlisted applicants can expect a response within ten business days.", "zh": "入圍者可預期於十個工作天內收到回覆。" }
+  ]
+}

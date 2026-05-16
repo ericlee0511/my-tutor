@@ -1,0 +1,29 @@
+{
+  "title": "Service Level Agreement Excerpt",
+  "all": [
+    { "en": "This service level agreement is between the provider and the customer.", "zh": "本服務水準協議由服務提供者與客戶共同訂立。" },
+    { "en": "It defines the performance standards expected from the cloud service.", "zh": "本協議定義雲端服務應達成的效能標準。" },
+    { "en": "The agreement takes effect on the date of subscription activation.", "zh": "本協議自訂閱啟用日起生效。" },
+    { "en": "Monthly uptime is committed at ninety nine point nine percent or higher.", "zh": "月度可用率承諾為百分之九十九點九或更高。" },
+    { "en": "Uptime is calculated based on total minutes within each calendar month.", "zh": "可用率以每曆月總分鐘數為基礎計算。" },
+    { "en": "Scheduled maintenance windows are excluded from uptime calculations.", "zh": "排定的維護時段不納入可用率計算。" },
+    { "en": "Maintenance notifications will be sent at least seventy two hours in advance.", "zh": "維護通知將於至少七十二小時前發出。" },
+    { "en": "Critical incidents are defined as full service unavailability.", "zh": "重大事件定義為服務完全無法使用。" },
+    { "en": "Response time for critical incidents is within fifteen minutes.", "zh": "重大事件的回應時間為十五分鐘以內。" },
+    { "en": "Resolution targets vary by severity level and complexity of the issue.", "zh": "解決目標依事件嚴重等級與複雜度而有所不同。" },
+    { "en": "Severity one issues are targeted for resolution within four hours.", "zh": "嚴重等級一的事件目標於四小時內解決。" },
+    { "en": "Severity two issues are targeted for resolution within one business day.", "zh": "嚴重等級二的事件目標於一個工作日內解決。" },
+    { "en": "Service credits apply if monthly uptime falls below the committed level.", "zh": "若月度可用率低於承諾標準將適用服務點數補償。" },
+    { "en": "Credits range from ten percent to fifty percent of monthly fees.", "zh": "補償點數金額為月費的百分之十至百分之五十。" },
+    { "en": "Customers must submit credit requests within thirty days of the incident.", "zh": "客戶須於事件發生後三十天內提出補償申請。" },
+    { "en": "Service credits are the exclusive remedy for missed performance targets.", "zh": "服務點數為未達效能目標的唯一補償方式。" },
+    { "en": "Force majeure events are excluded from service level calculations.", "zh": "不可抗力事件不納入服務水準計算。" },
+    { "en": "Examples include natural disasters and major internet outages.", "zh": "範例包含自然災害與重大網路中斷。" },
+    { "en": "The provider will maintain detailed incident reports for each event.", "zh": "服務提供者將為每次事件維護詳細事件報告。" },
+    { "en": "Post incident reviews are shared with customers upon request.", "zh": "事件後檢討依需求與客戶分享。" },
+    { "en": "Performance reports are published monthly on the customer portal.", "zh": "效能報告每月於客戶入口網站發佈。" },
+    { "en": "Either party may request a service level review on a quarterly basis.", "zh": "任一方均可每季要求進行服務水準檢討。" },
+    { "en": "Changes to the service level agreement require written mutual consent.", "zh": "服務水準協議的變更需經雙方書面同意。" },
+    { "en": "This excerpt summarizes only the key provisions of the full document.", "zh": "本摘錄僅總結完整文件的關鍵條款。" }
+  ]
+}

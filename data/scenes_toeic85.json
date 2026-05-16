@@ -1,0 +1,28 @@
+{
+  "title": "Cross Docking Workflow Guide",
+  "all": [
+    { "en": "This guide describes the standard cross docking workflow at the central hub.", "zh": "本指南說明中央集散中心的標準越庫作業流程。" },
+    { "en": "Cross docking moves goods directly from inbound trucks to outbound vehicles.", "zh": "越庫作業將貨物自進貨車輛直接轉至出貨車輛。" },
+    { "en": "The model minimizes storage time and reduces overall handling costs significantly.", "zh": "此模式可將存放時間降至最低，並大幅降低整體搬運成本。" },
+    { "en": "Inbound trucks must be scheduled through the dock appointment system in advance.", "zh": "進貨車輛需透過月台預約系統提前排程。" },
+    { "en": "Drivers report to the security gate and present a confirmed reference number.", "zh": "司機需至警衛室報到並出示確認的預約編號。" },
+    { "en": "Dock assignments are displayed on the digital screen at the staging area.", "zh": "月台分派資訊將顯示於暫存區的電子看板。" },
+    { "en": "Receiving clerks verify shipment documents against the advance shipping notice.", "zh": "收貨人員依據出貨預先通知核對貨運文件。" },
+    { "en": "Pallets are scanned upon arrival to record condition and item counts accurately.", "zh": "棧板於到貨時即進行掃描，準確紀錄狀態與數量。" },
+    { "en": "Damaged or short shipments must be reported to the supervisor immediately.", "zh": "如有損壞或短少貨物，應立即通報主管。" },
+    { "en": "Sorting takes place in the central staging lanes using color coded markings.", "zh": "分揀作業於中央暫存通道進行，採彩色標示分區。" },
+    { "en": "Each destination route corresponds to a unique lane and barcode label format.", "zh": "每一目的地路線對應專屬通道與條碼標籤格式。" },
+    { "en": "Outbound staging must be completed within two hours of inbound arrival.", "zh": "出貨備位須於進貨抵達後兩小時內完成。" },
+    { "en": "Material handlers transport goods using powered pallet jacks across the dock floor.", "zh": "搬運人員以電動托盤車於月台地板移動貨物。" },
+    { "en": "Pedestrian walkways are clearly marked to ensure safety during peak hours.", "zh": "行人通道有清楚標示，以確保尖峰時段安全。" },
+    { "en": "Loaders verify each pallet against the outbound manifest before sealing the trailer.", "zh": "裝載人員封櫃前需依出貨清單核對每張棧板。" },
+    { "en": "Trailer seals are recorded in the warehouse management system upon departure.", "zh": "拖車封條於出貨時於倉儲管理系統中登錄。" },
+    { "en": "Real time dashboards monitor throughput and dwell time at every dock door.", "zh": "即時儀表板監控每個月台門的吞吐量與停留時間。" },
+    { "en": "Daily targets include average dwell times below ninety minutes per shipment.", "zh": "每日目標包含每筆貨物平均停留時間低於九十分鐘。" },
+    { "en": "Exceptions are logged into the incident tracker for end of shift review meetings.", "zh": "例外事件登錄至事件追蹤系統，供下班檢討會議使用。" },
+    { "en": "Continuous improvement teams analyze trends to refine procedures every month.", "zh": "持續改善小組每月分析趨勢，以精進作業程序。" },
+    { "en": "Safety briefings occur at the start of every shift in the operations briefing room.", "zh": "每班開始前於營運簡報室進行安全宣導。" },
+    { "en": "Personal protective equipment is mandatory in all dock and staging zones.", "zh": "所有月台與暫存區皆須穿戴個人防護裝備。" },
+    { "en": "By following this workflow, our hub maintains industry leading service levels.", "zh": "遵循本流程，本集散中心得以維持業界領先的服務水準。" }
+  ]
+}

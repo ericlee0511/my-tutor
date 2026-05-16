@@ -1,0 +1,29 @@
+{
+  "title": "SEO Audit Findings",
+  "all": [
+    { "en": "Our agency completed a full technical and content audit of the corporate website.", "zh": "我們的代理商完成了企業網站的完整技術與內容體檢。" },
+    { "en": "The audit covered nine hundred unique URLs across all language versions.", "zh": "本次體檢涵蓋了所有語系共九百個獨立網址。" },
+    { "en": "Overall site health was rated at sixty eight out of one hundred.", "zh": "整體站點健康度評為一百分中的六十八分。" },
+    { "en": "The score reflects solid fundamentals but several high impact issues remain.", "zh": "此分數反映基礎良好但仍存在數項高影響問題。" },
+    { "en": "Forty two pages currently return server errors that block indexing.", "zh": "目前有四十二個頁面回傳伺服器錯誤致使無法被索引。" },
+    { "en": "More than one hundred pages have missing or duplicated meta descriptions.", "zh": "超過一百個頁面有遺漏或重複的中繼描述。" },
+    { "en": "Title tags on product pages often exceed the recommended sixty character limit.", "zh": "產品頁的標題標籤經常超過建議的六十字元上限。" },
+    { "en": "Image alt text is absent on roughly thirty percent of all visual assets.", "zh": "約百分之三十的視覺素材缺少圖片替代文字。" },
+    { "en": "Page load speed on mobile averages four point one seconds for our top pages.", "zh": "我們主要頁面在行動裝置上的平均載入時間為四點一秒。" },
+    { "en": "Core web vitals scores fall below the recommended threshold on three key templates.", "zh": "三項關鍵版型的核心網頁指標分數低於建議門檻。" },
+    { "en": "Several blog articles contain broken internal links to discontinued products.", "zh": "數篇部落格文章含有指向已下架產品的失效內部連結。" },
+    { "en": "The XML sitemap still references old URLs from the previous site structure.", "zh": "XML 網站地圖仍引用舊版站點結構的舊網址。" },
+    { "en": "Hreflang tags are missing on about half of the multilingual pages.", "zh": "約一半的多語頁面缺少 hreflang 標記。" },
+    { "en": "Schema markup is implemented only on a small portion of product detail pages.", "zh": "結構化資料僅實作於一小部分產品詳細頁。" },
+    { "en": "Backlink profile remains healthy with two thousand referring domains overall.", "zh": "外部連結組合維持健康，總計兩千個參照網域。" },
+    { "en": "However, twelve toxic links from low quality sites should be disavowed promptly.", "zh": "然而有十二個來自低品質站點的有害連結應儘速否認。" },
+    { "en": "Keyword rankings improved in twenty eight tracked terms over the past quarter.", "zh": "追蹤的二十八個關鍵字排名於過去一季有所提升。" },
+    { "en": "Eleven keywords slipped out of the top ten and require fresh content support.", "zh": "十一個關鍵字跌出前十名需新內容支援。" },
+    { "en": "Recommended quick wins include fixing redirects and updating meta descriptions.", "zh": "建議的速勝項目包含修復轉址與更新中繼描述。" },
+    { "en": "Medium term actions involve content refresh on twenty top performing articles.", "zh": "中期行動涉及更新二十篇表現頂尖文章的內容。" },
+    { "en": "Long term strategy should focus on building topic clusters around solution pages.", "zh": "長期策略應聚焦於圍繞解決方案頁建立主題集群。" },
+    { "en": "A re audit is recommended six months after implementation begins.", "zh": "建議於改善實施開始六個月後進行再次體檢。" },
+    { "en": "The full report with prioritized action items is attached for your review.", "zh": "含優先排序行動項目的完整報告隨附供您審閱。" },
+    { "en": "Please confirm your team availability for the implementation kickoff next week.", "zh": "請確認貴團隊下週實施啟動會議的可出席時間。" }
+  ]
+}

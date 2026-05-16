@@ -1,0 +1,29 @@
+{
+  "title": "Reference Check Questionnaire",
+  "all": [
+    { "en": "Thank you for agreeing to serve as a reference for our candidate.", "zh": "感謝您同意擔任我們候選人的推薦人。" },
+    { "en": "Your honest feedback will help us make a well-informed hiring decision.", "zh": "您誠實的回饋將協助我們做出充分知情的聘用決定。" },
+    { "en": "All responses will be kept strictly confidential and used internally only.", "zh": "所有回覆將嚴格保密並僅供內部使用。" },
+    { "en": "Please confirm the candidate full name and the dates of employment.", "zh": "請確認候選人的全名及任職期間。" },
+    { "en": "In what capacity did you work with this individual on a daily basis?", "zh": "您與此人是以何種身分共事的？" },
+    { "en": "How long did your direct working relationship last in total?", "zh": "您與其直接共事的時間總計多久？" },
+    { "en": "Could you describe the candidate primary responsibilities and scope?", "zh": "您可否描述候選人的主要職責與工作範圍？" },
+    { "en": "On a scale of one to ten, how would you rate overall performance?", "zh": "若以一到十分評分，您會給予的整體表現幾分？" },
+    { "en": "What would you identify as the candidate greatest professional strengths?", "zh": "您認為候選人最大的專業強項為何？" },
+    { "en": "Are there any specific areas in which growth or development is needed?", "zh": "是否有特定領域需要成長或加強？" },
+    { "en": "How effectively does the candidate communicate with peers and senior leaders?", "zh": "候選人與同儕及高階主管的溝通效果如何？" },
+    { "en": "Please comment on their reliability, punctuality, and follow-through.", "zh": "請就其可靠度、守時及貫徹力提出評論。" },
+    { "en": "How does the candidate handle pressure, conflict, or shifting priorities?", "zh": "候選人如何處理壓力、衝突或不斷變動的優先順序？" },
+    { "en": "Can you provide an example of a notable contribution they made?", "zh": "您能否舉出他們做出顯著貢獻的具體例子？" },
+    { "en": "Would you describe them as a team player or more of an individual contributor?", "zh": "您會形容他們為團隊合作者或較偏向個人貢獻者？" },
+    { "en": "How well do they receive constructive criticism and apply feedback?", "zh": "他們接受建設性批評並運用回饋的能力如何？" },
+    { "en": "Is there anything that prevented them from achieving full potential?", "zh": "是否有任何因素阻礙他們發揮全部潛力？" },
+    { "en": "Knowing what you know now, would you hire this person again?", "zh": "依您目前所知，您是否願意再次聘用此人？" },
+    { "en": "Do you have any concerns regarding integrity, ethics, or professional conduct?", "zh": "您對其誠信、倫理或職業操守是否有任何疑慮？" },
+    { "en": "Would you recommend the candidate for a senior individual contributor role?", "zh": "您是否會推薦該候選人擔任資深個人貢獻者職位？" },
+    { "en": "Please feel free to add any additional comments you consider relevant.", "zh": "若有其他您認為相關的補充說明，請自由填寫。" },
+    { "en": "Kindly return the completed form within five business days if possible.", "zh": "請盡可能於五個工作天內回傳填寫完畢的表單。" },
+    { "en": "If you prefer a phone interview, our recruiter will gladly arrange one.", "zh": "若您偏好電話訪談，我們的招募人員樂於協助安排。" },
+    { "en": "We greatly appreciate the time and care you have devoted to this request.", "zh": "我們非常感謝您為此項請求所付出的時間與用心。" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Quality Assurance Audit Results",
+  "all": [
+    { "en": "The quality assurance audit was completed at our Taichung production facility last week.", "zh": "品質保證稽核已於上週於台中生產廠完成。" },
+    { "en": "A team of four certified auditors spent three full days on site.", "zh": "由四名合格稽核員組成的團隊於現場進行了完整三天。" },
+    { "en": "The audit scope covered incoming inspection, in process control, and final release.", "zh": "稽核範圍涵蓋進料檢驗、製程管控與最終放行。" },
+    { "en": "Forty seven procedures were sampled across all manufacturing departments.", "zh": "全部製造部門共抽樣了四十七項程序。" },
+    { "en": "Document control records were largely accurate and well maintained.", "zh": "文件管制紀錄整體準確且維護良好。" },
+    { "en": "Calibration certificates for measurement equipment were all within validity.", "zh": "量測設備之校正證書均在有效期間內。" },
+    { "en": "Operator training matrices showed full coverage for current production lines.", "zh": "作業員訓練矩陣顯示對現行產線達成全面覆蓋。" },
+    { "en": "However, two non conformances were identified during the closing meeting.", "zh": "然而於結案會議中提出了兩項不符合事項。" },
+    { "en": "The first concerned inconsistent labeling on the rework area shelves.", "zh": "第一項關於重工區架上標示不一致。" },
+    { "en": "The second related to incomplete records of supplier deviation approvals.", "zh": "第二項與供應商偏差核准紀錄不完整有關。" },
+    { "en": "Six observations were noted for management consideration and improvement.", "zh": "另列出六項觀察事項供管理階層參考與改善。" },
+    { "en": "These included opportunities to streamline change control documentation.", "zh": "其中包含精簡變更管制文件的機會。" },
+    { "en": "Customer complaint trending data was reviewed for the past twelve months.", "zh": "已檢視過去十二個月的客訴趨勢資料。" },
+    { "en": "Complaints decreased by twenty three percent compared with the prior year.", "zh": "客訴件數較前一年下降百分之二十三。" },
+    { "en": "Internal scrap rates remained stable at one point four percent of output.", "zh": "內部廢品率穩定維持在產出的百分之一點四。" },
+    { "en": "First pass yield improved from ninety two to ninety five percent.", "zh": "一次通過率由百分之九十二提升至百分之九十五。" },
+    { "en": "Management commitment to the quality system was clearly demonstrated.", "zh": "管理階層對品質系統的承諾獲清楚展現。" },
+    { "en": "Corrective actions for both non conformances are due within forty five days.", "zh": "兩項不符合事項的矯正措施須於四十五日內完成。" },
+    { "en": "Root cause analysis must follow the eight discipline methodology.", "zh": "根本原因分析須遵循八項紀律方法論執行。" },
+    { "en": "Effectiveness checks will be conducted ninety days after closure.", "zh": "結案後九十日將進行有效性查核。" },
+    { "en": "The auditors recommended continuing the current management review cadence.", "zh": "稽核員建議延續目前的管理審查節奏。" },
+    { "en": "Overall, the facility maintained its certification without restrictions.", "zh": "整體而言，本廠維持認證資格且無任何限制。" },
+    { "en": "A written audit report will be issued within fifteen business days.", "zh": "書面稽核報告將於十五個營業日內發布。" },
+    { "en": "All affected departments will receive copies for review and action planning.", "zh": "所有受影響部門將收到副本以供檢視與行動規劃。" },
+    { "en": "We thank everyone who contributed to a smooth and transparent audit process.", "zh": "感謝所有促成本次稽核順利透明的同仁。" }
+  ]
+}

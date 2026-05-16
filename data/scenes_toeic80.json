@@ -1,0 +1,30 @@
+{
+  "title": "Manufacturing Line Maintenance Plan",
+  "all": [
+    { "en": "This plan defines the preventive maintenance schedule for production line three.", "zh": "本計畫定義第三條產線的預防性保養排程。" },
+    { "en": "The objective is to maintain equipment availability above ninety six percent.", "zh": "目標係維持設備可用率高於百分之九十六。" },
+    { "en": "Daily checks are performed by the operating crew at the start of each shift.", "zh": "每班開始時由作業組進行日常檢點。" },
+    { "en": "Visual inspections cover guards, sensors, and emergency stop buttons.", "zh": "目視檢查涵蓋護蓋、感測器與緊急停止按鈕。" },
+    { "en": "Lubrication tasks are scheduled weekly during the planned downtime window.", "zh": "潤滑作業每週於計畫停機時段執行。" },
+    { "en": "Filters and screens are cleaned every two weeks regardless of condition.", "zh": "濾網與篩網無論狀態如何均每兩週清潔一次。" },
+    { "en": "Monthly tasks include belt tension checks and alignment verification.", "zh": "月度作業包含皮帶張力檢查與對位確認。" },
+    { "en": "Vibration analysis on critical motors is conducted every quarter.", "zh": "關鍵馬達的振動分析每季執行一次。" },
+    { "en": "Thermal imaging surveys are performed on electrical panels twice a year.", "zh": "電控盤的熱影像檢測每年執行兩次。" },
+    { "en": "Major overhauls are planned during the annual factory shutdown in August.", "zh": "大修排定於八月年度工廠停產期間進行。" },
+    { "en": "Spare parts inventory is reviewed monthly to maintain optimal levels.", "zh": "備品庫存每月檢討以維持最適水位。" },
+    { "en": "Critical spares are stocked locally to minimize repair lead times.", "zh": "關鍵備品於本地備存以縮短維修前置時間。" },
+    { "en": "All maintenance work is logged in our computerized maintenance management system.", "zh": "所有保養工作均登錄於電腦化保養管理系統。" },
+    { "en": "Work orders must include start time, end time, and parts consumed.", "zh": "工單須包含開始時間、結束時間與耗用零件。" },
+    { "en": "Technicians are required to record root causes for every breakdown event.", "zh": "技師對每起故障事件均須記錄根本原因。" },
+    { "en": "Mean time between failures is tracked as a key performance indicator.", "zh": "平均故障間隔時間列為關鍵績效指標進行追蹤。" },
+    { "en": "Mean time to repair targets are set at under two hours for major faults.", "zh": "重大故障的平均修復時間目標設定為兩小時以內。" },
+    { "en": "Training plans ensure each technician is certified on at least three machines.", "zh": "訓練計畫確保每位技師至少獲得三台機械的認證。" },
+    { "en": "Safety lockout and tagout procedures must be followed without exception.", "zh": "安全上鎖與掛牌程序須無例外遵循。" },
+    { "en": "Contractors performing specialized work must present valid insurance documentation.", "zh": "執行專業作業的承包商須出示有效保險文件。" },
+    { "en": "Maintenance budget for this year totals two point three million dollars.", "zh": "本年度保養預算總計兩百三十萬美元。" },
+    { "en": "Approximately sixty percent is allocated to preventive activities.", "zh": "約百分之六十的預算配置於預防性活動。" },
+    { "en": "The remaining forty percent covers reactive and improvement projects.", "zh": "其餘百分之四十涵蓋反應性與改善型專案。" },
+    { "en": "Monthly performance reviews are held with the production leadership team.", "zh": "每月與生產領導團隊舉行績效檢討會議。" },
+    { "en": "This plan will be revised should production volumes change significantly.", "zh": "若生產量出現顯著變動，本計畫將予以修訂。" }
+  ]
+}

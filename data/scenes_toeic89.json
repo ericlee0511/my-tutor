@@ -1,0 +1,27 @@
+{
+  "title": "Bank Account Statement Notification",
+  "all": [
+    { "en": "Your monthly account statement is now available for review.", "zh": "您的月度對帳單現已可供查閱。" },
+    { "en": "The statement period covers transactions from April first to thirtieth.", "zh": "對帳期間涵蓋四月一日至三十日之交易。" },
+    { "en": "You can access the document through our secure online banking portal.", "zh": "您可透過我們的安全網路銀行入口取得文件。" },
+    { "en": "Paper statements are no longer mailed by default to customers.", "zh": "本行已不再預設寄送紙本對帳單。" },
+    { "en": "Please log in using your registered username and password.", "zh": "請使用您註冊之帳號與密碼登入。" },
+    { "en": "Multifactor authentication is required for all account holders.", "zh": "所有帳戶持有人均須通過多因素身分驗證。" },
+    { "en": "Your opening balance for the period was twelve thousand dollars.", "zh": "本期之期初餘額為一萬二千美元。" },
+    { "en": "Total deposits this month amounted to eight thousand seven hundred dollars.", "zh": "本月存款總計為八千七百美元。" },
+    { "en": "Total withdrawals and payments reached five thousand four hundred dollars.", "zh": "本月提款與付款合計為五千四百美元。" },
+    { "en": "Your ending balance as of the cutoff date was fifteen thousand three hundred.", "zh": "截止日之期末餘額為一萬五千三百美元。" },
+    { "en": "Service charges for the month total nine dollars and ninety nine cents.", "zh": "本月服務費合計為九點九九美元。" },
+    { "en": "Interest earned on savings products is shown in a separate section.", "zh": "儲蓄商品所獲利息列示於獨立區塊。" },
+    { "en": "Pending transactions are not yet reflected in the official statement.", "zh": "未結算交易尚未反映於正式對帳單。" },
+    { "en": "Please review every line item carefully for accuracy.", "zh": "請逐筆仔細核對每項明細之正確性。" },
+    { "en": "Report any unauthorized activity within sixty days of statement issuance.", "zh": "如發現未授權之活動，請於對帳單寄發後六十天內通報。" },
+    { "en": "Suspicious charges should be flagged using the dispute form online.", "zh": "可疑款項請透過線上爭議表單標記。" },
+    { "en": "Our fraud team is available around the clock for urgent cases.", "zh": "本行詐欺防制團隊全天候為緊急個案服務。" },
+    { "en": "You may download statements in either PDF or CSV format.", "zh": "您可下載PDF或CSV格式之對帳單檔案。" },
+    { "en": "Historical statements remain accessible for the past seven years.", "zh": "過去七年之歷史對帳單均可查閱。" },
+    { "en": "Email alerts can be configured for low balance thresholds.", "zh": "可設定電子郵件提醒以監控低額度門檻。" },
+    { "en": "Mobile app notifications provide real time transaction updates.", "zh": "行動應用程式可即時推播交易通知。" },
+    { "en": "Thank you for banking with us throughout this statement period.", "zh": "感謝您本期間持續使用本行服務。" }
+  ]
+}

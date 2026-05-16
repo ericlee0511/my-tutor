@@ -1,0 +1,27 @@
+{
+  "title": "Invoice Payment Terms Reminder",
+  "all": [
+    { "en": "This message is a friendly reminder regarding outstanding invoices.", "zh": "本訊息為友善提醒您仍有未結清之發票。" },
+    { "en": "Our standard payment terms are net thirty from the invoice date.", "zh": "本公司標準付款條件為發票日後三十天淨付款。" },
+    { "en": "Several invoices on your account are approaching the due date.", "zh": "您帳戶上有數張發票即將屆滿付款期。" },
+    { "en": "Invoice number A four five six two is due on Friday next week.", "zh": "發票編號A四五六二將於下週五到期。" },
+    { "en": "The outstanding balance currently totals eighteen thousand dollars.", "zh": "目前未結清餘額合計為一萬八千美元。" },
+    { "en": "Please confirm receipt of all listed invoices at your earliest convenience.", "zh": "請於方便時儘速確認已收到所列各筆發票。" },
+    { "en": "Wire transfer remains our preferred method for payment settlement.", "zh": "電匯仍為本公司偏好的結帳方式。" },
+    { "en": "Bank routing details are included in the footer of each invoice.", "zh": "銀行匯款資訊載於每張發票之頁尾。" },
+    { "en": "Please reference the invoice number when initiating any transfer.", "zh": "進行匯款時請務必註記對應之發票編號。" },
+    { "en": "Credit card payments are accepted but subject to a processing fee.", "zh": "亦可使用信用卡付款，惟須加收處理手續費。" },
+    { "en": "Late payments accrue interest at one point five percent monthly.", "zh": "逾期款項將以月息百分之一點五計息。" },
+    { "en": "Accounts past sixty days may be referred to collections review.", "zh": "逾期超過六十天之帳戶可能轉交催收程序審核。" },
+    { "en": "Repeated delays may impact your future credit terms with us.", "zh": "多次延遲可能影響日後與本公司之信用額度條件。" },
+    { "en": "If you anticipate any delay, please contact us in advance.", "zh": "若預期將有延遲，請事先與我們聯繫。" },
+    { "en": "We can discuss installment plans for unexpected cash flow issues.", "zh": "如遇突發資金狀況可商議分期付款方案。" },
+    { "en": "Statement copies can be resent upon request from your team.", "zh": "如您團隊有需要可再次寄送對帳單副本。" },
+    { "en": "Dispute resolution should be raised within seven days of invoice receipt.", "zh": "如有爭議應於收到發票後七天內提出。" },
+    { "en": "Please direct billing questions to the accounts receivable team.", "zh": "帳務疑問請洽應收帳款團隊。" },
+    { "en": "Online payment portal access remains available around the clock.", "zh": "線上付款入口全天候開放使用。" },
+    { "en": "Your prompt attention helps us maintain a smooth working relationship.", "zh": "您及時的回應有助於維持順暢的合作關係。" },
+    { "en": "Thank you for your continued partnership and timely cooperation.", "zh": "感謝您長期合作以及及時的配合。" },
+    { "en": "We look forward to receiving payment confirmation soon.", "zh": "我們期待儘快收到您的付款確認。" }
+  ]
+}

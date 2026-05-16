@@ -1,0 +1,27 @@
+{
+  "title": "A B Test Results Memo",
+  "all": [
+    { "en": "This memo summarizes the results of our recent landing page optimization test.", "zh": "本備忘錄彙整近期登陸頁優化測試的結果。" },
+    { "en": "Two design variants were compared against the existing control experience.", "zh": "兩個設計版本與現行對照版進行了比較測試。" },
+    { "en": "Variant A featured a simplified hero section with a single primary action.", "zh": "版本 A 採用簡化的主視覺區，僅保留單一主要行動按鈕。" },
+    { "en": "Variant B introduced testimonial blocks placed directly below the headline.", "zh": "版本 B 在標題正下方加入了客戶見證區塊。" },
+    { "en": "The test ran for fourteen consecutive days using equal traffic allocation.", "zh": "測試以平均流量分配方式連續執行十四天。" },
+    { "en": "Total visitor volume across the experiment reached just over ninety thousand.", "zh": "整個實驗的訪客總量略超過九萬人次。" },
+    { "en": "Variant A increased conversion rate by twelve percent relative to the control.", "zh": "版本 A 的轉換率較對照版提升百分之十二。" },
+    { "en": "Variant B increased conversion rate by seven percent over the same time period.", "zh": "版本 B 於同期間將轉換率提升百分之七。" },
+    { "en": "Statistical significance was confirmed at the ninety five percent confidence level.", "zh": "已在百分之九十五的信賴水準下確認統計顯著性。" },
+    { "en": "Average session duration also improved across both variants compared to control.", "zh": "兩個版本相較於對照版，平均停留時間皆有改善。" },
+    { "en": "Bounce rate decreased meaningfully on mobile devices in particular.", "zh": "尤其在行動裝置上，跳出率明顯降低。" },
+    { "en": "Desktop performance was less differentiated but still trended positively overall.", "zh": "桌機端表現差異較小，但整體仍呈正向趨勢。" },
+    { "en": "Segmentation by traffic source revealed strong gains from paid social channels.", "zh": "依流量來源細分顯示，付費社群通路有顯著提升。" },
+    { "en": "Organic search visitors responded more strongly to the simplified layout option.", "zh": "自然搜尋訪客對簡化版面選項的反應更為強烈。" },
+    { "en": "Heatmap analysis confirmed greater engagement above the page fold.", "zh": "熱區分析確認在首屏範圍內互動更為熱絡。" },
+    { "en": "Survey responses indicated that visitors found the new design easier to navigate.", "zh": "問卷回應顯示訪客覺得新設計更易於瀏覽操作。" },
+    { "en": "Based on these results, we recommend rolling out Variant A site wide next week.", "zh": "依據這些結果，建議下週於全站推出版本 A。" },
+    { "en": "Variant B elements may still inform future iterations of the homepage experience.", "zh": "版本 B 的元素仍可作為未來首頁體驗迭代的參考。" },
+    { "en": "A second round of testing will explore form length and field requirements.", "zh": "第二輪測試將探討表單長度與欄位需求。" },
+    { "en": "We will also evaluate the impact of new pricing presentation in upcoming sprints.", "zh": "未來衝刺中也將評估新版定價呈現方式的影響。" },
+    { "en": "Performance dashboards will be updated to monitor sustained improvement over time.", "zh": "績效儀表板將進行更新，以監控持續改善的成效。" },
+    { "en": "Please contact the growth team for raw data extracts or further analysis questions.", "zh": "如需原始資料匯出或更多分析問題，請聯絡成長團隊。" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Supplier Code of Conduct",
+  "all": [
+    { "en": "This code of conduct sets the minimum expectations for all approved suppliers.", "zh": "本行為準則訂定所有核准供應商須遵循的最低期望。" },
+    { "en": "It applies to every tier of our global supply chain without exception.", "zh": "本準則無例外適用於全球供應鏈的每一層級。" },
+    { "en": "Suppliers must comply with all applicable laws in the countries where they operate.", "zh": "供應商須遵守其營運所在地的所有適用法律。" },
+    { "en": "Where this code exceeds local law, the higher standard shall apply.", "zh": "本準則高於當地法律之處，應適用較嚴格的標準。" },
+    { "en": "Forced or involuntary labor of any kind is strictly prohibited.", "zh": "任何形式的強迫或非自願勞動均嚴格禁止。" },
+    { "en": "The minimum working age must meet or exceed local regulations.", "zh": "最低工作年齡須達到或超越當地法規規定。" },
+    { "en": "Working hours and rest days must follow national labor standards.", "zh": "工作時數與休假日須遵循國家勞動標準。" },
+    { "en": "Wages and benefits must be paid accurately and on time every cycle.", "zh": "薪資與福利每期須準確且按時發放。" },
+    { "en": "Suppliers shall provide a safe and healthy work environment for all employees.", "zh": "供應商應為所有員工提供安全與健康的工作環境。" },
+    { "en": "Personal protective equipment must be supplied free of charge where required.", "zh": "凡屬必要之個人防護裝備須免費提供。" },
+    { "en": "Discrimination based on race, gender, religion, or age is not tolerated.", "zh": "基於種族、性別、宗教或年齡的歧視一律不容忍。" },
+    { "en": "Freedom of association and collective bargaining must be respected.", "zh": "結社自由與集體協商權利必須受到尊重。" },
+    { "en": "Bribery, kickbacks, and any form of corruption are strictly forbidden.", "zh": "賄賂、回扣及任何形式的貪腐均嚴格禁止。" },
+    { "en": "Gifts to our employees must not exceed reasonable business courtesy levels.", "zh": "贈予本公司員工的禮品不得超出合理商務禮儀範圍。" },
+    { "en": "Confidential information shared with suppliers must be protected at all times.", "zh": "與供應商分享的機密資訊須隨時受到保護。" },
+    { "en": "Intellectual property rights of all parties must be fully respected.", "zh": "所有相關方的智慧財產權須受到完整尊重。" },
+    { "en": "Suppliers must implement environmental management aligned with ISO fourteen thousand one.", "zh": "供應商須依據 ISO 14001 推行環境管理。" },
+    { "en": "Greenhouse gas emissions should be measured and reduced wherever feasible.", "zh": "溫室氣體排放應於可行範圍內進行量測與減量。" },
+    { "en": "Conflict minerals must be sourced through fully traceable channels.", "zh": "衝突礦產須透過完全可追溯的管道採購。" },
+    { "en": "Subcontractors and lower tier suppliers must adhere to equivalent standards.", "zh": "次承包商及下游供應商須遵循同等標準。" },
+    { "en": "Suppliers must allow audits with reasonable advance notice.", "zh": "供應商須於合理事前通知下接受稽核。" },
+    { "en": "Identified gaps shall be addressed through agreed corrective action plans.", "zh": "已識別之落差應透過議定的矯正措施計畫處理。" },
+    { "en": "Suspected violations may be reported anonymously through our ethics hotline.", "zh": "疑似違反事項可透過倫理專線匿名通報。" },
+    { "en": "Non compliance may result in suspension or termination of the supplier relationship.", "zh": "不符規定可能導致暫停或終止供應商合作關係。" },
+    { "en": "Acceptance of this code is required before any purchase order may be issued.", "zh": "於核發任何採購訂單前須先接受本準則。" }
+  ]
+}

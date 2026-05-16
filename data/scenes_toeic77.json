@@ -1,0 +1,30 @@
+{
+  "title": "Inventory Replenishment Procedure",
+  "all": [
+    { "en": "This document outlines the standard procedure for replenishing inventory at our distribution center.", "zh": "本文件說明本配送中心庫存補貨的標準程序。" },
+    { "en": "Replenishment cycles run twice daily at six in the morning and two in the afternoon.", "zh": "補貨週期每日兩次，分別於上午六時及下午二時執行。" },
+    { "en": "The warehouse management system generates a pick list based on current stock levels.", "zh": "倉庫管理系統依據當前庫存水位產生揀貨清單。" },
+    { "en": "Reorder points are set at twenty percent of average monthly consumption.", "zh": "再訂購點設定為平均月使用量的百分之二十。" },
+    { "en": "Safety stock for fast moving items is maintained at ten business days of demand.", "zh": "暢銷品的安全庫存維持在十個營業日的需求量。" },
+    { "en": "Replenishment tasks are assigned to operators through handheld scanners.", "zh": "補貨任務透過手持掃描器分派給作業員。" },
+    { "en": "Operators must scan the source location before picking any pallet.", "zh": "作業員揀貨前須先掃描來源儲位。" },
+    { "en": "Quantities are confirmed against the system before the move is completed.", "zh": "於完成移動前須與系統比對確認數量。" },
+    { "en": "Any discrepancy greater than two units must be reported to the supervisor.", "zh": "任何大於二件的差異必須通報主管。" },
+    { "en": "Forward pick locations are limited to one pallet height for ergonomic reasons.", "zh": "前線揀貨位基於人因考量限為一個棧板高度。" },
+    { "en": "Bulk reserve storage occupies the upper three levels of each rack.", "zh": "整箱備品儲存佔用每組貨架的上方三層。" },
+    { "en": "Temperature controlled items follow a separate replenishment workflow.", "zh": "溫控品項適用獨立的補貨流程。" },
+    { "en": "Hazardous materials require dual operator verification at every step.", "zh": "危險物料每一步驟均需兩名作業員確認。" },
+    { "en": "The team aims to complete each replenishment cycle within ninety minutes.", "zh": "團隊目標於九十分鐘內完成每次補貨循環。" },
+    { "en": "Daily exception reports highlight any tasks not closed within the cycle window.", "zh": "每日例外報表列出於循環時段內未結案的任務。" },
+    { "en": "Cycle counts are triggered automatically when stock falls below the threshold.", "zh": "當庫存低於門檻時將自動觸發循環盤點。" },
+    { "en": "Slotting reviews are performed every quarter to optimize travel distances.", "zh": "儲位配置檢討每季執行一次以優化移動距離。" },
+    { "en": "Seasonal items receive temporary slots closer to the shipping dock.", "zh": "季節性品項獲配置接近出貨碼頭的臨時儲位。" },
+    { "en": "Damaged stock encountered during replenishment must be quarantined immediately.", "zh": "補貨過程中發現的損壞庫存須立即隔離。" },
+    { "en": "Replenishment productivity is tracked at the operator and shift level.", "zh": "補貨生產力以作業員及班次為單位進行追蹤。" },
+    { "en": "Continuous improvement suggestions are welcomed through the weekly huddle.", "zh": "歡迎於每週站立會議中提出持續改善建議。" },
+    { "en": "Training certification is required before any operator performs solo replenishment.", "zh": "作業員獨立執行補貨前須先取得訓練認證。" },
+    { "en": "All procedural changes must be approved by the operations manager.", "zh": "所有流程變更均須經營運經理核可。" },
+    { "en": "This procedure is reviewed annually or whenever significant process changes occur.", "zh": "本程序每年或重大流程變更時進行檢討。" },
+    { "en": "Questions regarding this procedure should be directed to the inventory control team.", "zh": "本程序相關疑問應洽詢庫存管理團隊。" }
+  ]
+}

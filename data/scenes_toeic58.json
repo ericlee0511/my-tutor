@@ -1,0 +1,29 @@
+{
+  "title": "Sales Pipeline Review",
+  "all": [
+    { "en": "The weekly pipeline review brings every account executive together on Monday.", "zh": "每週 pipeline 檢視會議於週一集合所有客戶經理。" },
+    { "en": "The sales director opens by sharing aggregate quota attainment numbers.", "zh": "業務總監先分享整體配額達成數字。" },
+    { "en": "Current pipeline coverage stands at two point eight times quota.", "zh": "目前 pipeline 覆蓋率為配額的兩點八倍。" },
+    { "en": "The healthy benchmark for this stage is three times quota.", "zh": "現階段健康的標竿為配額的三倍。" },
+    { "en": "Each rep walks through their top five active opportunities.", "zh": "每位業務員逐一說明其前五大進行中機會。" },
+    { "en": "Deal stage, close date, and amount are reviewed in detail.", "zh": "案件階段、結案日期與金額均詳細檢視。" },
+    { "en": "Stalled deals receive specific attention from the leadership team.", "zh": "停滯案件獲得管理團隊的特別關注。" },
+    { "en": "Coaches ask probing questions about decision makers and budgets.", "zh": "教練針對決策者與預算提出深入問題。" },
+    { "en": "Mutual close plans are required for all deals above fifty thousand.", "zh": "所有金額超過五萬的案件皆需備有雙方確認的結案計畫。" },
+    { "en": "Reps without a documented next step must update notes immediately.", "zh": "未記錄下一步行動的業務員須立即更新筆記。" },
+    { "en": "Forecast categories include commit, best case, and pipeline.", "zh": "預估類別包括承諾、最佳情境與 pipeline。" },
+    { "en": "Commit deals are expected to close with high confidence this quarter.", "zh": "承諾案件預期將以高信心度於本季結案。" },
+    { "en": "Best case deals require additional verification before counting them.", "zh": "最佳情境案件於計入前需額外驗證。" },
+    { "en": "Slipped deals from last quarter are flagged for executive review.", "zh": "上一季延滯案件已標記供主管階層檢視。" },
+    { "en": "Lost opportunity analysis helps the team learn from competitive losses.", "zh": "失敗機會分析協助團隊從競爭失利中學習。" },
+    { "en": "Pricing pressure was cited in four of the seven recent losses.", "zh": "近期七件流失案件中有四件提及價格壓力。" },
+    { "en": "Two losses involved feature gaps the product team is now addressing.", "zh": "兩件流失案件涉及功能缺口，產品團隊正在處理。" },
+    { "en": "New logo creation remains the highest priority for the region.", "zh": "新客戶開發仍是該區域的最高優先事項。" },
+    { "en": "Cross sell opportunities into the installed base are also tracked.", "zh": "對既有客戶的交叉銷售機會亦納入追蹤。" },
+    { "en": "Sales operations will publish updated dashboards by Friday morning.", "zh": "業務營運將於週五早上前發佈更新後的儀表板。" },
+    { "en": "Reps are reminded to log every customer interaction in the system.", "zh": "提醒業務員將每次客戶互動記錄於系統中。" },
+    { "en": "Action items are captured and assigned with clear owners and dates.", "zh": "行動項目均記錄並指派明確負責人與日期。" },
+    { "en": "The meeting closes with a brief motivational message from leadership.", "zh": "會議於管理層簡短的激勵訊息中結束。" },
+    { "en": "Discipline in the pipeline drives predictability in revenue results.", "zh": "pipeline 的紀律驅動營收成果的可預測性。" }
+  ]
+}

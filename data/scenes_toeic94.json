@@ -1,0 +1,29 @@
+{
+  "title": "Year End Closing Schedule",
+  "all": [
+    { "en": "The finance team has finalized the closing schedule for the current fiscal year.", "zh": "財務團隊已完成本會計年度結帳時程的最終版本。" },
+    { "en": "All departments must respect the cutoff dates listed in this important memo.", "zh": "各部門皆須遵守本重要備忘錄所列的截止日期。" },
+    { "en": "Purchase orders for goods received before year end must be entered by December tenth.", "zh": "年底前已收貨之採購單須於十二月十日前完成輸入。" },
+    { "en": "Outstanding vendor invoices should be submitted to accounts payable by December twelfth.", "zh": "未結廠商發票應於十二月十二日前送至應付帳款組。" },
+    { "en": "Travel and expense claims for the current year must be filed by December fifteenth.", "zh": "本年度差旅與費用報銷單須於十二月十五日前提交。" },
+    { "en": "Claims received after that date will be processed in the following fiscal period.", "zh": "該日期後收到的報銷單將於下個會計期間處理。" },
+    { "en": "Inventory counts at all warehouses will take place on December twentieth.", "zh": "所有倉庫的盤點作業將於十二月二十日進行。" },
+    { "en": "Department leaders should release staff to support counting where required.", "zh": "部門主管應視需要釋出人力支援盤點。" },
+    { "en": "Asset disposals must be approved and recorded by December twenty second this year.", "zh": "資產處分本年度須於十二月二十二日前完成核准與紀錄。" },
+    { "en": "Capital project accruals require completed documentation by December twenty third.", "zh": "資本專案應計項目須於十二月二十三日前備妥文件。" },
+    { "en": "Bank reconciliations and intercompany balances will close on December twenty seventh.", "zh": "銀行帳戶調節與關係企業往來餘額將於十二月二十七日截止。" },
+    { "en": "Foreign currency revaluations will be processed at official month end rates.", "zh": "外幣評價將依官方月底匯率進行處理。" },
+    { "en": "Preliminary financial statements are scheduled for release on January eighth.", "zh": "暫定財務報表預計於一月八日發布。" },
+    { "en": "External auditors will begin substantive testing on January twelfth as planned.", "zh": "外部稽核將依計畫於一月十二日開始實質測試。" },
+    { "en": "Department managers may receive requests for supporting documents during this phase.", "zh": "部門主管於此階段可能會收到佐證文件提供需求。" },
+    { "en": "Responses should be returned within two business days of any auditor request.", "zh": "對稽核員任何要求皆應於兩個工作日內回覆。" },
+    { "en": "Statutory filings with regulators are due within ninety days of year end.", "zh": "向主管機關提交的法定申報文件須於年度結束後九十日內完成。" },
+    { "en": "Tax provision calculations will be reviewed jointly with external advisers.", "zh": "稅務準備計算將與外部顧問共同檢視。" },
+    { "en": "Department forecasts for the new fiscal year must be uploaded by January fifteenth.", "zh": "各部門新會計年度預測須於一月十五日前上傳。" },
+    { "en": "Variance commentary should accompany every account exceeding the threshold limit.", "zh": "超過門檻金額的每項科目皆應附差異說明。" },
+    { "en": "A workshop on the new chart of accounts will be held in early January.", "zh": "新版會計科目表說明會將於一月初舉行。" },
+    { "en": "Attendance is strongly recommended for all financial controllers and analysts.", "zh": "強烈建議所有財務經理與分析師務必出席。" },
+    { "en": "Please contact the corporate accounting team with any questions about deadlines.", "zh": "如有任何截止日期相關問題，請洽公司會計團隊。" },
+    { "en": "Your cooperation ensures a smooth and accurate close for the entire organization.", "zh": "您的配合將使全公司順利、準確完成結帳作業。" }
+  ]
+}
