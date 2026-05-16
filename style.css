@@ -218,18 +218,19 @@ main {
   color: var(--text);
   flex: 1;
   min-width: 0;
-  display: flex;
-  gap: 6px;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: 6px;
+  align-items: start;
 }
 .story-prefix {
-  flex-shrink: 0;
   white-space: nowrap;
 }
 .story-text {
-  flex: 1;
   min-width: 0;
+  white-space: normal;
   word-break: break-word;
+  overflow-wrap: anywhere;
 }
 .story-switch {
   background: transparent;
