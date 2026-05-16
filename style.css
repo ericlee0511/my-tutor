@@ -333,10 +333,19 @@ footer {
   max-width: 420px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
 }
-.picker-grid {
+.picker-row {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 8px;
+  margin-bottom: 8px;
+}
+.picker-row:last-child { margin-bottom: 0; }
+.picker-row-n {
+  display: flex;
+  justify-content: center;
+}
+.picker-row-n .picker-btn {
+  flex: 0 0 calc((100% - 5 * 8px) / 6);
 }
 .picker-btn {
   background: var(--accent-soft);
@@ -345,13 +354,14 @@ footer {
   border-radius: 10px;
   padding: 10px 0;
   font-family: inherit;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 600;
   text-align: center;
+  white-space: nowrap;
   cursor: pointer;
   transition: transform 0.05s, background 0.15s;
 }
-.picker-btn:not(.picker-spacer):active {
+.picker-btn:active {
   transform: scale(0.95);
   background: var(--accent);
   color: var(--card);
@@ -359,9 +369,4 @@ footer {
 .picker-btn.picker-current {
   background: var(--accent);
   color: var(--card);
-}
-.picker-btn.picker-spacer {
-  background: transparent;
-  border: none;
-  cursor: default;
 }
