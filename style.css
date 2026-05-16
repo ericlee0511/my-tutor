@@ -129,12 +129,12 @@ main {
 }
 #content .kana {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 14px;
   margin-bottom: 10px;
 }
 #content .label {
   color: var(--muted);
-  font-size: 13px;
+  font-size: 14px;
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -142,11 +142,11 @@ main {
   margin-top: 12px;
   padding-left: 12px;
   border-left: 3px solid var(--accent-soft);
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.7;
 }
 #content > div:has(> .label) {
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.7;
   display: flex;
   align-items: baseline;
