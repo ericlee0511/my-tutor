@@ -3915,6 +3915,1106 @@
       ],
       "answer": 3,
       "explanation_zh": "「break down」意為「破裂、失敗」，常用於談判、關係或機器故障。其他片語意義不符。"
+    },
+    {
+      "question_en": "The quarterly board meeting will be held _____ Friday afternoon in the main conference room.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "特定日期（星期幾）使用 on；at 用於時間點，in 用於月份/年份，by 表示截止時間。"
+    },
+    {
+      "question_en": "All expense reports must be submitted _____ the end of the fiscal quarter to avoid processing delays.",
+      "options": [
+        "until",
+        "by",
+        "on",
+        "from"
+      ],
+      "answer": 1,
+      "explanation_zh": "by 表示在某時間點之前完成（截止），until 強調持續到該時間，on 用於特定日，from 表起點。"
+    },
+    {
+      "question_en": "Our new office is conveniently located _____ the corner of Fifth Avenue and Main Street.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "at the corner of 是固定搭配，指具體交叉點；on the corner 較少用於此正式語境。"
+    },
+    {
+      "question_en": "The project must be completed _____ two weeks to meet the client's deadline.",
+      "options": [
+        "in",
+        "within",
+        "by",
+        "on"
+      ],
+      "answer": 1,
+      "explanation_zh": "within 強調「在某段時間範圍內」，比 in 更精準表達期限；by 需搭配明確時間點。"
+    },
+    {
+      "question_en": "Please refer to the attached document _____ the proposed budget changes.",
+      "options": [
+        "regard",
+        "regarded",
+        "regarding",
+        "regards"
+      ],
+      "answer": 2,
+      "explanation_zh": "regarding 為介系詞，意為「關於」，用法等同 about/concerning。"
+    },
+    {
+      "question_en": "Maintenance work will be carried out _____ the weekend to minimize disruption.",
+      "options": [
+        "throughout",
+        "among",
+        "between",
+        "into"
+      ],
+      "answer": 0,
+      "explanation_zh": "throughout 表「整個…期間」，強調貫穿時間段；其他選項語意不符。"
+    },
+    {
+      "question_en": "The contract was signed _____ the CEO and the supplier last Monday.",
+      "options": [
+        "with",
+        "by",
+        "between",
+        "from"
+      ],
+      "answer": 2,
+      "explanation_zh": "between 用於兩方之間的合約簽訂；by 強調動作執行者，與「雙方」語境不符。"
+    },
+    {
+      "question_en": "Mr. Tanaka has been working _____ this company since 2015.",
+      "options": [
+        "for",
+        "since",
+        "in",
+        "during"
+      ],
+      "answer": 0,
+      "explanation_zh": "work for + 公司 是固定搭配，表「為某公司工作」；in 後接公司較少見且語意不同。"
+    },
+    {
+      "question_en": "The shipment was delayed _____ unforeseen logistical issues.",
+      "options": [
+        "due to",
+        "because",
+        "so that",
+        "in order to"
+      ],
+      "answer": 0,
+      "explanation_zh": "due to + 名詞表「由於」，因後接名詞片語；because 後須接子句。"
+    },
+    {
+      "question_en": "Please respond to the customer's inquiry _____ 24 hours of receipt.",
+      "options": [
+        "in",
+        "within",
+        "by",
+        "at"
+      ],
+      "answer": 1,
+      "explanation_zh": "within 24 hours of 是常見搭配，意為「收到後 24 小時內」。"
+    },
+    {
+      "question_en": "Ms. Patel was promoted _____ senior manager last quarter.",
+      "options": [
+        "as",
+        "to",
+        "for",
+        "into"
+      ],
+      "answer": 1,
+      "explanation_zh": "be promoted to + 職位 為固定搭配，表「晉升為…」。"
+    },
+    {
+      "question_en": "The company specializes _____ providing IT solutions to small businesses.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "with"
+      ],
+      "answer": 0,
+      "explanation_zh": "specialize in 為固定動詞片語，意為「專精於」。"
+    },
+    {
+      "question_en": "_____ honest employee is hard to come by these days.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "(no article)"
+      ],
+      "answer": 1,
+      "explanation_zh": "honest 開頭發音為母音 /ɒ/，故須用 an；h 不發音。"
+    },
+    {
+      "question_en": "The board appointed Mr. Chen as _____ new CEO of the corporation.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(no article)"
+      ],
+      "answer": 2,
+      "explanation_zh": "公司只有一位 CEO，為特定且唯一的職位，須用定冠詞 the。"
+    },
+    {
+      "question_en": "_____ punctuality is highly valued in our corporate culture.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "(no article)"
+      ],
+      "answer": 3,
+      "explanation_zh": "抽象不可數名詞（如 punctuality）作通指時不加冠詞。"
+    },
+    {
+      "question_en": "She has been working as _____ accountant at our firm for ten years.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(no article)"
+      ],
+      "answer": 1,
+      "explanation_zh": "accountant 以母音 /æ/ 開頭，且為單數可數職業名詞，用 an。"
+    },
+    {
+      "question_en": "_____ United Kingdom is one of our largest overseas markets.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "(no article)"
+      ],
+      "answer": 2,
+      "explanation_zh": "國名中含 Kingdom/States/Republic 等普通名詞時須加 the。"
+    },
+    {
+      "question_en": "We need _____ qualified translator for the upcoming negotiation in Tokyo.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(no article)"
+      ],
+      "answer": 0,
+      "explanation_zh": "qualified 以子音 /k/ 開頭，且為單數可數，泛指任一合格翻譯，用 a。"
+    },
+    {
+      "question_en": "_____ information you requested has been forwarded to your email.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "(no article)"
+      ],
+      "answer": 2,
+      "explanation_zh": "由 you requested 子句明確指定，故用定冠詞 the；information 為不可數不接 a/an。"
+    },
+    {
+      "question_en": "Our company offers _____ free coffee in the breakroom every day.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(no article)"
+      ],
+      "answer": 3,
+      "explanation_zh": "coffee 在此為不可數名詞作通指，不加冠詞。"
+    },
+    {
+      "question_en": "This year's profit margin is significantly _____ than last year's.",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "more high"
+      ],
+      "answer": 1,
+      "explanation_zh": "兩者比較使用比較級 higher than。"
+    },
+    {
+      "question_en": "Of all the candidates we interviewed, Ms. Lee was _____ qualified.",
+      "options": [
+        "more",
+        "most",
+        "the most",
+        "very most"
+      ],
+      "answer": 2,
+      "explanation_zh": "三者以上比較且有 of all，用最高級 the most + 形容詞。"
+    },
+    {
+      "question_en": "The new software is far _____ user-friendly than the previous version.",
+      "options": [
+        "more",
+        "much",
+        "most",
+        "many"
+      ],
+      "answer": 0,
+      "explanation_zh": "user-friendly 為多音節形容詞，比較級用 more；far 為加強語氣修飾比較級。"
+    },
+    {
+      "question_en": "Our Tokyo branch generates _____ revenue of any office in the region.",
+      "options": [
+        "more",
+        "the more",
+        "most",
+        "the most"
+      ],
+      "answer": 3,
+      "explanation_zh": "of any office 暗示在某範圍內最高，用最高級 the most。"
+    },
+    {
+      "question_en": "The marketing team's performance this quarter is _____ better than expected.",
+      "options": [
+        "very",
+        "much",
+        "more",
+        "so"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾比較級 better 用 much/far/even；very 不可修飾比較級。"
+    },
+    {
+      "question_en": "Sales in the second half were not _____ as those in the first half.",
+      "options": [
+        "as strong",
+        "stronger",
+        "strongest",
+        "so stronger"
+      ],
+      "answer": 0,
+      "explanation_zh": "not as + 原級 + as 表「不如…那麼…」，as strong as 為固定句型。"
+    },
+    {
+      "question_en": "The CFO has _____ experience in financial management among the executives.",
+      "options": [
+        "more",
+        "much",
+        "the most",
+        "most of"
+      ],
+      "answer": 2,
+      "explanation_zh": "among the executives 表範圍內比較最高，用最高級 the most。"
+    },
+    {
+      "question_en": "This is by far _____ presentation I have ever attended.",
+      "options": [
+        "the better",
+        "the best",
+        "better",
+        "best"
+      ],
+      "answer": 1,
+      "explanation_zh": "by far + the + 最高級 為固定搭配；ever 也提示最高級語境。"
+    },
+    {
+      "question_en": "If the proposal _____ approved, we will begin production next month.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "will be"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一條件句：if + 現在簡單式, 主句 will + V，描述可能發生的未來。"
+    },
+    {
+      "question_en": "If I _____ the manager, I would restructure the entire department.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "had been"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二條件句（與現在事實相反）：if + were/V-ed, 主句 would + V；正式用法用 were。"
+    },
+    {
+      "question_en": "If the client had signed the contract earlier, we _____ already begun the project.",
+      "options": [
+        "would",
+        "would have",
+        "had",
+        "will have"
+      ],
+      "answer": 1,
+      "explanation_zh": "第三條件句（與過去事實相反）：if + had + p.p., 主句 would have + p.p.。"
+    },
+    {
+      "question_en": "If you _____ ice, it melts.",
+      "options": [
+        "heat",
+        "will heat",
+        "would heat",
+        "had heated"
+      ],
+      "answer": 0,
+      "explanation_zh": "零條件句（永恆事實）：if + 現在簡單式, 主句也用現在簡單式。"
+    },
+    {
+      "question_en": "Should you _____ any questions, please contact our customer service department.",
+      "options": [
+        "have",
+        "to have",
+        "having",
+        "had"
+      ],
+      "answer": 0,
+      "explanation_zh": "Should 引導的倒裝條件句相當於 if 子句，後接原形動詞 have。"
+    },
+    {
+      "question_en": "Had we anticipated the supply shortage, we _____ ordered additional inventory.",
+      "options": [
+        "would",
+        "would have",
+        "will have",
+        "had"
+      ],
+      "answer": 1,
+      "explanation_zh": "Had + 主詞 + p.p. 為第三條件句倒裝，主句用 would have + p.p.。"
+    },
+    {
+      "question_en": "Unless the budget is approved, the project _____ proceed as planned.",
+      "options": [
+        "cannot",
+        "will not",
+        "would not",
+        "does not"
+      ],
+      "answer": 1,
+      "explanation_zh": "unless = if not，表第一條件句語意，主句用 will not。"
+    },
+    {
+      "question_en": "All visitors _____ wear identification badges while inside the building.",
+      "options": [
+        "must",
+        "may",
+        "might",
+        "could"
+      ],
+      "answer": 0,
+      "explanation_zh": "must 表強制性規定（必須），符合公司安全規範語境。"
+    },
+    {
+      "question_en": "You _____ have informed us earlier; we could have rescheduled the meeting.",
+      "options": [
+        "must",
+        "should",
+        "may",
+        "could"
+      ],
+      "answer": 1,
+      "explanation_zh": "should have + p.p. 表對過去未做之事的責備或遺憾，意為「早該…」。"
+    },
+    {
+      "question_en": "The shipment _____ have arrived by now; let me check the tracking system.",
+      "options": [
+        "should",
+        "would",
+        "might",
+        "shall"
+      ],
+      "answer": 0,
+      "explanation_zh": "should have + p.p. 在此表「按理應該已…」的推測。"
+    },
+    {
+      "question_en": "Employees _____ take vacation days at any time, subject to manager approval.",
+      "options": [
+        "must",
+        "may",
+        "should",
+        "ought to"
+      ],
+      "answer": 1,
+      "explanation_zh": "may 表「可以、被允許」，符合「依規定許可」的語意。"
+    },
+    {
+      "question_en": "We _____ have hired more staff; the workload is now overwhelming.",
+      "options": [
+        "must",
+        "should",
+        "may",
+        "can"
+      ],
+      "answer": 1,
+      "explanation_zh": "should have + p.p. 表「早該…而未做」的後悔。"
+    },
+    {
+      "question_en": "He _____ have left the office already; his car is no longer in the parking lot.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "shall"
+      ],
+      "answer": 0,
+      "explanation_zh": "must have + p.p. 表對過去事件的肯定推論（一定已經…）。"
+    },
+    {
+      "question_en": "You _____ not smoke anywhere on company premises.",
+      "options": [
+        "may",
+        "must",
+        "could",
+        "would"
+      ],
+      "answer": 1,
+      "explanation_zh": "must not 表明確禁止；may not 較弱且不適用於明文禁令。"
+    },
+    {
+      "question_en": "The negotiations _____ have failed if both parties had been more flexible.",
+      "options": [
+        "may not",
+        "should not",
+        "might not",
+        "must not"
+      ],
+      "answer": 2,
+      "explanation_zh": "might not have + p.p. 表對過去事件的不確定推論（也許就不會…）。"
+    },
+    {
+      "question_en": "The management decided _____ the company's logo next year.",
+      "options": [
+        "redesigning",
+        "to redesign",
+        "redesign",
+        "to redesigning"
+      ],
+      "answer": 1,
+      "explanation_zh": "decide 後接不定詞 to + V。"
+    },
+    {
+      "question_en": "We are considering _____ a new branch in Singapore next year.",
+      "options": [
+        "to open",
+        "open",
+        "opening",
+        "opened"
+      ],
+      "answer": 2,
+      "explanation_zh": "consider 後接動名詞 V-ing。"
+    },
+    {
+      "question_en": "The CEO promised _____ all employees with a year-end bonus.",
+      "options": [
+        "providing",
+        "to provide",
+        "provide",
+        "provided"
+      ],
+      "answer": 1,
+      "explanation_zh": "promise 後接不定詞 to + V。"
+    },
+    {
+      "question_en": "The accountant suggested _____ the budget proposal before submission.",
+      "options": [
+        "to revise",
+        "revise",
+        "revising",
+        "to revising"
+      ],
+      "answer": 2,
+      "explanation_zh": "suggest 後接動名詞 V-ing。"
+    },
+    {
+      "question_en": "Our team is committed to _____ the highest quality service to clients.",
+      "options": [
+        "deliver",
+        "delivering",
+        "delivered",
+        "be delivering"
+      ],
+      "answer": 1,
+      "explanation_zh": "be committed to 中 to 為介系詞，後接動名詞 V-ing。"
+    },
+    {
+      "question_en": "She managed _____ the project ahead of schedule despite the challenges.",
+      "options": [
+        "completing",
+        "to complete",
+        "complete",
+        "completed"
+      ],
+      "answer": 1,
+      "explanation_zh": "manage 後接不定詞 to + V，表「設法做到」。"
+    },
+    {
+      "question_en": "The director recommended _____ external consultants for the merger.",
+      "options": [
+        "to hire",
+        "hire",
+        "hiring",
+        "hired"
+      ],
+      "answer": 2,
+      "explanation_zh": "recommend 後接動名詞 V-ing。"
+    },
+    {
+      "question_en": "We look forward to _____ from you regarding the contract terms.",
+      "options": [
+        "hear",
+        "hearing",
+        "be hearing",
+        "have heard"
+      ],
+      "answer": 1,
+      "explanation_zh": "look forward to 中 to 為介系詞，後接 V-ing。"
+    },
+    {
+      "question_en": "The HR department is responsible for _____ new employees.",
+      "options": [
+        "train",
+        "to train",
+        "training",
+        "trained"
+      ],
+      "answer": 2,
+      "explanation_zh": "be responsible for + V-ing 表「負責做某事」。"
+    },
+    {
+      "question_en": "Mr. Wilson refused _____ the unfavorable terms of the contract.",
+      "options": [
+        "accepting",
+        "to accept",
+        "accept",
+        "accepted"
+      ],
+      "answer": 1,
+      "explanation_zh": "refuse 後接不定詞 to + V。"
+    },
+    {
+      "question_en": "_____ in the lobby, the new mural immediately caught visitors' attention.",
+      "options": [
+        "Displaying",
+        "Displayed",
+        "To display",
+        "Display"
+      ],
+      "answer": 1,
+      "explanation_zh": "the mural 被陳列，為被動關係，用過去分詞 Displayed 作分詞構句。"
+    },
+    {
+      "question_en": "_____ the report, the analyst noticed several discrepancies in the data.",
+      "options": [
+        "Reviewing",
+        "Reviewed",
+        "Review",
+        "To reviewing"
+      ],
+      "answer": 0,
+      "explanation_zh": "分析師主動審閱，主動關係用現在分詞 Reviewing。"
+    },
+    {
+      "question_en": "_____ for over a decade, the equipment finally needs to be replaced.",
+      "options": [
+        "Using",
+        "Used",
+        "Use",
+        "To use"
+      ],
+      "answer": 1,
+      "explanation_zh": "設備「被使用」十幾年，被動關係用過去分詞 Used。"
+    },
+    {
+      "question_en": "_____ his keynote speech, the CEO unveiled the company's new strategy.",
+      "options": [
+        "Deliver",
+        "Delivered",
+        "Delivering",
+        "To delivering"
+      ],
+      "answer": 2,
+      "explanation_zh": "CEO 主動發表演說，與主句同時發生，用現在分詞 Delivering。"
+    },
+    {
+      "question_en": "_____ from the airport, the delegates went straight to the conference venue.",
+      "options": [
+        "Arriving",
+        "Arrived",
+        "To arrive",
+        "Arrive"
+      ],
+      "answer": 0,
+      "explanation_zh": "代表們主動抵達，用現在分詞 Arriving 表「一抵達就…」。"
+    },
+    {
+      "question_en": "_____ the press release, the spokesperson answered questions from reporters.",
+      "options": [
+        "Issue",
+        "Issuing",
+        "Issued",
+        "Having issued"
+      ],
+      "answer": 3,
+      "explanation_zh": "Having issued 表完成式分詞，強調動作先於主句發生。"
+    },
+    {
+      "question_en": "_____ all the relevant data, the team began drafting the proposal.",
+      "options": [
+        "Gathering",
+        "Gathered",
+        "Having gathered",
+        "To gather"
+      ],
+      "answer": 2,
+      "explanation_zh": "資料先收集完才開始撰寫提案，用 Having + p.p. 完成式分詞。"
+    },
+    {
+      "question_en": "Not only _____ the deadline, but the team also exceeded the target.",
+      "options": [
+        "they met",
+        "did they meet",
+        "they did meet",
+        "met they"
+      ],
+      "answer": 1,
+      "explanation_zh": "Not only 置句首須倒裝：助動詞 did + 主詞 + 原形 V。"
+    },
+    {
+      "question_en": "Hardly _____ the office when the phone started ringing.",
+      "options": [
+        "I had entered",
+        "had I entered",
+        "I entered",
+        "did I enter"
+      ],
+      "answer": 1,
+      "explanation_zh": "Hardly...when... 為固定倒裝句型，had + 主詞 + p.p.。"
+    },
+    {
+      "question_en": "No sooner _____ the announcement than the stock price soared.",
+      "options": [
+        "the CEO made",
+        "did the CEO make",
+        "had the CEO made",
+        "the CEO had made"
+      ],
+      "answer": 2,
+      "explanation_zh": "No sooner...than... 句型，前句用過去完成式倒裝 had + 主詞 + p.p.。"
+    },
+    {
+      "question_en": "Under no circumstances _____ confidential client data be shared externally.",
+      "options": [
+        "should",
+        "it should",
+        "should it",
+        "should be"
+      ],
+      "answer": 0,
+      "explanation_zh": "否定副詞片語置句首須倒裝：助動詞 should + 主詞 + 原形 V。"
+    },
+    {
+      "question_en": "Seldom _____ such a dramatic increase in quarterly sales.",
+      "options": [
+        "we have seen",
+        "have we seen",
+        "we did see",
+        "we saw"
+      ],
+      "answer": 1,
+      "explanation_zh": "Seldom 為否定副詞置句首，須倒裝：have + 主詞 + p.p.。"
+    },
+    {
+      "question_en": "Only after the audit _____ that several errors had occurred.",
+      "options": [
+        "we realized",
+        "did we realize",
+        "we did realize",
+        "had we realized"
+      ],
+      "answer": 1,
+      "explanation_zh": "Only + 副詞片語置句首，主句倒裝：did + 主詞 + 原形 V。"
+    },
+    {
+      "question_en": "Rarely _____ such an enthusiastic response from our customers.",
+      "options": [
+        "we receive",
+        "do we receive",
+        "we do receive",
+        "received we"
+      ],
+      "answer": 1,
+      "explanation_zh": "Rarely 為否定頻率副詞置句首，須倒裝：do + 主詞 + 原形 V。"
+    },
+    {
+      "question_en": "The negotiation team finally _____ a compromise after hours of discussion.",
+      "options": [
+        "worked out",
+        "looked into",
+        "got over",
+        "ran into"
+      ],
+      "answer": 0,
+      "explanation_zh": "work out 意為「解決、想出（方案）」，符合協商達成妥協語境。"
+    },
+    {
+      "question_en": "Please _____ the meeting until next Tuesday due to the CEO's travel schedule.",
+      "options": [
+        "put off",
+        "put up",
+        "put down",
+        "put on"
+      ],
+      "answer": 0,
+      "explanation_zh": "put off 意為「延後」，符合「會議延期」語境。"
+    },
+    {
+      "question_en": "The auditor will _____ the financial statements next week.",
+      "options": [
+        "look after",
+        "look into",
+        "look up",
+        "look down"
+      ],
+      "answer": 1,
+      "explanation_zh": "look into 意為「調查、審查」，符合稽核語境。"
+    },
+    {
+      "question_en": "Our company has decided to _____ the launch of the new product line.",
+      "options": [
+        "come up with",
+        "go ahead with",
+        "put up with",
+        "do away with"
+      ],
+      "answer": 1,
+      "explanation_zh": "go ahead with 意為「著手進行」，符合決定推出產品的語境。"
+    },
+    {
+      "question_en": "The team needs to _____ a new strategy for entering the Asian market.",
+      "options": [
+        "come up with",
+        "come across",
+        "come down with",
+        "come into"
+      ],
+      "answer": 0,
+      "explanation_zh": "come up with 意為「想出（點子、方案）」。"
+    },
+    {
+      "question_en": "We must _____ the rising production costs to remain competitive.",
+      "options": [
+        "bring up",
+        "look up",
+        "bring down",
+        "take up"
+      ],
+      "answer": 2,
+      "explanation_zh": "bring down 意為「降低」，符合「降低成本」語境。"
+    },
+    {
+      "question_en": "The merger will _____ significant changes in the corporate structure.",
+      "options": [
+        "bring about",
+        "bring up",
+        "bring out",
+        "bring back"
+      ],
+      "answer": 0,
+      "explanation_zh": "bring about 意為「導致、引起」，符合合併造成改變的語境。"
+    },
+    {
+      "question_en": "Please make sure to _____ the safety protocols before operating the machinery.",
+      "options": [
+        "go through",
+        "go over",
+        "go after",
+        "go for"
+      ],
+      "answer": 1,
+      "explanation_zh": "go over 意為「仔細檢查、複習」，符合操作前複習規範的語境。"
+    },
+    {
+      "question_en": "The applicant managed to _____ to the interviewer with her impressive portfolio.",
+      "options": [
+        "stand out",
+        "stand up",
+        "stand for",
+        "stand by"
+      ],
+      "answer": 0,
+      "explanation_zh": "stand out 意為「脫穎而出、引人注目」。"
+    },
+    {
+      "question_en": "Our CEO had to _____ from the negotiations due to personal reasons.",
+      "options": [
+        "pull off",
+        "pull out",
+        "pull up",
+        "pull in"
+      ],
+      "answer": 1,
+      "explanation_zh": "pull out 意為「退出」，符合退出協商的語境。"
+    },
+    {
+      "question_en": "It is crucial to _____ a strong relationship with key clients.",
+      "options": [
+        "make",
+        "do",
+        "build",
+        "have"
+      ],
+      "answer": 2,
+      "explanation_zh": "build a relationship 為固定搭配，意為「建立關係」。"
+    },
+    {
+      "question_en": "The new policy will _____ effect on the first of next month.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "have"
+      ],
+      "answer": 0,
+      "explanation_zh": "take effect 為固定搭配，意為「生效」。"
+    },
+    {
+      "question_en": "Our department needs to _____ the project deadline at all costs.",
+      "options": [
+        "catch",
+        "reach",
+        "arrive",
+        "meet"
+      ],
+      "answer": 3,
+      "explanation_zh": "meet a deadline 為固定搭配，意為「趕上截止日」。"
+    },
+    {
+      "question_en": "The marketing campaign helped us _____ a profit of over two million dollars.",
+      "options": [
+        "do",
+        "make",
+        "take",
+        "have"
+      ],
+      "answer": 1,
+      "explanation_zh": "make a profit 為固定搭配，意為「獲利」。"
+    },
+    {
+      "question_en": "The job requires not only technical expertise but also _____ to detail.",
+      "options": [
+        "attention",
+        "attentive",
+        "attentiveness",
+        "attending"
+      ],
+      "answer": 0,
+      "explanation_zh": "pay/give attention to detail 為固定搭配，名詞 attention 與前句的 expertise 形成平行的名詞結構。"
+    },
+    {
+      "question_en": "Successful managers are good at delegating, motivating, and _____ their teams.",
+      "options": [
+        "to develop",
+        "develop",
+        "developing",
+        "developed"
+      ],
+      "answer": 2,
+      "explanation_zh": "平行結構：前面三個 V-ing（delegating, motivating），第三個也須為 V-ing developing。"
+    },
+    {
+      "question_en": "The training program is both informative _____ engaging for new hires.",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "so"
+      ],
+      "answer": 1,
+      "explanation_zh": "both A and B 為固定平行結構搭配。"
+    },
+    {
+      "question_en": "Our priorities are to improve quality, reduce costs, and _____ customer satisfaction.",
+      "options": [
+        "enhancing",
+        "enhance",
+        "enhanced",
+        "to enhancing"
+      ],
+      "answer": 1,
+      "explanation_zh": "平行結構：前兩個皆為 to + V（improve, reduce），第三個須與之平行的原形 enhance（共用前面的 to）。"
+    },
+    {
+      "question_en": "The candidate is qualified not only in marketing but also _____ public relations.",
+      "options": [
+        "at",
+        "in",
+        "with",
+        "on"
+      ],
+      "answer": 1,
+      "explanation_zh": "not only...but also... 後須平行：in marketing 對應 in public relations。"
+    },
+    {
+      "question_en": "She is responsible for hiring new staff, training interns, and _____ performance reviews.",
+      "options": [
+        "conduct",
+        "conducting",
+        "conducted",
+        "to conduct"
+      ],
+      "answer": 1,
+      "explanation_zh": "平行結構：前兩個動名詞 hiring, training，第三個須同樣為 V-ing conducting。"
+    },
+    {
+      "question_en": "The presentation was clear, concise, and _____.",
+      "options": [
+        "it was informative",
+        "informatively",
+        "informative",
+        "with information"
+      ],
+      "answer": 2,
+      "explanation_zh": "平行結構：三個形容詞 clear, concise, informative 排列。"
+    },
+    {
+      "question_en": "Either the CEO _____ the CFO will attend tomorrow's investor briefing.",
+      "options": [
+        "and",
+        "or",
+        "nor",
+        "but"
+      ],
+      "answer": 1,
+      "explanation_zh": "either...or... 為固定平行搭配。"
+    },
+    {
+      "question_en": "The seminar will cover topics such as leadership, communication, and _____.",
+      "options": [
+        "how to negotiate",
+        "negotiation",
+        "negotiating",
+        "to negotiate"
+      ],
+      "answer": 1,
+      "explanation_zh": "平行結構：前兩個為名詞 leadership, communication，第三個亦須為名詞 negotiation。"
+    },
+    {
+      "question_en": "The new intern is enthusiastic, hardworking, and _____ to learn.",
+      "options": [
+        "eagerness",
+        "eagerly",
+        "eager",
+        "eagerness in"
+      ],
+      "answer": 2,
+      "explanation_zh": "平行結構：前兩個形容詞 enthusiastic, hardworking，第三個須為形容詞 eager。"
+    },
+    {
+      "question_en": "_____ approved by senior management, the proposal will be implemented immediately.",
+      "options": [
+        "Once",
+        "Unless",
+        "Despite",
+        "However"
+      ],
+      "answer": 0,
+      "explanation_zh": "Once 意為「一旦」，接過去分詞構成簡略子句，符合語意。"
+    },
+    {
+      "question_en": "Our quarterly revenue has grown _____ steadily over the past three years.",
+      "options": [
+        "more",
+        "much",
+        "very",
+        "well"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾副詞 steadily 的比較級用 more steadily；其他選項不能與 steadily 構成自然比較語意。"
+    },
+    {
+      "question_en": "The conference room is reserved _____ Mr. Lin from 2 to 4 p.m.",
+      "options": [
+        "for",
+        "to",
+        "by",
+        "with"
+      ],
+      "answer": 0,
+      "explanation_zh": "reserved for + 人/單位 表「為某人保留」。"
+    },
+    {
+      "question_en": "Should the shipment fail to arrive on time, please _____ us immediately.",
+      "options": [
+        "notify",
+        "to notify",
+        "notifying",
+        "notified"
+      ],
+      "answer": 0,
+      "explanation_zh": "Should 倒裝條件句後的主句為祈使句，用原形動詞 notify。"
+    },
+    {
+      "question_en": "The training session lasted _____ three hours due to the extensive Q&A.",
+      "options": [
+        "more",
+        "much",
+        "over",
+        "above"
+      ],
+      "answer": 2,
+      "explanation_zh": "over 在此意為「超過、多於」，常用於時間或數量。"
+    },
+    {
+      "question_en": "Despite _____ exhausted, the project manager continued working into the night.",
+      "options": [
+        "he was",
+        "being",
+        "to be",
+        "be"
+      ],
+      "answer": 1,
+      "explanation_zh": "Despite 為介系詞後接動名詞或名詞片語，being exhausted 為動名詞被動語意。"
+    },
+    {
+      "question_en": "The CEO insisted _____ a full investigation into the data breach.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": 1,
+      "explanation_zh": "insist on + 名詞/動名詞 為固定搭配，意為「堅持」。"
+    },
+    {
+      "question_en": "Had the manager been informed earlier, she _____ taken appropriate action.",
+      "options": [
+        "would",
+        "will have",
+        "would have",
+        "had"
+      ],
+      "answer": 2,
+      "explanation_zh": "第三條件句倒裝（Had + 主詞 + p.p.），主句用 would have + p.p.。"
+    },
+    {
+      "question_en": "Of the three proposed locations, the downtown office is _____ most accessible by public transit.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "(no article)"
+      ],
+      "answer": 2,
+      "explanation_zh": "形容詞最高級前須加定冠詞 the。"
     }
   ]
 }

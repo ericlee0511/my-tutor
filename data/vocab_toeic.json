@@ -15065,6 +15065,1326 @@
       "meaning_zh": "央行數位貨幣，由央行發行的數位形式法定貨幣",
       "example_en": "Several countries are exploring a central bank digital currency.",
       "example_zh": "多國正在研究發行央行數位貨幣。"
+    },
+    {
+      "word": "acknowledge",
+      "meaning_zh": "確認收到；致謝",
+      "example_en": "Please acknowledge receipt of this email by the end of the business day.",
+      "example_zh": "請在今日營業結束前確認收到此電子郵件。"
+    },
+    {
+      "word": "minutes",
+      "meaning_zh": "會議記錄",
+      "example_en": "Could you take the minutes during the quarterly board meeting next Tuesday?",
+      "example_zh": "下週二的季度董事會您能負責做會議記錄嗎？"
+    },
+    {
+      "word": "RSVP",
+      "meaning_zh": "敬請回覆",
+      "example_en": "Guests are kindly asked to RSVP before Friday so we can finalize the seating chart.",
+      "example_zh": "敬請賓客於週五前回覆，以便我們敲定座位表。"
+    },
+    {
+      "word": "courteous",
+      "meaning_zh": "有禮貌的",
+      "example_en": "Our receptionists are trained to be courteous and helpful to every visitor.",
+      "example_zh": "我們的接待人員受過訓練，對每位訪客都保持禮貌與樂於協助。"
+    },
+    {
+      "word": "salutation",
+      "meaning_zh": "稱呼語；問候語",
+      "example_en": "An appropriate salutation sets a professional tone for any business email.",
+      "example_zh": "適當的稱呼語為任何商務電子郵件奠定專業基調。"
+    },
+    {
+      "word": "signature block",
+      "meaning_zh": "電子郵件簽名檔",
+      "example_en": "Be sure your signature block contains your title and direct phone extension.",
+      "example_zh": "請確認您的簽名檔包含職稱與分機號碼。"
+    },
+    {
+      "word": "follow up",
+      "meaning_zh": "後續追蹤",
+      "example_en": "I will follow up with the supplier next week regarding the revised delivery date.",
+      "example_zh": "我下週會就修改後的交貨日期向供應商進行後續追蹤。"
+    },
+    {
+      "word": "small talk",
+      "meaning_zh": "閒聊",
+      "example_en": "A bit of small talk before the negotiation often helps build rapport.",
+      "example_zh": "談判前稍作閒聊通常有助於建立融洽關係。"
+    },
+    {
+      "word": "voicemail",
+      "meaning_zh": "語音留言",
+      "example_en": "Please leave a detailed voicemail and I will return your call within an hour.",
+      "example_zh": "請留下詳細的語音留言，我會在一小時內回電。"
+    },
+    {
+      "word": "conference call",
+      "meaning_zh": "電話會議",
+      "example_en": "The weekly conference call with our Tokyo office starts at nine sharp.",
+      "example_zh": "與我們東京辦公室的每週電話會議於九點整開始。"
+    },
+    {
+      "word": "dial in",
+      "meaning_zh": "撥入（會議）",
+      "example_en": "Remote staff can dial in using the access code listed in the calendar invite.",
+      "example_zh": "遠端員工可使用行事曆邀請中的存取碼撥入會議。"
+    },
+    {
+      "word": "mute",
+      "meaning_zh": "靜音",
+      "example_en": "Please remember to mute your microphone when you are not speaking.",
+      "example_zh": "請記得在您未發言時將麥克風靜音。"
+    },
+    {
+      "word": "out of office",
+      "meaning_zh": "不在辦公室",
+      "example_en": "I have set an out of office reply for the duration of my business trip.",
+      "example_zh": "我已在出差期間設定了不在辦公室的自動回覆。"
+    },
+    {
+      "word": "rapport",
+      "meaning_zh": "和諧關係",
+      "example_en": "Building rapport with overseas clients is essential for long term partnerships.",
+      "example_zh": "與海外客戶建立和諧關係對長期夥伴關係至關重要。"
+    },
+    {
+      "word": "tone",
+      "meaning_zh": "語氣",
+      "example_en": "Adjusting the tone of your message can prevent misunderstandings with clients.",
+      "example_zh": "調整您訊息的語氣可以避免與客戶產生誤解。"
+    },
+    {
+      "word": "concise",
+      "meaning_zh": "簡潔的",
+      "example_en": "Keep your status update concise so busy managers can scan it quickly.",
+      "example_zh": "請將您的進度更新保持簡潔，方便忙碌的主管快速瀏覽。"
+    },
+    {
+      "word": "clarification",
+      "meaning_zh": "釐清",
+      "example_en": "I would like some clarification on the new expense reimbursement policy.",
+      "example_zh": "我希望就新的費用報銷政策獲得一些釐清。"
+    },
+    {
+      "word": "etiquette",
+      "meaning_zh": "禮儀",
+      "example_en": "Cross cultural etiquette training is mandatory for staff assigned overseas.",
+      "example_zh": "跨文化禮儀訓練對外派員工是強制性的。"
+    },
+    {
+      "word": "diplomatic",
+      "meaning_zh": "圓滑的；外交的",
+      "example_en": "She gave a diplomatic answer that avoided offending either party.",
+      "example_zh": "她給出了一個圓滑的回答，避免冒犯任何一方。"
+    },
+    {
+      "word": "address",
+      "meaning_zh": "處理；致詞",
+      "example_en": "The CEO will address employee concerns at the town hall meeting.",
+      "example_zh": "執行長將在員工大會上處理員工的疑慮。"
+    },
+    {
+      "word": "circle back",
+      "meaning_zh": "稍後再聯繫討論",
+      "example_en": "Let us circle back on the pricing issue after the legal review is complete.",
+      "example_zh": "讓我們在法務審查完成後再回頭討論定價議題。"
+    },
+    {
+      "word": "touch base",
+      "meaning_zh": "簡短聯絡",
+      "example_en": "I just wanted to touch base regarding our pending purchase order.",
+      "example_zh": "我只是想就我們待處理的採購單簡短聯絡一下。"
+    },
+    {
+      "word": "in the loop",
+      "meaning_zh": "在訊息圈內",
+      "example_en": "Please keep the procurement team in the loop on any vendor changes.",
+      "example_zh": "請就任何供應商變動讓採購團隊保持在訊息圈內。"
+    },
+    {
+      "word": "ASAP",
+      "meaning_zh": "盡快",
+      "example_en": "We need the signed contract returned ASAP to lock in the discount.",
+      "example_zh": "我們需要盡快取回已簽署的合約以鎖定折扣。"
+    },
+    {
+      "word": "FYI",
+      "meaning_zh": "供您參考",
+      "example_en": "FYI, the building lobby will be closed for renovation this weekend.",
+      "example_zh": "供您參考，大樓大廳將於本週末關閉整修。"
+    },
+    {
+      "word": "BCC",
+      "meaning_zh": "密件副本",
+      "example_en": "Add the compliance officer as BCC when sending the audit summary externally.",
+      "example_zh": "對外寄送稽核摘要時，請將法遵主管加為密件副本。"
+    },
+    {
+      "word": "attachment",
+      "meaning_zh": "附件",
+      "example_en": "The attachment exceeded the size limit, so I uploaded it to the shared drive.",
+      "example_zh": "附件超過大小限制，因此我已將其上傳至共享磁碟機。"
+    },
+    {
+      "word": "reschedule",
+      "meaning_zh": "重新安排",
+      "example_en": "We had to reschedule the kickoff because two key stakeholders were unavailable.",
+      "example_zh": "因為兩位關鍵利害關係人無法出席，我們不得不重新安排啟動會議。"
+    },
+    {
+      "word": "cloud computing",
+      "meaning_zh": "雲端運算",
+      "example_en": "Adopting cloud computing has significantly reduced our infrastructure costs.",
+      "example_zh": "採用雲端運算已大幅降低我們的基礎設施成本。"
+    },
+    {
+      "word": "SaaS",
+      "meaning_zh": "軟體即服務",
+      "example_en": "The finance team subscribed to a new SaaS platform for expense tracking.",
+      "example_zh": "財務團隊訂閱了一個新的 SaaS 平台用於費用追蹤。"
+    },
+    {
+      "word": "machine learning",
+      "meaning_zh": "機器學習",
+      "example_en": "Machine learning models help forecast quarterly demand with greater accuracy.",
+      "example_zh": "機器學習模型有助於更準確地預測季度需求。"
+    },
+    {
+      "word": "cybersecurity",
+      "meaning_zh": "資訊安全",
+      "example_en": "Every new hire must complete cybersecurity awareness training within the first week.",
+      "example_zh": "每位新進員工必須在第一週內完成資安意識訓練。"
+    },
+    {
+      "word": "phishing",
+      "meaning_zh": "網路釣魚",
+      "example_en": "Suspicious phishing emails should be reported to the IT helpdesk immediately.",
+      "example_zh": "可疑的釣魚郵件應立即回報給 IT 服務台。"
+    },
+    {
+      "word": "firewall",
+      "meaning_zh": "防火牆",
+      "example_en": "Our updated firewall blocks unauthorized connections from external IP addresses.",
+      "example_zh": "我們更新後的防火牆會阻擋來自外部 IP 位址的未授權連線。"
+    },
+    {
+      "word": "encryption",
+      "meaning_zh": "加密",
+      "example_en": "End to end encryption protects sensitive client communications from interception.",
+      "example_zh": "端對端加密可保護敏感的客戶通訊不被攔截。"
+    },
+    {
+      "word": "multi factor authentication",
+      "meaning_zh": "多因素驗證",
+      "example_en": "Multi factor authentication is now required to access any internal system remotely.",
+      "example_zh": "現已強制要求使用多因素驗證才能遠端存取任何內部系統。"
+    },
+    {
+      "word": "VPN",
+      "meaning_zh": "虛擬私人網路",
+      "example_en": "Employees working from home must connect through the corporate VPN.",
+      "example_zh": "在家工作的員工必須透過企業 VPN 連線。"
+    },
+    {
+      "word": "patch",
+      "meaning_zh": "修補程式",
+      "example_en": "The IT department will deploy the latest security patch over the weekend.",
+      "example_zh": "IT 部門將在週末部署最新的安全修補程式。"
+    },
+    {
+      "word": "vulnerability",
+      "meaning_zh": "漏洞",
+      "example_en": "The penetration test revealed a critical vulnerability in the login module.",
+      "example_zh": "滲透測試發現登入模組存在一個嚴重漏洞。"
+    },
+    {
+      "word": "ransomware",
+      "meaning_zh": "勒索軟體",
+      "example_en": "A ransomware attack briefly disrupted operations at the regional warehouse.",
+      "example_zh": "一次勒索軟體攻擊短暫地中斷了區域倉庫的運作。"
+    },
+    {
+      "word": "incident response",
+      "meaning_zh": "事件應變",
+      "example_en": "Our incident response team operates around the clock to contain security threats.",
+      "example_zh": "我們的事件應變團隊全天候運作以遏制安全威脅。"
+    },
+    {
+      "word": "single sign on",
+      "meaning_zh": "單一登入",
+      "example_en": "Single sign on simplifies access to dozens of business applications.",
+      "example_zh": "單一登入簡化了存取數十個商業應用程式的流程。"
+    },
+    {
+      "word": "endpoint",
+      "meaning_zh": "端點",
+      "example_en": "Every endpoint must have approved antivirus software installed and updated.",
+      "example_zh": "每個端點都必須安裝並更新核可的防毒軟體。"
+    },
+    {
+      "word": "data governance",
+      "meaning_zh": "資料治理",
+      "example_en": "Strong data governance ensures information is accurate, secure, and accessible.",
+      "example_zh": "強健的資料治理確保資訊準確、安全且易於存取。"
+    },
+    {
+      "word": "bandwidth",
+      "meaning_zh": "頻寬",
+      "example_en": "The video conference quality improved after we upgraded the office bandwidth.",
+      "example_zh": "在我們升級辦公室頻寬後，視訊會議品質有所提升。"
+    },
+    {
+      "word": "business trip",
+      "meaning_zh": "商務出差",
+      "example_en": "She is preparing for a two week business trip to Singapore and Jakarta.",
+      "example_zh": "她正在為一趟為期兩週前往新加坡與雅加達的商務出差做準備。"
+    },
+    {
+      "word": "boarding pass",
+      "meaning_zh": "登機證",
+      "example_en": "You can download your boarding pass from the airline app once check in opens.",
+      "example_zh": "報到開放後，您可以從航空公司應用程式下載登機證。"
+    },
+    {
+      "word": "layover",
+      "meaning_zh": "轉機停留",
+      "example_en": "The four hour layover in Hong Kong gives us time for a quick lounge meal.",
+      "example_zh": "在香港四小時的轉機停留讓我們有時間在貴賓室快速用餐。"
+    },
+    {
+      "word": "frequent flyer",
+      "meaning_zh": "常客",
+      "example_en": "Be sure to enter your frequent flyer number when booking to earn miles.",
+      "example_zh": "訂位時請務必輸入您的常客號碼以累積里程。"
+    },
+    {
+      "word": "jet lag",
+      "meaning_zh": "時差",
+      "example_en": "Allow yourself a recovery day to manage jet lag before client meetings begin.",
+      "example_zh": "在客戶會議開始前，請給自己一天恢復時間來調整時差。"
+    },
+    {
+      "word": "per diem",
+      "meaning_zh": "每日津貼",
+      "example_en": "Travelers receive a daily per diem to cover meals and incidental expenses.",
+      "example_zh": "出差人員可獲得每日津貼以支付膳食與雜支。"
+    },
+    {
+      "word": "reimbursement",
+      "meaning_zh": "報銷",
+      "example_en": "Submit your receipts within ten business days to expedite reimbursement.",
+      "example_zh": "請在十個工作日內提交收據以加速報銷流程。"
+    },
+    {
+      "word": "concierge",
+      "meaning_zh": "禮賓部",
+      "example_en": "The concierge arranged a car service to take us to the convention center.",
+      "example_zh": "禮賓部安排了一輛專車送我們到會議中心。"
+    },
+    {
+      "word": "check in",
+      "meaning_zh": "辦理入住",
+      "example_en": "Hotel check in opens at three in the afternoon for non members.",
+      "example_zh": "非會員的飯店入住辦理時間為下午三點開放。"
+    },
+    {
+      "word": "check out",
+      "meaning_zh": "辦理退房",
+      "example_en": "Please notify the front desk if you would like a late check out tomorrow.",
+      "example_zh": "若您明天希望延後退房，請通知櫃台。"
+    },
+    {
+      "word": "amenities",
+      "meaning_zh": "設施；備品",
+      "example_en": "The executive floor offers premium amenities such as a private lounge.",
+      "example_zh": "行政樓層提供如私人貴賓室等高級設施。"
+    },
+    {
+      "word": "banquet",
+      "meaning_zh": "宴會",
+      "example_en": "A welcome banquet for partners will be held in the grand ballroom on Friday.",
+      "example_zh": "週五將於大宴會廳為合作夥伴舉辦歡迎宴會。"
+    },
+    {
+      "word": "delegation",
+      "meaning_zh": "代表團",
+      "example_en": "A delegation of senior executives toured the new manufacturing facility.",
+      "example_zh": "一個由高階主管組成的代表團參觀了新製造廠。"
+    },
+    {
+      "word": "shuttle service",
+      "meaning_zh": "接駁服務",
+      "example_en": "A complimentary shuttle service runs between the hotel and the trade show.",
+      "example_zh": "飯店與貿易展之間提供免費接駁服務。"
+    },
+    {
+      "word": "rental car",
+      "meaning_zh": "租車",
+      "example_en": "I picked up the rental car directly from the airport counter after landing.",
+      "example_zh": "我在降落後直接從機場櫃台取了租車。"
+    },
+    {
+      "word": "visa",
+      "meaning_zh": "簽證",
+      "example_en": "A business visa is required for travelers planning to attend the trade summit.",
+      "example_zh": "計劃出席貿易高峰會的旅客需要商務簽證。"
+    },
+    {
+      "word": "passport",
+      "meaning_zh": "護照",
+      "example_en": "Make sure your passport remains valid for at least six months beyond your travel date.",
+      "example_zh": "請確認您的護照在出行日期後至少還有六個月效期。"
+    },
+    {
+      "word": "duty free",
+      "meaning_zh": "免稅",
+      "example_en": "She picked up a few small gifts at the duty free shop before boarding.",
+      "example_zh": "她在登機前到免稅店挑了幾份小禮物。"
+    },
+    {
+      "word": "expense report",
+      "meaning_zh": "差旅報帳",
+      "example_en": "Submit your expense report through the new portal by the end of the month.",
+      "example_zh": "請於月底前透過新系統提交您的差旅報帳。"
+    },
+    {
+      "word": "corporate card",
+      "meaning_zh": "公司信用卡",
+      "example_en": "Use your corporate card for all approved business travel purchases.",
+      "example_zh": "請使用您的公司信用卡支付所有核准的商務旅行費用。"
+    },
+    {
+      "word": "convention center",
+      "meaning_zh": "會議中心",
+      "example_en": "Registration opens at the convention center entrance one hour before the keynote.",
+      "example_zh": "會議中心入口處於主題演講前一小時開放報到。"
+    },
+    {
+      "word": "keynote",
+      "meaning_zh": "主題演講",
+      "example_en": "The keynote speaker will outline emerging trends in supply chain technology.",
+      "example_zh": "主題演講者將概述供應鏈技術的新興趨勢。"
+    },
+    {
+      "word": "breakout session",
+      "meaning_zh": "分組討論場次",
+      "example_en": "Choose three breakout sessions that align with your professional development goals.",
+      "example_zh": "請選擇三場符合您專業發展目標的分組討論場次。"
+    },
+    {
+      "word": "panel discussion",
+      "meaning_zh": "座談會",
+      "example_en": "A panel discussion on AI ethics drew the largest audience of the conference.",
+      "example_zh": "一場關於 AI 倫理的座談會吸引了會議中最多的觀眾。"
+    },
+    {
+      "word": "moderator",
+      "meaning_zh": "主持人",
+      "example_en": "The moderator did an excellent job keeping the panel on schedule.",
+      "example_zh": "主持人在維持座談會準時進行方面做得非常出色。"
+    },
+    {
+      "word": "Q and A",
+      "meaning_zh": "問答時間",
+      "example_en": "We have reserved fifteen minutes for Q and A at the end of the presentation.",
+      "example_zh": "我們在簡報結束時保留了十五分鐘的問答時間。"
+    },
+    {
+      "word": "slide deck",
+      "meaning_zh": "投影片",
+      "example_en": "Please send the final slide deck to attendees within 24 hours of the meeting.",
+      "example_zh": "請在會議後二十四小時內將最終投影片寄給與會者。"
+    },
+    {
+      "word": "visual aid",
+      "meaning_zh": "視覺輔助",
+      "example_en": "A well designed visual aid can clarify complex financial concepts for the audience.",
+      "example_zh": "設計良好的視覺輔助可以為觀眾釐清複雜的財務概念。"
+    },
+    {
+      "word": "handout",
+      "meaning_zh": "講義",
+      "example_en": "Printed handouts will be available at the registration desk on arrival.",
+      "example_zh": "印刷講義可於抵達時在報到櫃台取得。"
+    },
+    {
+      "word": "rehearsal",
+      "meaning_zh": "排演",
+      "example_en": "We held a full dress rehearsal the evening before the investor pitch.",
+      "example_zh": "我們在投資者簡報前一晚進行了完整的彩排。"
+    },
+    {
+      "word": "objective",
+      "meaning_zh": "目標",
+      "example_en": "State the meeting objective clearly so participants can prepare accordingly.",
+      "example_zh": "請清楚陳述會議目標，讓參與者能據此準備。"
+    },
+    {
+      "word": "action item",
+      "meaning_zh": "待辦事項",
+      "example_en": "Each action item should be assigned an owner and a due date before we adjourn.",
+      "example_zh": "在我們散會前，每項待辦事項都應指派負責人與截止日期。"
+    },
+    {
+      "word": "consensus",
+      "meaning_zh": "共識",
+      "example_en": "We reached consensus on the budget after a productive discussion.",
+      "example_zh": "經過一場富有成效的討論，我們在預算上達成了共識。"
+    },
+    {
+      "word": "counterproposal",
+      "meaning_zh": "反提案",
+      "example_en": "The supplier issued a counterproposal that included a longer payment window.",
+      "example_zh": "供應商提出了一個包含更長付款期限的反提案。"
+    },
+    {
+      "word": "leverage",
+      "meaning_zh": "籌碼；利用",
+      "example_en": "Our exclusive technology gives us significant leverage in this negotiation.",
+      "example_zh": "我們的獨家技術在這次談判中給予我們重要的籌碼。"
+    },
+    {
+      "word": "deadlock",
+      "meaning_zh": "僵局",
+      "example_en": "The talks reached a deadlock over the warranty terms last Thursday.",
+      "example_zh": "上週四談判在保固條款上陷入僵局。"
+    },
+    {
+      "word": "win win",
+      "meaning_zh": "雙贏",
+      "example_en": "A win win agreement strengthens the partnership for years to come.",
+      "example_zh": "雙贏協議將在未來數年強化夥伴關係。"
+    },
+    {
+      "word": "letter of intent",
+      "meaning_zh": "意向書",
+      "example_en": "Both companies signed a letter of intent to explore strategic collaboration.",
+      "example_zh": "兩家公司簽署了意向書，以探討策略合作。"
+    },
+    {
+      "word": "non disclosure agreement",
+      "meaning_zh": "保密協議",
+      "example_en": "Sign the non disclosure agreement before reviewing the confidential financials.",
+      "example_zh": "在審閱機密財務資料前請簽署保密協議。"
+    },
+    {
+      "word": "memorandum",
+      "meaning_zh": "備忘錄",
+      "example_en": "A memorandum summarizing the policy change was circulated to all department heads.",
+      "example_zh": "一份概述政策變動的備忘錄已分發給所有部門主管。"
+    },
+    {
+      "word": "onboarding",
+      "meaning_zh": "新員工到職訓練",
+      "example_en": "Our onboarding program introduces new hires to company culture and systems.",
+      "example_zh": "我們的到職訓練計畫向新員工介紹公司文化與系統。"
+    },
+    {
+      "word": "orientation",
+      "meaning_zh": "新人說明會",
+      "example_en": "All new employees attend a half day orientation on their first Monday.",
+      "example_zh": "所有新進員工在第一個週一參加半天的新人說明會。"
+    },
+    {
+      "word": "mentor",
+      "meaning_zh": "導師",
+      "example_en": "Each junior analyst is paired with a senior mentor for the first six months.",
+      "example_zh": "每位初級分析師在前六個月會與一位資深導師配對。"
+    },
+    {
+      "word": "mentee",
+      "meaning_zh": "被指導者",
+      "example_en": "The mentee benefits from candid feedback during weekly coaching sessions.",
+      "example_zh": "被指導者從每週的指導課程中獲得坦率的回饋。"
+    },
+    {
+      "word": "workshop",
+      "meaning_zh": "工作坊",
+      "example_en": "A two day workshop on design thinking is scheduled for next month.",
+      "example_zh": "一場為期兩天的設計思考工作坊已排定於下個月舉行。"
+    },
+    {
+      "word": "e learning",
+      "meaning_zh": "線上學習",
+      "example_en": "Employees can complete compliance courses on the e learning portal at their own pace.",
+      "example_zh": "員工可在線上學習平台依自己的步調完成法遵課程。"
+    },
+    {
+      "word": "career path",
+      "meaning_zh": "職涯路徑",
+      "example_en": "HR helps employees map a clear career path within the organization.",
+      "example_zh": "人資協助員工在組織內規劃清晰的職涯路徑。"
+    },
+    {
+      "word": "professional development",
+      "meaning_zh": "專業發展",
+      "example_en": "Each employee has an annual budget for professional development activities.",
+      "example_zh": "每位員工都有年度專業發展活動的預算。"
+    },
+    {
+      "word": "performance review",
+      "meaning_zh": "績效考核",
+      "example_en": "Performance reviews take place every six months across all departments.",
+      "example_zh": "績效考核每六個月在所有部門進行一次。"
+    },
+    {
+      "word": "competency",
+      "meaning_zh": "能力",
+      "example_en": "The new framework evaluates ten core competencies for managerial roles.",
+      "example_zh": "新框架針對管理職位評估十項核心能力。"
+    },
+    {
+      "word": "skill gap",
+      "meaning_zh": "技能落差",
+      "example_en": "The analysis identified a skill gap in data analytics among mid level staff.",
+      "example_zh": "分析發現中階員工在資料分析方面存在技能落差。"
+    },
+    {
+      "word": "upskill",
+      "meaning_zh": "提升技能",
+      "example_en": "We are investing in programs to upskill our workforce in artificial intelligence.",
+      "example_zh": "我們正投資於提升員工人工智慧技能的計畫。"
+    },
+    {
+      "word": "reskill",
+      "meaning_zh": "重新培訓",
+      "example_en": "Automation has created a need to reskill employees for higher value tasks.",
+      "example_zh": "自動化使得有必要為員工重新培訓以從事更高價值的工作。"
+    },
+    {
+      "word": "succession planning",
+      "meaning_zh": "繼任規劃",
+      "example_en": "Effective succession planning ensures business continuity at all leadership levels.",
+      "example_zh": "有效的繼任規劃確保各領導層級的業務連續性。"
+    },
+    {
+      "word": "leadership development",
+      "meaning_zh": "領導力發展",
+      "example_en": "The leadership development program targets high potential employees.",
+      "example_zh": "領導力發展計畫鎖定高潛力員工。"
+    },
+    {
+      "word": "cross functional",
+      "meaning_zh": "跨職能的",
+      "example_en": "The initiative requires close cooperation across cross functional teams.",
+      "example_zh": "此計畫需要跨職能團隊間的密切合作。"
+    },
+    {
+      "word": "secondment",
+      "meaning_zh": "借調",
+      "example_en": "He accepted a one year secondment to the Sydney office.",
+      "example_zh": "他接受了為期一年借調至雪梨辦事處的安排。"
+    },
+    {
+      "word": "career fair",
+      "meaning_zh": "就業博覽會",
+      "example_en": "Our company will recruit graduates at the spring career fair next month.",
+      "example_zh": "我們公司將於下個月的春季就業博覽會招募畢業生。"
+    },
+    {
+      "word": "intern",
+      "meaning_zh": "實習生",
+      "example_en": "Summer interns shadow senior staff and complete a capstone project.",
+      "example_zh": "暑期實習生跟隨資深員工並完成一項總結性專案。"
+    },
+    {
+      "word": "apprenticeship",
+      "meaning_zh": "學徒制",
+      "example_en": "The apprenticeship program combines paid work with technical classroom training.",
+      "example_zh": "學徒制計畫結合有薪工作與技術課堂訓練。"
+    },
+    {
+      "word": "customer service",
+      "meaning_zh": "客戶服務",
+      "example_en": "Exceptional customer service distinguishes our brand from the competition.",
+      "example_zh": "卓越的客戶服務使我們的品牌與競爭對手有所區別。"
+    },
+    {
+      "word": "customer satisfaction",
+      "meaning_zh": "客戶滿意度",
+      "example_en": "Customer satisfaction scores rose after we extended weekend support hours.",
+      "example_zh": "在我們延長週末支援時間後，客戶滿意度分數有所上升。"
+    },
+    {
+      "word": "ticketing system",
+      "meaning_zh": "票務系統",
+      "example_en": "Every customer inquiry is logged in the ticketing system for tracking purposes.",
+      "example_zh": "每項客戶查詢都記錄在票務系統中以便追蹤。"
+    },
+    {
+      "word": "service level",
+      "meaning_zh": "服務水準",
+      "example_en": "We exceeded the contracted service level for three consecutive quarters.",
+      "example_zh": "我們連續三季超越合約規定的服務水準。"
+    },
+    {
+      "word": "self service",
+      "meaning_zh": "自助服務",
+      "example_en": "Our self service portal lets customers track shipments without contacting an agent.",
+      "example_zh": "我們的自助服務平台讓客戶不需聯絡專員即可追蹤貨物。"
+    },
+    {
+      "word": "warranty claim",
+      "meaning_zh": "保固索賠",
+      "example_en": "Customers can file a warranty claim online with proof of purchase.",
+      "example_zh": "客戶可憑購買證明線上提出保固索賠。"
+    },
+    {
+      "word": "voice of customer",
+      "meaning_zh": "客戶心聲",
+      "example_en": "Voice of customer insights drive our product roadmap each quarter.",
+      "example_zh": "客戶心聲洞察推動我們每季的產品藍圖。"
+    },
+    {
+      "word": "sprint",
+      "meaning_zh": "衝刺（敏捷）",
+      "example_en": "Each two week sprint ends with a review of demoable features.",
+      "example_zh": "每個兩週的衝刺週期以可展示功能的評審作為結束。"
+    },
+    {
+      "word": "scrum",
+      "meaning_zh": "Scrum 敏捷方法",
+      "example_en": "Our team adopted scrum to improve transparency and delivery cadence.",
+      "example_zh": "我們的團隊採用 Scrum 以提升透明度與交付節奏。"
+    },
+    {
+      "word": "backlog",
+      "meaning_zh": "待辦清單（敏捷）",
+      "example_en": "The product owner prioritizes the backlog before the next planning session.",
+      "example_zh": "產品負責人在下次規劃會議前優先排序待辦清單。"
+    },
+    {
+      "word": "user story",
+      "meaning_zh": "使用者故事",
+      "example_en": "Each user story should describe value from the customer perspective.",
+      "example_zh": "每則使用者故事應從客戶角度描述價值。"
+    },
+    {
+      "word": "retrospective",
+      "meaning_zh": "回顧會議",
+      "example_en": "The retrospective surfaced several improvements for the next sprint.",
+      "example_zh": "回顧會議揭露了數項可在下個衝刺改進的事項。"
+    },
+    {
+      "word": "stand up",
+      "meaning_zh": "站立會議",
+      "example_en": "Daily stand up meetings keep the team aligned on priorities and blockers.",
+      "example_zh": "每日站立會議使團隊在優先事項與阻礙上保持一致。"
+    },
+    {
+      "word": "Kanban",
+      "meaning_zh": "看板",
+      "example_en": "The Kanban board visualizes work in progress across each team column.",
+      "example_zh": "看板將每個團隊欄位的進行中工作視覺化呈現。"
+    },
+    {
+      "word": "PMO",
+      "meaning_zh": "專案管理辦公室",
+      "example_en": "The PMO provides templates and oversight for all enterprise projects.",
+      "example_zh": "專案管理辦公室為所有企業專案提供範本與監督。"
+    },
+    {
+      "word": "kickoff",
+      "meaning_zh": "啟動",
+      "example_en": "The project kickoff aligned the team on goals, scope, and timeline.",
+      "example_zh": "專案啟動會議使團隊在目標、範圍與時程上達成一致。"
+    },
+    {
+      "word": "work breakdown structure",
+      "meaning_zh": "工作分解結構",
+      "example_en": "The work breakdown structure divides deliverables into manageable tasks.",
+      "example_zh": "工作分解結構將交付項目劃分為可管理的任務。"
+    },
+    {
+      "word": "burn down chart",
+      "meaning_zh": "燃盡圖",
+      "example_en": "The burn down chart shows the team is on track to complete the sprint.",
+      "example_zh": "燃盡圖顯示團隊有望按時完成衝刺。"
+    },
+    {
+      "word": "velocity",
+      "meaning_zh": "速度（敏捷）",
+      "example_en": "Team velocity has stabilized at around forty story points per sprint.",
+      "example_zh": "團隊速度已穩定在每衝刺約四十個故事點。"
+    },
+    {
+      "word": "MVP",
+      "meaning_zh": "最小可行產品",
+      "example_en": "The MVP lets us validate market demand with minimal investment.",
+      "example_zh": "最小可行產品讓我們以最少的投資驗證市場需求。"
+    },
+    {
+      "word": "iteration",
+      "meaning_zh": "迭代",
+      "example_en": "Each iteration delivers a small but functional improvement to the product.",
+      "example_zh": "每次迭代為產品帶來小而具功能性的改進。"
+    },
+    {
+      "word": "post mortem",
+      "meaning_zh": "事後檢討",
+      "example_en": "The post mortem identified communication gaps that contributed to the outage.",
+      "example_zh": "事後檢討找出了導致服務中斷的溝通缺口。"
+    },
+    {
+      "word": "change request",
+      "meaning_zh": "變更請求",
+      "example_en": "Any change request after sign off requires approval from the steering committee.",
+      "example_zh": "簽核後的任何變更請求需指導委員會核准。"
+    },
+    {
+      "word": "go live",
+      "meaning_zh": "正式上線",
+      "example_en": "We scheduled the go live for early Sunday morning to minimize business impact.",
+      "example_zh": "我們將正式上線排定於週日清晨以將業務衝擊降到最低。"
+    },
+    {
+      "word": "rollback",
+      "meaning_zh": "回滾",
+      "example_en": "If the deployment fails, we will perform a full rollback within thirty minutes.",
+      "example_zh": "若部署失敗，我們將在三十分鐘內執行完整回滾。"
+    },
+    {
+      "word": "carbon neutral",
+      "meaning_zh": "碳中和",
+      "example_en": "The new factory is fully carbon neutral thanks to on site renewable energy.",
+      "example_zh": "新工廠因現場再生能源而完全達成碳中和。"
+    },
+    {
+      "word": "emissions",
+      "meaning_zh": "排放",
+      "example_en": "Scope three emissions remain the most challenging category to measure accurately.",
+      "example_zh": "範疇三排放仍是最難準確衡量的類別。"
+    },
+    {
+      "word": "renewable energy",
+      "meaning_zh": "再生能源",
+      "example_en": "All regional offices source one hundred percent renewable energy through long term contracts.",
+      "example_zh": "所有區域辦事處透過長期合約取得百分之百的再生能源。"
+    },
+    {
+      "word": "solar panel",
+      "meaning_zh": "太陽能板",
+      "example_en": "Solar panels installed on the warehouse roof generate twenty percent of its power.",
+      "example_zh": "安裝在倉庫屋頂的太陽能板可產生其百分之二十的電力。"
+    },
+    {
+      "word": "green building",
+      "meaning_zh": "綠建築",
+      "example_en": "Our new headquarters is certified as a leading green building project.",
+      "example_zh": "我們的新總部獲認證為頂尖綠建築專案。"
+    },
+    {
+      "word": "recyclable",
+      "meaning_zh": "可回收的",
+      "example_en": "Packaging materials are now fully recyclable across all product categories.",
+      "example_zh": "所有產品類別的包裝材料現已完全可回收。"
+    },
+    {
+      "word": "ESG",
+      "meaning_zh": "環境社會治理",
+      "example_en": "Investors increasingly evaluate companies based on their ESG performance.",
+      "example_zh": "投資者愈來愈根據公司的 ESG 表現進行評估。"
+    },
+    {
+      "word": "corporate social responsibility",
+      "meaning_zh": "企業社會責任",
+      "example_en": "Corporate social responsibility is a core pillar of our long term strategy.",
+      "example_zh": "企業社會責任是我們長期策略的核心支柱。"
+    },
+    {
+      "word": "philanthropy",
+      "meaning_zh": "慈善捐助",
+      "example_en": "Our philanthropy programs focus on education access in underserved communities.",
+      "example_zh": "我們的慈善捐助計畫聚焦於弱勢社區的教育機會。"
+    },
+    {
+      "word": "stakeholder engagement",
+      "meaning_zh": "利害關係人溝通",
+      "example_en": "Effective stakeholder engagement builds trust with communities and regulators.",
+      "example_zh": "有效的利害關係人溝通能建立與社區及監管單位的信任。"
+    },
+    {
+      "word": "supply chain transparency",
+      "meaning_zh": "供應鏈透明度",
+      "example_en": "Supply chain transparency helps identify ethical and environmental risks early.",
+      "example_zh": "供應鏈透明度有助於及早識別倫理與環境風險。"
+    },
+    {
+      "word": "ethical sourcing",
+      "meaning_zh": "道德採購",
+      "example_en": "Ethical sourcing standards apply to all raw material suppliers worldwide.",
+      "example_zh": "道德採購標準適用於全球所有原料供應商。"
+    },
+    {
+      "word": "biodiversity",
+      "meaning_zh": "生物多樣性",
+      "example_en": "Protecting biodiversity is part of our environmental impact strategy.",
+      "example_zh": "保護生物多樣性是我們環境衝擊策略的一部分。"
+    },
+    {
+      "word": "water stewardship",
+      "meaning_zh": "水資源管理",
+      "example_en": "Water stewardship initiatives reduced freshwater consumption by fifteen percent.",
+      "example_zh": "水資源管理倡議使淡水消耗量減少了百分之十五。"
+    },
+    {
+      "word": "diversity and inclusion",
+      "meaning_zh": "多元與共融",
+      "example_en": "Diversity and inclusion programs strengthen our innovation and employee engagement.",
+      "example_zh": "多元與共融計畫強化我們的創新與員工投入。"
+    },
+    {
+      "word": "human rights",
+      "meaning_zh": "人權",
+      "example_en": "Our human rights policy applies to operations in every country we serve.",
+      "example_zh": "我們的人權政策適用於我們服務的每個國家的營運。"
+    },
+    {
+      "word": "board oversight",
+      "meaning_zh": "董事會監督",
+      "example_en": "Board oversight of climate risk has become a top investor priority.",
+      "example_zh": "董事會對氣候風險的監督已成為投資者的首要關注事項。"
+    },
+    {
+      "word": "code of conduct",
+      "meaning_zh": "行為準則",
+      "example_en": "All employees must review and acknowledge the code of conduct annually.",
+      "example_zh": "全體員工每年必須審閱並確認行為準則。"
+    },
+    {
+      "word": "materiality assessment",
+      "meaning_zh": "重大性評估",
+      "example_en": "A materiality assessment helps prioritize sustainability topics that matter most.",
+      "example_zh": "重大性評估有助於優先處理最重要的永續議題。"
+    },
+    {
+      "word": "green bond",
+      "meaning_zh": "綠色債券",
+      "example_en": "Proceeds from the green bond will finance energy efficient infrastructure projects.",
+      "example_zh": "綠色債券的所得資金將用於資助節能基礎設施專案。"
+    },
+    {
+      "word": "climate disclosure",
+      "meaning_zh": "氣候揭露",
+      "example_en": "Mandatory climate disclosure rules now apply to listed companies in many markets.",
+      "example_zh": "強制性氣候揭露規定現適用於許多市場的上市公司。"
+    },
+    {
+      "word": "office lease",
+      "meaning_zh": "辦公室租約",
+      "example_en": "Our office lease in the central business district expires next September.",
+      "example_zh": "我們在中央商業區的辦公室租約將於明年九月到期。"
+    },
+    {
+      "word": "tenant",
+      "meaning_zh": "承租人",
+      "example_en": "The building owner introduced new amenities to attract long term tenants.",
+      "example_zh": "建物所有人推出新的便利設施以吸引長期承租人。"
+    },
+    {
+      "word": "landlord",
+      "meaning_zh": "房東",
+      "example_en": "The landlord agreed to a six month rent abatement during the renovation.",
+      "example_zh": "房東同意在整修期間提供六個月的租金減免。"
+    },
+    {
+      "word": "square footage",
+      "meaning_zh": "面積（平方英尺）",
+      "example_en": "We need additional square footage to accommodate the expanding engineering team.",
+      "example_zh": "我們需要更多面積以容納擴編的工程團隊。"
+    },
+    {
+      "word": "floor plan",
+      "meaning_zh": "平面圖",
+      "example_en": "The architect revised the floor plan to include more collaboration spaces.",
+      "example_zh": "建築師修改了平面圖以納入更多協作空間。"
+    },
+    {
+      "word": "commercial real estate",
+      "meaning_zh": "商用不動產",
+      "example_en": "Commercial real estate prices remained stable despite economic uncertainty.",
+      "example_zh": "儘管經濟情勢不明，商用不動產價格仍維持穩定。"
+    },
+    {
+      "word": "subletting",
+      "meaning_zh": "轉租",
+      "example_en": "Subletting unused floors helps offset our occupancy costs.",
+      "example_zh": "轉租未使用樓層有助於抵銷我們的佔用成本。"
+    },
+    {
+      "word": "facility management",
+      "meaning_zh": "設施管理",
+      "example_en": "Facility management oversees maintenance, security, and cleaning services.",
+      "example_zh": "設施管理負責監督維修、保全與清潔服務。"
+    },
+    {
+      "word": "HVAC",
+      "meaning_zh": "暖通空調",
+      "example_en": "The HVAC system was upgraded to improve indoor air quality and efficiency.",
+      "example_zh": "暖通空調系統已升級以改善室內空氣品質與效率。"
+    },
+    {
+      "word": "renovation",
+      "meaning_zh": "翻新",
+      "example_en": "The lobby renovation will be completed before the new tenants move in.",
+      "example_zh": "大廳翻新將於新承租人遷入前完成。"
+    },
+    {
+      "word": "utilities",
+      "meaning_zh": "水電費",
+      "example_en": "Utilities are billed separately based on each tenant's actual consumption.",
+      "example_zh": "水電費依各承租人實際消耗量分別開立帳單。"
+    },
+    {
+      "word": "occupancy rate",
+      "meaning_zh": "出租率",
+      "example_en": "The building reached a ninety five percent occupancy rate within twelve months.",
+      "example_zh": "該建物在十二個月內達到百分之九十五的出租率。"
+    },
+    {
+      "word": "common area",
+      "meaning_zh": "公共區域",
+      "example_en": "Common areas include the rooftop terrace and ground floor cafe.",
+      "example_zh": "公共區域包括屋頂露台與一樓咖啡廳。"
+    },
+    {
+      "word": "reception desk",
+      "meaning_zh": "接待櫃台",
+      "example_en": "Visitors must sign in at the reception desk and receive a guest badge.",
+      "example_zh": "訪客必須在接待櫃台簽到並領取訪客證。"
+    },
+    {
+      "word": "open plan",
+      "meaning_zh": "開放式辦公空間",
+      "example_en": "The open plan layout encourages collaboration but requires quiet zones for focus work.",
+      "example_zh": "開放式辦公空間鼓勵協作，但需要安靜區供專注工作。"
+    },
+    {
+      "word": "hot desk",
+      "meaning_zh": "共用辦公桌",
+      "example_en": "Hybrid employees reserve a hot desk through the booking app each morning.",
+      "example_zh": "混合辦公員工每早透過預訂應用程式預約共用辦公桌。"
+    },
+    {
+      "word": "co working space",
+      "meaning_zh": "共享辦公空間",
+      "example_en": "We rented a co working space in Berlin for our newly formed sales team.",
+      "example_zh": "我們在柏林為新成立的銷售團隊租用了共享辦公空間。"
+    },
+    {
+      "word": "lease renewal",
+      "meaning_zh": "續租",
+      "example_en": "Lease renewal negotiations begin six months before the current term ends.",
+      "example_zh": "續租談判將在現行租期結束前六個月開始。"
+    },
+    {
+      "word": "security deposit",
+      "meaning_zh": "押金",
+      "example_en": "A two month security deposit is required upon signing the lease agreement.",
+      "example_zh": "簽署租賃協議時需繳交兩個月的押金。"
+    },
+    {
+      "word": "build out",
+      "meaning_zh": "內裝工程",
+      "example_en": "The build out for the new branch will take approximately ten weeks to complete.",
+      "example_zh": "新分行的內裝工程約需十週完成。"
+    },
+    {
+      "word": "ergonomic",
+      "meaning_zh": "符合人體工學的",
+      "example_en": "Ergonomic chairs and adjustable desks reduce workplace injuries over time.",
+      "example_zh": "符合人體工學的椅子與可調式桌子能長期減少職場傷害。"
+    },
+    {
+      "word": "access card",
+      "meaning_zh": "門禁卡",
+      "example_en": "Replacement access cards can be requested at the security office.",
+      "example_zh": "補發門禁卡可至保全辦公室申請。"
+    },
+    {
+      "word": "press release",
+      "meaning_zh": "新聞稿",
+      "example_en": "A press release announcing the merger will be distributed Monday morning.",
+      "example_zh": "宣布合併的新聞稿將於週一上午發布。"
+    },
+    {
+      "word": "media kit",
+      "meaning_zh": "媒體資料包",
+      "example_en": "Journalists can download our media kit from the corporate communications page.",
+      "example_zh": "記者可從企業傳播頁面下載我們的媒體資料包。"
+    },
+    {
+      "word": "branding",
+      "meaning_zh": "品牌塑造",
+      "example_en": "Consistent branding across markets strengthens global brand recognition.",
+      "example_zh": "跨市場一致的品牌塑造能強化全球品牌辨識度。"
+    },
+    {
+      "word": "crisis communication",
+      "meaning_zh": "危機溝通",
+      "example_en": "Our crisis communication plan was activated within thirty minutes of the incident.",
+      "example_zh": "我們的危機溝通計畫在事件發生後三十分鐘內啟動。"
+    },
+    {
+      "word": "reputation management",
+      "meaning_zh": "聲譽管理",
+      "example_en": "Reputation management requires monitoring traditional and social media continuously.",
+      "example_zh": "聲譽管理需要持續監控傳統與社群媒體。"
+    },
+    {
+      "word": "media outreach",
+      "meaning_zh": "媒體聯繫",
+      "example_en": "Targeted media outreach generated coverage in five major trade publications.",
+      "example_zh": "針對性的媒體聯繫在五家主要業界刊物獲得報導。"
+    },
+    {
+      "word": "interview request",
+      "meaning_zh": "採訪邀約",
+      "example_en": "All interview requests should be forwarded to the communications team.",
+      "example_zh": "所有採訪邀約都應轉交給傳播團隊。"
+    },
+    {
+      "word": "fact sheet",
+      "meaning_zh": "情況說明書",
+      "example_en": "A one page fact sheet accompanies every official press release we issue.",
+      "example_zh": "我們發布的每份官方新聞稿都附有一頁情況說明書。"
+    },
+    {
+      "word": "brand voice",
+      "meaning_zh": "品牌語調",
+      "example_en": "Our brand voice should remain professional yet approachable in every channel.",
+      "example_zh": "我們的品牌語調在每個管道都應保持專業且易親近。"
+    },
+    {
+      "word": "brand guidelines",
+      "meaning_zh": "品牌指南",
+      "example_en": "Brand guidelines specify approved logos, colors, and typography for all materials.",
+      "example_zh": "品牌指南規範所有素材使用的核可商標、色彩與字體。"
+    },
+    {
+      "word": "public relations",
+      "meaning_zh": "公共關係",
+      "example_en": "The public relations team coordinates messaging across regional offices.",
+      "example_zh": "公共關係團隊協調各區域辦事處的訊息傳遞。"
+    },
+    {
+      "word": "media monitoring",
+      "meaning_zh": "媒體監測",
+      "example_en": "Media monitoring tools alert us to brand mentions in real time.",
+      "example_zh": "媒體監測工具會即時提醒我們品牌被提及的情況。"
+    },
+    {
+      "word": "thought leadership",
+      "meaning_zh": "思想領導",
+      "example_en": "Publishing research positions our executives as thought leadership voices.",
+      "example_zh": "發表研究將我們的高階主管定位為思想領導者。"
+    },
+    {
+      "word": "byline article",
+      "meaning_zh": "署名文章",
+      "example_en": "The chief technology officer contributed a byline article to a leading magazine.",
+      "example_zh": "技術長為一家領導性雜誌撰寫了一篇署名文章。"
+    },
+    {
+      "word": "key message",
+      "meaning_zh": "關鍵訊息",
+      "example_en": "Reinforce the three key messages whenever you respond to media questions.",
+      "example_zh": "每次回答媒體提問時請強化三項關鍵訊息。"
+    },
+    {
+      "word": "media advisory",
+      "meaning_zh": "媒體通知",
+      "example_en": "A media advisory was sent to invite reporters to the product unveiling.",
+      "example_zh": "已發出媒體通知邀請記者參與產品發表。"
+    },
+    {
+      "word": "broadcast",
+      "meaning_zh": "廣播；播送",
+      "example_en": "The interview will broadcast on the national business channel tomorrow evening.",
+      "example_zh": "該採訪將於明晚在全國商業頻道播出。"
+    },
+    {
+      "word": "off the record",
+      "meaning_zh": "不可公開引述",
+      "example_en": "The executive shared the background information off the record.",
+      "example_zh": "該主管以不可公開引述的方式分享了背景資訊。"
+    },
+    {
+      "word": "on the record",
+      "meaning_zh": "可公開引述",
+      "example_en": "She agreed to speak on the record about the upcoming strategic shift.",
+      "example_zh": "她同意就即將到來的策略轉變進行可公開引述的發言。"
+    },
+    {
+      "word": "icebreaker",
+      "meaning_zh": "破冰活動",
+      "example_en": "A brief icebreaker helps participants feel comfortable before the workshop begins.",
+      "example_zh": "簡短的破冰活動有助於參與者在工作坊開始前感到自在。"
+    },
+    {
+      "word": "networking event",
+      "meaning_zh": "人脈交流活動",
+      "example_en": "The networking event after the panel attracted nearly two hundred attendees.",
+      "example_zh": "座談會後的人脈交流活動吸引了近兩百名與會者。"
+    },
+    {
+      "word": "business card",
+      "meaning_zh": "名片",
+      "example_en": "Exchange a business card with each new contact at the trade show booth.",
+      "example_zh": "在貿易展攤位與每位新認識的人交換名片。"
+    },
+    {
+      "word": "introductory call",
+      "meaning_zh": "初次通話",
+      "example_en": "We have an introductory call scheduled with the prospective client on Thursday.",
+      "example_zh": "我們已安排週四與潛在客戶進行初次通話。"
+    },
+    {
+      "word": "follow up email",
+      "meaning_zh": "後續郵件",
+      "example_en": "Send a follow up email within 24 hours to keep the conversation moving forward.",
+      "example_zh": "在二十四小時內寄送後續郵件以推進對話。"
+    },
+    {
+      "word": "thank you note",
+      "meaning_zh": "感謝信",
+      "example_en": "A handwritten thank you note leaves a lasting impression after an interview.",
+      "example_zh": "手寫感謝信能在面試後留下持久印象。"
+    },
+    {
+      "word": "ground transportation",
+      "meaning_zh": "地面交通",
+      "example_en": "Hotel staff helped arrange ground transportation to the manufacturing site.",
+      "example_zh": "飯店人員協助安排前往製造廠的地面交通。"
+    },
+    {
+      "word": "boarding gate",
+      "meaning_zh": "登機門",
+      "example_en": "Please proceed to boarding gate twenty three for the connecting flight to Osaka.",
+      "example_zh": "請前往二十三號登機門搭乘前往大阪的轉機航班。"
+    },
+    {
+      "word": "loyalty tier",
+      "meaning_zh": "會員等級",
+      "example_en": "Reaching the platinum loyalty tier unlocks priority booking and free upgrades.",
+      "example_zh": "達到白金會員等級可解鎖優先訂位與免費升等。"
+    },
+    {
+      "word": "executive lounge",
+      "meaning_zh": "貴賓室",
+      "example_en": "Status members can relax in the executive lounge between connecting flights.",
+      "example_zh": "會員可在轉機之間於貴賓室放鬆休息。"
+    },
+    {
+      "word": "meeting room",
+      "meaning_zh": "會議室",
+      "example_en": "Reserve a meeting room with video conferencing capability for the client review.",
+      "example_zh": "請為客戶審查預約具備視訊會議功能的會議室。"
+    },
+    {
+      "word": "whiteboard",
+      "meaning_zh": "白板",
+      "example_en": "Use the whiteboard to sketch the workflow during the brainstorming session.",
+      "example_zh": "腦力激盪時請使用白板繪製工作流程。"
+    },
+    {
+      "word": "screen share",
+      "meaning_zh": "螢幕分享",
+      "example_en": "I will screen share the latest dashboard so we can review the metrics together.",
+      "example_zh": "我會分享螢幕呈現最新的儀表板，讓我們一起檢視指標。"
+    },
+    {
+      "word": "agenda item",
+      "meaning_zh": "議程項目",
+      "example_en": "We added one final agenda item to discuss next quarter's hiring plan.",
+      "example_zh": "我們新增了最後一項議程項目以討論下季的招聘計畫。"
+    },
+    {
+      "word": "sign off",
+      "meaning_zh": "正式核准",
+      "example_en": "We are awaiting final sign off from the legal team before signing the agreement.",
+      "example_zh": "我們正等待法務團隊的最終核准後才簽署協議。"
+    },
+    {
+      "word": "request for proposal",
+      "meaning_zh": "建議書徵求",
+      "example_en": "We received a request for proposal from a Fortune 500 prospective client.",
+      "example_zh": "我們收到一家財星五百大潛在客戶的建議書徵求。"
+    },
+    {
+      "word": "vendor selection",
+      "meaning_zh": "供應商遴選",
+      "example_en": "Vendor selection criteria include price, quality, and post sale support.",
+      "example_zh": "供應商遴選標準包括價格、品質與售後支援。"
+    },
+    {
+      "word": "scope of work",
+      "meaning_zh": "工作範圍",
+      "example_en": "The scope of work should be agreed in writing before any billable hours begin.",
+      "example_zh": "在任何計費工時開始前，工作範圍應以書面協議確認。"
+    },
+    {
+      "word": "deliverable acceptance",
+      "meaning_zh": "交付物驗收",
+      "example_en": "Deliverable acceptance triggers the next payment installment in the contract.",
+      "example_zh": "交付物驗收會觸發合約中的下一期付款。"
+    },
+    {
+      "word": "key performance indicator",
+      "meaning_zh": "關鍵績效指標",
+      "example_en": "Each business unit tracks five key performance indicators on a monthly basis.",
+      "example_zh": "每個業務單位每月追蹤五項關鍵績效指標。"
+    },
+    {
+      "word": "objective and key results",
+      "meaning_zh": "目標與關鍵成果",
+      "example_en": "Objective and key results help teams align around measurable quarterly goals.",
+      "example_zh": "目標與關鍵成果有助於團隊圍繞可衡量的季度目標達成一致。"
+    },
+    {
+      "word": "talent pipeline",
+      "meaning_zh": "人才庫",
+      "example_en": "A healthy talent pipeline supports our aggressive expansion plans.",
+      "example_zh": "健全的人才庫支持我們積極的擴展計畫。"
+    },
+    {
+      "word": "remote work",
+      "meaning_zh": "遠距工作",
+      "example_en": "Our remote work policy gives employees flexibility while maintaining productivity standards.",
+      "example_zh": "我們的遠距工作政策在維持生產力標準的同時給予員工彈性。"
+    },
+    {
+      "word": "hybrid work",
+      "meaning_zh": "混合辦公",
+      "example_en": "Hybrid work arrangements allow staff to balance office and home days each week.",
+      "example_zh": "混合辦公安排讓員工每週能平衡辦公室與居家工作日。"
+    },
+    {
+      "word": "collaboration tool",
+      "meaning_zh": "協作工具",
+      "example_en": "Our collaboration tool integrates messaging, video calls, and file sharing.",
+      "example_zh": "我們的協作工具整合訊息、視訊通話與檔案分享。"
+    },
+    {
+      "word": "process improvement",
+      "meaning_zh": "流程改善",
+      "example_en": "Continuous process improvement reduces waste and accelerates delivery times.",
+      "example_zh": "持續的流程改善能減少浪費並加速交付時間。"
+    },
+    {
+      "word": "standard operating procedure",
+      "meaning_zh": "標準作業程序",
+      "example_en": "Each task has a documented standard operating procedure for new hires to follow.",
+      "example_zh": "每項任務都有書面記錄的標準作業程序供新進員工依循。"
+    },
+    {
+      "word": "service ticket",
+      "meaning_zh": "服務工單",
+      "example_en": "Your service ticket has been escalated to the second level support team.",
+      "example_zh": "您的服務工單已升級至第二線支援團隊。"
     }
   ]
 }
