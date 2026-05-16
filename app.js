@@ -366,13 +366,20 @@ function fmtQuizKo(item) {
 }
 
 function fmtSceneKo(item, storyTitle) {
+  const reversed = state.dir === "zh";
   let html = `<div class="story-banner">` +
     `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
     `<button class="story-switch" type="button">換故事</button>` +
     `</div>`;
-  html += `<div class="headword">🎭 ${escapeHTML(item.ko)}</div>`;
-  html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-    `💬 ${escapeHTML(item.zh)}</span></div>`;
+  if (reversed) {
+    html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `🎭 ${escapeHTML(item.ko)}</span></div>`;
+  } else {
+    html += `<div class="headword">🎭 ${escapeHTML(item.ko)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `💬 ${escapeHTML(item.zh)}</span></div>`;
+  }
   return html;
 }
 
@@ -409,13 +416,20 @@ function fmtQuizToeic(item) {
 }
 
 function fmtSceneToeic(item, storyTitle) {
+  const reversed = state.dir === "zh";
   let html = `<div class="story-banner">` +
     `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
     `<button class="story-switch" type="button">換故事</button>` +
     `</div>`;
-  html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
-  html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-    `💬 ${escapeHTML(item.zh)}</span></div>`;
+  if (reversed) {
+    html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `🎭 ${escapeHTML(item.en)}</span></div>`;
+  } else {
+    html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `💬 ${escapeHTML(item.zh)}</span></div>`;
+  }
   return html;
 }
 
@@ -638,11 +652,14 @@ function closeLevelPicker() {
 }
 
 function updateModeToggles() {
-  const hide = isTopik() || isToeic();
+  const hideLang = isTopik() || isToeic();
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
-  if (langBtn) langBtn.style.display = hide ? "none" : "";
-  if (dirBtn) dirBtn.style.display = hide ? "none" : "";
+  if (langBtn) langBtn.style.display = hideLang ? "none" : "";
+  if (dirBtn) {
+    dirBtn.style.display = "";
+    dirBtn.textContent = dirLabel();
+  }
 }
 function cycleLang() {
   const i = LANGS.indexOf(state.lang);
@@ -653,7 +670,10 @@ function cycleLang() {
   if (entry) displayEntry(entry);
 }
 function dirLabel() {
-  return state.dir === "zh" ? "中→日" : "日→中";
+  const reversed = state.dir === "zh";
+  if (isToeic()) return reversed ? "中→英" : "英→中";
+  if (isTopik()) return reversed ? "中→韓" : "韓→中";
+  return reversed ? "中→日" : "日→中";
 }
 function cycleDir() {
   state.dir = state.dir === "zh" ? "ja" : "zh";
