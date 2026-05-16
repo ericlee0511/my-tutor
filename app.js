@@ -567,7 +567,10 @@ function renderStoryPicker() {
     const num = String(i + 1).padStart(2, "0");
     const count = (scenesData?.[s.key] || []).length;
     html += `<button class="story-option" type="button" data-key="${s.key}">` +
-      `<span class="story-option-title">${num}. ${escapeHTML(s.title)}</span>` +
+      `<span class="story-option-title">` +
+        `<span class="story-option-num">${num}.</span>` +
+        `<span class="story-option-text">${escapeHTML(s.title)}</span>` +
+      `</span>` +
       `<span class="story-option-count">${count} 句</span>` +
       `</button>`;
   });

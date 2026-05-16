@@ -197,6 +197,19 @@ main {
 .story-option-title {
   font-weight: 600;
   line-height: 1.4;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  column-gap: 6px;
+  align-items: start;
+}
+.story-option-num {
+  white-space: nowrap;
+}
+.story-option-text {
+  min-width: 0;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 .story-option-count {
   color: var(--muted);
