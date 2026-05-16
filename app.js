@@ -1,4 +1,4 @@
-const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6"];
+const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
@@ -98,16 +98,33 @@ const KOREAN_STORIES = [
   { key: "topik93", title: "현대 교향곡 세계 초연 지휘자의 무대" },
 ];
 
-function isTopik() { return state.level && state.level.startsWith("t"); }
+function isToeic() { return state.level === "toeic"; }
+function isTopik() { return state.level && state.level.startsWith("t") && !isToeic(); }
 function levelLabel(lvl) {
+  if (lvl === "toeic") return "TOEIC";
   if (lvl && lvl.startsWith("t")) return "TOPIK " + lvl.slice(1);
   return (lvl || "").toUpperCase();
 }
-function activeStories() { return isTopik() ? KOREAN_STORIES : STORIES; }
-function activeVocab() { return isTopik() ? DATA.vocab_ko : DATA.vocab; }
-function activeGrammar() { return isTopik() ? DATA.grammar_ko : DATA.grammar; }
-function activeQuiz() { return isTopik() ? DATA.quiz_ko : DATA.quiz; }
-function activeScenes() { return isTopik() ? DATA.scenes_ko : DATA.scenes; }
+function activeStories() {
+  if (isToeic()) return TOEIC_STORIES;
+  return isTopik() ? KOREAN_STORIES : STORIES;
+}
+function activeVocab() {
+  if (isToeic()) return DATA.vocab_toeic;
+  return isTopik() ? DATA.vocab_ko : DATA.vocab;
+}
+function activeGrammar() {
+  if (isToeic()) return DATA.grammar_toeic;
+  return isTopik() ? DATA.grammar_ko : DATA.grammar;
+}
+function activeQuiz() {
+  if (isToeic()) return DATA.quiz_toeic;
+  return isTopik() ? DATA.quiz_ko : DATA.quiz;
+}
+function activeScenes() {
+  if (isToeic()) return DATA.scenes_toeic;
+  return isTopik() ? DATA.scenes_ko : DATA.scenes;
+}
 
 const STORIES = [
   { key: "jap001", title: "修学旅行で仲良くないグループに入りました 1" },
@@ -162,6 +179,14 @@ const STORIES = [
   { key: "jap050", title: "自由研究" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
+const TOEIC_STORIES = [
+  { key: "toeic01", title: "Office Relocation Memo" },
+  { key: "toeic02", title: "Software Product Launch Press Release" },
+  { key: "toeic03", title: "Remote Work Policy Memo" },
+  { key: "toeic04", title: "Article on Sustainable Business Trends" },
+  { key: "toeic05", title: "Business Trip Itinerary" },
+];
+
 let DATA = {};
 let state = {
   level: "n5",
@@ -188,6 +213,7 @@ function saveState() {
 async function loadData() {
   const jpFixed = 3;
   const koFixed = 3;
+  const toeicFixed = 3;
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),
@@ -195,8 +221,12 @@ async function loadData() {
     fetch("data/vocab_ko.json").then(r => r.json()),
     fetch("data/grammar_ko.json").then(r => r.json()),
     fetch("data/quiz_ko.json").then(r => r.json()),
+    fetch("data/vocab_toeic.json").then(r => r.json()),
+    fetch("data/grammar_toeic.json").then(r => r.json()),
+    fetch("data/quiz_toeic.json").then(r => r.json()),
     ...STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...KOREAN_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
+    ...TOEIC_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
   ]);
   DATA.vocab = loaded[0];
   DATA.grammar = loaded[1];
@@ -204,8 +234,12 @@ async function loadData() {
   DATA.vocab_ko = loaded[3];
   DATA.grammar_ko = loaded[4];
   DATA.quiz_ko = loaded[5];
-  const jpStart = jpFixed + koFixed;
+  DATA.vocab_toeic = loaded[6];
+  DATA.grammar_toeic = loaded[7];
+  DATA.quiz_toeic = loaded[8];
+  const jpStart = jpFixed + koFixed + toeicFixed;
   const koStart = jpStart + STORIES.length;
+  const toeicStart = koStart + KOREAN_STORIES.length;
   DATA.scenes = {};
   STORIES.forEach((s, i) => {
     DATA.scenes[s.key] = loaded[jpStart + i].all || [];
@@ -214,6 +248,10 @@ async function loadData() {
   KOREAN_STORIES.forEach((s, i) => {
     DATA.scenes_ko[s.key] = loaded[koStart + i].all || [];
   });
+  DATA.scenes_toeic = {};
+  TOEIC_STORIES.forEach((s, i) => {
+    DATA.scenes_toeic[s.key] = loaded[toeicStart + i].all || [];
+  });
   updateStats();
 }
 
@@ -221,7 +259,8 @@ function updateStats() {
   const sum = obj => Object.values(obj || {}).reduce((s, a) => s + a.length, 0);
   const total =
     sum(DATA.vocab) + sum(DATA.grammar) + sum(DATA.quiz) + sum(DATA.scenes) +
-    sum(DATA.vocab_ko) + sum(DATA.grammar_ko) + sum(DATA.quiz_ko) + sum(DATA.scenes_ko);
+    sum(DATA.vocab_ko) + sum(DATA.grammar_ko) + sum(DATA.quiz_ko) + sum(DATA.scenes_ko) +
+    sum(DATA.vocab_toeic) + sum(DATA.grammar_toeic) + sum(DATA.quiz_toeic) + sum(DATA.scenes_toeic);
   document.getElementById("stats").textContent = `已載入 ${total} 項學習素材 · 離線可用`;
 }
 
@@ -337,6 +376,49 @@ function fmtSceneKo(item, storyTitle) {
   return html;
 }
 
+function fmtWordToeic(item) {
+  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  html += `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+    `<div class="ex">Example: ${escapeHTML(item.example_en)}<br>` +
+    `   → ${escapeHTML(item.example_zh)}</div>`;
+  return html;
+}
+
+function fmtGrammarToeic(item) {
+  let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
+    `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+    `<div><span class="label">Structure:</span> ${escapeHTML(item.structure)}</div>`;
+  (item.examples || []).forEach((ex, i) => {
+    html += `<div class="ex">Example ${i + 1}: ${escapeHTML(ex.en)}<br>` +
+      `   → ${escapeHTML(ex.zh)}</div>`;
+  });
+  return html;
+}
+
+function fmtQuizToeic(item) {
+  const letters = ["A", "B", "C", "D"];
+  const ansLetter = letters[item.answer];
+  let html = `<div class="headword">❓ ${escapeHTML(item.question_en)}</div><div class="options">`;
+  item.options.forEach((opt, i) => {
+    html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
+  });
+  html += `</div>` +
+    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
+  return html;
+}
+
+function fmtSceneToeic(item, storyTitle) {
+  let html = `<div class="story-banner">` +
+    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
+    `<button class="story-switch" type="button">換故事</button>` +
+    `</div>`;
+  html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
+  html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `💬 ${escapeHTML(item.zh)}</span></div>`;
+  return html;
+}
+
 function fmtScene(item, storyTitle) {
   const dir = state.dir === "zh" ? "zh" : "ja";
   let html = `<div class="story-banner">` +
@@ -358,9 +440,15 @@ function fmtScene(item, storyTitle) {
   return html;
 }
 
-function pushTimeline(kind, key, item, topik) {
+function currentMode() {
+  if (isToeic()) return "toeic";
+  if (isTopik()) return "topik";
+  return "jp";
+}
+
+function pushTimeline(kind, key, item, mode) {
   state.timeline.length = state.timelinePos + 1;
-  state.timeline.push({ kind, key, item, mode: topik ? "topik" : "jp" });
+  state.timeline.push({ kind, key, item, mode });
   state.timelinePos = state.timeline.length - 1;
   while (state.timeline.length > MAX_TIMELINE) {
     state.timeline.shift();
@@ -370,6 +458,18 @@ function pushTimeline(kind, key, item, topik) {
 }
 
 function formatEntry(entry) {
+  if (entry.mode === "toeic") {
+    if (entry.kind === "word") return fmtWordToeic(entry.item);
+    if (entry.kind === "grammar") return fmtGrammarToeic(entry.item);
+    if (entry.kind === "quiz") return fmtQuizToeic(entry.item);
+    if (entry.kind === "scene") {
+      const idx = TOEIC_STORIES.findIndex(s => s.key === entry.key);
+      const story = TOEIC_STORIES[idx];
+      const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + ". " : "";
+      return fmtSceneToeic(entry.item, num + (story?.title || ""));
+    }
+    return "";
+  }
   const ko = entry.mode === "topik" ||
     entry.item?.word || entry.item?.question_ko || entry.item?.ko ||
     (entry.item?.examples && entry.item.examples[0]?.ko);
@@ -425,18 +525,21 @@ function nextTimeline() {
   }
   const last = state.timeline[state.timelinePos];
   if (!last) return;
-  const topik = last.mode === "topik";
+  const mode = last.mode;
   if (last.kind === "scene") {
-    const pool = topik ? DATA.scenes_ko : DATA.scenes;
+    const pool =
+      mode === "toeic" ? DATA.scenes_toeic :
+      mode === "topik" ? DATA.scenes_ko : DATA.scenes;
     const item = pickRandom(pool, last.key, "scene");
-    if (item) { pushTimeline("scene", last.key, item, topik); displayEntry(state.timeline[state.timelinePos]); }
+    if (item) { pushTimeline("scene", last.key, item, mode); displayEntry(state.timeline[state.timelinePos]); }
   } else {
-    const poolMap = topik
-      ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko }
-      : { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
+    const poolMap =
+      mode === "toeic" ? { word: DATA.vocab_toeic, grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
+      mode === "topik" ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko } :
+      { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
     const histKind = last.kind === "word" ? "vocab" : last.kind;
     const item = pickRandom(poolMap[last.kind], last.key, histKind);
-    if (item) { pushTimeline(last.kind, last.key, item, topik); displayEntry(state.timeline[state.timelinePos]); }
+    if (item) { pushTimeline(last.kind, last.key, item, mode); displayEntry(state.timeline[state.timelinePos]); }
   }
 }
 
@@ -475,36 +578,43 @@ function renderScene() {
     document.getElementById("content").innerHTML = "<div class='hint'>沒有資料</div>";
     return;
   }
-  pushTimeline("scene", state.story, item, isTopik());
+  pushTimeline("scene", state.story, item, currentMode());
   displayEntry(state.timeline[state.timelinePos]);
 }
 
 function render(action) {
   const c = document.getElementById("content");
-  const topik = isTopik();
+  const mode = currentMode();
+  const pickLevel = isToeic() ? "toeic" : state.level;
   let item;
   if (action === "word") {
-    item = pickRandom(activeVocab(), state.level, "vocab");
-    if (item) { pushTimeline("word", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeVocab(), pickLevel, "vocab");
+    if (item) { pushTimeline("word", pickLevel, item, mode); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "grammar") {
-    item = pickRandom(activeGrammar(), state.level, "grammar");
-    if (item) { pushTimeline("grammar", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeGrammar(), pickLevel, "grammar");
+    if (item) { pushTimeline("grammar", pickLevel, item, mode); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "quiz") {
-    item = pickRandom(activeQuiz(), state.level, "quiz");
-    if (item) { pushTimeline("quiz", state.level, item, topik); displayEntry(state.timeline[state.timelinePos]); }
+    item = pickRandom(activeQuiz(), pickLevel, "quiz");
+    if (item) { pushTimeline("quiz", pickLevel, item, mode); displayEntry(state.timeline[state.timelinePos]); }
     else c.innerHTML = "<div class='hint'>沒有資料</div>";
   } else if (action === "scene") {
     renderScene();
   }
 }
 
+function modeOfLevel(lvl) {
+  if (lvl === "toeic") return "toeic";
+  if (lvl && lvl.startsWith("t")) return "topik";
+  return "jp";
+}
 function setLevel(next) {
   const prev = state.level;
   if (next === prev) return;
+  const prevMode = modeOfLevel(prev);
   state.level = next;
-  if (isTopik() !== prev.startsWith("t")) {
+  if (modeOfLevel(next) !== prevMode) {
     state.story = null;
   }
   saveState();
@@ -528,11 +638,11 @@ function closeLevelPicker() {
 }
 
 function updateModeToggles() {
-  const topik = isTopik();
+  const hide = isTopik() || isToeic();
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
-  if (langBtn) langBtn.style.display = topik ? "none" : "";
-  if (dirBtn) dirBtn.style.display = topik ? "none" : "";
+  if (langBtn) langBtn.style.display = hide ? "none" : "";
+  if (dirBtn) dirBtn.style.display = hide ? "none" : "";
 }
 function cycleLang() {
   const i = LANGS.indexOf(state.lang);

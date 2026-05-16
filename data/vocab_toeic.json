@@ -1,0 +1,1276 @@
+{
+  "toeic": [
+    {
+      "word": "implement",
+      "meaning_zh": "(動詞) 實施、執行（計畫或政策）",
+      "example_en": "The board decided to implement the new safety policy starting next quarter.",
+      "example_zh": "董事會決定從下一季開始實施新的安全政策。"
+    },
+    {
+      "word": "acquisition",
+      "meaning_zh": "(名詞) 收購、併購；取得",
+      "example_en": "The acquisition of the smaller firm will expand our market share significantly.",
+      "example_zh": "對這家小公司的收購將大幅擴展我們的市場佔有率。"
+    },
+    {
+      "word": "comply",
+      "meaning_zh": "(動詞) 遵守、依從（常與 with 連用）",
+      "example_en": "All employees must comply with the updated data protection regulations.",
+      "example_zh": "所有員工都必須遵守更新後的資料保護規定。"
+    },
+    {
+      "word": "reimburse",
+      "meaning_zh": "(動詞) 償還、報銷（費用）",
+      "example_en": "The company will reimburse you for any travel expenses incurred during the conference.",
+      "example_zh": "公司將報銷您在會議期間產生的所有差旅費用。"
+    },
+    {
+      "word": "allocate",
+      "meaning_zh": "(動詞) 分配、撥出（資源、預算）",
+      "example_en": "The manager will allocate additional funds to the marketing department this year.",
+      "example_zh": "經理今年將撥出額外資金給行銷部門。"
+    },
+    {
+      "word": "postpone",
+      "meaning_zh": "(動詞) 延期、推遲",
+      "example_en": "We had to postpone the product launch due to unexpected supply chain issues.",
+      "example_zh": "由於意外的供應鏈問題，我們不得不延期產品發表。"
+    },
+    {
+      "word": "oversee",
+      "meaning_zh": "(動詞) 監督、管理",
+      "example_en": "Ms. Tanaka will oversee the renovation of the downtown branch office.",
+      "example_zh": "田中女士將監督市中心分公司的整修工程。"
+    },
+    {
+      "word": "prospective",
+      "meaning_zh": "(形容詞) 潛在的、未來的",
+      "example_en": "Our sales team is meeting with several prospective clients next Monday.",
+      "example_zh": "我們的業務團隊下週一將與幾位潛在客戶會面。"
+    },
+    {
+      "word": "prior to",
+      "meaning_zh": "(介系詞片語) 在……之前",
+      "example_en": "Please review the agenda prior to attending tomorrow's meeting.",
+      "example_zh": "請在參加明天的會議之前先審閱議程。"
+    },
+    {
+      "word": "regarding",
+      "meaning_zh": "(介系詞) 關於、有關",
+      "example_en": "I am writing regarding the invoice we received last week.",
+      "example_zh": "我來信是關於我們上週收到的那份發票。"
+    },
+    {
+      "word": "designate",
+      "meaning_zh": "(動詞) 指定、指派",
+      "example_en": "Please designate one team member to handle customer inquiries during the trade show.",
+      "example_zh": "請指派一名團隊成員在貿易展期間處理客戶詢問。"
+    },
+    {
+      "word": "retain",
+      "meaning_zh": "(動詞) 保留、留住",
+      "example_en": "The firm offers competitive benefits in order to retain top talent.",
+      "example_zh": "該公司提供具競爭力的福利以留住頂尖人才。"
+    },
+    {
+      "word": "terminate",
+      "meaning_zh": "(動詞) 終止、結束",
+      "example_en": "Either party may terminate this contract with thirty days written notice.",
+      "example_zh": "任何一方均可在三十天前以書面通知終止本合約。"
+    },
+    {
+      "word": "fluctuate",
+      "meaning_zh": "(動詞) 波動、起伏不定",
+      "example_en": "Currency exchange rates tend to fluctuate during periods of economic uncertainty.",
+      "example_zh": "在經濟不確定的時期，匯率往往會波動。"
+    },
+    {
+      "word": "comprehensive",
+      "meaning_zh": "(形容詞) 全面的、廣泛的",
+      "example_en": "The consultant prepared a comprehensive report on our operational efficiency.",
+      "example_zh": "顧問針對我們的營運效率準備了一份全面性的報告。"
+    },
+    {
+      "word": "mandatory",
+      "meaning_zh": "(形容詞) 強制的、必須的",
+      "example_en": "Attendance at the safety training session is mandatory for all factory workers.",
+      "example_zh": "所有工廠員工皆必須出席安全訓練課程。"
+    },
+    {
+      "word": "vendor",
+      "meaning_zh": "(名詞) 供應商、賣方",
+      "example_en": "We have selected a new vendor to supply our office stationery.",
+      "example_zh": "我們已選定一家新的供應商來提供辦公文具。"
+    },
+    {
+      "word": "invoice",
+      "meaning_zh": "(名詞) 發票、請款單",
+      "example_en": "Please send the invoice to our accounting department by the end of the month.",
+      "example_zh": "請於月底前將發票寄送至我們的會計部門。"
+    },
+    {
+      "word": "itinerary",
+      "meaning_zh": "(名詞) 行程表、旅行計畫",
+      "example_en": "The travel agent emailed me a detailed itinerary for the Tokyo business trip.",
+      "example_zh": "旅行社業務員寄給我一份東京出差的詳細行程表。"
+    },
+    {
+      "word": "agenda",
+      "meaning_zh": "(名詞) 議程、待辦事項",
+      "example_en": "The first item on today's agenda is the third-quarter sales report.",
+      "example_zh": "今天議程的第一項是第三季的銷售報告。"
+    },
+    {
+      "word": "quarterly",
+      "meaning_zh": "(形容詞/副詞) 每季的、按季度的",
+      "example_en": "Shareholders receive a quarterly update on the company's financial performance.",
+      "example_zh": "股東每季都會收到公司財務表現的更新報告。"
+    },
+    {
+      "word": "accommodate",
+      "meaning_zh": "(動詞) 容納；適應、配合",
+      "example_en": "The new conference room can accommodate up to fifty participants.",
+      "example_zh": "新會議室最多可容納五十位與會者。"
+    },
+    {
+      "word": "expedite",
+      "meaning_zh": "(動詞) 加速、加快處理",
+      "example_en": "We need to expedite the shipment to meet the customer's deadline.",
+      "example_zh": "我們必須加速出貨以趕上客戶的期限。"
+    },
+    {
+      "word": "prerequisite",
+      "meaning_zh": "(名詞) 先決條件、必要條件",
+      "example_en": "A bachelor's degree is a prerequisite for the senior analyst position.",
+      "example_zh": "學士學位是擔任資深分析師職位的先決條件。"
+    },
+    {
+      "word": "beneficiary",
+      "meaning_zh": "(名詞) 受益人、受惠者",
+      "example_en": "Please indicate the primary beneficiary on your insurance enrollment form.",
+      "example_zh": "請在您的保險加保表上註明主要受益人。"
+    },
+    {
+      "word": "jurisdiction",
+      "meaning_zh": "(名詞) 管轄權、司法權",
+      "example_en": "Any disputes shall fall under the jurisdiction of the courts of New York.",
+      "example_zh": "任何爭議將歸紐約法院管轄。"
+    },
+    {
+      "word": "deductible",
+      "meaning_zh": "(形容詞) 可扣除的；(名詞) 自付額",
+      "example_en": "Business meal expenses may be tax deductible under certain conditions.",
+      "example_zh": "在特定條件下，商務餐費可能是可抵稅的。"
+    },
+    {
+      "word": "premise",
+      "meaning_zh": "(名詞) 前提；(複數 premises) 房屋、營業場所",
+      "example_en": "Smoking is strictly prohibited on the company premises.",
+      "example_zh": "公司營業場所內嚴禁吸菸。"
+    },
+    {
+      "word": "on behalf of",
+      "meaning_zh": "(片語) 代表……、為了……",
+      "example_en": "I am writing on behalf of our CEO to confirm the meeting details.",
+      "example_zh": "我謹代表執行長來信確認會議細節。"
+    },
+    {
+      "word": "in light of",
+      "meaning_zh": "(片語) 鑑於、考慮到",
+      "example_en": "In light of recent budget cuts, we will postpone the office renovation.",
+      "example_zh": "鑑於最近的預算削減，我們將延後辦公室整修工程。"
+    },
+    {
+      "word": "pending",
+      "meaning_zh": "(形容詞) 待決的、未決定的；(介系詞) 直到",
+      "example_en": "Your application is still pending review by the human resources department.",
+      "example_zh": "您的申請仍待人資部門審查中。"
+    },
+    {
+      "word": "with regard to",
+      "meaning_zh": "(片語) 關於、就……而言",
+      "example_en": "With regard to your proposal, the committee will respond within two weeks.",
+      "example_zh": "關於您的提案，委員會將在兩週內回覆。"
+    },
+    {
+      "word": "subject to",
+      "meaning_zh": "(片語) 須經……、取決於",
+      "example_en": "All travel arrangements are subject to manager approval.",
+      "example_zh": "所有差旅安排都須經主管核准。"
+    },
+    {
+      "word": "attendance",
+      "meaning_zh": "(名詞) 出席、出席率",
+      "example_en": "Attendance at the annual shareholder meeting was higher than expected.",
+      "example_zh": "年度股東大會的出席率高於預期。"
+    },
+    {
+      "word": "anticipate",
+      "meaning_zh": "(動詞) 預期、預料",
+      "example_en": "We anticipate strong demand for the new product during the holiday season.",
+      "example_zh": "我們預期新產品在假期期間將有強勁的需求。"
+    },
+    {
+      "word": "applicant",
+      "meaning_zh": "(名詞) 申請人、應徵者",
+      "example_en": "Each applicant must submit a resume and two references.",
+      "example_zh": "每位應徵者都必須繳交履歷與兩份推薦信。"
+    },
+    {
+      "word": "appointment",
+      "meaning_zh": "(名詞) 約會、預約；任命",
+      "example_en": "I would like to schedule an appointment with the dental clinic for next Tuesday.",
+      "example_zh": "我想預約下週二到牙科診所看診。"
+    },
+    {
+      "word": "assemble",
+      "meaning_zh": "(動詞) 集合、組裝",
+      "example_en": "The technicians will assemble the new equipment first thing tomorrow morning.",
+      "example_zh": "技術人員將於明天一早組裝新設備。"
+    },
+    {
+      "word": "authorize",
+      "meaning_zh": "(動詞) 授權、批准",
+      "example_en": "Only the department head is authorized to approve overtime payments.",
+      "example_zh": "只有部門主管有權批准加班費。"
+    },
+    {
+      "word": "beverage",
+      "meaning_zh": "(名詞) 飲料",
+      "example_en": "Complimentary beverages will be served throughout the conference.",
+      "example_zh": "會議期間將全程提供免費飲料。"
+    },
+    {
+      "word": "beneficial",
+      "meaning_zh": "(形容詞) 有益的、有利的",
+      "example_en": "The merger will be mutually beneficial for both companies involved.",
+      "example_zh": "這次合併對相關的兩家公司都將互利有益。"
+    },
+    {
+      "word": "branch",
+      "meaning_zh": "(名詞) 分行、分公司",
+      "example_en": "Our company plans to open a new branch in Singapore next year.",
+      "example_zh": "我們公司計畫明年在新加坡開設新分公司。"
+    },
+    {
+      "word": "candidate",
+      "meaning_zh": "(名詞) 候選人、應徵者",
+      "example_en": "The hiring committee selected three candidates for the final interview.",
+      "example_zh": "招聘委員會選出三名候選人進入最終面試。"
+    },
+    {
+      "word": "capacity",
+      "meaning_zh": "(名詞) 容量；能力；身分",
+      "example_en": "The factory is currently operating at full capacity to meet rising demand.",
+      "example_zh": "工廠目前正以全產能運轉以滿足不斷上升的需求。"
+    },
+    {
+      "word": "colleague",
+      "meaning_zh": "(名詞) 同事",
+      "example_en": "I would like to introduce my colleague from the marketing department.",
+      "example_zh": "我想介紹一下我來自行銷部門的同事。"
+    },
+    {
+      "word": "commute",
+      "meaning_zh": "(動詞/名詞) 通勤",
+      "example_en": "Many employees prefer to work from home to avoid the long daily commute.",
+      "example_zh": "許多員工偏好在家工作以避免每天漫長的通勤。"
+    },
+    {
+      "word": "complimentary",
+      "meaning_zh": "(形容詞) 免費贈送的；讚美的",
+      "example_en": "Hotel guests receive a complimentary breakfast each morning.",
+      "example_zh": "飯店住客每天早上可享用免費早餐。"
+    },
+    {
+      "word": "compromise",
+      "meaning_zh": "(名詞/動詞) 妥協、折衷",
+      "example_en": "After hours of negotiation, both sides finally reached a compromise.",
+      "example_zh": "經過數小時的協商，雙方終於達成妥協。"
+    },
+    {
+      "word": "conduct",
+      "meaning_zh": "(動詞) 進行、執行；(名詞) 行為",
+      "example_en": "The research team will conduct a survey on customer satisfaction.",
+      "example_zh": "研究團隊將進行一項關於顧客滿意度的調查。"
+    },
+    {
+      "word": "conference",
+      "meaning_zh": "(名詞) 會議、研討會",
+      "example_en": "Our CEO will deliver the keynote speech at next month's industry conference.",
+      "example_zh": "我們的執行長將在下個月的產業會議上發表主題演說。"
+    },
+    {
+      "word": "consent",
+      "meaning_zh": "(名詞/動詞) 同意、許可",
+      "example_en": "Written consent from the supervisor is required before any data is shared.",
+      "example_zh": "在分享任何資料之前，需要主管的書面同意。"
+    },
+    {
+      "word": "considerable",
+      "meaning_zh": "(形容詞) 相當大的、可觀的",
+      "example_en": "The new advertising campaign generated a considerable increase in sales.",
+      "example_zh": "新的廣告活動帶來了相當可觀的銷售成長。"
+    },
+    {
+      "word": "consult",
+      "meaning_zh": "(動詞) 諮詢、請教",
+      "example_en": "Please consult the user manual before operating the photocopier.",
+      "example_zh": "操作影印機之前，請先參閱使用手冊。"
+    },
+    {
+      "word": "contract",
+      "meaning_zh": "(名詞) 合約、契約",
+      "example_en": "Both parties signed the contract during the meeting yesterday.",
+      "example_zh": "雙方在昨天的會議中簽署了合約。"
+    },
+    {
+      "word": "contribute",
+      "meaning_zh": "(動詞) 貢獻、捐獻",
+      "example_en": "Every team member is expected to contribute ideas during brainstorming sessions.",
+      "example_zh": "在腦力激盪會議中，每位團隊成員都應提出想法。"
+    },
+    {
+      "word": "convenient",
+      "meaning_zh": "(形容詞) 方便的、便利的",
+      "example_en": "Please let me know a convenient time for our phone interview.",
+      "example_zh": "請告訴我一個方便進行電話面試的時間。"
+    },
+    {
+      "word": "coordinator",
+      "meaning_zh": "(名詞) 協調者、統籌人",
+      "example_en": "The event coordinator will be responsible for managing the venue and catering.",
+      "example_zh": "活動統籌人將負責管理場地與餐飲事宜。"
+    },
+    {
+      "word": "courier",
+      "meaning_zh": "(名詞) 快遞、信差",
+      "example_en": "The contract documents were sent by overnight courier this morning.",
+      "example_zh": "合約文件已於今早透過隔夜快遞寄出。"
+    },
+    {
+      "word": "current",
+      "meaning_zh": "(形容詞) 目前的、現行的",
+      "example_en": "Please refer to the current price list when preparing the quotation.",
+      "example_zh": "準備報價單時，請參考目前的價目表。"
+    },
+    {
+      "word": "deadline",
+      "meaning_zh": "(名詞) 截止日期、最後期限",
+      "example_en": "The deadline for submitting expense reports is the fifth of each month.",
+      "example_zh": "繳交費用報告的截止日期為每月五日。"
+    },
+    {
+      "word": "delegate",
+      "meaning_zh": "(動詞) 委派、授權；(名詞) 代表",
+      "example_en": "Effective managers delegate routine tasks to their team members.",
+      "example_zh": "有效率的主管會將例行工作委派給團隊成員。"
+    },
+    {
+      "word": "deliberate",
+      "meaning_zh": "(形容詞) 故意的、深思熟慮的；(動詞) 商議",
+      "example_en": "The committee will deliberate the proposal before making a final decision.",
+      "example_zh": "委員會將會仔細商議該提案後再做出最終決定。"
+    },
+    {
+      "word": "demonstrate",
+      "meaning_zh": "(動詞) 示範、證明",
+      "example_en": "The sales representative will demonstrate the new software at the trade show.",
+      "example_zh": "業務代表將在貿易展上示範新軟體。"
+    },
+    {
+      "word": "depart",
+      "meaning_zh": "(動詞) 出發、離開",
+      "example_en": "The shuttle bus will depart from the hotel lobby promptly at 8 a.m.",
+      "example_zh": "接駁巴士將於早上八點準時從飯店大廳出發。"
+    },
+    {
+      "word": "deposit",
+      "meaning_zh": "(名詞) 訂金、存款；(動詞) 存入",
+      "example_en": "A 20 percent deposit is required to confirm your booking.",
+      "example_zh": "需支付百分之二十的訂金以確認您的預訂。"
+    },
+    {
+      "word": "destination",
+      "meaning_zh": "(名詞) 目的地",
+      "example_en": "Bali has become a popular destination for corporate retreats.",
+      "example_zh": "峇里島已成為企業員工旅遊熱門的目的地。"
+    },
+    {
+      "word": "devote",
+      "meaning_zh": "(動詞) 致力於、投入",
+      "example_en": "She devoted years of effort to building the firm's reputation in Asia.",
+      "example_zh": "她投入多年心力打造公司在亞洲的聲譽。"
+    },
+    {
+      "word": "distribute",
+      "meaning_zh": "(動詞) 分發、配銷",
+      "example_en": "The marketing team will distribute samples at the upcoming exhibition.",
+      "example_zh": "行銷團隊將在即將到來的展覽中分發樣品。"
+    },
+    {
+      "word": "document",
+      "meaning_zh": "(名詞) 文件；(動詞) 記錄",
+      "example_en": "Please attach the relevant documents to your application form.",
+      "example_zh": "請將相關文件附加在您的申請表上。"
+    },
+    {
+      "word": "draft",
+      "meaning_zh": "(名詞) 草稿；(動詞) 起草",
+      "example_en": "I have prepared a draft of the proposal for your review.",
+      "example_zh": "我已準備好提案的草稿供您審閱。"
+    },
+    {
+      "word": "due to",
+      "meaning_zh": "(片語) 由於、因為",
+      "example_en": "The flight was delayed due to severe weather conditions.",
+      "example_zh": "由於天候惡劣，班機延誤了。"
+    },
+    {
+      "word": "eligible",
+      "meaning_zh": "(形容詞) 合格的、有資格的",
+      "example_en": "Employees are eligible for the bonus after completing one year of service.",
+      "example_zh": "員工在服務滿一年後即有資格領取獎金。"
+    },
+    {
+      "word": "embark",
+      "meaning_zh": "(動詞) 著手、開始；上船",
+      "example_en": "The company is about to embark on an ambitious expansion plan.",
+      "example_zh": "公司即將展開一項雄心勃勃的擴張計畫。"
+    },
+    {
+      "word": "employee",
+      "meaning_zh": "(名詞) 員工、雇員",
+      "example_en": "All employees are required to wear identification badges in the building.",
+      "example_zh": "所有員工在大樓內都必須佩戴識別證。"
+    },
+    {
+      "word": "endorse",
+      "meaning_zh": "(動詞) 背書、認可；代言",
+      "example_en": "Several celebrities have endorsed the brand's new fragrance line.",
+      "example_zh": "多位名人為該品牌新推出的香水系列代言。"
+    },
+    {
+      "word": "enroll",
+      "meaning_zh": "(動詞) 註冊、登記",
+      "example_en": "You can enroll in the leadership training program through the HR portal.",
+      "example_zh": "您可以透過人資入口網站註冊領導力訓練課程。"
+    },
+    {
+      "word": "ensure",
+      "meaning_zh": "(動詞) 確保、保證",
+      "example_en": "Please ensure that all forms are completed before submitting them.",
+      "example_zh": "請確保所有表格都已填妥再行繳交。"
+    },
+    {
+      "word": "entitle",
+      "meaning_zh": "(動詞) 使有資格、給予權利",
+      "example_en": "This membership card entitles you to a 15 percent discount at all branches.",
+      "example_zh": "這張會員卡讓您在所有分店都享有百分之十五的折扣。"
+    },
+    {
+      "word": "equipment",
+      "meaning_zh": "(名詞) 設備、器材",
+      "example_en": "The laboratory equipment must be inspected on a monthly basis.",
+      "example_zh": "實驗室設備必須每月進行檢查。"
+    },
+    {
+      "word": "establish",
+      "meaning_zh": "(動詞) 建立、設立",
+      "example_en": "The company was established in 1985 and now operates in twenty countries.",
+      "example_zh": "公司成立於 1985 年，目前在二十個國家營運。"
+    },
+    {
+      "word": "evaluate",
+      "meaning_zh": "(動詞) 評估、評價",
+      "example_en": "Supervisors evaluate employee performance twice a year.",
+      "example_zh": "主管每年評估員工績效兩次。"
+    },
+    {
+      "word": "exceed",
+      "meaning_zh": "(動詞) 超過、超出",
+      "example_en": "Sales for the third quarter exceeded our initial expectations.",
+      "example_zh": "第三季的銷售額超出了我們最初的預期。"
+    },
+    {
+      "word": "exclusive",
+      "meaning_zh": "(形容詞) 獨家的、專屬的",
+      "example_en": "Members enjoy exclusive access to the executive lounge at the airport.",
+      "example_zh": "會員可獨家使用機場的貴賓休息室。"
+    },
+    {
+      "word": "exempt",
+      "meaning_zh": "(形容詞/動詞) 免除的；豁免",
+      "example_en": "Non-profit organizations are exempt from certain federal taxes.",
+      "example_zh": "非營利組織可豁免某些聯邦稅。"
+    },
+    {
+      "word": "expand",
+      "meaning_zh": "(動詞) 擴展、擴大",
+      "example_en": "Our firm plans to expand its operations into Southeast Asia next year.",
+      "example_zh": "我們公司計畫明年將業務擴展到東南亞。"
+    },
+    {
+      "word": "expense",
+      "meaning_zh": "(名詞) 費用、開支",
+      "example_en": "All travel expenses must be documented with original receipts.",
+      "example_zh": "所有差旅費用都必須以正本收據作為憑證。"
+    },
+    {
+      "word": "expertise",
+      "meaning_zh": "(名詞) 專業知識、專門技術",
+      "example_en": "We hired a consultant with expertise in international tax law.",
+      "example_zh": "我們聘請了一位具國際稅法專業的顧問。"
+    },
+    {
+      "word": "extension",
+      "meaning_zh": "(名詞) 延期；分機號碼",
+      "example_en": "The team requested a one-week extension to complete the report.",
+      "example_zh": "團隊要求延期一週以完成報告。"
+    },
+    {
+      "word": "facility",
+      "meaning_zh": "(名詞) 設施、場所",
+      "example_en": "The new manufacturing facility will create over 200 jobs in the region.",
+      "example_zh": "新的製造廠將為該地區創造超過兩百個工作機會。"
+    },
+    {
+      "word": "feasible",
+      "meaning_zh": "(形容詞) 可行的、行得通的",
+      "example_en": "Engineers are studying whether the proposal is technically feasible.",
+      "example_zh": "工程師正在研究該提案在技術上是否可行。"
+    },
+    {
+      "word": "financial",
+      "meaning_zh": "(形容詞) 財務的、金融的",
+      "example_en": "The accounting team prepares financial statements at the end of every quarter.",
+      "example_zh": "會計團隊在每季結束時編製財務報表。"
+    },
+    {
+      "word": "forward",
+      "meaning_zh": "(動詞) 轉寄、轉交",
+      "example_en": "Could you please forward this email to the entire sales team?",
+      "example_zh": "可以請您將這封電子郵件轉寄給整個業務團隊嗎？"
+    },
+    {
+      "word": "founding",
+      "meaning_zh": "(形容詞/名詞) 創始的；成立",
+      "example_en": "The founding partners still serve on the board of directors.",
+      "example_zh": "創始合夥人們仍在董事會中任職。"
+    },
+    {
+      "word": "frequent",
+      "meaning_zh": "(形容詞) 頻繁的；(動詞) 常去",
+      "example_en": "Frequent flyers can earn bonus miles by booking through our website.",
+      "example_zh": "常客旅客可透過我們的網站訂票賺取紅利哩程。"
+    },
+    {
+      "word": "fulfill",
+      "meaning_zh": "(動詞) 履行、實現",
+      "example_en": "The supplier was unable to fulfill the order on time.",
+      "example_zh": "供應商無法準時履行訂單。"
+    },
+    {
+      "word": "funding",
+      "meaning_zh": "(名詞) 資金、撥款",
+      "example_en": "The startup secured additional funding from a venture capital firm.",
+      "example_zh": "這家新創公司從一家創投公司取得了額外的資金。"
+    },
+    {
+      "word": "gather",
+      "meaning_zh": "(動詞) 聚集、收集",
+      "example_en": "We need to gather more data before drawing any conclusions.",
+      "example_zh": "在做出任何結論之前，我們需要收集更多資料。"
+    },
+    {
+      "word": "generate",
+      "meaning_zh": "(動詞) 產生、創造",
+      "example_en": "The new website is expected to generate substantial online traffic.",
+      "example_zh": "新網站預計將帶來可觀的線上流量。"
+    },
+    {
+      "word": "hire",
+      "meaning_zh": "(動詞) 聘用、雇用",
+      "example_en": "We plan to hire ten new engineers before the end of the year.",
+      "example_zh": "我們計畫在年底前聘用十名新工程師。"
+    },
+    {
+      "word": "host",
+      "meaning_zh": "(動詞) 主辦；(名詞) 主人",
+      "example_en": "Our city will host the international trade conference this autumn.",
+      "example_zh": "本市今秋將主辦國際貿易會議。"
+    },
+    {
+      "word": "identify",
+      "meaning_zh": "(動詞) 辨認、確認",
+      "example_en": "The audit helped identify several areas for cost reduction.",
+      "example_zh": "這次稽核協助找出了幾個可降低成本的領域。"
+    },
+    {
+      "word": "immediate",
+      "meaning_zh": "(形容詞) 立即的、即時的",
+      "example_en": "The defective products were recalled with immediate effect.",
+      "example_zh": "瑕疵產品已立即生效召回。"
+    },
+    {
+      "word": "incentive",
+      "meaning_zh": "(名詞) 獎勵、激勵",
+      "example_en": "The company offers performance-based incentives to its sales staff.",
+      "example_zh": "公司提供業務人員績效獎勵。"
+    },
+    {
+      "word": "inclusive",
+      "meaning_zh": "(形容詞) 包含的、含全部費用的",
+      "example_en": "The package price is inclusive of breakfast and airport transfers.",
+      "example_zh": "套裝價格包含早餐及機場接送費用。"
+    },
+    {
+      "word": "indicate",
+      "meaning_zh": "(動詞) 表明、顯示",
+      "example_en": "Recent figures indicate a steady growth in consumer spending.",
+      "example_zh": "近期數據顯示消費支出穩定成長。"
+    },
+    {
+      "word": "industry",
+      "meaning_zh": "(名詞) 產業、行業",
+      "example_en": "The automotive industry has been heavily impacted by chip shortages.",
+      "example_zh": "汽車產業深受晶片短缺的影響。"
+    },
+    {
+      "word": "initial",
+      "meaning_zh": "(形容詞) 最初的、開始的",
+      "example_en": "Our initial estimate of project costs proved to be too low.",
+      "example_zh": "我們對專案成本的初步估算後來證明太低了。"
+    },
+    {
+      "word": "inquire",
+      "meaning_zh": "(動詞) 詢問、查詢",
+      "example_en": "Several customers have inquired about the availability of the new model.",
+      "example_zh": "已有多位客戶詢問新型號的供貨情況。"
+    },
+    {
+      "word": "install",
+      "meaning_zh": "(動詞) 安裝、設置",
+      "example_en": "Technicians will install the security system over the weekend.",
+      "example_zh": "技術人員將在週末安裝保全系統。"
+    },
+    {
+      "word": "internship",
+      "meaning_zh": "(名詞) 實習、實習期",
+      "example_en": "She completed a six-month internship at an investment bank.",
+      "example_zh": "她在一家投資銀行完成了為期六個月的實習。"
+    },
+    {
+      "word": "inventory",
+      "meaning_zh": "(名詞) 存貨、庫存",
+      "example_en": "Warehouse staff conduct an inventory count at the end of each month.",
+      "example_zh": "倉庫員工每月底會進行一次庫存盤點。"
+    },
+    {
+      "word": "investment",
+      "meaning_zh": "(名詞) 投資",
+      "example_en": "Diversifying your investment portfolio helps reduce overall risk.",
+      "example_zh": "分散您的投資組合有助於降低整體風險。"
+    },
+    {
+      "word": "issue",
+      "meaning_zh": "(名詞) 議題、問題；(動詞) 發行",
+      "example_en": "The supervisor will address the issue of overtime pay at the next meeting.",
+      "example_zh": "主管將在下次會議上處理加班費的議題。"
+    },
+    {
+      "word": "launch",
+      "meaning_zh": "(動詞/名詞) 推出、發起",
+      "example_en": "The company will launch its new smartphone in early September.",
+      "example_zh": "該公司將於九月初推出新款智慧型手機。"
+    },
+    {
+      "word": "layout",
+      "meaning_zh": "(名詞) 布局、版面配置",
+      "example_en": "The designer redesigned the layout of the company brochure.",
+      "example_zh": "設計師重新設計了公司簡介手冊的版面配置。"
+    },
+    {
+      "word": "liability",
+      "meaning_zh": "(名詞) 責任、債務",
+      "example_en": "The company carries insurance to protect against product liability claims.",
+      "example_zh": "公司投保了保險以防範產品責任索賠。"
+    },
+    {
+      "word": "license",
+      "meaning_zh": "(名詞) 執照、許可證",
+      "example_en": "You will need a valid driver's license to operate the company vehicle.",
+      "example_zh": "您需要有效的駕照才能駕駛公司車輛。"
+    },
+    {
+      "word": "locate",
+      "meaning_zh": "(動詞) 位於；找出",
+      "example_en": "Our headquarters is located in the financial district of the city.",
+      "example_zh": "我們的總部位於市中心的金融區。"
+    },
+    {
+      "word": "manufacture",
+      "meaning_zh": "(動詞) 製造、生產",
+      "example_en": "The factory manufactures components for several major automobile brands.",
+      "example_zh": "該工廠為多個主要汽車品牌製造零組件。"
+    },
+    {
+      "word": "maximum",
+      "meaning_zh": "(形容詞/名詞) 最大的、最高的",
+      "example_en": "Each presentation is limited to a maximum of fifteen minutes.",
+      "example_zh": "每場簡報的時間最長為十五分鐘。"
+    },
+    {
+      "word": "merger",
+      "meaning_zh": "(名詞) 合併",
+      "example_en": "The merger of the two companies created the largest retailer in the country.",
+      "example_zh": "兩家公司的合併造就了該國最大的零售商。"
+    },
+    {
+      "word": "modify",
+      "meaning_zh": "(動詞) 修改、調整",
+      "example_en": "We may need to modify the contract terms before signing.",
+      "example_zh": "我們可能需要在簽約前修改合約條款。"
+    },
+    {
+      "word": "monitor",
+      "meaning_zh": "(動詞) 監控、監督",
+      "example_en": "Managers monitor production levels on a daily basis.",
+      "example_zh": "經理每天監控生產水準。"
+    },
+    {
+      "word": "negotiate",
+      "meaning_zh": "(動詞) 協商、談判",
+      "example_en": "Our legal team will negotiate the terms of the partnership agreement.",
+      "example_zh": "我們的法務團隊將協商合作協議的條款。"
+    },
+    {
+      "word": "notify",
+      "meaning_zh": "(動詞) 通知、告知",
+      "example_en": "Please notify the receptionist as soon as your client arrives.",
+      "example_zh": "您的客戶一抵達時，請立即通知接待員。"
+    },
+    {
+      "word": "occupy",
+      "meaning_zh": "(動詞) 占據、占用",
+      "example_en": "The new tenant will occupy the third floor starting next month.",
+      "example_zh": "新房客將從下個月開始進駐三樓。"
+    },
+    {
+      "word": "opportunity",
+      "meaning_zh": "(名詞) 機會、時機",
+      "example_en": "This position offers excellent opportunities for career advancement.",
+      "example_zh": "這個職位提供絕佳的職涯發展機會。"
+    },
+    {
+      "word": "outcome",
+      "meaning_zh": "(名詞) 結果、成果",
+      "example_en": "We are still waiting for the outcome of the merger negotiations.",
+      "example_zh": "我們仍在等待合併談判的結果。"
+    },
+    {
+      "word": "outstanding",
+      "meaning_zh": "(形容詞) 傑出的；未付清的",
+      "example_en": "Please settle the outstanding balance by the end of this week.",
+      "example_zh": "請在本週末前結清未付款項。"
+    },
+    {
+      "word": "overview",
+      "meaning_zh": "(名詞) 概觀、概述",
+      "example_en": "The director gave a brief overview of the company's annual goals.",
+      "example_zh": "總監簡要概述了公司的年度目標。"
+    },
+    {
+      "word": "participate",
+      "meaning_zh": "(動詞) 參加、參與",
+      "example_en": "All staff are encouraged to participate in the wellness program.",
+      "example_zh": "鼓勵全體員工參與健康促進計畫。"
+    },
+    {
+      "word": "perspective",
+      "meaning_zh": "(名詞) 觀點、角度",
+      "example_en": "From a financial perspective, the project does not seem viable.",
+      "example_zh": "從財務角度來看，這個專案似乎不可行。"
+    },
+    {
+      "word": "pertain",
+      "meaning_zh": "(動詞) 與……有關（常與 to 連用）",
+      "example_en": "The new policy pertains to all part-time and full-time employees.",
+      "example_zh": "這項新政策適用於所有兼職與全職員工。"
+    },
+    {
+      "word": "premium",
+      "meaning_zh": "(名詞) 保險費；(形容詞) 高級的",
+      "example_en": "Customers are willing to pay a premium for high-quality service.",
+      "example_zh": "顧客願意為高品質的服務支付額外費用。"
+    },
+    {
+      "word": "presentation",
+      "meaning_zh": "(名詞) 簡報、發表",
+      "example_en": "She delivered an impressive presentation to the board of directors.",
+      "example_zh": "她向董事會做了一場令人印象深刻的簡報。"
+    },
+    {
+      "word": "principal",
+      "meaning_zh": "(形容詞) 主要的；(名詞) 校長、本金",
+      "example_en": "The principal reason for the delay was a shortage of raw materials.",
+      "example_zh": "延誤的主要原因是原料短缺。"
+    },
+    {
+      "word": "proceed",
+      "meaning_zh": "(動詞) 繼續進行、前進",
+      "example_en": "Once the contract is signed, we can proceed with the installation.",
+      "example_zh": "合約一旦簽訂，我們便可繼續進行安裝工作。"
+    },
+    {
+      "word": "proficient",
+      "meaning_zh": "(形容詞) 熟練的、精通的",
+      "example_en": "The position requires someone proficient in spreadsheet software.",
+      "example_zh": "該職位需要精通試算表軟體的人才。"
+    },
+    {
+      "word": "prohibit",
+      "meaning_zh": "(動詞) 禁止",
+      "example_en": "Company policy prohibits employees from accepting expensive gifts from clients.",
+      "example_zh": "公司政策禁止員工收受客戶昂貴的禮物。"
+    },
+    {
+      "word": "promote",
+      "meaning_zh": "(動詞) 推廣、晉升",
+      "example_en": "She was recently promoted to senior account manager.",
+      "example_zh": "她最近被晉升為資深客戶經理。"
+    },
+    {
+      "word": "prompt",
+      "meaning_zh": "(形容詞) 迅速的；(動詞) 促使",
+      "example_en": "Thank you for your prompt response to our inquiry.",
+      "example_zh": "感謝您對我們詢問的迅速回覆。"
+    },
+    {
+      "word": "provided that",
+      "meaning_zh": "(連接詞片語) 倘若、只要",
+      "example_en": "We can deliver the goods on Friday provided that the order is confirmed today.",
+      "example_zh": "只要訂單今天確認，我們就可以在週五出貨。"
+    },
+    {
+      "word": "purchase",
+      "meaning_zh": "(動詞/名詞) 購買",
+      "example_en": "Customers can return any purchase within thirty days for a full refund.",
+      "example_zh": "顧客可以在三十天內退回任何購買的商品並獲得全額退款。"
+    },
+    {
+      "word": "qualify",
+      "meaning_zh": "(動詞) 取得資格、合格",
+      "example_en": "Only candidates with three years of experience qualify for this position.",
+      "example_zh": "只有具備三年經驗的應徵者才符合該職位的資格。"
+    },
+    {
+      "word": "questionnaire",
+      "meaning_zh": "(名詞) 問卷、調查表",
+      "example_en": "Please complete the customer satisfaction questionnaire before leaving.",
+      "example_zh": "離開前請填寫顧客滿意度問卷。"
+    },
+    {
+      "word": "receipt",
+      "meaning_zh": "(名詞) 收據；收到",
+      "example_en": "Please retain your receipt as proof of purchase.",
+      "example_zh": "請保留您的收據作為購買證明。"
+    },
+    {
+      "word": "recognize",
+      "meaning_zh": "(動詞) 認可、辨認",
+      "example_en": "The CEO recognized the team for their outstanding contributions this year.",
+      "example_zh": "執行長表彰了該團隊本年度的傑出貢獻。"
+    },
+    {
+      "word": "recommend",
+      "meaning_zh": "(動詞) 推薦、建議",
+      "example_en": "I would highly recommend this hotel for business travelers.",
+      "example_zh": "我會強力推薦這家飯店給商務旅客。"
+    },
+    {
+      "word": "recruit",
+      "meaning_zh": "(動詞) 招募、招聘",
+      "example_en": "The firm plans to recruit twenty new graduates this spring.",
+      "example_zh": "這家公司計畫在今年春季招聘二十名應屆畢業生。"
+    },
+    {
+      "word": "refund",
+      "meaning_zh": "(名詞/動詞) 退款",
+      "example_en": "The store offers a full refund for unopened merchandise.",
+      "example_zh": "本店未開封商品提供全額退款。"
+    },
+    {
+      "word": "related",
+      "meaning_zh": "(形容詞) 有關的、相關的",
+      "example_en": "Please direct any related questions to the customer service team.",
+      "example_zh": "任何相關問題請洽客戶服務團隊。"
+    },
+    {
+      "word": "relevant",
+      "meaning_zh": "(形容詞) 相關的、有關聯的",
+      "example_en": "Please attach all relevant documentation to your application.",
+      "example_zh": "請將所有相關文件附在您的申請書中。"
+    },
+    {
+      "word": "reliable",
+      "meaning_zh": "(形容詞) 可靠的、值得信賴的",
+      "example_en": "We need a reliable supplier who can meet tight deadlines.",
+      "example_zh": "我們需要一家可靠的供應商來達成緊迫的交期。"
+    },
+    {
+      "word": "relocate",
+      "meaning_zh": "(動詞) 搬遷、重新安置",
+      "example_en": "The company will relocate its headquarters to a larger building next year.",
+      "example_zh": "公司將於明年將總部搬遷至較大的建築物中。"
+    },
+    {
+      "word": "remind",
+      "meaning_zh": "(動詞) 提醒",
+      "example_en": "May I remind you that the deadline is this Friday?",
+      "example_zh": "提醒您一下，截止日期是這週五。"
+    },
+    {
+      "word": "renovate",
+      "meaning_zh": "(動詞) 翻新、整修",
+      "example_en": "The lobby will be closed while we renovate the reception area.",
+      "example_zh": "我們整修接待區期間，大廳將會封閉。"
+    },
+    {
+      "word": "replace",
+      "meaning_zh": "(動詞) 取代、更換",
+      "example_en": "We need to replace the broken printer in the conference room.",
+      "example_zh": "我們需要更換會議室裡那台壞掉的印表機。"
+    },
+    {
+      "word": "request",
+      "meaning_zh": "(動詞/名詞) 要求、請求",
+      "example_en": "Your request for vacation leave has been approved.",
+      "example_zh": "您的休假申請已獲核准。"
+    },
+    {
+      "word": "require",
+      "meaning_zh": "(動詞) 要求、需要",
+      "example_en": "All visitors are required to sign in at the front desk.",
+      "example_zh": "所有訪客都必須在櫃台簽到。"
+    },
+    {
+      "word": "reservation",
+      "meaning_zh": "(名詞) 預訂、保留",
+      "example_en": "I would like to make a dinner reservation for six people at 7 p.m.",
+      "example_zh": "我想預訂晚上七點六人的晚餐。"
+    },
+    {
+      "word": "resign",
+      "meaning_zh": "(動詞) 辭職、辭去",
+      "example_en": "After ten years with the firm, he decided to resign and start his own business.",
+      "example_zh": "在公司服務十年後，他決定辭職並自行創業。"
+    },
+    {
+      "word": "resolve",
+      "meaning_zh": "(動詞) 解決、決心",
+      "example_en": "Customer service representatives are trained to resolve complaints quickly.",
+      "example_zh": "客服代表受過訓練，能夠迅速解決客訴問題。"
+    },
+    {
+      "word": "respond",
+      "meaning_zh": "(動詞) 回應、回答",
+      "example_en": "Please respond to this email by the end of the business day.",
+      "example_zh": "請於本日下班前回覆這封電子郵件。"
+    },
+    {
+      "word": "retail",
+      "meaning_zh": "(名詞/形容詞) 零售；零售的",
+      "example_en": "The new product will be available at retail stores nationwide next month.",
+      "example_zh": "這項新產品將於下個月在全國零售商店上市。"
+    },
+    {
+      "word": "retire",
+      "meaning_zh": "(動詞) 退休",
+      "example_en": "Mr. Chen plans to retire at the end of next year after forty years of service.",
+      "example_zh": "陳先生計畫在服務四十年後於明年底退休。"
+    },
+    {
+      "word": "revenue",
+      "meaning_zh": "(名詞) 收入、營收",
+      "example_en": "Annual revenue grew by twelve percent compared to last year.",
+      "example_zh": "年度營收較去年成長了百分之十二。"
+    },
+    {
+      "word": "revise",
+      "meaning_zh": "(動詞) 修訂、修改",
+      "example_en": "The author needed to revise the manuscript before publication.",
+      "example_zh": "作者必須在出版前修訂手稿。"
+    },
+    {
+      "word": "sample",
+      "meaning_zh": "(名詞) 樣品、樣本；(動詞) 取樣",
+      "example_en": "Visitors can request a free sample of the new skincare product.",
+      "example_zh": "訪客可以索取新護膚產品的免費樣品。"
+    },
+    {
+      "word": "secure",
+      "meaning_zh": "(動詞) 取得、確保；(形容詞) 安全的",
+      "example_en": "The firm managed to secure a major contract with the government.",
+      "example_zh": "該公司成功取得了一份與政府簽訂的重大合約。"
+    },
+    {
+      "word": "settle",
+      "meaning_zh": "(動詞) 解決、結算",
+      "example_en": "Both parties hope to settle the dispute without going to court.",
+      "example_zh": "雙方都希望不必上法庭就能解決爭議。"
+    },
+    {
+      "word": "shipment",
+      "meaning_zh": "(名詞) 運送、裝運貨物",
+      "example_en": "The next shipment of office supplies is scheduled to arrive on Thursday.",
+      "example_zh": "下一批辦公用品預計於週四送達。"
+    },
+    {
+      "word": "significant",
+      "meaning_zh": "(形容詞) 重大的、顯著的",
+      "example_en": "There has been a significant improvement in productivity since the upgrade.",
+      "example_zh": "自從升級以來，生產力有了顯著的提升。"
+    },
+    {
+      "word": "specify",
+      "meaning_zh": "(動詞) 明確指出、具體說明",
+      "example_en": "Please specify your preferred delivery date in the order form.",
+      "example_zh": "請在訂單上明確註明您希望的送貨日期。"
+    },
+    {
+      "word": "sponsor",
+      "meaning_zh": "(動詞/名詞) 贊助、贊助商",
+      "example_en": "Our company will sponsor the local marathon event again this year.",
+      "example_zh": "我們公司今年將再次贊助當地的馬拉松活動。"
+    },
+    {
+      "word": "statement",
+      "meaning_zh": "(名詞) 對帳單、聲明",
+      "example_en": "Please review your monthly bank statement carefully for any errors.",
+      "example_zh": "請仔細檢查您的每月銀行對帳單是否有任何錯誤。"
+    },
+    {
+      "word": "strategic",
+      "meaning_zh": "(形容詞) 策略的、戰略的",
+      "example_en": "The two firms formed a strategic alliance to enter the European market.",
+      "example_zh": "這兩家公司結成策略聯盟以進軍歐洲市場。"
+    },
+    {
+      "word": "submit",
+      "meaning_zh": "(動詞) 提交、繳交",
+      "example_en": "Applications must be submitted no later than May 30.",
+      "example_zh": "申請書必須於五月三十日前繳交。"
+    },
+    {
+      "word": "subordinate",
+      "meaning_zh": "(名詞) 部屬、下屬",
+      "example_en": "Good managers communicate clearly with their subordinates.",
+      "example_zh": "優秀的管理者會與部屬清楚地溝通。"
+    },
+    {
+      "word": "subscribe",
+      "meaning_zh": "(動詞) 訂閱、訂購",
+      "example_en": "You can subscribe to our weekly newsletter through the website.",
+      "example_zh": "您可以透過網站訂閱我們的每週電子報。"
+    },
+    {
+      "word": "substitute",
+      "meaning_zh": "(動詞/名詞) 替代、代替品",
+      "example_en": "Mr. Park will substitute for the regular trainer this week.",
+      "example_zh": "本週將由朴先生代理原本的講師。"
+    },
+    {
+      "word": "supervisor",
+      "meaning_zh": "(名詞) 主管、督導",
+      "example_en": "Please report any safety concerns to your immediate supervisor.",
+      "example_zh": "如有任何安全疑慮，請向您的直屬主管反映。"
+    },
+    {
+      "word": "supplier",
+      "meaning_zh": "(名詞) 供應商",
+      "example_en": "We have built strong relationships with suppliers across Asia.",
+      "example_zh": "我們與全亞洲的供應商建立了穩固的關係。"
+    },
+    {
+      "word": "supplement",
+      "meaning_zh": "(動詞/名詞) 補充、補充物",
+      "example_en": "The company supplements employee salaries with quarterly bonuses.",
+      "example_zh": "公司以每季獎金補充員工的薪資。"
+    },
+    {
+      "word": "surplus",
+      "meaning_zh": "(名詞/形容詞) 剩餘、過剩的",
+      "example_en": "The factory has a surplus of inventory that needs to be sold quickly.",
+      "example_zh": "工廠有過剩的庫存需要盡快出清。"
+    },
+    {
+      "word": "survey",
+      "meaning_zh": "(名詞/動詞) 調查、問卷",
+      "example_en": "The recent survey revealed that 80 percent of customers are satisfied.",
+      "example_zh": "最近的調查顯示百分之八十的顧客感到滿意。"
+    },
+    {
+      "word": "sustain",
+      "meaning_zh": "(動詞) 維持、承受",
+      "example_en": "It is difficult to sustain such rapid growth in a competitive market.",
+      "example_zh": "在競爭激烈的市場中很難維持如此快速的成長。"
+    },
+    {
+      "word": "takeover",
+      "meaning_zh": "(名詞) 接管、收購",
+      "example_en": "The hostile takeover bid was rejected by the board of directors.",
+      "example_zh": "敵意收購的提案遭到董事會否決。"
+    },
+    {
+      "word": "tariff",
+      "meaning_zh": "(名詞) 關稅、價目表",
+      "example_en": "New tariffs on imported steel will affect manufacturing costs.",
+      "example_zh": "新的鋼鐵進口關稅將影響製造成本。"
+    },
+    {
+      "word": "temporary",
+      "meaning_zh": "(形容詞) 臨時的、暫時的",
+      "example_en": "We hired several temporary workers for the holiday shopping season.",
+      "example_zh": "我們為假期購物旺季雇用了幾名臨時工。"
+    },
+    {
+      "word": "tentative",
+      "meaning_zh": "(形容詞) 暫定的、試驗性的",
+      "example_en": "The tentative date for the launch event is November 12.",
+      "example_zh": "發表會的暫定日期為十一月十二日。"
+    },
+    {
+      "word": "term",
+      "meaning_zh": "(名詞) 條款；期間；用語",
+      "example_en": "Please review the terms of the agreement before signing.",
+      "example_zh": "請在簽署前仔細閱讀協議的條款。"
+    },
+    {
+      "word": "tolerate",
+      "meaning_zh": "(動詞) 容忍、忍受",
+      "example_en": "Our company will not tolerate any form of workplace harassment.",
+      "example_zh": "我們公司絕不容忍任何形式的職場騷擾。"
+    },
+    {
+      "word": "transaction",
+      "meaning_zh": "(名詞) 交易、業務",
+      "example_en": "Online transactions are protected by advanced encryption technology.",
+      "example_zh": "線上交易受到先進加密技術的保護。"
+    },
+    {
+      "word": "transit",
+      "meaning_zh": "(名詞) 運輸、運送途中",
+      "example_en": "The package was damaged in transit and needs to be replaced.",
+      "example_zh": "包裹在運送途中受損，需要更換。"
+    },
+    {
+      "word": "transmit",
+      "meaning_zh": "(動詞) 傳送、傳輸",
+      "example_en": "The data is transmitted to our server every five minutes.",
+      "example_zh": "資料每五分鐘傳輸至我們的伺服器一次。"
+    },
+    {
+      "word": "turnout",
+      "meaning_zh": "(名詞) 出席人數、投票率",
+      "example_en": "The turnout for the product demonstration exceeded our expectations.",
+      "example_zh": "產品展示會的出席人數超出了我們的預期。"
+    },
+    {
+      "word": "ultimate",
+      "meaning_zh": "(形容詞) 最終的、根本的",
+      "example_en": "Our ultimate goal is to become the market leader in renewable energy.",
+      "example_zh": "我們的最終目標是成為再生能源的市場領導者。"
+    },
+    {
+      "word": "unanimous",
+      "meaning_zh": "(形容詞) 一致同意的、無異議的",
+      "example_en": "The board reached a unanimous decision to acquire the smaller company.",
+      "example_zh": "董事會無異議通過收購這家小公司的決議。"
+    },
+    {
+      "word": "underlying",
+      "meaning_zh": "(形容詞) 潛在的、根本的",
+      "example_en": "We must address the underlying causes of declining productivity.",
+      "example_zh": "我們必須處理生產力下降的根本原因。"
+    },
+    {
+      "word": "undertake",
+      "meaning_zh": "(動詞) 承擔、著手進行",
+      "example_en": "The firm will undertake a major review of its operating procedures.",
+      "example_zh": "該公司將著手對其營運程序進行一次重大檢討。"
+    },
+    {
+      "word": "update",
+      "meaning_zh": "(動詞/名詞) 更新、最新消息",
+      "example_en": "Please update the client database with the latest contact information.",
+      "example_zh": "請以最新的聯絡資訊更新客戶資料庫。"
+    },
+    {
+      "word": "upgrade",
+      "meaning_zh": "(動詞/名詞) 升級、提升",
+      "example_en": "The IT department will upgrade all office computers next weekend.",
+      "example_zh": "資訊部門將於下週末升級所有辦公室的電腦。"
+    },
+    {
+      "word": "urgent",
+      "meaning_zh": "(形容詞) 緊急的、迫切的",
+      "example_en": "I need an urgent reply regarding the contract terms.",
+      "example_zh": "我需要關於合約條款的緊急回覆。"
+    },
+    {
+      "word": "vacancy",
+      "meaning_zh": "(名詞) 空缺、空職",
+      "example_en": "There is currently a vacancy in our marketing team for an entry-level analyst.",
+      "example_zh": "我們行銷團隊目前有一個初階分析師的職缺。"
+    },
+    {
+      "word": "venue",
+      "meaning_zh": "(名詞) 地點、場地",
+      "example_en": "The hotel ballroom is the perfect venue for our annual gala.",
+      "example_zh": "飯店宴會廳是我們年度晚宴的最佳場地。"
+    },
+    {
+      "word": "verify",
+      "meaning_zh": "(動詞) 核實、查證",
+      "example_en": "Please verify the shipping address before processing the order.",
+      "example_zh": "處理訂單前請先核實送貨地址。"
+    },
+    {
+      "word": "vital",
+      "meaning_zh": "(形容詞) 至關重要的、必要的",
+      "example_en": "Effective communication is vital to the success of any project.",
+      "example_zh": "有效的溝通對任何專案的成功都至關重要。"
+    },
+    {
+      "word": "voucher",
+      "meaning_zh": "(名詞) 優惠券、兌換券",
+      "example_en": "Each guest will receive a voucher for a complimentary meal.",
+      "example_zh": "每位來賓都將獲得一張免費餐點兌換券。"
+    },
+    {
+      "word": "warranty",
+      "meaning_zh": "(名詞) 保固、保證書",
+      "example_en": "All electronic products come with a two-year warranty.",
+      "example_zh": "所有電子產品都附有兩年的保固。"
+    },
+    {
+      "word": "wholesale",
+      "meaning_zh": "(名詞/形容詞) 批發、批發的",
+      "example_en": "We purchase office supplies at wholesale prices to reduce costs.",
+      "example_zh": "我們以批發價格採購辦公用品以降低成本。"
+    },
+    {
+      "word": "withdraw",
+      "meaning_zh": "(動詞) 撤回、提取",
+      "example_en": "The candidate decided to withdraw her application after receiving another offer.",
+      "example_zh": "在收到另一份工作邀約後，該應徵者決定撤回申請。"
+    },
+    {
+      "word": "withhold",
+      "meaning_zh": "(動詞) 扣留、拒絕給予",
+      "example_en": "The firm may withhold payment until the work is satisfactorily completed.",
+      "example_zh": "公司可能會扣留款項直到工作令人滿意地完成為止。"
+    }
+  ]
+}

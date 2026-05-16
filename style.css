@@ -347,6 +347,13 @@ footer {
 .picker-row-n .picker-btn {
   flex: 0 0 calc((100% - 5 * 8px) / 6);
 }
+.picker-row-toeic {
+  display: flex;
+  justify-content: center;
+}
+.picker-row-toeic .picker-btn {
+  flex: 0 0 calc((100% - 5 * 8px) / 6);
+}
 .picker-btn {
   background: var(--accent-soft);
   color: var(--accent);
