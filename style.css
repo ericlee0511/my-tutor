@@ -132,6 +132,12 @@ main {
   margin-top: 12px;
   padding-left: 12px;
   border-left: 3px solid var(--accent-soft);
+  font-size: 16px;
+  line-height: 1.7;
+}
+#content > div:has(> .label) {
+  font-size: 16px;
+  line-height: 1.7;
 }
 #content .options {
   margin: 12px 0;
