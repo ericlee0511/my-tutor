@@ -288,6 +288,7 @@ const TOEIC_STORIES = [
 ];
 
 let DATA = {};
+let currentView = null;
 let state = {
   level: "n5",
   lang: "en",
@@ -701,6 +702,7 @@ function renderScene() {
 }
 
 function render(action) {
+  currentView = action;
   const c = document.getElementById("content");
   const mode = currentMode();
   const pickLevel = isToeic() ? "toeic" : state.level;
@@ -738,6 +740,10 @@ function setLevel(next) {
   saveState();
   document.getElementById("level-btn").textContent = levelLabel(state.level);
   updateModeToggles();
+  if (currentView === "scene") {
+    render("scene");
+    return;
+  }
   const entry = state.timeline[state.timelinePos];
   if (entry && entry.kind !== "scene") {
     render(entry.kind);
