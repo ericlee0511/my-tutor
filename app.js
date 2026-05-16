@@ -580,7 +580,7 @@ function formatEntry(entry) {
     if (entry.kind === "scene") {
       const idx = TOEIC_STORIES.findIndex(s => s.key === entry.key);
       const story = TOEIC_STORIES[idx];
-      const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + "." : "";
+      const num = idx >= 0 ? String(idx + 1).padStart(3, "0") + "." : "";
       return fmtSceneToeic(entry.item, num, story?.title || "");
     }
     return "";
@@ -595,7 +595,7 @@ function formatEntry(entry) {
     const list = ko ? KOREAN_STORIES : STORIES;
     const idx = list.findIndex(s => s.key === entry.key);
     const story = list[idx];
-    const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + "." : "";
+    const num = idx >= 0 ? String(idx + 1).padStart(3, "0") + "." : "";
     return ko ? fmtSceneKo(entry.item, num, story?.title || "")
               : fmtScene(entry.item, num, story?.title || "");
   }
@@ -664,7 +664,7 @@ function renderStoryPicker() {
   const scenesData = activeScenes();
   let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
   stories.forEach((s, i) => {
-    const num = String(i + 1).padStart(2, "0");
+    const num = String(i + 1).padStart(3, "0");
     const count = (scenesData?.[s.key] || []).length;
     html += `<button class="story-option" type="button" data-key="${s.key}">` +
       `<span class="story-option-title">` +
