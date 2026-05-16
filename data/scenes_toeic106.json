@@ -1,0 +1,28 @@
+{
+  "title": "IT Helpdesk Ticket Response",
+  "all": [
+    { "en": "Dear Mr. Patel, thank you for contacting the IT helpdesk this morning.", "zh": "親愛的 Patel 先生，感謝您今天早上聯繫 IT 服務台。" },
+    { "en": "Your ticket number is HD-48721 and has been assigned to engineer Mia.", "zh": "您的工單編號為 HD-48721，已指派給工程師 Mia。" },
+    { "en": "We understand that your laptop cannot connect to the corporate VPN.", "zh": "我們了解您的筆電無法連線至公司 VPN。" },
+    { "en": "Based on the logs, the certificate on your device expired last weekend.", "zh": "根據日誌，您裝置上的憑證已於上週末到期。" },
+    { "en": "Please restart the laptop and open the Software Center application.", "zh": "請重啟筆電並開啟 Software Center 應用程式。" },
+    { "en": "Search for the package named VPN Certificate Renewal 2026.", "zh": "搜尋名稱為 VPN Certificate Renewal 2026 的套件。" },
+    { "en": "Click Install and wait until the status changes to Completed.", "zh": "點擊安裝並等候狀態變為已完成。" },
+    { "en": "After installation, sign out of Windows and sign back in once.", "zh": "安裝完成後，請登出 Windows 並重新登入一次。" },
+    { "en": "Open the VPN client and select the Asia gateway from the list.", "zh": "開啟 VPN 用戶端並從清單中選擇亞洲閘道。" },
+    { "en": "Enter your employee ID and the new password issued last Friday.", "zh": "輸入您的員工編號及上週五核發的新密碼。" },
+    { "en": "If the connection still fails, please capture a screenshot of the error.", "zh": "若連線仍失敗，請擷取錯誤訊息的螢幕截圖。" },
+    { "en": "Send the screenshot to helpdesk at acmecorp dot com.", "zh": "請將截圖寄到 helpdesk at acmecorp dot com。" },
+    { "en": "Include the time of the failure and the gateway you tried.", "zh": "請附上失敗時間以及您嘗試使用的閘道。" },
+    { "en": "Our team monitors the inbox between seven and twenty hundred hours daily.", "zh": "我們團隊每天於 07:00 至 20:00 監看信箱。" },
+    { "en": "For urgent issues, you may also call extension 8800 directly.", "zh": "如為緊急問題，您亦可直接撥打分機 8800。" },
+    { "en": "Please note that password resets require manager approval in writing.", "zh": "請注意，密碼重設需主管書面核准。" },
+    { "en": "We cannot share credentials over the phone for security reasons.", "zh": "基於安全考量，我們無法透過電話告知帳密。" },
+    { "en": "A satisfaction survey will be emailed when the ticket is closed.", "zh": "工單關閉時將寄送滿意度調查至您信箱。" },
+    { "en": "Your feedback helps us improve response time and service quality.", "zh": "您的回饋有助我們改善回應時間與服務品質。" },
+    { "en": "We aim to resolve standard tickets within one business day.", "zh": "我們的目標是於一個工作日內解決標準工單。" },
+    { "en": "Complex hardware cases may require up to three working days.", "zh": "複雜的硬體案件可能需要至多三個工作天。" },
+    { "en": "Thank you for your patience while we investigate this matter.", "zh": "感謝您耐心等候我們調查此事。" },
+    { "en": "Best regards, the Global IT Helpdesk Team at headquarters.", "zh": "敬祝順心，總部全球 IT 服務台團隊敬上。" }
+  ]
+}

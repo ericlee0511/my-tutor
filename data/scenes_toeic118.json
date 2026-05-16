@@ -1,0 +1,29 @@
+{
+  "title": "New CRM Rollout Schedule",
+  "all": [
+    { "en": "Subject, official rollout schedule for our new CRM platform Helios.", "zh": "主旨：新 CRM 平台 Helios 之正式上線時程。" },
+    { "en": "After two years of evaluation, we have chosen Helios by Bluepeak Systems.", "zh": "歷經兩年評估，我們選定 Bluepeak Systems 的 Helios。" },
+    { "en": "The system replaces our legacy database used since 2014.", "zh": "本系統將取代自 2014 年沿用至今的舊資料庫。" },
+    { "en": "Helios offers unified contact records, sales analytics, and marketing automation.", "zh": "Helios 提供統一聯絡人紀錄、銷售分析與行銷自動化。" },
+    { "en": "It also integrates natively with our finance and support tools.", "zh": "亦原生整合本公司之財務與客服工具。" },
+    { "en": "The rollout will follow a phased plan across three regions.", "zh": "上線將以三個區域分階段進行。" },
+    { "en": "Phase one begins in North America on June 1, 2026.", "zh": "第一階段於 2026 年 6 月 1 日於北美啟動。" },
+    { "en": "Phase two covers Europe, the Middle East, and Africa starting July 15.", "zh": "第二階段自 7 月 15 日起涵蓋歐洲、中東與非洲。" },
+    { "en": "Phase three completes the rollout in Asia Pacific on September 1.", "zh": "第三階段於 9 月 1 日完成亞太區上線。" },
+    { "en": "Each phase includes four weeks of dedicated training and dual-system operation.", "zh": "每階段包含四週專屬訓練及新舊系統並行作業。" },
+    { "en": "Data migration runs in the background using validated mapping templates.", "zh": "資料移轉於背景以驗證過的對應範本進行。" },
+    { "en": "Account owners must clean their pipeline records two weeks before go-live.", "zh": "帳戶負責人須於上線前兩週整理其商機紀錄。" },
+    { "en": "Duplicate or stale entries will not be migrated to the new system.", "zh": "重複或過時資料將不會移轉至新系統。" },
+    { "en": "Training will be delivered through a mix of live and self-paced sessions.", "zh": "訓練將以現場與自學課程混合方式進行。" },
+    { "en": "Live sessions take place every Tuesday and Thursday during the rollout.", "zh": "現場課程於上線期間每週二、週四舉行。" },
+    { "en": "Self-paced modules can be accessed twenty-four hours a day on Workday Learn.", "zh": "自學模組於 Workday Learn 全天 24 小時皆可使用。" },
+    { "en": "Certification is required for anyone with sales or service responsibilities.", "zh": "凡擔任銷售或服務職務者皆須取得認證。" },
+    { "en": "Champions in each office will offer hands-on coaching at the desk side.", "zh": "各辦公室之種子人員將於座位旁提供實作指導。" },
+    { "en": "A daily standup at nine will address blockers during the first month.", "zh": "首月將於每日 9 點召開站立會議以排除阻礙。" },
+    { "en": "After-hours support is available through the Helios chatbot Atlas.", "zh": "非辦公時間可透過 Helios 聊天機器人 Atlas 取得支援。" },
+    { "en": "Legacy systems will be archived in read-only mode after each phase completes.", "zh": "舊系統將於各階段完成後以唯讀模式封存。" },
+    { "en": "After ninety days, archived data moves to long-term storage.", "zh": "90 天後，封存資料將轉入長期儲存。" },
+    { "en": "Please review the detailed FAQ posted on the project Confluence space.", "zh": "請至專案 Confluence 空間查閱詳細常見問答。" },
+    { "en": "Direct any concerns to the change management mailbox immediately.", "zh": "如有任何疑慮，請即刻寄至變革管理信箱。" }
+  ]
+}

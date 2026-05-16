@@ -285,6 +285,21 @@ const TOEIC_STORIES = [
   { key: "toeic103", title: "Content Calendar Planning Meeting" },
   { key: "toeic104", title: "Public Relations Crisis Response" },
   { key: "toeic105", title: "Annual Marketing Budget Plan" },
+  { key: "toeic106", title: "IT Helpdesk Ticket Response" },
+  { key: "toeic107", title: "Office Expansion Ribbon-Cutting Speech" },
+  { key: "toeic108", title: "Service Center Workflow Guide" },
+  { key: "toeic109", title: "Product Specification Sheet" },
+  { key: "toeic110", title: "New Office Equipment Purchase Request" },
+  { key: "toeic111", title: "Health and Safety Drill Announcement" },
+  { key: "toeic112", title: "Annual Shareholders Meeting Notice" },
+  { key: "toeic113", title: "International Office Video Conference Brief" },
+  { key: "toeic114", title: "Cross-Cultural Communication Training" },
+  { key: "toeic115", title: "Quarterly OKR Review Report" },
+  { key: "toeic116", title: "Travel Reimbursement Claim Form Notes" },
+  { key: "toeic117", title: "After-Sale Service Training Manual Excerpt" },
+  { key: "toeic118", title: "New CRM Rollout Schedule" },
+  { key: "toeic119", title: "Vendor Invoice Dispute Letter" },
+  { key: "toeic120", title: "Cafeteria Menu and Feedback Notice" },
 ];
 
 let DATA = {};

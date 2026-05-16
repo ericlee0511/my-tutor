@@ -1,0 +1,29 @@
+{
+  "title": "Travel Reimbursement Claim Form Notes",
+  "all": [
+    { "en": "Please read these notes carefully before submitting your travel reimbursement claim.", "zh": "提交差旅費報銷申請前，請仔細閱讀以下說明。" },
+    { "en": "All claims must be filed within thirty days after the trip ends.", "zh": "所有申請須於行程結束後 30 天內提出。" },
+    { "en": "Late submissions require written approval from your department director.", "zh": "逾期提交須取得所屬部門主管書面核准。" },
+    { "en": "Use the official online portal located under the Finance tab.", "zh": "請使用財務頁籤下的官方線上入口提交。" },
+    { "en": "Paper forms are no longer accepted at any regional office.", "zh": "任何區域辦公室皆不再接受紙本表單。" },
+    { "en": "Each expense line item must reference a valid project or cost center.", "zh": "每筆費用項目須對應有效專案或成本中心。" },
+    { "en": "Receipts should be uploaded as clear PDF or JPEG files.", "zh": "收據應以清晰之 PDF 或 JPEG 檔案上傳。" },
+    { "en": "Images must show the merchant name, date, items, and total amount.", "zh": "影像須呈現店家名稱、日期、品項及總金額。" },
+    { "en": "Credit card statements alone do not count as valid proof of purchase.", "zh": "僅信用卡帳單無法視為有效消費憑證。" },
+    { "en": "Airfare must be booked through our corporate travel agent CarlsonGo.", "zh": "機票須透過我們的企業差旅代理 CarlsonGo 訂購。" },
+    { "en": "Bookings made outside the platform require pre-trip exception approval.", "zh": "於平台外訂購之機票須事先取得例外核可。" },
+    { "en": "Economy class is mandatory for flights under six hours in duration.", "zh": "六小時以內航班規定須搭乘經濟艙。" },
+    { "en": "Business class is allowed for flights longer than six hours.", "zh": "六小時以上航班可搭乘商務艙。" },
+    { "en": "Hotel rates should not exceed the city cap listed in the policy.", "zh": "飯店房價不得超過政策中所列城市上限。" },
+    { "en": "Meals are reimbursed at the daily per diem rate of the destination.", "zh": "餐費依目的地每日定額補助標準報銷。" },
+    { "en": "Alcohol purchased during meals is not reimbursable under any circumstance.", "zh": "用餐時購買之酒類在任何情況下皆不予報銷。" },
+    { "en": "Tips up to twenty percent of the meal cost are acceptable.", "zh": "餐費 20% 以內之小費可被接受。" },
+    { "en": "Ground transportation includes taxis, ride share, and public transit.", "zh": "地面交通包含計程車、共乘服務與大眾運輸。" },
+    { "en": "Rental cars require justification when public options are available.", "zh": "如有大眾運輸選項時，租車須附說明理由。" },
+    { "en": "Foreign currency expenses are converted using the rate on the receipt date.", "zh": "外幣費用依收據日期之匯率換算。" },
+    { "en": "Personal expenses mixed into a business receipt must be excluded.", "zh": "若商業收據中混入個人消費，須予以扣除。" },
+    { "en": "Approved claims are reimbursed within ten business days via direct deposit.", "zh": "核准之申請於 10 個工作天內以匯款方式撥付。" },
+    { "en": "Contact the finance shared service desk for any urgent questions.", "zh": "如有緊急問題，請聯絡財務共享服務台。" },
+    { "en": "Thank you for following these guidelines and helping us close books promptly.", "zh": "感謝您遵循本指引並協助我們及時結帳。" }
+  ]
+}

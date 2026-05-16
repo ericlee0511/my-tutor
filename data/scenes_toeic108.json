@@ -1,0 +1,29 @@
+{
+  "title": "Service Center Workflow Guide",
+  "all": [
+    { "en": "This guide outlines the standard workflow for all service center agents.", "zh": "本指引列出所有客服中心專員的標準作業流程。" },
+    { "en": "Please review each step before taking calls on the live floor.", "zh": "請於上線接聽電話前詳閱每個步驟。" },
+    { "en": "Step one, log into the Genesys console using your employee ID.", "zh": "步驟一，使用您的員工編號登入 Genesys 系統。" },
+    { "en": "Confirm that your headset microphone is working and the volume is balanced.", "zh": "確認您的耳麥麥克風運作正常，音量也已平衡。" },
+    { "en": "Set your status to Available only when you finish reading the daily memo.", "zh": "讀完每日備忘錄後再將狀態設為可服務。" },
+    { "en": "Step two, greet the caller with the approved welcome script.", "zh": "步驟二，使用核准的歡迎話術問候來電者。" },
+    { "en": "State your name, the department, and ask how you can help.", "zh": "報出您的姓名、部門，並詢問如何協助對方。" },
+    { "en": "Step three, verify the customer identity using two security questions.", "zh": "步驟三，以兩個安全問題驗證客戶身份。" },
+    { "en": "Do not share any account details before identity is confirmed.", "zh": "在身份確認前，不得提供任何帳戶資訊。" },
+    { "en": "Step four, listen actively and summarize the issue back to the customer.", "zh": "步驟四，主動聆聽並將問題複述給客戶確認。" },
+    { "en": "Take notes in the CRM ticket as the conversation progresses.", "zh": "對話進行時，請在 CRM 工單中即時記錄。" },
+    { "en": "Step five, search the knowledge base for the recommended solution.", "zh": "步驟五，於知識庫中搜尋建議的解決方案。" },
+    { "en": "Use the article reference number when documenting your response.", "zh": "記錄回覆時請註明該文章參考編號。" },
+    { "en": "Step six, if the issue requires engineering, escalate via Tier Two queue.", "zh": "步驟六，若需工程協助，請透過 Tier Two 佇列升級。" },
+    { "en": "Include the device model, error code, and any screenshots received.", "zh": "請附上裝置型號、錯誤代碼及收到的截圖。" },
+    { "en": "Step seven, set a clear callback time and stick to it.", "zh": "步驟七，明確訂出回電時間並準時履行。" },
+    { "en": "Customers value reliability more than the speed of the first answer.", "zh": "客戶重視可靠度更勝於首次回覆的速度。" },
+    { "en": "Step eight, close the ticket only after the customer confirms resolution.", "zh": "步驟八，客戶確認問題已解決後方可關閉工單。" },
+    { "en": "Select the correct disposition code from the dropdown list.", "zh": "從下拉選單中選擇正確的處理代碼。" },
+    { "en": "Step nine, take a two-minute break to reset before the next call.", "zh": "步驟九，於下通來電前休息兩分鐘調整狀態。" },
+    { "en": "Stretch your shoulders and drink water to stay alert.", "zh": "請伸展肩膀並補充水分，以保持專注。" },
+    { "en": "Step ten, log all coaching feedback in the agent journal at shift end.", "zh": "步驟十，下班前於專員日誌中記錄所有教練回饋。" },
+    { "en": "Supervisors will review entries during the weekly huddle on Friday.", "zh": "主管將於週五的週會中檢視這些紀錄。" },
+    { "en": "Following these steps ensures consistent quality across every customer interaction.", "zh": "遵循這些步驟可確保每次客戶互動的一致品質。" }
+  ]
+}
