@@ -185,6 +185,16 @@ const TOEIC_STORIES = [
   { key: "toeic03", title: "Remote Work Policy Memo" },
   { key: "toeic04", title: "Article on Sustainable Business Trends" },
   { key: "toeic05", title: "Business Trip Itinerary" },
+  { key: "toeic06", title: "Hotel Stay Complaint Letter" },
+  { key: "toeic07", title: "Marketing Manager Job Interview Excerpt" },
+  { key: "toeic08", title: "Corporate Merger Announcement" },
+  { key: "toeic09", title: "Leadership Development Workshop Schedule" },
+  { key: "toeic10", title: "Corporate Anniversary Catering Proposal" },
+  { key: "toeic11", title: "Building Maintenance and Upgrade Notice" },
+  { key: "toeic12", title: "Coffee Shop Consumer Preferences Report" },
+  { key: "toeic13", title: "Electronics Warranty and Refund Policy" },
+  { key: "toeic14", title: "Annual Performance Review Summary" },
+  { key: "toeic15", title: "Annual Charity Gala for Literacy Program" },
 ];
 
 let DATA = {};

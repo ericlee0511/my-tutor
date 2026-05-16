@@ -659,6 +659,3262 @@
       ],
       "answer": 0,
       "explanation_zh": "more than + 數字 表「超過」。most 為最高級；much 與 many 不能直接接 than 與數字搭配此意。"
+    },
+    {
+      "question_en": "The marketing team submitted a ___ proposal that impressed the board of directors.",
+      "options": [
+        "(A) success",
+        "(B) successful",
+        "(C) successfully",
+        "(D) succeed"
+      ],
+      "answer": 1,
+      "explanation_zh": "空格修飾名詞 proposal，需用形容詞 successful（成功的）。"
+    },
+    {
+      "question_en": "By the time the quarterly report is released, the auditors ___ their review for three weeks.",
+      "options": [
+        "(A) will conduct",
+        "(B) have conducted",
+        "(C) will have been conducting",
+        "(D) are conducting"
+      ],
+      "answer": 2,
+      "explanation_zh": "「By the time...」搭配「for three weeks」表示到未來某時點為止已持續進行的動作，需用未來完成進行式 will have been conducting。"
+    },
+    {
+      "question_en": "All new ___ are required to attend the orientation session on Monday morning.",
+      "options": [
+        "(A) employ",
+        "(B) employer",
+        "(C) employees",
+        "(D) employment"
+      ],
+      "answer": 2,
+      "explanation_zh": "句意指新進「員工」需參加說明會，且動詞為 are，需用複數名詞 employees。"
+    },
+    {
+      "question_en": "The contract ___ by both parties before the end of the fiscal year.",
+      "options": [
+        "(A) must sign",
+        "(B) must be signed",
+        "(C) must have signing",
+        "(D) must signing"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 contract 被簽署，需用被動語態 must be signed。"
+    },
+    {
+      "question_en": "Neither the manager nor the assistants ___ aware of the schedule change.",
+      "options": [
+        "(A) was",
+        "(B) is",
+        "(C) were",
+        "(D) has been"
+      ],
+      "answer": 2,
+      "explanation_zh": "Neither A nor B 的動詞依靠近 B（assistants，複數），故用 were。"
+    },
+    {
+      "question_en": "If the shipment ___ on time, we would not have lost the client.",
+      "options": [
+        "(A) arrived",
+        "(B) had arrived",
+        "(C) arrives",
+        "(D) would arrive"
+      ],
+      "answer": 1,
+      "explanation_zh": "與過去事實相反的第三類條件句，if 子句用 had + p.p.，主句用 would have + p.p.。"
+    },
+    {
+      "question_en": "The CEO insisted that every department head ___ the new compliance training.",
+      "options": [
+        "(A) completes",
+        "(B) completed",
+        "(C) complete",
+        "(D) is completing"
+      ],
+      "answer": 2,
+      "explanation_zh": "insist that 後接虛擬語氣，動詞用原形 complete。"
+    },
+    {
+      "question_en": "Ms. Tanaka prepared the presentation slides ___ before the client meeting.",
+      "options": [
+        "(A) her",
+        "(B) hers",
+        "(C) she",
+        "(D) herself"
+      ],
+      "answer": 3,
+      "explanation_zh": "強調主詞「親自」做某事，用反身代名詞 herself。"
+    },
+    {
+      "question_en": "The committee ___ currently reviewing the budget allocation for next quarter.",
+      "options": [
+        "(A) is",
+        "(B) are",
+        "(C) have",
+        "(D) being"
+      ],
+      "answer": 0,
+      "explanation_zh": "集合名詞 committee 在此視為單一整體運作，搭配單數動詞 is。"
+    },
+    {
+      "question_en": "Investors should be informed ___ of any significant changes in market conditions.",
+      "options": [
+        "(A) prompt",
+        "(B) prompted",
+        "(C) promptness",
+        "(D) promptly"
+      ],
+      "answer": 3,
+      "explanation_zh": "空格修飾動詞 be informed，需用副詞 promptly（及時地）。"
+    },
+    {
+      "question_en": "The annual report ___ to all shareholders last Friday.",
+      "options": [
+        "(A) distributed",
+        "(B) was distributed",
+        "(C) has distributed",
+        "(D) is distributing"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 report 是被分發的對象，過去時間 last Friday，用過去式被動 was distributed。"
+    },
+    {
+      "question_en": "Either the supervisor or the team leaders ___ responsible for approving overtime requests.",
+      "options": [
+        "(A) is",
+        "(B) was",
+        "(C) are",
+        "(D) has"
+      ],
+      "answer": 2,
+      "explanation_zh": "Either A or B 動詞依靠近 B（team leaders，複數），故用 are。"
+    },
+    {
+      "question_en": "If I ___ you, I would accept the promotion without hesitation.",
+      "options": [
+        "(A) am",
+        "(B) was",
+        "(C) were",
+        "(D) had been"
+      ],
+      "answer": 2,
+      "explanation_zh": "與現在事實相反的第二類條件句，be 動詞統一用 were。"
+    },
+    {
+      "question_en": "The negotiations between the two firms have been progressing ___ over the past month.",
+      "options": [
+        "(A) steady",
+        "(B) steadily",
+        "(C) steadiness",
+        "(D) steadier"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 have been progressing，需用副詞 steadily。"
+    },
+    {
+      "question_en": "The board members ___ their final decision by next Wednesday at the latest.",
+      "options": [
+        "(A) will have made",
+        "(B) make",
+        "(C) have made",
+        "(D) had made"
+      ],
+      "answer": 0,
+      "explanation_zh": "「by next Wednesday」表示未來某時間點之前完成的動作，用未來完成式 will have made。"
+    },
+    {
+      "question_en": "Mr. Lin recommended that the proposal ___ revised before submission.",
+      "options": [
+        "(A) is",
+        "(B) was",
+        "(C) be",
+        "(D) being"
+      ],
+      "answer": 2,
+      "explanation_zh": "recommend that 後接虛擬語氣，動詞為 (should) be，故用 be。"
+    },
+    {
+      "question_en": "All staff ___ attended the safety briefing must sign the attendance sheet.",
+      "options": [
+        "(A) who",
+        "(B) which",
+        "(C) whom",
+        "(D) whose"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 staff 為人，且為關係子句主詞，用 who。"
+    },
+    {
+      "question_en": "The new accounting software has greatly improved the ___ of our financial reporting.",
+      "options": [
+        "(A) accurate",
+        "(B) accuracy",
+        "(C) accurately",
+        "(D) accurateness"
+      ],
+      "answer": 1,
+      "explanation_zh": "the 之後需名詞，accuracy 為標準商業用名詞「準確性」。"
+    },
+    {
+      "question_en": "If the supplier ___ the deadline, we will need to find an alternative vendor.",
+      "options": [
+        "(A) misses",
+        "(B) missed",
+        "(C) will miss",
+        "(D) had missed"
+      ],
+      "answer": 0,
+      "explanation_zh": "與未來事實相反的第一類條件句，if 子句用現在式 misses，主句用 will。"
+    },
+    {
+      "question_en": "Every applicant ___ submit their resume and cover letter by Friday.",
+      "options": [
+        "(A) must",
+        "(B) might",
+        "(C) would",
+        "(D) could"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示「必須」遞交資料的強制要求，用 must。"
+    },
+    {
+      "question_en": "The proposal was rejected because it lacked sufficient ___ data.",
+      "options": [
+        "(A) support",
+        "(B) supports",
+        "(C) supportive",
+        "(D) supportively"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾名詞 data，需用形容詞 supportive（支持性的）。"
+    },
+    {
+      "question_en": "Our company ___ business with that firm since 2010.",
+      "options": [
+        "(A) does",
+        "(B) has done",
+        "(C) had done",
+        "(D) is doing"
+      ],
+      "answer": 1,
+      "explanation_zh": "「since 2010」表示從過去持續到現在，用現在完成式 has done。"
+    },
+    {
+      "question_en": "The merger documents ___ by the legal department right now.",
+      "options": [
+        "(A) are reviewing",
+        "(B) are being reviewed",
+        "(C) have reviewed",
+        "(D) review"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 documents 被審閱，且 right now 表示現在進行，用 are being reviewed。"
+    },
+    {
+      "question_en": "Each of the candidates ___ a different set of qualifications to the position.",
+      "options": [
+        "(A) bring",
+        "(B) brings",
+        "(C) are bringing",
+        "(D) have brought"
+      ],
+      "answer": 1,
+      "explanation_zh": "Each of + 複數名詞，主詞核心為 Each（單數），故用 brings。"
+    },
+    {
+      "question_en": "The HR department made the announcement ___ to avoid any misunderstandings.",
+      "options": [
+        "(A) clear",
+        "(B) clearly",
+        "(C) clearness",
+        "(D) clarify"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 made the announcement，用副詞 clearly。"
+    },
+    {
+      "question_en": "Had we anticipated the demand, we ___ a larger order.",
+      "options": [
+        "(A) would place",
+        "(B) would have placed",
+        "(C) had placed",
+        "(D) place"
+      ],
+      "answer": 1,
+      "explanation_zh": "倒裝的第三類條件句 Had we anticipated...，主句用 would have + p.p.。"
+    },
+    {
+      "question_en": "The conference room ___ for the quarterly meeting yesterday afternoon.",
+      "options": [
+        "(A) reserved",
+        "(B) was reserved",
+        "(C) has reserved",
+        "(D) reserves"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞為被預訂的對象，過去時間，用過去被動 was reserved。"
+    },
+    {
+      "question_en": "Mr. Chen and ___ will lead the upcoming product launch event.",
+      "options": [
+        "(A) I",
+        "(B) me",
+        "(C) my",
+        "(D) mine"
+      ],
+      "answer": 0,
+      "explanation_zh": "並列主詞之一，需主格代名詞 I。"
+    },
+    {
+      "question_en": "The training program has proven to be highly ___ for our junior staff.",
+      "options": [
+        "(A) benefit",
+        "(B) benefits",
+        "(C) beneficial",
+        "(D) beneficially"
+      ],
+      "answer": 2,
+      "explanation_zh": "be 動詞後接形容詞作主詞補語，用 beneficial。"
+    },
+    {
+      "question_en": "Visitors ___ wear identification badges at all times while on the premises.",
+      "options": [
+        "(A) might",
+        "(B) must",
+        "(C) could",
+        "(D) used to"
+      ],
+      "answer": 1,
+      "explanation_zh": "表示規定強制性的「必須」，用 must。"
+    },
+    {
+      "question_en": "The number of overseas branches ___ doubled in the past five years.",
+      "options": [
+        "(A) have",
+        "(B) has",
+        "(C) are",
+        "(D) were"
+      ],
+      "answer": 1,
+      "explanation_zh": "「The number of + 複數名詞」主詞為 The number（單數），用 has。"
+    },
+    {
+      "question_en": "Please send the revised contract to Ms. Wang and ___ as soon as possible.",
+      "options": [
+        "(A) I",
+        "(B) my",
+        "(C) me",
+        "(D) mine"
+      ],
+      "answer": 2,
+      "explanation_zh": "介系詞 to 的受詞，用受格 me。"
+    },
+    {
+      "question_en": "If the system had been updated regularly, the data breach ___ prevented.",
+      "options": [
+        "(A) could be",
+        "(B) could have been",
+        "(C) can be",
+        "(D) will be"
+      ],
+      "answer": 1,
+      "explanation_zh": "與過去事實相反的第三類條件句，主句用 could have + p.p.。"
+    },
+    {
+      "question_en": "The financial analyst presented her findings ___ to the executive committee.",
+      "options": [
+        "(A) confidence",
+        "(B) confident",
+        "(C) confidently",
+        "(D) confiding"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾動詞 presented，用副詞 confidently。"
+    },
+    {
+      "question_en": "By next month, the construction crew ___ the office renovation project.",
+      "options": [
+        "(A) completes",
+        "(B) will have completed",
+        "(C) has completed",
+        "(D) is completing"
+      ],
+      "answer": 1,
+      "explanation_zh": "「By next month」搭配未來完成式 will have completed。"
+    },
+    {
+      "question_en": "It is essential that the report ___ submitted before the deadline.",
+      "options": [
+        "(A) is",
+        "(B) was",
+        "(C) be",
+        "(D) being"
+      ],
+      "answer": 2,
+      "explanation_zh": "It is essential that 後接虛擬語氣，動詞用原形 be。"
+    },
+    {
+      "question_en": "A number of employees ___ requested additional training in data analysis.",
+      "options": [
+        "(A) has",
+        "(B) have",
+        "(C) is",
+        "(D) was"
+      ],
+      "answer": 1,
+      "explanation_zh": "「A number of + 複數名詞」主詞視為複數，用 have。"
+    },
+    {
+      "question_en": "The marketing director gave ___ a copy of the new branding guidelines.",
+      "options": [
+        "(A) we",
+        "(B) our",
+        "(C) us",
+        "(D) ours"
+      ],
+      "answer": 2,
+      "explanation_zh": "授與動詞 gave 的間接受詞，用受格 us。"
+    },
+    {
+      "question_en": "The CEO emphasized the ___ of maintaining strong client relationships.",
+      "options": [
+        "(A) important",
+        "(B) importantly",
+        "(C) importance",
+        "(D) imported"
+      ],
+      "answer": 2,
+      "explanation_zh": "the 後需名詞，importance（重要性）正確。"
+    },
+    {
+      "question_en": "Should you require further information, please ___ our customer service team.",
+      "options": [
+        "(A) contacted",
+        "(B) contact",
+        "(C) contacting",
+        "(D) to contact"
+      ],
+      "answer": 1,
+      "explanation_zh": "倒裝條件句 Should you require... 等同 If you should require...，主句為祈使句，用動詞原形 contact。"
+    },
+    {
+      "question_en": "The new policy ___ next Monday after final approval from the board.",
+      "options": [
+        "(A) will implement",
+        "(B) will be implemented",
+        "(C) implements",
+        "(D) has implemented"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 policy 是被執行的對象，未來時間，用未來被動 will be implemented。"
+    },
+    {
+      "question_en": "Neither of the proposals ___ been approved by the finance committee.",
+      "options": [
+        "(A) have",
+        "(B) has",
+        "(C) were",
+        "(D) are"
+      ],
+      "answer": 1,
+      "explanation_zh": "Neither of + 複數名詞，主詞 Neither 為單數，用 has。"
+    },
+    {
+      "question_en": "The interns completed the assignment ___ despite the tight deadline.",
+      "options": [
+        "(A) efficient",
+        "(B) efficiency",
+        "(C) efficiently",
+        "(D) efficiencies"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾動詞 completed，用副詞 efficiently。"
+    },
+    {
+      "question_en": "Were the company to expand into Asia, profits ___ significantly.",
+      "options": [
+        "(A) would increase",
+        "(B) will increase",
+        "(C) had increased",
+        "(D) increased"
+      ],
+      "answer": 0,
+      "explanation_zh": "倒裝的第二類條件句 Were the company to...，主句用 would + 原形動詞。"
+    },
+    {
+      "question_en": "The auditors ___ the books for three days before discovering the discrepancy.",
+      "options": [
+        "(A) had been examining",
+        "(B) examine",
+        "(C) have examined",
+        "(D) examines"
+      ],
+      "answer": 0,
+      "explanation_zh": "在過去某動作（discovered）之前已持續進行的動作，用過去完成進行式 had been examining。"
+    },
+    {
+      "question_en": "All packages ___ to the receiving department on the ground floor.",
+      "options": [
+        "(A) should deliver",
+        "(B) should be delivered",
+        "(C) delivered",
+        "(D) delivering"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 packages 是被遞送的對象，用 should be delivered。"
+    },
+    {
+      "question_en": "Mathematics ___ a required subject for all business management students.",
+      "options": [
+        "(A) are",
+        "(B) is",
+        "(C) were",
+        "(D) have"
+      ],
+      "answer": 1,
+      "explanation_zh": "學科名稱 Mathematics 雖以 -s 結尾，但視為單數，用 is。"
+    },
+    {
+      "question_en": "The marketing team submitted ___ proposal to the client yesterday.",
+      "options": [
+        "(A) they",
+        "(B) them",
+        "(C) their",
+        "(D) theirs"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾名詞 proposal 需所有格，用 their。"
+    },
+    {
+      "question_en": "The CFO requested that the budget report ___ revised by Friday.",
+      "options": [
+        "(A) is",
+        "(B) was",
+        "(C) be",
+        "(D) being"
+      ],
+      "answer": 2,
+      "explanation_zh": "request that 後接虛擬語氣，被動形式 (should) be revised。"
+    },
+    {
+      "question_en": "The new vending machines ___ throughout the office building last week.",
+      "options": [
+        "(A) installed",
+        "(B) were installed",
+        "(C) have installed",
+        "(D) install"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞為被安裝的對象，過去時間，用過去被動 were installed。"
+    },
+    {
+      "question_en": "We ___ have known about the schedule change if no one had told us.",
+      "options": [
+        "(A) could not",
+        "(B) could not have",
+        "(C) cannot",
+        "(D) will not"
+      ],
+      "answer": 1,
+      "explanation_zh": "與過去事實相反的第三類條件句，主句用 could not have + p.p.。"
+    },
+    {
+      "question_en": "The seminar provided ___ insights into international marketing strategies.",
+      "options": [
+        "(A) value",
+        "(B) valuable",
+        "(C) valuably",
+        "(D) values"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾名詞 insights，用形容詞 valuable（寶貴的）。"
+    },
+    {
+      "question_en": "By the time the project manager arrived, the team ___ the presentation.",
+      "options": [
+        "(A) finished",
+        "(B) had finished",
+        "(C) has finished",
+        "(D) finishes"
+      ],
+      "answer": 1,
+      "explanation_zh": "在過去某時間點（arrived）之前完成的動作，用過去完成式 had finished。"
+    },
+    {
+      "question_en": "Customer satisfaction surveys ___ conducted on a quarterly basis.",
+      "options": [
+        "(A) is",
+        "(B) are",
+        "(C) has",
+        "(D) was"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 surveys 為複數，被動語態用 are conducted。"
+    },
+    {
+      "question_en": "The HR manager and ___ assistant will conduct the interviews next Monday.",
+      "options": [
+        "(A) she",
+        "(B) her",
+        "(C) hers",
+        "(D) herself"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾名詞 assistant 需所有格，用 her。"
+    },
+    {
+      "question_en": "The marketing campaign was so ___ that sales doubled within a month.",
+      "options": [
+        "(A) effect",
+        "(B) effective",
+        "(C) effectively",
+        "(D) effectiveness"
+      ],
+      "answer": 1,
+      "explanation_zh": "be 動詞 was 後接形容詞作主詞補語，用 effective。"
+    },
+    {
+      "question_en": "Visitors ___ park in the spaces reserved for executives.",
+      "options": [
+        "(A) must not",
+        "(B) need not",
+        "(C) might not",
+        "(D) would not"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示禁止行為，用 must not（不可）。"
+    },
+    {
+      "question_en": "If the manager ___ available, please leave a message with the receptionist.",
+      "options": [
+        "(A) is not",
+        "(B) was not",
+        "(C) were not",
+        "(D) had not been"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一類條件句表示真實可能，if 子句用現在式 is not。"
+    },
+    {
+      "question_en": "The company ___ its operations to Southeast Asia over the next two years.",
+      "options": [
+        "(A) expanded",
+        "(B) expands",
+        "(C) will expand",
+        "(D) has expanded"
+      ],
+      "answer": 2,
+      "explanation_zh": "「over the next two years」指未來時間，用 will expand。"
+    },
+    {
+      "question_en": "Ms. Park designed the entire marketing brochure by ___.",
+      "options": [
+        "(A) her",
+        "(B) hers",
+        "(C) herself",
+        "(D) she"
+      ],
+      "answer": 2,
+      "explanation_zh": "by oneself 表示「獨自地」，用反身代名詞 herself。"
+    },
+    {
+      "question_en": "The committee suggested that the deadline ___ extended by two weeks.",
+      "options": [
+        "(A) is",
+        "(B) was",
+        "(C) be",
+        "(D) being"
+      ],
+      "answer": 2,
+      "explanation_zh": "suggest that 後接虛擬語氣，被動形式用 (should) be extended。"
+    },
+    {
+      "question_en": "The accountant has been working on the tax forms ___ since this morning.",
+      "options": [
+        "(A) diligent",
+        "(B) diligently",
+        "(C) diligence",
+        "(D) more diligent"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 working，用副詞 diligently。"
+    },
+    {
+      "question_en": "All sales representatives ___ to attend the product training workshop.",
+      "options": [
+        "(A) require",
+        "(B) are required",
+        "(C) requires",
+        "(D) requiring"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 representatives 是被要求的對象，用被動 are required。"
+    },
+    {
+      "question_en": "Twenty thousand dollars ___ a reasonable budget for this marketing initiative.",
+      "options": [
+        "(A) are",
+        "(B) is",
+        "(C) were",
+        "(D) have"
+      ],
+      "answer": 1,
+      "explanation_zh": "金額視為單一整體，用單數動詞 is。"
+    },
+    {
+      "question_en": "The new branch office in Singapore opened last month, and ___ has been performing exceptionally well.",
+      "options": [
+        "(A) it",
+        "(B) its",
+        "(C) it is",
+        "(D) itself"
+      ],
+      "answer": 0,
+      "explanation_zh": "代替前面提到的 office 作為主詞，用主格代名詞 it。"
+    },
+    {
+      "question_en": "The proposal received unanimous ___ from all members of the board.",
+      "options": [
+        "(A) approve",
+        "(B) approval",
+        "(C) approving",
+        "(D) approved"
+      ],
+      "answer": 1,
+      "explanation_zh": "形容詞 unanimous 後接名詞，用 approval（核可）。"
+    },
+    {
+      "question_en": "The contract negotiations ___ for over three hours when an agreement was finally reached.",
+      "options": [
+        "(A) lasted",
+        "(B) had been lasting",
+        "(C) have lasted",
+        "(D) last"
+      ],
+      "answer": 1,
+      "explanation_zh": "在過去某動作（agreement was reached）之前已持續進行的動作，用過去完成進行式 had been lasting。"
+    },
+    {
+      "question_en": "Each of the departments ___ its own annual budget proposal.",
+      "options": [
+        "(A) submit",
+        "(B) submits",
+        "(C) are submitting",
+        "(D) have submitted"
+      ],
+      "answer": 1,
+      "explanation_zh": "Each of + 複數名詞，主詞 Each 為單數，用 submits。"
+    },
+    {
+      "question_en": "The renovation project must ___ before the end of the quarter.",
+      "options": [
+        "(A) complete",
+        "(B) be completed",
+        "(C) completing",
+        "(D) completion"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 project 是被完成的對象，需被動 be completed。"
+    },
+    {
+      "question_en": "If we ___ the contract last year, we would be in a much better position now.",
+      "options": [
+        "(A) signed",
+        "(B) had signed",
+        "(C) sign",
+        "(D) would sign"
+      ],
+      "answer": 1,
+      "explanation_zh": "混合條件句，if 子句指過去（last year）用 had signed，主句指現在用 would be。"
+    },
+    {
+      "question_en": "The trainee took notes ___ throughout the entire workshop.",
+      "options": [
+        "(A) careful",
+        "(B) carefully",
+        "(C) carefulness",
+        "(D) cared"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 took，用副詞 carefully。"
+    },
+    {
+      "question_en": "The shareholders ___ informed of the merger details next week.",
+      "options": [
+        "(A) will",
+        "(B) will be",
+        "(C) have",
+        "(D) are"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞為被告知的對象，未來時間，用未來被動 will be informed。"
+    },
+    {
+      "question_en": "Either the director or the assistant managers ___ presenting at the conference.",
+      "options": [
+        "(A) is",
+        "(B) are",
+        "(C) was",
+        "(D) has"
+      ],
+      "answer": 1,
+      "explanation_zh": "Either A or B 動詞依靠近 B（managers，複數），用 are。"
+    },
+    {
+      "question_en": "The board members congratulated ___ on the successful merger.",
+      "options": [
+        "(A) us",
+        "(B) we",
+        "(C) our",
+        "(D) ours"
+      ],
+      "answer": 0,
+      "explanation_zh": "動詞 congratulated 的受詞，用受格 us。"
+    },
+    {
+      "question_en": "Mr. Yamada has demonstrated ___ leadership skills during his time at the company.",
+      "options": [
+        "(A) exception",
+        "(B) exceptional",
+        "(C) exceptionally",
+        "(D) excepted"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾名詞 leadership skills，用形容詞 exceptional（卓越的）。"
+    },
+    {
+      "question_en": "The board recommended that the CEO ___ a more conservative investment strategy.",
+      "options": [
+        "(A) adopts",
+        "(B) adopt",
+        "(C) adopted",
+        "(D) is adopting"
+      ],
+      "answer": 1,
+      "explanation_zh": "recommend that 後接虛擬語氣，動詞用原形 adopt。"
+    },
+    {
+      "question_en": "By the end of this fiscal year, our team ___ over 500 client accounts.",
+      "options": [
+        "(A) manages",
+        "(B) managed",
+        "(C) will have managed",
+        "(D) has managed"
+      ],
+      "answer": 2,
+      "explanation_zh": "「By the end of this fiscal year」指未來時點，用未來完成式 will have managed。"
+    },
+    {
+      "question_en": "The customer service representatives ___ trained extensively before being assigned to the call center.",
+      "options": [
+        "(A) were",
+        "(B) was",
+        "(C) have",
+        "(D) is"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞 representatives 為複數，被動式過去時間用 were trained。"
+    },
+    {
+      "question_en": "Although the deadline was tight, the report was completed ___.",
+      "options": [
+        "(A) timely",
+        "(B) time",
+        "(C) on time",
+        "(D) timing"
+      ],
+      "answer": 2,
+      "explanation_zh": "表示「準時」的副詞片語為 on time。"
+    },
+    {
+      "question_en": "If you ___ any questions, please feel free to contact the human resources department.",
+      "options": [
+        "(A) had",
+        "(B) have",
+        "(C) will have",
+        "(D) would have"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一類條件句表示真實可能，if 子句用現在式 have。"
+    },
+    {
+      "question_en": "The senior accountant should ___ the report before submitting it to the audit team.",
+      "options": [
+        "(A) review",
+        "(B) reviewed",
+        "(C) reviewing",
+        "(D) reviews"
+      ],
+      "answer": 0,
+      "explanation_zh": "情態動詞 should 後接動詞原形 review。"
+    },
+    {
+      "question_en": "The economics department ___ holding a seminar on global trade next Friday.",
+      "options": [
+        "(A) is",
+        "(B) are",
+        "(C) have",
+        "(D) were"
+      ],
+      "answer": 0,
+      "explanation_zh": "集合名詞 department 視為單一整體，用單數 is。"
+    },
+    {
+      "question_en": "The new product line has been very ___ received by consumers in Europe.",
+      "options": [
+        "(A) favor",
+        "(B) favorable",
+        "(C) favorably",
+        "(D) favoring"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾過去分詞 received，用副詞 favorably。"
+    },
+    {
+      "question_en": "We were so impressed by ___ professionalism during the negotiation.",
+      "options": [
+        "(A) they",
+        "(B) them",
+        "(C) their",
+        "(D) theirs"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾名詞 professionalism 需所有格，用 their。"
+    },
+    {
+      "question_en": "Had the manager checked the figures, the error ___ noticed earlier.",
+      "options": [
+        "(A) would be",
+        "(B) would have been",
+        "(C) will be",
+        "(D) is"
+      ],
+      "answer": 1,
+      "explanation_zh": "倒裝第三類條件句 Had the manager checked...，主句用 would have + p.p. (被動 been + p.p.)。"
+    },
+    {
+      "question_en": "The president addressed the audience ___ at the annual general meeting.",
+      "options": [
+        "(A) eloquent",
+        "(B) eloquence",
+        "(C) eloquently",
+        "(D) more eloquent"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾動詞 addressed，用副詞 eloquently（雄辯地）。"
+    },
+    {
+      "question_en": "All overseas shipments ___ insured against potential damage.",
+      "options": [
+        "(A) must",
+        "(B) must be",
+        "(C) must have",
+        "(D) must being"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 shipments 是被投保的對象，用 must be insured。"
+    },
+    {
+      "question_en": "The number of complaints ___ decreased significantly since the new policy was implemented.",
+      "options": [
+        "(A) have",
+        "(B) has",
+        "(C) are",
+        "(D) were"
+      ],
+      "answer": 1,
+      "explanation_zh": "「The number of + 複數名詞」主詞 number 為單數，用 has。"
+    },
+    {
+      "question_en": "The IT specialist explained the new software features clearly to ___.",
+      "options": [
+        "(A) we",
+        "(B) our",
+        "(C) us",
+        "(D) ours"
+      ],
+      "answer": 2,
+      "explanation_zh": "介系詞 to 的受詞，用受格 us。"
+    },
+    {
+      "question_en": "The auditor expressed ___ regarding the accuracy of the financial statements.",
+      "options": [
+        "(A) concern",
+        "(B) concerned",
+        "(C) concerning",
+        "(D) concernedly"
+      ],
+      "answer": 0,
+      "explanation_zh": "expressed 的受詞，需名詞 concern（關切）。"
+    },
+    {
+      "question_en": "The technical team ___ on the system upgrade for the past two weeks.",
+      "options": [
+        "(A) works",
+        "(B) has been working",
+        "(C) work",
+        "(D) had worked"
+      ],
+      "answer": 1,
+      "explanation_zh": "「for the past two weeks」表示從過去持續到現在仍進行，用現在完成進行式 has been working。"
+    },
+    {
+      "question_en": "The annual conference ___ in Tokyo next May.",
+      "options": [
+        "(A) will hold",
+        "(B) will be held",
+        "(C) holds",
+        "(D) has held"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 conference 是被舉辦的對象，未來時間，用未來被動 will be held。"
+    },
+    {
+      "question_en": "It is imperative that every applicant ___ the required documents on time.",
+      "options": [
+        "(A) submits",
+        "(B) submitted",
+        "(C) submit",
+        "(D) is submitting"
+      ],
+      "answer": 2,
+      "explanation_zh": "It is imperative that 後接虛擬語氣，動詞用原形 submit。"
+    },
+    {
+      "question_en": "The marketing strategy was developed ___ by the senior consultants.",
+      "options": [
+        "(A) creative",
+        "(B) creatively",
+        "(C) creativity",
+        "(D) creator"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 was developed，用副詞 creatively。"
+    },
+    {
+      "question_en": "If sales ___ to decline next quarter, we may need to revise our forecast.",
+      "options": [
+        "(A) continued",
+        "(B) continue",
+        "(C) had continued",
+        "(D) would continue"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一類條件句表示真實可能，if 子句用現在式 continue。"
+    },
+    {
+      "question_en": "The newly hired analyst introduced ___ to the entire department on the first day.",
+      "options": [
+        "(A) him",
+        "(B) his",
+        "(C) himself",
+        "(D) he"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞和受詞為同一人（the analyst 介紹自己），用反身代名詞 himself。"
+    },
+    {
+      "question_en": "The board of directors ___ the proposed acquisition during yesterday's meeting.",
+      "options": [
+        "(A) discuss",
+        "(B) discussed",
+        "(C) discusses",
+        "(D) discussing"
+      ],
+      "answer": 1,
+      "explanation_zh": "「yesterday's meeting」指過去時間，用過去式 discussed。"
+    },
+    {
+      "question_en": "The consultant ___ presented the quarterly report has been promoted to senior partner.",
+      "options": [
+        "(A) which",
+        "(B) who",
+        "(C) whose",
+        "(D) whom"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞為人 (consultant)，且為關係子句的主詞，故用主格關係代名詞 who。"
+    },
+    {
+      "question_en": "Our new headquarters, ___ is located in downtown Singapore, will open next month.",
+      "options": [
+        "(A) that",
+        "(B) where",
+        "(C) which",
+        "(D) what"
+      ],
+      "answer": 2,
+      "explanation_zh": "非限定關係子句 (有逗號) 不可用 that；先行詞為地點但作主詞，故用 which 而非 where。"
+    },
+    {
+      "question_en": "The candidate ___ resume impressed the hiring manager will be invited for a second interview.",
+      "options": [
+        "(A) who",
+        "(B) whom",
+        "(C) whose",
+        "(D) which"
+      ],
+      "answer": 2,
+      "explanation_zh": "後接名詞 resume 表示「他的履歷」，需用所有格關係代名詞 whose。"
+    },
+    {
+      "question_en": "The training session ___ we attended last Friday provided valuable insights into project management.",
+      "options": [
+        "(A) what",
+        "(B) which",
+        "(C) where",
+        "(D) whose"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞為物 (training session)，且為及物動詞 attended 的受詞，故用 which 或 that。"
+    },
+    {
+      "question_en": "We are looking for a venue ___ we can host the annual shareholders meeting.",
+      "options": [
+        "(A) which",
+        "(B) that",
+        "(C) where",
+        "(D) when"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞為地點 (venue)，且後接完整句子，故用關係副詞 where。"
+    },
+    {
+      "question_en": "The day ___ the merger was finalized will be remembered as a turning point in the company history.",
+      "options": [
+        "(A) which",
+        "(B) where",
+        "(C) when",
+        "(D) what"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞為時間 (day)，且後接完整子句，故用關係副詞 when。"
+    },
+    {
+      "question_en": "Please submit the documents ___ are required for the audit by Friday.",
+      "options": [
+        "(A) that",
+        "(B) who",
+        "(C) whose",
+        "(D) when"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞為物 (documents)，作子句主詞，限定用法可用 that 或 which。"
+    },
+    {
+      "question_en": "The employees ___ in the cafeteria are discussing the new policy.",
+      "options": [
+        "(A) sit",
+        "(B) sitting",
+        "(C) sat",
+        "(D) who sit"
+      ],
+      "answer": 1,
+      "explanation_zh": "減化關係子句，主動意義用現在分詞 sitting (= who are sitting)。"
+    },
+    {
+      "question_en": "The report ___ yesterday contains several inaccuracies that must be corrected.",
+      "options": [
+        "(A) submitting",
+        "(B) which submitted",
+        "(C) submitted",
+        "(D) submits"
+      ],
+      "answer": 2,
+      "explanation_zh": "報告「被提交」，被動意義用過去分詞 submitted (= which was submitted)。"
+    },
+    {
+      "question_en": "Mr. Chen, ___ I worked with on the Tokyo project, has accepted a position in Berlin.",
+      "options": [
+        "(A) who",
+        "(B) whom",
+        "(C) whose",
+        "(D) which"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞為人，作介系詞 with 的受詞，正式用法用 whom。"
+    },
+    {
+      "question_en": "The proposal was rejected, ___ disappointed the entire marketing team.",
+      "options": [
+        "(A) that",
+        "(B) what",
+        "(C) which",
+        "(D) it"
+      ],
+      "answer": 2,
+      "explanation_zh": "非限定用法代指整個前句的事件，用 which，不可用 that。"
+    },
+    {
+      "question_en": "We need to find someone ___ can lead the international expansion project.",
+      "options": [
+        "(A) which",
+        "(B) whose",
+        "(C) who",
+        "(D) where"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 someone 為人，作子句主詞，用 who。"
+    },
+    {
+      "question_en": "The vendor ___ products we purchased last quarter has filed for bankruptcy.",
+      "options": [
+        "(A) who",
+        "(B) which",
+        "(C) whom",
+        "(D) whose"
+      ],
+      "answer": 3,
+      "explanation_zh": "後接名詞 products 表示「廠商的產品」，需用所有格 whose。"
+    },
+    {
+      "question_en": "The reason ___ the launch was postponed remains confidential.",
+      "options": [
+        "(A) which",
+        "(B) why",
+        "(C) where",
+        "(D) what"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞為 reason，表原因，用關係副詞 why。"
+    },
+    {
+      "question_en": "All applicants ___ for the internship must submit a cover letter.",
+      "options": [
+        "(A) apply",
+        "(B) applying",
+        "(C) applied",
+        "(D) to applying"
+      ],
+      "answer": 1,
+      "explanation_zh": "減化關係子句，主動意義 (= who are applying) 用現在分詞 applying。"
+    },
+    {
+      "question_en": "The CEO addressed the concerns ___ by shareholders at the annual meeting.",
+      "options": [
+        "(A) raising",
+        "(B) raised",
+        "(C) raise",
+        "(D) rises"
+      ],
+      "answer": 1,
+      "explanation_zh": "concerns 為被提出的對象，被動用過去分詞 raised (= which were raised)。"
+    },
+    {
+      "question_en": "Our company offers competitive salaries ___ generous benefits to all full-time employees.",
+      "options": [
+        "(A) or",
+        "(B) but",
+        "(C) and",
+        "(D) so"
+      ],
+      "answer": 2,
+      "explanation_zh": "兩項福利為並列關係，用對等連接詞 and。"
+    },
+    {
+      "question_en": "The team worked overtime for weeks, ___ they still missed the deadline.",
+      "options": [
+        "(A) and",
+        "(B) yet",
+        "(C) for",
+        "(D) or"
+      ],
+      "answer": 1,
+      "explanation_zh": "前後語意對比 (努力卻仍錯過)，用 yet 表「然而」。"
+    },
+    {
+      "question_en": "You may pay by credit card ___ bank transfer at checkout.",
+      "options": [
+        "(A) and",
+        "(B) but",
+        "(C) or",
+        "(D) nor"
+      ],
+      "answer": 2,
+      "explanation_zh": "提供兩種付款方式選擇，用 or。"
+    },
+    {
+      "question_en": "The negotiations were difficult, ___ both parties eventually reached an agreement.",
+      "options": [
+        "(A) so",
+        "(B) for",
+        "(C) but",
+        "(D) or"
+      ],
+      "answer": 2,
+      "explanation_zh": "前後對比 (困難 vs 達成協議)，用 but。"
+    },
+    {
+      "question_en": "The factory was forced to close ___ the equipment failure caused major safety concerns.",
+      "options": [
+        "(A) so",
+        "(B) because",
+        "(C) although",
+        "(D) unless"
+      ],
+      "answer": 1,
+      "explanation_zh": "後句說明關閉的原因，用 because 引導原因子句。"
+    },
+    {
+      "question_en": "___ the report was completed on time, the client requested several revisions.",
+      "options": [
+        "(A) Because",
+        "(B) Although",
+        "(C) Since",
+        "(D) As soon as"
+      ],
+      "answer": 1,
+      "explanation_zh": "前後語意讓步 (雖然準時完成，仍要求修改)，用 although。"
+    },
+    {
+      "question_en": "We will sign the contract ___ all terms are mutually agreed upon.",
+      "options": [
+        "(A) unless",
+        "(B) provided that",
+        "(C) although",
+        "(D) because"
+      ],
+      "answer": 1,
+      "explanation_zh": "provided that「假如、只要」表條件，符合語境。"
+    },
+    {
+      "question_en": "The shipment will not be released ___ the outstanding invoice is paid.",
+      "options": [
+        "(A) if",
+        "(B) unless",
+        "(C) although",
+        "(D) since"
+      ],
+      "answer": 1,
+      "explanation_zh": "unless = if not「除非」，表示付款是放貨的必要條件。"
+    },
+    {
+      "question_en": "___ the marketing team focuses on digital channels, the sales team prefers face-to-face meetings.",
+      "options": [
+        "(A) Because",
+        "(B) Whereas",
+        "(C) Unless",
+        "(D) Since"
+      ],
+      "answer": 1,
+      "explanation_zh": "whereas「然而、相反地」用於兩者對比。"
+    },
+    {
+      "question_en": "Please keep your receipt ___ you need to return the item.",
+      "options": [
+        "(A) in case",
+        "(B) so that",
+        "(C) as long as",
+        "(D) even if"
+      ],
+      "answer": 0,
+      "explanation_zh": "in case「以防萬一」表預防性條件，符合語境。"
+    },
+    {
+      "question_en": "___ the new software has been installed, productivity has increased significantly.",
+      "options": [
+        "(A) Until",
+        "(B) Since",
+        "(C) Unless",
+        "(D) While"
+      ],
+      "answer": 1,
+      "explanation_zh": "since「自從」搭配現在完成式，表示從過去某時延續至今。"
+    },
+    {
+      "question_en": "The factory will continue operating ___ raw materials remain available.",
+      "options": [
+        "(A) unless",
+        "(B) as long as",
+        "(C) although",
+        "(D) in case"
+      ],
+      "answer": 1,
+      "explanation_zh": "as long as「只要」表條件，原料供應是運轉條件。"
+    },
+    {
+      "question_en": "The board approved the budget; ___, implementation will begin next quarter.",
+      "options": [
+        "(A) however",
+        "(B) therefore",
+        "(C) otherwise",
+        "(D) nevertheless"
+      ],
+      "answer": 1,
+      "explanation_zh": "前因 (預算通過) 後果 (將執行)，用 therefore。"
+    },
+    {
+      "question_en": "Sales declined in the third quarter; ___, the company remains profitable overall.",
+      "options": [
+        "(A) therefore",
+        "(B) furthermore",
+        "(C) nevertheless",
+        "(D) consequently"
+      ],
+      "answer": 2,
+      "explanation_zh": "前後對比 (下滑但仍獲利)，用 nevertheless「儘管如此」。"
+    },
+    {
+      "question_en": "The product passed all safety tests; ___, it received regulatory approval.",
+      "options": [
+        "(A) however",
+        "(B) consequently",
+        "(C) otherwise",
+        "(D) nonetheless"
+      ],
+      "answer": 1,
+      "explanation_zh": "前因後果，用 consequently「因此」。"
+    },
+    {
+      "question_en": "The new policy improves work-life balance; ___, it reduces operating costs.",
+      "options": [
+        "(A) however",
+        "(B) nevertheless",
+        "(C) moreover",
+        "(D) otherwise"
+      ],
+      "answer": 2,
+      "explanation_zh": "增添另一項好處，用 moreover「此外」。"
+    },
+    {
+      "question_en": "The proposal seems promising; ___, we need to analyze the financial risks carefully.",
+      "options": [
+        "(A) therefore",
+        "(B) however",
+        "(C) furthermore",
+        "(D) thus"
+      ],
+      "answer": 1,
+      "explanation_zh": "前後對比 (看似可行但仍需評估風險)，用 however。"
+    },
+    {
+      "question_en": "The merger faced regulatory hurdles; ___, both companies eventually completed the deal.",
+      "options": [
+        "(A) moreover",
+        "(B) therefore",
+        "(C) nonetheless",
+        "(D) accordingly"
+      ],
+      "answer": 2,
+      "explanation_zh": "前後對比 (遇阻礙但仍完成)，用 nonetheless「儘管如此」。"
+    },
+    {
+      "question_en": "Demand for the product has surged; ___, we are expanding the production line.",
+      "options": [
+        "(A) however",
+        "(B) accordingly",
+        "(C) otherwise",
+        "(D) conversely"
+      ],
+      "answer": 1,
+      "explanation_zh": "accordingly「因此、相應地」表結果。"
+    },
+    {
+      "question_en": "The Asian market grew by 15 percent; ___, the European market contracted by 5 percent.",
+      "options": [
+        "(A) furthermore",
+        "(B) therefore",
+        "(C) in contrast",
+        "(D) thus"
+      ],
+      "answer": 2,
+      "explanation_zh": "in contrast「相比之下」用於兩個市場表現對比。"
+    },
+    {
+      "question_en": "The team finalized the design; ___, they began preparing marketing materials.",
+      "options": [
+        "(A) however",
+        "(B) furthermore",
+        "(C) meanwhile",
+        "(D) otherwise"
+      ],
+      "answer": 1,
+      "explanation_zh": "furthermore「此外」表示再做另一項事務。"
+    },
+    {
+      "question_en": "All proposals must be submitted ___ the deadline of June 30.",
+      "options": [
+        "(A) at",
+        "(B) by",
+        "(C) until",
+        "(D) since"
+      ],
+      "answer": 1,
+      "explanation_zh": "by + 截止時間「在...之前完成」，符合 deadline 語意。"
+    },
+    {
+      "question_en": "The board meeting will be held ___ Tuesday morning in the executive boardroom.",
+      "options": [
+        "(A) at",
+        "(B) in",
+        "(C) on",
+        "(D) by"
+      ],
+      "answer": 2,
+      "explanation_zh": "特定日期 (Tuesday) 用介系詞 on。"
+    },
+    {
+      "question_en": "We would like to discuss several concerns ___ the new compliance policy.",
+      "options": [
+        "(A) regarding",
+        "(B) toward",
+        "(C) along",
+        "(D) onto"
+      ],
+      "answer": 0,
+      "explanation_zh": "regarding「關於」為商業常用介系詞。"
+    },
+    {
+      "question_en": "Ms. Yamada will sign the agreement ___ the chairman, who is currently overseas.",
+      "options": [
+        "(A) instead",
+        "(B) on behalf of",
+        "(C) according to",
+        "(D) in spite of"
+      ],
+      "answer": 1,
+      "explanation_zh": "on behalf of「代表」某人行事，符合語境。"
+    },
+    {
+      "question_en": "___ the recent market downturn, we have decided to delay the IPO.",
+      "options": [
+        "(A) In light of",
+        "(B) Despite",
+        "(C) On account of which",
+        "(D) However"
+      ],
+      "answer": 0,
+      "explanation_zh": "in light of「鑑於」表考量某情況而做決定。"
+    },
+    {
+      "question_en": "The flight was cancelled ___ severe weather conditions.",
+      "options": [
+        "(A) although",
+        "(B) because",
+        "(C) owing to",
+        "(D) so that"
+      ],
+      "answer": 2,
+      "explanation_zh": "owing to + 名詞「由於」，後接名詞片語 weather conditions。"
+    },
+    {
+      "question_en": "All offers are ___ approval by the executive committee.",
+      "options": [
+        "(A) subject to",
+        "(B) regardless of",
+        "(C) prior to",
+        "(D) along with"
+      ],
+      "answer": 0,
+      "explanation_zh": "subject to「須經...批准、取決於」為商業常用片語。"
+    },
+    {
+      "question_en": "___ the final audit, the funds will be held in an escrow account.",
+      "options": [
+        "(A) Pending",
+        "(B) During which",
+        "(C) Within",
+        "(D) Such as"
+      ],
+      "answer": 0,
+      "explanation_zh": "pending「在...期間、有待」作介系詞用，符合審計期間之意。"
+    },
+    {
+      "question_en": "All employees must comply with company policy ___ section 4.2 of the handbook.",
+      "options": [
+        "(A) pursuant to",
+        "(B) regardless of",
+        "(C) instead of",
+        "(D) prior to"
+      ],
+      "answer": 0,
+      "explanation_zh": "pursuant to「依據、根據」為正式法律商業用語。"
+    },
+    {
+      "question_en": "Please confirm your attendance ___ Friday so we can finalize the seating arrangements.",
+      "options": [
+        "(A) until",
+        "(B) by",
+        "(C) at",
+        "(D) on"
+      ],
+      "answer": 1,
+      "explanation_zh": "by Friday「在週五之前完成」，表 deadline。"
+    },
+    {
+      "question_en": "___ the rising costs, the company managed to maintain its profit margin.",
+      "options": [
+        "(A) Although",
+        "(B) Even though",
+        "(C) Despite",
+        "(D) Whereas"
+      ],
+      "answer": 2,
+      "explanation_zh": "despite + 名詞片語 (the rising costs)，其他選項為連接詞接子句。"
+    },
+    {
+      "question_en": "___ he was exhausted, the manager continued to work on the presentation.",
+      "options": [
+        "(A) Despite",
+        "(B) In spite of",
+        "(C) Although",
+        "(D) Regardless of"
+      ],
+      "answer": 2,
+      "explanation_zh": "後接完整子句 (he was exhausted)，用連接詞 although。"
+    },
+    {
+      "question_en": "___ the difficult market conditions, the firm posted record profits last year.",
+      "options": [
+        "(A) Even though",
+        "(B) In spite of",
+        "(C) Whereas",
+        "(D) Although"
+      ],
+      "answer": 1,
+      "explanation_zh": "後接名詞片語 (the difficult market conditions)，用介系詞片語 in spite of。"
+    },
+    {
+      "question_en": "The new system is far ___ than the previous one in terms of processing speed.",
+      "options": [
+        "(A) efficient",
+        "(B) more efficient",
+        "(C) most efficient",
+        "(D) efficiency"
+      ],
+      "answer": 1,
+      "explanation_zh": "句中有 than，且 far 修飾比較級，用 more efficient。"
+    },
+    {
+      "question_en": "Of all the candidates interviewed, Ms. Lee is ___ qualified for the position.",
+      "options": [
+        "(A) more",
+        "(B) the most",
+        "(C) much",
+        "(D) as"
+      ],
+      "answer": 1,
+      "explanation_zh": "of all 表示在所有人中，用最高級 the most。"
+    },
+    {
+      "question_en": "The Q4 results were not ___ impressive as those of Q3.",
+      "options": [
+        "(A) so",
+        "(B) more",
+        "(C) as",
+        "(D) much"
+      ],
+      "answer": 2,
+      "explanation_zh": "as...as 同等比較，否定句中常用 not as...as。"
+    },
+    {
+      "question_en": "The more training employees receive, ___ their performance becomes.",
+      "options": [
+        "(A) better",
+        "(B) the better",
+        "(C) best",
+        "(D) the best"
+      ],
+      "answer": 1,
+      "explanation_zh": "the more...the more/better 句型，後半需用 the + 比較級。"
+    },
+    {
+      "question_en": "This year sales figures are significantly ___ than last year results.",
+      "options": [
+        "(A) high",
+        "(B) higher",
+        "(C) highest",
+        "(D) more high"
+      ],
+      "answer": 1,
+      "explanation_zh": "後有 than，用比較級 higher。"
+    },
+    {
+      "question_en": "The CEO emphasized that the new strategy is ___ ambitious than realistic.",
+      "options": [
+        "(A) less",
+        "(B) least",
+        "(C) as",
+        "(D) much"
+      ],
+      "answer": 0,
+      "explanation_zh": "less + 形容詞 + than 表「比較不...」。"
+    },
+    {
+      "question_en": "Our team is responsible for designing, developing, and ___ new software solutions.",
+      "options": [
+        "(A) test",
+        "(B) tests",
+        "(C) testing",
+        "(D) to test"
+      ],
+      "answer": 2,
+      "explanation_zh": "平行結構：與前面 designing, developing 並列，用 V-ing 形式 testing。"
+    },
+    {
+      "question_en": "The seminar will cover both leadership skills ___ team management techniques.",
+      "options": [
+        "(A) or",
+        "(B) and",
+        "(C) but",
+        "(D) nor"
+      ],
+      "answer": 1,
+      "explanation_zh": "both...and 為平行結構固定搭配。"
+    },
+    {
+      "question_en": "The candidate is not only highly qualified ___ also fluent in three languages.",
+      "options": [
+        "(A) and",
+        "(B) but",
+        "(C) or",
+        "(D) nor"
+      ],
+      "answer": 1,
+      "explanation_zh": "not only...but also 為平行結構固定搭配。"
+    },
+    {
+      "question_en": "You can reach the customer service department either by phone ___ by email.",
+      "options": [
+        "(A) and",
+        "(B) nor",
+        "(C) or",
+        "(D) but"
+      ],
+      "answer": 2,
+      "explanation_zh": "either...or 為平行結構固定搭配。"
+    },
+    {
+      "question_en": "Neither the manager ___ the supervisor was available for comment.",
+      "options": [
+        "(A) or",
+        "(B) nor",
+        "(C) and",
+        "(D) but"
+      ],
+      "answer": 1,
+      "explanation_zh": "neither...nor 為平行結構固定搭配。"
+    },
+    {
+      "question_en": "The new role requires excellent communication skills, attention to detail, and ___ to work under pressure.",
+      "options": [
+        "(A) able",
+        "(B) ability",
+        "(C) capable",
+        "(D) being able"
+      ],
+      "answer": 1,
+      "explanation_zh": "與前面名詞 skills, attention 並列，需用名詞 ability。"
+    },
+    {
+      "question_en": "Effective managers know how to motivate their teams, delegate tasks, and ___ constructive feedback.",
+      "options": [
+        "(A) provide",
+        "(B) providing",
+        "(C) provided",
+        "(D) to provide"
+      ],
+      "answer": 0,
+      "explanation_zh": "與 motivate, delegate 原形動詞並列，用 provide。"
+    },
+    {
+      "question_en": "The training program focuses on improving productivity, enhancing collaboration, and ___ employee morale.",
+      "options": [
+        "(A) boost",
+        "(B) boosts",
+        "(C) boosting",
+        "(D) to boost"
+      ],
+      "answer": 2,
+      "explanation_zh": "與 improving, enhancing 並列，用 V-ing 形式 boosting。"
+    },
+    {
+      "question_en": "Never ___ such a rapid increase in online sales as we have this year.",
+      "options": [
+        "(A) the company sees",
+        "(B) has the company seen",
+        "(C) the company has seen",
+        "(D) does the company see"
+      ],
+      "answer": 1,
+      "explanation_zh": "否定副詞 never 置句首引發倒裝，現在完成式倒裝為 has + 主詞 + p.p.。"
+    },
+    {
+      "question_en": "Hardly ___ the office ___ the phone started ringing.",
+      "options": [
+        "(A) had I entered / when",
+        "(B) I had entered / than",
+        "(C) did I enter / when",
+        "(D) I entered / than"
+      ],
+      "answer": 0,
+      "explanation_zh": "hardly...when 句型，hardly 置句首引發過去完成式倒裝。"
+    },
+    {
+      "question_en": "Not only ___ the deadline, but the team also exceeded expectations.",
+      "options": [
+        "(A) the team met",
+        "(B) the team did meet",
+        "(C) did the team meet",
+        "(D) the team meets"
+      ],
+      "answer": 2,
+      "explanation_zh": "not only 置句首引發倒裝，過去式需借助助動詞 did。"
+    },
+    {
+      "question_en": "Scarcely ___ the contract ___ the client requested changes.",
+      "options": [
+        "(A) had we signed / when",
+        "(B) we had signed / than",
+        "(C) did we sign / when",
+        "(D) we signed / than"
+      ],
+      "answer": 0,
+      "explanation_zh": "scarcely...when 句型，須過去完成式倒裝。"
+    },
+    {
+      "question_en": "___ had the meeting started than the fire alarm sounded.",
+      "options": [
+        "(A) Hardly",
+        "(B) Scarcely",
+        "(C) No sooner",
+        "(D) Never"
+      ],
+      "answer": 2,
+      "explanation_zh": "no sooner...than 為固定搭配，hardly/scarcely 須搭配 when。"
+    },
+    {
+      "question_en": "___ I known about the schedule change, I would have rearranged my flight.",
+      "options": [
+        "(A) If",
+        "(B) Had",
+        "(C) Should",
+        "(D) Were"
+      ],
+      "answer": 1,
+      "explanation_zh": "省略 if 的第三條件句倒裝：Had + 主詞 + p.p.。"
+    },
+    {
+      "question_en": "___ you have any questions about the policy, please contact human resources.",
+      "options": [
+        "(A) Had",
+        "(B) Were",
+        "(C) Should",
+        "(D) Did"
+      ],
+      "answer": 2,
+      "explanation_zh": "Should + 主詞 + 原形 = If you should have，正式商業用語。"
+    },
+    {
+      "question_en": "___ she to accept our offer, she would relocate to our New York office.",
+      "options": [
+        "(A) Had",
+        "(B) Were",
+        "(C) Should",
+        "(D) Did"
+      ],
+      "answer": 1,
+      "explanation_zh": "Were + 主詞 + to V = If 主詞 were to V，第二條件句倒裝。"
+    },
+    {
+      "question_en": "Under no circumstances ___ confidential information be shared with third parties.",
+      "options": [
+        "(A) employees should",
+        "(B) should employees",
+        "(C) employees can",
+        "(D) employees would"
+      ],
+      "answer": 1,
+      "explanation_zh": "否定副詞片語 under no circumstances 置句首引發倒裝。"
+    },
+    {
+      "question_en": "Rarely ___ such a comprehensive proposal from a new vendor.",
+      "options": [
+        "(A) we have received",
+        "(B) have we received",
+        "(C) we received",
+        "(D) did we received"
+      ],
+      "answer": 1,
+      "explanation_zh": "rarely 為否定副詞，置句首引發完成式倒裝。"
+    },
+    {
+      "question_en": "___ through the new office, the visitors were impressed by the modern design.",
+      "options": [
+        "(A) Walking",
+        "(B) Walked",
+        "(C) To walk",
+        "(D) Having walked"
+      ],
+      "answer": 0,
+      "explanation_zh": "現在分詞片語表主動同時動作，visitors 在走，用 Walking。"
+    },
+    {
+      "question_en": "___ the report, the analyst began preparing the presentation.",
+      "options": [
+        "(A) Having submitted",
+        "(B) Submitting",
+        "(C) Submitted",
+        "(D) To submit"
+      ],
+      "answer": 0,
+      "explanation_zh": "完成式分詞 Having + p.p. 表示動作在主要動詞之前完成。"
+    },
+    {
+      "question_en": "___ in 1985, the company has grown into a multinational corporation.",
+      "options": [
+        "(A) Founding",
+        "(B) Founded",
+        "(C) To found",
+        "(D) Having founded"
+      ],
+      "answer": 1,
+      "explanation_zh": "公司被創立，用過去分詞 Founded 表被動。"
+    },
+    {
+      "question_en": "___ by the board, the new strategy will be implemented next quarter.",
+      "options": [
+        "(A) Approving",
+        "(B) Having approved",
+        "(C) Approved",
+        "(D) Approve"
+      ],
+      "answer": 2,
+      "explanation_zh": "策略「被」核准，用過去分詞 Approved 表被動。"
+    },
+    {
+      "question_en": "___ for over two decades, Mr. Tanaka brings extensive experience to his new role.",
+      "options": [
+        "(A) Working",
+        "(B) Having worked",
+        "(C) Worked",
+        "(D) Being worked"
+      ],
+      "answer": 1,
+      "explanation_zh": "Having worked 表示在主要動詞之前已持續完成的動作。"
+    },
+    {
+      "question_en": "___ the contract carefully, we noticed several clauses that needed revision.",
+      "options": [
+        "(A) Reviewing",
+        "(B) Reviewed",
+        "(C) Having been reviewed",
+        "(D) To review"
+      ],
+      "answer": 0,
+      "explanation_zh": "we 主動審閱，用現在分詞 Reviewing 表同時或先後的動作。"
+    },
+    {
+      "question_en": "___ in a hurry, the proposal contained several typographical errors.",
+      "options": [
+        "(A) Writing",
+        "(B) Written",
+        "(C) Having written",
+        "(D) To write"
+      ],
+      "answer": 1,
+      "explanation_zh": "提案「被」匆忙撰寫，用過去分詞 Written 表被動。"
+    },
+    {
+      "question_en": "___ at the conference, the speaker received a standing ovation.",
+      "options": [
+        "(A) Arriving",
+        "(B) Arrived",
+        "(C) Having arrived",
+        "(D) Being arrived"
+      ],
+      "answer": 2,
+      "explanation_zh": "Having arrived 表抵達後 (動作先於主要動詞) 獲得起立鼓掌。"
+    },
+    {
+      "question_en": "While ___ the financial statements, the auditor identified several irregularities.",
+      "options": [
+        "(A) examined",
+        "(B) examining",
+        "(C) examines",
+        "(D) to examine"
+      ],
+      "answer": 1,
+      "explanation_zh": "while + V-ing 表主動進行的動作，稽核員主動檢查。"
+    },
+    {
+      "question_en": "The keynote speaker, ___ for her expertise in fintech, will address the conference tomorrow.",
+      "options": [
+        "(A) knowing",
+        "(B) known",
+        "(C) knew",
+        "(D) to know"
+      ],
+      "answer": 1,
+      "explanation_zh": "be known for「以...著稱」為被動，減化關係子句用 known。"
+    },
+    {
+      "question_en": "The factory ___ in Vietnam produces electronic components for global markets.",
+      "options": [
+        "(A) locating",
+        "(B) located",
+        "(C) locates",
+        "(D) is located"
+      ],
+      "answer": 1,
+      "explanation_zh": "工廠「位於」用 located (= which is located)，被動語意。"
+    },
+    {
+      "question_en": "All employees ___ the safety training must sign the attendance sheet.",
+      "options": [
+        "(A) attending",
+        "(B) attended",
+        "(C) attend",
+        "(D) to attend"
+      ],
+      "answer": 0,
+      "explanation_zh": "員工主動參加，減化關係子句用 V-ing 形式 attending。"
+    },
+    {
+      "question_en": "The contract, ___ by both parties last week, will take effect on January 1.",
+      "options": [
+        "(A) signing",
+        "(B) signed",
+        "(C) signs",
+        "(D) was signed"
+      ],
+      "answer": 1,
+      "explanation_zh": "合約「被」雙方簽署，用過去分詞 signed (= which was signed)。"
+    },
+    {
+      "question_en": "The delegation, ___ several senior executives, arrived at the airport this morning.",
+      "options": [
+        "(A) included",
+        "(B) including",
+        "(C) includes",
+        "(D) to include"
+      ],
+      "answer": 1,
+      "explanation_zh": "including「包括」為介系詞，表示包含的對象。"
+    },
+    {
+      "question_en": "The merger talks resumed ___ a three-month suspension due to regulatory concerns.",
+      "options": [
+        "(A) prior to",
+        "(B) following",
+        "(C) since",
+        "(D) while"
+      ],
+      "answer": 1,
+      "explanation_zh": "following + 名詞「在...之後」，表示三個月暫停後恢復。"
+    },
+    {
+      "question_en": "Please review the attached document ___ to the next meeting.",
+      "options": [
+        "(A) prior",
+        "(B) prior to",
+        "(C) before of",
+        "(D) ahead"
+      ],
+      "answer": 1,
+      "explanation_zh": "prior to「在...之前」為介系詞片語，後接名詞 the next meeting。"
+    },
+    {
+      "question_en": "The candidate has experience ___ supply chain management and logistics.",
+      "options": [
+        "(A) in",
+        "(B) on",
+        "(C) at",
+        "(D) for"
+      ],
+      "answer": 0,
+      "explanation_zh": "experience in + 某領域，為固定搭配。"
+    },
+    {
+      "question_en": "The committee will issue a decision ___ further consultation with legal counsel.",
+      "options": [
+        "(A) pending",
+        "(B) according",
+        "(C) regarding",
+        "(D) following"
+      ],
+      "answer": 0,
+      "explanation_zh": "pending「有待、在...之前」表示在進一步諮詢之前不會發布。"
+    },
+    {
+      "question_en": "___ as soon as we finish the negotiation, we will inform all stakeholders.",
+      "options": [
+        "(A) Until",
+        "(B) Since",
+        "(C) As soon as",
+        "(D) By the time"
+      ],
+      "answer": 2,
+      "explanation_zh": "原句首已有暗示，as soon as「一...就...」符合通知時機。"
+    },
+    {
+      "question_en": "___ the manager arrived, the meeting had already started.",
+      "options": [
+        "(A) Until",
+        "(B) By the time",
+        "(C) As soon as",
+        "(D) Since"
+      ],
+      "answer": 1,
+      "explanation_zh": "by the time + 過去式，主句搭配過去完成式，表「等到...時已經」。"
+    },
+    {
+      "question_en": "The CEO finalized the merger; ___, the CFO presented the financial forecast.",
+      "options": [
+        "(A) furthermore",
+        "(B) however",
+        "(C) meanwhile",
+        "(D) therefore"
+      ],
+      "answer": 2,
+      "explanation_zh": "meanwhile「同時」表兩件事同時發生。"
+    },
+    {
+      "question_en": "The supplier offered a discount, ___ saved the company over twenty thousand dollars.",
+      "options": [
+        "(A) that",
+        "(B) which",
+        "(C) what",
+        "(D) it"
+      ],
+      "answer": 1,
+      "explanation_zh": "非限定用法代指整個前句的事件 (提供折扣)，用 which。"
+    },
+    {
+      "question_en": "All staff members ___ in the survey will receive a complimentary gift card.",
+      "options": [
+        "(A) participate",
+        "(B) participating",
+        "(C) participated",
+        "(D) to participate"
+      ],
+      "answer": 1,
+      "explanation_zh": "員工主動參加，減化關係子句用 V-ing 形式 participating。"
+    },
+    {
+      "question_en": "The findings ___ in the report will be presented at the next board meeting.",
+      "options": [
+        "(A) outlining",
+        "(B) outlined",
+        "(C) outlines",
+        "(D) to outline"
+      ],
+      "answer": 1,
+      "explanation_zh": "findings「被」概述於報告中，用過去分詞 outlined 表被動。"
+    },
+    {
+      "question_en": "Little ___ that his presentation would lead to a major investment deal.",
+      "options": [
+        "(A) he knew",
+        "(B) did he know",
+        "(C) he did know",
+        "(D) he knows"
+      ],
+      "answer": 1,
+      "explanation_zh": "否定副詞 little「幾乎不」置句首引發倒裝，過去式用 did + 原形。"
+    },
+    {
+      "question_en": "The board of directors will ___ a decision regarding the merger by the end of the quarter.",
+      "options": [
+        "(A) do",
+        "(B) bring",
+        "(C) make",
+        "(D) take"
+      ],
+      "answer": 2,
+      "explanation_zh": "「make a decision」是固定搭配，意為「做出決定」。其他選項皆不可與 decision 搭配使用。"
+    },
+    {
+      "question_en": "After lengthy negotiations, both parties finally ___ an agreement on the contract terms.",
+      "options": [
+        "(A) arrived",
+        "(B) reached",
+        "(C) got",
+        "(D) made"
+      ],
+      "answer": 1,
+      "explanation_zh": "「reach an agreement」為標準搭配，意為「達成協議」。arrive 須加 at，雖文法可，但 reach 更為常用且直接。"
+    },
+    {
+      "question_en": "Customer satisfaction remains our top ___ this fiscal year.",
+      "options": [
+        "(A) precedence",
+        "(B) preference",
+        "(C) primary",
+        "(D) priority"
+      ],
+      "answer": 3,
+      "explanation_zh": "「top priority」是固定搭配，意為「最優先事項」。其他詞彙不能與 top 形成此種商業用語。"
+    },
+    {
+      "question_en": "We would like to ___ an order for 500 units of your new product line.",
+      "options": [
+        "(A) make",
+        "(B) do",
+        "(C) place",
+        "(D) set"
+      ],
+      "answer": 2,
+      "explanation_zh": "「place an order」是商業英語固定搭配，意為「下訂單」。其他動詞均不可與 order 搭配此意。"
+    },
+    {
+      "question_en": "The CEO strongly ___ that all employees attend the annual training session.",
+      "options": [
+        "(A) suggests",
+        "(B) recommends",
+        "(C) requires",
+        "(D) demands"
+      ],
+      "answer": 1,
+      "explanation_zh": "「strongly recommend」為固定副詞搭配。suggest 通常與 highly 搭配較少；recommend 與 strongly 為標準商業用語。"
+    },
+    {
+      "question_en": "The new policy will significantly ___ our operations next year.",
+      "options": [
+        "(A) effect",
+        "(B) affect",
+        "(C) effecting",
+        "(D) affecting"
+      ],
+      "answer": 1,
+      "explanation_zh": "affect 為動詞，意為「影響」；effect 為名詞，意為「效果」。此處需要動詞，故選 affect。"
+    },
+    {
+      "question_en": "Please ___ with the client tomorrow to confirm the meeting details.",
+      "options": [
+        "(A) follow through",
+        "(B) follow out",
+        "(C) follow up",
+        "(D) follow on"
+      ],
+      "answer": 2,
+      "explanation_zh": "「follow up」意為「跟進、後續聯絡」，常用於商業情境中確認事項。follow through 則指「貫徹執行」。"
+    },
+    {
+      "question_en": "The project is currently ___ schedule due to unexpected delays.",
+      "options": [
+        "(A) ahead of",
+        "(B) behind",
+        "(C) above",
+        "(D) under"
+      ],
+      "answer": 1,
+      "explanation_zh": "「behind schedule」意為「進度落後」，是商業常用片語。ahead of schedule 則表示「進度超前」。"
+    },
+    {
+      "question_en": "We need to ___ a new solution to address this recurring problem.",
+      "options": [
+        "(A) come across",
+        "(B) come down with",
+        "(C) come into",
+        "(D) come up with"
+      ],
+      "answer": 3,
+      "explanation_zh": "「come up with」意為「想出、提出」，常用於提出新點子或方案。其他片語意義不同。"
+    },
+    {
+      "question_en": "The merger is expected to have a significant ___ on the stock price of our company.",
+      "options": [
+        "(A) affect",
+        "(B) affecting",
+        "(C) effect",
+        "(D) effective"
+      ],
+      "answer": 2,
+      "explanation_zh": "此處需要名詞，effect 為名詞「影響、效果」。affect 為動詞，不可用於此處。"
+    },
+    {
+      "question_en": "Our manager always ___ valuable advice to junior staff members.",
+      "options": [
+        "(A) makes",
+        "(B) does",
+        "(C) gives",
+        "(D) tells"
+      ],
+      "answer": 2,
+      "explanation_zh": "「give advice」是標準搭配。advice 為不可數名詞，不能與 make 或 do 搭配。"
+    },
+    {
+      "question_en": "The accountant will ___ all financial records before the audit.",
+      "options": [
+        "(A) carefully reviews",
+        "(B) carefully review",
+        "(C) review carefully",
+        "(D) reviewing carefully"
+      ],
+      "answer": 1,
+      "explanation_zh": "「carefully review」為固定副詞搭配，且 will 後須接原形動詞，故選 carefully review。"
+    },
+    {
+      "question_en": "After three months of preparation, we are ready to ___ the new marketing campaign.",
+      "options": [
+        "(A) carry on",
+        "(B) carry out",
+        "(C) carry over",
+        "(D) carry off"
+      ],
+      "answer": 1,
+      "explanation_zh": "「carry out」意為「執行、實施」，常用於計畫或任務。carry on 則為「繼續」。"
+    },
+    {
+      "question_en": "The HR department will ___ a thorough background check on all candidates.",
+      "options": [
+        "(A) make",
+        "(B) do",
+        "(C) conduct",
+        "(D) bring"
+      ],
+      "answer": 2,
+      "explanation_zh": "「conduct a check / investigation / survey」為正式商業搭配。conduct 比 do 更正式且專業。"
+    },
+    {
+      "question_en": "We sincerely ___ for the inconvenience caused by the system outage.",
+      "options": [
+        "(A) apologize",
+        "(B) apologise",
+        "(C) sorry",
+        "(D) regret"
+      ],
+      "answer": 0,
+      "explanation_zh": "「sincerely apologize」為固定副詞搭配，是正式商業道歉用語。sorry 為形容詞，不可直接用於此處。"
+    },
+    {
+      "question_en": "The committee will ___ the issue at the meeting next week.",
+      "options": [
+        "(A) speak",
+        "(B) talk",
+        "(C) say",
+        "(D) address"
+      ],
+      "answer": 3,
+      "explanation_zh": "「address an issue」意為「處理問題」，是商業正式用語。其他動詞無此用法。"
+    },
+    {
+      "question_en": "All team members should be ___ the same page regarding project goals.",
+      "options": [
+        "(A) in",
+        "(B) on",
+        "(C) at",
+        "(D) with"
+      ],
+      "answer": 1,
+      "explanation_zh": "「on the same page」為商業慣用語，意為「達成共識、想法一致」。"
+    },
+    {
+      "question_en": "The new manager hit the ground ___ on her first day at the office.",
+      "options": [
+        "(A) walking",
+        "(B) starting",
+        "(C) running",
+        "(D) moving"
+      ],
+      "answer": 2,
+      "explanation_zh": "「hit the ground running」為商業慣用語，意為「迅速進入狀況、立即展開行動」。"
+    },
+    {
+      "question_en": "Please ___ this form and return it to the HR department by Friday.",
+      "options": [
+        "(A) fill on",
+        "(B) fill at",
+        "(C) fill in",
+        "(D) fill by"
+      ],
+      "answer": 2,
+      "explanation_zh": "「fill in」或「fill out」均可指「填寫表格」。fill on/at/by 皆非正確搭配。"
+    },
+    {
+      "question_en": "The financial situation of the company has improved ___ the long run.",
+      "options": [
+        "(A) at",
+        "(B) on",
+        "(C) in",
+        "(D) for"
+      ],
+      "answer": 2,
+      "explanation_zh": "「in the long run」為固定片語，意為「長遠來看」。介系詞必須用 in。"
+    },
+    {
+      "question_en": "We must ___ our deadline to maintain the trust of our clients.",
+      "options": [
+        "(A) keep",
+        "(B) meet",
+        "(C) catch",
+        "(D) make"
+      ],
+      "answer": 1,
+      "explanation_zh": "「meet a deadline」是標準搭配，意為「按時完成、達到截止期限」。"
+    },
+    {
+      "question_en": "The training program will help employees ___ new skills quickly.",
+      "options": [
+        "(A) pick up",
+        "(B) pick out",
+        "(C) pick on",
+        "(D) pick over"
+      ],
+      "answer": 0,
+      "explanation_zh": "「pick up」意為「學會、掌握」技能或語言。其他選項意義不符。"
+    },
+    {
+      "question_en": "She was promoted because she consistently ___ responsibility for difficult tasks.",
+      "options": [
+        "(A) made",
+        "(B) did",
+        "(C) took",
+        "(D) had"
+      ],
+      "answer": 2,
+      "explanation_zh": "「take responsibility」是固定搭配，意為「承擔責任」。"
+    },
+    {
+      "question_en": "The CEO would like to ___ attention to the new safety protocols.",
+      "options": [
+        "(A) bring",
+        "(B) draw",
+        "(C) get",
+        "(D) put"
+      ],
+      "answer": 1,
+      "explanation_zh": "「draw attention to」為標準搭配，意為「引起對某事的注意」。"
+    },
+    {
+      "question_en": "We need to ___ a precedent for handling these types of complaints.",
+      "options": [
+        "(A) make",
+        "(B) do",
+        "(C) give",
+        "(D) set"
+      ],
+      "answer": 3,
+      "explanation_zh": "「set a precedent」是固定搭配，意為「建立先例」。"
+    },
+    {
+      "question_en": "The marketing report ___ of three main sections covering different regions.",
+      "options": [
+        "(A) comprises",
+        "(B) composes",
+        "(C) consists",
+        "(D) contains"
+      ],
+      "answer": 2,
+      "explanation_zh": "「consist of」為固定搭配，意為「由...組成」。comprise 不可與 of 連用；compose 為被動式 be composed of。"
+    },
+    {
+      "question_en": "Please ___ that all documents are signed before submission.",
+      "options": [
+        "(A) insure",
+        "(B) assure",
+        "(C) ensure",
+        "(D) reassure"
+      ],
+      "answer": 2,
+      "explanation_zh": "ensure 意為「確保（事情發生）」；insure 為「投保」；assure 為「向某人保證」。此處用 ensure 最適當。"
+    },
+    {
+      "question_en": "The two departments work well together; their skills ___ each other.",
+      "options": [
+        "(A) compliment",
+        "(B) complement",
+        "(C) complete",
+        "(D) compete"
+      ],
+      "answer": 1,
+      "explanation_zh": "complement 意為「互補」；compliment 為「讚美」。此處指技能互補，故用 complement。"
+    },
+    {
+      "question_en": "Our company operates on the ___ of transparency and integrity.",
+      "options": [
+        "(A) principal",
+        "(B) principle",
+        "(C) principally",
+        "(D) principals"
+      ],
+      "answer": 1,
+      "explanation_zh": "principle 為名詞「原則」；principal 為「主要的」或「校長/本金」。此處指原則，故用 principle。"
+    },
+    {
+      "question_en": "The financial advisor gave us ___ on long-term investments.",
+      "options": [
+        "(A) advise",
+        "(B) advices",
+        "(C) advice",
+        "(D) advisable"
+      ],
+      "answer": 2,
+      "explanation_zh": "advice 為名詞「建議」，不可數；advise 為動詞「建議」。此處需名詞，故選 advice。"
+    },
+    {
+      "question_en": "The new manager is very ___ to employee concerns and feedback.",
+      "options": [
+        "(A) sensible",
+        "(B) sensitive",
+        "(C) sensual",
+        "(D) senseless"
+      ],
+      "answer": 1,
+      "explanation_zh": "sensitive 意為「敏感的、體諒的」；sensible 意為「明智的、合理的」。此處指對員工感受敏銳，故用 sensitive。"
+    },
+    {
+      "question_en": "Buying in bulk is more ___ for small businesses.",
+      "options": [
+        "(A) economic",
+        "(B) economy",
+        "(C) economical",
+        "(D) economically"
+      ],
+      "answer": 2,
+      "explanation_zh": "economical 意為「節省的、划算的」；economic 意為「經濟的、與經濟學相關的」。此處指划算，故用 economical。"
+    },
+    {
+      "question_en": "The new intern was asked to ___ the duties of the senior manager during her vacation.",
+      "options": [
+        "(A) take on",
+        "(B) take over",
+        "(C) take up",
+        "(D) take off"
+      ],
+      "answer": 1,
+      "explanation_zh": "「take over」意為「接手、接管」職務或業務。take on 為「承擔」；take up 為「開始從事」。"
+    },
+    {
+      "question_en": "The proposal was ___ until further notice due to budget constraints.",
+      "options": [
+        "(A) put up",
+        "(B) put on",
+        "(C) put off",
+        "(D) put out"
+      ],
+      "answer": 2,
+      "explanation_zh": "「put off」意為「延後、推遲」。其他片語意義不同。"
+    },
+    {
+      "question_en": "We have ___ funds for the marketing campaign this month.",
+      "options": [
+        "(A) run out",
+        "(B) run out of",
+        "(C) run from",
+        "(D) run off"
+      ],
+      "answer": 1,
+      "explanation_zh": "「run out of」意為「用完、耗盡」，後接受詞。run out 後不可直接接名詞。"
+    },
+    {
+      "question_en": "Please ___ your timesheet to your supervisor by 5 PM Friday.",
+      "options": [
+        "(A) hand on",
+        "(B) hand in",
+        "(C) hand off",
+        "(D) hand up"
+      ],
+      "answer": 1,
+      "explanation_zh": "「hand in」意為「繳交、提交」文件或作業。其他片語意義不符。"
+    },
+    {
+      "question_en": "The IT team will ___ the new server system next weekend.",
+      "options": [
+        "(A) set out",
+        "(B) set off",
+        "(C) set down",
+        "(D) set up"
+      ],
+      "answer": 3,
+      "explanation_zh": "「set up」意為「設置、建立」系統或設備。set out 為「啟程、開始」。"
+    },
+    {
+      "question_en": "We need to ___ all the documents before the meeting starts.",
+      "options": [
+        "(A) go through",
+        "(B) go on",
+        "(C) go over",
+        "(D) go for"
+      ],
+      "answer": 2,
+      "explanation_zh": "「go over」意為「仔細檢查、複習」文件或細節。go through 也可，但 go over 更強調逐項審視。"
+    },
+    {
+      "question_en": "The accountant will ___ the discrepancy in the financial report.",
+      "options": [
+        "(A) find out",
+        "(B) figure out",
+        "(C) work out",
+        "(D) figure on"
+      ],
+      "answer": 1,
+      "explanation_zh": "「figure out」意為「弄清楚、搞懂」原因或答案。find out 強調「發現」資訊。"
+    },
+    {
+      "question_en": "The company has a ___ schedule due to multiple upcoming product launches.",
+      "options": [
+        "(A) narrow",
+        "(B) close",
+        "(C) thin",
+        "(D) tight"
+      ],
+      "answer": 3,
+      "explanation_zh": "「tight schedule」為固定搭配，意為「行程緊湊」。其他形容詞不可與 schedule 形成此意。"
+    },
+    {
+      "question_en": "Senior management plays a ___ role in shaping company strategy.",
+      "options": [
+        "(A) main",
+        "(B) key",
+        "(C) chief",
+        "(D) major"
+      ],
+      "answer": 1,
+      "explanation_zh": "「key role」為固定搭配，意為「關鍵角色」。雖然 main 和 major 也可用於某些情境，但「key role」是最常用的商業搭配。"
+    },
+    {
+      "question_en": "Please share any ___ information that may help with the investigation.",
+      "options": [
+        "(A) alive",
+        "(B) live",
+        "(C) vital",
+        "(D) lively"
+      ],
+      "answer": 2,
+      "explanation_zh": "「vital information」為固定搭配，意為「重要資訊」。其他形容詞意義不同。"
+    },
+    {
+      "question_en": "The auditor conducted a ___ review of all financial transactions.",
+      "options": [
+        "(A) compromised",
+        "(B) comprehensible",
+        "(C) comprised",
+        "(D) comprehensive"
+      ],
+      "answer": 3,
+      "explanation_zh": "「comprehensive review」意為「全面審查」，是商業常用搭配。其他選項意義不符。"
+    },
+    {
+      "question_en": "Many shareholders ___ concerns about the financial direction of the company.",
+      "options": [
+        "(A) rose",
+        "(B) raised",
+        "(C) arose",
+        "(D) arisen"
+      ],
+      "answer": 1,
+      "explanation_zh": "raise 為及物動詞，意為「提出（問題、疑慮）」；rise 為不及物動詞。此處 concerns 為受詞，故用 raised。"
+    },
+    {
+      "question_en": "The dissatisfied customer filed a formal ___ with the customer service department.",
+      "options": [
+        "(A) protest",
+        "(B) objection",
+        "(C) complaint",
+        "(D) appeal"
+      ],
+      "answer": 2,
+      "explanation_zh": "「file a complaint」為固定搭配，意為「提出正式投訴」。其他名詞與 file 搭配意義不同。"
+    },
+    {
+      "question_en": "We highly ___ your continued support during this transition period.",
+      "options": [
+        "(A) thank",
+        "(B) appreciate",
+        "(C) regard",
+        "(D) consider"
+      ],
+      "answer": 1,
+      "explanation_zh": "「highly appreciate」為固定副詞搭配。其他動詞不可與 highly 形成此種商業用語。"
+    },
+    {
+      "question_en": "We should try to ___ the box and develop innovative marketing strategies.",
+      "options": [
+        "(A) think inside",
+        "(B) think outside",
+        "(C) think within",
+        "(D) think around"
+      ],
+      "answer": 1,
+      "explanation_zh": "「think outside the box」為商業慣用語，意為「跳脫框架思考、創新思維」。"
+    },
+    {
+      "question_en": "It is time to get the ball ___ on the new product development.",
+      "options": [
+        "(A) running",
+        "(B) rolling",
+        "(C) moving",
+        "(D) starting"
+      ],
+      "answer": 1,
+      "explanation_zh": "「get the ball rolling」為商業慣用語，意為「啟動、開始進行」。"
+    },
+    {
+      "question_en": "The new CEO aims to ___ the bar for customer service standards.",
+      "options": [
+        "(A) lift",
+        "(B) rise",
+        "(C) raise",
+        "(D) climb"
+      ],
+      "answer": 2,
+      "explanation_zh": "「raise the bar」為慣用語，意為「提高標準」。raise 為及物動詞，bar 為受詞。"
+    },
+    {
+      "question_en": "The investigator will ___ examine all the evidence before reaching a conclusion.",
+      "options": [
+        "(A) thorough",
+        "(B) through",
+        "(C) throughout",
+        "(D) thoroughly"
+      ],
+      "answer": 3,
+      "explanation_zh": "「thoroughly examine」為固定副詞搭配。thoroughly 為副詞修飾動詞 examine。"
+    },
+    {
+      "question_en": "After 20 years of service, he decided to ___ from his position as director.",
+      "options": [
+        "(A) step up",
+        "(B) step down",
+        "(C) step in",
+        "(D) step out"
+      ],
+      "answer": 1,
+      "explanation_zh": "「step down」意為「辭職、退位」，常用於高層職位。step up 為「挺身而出」。"
+    },
+    {
+      "question_en": "The new vice president will ___ a key role in restructuring the company.",
+      "options": [
+        "(A) make",
+        "(B) play",
+        "(C) do",
+        "(D) take"
+      ],
+      "answer": 1,
+      "explanation_zh": "「play a role」是固定搭配，意為「扮演角色、發揮作用」。"
+    },
+    {
+      "question_en": "Sales figures have ___ significantly this quarter compared to last year.",
+      "options": [
+        "(A) raised",
+        "(B) risen",
+        "(C) raise",
+        "(D) rose"
+      ],
+      "answer": 1,
+      "explanation_zh": "rise 為不及物動詞，過去分詞為 risen；raise 為及物動詞，須接受詞。此處用現在完成式 have risen。"
+    },
+    {
+      "question_en": "Please ___ the documents on the conference table before the meeting begins.",
+      "options": [
+        "(A) lie",
+        "(B) lay",
+        "(C) lain",
+        "(D) lied"
+      ],
+      "answer": 1,
+      "explanation_zh": "lay 為及物動詞「放置」，後接受詞 documents；lie 為不及物動詞「躺、位於」。此處需及物動詞 lay。"
+    },
+    {
+      "question_en": "The receptionist gave the visitor a warm ___ on his appearance.",
+      "options": [
+        "(A) complement",
+        "(B) compliment",
+        "(C) commitment",
+        "(D) component"
+      ],
+      "answer": 1,
+      "explanation_zh": "compliment 意為「讚美」；complement 意為「補充、互補」。此處指讚美，故用 compliment。"
+    },
+    {
+      "question_en": "The contract negotiations are ___ the cards for next month.",
+      "options": [
+        "(A) in",
+        "(B) on",
+        "(C) at",
+        "(D) for"
+      ],
+      "answer": 1,
+      "explanation_zh": "「on the cards」為英式慣用語，意為「即將發生、可能性高」。介系詞為 on。"
+    },
+    {
+      "question_en": "The CFO had to ___ a back seat during the marketing presentation.",
+      "options": [
+        "(A) make",
+        "(B) sit",
+        "(C) take",
+        "(D) have"
+      ],
+      "answer": 2,
+      "explanation_zh": "「take a back seat」為慣用語，意為「退居次要地位、不主導」。"
+    },
+    {
+      "question_en": "The project leader is responsible for ___ through on all commitments.",
+      "options": [
+        "(A) following",
+        "(B) seeing",
+        "(C) carrying",
+        "(D) going"
+      ],
+      "answer": 0,
+      "explanation_zh": "「follow through」意為「貫徹執行、徹底完成」。此句強調履行承諾。"
+    },
+    {
+      "question_en": "Employees are looking ___ to the annual company retreat next month.",
+      "options": [
+        "(A) ahead",
+        "(B) up",
+        "(C) for",
+        "(D) forward"
+      ],
+      "answer": 3,
+      "explanation_zh": "「look forward to」為固定片語，意為「期待」，後接名詞或動名詞。"
+    },
+    {
+      "question_en": "The team needs to ___ a strict deadline to complete the project on time.",
+      "options": [
+        "(A) follow",
+        "(B) meet",
+        "(C) keep",
+        "(D) hit"
+      ],
+      "answer": 1,
+      "explanation_zh": "「meet a deadline」為標準搭配，意為「按時完成」。strict deadline 也是固定搭配，意為「嚴格期限」。"
+    },
+    {
+      "question_en": "The marketing department will ___ a survey to gather customer feedback.",
+      "options": [
+        "(A) make",
+        "(B) do",
+        "(C) conduct",
+        "(D) take"
+      ],
+      "answer": 2,
+      "explanation_zh": "「conduct a survey」為固定商業搭配，意為「進行調查」。conduct 比 do 或 make 更正式。"
+    },
+    {
+      "question_en": "The new regulations will have a ___ impact on small businesses.",
+      "options": [
+        "(A) significant",
+        "(B) signified",
+        "(C) signifying",
+        "(D) significantly"
+      ],
+      "answer": 0,
+      "explanation_zh": "「significant impact」為固定形容詞名詞搭配，意為「重大影響」。需用形容詞修飾名詞 impact。"
+    },
+    {
+      "question_en": "Please ___ careful attention to the safety guidelines during the training.",
+      "options": [
+        "(A) make",
+        "(B) pay",
+        "(C) take",
+        "(D) give"
+      ],
+      "answer": 1,
+      "explanation_zh": "「pay attention to」是固定搭配，意為「注意」。其他動詞不可與 attention 形成此意。"
+    },
+    {
+      "question_en": "The accountant will ___ the budget figures by the end of the week.",
+      "options": [
+        "(A) work on",
+        "(B) work out",
+        "(C) work up",
+        "(D) work in"
+      ],
+      "answer": 1,
+      "explanation_zh": "「work out」意為「計算、解決」；work on 為「致力於」。此處指計算出數字，故用 work out。"
+    },
+    {
+      "question_en": "Our company has been ___ business with them for over a decade.",
+      "options": [
+        "(A) making",
+        "(B) taking",
+        "(C) having",
+        "(D) doing"
+      ],
+      "answer": 3,
+      "explanation_zh": "「do business with」為固定搭配，意為「與...做生意」。其他動詞均不可用於此意。"
+    },
+    {
+      "question_en": "The IT department will ___ a security audit next week.",
+      "options": [
+        "(A) make",
+        "(B) carry out",
+        "(C) bring up",
+        "(D) take in"
+      ],
+      "answer": 1,
+      "explanation_zh": "「carry out」意為「執行、實施」，常用於計畫、任務或審查。其他選項意義不符。"
+    },
+    {
+      "question_en": "She was praised for her ability to ___ a profit even in difficult markets.",
+      "options": [
+        "(A) do",
+        "(B) take",
+        "(C) get",
+        "(D) make"
+      ],
+      "answer": 3,
+      "explanation_zh": "「make a profit」是固定搭配，意為「賺取利潤」。其他動詞不可與 profit 形成此意。"
+    },
+    {
+      "question_en": "The HR manager will ___ an interview with each candidate next Monday.",
+      "options": [
+        "(A) make",
+        "(B) take",
+        "(C) do",
+        "(D) have"
+      ],
+      "answer": 3,
+      "explanation_zh": "「have an interview」為標準搭配，意為「進行面試」。conduct an interview 也常用，但選項中只有 have 適合。"
+    },
+    {
+      "question_en": "We must ___ all client information confidential at all times.",
+      "options": [
+        "(A) hold",
+        "(B) make",
+        "(C) keep",
+        "(D) take"
+      ],
+      "answer": 2,
+      "explanation_zh": "「keep confidential」為固定搭配，意為「保密」。其他動詞不可與 confidential 形成此意。"
+    },
+    {
+      "question_en": "The board has agreed to ___ a long-term strategy for international expansion.",
+      "options": [
+        "(A) prepare",
+        "(B) propose",
+        "(C) draft",
+        "(D) adopt"
+      ],
+      "answer": 3,
+      "explanation_zh": "「adopt a strategy」為固定搭配，意為「採用策略」。其他動詞雖文法可，但商業情境中 adopt 最為標準。"
+    },
+    {
+      "question_en": "All staff are required to ___ by the code of conduct of the company.",
+      "options": [
+        "(A) abide",
+        "(B) follow",
+        "(C) obey",
+        "(D) keep"
+      ],
+      "answer": 0,
+      "explanation_zh": "「abide by」為固定片語，意為「遵守（規則、法律）」。其他動詞不可與 by 形成此搭配。"
+    },
+    {
+      "question_en": "The CEO ___ from her position after the controversy.",
+      "options": [
+        "(A) retired",
+        "(B) refused",
+        "(C) rejected",
+        "(D) resigned"
+      ],
+      "answer": 3,
+      "explanation_zh": "resign 意為「辭職」；retire 意為「退休」。因醜聞而離職用 resign 較適當。"
+    },
+    {
+      "question_en": "Our department needs to ___ costs without sacrificing quality.",
+      "options": [
+        "(A) cut off",
+        "(B) cut up",
+        "(C) cut down",
+        "(D) cut in"
+      ],
+      "answer": 2,
+      "explanation_zh": "「cut down」意為「削減、減少」。cut off 為「切斷」；其他選項意義不符。"
+    },
+    {
+      "question_en": "The new employee was asked to ___ several responsibilities at once.",
+      "options": [
+        "(A) take in",
+        "(B) take on",
+        "(C) take off",
+        "(D) take up"
+      ],
+      "answer": 1,
+      "explanation_zh": "「take on」意為「承擔（責任、工作）」。take in 為「理解、收留」；其他意義不符。"
+    },
+    {
+      "question_en": "Sales have been ___ steadily over the past six months.",
+      "options": [
+        "(A) growing",
+        "(B) raising",
+        "(C) increasing",
+        "(D) Both A and C"
+      ],
+      "answer": 3,
+      "explanation_zh": "grow 與 increase 均為不及物動詞，可用於描述銷售增長；raise 為及物動詞，須接受詞，此處不適用。"
+    },
+    {
+      "question_en": "The marketing team came up ___ a brilliant new campaign idea.",
+      "options": [
+        "(A) of",
+        "(B) on",
+        "(C) with",
+        "(D) for"
+      ],
+      "answer": 2,
+      "explanation_zh": "「come up with」為固定片語，意為「想出、提出」。介系詞必須為 with。"
+    },
+    {
+      "question_en": "The financial report ___ light on the performance issues of the company.",
+      "options": [
+        "(A) brings",
+        "(B) puts",
+        "(C) makes",
+        "(D) sheds"
+      ],
+      "answer": 3,
+      "explanation_zh": "「shed light on」為慣用語，意為「闡明、揭示」。其他動詞不可與 light 形成此意。"
+    },
+    {
+      "question_en": "We should ___ the difference and focus on what we agree on.",
+      "options": [
+        "(A) put away",
+        "(B) put aside",
+        "(C) put up",
+        "(D) put down"
+      ],
+      "answer": 1,
+      "explanation_zh": "「put aside」意為「暫時擱置、放下」。put away 為「收起、儲存」；意義不同。"
+    },
+    {
+      "question_en": "The board meeting was ___ until next Friday due to scheduling conflicts.",
+      "options": [
+        "(A) cancelled",
+        "(B) advanced",
+        "(C) postponed",
+        "(D) replaced"
+      ],
+      "answer": 2,
+      "explanation_zh": "postpone 意為「延後、推遲」，與 until next Friday 搭配最為合適。cancel 為「取消」。"
+    },
+    {
+      "question_en": "All employees are required to ___ in for work by 9 AM sharp.",
+      "options": [
+        "(A) check",
+        "(B) clock",
+        "(C) sign",
+        "(D) Both B and C"
+      ],
+      "answer": 3,
+      "explanation_zh": "clock in 和 sign in 均為「上班打卡簽到」的常見用法。check in 多用於旅館或機場。"
+    },
+    {
+      "question_en": "The instructions from the supervisor were ___ enough for everyone to understand.",
+      "options": [
+        "(A) clearly",
+        "(B) clear",
+        "(C) cleared",
+        "(D) clearing"
+      ],
+      "answer": 1,
+      "explanation_zh": "此處需形容詞修飾主詞 instructions，配合 be 動詞 were。clearly 為副詞，不可用於此處。"
+    },
+    {
+      "question_en": "The negotiation team is ___ the verge of closing the deal.",
+      "options": [
+        "(A) at",
+        "(B) in",
+        "(C) on",
+        "(D) by"
+      ],
+      "answer": 2,
+      "explanation_zh": "「on the verge of」為固定片語，意為「瀕臨、即將」。介系詞必須為 on。"
+    },
+    {
+      "question_en": "Our supplier has consistently delivered products of ___ quality.",
+      "options": [
+        "(A) tall",
+        "(B) big",
+        "(C) large",
+        "(D) high"
+      ],
+      "answer": 3,
+      "explanation_zh": "「high quality」為固定搭配，意為「高品質」。其他形容詞不能與 quality 搭配。"
+    },
+    {
+      "question_en": "The new software is designed to ___ workflow and reduce errors.",
+      "options": [
+        "(A) streamlined",
+        "(B) stream",
+        "(C) streamline",
+        "(D) streaming"
+      ],
+      "answer": 2,
+      "explanation_zh": "此處 to 後須接原形動詞。streamline 意為「簡化、使更有效率」，常用於描述流程改善。"
+    },
+    {
+      "question_en": "The committee will ___ the proposal before the next board meeting.",
+      "options": [
+        "(A) look up",
+        "(B) look after",
+        "(C) look into",
+        "(D) look down"
+      ],
+      "answer": 2,
+      "explanation_zh": "「look into」意為「調查、研究」。look up 為「查閱」；look after 為「照顧」。"
+    },
+    {
+      "question_en": "The new policy will ___ effect from January 1st next year.",
+      "options": [
+        "(A) make",
+        "(B) take",
+        "(C) have",
+        "(D) bring"
+      ],
+      "answer": 1,
+      "explanation_zh": "「take effect」為固定搭配，意為「生效」。其他動詞不可與 effect 形成此意。"
+    },
+    {
+      "question_en": "Despite challenges, the company managed to ___ profitable throughout the year.",
+      "options": [
+        "(A) remain",
+        "(B) keep",
+        "(C) stay",
+        "(D) Both A and C"
+      ],
+      "answer": 3,
+      "explanation_zh": "remain 和 stay 均可作連綴動詞，後接形容詞表示「保持某種狀態」。keep 通常需要受詞或反身代名詞。"
+    },
+    {
+      "question_en": "Please ___ a moment to review the terms before signing the contract.",
+      "options": [
+        "(A) make",
+        "(B) have",
+        "(C) take",
+        "(D) do"
+      ],
+      "answer": 2,
+      "explanation_zh": "「take a moment」為固定搭配，意為「花一點時間」。其他動詞不可與 moment 形成此意。"
+    },
+    {
+      "question_en": "The company has ___ a partnership with a leading tech firm.",
+      "options": [
+        "(A) made",
+        "(B) formed",
+        "(C) done",
+        "(D) taken"
+      ],
+      "answer": 1,
+      "explanation_zh": "「form a partnership」為標準商業搭配，意為「建立合作關係」。其他動詞不適合。"
+    },
+    {
+      "question_en": "All managers must ___ to the strict ethical standards of the company.",
+      "options": [
+        "(A) follow",
+        "(B) keep",
+        "(C) hold",
+        "(D) adhere"
+      ],
+      "answer": 3,
+      "explanation_zh": "「adhere to」為固定片語，意為「遵守、堅持」。其他動詞不可與 to 形成此搭配。"
+    },
+    {
+      "question_en": "The new project will ___ collaboration between two major departments.",
+      "options": [
+        "(A) involve",
+        "(B) include",
+        "(C) contain",
+        "(D) consist"
+      ],
+      "answer": 0,
+      "explanation_zh": "involve 意為「需要、牽涉」；此句指項目需要跨部門合作。consist 須與 of 連用。"
+    },
+    {
+      "question_en": "We need to ___ the budget for next quarter as soon as possible.",
+      "options": [
+        "(A) finalize",
+        "(B) final",
+        "(C) finally",
+        "(D) finals"
+      ],
+      "answer": 0,
+      "explanation_zh": "此處 to 後須接原形動詞。finalize 意為「敲定、定案」。其他選項皆非動詞。"
+    },
+    {
+      "question_en": "The presentation must ___ to the level of expertise of the audience.",
+      "options": [
+        "(A) cater",
+        "(B) provide",
+        "(C) serve",
+        "(D) supply"
+      ],
+      "answer": 0,
+      "explanation_zh": "「cater to」為固定片語，意為「迎合、滿足（需求）」。其他動詞不可與 to 形成此意。"
+    },
+    {
+      "question_en": "The two products are ___ in terms of features and pricing.",
+      "options": [
+        "(A) comparable",
+        "(B) compared",
+        "(C) comparing",
+        "(D) compare"
+      ],
+      "answer": 0,
+      "explanation_zh": "此處 be 動詞後須接形容詞。comparable 意為「可比較的、相當的」。"
+    },
+    {
+      "question_en": "The CEO emphasized the ___ of teamwork in achieving company goals.",
+      "options": [
+        "(A) importance",
+        "(B) important",
+        "(C) importantly",
+        "(D) imported"
+      ],
+      "answer": 0,
+      "explanation_zh": "the 後須接名詞。importance 為名詞「重要性」；important 為形容詞。"
+    },
+    {
+      "question_en": "Our team is ___ capable of handling the new project.",
+      "options": [
+        "(A) full",
+        "(B) fully",
+        "(C) fill",
+        "(D) filling"
+      ],
+      "answer": 1,
+      "explanation_zh": "此處需副詞修飾形容詞 capable。fully 為副詞，意為「完全地」。"
+    },
+    {
+      "question_en": "The merger will ___ the market positions of both companies significantly.",
+      "options": [
+        "(A) strengthen",
+        "(B) strong",
+        "(C) strongly",
+        "(D) strength"
+      ],
+      "answer": 0,
+      "explanation_zh": "此處 will 後須接原形動詞。strengthen 意為「加強、強化」。strong 為形容詞；strength 為名詞。"
+    },
+    {
+      "question_en": "The new policy will be ___ effective immediately.",
+      "options": [
+        "(A) put into practice",
+        "(B) put on practice",
+        "(C) put for practice",
+        "(D) put at practice"
+      ],
+      "answer": 0,
+      "explanation_zh": "「put into practice」為固定片語，意為「付諸實行」。介系詞必須為 into。"
+    },
+    {
+      "question_en": "The manager will ___ the performance of each employee during the review.",
+      "options": [
+        "(A) evaluate",
+        "(B) value",
+        "(C) valuable",
+        "(D) evaluation"
+      ],
+      "answer": 0,
+      "explanation_zh": "此處 will 後須接原形動詞。evaluate 意為「評估、評價」。其他選項皆非適當動詞形式。"
+    },
+    {
+      "question_en": "The negotiation broke ___ after both sides refused to compromise.",
+      "options": [
+        "(A) up",
+        "(B) in",
+        "(C) out",
+        "(D) down"
+      ],
+      "answer": 3,
+      "explanation_zh": "「break down」意為「破裂、失敗」，常用於談判、關係或機器故障。其他片語意義不符。"
     }
   ]
 }
