@@ -365,12 +365,19 @@ function fmtQuizKo(item) {
   return html;
 }
 
-function fmtSceneKo(item, storyTitle) {
-  const reversed = state.dir === "zh";
-  let html = `<div class="story-banner">` +
-    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
+function fmtStoryBanner(num, title) {
+  return `<div class="story-banner">` +
+    `<div class="story-title">` +
+      `<span class="story-prefix">📖 ${escapeHTML(num)}</span>` +
+      `<span class="story-text">${escapeHTML(title)}</span>` +
+    `</div>` +
     `<button class="story-switch" type="button">換故事</button>` +
     `</div>`;
+}
+
+function fmtSceneKo(item, num, title) {
+  const reversed = state.dir === "zh";
+  let html = fmtStoryBanner(num, title);
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -415,12 +422,9 @@ function fmtQuizToeic(item) {
   return html;
 }
 
-function fmtSceneToeic(item, storyTitle) {
+function fmtSceneToeic(item, num, title) {
   const reversed = state.dir === "zh";
-  let html = `<div class="story-banner">` +
-    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
-    `<button class="story-switch" type="button">換故事</button>` +
-    `</div>`;
+  let html = fmtStoryBanner(num, title);
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -433,12 +437,9 @@ function fmtSceneToeic(item, storyTitle) {
   return html;
 }
 
-function fmtScene(item, storyTitle) {
+function fmtScene(item, num, title) {
   const dir = state.dir === "zh" ? "zh" : "ja";
-  let html = `<div class="story-banner">` +
-    `<span class="story-title">📖 ${escapeHTML(storyTitle)}</span>` +
-    `<button class="story-switch" type="button">換故事</button>` +
-    `</div>`;
+  let html = fmtStoryBanner(num, title);
   if (dir === "ja") {
     html += `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
     if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
@@ -479,8 +480,8 @@ function formatEntry(entry) {
     if (entry.kind === "scene") {
       const idx = TOEIC_STORIES.findIndex(s => s.key === entry.key);
       const story = TOEIC_STORIES[idx];
-      const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + ". " : "";
-      return fmtSceneToeic(entry.item, num + (story?.title || ""));
+      const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + "." : "";
+      return fmtSceneToeic(entry.item, num, story?.title || "");
     }
     return "";
   }
@@ -494,9 +495,9 @@ function formatEntry(entry) {
     const list = ko ? KOREAN_STORIES : STORIES;
     const idx = list.findIndex(s => s.key === entry.key);
     const story = list[idx];
-    const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + ". " : "";
-    return ko ? fmtSceneKo(entry.item, num + (story?.title || ""))
-              : fmtScene(entry.item, num + (story?.title || ""));
+    const num = idx >= 0 ? String(idx + 1).padStart(2, "0") + "." : "";
+    return ko ? fmtSceneKo(entry.item, num, story?.title || "")
+              : fmtScene(entry.item, num, story?.title || "");
   }
   return "";
 }

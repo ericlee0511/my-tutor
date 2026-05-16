@@ -206,7 +206,7 @@ main {
 .story-banner {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   gap: 8px;
   padding: 8px 12px;
   margin-bottom: 12px;
@@ -218,9 +218,18 @@ main {
   color: var(--text);
   flex: 1;
   min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  display: flex;
+  gap: 6px;
+  align-items: flex-start;
+}
+.story-prefix {
+  flex-shrink: 0;
   white-space: nowrap;
+}
+.story-text {
+  flex: 1;
+  min-width: 0;
+  word-break: break-word;
 }
 .story-switch {
   background: transparent;
