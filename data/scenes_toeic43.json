@@ -1,0 +1,29 @@
+{
+  "title": "Mandatory Cybersecurity Awareness Training",
+  "all": [
+    { "en": "All employees are required to complete the annual cybersecurity awareness training.", "zh": "全體員工須完成年度資安意識訓練。" },
+    { "en": "This training helps protect company data and customer information.", "zh": "本訓練有助於保護公司資料與客戶資訊安全。" },
+    { "en": "It is part of our ongoing commitment to information security best practices.", "zh": "此為本公司持續推動資安最佳實務承諾的一環。" },
+    { "en": "The course is available on the corporate learning platform starting March 1.", "zh": "本課程自 3 月 1 日起於企業學習平台上線。" },
+    { "en": "Employees must complete the training by March 31 at the latest.", "zh": "員工最遲須於 3 月 31 日前完成訓練。" },
+    { "en": "The full course takes approximately ninety minutes to complete.", "zh": "完整課程約需九十分鐘完成。" },
+    { "en": "It can be done in multiple sessions to fit your work schedule.", "zh": "可分次進行，方便配合工作時程。" },
+    { "en": "The training covers phishing emails, password hygiene, and safe browsing.", "zh": "訓練內容涵蓋釣魚郵件、密碼管理與安全瀏覽。" },
+    { "en": "It also explains how to handle suspicious links and unexpected attachments.", "zh": "並說明如何處理可疑連結與非預期附件。" },
+    { "en": "A new module on remote work security has been added this year.", "zh": "今年新增遠端工作資安專屬單元。" },
+    { "en": "Another new module focuses on protecting mobile devices.", "zh": "另一新單元聚焦於行動裝置防護。" },
+    { "en": "Short quizzes will appear after each section to reinforce key concepts.", "zh": "每個單元結束後將安排簡短測驗以強化重點觀念。" },
+    { "en": "A passing score of eighty percent is required to receive credit.", "zh": "須達 80 分以上方可取得認證學分。" },
+    { "en": "Employees may retake quizzes as many times as needed.", "zh": "員工可視需要多次重複作答測驗。" },
+    { "en": "Managers will receive a weekly progress report for their teams.", "zh": "主管將每週收到所屬團隊的進度報告。" },
+    { "en": "Completion of this training is mandatory for continued system access.", "zh": "完成本訓練是維持系統使用權限的必要條件。" },
+    { "en": "Employees who do not complete the training may temporarily lose network access.", "zh": "未完成訓練者可能暫時失去網路使用權限。" },
+    { "en": "If you suspect a phishing attempt, please forward the message to phish@company.com.", "zh": "如懷疑遭遇釣魚攻擊，請將郵件轉寄至 phish@company.com。" },
+    { "en": "Never share your password with anyone, including IT staff.", "zh": "請勿將密碼提供給任何人，包括 IT 人員。" },
+    { "en": "Always lock your computer when stepping away from your desk.", "zh": "離開座位時務必鎖定您的電腦。" },
+    { "en": "Use only company-approved software and cloud storage services.", "zh": "僅可使用公司核准的軟體與雲端儲存服務。" },
+    { "en": "Report any lost or stolen devices to the help desk immediately.", "zh": "如遺失或遭竊任何裝置，請立即通報服務窗口。" },
+    { "en": "Quarterly simulated phishing tests will continue throughout the year.", "zh": "本年度將持續每季進行釣魚演練。" },
+    { "en": "Thank you for helping us keep our organization safe and secure.", "zh": "感謝您共同維護組織的安全與資訊保護。" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Online Order Shipping Update",
+  "all": [
+    { "en": "Hello Mr. Carter, we have great news regarding your recent online order.", "zh": "Carter 先生您好，關於您近期的線上訂單，我們有好消息要通知您。" },
+    { "en": "Your order number SH-783291 has now been packed and is ready for shipment.", "zh": "您的訂單編號 SH-783291 已完成包裝，準備出貨。" },
+    { "en": "The package was handed over to our delivery partner earlier this morning.", "zh": "包裹已於今天稍早交給我們的物流合作夥伴。" },
+    { "en": "It is being shipped via FastTrack Express with a tracking number provided.", "zh": "包裹將透過 FastTrack Express 寄送，並附有追蹤編號。" },
+    { "en": "You can track your shipment using the reference number FT9923847501.", "zh": "您可使用追蹤編號 FT9923847501 查詢出貨狀態。" },
+    { "en": "Tracking information is available at www.fasttrack-express.com.", "zh": "追蹤資訊請至 www.fasttrack-express.com 查詢。" },
+    { "en": "Based on current routing, delivery is expected within two to three business days.", "zh": "依目前運送路徑，預計兩至三個工作天內送達。" },
+    { "en": "The package will be delivered to the address listed at checkout.", "zh": "包裹將寄送至您結帳時所登記的地址。" },
+    { "en": "Please ensure that someone is available to receive the parcel.", "zh": "請確保有人在場簽收包裹。" },
+    { "en": "A signature will be required upon delivery due to the order value.", "zh": "因訂單金額較高，送達時需要簽名確認。" },
+    { "en": "If no one is home, the driver will leave a notice with rescheduling options.", "zh": "若無人在家，司機將留下通知單並提供改期選項。" },
+    { "en": "You may reschedule delivery for up to seven days at no additional charge.", "zh": "您可免費改期最多七天。" },
+    { "en": "Your order includes one laptop stand and two USB-C docking adapters.", "zh": "您的訂單包含一個筆電支架及兩個 USB-C 擴充座。" },
+    { "en": "All items were inspected and tested before being placed in the package.", "zh": "所有商品於包裝前皆經過檢查與測試。" },
+    { "en": "Original packaging and a printed invoice are included inside the box.", "zh": "盒內附有原廠包裝及紙本發票。" },
+    { "en": "If you ordered as a gift, you will also find a complimentary gift card.", "zh": "若您是作為禮品訂購，盒內也會附上免費禮品卡。" },
+    { "en": "Please inspect the contents upon arrival and report any damage immediately.", "zh": "請於收件後立即檢查內容，並盡速回報任何損壞。" },
+    { "en": "Damage claims must be submitted within 48 hours of delivery.", "zh": "損壞申訴須於送達後 48 小時內提出。" },
+    { "en": "Returns are accepted within 30 days using our prepaid return label.", "zh": "退貨請於 30 天內透過我們的預付退貨標籤辦理。" },
+    { "en": "The return label can be downloaded from your customer account page.", "zh": "退貨標籤可於您的顧客帳戶頁面下載。" },
+    { "en": "We hope you will be completely satisfied with your purchase.", "zh": "我們希望您對此次購物完全滿意。" },
+    { "en": "Your feedback helps us continue to improve our products and services.", "zh": "您的回饋有助於我們持續改善產品與服務。" },
+    { "en": "For any questions, please contact our support team at help@shopline.com.", "zh": "如有任何疑問，請來信至 help@shopline.com 聯繫客服團隊。" },
+    { "en": "Thank you for shopping with us, and we appreciate your continued trust.", "zh": "感謝您於本站購物，並感謝您持續的信任。" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Flight Delay Notification",
+  "all": [
+    { "en": "Dear passenger, this is an important update regarding your upcoming flight.", "zh": "親愛的旅客，這是關於您即將搭乘航班的重要通知。" },
+    { "en": "Your flight, Skyline Airlines 442, has been delayed by approximately 90 minutes.", "zh": "您的 Skyline 航空 442 班機已延誤約 90 分鐘。" },
+    { "en": "The new estimated departure time is 4:15 in the afternoon today.", "zh": "新的預計起飛時間為今日下午四點十五分。" },
+    { "en": "The flight will still depart from gate B12 at the international terminal.", "zh": "航班仍將自國際航廈 B12 登機門起飛。" },
+    { "en": "We sincerely apologize for the inconvenience that this delay may cause.", "zh": "對此延誤可能造成的不便，我們深表歉意。" },
+    { "en": "The cause of the delay is severe weather conditions at the departure airport.", "zh": "延誤原因為出發機場的惡劣天氣。" },
+    { "en": "Air traffic control has issued a temporary ground hold for safety reasons.", "zh": "航管基於安全考量已發布臨時地面停飛指示。" },
+    { "en": "Passenger safety remains our highest priority during all flight operations.", "zh": "旅客安全在所有航班作業中始終是我們的首要考量。" },
+    { "en": "Boarding is now scheduled to begin at 3:30 in the afternoon.", "zh": "登機時間現訂於下午三點三十分開始。" },
+    { "en": "Please remain near gate B12 and listen for further announcements.", "zh": "請於 B12 登機門附近候機，並注意後續廣播。" },
+    { "en": "If you require any assistance, our gate agents are happy to help.", "zh": "如需任何協助，我們的登機門服務人員樂意為您效勞。" },
+    { "en": "Complimentary refreshments are available at the gate area starting at 2 p.m.", "zh": "登機門區自下午兩點起提供免費茶點。" },
+    { "en": "Premium cabin passengers may use the Skyline Lounge in concourse B.", "zh": "頭等與商務艙旅客可使用 B 候機廳的 Skyline 貴賓室。" },
+    { "en": "Passengers with tight connections should speak with our rebooking desk.", "zh": "轉機時間緊湊的旅客請至改票櫃台洽詢。" },
+    { "en": "Our team can assist with alternate flight arrangements when available.", "zh": "我們的團隊將協助安排替代航班（視艙位狀況）。" },
+    { "en": "Hotel vouchers will be provided if your connection cannot be made tonight.", "zh": "若今晚無法接駁轉機，將提供住宿券。" },
+    { "en": "Please retain your boarding pass for any service or compensation requests.", "zh": "請保留您的登機證，以利申請相關服務或補償。" },
+    { "en": "Mobile boarding passes will be updated automatically with the new time.", "zh": "電子登機證將自動更新為新的登機時間。" },
+    { "en": "Checked baggage will be transferred to the same flight after the delay.", "zh": "延誤後託運行李仍將轉至同一班機。" },
+    { "en": "You may track real-time flight status on the Skyline mobile application.", "zh": "您可透過 Skyline 行動應用程式查詢即時航班狀態。" },
+    { "en": "Our customer care line is available 24 hours a day for further questions.", "zh": "我們的客服專線每日 24 小時提供進一步諮詢。" },
+    { "en": "Thank you very much for your patience and understanding today.", "zh": "非常感謝您今日的耐心與體諒。" },
+    { "en": "We will keep you informed of any further changes to your flight.", "zh": "若您的航班有任何進一步變動，我們將持續通知。" },
+    { "en": "We look forward to welcoming you on board very soon.", "zh": "我們期待很快在機上歡迎您。" }
+  ]
+}

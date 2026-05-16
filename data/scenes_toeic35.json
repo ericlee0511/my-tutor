@@ -1,0 +1,29 @@
+{
+  "title": "Hotel Booking Confirmation Email",
+  "all": [
+    { "en": "Dear Ms. Anderson, thank you for choosing the Riverside Grand Hotel.", "zh": "Anderson 女士您好，感謝您選擇 Riverside Grand Hotel。" },
+    { "en": "We are pleased to confirm your reservation for your upcoming stay.", "zh": "我們很高興為您確認即將到來的住宿訂房。" },
+    { "en": "Your confirmation number is RGH-58271, valid for all future correspondence.", "zh": "您的訂房確認編號為 RGH-58271，後續聯絡均適用。" },
+    { "en": "Check-in is scheduled for Monday, June 9, from 3:00 p.m. onward.", "zh": "入住時間為六月九日（週一）下午三點起。" },
+    { "en": "Check-out time is 11:00 a.m. on Thursday, June 12.", "zh": "退房時間為六月十二日（週四）上午十一點。" },
+    { "en": "You have booked a Deluxe King Room with a river-facing view.", "zh": "您已預訂一間面河景觀的豪華大床房。" },
+    { "en": "The room includes a private balcony, work desk, and complimentary high-speed internet.", "zh": "客房內備有私人陽台、辦公桌及免費高速網路。" },
+    { "en": "Daily breakfast for two guests is also included in your booking.", "zh": "您的訂房亦包含每日兩人份早餐。" },
+    { "en": "Breakfast is served at the Aurora Restaurant from 6:30 to 10:30 a.m.", "zh": "早餐於 Aurora 餐廳供應，時間為上午六點三十分至十點三十分。" },
+    { "en": "The total cost for three nights is 786 US dollars, including all taxes.", "zh": "三晚住宿總費用為 786 美元，含所有稅金。" },
+    { "en": "A credit card guarantee has been received and no charge has been processed yet.", "zh": "我們已收到信用卡擔保資訊，目前尚未實際扣款。" },
+    { "en": "Full payment will be settled upon check-out at the front desk.", "zh": "全額費用將於退房時於櫃台結清。" },
+    { "en": "Cancellations are accepted free of charge until 6:00 p.m. on June 7.", "zh": "六月七日下午六點前皆可免費取消訂房。" },
+    { "en": "After this deadline, the first night will be charged to your credit card.", "zh": "逾期後將自您信用卡收取首晚房費。" },
+    { "en": "Our hotel offers complimentary access to the rooftop pool and fitness center.", "zh": "本飯店提供頂樓泳池與健身中心的免費使用權。" },
+    { "en": "Spa services and in-room massages can be booked through guest services.", "zh": "Spa 服務及客房按摩可透過賓客服務預約。" },
+    { "en": "If you need airport transportation, please contact us at least 12 hours ahead.", "zh": "如需機場接送服務，請至少提前 12 小時與我們聯繫。" },
+    { "en": "Our private car service is available at a flat rate of 65 dollars.", "zh": "本飯店的專車服務採固定價格 65 美元收費。" },
+    { "en": "Early check-in or late check-out is subject to availability on the day.", "zh": "提前入住或延後退房需視當日房況而定。" },
+    { "en": "Please notify us in advance if you wish to request either service.", "zh": "若您希望申請其中任一服務，請提前告知我們。" },
+    { "en": "Should you have specific requests, kindly reply to this email at your convenience.", "zh": "若您有任何特殊需求，請隨時回覆此封郵件。" },
+    { "en": "Our concierge team is available 24 hours a day to assist with local recommendations.", "zh": "我們的禮賓團隊每日 24 小時提供當地推薦的協助。" },
+    { "en": "We are committed to making your stay both comfortable and memorable.", "zh": "我們致力於讓您的住宿既舒適又難忘。" },
+    { "en": "Once again, thank you for your reservation, and we look forward to welcoming you.", "zh": "再次感謝您的訂房，期待屆時歡迎您的蒞臨。" }
+  ]
+}

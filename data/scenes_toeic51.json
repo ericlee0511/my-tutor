@@ -1,0 +1,29 @@
+{
+  "title": "Internal Audit Findings Memo",
+  "all": [
+    { "en": "This memorandum reports the findings of the internal audit conducted in March.", "zh": "本備忘錄報告三月份進行之內部稽核的發現結果。" },
+    { "en": "The audit focused on controls within the accounts payable and procurement cycles.", "zh": "稽核重點為應付帳款與採購循環內的控制作業。" },
+    { "en": "Fieldwork was performed at the headquarters and at two regional shared service centers.", "zh": "現場稽核於總部及兩個區域共享服務中心執行。" },
+    { "en": "A risk-based sampling approach was applied to transactions above defined thresholds.", "zh": "對高於既定門檻的交易採用風險為基礎的抽樣方法。" },
+    { "en": "Overall, the control environment was assessed as satisfactory with room for improvement.", "zh": "整體而言，控制環境評估為令人滿意，仍有改進空間。" },
+    { "en": "Three high-risk findings and four medium-risk findings were identified during the review.", "zh": "本次審查共辨識出三項高風險發現與四項中風險發現。" },
+    { "en": "Finding one relates to weaknesses in vendor master data maintenance procedures.", "zh": "發現一涉及供應商主檔資料維護程序的薄弱之處。" },
+    { "en": "Several inactive vendors had not been blocked within the required timeframe.", "zh": "數家不再合作的供應商未在規定時間內封鎖。" },
+    { "en": "Finding two highlights insufficient segregation of duties in the invoice approval workflow.", "zh": "發現二指出發票核准流程中職務分工不足。" },
+    { "en": "Two users could both create and approve payments above 50,000 dollars.", "zh": "兩名使用者同時擁有建立及核准逾五萬美元付款的權限。" },
+    { "en": "Finding three concerns inadequate documentation supporting urgent purchase orders.", "zh": "發現三涉及緊急採購單支持文件不足。" },
+    { "en": "Roughly 18 percent of sampled urgent orders lacked the required justification memo.", "zh": "抽樣的緊急訂單中約百分之十八缺少必要的事由說明備忘錄。" },
+    { "en": "Medium-risk items include delayed reconciliations and inconsistent contract filing practices.", "zh": "中風險項目包括對帳延遲與合約歸檔實務不一致。" },
+    { "en": "No indications of fraud or intentional misconduct were detected during testing.", "zh": "測試過程中未發現舞弊或故意不當行為的跡象。" },
+    { "en": "Management has responded constructively to each observation raised by the audit team.", "zh": "管理層對稽核團隊提出的每項觀察均作出建設性回應。" },
+    { "en": "Action plans with clear owners and target dates have been agreed for all findings.", "zh": "已就所有發現議定具明確負責人及目標日期的行動計畫。" },
+    { "en": "Remediation for high-risk findings is expected to be completed within 90 days.", "zh": "高風險發現的補救預計於九十天內完成。" },
+    { "en": "Medium-risk items will be closed in the following six months.", "zh": "中風險項目將於後續六個月內結案。" },
+    { "en": "Internal audit will perform follow-up validation testing in the fourth quarter.", "zh": "內部稽核將於第四季執行後續驗證測試。" },
+    { "en": "Progress will be reported quarterly to the audit committee of the board.", "zh": "進度將每季向董事會稽核委員會回報。" },
+    { "en": "Process owners are encouraged to leverage automation to strengthen long-term controls.", "zh": "鼓勵流程負責人善用自動化以強化長期控制。" },
+    { "en": "Training refreshers will be scheduled for staff involved in procurement transactions.", "zh": "將為涉及採購交易的員工排定教育訓練複習課程。" },
+    { "en": "We thank management and operational teams for their cooperation throughout the audit.", "zh": "感謝管理層與營運團隊在整個稽核期間的配合。" },
+    { "en": "The full audit report and management response have been distributed to designated leaders.", "zh": "完整稽核報告與管理層回應已分送指定主管。" }
+  ]
+}

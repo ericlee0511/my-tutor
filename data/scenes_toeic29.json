@@ -1,0 +1,29 @@
+{
+  "title": "Service Outage Apology Letter",
+  "all": [
+    { "en": "Dear customers, we are writing to sincerely apologize for the recent service disruption.", "zh": "親愛的顧客，我們致函誠摯地為近期的服務中斷致歉。" },
+    { "en": "On May 12, our cloud platform experienced an unplanned outage lasting four hours.", "zh": "五月十二日，我們的雲端平台發生了長達四小時的非預期中斷。" },
+    { "en": "The incident began at approximately 2:15 in the afternoon, Pacific Standard Time.", "zh": "事件發生於太平洋標準時間下午約兩點十五分。" },
+    { "en": "During this period, many users were unable to access their dashboards.", "zh": "在此期間，許多用戶無法存取其儀表板。" },
+    { "en": "Some users also reported delays in receiving system notifications.", "zh": "部分用戶也回報系統通知出現延遲。" },
+    { "en": "Our engineering team identified the issue within the first 20 minutes.", "zh": "我們的工程團隊於前 20 分鐘內已找出問題根源。" },
+    { "en": "The root cause was a misconfigured update to our authentication service.", "zh": "根本原因為認證服務的設定更新錯誤。" },
+    { "en": "Once identified, the team rolled back the change and restored full functionality.", "zh": "找出原因後，團隊隨即回復變更並恢復所有功能。" },
+    { "en": "We understand how disruptive this incident was for your daily operations.", "zh": "我們深知此次事件對您日常營運造成相當大的不便。" },
+    { "en": "Please accept our deepest apologies for the inconvenience caused.", "zh": "請接受我們對所造成不便的最深歉意。" },
+    { "en": "Reliability is a core value at our company, and we take this matter seriously.", "zh": "可靠性是本公司核心價值，我們嚴正看待此事。" },
+    { "en": "We have launched a full internal review to prevent similar issues in the future.", "zh": "我們已啟動完整的內部檢討，以防類似事件再次發生。" },
+    { "en": "New safeguards will be added to our deployment process within the next two weeks.", "zh": "新增的防護機制將於未來兩週內納入我們的部署流程。" },
+    { "en": "All future configuration changes will require additional peer review.", "zh": "未來所有設定變更將需要額外的同儕審查。" },
+    { "en": "We will also expand our automated testing to include more edge cases.", "zh": "我們也將擴大自動化測試範圍，涵蓋更多邊界情境。" },
+    { "en": "As a gesture of goodwill, we are offering a 10 percent service credit this month.", "zh": "為表達歉意，本月將提供百分之十的服務抵用金。" },
+    { "en": "The credit will appear automatically on your next billing statement.", "zh": "此抵用金將自動顯示於您下期帳單中。" },
+    { "en": "Enterprise customers will receive a detailed technical incident report shortly.", "zh": "企業客戶將盡快收到詳細的技術事件報告。" },
+    { "en": "This report will outline the timeline, impact, and remediation steps taken.", "zh": "報告將詳述事件時序、影響範圍及已採取的改善措施。" },
+    { "en": "Our support team remains available around the clock for any concerns.", "zh": "我們的支援團隊全天候提供協助，回應任何疑慮。" },
+    { "en": "You may reach them through the support portal or by calling our hotline.", "zh": "您可透過支援平台或撥打我們的熱線聯繫客服。" },
+    { "en": "Once again, we sincerely apologize and thank you for your patience.", "zh": "再次致上誠摯歉意，並感謝您的耐心。" },
+    { "en": "Your trust means everything to us, and we will work hard to earn it back.", "zh": "您的信任對我們意義重大，我們將努力贏回您的信賴。" },
+    { "en": "Sincerely, the Customer Operations Team at CloudReach Services.", "zh": "CloudReach Services 客戶營運團隊敬上。" }
+  ]
+}
