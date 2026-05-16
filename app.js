@@ -403,7 +403,7 @@ function fmtSceneKo(item, num, title) {
 function fmtWordToeic(item) {
   let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
-    `<div class="ex">Example: ${escapeHTML(item.example_en)}<br>` +
+    `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
 }
@@ -411,9 +411,9 @@ function fmtWordToeic(item) {
 function fmtGrammarToeic(item) {
   let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
     `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
-    `<div><span class="label">Structure:</span> ${escapeHTML(item.structure)}</div>`;
+    `<div><span class="label">結構:</span> ${escapeHTML(item.structure)}</div>`;
   (item.examples || []).forEach((ex, i) => {
-    html += `<div class="ex">Example ${i + 1}: ${escapeHTML(ex.en)}<br>` +
+    html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.en)}<br>` +
       `   → ${escapeHTML(ex.zh)}</div>`;
   });
   return html;
