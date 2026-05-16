@@ -73,6 +73,10 @@ header h1 {
   min-width: 72px;
   text-align: center;
 }
+#level-btn {
+  min-width: 88px;
+  text-align: center;
+}
 
 main {
   flex: 1;
