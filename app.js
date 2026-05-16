@@ -304,7 +304,7 @@ function fmtWord(item) {
   const trans = lang === "ja" ? (item.example_kana || item.example_en) : item.example_en;
   return `<div class="headword">📖 ${escapeHTML(item.kanji)}</div>` +
     `<div class="kana">かな: ${escapeHTML(item.kana)}</div>` +
-    `<div><span class="label">Meaning:</span> ${escapeHTML(meaning)}</div>` +
+    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_ja)}<br>` +
     `   → ${escapeHTML(trans)}</div>`;
 }
@@ -313,8 +313,8 @@ function fmtGrammar(item) {
   const lang = state.lang;
   const meaning = item[`meaning_${lang}`] ?? item.meaning_en;
   let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
-    `<div><span class="label">Meaning:</span> ${escapeHTML(meaning)}</div>` +
-    `<div><span class="label">Structure:</span> ${escapeHTML(item.structure)}</div>`;
+    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}</span></div>` +
+    `<div><span class="label">Structure:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
   (item.examples || []).forEach((ex, i) => {
     const t = lang === "ja" ? (ex.kana || ex.en) : ex.en;
     html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.ja)}<br>` +
@@ -343,9 +343,9 @@ function fmtWordKo(item) {
   let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
   if (item.romanization) html += `<div class="kana">羅馬拼音: ${escapeHTML(item.romanization)}</div>`;
   if (item.hanja && item.hanja !== "" && item.hanja !== "—") {
-    html += `<div><span class="label">漢字:</span> ${escapeHTML(item.hanja)}</div>`;
+    html += `<div><span class="label">漢字:</span><span class="label-text">${escapeHTML(item.hanja)}</span></div>`;
   }
-  html += `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_ko)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
@@ -353,8 +353,8 @@ function fmtWordKo(item) {
 
 function fmtGrammarKo(item) {
   let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
-    `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
-    `<div><span class="label">結構:</span> ${escapeHTML(item.structure)}</div>`;
+    `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div><span class="label">結構:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
   (item.examples || []).forEach((ex, i) => {
     html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.ko)}<br>` +
       `   → ${escapeHTML(ex.zh)}</div>`;
@@ -402,7 +402,7 @@ function fmtSceneKo(item, num, title) {
 
 function fmtWordToeic(item) {
   let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
-  html += `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
+  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
@@ -410,8 +410,8 @@ function fmtWordToeic(item) {
 
 function fmtGrammarToeic(item) {
   let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
-    `<div><span class="label">意思:</span> ${escapeHTML(item.meaning_zh)}</div>` +
-    `<div><span class="label">結構:</span> ${escapeHTML(item.structure)}</div>`;
+    `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div><span class="label">結構:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
   (item.examples || []).forEach((ex, i) => {
     html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.en)}<br>` +
       `   → ${escapeHTML(ex.zh)}</div>`;

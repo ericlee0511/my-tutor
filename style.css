@@ -135,6 +135,8 @@ main {
 #content .label {
   color: var(--muted);
   font-size: 13px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 #content .ex {
   margin-top: 12px;
@@ -146,6 +148,14 @@ main {
 #content > div:has(> .label) {
   font-size: 16px;
   line-height: 1.7;
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+#content > div:has(> .label) > .label-text {
+  min-width: 0;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 #content .options {
   margin: 12px 0;
