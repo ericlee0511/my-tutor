@@ -17639,6 +17639,1206 @@
       "meaning_zh": "無收銀員商店",
       "example_en": "The cashier-less store uses computer vision to automatically charge shoppers at exit.",
       "example_zh": "無收銀員商店運用電腦視覺於離店時自動結帳。"
+    },
+    {
+      "word": "streamline",
+      "meaning_zh": "(動詞) 簡化、使流程更有效率",
+      "example_en": "The new software will streamline our invoice approval process and reduce processing time by half.",
+      "example_zh": "新的軟體將簡化我們的發票核准流程，並將處理時間縮短一半。"
+    },
+    {
+      "word": "consolidate",
+      "meaning_zh": "(動詞) 整併、鞏固",
+      "example_en": "Management decided to consolidate the three regional offices into a single headquarters next year.",
+      "example_zh": "管理層決定明年將三個區域辦公室整併為單一總部。"
+    },
+    {
+      "word": "diversify",
+      "meaning_zh": "(動詞) 多元化、分散（風險或業務）",
+      "example_en": "The company aims to diversify its revenue streams by entering the Southeast Asian market this fiscal year.",
+      "example_zh": "公司計畫在本財年進入東南亞市場，以多元化其營收來源。"
+    },
+    {
+      "word": "scrutinize",
+      "meaning_zh": "(動詞) 仔細審查、詳細檢視",
+      "example_en": "Auditors will scrutinize every expense claim above five thousand dollars during the quarterly review.",
+      "example_zh": "稽核人員將在季度審查中仔細審查每一筆超過五千美元的費用申請。"
+    },
+    {
+      "word": "expedient",
+      "meaning_zh": "(形容詞) 權宜的、便利但未必正當的",
+      "example_en": "Although outsourcing seemed expedient, the long-term costs outweighed the short-term savings.",
+      "example_zh": "雖然外包看似便利之計，但長期成本超過了短期節省。"
+    },
+    {
+      "word": "perishable",
+      "meaning_zh": "(形容詞) 易腐壞的（多用於食品或貨品）",
+      "example_en": "All perishable items must be stored in the climate-controlled section of the warehouse.",
+      "example_zh": "所有易腐壞物品必須儲存在倉庫的溫控區域。"
+    },
+    {
+      "word": "lucrative",
+      "meaning_zh": "(形容詞) 有利可圖的、獲利豐厚的",
+      "example_en": "Signing the government contract proved to be the most lucrative deal in the firm's history.",
+      "example_zh": "簽下這份政府合約成為公司有史以來最有利可圖的交易。"
+    },
+    {
+      "word": "viable",
+      "meaning_zh": "(形容詞) 可行的、有實行可能的",
+      "example_en": "The committee will only fund proposals that present a financially viable business model.",
+      "example_zh": "委員會只會資助呈現財務上可行商業模式的提案。"
+    },
+    {
+      "word": "redeem",
+      "meaning_zh": "(動詞) 兌換、贖回（票券或股份）",
+      "example_en": "Customers can redeem loyalty points for travel discounts on our partner airlines.",
+      "example_zh": "顧客可以將會員點數兌換為合作航空公司的旅遊折扣。"
+    },
+    {
+      "word": "vouch",
+      "meaning_zh": "(動詞) 擔保、保證（某人或某事）",
+      "example_en": "I can personally vouch for her professionalism after working with her for six years.",
+      "example_zh": "在與她共事六年後，我可以親自為她的專業素養做擔保。"
+    },
+    {
+      "word": "audit committee",
+      "meaning_zh": "(名詞片語) 審計委員會",
+      "example_en": "The audit committee meets quarterly to review internal controls and financial reporting.",
+      "example_zh": "審計委員會每季開會檢視內部控制與財務報告。"
+    },
+    {
+      "word": "runway",
+      "meaning_zh": "(名詞) 營運餘裕、可維持營運的時間",
+      "example_en": "After the latest funding round, the company has about eighteen months of runway before needing more capital.",
+      "example_zh": "在最近一輪融資後，公司大約還有十八個月的營運餘裕才需要再籌資。"
+    },
+    {
+      "word": "moonlight",
+      "meaning_zh": "(動詞) 兼職、做副業（多指夜間）",
+      "example_en": "Some employees moonlight as consultants in the evenings, which is permitted under our HR policy.",
+      "example_zh": "部分員工晚上會兼職擔任顧問，這在我們的人資政策下是被允許的。"
+    },
+    {
+      "word": "tradeoff",
+      "meaning_zh": "(名詞) 取捨、權衡",
+      "example_en": "There is always a tradeoff between speed and quality when launching a new product.",
+      "example_zh": "推出新產品時，速度與品質之間永遠存在著取捨。"
+    },
+    {
+      "word": "benchmarking",
+      "meaning_zh": "(名詞) 標竿比較、對標分析",
+      "example_en": "Our benchmarking study showed that our delivery times are slower than the industry average.",
+      "example_zh": "我們的標竿比較研究顯示，我們的交貨時間慢於業界平均。"
+    },
+    {
+      "word": "value chain",
+      "meaning_zh": "(名詞片語) 價值鏈",
+      "example_en": "Mapping the value chain helped us identify three areas where we could cut operating costs significantly.",
+      "example_zh": "繪製價值鏈幫助我們找出三個可以大幅降低營運成本的領域。"
+    },
+    {
+      "word": "downsize",
+      "meaning_zh": "(動詞) 縮編、裁員",
+      "example_en": "The CEO announced plans to downsize the marketing team by fifteen percent before year-end.",
+      "example_zh": "執行長宣布計畫在年底前將行銷團隊縮編百分之十五。"
+    },
+    {
+      "word": "rightsize",
+      "meaning_zh": "(動詞) 調整至最適規模（常為委婉裁員）",
+      "example_en": "The board hopes to rightsize the organization without forcing involuntary layoffs.",
+      "example_zh": "董事會希望在不強制裁員的情況下將組織調整至最適規模。"
+    },
+    {
+      "word": "offboarding",
+      "meaning_zh": "(名詞) 離職流程、員工離職交接",
+      "example_en": "Our offboarding process includes an exit interview and the return of all company equipment.",
+      "example_zh": "我們的離職流程包含一次離職面談以及歸還所有公司設備。"
+    },
+    {
+      "word": "stipend",
+      "meaning_zh": "(名詞) 津貼、補助金",
+      "example_en": "Remote employees receive a monthly stipend to cover home office expenses such as internet and electricity.",
+      "example_zh": "遠端員工每月會收到一筆津貼，用以支付網路和電費等居家辦公支出。"
+    },
+    {
+      "word": "perk",
+      "meaning_zh": "(名詞) 福利、額外津貼",
+      "example_en": "Free meals and gym memberships are popular perks offered by many tech companies.",
+      "example_zh": "免費餐點和健身房會員是許多科技公司提供的熱門福利。"
+    },
+    {
+      "word": "fringe benefit",
+      "meaning_zh": "(名詞片語) 附加福利、額外待遇",
+      "example_en": "Health insurance and stock options are common fringe benefits in our compensation package.",
+      "example_zh": "健康保險與股票選擇權是我們薪酬方案中常見的附加福利。"
+    },
+    {
+      "word": "severance package",
+      "meaning_zh": "(名詞片語) 資遣方案、離職補償",
+      "example_en": "Affected employees will receive a severance package equal to three months of base salary.",
+      "example_zh": "受影響的員工將獲得相當於三個月基本薪資的資遣方案。"
+    },
+    {
+      "word": "phase out",
+      "meaning_zh": "(片語) 逐步淘汰、分階段停止",
+      "example_en": "We plan to phase out the legacy accounting system over the next eighteen months.",
+      "example_zh": "我們計畫在未來十八個月內逐步淘汰舊有的會計系統。"
+    },
+    {
+      "word": "ramp up",
+      "meaning_zh": "(片語) 增加、擴大（產量或規模）",
+      "example_en": "The factory will ramp up production ahead of the holiday shopping season.",
+      "example_zh": "工廠將在假期購物季之前提高產量。"
+    },
+    {
+      "word": "scale back",
+      "meaning_zh": "(片語) 縮減、削減（規模或計畫）",
+      "example_en": "Due to budget constraints, we had to scale back the marketing campaign considerably.",
+      "example_zh": "由於預算限制，我們不得不大幅縮減行銷活動。"
+    },
+    {
+      "word": "spearhead",
+      "meaning_zh": "(動詞) 領導、帶頭推動",
+      "example_en": "Ms. Chen will spearhead the digital transformation initiative starting next month.",
+      "example_zh": "陳女士將從下個月起帶頭推動數位轉型計畫。"
+    },
+    {
+      "word": "underwrite",
+      "meaning_zh": "(動詞) 承銷、擔保（風險或證券發行）",
+      "example_en": "Three major banks agreed to underwrite the upcoming bond issue worth two billion dollars.",
+      "example_zh": "三家主要銀行同意承銷即將發行、價值二十億美元的債券。"
+    },
+    {
+      "word": "endorsement deal",
+      "meaning_zh": "(名詞片語) 代言合約",
+      "example_en": "The athlete signed a multi-year endorsement deal with the sportswear company last week.",
+      "example_zh": "這位運動員上週與這家運動服飾公司簽下了一份多年期的代言合約。"
+    },
+    {
+      "word": "headhunter",
+      "meaning_zh": "(名詞) 獵人頭顧問、高階人才仲介",
+      "example_en": "A headhunter contacted her about a senior position at one of our competitors.",
+      "example_zh": "一位獵人頭顧問就我們競爭對手的一個高階職位聯絡了她。"
+    },
+    {
+      "word": "freelance",
+      "meaning_zh": "(形容詞/動詞) 自由接案的、做自由業",
+      "example_en": "He left the firm to freelance as a translator for multinational corporations.",
+      "example_zh": "他離開公司，開始為跨國企業擔任自由接案譯者。"
+    },
+    {
+      "word": "gig economy",
+      "meaning_zh": "(名詞片語) 零工經濟",
+      "example_en": "The rise of the gig economy has changed how companies think about workforce planning.",
+      "example_zh": "零工經濟的興起改變了公司對於人力規劃的思維。"
+    },
+    {
+      "word": "moratorium",
+      "meaning_zh": "(名詞) 暫停、暫緩執行",
+      "example_en": "The board imposed a moratorium on new hires until the cost review is complete.",
+      "example_zh": "董事會在成本審查完成前，暫停了所有新進人員的招募。"
+    },
+    {
+      "word": "deregulation",
+      "meaning_zh": "(名詞) 解除管制、鬆綁",
+      "example_en": "Deregulation of the telecommunications industry has led to increased competition and lower consumer prices.",
+      "example_zh": "電信業的解除管制帶動了競爭的加劇與消費者價格的下降。"
+    },
+    {
+      "word": "watchdog",
+      "meaning_zh": "(名詞) 監管機構、監督單位",
+      "example_en": "The financial watchdog has launched an investigation into the firm's accounting practices.",
+      "example_zh": "金融監管機構已對該公司的會計操作展開調查。"
+    },
+    {
+      "word": "ombudsman",
+      "meaning_zh": "(名詞) 申訴專員、調查專員",
+      "example_en": "Employees may contact the ombudsman to report concerns about workplace misconduct confidentially.",
+      "example_zh": "員工可以聯繫申訴專員，以保密方式檢舉職場不當行為。"
+    },
+    {
+      "word": "due course",
+      "meaning_zh": "(片語) 適當時候、按部就班",
+      "example_en": "Your application will be processed in due course; please allow up to ten business days for a response.",
+      "example_zh": "您的申請將會在適當時候處理，請預留最多十個工作天等待回覆。"
+    },
+    {
+      "word": "at length",
+      "meaning_zh": "(片語) 詳細地、長篇地",
+      "example_en": "The consultant discussed the merger risks at length with the executive team.",
+      "example_zh": "顧問與高階主管團隊就合併風險進行了詳細的討論。"
+    },
+    {
+      "word": "in conjunction with",
+      "meaning_zh": "(片語) 與…合作、連同",
+      "example_en": "We will launch the campaign in conjunction with our marketing partner in Singapore.",
+      "example_zh": "我們將與新加坡的行銷夥伴合作推出這次活動。"
+    },
+    {
+      "word": "in lieu of",
+      "meaning_zh": "(片語) 代替、取代",
+      "example_en": "Employees may take additional vacation days in lieu of overtime pay.",
+      "example_zh": "員工可以選擇額外的休假天數來代替加班費。"
+    },
+    {
+      "word": "as per",
+      "meaning_zh": "(片語) 根據、依照",
+      "example_en": "As per your request, I have attached the revised proposal for your review.",
+      "example_zh": "依照您的要求，我已附上修訂後的提案供您審閱。"
+    },
+    {
+      "word": "in arrears",
+      "meaning_zh": "(片語) 拖欠、逾期未付",
+      "example_en": "The tenant is two months in arrears on rent and has been issued a formal notice.",
+      "example_zh": "該租戶積欠兩個月租金，已經被發出正式通知。"
+    },
+    {
+      "word": "downturn",
+      "meaning_zh": "(名詞) 衰退、下滑",
+      "example_en": "The economic downturn has forced many retailers to reconsider their expansion plans.",
+      "example_zh": "經濟下滑迫使許多零售商重新考慮他們的擴張計畫。"
+    },
+    {
+      "word": "upturn",
+      "meaning_zh": "(名詞) 好轉、上揚",
+      "example_en": "Analysts predict an upturn in consumer spending in the second half of the year.",
+      "example_zh": "分析師預測下半年消費者支出將有所好轉。"
+    },
+    {
+      "word": "rider",
+      "meaning_zh": "(名詞) 附加條款、附件",
+      "example_en": "Please include a rider in the insurance policy to cover overseas business travel.",
+      "example_zh": "請在保單中加入附加條款，以涵蓋海外商務旅行。"
+    },
+    {
+      "word": "caveat",
+      "meaning_zh": "(名詞) 警告、附帶條件",
+      "example_en": "The financial projections look promising with one important caveat regarding currency fluctuations.",
+      "example_zh": "財務預測看起來樂觀，但有一項關於匯率波動的重要附帶條件。"
+    },
+    {
+      "word": "rescind",
+      "meaning_zh": "(動詞) 撤銷、廢除（合約或決議）",
+      "example_en": "The committee voted to rescind the previous policy on overtime compensation.",
+      "example_zh": "委員會表決撤銷先前關於加班費的政策。"
+    },
+    {
+      "word": "stipulate",
+      "meaning_zh": "(動詞) 規定、明確要求",
+      "example_en": "The contract stipulates that payment must be made within thirty days of invoice receipt.",
+      "example_zh": "合約明確規定付款必須在收到發票後三十天內完成。"
+    },
+    {
+      "word": "waiver",
+      "meaning_zh": "(名詞) 棄權書、豁免聲明",
+      "example_en": "All participants must sign a waiver before joining the corporate climbing event.",
+      "example_zh": "所有參加者在加入公司攀岩活動前都必須簽署棄權書。"
+    },
+    {
+      "word": "indemnify",
+      "meaning_zh": "(動詞) 賠償、補償（損失或損害）",
+      "example_en": "The supplier agreed to indemnify our company against any third-party claims arising from product defects.",
+      "example_zh": "供應商同意就產品瑕疵引起的任何第三方索賠對我方公司進行賠償。"
+    },
+    {
+      "word": "contingent upon",
+      "meaning_zh": "(片語) 以…為條件、視…而定",
+      "example_en": "Final approval is contingent upon the successful completion of the background check.",
+      "example_zh": "最終的核准以背景調查成功完成為條件。"
+    },
+    {
+      "word": "in default of",
+      "meaning_zh": "(片語) 在未履行…的情況下",
+      "example_en": "In default of payment within sixty days, the lender may begin foreclosure proceedings.",
+      "example_zh": "若在六十天內未履行付款，貸款方可開始進行法拍程序。"
+    },
+    {
+      "word": "demurrage charge",
+      "meaning_zh": "(名詞片語) 滯期費、貨櫃滯留費",
+      "example_en": "Delayed pickup at the port resulted in a substantial demurrage charge on last month's shipment.",
+      "example_zh": "在港口延遲提櫃導致上個月的貨物產生了高額的滯期費。"
+    },
+    {
+      "word": "consignment note",
+      "meaning_zh": "(名詞片語) 託運單、貨運單",
+      "example_en": "Please attach the consignment note to each pallet before the truck arrives at the dock.",
+      "example_zh": "請在卡車抵達裝卸區之前，將託運單貼到每個棧板上。"
+    },
+    {
+      "word": "duty-free",
+      "meaning_zh": "(形容詞) 免稅的",
+      "example_en": "Duty-free shops at the airport offer travelers a variety of luxury goods at reduced prices.",
+      "example_zh": "機場的免稅店以折扣價提供旅客各式各樣的奢侈品。"
+    },
+    {
+      "word": "drop-off point",
+      "meaning_zh": "(名詞片語) 寄送點、放置地點",
+      "example_en": "Customers can return rented equipment at any authorized drop-off point in the city.",
+      "example_zh": "顧客可以在市內任何一個授權寄送點歸還租賃設備。"
+    },
+    {
+      "word": "expedited delivery",
+      "meaning_zh": "(名詞片語) 加急配送、快速送達",
+      "example_en": "For an additional fee, we offer expedited delivery within twenty-four hours.",
+      "example_zh": "額外付費後，我們提供二十四小時內的加急配送服務。"
+    },
+    {
+      "word": "white paper",
+      "meaning_zh": "(名詞片語) 白皮書、專業研究報告",
+      "example_en": "Our latest white paper outlines best practices for cybersecurity in remote work environments.",
+      "example_zh": "我們最新的白皮書概述了遠端辦公環境中網路安全的最佳實務。"
+    },
+    {
+      "word": "blue chip",
+      "meaning_zh": "(形容詞) 績優股的、業績優良的",
+      "example_en": "Many pension funds prefer to invest in blue chip companies with stable dividend histories.",
+      "example_zh": "許多退休基金偏好投資於股利歷史穩定的績優企業。"
+    },
+    {
+      "word": "headwind",
+      "meaning_zh": "(名詞) 不利因素、阻力",
+      "example_en": "Rising interest rates remain a significant headwind for the housing market this year.",
+      "example_zh": "升息仍是今年房市的一大不利因素。"
+    },
+    {
+      "word": "tailwind",
+      "meaning_zh": "(名詞) 有利因素、順風",
+      "example_en": "Favorable exchange rates provided a tailwind for exporters in the third quarter.",
+      "example_zh": "有利的匯率為第三季的出口商提供了順風條件。"
+    },
+    {
+      "word": "soft landing",
+      "meaning_zh": "(名詞片語) 軟著陸、平穩減速",
+      "example_en": "The central bank is attempting to engineer a soft landing for the overheated economy.",
+      "example_zh": "央行正試圖為過熱的經濟設計一次軟著陸。"
+    },
+    {
+      "word": "hard landing",
+      "meaning_zh": "(名詞片語) 硬著陸、劇烈衰退",
+      "example_en": "Economists warn that aggressive rate hikes may lead to a hard landing instead.",
+      "example_zh": "經濟學家警告，激進的升息反而可能導致硬著陸。"
+    },
+    {
+      "word": "moratorium period",
+      "meaning_zh": "(名詞片語) 寬限期、暫停期間",
+      "example_en": "Borrowers may request a moratorium period of up to six months on principal repayments.",
+      "example_zh": "借款人可申請最多六個月的本金償還寬限期。"
+    },
+    {
+      "word": "deliverables list",
+      "meaning_zh": "(名詞片語) 交付項目清單",
+      "example_en": "Please review the deliverables list and confirm that everything is included in the final invoice.",
+      "example_zh": "請審閱交付項目清單，並確認最終發票中已包含所有項目。"
+    },
+    {
+      "word": "service-oriented",
+      "meaning_zh": "(形容詞) 以服務為導向的",
+      "example_en": "Our service-oriented culture is what differentiates us from larger, more impersonal competitors.",
+      "example_zh": "以服務為導向的文化是讓我們與更大、更冷漠的競爭者有所區別之處。"
+    },
+    {
+      "word": "results-driven",
+      "meaning_zh": "(形容詞) 重視成果的、以結果為導向的",
+      "example_en": "We are looking for a results-driven sales manager who can exceed quarterly targets.",
+      "example_zh": "我們正在尋找一位以結果為導向、能超越季度目標的銷售經理。"
+    },
+    {
+      "word": "detail-oriented",
+      "meaning_zh": "(形容詞) 注重細節的",
+      "example_en": "The position requires a detail-oriented person who can manage multiple complex contracts simultaneously.",
+      "example_zh": "這個職位需要一位注重細節、能同時處理多份複雜合約的人選。"
+    },
+    {
+      "word": "self-starter",
+      "meaning_zh": "(名詞) 自我驅動者、有主動精神的人",
+      "example_en": "We need a self-starter who can work independently without constant supervision.",
+      "example_zh": "我們需要一位有主動精神的人，能在沒有不斷督促下獨立工作。"
+    },
+    {
+      "word": "go-getter",
+      "meaning_zh": "(名詞) 積極進取的人、衝勁十足者",
+      "example_en": "Our new sales rep is a real go-getter and has already exceeded her first-month target.",
+      "example_zh": "我們新來的業務代表是個十足的衝勁型人物，第一個月就已超越目標。"
+    },
+    {
+      "word": "team player",
+      "meaning_zh": "(名詞片語) 有團隊合作精神的人",
+      "example_en": "Hiring managers consistently rank being a team player as one of the most desired qualities.",
+      "example_zh": "招募主管始終將團隊合作精神列為最受期待的特質之一。"
+    },
+    {
+      "word": "soft skills",
+      "meaning_zh": "(名詞片語) 軟實力、人際溝通技能",
+      "example_en": "Effective communication and conflict resolution are critical soft skills in management roles.",
+      "example_zh": "有效溝通與衝突處理是管理職位中關鍵的軟實力。"
+    },
+    {
+      "word": "hard skills",
+      "meaning_zh": "(名詞片語) 硬實力、專業技術能力",
+      "example_en": "Although hard skills can be taught, soft skills often determine long-term career success.",
+      "example_zh": "雖然硬實力可以被教導，但軟實力往往決定了長期的職涯成功。"
+    },
+    {
+      "word": "transferable skills",
+      "meaning_zh": "(名詞片語) 可轉移技能、跨領域能力",
+      "example_en": "Project management is one of the most valuable transferable skills across industries.",
+      "example_zh": "專案管理是跨產業最有價值的可轉移技能之一。"
+    },
+    {
+      "word": "exit interview",
+      "meaning_zh": "(名詞片語) 離職面談",
+      "example_en": "HR conducts an exit interview with every departing employee to gather feedback.",
+      "example_zh": "人資會與每一位離職員工進行離職面談，以收集回饋意見。"
+    },
+    {
+      "word": "skip-level meeting",
+      "meaning_zh": "(名詞片語) 跨層級會議（與主管的主管會面）",
+      "example_en": "She scheduled a skip-level meeting with the VP to discuss concerns about her team.",
+      "example_zh": "她安排了一場與副總的跨層級會議，討論團隊上的疑慮。"
+    },
+    {
+      "word": "one-on-one",
+      "meaning_zh": "(名詞/形容詞) 一對一（會議或對話）",
+      "example_en": "Managers are expected to hold weekly one-on-one meetings with each direct report.",
+      "example_zh": "主管應每週與每位直屬下屬進行一次一對一會議。"
+    },
+    {
+      "word": "huddle",
+      "meaning_zh": "(動詞/名詞) 短暫聚集討論、簡短會議",
+      "example_en": "Let's huddle after lunch to align on the client's revised requirements.",
+      "example_zh": "我們午餐後簡短碰個面，對齊客戶修改後的需求。"
+    },
+    {
+      "word": "wrap up",
+      "meaning_zh": "(片語) 結束、收尾",
+      "example_en": "Let's wrap up the meeting in five minutes so everyone can prepare for the next call.",
+      "example_zh": "我們五分鐘內結束會議，讓大家可以準備下一場通話。"
+    },
+    {
+      "word": "loop in",
+      "meaning_zh": "(片語) 讓某人加入溝通、納入訊息圈",
+      "example_en": "Please loop in the legal team before we send the proposal to the client.",
+      "example_zh": "在我們把提案寄給客戶之前，請把法務團隊納入溝通圈。"
+    },
+    {
+      "word": "ping",
+      "meaning_zh": "(動詞) 快速訊息聯繫、傳訊提醒",
+      "example_en": "I'll ping you on the messenger when the file is ready for review.",
+      "example_zh": "檔案準備好可以審閱時，我會在通訊軟體上傳訊給你。"
+    },
+    {
+      "word": "deep dive",
+      "meaning_zh": "(名詞片語) 深入探討、詳細分析",
+      "example_en": "Tomorrow's workshop will be a deep dive into our customer retention strategies.",
+      "example_zh": "明天的工作坊將深入探討我們的客戶留存策略。"
+    },
+    {
+      "word": "low-hanging fruit",
+      "meaning_zh": "(名詞片語) 容易達成的目標、唾手可得之事",
+      "example_en": "Let's start with the low-hanging fruit before tackling the more complex efficiency issues.",
+      "example_zh": "我們先處理容易達成的目標，再來處理更複雜的效率問題。"
+    },
+    {
+      "word": "moving forward",
+      "meaning_zh": "(片語) 接下來、今後",
+      "example_en": "Moving forward, all expense reports must be submitted within five business days.",
+      "example_zh": "今後，所有費用報告都必須在五個工作天內提交。"
+    },
+    {
+      "word": "going forward",
+      "meaning_zh": "(片語) 往後、未來",
+      "example_en": "Going forward, we will use a single platform for all client communications.",
+      "example_zh": "往後，我們將使用單一平台處理所有客戶溝通。"
+    },
+    {
+      "word": "across the board",
+      "meaning_zh": "(片語) 全面性的、所有領域的",
+      "example_en": "The company announced a five-percent salary increase across the board for all full-time staff.",
+      "example_zh": "公司宣布為所有全職員工全面性地調薪百分之五。"
+    },
+    {
+      "word": "in the pipeline",
+      "meaning_zh": "(片語) 在進行中、規劃中",
+      "example_en": "Several new product launches are in the pipeline for the upcoming fiscal year.",
+      "example_zh": "在即將到來的財年中，有數個新產品上市計畫正在進行中。"
+    },
+    {
+      "word": "on the table",
+      "meaning_zh": "(片語) 在考慮中、正在討論",
+      "example_en": "A potential merger with our European competitor is currently on the table.",
+      "example_zh": "與我們歐洲競爭對手的潛在合併案目前正在討論中。"
+    },
+    {
+      "word": "off the table",
+      "meaning_zh": "(片語) 已被排除、不再考慮",
+      "example_en": "Following the latest negotiations, layoffs are now completely off the table.",
+      "example_zh": "在最近的協商之後，裁員方案目前已完全被排除。"
+    },
+    {
+      "word": "back to the drawing board",
+      "meaning_zh": "(片語) 重新規劃、從頭再來",
+      "example_en": "After the client rejected our proposal, we had to go back to the drawing board.",
+      "example_zh": "在客戶拒絕我們的提案後，我們不得不重新規劃。"
+    },
+    {
+      "word": "in the red",
+      "meaning_zh": "(片語) 虧損、負債",
+      "example_en": "The subsidiary has been in the red for three consecutive quarters and is under review.",
+      "example_zh": "這家子公司已連續三季虧損，目前正被檢討中。"
+    },
+    {
+      "word": "in the black",
+      "meaning_zh": "(片語) 獲利、有盈餘",
+      "example_en": "After restructuring, the division finally returned to being in the black this year.",
+      "example_zh": "經過重組後，該部門今年終於重返獲利狀態。"
+    },
+    {
+      "word": "uptick",
+      "meaning_zh": "(名詞) 上升、增加",
+      "example_en": "We noticed a modest uptick in online sales after the website redesign went live.",
+      "example_zh": "在網站改版上線後，我們注意到線上銷售有小幅上升。"
+    },
+    {
+      "word": "downtick",
+      "meaning_zh": "(名詞) 下降、減少",
+      "example_en": "A slight downtick in customer satisfaction scores prompted a review of our support team.",
+      "example_zh": "客戶滿意度分數的些微下降促使我們檢討客服團隊。"
+    },
+    {
+      "word": "plateau",
+      "meaning_zh": "(動詞/名詞) 停滯、達到平穩階段",
+      "example_en": "Sales began to plateau in the second quarter despite increased marketing spending.",
+      "example_zh": "儘管行銷支出增加，銷售在第二季開始進入停滯。"
+    },
+    {
+      "word": "saturate",
+      "meaning_zh": "(動詞) 飽和、充滿（市場）",
+      "example_en": "The smartphone market in major cities has become almost completely saturated.",
+      "example_zh": "主要城市的智慧型手機市場已經幾乎完全飽和。"
+    },
+    {
+      "word": "untapped",
+      "meaning_zh": "(形容詞) 尚未開發的、未利用的",
+      "example_en": "The rural senior market remains an untapped opportunity for our financial products.",
+      "example_zh": "鄉村銀髮族市場對我們的金融商品而言，仍是一個尚未開發的機會。"
+    },
+    {
+      "word": "footprint",
+      "meaning_zh": "(名詞) 規模、版圖、足跡",
+      "example_en": "The acquisition will expand our retail footprint to fifteen additional countries.",
+      "example_zh": "這次併購將把我們的零售版圖擴展到另外十五個國家。"
+    },
+    {
+      "word": "presence",
+      "meaning_zh": "(名詞) 存在感、市場版圖",
+      "example_en": "We aim to strengthen our presence in Southeast Asia by opening three new offices.",
+      "example_zh": "我們計畫透過開設三個新辦公室，加強在東南亞的存在感。"
+    },
+    {
+      "word": "ecosystem",
+      "meaning_zh": "(名詞) 生態系、產業體系",
+      "example_en": "Building a developer ecosystem around our API has become a strategic priority.",
+      "example_zh": "圍繞我們的 API 建立開發者生態系，已成為一項策略性的優先要務。"
+    },
+    {
+      "word": "synergistic",
+      "meaning_zh": "(形容詞) 具有綜效的、互補加乘的",
+      "example_en": "The two product lines have a synergistic relationship that benefits cross-selling efforts.",
+      "example_zh": "這兩條產品線具有綜效關係，有利於交叉銷售。"
+    },
+    {
+      "word": "core competency",
+      "meaning_zh": "(名詞片語) 核心能力、核心競爭力",
+      "example_en": "Software design has always been our core competency and main competitive advantage.",
+      "example_zh": "軟體設計一直是我們的核心能力，也是主要競爭優勢。"
+    },
+    {
+      "word": "key takeaway",
+      "meaning_zh": "(名詞片語) 重點、關鍵結論",
+      "example_en": "The key takeaway from the workshop was the importance of customer-driven product design.",
+      "example_zh": "這場工作坊的重點是以客戶為導向的產品設計的重要性。"
+    },
+    {
+      "word": "talking head",
+      "meaning_zh": "(名詞片語) 主談人、發言人（多用於影像）",
+      "example_en": "Our CEO will appear as the talking head in the company's recruitment video.",
+      "example_zh": "我們的執行長將擔任公司招募影片中的主談人。"
+    },
+    {
+      "word": "case study",
+      "meaning_zh": "(名詞片語) 案例研究、實例分析",
+      "example_en": "Our marketing team published a case study on how the new strategy doubled customer engagement.",
+      "example_zh": "我們的行銷團隊發布了一份案例研究，說明新策略如何讓客戶互動量翻倍。"
+    },
+    {
+      "word": "deep-rooted",
+      "meaning_zh": "(形容詞) 根深柢固的、長久存在的",
+      "example_en": "Addressing deep-rooted cultural issues will require sustained leadership commitment.",
+      "example_zh": "處理根深柢固的文化問題將需要領導層持續的承諾。"
+    },
+    {
+      "word": "long-standing",
+      "meaning_zh": "(形容詞) 長期存在的、由來已久的",
+      "example_en": "We have a long-standing partnership with the local supplier dating back twenty years.",
+      "example_zh": "我們與當地供應商有著長達二十年的長期合作關係。"
+    },
+    {
+      "word": "tenure",
+      "meaning_zh": "(名詞) 任期、在職年資",
+      "example_en": "During her tenure as CFO, the company tripled its annual revenue.",
+      "example_zh": "在她擔任財務長的任期內，公司年營收增加為三倍。"
+    },
+    {
+      "word": "tenured",
+      "meaning_zh": "(形容詞) 資深的、有保障任期的",
+      "example_en": "Tenured employees often serve as informal mentors to new hires.",
+      "example_zh": "資深員工通常會以非正式方式輔導新進人員。"
+    },
+    {
+      "word": "vested interest",
+      "meaning_zh": "(名詞片語) 既得利益、切身利益",
+      "example_en": "Senior managers have a vested interest in seeing the merger succeed.",
+      "example_zh": "高階主管對於這場合併成功有著既得利益。"
+    },
+    {
+      "word": "conflict of interest disclosure",
+      "meaning_zh": "(名詞片語) 利益衝突揭露聲明",
+      "example_en": "All board members must submit a conflict of interest disclosure form annually.",
+      "example_zh": "所有董事會成員都必須每年提交一份利益衝突揭露表。"
+    },
+    {
+      "word": "carve out",
+      "meaning_zh": "(片語) 切分出（業務或時間）",
+      "example_en": "Please carve out thirty minutes this week so we can review the quarterly numbers.",
+      "example_zh": "請在本週撥出三十分鐘，讓我們檢視季度數據。"
+    },
+    {
+      "word": "carve-up",
+      "meaning_zh": "(名詞) 瓜分、分割",
+      "example_en": "The carve-up of the bankrupt company's assets took nearly two years to complete.",
+      "example_zh": "這家破產公司資產的瓜分歷時將近兩年才完成。"
+    },
+    {
+      "word": "buy-in",
+      "meaning_zh": "(名詞) 認同、支持",
+      "example_en": "Securing buy-in from the engineering team will be critical for the project's success.",
+      "example_zh": "取得工程團隊的認同對專案的成功至關重要。"
+    },
+    {
+      "word": "rollout plan",
+      "meaning_zh": "(名詞片語) 推行計畫、上線計畫",
+      "example_en": "The rollout plan includes a pilot phase in two regions before nationwide deployment.",
+      "example_zh": "推行計畫包括在兩個區域進行試行，然後再全國推行。"
+    },
+    {
+      "word": "soft launch",
+      "meaning_zh": "(名詞片語) 試營運、低調上市",
+      "example_en": "We are planning a soft launch in three cities before the official global release.",
+      "example_zh": "我們計畫在正式全球發行前，於三個城市進行試營運。"
+    },
+    {
+      "word": "hard launch",
+      "meaning_zh": "(名詞片語) 正式發行、大規模上市",
+      "example_en": "After the successful soft launch, we are preparing for a hard launch next quarter.",
+      "example_zh": "在試營運成功後，我們正準備下一季的正式發行。"
+    },
+    {
+      "word": "ground floor opportunity",
+      "meaning_zh": "(名詞片語) 早期機會、最初投入的機會",
+      "example_en": "Joining the start-up offered a rare ground floor opportunity that could become very profitable.",
+      "example_zh": "加入這家新創公司提供了一個罕見且未來可能非常有利可圖的早期機會。"
+    },
+    {
+      "word": "trickle down",
+      "meaning_zh": "(片語) 逐漸向下傳遞、向下滲透",
+      "example_en": "Changes to corporate strategy often take months to trickle down to frontline employees.",
+      "example_zh": "公司策略的改變通常需要數個月才會逐漸傳遞到第一線員工。"
+    },
+    {
+      "word": "top-down approach",
+      "meaning_zh": "(名詞片語) 由上而下的做法",
+      "example_en": "Our company has shifted away from a strict top-down approach to encourage employee input.",
+      "example_zh": "公司已從嚴格的由上而下做法轉變，以鼓勵員工提供意見。"
+    },
+    {
+      "word": "bottom-up approach",
+      "meaning_zh": "(名詞片語) 由下而上的做法",
+      "example_en": "A bottom-up approach to innovation has helped us identify ideas directly from frontline staff.",
+      "example_zh": "由下而上的創新做法幫助我們直接從第一線員工身上找到構想。"
+    },
+    {
+      "word": "groundbreaking",
+      "meaning_zh": "(形容詞) 突破性的、開創性的",
+      "example_en": "The groundbreaking research could transform the way the industry approaches battery design.",
+      "example_zh": "這項突破性研究可能改變整個產業在電池設計上的做法。"
+    },
+    {
+      "word": "cutting-edge",
+      "meaning_zh": "(形容詞) 最前沿的、尖端的",
+      "example_en": "Our laboratory is equipped with cutting-edge instruments for genetic analysis.",
+      "example_zh": "我們的實驗室配備了用於基因分析的尖端儀器。"
+    },
+    {
+      "word": "state-of-the-art",
+      "meaning_zh": "(形容詞) 最先進的、最新技術的",
+      "example_en": "The state-of-the-art manufacturing facility will reduce production time by forty percent.",
+      "example_zh": "這座最先進的製造廠將使生產時間縮短百分之四十。"
+    },
+    {
+      "word": "turnkey solution",
+      "meaning_zh": "(名詞片語) 整體交鑰匙解決方案",
+      "example_en": "We provide a turnkey solution that includes installation, training, and ongoing support.",
+      "example_zh": "我們提供一個包含安裝、訓練和持續支援的整體交鑰匙解決方案。"
+    },
+    {
+      "word": "off-the-shelf",
+      "meaning_zh": "(形容詞) 現成的、標準商品的",
+      "example_en": "An off-the-shelf software package might suit our needs better than a custom-built one.",
+      "example_zh": "現成的套裝軟體可能比客製化開發的更符合我們的需求。"
+    },
+    {
+      "word": "custom-built",
+      "meaning_zh": "(形容詞) 客製化打造的",
+      "example_en": "The custom-built CRM system was tailored specifically to our complex sales workflow.",
+      "example_zh": "這套客製化打造的 CRM 系統是專門針對我們複雜的銷售流程量身設計。"
+    },
+    {
+      "word": "tailor-made",
+      "meaning_zh": "(形容詞) 量身訂做的、特別量身打造的",
+      "example_en": "We offer tailor-made financial advice based on each client's risk tolerance and goals.",
+      "example_zh": "我們依據每位客戶的風險承受度與目標，提供量身訂做的財務建議。"
+    },
+    {
+      "word": "tier pricing",
+      "meaning_zh": "(名詞片語) 分級定價、階梯式定價",
+      "example_en": "Our tier pricing structure gives volume discounts to customers who commit to longer contracts.",
+      "example_zh": "我們的分級定價結構為簽署較長合約的客戶提供量大折扣。"
+    },
+    {
+      "word": "bundling",
+      "meaning_zh": "(名詞) 搭售、組合銷售",
+      "example_en": "Software bundling allows us to sell complementary products at an attractive combined price.",
+      "example_zh": "軟體搭售讓我們能以具吸引力的組合價格出售互補的產品。"
+    },
+    {
+      "word": "unbundle",
+      "meaning_zh": "(動詞) 拆售、分開銷售",
+      "example_en": "Regulators may force the telecom giant to unbundle its services to encourage competition.",
+      "example_zh": "監管機構可能會迫使這家電信巨頭拆售其服務，以促進競爭。"
+    },
+    {
+      "word": "showrooming",
+      "meaning_zh": "(名詞) 展廳現象（在實體店看商品後線上購買）",
+      "example_en": "Showrooming has forced traditional retailers to rethink their in-store customer experience.",
+      "example_zh": "展廳現象迫使傳統零售商重新思考店內的顧客體驗。"
+    },
+    {
+      "word": "webrooming",
+      "meaning_zh": "(名詞) 反展廳現象（先上網研究再到實體店購買）",
+      "example_en": "Webrooming remains common for high-value purchases such as appliances and furniture.",
+      "example_zh": "在家電和家具等高價購買上，反展廳現象仍十分常見。"
+    },
+    {
+      "word": "brick-and-mortar",
+      "meaning_zh": "(形容詞) 實體店面的",
+      "example_en": "Despite the rise of e-commerce, brick-and-mortar locations still drive most of our revenue.",
+      "example_zh": "儘管電子商務崛起，實體店面仍貢獻我們大部分的營收。"
+    },
+    {
+      "word": "click-and-mortar",
+      "meaning_zh": "(形容詞) 兼具線上線下的、虛實整合的",
+      "example_en": "A successful click-and-mortar strategy depends on seamless inventory integration.",
+      "example_zh": "成功的虛實整合策略仰賴庫存系統的無縫整合。"
+    },
+    {
+      "word": "drop-ship",
+      "meaning_zh": "(動詞) 代發貨、直接由供應商出貨",
+      "example_en": "We drop-ship most of our online orders directly from the manufacturer's warehouse.",
+      "example_zh": "我們大部分的線上訂單都是直接由製造商的倉庫代發貨。"
+    },
+    {
+      "word": "stock turnover",
+      "meaning_zh": "(名詞片語) 存貨周轉、庫存周轉",
+      "example_en": "Improving stock turnover should reduce warehouse costs and free up working capital.",
+      "example_zh": "改善庫存周轉應能降低倉儲成本並釋出營運資金。"
+    },
+    {
+      "word": "shelf space",
+      "meaning_zh": "(名詞片語) 貨架空間、上架位置",
+      "example_en": "Negotiating prime shelf space at major retailers is critical for new consumer products.",
+      "example_zh": "在主要零售商談下黃金貨架空間，對新的消費性產品至關重要。"
+    },
+    {
+      "word": "POS terminal",
+      "meaning_zh": "(名詞片語) 銷售點終端、POS 收銀機",
+      "example_en": "All store locations will be upgraded with the new contactless POS terminals by year-end.",
+      "example_zh": "所有店面將在年底前升級為新的非接觸式 POS 終端。"
+    },
+    {
+      "word": "contactless payment",
+      "meaning_zh": "(名詞片語) 非接觸式付款、感應支付",
+      "example_en": "Contactless payment has become the preferred option for most customers under forty.",
+      "example_zh": "對於大多數四十歲以下的顧客而言，非接觸式付款已成為首選方式。"
+    },
+    {
+      "word": "chargeback fee",
+      "meaning_zh": "(名詞片語) 退款手續費、爭議款項手續費",
+      "example_en": "Merchants who exceed the chargeback threshold are subject to additional chargeback fees.",
+      "example_zh": "超過爭議款項門檻的商家會被收取額外的退款手續費。"
+    },
+    {
+      "word": "high-net-worth",
+      "meaning_zh": "(形容詞) 高淨值的、高資產的",
+      "example_en": "The private banking division focuses exclusively on high-net-worth individuals.",
+      "example_zh": "私人銀行部門只專注於服務高淨值客戶。"
+    },
+    {
+      "word": "ultra-high-net-worth",
+      "meaning_zh": "(形容詞) 超高淨值的",
+      "example_en": "Wealth managers compete fiercely to win ultra-high-net-worth clients.",
+      "example_zh": "財富管理業者為了爭取超高淨值客戶而競爭激烈。"
+    },
+    {
+      "word": "family office",
+      "meaning_zh": "(名詞片語) 家族辦公室、家族財富管理機構",
+      "example_en": "A family office typically manages investments, taxes, and philanthropy for a single wealthy family.",
+      "example_zh": "家族辦公室通常為單一富裕家族管理投資、稅務與慈善事務。"
+    },
+    {
+      "word": "wealth preservation",
+      "meaning_zh": "(名詞片語) 財富保全、資產保值",
+      "example_en": "Many retirees prioritize wealth preservation over aggressive growth in their investment portfolios.",
+      "example_zh": "許多退休人士在投資組合中將財富保全置於積極成長之上。"
+    },
+    {
+      "word": "philanthropic",
+      "meaning_zh": "(形容詞) 慈善的、公益的",
+      "example_en": "The foundation directs its philanthropic efforts toward education and clean water initiatives.",
+      "example_zh": "該基金會將其慈善行動聚焦於教育與乾淨水資源計畫。"
+    },
+    {
+      "word": "endowment",
+      "meaning_zh": "(名詞) 捐贈基金、捐助",
+      "example_en": "The university's endowment grew by twelve percent thanks to strong investment returns.",
+      "example_zh": "由於投資報酬亮眼，這所大學的捐贈基金成長了百分之十二。"
+    },
+    {
+      "word": "pro bono",
+      "meaning_zh": "(形容詞/副詞) 無償的、義務性的（多用於律師）",
+      "example_en": "Our firm encourages associates to take on pro bono cases for nonprofit organizations.",
+      "example_zh": "我們事務所鼓勵律師接手非營利組織的無償案件。"
+    },
+    {
+      "word": "in-kind donation",
+      "meaning_zh": "(名詞片語) 實物捐贈、非現金捐助",
+      "example_en": "Several companies made in-kind donations of food and supplies after the natural disaster.",
+      "example_zh": "在天災發生後，數家公司提供了食物與物資的實物捐贈。"
+    },
+    {
+      "word": "matching gift",
+      "meaning_zh": "(名詞片語) 對等捐款、配比捐贈",
+      "example_en": "Our employer offers a matching gift program for charitable donations up to five thousand dollars.",
+      "example_zh": "我們的雇主對員工慈善捐款提供最高五千美元的對等捐款方案。"
+    },
+    {
+      "word": "payroll deduction",
+      "meaning_zh": "(名詞片語) 薪資扣款",
+      "example_en": "Employees can set up automatic payroll deductions for retirement contributions.",
+      "example_zh": "員工可以設定自動薪資扣款，作為退休金提撥。"
+    },
+    {
+      "word": "direct deposit",
+      "meaning_zh": "(名詞片語) 薪資直接匯款入帳",
+      "example_en": "Setting up direct deposit ensures your paycheck arrives on the same day every month.",
+      "example_zh": "設定薪資直接匯款入帳可確保您的薪水每個月在同一天到帳。"
+    },
+    {
+      "word": "pay stub",
+      "meaning_zh": "(名詞片語) 薪資單、薪資明細",
+      "example_en": "You can download your pay stub from the employee self-service portal anytime.",
+      "example_zh": "您可以隨時從員工自助服務入口下載您的薪資單。"
+    },
+    {
+      "word": "open enrollment",
+      "meaning_zh": "(名詞片語) 福利選擇開放期",
+      "example_en": "Open enrollment for health benefits begins next Monday and runs for two weeks.",
+      "example_zh": "健康福利的選擇開放期從下週一開始，為期兩週。"
+    },
+    {
+      "word": "flexible spending account",
+      "meaning_zh": "(名詞片語) 彈性消費帳戶（稅前醫療儲蓄帳戶）",
+      "example_en": "Contributing to a flexible spending account lets you pay for medical expenses with pre-tax dollars.",
+      "example_zh": "提撥彈性消費帳戶可讓您以稅前資金支付醫療費用。"
+    },
+    {
+      "word": "health savings account",
+      "meaning_zh": "(名詞片語) 健康儲蓄帳戶",
+      "example_en": "Funds in a health savings account roll over from year to year, unlike most other accounts.",
+      "example_zh": "與大多數其他帳戶不同，健康儲蓄帳戶中的資金可逐年滾存。"
+    },
+    {
+      "word": "deductible amount",
+      "meaning_zh": "(名詞片語) 自付額、可扣抵金額",
+      "example_en": "Most plans require members to pay the deductible amount before insurance kicks in.",
+      "example_zh": "大多數方案要求會員先支付自付額後，保險才會開始給付。"
+    },
+    {
+      "word": "co-payment",
+      "meaning_zh": "(名詞) 自付額、共同負擔費用",
+      "example_en": "A co-payment of twenty dollars applies to each visit to an in-network specialist.",
+      "example_zh": "每次到網路內專科醫師看診須自付二十美元。"
+    },
+    {
+      "word": "in-network provider",
+      "meaning_zh": "(名詞片語) 網路內醫療提供者",
+      "example_en": "Members pay less when they choose an in-network provider for their medical care.",
+      "example_zh": "會員選擇網路內醫療提供者就醫時，自付費用較低。"
+    },
+    {
+      "word": "preauthorization",
+      "meaning_zh": "(名詞) 事前授權、預先核准",
+      "example_en": "Certain procedures require preauthorization from the insurance company before treatment.",
+      "example_zh": "某些醫療程序在治療前需要保險公司的事前授權。"
+    },
+    {
+      "word": "claim adjuster",
+      "meaning_zh": "(名詞片語) 理賠調查員、理賠專員",
+      "example_en": "A claim adjuster will contact you within forty-eight hours to assess the damage.",
+      "example_zh": "理賠專員將在四十八小時內聯繫您以評估損失。"
+    },
+    {
+      "word": "underwriter assessment",
+      "meaning_zh": "(名詞片語) 核保評估",
+      "example_en": "The underwriter assessment determines the premium based on your medical history.",
+      "example_zh": "核保評估會依據您的病史決定保費。"
+    },
+    {
+      "word": "rate increase",
+      "meaning_zh": "(名詞片語) 費率調漲、加價",
+      "example_en": "Policyholders received notice of a rate increase effective at the next renewal date.",
+      "example_zh": "保戶收到了下次續保日生效的費率調漲通知。"
+    },
+    {
+      "word": "no-claim bonus",
+      "meaning_zh": "(名詞片語) 無理賠優惠、無事故獎勵",
+      "example_en": "Drivers can earn a no-claim bonus for each accident-free year of coverage.",
+      "example_zh": "駕駛人每一年無事故承保，皆可獲得無理賠優惠。"
+    },
+    {
+      "word": "claims handler",
+      "meaning_zh": "(名詞片語) 理賠處理人員",
+      "example_en": "The claims handler requested additional documentation before processing the refund.",
+      "example_zh": "理賠處理人員在處理退款前要求補充更多文件。"
+    },
+    {
+      "word": "policy renewal",
+      "meaning_zh": "(名詞片語) 保單續約、保險續保",
+      "example_en": "Please review your coverage before policy renewal to ensure it still meets your needs.",
+      "example_zh": "請在保單續約前檢視您的保障範圍，確保它仍符合您的需求。"
+    },
+    {
+      "word": "pre-existing condition",
+      "meaning_zh": "(名詞片語) 既存疾病、投保前已有的疾病",
+      "example_en": "The new policy provides coverage for pre-existing conditions after a six-month waiting period.",
+      "example_zh": "新保單在六個月的等待期後，會為既存疾病提供保障。"
+    },
+    {
+      "word": "outpatient",
+      "meaning_zh": "(形容詞/名詞) 門診的、門診病人",
+      "example_en": "Most minor procedures can be completed on an outpatient basis without overnight hospital stays.",
+      "example_zh": "大部分小手術都可以在門診進行，不需要住院過夜。"
+    },
+    {
+      "word": "inpatient",
+      "meaning_zh": "(形容詞/名詞) 住院的、住院病人",
+      "example_en": "Inpatient care includes overnight hospitalization and continuous medical monitoring.",
+      "example_zh": "住院治療包括隔夜住院以及持續的醫療監測。"
+    },
+    {
+      "word": "medical billing",
+      "meaning_zh": "(名詞片語) 醫療帳務、醫療收費作業",
+      "example_en": "Our healthcare client outsources medical billing to a specialized service provider.",
+      "example_zh": "我們的醫療客戶將醫療帳務外包給專業的服務供應商。"
+    },
+    {
+      "word": "coding specialist",
+      "meaning_zh": "(名詞片語) 醫療編碼專員",
+      "example_en": "The coding specialist ensures each diagnosis is recorded with the correct ICD code for reimbursement.",
+      "example_zh": "醫療編碼專員會確保每項診斷以正確的 ICD 編碼登錄，以利申請給付。"
+    },
+    {
+      "word": "appointment reminder",
+      "meaning_zh": "(名詞片語) 預約提醒",
+      "example_en": "Automated appointment reminders have significantly reduced no-show rates at our clinics.",
+      "example_zh": "自動化的預約提醒大幅降低了我們診所的爽約率。"
+    },
+    {
+      "word": "no-show fee",
+      "meaning_zh": "(名詞片語) 失約費、爽約費",
+      "example_en": "A no-show fee of fifty dollars applies to appointments cancelled with less than two hours' notice.",
+      "example_zh": "若預約取消通知不足兩小時，將收取五十美元的爽約費。"
+    },
+    {
+      "word": "wait list",
+      "meaning_zh": "(名詞片語) 候補名單",
+      "example_en": "Patients can be added to the wait list for cancellations during peak season.",
+      "example_zh": "在旺季時，患者可加入候補名單以等候有人取消的時段。"
+    },
+    {
+      "word": "intake form",
+      "meaning_zh": "(名詞片語) 入院表、新客資料表",
+      "example_en": "Please complete the intake form at least ten minutes before your scheduled appointment.",
+      "example_zh": "請在預約時間至少十分鐘前完成入院表。"
+    },
+    {
+      "word": "scope of practice",
+      "meaning_zh": "(名詞片語) 執業範圍",
+      "example_en": "Nurse practitioners must work within the scope of practice defined by state law.",
+      "example_zh": "執業護理師必須在州法律所定義的執業範圍內工作。"
+    },
+    {
+      "word": "credentialing",
+      "meaning_zh": "(名詞) 資格審核、執照認證程序",
+      "example_en": "Hospital credentialing requires verification of education, training, and professional history.",
+      "example_zh": "醫院的資格審核需要驗證學歷、訓練與專業履歷。"
+    },
+    {
+      "word": "HIPAA compliance",
+      "meaning_zh": "(名詞片語) HIPAA 法規遵循（美國健康資訊隱私法）",
+      "example_en": "Strict HIPAA compliance is required when handling any patient health information.",
+      "example_zh": "處理任何病患健康資訊時都必須嚴格遵循 HIPAA 法規。"
+    },
+    {
+      "word": "EHR system",
+      "meaning_zh": "(名詞片語) 電子病歷系統",
+      "example_en": "The new EHR system allows doctors to access patient records securely from any device.",
+      "example_zh": "新的電子病歷系統讓醫師可以從任何裝置安全地存取病患記錄。"
+    },
+    {
+      "word": "patient portal",
+      "meaning_zh": "(名詞片語) 病患入口網站、病人線上服務平台",
+      "example_en": "Through the patient portal, members can view lab results and schedule follow-up appointments.",
+      "example_zh": "透過病患入口網站，會員可以查看檢驗結果並預約回診。"
+    },
+    {
+      "word": "leasehold",
+      "meaning_zh": "(名詞) 租賃權、租賃資產",
+      "example_en": "The company holds a long-term leasehold on the downtown office building.",
+      "example_zh": "公司持有市中心辦公大樓的長期租賃權。"
+    },
+    {
+      "word": "freehold",
+      "meaning_zh": "(名詞) 永久產權、自由保有地產",
+      "example_en": "Investors prefer freehold properties because they offer full ownership of both land and buildings.",
+      "example_zh": "投資人偏好永久產權的房產，因為它們提供土地與建築物的完整所有權。"
+    },
+    {
+      "word": "anchor tenant",
+      "meaning_zh": "(名詞片語) 主力承租戶、招牌商戶",
+      "example_en": "Securing an anchor tenant is crucial for the success of any new shopping mall.",
+      "example_zh": "找到主力承租戶對任何新購物中心的成功都至關重要。"
+    },
+    {
+      "word": "common area maintenance",
+      "meaning_zh": "(名詞片語) 公共區域維護費",
+      "example_en": "Common area maintenance fees are typically charged on top of the base rent.",
+      "example_zh": "公共區域維護費通常會在基本租金之外另行收取。"
+    },
+    {
+      "word": "rent roll",
+      "meaning_zh": "(名詞片語) 租金明細表、租賃清冊",
+      "example_en": "The rent roll lists every tenant's lease term, monthly payment, and renewal date.",
+      "example_zh": "租金明細表列出每位租戶的租期、月付金額與續租日。"
+    },
+    {
+      "word": "vacancy rate",
+      "meaning_zh": "(名詞片語) 空置率",
+      "example_en": "The vacancy rate for downtown office space has climbed sharply since the pandemic.",
+      "example_zh": "市中心辦公空間的空置率自疫情以來急遽攀升。"
+    },
+    {
+      "word": "absorption rate",
+      "meaning_zh": "(名詞片語) 吸納率、銷售消化率",
+      "example_en": "A high absorption rate indicates strong demand for housing in the area.",
+      "example_zh": "高吸納率代表該區域對住宅有強勁的需求。"
+    },
+    {
+      "word": "due diligence period",
+      "meaning_zh": "(名詞片語) 盡職調查期、審查期",
+      "example_en": "Buyers typically have a thirty-day due diligence period to inspect the property before closing.",
+      "example_zh": "買方通常有三十天的盡職調查期，可在交屋前檢查房產。"
+    },
+    {
+      "word": "earnest money deposit",
+      "meaning_zh": "(名詞片語) 訂金、誠意金",
+      "example_en": "An earnest money deposit demonstrates the buyer's serious intent to purchase the property.",
+      "example_zh": "訂金顯示買方有認真購買該房產的意願。"
+    },
+    {
+      "word": "title search",
+      "meaning_zh": "(名詞片語) 產權調查",
+      "example_en": "A title search is required to verify there are no liens or claims against the property.",
+      "example_zh": "需要進行產權調查以確認該房產沒有任何抵押或請求權。"
+    },
+    {
+      "word": "appraisal value",
+      "meaning_zh": "(名詞片語) 鑑價估值",
+      "example_en": "If the appraisal value falls below the offer price, the buyer may need to renegotiate.",
+      "example_zh": "若鑑價估值低於出價，買方可能需要重新議價。"
+    },
+    {
+      "word": "occupancy permit",
+      "meaning_zh": "(名詞片語) 使用執照、入住許可",
+      "example_en": "The building cannot be opened to the public until the occupancy permit is issued.",
+      "example_zh": "在使用執照核發之前，這棟建築不能對公眾開放。"
+    },
+    {
+      "word": "zoning ordinance",
+      "meaning_zh": "(名詞片語) 土地分區法規、分區條例",
+      "example_en": "Local zoning ordinances determine which types of businesses can operate in each district.",
+      "example_zh": "地方土地分區法規規定每個區域可以營業的事業類型。"
+    },
+    {
+      "word": "variance request",
+      "meaning_zh": "(名詞片語) 法規變更申請、分區例外申請",
+      "example_en": "The developer submitted a variance request to build slightly above the height limit.",
+      "example_zh": "建商提出了法規變更申請，希望可以略高於限高建造。"
+    },
+    {
+      "word": "data residency",
+      "meaning_zh": "(名詞片語) 資料駐留、資料存放地",
+      "example_en": "European customers often ask about data residency to confirm that their information stays within the EU.",
+      "example_zh": "歐洲客戶常會詢問資料駐留問題，以確認他們的資訊存放於歐盟境內。"
+    },
+    {
+      "word": "data sovereignty",
+      "meaning_zh": "(名詞片語) 資料主權、數據主權",
+      "example_en": "Data sovereignty laws restrict cross-border transfers of certain types of personal information.",
+      "example_zh": "資料主權法規限制某些類型個人資訊的跨境傳輸。"
+    },
+    {
+      "word": "data minimization",
+      "meaning_zh": "(名詞片語) 資料最小化（只收集必要資料）",
+      "example_en": "Data minimization is a core principle of privacy regulations like the GDPR.",
+      "example_zh": "資料最小化是 GDPR 等隱私法規的核心原則之一。"
+    },
+    {
+      "word": "purpose limitation",
+      "meaning_zh": "(名詞片語) 目的限制（資料僅可用於蒐集目的）",
+      "example_en": "Purpose limitation prevents companies from reusing personal data for unrelated activities.",
+      "example_zh": "目的限制原則阻止公司將個人資料挪用於不相關的活動。"
+    },
+    {
+      "word": "data controller",
+      "meaning_zh": "(名詞片語) 資料控管者",
+      "example_en": "As the data controller, we are responsible for ensuring lawful processing of customer data.",
+      "example_zh": "身為資料控管者，我們有責任確保客戶資料的處理合法。"
+    },
+    {
+      "word": "data processor",
+      "meaning_zh": "(名詞片語) 資料處理者",
+      "example_en": "Our cloud vendor acts as a data processor and follows our written instructions strictly.",
+      "example_zh": "我們的雲端供應商擔任資料處理者的角色，並嚴格遵循我方的書面指示。"
     }
   ]
 }

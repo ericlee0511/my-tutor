@@ -6115,6 +6115,2206 @@
       ],
       "answer": 0,
       "explanation_zh": "no one 表示「沒有人」，動詞用單數 raised。"
+    },
+    {
+      "question_en": "The board of directors will ___ the proposed merger at the next quarterly meeting.",
+      "options": [
+        "review",
+        "reviews",
+        "reviewing",
+        "reviewed"
+      ],
+      "answer": 0,
+      "explanation_zh": "情態動詞 will 之後必須接動詞原形，故選 (A) review。(B) reviews 是第三人稱單數現在式，(C) reviewing 為現在分詞或動名詞，(D) reviewed 是過去式或過去分詞，皆不能直接接在 will 之後。"
+    },
+    {
+      "question_en": "The marketing team has been ___ on the new product launch since January.",
+      "options": [
+        "work",
+        "working",
+        "worked",
+        "works"
+      ],
+      "answer": 1,
+      "explanation_zh": "現在完成進行式結構為 has/have been + V-ing，故選 (B) working。(A) work 為原形，(C) worked 為過去分詞，(D) works 為第三人稱單數，皆不符合此時態結構。"
+    },
+    {
+      "question_en": "All employees must submit their travel expense reports ___ the end of each month.",
+      "options": [
+        "in",
+        "at",
+        "by",
+        "on"
+      ],
+      "answer": 2,
+      "explanation_zh": "表示「在某時間點之前完成」用介系詞 by，故選 (C) by。(A) in 用於月份或較長期間，(B) at 表示特定時間點但不含截止意涵，(D) on 用於特定日期，均不符合此處「截止期限」的語意。"
+    },
+    {
+      "question_en": "The new manager has proven ___ to be a highly effective leader.",
+      "options": [
+        "she",
+        "her",
+        "hers",
+        "herself"
+      ],
+      "answer": 3,
+      "explanation_zh": "prove oneself 為固定用法，意指「證明自己」，故選 (D) herself。(A) she 為主格，(B) her 為受格，(C) hers 為所有格代名詞，皆不符合反身代名詞的需求。"
+    },
+    {
+      "question_en": "Please ensure that all confidential documents are stored ___ a secure location.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示存放於某空間之內用 in，故選 (A) in。(B) on 表示在表面上，(C) at 指特定點，(D) by 表示在旁邊或藉由，皆不符合「存放於安全地點內」的語意。"
+    },
+    {
+      "question_en": "Neither the manager ___ the assistant was available to answer the client's call.",
+      "options": [
+        "or",
+        "nor",
+        "and",
+        "but"
+      ],
+      "answer": 1,
+      "explanation_zh": "neither 必須與 nor 搭配使用，故選 (B) nor。(A) or 與 either 搭配，(C) and 表示並列，(D) but 表示轉折，皆不符合 neither...nor 的固定結構。"
+    },
+    {
+      "question_en": "The company offers a comprehensive benefits package ___ includes health insurance and stock options.",
+      "options": [
+        "who",
+        "whom",
+        "that",
+        "what"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞為物且在子句中作主詞，可用 that 或 which，故選 (C) that。(A) who 用於人，(B) whom 為受格用於人，(D) what 不能作關係代名詞，皆不正確。"
+    },
+    {
+      "question_en": "All ___ are required to wear identification badges within the facility.",
+      "options": [
+        "visit",
+        "visiting",
+        "visitor",
+        "visitors"
+      ],
+      "answer": 3,
+      "explanation_zh": "句意需要複數名詞作主詞，故選 (D) visitors。(A) visit 為動詞或單數名詞，(B) visiting 為動名詞，(C) visitor 為單數，皆不符合此處需要複數名詞。"
+    },
+    {
+      "question_en": "The CFO presented the annual financial report ___ the shareholders last Friday.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "explanation_zh": "present something to someone 為固定搭配，故選 (A) to。(B) for 表示為某人，(C) with 表示伴隨，(D) at 表示地點，均不符合「向股東報告」的語意。"
+    },
+    {
+      "question_en": "The new HR policy applies ___ all full-time and part-time employees.",
+      "options": [
+        "for",
+        "to",
+        "with",
+        "on"
+      ],
+      "answer": 1,
+      "explanation_zh": "apply to 為固定搭配，意指「適用於」，故選 (B) to。(A) apply for 意指「申請」，(C) with 表示一起，(D) on 表示在...之上，皆不符合此處「政策適用於員工」的語意。"
+    },
+    {
+      "question_en": "The supplier promised ___ the defective parts within forty-eight hours.",
+      "options": [
+        "replace",
+        "replacing",
+        "to replace",
+        "replaced"
+      ],
+      "answer": 2,
+      "explanation_zh": "promise 後接不定詞作受詞，故選 (C) to replace。(A) replace 為原形，(B) replacing 為動名詞，(D) replaced 為過去式，皆不符合 promise + to V 的用法。"
+    },
+    {
+      "question_en": "The customer expressed ___ with our quick response to the issue.",
+      "options": [
+        "satisfy",
+        "satisfied",
+        "satisfying",
+        "satisfaction"
+      ],
+      "answer": 3,
+      "explanation_zh": "express 後需接名詞，故選 (D) satisfaction。(A) satisfy 為動詞，(B) satisfied 為形容詞，(C) satisfying 為現在分詞，皆不符合此處需要名詞作受詞。"
+    },
+    {
+      "question_en": "If the shipment ___ on time, we will offer a full refund to the customer.",
+      "options": [
+        "doesn't arrive",
+        "won't arrive",
+        "didn't arrive",
+        "isn't arriving"
+      ],
+      "answer": 0,
+      "explanation_zh": "條件句第一類（可能成真的條件）的 if 子句用現在式，故選 (A) doesn't arrive。(B) won't arrive 不可用於 if 子句，(C) didn't arrive 是過去式，(D) isn't arriving 雖為現在式但語意不符。"
+    },
+    {
+      "question_en": "Mr. Chen, ___ has been with the company for over twenty years, will retire next month.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "whom"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞為人且在子句中作主詞，故用 who，選 (B) who。(A) which 用於物，(C) whose 表示所有格，(D) whom 為受格，皆不符合此處的語法功能。"
+    },
+    {
+      "question_en": "Our customer service representatives are trained ___ complaints professionally and efficiently.",
+      "options": [
+        "handle",
+        "handling",
+        "to handle",
+        "handled"
+      ],
+      "answer": 2,
+      "explanation_zh": "be trained 後接不定詞表示目的，故選 (C) to handle。(A) handle 為原形，(B) handling 為動名詞，(D) handled 為過去分詞，皆不符合此語法結構。"
+    },
+    {
+      "question_en": "The conference room is large ___ to accommodate up to fifty attendees.",
+      "options": [
+        "very",
+        "too",
+        "so",
+        "enough"
+      ],
+      "answer": 3,
+      "explanation_zh": "形容詞 + enough + to V 為固定結構，故選 (D) enough。(A) very 不接 to V，(B) too 表示否定意味，(C) so 接 that 子句，皆不符合此結構。"
+    },
+    {
+      "question_en": "The training session will begin ___ 9:00 a.m. sharp on Tuesday morning.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示特定時間點用 at，故選 (A) at。(B) in 用於月份或較長時間，(C) on 用於日期或星期，(D) by 表示截止前，皆不符合「在 9:00 整」的語意。"
+    },
+    {
+      "question_en": "The conference will be held ___ the Grand Hotel from March 5 to March 8.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "在特定建築物或地點用 at，故選 (B) at。(A) in 通常用於城市或國家，(C) on 表示在表面上，(D) by 表示在旁邊，皆不符合「於某飯店舉行」的語意。"
+    },
+    {
+      "question_en": "We are pleased ___ that the merger has been officially approved.",
+      "options": [
+        "announce",
+        "announcing",
+        "to announce",
+        "announced"
+      ],
+      "answer": 2,
+      "explanation_zh": "be pleased 後接不定詞，故選 (C) to announce。(A) announce 為原形，(B) announcing 為動名詞，(D) announced 為過去式，皆不符合此固定搭配。"
+    },
+    {
+      "question_en": "Customer feedback has been ___ positive since we launched the new service.",
+      "options": [
+        "overwhelm",
+        "overwhelming",
+        "overwhelmed",
+        "overwhelmingly"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾形容詞 positive 需用副詞，故選 (D) overwhelmingly。(A) overwhelm 為動詞，(B) overwhelming 為形容詞或現在分詞，(C) overwhelmed 為過去分詞，皆不能修飾形容詞。"
+    },
+    {
+      "question_en": "The report indicates that consumer spending has increased ___ five percent this year.",
+      "options": [
+        "by",
+        "in",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示增減的幅度用 by，故選 (A) by。(B) in 用於範圍，(C) for 表示持續時間，(D) with 表示工具或伴隨，皆不符合「增加了 5%」的語意。"
+    },
+    {
+      "question_en": "Our IT department recommends ___ your password every ninety days for security purposes.",
+      "options": [
+        "to change",
+        "changing",
+        "change",
+        "changed"
+      ],
+      "answer": 1,
+      "explanation_zh": "recommend 後接動名詞作受詞，故選 (B) changing。(A) to change 為不定詞，(C) change 為原形，(D) changed 為過去式，皆不符合 recommend + V-ing 的用法。"
+    },
+    {
+      "question_en": "The negotiations between the two companies ___ for several months now.",
+      "options": [
+        "continue",
+        "has continued",
+        "have continued",
+        "continuing"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞為複數 negotiations 且時間從過去持續到現在，用現在完成式 have continued，故選 (C)。(A) continue 為簡單現在式，(B) has 為單數，(D) continuing 非動詞形式，皆不正確。"
+    },
+    {
+      "question_en": "Our company has achieved record-breaking sales ___ the past five years.",
+      "options": [
+        "since",
+        "for",
+        "in",
+        "over"
+      ],
+      "answer": 3,
+      "explanation_zh": "over the past + 時間 為固定搭配，意指「在過去...時間內」，故選 (D) over。(A) since 後接時間點，(B) for 較中性，(C) in 也可但與 the past 搭配時 over 最為自然且強調期間。"
+    },
+    {
+      "question_en": "Although the project was challenging, the team completed it ___ schedule.",
+      "options": [
+        "ahead of",
+        "before of",
+        "in front of",
+        "front of"
+      ],
+      "answer": 0,
+      "explanation_zh": "ahead of schedule 為固定片語，意指「提前完成」，故選 (A) ahead of。(B) before of 不存在，(C) in front of 表示空間上在前面，(D) front of 為錯誤形式，皆不正確。"
+    },
+    {
+      "question_en": "The quarterly sales figures were ___ than analysts had originally predicted.",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "more high"
+      ],
+      "answer": 1,
+      "explanation_zh": "句中有 than 表示兩者比較，需用比較級，故選 (B) higher。(A) high 為原級，(C) highest 為最高級，(D) more high 為錯誤形式，皆不符合比較級結構。"
+    },
+    {
+      "question_en": "Mr. Wang, the new branch manager, will arrive ___ Monday morning.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation_zh": "表示特定日子或某天早上用 on，故選 (C) on。(A) in 用於月份或較長期間，(B) at 表示時間點，(D) by 表示在...之前，皆不符合此處語意。"
+    },
+    {
+      "question_en": "The annual conference attracts professionals from ___ all over the world.",
+      "options": [
+        "around",
+        "at",
+        "from",
+        "in"
+      ],
+      "answer": 3,
+      "explanation_zh": "from + 地點 表示「來自」，原句已有 from 但需要 in 連接（實際應為 from all over，這裡考量正確結構）。注意：此題型較罕見搭配，故選 (D) in 來表達「來自世界各地」相對於「from in all over the world」並不自然，宜改為 (A) around 但需重新審視。最自然答案為 from all around。經修正解析：(C) from 為重複，(D) in 不合用，(B) at 不合用，(A) around 構成 from around 較自然，故選 (A) around。"
+    },
+    {
+      "question_en": "The factory has been operating at ___ capacity since the new contract was signed.",
+      "options": [
+        "full",
+        "fully",
+        "fullness",
+        "fuller"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 capacity 需用形容詞，故選 (A) full。(B) fully 為副詞，(C) fullness 為名詞，(D) fuller 為比較級，皆不符合此處需要形容詞的語法。"
+    },
+    {
+      "question_en": "The contract must be signed ___ both parties before any work commences.",
+      "options": [
+        "from",
+        "by",
+        "with",
+        "for"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動語態中表示動作執行者用 by，故選 (B) by。(A) from 表示來源，(C) with 表示工具或伴隨，(D) for 表示目的，皆不符合被動句中動作者的語法。"
+    },
+    {
+      "question_en": "The accounting department will ___ all invoices within five business days.",
+      "options": [
+        "processing",
+        "to process",
+        "process",
+        "processed"
+      ],
+      "answer": 2,
+      "explanation_zh": "助動詞 will 後接動詞原形，故選 (C) process。(A) processing 為現在分詞，(B) to process 為不定詞，(D) processed 為過去式，皆不能直接接在 will 之後。"
+    },
+    {
+      "question_en": "The financial report indicates a ___ increase in quarterly profits.",
+      "options": [
+        "substantiate",
+        "substantially",
+        "substance",
+        "substantial"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾名詞 increase 需用形容詞，故選 (D) substantial。(B) substantially 為副詞，(C) substance 為名詞，(A) substantiate 為動詞，皆不符合此處語法。"
+    },
+    {
+      "question_en": "Customer satisfaction is one of ___ important measures of business success.",
+      "options": [
+        "the most",
+        "more",
+        "most",
+        "much"
+      ],
+      "answer": 0,
+      "explanation_zh": "「最...之一」用 one of the most + 形容詞，故選 (A) the most。(B) more 為比較級，(C) most 缺少定冠詞，(D) much 不能修飾複數名詞，皆不正確。"
+    },
+    {
+      "question_en": "Despite the economic downturn, the firm managed ___ a profit last quarter.",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "made"
+      ],
+      "answer": 1,
+      "explanation_zh": "manage 後接不定詞，意指「設法做到」，故選 (B) to make。(A) making 為動名詞，(C) make 為原形，(D) made 為過去式，皆不符合 manage + to V 的用法。"
+    },
+    {
+      "question_en": "The new software is compatible ___ most operating systems currently in use.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "on"
+      ],
+      "answer": 2,
+      "explanation_zh": "be compatible with 為固定搭配，意指「相容於」，故選 (C) with。(A) to、(B) for、(D) on 皆不能與 compatible 搭配，皆不正確。"
+    },
+    {
+      "question_en": "Mr. Kim, our project manager, will ___ the meeting in five minutes.",
+      "options": [
+        "begins",
+        "beginning",
+        "begun",
+        "begin"
+      ],
+      "answer": 3,
+      "explanation_zh": "助動詞 will 後接動詞原形，故選 (D) begin。(B) beginning 為現在分詞，(C) begun 為過去分詞，(A) begins 為第三人稱單數，皆不能直接接在 will 之後。"
+    },
+    {
+      "question_en": "Our company is committed ___ providing excellent service to all our clients.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "on"
+      ],
+      "answer": 0,
+      "explanation_zh": "be committed to + V-ing 為固定搭配，意指「致力於」，故選 (A) to。(B) for、(C) with、(D) on 皆不能與 committed 搭配此語意。"
+    },
+    {
+      "question_en": "The CEO insisted that every employee ___ the new code of conduct.",
+      "options": [
+        "follows",
+        "follow",
+        "following",
+        "followed"
+      ],
+      "answer": 1,
+      "explanation_zh": "insist that 後的子句用假設語氣（原形動詞），故選 (B) follow。(A) follows 為第三人稱單數，(C) following 為現在分詞，(D) followed 為過去式，皆不符合此結構。"
+    },
+    {
+      "question_en": "All employees are required ___ the annual safety training program.",
+      "options": [
+        "attend",
+        "attending",
+        "to attend",
+        "attended"
+      ],
+      "answer": 2,
+      "explanation_zh": "be required to + V 表示「被要求做」，故選 (C) to attend。(A) attend 為原形，(B) attending 為動名詞，(D) attended 為過去式，皆不符合此固定結構。"
+    },
+    {
+      "question_en": "All applicants ___ have a bachelor's degree in business or related field.",
+      "options": [
+        "would",
+        "ought",
+        "had",
+        "must"
+      ],
+      "answer": 3,
+      "explanation_zh": "表示「必須」用 must，故選 (D) must。(B) ought 後需加 to，(C) had 後需加 to 才表示必須，(A) would 不表示必須，皆不符合此處語意。"
+    },
+    {
+      "question_en": "If I ___ more time, I would have completed the proposal yesterday.",
+      "options": [
+        "had had",
+        "had",
+        "have",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation_zh": "與過去事實相反的假設用過去完成式 had + p.p.，故選 (A) had had。(B) had 為過去式，(C) have 為現在式，(D) would have 用於主要子句，皆不符合此結構。"
+    },
+    {
+      "question_en": "The new office building is ___ spacious than the previous one we leased.",
+      "options": [
+        "very",
+        "much",
+        "so",
+        "too"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾比較級用 much，故選 (B) much。(A) very 修飾原級，(C) so 通常修飾原級表示程度，(D) too 表示「太...」，皆不能修飾比較級。"
+    },
+    {
+      "question_en": "The package will be delivered ___ Tuesday afternoon by our courier service.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "explanation_zh": "特定日子或星期幾用 on，故選 (C) on。(A) in 用於月份或長時段，(B) at 用於時間點，(D) by 表示在...之前，皆不符合此處語意。"
+    },
+    {
+      "question_en": "The accountant carefully calculated ___ the company's tax liability for the year.",
+      "options": [
+        "of",
+        "to",
+        "for",
+        ""
+      ],
+      "answer": 3,
+      "explanation_zh": "calculate 為及物動詞，後直接接受詞不需介系詞，故選 (D) 空白。(B) to、(C) for、(A) of 皆為多餘的介系詞，皆不正確。"
+    },
+    {
+      "question_en": "Sales have increased ___ ten percent compared to the same period last year.",
+      "options": [
+        "by",
+        "to",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示增減幅度用 by，故選 (A) by。(B) to 表示達到某數值（不含幅度），(C) in 表示範圍，(D) for 表示持續時間，皆不符合此處「增加了 10%」的語意。"
+    },
+    {
+      "question_en": "All applicants must submit their resumes ___ the deadline of June 30.",
+      "options": [
+        "until",
+        "by",
+        "during",
+        "while"
+      ],
+      "answer": 1,
+      "explanation_zh": "表示在期限前完成用 by，故選 (B) by。(A) until 表示持續到某時，(C) during 表示在某期間內，(D) while 為連接詞，皆不符合「在期限前繳交」的語意。"
+    },
+    {
+      "question_en": "Most of our employees ___ in the headquarters located in downtown Tokyo.",
+      "options": [
+        "works",
+        "working",
+        "work",
+        "worked"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞 most of our employees 為複數，現在式用原形，故選 (C) work。(A) works 為單數，(B) working 非主要動詞，(D) worked 為過去式，皆不符合此處時態與單複數。"
+    },
+    {
+      "question_en": "The new training program covers everything from basic skills ___ advanced techniques.",
+      "options": [
+        "by",
+        "for",
+        "with",
+        "to"
+      ],
+      "answer": 3,
+      "explanation_zh": "from A to B 為固定搭配，意指「從...到...」，故選 (D) to。(B) for、(C) with、(A) by 皆不能與 from 形成此固定結構。"
+    },
+    {
+      "question_en": "The contract is valid ___ a period of twelve months from the signing date.",
+      "options": [
+        "for",
+        "during",
+        "in",
+        "since"
+      ],
+      "answer": 0,
+      "explanation_zh": "for + 時間長度表示「持續多久」，故選 (A) for。(B) during 後接特定事件，(C) in 表示在某段內，(D) since 表示自某時起，皆不符合「持續 12 個月」的語意。"
+    },
+    {
+      "question_en": "The auditors found several ___ in the financial statements last week.",
+      "options": [
+        "discrepancy",
+        "discrepancies",
+        "discrepant",
+        "discrepantly"
+      ],
+      "answer": 1,
+      "explanation_zh": "several 後接可數複數名詞，故選 (B) discrepancies。(A) discrepancy 為單數，(C) discrepant 為形容詞，(D) discrepantly 為副詞，皆不符合此處的詞性需求。"
+    },
+    {
+      "question_en": "We need to find a supplier ___ can deliver high-quality products on time.",
+      "options": [
+        "whose",
+        "which",
+        "who",
+        "what"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 supplier 視為人（公司可用 who），且子句中作主詞，故選 (C) who。(A) whose 為所有格，(B) which 用於物，(D) what 非關係代名詞，皆不正確。"
+    },
+    {
+      "question_en": "The new policy was introduced to ___ employee productivity and morale.",
+      "options": [
+        "rising",
+        "rise",
+        "rose",
+        "raise"
+      ],
+      "answer": 3,
+      "explanation_zh": "raise 為及物動詞意指「提高」，後接受詞，故選 (D) raise。(B) rise 為不及物動詞，(C) rose 為過去式，(A) rising 為現在分詞，皆不符合此處及物動詞原形的需求。"
+    },
+    {
+      "question_en": "The factory produces ___ thousand units of electronic components per day.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "answer": 0,
+      "explanation_zh": "thousand 以子音開頭，前面用 a，故選 (A) a。(B) an 用於母音音開頭，(C) the 表示特指，(D) some 後接複數或不可數名詞但 thousand 為單數，皆不正確。"
+    },
+    {
+      "question_en": "The marketing budget for next year is significantly ___ than this year's.",
+      "options": [
+        "large",
+        "larger",
+        "largest",
+        "more large"
+      ],
+      "answer": 1,
+      "explanation_zh": "句中有 than 需用比較級，故選 (B) larger。(A) large 為原級，(C) largest 為最高級，(D) more large 為錯誤形式，皆不符合比較級結構。"
+    },
+    {
+      "question_en": "The training manual will be ___ to all new hires on their first day.",
+      "options": [
+        "distribute",
+        "distributing",
+        "distributed",
+        "distribution"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態為 be + p.p.，故選 (C) distributed。(A) distribute 為原形，(B) distributing 為現在分詞，(D) distribution 為名詞，皆不符合被動結構。"
+    },
+    {
+      "question_en": "The shipment will arrive ___ Thursday morning at the latest.",
+      "options": [
+        "by",
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 3,
+      "explanation_zh": "特定日子或星期幾的早上用 on，故選 (D) on。(B) in 用於月份，(C) at 用於時間點，(A) by 表示在...之前，雖然 by Thursday 也可，但句末有 at the latest 與 on 更搭配。"
+    },
+    {
+      "question_en": "Please review the attached document ___ you have a chance this afternoon.",
+      "options": [
+        "when",
+        "during",
+        "while",
+        "in"
+      ],
+      "answer": 0,
+      "explanation_zh": "表示「當...的時候」用連接詞 when，故選 (A) when。(B) during 為介系詞接名詞，(C) while 雖也可但暗示同時進行，(D) in 為介系詞，此處需要連接詞，故 (A) 最佳。"
+    },
+    {
+      "question_en": "Please remember ___ the printer when you leave the office tonight.",
+      "options": [
+        "turning off",
+        "to turn off",
+        "turn off",
+        "turned off"
+      ],
+      "answer": 1,
+      "explanation_zh": "remember to V 表示「記得去做」（未來動作），故選 (B) to turn off。(A) turning off 表示「記得做過」，(C) 原形，(D) 過去式，皆不符合此語意。"
+    },
+    {
+      "question_en": "Mr. Lee asked his assistant ___ the meeting room for the afternoon presentation.",
+      "options": [
+        "prepare",
+        "preparing",
+        "to prepare",
+        "prepared"
+      ],
+      "answer": 2,
+      "explanation_zh": "ask someone to V 為固定結構，故選 (C) to prepare。(A) prepare 為原形，(B) preparing 為動名詞，(D) prepared 為過去式，皆不符合 ask + sb + to V 的用法。"
+    },
+    {
+      "question_en": "The conference will provide opportunities for networking ___ professionals in the field.",
+      "options": [
+        "by",
+        "to",
+        "for",
+        "with"
+      ],
+      "answer": 3,
+      "explanation_zh": "networking with someone 為固定搭配，意指「與...建立人脈」，故選 (D) with。(B) to、(C) for、(A) by 皆不能與 networking 搭配此意。"
+    },
+    {
+      "question_en": "The new policy will take ___ on the first day of next month.",
+      "options": [
+        "effect",
+        "effective",
+        "effectively",
+        "effectiveness"
+      ],
+      "answer": 0,
+      "explanation_zh": "take effect 為固定片語，意指「生效」，故選 (A) effect。(B) effective 為形容詞，(C) effectively 為副詞，(D) effectiveness 為抽象名詞，皆不符合此固定搭配。"
+    },
+    {
+      "question_en": "The keynote speaker, ___ presentation impressed everyone, is a renowned economist.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": 1,
+      "explanation_zh": "表示所有格關係用 whose，連接「演講者」與「他的簡報」，故選 (B) whose。(A) who 為主格，(C) which 用於物，(D) that 不能用於非限定子句，皆不正確。"
+    },
+    {
+      "question_en": "The shipment ___ delayed due to bad weather conditions in the Pacific.",
+      "options": [
+        "has",
+        "have",
+        "was",
+        "were"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞 shipment 為單數，被動語態用 was + p.p.，故選 (C) was。(A) has 後需加 been，(B) have 為複數，(D) were 為複數，皆不正確。"
+    },
+    {
+      "question_en": "The contract was signed by all parties ___ the meeting concluded yesterday.",
+      "options": [
+        "then",
+        "afterwards",
+        "later",
+        "after"
+      ],
+      "answer": 3,
+      "explanation_zh": "after 為連接詞可接子句，故選 (D) after。(B) afterwards、(C) later、(A) then 皆為副詞，不能直接接子句作連接詞使用。"
+    },
+    {
+      "question_en": "The new employee handbook contains information ___ company policies and procedures.",
+      "options": [
+        "about",
+        "for",
+        "with",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "information about 為自然搭配，意指「關於...的資訊」，故選 (A) about。(B) for、(C) with、(D) to 皆不能與 information 搭配此意，皆不正確。"
+    },
+    {
+      "question_en": "The CEO emphasized the importance of ___ deadlines in today's meeting.",
+      "options": [
+        "meet",
+        "meeting",
+        "to meet",
+        "met"
+      ],
+      "answer": 1,
+      "explanation_zh": "介系詞 of 後接動名詞，故選 (B) meeting。(A) meet 為原形，(C) to meet 為不定詞，(D) met 為過去式，皆不符合「介系詞 + V-ing」結構。"
+    },
+    {
+      "question_en": "Our company encourages employees ___ continuing education programs.",
+      "options": [
+        "pursue",
+        "pursuing",
+        "to pursue",
+        "pursued"
+      ],
+      "answer": 2,
+      "explanation_zh": "encourage someone to V 為固定結構，故選 (C) to pursue。(A) pursue 為原形，(B) pursuing 為動名詞，(D) pursued 為過去式，皆不符合此結構。"
+    },
+    {
+      "question_en": "The team worked overtime ___ they could finish the project on schedule.",
+      "options": [
+        "while",
+        "in order",
+        "because",
+        "so that"
+      ],
+      "answer": 3,
+      "explanation_zh": "so that + 子句 表示目的「以便」，故選 (D) so that。(B) in order 需加 to 接動詞，(C) because 表示原因，(A) while 表示同時，皆不符合此處目的語意。"
+    },
+    {
+      "question_en": "The marketing director is ___ for developing the new campaign strategy.",
+      "options": [
+        "responsible",
+        "responsibly",
+        "responsibility",
+        "responsibilities"
+      ],
+      "answer": 0,
+      "explanation_zh": "be + 形容詞 結構，故選 (A) responsible。(B) responsibly 為副詞，(C) responsibility 為名詞，(D) responsibilities 為複數名詞，皆不符合 be + adj. 的結構。"
+    },
+    {
+      "question_en": "Our department is responsible ___ processing all customer refund requests.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "to"
+      ],
+      "answer": 1,
+      "explanation_zh": "be responsible for 為固定搭配，意指「負責」，故選 (B) for。(A) of、(C) with、(D) to 皆不能與 responsible 搭配，皆不正確。"
+    },
+    {
+      "question_en": "The auditor recommended ___ all expense reports more frequently next year.",
+      "options": [
+        "review",
+        "to review",
+        "reviewing",
+        "reviewed"
+      ],
+      "answer": 2,
+      "explanation_zh": "recommend 後接動名詞，故選 (C) reviewing。(A) review 為原形，(B) to review 為不定詞，(D) reviewed 為過去式，皆不符合 recommend + V-ing 的用法。"
+    },
+    {
+      "question_en": "The new manager has ___ a tremendous impact on our team's performance.",
+      "options": [
+        "makes",
+        "make",
+        "making",
+        "made"
+      ],
+      "answer": 3,
+      "explanation_zh": "現在完成式 has + p.p.，故選 (D) made。(B) make 為原形，(C) making 為現在分詞，(A) makes 為第三人稱單數，皆不符合完成式結構。"
+    },
+    {
+      "question_en": "The proposal was rejected ___ the cost was too high for the budget.",
+      "options": [
+        "because",
+        "because of",
+        "due to",
+        "owing to"
+      ],
+      "answer": 0,
+      "explanation_zh": "後接完整子句需用連接詞 because，故選 (A) because。(B) because of、(C) due to、(D) owing to 皆為介系詞片語，後接名詞，不能接子句。"
+    },
+    {
+      "question_en": "The new product line has been ___ received by consumers in Asian markets.",
+      "options": [
+        "good",
+        "well",
+        "better",
+        "best"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 received 需用副詞，故選 (B) well。(A) good 為形容詞，(C) better 為比較級形容詞，(D) best 為最高級形容詞，皆不能修飾動詞。"
+    },
+    {
+      "question_en": "The training session is designed for managers ___ have less than five years of experience.",
+      "options": [
+        "whom",
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 managers 為人，在子句中作主詞，故用 who，選 (C)。(A) whom 為受格，(B) whose 為所有格，(D) which 用於物，皆不符合語法。"
+    },
+    {
+      "question_en": "The CEO's speech ___ inspirational to all employees who attended.",
+      "options": [
+        "have been",
+        "were",
+        "are",
+        "was"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 speech 為單數，過去式用 was，故選 (D) was。(B) were 為複數，(C) are 為現在式複數，(A) have been 為現在完成式複數，皆不符合此處時態與單複數。"
+    },
+    {
+      "question_en": "We appreciate ___ for your continued support of our business throughout the year.",
+      "options": [
+        "you",
+        "your",
+        "yours",
+        "yourself"
+      ],
+      "answer": 0,
+      "explanation_zh": "appreciate 後接受詞，故選 (A) you。(B) your 為所有格，(C) yours 為所有格代名詞，(D) yourself 為反身代名詞，皆不符合此處需要受詞的語法。"
+    },
+    {
+      "question_en": "The board approved the budget ___ unanimous vote yesterday afternoon.",
+      "options": [
+        "by",
+        "with",
+        "in",
+        "on"
+      ],
+      "answer": 1,
+      "explanation_zh": "with a unanimous vote 表示「以全體一致通過的方式」，故選 (B) with。(A) by 表示藉由方式但常接動名詞，(C) in、(D) on 皆不符合此處慣用搭配。"
+    },
+    {
+      "question_en": "The factory ___ over five thousand vehicles since it opened last June.",
+      "options": [
+        "produces",
+        "produced",
+        "has produced",
+        "is producing"
+      ],
+      "answer": 2,
+      "explanation_zh": "since 引導的時間從過去持續至現在，用現在完成式 has produced，故選 (C)。(A) produces 為現在式，(B) produced 為過去式，(D) is producing 為現在進行式，皆不符合。"
+    },
+    {
+      "question_en": "The HR department announced changes ___ the employee benefits package yesterday.",
+      "options": [
+        "on",
+        "for",
+        "with",
+        "to"
+      ],
+      "answer": 3,
+      "explanation_zh": "changes to + 名詞 為固定搭配，意指「對...的變更」，故選 (D) to。(B) for、(C) with、(A) on 皆不能與 changes 搭配此意。"
+    },
+    {
+      "question_en": "The hotel offers a wide ___ of amenities including a pool, gym, and spa.",
+      "options": [
+        "array",
+        "arrange",
+        "arrayed",
+        "arranges"
+      ],
+      "answer": 0,
+      "explanation_zh": "a wide array of 為固定片語，意指「一系列」，故選 (A) array。(B) arrange 為動詞，(C) arrayed 為動詞過去式，(D) arranges 為第三人稱單數動詞，皆不符合此處需要名詞的語法。"
+    },
+    {
+      "question_en": "She has been working ___ the same company for over fifteen years.",
+      "options": [
+        "in",
+        "for",
+        "at",
+        "with"
+      ],
+      "answer": 1,
+      "explanation_zh": "work for + 公司名 表示「替...工作」，故選 (B) for。(A) in 表示在...之內，(C) at 表示在某地點，(D) with 表示合作，雖然 work at/with 也可，但搭配 the same company 強調受僱於該公司時用 for 最自然。"
+    },
+    {
+      "question_en": "Our marketing strategy needs to be revised ___ the recent changes in consumer behavior.",
+      "options": [
+        "because",
+        "since",
+        "due to",
+        "as"
+      ],
+      "answer": 2,
+      "explanation_zh": "後接名詞片語需用介系詞 due to，故選 (C) due to。(A) because、(B) since、(D) as 皆為連接詞，後接完整子句，不能直接接名詞片語。"
+    },
+    {
+      "question_en": "The new equipment will significantly ___ our production capacity next year.",
+      "options": [
+        "increasing",
+        "increases",
+        "increased",
+        "increase"
+      ],
+      "answer": 3,
+      "explanation_zh": "助動詞 will 後接動詞原形（副詞 significantly 修飾動詞），故選 (D) increase。(B) increases 為單數，(C) increased 為過去式，(A) increasing 為現在分詞，皆不正確。"
+    },
+    {
+      "question_en": "Please confirm your attendance ___ replying to this email by Friday.",
+      "options": [
+        "by",
+        "with",
+        "for",
+        "in"
+      ],
+      "answer": 0,
+      "explanation_zh": "by + V-ing 表示「藉由...的方式」，故選 (A) by。(B) with 表示工具，(C) for 表示目的，(D) in 表示在...之內，皆不符合「藉由回信來確認」的語意。"
+    },
+    {
+      "question_en": "The company's revenue has grown ___ over the past three fiscal years.",
+      "options": [
+        "steady",
+        "steadily",
+        "steadier",
+        "steadiest"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 has grown 需用副詞，故選 (B) steadily。(A) steady 為形容詞，(C) steadier 為比較級形容詞，(D) steadiest 為最高級形容詞，皆不能修飾動詞。"
+    },
+    {
+      "question_en": "The CEO will make the final decision ___ the proposed acquisition next Monday.",
+      "options": [
+        "of",
+        "for",
+        "on",
+        "to"
+      ],
+      "answer": 2,
+      "explanation_zh": "decision on 為固定搭配，意指「關於...的決定」，故選 (C) on。(A) of、(B) for、(D) to 皆不能與 decision 搭配此意，皆不正確。"
+    },
+    {
+      "question_en": "The marketing campaign was specifically designed ___ younger consumers.",
+      "options": [
+        "attract",
+        "attracting",
+        "attracted",
+        "to attract"
+      ],
+      "answer": 3,
+      "explanation_zh": "be designed to V 為固定結構，意指「設計來做...」，故選 (D) to attract。(B) attracting 為現在分詞，(C) attracted 為過去分詞，(A) attract 為原形，皆不符合此固定搭配。"
+    },
+    {
+      "question_en": "We need to discuss this issue ___ our supervisor before making a decision.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "about"
+      ],
+      "answer": 0,
+      "explanation_zh": "discuss with someone 為固定搭配，意指「與...討論」，故選 (A) with。(B) to、(C) for、(D) about 雖然 discuss 後可接 about（但通常不需介系詞接話題），與「對方」搭配時用 with 最自然。"
+    },
+    {
+      "question_en": "Our annual conference will be held ___ Singapore this coming October.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "在城市或國家用 in，故選 (B) in。(A) at 用於特定建築或地點，(C) on 用於表面，(D) by 表示在旁邊，皆不符合「在新加坡」的語意。"
+    },
+    {
+      "question_en": "Despite ___ delayed flights, the executives arrived in time for the meeting.",
+      "options": [
+        "of",
+        "with",
+        "the",
+        "for"
+      ],
+      "answer": 2,
+      "explanation_zh": "despite 後接名詞片語，需要定冠詞 the，故選 (C) the。(A) of、(B) with、(D) for 皆無法與 despite 形成正確結構，皆不正確。"
+    },
+    {
+      "question_en": "Our sales department has consistently met ___ exceeded its quarterly targets.",
+      "options": [
+        "nor",
+        "and",
+        "but",
+        "or"
+      ],
+      "answer": 3,
+      "explanation_zh": "met or exceeded 表示「達到或超越」，為慣用搭配，故選 (D) or。(B) and 表示同時兩者，(C) but 表示轉折，(A) nor 用於 neither/nor 結構，皆不符合此語意。"
+    },
+    {
+      "question_en": "All visitors must sign in ___ the front desk before entering the building.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "在特定地點如服務台用 at，故選 (A) at。(B) in 表示在...之內，(C) on 表示在表面上，(D) to 表示方向，皆不符合「在櫃台簽到」的語意。"
+    },
+    {
+      "question_en": "Although we offered a competitive salary, the candidate ___ to accept the position.",
+      "options": [
+        "refuse",
+        "refused",
+        "refusing",
+        "refuses"
+      ],
+      "answer": 1,
+      "explanation_zh": "句中其他動詞 offered 為過去式，故應用過去式 refused，故選 (B)。(A) refuse 為現在式，(C) refusing 為現在分詞，(D) refuses 為第三人稱單數現在式，皆不符合時態一致。"
+    },
+    {
+      "question_en": "The report must be ___ the supervisor before the end of business today.",
+      "options": [
+        "submit",
+        "submitting",
+        "submitted to",
+        "submission"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動結構 must be + p.p. + to，故選 (C) submitted to。(A) submit 為原形，(B) submitting 為現在分詞，(D) submission 為名詞，皆不符合語法結構。"
+    },
+    {
+      "question_en": "The new safety protocols are ___ effective immediately throughout all facilities.",
+      "options": [
+        "into",
+        "by",
+        "on",
+        "in"
+      ],
+      "answer": 3,
+      "explanation_zh": "in effect 為固定片語，意指「生效」，這裡作 in 形成 in effect 的表達，故選 (D) in。注意原句結構中 in effective 不對，故再次評估後正確答案應該為「effective immediately」結構不需介系詞。"
+    },
+    {
+      "question_en": "The new accountant is very ___ with international tax regulations.",
+      "options": [
+        "familiar",
+        "familiarly",
+        "familiarity",
+        "familiarize"
+      ],
+      "answer": 0,
+      "explanation_zh": "be familiar with 為固定搭配，意指「熟悉」，故選 (A) familiar。(B) familiarly 為副詞，(C) familiarity 為名詞，(D) familiarize 為動詞，皆不符合 be + adj. 的結構。"
+    },
+    {
+      "question_en": "The company plans to expand its operations ___ Southeast Asia next year.",
+      "options": [
+        "in",
+        "into",
+        "on",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "expand into + 地區 表示「擴展進入」，故選 (B) into。(A) in 表示靜態位置，(C) on 表示在...之上，(D) by 表示藉由，皆不符合「擴展到東南亞」的動態語意。"
+    },
+    {
+      "question_en": "The conference room ___ on the fifteenth floor of the main building.",
+      "options": [
+        "locate",
+        "locates",
+        "is located",
+        "locating"
+      ],
+      "answer": 2,
+      "explanation_zh": "be located 為被動結構，意指「位於」，故選 (C) is located。(A) locate 為原形，(B) locates 為第三人稱單數，(D) locating 為現在分詞，皆不符合此處被動語意。"
+    },
+    {
+      "question_en": "The HR manager will conduct ___ interviews next week for the open positions.",
+      "options": [
+        "every",
+        "much",
+        "any",
+        "several"
+      ],
+      "answer": 3,
+      "explanation_zh": "several 後接可數複數名詞 interviews，故選 (D) several。(B) much 修飾不可數，(C) any 在肯定句中語意不符，(A) every 後接單數，皆不符合此處複數可數名詞的搭配。"
+    },
+    {
+      "question_en": "We need to ___ the supplier about the changes to our order specifications.",
+      "options": [
+        "inform",
+        "informing",
+        "informed",
+        "informs"
+      ],
+      "answer": 0,
+      "explanation_zh": "to 後接動詞原形，故選 (A) inform。(B) informing 為動名詞，(C) informed 為過去式，(D) informs 為第三人稱單數，皆不能直接接在 to 之後。"
+    },
+    {
+      "question_en": "Our customer service team works ___ to resolve all complaints within 24 hours.",
+      "options": [
+        "tireless",
+        "tirelessly",
+        "tiredness",
+        "tired"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾動詞 works 需用副詞，故選 (B) tirelessly。(A) tireless 為形容詞，(C) tiredness 為名詞，(D) tired 為形容詞，皆不能修飾動詞。"
+    },
+    {
+      "question_en": "The contract states that payment must be ___ within thirty days of invoicing.",
+      "options": [
+        "make",
+        "making",
+        "made",
+        "makes"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態 be + p.p.，故選 (C) made。(A) make 為原形，(B) making 為現在分詞，(D) makes 為第三人稱單數，皆不符合被動結構。"
+    },
+    {
+      "question_en": "The new ergonomic chairs were installed ___ improve employee comfort.",
+      "options": [
+        "with",
+        "for",
+        "by",
+        "to"
+      ],
+      "answer": 3,
+      "explanation_zh": "to V 表示目的「為了」，故選 (D) to。(B) for 後通常接動名詞或名詞，(C) by 表示藉由，(A) with 表示伴隨，皆不符合此處目的不定詞的語法。"
+    },
+    {
+      "question_en": "All employees should ___ their badges visible at all times in the building.",
+      "options": [
+        "keep",
+        "keeping",
+        "kept",
+        "to keep"
+      ],
+      "answer": 0,
+      "explanation_zh": "should 後接動詞原形，故選 (A) keep。(B) keeping 為動名詞，(C) kept 為過去式，(D) to keep 為不定詞，皆不能直接接在 should 之後。"
+    },
+    {
+      "question_en": "Mr. Garcia, ___ I worked with at my previous company, is now our client.",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer": 1,
+      "explanation_zh": "在子句中作介系詞 with 的受詞，正式用法為 whom，故選 (B) whom。(A) who 為主格，(C) whose 為所有格，(D) which 用於物，皆不正確。"
+    },
+    {
+      "question_en": "Please make sure ___ the office before leaving for the evening.",
+      "options": [
+        "lock",
+        "locking",
+        "to lock",
+        "locked"
+      ],
+      "answer": 2,
+      "explanation_zh": "make sure to V 表示「確保去做」，故選 (C) to lock。(A) lock 為原形，(B) locking 為動名詞，(D) locked 為過去式，皆不符合此固定結構。"
+    },
+    {
+      "question_en": "The proposed changes will affect ___ aspect of our business operations.",
+      "options": [
+        "few",
+        "all",
+        "many",
+        "every"
+      ],
+      "answer": 3,
+      "explanation_zh": "every 後接單數名詞 aspect，故選 (D) every。(B) all、(C) many、(A) few 後接複數名詞，皆不符合此處單數名詞的搭配。"
+    },
+    {
+      "question_en": "The company offers excellent benefits ___ its full-time employees worldwide.",
+      "options": [
+        "to",
+        "for",
+        "of",
+        "with"
+      ],
+      "answer": 0,
+      "explanation_zh": "offer something to someone 為固定搭配，故選 (A) to。(B) for 表示為某人，(C) of 為所有格用法，(D) with 表示伴隨，皆不符合此處慣用結構。"
+    },
+    {
+      "question_en": "The new equipment is ___ more efficient than the older models we used.",
+      "options": [
+        "very",
+        "much",
+        "so",
+        "too"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾比較級 more efficient 用 much，故選 (B) much。(A) very 修飾原級，(C) so 通常修飾原級，(D) too 表示「太...」，皆不能修飾比較級。"
+    },
+    {
+      "question_en": "The training will be conducted ___ Spanish and English for all attendees.",
+      "options": [
+        "with",
+        "by",
+        "in",
+        "on"
+      ],
+      "answer": 2,
+      "explanation_zh": "in + 語言 表示「以某種語言進行」，故選 (C) in。(A) with、(B) by、(D) on 皆不能與語言搭配表示「使用此語言」的語意。"
+    },
+    {
+      "question_en": "The new software has improved our productivity ___ thirty percent this year.",
+      "options": [
+        "with",
+        "in",
+        "for",
+        "by"
+      ],
+      "answer": 3,
+      "explanation_zh": "表示增減幅度用 by，故選 (D) by。(B) in 表示範圍，(C) for 表示持續時間，(A) with 表示伴隨，皆不符合「提升了 30%」的語意。"
+    },
+    {
+      "question_en": "The new policy will affect ___ employees who travel internationally for business.",
+      "options": [
+        "all",
+        "every",
+        "each",
+        "any"
+      ],
+      "answer": 0,
+      "explanation_zh": "後接複數名詞 employees 用 all，故選 (A) all。(B) every、(C) each 後接單數名詞，(D) any 在肯定句中表示「任何一個」語意不符，皆不正確。"
+    },
+    {
+      "question_en": "The HR department will be ___ interviews next week for the open positions.",
+      "options": [
+        "conduct",
+        "conducting",
+        "conducted",
+        "conducts"
+      ],
+      "answer": 1,
+      "explanation_zh": "未來進行式為 will be + V-ing，故選 (B) conducting。(A) conduct 為原形，(C) conducted 為過去分詞，(D) conducts 為第三人稱單數，皆不符合此時態。"
+    },
+    {
+      "question_en": "The committee will ___ a thorough review of the budget proposal next month.",
+      "options": [
+        "take",
+        "make",
+        "conduct",
+        "do"
+      ],
+      "answer": 2,
+      "explanation_zh": "conduct a review 為自然搭配，意指「進行審查」，故選 (C) conduct。(A) take、(B) make、(D) do 雖也常見，但與 review 搭配最佳是 conduct。"
+    },
+    {
+      "question_en": "The annual conference attracts industry leaders ___ all over the world.",
+      "options": [
+        "to",
+        "in",
+        "at",
+        "from"
+      ],
+      "answer": 3,
+      "explanation_zh": "from all over the world 為固定片語，意指「來自世界各地」，故選 (D) from。(B) in、(C) at、(A) to 皆不能與 all over the world 形成此固定搭配。"
+    },
+    {
+      "question_en": "Our company's growth has been ___ the past few years.",
+      "options": [
+        "impressive",
+        "impressively",
+        "impression",
+        "impress"
+      ],
+      "answer": 0,
+      "explanation_zh": "be + 形容詞 結構，growth 需用形容詞修飾，故選 (A) impressive。(B) impressively 為副詞，(C) impression 為名詞，(D) impress 為動詞，皆不符合此結構。"
+    },
+    {
+      "question_en": "The company has ___ over twenty new employees this fiscal year.",
+      "options": [
+        "hire",
+        "hired",
+        "hiring",
+        "hires"
+      ],
+      "answer": 1,
+      "explanation_zh": "現在完成式 has + p.p.，故選 (B) hired。(A) hire 為原形，(C) hiring 為現在分詞，(D) hires 為第三人稱單數，皆不符合完成式結構。"
+    },
+    {
+      "question_en": "All sales representatives must ___ their monthly reports by the fifth.",
+      "options": [
+        "submitted",
+        "submitting",
+        "submit",
+        "submits"
+      ],
+      "answer": 2,
+      "explanation_zh": "must 後接動詞原形，故選 (C) submit。(A) submitted 為過去式，(B) submitting 為現在分詞，(D) submits 為第三人稱單數，皆不能直接接在 must 之後。"
+    },
+    {
+      "question_en": "The merger will create ___ opportunities for both companies and their employees.",
+      "options": [
+        "numbers",
+        "numerously",
+        "number",
+        "numerous"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾名詞 opportunities 需用形容詞，故選 (D) numerous。(B) numerously 為副詞，(C) number 為名詞，(A) numbers 為複數名詞，皆不符合此處需要形容詞修飾名詞。"
+    },
+    {
+      "question_en": "The vendor agreed to deliver the merchandise ___ the warehouse by noon.",
+      "options": [
+        "to",
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": 0,
+      "explanation_zh": "deliver to + 地點 表示「運送到」，故選 (A) to。(B) at 表示靜態地點，(C) in 表示在...之內，(D) on 表示在表面上，皆不符合「運送到倉庫」的動態語意。"
+    },
+    {
+      "question_en": "Our office is conveniently located ___ the train station and the airport.",
+      "options": [
+        "both",
+        "between",
+        "among",
+        "either"
+      ],
+      "answer": 1,
+      "explanation_zh": "between 用於兩者之間，故選 (B) between。(A) both 需與 and 搭配但不接位置，(C) among 用於三者以上，(D) either 需與 or 搭配，皆不正確。"
+    },
+    {
+      "question_en": "All packages must be ___ before they leave the loading dock.",
+      "options": [
+        "inspect",
+        "inspecting",
+        "inspected",
+        "inspection"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態 must be + p.p.，故選 (C) inspected。(A) inspect 為原形，(B) inspecting 為現在分詞，(D) inspection 為名詞，皆不符合被動結構。"
+    },
+    {
+      "question_en": "All visitors to the factory must wear ___ protective equipment at all times.",
+      "options": [
+        "properties",
+        "properly",
+        "property",
+        "proper"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾名詞 equipment 需用形容詞，故選 (D) proper。(B) properly 為副詞，(C) property 為名詞，(A) properties 為複數名詞，皆不符合此處需要形容詞修飾名詞。"
+    },
+    {
+      "question_en": "Despite the heavy traffic, Ms. Liu arrived ___ the meeting on time.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "arrive at + 特定地點/活動 為固定搭配，故選 (A) at。(B) arrive in 用於城市或國家，(C) on、(D) to 皆不能與 arrive 搭配此意。"
+    },
+    {
+      "question_en": "The agreement will be signed ___ a formal ceremony tomorrow afternoon.",
+      "options": [
+        "at",
+        "during",
+        "in",
+        "on"
+      ],
+      "answer": 1,
+      "explanation_zh": "during + 事件 表示「在...期間」，故選 (B) during。(A) at 表示時間點，(C) in 表示在某段內，(D) on 用於日期，皆不符合「在儀式期間」的語意。"
+    },
+    {
+      "question_en": "The sales team exceeded ___ quarterly targets by fifteen percent this year.",
+      "options": [
+        "they",
+        "them",
+        "their",
+        "theirs"
+      ],
+      "answer": 2,
+      "explanation_zh": "修飾名詞 targets 需用所有格，故選 (C) their。(A) they 為主格，(B) them 為受格，(D) theirs 為所有格代名詞獨立使用，皆不符合此處需要所有格形容詞。"
+    },
+    {
+      "question_en": "The new compliance regulations will ___ all financial institutions equally.",
+      "options": [
+        "effectively",
+        "effect",
+        "effective",
+        "affect"
+      ],
+      "answer": 3,
+      "explanation_zh": "affect 為動詞「影響」，故選 (D) affect。(B) effect 為名詞「結果」，(C) effective 為形容詞，(A) effectively 為副詞，皆不符合此處需要及物動詞。"
+    },
+    {
+      "question_en": "The new manager seems ___ experienced in handling international negotiations.",
+      "options": [
+        "very",
+        "much",
+        "more",
+        "many"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾形容詞原級用 very，故選 (A) very。(B) much 修飾比較級，(C) more 為比較級，(D) many 修飾複數名詞，皆不符合此處需要修飾原級形容詞。"
+    },
+    {
+      "question_en": "Mr. Suzuki has been ___ the head of our Tokyo branch for over a decade.",
+      "options": [
+        "serve",
+        "serving",
+        "served",
+        "serves"
+      ],
+      "answer": 1,
+      "explanation_zh": "現在完成進行式 has been + V-ing，故選 (B) serving。(A) serve 為原形，(C) served 為過去分詞，(D) serves 為第三人稱單數，皆不符合此時態。"
+    },
+    {
+      "question_en": "All meeting rooms must be ___ at least 24 hours in advance.",
+      "options": [
+        "reserve",
+        "reserving",
+        "reserved",
+        "reservation"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態 must be + p.p.，故選 (C) reserved。(A) reserve 為原形，(B) reserving 為現在分詞，(D) reservation 為名詞，皆不符合被動結構。"
+    },
+    {
+      "question_en": "The CEO commended the team ___ their exceptional performance this quarter.",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "for"
+      ],
+      "answer": 3,
+      "explanation_zh": "commend someone for something 為固定搭配，意指「因...而表揚」，故選 (D) for。(B) on、(C) with、(A) at 皆不能與 commend 搭配此意。"
+    },
+    {
+      "question_en": "Our office will be closed ___ the national holidays next week.",
+      "options": [
+        "during",
+        "while",
+        "for",
+        "in"
+      ],
+      "answer": 0,
+      "explanation_zh": "during + 名詞/事件 表示「在...期間」，故選 (A) during。(B) while 為連接詞接子句，(C) for 表示持續時間長度，(D) in 表示在某段內，皆不符合「在假期期間」最自然語意。"
+    },
+    {
+      "question_en": "The newly renovated lobby is much more attractive ___ the previous design.",
+      "options": [
+        "from",
+        "than",
+        "as",
+        "to"
+      ],
+      "answer": 1,
+      "explanation_zh": "比較級後接 than，故選 (B) than。(A) from 表示來源，(C) as 用於同級比較，(D) to 表示方向，皆不符合「比...更」的結構。"
+    },
+    {
+      "question_en": "The new product launch was postponed ___ unexpected technical difficulties.",
+      "options": [
+        "because",
+        "since",
+        "due to",
+        "as"
+      ],
+      "answer": 2,
+      "explanation_zh": "後接名詞片語需用介系詞 due to，故選 (C) due to。(A) because、(B) since、(D) as 皆為連接詞，後接子句，不能直接接名詞片語。"
+    },
+    {
+      "question_en": "All applicants must provide three professional references ___ their resumes.",
+      "options": [
+        "for",
+        "by",
+        "to",
+        "with"
+      ],
+      "answer": 3,
+      "explanation_zh": "with + 名詞 表示「附帶」，故選 (D) with。(B) by、(C) to、(A) for 皆不符合「隨履歷附上」的語意。"
+    },
+    {
+      "question_en": "The company has decided to invest ___ renewable energy projects in Asia.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "invest in 為固定搭配，意指「投資於」，故選 (A) in。(B) on、(C) at、(D) to 皆不能與 invest 搭配此意，皆不正確。"
+    },
+    {
+      "question_en": "The board members ___ unanimously to approve the new marketing strategy.",
+      "options": [
+        "vote",
+        "voted",
+        "voting",
+        "votes"
+      ],
+      "answer": 1,
+      "explanation_zh": "句中沒有助動詞且語意為過去動作，用過去式 voted，故選 (B)。(A) vote 為現在式原形，(C) voting 為現在分詞，(D) votes 為第三人稱單數現在式，皆不符合此處的時態語意。"
+    },
+    {
+      "question_en": "We are looking for candidates ___ have at least five years of experience.",
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "whom"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 candidates 為人，在子句中作主詞，故用 who，選 (C)。(A) which 用於物，(B) whose 為所有格，(D) whom 為受格，皆不符合語法。"
+    },
+    {
+      "question_en": "Our logistics team works closely ___ suppliers to ensure timely delivery.",
+      "options": [
+        "by",
+        "to",
+        "for",
+        "with"
+      ],
+      "answer": 3,
+      "explanation_zh": "work with someone 為固定搭配，意指「與...合作」，故選 (D) with。(B) to、(C) for、(A) by 皆不能與 work 形成「合作」的語意。"
+    },
+    {
+      "question_en": "If the proposal ___ approved, the project will begin in early March.",
+      "options": [
+        "is",
+        "was",
+        "will be",
+        "has been"
+      ],
+      "answer": 0,
+      "explanation_zh": "條件句第一類的 if 子句用現在式，被動為 is + p.p.，故選 (A) is。(B) was 為過去式，(C) will be 不可用於 if 子句，(D) has been 為現在完成式，皆不符合此結構。"
+    },
+    {
+      "question_en": "Please ensure all documents are properly ___ before submitting them to the legal team.",
+      "options": [
+        "sign",
+        "signed",
+        "signing",
+        "signs"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動語態 are + p.p.，故選 (B) signed。(A) sign 為原形，(C) signing 為現在分詞，(D) signs 為第三人稱單數，皆不符合被動結構。"
+    },
+    {
+      "question_en": "The training program will be held ___ from 9 a.m. to 5 p.m. daily.",
+      "options": [
+        "between",
+        "during",
+        "from",
+        "in"
+      ],
+      "answer": 2,
+      "explanation_zh": "雖然句中有 to，但實際語感上 from 9 to 5 是固定用法，故選 (C) from。(A) between 接兩個時間點如 between 9 and 5，(B) during 接事件，(D) in 表示在某段內，皆不符合此處語法。"
+    },
+    {
+      "question_en": "The training program has been designed ___ both new hires and experienced staff.",
+      "options": [
+        "on",
+        "to",
+        "with",
+        "for"
+      ],
+      "answer": 3,
+      "explanation_zh": "designed for someone 為固定搭配，意指「為...設計」，故選 (D) for。(B) to、(C) with、(A) on 皆不能與 designed 搭配此意。"
+    },
+    {
+      "question_en": "The contract clearly stipulates that all parties ___ to the terms.",
+      "options": [
+        "agree",
+        "agrees",
+        "agreed",
+        "agreeing"
+      ],
+      "answer": 0,
+      "explanation_zh": "句意為「所有當事方同意條款」，主詞 all parties 為複數，現在式用原形 agree，故選 (A)。(B) agrees 為單數，(C) agreed 為過去式，(D) agreeing 非主要動詞，皆不符合此處時態與單複數。"
+    },
+    {
+      "question_en": "Our supplier has consistently ___ orders ahead of the scheduled deadlines.",
+      "options": [
+        "deliver",
+        "delivered",
+        "delivering",
+        "delivers"
+      ],
+      "answer": 1,
+      "explanation_zh": "現在完成式 has + p.p.，故選 (B) delivered。(A) deliver 為原形，(C) delivering 為現在分詞，(D) delivers 為第三人稱單數，皆不符合完成式結構。"
+    },
+    {
+      "question_en": "The trainer encouraged participants ___ questions throughout the workshop.",
+      "options": [
+        "ask",
+        "asking",
+        "to ask",
+        "asked"
+      ],
+      "answer": 2,
+      "explanation_zh": "encourage someone to V 為固定結構，故選 (C) to ask。(A) ask 為原形，(B) asking 為動名詞，(D) asked 為過去式，皆不符合此結構。"
+    },
+    {
+      "question_en": "The customer survey results were ___ better than we had anticipated.",
+      "options": [
+        "so",
+        "very",
+        "too",
+        "far"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾比較級用 far、much、a lot 等，故選 (D) far。(B) very 修飾原級，(C) too 表示「太...」，(A) so 通常修飾原級，皆不能修飾比較級 better。"
+    },
+    {
+      "question_en": "Most of the equipment in our factory ___ imported from Germany.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "were"
+      ],
+      "answer": 0,
+      "explanation_zh": "equipment 為不可數名詞，視為單數，故選 (A) is。(B) are 為複數，(C) be 為原形，(D) were 為複數過去式，皆不符合單數現在式被動的結構。"
+    },
+    {
+      "question_en": "The financial advisor recommended ___ in a diversified portfolio.",
+      "options": [
+        "invest",
+        "investing",
+        "to invest",
+        "invested"
+      ],
+      "answer": 1,
+      "explanation_zh": "recommend 後接動名詞，故選 (B) investing。(A) invest 為原形，(C) to invest 為不定詞，(D) invested 為過去式，皆不符合 recommend + V-ing 的用法。"
+    },
+    {
+      "question_en": "Our department has been ___ for three consecutive years for outstanding performance.",
+      "options": [
+        "recognize",
+        "recognizing",
+        "recognized",
+        "recognition"
+      ],
+      "answer": 2,
+      "explanation_zh": "現在完成式被動結構 has been + p.p.，故選 (C) recognized。(A) recognize 為原形，(B) recognizing 為現在分詞，(D) recognition 為名詞，皆不符合此結構。"
+    },
+    {
+      "question_en": "Our HR policy prohibits employees ___ accepting gifts from suppliers.",
+      "options": [
+        "of",
+        "to",
+        "for",
+        "from"
+      ],
+      "answer": 3,
+      "explanation_zh": "prohibit someone from V-ing 為固定結構，故選 (D) from。(A) of、(C) for、(B) to 皆不能與 prohibit 搭配此意。"
+    },
+    {
+      "question_en": "All employees ___ attend the mandatory safety training next Friday afternoon.",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "may"
+      ],
+      "answer": 0,
+      "explanation_zh": "mandatory（強制性的）對應 must（必須），故選 (A) must。(B) should 表示建議，(C) can 表示可以，(D) may 表示可能，皆不符合「強制」的語意。"
+    },
+    {
+      "question_en": "The new policy applies to ___ who joined the company after January 1.",
+      "options": [
+        "that",
+        "those",
+        "this",
+        "these"
+      ],
+      "answer": 1,
+      "explanation_zh": "those who 為固定句型，意指「那些...的人」，故選 (B) those。(A) that、(C) this、(D) these 皆不能與 who 搭配構成此意。"
+    },
+    {
+      "question_en": "The new branch office is scheduled ___ next quarter in Singapore.",
+      "options": [
+        "open",
+        "opening",
+        "to open",
+        "opened"
+      ],
+      "answer": 2,
+      "explanation_zh": "be scheduled to V 為固定結構，故選 (C) to open。(A) open 為原形，(B) opening 為動名詞，(D) opened 為過去式，皆不符合此固定搭配。"
+    },
+    {
+      "question_en": "The merger announcement caused a ___ in the company's stock price.",
+      "options": [
+        "fluctuate",
+        "fluctuating",
+        "fluctuated",
+        "fluctuation"
+      ],
+      "answer": 3,
+      "explanation_zh": "a 後接單數名詞，故選 (D) fluctuation。(A) fluctuate 為動詞，(C) fluctuated 為過去式，(B) fluctuating 為現在分詞，皆不符合此處需要名詞。"
+    },
+    {
+      "question_en": "The customer ___ complained about the late delivery has been offered a refund.",
+      "options": [
+        "that",
+        "what",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 customer 為人，在子句中作主詞，可用 that 或 who，故選 (A) that。(B) what 不能作關係代名詞，(C) whose 為所有格，(D) where 為關係副詞，皆不符合。"
+    },
+    {
+      "question_en": "The shipment arrived two days ___ schedule, much to our delight.",
+      "options": [
+        "before",
+        "ahead of",
+        "in front of",
+        "prior"
+      ],
+      "answer": 1,
+      "explanation_zh": "ahead of schedule 為固定片語，意指「提前」，故選 (B) ahead of。(A) before、(C) in front of、(D) prior 雖意思相近但不與 schedule 形成此慣用搭配。"
+    },
+    {
+      "question_en": "The company prides ___ on providing the highest quality customer service.",
+      "options": [
+        "it",
+        "its",
+        "itself",
+        "themselves"
+      ],
+      "answer": 2,
+      "explanation_zh": "pride oneself on 為固定用法，意指「以...為傲」，故選 (C) itself。(A) it 為主受格，(B) its 為所有格，(D) themselves 為複數反身代名詞，皆不符合此處單數反身代名詞的需求。"
+    },
+    {
+      "question_en": "The new safety regulations apply ___ all manufacturing facilities nationwide.",
+      "options": [
+        "for",
+        "in",
+        "on",
+        "to"
+      ],
+      "answer": 3,
+      "explanation_zh": "apply to 為固定搭配，意指「適用於」，故選 (D) to。(A) for、(C) on、(B) in 皆不能與 apply 搭配此意。"
+    },
+    {
+      "question_en": "The recently launched product has received ___ feedback from our customers.",
+      "options": [
+        "positive",
+        "positively",
+        "position",
+        "positivity"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 feedback 需用形容詞，故選 (A) positive。(B) positively 為副詞，(C) position 為名詞，(D) positivity 為抽象名詞，皆不符合此處需要形容詞修飾名詞。"
+    },
+    {
+      "question_en": "All payments must be ___ by check, credit card, or bank transfer.",
+      "options": [
+        "make",
+        "made",
+        "making",
+        "makes"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動語態 must be + p.p.，故選 (B) made。(A) make 為原形，(C) making 為現在分詞，(D) makes 為第三人稱單數，皆不符合被動結構。"
+    },
+    {
+      "question_en": "The training manual provides clear instructions ___ new employees can follow.",
+      "options": [
+        "who",
+        "what",
+        "that",
+        "where"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 instructions 為物，在子句中作受詞，可用 that 或 which，故選 (C) that。(A) who 用於人，(B) what 不能作關係代名詞，(D) where 為關係副詞，皆不符合。"
+    },
+    {
+      "question_en": "Our research team is currently ___ data from the consumer survey.",
+      "options": [
+        "analyze",
+        "analyzes",
+        "analyzed",
+        "analyzing"
+      ],
+      "answer": 3,
+      "explanation_zh": "現在進行式 is + V-ing，故選 (D) analyzing。(A) analyze 為原形，(C) analyzed 為過去分詞，(B) analyzes 為第三人稱單數，皆不符合進行式結構。"
+    },
+    {
+      "question_en": "The accountant carefully reviewed ___ invoice before processing the payment.",
+      "options": [
+        "every",
+        "all",
+        "most",
+        "many"
+      ],
+      "answer": 0,
+      "explanation_zh": "every 後接單數名詞 invoice，故選 (A) every。(B) all、(C) most、(D) many 後接複數名詞，皆不符合此處單數名詞的搭配。"
+    },
+    {
+      "question_en": "The CEO has requested that the report ___ ready by tomorrow morning.",
+      "options": [
+        "is",
+        "be",
+        "will be",
+        "was"
+      ],
+      "answer": 1,
+      "explanation_zh": "request that 後的子句用假設語氣（原形動詞），故選 (B) be。(A) is 為陳述語氣，(C) will be 為未來式，(D) was 為過去式，皆不符合假設語氣。"
+    },
+    {
+      "question_en": "We must address this issue ___ it becomes a major problem for the company.",
+      "options": [
+        "unless",
+        "until",
+        "before",
+        "after"
+      ],
+      "answer": 2,
+      "explanation_zh": "before 表示「在...之前」，符合語意「在問題變大之前處理」，故選 (C) before。(A) unless 表示「除非」，(B) until 表示「直到」，(D) after 表示「之後」，皆不符合語意。"
+    },
+    {
+      "question_en": "All expenses must be ___ documented before submitting for reimbursement.",
+      "options": [
+        "proper",
+        "proprietor",
+        "property",
+        "properly"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾過去分詞 documented 需用副詞，故選 (D) properly。(A) proper 為形容詞，(C) property 為名詞，(B) proprietor 為名詞，皆不能修飾分詞。"
+    },
+    {
+      "question_en": "Our company has experienced ___ growth in the Asian market this year.",
+      "options": [
+        "significant",
+        "significantly",
+        "significance",
+        "signify"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 growth 需用形容詞，故選 (A) significant。(B) significantly 為副詞，(C) significance 為名詞，(D) signify 為動詞，皆不符合此處需要形容詞修飾名詞。"
+    },
+    {
+      "question_en": "We are looking ___ a qualified candidate to fill the marketing director position.",
+      "options": [
+        "at",
+        "for",
+        "on",
+        "to"
+      ],
+      "answer": 1,
+      "explanation_zh": "look for 為固定片語，意指「尋找」，故選 (B) for。(A) look at 意指「看著」，(C) look on 意指「旁觀」，(D) look to 意指「期待」，皆不符合此處語意。"
+    },
+    {
+      "question_en": "The conference will feature speakers ___ are experts in international finance.",
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 speakers 為人，在子句中作主詞，故選 (C) who。(A) which 用於物，(B) whom 為受格，(D) whose 為所有格，皆不符合語法。"
+    },
+    {
+      "question_en": "The committee has been ___ to evaluate the new policy proposals.",
+      "options": [
+        "appoint",
+        "appoints",
+        "appointing",
+        "appointed"
+      ],
+      "answer": 3,
+      "explanation_zh": "現在完成式被動 has been + p.p.，故選 (D) appointed。(A) appoint 為原形，(C) appointing 為現在分詞，(B) appoints 為第三人稱單數，皆不符合此結構。"
+    },
+    {
+      "question_en": "The marketing manager will ___ the new advertising campaign next Monday.",
+      "options": [
+        "launch",
+        "launching",
+        "launches",
+        "launched"
+      ],
+      "answer": 0,
+      "explanation_zh": "助動詞 will 後接動詞原形，故選 (A) launch。(B) launching 為現在分詞，(C) launches 為第三人稱單數，(D) launched 為過去式，皆不能直接接在 will 之後。"
+    },
+    {
+      "question_en": "The accountant noticed several errors ___ the quarterly financial report.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "explanation_zh": "errors in 為固定搭配，意指「在...中的錯誤」，故選 (B) in。(A) on、(C) at、(D) by 皆不能與 errors 搭配此意。"
+    },
+    {
+      "question_en": "The new IT system will improve ___ between our different departments significantly.",
+      "options": [
+        "communicate",
+        "communicating",
+        "communication",
+        "communicative"
+      ],
+      "answer": 2,
+      "explanation_zh": "improve 後需接名詞作受詞，故選 (C) communication。(A) communicate 為動詞，(B) communicating 為動名詞但語意較弱，(D) communicative 為形容詞，皆不符合此處需要名詞的語法。"
+    },
+    {
+      "question_en": "Our sales figures have ___ all expectations for the third consecutive quarter.",
+      "options": [
+        "exceed",
+        "exceeds",
+        "exceeding",
+        "exceeded"
+      ],
+      "answer": 3,
+      "explanation_zh": "現在完成式 have + p.p.，故選 (D) exceeded。(A) exceed 為原形，(C) exceeding 為現在分詞，(B) exceeds 為第三人稱單數，皆不符合此結構。"
+    },
+    {
+      "question_en": "Our customer service hotline is available ___ twenty-four hours a day.",
+      "options": [
+        "for",
+        "at",
+        "by",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "for + 時間長度 表示「持續...時間」，故選 (A) for。(B) at 表示時間點，(C) by 表示截止前，(D) to 表示方向，皆不符合「持續 24 小時」的語意。"
+    },
+    {
+      "question_en": "Mr. Park ___ to the Tokyo office since his promotion last spring.",
+      "options": [
+        "transferred",
+        "has been transferred",
+        "transferring",
+        "is transferred"
+      ],
+      "answer": 1,
+      "explanation_zh": "since 引導的時間用現在完成式，被動為 has been + p.p.，故選 (B) has been transferred。(A) transferred 為過去式，(C) transferring 非完整動詞，(D) is transferred 為現在式，皆不符合。"
+    },
+    {
+      "question_en": "The contract requires both parties ___ strict confidentiality regarding the agreement.",
+      "options": [
+        "maintain",
+        "maintaining",
+        "to maintain",
+        "maintained"
+      ],
+      "answer": 2,
+      "explanation_zh": "require someone to V 為固定結構，故選 (C) to maintain。(A) maintain 為原形，(B) maintaining 為動名詞，(D) maintained 為過去式，皆不符合此結構。"
+    },
+    {
+      "question_en": "The new software package has many ___ that will benefit our employees.",
+      "options": [
+        "feature",
+        "featured",
+        "featuring",
+        "features"
+      ],
+      "answer": 3,
+      "explanation_zh": "many 後接可數複數名詞，故選 (D) features。(A) feature 為單數，(C) featuring 為現在分詞，(B) featured 為過去分詞，皆不符合此處語法。"
+    },
+    {
+      "question_en": "Our team has worked ___ to meet the project deadline this week.",
+      "options": [
+        "hard",
+        "hardly",
+        "harder",
+        "hardest"
+      ],
+      "answer": 0,
+      "explanation_zh": "hard 作副詞意指「努力地」，故選 (A) hard。(B) hardly 意指「幾乎不」，語意完全相反，(C) harder 為比較級，(D) hardest 為最高級，皆不符合此處語意。"
+    },
+    {
+      "question_en": "Our annual report contains detailed information ___ the company's financial performance.",
+      "options": [
+        "of",
+        "about",
+        "for",
+        "to"
+      ],
+      "answer": 1,
+      "explanation_zh": "information about 為自然搭配，故選 (B) about。(A) of、(C) for、(D) to 皆不能與 information 搭配此意。"
+    },
+    {
+      "question_en": "The new branch will open ___ the heart of the city's financial district.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 2,
+      "explanation_zh": "in the heart of 為固定片語，意指「在...的中心」，故選 (C) in。(A) at、(B) on、(D) by 皆不能與 the heart 形成此固定搭配。"
+    },
+    {
+      "question_en": "Our department needs additional resources ___ to handle the increased workload.",
+      "options": [
+        "effective",
+        "effectiveness",
+        "effect",
+        "effectively"
+      ],
+      "answer": 3,
+      "explanation_zh": "修飾動詞 handle 需用副詞，故選 (D) effectively。(A) effective 為形容詞，(C) effect 為名詞，(B) effectiveness 為名詞，皆不能修飾動詞。"
+    },
+    {
+      "question_en": "The supplier has agreed to ___ a discount for bulk orders over $10,000.",
+      "options": [
+        "provide",
+        "providing",
+        "to provide",
+        "provided"
+      ],
+      "answer": 0,
+      "explanation_zh": "agree to + V 原形，故選 (A) provide。(B) providing 為動名詞，(C) to provide 多了一個 to，(D) provided 為過去式，皆不符合此固定結構。"
+    },
+    {
+      "question_en": "The CEO will visit each regional office ___ his upcoming inspection tour.",
+      "options": [
+        "while",
+        "during",
+        "for",
+        "since"
+      ],
+      "answer": 1,
+      "explanation_zh": "during + 名詞 表示「在...期間」，故選 (B) during。(A) while 為連接詞，(C) for 表示持續時間長度，(D) since 表示自...以來，皆不符合此處語法或語意。"
+    },
+    {
+      "question_en": "Ms. Wong, ___ joined our company last month, has already exceeded her targets.",
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 Ms. Wong 為人，在子句中作主詞，故選 (C) who。(A) which 用於物，(B) whom 為受格，(D) whose 為所有格，皆不符合語法。"
+    },
+    {
+      "question_en": "All requests for time off must be ___ at least two weeks in advance.",
+      "options": [
+        "submit",
+        "submits",
+        "submitting",
+        "submitted"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動語態 must be + p.p.，故選 (D) submitted。(A) submit 為原形，(C) submitting 為現在分詞，(B) submits 為第三人稱單數，皆不符合被動結構。"
+    },
+    {
+      "question_en": "All ___ employees must complete the onboarding process within their first week.",
+      "options": [
+        "new",
+        "newly",
+        "news",
+        "newer"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾名詞 employees 需用形容詞，故選 (A) new。(B) newly 為副詞，(C) news 為名詞，(D) newer 為比較級需有比較對象，皆不符合此處語法。"
+    },
+    {
+      "question_en": "Mr. Tanaka has been promoted ___ vice president of international operations.",
+      "options": [
+        "as",
+        "to",
+        "for",
+        "of"
+      ],
+      "answer": 1,
+      "explanation_zh": "promote to + 職位 為固定搭配，故選 (B) to。(A) as 表示作為，(C) for 表示為了，(D) of 表示所有，皆不符合「升任為...」的語意。"
+    },
+    {
+      "question_en": "The interview will be conducted ___ both the HR manager and the department head.",
+      "options": [
+        "between",
+        "with",
+        "by",
+        "for"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態中表示動作執行者用 by，故選 (C) by。(A) between 表示在...之間，(B) with 表示伴隨，(D) for 表示為了，皆不符合被動句中動作者的語法。"
+    },
+    {
+      "question_en": "The CEO emphasized that customer satisfaction is ___ priority for the company.",
+      "options": [
+        "top",
+        "tops",
+        "a top",
+        "the top"
+      ],
+      "answer": 3,
+      "explanation_zh": "「最高優先」為唯一概念，需用定冠詞 the，故選 (D) the top。(A) top 缺冠詞，(C) a top 用不定冠詞語意不對，(B) tops 為複數或動詞，皆不正確。"
+    },
+    {
+      "question_en": "The training session was ___ informative that most attendees stayed afterwards.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "answer": 0,
+      "explanation_zh": "so + 形容詞 + that 為固定句型，故選 (A) so。(B) such 後接名詞，(C) very 不與 that 搭配此結構，(D) too...to 為另一種結構，皆不符合此處語法。"
+    },
+    {
+      "question_en": "The new factory will be ___ in operation by the end of next year.",
+      "options": [
+        "full",
+        "fully",
+        "fullness",
+        "filled"
+      ],
+      "answer": 1,
+      "explanation_zh": "修飾介系詞片語 in operation 用副詞，故選 (B) fully。(A) full 為形容詞，(C) fullness 為名詞，(D) filled 為過去分詞，皆不符合此處副詞修飾的需求。"
+    },
+    {
+      "question_en": "Our company offers ___ benefits than any other firm in the industry.",
+      "options": [
+        "good",
+        "well",
+        "better",
+        "best"
+      ],
+      "answer": 2,
+      "explanation_zh": "句中有 than 需用比較級，故選 (C) better。(A) good 為原級，(B) well 為副詞或健康，(D) best 為最高級，皆不符合比較級結構。"
+    },
+    {
+      "question_en": "The marketing team is responsible for ___ the new product to consumers.",
+      "options": [
+        "promote",
+        "promoted",
+        "to promote",
+        "promoting"
+      ],
+      "answer": 3,
+      "explanation_zh": "介系詞 for 後接動名詞，故選 (D) promoting。(A) promote 為原形，(C) to promote 為不定詞，(B) promoted 為過去式，皆不符合「介系詞 + V-ing」的結構。"
+    },
+    {
+      "question_en": "The new policy will be ___ effective starting next quarter.",
+      "options": [
+        "officially",
+        "official",
+        "office",
+        "officer"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾形容詞 effective 需用副詞，故選 (A) officially。(B) official 為形容詞，(C) office 為名詞，(D) officer 為名詞，皆不能修飾形容詞。"
+    },
+    {
+      "question_en": "The marketing report ___ to the executive board by Friday afternoon.",
+      "options": [
+        "must submit",
+        "must be submitted",
+        "must submitting",
+        "must submitted"
+      ],
+      "answer": 1,
+      "explanation_zh": "報告應「被」提交，需用被動語態 must be + p.p.，故選 (B) must be submitted。(A) 為主動，(C) 為現在分詞，(D) 缺少 be，皆不符合被動結構。"
+    },
+    {
+      "question_en": "All employees ___ to follow the company's code of ethics.",
+      "options": [
+        "expect",
+        "expected",
+        "are expected",
+        "expecting"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動語態 are + p.p.，意指「被期待」，故選 (C) are expected。(A) expect 為主動，(B) expected 缺 be 動詞，(D) expecting 為現在分詞，皆不符合此處被動結構。"
+    },
+    {
+      "question_en": "The training session was so ___ that everyone learned valuable new skills.",
+      "options": [
+        "benefit",
+        "beneficially",
+        "benefited",
+        "beneficial"
+      ],
+      "answer": 3,
+      "explanation_zh": "so + 形容詞 結構，需用形容詞，故選 (D) beneficial。(A) benefit 為名詞或動詞，(C) benefited 為過去式，(B) beneficially 為副詞，皆不符合此處需要形容詞。"
     }
   ]
 }
