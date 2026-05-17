@@ -329,6 +329,12 @@ const DELE_STORIES = [
   { key: "dele010", title: "Columna de opinión: el auge del bicing urbano" },
   { key: "dele011", title: "Reunión extraordinaria del consejo: filtración de datos" },
   { key: "dele012", title: "Ensayo: la soledad en la vida urbana" },
+  { key: "dele013", title: "En el aeropuerto" },
+  { key: "dele014", title: "Mi primera clase de cocina" },
+  { key: "dele015", title: "Decidí aprender a tocar el piano" },
+  { key: "dele016", title: "Reportaje: el auge de los espacios de coworking en ciudades medianas" },
+  { key: "dele017", title: "Carta formal de reclamación de la comunidad de vecinos" },
+  { key: "dele018", title: "Ensayo: la geografía del duelo" },
 ];
 
 let DATA = {};

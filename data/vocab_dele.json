@@ -179,6 +179,96 @@
       "meaning_zh": "(感嘆詞) 再見",
       "example_es": "Adiós, hasta mañana por la tarde.",
       "example_zh": "再見，明天下午見。"
+    },
+    {
+      "word": "buenas noches",
+      "meaning_zh": "(片語) 晚安；晚上好",
+      "example_es": "Buenas noches, mamá, voy a dormir ya.",
+      "example_zh": "晚安，媽媽，我現在要去睡覺了。"
+    },
+    {
+      "word": "cabeza",
+      "meaning_zh": "(名詞，陰性) 頭；頭部",
+      "example_es": "Me duele mucho la cabeza esta mañana.",
+      "example_zh": "今天早上我的頭很痛。"
+    },
+    {
+      "word": "ojo",
+      "meaning_zh": "(名詞，陽性) 眼睛",
+      "example_es": "Mi hermana tiene los ojos verdes y grandes.",
+      "example_zh": "我妹妹有一雙又大又綠的眼睛。"
+    },
+    {
+      "word": "sol",
+      "meaning_zh": "(名詞，陽性) 太陽；陽光",
+      "example_es": "Hoy hace mucho sol en el parque.",
+      "example_zh": "今天公園裡陽光很強。"
+    },
+    {
+      "word": "camisa",
+      "meaning_zh": "(名詞，陰性) 襯衫",
+      "example_es": "Mi padre lleva una camisa blanca al trabajo.",
+      "example_zh": "我爸爸穿一件白襯衫去上班。"
+    },
+    {
+      "word": "coche",
+      "meaning_zh": "(名詞，陽性) 汽車",
+      "example_es": "El coche de mi tío es muy nuevo.",
+      "example_zh": "我叔叔的車很新。"
+    },
+    {
+      "word": "manzana",
+      "meaning_zh": "(名詞，陰性) 蘋果",
+      "example_es": "Como una manzana cada día por la mañana.",
+      "example_zh": "我每天早上吃一顆蘋果。"
+    },
+    {
+      "word": "lunes",
+      "meaning_zh": "(名詞，陽性) 星期一",
+      "example_es": "El lunes tengo clase de español a las nueve.",
+      "example_zh": "星期一我九點有西班牙文課。"
+    },
+    {
+      "word": "grande",
+      "meaning_zh": "(形容詞) 大的",
+      "example_es": "Mi habitación es grande y muy luminosa.",
+      "example_zh": "我的房間又大又明亮。"
+    },
+    {
+      "word": "pequeño",
+      "meaning_zh": "(形容詞) 小的",
+      "example_es": "Tengo un perro pequeño y muy cariñoso.",
+      "example_zh": "我有一隻小而非常親人的狗。"
+    },
+    {
+      "word": "beber",
+      "meaning_zh": "(動詞) 喝",
+      "example_es": "Bebo café todas las mañanas con leche.",
+      "example_zh": "我每天早上喝加牛奶的咖啡。"
+    },
+    {
+      "word": "escribir",
+      "meaning_zh": "(動詞) 寫",
+      "example_es": "Quiero escribir una carta a mi abuela.",
+      "example_zh": "我想寫一封信給我奶奶。"
+    },
+    {
+      "word": "hijo",
+      "meaning_zh": "(名詞，陽性) 兒子",
+      "example_es": "Su hijo tiene cinco años y va al colegio.",
+      "example_zh": "她的兒子五歲，已經在上學。"
+    },
+    {
+      "word": "ventana",
+      "meaning_zh": "(名詞，陰性) 窗戶",
+      "example_es": "Abre la ventana, por favor, hace mucho calor.",
+      "example_zh": "請打開窗戶，太熱了。"
+    },
+    {
+      "word": "número",
+      "meaning_zh": "(名詞，陽性) 號碼；數字",
+      "example_es": "¿Cuál es tu número de teléfono?",
+      "example_zh": "你的電話號碼是幾號？"
     }
   ],
   "da2": [
@@ -361,6 +451,96 @@
       "meaning_zh": "(形容詞) 疲倦的、累的",
       "example_es": "Después del partido estaba muy cansado.",
       "example_zh": "比賽結束後我非常疲倦。"
+    },
+    {
+      "word": "deporte",
+      "meaning_zh": "(名詞，陽性) 運動",
+      "example_es": "Mi deporte favorito es el baloncesto los fines de semana.",
+      "example_zh": "我最喜歡的運動是週末打籃球。"
+    },
+    {
+      "word": "cocinar",
+      "meaning_zh": "(動詞) 烹飪；做飯",
+      "example_es": "Mi madre cocina paella los domingos para toda la familia.",
+      "example_zh": "我媽媽星期天會為全家煮西班牙海鮮飯。"
+    },
+    {
+      "word": "limpiar",
+      "meaning_zh": "(動詞) 清掃；打掃",
+      "example_es": "Cada sábado limpio mi habitación antes de salir.",
+      "example_zh": "我每個星期六出門前都會打掃房間。"
+    },
+    {
+      "word": "enfadado",
+      "meaning_zh": "(形容詞) 生氣的",
+      "example_es": "Mi jefe está enfadado porque llegué tarde otra vez.",
+      "example_zh": "因為我又遲到了，我的老闆很生氣。"
+    },
+    {
+      "word": "ordenador",
+      "meaning_zh": "(名詞，陽性) 電腦（西班牙用法）",
+      "example_es": "Necesito un ordenador nuevo para estudiar en casa.",
+      "example_zh": "我需要一台新電腦在家學習。"
+    },
+    {
+      "word": "siempre",
+      "meaning_zh": "(副詞) 總是；一直",
+      "example_es": "Siempre desayuno tostadas con mermelada y café.",
+      "example_zh": "我總是吃果醬吐司配咖啡當早餐。"
+    },
+    {
+      "word": "a veces",
+      "meaning_zh": "(片語) 有時候",
+      "example_es": "A veces voy al cine con mis compañeros del trabajo.",
+      "example_zh": "我有時候會跟同事一起去看電影。"
+    },
+    {
+      "word": "farmacia",
+      "meaning_zh": "(名詞，陰性) 藥局",
+      "example_es": "Hay una farmacia abierta cerca de mi casa.",
+      "example_zh": "我家附近有一間還在營業的藥局。"
+    },
+    {
+      "word": "correo",
+      "meaning_zh": "(名詞，陽性) 郵局；信件",
+      "example_es": "Voy al correo a enviar un paquete a mi prima.",
+      "example_zh": "我要去郵局寄一個包裹給我表妹。"
+    },
+    {
+      "word": "lavar",
+      "meaning_zh": "(動詞) 洗",
+      "example_es": "Tengo que lavar los platos después de cenar.",
+      "example_zh": "晚餐後我得洗碗。"
+    },
+    {
+      "word": "pasear",
+      "meaning_zh": "(動詞) 散步；遛達",
+      "example_es": "Me gusta pasear por el parque después del trabajo.",
+      "example_zh": "我喜歡下班後在公園散步。"
+    },
+    {
+      "word": "nervioso",
+      "meaning_zh": "(形容詞) 緊張的",
+      "example_es": "Estoy nervioso porque mañana tengo un examen importante.",
+      "example_zh": "我很緊張，因為明天有重要的考試。"
+    },
+    {
+      "word": "móvil",
+      "meaning_zh": "(名詞，陽性) 手機",
+      "example_es": "Mi móvil no tiene batería y no puedo llamar.",
+      "example_zh": "我的手機沒電了，沒辦法打電話。"
+    },
+    {
+      "word": "nunca",
+      "meaning_zh": "(副詞) 從不；從未",
+      "example_es": "Nunca he viajado a Sudamérica, pero quiero ir.",
+      "example_zh": "我從未去過南美洲，但我想去。"
+    },
+    {
+      "word": "música",
+      "meaning_zh": "(名詞，陰性) 音樂",
+      "example_es": "Escucho música clásica mientras estudio en la biblioteca.",
+      "example_zh": "我在圖書館讀書時會聽古典音樂。"
     }
   ],
   "db1": [
@@ -543,6 +723,96 @@
       "meaning_zh": "(動詞) 建議、勸告",
       "example_es": "Te aconsejo descansar antes del examen.",
       "example_zh": "我建議你考試前休息一下。"
+    },
+    {
+      "word": "discutir",
+      "meaning_zh": "(動詞) 爭論；討論",
+      "example_es": "Mis padres discuten cada vez que hablan de política.",
+      "example_zh": "我父母每次談到政治就會爭吵。"
+    },
+    {
+      "word": "marearse",
+      "meaning_zh": "(反身動詞) 感到頭暈；暈眩",
+      "example_es": "Me mareo cuando viajo en barco durante mucho tiempo.",
+      "example_zh": "我搭船時間一久就會頭暈。"
+    },
+    {
+      "word": "fiebre",
+      "meaning_zh": "(名詞，陰性) 發燒",
+      "example_es": "El niño tiene fiebre alta desde ayer por la noche.",
+      "example_zh": "這個孩子從昨晚開始就發高燒。"
+    },
+    {
+      "word": "contaminación",
+      "meaning_zh": "(名詞，陰性) 污染",
+      "example_es": "La contaminación del aire afecta mucho a los niños.",
+      "example_zh": "空氣污染對孩童影響很大。"
+    },
+    {
+      "word": "perderse",
+      "meaning_zh": "(反身動詞) 迷路",
+      "example_es": "Nos perdimos en el casco antiguo de Toledo.",
+      "example_zh": "我們在托雷多的舊城區迷路了。"
+    },
+    {
+      "word": "opinar",
+      "meaning_zh": "(動詞) 認為；發表意見",
+      "example_es": "¿Qué opinas sobre la nueva ley de vivienda?",
+      "example_zh": "你對新的住房法律有什麼看法？"
+    },
+    {
+      "word": "estar de acuerdo",
+      "meaning_zh": "(片語) 同意",
+      "example_es": "No estoy de acuerdo contigo en este punto.",
+      "example_zh": "在這一點上我不同意你的看法。"
+    },
+    {
+      "word": "tomar el pelo",
+      "meaning_zh": "(片語) 開玩笑；捉弄",
+      "example_es": "No me tomes el pelo, dime la verdad ya.",
+      "example_zh": "別捉弄我了，快告訴我實話。"
+    },
+    {
+      "word": "ascenso",
+      "meaning_zh": "(名詞，陽性) 升職；晉升",
+      "example_es": "Después de cinco años, por fin consiguió un ascenso.",
+      "example_zh": "經過五年，他終於獲得升職。"
+    },
+    {
+      "word": "reciclar",
+      "meaning_zh": "(動詞) 回收",
+      "example_es": "En mi barrio reciclamos el papel y el plástico.",
+      "example_zh": "在我們社區，我們會回收紙類和塑膠。"
+    },
+    {
+      "word": "retraso",
+      "meaning_zh": "(名詞，陽性) 延誤；遲到",
+      "example_es": "El tren llegó con dos horas de retraso.",
+      "example_zh": "火車延誤了兩個小時才到。"
+    },
+    {
+      "word": "jubilarse",
+      "meaning_zh": "(反身動詞) 退休",
+      "example_es": "Mi tío se jubila el año que viene tras cuarenta años.",
+      "example_zh": "我叔叔工作四十年後，明年要退休了。"
+    },
+    {
+      "word": "estar harto",
+      "meaning_zh": "(片語) 受夠了；厭煩",
+      "example_es": "Estoy harta de oír siempre las mismas excusas.",
+      "example_zh": "我已經受夠了總是聽到同樣的藉口。"
+    },
+    {
+      "word": "receta",
+      "meaning_zh": "(名詞，陰性) 處方；食譜",
+      "example_es": "El médico me dio una receta para el antibiótico.",
+      "example_zh": "醫生開了一張抗生素的處方給我。"
+    },
+    {
+      "word": "ascensor",
+      "meaning_zh": "(名詞，陽性) 電梯",
+      "example_es": "El ascensor del edificio está estropeado desde el lunes.",
+      "example_zh": "這棟樓的電梯從星期一就壞了。"
     }
   ],
   "db2": [
@@ -725,6 +995,96 @@
       "meaning_zh": "(形容詞) 可信的、可靠的",
       "example_es": "Es necesario consultar fuentes fidedignas para la investigación.",
       "example_zh": "進行研究時必須查閱可靠的資料來源。"
+    },
+    {
+      "word": "ciudadanía",
+      "meaning_zh": "(名詞，陰性) 公民身分；公民意識",
+      "example_es": "La ciudadanía exige más transparencia a los políticos locales.",
+      "example_zh": "公民要求地方政治人物有更高的透明度。"
+    },
+    {
+      "word": "viralizar",
+      "meaning_zh": "(動詞) 使在網路上瘋傳",
+      "example_es": "El vídeo se viralizó en pocas horas en todas las redes.",
+      "example_zh": "這支影片在幾小時內就在所有社群網站上瘋傳。"
+    },
+    {
+      "word": "desigualdad",
+      "meaning_zh": "(名詞，陰性) 不平等",
+      "example_es": "La desigualdad salarial entre hombres y mujeres sigue siendo notable.",
+      "example_zh": "男女間的薪資不平等依然顯著。"
+    },
+    {
+      "word": "peatonal",
+      "meaning_zh": "(形容詞) 行人專用的",
+      "example_es": "Han convertido la calle principal en zona peatonal.",
+      "example_zh": "他們已把主要街道改成行人徒步區。"
+    },
+    {
+      "word": "añoranza",
+      "meaning_zh": "(名詞，陰性) 思念；懷念",
+      "example_es": "Siente una profunda añoranza por su pueblo natal.",
+      "example_zh": "她對家鄉懷有深深的思念。"
+    },
+    {
+      "word": "voluntariado",
+      "meaning_zh": "(名詞，陽性) 志工活動；志願服務",
+      "example_es": "Participa en un voluntariado con personas mayores los sábados.",
+      "example_zh": "她星期六會參與陪伴長者的志工服務。"
+    },
+    {
+      "word": "persuadir",
+      "meaning_zh": "(動詞) 說服",
+      "example_es": "Intentó persuadir al jurado con argumentos sólidos y emotivos.",
+      "example_zh": "他試圖以紮實又動人的論據說服陪審團。"
+    },
+    {
+      "word": "sedentarismo",
+      "meaning_zh": "(名詞，陽性) 久坐不動的生活方式",
+      "example_es": "El sedentarismo es una de las grandes amenazas para la salud pública.",
+      "example_zh": "久坐不動是公共衛生的重大威脅之一。"
+    },
+    {
+      "word": "sobreentender",
+      "meaning_zh": "(動詞) 默認；隱含理解",
+      "example_es": "Se sobreentiende que el silencio implica aprobación.",
+      "example_zh": "一般默認沉默就代表同意。"
+    },
+    {
+      "word": "arraigado",
+      "meaning_zh": "(形容詞) 根深蒂固的",
+      "example_es": "Es una tradición muy arraigada en el norte del país.",
+      "example_zh": "這是該國北部根深蒂固的傳統。"
+    },
+    {
+      "word": "gentrificación",
+      "meaning_zh": "(名詞，陰性) 都市仕紳化",
+      "example_es": "La gentrificación ha expulsado a los vecinos de toda la vida.",
+      "example_zh": "仕紳化已迫使長期居民離開這個社區。"
+    },
+    {
+      "word": "fluctuar",
+      "meaning_zh": "(動詞) 波動；起伏",
+      "example_es": "Los precios de la vivienda fluctúan según la demanda turística.",
+      "example_zh": "房價會根據觀光需求而波動。"
+    },
+    {
+      "word": "manido",
+      "meaning_zh": "(形容詞) 老套的；陳腐的",
+      "example_es": "Su discurso estaba lleno de argumentos manidos y poco convincentes.",
+      "example_zh": "他的演說充滿了老套又缺乏說服力的論點。"
+    },
+    {
+      "word": "afán",
+      "meaning_zh": "(名詞，陽性) 熱忱；強烈的渴望",
+      "example_es": "Estudia con afán para conseguir una beca en el extranjero.",
+      "example_zh": "她努力用功，希望能拿到出國留學的獎學金。"
+    },
+    {
+      "word": "tergiversar",
+      "meaning_zh": "(動詞) 曲解；歪曲",
+      "example_es": "El portavoz tergiversó las palabras del ministro en la rueda de prensa.",
+      "example_zh": "發言人在記者會上曲解了部長的話。"
     }
   ],
   "dc1": [
@@ -907,6 +1267,96 @@
       "meaning_zh": "(形容詞) 清澈的、明晰的",
       "example_es": "Su explicación fue diáfana y libre de ambigüedades.",
       "example_zh": "他的解釋清晰明瞭，毫無歧義。"
+    },
+    {
+      "word": "con todo",
+      "meaning_zh": "(片語) 儘管如此；雖然如此",
+      "example_es": "El plan presentaba lagunas; con todo, fue aprobado por unanimidad.",
+      "example_zh": "計畫存在漏洞；儘管如此，仍獲一致通過。"
+    },
+    {
+      "word": "no obstante",
+      "meaning_zh": "(片語) 然而；儘管",
+      "example_es": "El informe es preliminar; no obstante, ofrece pistas valiosas.",
+      "example_zh": "這份報告只是初步的；然而，它提供了寶貴的線索。"
+    },
+    {
+      "word": "intuir",
+      "meaning_zh": "(動詞) 直覺感知；隱約意識到",
+      "example_es": "Intuyó desde el principio que las negociaciones fracasarían.",
+      "example_zh": "他從一開始就直覺到談判會破局。"
+    },
+    {
+      "word": "preconizar",
+      "meaning_zh": "(動詞) 倡導；主張",
+      "example_es": "El autor preconiza una reforma profunda del sistema educativo.",
+      "example_zh": "這位作者倡議對教育體系進行徹底改革。"
+    },
+    {
+      "word": "fehacientemente",
+      "meaning_zh": "(副詞) 確鑿地；真實可信地",
+      "example_es": "El abogado demostró fehacientemente la inocencia de su cliente.",
+      "example_zh": "律師確鑿地證明了他當事人的清白。"
+    },
+    {
+      "word": "preludio",
+      "meaning_zh": "(名詞，陽性) 序幕；前奏",
+      "example_es": "Aquellas protestas fueron el preludio de una crisis política.",
+      "example_zh": "那些抗議活動是一場政治危機的序幕。"
+    },
+    {
+      "word": "consustancial",
+      "meaning_zh": "(形容詞) 本質的；不可分割的",
+      "example_es": "La libertad de expresión es consustancial a toda democracia.",
+      "example_zh": "言論自由是任何民主制度不可分割的本質。"
+    },
+    {
+      "word": "salvedad",
+      "meaning_zh": "(名詞，陰性) 例外；保留",
+      "example_es": "Aceptó el contrato con la salvedad de revisar la cláusula tercera.",
+      "example_zh": "他接受了合約，但保留審查第三條的條件。"
+    },
+    {
+      "word": "endeble",
+      "meaning_zh": "(形容詞) 脆弱的；薄弱的",
+      "example_es": "Los argumentos del fiscal resultaron endebles ante el tribunal.",
+      "example_zh": "檢察官的論點在法庭上顯得相當薄弱。"
+    },
+    {
+      "word": "imputar",
+      "meaning_zh": "(動詞) 歸咎；指控",
+      "example_es": "Le imputaron varios delitos de corrupción y malversación.",
+      "example_zh": "他被指控多項貪污與挪用公款的罪行。"
+    },
+    {
+      "word": "promulgar",
+      "meaning_zh": "(動詞) 頒布（法律）",
+      "example_es": "El gobierno promulgó la nueva ley de protección de datos.",
+      "example_zh": "政府頒布了新的資料保護法。"
+    },
+    {
+      "word": "axiomático",
+      "meaning_zh": "(形容詞) 公理般的；不證自明的",
+      "example_es": "Resulta axiomático que sin pruebas no hay condena válida.",
+      "example_zh": "沒有證據就沒有有效定罪，這是不證自明的。"
+    },
+    {
+      "word": "patrocinar",
+      "meaning_zh": "(動詞) 贊助；支持",
+      "example_es": "Una fundación privada patrocina las investigaciones de la universidad.",
+      "example_zh": "一個私人基金會贊助這所大學的研究工作。"
+    },
+    {
+      "word": "esquivar",
+      "meaning_zh": "(動詞) 迴避；閃躲",
+      "example_es": "El candidato esquivó hábilmente las preguntas más incómodas.",
+      "example_zh": "這位候選人巧妙地迴避了最棘手的問題。"
+    },
+    {
+      "word": "verbigracia",
+      "meaning_zh": "(副詞) 例如；比方說",
+      "example_es": "Existen diversas figuras retóricas, verbigracia, la metáfora y la metonimia.",
+      "example_zh": "有多種修辭格，例如隱喻和借代。"
     }
   ],
   "dc2": [
@@ -1089,6 +1539,96 @@
       "meaning_zh": "(形容詞) 緊迫的、不容置疑的",
       "example_es": "Recibieron una orden perentoria de evacuar el edificio.",
       "example_zh": "他們收到不容延遲的指令要撤離大樓。"
+    },
+    {
+      "word": "quimera",
+      "meaning_zh": "(名詞，陰性) 幻想；不切實際的夢想",
+      "example_es": "Erradicar la pobreza absoluta sigue siendo, para muchos, una quimera.",
+      "example_zh": "對許多人而言，徹底消滅貧窮仍是一個遙不可及的幻夢。"
+    },
+    {
+      "word": "óbolo",
+      "meaning_zh": "(名詞，陽性) 微薄的捐獻",
+      "example_es": "Los fieles depositaban su óbolo en el cepillo de la parroquia.",
+      "example_zh": "信徒們把微薄的捐獻投入教區的捐獻箱中。"
+    },
+    {
+      "word": "acendrar",
+      "meaning_zh": "(動詞) 提純；使更純粹",
+      "example_es": "Los años en el exilio acendraron su amor por la lengua materna.",
+      "example_zh": "流亡的歲月使他對母語的熱愛更加純粹。"
+    },
+    {
+      "word": "ínfimo",
+      "meaning_zh": "(形容詞) 微不足道的；極微小的",
+      "example_es": "Las posibilidades de éxito eran ínfimas, pero perseveró igualmente.",
+      "example_zh": "成功的機率微乎其微，但他仍然堅持下去。"
+    },
+    {
+      "word": "preterir",
+      "meaning_zh": "(動詞) 忽略；遺漏（文學用法）",
+      "example_es": "La crítica preterió injustamente a varios autores de provincias.",
+      "example_zh": "評論界不公平地忽略了好幾位來自外省的作家。"
+    },
+    {
+      "word": "exégesis",
+      "meaning_zh": "(名詞，陰性) 詮釋；訓詁",
+      "example_es": "Su exégesis del poema barroco fue celebrada por los especialistas.",
+      "example_zh": "他對這首巴洛克詩的詮釋深受專家讚賞。"
+    },
+    {
+      "word": "atisbo",
+      "meaning_zh": "(名詞，陽性) 一絲跡象；微光",
+      "example_es": "No mostró el menor atisbo de remordimiento durante el juicio.",
+      "example_zh": "他在審判過程中沒有顯露出絲毫的悔意。"
+    },
+    {
+      "word": "egregio",
+      "meaning_zh": "(形容詞) 卓越的；傑出的",
+      "example_es": "El egregio jurista pronunció el discurso inaugural del congreso.",
+      "example_zh": "這位傑出的法學家發表了大會的開幕演說。"
+    },
+    {
+      "word": "aquilatar",
+      "meaning_zh": "(動詞) 精確評估；衡量",
+      "example_es": "Conviene aquilatar el alcance verdadero de tales afirmaciones.",
+      "example_zh": "有必要精確衡量這些言論的真正影響範圍。"
+    },
+    {
+      "word": "soflama",
+      "meaning_zh": "(名詞，陰性) 激昂演說；煽動性言辭",
+      "example_es": "Su soflama encendió los ánimos de la multitud congregada.",
+      "example_zh": "他的煽動演說點燃了聚集群眾的情緒。"
+    },
+    {
+      "word": "guarismo",
+      "meaning_zh": "(名詞，陽性) 數字；數碼（書面語）",
+      "example_es": "Los guarismos del balance no reflejan la realidad de la empresa.",
+      "example_zh": "資產負債表上的數字並未反映企業的真實狀況。"
+    },
+    {
+      "word": "consuetudinario",
+      "meaning_zh": "(形容詞) 習慣性的；習慣法的",
+      "example_es": "El derecho consuetudinario aún rige en algunas comunidades rurales.",
+      "example_zh": "習慣法在某些農村社區中依然適用。"
+    },
+    {
+      "word": "venia",
+      "meaning_zh": "(名詞，陰性) 准許；許可（正式用語）",
+      "example_es": "Con la venia del tribunal, procedo a exponer mis alegatos.",
+      "example_zh": "得到法庭的准許後，我開始陳述我的辯詞。"
+    },
+    {
+      "word": "huero",
+      "meaning_zh": "(形容詞) 空洞的；華而不實的",
+      "example_es": "Sus promesas resultaron hueras y carentes de todo fundamento.",
+      "example_zh": "他的承諾顯得空洞而毫無根據。"
+    },
+    {
+      "word": "ditirambo",
+      "meaning_zh": "(名詞，陽性) 過度讚美；頌詞",
+      "example_es": "El prólogo se deshacía en ditirambos hacia el joven novelista.",
+      "example_zh": "序言對這位年輕小說家充滿了過度的讚美。"
     }
   ]
 }

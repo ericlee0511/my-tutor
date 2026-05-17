@@ -109,6 +109,61 @@
       ],
       "answer": 1,
       "explanation_zh": "問人的名字或特質常用 ¿Cómo se llama…? 或 ¿Cómo es…?，答句給出姓名，故選 (B) Cómo。(A) Dónde=在哪、(C) Cuándo=何時、(D) Qué=什麼，皆不符。"
+    },
+    {
+      "question_es": "Mi hermana es una chica muy ___.",
+      "options": [
+        "simpático",
+        "simpáticos",
+        "simpáticas",
+        "simpática"
+      ],
+      "answer": 3,
+      "explanation_zh": "形容詞需與陰性單數名詞 «chica» 性數一致，故選 (D) simpática。(A) simpático 為陽性單數、(B) simpáticos 為陽性複數、(C) simpáticas 為陰性複數，皆不符。"
+    },
+    {
+      "question_es": "—¿De quién es este libro? —Es ___ libro.",
+      "options": [
+        "yo",
+        "me",
+        "mi",
+        "mí"
+      ],
+      "answer": 2,
+      "explanation_zh": "所有格形容詞「我的」用 «mi»，故選 (C) mi。(A) yo 為主格代名詞、(B) me 為受格代名詞、(D) mí 為前置詞受格，皆非所有格。"
+    },
+    {
+      "question_es": "Hoy es lunes y mañana es ___.",
+      "options": [
+        "domingo",
+        "martes",
+        "sábado",
+        "viernes"
+      ],
+      "answer": 1,
+      "explanation_zh": "週一的隔天是週二 «martes»，故選 (B) martes。(A) domingo=週日、(C) sábado=週六、(D) viernes=週五，皆不符星期順序。"
+    },
+    {
+      "question_es": "En mi clase ___ veinte estudiantes.",
+      "options": [
+        "son",
+        "están",
+        "es",
+        "hay"
+      ],
+      "answer": 3,
+      "explanation_zh": "表示「存在/有多少人」用 «hay»，故選 (D) hay。(A) son 為 ser 的描述、(B) están 為位置/狀態、(C) es 為單數 ser，皆不能表「有幾個」。"
+    },
+    {
+      "question_es": "Los libros de Ana son nuevos, pero los míos son ___.",
+      "options": [
+        "vieja",
+        "viejo",
+        "viejas",
+        "viejos"
+      ],
+      "answer": 3,
+      "explanation_zh": "替代陽性複數 «los libros»，形容詞需用陽性複數 «viejos»，故選 (D) viejos。(A) vieja 為陰性單數、(B) viejo 為陽性單數、(C) viejas 為陰性複數，皆不一致。"
     }
   ],
   "da2": [
@@ -221,6 +276,61 @@
       ],
       "answer": 2,
       "explanation_zh": "當間接受詞代名詞 le/les 後接直接受詞代名詞 lo/la/los/las 時，le 必須改為 se，故選 (C) se lo。(A) le lo 為錯誤組合、(B) le le 兩個間接代名詞不可連用、(D) lo le 順序錯誤，西文順序為「間接+直接」。"
+    },
+    {
+      "question_es": "Tengo ___ trabajo esta semana, no puedo descansar.",
+      "options": [
+        "mucho",
+        "muy",
+        "muchos",
+        "mucha"
+      ],
+      "answer": 0,
+      "explanation_zh": "修飾陽性不可數名詞 «trabajo» 用 «mucho»，故選 (A) mucho。(B) muy 只修飾形容詞/副詞、(C) muchos 為陽性複數、(D) mucha 為陰性單數，皆不符。"
+    },
+    {
+      "question_es": "—No me gusta el café. —A mí ___.",
+      "options": [
+        "tampoco",
+        "también",
+        "sí",
+        "no"
+      ],
+      "answer": 0,
+      "explanation_zh": "附和對方的否定句用 «tampoco»，故選 (A) tampoco。(B) también 用於附和肯定、(C) sí 表反駁同意、(D) no 單獨使用語意不完整，皆不適合。"
+    },
+    {
+      "question_es": "El gato está ___ la mesa, durmiendo tranquilamente.",
+      "options": [
+        "a",
+        "por",
+        "en",
+        "de"
+      ],
+      "answer": 2,
+      "explanation_zh": "表示「在桌上」用 «en»，故選 (C) en。(A) a 表方向、(B) por 表經過或原因、(D) de 表所屬或來源，皆不符位置語意。"
+    },
+    {
+      "question_es": "Yo ___ a María desde hace diez años; somos muy amigas.",
+      "options": [
+        "conozco",
+        "sé",
+        "puedo",
+        "tengo"
+      ],
+      "answer": 0,
+      "explanation_zh": "認識某人用 «conocer»，故選 (A) conozco。(B) sé 為 saber（知道事實/技能）、(C) puedo=能夠、(D) tengo=有，皆不能表「認識某人」。"
+    },
+    {
+      "question_es": "Para sacar buenas notas ___ que estudiar todos los días.",
+      "options": [
+        "tiene",
+        "tienes",
+        "tengo",
+        "hay"
+      ],
+      "answer": 3,
+      "explanation_zh": "泛指「必須」用無人稱 «hay que»，故選 (D) hay。(A) tiene、(B) tienes、(C) tengo 皆是 «tener que» 形式，必須指明主詞，與此處無人稱語境不符。"
     }
   ],
   "db1": [
@@ -333,6 +443,61 @@
       ],
       "answer": 3,
       "explanation_zh": "cuando 引導未來時間子句時用 presente de subjuntivo，故選 (D) llegue。(A) llego 為現在式陳述事實、(B) llegué 為過去式、(C) llegaré 在 cuando 後不可用未來式，西文文法明定。"
+    },
+    {
+      "question_es": "Por favor, no ___ ruido, el bebé está durmiendo.",
+      "options": [
+        "haz",
+        "hace",
+        "hagas",
+        "haces"
+      ],
+      "answer": 2,
+      "explanation_zh": "tú 的否定命令式用現在虛擬式 «no hagas»，故選 (C) hagas。(A) haz 為肯定命令、(B) hace 為陳述式第三人稱、(D) haces 為陳述式第二人稱，皆不符否定命令結構。"
+    },
+    {
+      "question_es": "Esta es la ciudad ___ nací y crecí.",
+      "options": [
+        "donde",
+        "que",
+        "cual",
+        "quien"
+      ],
+      "answer": 0,
+      "explanation_zh": "指地點的關係副詞用 «donde»，故選 (A) donde。(B) que 用於指人或物的主受詞、(C) cual 需搭配 el/la cual、(D) quien 僅指人，皆不能直接接地點。"
+    },
+    {
+      "question_es": "Mis padres quieren que yo ___ médico en el futuro.",
+      "options": [
+        "soy",
+        "seré",
+        "sea",
+        "ser"
+      ],
+      "answer": 2,
+      "explanation_zh": "«querer que» 後接虛擬式，故選 (C) sea。(A) soy 為陳述式現在、(B) seré 為陳述式未來、(D) ser 為原形動詞，皆不適用於影響動詞引導的從句。"
+    },
+    {
+      "question_es": "—¿Dónde está Juan? —No sé, ___ en su oficina todavía.",
+      "options": [
+        "está",
+        "esté",
+        "estará",
+        "estaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「現在的推測」用簡單未來式 «estará»，故選 (C) estará。(A) está 為肯定陳述、(B) esté 為虛擬式、(D) estaba 為過去未完成，皆不表現在的推測。"
+    },
+    {
+      "question_es": "___ tres años que vivo en Madrid y todavía me encanta.",
+      "options": [
+        "Hay",
+        "Está",
+        "Tiene",
+        "Hace"
+      ],
+      "answer": 3,
+      "explanation_zh": "«hace + 時間 + que» 表示動作持續至今，故選 (D) Hace。(A) Hay 表存在、(B) Está 表位置/狀態、(C) Tiene 表擁有，皆無此時間結構用法。"
     }
   ],
   "db2": [
@@ -445,6 +610,61 @@
       ],
       "answer": 0,
       "explanation_zh": "no creer que 否定動詞觸發虛擬式，主句為過去式 creía，故子句用 imperfecto de subjuntivo，故選 (A) fuera。(B) sea 為現在虛擬式時態不一致、(C) era 為直陳式不合否定信念、(D) será 為未來式不符虛擬要求。"
+    },
+    {
+      "question_es": "Te llamaré cuando ___ a casa, no te preocupes.",
+      "options": [
+        "llegue",
+        "llego",
+        "llegaré",
+        "llegaba"
+      ],
+      "answer": 0,
+      "explanation_zh": "«cuando» 指向未來時用虛擬式 «llegue»，故選 (A) llegue。(B) llego 為陳述式現在（用於習慣）、(C) llegaré 為未來陳述式（不可直接接 cuando）、(D) llegaba 為過去未完成，皆不符未來時間從句規則。"
+    },
+    {
+      "question_es": "Aprendo español ___ películas sin subtítulos cada noche.",
+      "options": [
+        "ver",
+        "viendo",
+        "visto",
+        "veré"
+      ],
+      "answer": 1,
+      "explanation_zh": "副動詞表方式（modal）用 «viendo»，故選 (B) viendo。(A) ver 為原形、(C) visto 為過去分詞、(D) veré 為未來式，皆不能直接表「以…方式」。"
+    },
+    {
+      "question_es": "No quiero ir al cine, ___ al teatro contigo.",
+      "options": [
+        "pero",
+        "sino",
+        "sin",
+        "aunque"
+      ],
+      "answer": 1,
+      "explanation_zh": "前句為否定且後句為對立的替代選項，用 «sino»，故選 (B) sino。(A) pero 表轉折但前句通常含部分肯定、(C) sin=沒有、(D) aunque=雖然，皆不符「不是A而是B」結構。"
+    },
+    {
+      "question_es": "___ difícil de este examen es la parte oral.",
+      "options": [
+        "El",
+        "La",
+        "Lo",
+        "Un"
+      ],
+      "answer": 2,
+      "explanation_zh": "«lo + 形容詞» 表抽象概念「…之處」，故選 (C) Lo。(A) El 為陽性定冠詞接名詞、(B) La 為陰性定冠詞、(D) Un 為不定冠詞，皆不能接形容詞表抽象義。"
+    },
+    {
+      "question_es": "Si me hubieras avisado antes, yo ___ ido a la fiesta.",
+      "options": [
+        "he",
+        "habré",
+        "había",
+        "habría"
+      ],
+      "answer": 3,
+      "explanation_zh": "與過去事實相反的條件後句用條件完成式 «habría + p.p.»，故選 (D) habría。(A) he 為現在完成、(B) habré 為未來完成、(C) había 為過去完成，皆不符過去假設句的主句時態。"
     }
   ],
   "dc1": [
@@ -557,6 +777,61 @@
       ],
       "answer": 2,
       "explanation_zh": "por mucho que 為讓步句型，後接虛擬式表「無論他多麼……」，現在虛擬式為 insista，故選 (C) insista。(A) insiste 為直陳式、(B) insistirá 為未來式、(D) insistía 為過去未完成式，皆違反讓步句型對虛擬式之要求。"
+    },
+    {
+      "question_es": "Aun cuando ___ mucho dinero, no comprará esa mansión: es demasiado ostentosa.",
+      "options": [
+        "tiene",
+        "tenga",
+        "tuviera",
+        "tendrá"
+      ],
+      "answer": 0,
+      "explanation_zh": "«aun cuando» 引導已知事實時用陳述式，故選 (A) tiene。(B) tenga 為虛擬式現在（表假設）、(C) tuviera 為虛擬式過去、(D) tendrá 為未來陳述（不適合此讓步從句），皆不表「事實上他確實有錢」。"
+    },
+    {
+      "question_es": "A estas horas, ya ___ terminado la reunión; llámalos más tarde.",
+      "options": [
+        "ha",
+        "había",
+        "habrá",
+        "haya"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「現在的推測完成」用未來完成式 «habrá + p.p.»，故選 (C) habrá。(A) ha 為現在完成（確定發生）、(B) había 為過去完成、(D) haya 為虛擬式完成，皆不表此推測語氣。"
+    },
+    {
+      "question_es": "Lamento mucho ___ llegado tarde a la entrevista de ayer.",
+      "options": [
+        "he",
+        "haber",
+        "habiendo",
+        "había"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「已發生動作的不定式」用完成不定式 «haber + p.p.»，故選 (B) haber。(A) he 為定式變位、(C) habiendo 為複合副動詞、(D) había 為過去完成定式，皆不能在 «lamento» 後直接作補語。"
+    },
+    {
+      "question_es": "Dijo que ya ___ comprado los billetes la semana anterior.",
+      "options": [
+        "ha",
+        "había",
+        "habrá",
+        "habría"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接引語中，相對於主句過去時的「更早完成」用過去完成 «había + p.p.»，故選 (B) había。(A) ha 為現在完成、(C) habrá 為未來完成、(D) habría 為條件完成（用於未來中的過去），皆不符此時態回溯規則。"
+    },
+    {
+      "question_es": "El proyecto es viable; ___, podemos comenzar la fase de implementación de inmediato.",
+      "options": [
+        "sin embargo",
+        "es decir",
+        "por tanto",
+        "en cambio"
+      ],
+      "answer": 2,
+      "explanation_zh": "前後為因果結論關係，用 «por tanto»，故選 (C) por tanto。(A) sin embargo=然而（轉折）、(B) es decir=也就是說（重述）、(D) en cambio=相反地（對比），皆非結論連接詞。"
     }
   ],
   "dc2": [
@@ -669,6 +944,61 @@
       ],
       "answer": 3,
       "explanation_zh": "perífrasis 「acabar de + infinitivo」表「剛剛做完某事」，介系詞固定為 de，故選 (D) de。(A) acabar a 不存在此用法、(B) acabar por + inf. 表「最終／結果」語意不同、(C) acabar en 多表「以……結束（地點或結果）」，皆與「剛剛得知」之意不符。"
+    },
+    {
+      "question_es": "Buscamos un asesor que ___ dominio del mandarín y experiencia en Asia oriental.",
+      "options": [
+        "tenga",
+        "tiene",
+        "tendrá",
+        "tuvo"
+      ],
+      "answer": 0,
+      "explanation_zh": "關係從句的先行詞為不確定/尚未存在者，用虛擬式 «tenga»，故選 (A) tenga。(B) tiene 表已確定存在、(C) tendrá 為未來陳述、(D) tuvo 為簡單過去，皆假設先行詞已知，與「徵求」語境不符。"
+    },
+    {
+      "question_es": "___ la sesión, los asistentes abandonaron la sala en silencio.",
+      "options": [
+        "Clausurando",
+        "Clausurada",
+        "Clausurar",
+        "Clausuraba"
+      ],
+      "answer": 1,
+      "explanation_zh": "獨立分詞結構（participio absoluto）表「…之後」，用過去分詞並與名詞性數一致 «Clausurada»，故選 (B) Clausurada。(A) Clausurando 為副動詞（表同時/方式）、(C) Clausurar 為原形、(D) Clausuraba 為過去未完成定式，皆無法構成獨立分詞結構。"
+    },
+    {
+      "question_es": "___ el sol todavía alto, decidimos prolongar la caminata por la sierra.",
+      "options": [
+        "Estado",
+        "Estar",
+        "Estará",
+        "Estando"
+      ],
+      "answer": 3,
+      "explanation_zh": "獨立副動詞結構（gerundio absoluto）帶顯性主詞用 «estando»，故選 (D) Estando。(A) Estado 為過去分詞、(B) Estar 為原形、(C) Estará 為未來定式，皆不構成帶主詞的獨立副動詞句。"
+    },
+    {
+      "question_es": "___ ha cometido un error garrafal en el informe trimestral.",
+      "options": [
+        "Tal vez",
+        "Sin duda",
+        "Quizá",
+        "Acaso"
+      ],
+      "answer": 1,
+      "explanation_zh": "後接陳述式 «ha cometido» 表確信，須用確信副詞 «sin duda»，故選 (B) Sin duda。(A) Tal vez、(C) Quizá、(D) Acaso 皆為疑慮副詞，通常引導虛擬式且不表確信，與語氣矛盾。"
+    },
+    {
+      "question_es": "Aun ___ tantas horas, no consiguió descifrar el manuscrito antiguo.",
+      "options": [
+        "trabajado",
+        "trabajar",
+        "trabaja",
+        "trabajando"
+      ],
+      "answer": 3,
+      "explanation_zh": "«aun + 副動詞» 構成讓步結構「儘管…」，用 «trabajando»，故選 (D) trabajando。(A) trabajado 為過去分詞、(B) trabajar 為原形、(C) trabaja 為定式陳述，皆不能在 «aun» 後構成讓步副動詞句。"
     }
   ]
 }

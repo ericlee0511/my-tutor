@@ -139,6 +139,82 @@
           "zh": "你幾歲？"
         }
       ]
+    },
+    {
+      "pattern": "Contracciones al / del (縮約形)",
+      "meaning_zh": "西班牙文中介系詞 a 和 de 遇到陽性單數定冠詞 el 時必須縮寫成 al 與 del；其他冠詞 (la, los, las) 不縮寫。",
+      "structure": "a + el = al；de + el = del；其他組合不縮：a la, de los, a las…",
+      "examples": [
+        {
+          "es": "Voy al supermercado todos los sábados.",
+          "zh": "我每個星期六去超市。"
+        },
+        {
+          "es": "Es el coche del profesor de español.",
+          "zh": "這是西班牙文老師的車。"
+        },
+        {
+          "es": "Llamo a la madre de Juan.",
+          "zh": "我打電話給胡安的媽媽。（不縮寫）"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos irregulares comunes en presente: tener / hacer / ir (常見不規則現在式)",
+      "meaning_zh": "tener (有)、hacer (做/製造)、ir (去) 是 A1 階段必背的高頻不規則動詞，第一人稱和語幹變化都不規則。",
+      "structure": "tener: tengo, tienes, tiene, tenemos, tenéis, tienen；hacer: hago, haces, hace…；ir: voy, vas, va, vamos, vais, van",
+      "examples": [
+        {
+          "es": "Tengo dos hermanos y una hermana.",
+          "zh": "我有兩個兄弟和一個姊妹。"
+        },
+        {
+          "es": "¿Qué haces los domingos por la tarde?",
+          "zh": "你星期天下午都做什麼？"
+        },
+        {
+          "es": "Vamos a la playa este fin de semana.",
+          "zh": "我們這個週末去海邊。"
+        }
+      ]
+    },
+    {
+      "pattern": "Género y plural de los sustantivos (名詞的陰陽性與複數)",
+      "meaning_zh": "西班牙文名詞分陰陽性：多以 -o 結尾為陽性，-a 結尾為陰性；複數時母音結尾加 -s，子音結尾加 -es。",
+      "structure": "el libro → los libros；la mesa → las mesas；el papel → los papeles；la ciudad → las ciudades",
+      "examples": [
+        {
+          "es": "El libro está sobre la mesa.",
+          "zh": "書放在桌子上。"
+        },
+        {
+          "es": "Los estudiantes leen muchos papeles.",
+          "zh": "學生們讀了很多文件。"
+        },
+        {
+          "es": "Las ciudades españolas son muy bonitas.",
+          "zh": "西班牙的城市非常漂亮。"
+        }
+      ]
+    },
+    {
+      "pattern": "Expresiones con tener: hambre / sed / frío / calor (tener 慣用語)",
+      "meaning_zh": "中文用「我很餓／渴／冷／熱」搭配 be 動詞，但西班牙文用 tener (有) 加無冠詞名詞，邏輯類似「擁有飢餓」。",
+      "structure": "tener + hambre / sed / frío / calor / sueño / miedo / prisa / años；強調用 mucho/mucha 而非 muy",
+      "examples": [
+        {
+          "es": "Tengo mucha hambre, vamos a comer.",
+          "zh": "我好餓，我們去吃飯吧。"
+        },
+        {
+          "es": "Los niños tienen frío en invierno.",
+          "zh": "小孩子在冬天會覺得冷。"
+        },
+        {
+          "es": "¿Cuántos años tienes? — Tengo veinte años.",
+          "zh": "你幾歲？－我二十歲。"
+        }
+      ]
     }
   ],
   "da2": [
@@ -275,6 +351,82 @@
         {
           "es": "La sopa está fría, ¿la caliento?",
           "zh": "湯涼了，要我加熱嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Muy vs Mucho (程度副詞區分)",
+      "meaning_zh": "muy 用於修飾形容詞或副詞，意思是「很」；mucho 用於修飾動詞或名詞，意思是「很多」，並要與名詞陰陽性複數一致。",
+      "structure": "muy + adjetivo / adverbio；verbo + mucho；mucho/mucha/muchos/muchas + sustantivo",
+      "examples": [
+        {
+          "es": "Esta paella está muy rica.",
+          "zh": "這道海鮮飯非常好吃。"
+        },
+        {
+          "es": "Estudio mucho los fines de semana.",
+          "zh": "我週末讀很多書。"
+        },
+        {
+          "es": "Hay muchas personas en la plaza.",
+          "zh": "廣場上有很多人。"
+        }
+      ]
+    },
+    {
+      "pattern": "También / Tampoco (附和肯定與否定)",
+      "meaning_zh": "también 用於附和肯定句，意為「也」；tampoco 用於附和否定句，意為「也不」，常配合間接受詞代名詞使用。",
+      "structure": "肯定附和: A mí también；否定附和: A mí tampoco；句中亦可: Yo también voy / Yo tampoco voy",
+      "examples": [
+        {
+          "es": "Me gusta el chocolate. — A mí también.",
+          "zh": "我喜歡巧克力。－我也是。"
+        },
+        {
+          "es": "No quiero salir esta noche. — Yo tampoco.",
+          "zh": "我今晚不想出門。－我也不想。"
+        },
+        {
+          "es": "Ana habla francés y también italiano.",
+          "zh": "安娜會說法文，也會說義大利文。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposiciones de lugar (位置介系詞)",
+      "meaning_zh": "西班牙文用來描述物體相對位置的常用介系詞，掌握 en, sobre, debajo de, delante de, detrás de, al lado de, entre 等。",
+      "structure": "en / sobre / debajo de / encima de / delante de / detrás de / al lado de / cerca de / lejos de / entre + 名詞",
+      "examples": [
+        {
+          "es": "El gato está debajo de la mesa.",
+          "zh": "貓在桌子底下。"
+        },
+        {
+          "es": "La farmacia está al lado del banco.",
+          "zh": "藥局在銀行旁邊。"
+        },
+        {
+          "es": "Mi casa está entre la escuela y el parque.",
+          "zh": "我家在學校和公園之間。"
+        }
+      ]
+    },
+    {
+      "pattern": "Saber vs Conocer (兩種「知道／認識」)",
+      "meaning_zh": "saber 表示「知道事實、訊息」或「會做某事」；conocer 表示「認識人、地方」或「初次接觸」。",
+      "structure": "saber + 從句 / 事實 / infinitivo；conocer + 人 / 地方 / 事物 (需要介系詞 a 接人)",
+      "examples": [
+        {
+          "es": "¿Sabes dónde está la estación de tren?",
+          "zh": "你知道火車站在哪裡嗎？"
+        },
+        {
+          "es": "Conozco a María desde hace diez años.",
+          "zh": "我認識瑪麗亞十年了。"
+        },
+        {
+          "es": "Mi hermano sabe tocar la guitarra muy bien.",
+          "zh": "我哥哥很會彈吉他。"
         }
       ]
     }
@@ -415,6 +567,82 @@
           "zh": "我畢業已經很久了。"
         }
       ]
+    },
+    {
+      "pattern": "Pronombres reflexivos con valor recíproco (反身代名詞的相互用法)",
+      "meaning_zh": "複數的反身代名詞 (nos, os, se) 除了表達反身動作外，也可以表示「互相」的意思，常加 el uno al otro 或 mutuamente 強調。",
+      "structure": "sujeto plural + se / nos / os + verbo + (el uno al otro / mutuamente)",
+      "examples": [
+        {
+          "es": "Carlos y Ana se quieren mucho.",
+          "zh": "卡洛斯和安娜彼此非常相愛。"
+        },
+        {
+          "es": "Nos vemos todos los lunes en la oficina.",
+          "zh": "我們每個星期一在辦公室見面。"
+        },
+        {
+          "es": "Los dos amigos se ayudan el uno al otro en los estudios.",
+          "zh": "兩位朋友在學業上互相幫助。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ser + adjetivo vs Estar + adjetivo (語意改變的形容詞)",
+      "meaning_zh": "部分形容詞與 ser 或 estar 搭配時意思會明顯改變，例如 listo (聰明／準備好)、aburrido (無聊的人／覺得無聊)、rico (有錢／好吃)。",
+      "structure": "ser + listo = 聰明；estar + listo = 準備好；ser + aburrido = 令人乏味；estar + aburrido = 感到無聊",
+      "examples": [
+        {
+          "es": "Mi sobrino es muy listo, aprende rápido.",
+          "zh": "我的姪子很聰明，學得很快。"
+        },
+        {
+          "es": "Ya estoy lista, podemos salir.",
+          "zh": "我準備好了，我們可以出門了。"
+        },
+        {
+          "es": "Esta tarta está riquísima, pero su familia es muy rica.",
+          "zh": "這個蛋糕超好吃，不過他家很有錢。"
+        }
+      ]
+    },
+    {
+      "pattern": "Oraciones temporales con cuando / mientras + indicativo (時間從句配陳述式)",
+      "meaning_zh": "當 cuando 或 mientras 描述過去或習慣性同時發生的動作時，使用陳述式 (indicativo) 而不是虛擬式；指未來時才用虛擬式。",
+      "structure": "Cuando / Mientras + indicativo (過去 / 習慣)；vs Cuando + subjuntivo (未來)",
+      "examples": [
+        {
+          "es": "Cuando era niño, vivía en un pueblo pequeño.",
+          "zh": "我小時候住在一個小村莊。"
+        },
+        {
+          "es": "Mientras tú cocinas, yo pongo la mesa.",
+          "zh": "你做飯的時候，我來擺餐桌。"
+        },
+        {
+          "es": "Siempre escucho música cuando estudio.",
+          "zh": "我讀書時總是聽音樂。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos de cambio: ponerse / volverse / convertirse en (表示變化的動詞)",
+      "meaning_zh": "西班牙文沒有單一的「變成」動詞，依照變化性質選擇：ponerse 表暫時情緒或外觀；volverse 表性格的持久轉變；convertirse en 表身分或本質的徹底改變。",
+      "structure": "ponerse + adjetivo (情緒)；volverse + adjetivo (性格)；convertirse en + sustantivo (身分)",
+      "examples": [
+        {
+          "es": "Mi madre se puso muy contenta con la noticia.",
+          "zh": "我媽媽聽到消息變得非常高興。"
+        },
+        {
+          "es": "Desde que ganó el premio, se ha vuelto muy arrogante.",
+          "zh": "自從得獎後，他變得非常自大。"
+        },
+        {
+          "es": "Con los años, ese chico se convirtió en un gran médico.",
+          "zh": "多年後，那個男孩成為一位偉大的醫生。"
+        }
+      ]
     }
   ],
   "db2": [
@@ -551,6 +779,82 @@
         {
           "es": "Se necesitan camareros con experiencia.",
           "zh": "徵有經驗的服務生。"
+        }
+      ]
+    },
+    {
+      "pattern": "Lo + adjetivo (中性冠詞 lo 抽象化)",
+      "meaning_zh": "中性冠詞 lo 加形容詞可以把性質名詞化，相當於中文「…的事／…的部分」，常用於評論或下結論。",
+      "structure": "Lo + adjetivo (masc. sg.) + (es que…) / + de + sustantivo",
+      "examples": [
+        {
+          "es": "Lo importante es no rendirse nunca.",
+          "zh": "重要的是永遠不要放棄。"
+        },
+        {
+          "es": "Lo malo de este trabajo es el horario.",
+          "zh": "這份工作不好的地方是工時。"
+        },
+        {
+          "es": "Lo bueno es que hemos llegado a tiempo.",
+          "zh": "好消息是我們準時到了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conectores causales avanzados: debido a / ya que / dado que (進階因果連接詞)",
+      "meaning_zh": "比 porque 更正式的因果連接詞：debido a 後接名詞；ya que 與 dado que 後接陳述式從句，多用於書面或正式語體。",
+      "structure": "debido a + sustantivo / infinitivo；ya que / dado que / puesto que + oración (indicativo)",
+      "examples": [
+        {
+          "es": "El vuelo se canceló debido al mal tiempo.",
+          "zh": "由於天氣惡劣，航班取消了。"
+        },
+        {
+          "es": "Ya que estás aquí, ayúdame con esto.",
+          "zh": "既然你在這裡，幫我處理一下吧。"
+        },
+        {
+          "es": "Dado que el plazo es corto, debemos darnos prisa.",
+          "zh": "鑒於時限很短，我們必須加快腳步。"
+        }
+      ]
+    },
+    {
+      "pattern": "Perífrasis durativas: seguir / continuar + gerundio, llevar + tiempo + gerundio (持續性動詞迂迴)",
+      "meaning_zh": "seguir / continuar + 副動詞 表示「繼續做」；llevar + 時間 + 副動詞 表示「已經做了多久」，等同於英文的 have been doing。",
+      "structure": "seguir / continuar + gerundio；llevar + 時間長度 + gerundio",
+      "examples": [
+        {
+          "es": "A pesar de todo, sigue trabajando en el mismo proyecto.",
+          "zh": "儘管如此，他仍繼續在同一個專案上工作。"
+        },
+        {
+          "es": "Llevo tres años estudiando español.",
+          "zh": "我學西班牙文已經三年了。"
+        },
+        {
+          "es": "Mis padres continúan viviendo en el campo.",
+          "zh": "我的父母仍然住在鄉下。"
+        }
+      ]
+    },
+    {
+      "pattern": "Modalizadores de probabilidad: quizá(s) / tal vez / probablemente (推測副詞配陳述式或虛擬式)",
+      "meaning_zh": "quizá(s), tal vez, probablemente 等推測副詞，可依說話者確信程度選擇陳述式 (較肯定) 或虛擬式 (較不確定)；a lo mejor 則一律配陳述式。",
+      "structure": "quizá(s) / tal vez / probablemente + indicativo (較肯定) / + subjuntivo (較不確定)；a lo mejor + indicativo",
+      "examples": [
+        {
+          "es": "Quizá venga Pedro a la fiesta, no estoy seguro.",
+          "zh": "也許佩德羅會來派對，我不太確定。"
+        },
+        {
+          "es": "Probablemente lloverá esta tarde.",
+          "zh": "今天下午大概會下雨。"
+        },
+        {
+          "es": "A lo mejor nos vemos el viernes.",
+          "zh": "搞不好星期五我們會見面。"
         }
       ]
     }
@@ -691,6 +995,82 @@
           "zh": "他沒讀書，所以才會考不過。"
         }
       ]
+    },
+    {
+      "pattern": "Oraciones concesivas: aun cuando / por más que / por mucho que (進階讓步從句)",
+      "meaning_zh": "比 aunque 更強調的讓步連接詞，aun cuando 強調極端假設，por más que / por mucho que 強調「不管多麼…也」。視語義真實性選陳述式或虛擬式。",
+      "structure": "aun cuando + indicativo / subjuntivo；por más que / por mucho que + indicativo / subjuntivo",
+      "examples": [
+        {
+          "es": "Aun cuando tuviera dinero, no compraría esa casa.",
+          "zh": "就算我有錢，我也不會買那棟房子。"
+        },
+        {
+          "es": "Por más que lo intentes, no vas a convencerme.",
+          "zh": "不管你再怎麼嘗試，也說服不了我。"
+        },
+        {
+          "es": "Por mucho que estudie, este tema no le entra.",
+          "zh": "不論他多努力讀，這個題目就是學不會。"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro perfecto con valor temporal y de probabilidad (未來完成式)",
+      "meaning_zh": "未來完成式 (habré + 過去分詞) 表示未來某時點之前完成的動作；也可表達對「過去」事件的推測，相當於「應該已經…了」。",
+      "structure": "haber (futuro) + participio：habré, habrás, habrá, habremos, habréis, habrán + participio",
+      "examples": [
+        {
+          "es": "Para mañana ya habré terminado el informe.",
+          "zh": "到明天我應該已經把報告寫完了。"
+        },
+        {
+          "es": "No contesta el teléfono; se habrá quedado dormido.",
+          "zh": "他不接電話；大概是睡著了吧。"
+        },
+        {
+          "es": "Cuando llegues, ya habremos cenado.",
+          "zh": "你到的時候，我們應該已經吃完晚餐了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Infinitivo perfecto: haber + participio (完成式不定詞)",
+      "meaning_zh": "haber + 過去分詞構成完成式不定詞，用來表達在主要動作之前已經完成的事件，常用於 después de, antes de, por 等介系詞之後。",
+      "structure": "preposición + haber + participio：después de haber comido / por haber llegado tarde…",
+      "examples": [
+        {
+          "es": "Después de haber terminado el examen, salimos a celebrar.",
+          "zh": "考試結束後，我們出去慶祝。"
+        },
+        {
+          "es": "Le multaron por haber aparcado en zona prohibida.",
+          "zh": "他因為在禁停區停車而被開罰單。"
+        },
+        {
+          "es": "Lamento no haberte llamado antes.",
+          "zh": "我很遺憾沒早一點打給你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conectores reformulativos: es decir / o sea / mejor dicho (重述連接詞)",
+      "meaning_zh": "用於改寫、解釋或修正前面說過的內容：es decir 與 o sea 表「也就是說」；mejor dicho 表「更精確地說」，常見於口語與寫作。",
+      "structure": "Oración 1, es decir / o sea / mejor dicho, oración 2 (重新表述)",
+      "examples": [
+        {
+          "es": "Trabaja en el sector terciario, es decir, en servicios.",
+          "zh": "他在第三產業工作，也就是說，在服務業。"
+        },
+        {
+          "es": "Llegaremos pasado mañana, o sea, el jueves.",
+          "zh": "我們後天會到，也就是星期四。"
+        },
+        {
+          "es": "No me cae mal, mejor dicho, no lo conozco bien.",
+          "zh": "我不討厭他，更精確地說，我不太認識他。"
+        }
+      ]
     }
   ],
   "dc2": [
@@ -827,6 +1207,82 @@
         {
           "es": "Hecho el trabajo, se marchó sin despedirse.",
           "zh": "工作做完後，他不告而別。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en relativas: antecedente conocido vs desconocido (關係子句先行詞已知／未知)",
+      "meaning_zh": "關係子句中若先行詞是已知、具體的人事物則用陳述式；若是未知、不存在或不確定的對象，則使用虛擬式以表達「假設性」。",
+      "structure": "Antecedente conocido + que + indicativo；antecedente desconocido / hipotético + que + subjuntivo",
+      "examples": [
+        {
+          "es": "Busco un piso que tenga balcón y mucha luz.",
+          "zh": "我在找一間有陽台且採光好的公寓。（尚未找到）"
+        },
+        {
+          "es": "Tengo un amigo que habla cinco idiomas.",
+          "zh": "我有一位朋友會說五種語言。（具體存在）"
+        },
+        {
+          "es": "No hay nadie que sepa la respuesta correcta.",
+          "zh": "沒有任何人知道正確答案。"
+        }
+      ]
+    },
+    {
+      "pattern": "Construcciones absolutas: participio / gerundio absoluto (絕對結構)",
+      "meaning_zh": "絕對結構由分詞或副動詞引導，其主詞不同於主句，前置表達「一旦…之後」或「在…的情況下」，屬於高階書面正式用法。",
+      "structure": "Participio absoluto + (sujeto) + …, oración principal；Gerundio absoluto + (sujeto) + …, oración principal",
+      "examples": [
+        {
+          "es": "Terminada la reunión, todos se marcharon a casa.",
+          "zh": "會議一結束，所有人都回家了。"
+        },
+        {
+          "es": "Llegando el verano, los precios de los hoteles suben mucho.",
+          "zh": "一到夏天，飯店的價格就大幅上漲。"
+        },
+        {
+          "es": "Una vez firmado el contrato, no hay vuelta atrás.",
+          "zh": "合約一旦簽字，就沒有回頭路了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Oraciones de relativo explicativas vs especificativas (解釋性與限定性關係子句)",
+      "meaning_zh": "限定性 (especificativa) 不加逗號，限定先行詞範圍；解釋性 (explicativa) 用逗號隔開，僅補充說明，刪除後不影響主要意思。",
+      "structure": "Antecedente + que + … (especificativa)；antecedente, que + …, (explicativa, 有逗號)",
+      "examples": [
+        {
+          "es": "Los estudiantes que estudian mucho aprueban el examen.",
+          "zh": "用功讀書的學生會通過考試。（限定：只有用功的會過）"
+        },
+        {
+          "es": "Los estudiantes, que estudian mucho, aprueban el examen.",
+          "zh": "學生們都很用功，因此通過考試。（解釋：所有學生都用功）"
+        },
+        {
+          "es": "Mi hermano, que vive en Madrid, viene a visitarnos.",
+          "zh": "我哥哥住在馬德里，他要來看我們。"
+        }
+      ]
+    },
+    {
+      "pattern": "Marcadores epistémicos sofisticados: a tenor de / por lo que se ve / al parecer (高階推斷標記)",
+      "meaning_zh": "正式書面語中用來表示推論依據或外觀判斷：a tenor de 意為「依據…」；por lo que se ve 與 al parecer 表「就看起來」「顯然」。",
+      "structure": "A tenor de + sustantivo, oración；Por lo que se ve / Al parecer, + oración (indicativo)",
+      "examples": [
+        {
+          "es": "A tenor de los últimos datos, la economía se recupera lentamente.",
+          "zh": "依據最新資料來看，經濟正在緩慢復甦。"
+        },
+        {
+          "es": "Por lo que se ve, no tienen intención de negociar.",
+          "zh": "看樣子他們沒有談判的意願。"
+        },
+        {
+          "es": "Al parecer, el accidente se debió a un fallo humano.",
+          "zh": "據稱這場事故是由於人為疏失造成的。"
         }
       ]
     }
