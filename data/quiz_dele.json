@@ -54,6 +54,61 @@
       ],
       "answer": 1,
       "explanation_zh": "西文報時除了「一點」用 es la una 外，其他時間複數一律用 son las…，故選 (B) Son。"
+    },
+    {
+      "question_es": "—¿___ años tienes? —Tengo veinte.",
+      "options": [
+        "Cuántos",
+        "Cuánto",
+        "Cuántas",
+        "Qué"
+      ],
+      "answer": 0,
+      "explanation_zh": "años 為陽性複數名詞，疑問詞需性數一致用 cuántos，故選 (A) Cuántos。(B) cuánto 用於不可數陽性、(C) cuántas 用於陰性複數、(D) qué 雖可問「幾歲」但常見搭配為 ¿Qué edad…?，此處空格後接 años 必用 cuántos。"
+    },
+    {
+      "question_es": "Mi hermana ___ enferma hoy, no puede ir a clase.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達暫時的身體狀態（生病）用 estar，故選 (B) está。(A) es 用於本質屬性、(C) tiene 為「有」、(D) hay 為存在句動詞，皆不符語境。"
+    },
+    {
+      "question_es": "Nosotros ___ que estudiar para el examen de mañana.",
+      "options": [
+        "tengo",
+        "tienes",
+        "tenemos",
+        "tienen"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞 nosotros 對應第一人稱複數，tener 變化為 tenemos，故選 (C) tenemos。(A) tengo=我、(B) tienes=你、(D) tienen=他們／您們，皆與主詞不符。"
+    },
+    {
+      "question_es": "En la mesa hay ___ libros y ___ manzana.",
+      "options": [
+        "unos / un",
+        "unas / una",
+        "uno / una",
+        "unos / una"
+      ],
+      "answer": 3,
+      "explanation_zh": "libros 為陽性複數搭配 unos；manzana 為陰性單數搭配 una，故選 (D) unos / una。(A) un 為陽性單數不合複數名詞、(B) unas 為陰性複數不合 libros、(C) uno 不可置於名詞前。"
+    },
+    {
+      "question_es": "—¿___ es tu profesor de español? —Se llama Carlos.",
+      "options": [
+        "Dónde",
+        "Cómo",
+        "Cuándo",
+        "Qué"
+      ],
+      "answer": 1,
+      "explanation_zh": "問人的名字或特質常用 ¿Cómo se llama…? 或 ¿Cómo es…?，答句給出姓名，故選 (B) Cómo。(A) Dónde=在哪、(C) Cuándo=何時、(D) Qué=什麼，皆不符。"
     }
   ],
   "da2": [
@@ -111,6 +166,61 @@
       ],
       "answer": 0,
       "explanation_zh": "建議句 ¿Por qué no + presente de indicativo? 用以提議，反身動詞 ponerse 主詞 tú 變為 te pones，故選 (A)。"
+    },
+    {
+      "question_es": "Ayer ___ a mis abuelos en su casa de campo.",
+      "options": [
+        "visito",
+        "visitaba",
+        "visité",
+        "he visitado"
+      ],
+      "answer": 2,
+      "explanation_zh": "時間標記 ayer 指明過去單一完成動作，用 pretérito indefinido，故選 (C) visité。(A) visito 為現在式、(B) visitaba 表過去習慣或背景、(D) he visitado 為現在完成式不搭配 ayer。"
+    },
+    {
+      "question_es": "Cuando era niño, ___ todos los domingos al parque con mi padre.",
+      "options": [
+        "iba",
+        "fui",
+        "voy",
+        "he ido"
+      ],
+      "answer": 0,
+      "explanation_zh": "「童年時每個禮拜天」屬過去反覆習慣動作，用 imperfecto，故選 (A) iba。(B) fui 為單次完成、(C) voy 為現在式、(D) he ido 為現在完成式，皆不適合。"
+    },
+    {
+      "question_es": "Marta ___ a las siete de la mañana todos los días.",
+      "options": [
+        "le levanta",
+        "levanta",
+        "levantas",
+        "se levanta"
+      ],
+      "answer": 3,
+      "explanation_zh": "levantarse「起床」為反身動詞，第三人稱單數須搭配反身代名詞 se，故選 (D) se levanta。(A) le levanta 為錯誤的間接代名詞、(B) levanta 缺反身代名詞語意為「舉起」、(C) levantas 為第二人稱。"
+    },
+    {
+      "question_es": "Este regalo es ___ ti, espero que te guste.",
+      "options": [
+        "por",
+        "para",
+        "de",
+        "a"
+      ],
+      "answer": 1,
+      "explanation_zh": "para 表示「給／為了某人」的目的或接收者，故選 (B) para。(A) por 表原因或交換、(C) de 表所屬或材料、(D) a 多表方向或人稱受詞，皆不符「送禮給你」之意。"
+    },
+    {
+      "question_es": "—¿Le diste el libro a Juan? —Sí, ya ___ di ayer.",
+      "options": [
+        "le lo",
+        "le le",
+        "se lo",
+        "lo le"
+      ],
+      "answer": 2,
+      "explanation_zh": "當間接受詞代名詞 le/les 後接直接受詞代名詞 lo/la/los/las 時，le 必須改為 se，故選 (C) se lo。(A) le lo 為錯誤組合、(B) le le 兩個間接代名詞不可連用、(D) lo le 順序錯誤，西文順序為「間接+直接」。"
     }
   ],
   "db1": [
@@ -168,6 +278,61 @@
       ],
       "answer": 0,
       "explanation_zh": "同等比較用 tan + adj. + como，故選 (A)。比較級「比……更」是 más + adj. + que（非 de）。"
+    },
+    {
+      "question_es": "Espero que mañana ___ buen tiempo para nuestro picnic.",
+      "options": [
+        "hace",
+        "haga",
+        "hará",
+        "hiciera"
+      ],
+      "answer": 1,
+      "explanation_zh": "esperar que 後接虛擬式表達期望，現在虛擬式第三人稱單數 hacer→haga，故選 (B) haga。(A) hace 為直陳現在式、(C) hará 為未來式、(D) hiciera 為過去虛擬式語境不符。"
+    },
+    {
+      "question_es": "Me ___ viajar a Japón el próximo verano, pero no tengo dinero.",
+      "options": [
+        "gusta",
+        "gustaba",
+        "gustó",
+        "gustaría"
+      ],
+      "answer": 3,
+      "explanation_zh": "表達禮貌的願望或假設性慾望用 condicional simple，故選 (D) gustaría。(A) gusta 為直接陳述喜歡、(B) gustaba 為過去習慣、(C) gustó 為過去單次經驗，皆無「假設願望」之意。"
+    },
+    {
+      "question_es": "___ llueva mucho, iremos a la playa de todas formas.",
+      "options": [
+        "Aunque",
+        "Porque",
+        "Si",
+        "Cuando"
+      ],
+      "answer": 0,
+      "explanation_zh": "aunque + subjuntivo 表「即使／就算」的讓步假設語氣，故選 (A) Aunque。(B) Porque 表原因、(C) Si 為條件、(D) Cuando 為時間，皆不符讓步語境。"
+    },
+    {
+      "question_es": "La chica ___ está hablando con el profesor es mi prima.",
+      "options": [
+        "quien",
+        "cuyo",
+        "que",
+        "lo que"
+      ],
+      "answer": 2,
+      "explanation_zh": "限定性形容子句指人或物最常用 que，故選 (C) que。(A) quien 前須加逗號或介系詞、(B) cuyo 表「其……的」屬所有格、(D) lo que 指抽象事物「……的事」，皆不符此處需直接修飾「la chica」的結構。"
+    },
+    {
+      "question_es": "Cuando ___ a casa, te llamaré por teléfono.",
+      "options": [
+        "llego",
+        "llegué",
+        "llegaré",
+        "llegue"
+      ],
+      "answer": 3,
+      "explanation_zh": "cuando 引導未來時間子句時用 presente de subjuntivo，故選 (D) llegue。(A) llego 為現在式陳述事實、(B) llegué 為過去式、(C) llegaré 在 cuando 後不可用未來式，西文文法明定。"
     }
   ],
   "db2": [
@@ -225,6 +390,61 @@
       ],
       "answer": 1,
       "explanation_zh": "「es imprescindible que…」屬主觀必要性表達，從句須用 presente de subjuntivo，故選 (B) envíen。"
+    },
+    {
+      "question_es": "Si ___ más tiempo, viajaría por toda Europa.",
+      "options": [
+        "tuviera",
+        "tengo",
+        "tuve",
+        "tendría"
+      ],
+      "answer": 0,
+      "explanation_zh": "Si 條件句第二型（與現在事實相反的假設）用 imperfecto de subjuntivo + condicional，故選 (A) tuviera。(B) tengo 為現在式屬第一型、(C) tuve 為過去單次、(D) tendría 為主句條件式，不能用於 si 子句。"
+    },
+    {
+      "question_es": "El nuevo museo ___ inaugurado por el alcalde la semana pasada.",
+      "options": [
+        "estuvo",
+        "se",
+        "fue",
+        "ha sido"
+      ],
+      "answer": 2,
+      "explanation_zh": "ser + participio 構成「動作被動」，強調過去單一事件用 fue，故選 (C) fue。(A) estuvo + participio 表「結果狀態被動」語意不同、(B) se 為自反被動但後須接動詞變位、(D) ha sido 為現在完成式不符 la semana pasada。"
+    },
+    {
+      "question_es": "Conocí a un escritor ___ novelas se han traducido a diez idiomas.",
+      "options": [
+        "que",
+        "cuyas",
+        "cuyos",
+        "quien"
+      ],
+      "answer": 1,
+      "explanation_zh": "cuyo/cuya 表「其……的」需與後面名詞性數一致；novelas 為陰性複數，故選 (B) cuyas。(A) que 不表所有、(C) cuyos 為陽性複數不合 novelas、(D) quien 不表所有關係。"
+    },
+    {
+      "question_es": "El profesor nos pidió que ___ los ejercicios antes del viernes.",
+      "options": [
+        "terminamos",
+        "terminemos",
+        "termináramos",
+        "terminaremos"
+      ],
+      "answer": 2,
+      "explanation_zh": "主句動詞 pidió 為過去式，依時態一致律子句用 imperfecto de subjuntivo，故選 (C) termináramos。(A) terminamos 為直陳式、(B) terminemos 為現在虛擬式時態不符、(D) terminaremos 為未來式不可在 pedir que 後使用。"
+    },
+    {
+      "question_es": "No creía que la situación ___ tan grave como decían.",
+      "options": [
+        "fuera",
+        "sea",
+        "era",
+        "será"
+      ],
+      "answer": 0,
+      "explanation_zh": "no creer que 否定動詞觸發虛擬式，主句為過去式 creía，故子句用 imperfecto de subjuntivo，故選 (A) fuera。(B) sea 為現在虛擬式時態不一致、(C) era 為直陳式不合否定信念、(D) será 為未來式不符虛擬要求。"
     }
   ],
   "dc1": [
@@ -282,6 +502,61 @@
       ],
       "answer": 2,
       "explanation_zh": "主句為「現在的遺憾」評論「過去之前」未發生的行為，從句須用 pluscuamperfecto de subjuntivo，故選 (C) hubieran tomado。"
+    },
+    {
+      "question_es": "Si ___ estudiado más, habría aprobado el examen sin problemas.",
+      "options": [
+        "habría",
+        "hubiera",
+        "había",
+        "hubiese"
+      ],
+      "answer": 3,
+      "explanation_zh": "Si 第三型條件句（與過去事實相反）用 pluscuamperfecto de subjuntivo (hubiera/hubiese + participio)；此處選 (D) hubiese。(A) habría 為條件完成式用於主句、(B) hubiera 同義但本題另有 hubiese 為標準形、(C) había 為直陳過去完成式不符虛擬要求。注意：hubiera 與 hubiese 在此可互換，本題依四選一搭配選 hubiese。"
+    },
+    {
+      "question_es": "El director nos comunicó que la reunión ___ pospuesta hasta nuevo aviso.",
+      "options": [
+        "es",
+        "quedaba",
+        "será",
+        "ha sido"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接引語在主句為過去式 (comunicó) 時，原話的現在式須回推為 imperfecto；quedaba pospuesta 表「處於延期狀態」，故選 (B) quedaba。(A) es 為現在式違反時態回推、(C) será 應回推為 sería、(D) ha sido 在過去引語中應回推為 había sido。"
+    },
+    {
+      "question_es": "El proyecto está bien financiado; ___, contamos con personal cualificado.",
+      "options": [
+        "sin embargo",
+        "por ende",
+        "asimismo",
+        "no obstante"
+      ],
+      "answer": 2,
+      "explanation_zh": "前後句皆為正面條件並列，連接詞應表「同樣地／此外」，故選 (C) asimismo。(A) sin embargo=然而、(D) no obstante=儘管如此，皆為轉折語意不符；(B) por ende=因此屬結果關係，與並列不一致。"
+    },
+    {
+      "question_es": "Ojalá ___ aceptado la oferta cuando me la propusieron el año pasado.",
+      "options": [
+        "hubiera",
+        "habría",
+        "haya",
+        "hubiere"
+      ],
+      "answer": 0,
+      "explanation_zh": "ojalá 配 pluscuamperfecto de subjuntivo 表「對過去未實現之事的遺憾」，故選 (A) hubiera (aceptado)。(B) habría 為條件完成式、(C) haya 為現在完成虛擬式不符「過去已過」、(D) hubiere 為極少用之未來完成虛擬式，現代西語已不使用。"
+    },
+    {
+      "question_es": "Por mucho que ___, no logrará convencerme con esos argumentos.",
+      "options": [
+        "insiste",
+        "insistirá",
+        "insista",
+        "insistía"
+      ],
+      "answer": 2,
+      "explanation_zh": "por mucho que 為讓步句型，後接虛擬式表「無論他多麼……」，現在虛擬式為 insista，故選 (C) insista。(A) insiste 為直陳式、(B) insistirá 為未來式、(D) insistía 為過去未完成式，皆違反讓步句型對虛擬式之要求。"
     }
   ],
   "dc2": [
@@ -339,6 +614,61 @@
       ],
       "answer": 0,
       "explanation_zh": "慣用句型 «cueste lo que cueste»（無論代價如何），固定用 lo que，故選 (A)。"
+    },
+    {
+      "question_es": "Fue en aquel viejo café ___ nos conocimos por primera vez.",
+      "options": [
+        "donde",
+        "que",
+        "cuando",
+        "el cual"
+      ],
+      "answer": 0,
+      "explanation_zh": "分裂句 (oración hendida) 強調地點時用 ser…donde，故選 (A) donde。(B) que 雖在口語常見，但標準書面西語強調地點須用 donde、(C) cuando 強調時間、(D) el cual 須前置介系詞且不適合分裂句結構。"
+    },
+    {
+      "question_es": "Cueste lo que ___, terminaré este proyecto antes de fin de mes.",
+      "options": [
+        "cuesta",
+        "costaba",
+        "costará",
+        "cueste"
+      ],
+      "answer": 3,
+      "explanation_zh": "cueste lo que cueste 為固定慣用語（不計代價），雙重虛擬式重複動詞，故選 (D) cueste。(A) cuesta 為直陳現在式、(B) costaba 為過去未完成、(C) costará 為未來式，皆破壞此句固定虛擬結構。"
+    },
+    {
+      "question_es": "Mi abuelo ___ viviendo en la misma casa más de cincuenta años.",
+      "options": [
+        "está",
+        "lleva",
+        "viene",
+        "anda"
+      ],
+      "answer": 1,
+      "explanation_zh": "perífrasis 「llevar + gerundio + 時間」表「持續做某事已多久」，故選 (B) lleva。(A) estar + gerundio 僅表進行不含時長累積、(C) venir + gerundio 強調過程到現在但常配抽象變化、(D) andar + gerundio 含「四處／不停地」語意，皆不如 llevar 精準對應「累計時長」。"
+    },
+    {
+      "question_es": "Que yo ___, todavía no han publicado los resultados del concurso.",
+      "options": [
+        "sé",
+        "sabía",
+        "sepa",
+        "supe"
+      ],
+      "answer": 2,
+      "explanation_zh": "que yo sepa 為固定慣用語「就我所知」，必用現在虛擬式，故選 (C) sepa。(A) sé 為直陳現在式破壞慣用結構、(B) sabía 為過去未完成、(D) supe 為過去單次，皆非此片語標準形。"
+    },
+    {
+      "question_es": "Acabo ___ enterarme de que el museo cerrará el lunes por reformas.",
+      "options": [
+        "a",
+        "por",
+        "en",
+        "de"
+      ],
+      "answer": 3,
+      "explanation_zh": "perífrasis 「acabar de + infinitivo」表「剛剛做完某事」，介系詞固定為 de，故選 (D) de。(A) acabar a 不存在此用法、(B) acabar por + inf. 表「最終／結果」語意不同、(C) acabar en 多表「以……結束（地點或結果）」，皆與「剛剛得知」之意不符。"
     }
   ]
 }

@@ -323,6 +323,12 @@ const DELE_STORIES = [
   { key: "dele004", title: "Reportaje: el teletrabajo cinco años después" },
   { key: "dele005", title: "Comité estratégico: lanzamiento internacional" },
   { key: "dele006", title: "Ensayo: el silencio en la literatura contemporánea" },
+  { key: "dele007", title: "Una visita al supermercado" },
+  { key: "dele008", title: "Una visita a los abuelos el fin de semana" },
+  { key: "dele009", title: "Reflexiones después de una entrevista de trabajo" },
+  { key: "dele010", title: "Columna de opinión: el auge del bicing urbano" },
+  { key: "dele011", title: "Reunión extraordinaria del consejo: filtración de datos" },
+  { key: "dele012", title: "Ensayo: la soledad en la vida urbana" },
 ];
 
 let DATA = {};

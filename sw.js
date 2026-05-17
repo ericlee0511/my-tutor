@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v124";
+const CACHE = "jp-tutor-v125";
 const ASSETS = [
   "./",
   "./index.html",
@@ -25,6 +25,12 @@ const ASSETS = [
   "./data/scenes_dele004.json",
   "./data/scenes_dele005.json",
   "./data/scenes_dele006.json",
+  "./data/scenes_dele007.json",
+  "./data/scenes_dele008.json",
+  "./data/scenes_dele009.json",
+  "./data/scenes_dele010.json",
+  "./data/scenes_dele011.json",
+  "./data/scenes_dele012.json",
   "./data/scenes_toeic001.json",
   "./data/scenes_toeic002.json",
   "./data/scenes_toeic003.json",

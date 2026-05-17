@@ -63,6 +63,82 @@
           "zh": "你必須九點整到。"
         }
       ]
+    },
+    {
+      "pattern": "Gustar 句型 (Verbo gustar)",
+      "meaning_zh": "表達「喜歡」時主詞是被喜歡的事物，喜歡的人用間接受詞代名詞表示，動詞要與後面的事物單複數一致。",
+      "structure": "(A + 人) + me/te/le/nos/os/les + gusta/gustan + sustantivo/infinitivo",
+      "examples": [
+        {
+          "es": "Me gusta el café.",
+          "zh": "我喜歡咖啡。"
+        },
+        {
+          "es": "A Ana le gustan los gatos.",
+          "zh": "安娜喜歡貓。"
+        },
+        {
+          "es": "Nos gusta viajar en verano.",
+          "zh": "我們喜歡夏天旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hay vs Estar (存在與位置)",
+      "meaning_zh": "Hay 用於介紹「有什麼東西存在」，後面接不定冠詞或數量詞；estar 用於說明已知事物「位於何處」，後面接定冠詞。",
+      "structure": "Hay + un/una/unos/unas/數字 + sustantivo ／ El/La + sustantivo + está + lugar",
+      "examples": [
+        {
+          "es": "Hay un libro en la mesa.",
+          "zh": "桌上有一本書。"
+        },
+        {
+          "es": "El libro está en la mesa.",
+          "zh": "這本書在桌上。"
+        },
+        {
+          "es": "Hay tres estudiantes en la clase.",
+          "zh": "教室裡有三位學生。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivos posesivos (所有格形容詞)",
+      "meaning_zh": "放在名詞前表示「誰的」，需與被擁有名詞的單複數一致；nuestro/vuestro 還需配合陰陽性變化。",
+      "structure": "mi(s)/tu(s)/su(s)/nuestro(a)(s)/vuestro(a)(s)/su(s) + sustantivo",
+      "examples": [
+        {
+          "es": "Mi madre es profesora.",
+          "zh": "我媽媽是老師。"
+        },
+        {
+          "es": "Nuestros amigos viven en Madrid.",
+          "zh": "我們的朋友住在馬德里。"
+        },
+        {
+          "es": "¿Dónde está tu coche?",
+          "zh": "你的車在哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "Interrogativos (疑問詞)",
+      "meaning_zh": "用來提出問題的詞，書寫時必須加上重音符號；qué 問事物，quién 問人，dónde 問地點，cuándo 問時間，cómo 問方式。",
+      "structure": "Qué/Quién/Dónde/Cuándo/Cómo/Cuánto + verbo + (sujeto)？",
+      "examples": [
+        {
+          "es": "¿Cómo te llamas?",
+          "zh": "你叫什麼名字？"
+        },
+        {
+          "es": "¿Dónde vives?",
+          "zh": "你住在哪裡？"
+        },
+        {
+          "es": "¿Cuántos años tienes?",
+          "zh": "你幾歲？"
+        }
+      ]
     }
   ],
   "da2": [
@@ -123,6 +199,82 @@
         {
           "es": "Este regalo es para mi madre.",
           "zh": "這份禮物是要給我媽媽的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Perfecto Compuesto (現在完成式)",
+      "meaning_zh": "表達在「包含現在的時間段」內完成的動作，常與 hoy、esta semana、ya、todavía no、alguna vez 連用。",
+      "structure": "Sujeto + haber (he/has/ha/hemos/habéis/han) + participio pasado",
+      "examples": [
+        {
+          "es": "Hoy he comido paella.",
+          "zh": "我今天吃了西班牙海鮮飯。"
+        },
+        {
+          "es": "¿Alguna vez has estado en España?",
+          "zh": "你曾經去過西班牙嗎？"
+        },
+        {
+          "es": "Todavía no hemos terminado el trabajo.",
+          "zh": "我們還沒做完工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ir a + infinitivo (近未來式)",
+      "meaning_zh": "用現在式的 ir 加 a 加原形動詞，表示「即將要做」的計畫或預測，相當於英文 be going to。",
+      "structure": "Sujeto + ir (voy/vas/va/vamos/vais/van) + a + infinitivo",
+      "examples": [
+        {
+          "es": "Voy a estudiar esta noche.",
+          "zh": "我今晚要讀書。"
+        },
+        {
+          "es": "Vamos a viajar a México el verano que viene.",
+          "zh": "我們明年夏天要去墨西哥旅行。"
+        },
+        {
+          "es": "Va a llover esta tarde.",
+          "zh": "今天下午會下雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres de OD y OI (直接與間接受詞代名詞)",
+      "meaning_zh": "直接受詞回答 qué 或 a quién，間接受詞回答 a quién；兩者一起用時，間接 le/les 在直接 lo/la/los/las 前要變成 se。",
+      "structure": "(OI me/te/le/nos/os/les) + (OD lo/la/los/las) + verbo conjugado",
+      "examples": [
+        {
+          "es": "¿El libro? Lo tengo aquí.",
+          "zh": "那本書嗎？我這裡有。"
+        },
+        {
+          "es": "Le doy las flores a mi madre.",
+          "zh": "我把花送給媽媽。"
+        },
+        {
+          "es": "Se las doy mañana.",
+          "zh": "我明天把它們給她。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + adjetivo vs Ser + adjetivo (狀態對比)",
+      "meaning_zh": "同一個形容詞配 ser 表示「本質特徵」，配 estar 表示「暫時狀態或結果」，意義常會改變，如 ser aburrido（無趣）vs estar aburrido（感到無聊）。",
+      "structure": "Sujeto + ser/estar + adjetivo",
+      "examples": [
+        {
+          "es": "Juan es aburrido, no habla con nadie.",
+          "zh": "胡安很無趣，不跟任何人說話。"
+        },
+        {
+          "es": "Juan está aburrido en casa.",
+          "zh": "胡安在家覺得很無聊。"
+        },
+        {
+          "es": "La sopa está fría, ¿la caliento?",
+          "zh": "湯涼了，要我加熱嗎？"
         }
       ]
     }
@@ -187,6 +339,82 @@
           "zh": "這是城裡最貴的餐廳。"
         }
       ]
+    },
+    {
+      "pattern": "Imperativo afirmativo y negativo (肯定與否定命令式)",
+      "meaning_zh": "肯定命令式 tú 形用第三人稱單數動詞，否定命令式則使用現在虛擬式；受詞代名詞在肯定式後黏接，在否定式前置。",
+      "structure": "Afirmativo: ¡Verbo + pronombre! ／ Negativo: ¡No + pronombre + subjuntivo!",
+      "examples": [
+        {
+          "es": "¡Dímelo ahora!",
+          "zh": "現在就告訴我！"
+        },
+        {
+          "es": "No me lo digas todavía.",
+          "zh": "先別告訴我。"
+        },
+        {
+          "es": "Habla más despacio, por favor.",
+          "zh": "請說慢一點。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo con verbos de influencia y sentimiento (影響與情感動詞配虛擬式)",
+      "meaning_zh": "querer、pedir、esperar、gustar、alegrarse 等動詞，後接 que 引導不同主詞的子句時，子句動詞要用虛擬式。",
+      "structure": "Sujeto1 + verbo de influencia/sentimiento + que + Sujeto2 + subjuntivo",
+      "examples": [
+        {
+          "es": "Quiero que vengas a mi fiesta.",
+          "zh": "我希望你來我的派對。"
+        },
+        {
+          "es": "Me alegro de que estés aquí.",
+          "zh": "我很高興你在這裡。"
+        },
+        {
+          "es": "Mi madre me pide que estudie más.",
+          "zh": "我媽媽要我多用功。"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro de probabilidad (未來式表推測)",
+      "meaning_zh": "未來簡單式除了表未來事件，也可表達「對現在的推測」，相當於中文「大概、應該是」。",
+      "structure": "Sujeto + verbo en futuro simple (推測現在情況)",
+      "examples": [
+        {
+          "es": "¿Qué hora es? — Serán las diez.",
+          "zh": "幾點了？應該十點了吧。"
+        },
+        {
+          "es": "Está cansada; tendrá mucho trabajo.",
+          "zh": "她很累，大概工作很多。"
+        },
+        {
+          "es": "No contesta; estará durmiendo.",
+          "zh": "他沒接，應該在睡覺。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hace + tiempo + que (時間表達)",
+      "meaning_zh": "用來表示「持續多久」或「多久以前發生」，搭配現在式表示持續至今，搭配過去式表示時間距離。",
+      "structure": "Hace + período + que + presente／pretérito indefinido",
+      "examples": [
+        {
+          "es": "Hace tres años que vivo en Taipéi.",
+          "zh": "我住在台北已經三年了。"
+        },
+        {
+          "es": "Hace dos semanas que no veo a María.",
+          "zh": "我已經兩個星期沒見到瑪麗亞了。"
+        },
+        {
+          "es": "Hace mucho que terminé la carrera.",
+          "zh": "我畢業已經很久了。"
+        }
+      ]
     }
   ],
   "db2": [
@@ -247,6 +475,82 @@
         {
           "es": "El autor, cuya obra es famosa, vive en Buenos Aires.",
           "zh": "這位作品著名的作者住在布宜諾斯艾利斯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo con conectores temporales (時間連接詞配虛擬式)",
+      "meaning_zh": "cuando、en cuanto、antes de que、hasta que 等時間連接詞，指向「尚未發生」的未來動作時，子句要用虛擬式；指向已發生或慣常事件則用陳述式。",
+      "structure": "Oración principal + cuando/en cuanto/antes de que/hasta que + subjuntivo",
+      "examples": [
+        {
+          "es": "Cuando llegues, llámame.",
+          "zh": "你到了就打給我。"
+        },
+        {
+          "es": "Saldré en cuanto termine la reunión.",
+          "zh": "會議一結束我就出門。"
+        },
+        {
+          "es": "Avísame antes de que vengan los invitados.",
+          "zh": "客人來之前先通知我。"
+        }
+      ]
+    },
+    {
+      "pattern": "Usos del gerundio (副動詞用法)",
+      "meaning_zh": "副動詞 -ando/-iendo 可表示同時動作、方式、原因或進行；不可用於表示後續或單純名詞功能。",
+      "structure": "Verbo principal + gerundio (manera/causa/simultaneidad) ／ estar + gerundio (progresivo)",
+      "examples": [
+        {
+          "es": "Estoy estudiando para el examen.",
+          "zh": "我正在為考試讀書。"
+        },
+        {
+          "es": "Aprendí español viendo películas.",
+          "zh": "我藉著看電影學會了西班牙文。"
+        },
+        {
+          "es": "Llegó corriendo a la oficina.",
+          "zh": "他用跑的進了辦公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pero vs Sino (轉折連接詞)",
+      "meaning_zh": "pero 表一般轉折「但是」；sino 用在前句為否定、且後面是與前項對立的詞或子句（sino que 接動詞）。",
+      "structure": "Frase afirmativa/negativa + pero + ... ／ No ... sino (que) + ...",
+      "examples": [
+        {
+          "es": "Estoy cansado, pero voy a salir.",
+          "zh": "我很累，但還是要出門。"
+        },
+        {
+          "es": "No quiero té, sino café.",
+          "zh": "我不要茶，而是要咖啡。"
+        },
+        {
+          "es": "No vino, sino que mandó un mensaje.",
+          "zh": "他沒來，而是傳了訊息。"
+        }
+      ]
+    },
+    {
+      "pattern": "Voz pasiva refleja con se (中性被動 se)",
+      "meaning_zh": "使用 se 加第三人稱動詞，動作的承受者作為文法主詞，常用於說明、公告、食譜等，不強調動作執行者。",
+      "structure": "Se + verbo 3ª persona singular/plural + sujeto paciente",
+      "examples": [
+        {
+          "es": "Aquí se habla español.",
+          "zh": "這裡說西班牙文。"
+        },
+        {
+          "es": "Se venden pisos en esta zona.",
+          "zh": "本區有公寓出售。"
+        },
+        {
+          "es": "Se necesitan camareros con experiencia.",
+          "zh": "徵有經驗的服務生。"
         }
       ]
     }
@@ -311,6 +615,82 @@
           "zh": "如果是你，你會怎麼做？"
         }
       ]
+    },
+    {
+      "pattern": "Aunque + indicativo vs subjuntivo (讓步從句)",
+      "meaning_zh": "aunque 接陳述式表示「儘管（事實如此）」，接虛擬式表示「即使（假設或不確定）」或「即使（已知但不在意）」。",
+      "structure": "Aunque + indicativo (hecho conocido) ／ Aunque + subjuntivo (hipótesis o irrelevancia)",
+      "examples": [
+        {
+          "es": "Aunque llueve, voy a salir.",
+          "zh": "雖然在下雨，我還是要出門。"
+        },
+        {
+          "es": "Aunque llueva, iré a la playa.",
+          "zh": "就算下雨，我也要去海邊。"
+        },
+        {
+          "es": "Aunque sea caro, lo compraré.",
+          "zh": "就算很貴，我也會買。"
+        }
+      ]
+    },
+    {
+      "pattern": "Oraciones de relativo con preposición (帶介系詞的關係子句)",
+      "meaning_zh": "當關係代名詞前需要介系詞時，須使用 el que/la que/los que/las que 或 el cual 系列，不可單用 que；指人也可用 quien/quienes。",
+      "structure": "Sustantivo + preposición + el/la/los/las que (cual) / quien(es) + verbo",
+      "examples": [
+        {
+          "es": "Esa es la chica con la que hablé ayer.",
+          "zh": "她就是我昨天交談的那位女孩。"
+        },
+        {
+          "es": "El edificio en el que vivo es muy antiguo.",
+          "zh": "我住的那棟大樓很古老。"
+        },
+        {
+          "es": "Los amigos a los que invité no han llegado.",
+          "zh": "我邀請的朋友還沒到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Que enfático y exclamativo (強調與感嘆 que)",
+      "meaning_zh": "que 可用於強烈祈使（¡Que + 虛擬式!）、感嘆（¡Qué + 形容詞/名詞!），以及引出對前文的解釋說明（強調語氣）。",
+      "structure": "¡Qué + adjetivo/sustantivo (+ más/tan + adj)! ／ ¡Que + presente de subjuntivo!",
+      "examples": [
+        {
+          "es": "¡Qué día tan bonito!",
+          "zh": "今天天氣真好！"
+        },
+        {
+          "es": "¡Que tengas buen viaje!",
+          "zh": "祝你旅途愉快！"
+        },
+        {
+          "es": "¡Que se calle de una vez!",
+          "zh": "叫他閉嘴吧！"
+        }
+      ]
+    },
+    {
+      "pattern": "Conectores contrastivos y consecutivos (對比與結果連接詞)",
+      "meaning_zh": "en cambio、sin embargo、no obstante 表示對比；por consiguiente、por (lo) tanto、de ahí que（後接虛擬式）表示因果結果，用於書面或正式語境。",
+      "structure": "Oración1 + conector (en cambio / sin embargo / por consiguiente / de ahí que + subj) + oración2",
+      "examples": [
+        {
+          "es": "Trabaja mucho; en cambio, su hermano es muy perezoso.",
+          "zh": "他很努力工作；相反地，他哥哥很懶。"
+        },
+        {
+          "es": "Subieron los precios; por consiguiente, bajaron las ventas.",
+          "zh": "價格上漲，因此銷量下降。"
+        },
+        {
+          "es": "No estudió; de ahí que suspendiera el examen.",
+          "zh": "他沒讀書，所以才會考不過。"
+        }
+      ]
     }
   ],
   "dc2": [
@@ -371,6 +751,82 @@
         {
           "es": "Es en Madrid donde se celebra el congreso.",
           "zh": "會議是在馬德里舉行的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en oraciones independientes (獨立句中的虛擬式)",
+      "meaning_zh": "ojalá、quizá(s)、tal vez、acaso 等副詞引導獨立句時可直接搭配虛擬式，表達願望、可能或不確定，語氣比陳述式弱。",
+      "structure": "Ojalá / Quizá(s) / Tal vez / Acaso + (que) + subjuntivo",
+      "examples": [
+        {
+          "es": "Ojalá hubieras venido a la fiesta.",
+          "zh": "真希望你當時有來派對。"
+        },
+        {
+          "es": "Quizá tengas razón al final.",
+          "zh": "也許最後是你對。"
+        },
+        {
+          "es": "Tal vez se haya olvidado de la cita.",
+          "zh": "他也許已經忘了約會。"
+        }
+      ]
+    },
+    {
+      "pattern": "Voz media y construcciones con se (中動語態與 se 的多重用法)",
+      "meaning_zh": "中動語態用 se 將事件「自然發生化」，淡化施事者；同時 se 也可用於非預期事件（se me cayó），及一般化主詞。",
+      "structure": "Se + verbo (3ª persona) ／ Se + me/te/le/nos/os/les + verbo + sujeto involuntario",
+      "examples": [
+        {
+          "es": "Se me ha roto el móvil.",
+          "zh": "我的手機壞掉了（非我所願）。"
+        },
+        {
+          "es": "La puerta se abrió de repente.",
+          "zh": "門突然就開了。"
+        },
+        {
+          "es": "Se me olvidaron las llaves en casa.",
+          "zh": "我把鑰匙忘在家裡了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Focalización con lo que / es ... el que (lo que 與分裂結構的焦點化)",
+      "meaning_zh": "透過 lo que、es ... el/la que、es ... cuando/donde 等結構把句中某個成分「拉到焦點」，強調該元素，常見於書面與口語修辭。",
+      "structure": "Lo que + verbo + es + sustantivo ／ Es + elemento focal + el/la que / cuando / donde + verbo",
+      "examples": [
+        {
+          "es": "Lo que más me molesta es su actitud.",
+          "zh": "最讓我困擾的是他的態度。"
+        },
+        {
+          "es": "Fue en Madrid donde la conocí.",
+          "zh": "我是在馬德里認識她的。"
+        },
+        {
+          "es": "Es Carlos el que tiene la llave.",
+          "zh": "鑰匙在卡洛斯那裡。"
+        }
+      ]
+    },
+    {
+      "pattern": "Elipsis y registros formales (省略與正式語體)",
+      "meaning_zh": "在正式書面語中，可省略已知主詞、動詞或重複成分，並使用較高層次的連接詞與被動結構，使文意凝練；口語則傾向冗贅或重述。",
+      "structure": "Coordinación con elementos elididos ／ uso de construcciones nominalizadas y pasivas",
+      "examples": [
+        {
+          "es": "Unos llegaron a tiempo; otros, tarde.",
+          "zh": "有些人準時到，有些則遲到。"
+        },
+        {
+          "es": "Se ha procedido a la revisión del informe.",
+          "zh": "報告已進行審查。"
+        },
+        {
+          "es": "Hecho el trabajo, se marchó sin despedirse.",
+          "zh": "工作做完後，他不告而別。"
         }
       ]
     }
