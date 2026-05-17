@@ -1,0 +1,64 @@
+{
+  "gept": [
+    {
+      "question_en": "I ___ in Taichung for five years before I moved to Taipei last summer.",
+      "options": ["have lived", "had lived", "live", "am living"],
+      "answer": 1,
+      "explanation_zh": "過去某時間點 (last summer) 之前已持續發生的動作要用過去完成式 had + p.p.，故選 (B) had lived。(A) have lived 是現在完成式，不符合過去的時間參考。(C) live 為現在簡單式。(D) am living 為現在進行式。"
+    },
+    {
+      "question_en": "The new MRT line is ___ than the old one and takes us downtown much faster.",
+      "options": ["fast", "faster", "fastest", "more fast"],
+      "answer": 1,
+      "explanation_zh": "句中有 than 表示兩者比較，需用比較級 faster，故選 (B)。(A) fast 為原級。(C) fastest 為最高級。(D) more fast 不合語法，單音節形容詞直接加 -er。"
+    },
+    {
+      "question_en": "If I ___ you, I would apologize to her right away.",
+      "options": ["am", "was", "were", "will be"],
+      "answer": 2,
+      "explanation_zh": "與現在事實相反的假設 (Type 2)，if 子句用過去式，be 動詞一律用 were，故選 (C) were。(A) am 為現在式。(B) was 在正式文法的假設語氣中不採用。(D) will be 不可用於 if 子句。"
+    },
+    {
+      "question_en": "The meeting ___ to next Friday because the manager is on a business trip.",
+      "options": ["postpones", "is postponing", "has postponed", "has been postponed"],
+      "answer": 3,
+      "explanation_zh": "會議是被延期的，需用被動語態，且強調對現在的影響，故用現在完成被動 has been postponed，選 (D)。(A)(B) 為主動語態。(C) has postponed 為現在完成主動，主詞 meeting 不能主動延期。"
+    },
+    {
+      "question_en": "The girl ___ is sitting next to the window is my new classmate from Hong Kong.",
+      "options": ["which", "whose", "who", "whom"],
+      "answer": 2,
+      "explanation_zh": "先行詞 the girl 是人且在子句中當主詞，需用主格關係代名詞 who，故選 (C)。(A) which 用於事物。(B) whose 為所有格。(D) whom 為受格。"
+    },
+    {
+      "question_en": "My brother enjoys ___ basketball with his friends every weekend.",
+      "options": ["play", "to play", "playing", "played"],
+      "answer": 2,
+      "explanation_zh": "enjoy 後接動名詞 V-ing，故選 (C) playing。(A) play 為原形動詞。(B) to play 為不定式，不可接在 enjoy 之後。(D) played 為過去式或過去分詞。"
+    },
+    {
+      "question_en": "She has been working on the project ___ early this morning without taking a break.",
+      "options": ["for", "since", "from", "during"],
+      "answer": 1,
+      "explanation_zh": "since 後面接時間點 (early this morning)，與現在完成進行式搭配，故選 (B)。(A) for 後接一段時間。(C) from 通常與 to 連用。(D) during 後接事件或一段期間。"
+    },
+    {
+      "question_en": "If the weather ___ nice tomorrow, we will go hiking in Yangmingshan.",
+      "options": ["is", "was", "will be", "would be"],
+      "answer": 0,
+      "explanation_zh": "Type 1 條件句，if 子句用現在式表示未來，主句用 will，故選 (A) is。(B) was 為過去式，不合語意。(C)(D) 都不能用在 if 子句的條件部分。"
+    },
+    {
+      "question_en": "I would rather ___ at home tonight than go to the crowded night market.",
+      "options": ["staying", "to stay", "stay", "stayed"],
+      "answer": 2,
+      "explanation_zh": "would rather 後接原形動詞，故選 (C) stay。(A) staying 為動名詞或現在分詞。(B) to stay 為不定式。(D) stayed 為過去式。"
+    },
+    {
+      "question_en": "This is the most delicious mango cake ___ I have ever tasted in my life.",
+      "options": ["who", "what", "which", "that"],
+      "answer": 3,
+      "explanation_zh": "先行詞前有最高級 the most delicious 修飾時，關係代名詞通常用 that，故選 (D)。(A) who 用於人。(B) what 不可當關係代名詞使用。(C) which 文法上可，但最高級之後習慣用 that。"
+    }
+  ]
+}

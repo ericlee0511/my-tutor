@@ -1,4 +1,4 @@
-const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic", "da1", "da2", "db1", "db2", "dc1", "dc2"];
+const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic", "gept", "da1", "da2", "db1", "db2", "dc1", "dc2"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
@@ -106,36 +106,43 @@ const KOREAN_STORIES = [
 ];
 
 function isToeic() { return state.level === "toeic"; }
+function isGept() { return state.level === "gept"; }
 function isDele() { return !!(state.level && state.level.startsWith("d")); }
 function isTopik() { return state.level && state.level.startsWith("t") && !isToeic(); }
 function levelLabel(lvl) {
   if (lvl === "toeic") return "TOEIC";
+  if (lvl === "gept") return "GEPT";
   if (lvl && lvl.startsWith("d")) return "DELE " + lvl.slice(1).toUpperCase();
   if (lvl && lvl.startsWith("t")) return "TOPIK " + lvl.slice(1);
   return (lvl || "").toUpperCase();
 }
 function activeStories() {
   if (isDele()) return DELE_STORIES;
+  if (isGept()) return GEPT_STORIES;
   if (isToeic()) return TOEIC_STORIES;
   return isTopik() ? KOREAN_STORIES : STORIES;
 }
 function activeVocab() {
   if (isDele()) return DATA.vocab_dele;
+  if (isGept()) return DATA.vocab_gept;
   if (isToeic()) return DATA.vocab_toeic;
   return isTopik() ? DATA.vocab_ko : DATA.vocab;
 }
 function activeGrammar() {
   if (isDele()) return DATA.grammar_dele;
+  if (isGept()) return DATA.grammar_gept;
   if (isToeic()) return DATA.grammar_toeic;
   return isTopik() ? DATA.grammar_ko : DATA.grammar;
 }
 function activeQuiz() {
   if (isDele()) return DATA.quiz_dele;
+  if (isGept()) return DATA.quiz_gept;
   if (isToeic()) return DATA.quiz_toeic;
   return isTopik() ? DATA.quiz_ko : DATA.quiz;
 }
 function activeScenes() {
   if (isDele()) return DATA.scenes_dele;
+  if (isGept()) return DATA.scenes_gept;
   if (isToeic()) return DATA.scenes_toeic;
   return isTopik() ? DATA.scenes_ko : DATA.scenes;
 }
@@ -316,6 +323,11 @@ const TOEIC_STORIES = [
   { key: "toeic120", title: "Cafeteria Menu and Feedback Notice" },
 ];
 
+const GEPT_STORIES = [
+  { key: "gept001", title: "A Weekend Trip to Kenting" },
+  { key: "gept002", title: "Studying for the GEPT Exam" },
+];
+
 const DELE_STORIES = [
   { key: "dele001", title: "Un café en Madrid" },
   { key: "dele002", title: "Mi primer día en la escuela de idiomas" },
@@ -366,6 +378,7 @@ async function loadData() {
   const koFixed = 3;
   const toeicFixed = 3;
   const deleFixed = 3;
+  const geptFixed = 3;
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),
@@ -379,10 +392,14 @@ async function loadData() {
     fetch("data/vocab_dele.json").then(r => r.json()),
     fetch("data/grammar_dele.json").then(r => r.json()),
     fetch("data/quiz_dele.json").then(r => r.json()),
+    fetch("data/vocab_gept.json").then(r => r.json()),
+    fetch("data/grammar_gept.json").then(r => r.json()),
+    fetch("data/quiz_gept.json").then(r => r.json()),
     ...STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...KOREAN_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...TOEIC_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...DELE_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
+    ...GEPT_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
   ]);
   DATA.vocab = loaded[0];
   DATA.grammar = loaded[1];
@@ -396,10 +413,14 @@ async function loadData() {
   DATA.vocab_dele = loaded[9];
   DATA.grammar_dele = loaded[10];
   DATA.quiz_dele = loaded[11];
-  const jpStart = jpFixed + koFixed + toeicFixed + deleFixed;
+  DATA.vocab_gept = loaded[12];
+  DATA.grammar_gept = loaded[13];
+  DATA.quiz_gept = loaded[14];
+  const jpStart = jpFixed + koFixed + toeicFixed + deleFixed + geptFixed;
   const koStart = jpStart + STORIES.length;
   const toeicStart = koStart + KOREAN_STORIES.length;
   const deleStart = toeicStart + TOEIC_STORIES.length;
+  const geptStart = deleStart + DELE_STORIES.length;
   DATA.scenes = {};
   STORIES.forEach((s, i) => {
     DATA.scenes[s.key] = loaded[jpStart + i].all || [];
@@ -416,6 +437,10 @@ async function loadData() {
   DELE_STORIES.forEach((s, i) => {
     DATA.scenes_dele[s.key] = loaded[deleStart + i].all || [];
   });
+  DATA.scenes_gept = {};
+  GEPT_STORIES.forEach((s, i) => {
+    DATA.scenes_gept[s.key] = loaded[geptStart + i].all || [];
+  });
   updateStats();
 }
 
@@ -425,7 +450,8 @@ function updateStats() {
     sum(DATA.vocab) + sum(DATA.grammar) + sum(DATA.quiz) + sum(DATA.scenes) +
     sum(DATA.vocab_ko) + sum(DATA.grammar_ko) + sum(DATA.quiz_ko) + sum(DATA.scenes_ko) +
     sum(DATA.vocab_toeic) + sum(DATA.grammar_toeic) + sum(DATA.quiz_toeic) + sum(DATA.scenes_toeic) +
-    sum(DATA.vocab_dele) + sum(DATA.grammar_dele) + sum(DATA.quiz_dele) + sum(DATA.scenes_dele);
+    sum(DATA.vocab_dele) + sum(DATA.grammar_dele) + sum(DATA.quiz_dele) + sum(DATA.scenes_dele) +
+    sum(DATA.vocab_gept) + sum(DATA.grammar_gept) + sum(DATA.quiz_gept) + sum(DATA.scenes_gept);
   document.getElementById("stats").textContent = `已載入 ${total} 項學習素材 · 離線可用`;
 }
 
@@ -602,6 +628,53 @@ function fmtSceneToeic(item, num, title) {
   return html;
 }
 
+function fmtWordGept(item) {
+  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
+    `   → ${escapeHTML(item.example_zh)}</div>`;
+  return html;
+}
+
+function fmtGrammarGept(item) {
+  let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
+    `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div><span class="label">結構:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
+  (item.examples || []).forEach((ex, i) => {
+    html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.en)}<br>` +
+      `   → ${escapeHTML(ex.zh)}</div>`;
+  });
+  return html;
+}
+
+function fmtQuizGept(item) {
+  const letters = ["A", "B", "C", "D"];
+  const ansLetter = letters[item.answer];
+  let html = `<div class="headword">❓ ${escapeHTML(item.question_en)}</div><div class="options">`;
+  item.options.forEach((opt, i) => {
+    html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
+  });
+  html += `</div>` +
+    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
+  return html;
+}
+
+function fmtSceneGept(item, num, title) {
+  const reversed = state.dir === "zh";
+  let html = fmtStoryBanner(num, title);
+  if (reversed) {
+    html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `🎭 ${escapeHTML(item.en)}</span></div>`;
+  } else {
+    html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `💬 ${escapeHTML(item.zh)}</span></div>`;
+  }
+  return html;
+}
+
 function fmtWordDele(item) {
   let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
@@ -669,6 +742,7 @@ function fmtScene(item, num, title) {
 
 function currentMode() {
   if (isDele()) return "dele";
+  if (isGept()) return "gept";
   if (isToeic()) return "toeic";
   if (isTopik()) return "topik";
   return "jp";
@@ -695,6 +769,18 @@ function formatEntry(entry) {
       const story = DELE_STORIES[idx];
       const num = idx >= 0 ? String(idx + 1).padStart(3, "0") + "." : "";
       return fmtSceneDele(entry.item, num, story?.title || "");
+    }
+    return "";
+  }
+  if (entry.mode === "gept") {
+    if (entry.kind === "word") return fmtWordGept(entry.item);
+    if (entry.kind === "grammar") return fmtGrammarGept(entry.item);
+    if (entry.kind === "quiz") return fmtQuizGept(entry.item);
+    if (entry.kind === "scene") {
+      const idx = GEPT_STORIES.findIndex(s => s.key === entry.key);
+      const story = GEPT_STORIES[idx];
+      const num = idx >= 0 ? String(idx + 1).padStart(3, "0") + "." : "";
+      return fmtSceneGept(entry.item, num, story?.title || "");
     }
     return "";
   }
@@ -769,6 +855,7 @@ function nextTimeline() {
   if (last.kind === "scene") {
     const pool =
       mode === "dele" ? DATA.scenes_dele :
+      mode === "gept" ? DATA.scenes_gept :
       mode === "toeic" ? DATA.scenes_toeic :
       mode === "topik" ? DATA.scenes_ko : DATA.scenes;
     const item = pickRandom(pool, last.key, "scene");
@@ -776,6 +863,7 @@ function nextTimeline() {
   } else {
     const poolMap =
       mode === "dele" ? { word: DATA.vocab_dele, grammar: DATA.grammar_dele, quiz: DATA.quiz_dele } :
+      mode === "gept" ? { word: DATA.vocab_gept, grammar: DATA.grammar_gept, quiz: DATA.quiz_gept } :
       mode === "toeic" ? { word: DATA.vocab_toeic, grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
       mode === "topik" ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko } :
       { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
@@ -852,6 +940,7 @@ function render(action) {
 
 function modeOfLevel(lvl) {
   if (lvl === "toeic") return "toeic";
+  if (lvl === "gept") return "gept";
   if (lvl && lvl.startsWith("d")) return "dele";
   if (lvl && lvl.startsWith("t")) return "topik";
   return "jp";
@@ -889,7 +978,7 @@ function closeLevelPicker() {
 }
 
 function updateModeToggles() {
-  const hideLang = isTopik() || isToeic() || isDele();
+  const hideLang = isTopik() || isToeic() || isDele() || isGept();
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
   if (langBtn) langBtn.style.display = hideLang ? "none" : "";
@@ -908,7 +997,7 @@ function cycleLang() {
 }
 function dirLabel() {
   const reversed = state.dir === "zh";
-  if (isToeic()) return reversed ? "中→英" : "英→中";
+  if (isToeic() || isGept()) return reversed ? "中→英" : "英→中";
   if (isDele()) return reversed ? "中→西" : "西→中";
   if (isTopik()) return reversed ? "中→韓" : "韓→中";
   return reversed ? "中→日" : "日→中";

@@ -1,0 +1,64 @@
+{
+  "gept": [
+    {
+      "pattern": "Present Perfect Tense (現在完成式)",
+      "meaning_zh": "表示從過去持續到現在的動作或狀態，或對現在仍有影響的過去經驗。常與 for, since, already, yet, ever, just 等副詞連用。",
+      "structure": "S + have/has + p.p. (+ for/since/already/yet ...)",
+      "examples": [
+        { "en": "I have lived in Taipei for more than ten years.", "zh": "我在台北住了十年以上。" },
+        { "en": "She has already finished her English homework.", "zh": "她已經寫完英文作業了。" },
+        { "en": "Have you ever visited the National Palace Museum?", "zh": "你曾經參觀過故宮博物院嗎？" }
+      ]
+    },
+    {
+      "pattern": "Comparatives and Superlatives (比較級與最高級)",
+      "meaning_zh": "用來比較兩者或三者以上的人事物。短形容詞加 -er/-est，長形容詞用 more/most，並注意 good-better-best 等不規則變化。",
+      "structure": "S + V + adj-er + than + N ; S + V + the + adj-est + (N) ; S + V + more/most + adj (+ than ...)",
+      "examples": [
+        { "en": "My new phone is lighter than the old one.", "zh": "我的新手機比舊的還要輕。" },
+        { "en": "This is the most interesting book I have ever read.", "zh": "這是我讀過最有趣的書。" },
+        { "en": "Learning English is more difficult than I expected.", "zh": "學英文比我預期的還要困難。" }
+      ]
+    },
+    {
+      "pattern": "Conditional Sentences (條件句 Type 1 & Type 2)",
+      "meaning_zh": "Type 1 表示未來可能發生的條件 (if + 現在式, will + V)；Type 2 表示與現在事實相反的假設 (if + 過去式, would + V)。",
+      "structure": "Type 1: If + S + V(現在式), S + will + V. ; Type 2: If + S + V(過去式), S + would + V.",
+      "examples": [
+        { "en": "If it rains tomorrow, we will cancel the picnic.", "zh": "如果明天下雨，我們就取消野餐。" },
+        { "en": "If I had more money, I would travel around the world.", "zh": "如果我有更多錢，我會環遊世界。" },
+        { "en": "If she were here, she would know what to do.", "zh": "如果她在這裡，她就會知道該怎麼辦。" }
+      ]
+    },
+    {
+      "pattern": "Passive Voice (被動語態)",
+      "meaning_zh": "強調動作的承受者而非動作的執行者，由 be 動詞加上過去分詞構成。執行者可用 by 帶出，必要時可省略。",
+      "structure": "S + be + p.p. (+ by + 行為者)",
+      "examples": [
+        { "en": "The report was written by our new colleague.", "zh": "這份報告是由我們的新同事撰寫的。" },
+        { "en": "English is spoken in many countries around the world.", "zh": "英文在世界上許多國家被使用。" },
+        { "en": "The package will be delivered tomorrow morning.", "zh": "這個包裹明天早上會被送達。" }
+      ]
+    },
+    {
+      "pattern": "Relative Pronouns (關係代名詞)",
+      "meaning_zh": "用來引導形容詞子句以修飾前面的先行詞。who 指人，which 指物，that 兩者皆可，whose 表示所有格。",
+      "structure": "N (先行詞) + who/which/that/whose + V ...",
+      "examples": [
+        { "en": "The student who won the speech contest is my classmate.", "zh": "贏得演講比賽的那位學生是我的同學。" },
+        { "en": "This is the restaurant which serves the best beef noodles.", "zh": "這就是賣最棒牛肉麵的餐廳。" },
+        { "en": "I met a girl whose father is a famous doctor.", "zh": "我遇到一個女孩，她的父親是有名的醫生。" }
+      ]
+    },
+    {
+      "pattern": "Gerunds and Infinitives (動名詞與不定式)",
+      "meaning_zh": "某些動詞後接動名詞 (V-ing)，如 enjoy, finish, avoid, mind；某些動詞後接不定式 (to V)，如 decide, hope, plan, want。",
+      "structure": "S + V + V-ing ; S + V + to + V",
+      "examples": [
+        { "en": "I enjoy listening to English songs in my free time.", "zh": "我空閒時喜歡聽英文歌。" },
+        { "en": "She decided to study abroad next year.", "zh": "她決定明年出國念書。" },
+        { "en": "Please avoid making noise in the library.", "zh": "請避免在圖書館內製造噪音。" }
+      ]
+    }
+  ]
+}
