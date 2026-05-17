@@ -1,0 +1,344 @@
+{
+  "da1": [
+    {
+      "question_es": "—¡Hola! ¿De ___ eres? —Soy de Taiwán.",
+      "options": [
+        "dónde",
+        "qué",
+        "cuándo",
+        "cómo"
+      ],
+      "answer": 0,
+      "explanation_zh": "問來自哪個國家／地方時用 «de dónde»，故選 (A) dónde。(B) qué=什麼、(C) cuándo=何時、(D) cómo=如何，皆不符語境。"
+    },
+    {
+      "question_es": "Maria ___ profesora de español.",
+      "options": [
+        "está",
+        "es",
+        "tiene",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達職業／身分用 ser，故選 (B) es。(A) está 用於暫時狀態或位置；(C) tiene 為「有」；(D) hay 為存在動詞。"
+    },
+    {
+      "question_es": "Mis padres ___ en Madrid.",
+      "options": [
+        "viven",
+        "vives",
+        "vivimos",
+        "vive"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞 mis padres 為第三人稱複數，動詞 vivir 變化為 viven，故選 (A)。"
+    },
+    {
+      "question_es": "Tengo ___ hermano y ___ hermana.",
+      "options": [
+        "un / una",
+        "uno / una",
+        "una / un",
+        "un / un"
+      ],
+      "answer": 0,
+      "explanation_zh": "un 用於陽性名詞 hermano；una 用於陰性名詞 hermana。uno 作獨立數詞時才用（後不接名詞）。故選 (A)。"
+    },
+    {
+      "question_es": "¿Qué hora es? ___ las tres y cuarto.",
+      "options": [
+        "Es",
+        "Son",
+        "Está",
+        "Hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "西文報時除了「一點」用 es la una 外，其他時間複數一律用 son las…，故選 (B) Son。"
+    }
+  ],
+  "da2": [
+    {
+      "question_es": "Ayer ___ a mis abuelos en su casa.",
+      "options": [
+        "visito",
+        "visitaba",
+        "visité",
+        "visitaré"
+      ],
+      "answer": 2,
+      "explanation_zh": "ayer（昨天）為過去具體時間點，需用 pretérito indefinido，第一人稱單數 visité，故選 (C)。"
+    },
+    {
+      "question_es": "Cuando era niño, ___ todos los veranos a la playa.",
+      "options": [
+        "fui",
+        "iba",
+        "iré",
+        "voy"
+      ],
+      "answer": 1,
+      "explanation_zh": "描述過去的習慣性動作用 imperfecto，故選 (B) iba。(A) fui 為一次性動作；(C) iré 為未來；(D) voy 為現在。"
+    },
+    {
+      "question_es": "Por las mañanas (yo) ___ a las siete.",
+      "options": [
+        "me levanto",
+        "te levantas",
+        "se levanta",
+        "levanto"
+      ],
+      "answer": 0,
+      "explanation_zh": "反身動詞 levantarse 主詞為 yo 時，反身代名詞為 me，動詞變化為 levanto，故選 (A)。"
+    },
+    {
+      "question_es": "Este regalo es ___ ti.",
+      "options": [
+        "por",
+        "para",
+        "de",
+        "con"
+      ],
+      "answer": 1,
+      "explanation_zh": "表示「贈送的對象／目的」用 para，故選 (B)。por 多用於原因、交換、經過。"
+    },
+    {
+      "question_es": "Hace mucho frío. ¿Por qué no ___ el abrigo?",
+      "options": [
+        "te pones",
+        "te pongas",
+        "ponerte",
+        "ponéis"
+      ],
+      "answer": 0,
+      "explanation_zh": "建議句 ¿Por qué no + presente de indicativo? 用以提議，反身動詞 ponerse 主詞 tú 變為 te pones，故選 (A)。"
+    }
+  ],
+  "db1": [
+    {
+      "question_es": "Espero que mañana ___ buen tiempo.",
+      "options": [
+        "hace",
+        "hará",
+        "haga",
+        "hizo"
+      ],
+      "answer": 2,
+      "explanation_zh": "esperar que 之後表達願望，須用 presente de subjuntivo。動詞 hacer 三單變為 haga，故選 (C)。"
+    },
+    {
+      "question_es": "Me ___ visitar Argentina algún día.",
+      "options": [
+        "gustaría",
+        "gusta",
+        "gustaba",
+        "gustaré"
+      ],
+      "answer": 0,
+      "explanation_zh": "表達禮貌的願望或假設用條件式，gustar 第三人稱條件式 gustaría，故選 (A)。"
+    },
+    {
+      "question_es": "Aunque ___ cansado, terminaré el informe esta noche.",
+      "options": [
+        "estaré",
+        "estoy",
+        "esté",
+        "estaba"
+      ],
+      "answer": 1,
+      "explanation_zh": "Aunque + indicativo 表達已經是事實的情況；本句承認「我累」這個事實，故用 estoy。若情況為不確定才用 subjuntivo。"
+    },
+    {
+      "question_es": "Si tengo tiempo este fin de semana, ___ a visitarte.",
+      "options": [
+        "iré",
+        "fuera",
+        "iría",
+        "vaya"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一型條件句：si + presente, 主句用 futuro，故選 (A) iré。"
+    },
+    {
+      "question_es": "Madrid es ___ Valencia.",
+      "options": [
+        "tan grande como",
+        "más grande de",
+        "grande que",
+        "tan grande de"
+      ],
+      "answer": 0,
+      "explanation_zh": "同等比較用 tan + adj. + como，故選 (A)。比較級「比……更」是 más + adj. + que（非 de）。"
+    }
+  ],
+  "db2": [
+    {
+      "question_es": "Si ___ más tiempo libre, aprendería tres idiomas.",
+      "options": [
+        "tengo",
+        "tendré",
+        "tuviera",
+        "tuve"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二型條件句（與現在事實相反）：si + imperfecto de subjuntivo, 主句 condicional simple，故選 (C) tuviera。"
+    },
+    {
+      "question_es": "El contrato ___ firmado por el director general la semana pasada.",
+      "options": [
+        "es",
+        "fue",
+        "está",
+        "estaba"
+      ],
+      "answer": 1,
+      "explanation_zh": "ser + 過去分詞 強調動作本身，且發生於明確過去時間（la semana pasada），用 pretérito indefinido fue，故選 (B)。"
+    },
+    {
+      "question_es": "El autor, ___ obra fue premiada, dará una conferencia.",
+      "options": [
+        "que",
+        "quien",
+        "cuya",
+        "cuyo"
+      ],
+      "answer": 2,
+      "explanation_zh": "表所屬的關係代名詞 cuyo/cuya 須與所修飾的名詞性數一致；obra 為陰性單數，故選 (C) cuya。"
+    },
+    {
+      "question_es": "Me sorprendió que ___ tan rápido en encontrar trabajo.",
+      "options": [
+        "tardaste",
+        "tardarías",
+        "tardaras",
+        "tardabas"
+      ],
+      "answer": 2,
+      "explanation_zh": "主句為過去式表達情感（sorprender），從句須用 imperfecto de subjuntivo，故選 (C) tardaras。"
+    },
+    {
+      "question_es": "Es imprescindible que todos los participantes ___ los formularios antes del viernes.",
+      "options": [
+        "envían",
+        "envíen",
+        "enviaron",
+        "enviarán"
+      ],
+      "answer": 1,
+      "explanation_zh": "「es imprescindible que…」屬主觀必要性表達，從句須用 presente de subjuntivo，故選 (B) envíen。"
+    }
+  ],
+  "dc1": [
+    {
+      "question_es": "Si ___ aquella propuesta a tiempo, habrían cerrado el acuerdo.",
+      "options": [
+        "presentaran",
+        "hubieran presentado",
+        "habrían presentado",
+        "presentaban"
+      ],
+      "answer": 1,
+      "explanation_zh": "第三型條件句（過去未實現的假設）：si + pluscuamperfecto de subjuntivo, 主句 condicional compuesto，故選 (B) hubieran presentado。"
+    },
+    {
+      "question_es": "El informe se publicará en breve; ___, los datos preliminares ya están disponibles.",
+      "options": [
+        "no obstante",
+        "asimismo",
+        "en consecuencia",
+        "por ende"
+      ],
+      "answer": 1,
+      "explanation_zh": "前後語意為「補充」而非對比或結論，故選 (B) asimismo（同樣地、此外）。(A) no obstante 為轉折，(C)(D) 表結論。"
+    },
+    {
+      "question_es": "Comentó que el proyecto ya ___ aprobado.",
+      "options": [
+        "fue",
+        "había sido",
+        "ha sido",
+        "sería"
+      ],
+      "answer": 1,
+      "explanation_zh": "主動詞 comentó（過去式），間接引語中原為 pretérito perfecto 須調為 pluscuamperfecto：había sido，故選 (B)。"
+    },
+    {
+      "question_es": "Cuando llegamos al teatro, la función ya ___.",
+      "options": [
+        "empezaba",
+        "empezó",
+        "había empezado",
+        "habría empezado"
+      ],
+      "answer": 2,
+      "explanation_zh": "「我們到達時，演出『已經』開始」表達過去之過去，須用 pluscuamperfecto，故選 (C) había empezado。"
+    },
+    {
+      "question_es": "Es lamentable que durante años no se ___ medidas más contundentes.",
+      "options": [
+        "tomaron",
+        "tomaran",
+        "hubieran tomado",
+        "habían tomado"
+      ],
+      "answer": 2,
+      "explanation_zh": "主句為「現在的遺憾」評論「過去之前」未發生的行為，從句須用 pluscuamperfecto de subjuntivo，故選 (C) hubieran tomado。"
+    }
+  ],
+  "dc2": [
+    {
+      "question_es": "___ Bolaño quien revolucionó la novela latinoamericana de finales del siglo XX.",
+      "options": [
+        "Era",
+        "Fue",
+        "Estaba",
+        "Estuvo"
+      ],
+      "answer": 1,
+      "explanation_zh": "分裂句 (oración escindida)：Fue + 主語焦點 + quien + 從句，且 revolucionó 為過去簡單，主句一致用 fue，故選 (B)。"
+    },
+    {
+      "question_es": "Que yo ___, todavía no han hecho público el dictamen.",
+      "options": [
+        "sé",
+        "sepa",
+        "supiera",
+        "sabría"
+      ],
+      "answer": 1,
+      "explanation_zh": "慣用語 «que yo sepa»（據我所知）固定使用 presente de subjuntivo，故選 (B) sepa。"
+    },
+    {
+      "question_es": "Llevaba dos horas ___ cuando finalmente apareció el ponente.",
+      "options": [
+        "esperar",
+        "esperado",
+        "esperando",
+        "espero"
+      ],
+      "answer": 2,
+      "explanation_zh": "Llevar + gerundio 表達持續性動作，故須用 gerundio esperando，選 (C)。"
+    },
+    {
+      "question_es": "Decidieron continuar con el plan, ___ las críticas que recibirían.",
+      "options": [
+        "a pesar de que recibieran",
+        "pese a recibir",
+        "aun cuando reciben",
+        "pese a las"
+      ],
+      "answer": 3,
+      "explanation_zh": "句末名詞 críticas，需介系詞片語接名詞：«pese a las críticas»，故選 (D)。其他選項句法不完整或時態不合。"
+    },
+    {
+      "question_es": "Cueste ___ cueste, llevaré el proyecto a término.",
+      "options": [
+        "lo que",
+        "el que",
+        "lo cual",
+        "como"
+      ],
+      "answer": 0,
+      "explanation_zh": "慣用句型 «cueste lo que cueste»（無論代價如何），固定用 lo que，故選 (A)。"
+    }
+  ]
+}

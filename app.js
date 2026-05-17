@@ -1,4 +1,4 @@
-const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic"];
+const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic", "da1", "da2", "db1", "db2", "dc1", "dc2"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
@@ -106,29 +106,36 @@ const KOREAN_STORIES = [
 ];
 
 function isToeic() { return state.level === "toeic"; }
+function isDele() { return !!(state.level && state.level.startsWith("d")); }
 function isTopik() { return state.level && state.level.startsWith("t") && !isToeic(); }
 function levelLabel(lvl) {
   if (lvl === "toeic") return "TOEIC";
+  if (lvl && lvl.startsWith("d")) return "DELE " + lvl.slice(1).toUpperCase();
   if (lvl && lvl.startsWith("t")) return "TOPIK " + lvl.slice(1);
   return (lvl || "").toUpperCase();
 }
 function activeStories() {
+  if (isDele()) return DELE_STORIES;
   if (isToeic()) return TOEIC_STORIES;
   return isTopik() ? KOREAN_STORIES : STORIES;
 }
 function activeVocab() {
+  if (isDele()) return DATA.vocab_dele;
   if (isToeic()) return DATA.vocab_toeic;
   return isTopik() ? DATA.vocab_ko : DATA.vocab;
 }
 function activeGrammar() {
+  if (isDele()) return DATA.grammar_dele;
   if (isToeic()) return DATA.grammar_toeic;
   return isTopik() ? DATA.grammar_ko : DATA.grammar;
 }
 function activeQuiz() {
+  if (isDele()) return DATA.quiz_dele;
   if (isToeic()) return DATA.quiz_toeic;
   return isTopik() ? DATA.quiz_ko : DATA.quiz;
 }
 function activeScenes() {
+  if (isDele()) return DATA.scenes_dele;
   if (isToeic()) return DATA.scenes_toeic;
   return isTopik() ? DATA.scenes_ko : DATA.scenes;
 }
@@ -309,6 +316,15 @@ const TOEIC_STORIES = [
   { key: "toeic120", title: "Cafeteria Menu and Feedback Notice" },
 ];
 
+const DELE_STORIES = [
+  { key: "dele001", title: "Un café en Madrid" },
+  { key: "dele002", title: "Mi primer día en la escuela de idiomas" },
+  { key: "dele003", title: "Planificando un viaje a Argentina" },
+  { key: "dele004", title: "Reportaje: el teletrabajo cinco años después" },
+  { key: "dele005", title: "Comité estratégico: lanzamiento internacional" },
+  { key: "dele006", title: "Ensayo: el silencio en la literatura contemporánea" },
+];
+
 let DATA = {};
 let currentView = null;
 let state = {
@@ -337,6 +353,7 @@ async function loadData() {
   const jpFixed = 3;
   const koFixed = 3;
   const toeicFixed = 3;
+  const deleFixed = 3;
   const loaded = await Promise.all([
     fetch("data/vocab.json").then(r => r.json()),
     fetch("data/grammar.json").then(r => r.json()),
@@ -347,9 +364,13 @@ async function loadData() {
     fetch("data/vocab_toeic.json").then(r => r.json()),
     fetch("data/grammar_toeic.json").then(r => r.json()),
     fetch("data/quiz_toeic.json").then(r => r.json()),
+    fetch("data/vocab_dele.json").then(r => r.json()),
+    fetch("data/grammar_dele.json").then(r => r.json()),
+    fetch("data/quiz_dele.json").then(r => r.json()),
     ...STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...KOREAN_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
     ...TOEIC_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
+    ...DELE_STORIES.map(s => fetch(`data/scenes_${s.key}.json`).then(r => r.json())),
   ]);
   DATA.vocab = loaded[0];
   DATA.grammar = loaded[1];
@@ -360,9 +381,13 @@ async function loadData() {
   DATA.vocab_toeic = loaded[6];
   DATA.grammar_toeic = loaded[7];
   DATA.quiz_toeic = loaded[8];
-  const jpStart = jpFixed + koFixed + toeicFixed;
+  DATA.vocab_dele = loaded[9];
+  DATA.grammar_dele = loaded[10];
+  DATA.quiz_dele = loaded[11];
+  const jpStart = jpFixed + koFixed + toeicFixed + deleFixed;
   const koStart = jpStart + STORIES.length;
   const toeicStart = koStart + KOREAN_STORIES.length;
+  const deleStart = toeicStart + TOEIC_STORIES.length;
   DATA.scenes = {};
   STORIES.forEach((s, i) => {
     DATA.scenes[s.key] = loaded[jpStart + i].all || [];
@@ -375,6 +400,10 @@ async function loadData() {
   TOEIC_STORIES.forEach((s, i) => {
     DATA.scenes_toeic[s.key] = loaded[toeicStart + i].all || [];
   });
+  DATA.scenes_dele = {};
+  DELE_STORIES.forEach((s, i) => {
+    DATA.scenes_dele[s.key] = loaded[deleStart + i].all || [];
+  });
   updateStats();
 }
 
@@ -383,7 +412,8 @@ function updateStats() {
   const total =
     sum(DATA.vocab) + sum(DATA.grammar) + sum(DATA.quiz) + sum(DATA.scenes) +
     sum(DATA.vocab_ko) + sum(DATA.grammar_ko) + sum(DATA.quiz_ko) + sum(DATA.scenes_ko) +
-    sum(DATA.vocab_toeic) + sum(DATA.grammar_toeic) + sum(DATA.quiz_toeic) + sum(DATA.scenes_toeic);
+    sum(DATA.vocab_toeic) + sum(DATA.grammar_toeic) + sum(DATA.quiz_toeic) + sum(DATA.scenes_toeic) +
+    sum(DATA.vocab_dele) + sum(DATA.grammar_dele) + sum(DATA.quiz_dele) + sum(DATA.scenes_dele);
   document.getElementById("stats").textContent = `已載入 ${total} 項學習素材 · 離線可用`;
 }
 
@@ -560,6 +590,53 @@ function fmtSceneToeic(item, num, title) {
   return html;
 }
 
+function fmtWordDele(item) {
+  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div class="ex">例: ${escapeHTML(item.example_es)}<br>` +
+    `   → ${escapeHTML(item.example_zh)}</div>`;
+  return html;
+}
+
+function fmtGrammarDele(item) {
+  let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
+    `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+    `<div><span class="label">結構:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
+  (item.examples || []).forEach((ex, i) => {
+    html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.es)}<br>` +
+      `   → ${escapeHTML(ex.zh)}</div>`;
+  });
+  return html;
+}
+
+function fmtQuizDele(item) {
+  const letters = ["A", "B", "C", "D"];
+  const ansLetter = letters[item.answer];
+  let html = `<div class="headword">❓ ${escapeHTML(item.question_es)}</div><div class="options">`;
+  item.options.forEach((opt, i) => {
+    html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
+  });
+  html += `</div>` +
+    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
+  return html;
+}
+
+function fmtSceneDele(item, num, title) {
+  const reversed = state.dir === "zh";
+  let html = fmtStoryBanner(num, title);
+  if (reversed) {
+    html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `🎭 ${escapeHTML(item.es)}</span></div>`;
+  } else {
+    html += `<div class="headword">🎭 ${escapeHTML(item.es)}</div>`;
+    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+      `💬 ${escapeHTML(item.zh)}</span></div>`;
+  }
+  return html;
+}
+
 function fmtScene(item, num, title) {
   const dir = state.dir === "zh" ? "zh" : "ja";
   let html = fmtStoryBanner(num, title);
@@ -579,6 +656,7 @@ function fmtScene(item, num, title) {
 }
 
 function currentMode() {
+  if (isDele()) return "dele";
   if (isToeic()) return "toeic";
   if (isTopik()) return "topik";
   return "jp";
@@ -596,6 +674,18 @@ function pushTimeline(kind, key, item, mode) {
 }
 
 function formatEntry(entry) {
+  if (entry.mode === "dele") {
+    if (entry.kind === "word") return fmtWordDele(entry.item);
+    if (entry.kind === "grammar") return fmtGrammarDele(entry.item);
+    if (entry.kind === "quiz") return fmtQuizDele(entry.item);
+    if (entry.kind === "scene") {
+      const idx = DELE_STORIES.findIndex(s => s.key === entry.key);
+      const story = DELE_STORIES[idx];
+      const num = idx >= 0 ? String(idx + 1).padStart(3, "0") + "." : "";
+      return fmtSceneDele(entry.item, num, story?.title || "");
+    }
+    return "";
+  }
   if (entry.mode === "toeic") {
     if (entry.kind === "word") return fmtWordToeic(entry.item);
     if (entry.kind === "grammar") return fmtGrammarToeic(entry.item);
@@ -666,12 +756,14 @@ function nextTimeline() {
   const mode = last.mode;
   if (last.kind === "scene") {
     const pool =
+      mode === "dele" ? DATA.scenes_dele :
       mode === "toeic" ? DATA.scenes_toeic :
       mode === "topik" ? DATA.scenes_ko : DATA.scenes;
     const item = pickRandom(pool, last.key, "scene");
     if (item) { pushTimeline("scene", last.key, item, mode); displayEntry(state.timeline[state.timelinePos]); }
   } else {
     const poolMap =
+      mode === "dele" ? { word: DATA.vocab_dele, grammar: DATA.grammar_dele, quiz: DATA.quiz_dele } :
       mode === "toeic" ? { word: DATA.vocab_toeic, grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
       mode === "topik" ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko } :
       { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
@@ -748,6 +840,7 @@ function render(action) {
 
 function modeOfLevel(lvl) {
   if (lvl === "toeic") return "toeic";
+  if (lvl && lvl.startsWith("d")) return "dele";
   if (lvl && lvl.startsWith("t")) return "topik";
   return "jp";
 }
@@ -784,7 +877,7 @@ function closeLevelPicker() {
 }
 
 function updateModeToggles() {
-  const hideLang = isTopik() || isToeic();
+  const hideLang = isTopik() || isToeic() || isDele();
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
   if (langBtn) langBtn.style.display = hideLang ? "none" : "";
@@ -804,6 +897,7 @@ function cycleLang() {
 function dirLabel() {
   const reversed = state.dir === "zh";
   if (isToeic()) return reversed ? "中→英" : "英→中";
+  if (isDele()) return reversed ? "中→西" : "西→中";
   if (isTopik()) return reversed ? "中→韓" : "韓→中";
   return reversed ? "中→日" : "日→中";
 }

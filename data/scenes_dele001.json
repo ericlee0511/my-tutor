@@ -1,0 +1,45 @@
+{
+  "title": "Un café en Madrid",
+  "all": [
+    {
+      "es": "—¡Hola, buenos días! ¿Qué desea?",
+      "zh": "—嗨，早安！您要點什麼？"
+    },
+    {
+      "es": "—Un café con leche, por favor.",
+      "zh": "—請給我一杯咖啡牛奶。"
+    },
+    {
+      "es": "—¿Pequeño, mediano o grande?",
+      "zh": "—小杯、中杯還是大杯？"
+    },
+    {
+      "es": "—Mediano, por favor. ¿Cuánto cuesta?",
+      "zh": "—中杯就好，謝謝。多少錢？"
+    },
+    {
+      "es": "—Dos euros con cincuenta.",
+      "zh": "—兩歐元五十分。"
+    },
+    {
+      "es": "—Aquí tiene. ¿Tienen wifi?",
+      "zh": "—錢給您。請問有 Wi-Fi 嗎？"
+    },
+    {
+      "es": "—Sí, la contraseña está en el ticket.",
+      "zh": "—有的，密碼印在收據上。"
+    },
+    {
+      "es": "—Muchas gracias. ¿Dónde está el baño?",
+      "zh": "—非常感謝。請問廁所在哪裡？"
+    },
+    {
+      "es": "—Al fondo, a la derecha.",
+      "zh": "—在最裡面，右手邊。"
+    },
+    {
+      "es": "—Perfecto. Hasta luego.",
+      "zh": "—好的，待會見。"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "da1": [
+    {
+      "pattern": "Ser vs Estar (基礎用法)",
+      "meaning_zh": "西班牙語兩個 be 動詞：ser 用於本質、身分、出身、職業；estar 用於暫時狀態、位置。",
+      "structure": "Sujeto + ser/estar + adjetivo/lugar/sustantivo",
+      "examples": [
+        {
+          "es": "Soy taiwanés.",
+          "zh": "我是台灣人。"
+        },
+        {
+          "es": "Estoy cansado hoy.",
+          "zh": "我今天很累。"
+        },
+        {
+          "es": "El libro está sobre la mesa.",
+          "zh": "書在桌上。"
+        }
+      ]
+    },
+    {
+      "pattern": "Presente regular -ar/-er/-ir",
+      "meaning_zh": "規則動詞的現在式變化：依結尾分三類，依主詞變化字尾。",
+      "structure": "hablar→hablo/hablas/habla/hablamos/habláis/hablan；comer→como/comes/come/comemos/coméis/comen；vivir→vivo/vives/vive/vivimos/vivís/viven",
+      "examples": [
+        {
+          "es": "Hablo español todos los días.",
+          "zh": "我每天說西班牙語。"
+        },
+        {
+          "es": "¿Dónde vives ahora?",
+          "zh": "你現在住哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "冠詞 el/la/los/las 與 un/una/unos/unas",
+      "meaning_zh": "西班牙語名詞分陽性／陰性，冠詞需與名詞性別與單複數一致。定冠詞用於特指，不定冠詞用於泛指。",
+      "structure": "el/un + 陽性單數；la/una + 陰性單數；los/unos + 陽性複數；las/unas + 陰性複數",
+      "examples": [
+        {
+          "es": "El coche es nuevo, pero la bicicleta es vieja.",
+          "zh": "那輛車是新的，但那輛腳踏車是舊的。"
+        },
+        {
+          "es": "Tengo un perro y una gata en casa.",
+          "zh": "我家有一隻狗和一隻母貓。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tener que + infinitivo",
+      "meaning_zh": "表達「必須／不得不」做某事，常用於日常生活中的義務或必要。",
+      "structure": "Sujeto + tener (conjugado) + que + infinitivo",
+      "examples": [
+        {
+          "es": "Tengo que estudiar para el examen.",
+          "zh": "我必須為考試讀書。"
+        },
+        {
+          "es": "Tienes que llegar a las nueve en punto.",
+          "zh": "你必須九點整到。"
+        }
+      ]
+    }
+  ],
+  "da2": [
+    {
+      "pattern": "Pretérito Indefinido (規則式過去簡單式)",
+      "meaning_zh": "用於描述過去已完成的單一動作或具體時間點的事件。常與 ayer, anoche, el lunes pasado 等時間副詞連用。",
+      "structure": "hablar→hablé/hablaste/habló/hablamos/hablasteis/hablaron；comer→comí/comiste/comió/comimos/comisteis/comieron",
+      "examples": [
+        {
+          "es": "Ayer hablé con mi madre por teléfono.",
+          "zh": "我昨天和母親通了電話。"
+        },
+        {
+          "es": "El verano pasado viajamos a Sevilla.",
+          "zh": "去年夏天我們去了塞維亞。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Imperfecto (過去未完成式)",
+      "meaning_zh": "描述過去的習慣、背景、持續中的狀態，或同時發生的動作。常與 antes, siempre, todos los días 連用。",
+      "structure": "hablar→hablaba/hablabas/hablaba/hablábamos/hablabais/hablaban；vivir→vivía/vivías/vivía/vivíamos/vivíais/vivían",
+      "examples": [
+        {
+          "es": "Cuando era pequeño, vivía en un pueblo.",
+          "zh": "我小時候住在一個小鎮上。"
+        },
+        {
+          "es": "Mientras yo cocinaba, él leía el periódico.",
+          "zh": "我做菜的時候，他在看報紙。"
+        }
+      ]
+    },
+    {
+      "pattern": "反身動詞 (Verbos reflexivos)",
+      "meaning_zh": "動作回到主詞身上，常用於日常生活：起床、洗澡、穿衣等。需搭配反身代名詞 me/te/se/nos/os/se。",
+      "structure": "Sujeto + me/te/se/nos/os/se + verbo conjugado",
+      "examples": [
+        {
+          "es": "Me levanto a las siete.",
+          "zh": "我七點起床。"
+        },
+        {
+          "es": "¿A qué hora te acuestas?",
+          "zh": "你幾點上床睡覺？"
+        }
+      ]
+    },
+    {
+      "pattern": "Por vs Para",
+      "meaning_zh": "兩個介系詞容易混淆：por 表示原因、經過、交換、時間段；para 表示目的、對象、目的地、期限。",
+      "structure": "por + 原因/時段/方式；para + 目的/對象/期限",
+      "examples": [
+        {
+          "es": "Gracias por tu ayuda.",
+          "zh": "謝謝你的幫忙。"
+        },
+        {
+          "es": "Este regalo es para mi madre.",
+          "zh": "這份禮物是要給我媽媽的。"
+        }
+      ]
+    }
+  ],
+  "db1": [
+    {
+      "pattern": "Presente de Subjuntivo (現在虛擬式) 基礎",
+      "meaning_zh": "用於表達願望、情感、懷疑、不確定或主觀評價。常出現在 espero que, quiero que, dudo que, es importante que 等結構之後。",
+      "structure": "que + sujeto + verbo en subjuntivo (hable, coma, viva 等)",
+      "examples": [
+        {
+          "es": "Espero que tengas un buen viaje.",
+          "zh": "希望你旅途愉快。"
+        },
+        {
+          "es": "Es importante que estudies todos los días.",
+          "zh": "重要的是你要每天讀書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Condicional Simple (條件式)",
+      "meaning_zh": "表達假設、禮貌請求、過去未來、建議。動詞字尾為 -ía 系列。",
+      "structure": "infinitivo + ía/ías/ía/íamos/íais/ían",
+      "examples": [
+        {
+          "es": "Me gustaría visitar Barcelona algún día.",
+          "zh": "我希望有一天能去拜訪巴塞隆納。"
+        },
+        {
+          "es": "¿Podrías ayudarme con esto?",
+          "zh": "你可以幫我處理這件事嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro Simple (未來簡單式)",
+      "meaning_zh": "表達將來會發生的動作，或對現在情況的推測。字尾為 -é/-ás/-á/-emos/-éis/-án 加在不定式之後。",
+      "structure": "infinitivo + é/ás/á/emos/éis/án",
+      "examples": [
+        {
+          "es": "Mañana viajaré a Madrid.",
+          "zh": "我明天會去馬德里。"
+        },
+        {
+          "es": "Serán las tres de la tarde.",
+          "zh": "大概是下午三點吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos y superlativos (比較級與最高級)",
+      "meaning_zh": "más/menos…que 用於比較；el/la más…de 表達最高級；tan…como 表達同等比較。",
+      "structure": "más/menos + adj/adv + que；tan + adj + como；el/la más + adj + de",
+      "examples": [
+        {
+          "es": "Madrid es más grande que Valencia.",
+          "zh": "馬德里比瓦倫西亞大。"
+        },
+        {
+          "es": "Es el restaurante más caro de la ciudad.",
+          "zh": "這是城裡最貴的餐廳。"
+        }
+      ]
+    }
+  ],
+  "db2": [
+    {
+      "pattern": "Pretérito Imperfecto de Subjuntivo (過去虛擬式)",
+      "meaning_zh": "用於假設不可能或不真實的情況、過去的虛擬語氣、禮貌請求。字尾 -ra 或 -se 兩種形式並存。",
+      "structure": "raíz del pretérito 3ª pl. + ra/ras/ra/ramos/rais/ran (o -se 系列)",
+      "examples": [
+        {
+          "es": "Si tuviera tiempo, aprendería italiano.",
+          "zh": "如果我有時間，我會學義大利文。"
+        },
+        {
+          "es": "Me pidió que le prestara el coche.",
+          "zh": "他要我把車借給他。"
+        }
+      ]
+    },
+    {
+      "pattern": "Oraciones condicionales (Si 條件句三型)",
+      "meaning_zh": "可能型 (si + 現在式, 現在/未來/命令)；非真實型 (si + 過去虛擬, 條件式)；過去非真實 (si + 過去完成虛擬, 完成條件式)。",
+      "structure": "si + presente, futuro；si + imperfecto de subjuntivo, condicional；si + pluscuamperfecto de subjuntivo, condicional compuesto",
+      "examples": [
+        {
+          "es": "Si estudias, aprobarás el examen.",
+          "zh": "如果你讀書，你就會通過考試。"
+        },
+        {
+          "es": "Si fuera rico, viajaría por todo el mundo.",
+          "zh": "如果我有錢，我會環遊世界。"
+        }
+      ]
+    },
+    {
+      "pattern": "Voz pasiva (ser, estar, se 三種被動)",
+      "meaning_zh": "ser + p.p. 強調動作；estar + p.p. 強調狀態；se + 第三人稱動詞是無人稱被動，最常用。",
+      "structure": "ser/estar + participio (concordancia)；se + verbo en 3ª persona",
+      "examples": [
+        {
+          "es": "El acuerdo fue firmado ayer.",
+          "zh": "協議昨日簽署。"
+        },
+        {
+          "es": "Aquí se habla español.",
+          "zh": "這裡說西班牙語。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres relativos (que, quien, el cual, cuyo)",
+      "meaning_zh": "用於連接子句、避免重複。que 最通用；quien 指人；el cual 較正式；cuyo 表所屬。",
+      "structure": "antecedente + que/quien/el cual/cuyo + verbo",
+      "examples": [
+        {
+          "es": "La persona con quien hablé era el director.",
+          "zh": "我談話的對象是主任。"
+        },
+        {
+          "es": "El autor, cuya obra es famosa, vive en Buenos Aires.",
+          "zh": "這位作品著名的作者住在布宜諾斯艾利斯。"
+        }
+      ]
+    }
+  ],
+  "dc1": [
+    {
+      "pattern": "Pluscuamperfecto de Subjuntivo (過去完成虛擬式)",
+      "meaning_zh": "表達在過去某時間點之前已完成、且為假設或非真實的情況。常用於 si 條件句的第三型。",
+      "structure": "hubiera/hubiese + participio",
+      "examples": [
+        {
+          "es": "Si hubiera sabido la verdad, no habría firmado.",
+          "zh": "如果我早知道事實，我就不會簽名。"
+        },
+        {
+          "es": "Lamentaron que no hubiéramos asistido a la ceremonia.",
+          "zh": "他們很遺憾我們沒有出席典禮。"
+        }
+      ]
+    },
+    {
+      "pattern": "Marcadores del discurso (篇章連接詞)",
+      "meaning_zh": "用於組織篇章、表達邏輯關係：對比 (sin embargo)、結論 (por lo tanto)、舉例 (verbigracia)、補充 (asimismo)。",
+      "structure": "ideas/oraciones + marcador + ideas/oraciones",
+      "examples": [
+        {
+          "es": "Los resultados son alentadores; sin embargo, conviene actuar con prudencia.",
+          "zh": "結果令人振奮，然而還是必須謹慎行事。"
+        },
+        {
+          "es": "El proyecto cumple los objetivos; por lo tanto, se aprobará.",
+          "zh": "該專案達成了目標，因此將被批准。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto avanzado (進階間接引語)",
+      "meaning_zh": "間接引語時需依主動詞時態調整子句時態：現在→未完成式；現在完成→過去完成；未來→條件式。",
+      "structure": "verbo de habla en pasado + que + tiempo verbal ajustado",
+      "examples": [
+        {
+          "es": "Dijo que tenía tres hermanos y que llegaría tarde.",
+          "zh": "他說他有三個兄弟姊妹，並且會晚到。"
+        },
+        {
+          "es": "Comentó que el informe ya había sido publicado.",
+          "zh": "他評論說報告已經被發表了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Condicional compuesto (完成條件式)",
+      "meaning_zh": "表達過去本應發生但未發生的動作，常與 pluscuamperfecto de subjuntivo 搭配。",
+      "structure": "habría + participio",
+      "examples": [
+        {
+          "es": "Habríamos llegado a tiempo si no hubiera habido tráfico.",
+          "zh": "要不是塞車，我們本來會準時到的。"
+        },
+        {
+          "es": "¿Qué habrías hecho tú en su lugar?",
+          "zh": "如果是你，你會怎麼做？"
+        }
+      ]
+    }
+  ],
+  "dc2": [
+    {
+      "pattern": "Subjuntivo en expresiones idiomáticas (虛擬式慣用表達)",
+      "meaning_zh": "高級虛擬式用於固定句型：que yo sepa、como si nada、cueste lo que cueste、digan lo que digan 等。",
+      "structure": "expresión fija + verbo en subjuntivo",
+      "examples": [
+        {
+          "es": "Que yo sepa, no han confirmado la fecha todavía.",
+          "zh": "據我所知，他們還沒有確認日期。"
+        },
+        {
+          "es": "Lo conseguiremos, cueste lo que cueste.",
+          "zh": "無論代價如何，我們一定會做到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Registros estilísticos (文體層次切換)",
+      "meaning_zh": "區別正式／非正式／文學語體：詞彙選擇、句法複雜度、被動式比例、subjuntivo 使用密度都會變化。",
+      "structure": "選詞與句法配合語境（口語 / 中性 / 正式 / 文學）",
+      "examples": [
+        {
+          "es": "Coloquial: Le dije que se diera prisa. Formal: Le insté a que se apresurase.",
+          "zh": "口語：我叫他快一點。正式：我敦促他加快腳步。"
+        },
+        {
+          "es": "Literario: A la sazón corrían tiempos aciagos en la república.",
+          "zh": "文學體：當時，共和國正處於不祥的時代。"
+        }
+      ]
+    },
+    {
+      "pattern": "Perífrasis verbales (動詞迂迴結構)",
+      "meaning_zh": "動詞+介系詞+動詞或+gerundio/participio，表達各種語意：開始 (echarse a)、即將 (estar a punto de)、結束 (acabar de/dejar de)、持續 (llevar + gerundio)。",
+      "structure": "verbo auxiliar + nexo (a/de/que/etc.) + infinitivo/gerundio/participio",
+      "examples": [
+        {
+          "es": "Llevo tres años trabajando en este proyecto.",
+          "zh": "我已經在這個專案上工作了三年。"
+        },
+        {
+          "es": "Acababa de salir cuando llamaron a la puerta.",
+          "zh": "我剛離開的時候門就響了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Oraciones escindidas / hendidas (分裂句)",
+      "meaning_zh": "用 ser…quien/que/donde/cuando 等將句子分成焦點與背景兩部分，以強調某成分。",
+      "structure": "Ser + elemento focalizado + quien/que/donde/cuando + resto",
+      "examples": [
+        {
+          "es": "Fue María quien me lo contó.",
+          "zh": "是 María 告訴我這件事的。"
+        },
+        {
+          "es": "Es en Madrid donde se celebra el congreso.",
+          "zh": "會議是在馬德里舉行的。"
+        }
+      ]
+    }
+  ]
+}
