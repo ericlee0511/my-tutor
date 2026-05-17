@@ -368,27 +368,14 @@ footer {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
 }
 .picker-row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  display: flex;
+  justify-content: center;
   gap: 8px;
   margin-bottom: 8px;
 }
 .picker-row:last-child { margin-bottom: 0; }
-.picker-row-n {
-  display: flex;
-  justify-content: center;
-}
-.picker-row-n .picker-btn {
-  flex: 0 0 calc((100% - 5 * 8px) / 6);
-}
-.picker-row-toeic {
-  display: flex;
-  justify-content: center;
-}
-.picker-row-toeic .picker-btn {
-  flex: 0 0 calc((100% - 5 * 8px) / 6);
-}
 .picker-btn {
+  flex: 0 0 calc((100% - 5 * 8px) / 6);
   background: var(--accent-soft);
   color: var(--accent);
   border: 1px solid var(--border);
