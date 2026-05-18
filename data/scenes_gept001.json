@@ -1,17 +1,93 @@
 {
   "title": "A Weekend Trip to Kenting",
   "all": [
-    { "en": "Last Friday, my classmates and I decided to take a short trip to Kenting.", "zh": "上週五，我和同學們決定到墾丁來個小旅行。" },
-    { "en": "We made the reservation online and chose a small bed-and-breakfast near the beach.", "zh": "我們在網路上訂房，選了一間靠近海邊的小型民宿。" },
-    { "en": "The high-speed train took us to Kaohsiung in less than two hours.", "zh": "高鐵不到兩小時就把我們載到了高雄。" },
-    { "en": "From there, we rented a car and drove south along the beautiful coast.", "zh": "我們從那裡租了車，沿著美麗的海岸線一路往南開。" },
-    { "en": "When we arrived, the owner of the B&B welcomed us with a cup of fresh fruit tea.", "zh": "我們抵達時，民宿老闆用一杯新鮮水果茶歡迎我們。" },
-    { "en": "In the afternoon, we went swimming and tried surfing for the first time.", "zh": "下午我們去游泳，並且第一次嘗試衝浪。" },
-    { "en": "The waves were stronger than I expected, but our instructor was very patient.", "zh": "海浪比我預期的還要強勁，不過我們的教練非常有耐心。" },
-    { "en": "For dinner, we walked to the famous night market to taste the local seafood.", "zh": "晚餐我們走到有名的夜市去品嚐當地的海鮮。" },
-    { "en": "I bought some small souvenirs for my parents and younger sister.", "zh": "我買了一些小紀念品送給爸媽和妹妹。" },
-    { "en": "On the second day, we visited the lighthouse and took many photos at sunrise.", "zh": "第二天，我們參觀燈塔，並在日出時拍了許多照片。" },
-    { "en": "Although the trip was short, it was the most relaxing weekend I have had this year.", "zh": "雖然旅程很短，這卻是我今年最放鬆的一個週末。" },
-    { "en": "We have already started planning our next trip to Hualien during the winter vacation.", "zh": "我們已經開始計畫寒假時去花蓮的下一趟旅行。" }
+    {
+      "en": "Last Friday, my classmates and I decided to take a short trip to Kenting.",
+      "zh": "上週五，我和同學們決定到墾丁來個小旅行。"
+    },
+    {
+      "en": "We made the reservation online and chose a small bed-and-breakfast near the beach.",
+      "zh": "我們在網路上訂房，選了一間靠近海邊的小型民宿。"
+    },
+    {
+      "en": "The high-speed train took us to Kaohsiung in less than two hours.",
+      "zh": "高鐵不到兩小時就把我們載到了高雄。"
+    },
+    {
+      "en": "From there, we rented a car and drove south along the beautiful coast.",
+      "zh": "我們從那裡租了車，沿著美麗的海岸線一路往南開。"
+    },
+    {
+      "en": "When we arrived, the owner of the B&B welcomed us with a cup of fresh fruit tea.",
+      "zh": "我們抵達時，民宿老闆用一杯新鮮水果茶歡迎我們。"
+    },
+    {
+      "en": "In the afternoon, we went swimming and tried surfing for the first time.",
+      "zh": "下午我們去游泳，並且第一次嘗試衝浪。"
+    },
+    {
+      "en": "The waves were stronger than I expected, but our instructor was very patient.",
+      "zh": "海浪比我預期的還要強勁，不過我們的教練非常有耐心。"
+    },
+    {
+      "en": "For dinner, we walked to the famous night market to taste the local seafood.",
+      "zh": "晚餐我們走到有名的夜市去品嚐當地的海鮮。"
+    },
+    {
+      "en": "I bought some small souvenirs for my parents and younger sister.",
+      "zh": "我買了一些小紀念品送給爸媽和妹妹。"
+    },
+    {
+      "en": "On the second day, we visited the lighthouse and took many photos at sunrise.",
+      "zh": "第二天，我們參觀燈塔，並在日出時拍了許多照片。"
+    },
+    {
+      "en": "Although the trip was short, it was the most relaxing weekend I have had this year.",
+      "zh": "雖然旅程很短，這卻是我今年最放鬆的一個週末。"
+    },
+    {
+      "en": "We have already started planning our next trip to Hualien during the winter vacation.",
+      "zh": "我們已經開始計畫寒假時去花蓮的下一趟旅行。"
+    },
+    {
+      "en": "During the long ride back, we listened to music and talked about our favorite moments.",
+      "zh": "漫長的回程路上，我們一邊聽音樂，一邊聊著最喜歡的時刻。"
+    },
+    {
+      "en": "My classmate Anna kept showing everyone the sunset photos she had taken at the lighthouse.",
+      "zh": "同學安娜不停把她在燈塔拍的夕陽照片秀給大家看。"
+    },
+    {
+      "en": "When I finally got home, my mother was waiting with a hot bowl of soup.",
+      "zh": "我終於回到家時，媽媽端著一碗熱湯在等我。"
+    },
+    {
+      "en": "My little sister was so excited that she opened her souvenir before I even sat down.",
+      "zh": "我妹妹興奮到我都還沒坐下就把紀念品拆開了。"
+    },
+    {
+      "en": "The next morning, I uploaded the photos to a shared album so everyone could download them.",
+      "zh": "隔天早上，我把照片上傳到共用相簿，這樣大家都能下載。"
+    },
+    {
+      "en": "My teacher noticed my tanned skin in class and joked that I clearly had a good vacation.",
+      "zh": "上課時老師注意到我曬黑的皮膚，開玩笑說我顯然玩得很開心。"
+    },
+    {
+      "en": "That afternoon, our group started a chat to plan the winter trip to Hualien.",
+      "zh": "那天下午，我們小組建了聊天群組來規劃花蓮的冬季旅行。"
+    },
+    {
+      "en": "We decided that this time we would try cycling along the famous coastal bike path.",
+      "zh": "我們決定這次要嘗試沿著有名的海岸自行車道騎車。"
+    },
+    {
+      "en": "I started saving part of my allowance every week to pay for the train tickets.",
+      "zh": "我開始每週存一部分零用錢來支付火車票。"
+    },
+    {
+      "en": "Looking back at the Kenting trip, I realized that good friends make every place feel special.",
+      "zh": "回想墾丁這趟旅行，我體會到好朋友能讓每個地方都變得特別。"
+    }
   ]
 }
