@@ -24,6 +24,16 @@
     { "en": "Legacy systems will be archived in read-only mode after each phase completes.", "zh": "舊系統將於各階段完成後以唯讀模式封存。" },
     { "en": "After ninety days, archived data moves to long-term storage.", "zh": "90 天後，封存資料將轉入長期儲存。" },
     { "en": "Please review the detailed FAQ posted on the project Confluence space.", "zh": "請至專案 Confluence 空間查閱詳細常見問答。" },
-    { "en": "Direct any concerns to the change management mailbox immediately.", "zh": "如有任何疑慮，請即刻寄至變革管理信箱。" }
+    { "en": "Direct any concerns to the change management mailbox immediately.", "zh": "如有任何疑慮，請即刻寄至變革管理信箱。" },
+    { "en": "Project sponsors will host weekly fireside chats every Friday afternoon.", "zh": "專案發起人將於每週五下午舉辦爐邊談話。" },
+    { "en": "Recordings of these chats are posted to the project channel by Monday.", "zh": "談話錄影將於週一前上傳至專案頻道。" },
+    { "en": "Helios includes a sandbox environment for safe experimentation and learning.", "zh": "Helios 提供沙盒環境，可安心進行實驗與學習。" },
+    { "en": "All sandbox data is reset every Sunday night without any warning.", "zh": "沙盒資料於每週日晚間重置，恕不另行通知。" },
+    { "en": "Mobile applications for iOS and Android will be available from day one.", "zh": "iOS 與 Android 行動應用程式將自第一天起即可使用。" },
+    { "en": "Sales leaders should encourage adoption by sharing real success stories.", "zh": "銷售主管應藉由分享真實成功案例來推動採用。" },
+    { "en": "Adoption metrics will be reviewed monthly with each regional vice president.", "zh": "採用率指標將每月與各區副總裁共同檢視。" },
+    { "en": "Awards recognize the top three teams with the highest engagement scores.", "zh": "獎項將表揚參與度最高的前三支團隊。" },
+    { "en": "We deeply appreciate your patience and partnership during this important transition.", "zh": "非常感謝您於此重要轉型期間的耐心與夥伴情誼。" },
+    { "en": "Together, Helios will accelerate our customer growth for years to come.", "zh": "齊心協力，Helios 將於未來數年加速我們的客戶成長。" }
   ]
 }

@@ -25,6 +25,16 @@
     { "en": "Approximately sixty percent is allocated to preventive activities.", "zh": "約百分之六十的預算配置於預防性活動。" },
     { "en": "The remaining forty percent covers reactive and improvement projects.", "zh": "其餘百分之四十涵蓋反應性與改善型專案。" },
     { "en": "Monthly performance reviews are held with the production leadership team.", "zh": "每月與生產領導團隊舉行績效檢討會議。" },
-    { "en": "This plan will be revised should production volumes change significantly.", "zh": "若生產量出現顯著變動，本計畫將予以修訂。" }
+    { "en": "This plan will be revised should production volumes change significantly.", "zh": "若生產量出現顯著變動，本計畫將予以修訂。" },
+    { "en": "Predictive analytics tools are being piloted to anticipate component failures earlier.", "zh": "預測分析工具正試行導入，以更早預測零件故障。" },
+    { "en": "Sensor data from the line feeds directly into the analytics dashboard.", "zh": "產線感測器資料直接傳入分析儀表板。" },
+    { "en": "Anomalies trigger automatic alerts to the on call maintenance engineer.", "zh": "異常情況會自動觸發警示通知待命維修工程師。" },
+    { "en": "Knowledge articles are updated whenever a new failure mode is identified.", "zh": "每次發現新故障模式時，知識文件即予更新。" },
+    { "en": "Cross functional reviews ensure both quality and engineering inputs are captured.", "zh": "跨職能檢討會議確保品質與工程的意見均納入考量。" },
+    { "en": "Tooling changes are coordinated through the daily production planning meeting.", "zh": "治具變更透過每日生產規劃會議協調安排。" },
+    { "en": "Safety stand downs are convened immediately after any serious near miss.", "zh": "發生任何重大近未遂事件後將立即召開安全停工會議。" },
+    { "en": "Continuous training credits are awarded to technicians who complete advanced modules.", "zh": "完成進階模組的技師可獲得持續訓練學分。" },
+    { "en": "Plans for next year include automating routine lubrication on twelve more assets.", "zh": "明年計畫包括將另外十二項設備的例行潤滑作業自動化。" },
+    { "en": "Together these efforts protect throughput, quality, and the wellbeing of operators.", "zh": "上述努力共同守護產出、品質與作業員的安康。" }
   ]
 }

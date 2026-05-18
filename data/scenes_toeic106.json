@@ -23,6 +23,16 @@
     { "en": "We aim to resolve standard tickets within one business day.", "zh": "我們的目標是於一個工作日內解決標準工單。" },
     { "en": "Complex hardware cases may require up to three working days.", "zh": "複雜的硬體案件可能需要至多三個工作天。" },
     { "en": "Thank you for your patience while we investigate this matter.", "zh": "感謝您耐心等候我們調查此事。" },
-    { "en": "Best regards, the Global IT Helpdesk Team at headquarters.", "zh": "敬祝順心，總部全球 IT 服務台團隊敬上。" }
+    { "en": "Best regards, the Global IT Helpdesk Team at headquarters.", "zh": "敬祝順心，總部全球 IT 服務台團隊敬上。" },
+    { "en": "P S, please keep this ticket number handy when contacting us again.", "zh": "附註：再次聯繫我們時請備妥此工單編號。" },
+    { "en": "Our knowledge base contains step by step articles for common VPN issues.", "zh": "我們的知識庫收錄常見 VPN 問題的逐步解說文章。" },
+    { "en": "You may access the portal at support dot acmecorp dot com using single sign on.", "zh": "您可使用單一登入連線至 support dot acmecorp dot com 入口網站。" },
+    { "en": "Self service password reset is available there for non privileged accounts.", "zh": "該入口提供非特權帳號的自助密碼重設功能。" },
+    { "en": "If you travel internationally, please notify us at least three days in advance.", "zh": "若您將出差至海外，請至少提前三天通知我們。" },
+    { "en": "We can pre approve alternative gateways for smoother connectivity abroad.", "zh": "我們可預先核准替代閘道，以利您海外連線更順暢。" },
+    { "en": "Please also ensure your operating system patches are fully up to date.", "zh": "也請確認您的作業系統修補程式皆已更新至最新版本。" },
+    { "en": "Outdated patches can prevent the VPN client from establishing a session.", "zh": "過舊的修補程式可能導致 VPN 用戶端無法建立連線工作階段。" },
+    { "en": "We appreciate your cooperation in keeping company devices secure and current.", "zh": "感謝您配合確保公司裝置維持安全且最新狀態。" },
+    { "en": "Please reply to this email if you need further assistance from our team.", "zh": "若您需要我們團隊進一步協助，請直接回覆此封郵件。" }
   ]
 }

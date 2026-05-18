@@ -25,6 +25,16 @@
     { "en": "Training certification is required before any operator performs solo replenishment.", "zh": "作業員獨立執行補貨前須先取得訓練認證。" },
     { "en": "All procedural changes must be approved by the operations manager.", "zh": "所有流程變更均須經營運經理核可。" },
     { "en": "This procedure is reviewed annually or whenever significant process changes occur.", "zh": "本程序每年或重大流程變更時進行檢討。" },
-    { "en": "Questions regarding this procedure should be directed to the inventory control team.", "zh": "本程序相關疑問應洽詢庫存管理團隊。" }
+    { "en": "Questions regarding this procedure should be directed to the inventory control team.", "zh": "本程序相關疑問應洽詢庫存管理團隊。" },
+    { "en": "A new dashboard now visualizes real time replenishment progress for all supervisors.", "zh": "新版儀表板為所有主管即時呈現補貨進度。" },
+    { "en": "Bottlenecks are flagged automatically when cycle times exceed historical averages.", "zh": "當循環時間超過歷史平均時將自動標示瓶頸。" },
+    { "en": "Cross trained operators can be redeployed to assist with surge periods.", "zh": "完成跨職能訓練的作業員可調派支援需求尖峰時段。" },
+    { "en": "Daylight saving adjustments are documented in section seven of the appendix.", "zh": "日光節約時間相關調整載於附件第七章。" },
+    { "en": "Inbound receiving teams coordinate closely to avoid duplicating put away tasks.", "zh": "進貨團隊密切協調以避免重複入庫作業。" },
+    { "en": "Audit trails are retained for two full years to support compliance reviews.", "zh": "稽核軌跡保存完整兩年以支援法遵檢視。" },
+    { "en": "Equipment maintenance windows are coordinated to avoid peak replenishment hours.", "zh": "設備保養時段已協調以避開補貨尖峰時間。" },
+    { "en": "Backup batteries for scanners are stored in clearly labeled charging racks.", "zh": "掃描器備用電池存放於清楚標示的充電架上。" },
+    { "en": "Performance bonuses reward teams that consistently meet accuracy targets.", "zh": "績效獎金獎勵持續達成準確率目標的團隊。" },
+    { "en": "Together these practices help ensure orders ship complete and on time every day.", "zh": "上述作法協助確保訂單每日皆能完整且準時出貨。" }
   ]
 }

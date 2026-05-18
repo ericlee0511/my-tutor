@@ -24,6 +24,16 @@
     { "en": "Long term strategy should focus on building topic clusters around solution pages.", "zh": "長期策略應聚焦於圍繞解決方案頁建立主題集群。" },
     { "en": "A re audit is recommended six months after implementation begins.", "zh": "建議於改善實施開始六個月後進行再次體檢。" },
     { "en": "The full report with prioritized action items is attached for your review.", "zh": "含優先排序行動項目的完整報告隨附供您審閱。" },
-    { "en": "Please confirm your team availability for the implementation kickoff next week.", "zh": "請確認貴團隊下週實施啟動會議的可出席時間。" }
+    { "en": "Please confirm your team availability for the implementation kickoff next week.", "zh": "請確認貴團隊下週實施啟動會議的可出席時間。" },
+    { "en": "Our consultants will lead a workshop to walk through each priority item.", "zh": "我們的顧問將主持工作坊，逐項講解每個優先項目。" },
+    { "en": "Developers should receive the technical fix list at least two days beforehand.", "zh": "開發人員應至少在兩天前收到技術修正清單。" },
+    { "en": "We can provide sample code snippets for the schema markup implementation.", "zh": "我們可提供結構化資料實作的範例程式碼片段。" },
+    { "en": "Editorial guidelines for the content refresh will be shared by Friday.", "zh": "內容更新的編輯準則將於週五前分享給各位。" },
+    { "en": "A shared dashboard will track weekly progress against the agreed milestones.", "zh": "共用儀表板將依約定里程碑每週追蹤進度。" },
+    { "en": "Stakeholders will receive a brief status email every other Monday morning.", "zh": "利害關係人將於每隔週的週一上午收到簡短狀態郵件。" },
+    { "en": "Performance benchmarks should be captured before changes go live.", "zh": "應在變更上線前記錄效能基準值。" },
+    { "en": "We expect organic traffic to begin recovering within six to ten weeks.", "zh": "我們預期自然流量將於六至十週內開始回升。" },
+    { "en": "Budget allocation for additional content production has been confirmed by finance.", "zh": "新增內容製作的預算配置已獲財務確認。" },
+    { "en": "Feel free to forward this report to your regional marketing leads.", "zh": "歡迎將本報告轉發給您區域的行銷負責人。" }
   ]
 }

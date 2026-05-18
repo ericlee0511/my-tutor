@@ -21,4 +21,16 @@
     { "en": "No physical damage to the goods occurred during the delay.", "zh": "延誤期間貨品未發生任何實體損壞。" },
     { "en": "Corrective actions include a system check on destination code entry.", "zh": "矯正措施包含對目的地代碼輸入進行系統檢查。" },
     { "en": "A dropdown selection will replace free text entry for this field.", "zh": "本欄位將以下拉選單取代自由輸入文字。" },
-    { "en": "A second review step has been added before manifests are released.", "zh": "於提單發送前已新增第二道複核步驟。" },     { "en": "The shipping team will receive refresher training within ten days.", "zh": "出貨團隊將於十日內接受複訓。" },     { "en": "Effectiveness of the changes will be reviewed after sixty days.", "zh": "變更的有效性將於六十日後檢討。" },     { "en": "This report has been shared with operations, sales, and quality teams.", "zh": "本報告已分享予營運、業務與品質團隊。" },     { "en": "We remain committed to restoring full confidence with this important customer.", "zh": "我們將持續努力以重建這位重要客戶的完整信賴。" }   ] } 
+    { "en": "A second review step has been added before manifests are released.", "zh": "於提單發送前已新增第二道複核步驟。" },     { "en": "The shipping team will receive refresher training within ten days.", "zh": "出貨團隊將於十日內接受複訓。" },     { "en": "Effectiveness of the changes will be reviewed after sixty days.", "zh": "變更的有效性將於六十日後檢討。" },     { "en": "This report has been shared with operations, sales, and quality teams.", "zh": "本報告已分享予營運、業務與品質團隊。" },     { "en": "We remain committed to restoring full confidence with this important customer.", "zh": "我們將持續努力以重建這位重要客戶的完整信賴。" },
+    { "en": "A follow up call has been scheduled with the customer for next Monday morning.", "zh": "已安排下週一上午與客戶進行後續會談。" },
+    { "en": "Goodwill credit equivalent to one percent of monthly revenue will be applied.", "zh": "將給予相當於月營收百分之一的善意折抵。" },
+    { "en": "Lessons learned from this incident will be added to our onboarding curriculum.", "zh": "本事件所學將納入新進人員訓練課程。" },
+    { "en": "Similar destination code controls will be deployed across all regional warehouses.", "zh": "類似的目的地代碼管控將部署至所有區域倉庫。" },
+    { "en": "An automated audit will compare every manifest against the order header daily.", "zh": "自動稽核將每日比對每張提單與訂單抬頭。" },
+    { "en": "Discrepancies will trigger holds until resolved by the dispatch supervisor.", "zh": "差異將觸發暫扣，直至調度主管完成處置。" },
+    { "en": "Carrier rejection notifications will be routed to an after hours response queue.", "zh": "業者拒收通知將導入非辦公時段回應佇列。" },
+    { "en": "Internal stakeholders will receive a monthly trend report on near miss incidents.", "zh": "內部相關方將收到每月近未遂事件趨勢報告。" },
+    { "en": "Closure of this incident is targeted for the end of the current fiscal quarter.", "zh": "本事件預定於本會計季結束前完成結案。" },
+    { "en": "Sincere thanks to the cross functional team that resolved this matter promptly.", "zh": "由衷感謝迅速處置本案的跨職能團隊。" }
+  ]
+}

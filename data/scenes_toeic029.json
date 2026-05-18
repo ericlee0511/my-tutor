@@ -24,6 +24,16 @@
     { "en": "You may reach them through the support portal or by calling our hotline.", "zh": "您可透過支援平台或撥打我們的熱線聯繫客服。" },
     { "en": "Once again, we sincerely apologize and thank you for your patience.", "zh": "再次致上誠摯歉意，並感謝您的耐心。" },
     { "en": "Your trust means everything to us, and we will work hard to earn it back.", "zh": "您的信任對我們意義重大，我們將努力贏回您的信賴。" },
-    { "en": "Sincerely, the Customer Operations Team at CloudReach Services.", "zh": "CloudReach Services 客戶營運團隊敬上。" }
+    { "en": "Sincerely, the Customer Operations Team at CloudReach Services.", "zh": "CloudReach Services 客戶營運團隊敬上。" },
+    { "en": "A public post-mortem document has been published on our status page for full transparency.", "zh": "我們已於狀態頁面公佈完整的事後檢討報告以示透明。" },
+    { "en": "We are introducing real-time status notifications via SMS and email starting next week.", "zh": "自下週起，我們將推出透過簡訊與電子郵件發送的即時狀態通知。" },
+    { "en": "Our infrastructure team is doubling redundant authentication nodes across three data centers.", "zh": "基礎架構團隊正將三個資料中心的備援認證節點數量加倍。" },
+    { "en": "An external auditor has been engaged to review our incident response procedures this quarter.", "zh": "本季已委託外部稽核公司審視我們的事件應變流程。" },
+    { "en": "Customers can subscribe to our engineering blog for updates on resilience improvements.", "zh": "顧客可訂閱我們的工程部落格，掌握系統韌性改善的最新進度。" },
+    { "en": "Service-level agreement metrics for May have been adjusted to reflect the outage period.", "zh": "五月份的服務水準協議指標已調整，以反映此次中斷期間。" },
+    { "en": "Dedicated account managers will personally contact our top-tier enterprise customers.", "zh": "專屬客戶經理將親自聯繫我們的頂級企業客戶。" },
+    { "en": "Quarterly reliability reports will be shared with all subscribed customers going forward.", "zh": "未來將定期向所有訂閱客戶分享季度可靠性報告。" },
+    { "en": "We have scheduled a public webinar to discuss lessons learned and answer customer questions.", "zh": "我們已安排公開線上研討會，分享經驗教訓並回答顧客提問。" },
+    { "en": "Thank you for your continued partnership as we strengthen our platform for the future.", "zh": "感謝您持續的合作，我們將不斷強化平台以迎接未來挑戰。" }
   ]
 }

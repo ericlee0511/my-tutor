@@ -24,6 +24,16 @@
     { "en": "Performance reports are published monthly on the customer portal.", "zh": "效能報告每月於客戶入口網站發佈。" },
     { "en": "Either party may request a service level review on a quarterly basis.", "zh": "任一方均可每季要求進行服務水準檢討。" },
     { "en": "Changes to the service level agreement require written mutual consent.", "zh": "服務水準協議的變更需經雙方書面同意。" },
-    { "en": "This excerpt summarizes only the key provisions of the full document.", "zh": "本摘錄僅總結完整文件的關鍵條款。" }
+    { "en": "This excerpt summarizes only the key provisions of the full document.", "zh": "本摘錄僅總結完整文件的關鍵條款。" },
+    { "en": "Customers should refer to the full agreement for definitive terms and conditions.", "zh": "客戶應參閱完整協議以瞭解最終的條款與條件。" },
+    { "en": "Disaster recovery provisions guarantee restoration of service within four hours.", "zh": "災難復原條款保證於四小時內恢復服務。" },
+    { "en": "Data backups are performed every six hours and stored across three geographic regions.", "zh": "資料備份每六小時執行一次，並分散儲存於三個地理區域。" },
+    { "en": "Security incidents will be reported to the customer within twenty four hours of detection.", "zh": "安全事件將於偵測後二十四小時內向客戶通報。" },
+    { "en": "Annual penetration testing reports are made available to authorized customer representatives.", "zh": "年度滲透測試報告可提供予獲授權之客戶代表查閱。" },
+    { "en": "The provider maintains relevant industry certifications and audits these annually.", "zh": "服務提供者持有相關產業認證並進行年度稽核。" },
+    { "en": "Customers receive at least ninety days notice prior to any material change in service scope.", "zh": "服務範圍若有重大變更，客戶將獲至少九十天的事前通知。" },
+    { "en": "Dispute resolution will follow a defined escalation path before formal arbitration.", "zh": "爭議解決將遵循既定的逐級陳報路徑後方進入正式仲裁。" },
+    { "en": "Both parties agree to act in good faith to resolve any service performance issues.", "zh": "雙方同意以誠信原則處理任何服務效能議題。" },
+    { "en": "This agreement reflects our shared commitment to delivering reliable, secure cloud services.", "zh": "本協議反映我們共同致力於提供可靠、安全雲端服務的承諾。" }
   ]
 }
