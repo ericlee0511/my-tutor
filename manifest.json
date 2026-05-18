@@ -1,7 +1,7 @@
 {
-  "name": "日文家教",
-  "short_name": "日文家教",
-  "description": "離線日文學習：單字、文法、選擇題、中日對照情境句",
+  "name": "Tutor",
+  "short_name": "Tutor",
+  "description": "離線多語學習：單字、文法、選擇題、情境句（日 / 韓 / 西 / 英）",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
