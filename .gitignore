@@ -13,3 +13,6 @@ e_learning.md
 
 # subagent 暫存資料夾
 tmp/
+
+# Icon generation fonts (downloaded on demand, OFL-licensed)
+scripts/fonts/
