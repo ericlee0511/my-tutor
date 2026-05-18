@@ -1097,11 +1097,78 @@ function closeLevelPicker() {
   document.getElementById("level-picker").hidden = true;
 }
 
+let statsLoaded = false;
+
+function parseStatisticsMd(md) {
+  // Returns [{ heading, headers:[...], rows:[[cells]], sumRow:idxOrNull }]
+  const lines = md.split(/\r?\n/);
+  const sections = [];
+  let cur = null;
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const h = /^##\s+(.+?)\s*$/.exec(line);
+    if (h) {
+      if (cur) sections.push(cur);
+      cur = { heading: h[1].trim(), headers: null, rows: [] };
+      continue;
+    }
+    if (!cur) continue;
+    if (!line.startsWith("|")) continue;
+    // skip separator rows like |---|---:|
+    if (/^\|\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/.test(line)) continue;
+    const cells = line.split("|").slice(1, -1).map(c => c.trim().replace(/^\*\*(.*)\*\*$/, "$1"));
+    if (!cells.length) continue;
+    if (!cur.headers) cur.headers = cells;
+    else cur.rows.push(cells);
+  }
+  if (cur) sections.push(cur);
+  return sections;
+}
+
+function escapeHTMLSafe(s) {
+  return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+}
+
+function renderStatsSection(sec) {
+  const isSum = row => /^(小計|合計)$/.test(row[0]);
+  const headerCells = sec.headers.map((h, i) => {
+    const cls = i === 0 ? "" : ' class="num"';
+    return `<th${cls}>${escapeHTMLSafe(h)}</th>`;
+  }).join("");
+  const bodyRows = sec.rows.map(r => {
+    const cls = isSum(r) ? ' class="sum"' : "";
+    const cells = r.map((c, i) => {
+      const tdCls = i === 0 ? "" : ' class="num"';
+      return `<td${tdCls}>${escapeHTMLSafe(c)}</td>`;
+    }).join("");
+    return `<tr${cls}>${cells}</tr>`;
+  }).join("");
+  return `<h3 class="stats-h3">${escapeHTMLSafe(sec.heading)}</h3>` +
+    `<table class="stats-table"><thead><tr>${headerCells}</tr></thead><tbody>${bodyRows}</tbody></table>`;
+}
+
+async function loadStatsIntoPicker() {
+  const body = document.getElementById("stats-body");
+  if (!body) return;
+  try {
+    const res = await fetch("./data/statistics.md", { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const md = await res.text();
+    const sections = parseStatisticsMd(md).filter(s => s.headers && s.rows.length);
+    if (!sections.length) throw new Error("找不到表格");
+    body.innerHTML = sections.map(renderStatsSection).join("");
+    statsLoaded = true;
+  } catch (e) {
+    body.innerHTML = `<div class="hint">統計資料載入失敗：${escapeHTMLSafe(e.message)}</div>`;
+  }
+}
+
 function openStatsPicker() {
   const overlay = document.getElementById("stats-picker");
   overlay.hidden = false;
   const body = overlay.querySelector(".stats-body");
   if (body) body.scrollTop = 0;
+  if (!statsLoaded) loadStatsIntoPicker();
 }
 function closeStatsPicker() {
   document.getElementById("stats-picker").hidden = true;
