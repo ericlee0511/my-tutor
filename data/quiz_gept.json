@@ -2,63 +2,5613 @@
   "gept": [
     {
       "question_en": "I ___ in Taichung for five years before I moved to Taipei last summer.",
-      "options": ["have lived", "had lived", "live", "am living"],
+      "options": [
+        "have lived",
+        "had lived",
+        "live",
+        "am living"
+      ],
       "answer": 1,
       "explanation_zh": "過去某時間點 (last summer) 之前已持續發生的動作要用過去完成式 had + p.p.，故選 (B) had lived。(A) have lived 是現在完成式，不符合過去的時間參考。(C) live 為現在簡單式。(D) am living 為現在進行式。"
     },
     {
       "question_en": "The new MRT line is ___ than the old one and takes us downtown much faster.",
-      "options": ["fast", "faster", "fastest", "more fast"],
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
       "answer": 1,
       "explanation_zh": "句中有 than 表示兩者比較，需用比較級 faster，故選 (B)。(A) fast 為原級。(C) fastest 為最高級。(D) more fast 不合語法，單音節形容詞直接加 -er。"
     },
     {
       "question_en": "If I ___ you, I would apologize to her right away.",
-      "options": ["am", "was", "were", "will be"],
+      "options": [
+        "am",
+        "was",
+        "were",
+        "will be"
+      ],
       "answer": 2,
       "explanation_zh": "與現在事實相反的假設 (Type 2)，if 子句用過去式，be 動詞一律用 were，故選 (C) were。(A) am 為現在式。(B) was 在正式文法的假設語氣中不採用。(D) will be 不可用於 if 子句。"
     },
     {
       "question_en": "The meeting ___ to next Friday because the manager is on a business trip.",
-      "options": ["postpones", "is postponing", "has postponed", "has been postponed"],
+      "options": [
+        "postpones",
+        "is postponing",
+        "has postponed",
+        "has been postponed"
+      ],
       "answer": 3,
       "explanation_zh": "會議是被延期的，需用被動語態，且強調對現在的影響，故用現在完成被動 has been postponed，選 (D)。(A)(B) 為主動語態。(C) has postponed 為現在完成主動，主詞 meeting 不能主動延期。"
     },
     {
       "question_en": "The girl ___ is sitting next to the window is my new classmate from Hong Kong.",
-      "options": ["which", "whose", "who", "whom"],
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "whom"
+      ],
       "answer": 2,
       "explanation_zh": "先行詞 the girl 是人且在子句中當主詞，需用主格關係代名詞 who，故選 (C)。(A) which 用於事物。(B) whose 為所有格。(D) whom 為受格。"
     },
     {
       "question_en": "My brother enjoys ___ basketball with his friends every weekend.",
-      "options": ["play", "to play", "playing", "played"],
+      "options": [
+        "play",
+        "to play",
+        "playing",
+        "played"
+      ],
       "answer": 2,
       "explanation_zh": "enjoy 後接動名詞 V-ing，故選 (C) playing。(A) play 為原形動詞。(B) to play 為不定式，不可接在 enjoy 之後。(D) played 為過去式或過去分詞。"
     },
     {
       "question_en": "She has been working on the project ___ early this morning without taking a break.",
-      "options": ["for", "since", "from", "during"],
+      "options": [
+        "for",
+        "since",
+        "from",
+        "during"
+      ],
       "answer": 1,
       "explanation_zh": "since 後面接時間點 (early this morning)，與現在完成進行式搭配，故選 (B)。(A) for 後接一段時間。(C) from 通常與 to 連用。(D) during 後接事件或一段期間。"
     },
     {
       "question_en": "If the weather ___ nice tomorrow, we will go hiking in Yangmingshan.",
-      "options": ["is", "was", "will be", "would be"],
+      "options": [
+        "is",
+        "was",
+        "will be",
+        "would be"
+      ],
       "answer": 0,
       "explanation_zh": "Type 1 條件句，if 子句用現在式表示未來，主句用 will，故選 (A) is。(B) was 為過去式，不合語意。(C)(D) 都不能用在 if 子句的條件部分。"
     },
     {
       "question_en": "I would rather ___ at home tonight than go to the crowded night market.",
-      "options": ["staying", "to stay", "stay", "stayed"],
+      "options": [
+        "staying",
+        "to stay",
+        "stay",
+        "stayed"
+      ],
       "answer": 2,
       "explanation_zh": "would rather 後接原形動詞，故選 (C) stay。(A) staying 為動名詞或現在分詞。(B) to stay 為不定式。(D) stayed 為過去式。"
     },
     {
       "question_en": "This is the most delicious mango cake ___ I have ever tasted in my life.",
-      "options": ["who", "what", "which", "that"],
+      "options": [
+        "who",
+        "what",
+        "which",
+        "that"
+      ],
       "answer": 3,
       "explanation_zh": "先行詞前有最高級 the most delicious 修飾時，關係代名詞通常用 that，故選 (D)。(A) who 用於人。(B) what 不可當關係代名詞使用。(C) which 文法上可，但最高級之後習慣用 that。"
+    },
+    {
+      "question_en": "She ___ to the gym every morning before work.",
+      "options": [
+        "go",
+        "going",
+        "goes",
+        "gone"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞為第三人稱單數she，現在簡單式動詞需加s，故選(C)goes。(A)go為原形，需配合複數主詞。(B)going為現在分詞。(D)gone為過去分詞。"
+    },
+    {
+      "question_en": "Look! The children ___ in the playground right now.",
+      "options": [
+        "play",
+        "plays",
+        "are playing",
+        "played"
+      ],
+      "answer": 2,
+      "explanation_zh": "句首Look!與right now顯示動作正在進行，須用現在進行式are playing，故選(C)。(A)play為原形。(B)plays用於第三人稱單數。(D)played為過去式。"
+    },
+    {
+      "question_en": "I ___ my homework when my mother called me.",
+      "options": [
+        "was doing",
+        "am doing",
+        "do",
+        "have done"
+      ],
+      "answer": 0,
+      "explanation_zh": "從屬子句when called為過去簡單式，主句表示當時正在進行的動作，須用過去進行式was doing，故選(A)。(B)為現在進行式。(C)為現在簡單式。(D)為現在完成式。"
+    },
+    {
+      "question_en": "By the time you arrive, I ___ dinner already.",
+      "options": [
+        "will have cooked",
+        "will cook",
+        "am cooking",
+        "cook"
+      ],
+      "answer": 0,
+      "explanation_zh": "by the time + 現在式表未來時間點，主句須用未來完成式will have cooked，故選(A)。(D)為現在式。(B)為未來簡單式。(C)為現在進行式。"
+    },
+    {
+      "question_en": "He ___ in Tokyo for ten years before he moved to Osaka.",
+      "options": [
+        "lives",
+        "has lived",
+        "had lived",
+        "is living"
+      ],
+      "answer": 2,
+      "explanation_zh": "在過去動作moved之前已持續的動作須用過去完成式had lived，故選(C)。(A)為現在式。(B)為現在完成式。(D)為現在進行式。"
+    },
+    {
+      "question_en": "I ___ never ___ such a beautiful sunset before.",
+      "options": [
+        "have / seen",
+        "had / saw",
+        "do / see",
+        "was / seeing"
+      ],
+      "answer": 0,
+      "explanation_zh": "never與before表至今的經驗，須用現在完成式have seen，故選(A)。(B)had / saw時態不一致。(C)為現在簡單式。(D)時態錯誤。"
+    },
+    {
+      "question_en": "My father ___ a new car next month.",
+      "options": [
+        "buys",
+        "is buying",
+        "will buy",
+        "bought"
+      ],
+      "answer": 2,
+      "explanation_zh": "next month為未來時間，須用未來簡單式will buy，故選(C)。(A)為現在式。(B)為現在進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "While I ___ the dishes, my husband was vacuuming the floor.",
+      "options": [
+        "wash",
+        "washed",
+        "was washing",
+        "have washed"
+      ],
+      "answer": 2,
+      "explanation_zh": "while引導兩個同時進行的過去動作，須用過去進行式was washing，故選(C)。(A)為原形。(B)為過去簡單式。(D)為現在完成式。"
+    },
+    {
+      "question_en": "Water ___ at 100 degrees Celsius.",
+      "options": [
+        "boil",
+        "is boiling",
+        "boils",
+        "boiled"
+      ],
+      "answer": 2,
+      "explanation_zh": "科學事實或永恆真理須用現在簡單式，主詞water為單數第三人稱，故選(C)boils。(A)為原形。(B)為現在進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "They ___ married for twenty years next May.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "will have been"
+      ],
+      "answer": 3,
+      "explanation_zh": "next May為未來時間點，到那時已持續的狀態須用未來完成式will have been，故選(D)。(A)為現在式。(B)為過去式。(C)為現在完成式。"
+    },
+    {
+      "question_en": "When the phone rang, I ___ a shower.",
+      "options": [
+        "take",
+        "took",
+        "was taking",
+        "have taken"
+      ],
+      "answer": 2,
+      "explanation_zh": "電話響時正在進行的動作須用過去進行式was taking，故選(C)。(A)為原形。(B)為過去簡單式表完成動作。(D)為現在完成式。"
+    },
+    {
+      "question_en": "I ___ to Paris three times in my life.",
+      "options": [
+        "go",
+        "went",
+        "had been",
+        "have been"
+      ],
+      "answer": 3,
+      "explanation_zh": "in my life表至今的人生經驗次數，須用現在完成式have been，故選(D)。(A)為現在式。(B)為過去式需指明過去時間。(C)為過去完成式。"
+    },
+    {
+      "question_en": "As soon as he ___ home, please tell him to call me.",
+      "options": [
+        "gets",
+        "will get",
+        "got",
+        "is getting"
+      ],
+      "answer": 0,
+      "explanation_zh": "時間副詞子句中以現在式代替未來式，故選(A)gets。(B)未來式在時間子句中不可用。(C)為過去式。(D)為現在進行式。"
+    },
+    {
+      "question_en": "She has been writing the novel ___ three years.",
+      "options": [
+        "since",
+        "during",
+        "for",
+        "while"
+      ],
+      "answer": 2,
+      "explanation_zh": "for + 一段時間，表持續期間，故選(C)for。(A)since接時間點。(B)during接特定期間。(D)while為連接詞。"
+    },
+    {
+      "question_en": "By next year, my grandmother ___ here for fifty years.",
+      "options": [
+        "lives",
+        "has lived",
+        "lived",
+        "will have lived"
+      ],
+      "answer": 3,
+      "explanation_zh": "by next year為未來時間點，到那時已持續的動作須用未來完成式will have lived，故選(D)。(A)為現在式。(B)為現在完成式。(C)為過去式。"
+    },
+    {
+      "question_en": "I ___ TV when my friend knocked on the door.",
+      "options": [
+        "watch",
+        "was watching",
+        "have watched",
+        "will watch"
+      ],
+      "answer": 1,
+      "explanation_zh": "敲門時正在進行的動作須用過去進行式was watching，故選(B)。(A)為現在式。(C)為現在完成式。(D)為未來式。"
+    },
+    {
+      "question_en": "The train ___ at 7:30 every morning.",
+      "options": [
+        "leave",
+        "is leaving",
+        "leaves",
+        "left"
+      ],
+      "answer": 2,
+      "explanation_zh": "時刻表為慣常事實，須用現在簡單式，第三人稱單數加s，故選(C)leaves。(A)為原形。(B)為現在進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "He ___ his car since last week.",
+      "options": [
+        "repairs",
+        "is repairing",
+        "has been repairing",
+        "repaired"
+      ],
+      "answer": 2,
+      "explanation_zh": "since last week強調動作從過去持續到現在，須用現在完成進行式has been repairing，故選(C)。(A)為現在式。(B)為現在進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "I ___ you tomorrow at the café.",
+      "options": [
+        "meet",
+        "met",
+        "have met",
+        "will meet"
+      ],
+      "answer": 3,
+      "explanation_zh": "tomorrow為未來時間，須用未來簡單式will meet，故選(D)。(A)為現在式。(B)為過去式。(C)為現在完成式。"
+    },
+    {
+      "question_en": "She ___ her keys, so she can't open the door.",
+      "options": [
+        "loses",
+        "lost",
+        "has lost",
+        "is losing"
+      ],
+      "answer": 2,
+      "explanation_zh": "過去動作對現在有影響(現在無法開門)，須用現在完成式has lost，故選(C)。(A)為現在式。(B)為過去式無關現在。(D)為現在進行式。"
+    },
+    {
+      "question_en": "When I was a child, I ___ play in the park every day.",
+      "options": [
+        "use to",
+        "used to",
+        "am used to",
+        "was used to"
+      ],
+      "answer": 1,
+      "explanation_zh": "used to + 原形表過去習慣或狀態，故選(B)used to。(A)拼字錯誤。(C)為「習慣於」。(D)時態不符。"
+    },
+    {
+      "question_en": "Every summer, we ___ go camping in the mountains.",
+      "options": [
+        "would",
+        "will",
+        "are going to",
+        "have"
+      ],
+      "answer": 0,
+      "explanation_zh": "would + 原形表過去重複性習慣，故選(A)would。(B)為未來式。(C)為be going to未來式。(D)為現在完成式助動詞。"
+    },
+    {
+      "question_en": "He ___ smoke a lot, but he quit last year.",
+      "options": [
+        "use to",
+        "is used to",
+        "used to",
+        "get used to"
+      ],
+      "answer": 2,
+      "explanation_zh": "used to表過去常做但現在不做的動作，故選(C)used to。(A)拼字錯誤。(B)為「習慣於」。(D)為「逐漸習慣」。"
+    },
+    {
+      "question_en": "Look at the dark clouds! It ___ rain soon.",
+      "options": [
+        "will",
+        "would",
+        "is going to",
+        "has"
+      ],
+      "answer": 2,
+      "explanation_zh": "根據眼前徵兆預測未來，須用be going to，故選(C)。(A)will用於即興決定或推測。(B)would為過去式。(D)為完成式助動詞。"
+    },
+    {
+      "question_en": "I have decided. I ___ buy that laptop tomorrow.",
+      "options": [
+        "will",
+        "am going to",
+        "would",
+        "might"
+      ],
+      "answer": 1,
+      "explanation_zh": "已預先計畫的未來行動須用be going to，故選(B)。(A)will表即興決定。(C)would為過去式。(D)might表可能。"
+    },
+    {
+      "question_en": "OK, I ___ help you carry those boxes.",
+      "options": [
+        "am going to",
+        "will",
+        "would",
+        "used to"
+      ],
+      "answer": 1,
+      "explanation_zh": "當下臨時決定的承諾須用will，故選(B)。(A)為事先計畫。(C)為過去式。(D)為過去習慣。"
+    },
+    {
+      "question_en": "___ you pass me the salt, please?",
+      "options": [
+        "May",
+        "Should",
+        "Could",
+        "Must"
+      ],
+      "answer": 2,
+      "explanation_zh": "禮貌請求須用Could，故選(C)。(A)May用於請求許可較正式。(B)Should表建議。(D)Must表必須。"
+    },
+    {
+      "question_en": "You ___ wear a seatbelt while driving. It's the law.",
+      "options": [
+        "may",
+        "can",
+        "must",
+        "might"
+      ],
+      "answer": 2,
+      "explanation_zh": "法律規定的義務須用must，故選(C)。(A)may表許可。(B)can表能力或許可。(D)might表可能。"
+    },
+    {
+      "question_en": "When I was young, I ___ run very fast.",
+      "options": [
+        "can",
+        "could",
+        "may",
+        "must"
+      ],
+      "answer": 1,
+      "explanation_zh": "過去的能力須用could，故選(B)。(A)can為現在能力。(C)may表許可或可能。(D)must表必須。"
+    },
+    {
+      "question_en": "You ___ smoke in this building. It's strictly prohibited.",
+      "options": [
+        "mustn't",
+        "needn't",
+        "don't have to",
+        "wouldn't"
+      ],
+      "answer": 0,
+      "explanation_zh": "嚴禁的禁止須用mustn't，故選(A)。(B)needn't表不需要。(C)don't have to表不必。(D)wouldn't為過去意願。"
+    },
+    {
+      "question_en": "You ___ come if you don't want to. It's optional.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "can't",
+        "shouldn't"
+      ],
+      "answer": 1,
+      "explanation_zh": "非強制(可選擇)須用don't have to表不必，故選(B)。(A)為禁止。(C)為不能。(D)為不應該。"
+    },
+    {
+      "question_en": "You ___ see a doctor about that cough.",
+      "options": [
+        "may",
+        "can",
+        "might",
+        "should"
+      ],
+      "answer": 3,
+      "explanation_zh": "給予建議須用should，故選(D)。(A)may表許可。(B)can表能力。(C)might表可能。"
+    },
+    {
+      "question_en": "___ I borrow your pen for a moment?",
+      "options": [
+        "Must",
+        "May",
+        "Should",
+        "Would"
+      ],
+      "answer": 1,
+      "explanation_zh": "請求許可禮貌的用法須用May，故選(B)。(A)Must表必須。(C)Should表建議。(D)Would用於詢問意願。"
+    },
+    {
+      "question_en": "Students ___ submit their assignments by Friday.",
+      "options": [
+        "can",
+        "may",
+        "might",
+        "must"
+      ],
+      "answer": 3,
+      "explanation_zh": "規定義務須用must，故選(D)。(A)can表能力。(B)may表許可。(C)might表可能。"
+    },
+    {
+      "question_en": "He ___ speak five languages fluently.",
+      "options": [
+        "can",
+        "must",
+        "should",
+        "may"
+      ],
+      "answer": 0,
+      "explanation_zh": "表達能力須用can，故選(A)。(B)must表必須。(C)should表應該。(D)may表許可或可能。"
+    },
+    {
+      "question_en": "You look exhausted. You ___ go to bed early tonight.",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "may"
+      ],
+      "answer": 1,
+      "explanation_zh": "給予建議須用should，故選(B)。(A)Must過於強烈為命令。(C)Can表能力。(D)May表許可。"
+    },
+    {
+      "question_en": "In Taiwan, you ___ vote when you are 20 years old.",
+      "options": [
+        "can",
+        "must",
+        "should",
+        "may"
+      ],
+      "answer": 0,
+      "explanation_zh": "年滿20歲擁有投票的能力與權利，須用can，故選(A)。(B)must表強制義務。(C)should表建議。(D)may表許可較不貼切。"
+    },
+    {
+      "question_en": "You ___ tell anyone the secret. Promise me!",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "needn't",
+        "couldn't"
+      ],
+      "answer": 0,
+      "explanation_zh": "嚴禁說出秘密須用mustn't，故選(A)。(B)為不必。(C)為不需要。(D)為過去無法。"
+    },
+    {
+      "question_en": "___ you mind opening the window?",
+      "options": [
+        "Will",
+        "Would",
+        "Should",
+        "Must"
+      ],
+      "answer": 1,
+      "explanation_zh": "Would you mind...為禮貌請求慣用句，故選(B)。(A)Will較不正式。(C)Should表建議。(D)Must表必須。"
+    },
+    {
+      "question_en": "She ___ play the piano when she was only five.",
+      "options": [
+        "can",
+        "may",
+        "must",
+        "could"
+      ],
+      "answer": 3,
+      "explanation_zh": "過去能力須用could，故選(D)。(A)為現在能力。(B)表許可。(C)表必須。"
+    },
+    {
+      "question_en": "He didn't answer his phone. He ___ in a meeting.",
+      "options": [
+        "must be",
+        "can't be",
+        "should be",
+        "would be"
+      ],
+      "answer": 0,
+      "explanation_zh": "根據合理推斷(沒接電話)，幾乎確定是某事，須用must be，故選(A)。(B)為不可能。(C)為應該。(D)為過去意願。"
+    },
+    {
+      "question_en": "That ___ Tom over there. Tom is in London right now.",
+      "options": [
+        "must be",
+        "can't be",
+        "may be",
+        "might be"
+      ],
+      "answer": 1,
+      "explanation_zh": "湯姆在倫敦，故那人不可能是他，須用can't be，故選(B)。(A)為一定是。(C)(D)為可能是。"
+    },
+    {
+      "question_en": "She didn't eat lunch. She ___ very hungry now.",
+      "options": [
+        "might be",
+        "can't be",
+        "must be",
+        "shouldn't be"
+      ],
+      "answer": 2,
+      "explanation_zh": "根據事實(沒吃午餐)的肯定推測須用must be，故選(C)。(A)為可能。(B)為不可能。(D)為不應該。"
+    },
+    {
+      "question_en": "Whose bag is this? It ___ John's. He just left.",
+      "options": [
+        "must be",
+        "can't be",
+        "mustn't be",
+        "might be"
+      ],
+      "answer": 3,
+      "explanation_zh": "不確定但有可能須用might be，故選(D)。(A)為一定是過於肯定。(B)為不可能。(C)為禁止。"
+    },
+    {
+      "question_en": "Look at the lights in his house. He ___ at home.",
+      "options": [
+        "must be",
+        "can't be",
+        "shouldn't be",
+        "won't be"
+      ],
+      "answer": 0,
+      "explanation_zh": "根據燈光的證據幾乎肯定他在家，須用must be，故選(A)。(B)為不可能。(C)為不應該。(D)為不會。"
+    },
+    {
+      "question_en": "She speaks English perfectly. She ___ a native speaker.",
+      "options": [
+        "must be",
+        "can't be",
+        "might be",
+        "needn't be"
+      ],
+      "answer": 0,
+      "explanation_zh": "根據說話流利度推測是母語者，須用must be，故選(A)。(B)為不可能。(C)為可能(較不肯定)。(D)為不需要。"
+    },
+    {
+      "question_en": "That ___ true. I saw it with my own eyes.",
+      "options": [
+        "must be",
+        "can't be",
+        "might not be",
+        "needn't be"
+      ],
+      "answer": 1,
+      "explanation_zh": "親眼所見不可能是假的，須用can't be，故選(B)。(A)為一定是。(C)為可能不。(D)為不需要。"
+    },
+    {
+      "question_en": "He looks pale. He ___ feeling sick.",
+      "options": [
+        "won't be",
+        "can't be",
+        "shouldn't be",
+        "must be"
+      ],
+      "answer": 3,
+      "explanation_zh": "根據臉色蒼白幾乎肯定生病，須用must be，故選(D)。(A)為不會。(B)為不可能。(C)為不應該。"
+    },
+    {
+      "question_en": "It's only 6 a.m. The shops ___ open yet.",
+      "options": [
+        "must be",
+        "can't be",
+        "may not be",
+        "won't be"
+      ],
+      "answer": 1,
+      "explanation_zh": "清晨6點商店不可能開門，須用can't be，故選(B)。(A)為一定。(C)語意不夠肯定。(D)為不會(預測)。"
+    },
+    {
+      "question_en": "I'm not sure where she is. She ___ in the library.",
+      "options": [
+        "must be",
+        "can't be",
+        "won't be",
+        "might be"
+      ],
+      "answer": 3,
+      "explanation_zh": "不確定但有可能須用might be，故選(D)。(A)為一定。(B)為不可能。(C)為不會。"
+    },
+    {
+      "question_en": "I'm sorry I'm late. I ___ have missed the bus.",
+      "options": [
+        "must",
+        "can't",
+        "should",
+        "would"
+      ],
+      "answer": 0,
+      "explanation_zh": "根據遲到事實，幾乎肯定錯過公車，須用must have + p.p.，故選(A)。(B)can't have表不可能。(C)should have表應該但沒做。(D)would have表假設。"
+    },
+    {
+      "question_en": "You ___ have studied harder. You failed the test.",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "may"
+      ],
+      "answer": 1,
+      "explanation_zh": "事後責備或建議「本來應該做卻沒做」須用should have，故選(B)。(A)must have表肯定推測。(C)can have無此用法。(D)may have表可能做過。"
+    },
+    {
+      "question_en": "He ___ have stolen the money. He was with me all day.",
+      "options": [
+        "must",
+        "can't",
+        "should",
+        "might"
+      ],
+      "answer": 1,
+      "explanation_zh": "有不在場證明，不可能偷錢，須用can't have，故選(B)。(A)為一定。(C)為應該。(D)為可能。"
+    },
+    {
+      "question_en": "She didn't come to class. She ___ have been sick.",
+      "options": [
+        "must",
+        "can't",
+        "might",
+        "should"
+      ],
+      "answer": 2,
+      "explanation_zh": "推測過去可能的原因須用might have，故選(C)。(A)語氣過強。(B)為不可能。(D)為應該但沒做。"
+    },
+    {
+      "question_en": "I ___ have told her the truth. Now she's angry with me.",
+      "options": [
+        "must",
+        "shouldn't",
+        "can't",
+        "may not"
+      ],
+      "answer": 1,
+      "explanation_zh": "事後後悔做了不該做的事，須用shouldn't have，故選(B)。(A)為一定做了。(C)為當時不可能。(D)語意不通順。"
+    },
+    {
+      "question_en": "You ___ have called me. I was worried.",
+      "options": [
+        "could",
+        "can't",
+        "mustn't",
+        "needn't"
+      ],
+      "answer": 0,
+      "explanation_zh": "指責對方「本來可以做卻沒做」須用could have，故選(A)。(B)為不可能。(C)為過去禁止。(D)為不必要。"
+    },
+    {
+      "question_en": "The window is broken. Someone ___ have broken it.",
+      "options": [
+        "must",
+        "can't",
+        "shouldn't",
+        "needn't"
+      ],
+      "answer": 0,
+      "explanation_zh": "根據窗戶破掉的事實，肯定有人打破，須用must have，故選(A)。(B)為不可能。(C)為不應該。(D)為不需要。"
+    },
+    {
+      "question_en": "She ___ have left already. Her car is still in the parking lot.",
+      "options": [
+        "must",
+        "can't",
+        "should",
+        "would"
+      ],
+      "answer": 1,
+      "explanation_zh": "車子還在停車場，所以不可能已離開，須用can't have，故選(B)。(A)為一定。(C)為應該。(D)為假設。"
+    },
+    {
+      "question_en": "I ___ have bought that expensive watch. I'm broke now.",
+      "options": [
+        "must",
+        "should",
+        "shouldn't",
+        "can't"
+      ],
+      "answer": 2,
+      "explanation_zh": "事後後悔做了不該做的事(買了昂貴手錶)，須用shouldn't have，故選(C)。(A)為一定。(B)為應該。(D)為不可能。"
+    },
+    {
+      "question_en": "He ___ have forgotten about the meeting. He's usually punctual.",
+      "options": [
+        "must",
+        "shouldn't",
+        "needn't",
+        "may"
+      ],
+      "answer": 3,
+      "explanation_zh": "推測過去可能發生的原因須用may have，故選(D)。(A)語氣過強。(B)為不應該。(C)為不需要。"
+    },
+    {
+      "question_en": "When she came home, her children ___ already ___ to bed.",
+      "options": [
+        "had / gone",
+        "have / gone",
+        "were / going",
+        "did / go"
+      ],
+      "answer": 0,
+      "explanation_zh": "在過去時間點(came home)之前完成的動作須用過去完成式had gone，故選(A)。(B)為現在完成式。(C)為過去進行式。(D)為過去簡單式。"
+    },
+    {
+      "question_en": "After he ___ his homework, he watched TV.",
+      "options": [
+        "finishes",
+        "has finished",
+        "had finished",
+        "finishing"
+      ],
+      "answer": 2,
+      "explanation_zh": "過去兩動作中先發生的須用過去完成式had finished，故選(C)。(A)為現在式。(B)為現在完成式。(D)為動名詞。"
+    },
+    {
+      "question_en": "I realized that I ___ my wallet at home.",
+      "options": [
+        "leave",
+        "left",
+        "have left",
+        "had left"
+      ],
+      "answer": 3,
+      "explanation_zh": "realized為過去式，發現之前已發生的事須用過去完成式had left，故選(D)。(A)為現在式。(B)為過去式。(C)為現在完成式。"
+    },
+    {
+      "question_en": "The thief ___ already ___ when the police arrived.",
+      "options": [
+        "has / escaped",
+        "had / escaped",
+        "was / escaping",
+        "did / escape"
+      ],
+      "answer": 1,
+      "explanation_zh": "警察到達之前已逃離，須用過去完成式had escaped，故選(B)。(A)為現在完成式。(C)為過去進行式。(D)為過去簡單式。"
+    },
+    {
+      "question_en": "By the time the movie started, we ___ our seats.",
+      "options": [
+        "take",
+        "took",
+        "have taken",
+        "had taken"
+      ],
+      "answer": 3,
+      "explanation_zh": "by the time + 過去式，主句須用過去完成式had taken，故選(D)。(A)為現在式。(B)為過去式。(C)為現在完成式。"
+    },
+    {
+      "question_en": "I ___ tea right now, not coffee.",
+      "options": [
+        "want",
+        "am wanting",
+        "wants",
+        "wanted"
+      ],
+      "answer": 0,
+      "explanation_zh": "want為情感狀態動詞，通常不用進行式，須用現在簡單式want，故選(A)。(B)狀態動詞不用進行式。(C)為第三人稱單數。(D)為過去式。"
+    },
+    {
+      "question_en": "She ___ to know the truth.",
+      "options": [
+        "is needing",
+        "need",
+        "needing",
+        "needs"
+      ],
+      "answer": 3,
+      "explanation_zh": "need為狀態動詞，不用進行式，第三人稱單數加s為needs，故選(D)。(A)狀態動詞不用進行式。(B)為原形。(C)為現在分詞。"
+    },
+    {
+      "question_en": "I ___ the new perfume. It smells wonderful!",
+      "options": [
+        "like",
+        "am liking",
+        "likes",
+        "liking"
+      ],
+      "answer": 0,
+      "explanation_zh": "like為情感狀態動詞，不用進行式，須用現在簡單式like，故選(A)。(B)狀態動詞不用進行式。(C)為第三人稱單數。(D)為現在分詞。"
+    },
+    {
+      "question_en": "He ___ tired today, so he won't come to the party.",
+      "options": [
+        "feel",
+        "is feeling",
+        "felt",
+        "feels"
+      ],
+      "answer": 3,
+      "explanation_zh": "feel為狀態動詞，第三人稱單數現在式須用feels，故選(D)。(A)為原形。(B)雖可用進行式但現在簡單式更貼切。(C)為過去式。"
+    },
+    {
+      "question_en": "This soup ___ delicious. Who made it?",
+      "options": [
+        "taste",
+        "tastes",
+        "is tasting",
+        "tasted"
+      ],
+      "answer": 1,
+      "explanation_zh": "taste作連綴動詞描述狀態，須用現在簡單式tastes，故選(B)。(A)為原形。(C)狀態動詞不用進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "The plane ___ to take off. Please fasten your seatbelt.",
+      "options": [
+        "is about",
+        "about",
+        "is going",
+        "will"
+      ],
+      "answer": 0,
+      "explanation_zh": "be about to + 原形表即將做某事，故選(A)。(B)缺少be動詞。(C)後面要接to take off的話須加to。(D)為未來式。"
+    },
+    {
+      "question_en": "I was ___ to call you when you called me.",
+      "options": [
+        "on",
+        "going",
+        "ready",
+        "about"
+      ],
+      "answer": 3,
+      "explanation_zh": "be about to + 原形表正要做某事，故選(D)。(A)on the verge of後接動名詞。(B)缺to。(C)語意不符。"
+    },
+    {
+      "question_en": "She is on the ___ of tears.",
+      "options": [
+        "edge",
+        "verge",
+        "point",
+        "brink"
+      ],
+      "answer": 1,
+      "explanation_zh": "on the verge of為固定片語，表瀕臨，故選(B)verge。(A)edge用法不同。(C)on the point of亦可但選項固定為verge。(D)brink用於危險邊緣。"
+    },
+    {
+      "question_en": "The company is on the verge of ___ bankrupt.",
+      "options": [
+        "go",
+        "going",
+        "to go",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation_zh": "on the verge of + 動名詞，故選(B)going。(A)為原形。(C)為不定詞。(D)為過去分詞。"
+    },
+    {
+      "question_en": "I'm ___ to leave; can you wait a minute?",
+      "options": [
+        "on",
+        "verge",
+        "near",
+        "about"
+      ],
+      "answer": 3,
+      "explanation_zh": "be about to + 原形表即將做某事，故選(D)。(A)缺to/the verge of。(B)缺the及of。(C)語意不符。"
+    },
+    {
+      "question_en": "He ___ in this company since 2010.",
+      "options": [
+        "works",
+        "worked",
+        "has worked",
+        "is working"
+      ],
+      "answer": 2,
+      "explanation_zh": "since + 過去時間點，動作從過去持續至今，須用現在完成式has worked，故選(C)。(A)為現在式。(B)為過去式。(D)為現在進行式。"
+    },
+    {
+      "question_en": "They ___ dinner when we arrived.",
+      "options": [
+        "have",
+        "had",
+        "were having",
+        "are having"
+      ],
+      "answer": 2,
+      "explanation_zh": "我們到達時，他們正在用餐，須用過去進行式were having，故選(C)。(A)為現在式。(B)為過去式表完成。(D)為現在進行式。"
+    },
+    {
+      "question_en": "I'll call you when I ___ home.",
+      "options": [
+        "get",
+        "will get",
+        "got",
+        "am getting"
+      ],
+      "answer": 0,
+      "explanation_zh": "when引導的時間副詞子句中以現在式代替未來式，故選(A)get。(B)未來式不可用於時間子句。(C)為過去式。(D)為現在進行式。"
+    },
+    {
+      "question_en": "Before you ___ the room, please turn off the lights.",
+      "options": [
+        "leave",
+        "will leave",
+        "left",
+        "leaving"
+      ],
+      "answer": 0,
+      "explanation_zh": "before引導的時間副詞子句中以現在式代替未來式，故選(A)leave。(B)未來式不可用於時間子句。(C)為過去式。(D)為動名詞。"
+    },
+    {
+      "question_en": "We'll wait here until the rain ___.",
+      "options": [
+        "will stop",
+        "stopped",
+        "is stopping",
+        "stops"
+      ],
+      "answer": 3,
+      "explanation_zh": "until為時間連接詞，子句中以現在式代替未來式，故選(D)stops。(A)未來式不可用於時間子句。(B)為過去式。(C)為現在進行式。"
+    },
+    {
+      "question_en": "As soon as she ___ the news, she will call you.",
+      "options": [
+        "will hear",
+        "heard",
+        "is hearing",
+        "hears"
+      ],
+      "answer": 3,
+      "explanation_zh": "as soon as為時間連接詞，子句中以現在式代替未來式，故選(D)hears。(A)未來式不可用於時間子句。(B)為過去式。(C)hear狀態動詞不用進行式。"
+    },
+    {
+      "question_en": "After I ___ this book, I'll lend it to you.",
+      "options": [
+        "will finish",
+        "finished",
+        "am finishing",
+        "finish"
+      ],
+      "answer": 3,
+      "explanation_zh": "after為時間連接詞，子句中以現在式代替未來式，故選(D)finish。(A)未來式不可用於時間子句。(B)為過去式。(C)為現在進行式。"
+    },
+    {
+      "question_en": "When you ___ at the airport, please send me a message.",
+      "options": [
+        "arrive",
+        "will arrive",
+        "arrived",
+        "arriving"
+      ],
+      "answer": 0,
+      "explanation_zh": "when為時間連接詞，子句中以現在式代替未來式，故選(A)arrive。(B)未來式不可用於時間子句。(C)為過去式。(D)為動名詞。"
+    },
+    {
+      "question_en": "I'll have dinner ready by the time you ___ home.",
+      "options": [
+        "will come",
+        "came",
+        "are coming",
+        "come"
+      ],
+      "answer": 3,
+      "explanation_zh": "by the time為時間連接詞，子句中以現在式代替未來式，故選(D)come。(A)未來式不可用於時間子句。(B)為過去式。(C)為現在進行式。"
+    },
+    {
+      "question_en": "Don't leave until I ___ back.",
+      "options": [
+        "come",
+        "will come",
+        "came",
+        "coming"
+      ],
+      "answer": 0,
+      "explanation_zh": "until為時間連接詞，子句中以現在式代替未來式，故選(A)come。(B)未來式不可用於時間子句。(C)為過去式。(D)為動名詞。"
+    },
+    {
+      "question_en": "Once the cake ___ ready, we'll eat it.",
+      "options": [
+        "will be",
+        "was",
+        "being",
+        "is"
+      ],
+      "answer": 3,
+      "explanation_zh": "once為時間連接詞，子句中以現在式代替未來式，故選(D)is。(A)未來式不可用於時間子句。(B)為過去式。(C)為動名詞。"
+    },
+    {
+      "question_en": "My grandfather ___ a heavy smoker, but now he doesn't smoke at all.",
+      "options": [
+        "used to be",
+        "was used to",
+        "is used to",
+        "uses to be"
+      ],
+      "answer": 0,
+      "explanation_zh": "used to + 原形表過去狀態(現在不再如此)，故選(A)used to be。(B)was used to為「過去習慣於」後接動名詞。(C)為現在習慣於。(D)拼字錯誤。"
+    },
+    {
+      "question_en": "I ___ have long hair, but I cut it last month.",
+      "options": [
+        "used to",
+        "would",
+        "was used to",
+        "am used to"
+      ],
+      "answer": 0,
+      "explanation_zh": "used to可表過去狀態(長頭髮為狀態)，would不可用於狀態，故選(A)。(B)would不用於過去狀態。(C)為過去習慣於後接動名詞。(D)為現在習慣於。"
+    },
+    {
+      "question_en": "When my dad was young, he ___ ride his bike to school.",
+      "options": [
+        "use to",
+        "used to",
+        "is used to",
+        "was used to"
+      ],
+      "answer": 1,
+      "explanation_zh": "used to + 原形表過去習慣，故選(B)。(A)拼字錯誤。(C)為現在習慣於。(D)為過去習慣於後接動名詞。"
+    },
+    {
+      "question_en": "On rainy days, we ___ stay home and play board games.",
+      "options": [
+        "will",
+        "are",
+        "have",
+        "would"
+      ],
+      "answer": 3,
+      "explanation_zh": "would + 原形表過去重複性習慣動作，故選(D)。(A)為未來式。(B)語意不完整。(C)為完成式助動詞。"
+    },
+    {
+      "question_en": "Look! Someone ___ on your bicycle.",
+      "options": [
+        "sits",
+        "is sitting",
+        "sat",
+        "has sat"
+      ],
+      "answer": 1,
+      "explanation_zh": "Look!與當下情景顯示現在正在進行，須用現在進行式is sitting，故選(B)。(A)為現在式。(C)為過去式。(D)為現在完成式。"
+    },
+    {
+      "question_en": "By 2030, scientists ___ a cure for cancer.",
+      "options": [
+        "find",
+        "will find",
+        "will have found",
+        "are finding"
+      ],
+      "answer": 2,
+      "explanation_zh": "By 2030為未來時間點，到那時前完成的動作須用未來完成式will have found，故選(C)。(A)為現在式。(B)為未來簡單式。(D)為現在進行式。"
+    },
+    {
+      "question_en": "My sister ___ the violin for over ten years.",
+      "options": [
+        "plays",
+        "has played",
+        "is playing",
+        "played"
+      ],
+      "answer": 1,
+      "explanation_zh": "for + 一段時間表持續至今，須用現在完成式has played，故選(B)。(A)為現在式。(C)為現在進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "I ___ this movie three times already.",
+      "options": [
+        "see",
+        "saw",
+        "have seen",
+        "had seen"
+      ],
+      "answer": 2,
+      "explanation_zh": "already與次數顯示至今的經驗，須用現在完成式have seen，故選(C)。(A)為現在式。(B)為過去式。(D)為過去完成式。"
+    },
+    {
+      "question_en": "They ___ for the bus when I saw them this morning.",
+      "options": [
+        "wait",
+        "were waiting",
+        "have waited",
+        "waited"
+      ],
+      "answer": 1,
+      "explanation_zh": "看到他們時他們正在等公車，須用過去進行式were waiting，故選(B)。(A)為現在式。(C)為現在完成式。(D)為過去式表完成。"
+    },
+    {
+      "question_en": "The Earth ___ around the Sun.",
+      "options": [
+        "revolve",
+        "revolves",
+        "is revolving",
+        "revolved"
+      ],
+      "answer": 1,
+      "explanation_zh": "科學事實須用現在簡單式，主詞單數加s為revolves，故選(B)。(A)為原形。(C)永恆真理不用進行式。(D)為過去式。"
+    },
+    {
+      "question_en": "He hurt his leg while he ___ basketball.",
+      "options": [
+        "plays",
+        "played",
+        "was playing",
+        "has played"
+      ],
+      "answer": 2,
+      "explanation_zh": "受傷時正在進行的動作須用過去進行式was playing，故選(C)。(A)為現在式。(B)為過去式表完成。(D)為現在完成式。"
+    },
+    {
+      "question_en": "She ___ him for years before they got married.",
+      "options": [
+        "dates",
+        "dated",
+        "had dated",
+        "has dated"
+      ],
+      "answer": 2,
+      "explanation_zh": "結婚前已交往多年，須用過去完成式had dated，故選(C)。(A)為現在式。(B)為過去式。(D)為現在完成式。"
+    },
+    {
+      "question_en": "___ I help you with the dishes?",
+      "options": [
+        "Must",
+        "Should",
+        "Would",
+        "Shall"
+      ],
+      "answer": 3,
+      "explanation_zh": "Shall I...?為提供幫助的常見用法，故選(D)。(A)為必須。(B)Should亦可但Shall更地道。(C)Would用法不同。"
+    },
+    {
+      "question_en": "Children ___ obey their parents.",
+      "options": [
+        "may",
+        "might",
+        "would",
+        "should"
+      ],
+      "answer": 3,
+      "explanation_zh": "道德建議或應該做的事須用should，故選(D)。(A)表許可。(B)表可能。(C)為過去意願。"
+    },
+    {
+      "question_en": "If it ___ tomorrow, we will cancel the picnic.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained",
+        "would rain"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一條件句：if 子句用現在簡單式（A）rains，主句用 will。（B）will rain 在 if 子句不可用 will。（C）rained 為過去式，屬第二條件。（D）would rain 屬第二條件主句形式。"
+    },
+    {
+      "question_en": "If you study hard, you ___ pass the exam.",
+      "options": [
+        "would",
+        "will",
+        "would have",
+        "had"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一條件句主句用 will（B）。（A）would 屬第二條件。（C）would have 屬第三條件。（D）had 文法不通。"
+    },
+    {
+      "question_en": "If she ___ time, she will help you.",
+      "options": [
+        "had",
+        "will have",
+        "has",
+        "would have"
+      ],
+      "answer": 2,
+      "explanation_zh": "第一條件句 if 子句用現在式（C）has。（A）had 屬第二條件。（B）will have 在 if 子句中不可用。（D）would have 屬第三條件。"
+    },
+    {
+      "question_en": "We ___ go to the beach if the weather is good.",
+      "options": [
+        "would",
+        "would have",
+        "had",
+        "will"
+      ],
+      "answer": 3,
+      "explanation_zh": "第一條件句主句用 will（D）。（A）would 屬第二條件。（B）would have 屬第三條件。（C）had 文法不通。"
+    },
+    {
+      "question_en": "If he ___ the bus, he will be late.",
+      "options": [
+        "misses",
+        "missed",
+        "will miss",
+        "would miss"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一條件句 if 子句用現在式（A）misses。（B）missed 屬第二條件。（C）will miss 在 if 子句中不可用。（D）would miss 為主句形式。"
+    },
+    {
+      "question_en": "You will get sick if you ___ enough sleep.",
+      "options": [
+        "didn't get",
+        "don't get",
+        "won't get",
+        "wouldn't get"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一條件句 if 子句用現在式否定（B）don't get。（A）didn't get 屬第二條件。（C）won't get 在 if 子句中不可用 will。（D）wouldn't get 屬第二條件主句。"
+    },
+    {
+      "question_en": "If they ___ early, they can catch the train.",
+      "options": [
+        "left",
+        "will leave",
+        "would leave",
+        "leave"
+      ],
+      "answer": 3,
+      "explanation_zh": "第一條件句 if 子句用現在式（D）leave，主句用 can。（A）left 屬第二條件。（B）（C）形式錯誤。"
+    },
+    {
+      "question_en": "If you ___ Mary, tell her to call me.",
+      "options": [
+        "saw",
+        "see",
+        "will see",
+        "would see"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一條件句 if 子句用現在式（B）see。（A）（C）（D）形式錯誤。"
+    },
+    {
+      "question_en": "He will be angry if you ___ late again.",
+      "options": [
+        "were",
+        "will be",
+        "are",
+        "would be"
+      ],
+      "answer": 2,
+      "explanation_zh": "第一條件句 if 子句用現在式（C）are。（A）were 屬第二條件。（B）will be 在 if 子句不可用。（D）would be 屬第二條件。"
+    },
+    {
+      "question_en": "If it ___ cold tonight, take a jacket.",
+      "options": [
+        "got",
+        "will get",
+        "would get",
+        "gets"
+      ],
+      "answer": 3,
+      "explanation_zh": "第一條件句搭配祈使句，if 子句用現在式（D）gets。（A）got 為過去式。（B）（C）形式錯誤。"
+    },
+    {
+      "question_en": "If we ___ now, we'll arrive on time.",
+      "options": [
+        "leave",
+        "left",
+        "would leave",
+        "had left"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一條件句 if 子句用現在式（A）leave。（B）屬第二條件。（C）屬第二條件主句。（D）屬第三條件。"
+    },
+    {
+      "question_en": "What ___ you do if it rains?",
+      "options": [
+        "would",
+        "will",
+        "do",
+        "are"
+      ],
+      "answer": 1,
+      "explanation_zh": "第一條件問句主句用 will（B）。（A）would 屬第二條件。（C）do 文法不通。（D）are 文法不通。"
+    },
+    {
+      "question_en": "If she ___ harder, she can win.",
+      "options": [
+        "tried",
+        "will try",
+        "tries",
+        "would try"
+      ],
+      "answer": 2,
+      "explanation_zh": "第一條件句 if 子句用現在式（C）tries，主句用 can。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "If the store ___ open, we'll buy some milk.",
+      "options": [
+        "was",
+        "will be",
+        "would be",
+        "is"
+      ],
+      "answer": 3,
+      "explanation_zh": "第一條件句 if 子句用現在式（D）is。（A）was 屬第二條件。（B）（C）形式不符。"
+    },
+    {
+      "question_en": "If I ___ rich, I would travel the world.",
+      "options": [
+        "am",
+        "were",
+        "will be",
+        "had been"
+      ],
+      "answer": 1,
+      "explanation_zh": "第二條件句 if 子句用過去式，be 動詞用 were（B）。（A）am 屬第一條件。（C）will be 在 if 子句不可用。（D）had been 屬第三條件。"
+    },
+    {
+      "question_en": "If he ___ here, he would help us.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "had been"
+      ],
+      "answer": 0,
+      "explanation_zh": "第二條件句 if 子句 be 動詞用 were（A）。（B）is 屬第一條件。（C）形式不符。（D）had been 屬第三條件。"
+    },
+    {
+      "question_en": "She ___ buy a new car if she had the money.",
+      "options": [
+        "will",
+        "had",
+        "would have",
+        "would"
+      ],
+      "answer": 3,
+      "explanation_zh": "第二條件句主句用 would（D）。（A）will 屬第一條件。（C）would have 屬第三條件。（B）had 文法不通。"
+    },
+    {
+      "question_en": "If I ___ you, I would apologize.",
+      "options": [
+        "am",
+        "were",
+        "will be",
+        "had been"
+      ],
+      "answer": 1,
+      "explanation_zh": "假設語氣 If I were you，be 動詞用 were（B）。（A）am 不適合假設句。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If they ___ more time, they could finish the project.",
+      "options": [
+        "have",
+        "will have",
+        "had",
+        "would have"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二條件句 if 子句用過去式（C）had，主句用 could。（A）have 屬第一條件。（B）（D）形式不符。"
+    },
+    {
+      "question_en": "What would you do if you ___ a million dollars?",
+      "options": [
+        "won",
+        "win",
+        "will win",
+        "had won"
+      ],
+      "answer": 0,
+      "explanation_zh": "第二條件問句 if 子句用過去式（A）won。（B）win 屬第一條件。（C）形式不符。（D）had won 屬第三條件。"
+    },
+    {
+      "question_en": "If she ___ harder, she would get better grades.",
+      "options": [
+        "studies",
+        "will study",
+        "had studied",
+        "studied"
+      ],
+      "answer": 3,
+      "explanation_zh": "第二條件句 if 子句用過去式（D）studied。（A）studies 屬第一條件。（B）形式不符。（C）had studied 屬第三條件。"
+    },
+    {
+      "question_en": "I ___ travel more if I had more vacation days.",
+      "options": [
+        "would",
+        "will",
+        "would have",
+        "had"
+      ],
+      "answer": 0,
+      "explanation_zh": "第二條件句主句用 would（A）。（B）will 屬第一條件。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If he ___ a car, he would drive to work.",
+      "options": [
+        "has",
+        "had",
+        "will have",
+        "had had"
+      ],
+      "answer": 1,
+      "explanation_zh": "第二條件句 if 子句用過去式（B）had。（A）has 屬第一條件。（C）形式不符。（D）had had 屬第三條件。"
+    },
+    {
+      "question_en": "If I ___ taller, I could play basketball professionally.",
+      "options": [
+        "am",
+        "will be",
+        "had been",
+        "were"
+      ],
+      "answer": 3,
+      "explanation_zh": "第二條件句 be 動詞用 were（D）。（A）（B）（C）形式不符假設語氣。"
+    },
+    {
+      "question_en": "They would visit us if they ___ in town.",
+      "options": [
+        "were",
+        "are",
+        "will be",
+        "had been"
+      ],
+      "answer": 0,
+      "explanation_zh": "第二條件句 if 子句 be 動詞用 were（A）。（B）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If we ___ a bigger house, we would invite more friends.",
+      "options": [
+        "have",
+        "will have",
+        "had",
+        "had had"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二條件句 if 子句用過去式（C）had。（A）（B）（D）均不符。"
+    },
+    {
+      "question_en": "I would tell you if I ___ the answer.",
+      "options": [
+        "know",
+        "will know",
+        "knew",
+        "had known"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二條件句 if 子句用過去式（C）knew。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "If it ___ raining, we would go for a walk.",
+      "options": [
+        "weren't",
+        "isn't",
+        "won't be",
+        "hadn't been"
+      ],
+      "answer": 0,
+      "explanation_zh": "第二條件句 be 動詞用 weren't（A）。（B）屬第一條件。（C）形式錯誤。（D）屬第三條件。"
+    },
+    {
+      "question_en": "If she ___ here right now, she would be happy.",
+      "options": [
+        "is",
+        "will be",
+        "had been",
+        "were"
+      ],
+      "answer": 3,
+      "explanation_zh": "第二條件句 be 動詞用 were（D）。（A）（B）（C）形式不符。"
+    },
+    {
+      "question_en": "If I had known, I ___ told you.",
+      "options": [
+        "will have",
+        "would",
+        "had",
+        "would have"
+      ],
+      "answer": 3,
+      "explanation_zh": "第三條件句主句用 would have + 過去分詞（D）。（A）形式錯誤。（B）would 屬第二條件。（C）had 文法不通。"
+    },
+    {
+      "question_en": "She would have come if you ___ her.",
+      "options": [
+        "invite",
+        "invited",
+        "had invited",
+        "would invite"
+      ],
+      "answer": 2,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（C）had invited。（A）屬第一條件。（B）屬第二條件。（D）形式錯誤。"
+    },
+    {
+      "question_en": "If we ___ earlier, we wouldn't have missed the train.",
+      "options": [
+        "had left",
+        "left",
+        "leave",
+        "would leave"
+      ],
+      "answer": 0,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（A）had left。（B）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "He ___ the job if he had applied.",
+      "options": [
+        "will get",
+        "would get",
+        "would have got",
+        "had got"
+      ],
+      "answer": 2,
+      "explanation_zh": "第三條件句主句用 would have + 過去分詞（C）would have got。（A）屬第一條件。（B）屬第二條件。（D）形式錯誤。"
+    },
+    {
+      "question_en": "If I ___ about the meeting, I would have attended.",
+      "options": [
+        "know",
+        "had known",
+        "knew",
+        "would know"
+      ],
+      "answer": 1,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（B）had known。（A）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "They would have helped if you ___ them.",
+      "options": [
+        "ask",
+        "asked",
+        "would ask",
+        "had asked"
+      ],
+      "answer": 3,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（D）had asked。（A）（B）（C）形式不符。"
+    },
+    {
+      "question_en": "If she ___ harder, she would have passed.",
+      "options": [
+        "studies",
+        "studied",
+        "had studied",
+        "would study"
+      ],
+      "answer": 2,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（C）had studied。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "I would have called you if I ___ your number.",
+      "options": [
+        "had had",
+        "had",
+        "have",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（A）had had。（B）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If he ___ the bus, he wouldn't have been late.",
+      "options": [
+        "catches",
+        "had caught",
+        "caught",
+        "would catch"
+      ],
+      "answer": 1,
+      "explanation_zh": "第三條件句 if 子句用 had + 過去分詞（B）had caught。（A）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If I had studied medicine, I ___ a doctor now.",
+      "options": [
+        "am",
+        "was",
+        "would be",
+        "would have been"
+      ],
+      "answer": 2,
+      "explanation_zh": "混合條件句：過去條件（had studied）+ 現在結果，主句用 would + 原形（C）would be。（A）（B）形式不符。（D）would have been 為純第三條件。"
+    },
+    {
+      "question_en": "If she weren't so shy, she ___ asked him out yesterday.",
+      "options": [
+        "would have",
+        "will have",
+        "would",
+        "had"
+      ],
+      "answer": 0,
+      "explanation_zh": "混合條件句：現在條件（weren't）+ 過去結果，主句用 would have + 過去分詞（A）。（B）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If you had taken the medicine, you ___ better now.",
+      "options": [
+        "are",
+        "were",
+        "would have felt",
+        "would feel"
+      ],
+      "answer": 3,
+      "explanation_zh": "混合條件句：過去條件 + 現在結果，主句用 would + 原形（D）would feel。（C）屬純第三條件。"
+    },
+    {
+      "question_en": "If I ___ more careful, I wouldn't be in this trouble.",
+      "options": [
+        "am",
+        "were",
+        "had been",
+        "will be"
+      ],
+      "answer": 2,
+      "explanation_zh": "混合條件句：過去條件 + 現在結果，if 子句用 had + 過去分詞（C）had been。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "If he ___ a better student, he would have got the scholarship.",
+      "options": [
+        "is",
+        "were",
+        "had been",
+        "will be"
+      ],
+      "answer": 1,
+      "explanation_zh": "混合條件句：現在/一般狀態條件（were）+ 過去結果。（B）were 描述一直以來的狀態。（A）（C）（D）形式不符此用法。"
+    },
+    {
+      "question_en": "___ you study hard, you will fail.",
+      "options": [
+        "If",
+        "As long as",
+        "Unless",
+        "Provided"
+      ],
+      "answer": 2,
+      "explanation_zh": "unless = if not（C）。（A）If 語意相反。（B）As long as 表只要。（D）Provided 表前提，語意均不符。"
+    },
+    {
+      "question_en": "You can borrow my car ___ you drive carefully.",
+      "options": [
+        "unless",
+        "if not",
+        "whether",
+        "as long as"
+      ],
+      "answer": 3,
+      "explanation_zh": "as long as 表只要（D）。（A）unless 語意相反。（B）if not 語意相反。（C）whether 表是否。"
+    },
+    {
+      "question_en": "___ that you finish on time, you can leave early.",
+      "options": [
+        "Unless",
+        "If not",
+        "Whether",
+        "Provided"
+      ],
+      "answer": 3,
+      "explanation_zh": "Provided (that) 表前提條件（D）。（A）Unless 語意相反。（B）If not 語意相反。（C）Whether 表是否。"
+    },
+    {
+      "question_en": "___ if it rains tomorrow? Should we cancel?",
+      "options": [
+        "What",
+        "How",
+        "When",
+        "Why"
+      ],
+      "answer": 0,
+      "explanation_zh": "What if 表假設（A）。（B）（C）（D）均不構成此固定句型。"
+    },
+    {
+      "question_en": "I won't go ___ you come with me.",
+      "options": [
+        "if",
+        "unless",
+        "as long as",
+        "provided"
+      ],
+      "answer": 1,
+      "explanation_zh": "unless = if not，表除非（B）。（A）if 語意需加 not。（C）（D）表只要，語意不符。"
+    },
+    {
+      "question_en": "___ I known about the traffic, I would have left earlier.",
+      "options": [
+        "If",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answer": 1,
+      "explanation_zh": "倒裝條件句：Had I known = If I had known（B）。（A）If 不可倒裝。（C）Were 用於現在/be。（D）Should 用於可能性。"
+    },
+    {
+      "question_en": "___ you to need help, please call me.",
+      "options": [
+        "If",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answer": 2,
+      "explanation_zh": "Were you to = If you were to（C），表未來假設。（A）不可倒裝。（B）（D）形式不符。"
+    },
+    {
+      "question_en": "___ you have any questions, feel free to ask.",
+      "options": [
+        "If",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answer": 3,
+      "explanation_zh": "Should you = If you should（D），表可能性。（A）不可倒裝。（B）（C）形式不符。"
+    },
+    {
+      "question_en": "___ I been there, I would have helped.",
+      "options": [
+        "Had",
+        "If",
+        "Were",
+        "Should"
+      ],
+      "answer": 0,
+      "explanation_zh": "Had I been = If I had been（A），第三條件倒裝。（B）不可倒裝。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "___ he to apologize, I would forgive him.",
+      "options": [
+        "If",
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answer": 2,
+      "explanation_zh": "Were he to = If he were to（C），未來假設倒裝。（A）不可倒裝。（B）（D）形式不符。"
+    },
+    {
+      "question_en": "The cake ___ by my mother yesterday.",
+      "options": [
+        "bakes",
+        "is baked",
+        "was baked",
+        "baking"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動式過去簡單：was/were + 過去分詞（C）was baked。（A）主動。（B）現在被動。（D）非完整動詞形式。"
+    },
+    {
+      "question_en": "The letter ___ tomorrow morning.",
+      "options": [
+        "will be sent",
+        "will send",
+        "is sent",
+        "was sent"
+      ],
+      "answer": 0,
+      "explanation_zh": "被動式未來：will be + 過去分詞（A）。（B）主動。（C）現在被動。（D）過去被動。"
+    },
+    {
+      "question_en": "The report ___ now.",
+      "options": [
+        "is writing",
+        "writes",
+        "was written",
+        "is being written"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動式現在進行：is being + 過去分詞（D）。（A）主動進行。（B）主動。（C）過去被動。"
+    },
+    {
+      "question_en": "The bridge ___ since last year.",
+      "options": [
+        "builds",
+        "is built",
+        "has been built",
+        "was building"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動式現在完成：has/have been + 過去分詞（C）has been built。（A）主動。（B）現在被動。（D）形式不符。"
+    },
+    {
+      "question_en": "The house ___ when we arrived.",
+      "options": [
+        "was being cleaned",
+        "was cleaning",
+        "cleaned",
+        "is cleaned"
+      ],
+      "answer": 0,
+      "explanation_zh": "被動式過去進行：was/were being + 過去分詞（A）。（B）主動進行。（C）主動。（D）現在被動。"
+    },
+    {
+      "question_en": "The project ___ by the end of this month.",
+      "options": [
+        "will finish",
+        "is finished",
+        "was finished",
+        "will be finished"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動式未來：will be + 過去分詞（D）。（A）主動。（B）現在被動。（C）過去被動。"
+    },
+    {
+      "question_en": "English ___ all over the world.",
+      "options": [
+        "speaks",
+        "is spoken",
+        "spoke",
+        "speaking"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動式現在簡單：is + 過去分詞（B）is spoken。（A）主動。（C）過去式。（D）非完整動詞。"
+    },
+    {
+      "question_en": "The window ___ by the strong wind.",
+      "options": [
+        "was broken",
+        "broke",
+        "is broken",
+        "breaks"
+      ],
+      "answer": 0,
+      "explanation_zh": "被動式過去簡單：was + 過去分詞（A）was broken。（B）主動過去。（C）現在被動。（D）主動現在。"
+    },
+    {
+      "question_en": "This song ___ by the band before.",
+      "options": [
+        "has performed",
+        "is performed",
+        "was performing",
+        "has been performed"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動式現在完成：has been + 過去分詞（D）。（A）主動完成。（B）現在被動。（C）過去進行。"
+    },
+    {
+      "question_en": "The dishes ___ at the moment.",
+      "options": [
+        "are washing",
+        "are being washed",
+        "wash",
+        "were washed"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動式現在進行：are being + 過去分詞（B）。（A）主動進行。（C）主動。（D）過去被動。"
+    },
+    {
+      "question_en": "The new policy ___ next month.",
+      "options": [
+        "introduces",
+        "is introduced",
+        "will be introduced",
+        "was introduced"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動式未來：will be + 過去分詞（C）。（A）主動。（B）現在被動。（D）過去被動。"
+    },
+    {
+      "question_en": "The keys ___ on the table when she came in.",
+      "options": [
+        "leave",
+        "were left",
+        "are left",
+        "leaving"
+      ],
+      "answer": 1,
+      "explanation_zh": "被動式過去簡單：were + 過去分詞（B）were left。（A）主動原形。（C）現在被動。（D）非完整動詞。"
+    },
+    {
+      "question_en": "The package ___ already.",
+      "options": [
+        "has delivered",
+        "is delivered",
+        "delivered",
+        "has been delivered"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動式現在完成：has been + 過去分詞（D）。（A）主動完成。（B）現在被動。（C）主動過去。"
+    },
+    {
+      "question_en": "The car ___ when I saw it.",
+      "options": [
+        "was being repaired",
+        "was repairing",
+        "is repaired",
+        "repaired"
+      ],
+      "answer": 0,
+      "explanation_zh": "被動式過去進行：was being + 過去分詞（A）。（B）主動進行。（C）現在被動。（D）主動過去。"
+    },
+    {
+      "question_en": "This homework ___ by tomorrow.",
+      "options": [
+        "must finish",
+        "must be finished",
+        "is finished",
+        "finished"
+      ],
+      "answer": 1,
+      "explanation_zh": "情態被動：must be + 過去分詞（B）。（A）主動形式。（C）現在被動陳述。（D）主動過去。"
+    },
+    {
+      "question_en": "The report ___ before the meeting.",
+      "options": [
+        "should be reviewed",
+        "should review",
+        "reviewed",
+        "reviews"
+      ],
+      "answer": 0,
+      "explanation_zh": "情態被動：should be + 過去分詞（A）。（B）主動。（C）（D）形式不符被動。"
+    },
+    {
+      "question_en": "This problem ___ immediately.",
+      "options": [
+        "can solve",
+        "solves",
+        "can be solved",
+        "solved"
+      ],
+      "answer": 2,
+      "explanation_zh": "情態被動：can be + 過去分詞（C）。（A）主動。（B）（D）形式不符。"
+    },
+    {
+      "question_en": "All visitors ___ at the entrance.",
+      "options": [
+        "might check",
+        "check",
+        "checking",
+        "might be checked"
+      ],
+      "answer": 3,
+      "explanation_zh": "情態被動：might be + 過去分詞（D）。（A）主動。（B）（C）形式不符。"
+    },
+    {
+      "question_en": "The documents ___ confidential.",
+      "options": [
+        "must be kept",
+        "must keep",
+        "keeps",
+        "keeping"
+      ],
+      "answer": 0,
+      "explanation_zh": "情態被動：must be + 過去分詞（A）。（B）主動。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "She had her car ___ at the garage.",
+      "options": [
+        "repair",
+        "repaired",
+        "repairing",
+        "to repair"
+      ],
+      "answer": 1,
+      "explanation_zh": "have something done：had her car repaired（B）。（A）（C）（D）形式錯誤。"
+    },
+    {
+      "question_en": "They are having their house ___ this week.",
+      "options": [
+        "paint",
+        "painting",
+        "painted",
+        "to paint"
+      ],
+      "answer": 2,
+      "explanation_zh": "have something done 進行式：having + 物 + 過去分詞（C）painted。（A）（B）（D）形式錯誤。"
+    },
+    {
+      "question_en": "I need to have my watch ___.",
+      "options": [
+        "fix",
+        "fixing",
+        "to fix",
+        "fixed"
+      ],
+      "answer": 3,
+      "explanation_zh": "have + 物 + 過去分詞：have my watch fixed（D）。（A）（B）（C）形式錯誤。"
+    },
+    {
+      "question_en": "He had his suit ___ for the wedding.",
+      "options": [
+        "clean",
+        "cleaned",
+        "cleaning",
+        "to clean"
+      ],
+      "answer": 1,
+      "explanation_zh": "have + 物 + 過去分詞：had his suit cleaned（B）。（A）（C）（D）形式錯誤。"
+    },
+    {
+      "question_en": "He ___ promoted last month.",
+      "options": [
+        "got",
+        "was",
+        "is",
+        "has"
+      ],
+      "answer": 0,
+      "explanation_zh": "get-passive 強調動作發生：got promoted（A）。（B）was 雖文法可，但題型強調動作改變用 get。（C）（D）形式不符 promoted 過去分詞配合過去時間。"
+    },
+    {
+      "question_en": "She ___ married last summer.",
+      "options": [
+        "was",
+        "got",
+        "is",
+        "becomes"
+      ],
+      "answer": 1,
+      "explanation_zh": "get married 為常見 get-passive 慣用語（B）。（A）was married 表狀態，題意「結婚」動作用 got。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "Be careful or you'll ___ hurt.",
+      "options": [
+        "be",
+        "become",
+        "get",
+        "have"
+      ],
+      "answer": 2,
+      "explanation_zh": "get hurt 為 get-passive，表受傷動作（C）。（A）be hurt 較弱。（B）（D）搭配不自然。"
+    },
+    {
+      "question_en": "My phone ___ stolen on the bus.",
+      "options": [
+        "was",
+        "is",
+        "has",
+        "got"
+      ],
+      "answer": 3,
+      "explanation_zh": "get-passive 強調意外動作：got stolen（D）。（A）was 較中性。（B）（C）形式不符。"
+    },
+    {
+      "question_en": "They ___ divorced after ten years.",
+      "options": [
+        "were",
+        "got",
+        "are",
+        "have"
+      ],
+      "answer": 1,
+      "explanation_zh": "get divorced 為 get-passive 慣用語（B）。（A）were 較不自然。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "I wish I ___ taller.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "will be"
+      ],
+      "answer": 2,
+      "explanation_zh": "wish + 過去式假設語氣，be 動詞用 were（C）。（A）（B）（D）形式不符假設語氣。"
+    },
+    {
+      "question_en": "She wishes she ___ more money.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation_zh": "wish + 過去式表現在願望（A）had。（B）現在式。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "I wish I ___ harder for the exam.",
+      "options": [
+        "studied",
+        "study",
+        "had studied",
+        "will study"
+      ],
+      "answer": 2,
+      "explanation_zh": "wish + 過去完成式表對過去的遺憾（C）had studied。（A）表現在願望。（B）（D）形式不符。"
+    },
+    {
+      "question_en": "He wishes he ___ that car last year.",
+      "options": [
+        "bought",
+        "buys",
+        "would buy",
+        "had bought"
+      ],
+      "answer": 3,
+      "explanation_zh": "wish + 過去完成式表對過去的遺憾（D）had bought。（A）（B）（C）形式不符。"
+    },
+    {
+      "question_en": "I wish you ___ here yesterday.",
+      "options": [
+        "had been",
+        "are",
+        "were",
+        "will be"
+      ],
+      "answer": 0,
+      "explanation_zh": "wish + 過去完成式表對過去的遺憾（A）had been。（B）（C）（D）形式不符。"
+    },
+    {
+      "question_en": "If only I ___ the truth!",
+      "options": [
+        "know",
+        "knew",
+        "had known",
+        "will know"
+      ],
+      "answer": 1,
+      "explanation_zh": "If only + 過去式表現在願望（B）knew。（A）（D）形式不符。（C）had known 表對過去的遺憾，此處語意指現在。"
+    },
+    {
+      "question_en": "It's time we ___ home.",
+      "options": [
+        "went",
+        "go",
+        "will go",
+        "have gone"
+      ],
+      "answer": 0,
+      "explanation_zh": "It's time + 過去式表該做某事（A）went。（B）（C）（D）形式不符假設語氣。"
+    },
+    {
+      "question_en": "I'd rather you ___ smoke here.",
+      "options": [
+        "don't",
+        "won't",
+        "didn't",
+        "haven't"
+      ],
+      "answer": 2,
+      "explanation_zh": "would rather + 過去式表偏好（C）didn't。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "If only he ___ here now to help us.",
+      "options": [
+        "is",
+        "will be",
+        "were",
+        "had been"
+      ],
+      "answer": 2,
+      "explanation_zh": "If only + 過去式表現在願望，be 動詞用 were（C）。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "It's high time you ___ a decision.",
+      "options": [
+        "make",
+        "will make",
+        "had made",
+        "made"
+      ],
+      "answer": 3,
+      "explanation_zh": "It's high time + 過去式表該做某事（D）made。（A）（B）（C）形式不符假設語氣。"
+    },
+    {
+      "question_en": "He said he ___ tired.",
+      "options": [
+        "is",
+        "was",
+        "will be",
+        "has been"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接引述時態後退：is 變 was（B）。（A）未後退。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "She told me she ___ the book.",
+      "options": [
+        "had read",
+        "reads",
+        "read",
+        "will read"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述時態後退：has read/read 變 had read（A）。（B）（C）（D）形式不符後退。"
+    },
+    {
+      "question_en": "They said they ___ come the next day.",
+      "options": [
+        "will",
+        "can",
+        "would",
+        "may"
+      ],
+      "answer": 2,
+      "explanation_zh": "間接引述時態後退：will 變 would（C）。（A）未後退。（B）（D）語意不符。"
+    },
+    {
+      "question_en": "He explained that he ___ working there for years.",
+      "options": [
+        "had been",
+        "is",
+        "was",
+        "has been"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接引述時態後退：has been 變 had been（A）。（B）（C）（D）形式不符後退。"
+    },
+    {
+      "question_en": "He asked me ___ I was hungry.",
+      "options": [
+        "that",
+        "what",
+        "if",
+        "when"
+      ],
+      "answer": 2,
+      "explanation_zh": "間接 yes/no 問句用 if/whether（C）。（A）that 用於陳述。（B）what 用於 wh-問句。（D）when 為時間問句。"
+    },
+    {
+      "question_en": "She asked me where ___.",
+      "options": [
+        "do I live",
+        "I lived",
+        "I live",
+        "did I live"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接問句用陳述語序並後退時態（B）I lived。（A）（D）保留疑問語序錯誤。（C）未後退時態。"
+    },
+    {
+      "question_en": "The teacher told us ___ quiet.",
+      "options": [
+        "be",
+        "being",
+        "that be",
+        "to be"
+      ],
+      "answer": 3,
+      "explanation_zh": "tell + 受詞 + to V，間接命令（D）to be。（A）（B）（C）形式不符。"
+    },
+    {
+      "question_en": "He asked her ___ him.",
+      "options": [
+        "help",
+        "helping",
+        "to help",
+        "that help"
+      ],
+      "answer": 2,
+      "explanation_zh": "ask + 受詞 + to V，間接請求（C）to help。（A）（B）（D）形式不符。"
+    },
+    {
+      "question_en": "My mother told me ___ late.",
+      "options": [
+        "not to be",
+        "don't be",
+        "to not being",
+        "not be"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接命令否定用 not to + V（A）not to be。（B）直接命令。（C）（D）形式不符。"
+    },
+    {
+      "question_en": "The meeting will start ___ 9 a.m. sharp tomorrow.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 0,
+      "explanation_zh": "具體時刻用 at，故選（A）at。（B）on 用於日期或星期。（C）in 用於月份、年份或較長時段。（D）by 表示「在……之前」，語意不符。"
+    },
+    {
+      "question_en": "My grandfather was born ___ a cold morning in December.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "during"
+      ],
+      "answer": 1,
+      "explanation_zh": "特定日期或某天的早晨用 on，故選（B）on。（A）at 用於時刻。（C）in 用於月份或泛指上午。（D）during 用於整個期間，搭配不自然。"
+    },
+    {
+      "question_en": "She has lived in Taipei ___ 2010.",
+      "options": [
+        "for",
+        "by",
+        "from",
+        "since"
+      ],
+      "answer": 3,
+      "explanation_zh": "完成式搭配明確起點年份用 since，故選（D）since。（A）for 後接時間長度。（C）from 須與 to 連用。（B）by 表期限。"
+    },
+    {
+      "question_en": "I have studied Japanese ___ three years.",
+      "options": [
+        "since",
+        "in",
+        "during",
+        "for"
+      ],
+      "answer": 3,
+      "explanation_zh": "持續一段時間用 for，故選（D）for。（A）since 接時間點。（C）during 接事件名詞。（B）in 表「在……之內」或時段。"
+    },
+    {
+      "question_en": "Please finish the report ___ Friday afternoon.",
+      "options": [
+        "until",
+        "for",
+        "since",
+        "by"
+      ],
+      "answer": 3,
+      "explanation_zh": "「在某時間之前完成」用 by，故選（D）by。（A）until 表「持續到」。（C）since 表起點。（B）for 表期間。"
+    },
+    {
+      "question_en": "We waited ___ the rain stopped.",
+      "options": [
+        "by",
+        "for",
+        "since",
+        "until"
+      ],
+      "answer": 3,
+      "explanation_zh": "「等到……為止」用 until，故選（D）until。（A）by 表完成期限。（C）since 表起點。（B）for 表持續期間。"
+    },
+    {
+      "question_en": "The library is closed ___ the summer vacation.",
+      "options": [
+        "during",
+        "while",
+        "for",
+        "since"
+      ],
+      "answer": 0,
+      "explanation_zh": "接名詞片語表「在……期間」用 during，故選（A）during。（B）while 為連接詞接子句。（C）for 接時間長度。（D）since 表起點。"
+    },
+    {
+      "question_en": "He promised to return ___ a week.",
+      "options": [
+        "after",
+        "until",
+        "since",
+        "within"
+      ],
+      "answer": 3,
+      "explanation_zh": "「在一週之內」用 within，故選（D）within。（A）after 表「之後」。（C）since 表起點。（B）until 表持續到。"
+    },
+    {
+      "question_en": "My birthday falls ___ October.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 2,
+      "explanation_zh": "月份前用 in，故選（C）in。（A）at 用於時刻。（B）on 用於日期。（D）by 表期限。"
+    },
+    {
+      "question_en": "The shop opens ___ Mondays.",
+      "options": [
+        "at",
+        "by",
+        "in",
+        "on"
+      ],
+      "answer": 3,
+      "explanation_zh": "星期前用 on，故選（D）on。（A）at 用於時刻。（C）in 用於月份。（B）by 表期限。"
+    },
+    {
+      "question_en": "I will call you ___ the evening.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 2,
+      "explanation_zh": "in the evening 為固定搭配，故選（C）in。（A）at 用於 night。（B）on 用於 a specific evening。（D）by 表期限。"
+    },
+    {
+      "question_en": "She always reads a book ___ night.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 0,
+      "explanation_zh": "at night 為固定用法，故選（A）at。（B）on 不搭配 night。（C）in 不可單接 night。（D）by 語意不符。"
+    },
+    {
+      "question_en": "We must hand in the homework ___ tomorrow.",
+      "options": [
+        "until",
+        "in",
+        "since",
+        "by"
+      ],
+      "answer": 3,
+      "explanation_zh": "「最晚到明天」用 by，故選（D）by。（A）until 表持續。（C）since 表起點。（B）in 後接時段。"
+    },
+    {
+      "question_en": "He has been ill ___ last Sunday.",
+      "options": [
+        "for",
+        "in",
+        "by",
+        "since"
+      ],
+      "answer": 3,
+      "explanation_zh": "last Sunday 為時間點，搭配完成式用 since，故選（D）since。（A）for 接時間長度。（C）by 表期限。（B）in 不搭配此處。"
+    },
+    {
+      "question_en": "The conference will last ___ three days.",
+      "options": [
+        "since",
+        "until",
+        "by",
+        "for"
+      ],
+      "answer": 3,
+      "explanation_zh": "持續期間用 for，故選（D）for。（A）since 表起點。（C）by 表期限。（B）until 表持續到某點。"
+    },
+    {
+      "question_en": "The cat is hiding ___ the table.",
+      "options": [
+        "on",
+        "at",
+        "under",
+        "along"
+      ],
+      "answer": 2,
+      "explanation_zh": "「在桌子下面」用 under，故選（C）under。（A）on 在上面。（B）at 為地點。（D）along 沿著。"
+    },
+    {
+      "question_en": "There is a bridge ___ the river.",
+      "options": [
+        "over",
+        "on",
+        "at",
+        "into"
+      ],
+      "answer": 0,
+      "explanation_zh": "橋跨越河流用 over，故選（A）over。（B）on 表接觸面。（C）at 為地點。（D）into 表進入。"
+    },
+    {
+      "question_en": "She walked ___ the room and sat down.",
+      "options": [
+        "in",
+        "at",
+        "to",
+        "into"
+      ],
+      "answer": 3,
+      "explanation_zh": "表「進入動作」用 into，故選（D）into。（A）in 表靜態位置。（C）to 表方向終點。（B）at 為地點。"
+    },
+    {
+      "question_en": "The post office is ___ the bank and the school.",
+      "options": [
+        "among",
+        "across",
+        "along",
+        "between"
+      ],
+      "answer": 3,
+      "explanation_zh": "兩者之間用 between，故選（D）between。（A）among 用於三者以上。（C）along 沿著。（B）across 越過。"
+    },
+    {
+      "question_en": "He found the ring ___ the crowd.",
+      "options": [
+        "between",
+        "on",
+        "by",
+        "among"
+      ],
+      "answer": 3,
+      "explanation_zh": "三者以上之中用 among，故選（D）among。（A）between 用於兩者。（C）by 在旁邊。（B）on 接觸面。"
+    },
+    {
+      "question_en": "The plane is flying ___ the clouds.",
+      "options": [
+        "above",
+        "on",
+        "at",
+        "into"
+      ],
+      "answer": 0,
+      "explanation_zh": "「在……上方」用 above，故選（A）above。（B）on 表接觸。（C）at 為地點。（D）into 表進入。"
+    },
+    {
+      "question_en": "There is a beautiful park ___ my house.",
+      "options": [
+        "in front of",
+        "at",
+        "into",
+        "along"
+      ],
+      "answer": 0,
+      "explanation_zh": "「在我家前面」用 in front of，故選（A）。（B）at 為點。（C）into 表進入。（D）along 沿著。"
+    },
+    {
+      "question_en": "He climbed ___ the wall to escape.",
+      "options": [
+        "over",
+        "on",
+        "at",
+        "into"
+      ],
+      "answer": 0,
+      "explanation_zh": "翻越牆用 over，故選（A）over。（B）on 接觸。（C）at 為點。（D）into 進入。"
+    },
+    {
+      "question_en": "We drove ___ the tunnel in five minutes.",
+      "options": [
+        "across",
+        "along",
+        "over",
+        "through"
+      ],
+      "answer": 3,
+      "explanation_zh": "穿過隧道用 through，故選（D）through。（A）across 越過平面。（C）over 越過上方。（B）along 沿著。"
+    },
+    {
+      "question_en": "They walked ___ the bridge to the other side.",
+      "options": [
+        "through",
+        "along",
+        "over",
+        "across"
+      ],
+      "answer": 3,
+      "explanation_zh": "橫越橋面強調「越過」用 across，故選（D）across。（A）through 穿越。（C）over 強調上方。（B）along 沿著。"
+    },
+    {
+      "question_en": "The cat jumped ___ the chair.",
+      "options": [
+        "onto",
+        "at",
+        "in",
+        "along"
+      ],
+      "answer": 0,
+      "explanation_zh": "跳到椅子上強調動作用 onto，故選（A）onto。（B）at 為點。（C）in 靜態。（D）along 沿著。"
+    },
+    {
+      "question_en": "The students sat ___ a circle.",
+      "options": [
+        "on",
+        "into",
+        "at",
+        "in"
+      ],
+      "answer": 3,
+      "explanation_zh": "in a circle 為固定搭配，故選（D）in。（A）on 接觸面。（C）at 為點。（B）into 進入。"
+    },
+    {
+      "question_en": "He hung the picture ___ the wall.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "into"
+      ],
+      "answer": 2,
+      "explanation_zh": "附著於垂直面用 on，故選（C）on。（A）in 表內部。（B）at 為點。（D）into 進入。"
+    },
+    {
+      "question_en": "Don't lean ___ the door; it may open.",
+      "options": [
+        "at",
+        "by",
+        "on",
+        "against"
+      ],
+      "answer": 3,
+      "explanation_zh": "「靠在」用 against，故選（D）against。（A）at 為點。（C）on 表接觸面。（B）by 在旁邊。"
+    },
+    {
+      "question_en": "The dog ran ___ the road.",
+      "options": [
+        "across",
+        "through",
+        "over",
+        "along"
+      ],
+      "answer": 0,
+      "explanation_zh": "橫越馬路用 across，故選（A）across。（B）through 穿越。（C）over 越過上方。（D）along 沿著。"
+    },
+    {
+      "question_en": "Success often depends ___ hard work.",
+      "options": [
+        "of",
+        "with",
+        "at",
+        "on"
+      ],
+      "answer": 3,
+      "explanation_zh": "depend on 為固定搭配，故選（D）on。（A）of 不搭配。（C）at 不搭配。（B）with 不搭配。"
+    },
+    {
+      "question_en": "You can always rely ___ a true friend.",
+      "options": [
+        "of",
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 2,
+      "explanation_zh": "rely on 為固定搭配，故選（C）on。（A）of、（B）at、（D）in 均不搭配。"
+    },
+    {
+      "question_en": "Water consists ___ hydrogen and oxygen.",
+      "options": [
+        "on",
+        "with",
+        "in",
+        "of"
+      ],
+      "answer": 3,
+      "explanation_zh": "consist of 為固定搭配，故選（D）of。（A）on、（C）in、（B）with 均不搭配。"
+    },
+    {
+      "question_en": "They accused him ___ stealing the money.",
+      "options": [
+        "with",
+        "for",
+        "on",
+        "of"
+      ],
+      "answer": 3,
+      "explanation_zh": "accuse sb. of sth. 為固定搭配，故選（D）of。（A）with、（C）on、（B）for 均不搭配。"
+    },
+    {
+      "question_en": "He apologized ___ his rude behavior.",
+      "options": [
+        "for",
+        "with",
+        "on",
+        "to"
+      ],
+      "answer": 0,
+      "explanation_zh": "apologize for + 事情用 for，故選（A）for。（B）with 不搭配。（C）on 不搭配。（D）to 接「對象」。"
+    },
+    {
+      "question_en": "She insisted ___ paying the bill.",
+      "options": [
+        "of",
+        "at",
+        "on",
+        "with"
+      ],
+      "answer": 2,
+      "explanation_zh": "insist on 為固定搭配，故選（C）on。（A）of、（B）at、（D）with 均不搭配。"
+    },
+    {
+      "question_en": "Please refer ___ the manual for details.",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "to"
+      ],
+      "answer": 3,
+      "explanation_zh": "refer to 為固定搭配，故選（D）to。（A）at、（C）with、（B）on 均不搭配。"
+    },
+    {
+      "question_en": "I agree ___ what you just said.",
+      "options": [
+        "with",
+        "at",
+        "on",
+        "of"
+      ],
+      "answer": 0,
+      "explanation_zh": "agree with + 人或意見用 with，故選（A）with。（B）at 不搭配。（C）on 用於議題。（D）of 不搭配。"
+    },
+    {
+      "question_en": "Children should listen ___ their parents.",
+      "options": [
+        "at",
+        "on",
+        "to",
+        "with"
+      ],
+      "answer": 2,
+      "explanation_zh": "listen to 為固定搭配，故選（C）to。（A）at、（B）on、（D）with 均不搭配。"
+    },
+    {
+      "question_en": "He is suffering ___ a serious illness.",
+      "options": [
+        "with",
+        "of",
+        "from",
+        "at"
+      ],
+      "answer": 2,
+      "explanation_zh": "suffer from 為固定搭配，故選（C）from。（A）with、（B）of、（D）at 均不搭配。"
+    },
+    {
+      "question_en": "The teacher complained ___ the noise outside.",
+      "options": [
+        "about",
+        "with",
+        "on",
+        "for"
+      ],
+      "answer": 0,
+      "explanation_zh": "complain about 為固定搭配，故選（A）about。（B）with、（C）on、（D）for 均不搭配。"
+    },
+    {
+      "question_en": "He doesn't believe ___ ghosts.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "with"
+      ],
+      "answer": 2,
+      "explanation_zh": "believe in 表「相信存在或價值」，故選（C）in。（A）on、（B）at、（D）with 均不搭配。"
+    },
+    {
+      "question_en": "They argued ___ politics all night.",
+      "options": [
+        "on",
+        "with",
+        "about",
+        "at"
+      ],
+      "answer": 2,
+      "explanation_zh": "argue about + 議題用 about，故選（C）about。（A）on 較少用。（B）with 接「對象」。（D）at 不搭配。"
+    },
+    {
+      "question_en": "The success of the plan depends ___ everyone's effort.",
+      "options": [
+        "at",
+        "with",
+        "on",
+        "of"
+      ],
+      "answer": 2,
+      "explanation_zh": "depend on 為固定搭配，故選（C）on。（A）at、（B）with、（D）of 均不搭配。"
+    },
+    {
+      "question_en": "She is responsible ___ training new staff.",
+      "options": [
+        "of",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": 2,
+      "explanation_zh": "be responsible for 為固定搭配，故選（C）for。（A）of、（B）on、（D）at 均不搭配。"
+    },
+    {
+      "question_en": "My little sister is afraid ___ thunder.",
+      "options": [
+        "of",
+        "at",
+        "with",
+        "on"
+      ],
+      "answer": 0,
+      "explanation_zh": "be afraid of 為固定搭配，故選（A）of。（B）at、（C）with、（D）on 均不搭配。"
+    },
+    {
+      "question_en": "I am very interested ___ ancient history.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "with"
+      ],
+      "answer": 2,
+      "explanation_zh": "be interested in 為固定搭配，故選（C）in。（A）on、（B）at、（D）with 均不搭配。"
+    },
+    {
+      "question_en": "He is good ___ playing the piano.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "answer": 0,
+      "explanation_zh": "be good at 為固定搭配，故選（A）at。（B）in、（C）on、（D）with 均不搭配。"
+    },
+    {
+      "question_en": "This town is famous ___ its hot springs.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 1,
+      "explanation_zh": "be famous for 為固定搭配，故選（B）for。（A）of、（C）with、（D）at 均不搭配。"
+    },
+    {
+      "question_en": "She is fond ___ classical music.",
+      "options": [
+        "of",
+        "at",
+        "with",
+        "on"
+      ],
+      "answer": 0,
+      "explanation_zh": "be fond of 為固定搭配，故選（A）of。（B）at、（C）with、（D）on 均不搭配。"
+    },
+    {
+      "question_en": "He is tired ___ doing the same thing every day.",
+      "options": [
+        "with",
+        "at",
+        "of",
+        "for"
+      ],
+      "answer": 2,
+      "explanation_zh": "be tired of 表「厭倦」，故選（C）of。（A）with、（B）at、（D）for 均不搭配。"
+    },
+    {
+      "question_en": "I am worried ___ my final exam.",
+      "options": [
+        "of",
+        "with",
+        "about",
+        "at"
+      ],
+      "answer": 2,
+      "explanation_zh": "be worried about 為固定搭配，故選（C）about。（A）of、（B）with、（D）at 均不搭配。"
+    },
+    {
+      "question_en": "She is satisfied ___ her new job.",
+      "options": [
+        "on",
+        "at",
+        "with",
+        "of"
+      ],
+      "answer": 2,
+      "explanation_zh": "be satisfied with 為固定搭配，故選（C）with。（A）on、（B）at、（D）of 均不搭配。"
+    },
+    {
+      "question_en": "This bag is similar ___ mine.",
+      "options": [
+        "with",
+        "to",
+        "at",
+        "of"
+      ],
+      "answer": 1,
+      "explanation_zh": "be similar to 為固定搭配，故選（B）to。（A）with、（C）at、（D）of 均不搭配。"
+    },
+    {
+      "question_en": "He is married ___ a famous singer.",
+      "options": [
+        "with",
+        "at",
+        "to",
+        "on"
+      ],
+      "answer": 2,
+      "explanation_zh": "be married to 為固定搭配，故選（C）to。（A）with 是常見錯誤。（B）at、（D）on 均不搭配。"
+    },
+    {
+      "question_en": "I don't know this word; let me ___ it ___ in the dictionary.",
+      "options": [
+        "look / up",
+        "look / for",
+        "look / after",
+        "look / into"
+      ],
+      "answer": 0,
+      "explanation_zh": "查字典用 look up，故選（A）。（B）look for 尋找。（C）look after 照顧。（D）look into 調查。"
+    },
+    {
+      "question_en": "Please ___ the lights when you leave.",
+      "options": [
+        "turn on",
+        "turn off",
+        "turn up",
+        "turn into"
+      ],
+      "answer": 1,
+      "explanation_zh": "離開時關燈用 turn off，故選（B）。（A）turn on 打開。（C）turn up 調大或出現。（D）turn into 變成。"
+    },
+    {
+      "question_en": "We have ___ ___ ___ milk; let's buy some.",
+      "options": [
+        "run out of",
+        "run into",
+        "run after",
+        "run over"
+      ],
+      "answer": 0,
+      "explanation_zh": "耗盡用 run out of，故選（A）。（B）run into 偶遇。（C）run after 追趕。（D）run over 輾過。"
+    },
+    {
+      "question_en": "Don't ___ ___ doing your homework until tomorrow.",
+      "options": [
+        "put on",
+        "put off",
+        "put up",
+        "put down"
+      ],
+      "answer": 1,
+      "explanation_zh": "拖延用 put off，故選（B）。（A）put on 穿上。（C）put up 搭建。（D）put down 放下。"
+    },
+    {
+      "question_en": "He finally ___ ___ and admitted he was wrong.",
+      "options": [
+        "gave up",
+        "gave in",
+        "gave away",
+        "gave out"
+      ],
+      "answer": 1,
+      "explanation_zh": "屈服讓步用 give in，故選（B）。（A）give up 放棄。（C）give away 贈送。（D）give out 分發。"
+    },
+    {
+      "question_en": "I can't ___ ___ his strange behavior.",
+      "options": [
+        "put up with",
+        "look up to",
+        "get along with",
+        "run out of"
+      ],
+      "answer": 0,
+      "explanation_zh": "忍受用 put up with，故選（A）。（B）look up to 尊敬。（C）get along with 相處。（D）run out of 耗盡。"
+    },
+    {
+      "question_en": "She had to ___ ___ smoking for her health.",
+      "options": [
+        "give up",
+        "give in",
+        "give away",
+        "give out"
+      ],
+      "answer": 0,
+      "explanation_zh": "戒掉用 give up，故選（A）。（B）give in 讓步。（C）give away 贈送。（D）give out 分發。"
+    },
+    {
+      "question_en": "The plane will ___ ___ at 8 a.m.",
+      "options": [
+        "take off",
+        "take up",
+        "take in",
+        "take after"
+      ],
+      "answer": 0,
+      "explanation_zh": "飛機起飛用 take off，故選（A）。（B）take up 占用。（C）take in 吸收。（D）take after 長得像。"
+    },
+    {
+      "question_en": "He ___ ___ his father; they look exactly alike.",
+      "options": [
+        "takes after",
+        "takes off",
+        "takes up",
+        "takes in"
+      ],
+      "answer": 0,
+      "explanation_zh": "長相像用 take after，故選（A）。（B）take off 起飛。（C）take up 占用。（D）take in 吸收。"
+    },
+    {
+      "question_en": "I ran ___ an old friend at the supermarket.",
+      "options": [
+        "into",
+        "after",
+        "over",
+        "out"
+      ],
+      "answer": 0,
+      "explanation_zh": "偶遇用 run into，故選（A）into。（B）run after 追。（C）run over 輾過。（D）run out 耗盡。"
+    },
+    {
+      "question_en": "He bought ___ umbrella because it was raining.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 1,
+      "explanation_zh": "umbrella 母音開頭用 an，故選（B）an。（A）a 用於子音。（C）the 表特指。（D）/ 表零冠詞，不合。"
+    },
+    {
+      "question_en": "___ sun rises in the east.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "/"
+      ],
+      "answer": 2,
+      "explanation_zh": "獨一無二的事物用 the，故選（C）The。（A）A、（B）An 用於不定指。（D）零冠詞不適合。"
+    },
+    {
+      "question_en": "She plays ___ piano very well.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 2,
+      "explanation_zh": "樂器前用 the，故選（C）the。（A）a、（B）an、（D）零冠詞不合此用法。"
+    },
+    {
+      "question_en": "___ honesty is the best policy.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "/"
+      ],
+      "answer": 3,
+      "explanation_zh": "抽象名詞泛指用零冠詞，故選（D）/。（A）A、（B）An 用於可數單數。（C）The 表特指。"
+    },
+    {
+      "question_en": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 1,
+      "explanation_zh": "honest 發音為母音開頭，故選（B）an。（A）a 用於子音音。（C）the 表特指。（D）零冠詞不合。"
+    },
+    {
+      "question_en": "My brother plays ___ basketball every weekend.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 3,
+      "explanation_zh": "運動名稱前用零冠詞，故選（D）/。（A）a、（B）an、（C）the 均不合。"
+    },
+    {
+      "question_en": "I had ___ egg and some toast for breakfast.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 1,
+      "explanation_zh": "egg 母音開頭用 an，故選（B）an。（A）a 用於子音。（C）the 表特指。（D）零冠詞不合。"
+    },
+    {
+      "question_en": "Mount Everest is ___ highest mountain in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 2,
+      "explanation_zh": "最高級前用 the，故選（C）the。（A）a、（B）an、（D）零冠詞不合。"
+    },
+    {
+      "question_en": "___ Japanese are well known for their politeness.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "/"
+      ],
+      "answer": 2,
+      "explanation_zh": "民族整體前用 The，故選（C）The。（A）A、（B）An 不合。（D）零冠詞不合。"
+    },
+    {
+      "question_en": "He goes to ___ school by bus every day.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": 3,
+      "explanation_zh": "去學校上課用零冠詞，故選（D）/。（A）a 表「某一」。（B）an 不合。（C）the 表特定建築物。"
+    },
+    {
+      "question_en": "How ___ sugar do you want in your coffee?",
+      "options": [
+        "many",
+        "much",
+        "few",
+        "several"
+      ],
+      "answer": 1,
+      "explanation_zh": "sugar 為不可數，用 much，故選（B）much。（A）many 接可數。（C）few、（D）several 接可數。"
+    },
+    {
+      "question_en": "There are only ___ apples left in the basket.",
+      "options": [
+        "much",
+        "a little",
+        "a few",
+        "little"
+      ],
+      "answer": 2,
+      "explanation_zh": "apples 為可數，「有一些」用 a few，故選（C）a few。（A）much 接不可數。（B）a little 接不可數。（D）little 接不可數。"
+    },
+    {
+      "question_en": "I have ___ money, so I can buy you a drink.",
+      "options": [
+        "a few",
+        "few",
+        "a little",
+        "little"
+      ],
+      "answer": 2,
+      "explanation_zh": "money 為不可數，肯定「有一些」用 a little，故選（C）a little。（A）a few、（B）few 接可數。（D）little 表「幾乎沒有」。"
+    },
+    {
+      "question_en": "___ of the students passed the difficult exam.",
+      "options": [
+        "Most",
+        "Almost",
+        "Much",
+        "Each"
+      ],
+      "answer": 0,
+      "explanation_zh": "「大部分」用 Most of，故選（A）Most。（B）Almost 為副詞。（C）Much 接不可數。（D）Each 強調個別。"
+    },
+    {
+      "question_en": "There is ___ water in the bottle; we need to refill it.",
+      "options": [
+        "a little",
+        "little",
+        "few",
+        "many"
+      ],
+      "answer": 1,
+      "explanation_zh": "否定語意「幾乎沒有」用 little，故選（B）little。（A）a little 為肯定。（C）few、（D）many 接可數。"
+    },
+    {
+      "question_en": "___ of my friends like spicy food.",
+      "options": [
+        "Much",
+        "Several",
+        "Every",
+        "Each"
+      ],
+      "answer": 1,
+      "explanation_zh": "「好幾個」用 Several，故選（B）Several。（A）Much 接不可數。（C）Every、（D）Each 後須接單數名詞。"
+    },
+    {
+      "question_en": "___ of the milk has gone bad.",
+      "options": [
+        "Many",
+        "Most",
+        "A few",
+        "Several"
+      ],
+      "answer": 1,
+      "explanation_zh": "milk 為不可數，「大部分」用 Most of，故選（B）Most。（A）Many、（C）A few、（D）Several 接可數。"
+    },
+    {
+      "question_en": "___ of the two answers is correct.",
+      "options": [
+        "None",
+        "Neither",
+        "No one",
+        "Nobody"
+      ],
+      "answer": 1,
+      "explanation_zh": "兩者都不用 Neither，故選（B）Neither。（A）None 用於三者以上。（C）No one、（D）Nobody 指人。"
+    },
+    {
+      "question_en": "There aren't ___ students in the classroom today.",
+      "options": [
+        "much",
+        "many",
+        "a little",
+        "a great deal of"
+      ],
+      "answer": 1,
+      "explanation_zh": "students 為可數，否定句用 many，故選（B）many。（A）much、（C）a little、（D）a great deal of 接不可數。"
+    },
+    {
+      "question_en": "___ of the information is useful for our research.",
+      "options": [
+        "Many",
+        "Few",
+        "Several",
+        "None"
+      ],
+      "answer": 3,
+      "explanation_zh": "information 為不可數，「沒有」用 None of，故選（D）None。（A）Many、（B）Few、（C）Several 接可數。"
+    },
+    {
+      "question_en": "I stayed home ___ I was feeling sick.",
+      "options": [
+        "although",
+        "because",
+        "unless",
+        "while"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「因為」用 because，故選（B）because。（A）although 表讓步。（C）unless 表「除非」。（D）while 表「當……時」。"
+    },
+    {
+      "question_en": "___ it was raining, we still went hiking.",
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "If"
+      ],
+      "answer": 1,
+      "explanation_zh": "表讓步「雖然」用 Although，故選（B）Although。（A）Because 表原因。（C）Since 表自從或既然。（D）If 表條件。"
+    },
+    {
+      "question_en": "You will fail the test ___ you study harder.",
+      "options": [
+        "if",
+        "unless",
+        "when",
+        "because"
+      ],
+      "answer": 1,
+      "explanation_zh": "「除非」用 unless，故選（B）unless。（A）if 表條件正面。（C）when 表時間。（D）because 表原因。"
+    },
+    {
+      "question_en": "He kept reading ___ his sister was watching TV.",
+      "options": [
+        "because",
+        "while",
+        "unless",
+        "if"
+      ],
+      "answer": 1,
+      "explanation_zh": "同時進行用 while，故選（B）while。（A）because 表原因。（C）unless 表除非。（D）if 表條件。"
+    },
+    {
+      "question_en": "My brother likes math, ___ I prefer English.",
+      "options": [
+        "because",
+        "whereas",
+        "unless",
+        "if"
+      ],
+      "answer": 1,
+      "explanation_zh": "表對比「然而」用 whereas，故選（B）whereas。（A）because 表原因。（C）unless 表除非。（D）if 表條件。"
+    },
+    {
+      "question_en": "___ you have finished your homework, you can watch TV.",
+      "options": [
+        "Although",
+        "Since",
+        "Unless",
+        "While"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「既然」用 Since，故選（B）Since。（A）Although 表讓步。（C）Unless 表除非。（D）While 表同時。"
+    },
+    {
+      "question_en": "I wanted to call you, ___ I lost your number.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": 1,
+      "explanation_zh": "前後語意相反用 but，故選（B）but。（A）so 表結果。（C）because 表原因。（D）or 表選擇。"
+    },
+    {
+      "question_en": "Hurry up, ___ you will miss the bus.",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 2,
+      "explanation_zh": "祈使句後「否則」用 or，故選（C）or。（A）and 表「就會」。（B）but 表轉折。（D）so 表結果。"
+    },
+    {
+      "question_en": "It was very late, ___ we decided to go home.",
+      "options": [
+        "because",
+        "so",
+        "but",
+        "or"
+      ],
+      "answer": 1,
+      "explanation_zh": "表結果用 so，故選（B）so。（A）because 表原因。（C）but 表轉折。（D）or 表選擇。"
+    },
+    {
+      "question_en": "He didn't come ___ he was very busy.",
+      "options": [
+        "because",
+        "although",
+        "unless",
+        "while"
+      ],
+      "answer": 0,
+      "explanation_zh": "表原因用 because，故選（A）because。（B）although 讓步。（C）unless 除非。（D）while 同時。"
+    },
+    {
+      "question_en": "___ Tom ___ Jerry enjoys the cartoon show.",
+      "options": [
+        "Both / and",
+        "Either / or",
+        "Neither / nor",
+        "Not only / but also"
+      ],
+      "answer": 1,
+      "explanation_zh": "動詞 enjoys 為單數，主詞「兩者之一」用 Either...or，故選（B）。（A）Both...and 動詞用複數。（C）Neither...nor 語意為否定。（D）Not only...but also 須符合語意。"
+    },
+    {
+      "question_en": "___ my parents ___ my brother knows about the surprise party.",
+      "options": [
+        "Both / and",
+        "Either / or",
+        "Neither / nor",
+        "Not only / but also"
+      ],
+      "answer": 2,
+      "explanation_zh": "動詞 knows 為單數且語意為否定，用 Neither...nor，故選（C）。（A）Both...and 動詞用複數。（B）Either...or 為肯定。（D）Not only...but also 為肯定。"
+    },
+    {
+      "question_en": "She is ___ beautiful ___ smart.",
+      "options": [
+        "both / and",
+        "either / or",
+        "neither / nor",
+        "not / but"
+      ],
+      "answer": 0,
+      "explanation_zh": "「既……又……」用 both...and，故選（A）。（B）either...or 表二選一。（C）neither...nor 表都不。（D）not...but 表否定對比。"
+    },
+    {
+      "question_en": "___ the teacher ___ the students were satisfied with the result.",
+      "options": [
+        "Both / and",
+        "Either / or",
+        "Neither / nor",
+        "Not only / but also"
+      ],
+      "answer": 3,
+      "explanation_zh": "「不只……而且……」用 Not only...but also，故選（D）。（A）Both...and 為簡單並列。（B）Either...or 二選一。（C）Neither...nor 為否定。"
+    },
+    {
+      "question_en": "You can have ___ tea ___ coffee, but not both.",
+      "options": [
+        "both / and",
+        "either / or",
+        "neither / nor",
+        "not only / but also"
+      ],
+      "answer": 1,
+      "explanation_zh": "「二選一」用 either...or，故選（B）。（A）both...and 兩者皆要。（C）neither...nor 兩者皆無。（D）not only...but also 兩者皆有。"
+    },
+    {
+      "question_en": "I enjoy ___ to classical music on weekends.",
+      "options": [
+        "listening",
+        "listen",
+        "to listen",
+        "listened"
+      ],
+      "answer": 0,
+      "explanation_zh": "enjoy 後接動名詞（V-ing），故選（A）listening。（B）listen 為原形，（C）to listen 為不定詞，（D）listened 為過去式，皆不合語法。"
+    },
+    {
+      "question_en": "She suggested ___ a movie after dinner.",
+      "options": [
+        "to watch",
+        "watching",
+        "watch",
+        "watched"
+      ],
+      "answer": 1,
+      "explanation_zh": "suggest 後接動名詞，故選（B）watching。（A）to watch 不定詞、（C）watch 原形、（D）watched 過去式皆不可接 suggest。"
+    },
+    {
+      "question_en": "He avoids ___ junk food because he wants to stay healthy.",
+      "options": [
+        "eat",
+        "to eat",
+        "eating",
+        "ate"
+      ],
+      "answer": 2,
+      "explanation_zh": "avoid 後接動名詞，故選（C）eating。（A）原形、（B）不定詞、（D）過去式皆形式不符。"
+    },
+    {
+      "question_en": "Have you finished ___ your homework yet?",
+      "options": [
+        "do",
+        "to do",
+        "done",
+        "doing"
+      ],
+      "answer": 3,
+      "explanation_zh": "finish 後接動名詞，故選（D）doing。（A）原形、（B）不定詞、（C）過去分詞皆不可。"
+    },
+    {
+      "question_en": "Would you mind ___ the window? It's a bit cold.",
+      "options": [
+        "closing",
+        "to close",
+        "close",
+        "closed"
+      ],
+      "answer": 0,
+      "explanation_zh": "mind 後接動名詞，故選（A）closing。（B）不定詞、（C）原形、（D）過去分詞皆不合。"
+    },
+    {
+      "question_en": "I can't help ___ when I see that funny video.",
+      "options": [
+        "laugh",
+        "to laugh",
+        "laughed",
+        "laughing"
+      ],
+      "answer": 3,
+      "explanation_zh": "can't help 後接動名詞，意為「忍不住」，故選（D）laughing。（A）（B）（C）皆不合。"
+    },
+    {
+      "question_en": "They denied ___ anything about the broken window.",
+      "options": [
+        "know",
+        "to know",
+        "knowing",
+        "known"
+      ],
+      "answer": 2,
+      "explanation_zh": "deny 後接動名詞，故選（C）knowing。（A）原形、（B）不定詞、（D）過去分詞皆不對。"
+    },
+    {
+      "question_en": "He admitted ___ the cookies without permission.",
+      "options": [
+        "taking",
+        "take",
+        "to take",
+        "taken"
+      ],
+      "answer": 0,
+      "explanation_zh": "admit 後接動名詞，故選（A）taking。（B）原形、（C）不定詞、（D）過去分詞皆不可。"
+    },
+    {
+      "question_en": "Please consider ___ the job offer carefully before deciding.",
+      "options": [
+        "accept",
+        "to accept",
+        "accepted",
+        "accepting"
+      ],
+      "answer": 3,
+      "explanation_zh": "consider 後接動名詞，故選（D）accepting。（A）（B）（C）形式不對。"
+    },
+    {
+      "question_en": "She wants ___ a doctor when she grows up.",
+      "options": [
+        "become",
+        "becoming",
+        "to become",
+        "became"
+      ],
+      "answer": 2,
+      "explanation_zh": "want 後接不定詞，故選（C）to become。（A）原形、（B）動名詞、（D）過去式皆不合。"
+    },
+    {
+      "question_en": "We decided ___ the party because of the rain.",
+      "options": [
+        "to cancel",
+        "cancel",
+        "canceling",
+        "canceled"
+      ],
+      "answer": 0,
+      "explanation_zh": "decide 後接不定詞，故選（A）to cancel。（B）（C）（D）皆不合。"
+    },
+    {
+      "question_en": "I hope ___ you again soon.",
+      "options": [
+        "see",
+        "to see",
+        "seeing",
+        "saw"
+      ],
+      "answer": 1,
+      "explanation_zh": "hope 後接不定詞，故選（B）to see。（A）原形、（C）動名詞、（D）過去式皆不對。"
+    },
+    {
+      "question_en": "The little boy refused ___ his vegetables.",
+      "options": [
+        "eat",
+        "eating",
+        "to eat",
+        "ate"
+      ],
+      "answer": 2,
+      "explanation_zh": "refuse 後接不定詞，故選（C）to eat。（A）（B）（D）皆不合。"
+    },
+    {
+      "question_en": "I promise ___ on time tomorrow.",
+      "options": [
+        "to arrive",
+        "arrive",
+        "arriving",
+        "arrived"
+      ],
+      "answer": 0,
+      "explanation_zh": "promise 後接不定詞，故選（A）to arrive。其餘不合。"
+    },
+    {
+      "question_en": "My parents expect me ___ well in the exam.",
+      "options": [
+        "do",
+        "to do",
+        "doing",
+        "done"
+      ],
+      "answer": 1,
+      "explanation_zh": "expect + 受詞 + 不定詞，故選（B）to do。（A）（C）（D）皆不對。"
+    },
+    {
+      "question_en": "He learned ___ the guitar when he was ten.",
+      "options": [
+        "play",
+        "playing",
+        "played",
+        "to play"
+      ],
+      "answer": 3,
+      "explanation_zh": "learn 後接不定詞，故選（D）to play。其餘形式皆不對。"
+    },
+    {
+      "question_en": "We can't afford ___ a new car this year.",
+      "options": [
+        "to buy",
+        "buy",
+        "buying",
+        "bought"
+      ],
+      "answer": 0,
+      "explanation_zh": "afford 後接不定詞，故選（A）to buy。其餘不合。"
+    },
+    {
+      "question_en": "She offered ___ me with my project.",
+      "options": [
+        "help",
+        "helping",
+        "to help",
+        "helped"
+      ],
+      "answer": 2,
+      "explanation_zh": "offer 後接不定詞，故選（C）to help。其餘不合。"
+    },
+    {
+      "question_en": "I remember ___ off the lights before I left home.",
+      "options": [
+        "turn",
+        "turning",
+        "to turn",
+        "turned"
+      ],
+      "answer": 1,
+      "explanation_zh": "remember + V-ing 表「記得做過某事」，故選（B）turning。（C）to turn 表「記得要做」與語意不符；（A）（D）形式錯誤。"
+    },
+    {
+      "question_en": "Don't forget ___ the door when you leave.",
+      "options": [
+        "lock",
+        "locking",
+        "to lock",
+        "locked"
+      ],
+      "answer": 2,
+      "explanation_zh": "forget + 不定詞表「忘記要做」，故選（C）to lock。（B）locking 表「忘了做過」與情境不合。"
+    },
+    {
+      "question_en": "He stopped ___ a cigarette during the break.",
+      "options": [
+        "smoke",
+        "smoking",
+        "smoked",
+        "to smoke"
+      ],
+      "answer": 3,
+      "explanation_zh": "stop + 不定詞表「停下來去做」，依「during the break」可知是停下來抽菸，故選（D）to smoke。（B）smoking 表「停止抽菸的習慣」與語意不合。"
+    },
+    {
+      "question_en": "I regret ___ you that your application was rejected.",
+      "options": [
+        "to inform",
+        "informing",
+        "inform",
+        "informed"
+      ],
+      "answer": 0,
+      "explanation_zh": "regret + 不定詞表「遺憾要告知」，故選（A）to inform。（B）informing 表「後悔告知過」，依語境是現在要告知壞消息。"
+    },
+    {
+      "question_en": "She'll never forget ___ the Eiffel Tower for the first time.",
+      "options": [
+        "see",
+        "to see",
+        "seeing",
+        "saw"
+      ],
+      "answer": 2,
+      "explanation_zh": "forget + V-ing 表「忘記做過某事」，故選（C）seeing。（B）to see 表「忘記要做」與「for the first time」不合。"
+    },
+    {
+      "question_en": "I regret ___ so much money on that useless gadget.",
+      "options": [
+        "spend",
+        "spending",
+        "to spend",
+        "spent"
+      ],
+      "answer": 1,
+      "explanation_zh": "regret + V-ing 表「後悔做過」，故選（B）spending。（C）to spend 表「遺憾要做」與語意不合。"
+    },
+    {
+      "question_en": "We tried ___ the door but it was locked.",
+      "options": [
+        "open",
+        "opening",
+        "to open",
+        "opened"
+      ],
+      "answer": 2,
+      "explanation_zh": "try + 不定詞表「努力嘗試去做」，依語境「but it was locked」可知是嘗試開門，故選（C）to open。"
+    },
+    {
+      "question_en": "My mother made me ___ my room before going out.",
+      "options": [
+        "clean",
+        "cleaning",
+        "to clean",
+        "cleaned"
+      ],
+      "answer": 0,
+      "explanation_zh": "make + 受詞 + 原形動詞，故選（A）clean。（B）（C）（D）形式皆不合。"
+    },
+    {
+      "question_en": "The teacher let us ___ home early.",
+      "options": [
+        "going",
+        "go",
+        "to go",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation_zh": "let + 受詞 + 原形動詞，故選（B）go。其餘形式不合。"
+    },
+    {
+      "question_en": "You must ___ your seatbelt at all times.",
+      "options": [
+        "wearing",
+        "wear",
+        "to wear",
+        "worn"
+      ],
+      "answer": 1,
+      "explanation_zh": "情態助動詞 must 後接原形動詞，故選（B）wear。其餘形式不合。"
+    },
+    {
+      "question_en": "She had her brother ___ her with the homework.",
+      "options": [
+        "helping",
+        "help",
+        "to help",
+        "helped"
+      ],
+      "answer": 1,
+      "explanation_zh": "使役動詞 have + 受詞 + 原形動詞，故選（B）help。（A）（C）（D）皆不合。"
+    },
+    {
+      "question_en": "I look forward to ___ from you soon.",
+      "options": [
+        "hearing",
+        "hear",
+        "to hear",
+        "heard"
+      ],
+      "answer": 0,
+      "explanation_zh": "look forward to 中的 to 是介系詞，後接動名詞，故選（A）hearing。（B）原形、（C）不定詞、（D）過去式皆不對。"
+    },
+    {
+      "question_en": "He is interested in ___ photography.",
+      "options": [
+        "learn",
+        "to learn",
+        "learned",
+        "learning"
+      ],
+      "answer": 3,
+      "explanation_zh": "介系詞 in 後接動名詞，故選（D）learning。其餘不合。"
+    },
+    {
+      "question_en": "Thank you for ___ me with the project.",
+      "options": [
+        "help",
+        "helping",
+        "to help",
+        "helped"
+      ],
+      "answer": 1,
+      "explanation_zh": "介系詞 for 後接動名詞，故選（B）helping。（A）（C）（D）皆不對。"
+    },
+    {
+      "question_en": "She is good at ___ the piano.",
+      "options": [
+        "playing",
+        "play",
+        "to play",
+        "played"
+      ],
+      "answer": 0,
+      "explanation_zh": "介系詞 at 後接動名詞，故選（A）playing。其餘不合。"
+    },
+    {
+      "question_en": "I'm used to ___ up early every morning.",
+      "options": [
+        "get",
+        "to get",
+        "got",
+        "getting"
+      ],
+      "answer": 3,
+      "explanation_zh": "be used to 中的 to 是介系詞，後接動名詞，意「習慣於」，故選（D）getting。（B）to get 不定詞不適用此片語。"
+    },
+    {
+      "question_en": "He went to the library ___ for the exam.",
+      "options": [
+        "study",
+        "to study",
+        "studying",
+        "studied"
+      ],
+      "answer": 1,
+      "explanation_zh": "表目的用不定詞，故選（B）to study。其餘形式不合。"
+    },
+    {
+      "question_en": "In order ___ healthy, you should exercise regularly.",
+      "options": [
+        "stay",
+        "staying",
+        "to stay",
+        "stayed"
+      ],
+      "answer": 2,
+      "explanation_zh": "in order + to + 原形動詞，故選（C）to stay。其餘不合。"
+    },
+    {
+      "question_en": "She left early so as ___ the traffic.",
+      "options": [
+        "avoid",
+        "avoiding",
+        "avoided",
+        "to avoid"
+      ],
+      "answer": 3,
+      "explanation_zh": "so as + to + 原形動詞表目的，故選（D）to avoid。"
+    },
+    {
+      "question_en": "We took a taxi ___ time.",
+      "options": [
+        "to save",
+        "save",
+        "saving",
+        "saved"
+      ],
+      "answer": 0,
+      "explanation_zh": "表目的用不定詞，故選（A）to save。其餘不合。"
+    },
+    {
+      "question_en": "He works two jobs ___ enough money for college.",
+      "options": [
+        "earn",
+        "to earn",
+        "earning",
+        "earned"
+      ],
+      "answer": 1,
+      "explanation_zh": "表目的用不定詞，故選（B）to earn。"
+    },
+    {
+      "question_en": "I'm happy ___ you again after such a long time.",
+      "options": [
+        "see",
+        "seeing",
+        "to see",
+        "seen"
+      ],
+      "answer": 2,
+      "explanation_zh": "形容詞 happy 後接不定詞，故選（C）to see。其餘形式不合。"
+    },
+    {
+      "question_en": "She was eager ___ the test results.",
+      "options": [
+        "know",
+        "knowing",
+        "known",
+        "to know"
+      ],
+      "answer": 3,
+      "explanation_zh": "eager + 不定詞，故選（D）to know。"
+    },
+    {
+      "question_en": "This math problem is easy ___ .",
+      "options": [
+        "solve",
+        "solving",
+        "solved",
+        "to solve"
+      ],
+      "answer": 3,
+      "explanation_zh": "easy + 不定詞，故選（D）to solve。"
+    },
+    {
+      "question_en": "He was lucky ___ the last train home.",
+      "options": [
+        "to catch",
+        "catch",
+        "catching",
+        "caught"
+      ],
+      "answer": 0,
+      "explanation_zh": "lucky + 不定詞，故選（A）to catch。"
+    },
+    {
+      "question_en": "The coffee is too hot ___ right now.",
+      "options": [
+        "drink",
+        "drinking",
+        "to drink",
+        "drank"
+      ],
+      "answer": 2,
+      "explanation_zh": "too + 形 + 不定詞，故選（C）to drink。其餘不合。"
+    },
+    {
+      "question_en": "She spoke too quickly for me ___ .",
+      "options": [
+        "to understand",
+        "understand",
+        "understanding",
+        "understood"
+      ],
+      "answer": 0,
+      "explanation_zh": "too + 副 + for sb + 不定詞，故選（A）to understand。"
+    },
+    {
+      "question_en": "This box is light enough ___ with one hand.",
+      "options": [
+        "to carry",
+        "carry",
+        "carrying",
+        "carried"
+      ],
+      "answer": 0,
+      "explanation_zh": "enough + 不定詞，故選（A）to carry。"
+    },
+    {
+      "question_en": "I'm not tall enough ___ that shelf.",
+      "options": [
+        "reach",
+        "reaching",
+        "to reach",
+        "reached"
+      ],
+      "answer": 2,
+      "explanation_zh": "enough + 不定詞，故選（C）to reach。"
+    },
+    {
+      "question_en": "The woman ___ is talking to my mother is my new teacher.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 woman 為人且做主詞，故選（A）who。（B）which 用於物，（C）whose 表所有，（D）whom 為受格皆不合。"
+    },
+    {
+      "question_en": "That's the book ___ I borrowed from the library.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "whom"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 book 為物，做受詞，故選（C）which。（A）（D）用於人。"
+    },
+    {
+      "question_en": "The student ___ phone is on the desk left early.",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "answer": 1,
+      "explanation_zh": "表所有關係用 whose，故選（B）whose。其餘不表所有格。"
+    },
+    {
+      "question_en": "The man ___ you met yesterday is my uncle.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "whom"
+      ],
+      "answer": 3,
+      "explanation_zh": "先行詞 man 為人，做受詞，正式用 whom，故選（D）whom。（B）who 雖口語可用，但 whom 為更正確的受格。"
+    },
+    {
+      "question_en": "I have a friend ___ lives in New York.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 friend 為人做主詞，故選（A）who。"
+    },
+    {
+      "question_en": "The dog ___ I saw in the park belonged to my neighbor.",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "answer": 3,
+      "explanation_zh": "先行詞 dog 為動物（物），故選（D）which。"
+    },
+    {
+      "question_en": "She is the writer ___ novels have been translated into many languages.",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "answer": 1,
+      "explanation_zh": "表所有格用 whose，故選（B）whose。"
+    },
+    {
+      "question_en": "The car ___ is parked outside belongs to my brother.",
+      "options": [
+        "who",
+        "whose",
+        "that",
+        "whom"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 car 為物做主詞，that 可代替 which，故選（C）that。（A）（D）用於人，（B）表所有。"
+    },
+    {
+      "question_en": "Do you know the boy ___ I was talking to?",
+      "options": [
+        "which",
+        "whom",
+        "whose",
+        "what"
+      ],
+      "answer": 1,
+      "explanation_zh": "先行詞 boy 為人做受詞，故選（B）whom。"
+    },
+    {
+      "question_en": "The movie ___ we watched last night was boring.",
+      "options": [
+        "that",
+        "whom",
+        "whose",
+        "who"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 movie 為物，that 可替代 which，故選（A）that。"
+    },
+    {
+      "question_en": "He's the teacher ___ taught me English in junior high.",
+      "options": [
+        "which",
+        "whose",
+        "whom",
+        "who"
+      ],
+      "answer": 3,
+      "explanation_zh": "先行詞 teacher 為人做主詞，故選（D）who。"
+    },
+    {
+      "question_en": "I bought a watch ___ has a leather strap.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 watch 為物做主詞，故選（C）which。"
+    },
+    {
+      "question_en": "The girl ___ won the prize is my classmate.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 girl 為人做主詞，故選（A）who。"
+    },
+    {
+      "question_en": "The artist ___ paintings I admire most is Van Gogh.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": 3,
+      "explanation_zh": "表所有關係用 whose，故選（D）whose。"
+    },
+    {
+      "question_en": "This is the cake ___ my mother baked for my birthday.",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer": 3,
+      "explanation_zh": "先行詞 cake 為物，故選（D）which。"
+    },
+    {
+      "question_en": "This is the park ___ we used to play as children.",
+      "options": [
+        "where",
+        "when",
+        "why",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 park 為地點，故用關係副詞（A）where。"
+    },
+    {
+      "question_en": "I'll never forget the day ___ we first met.",
+      "options": [
+        "where",
+        "why",
+        "when",
+        "which"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 day 為時間，故用（C）when。"
+    },
+    {
+      "question_en": "Do you know the reason ___ she left so suddenly?",
+      "options": [
+        "where",
+        "when",
+        "which",
+        "why"
+      ],
+      "answer": 3,
+      "explanation_zh": "先行詞 reason，用關係副詞（D）why。"
+    },
+    {
+      "question_en": "That's the restaurant ___ I had my birthday dinner.",
+      "options": [
+        "where",
+        "when",
+        "why",
+        "which"
+      ],
+      "answer": 0,
+      "explanation_zh": "先行詞 restaurant 為地點，故選（A）where。"
+    },
+    {
+      "question_en": "Summer is the season ___ many people go on vacation.",
+      "options": [
+        "where",
+        "why",
+        "when",
+        "which"
+      ],
+      "answer": 2,
+      "explanation_zh": "先行詞 season 為時間，用關係副詞（C）when。"
+    },
+    {
+      "question_en": "My brother, ___ lives in Canada, is a doctor.",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "which"
+      ],
+      "answer": 1,
+      "explanation_zh": "非限定子句不可用 that；先行詞 brother 為人做主詞，故選（B）who。"
+    },
+    {
+      "question_en": "The Great Wall, ___ is in China, is a famous landmark.",
+      "options": [
+        "that",
+        "which",
+        "whom",
+        "who"
+      ],
+      "answer": 1,
+      "explanation_zh": "非限定子句指物用 which，不可用 that，故選（B）which。"
+    },
+    {
+      "question_en": "The book ___ I bought yesterday is very interesting.",
+      "options": [
+        "who",
+        "that",
+        "whom",
+        "whose"
+      ],
+      "answer": 1,
+      "explanation_zh": "限定子句，先行詞 book 為物，可用 that，故選（B）that。"
+    },
+    {
+      "question_en": "Mr. Lee, ___ has been our neighbor for ten years, just moved away.",
+      "options": [
+        "that",
+        "which",
+        "whom",
+        "who"
+      ],
+      "answer": 3,
+      "explanation_zh": "非限定子句指人做主詞，用 who，不可用 that，故選（D）who。"
+    },
+    {
+      "question_en": "The man ___ next to me is my new colleague.",
+      "options": [
+        "sit",
+        "sat",
+        "sitting",
+        "sits"
+      ],
+      "answer": 2,
+      "explanation_zh": "簡化關係子句（who is sitting）用現在分詞，故選（C）sitting。"
+    },
+    {
+      "question_en": "The letter ___ yesterday was from my old friend.",
+      "options": [
+        "receive",
+        "receiving",
+        "received",
+        "receives"
+      ],
+      "answer": 2,
+      "explanation_zh": "被動關係子句簡化用過去分詞（which was received），故選（C）received。"
+    },
+    {
+      "question_en": "The boy ___ in the corner is crying.",
+      "options": [
+        "stand",
+        "standing",
+        "stood",
+        "stands"
+      ],
+      "answer": 1,
+      "explanation_zh": "主動關係子句簡化用現在分詞，故選（B）standing。"
+    },
+    {
+      "question_en": "Most of the products ___ in this factory are exported.",
+      "options": [
+        "make",
+        "making",
+        "makes",
+        "made"
+      ],
+      "answer": 3,
+      "explanation_zh": "被動關係子句簡化用過去分詞（that are made），故選（D）made。"
+    },
+    {
+      "question_en": "The children ___ in the park looked very happy.",
+      "options": [
+        "play",
+        "playing",
+        "played",
+        "plays"
+      ],
+      "answer": 1,
+      "explanation_zh": "主動關係子句簡化用現在分詞，故選（B）playing。"
+    },
+    {
+      "question_en": "This pencil is ___ than that one.",
+      "options": [
+        "long",
+        "longer",
+        "longest",
+        "more long"
+      ],
+      "answer": 1,
+      "explanation_zh": "兩者比較用比較級，單音節 +er，故選（B）longer。（D）more long 不合英文用法。"
+    },
+    {
+      "question_en": "My new phone is ___ than my old one.",
+      "options": [
+        "expensive",
+        "expensiver",
+        "more expensive",
+        "most expensive"
+      ],
+      "answer": 2,
+      "explanation_zh": "多音節形容詞比較級用 more，故選（C）more expensive。"
+    },
+    {
+      "question_en": "Today is ___ than yesterday.",
+      "options": [
+        "hotter",
+        "hot",
+        "hottest",
+        "more hot"
+      ],
+      "answer": 0,
+      "explanation_zh": "hot 為短形容詞，重複子音 +er，故選（A）hotter。"
+    },
+    {
+      "question_en": "She runs ___ than her brother.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "more fast"
+      ],
+      "answer": 1,
+      "explanation_zh": "副詞 fast 比較級為 faster，故選（B）faster。"
+    },
+    {
+      "question_en": "This book is ___ than that one.",
+      "options": [
+        "interesting",
+        "interestinger",
+        "most interesting",
+        "more interesting"
+      ],
+      "answer": 3,
+      "explanation_zh": "多音節形容詞比較級用 more，故選（D）more interesting。"
+    },
+    {
+      "question_en": "Mount Everest is the ___ mountain in the world.",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "more high"
+      ],
+      "answer": 2,
+      "explanation_zh": "三者以上比較用最高級，故選（C）highest。"
+    },
+    {
+      "question_en": "This is the ___ movie I have ever seen.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "most good"
+      ],
+      "answer": 2,
+      "explanation_zh": "good 的最高級為 best，故選（C）best。"
+    },
+    {
+      "question_en": "He is the ___ student in our class.",
+      "options": [
+        "smart",
+        "smarter",
+        "most smart",
+        "smartest"
+      ],
+      "answer": 3,
+      "explanation_zh": "短形容詞最高級加 -est，故選（D）smartest。"
+    },
+    {
+      "question_en": "This is the ___ beautiful place I've ever visited.",
+      "options": [
+        "most",
+        "more",
+        "much",
+        "very"
+      ],
+      "answer": 0,
+      "explanation_zh": "最高級加 the most + 多音節形容詞，故選（A）most。"
+    },
+    {
+      "question_en": "July is usually the ___ month of the year here.",
+      "options": [
+        "hot",
+        "hotter",
+        "more hot",
+        "hottest"
+      ],
+      "answer": 3,
+      "explanation_zh": "最高級 hottest，故選（D）hottest。"
+    },
+    {
+      "question_en": "My sister is ___ tall ___ my mother.",
+      "options": [
+        "as / as",
+        "so / as",
+        "more / than",
+        "as / than"
+      ],
+      "answer": 0,
+      "explanation_zh": "同等比較用 as ... as，故選（A）as / as。"
+    },
+    {
+      "question_en": "He works ___ hard ___ his colleagues.",
+      "options": [
+        "as / as",
+        "more / than",
+        "so / as",
+        "as / than"
+      ],
+      "answer": 0,
+      "explanation_zh": "as + 副詞 + as 表同等程度，故選（A）as / as。"
+    },
+    {
+      "question_en": "She is ___ smart ___ her older brother.",
+      "options": [
+        "more / than",
+        "as / as",
+        "so / as",
+        "as / than"
+      ],
+      "answer": 1,
+      "explanation_zh": "同等比較用 as ... as，故選（B）as / as。"
+    },
+    {
+      "question_en": "This box is twice ___ heavy ___ that one.",
+      "options": [
+        "more / than",
+        "so / as",
+        "as / than",
+        "as / as"
+      ],
+      "answer": 3,
+      "explanation_zh": "倍數 + as + 形 + as，故選（D）as / as。"
+    },
+    {
+      "question_en": "The more you practice, ___ you become.",
+      "options": [
+        "the good",
+        "the better",
+        "better",
+        "best"
+      ],
+      "answer": 1,
+      "explanation_zh": "the + 比較級 ... the + 比較級結構，故選（B）the better。"
+    },
+    {
+      "question_en": "The harder he works, ___ he earns.",
+      "options": [
+        "the much money",
+        "more money",
+        "most money",
+        "the more money"
+      ],
+      "answer": 3,
+      "explanation_zh": "the + 比較級結構，故選（D）the more money。"
+    },
+    {
+      "question_en": "The older I get, ___ I appreciate my parents.",
+      "options": [
+        "the more",
+        "more",
+        "the most",
+        "most"
+      ],
+      "answer": 0,
+      "explanation_zh": "the + 比較級結構，故選（A）the more。"
+    },
+    {
+      "question_en": "___ you study, the better your grades will be.",
+      "options": [
+        "More",
+        "Most",
+        "The more",
+        "The most"
+      ],
+      "answer": 2,
+      "explanation_zh": "the + 比較級 ... the + 比較級，第一個空格也需 the more，故選（C）The more。"
+    },
+    {
+      "question_en": "The higher we climbed, ___ the air became.",
+      "options": [
+        "thinner",
+        "more thin",
+        "the more thin",
+        "the thinner"
+      ],
+      "answer": 3,
+      "explanation_zh": "the + 比較級結構，thin 短形容詞加 -ner，故選（D）the thinner。"
+    },
+    {
+      "question_en": "Never ___ such a beautiful sunset.",
+      "options": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "did I have seen"
+      ],
+      "answer": 1,
+      "explanation_zh": "否定副詞 Never 置句首要倒裝，現在完成式倒裝為 have + 主詞 + 過去分詞，故選（B）have I seen。"
+    },
+    {
+      "question_en": "Hardly ___ when the phone rang.",
+      "options": [
+        "I had sat down",
+        "I sat down",
+        "had I sat down",
+        "did I sat down"
+      ],
+      "answer": 2,
+      "explanation_zh": "Hardly 置句首倒裝，過去完成式倒裝為 had + 主詞 + 過去分詞，故選（C）had I sat down。"
+    },
+    {
+      "question_en": "No sooner ___ home than it started to rain.",
+      "options": [
+        "I had arrived",
+        "I arrived",
+        "did I arrive",
+        "had I arrived"
+      ],
+      "answer": 3,
+      "explanation_zh": "No sooner 置句首倒裝，過去完成式倒裝為 had + 主詞 + 過去分詞，故選（D）had I arrived。"
+    },
+    {
+      "question_en": "Seldom ___ such a kind person.",
+      "options": [
+        "I meet",
+        "do I meet",
+        "I do meet",
+        "meet I"
+      ],
+      "answer": 1,
+      "explanation_zh": "Seldom 置句首倒裝，現在簡單式倒裝為 do/does + 主詞 + 原形，故選（B）do I meet。"
+    },
+    {
+      "question_en": "Not only ___ smart, but he is also hardworking.",
+      "options": [
+        "he is",
+        "does he",
+        "he does",
+        "is he"
+      ],
+      "answer": 3,
+      "explanation_zh": "Not only 置句首倒裝，be 動詞句倒裝為 be + 主詞，故選（D）is he。"
+    },
+    {
+      "question_en": "The weather has a great ___ on our mood and daily activities.",
+      "options": [
+        "affect",
+        "effect",
+        "effective",
+        "affection"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) effect（名詞，影響）。（A) affect 是動詞「影響」。（C) effective 形容詞「有效的」。（D) affection 名詞「情感」。"
+    },
+    {
+      "question_en": "Could you ___ this word in the dictionary? I don't know what it means.",
+      "options": [
+        "look up",
+        "look after",
+        "look for",
+        "look into"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) look up（查閱）。（B) look after 照顧。（C) look for 尋找。（D) look into 調查。"
+    },
+    {
+      "question_en": "This math problem is so easy—it's a piece of ___.",
+      "options": [
+        "bread",
+        "pie",
+        "cookie",
+        "cake"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) cake，慣用語 a piece of cake 意為「輕而易舉」。（A)(B)(C) 均非此慣用語的標準形式。"
+    },
+    {
+      "question_en": "You should ___ a decision before the deadline arrives.",
+      "options": [
+        "do",
+        "take",
+        "make",
+        "have"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) make。固定搭配 make a decision。（A) do 不與 decision 搭配。（B) take a decision 為英式罕用。（D) have 不正確。"
+    },
+    {
+      "question_en": "My brother ___ very well with all his classmates at school.",
+      "options": [
+        "gets along",
+        "gets up",
+        "gets over",
+        "gets off"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) gets along（相處融洽）。（B) gets up 起床。（C) gets over 克服。（D) gets off 下車。"
+    },
+    {
+      "question_en": "Please ___ me your pen for a moment; I'll return it soon.",
+      "options": [
+        "lend",
+        "borrow",
+        "rent",
+        "loan"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) lend（借出）。（B) borrow 借入。（C) rent 租。（D) loan 多用於金錢借貸。"
+    },
+    {
+      "question_en": "The sun ___ in the east every morning without fail.",
+      "options": [
+        "raises",
+        "arises",
+        "rises",
+        "arouses"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) rises（不及物，升起）。（A) raises 及物動詞「舉起」。（B) arises 出現。（D) arouses 喚起。"
+    },
+    {
+      "question_en": "She is a very ___ student who always gets top grades.",
+      "options": [
+        "intelligence",
+        "intelligently",
+        "intellect",
+        "intelligent"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) intelligent（形容詞）。（A) intelligence 名詞。（B) intelligently 副詞。（C) intellect 名詞「智力」。"
+    },
+    {
+      "question_en": "Don't ___ until tomorrow what you can do today.",
+      "options": [
+        "put on",
+        "put up",
+        "put off",
+        "put out"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) put off（拖延）。（A) put on 穿上。（B) put up 舉起。（D) put out 熄滅。"
+    },
+    {
+      "question_en": "He told a funny joke to ___ the ice at the party.",
+      "options": [
+        "break",
+        "cut",
+        "melt",
+        "crack"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) break，慣用語 break the ice 意為「打破僵局」。（B)(C)(D) 均非標準搭配。"
+    },
+    {
+      "question_en": "The exam is tomorrow, so I need to hit the ___ tonight.",
+      "options": [
+        "road",
+        "books",
+        "sack",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) books，hit the books 意為「用功讀書」。（A) hit the road 上路。（C) hit the sack 睡覺。（D) hit the hay 睡覺。"
+    },
+    {
+      "question_en": "We've ___ milk; could you go buy some?",
+      "options": [
+        "run into",
+        "run over",
+        "run after",
+        "run out of"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) run out of（用完）。（A) run into 偶遇。（B) run over 輾過。（C) run after 追趕。"
+    },
+    {
+      "question_en": "Please ___ a photo of us in front of the monument.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "get"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) take。固定搭配 take a photo。（A)(B)(D) 均非此處正確搭配。"
+    },
+    {
+      "question_en": "The teacher's clear explanation made the lesson much ___ to understand.",
+      "options": [
+        "easier",
+        "easy",
+        "easiest",
+        "ease"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) easier（比較級）。（B) easy 原級。（C) easiest 最高級。（D) ease 名詞。"
+    },
+    {
+      "question_en": "He finally ___ to his parents' wishes and studied medicine.",
+      "options": [
+        "gave in",
+        "gave up",
+        "gave out",
+        "gave away"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) gave in（屈服）。（B) gave up 放棄。（C) gave out 分發。（D) gave away 贈送。"
+    },
+    {
+      "question_en": "She speaks English ___ after living abroad for ten years.",
+      "options": [
+        "fluent",
+        "fluently",
+        "fluency",
+        "fluid"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) fluently（副詞修飾動詞 speaks）。（A) fluent 形容詞。（C) fluency 名詞。（D) fluid 流體。"
+    },
+    {
+      "question_en": "The plane will ___ off in ten minutes; please fasten your seatbelt.",
+      "options": [
+        "take",
+        "get",
+        "make",
+        "put"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) take off（起飛）。（B)(C)(D) 與 off 不構成此義片語。"
+    },
+    {
+      "question_en": "He's been ___ the books all night for tomorrow's test.",
+      "options": [
+        "striking",
+        "beating",
+        "hitting",
+        "punching"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) hitting。hit the books 意為「努力讀書」。（A)(B)(D) 均非慣用搭配。"
+    },
+    {
+      "question_en": "My grandmother often ___ in bed when she feels tired.",
+      "options": [
+        "lies",
+        "lays",
+        "lied",
+        "laid"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) lies（lie 躺，現在式）。（B) lays 放置。（C) lied 說謊過去式。（D) laid 放置過去式。"
+    },
+    {
+      "question_en": "The students made great ___ in their English speaking skills.",
+      "options": [
+        "progressive",
+        "progressively",
+        "progress",
+        "progressed"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) progress（名詞）。（A) progressive 形容詞。（B) progressively 副詞。（D) progressed 動詞過去式。"
+    },
+    {
+      "question_en": "I can't ___ this heavy box; it's too heavy for me.",
+      "options": [
+        "rise",
+        "arise",
+        "arouse",
+        "raise"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) raise（及物，舉起）。（A) rise 不及物。（B) arise 出現。（C) arouse 喚起。"
+    },
+    {
+      "question_en": "The detective decided to ___ the mysterious case carefully.",
+      "options": [
+        "look after",
+        "look up",
+        "look into",
+        "look out"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) look into（調查）。（A) look after 照顧。（B) look up 查閱。（D) look out 小心。"
+    },
+    {
+      "question_en": "The movie was so ___ that the audience couldn't stop laughing.",
+      "options": [
+        "amusing",
+        "amuse",
+        "amused",
+        "amusement"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) amusing（令人發笑的，物作主詞）。（B) amuse 動詞。（C) amused 用於人。（D) amusement 名詞。"
+    },
+    {
+      "question_en": "Don't worry about the small mistake; it's no ___ deal.",
+      "options": [
+        "large",
+        "huge",
+        "grand",
+        "big"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) big。慣用語 no big deal 意為「沒什麼大不了」。（A)(B)(C) 均非標準搭配。"
+    },
+    {
+      "question_en": "He's ___ to arrive at any minute now.",
+      "options": [
+        "binding",
+        "bond",
+        "bind",
+        "bound"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) bound。be bound to 意為「必定」。（A) binding 形容詞「有約束力的」。（B) bond 名詞。（C) bind 動詞原形。"
+    },
+    {
+      "question_en": "The students were asked to ___ the exam silently.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) take。固定搭配 take an exam。（B) make 不搭配。（C) do 較口語但較弱。（D) get 不正確。"
+    },
+    {
+      "question_en": "Could you ___ the volume down? The baby is sleeping.",
+      "options": [
+        "switch",
+        "change",
+        "turn",
+        "make"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) turn。固定搭配 turn down（調低音量）。（A) switch 多指開關。（B) change 改變。（D) make 不搭配。"
+    },
+    {
+      "question_en": "The teacher asked us to ___ our homework before class.",
+      "options": [
+        "hand on",
+        "hand out",
+        "hand in",
+        "hand over"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) hand in（繳交）。（A) hand on 傳承。（B) hand out 分發。（D) hand over 移交。"
+    },
+    {
+      "question_en": "It's raining ___ and dogs outside; take an umbrella.",
+      "options": [
+        "frogs",
+        "fish",
+        "birds",
+        "cats"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) cats。慣用語 rain cats and dogs 意為「下傾盆大雨」。（A)(B)(C) 均非標準搭配。"
+    },
+    {
+      "question_en": "She is ___ to finish the marathon in less than four hours.",
+      "options": [
+        "capable",
+        "possible",
+        "probable",
+        "able"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) able。固定搭配 be able to do。（A) capable 須接 of。（B) possible 用於事物。（C) probable 用於事物。"
+    },
+    {
+      "question_en": "The factory ___ out a lot of smoke into the air.",
+      "options": [
+        "sends",
+        "puts",
+        "makes",
+        "gives"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) gives。give out 意為「散發、釋出」。（A) sends out 多用於發送訊息。（B) puts out 熄滅。（C) makes out 辨認。"
+    },
+    {
+      "question_en": "He apologized ___ for being late to the meeting.",
+      "options": [
+        "sincere",
+        "sincerely",
+        "sincerity",
+        "insincere"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) sincerely（副詞修飾動詞 apologized）。（A) sincere 形容詞。（C) sincerity 名詞。（D) insincere 形容詞，反義。"
+    },
+    {
+      "question_en": "I need to ___ a doctor's appointment for next week.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "have"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) make。固定搭配 make an appointment。（B) do 不搭配。（C) take 不搭配。（D) have 較弱。"
+    },
+    {
+      "question_en": "The students ___ up at six o'clock every morning.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) get。固定搭配 get up（起床）。（A) take up 占用。（B) make up 編造。（C) do up 扣緊。"
+    },
+    {
+      "question_en": "The accident had a serious ___ on his health.",
+      "options": [
+        "affect",
+        "effect",
+        "effective",
+        "affection"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) effect（名詞，影響）。（A) affect 動詞。（C) effective 形容詞。（D) affection 名詞「情感」。"
+    },
+    {
+      "question_en": "She accidentally ___ the keys on the table this morning.",
+      "options": [
+        "lay",
+        "lied",
+        "laid",
+        "lain"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) laid（lay 放置的過去式）。（A) lay 原形。（B) lied 說謊的過去式。（D) lain lie 躺的過去分詞。"
+    },
+    {
+      "question_en": "The price of gasoline has ___ sharply this year.",
+      "options": [
+        "raised",
+        "arose",
+        "aroused",
+        "risen"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) risen（rise 不及物，上漲的過去分詞）。（A) raised 及物。（B) arose 出現的過去式。（C) aroused 喚起。"
+    },
+    {
+      "question_en": "He couldn't ___ his anger when he heard the bad news.",
+      "options": [
+        "hold back",
+        "hold up",
+        "hold on",
+        "hold out"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) hold back（抑制）。（B) hold up 舉起／搶劫。（C) hold on 等一下。（D) hold out 伸出／堅持。"
+    },
+    {
+      "question_en": "That's a great idea! Let's ___ it a try.",
+      "options": [
+        "do",
+        "make",
+        "give",
+        "take"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) give。固定搭配 give it a try（試試看）。（A)(B)(D) 均非此處搭配。"
+    },
+    {
+      "question_en": "I'm ___ on you to help me with this project.",
+      "options": [
+        "numbering",
+        "calculating",
+        "adding",
+        "counting"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) counting。count on 意為「依靠」。（A)(B)(C) 均無此片語意義。"
+    },
+    {
+      "question_en": "His ___ to detail makes him an excellent editor.",
+      "options": [
+        "attend",
+        "attentive",
+        "attention",
+        "attentively"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) attention（名詞）。（A) attend 動詞。（B) attentive 形容詞。（D) attentively 副詞。"
+    },
+    {
+      "question_en": "They got ___ in heavy traffic and were late for dinner.",
+      "options": [
+        "caught",
+        "catch",
+        "catching",
+        "caught up"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) caught up。get caught up in 意為「陷入」。（A) caught 單獨不完整。（B) catch 原形。（C) catching 進行式不正確。"
+    },
+    {
+      "question_en": "The teacher told the children to ___ quiet during the test.",
+      "options": [
+        "keep",
+        "hold",
+        "take",
+        "make"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) keep。固定搭配 keep quiet（保持安靜）。（B)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "I've been ___ forward to this trip for months.",
+      "options": [
+        "seeing",
+        "watching",
+        "staring",
+        "looking"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) looking。look forward to 意為「期待」。（A)(B)(C) 均無此片語。"
+    },
+    {
+      "question_en": "The new policy will ___ effect next month.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) take。固定搭配 take effect（生效）。（B)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "He is the ___ student in our class; he always gets A's.",
+      "options": [
+        "smart",
+        "smarter",
+        "smartest",
+        "smartly"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) smartest（最高級）。（A) smart 原級。（B) smarter 比較級。（D) smartly 副詞。"
+    },
+    {
+      "question_en": "Please ___ care of yourself while traveling abroad.",
+      "options": [
+        "make",
+        "take",
+        "do",
+        "have"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) take。固定搭配 take care of。（A) make 不搭配。（C) do 不搭配。（D) have 不搭配。"
+    },
+    {
+      "question_en": "The room was ___ decorated for the wedding.",
+      "options": [
+        "beauty",
+        "beautiful",
+        "beautifully",
+        "beautify"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) beautifully（副詞修飾過去分詞 decorated）。（A) beauty 名詞。（B) beautiful 形容詞。（D) beautify 動詞。"
+    },
+    {
+      "question_en": "Let's ___ a break and have some coffee.",
+      "options": [
+        "make",
+        "take",
+        "do",
+        "get"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) take。固定搭配 take a break。（A)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "He's always ___ excuses for being late.",
+      "options": [
+        "doing",
+        "taking",
+        "making",
+        "getting"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) making。固定搭配 make excuses。（A)(B)(D) 均不搭配。"
+    },
+    {
+      "question_en": "The children ___ along very well with each other.",
+      "options": [
+        "go",
+        "come",
+        "get",
+        "take"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) get。get along with 意為「相處融洽」。（A)(B)(D) 均不構成此片語。"
+    },
+    {
+      "question_en": "Don't ___ up so easily; keep trying!",
+      "options": [
+        "take",
+        "make",
+        "go",
+        "give"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) give。give up 意為「放棄」。（A) take up 開始。（B) make up 編造。（C) go up 上升。"
+    },
+    {
+      "question_en": "The ___ of the building is impressive.",
+      "options": [
+        "high",
+        "height",
+        "heighten",
+        "highly"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) height（名詞，高度）。（A) high 形容詞。（C) heighten 動詞。（D) highly 副詞。"
+    },
+    {
+      "question_en": "He ___ the truth to avoid trouble.",
+      "options": [
+        "lay",
+        "laid",
+        "lied",
+        "lain"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) lied（lie 說謊的過去式）。（A) lay lie 躺的過去式。（B) laid lay 放置的過去式。（D) lain lie 躺的過去分詞。"
+    },
+    {
+      "question_en": "The students ___ their teacher with respect.",
+      "options": [
+        "cure",
+        "heal",
+        "handle",
+        "treat"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) treat（對待）。（A) cure 治癒。（B) heal 痊癒。（C) handle 處理。"
+    },
+    {
+      "question_en": "We ran ___ an old friend at the supermarket yesterday.",
+      "options": [
+        "into",
+        "out of",
+        "over",
+        "after"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) into。run into 意為「偶遇」。（B) run out of 用完。（C) run over 輾過。（D) run after 追趕。"
+    },
+    {
+      "question_en": "She gave him a piece of ___ for being so rude.",
+      "options": [
+        "mind",
+        "her mind",
+        "minds",
+        "minded"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) her mind。慣用語 give somebody a piece of one's mind 意為「責罵」。（A)(C)(D) 不正確。"
+    },
+    {
+      "question_en": "The teacher asked us to ___ our books to page 50.",
+      "options": [
+        "change",
+        "switch",
+        "turn",
+        "move"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) turn。固定搭配 turn to a page。（A) change 改變。（B) switch 切換。（D) move 移動。"
+    },
+    {
+      "question_en": "He ___ his promise and helped us with the project.",
+      "options": [
+        "held",
+        "made",
+        "took",
+        "kept"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) kept。固定搭配 keep a promise（遵守承諾）。（A)(B)(C) 均不搭配。"
+    },
+    {
+      "question_en": "The temperature has ___ dramatically this winter.",
+      "options": [
+        "fell",
+        "falling",
+        "rose",
+        "dropped"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) dropped。（A) fell 過去式無 has。（B) falling 進行式不搭配 has。（C) rose 不及物過去式無 has。"
+    },
+    {
+      "question_en": "He paid ___ to every detail of the contract.",
+      "options": [
+        "attend",
+        "attentive",
+        "attention",
+        "attentively"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) attention。固定搭配 pay attention to。（A) attend 動詞。（B) attentive 形容詞。（D) attentively 副詞。"
+    },
+    {
+      "question_en": "The little boy was ___ of the dark.",
+      "options": [
+        "afraid",
+        "fear",
+        "fearful",
+        "fearfully"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) afraid。固定搭配 be afraid of。（B) fear 名詞。（C) fearful 形容詞但較少用 of。（D) fearfully 副詞。"
+    },
+    {
+      "question_en": "They ___ off the wedding because of the storm.",
+      "options": [
+        "called",
+        "took",
+        "put",
+        "made"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) called。call off 意為「取消」。（B) take off 起飛。（C) put off 拖延。（D) make off 逃跑。"
+    },
+    {
+      "question_en": "I can't ___ my mind whether to go or stay.",
+      "options": [
+        "do",
+        "make",
+        "take",
+        "get"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) make。固定搭配 make up one's mind（下定決心）。（A)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "She is ___ in solving difficult math problems.",
+      "options": [
+        "skill",
+        "skillfully",
+        "skillful",
+        "skillfulness"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) skillful（形容詞，be skillful in）。（A) skill 名詞。（B) skillfully 副詞。（D) skillfulness 名詞。"
+    },
+    {
+      "question_en": "We need to ___ out of here before the storm hits.",
+      "options": [
+        "take",
+        "get",
+        "make",
+        "do"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) get。get out of 意為「離開」。（A)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "He ___ a deep breath before diving into the pool.",
+      "options": [
+        "did",
+        "made",
+        "took",
+        "got"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) took。固定搭配 take a breath。（A)(B)(D) 均不搭配。"
+    },
+    {
+      "question_en": "The teacher ___ out the homework to the students.",
+      "options": [
+        "gave",
+        "threw",
+        "sent",
+        "handed"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) handed。hand out 意為「分發」。（A) gave out 也可但 handed out 更貼切。（B) threw out 丟棄。（C) sent out 寄出。"
+    },
+    {
+      "question_en": "He is the ___ person I know; he never gives up.",
+      "options": [
+        "determine",
+        "determined",
+        "determining",
+        "determination"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) determined（形容詞，堅定的）。（A) determine 動詞。（C) determining 進行式。（D) determination 名詞。"
+    },
+    {
+      "question_en": "Don't ___ on me; I'm counting on your support.",
+      "options": [
+        "give up",
+        "let down",
+        "take off",
+        "put on"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) let down（讓人失望）。（A) give up 放棄。（C) take off 起飛。（D) put on 穿上。"
+    },
+    {
+      "question_en": "The new restaurant ___ delicious food at reasonable prices.",
+      "options": [
+        "sells",
+        "supplies",
+        "serves",
+        "provides"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) serves（提供餐點）。（A) sells 賣。（B) supplies 供應原料較常見。（D) provides 較廣義。"
+    },
+    {
+      "question_en": "The little girl ___ her mother around all day.",
+      "options": [
+        "followed",
+        "chased",
+        "pursued",
+        "trailed"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) followed（跟隨）。（B) chased 追逐。（C) pursued 追求（較正式）。（D) trailed 拖。"
+    },
+    {
+      "question_en": "I'll ___ you back as soon as I get home.",
+      "options": [
+        "tell",
+        "speak",
+        "talk",
+        "call"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) call。call somebody back 意為「回電」。（A) tell 告訴。（B) speak 說。（C) talk 談話。"
+    },
+    {
+      "question_en": "This shirt is ___ than that one.",
+      "options": [
+        "expensive",
+        "more expensive",
+        "most expensive",
+        "expensively"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) more expensive（比較級）。（A) expensive 原級。（C) most expensive 最高級。（D) expensively 副詞。"
+    },
+    {
+      "question_en": "The boss ___ the meeting until next Monday.",
+      "options": [
+        "extended",
+        "delayed",
+        "cancelled",
+        "postponed"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) postponed（延後到某時）。（A) extended 延長。（B) delayed 耽擱。（C) cancelled 取消。"
+    },
+    {
+      "question_en": "She has ___ many awards for her research.",
+      "options": [
+        "receive",
+        "received",
+        "receiving",
+        "receives"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) received（現在完成式）。（A) receive 原形。（C) receiving 進行式。（D) receives 第三人稱單數。"
+    },
+    {
+      "question_en": "They ___ off the trip due to bad weather.",
+      "options": [
+        "took",
+        "called",
+        "put",
+        "made"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) called。call off 意為「取消」。（A) take off 起飛。（C) put off 延期（仍會辦）。（D) made off 逃跑。"
+    },
+    {
+      "question_en": "The food in this restaurant is ___ delicious.",
+      "options": [
+        "absolute",
+        "absolutely",
+        "absoluteness",
+        "absolutist"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) absolutely（副詞修飾形容詞 delicious）。（A) absolute 形容詞。（C) absoluteness 名詞。（D) absolutist 名詞/形容詞。"
+    },
+    {
+      "question_en": "He ___ his promise and arrived on time.",
+      "options": [
+        "broke",
+        "kept",
+        "made",
+        "took"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) kept。keep a promise 意為「遵守承諾」。（A) broke 違背。（C)(D) 不搭配。"
+    },
+    {
+      "question_en": "The students ___ to the teacher's instructions carefully.",
+      "options": [
+        "heard",
+        "listened",
+        "sounded",
+        "noticed"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) listened。listen to 為固定搭配。（A) heard 聽見（無 to）。（C) sounded 聽起來。（D) noticed 注意到。"
+    },
+    {
+      "question_en": "The thief ___ away with the jewelry.",
+      "options": [
+        "got",
+        "ran",
+        "made",
+        "took"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) got。get away with 意為「逃脫懲罰」。（B) ran away 逃跑（不接 with）。（C)(D) 不搭配。"
+    },
+    {
+      "question_en": "She speaks three languages ___.",
+      "options": [
+        "fluent",
+        "fluency",
+        "fluently",
+        "fluidly"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) fluently（副詞）。（A) fluent 形容詞。（B) fluency 名詞。（D) fluidly 流暢地（語境不準）。"
+    },
+    {
+      "question_en": "The doctor advised him to ___ smoking.",
+      "options": [
+        "take up",
+        "make up",
+        "put up",
+        "give up"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) give up（戒掉）。（A) take up 開始從事。（B) make up 編造。（C) put up 搭建。"
+    },
+    {
+      "question_en": "This problem is too ___ for me to solve alone.",
+      "options": [
+        "difficulty",
+        "difficult",
+        "difficulties",
+        "difficultness"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) difficult（形容詞）。（A) difficulty 名詞。（C) difficulties 名詞複數。（D) 名詞罕用。"
+    },
+    {
+      "question_en": "He always ___ his best in everything he does.",
+      "options": [
+        "makes",
+        "does",
+        "takes",
+        "gets"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) does。固定搭配 do one's best。（A)(C)(D) 均不搭配。"
+    },
+    {
+      "question_en": "They ___ across an old photo while cleaning the attic.",
+      "options": [
+        "came",
+        "ran",
+        "got",
+        "took"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) came。come across 意為「偶然發現」。（B) ran across 較少用。（C)(D) 不搭配。"
+    },
+    {
+      "question_en": "The students ___ a lot of fun at the picnic.",
+      "options": [
+        "did",
+        "made",
+        "had",
+        "took"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) had。固定搭配 have fun。（A)(B)(D) 不搭配。"
+    },
+    {
+      "question_en": "The new student is very ___; he answers all the questions correctly.",
+      "options": [
+        "intelligent",
+        "intelligence",
+        "intelligently",
+        "intellect"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) intelligent（形容詞）。（B) intelligence 名詞。（C) intelligently 副詞。（D) intellect 名詞。"
+    },
+    {
+      "question_en": "Please ___ your shoes before entering the house.",
+      "options": [
+        "take off",
+        "put on",
+        "get off",
+        "turn off"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) take off（脫掉）。（B) put on 穿上。（C) get off 下車。（D) turn off 關掉。"
+    },
+    {
+      "question_en": "He ___ the responsibility for the mistake.",
+      "options": [
+        "did",
+        "made",
+        "took",
+        "got"
+      ],
+      "answer": 2,
+      "explanation_zh": "答案為 (C) took。固定搭配 take responsibility。（A)(B)(D) 不搭配。"
+    },
+    {
+      "question_en": "The package will be ___ tomorrow morning.",
+      "options": [
+        "deliver",
+        "delivered",
+        "delivery",
+        "delivering"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) delivered（被動式）。（A) deliver 原形。（C) delivery 名詞。（D) delivering 進行式。"
+    },
+    {
+      "question_en": "He ___ on the brakes to avoid hitting the dog.",
+      "options": [
+        "walked",
+        "jumped",
+        "ran",
+        "stepped"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) stepped。固定搭配 step on the brakes（踩剎車）。（A)(B)(C) 不搭配。"
+    },
+    {
+      "question_en": "The teacher told us to ___ our seats.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) take。固定搭配 take a seat。（B)(C)(D) 不搭配。"
+    },
+    {
+      "question_en": "The new manager ___ over the company last month.",
+      "options": [
+        "made",
+        "did",
+        "got",
+        "took"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) took。take over 意為「接管」。（A)(B)(C) 不搭配。"
+    },
+    {
+      "question_en": "She is ___ excited about her trip to Paris.",
+      "options": [
+        "extreme",
+        "extremely",
+        "extremity",
+        "extremes"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) extremely（副詞修飾形容詞 excited）。（A) extreme 形容詞。（C) extremity 名詞。（D) 名詞複數。"
+    },
+    {
+      "question_en": "Don't ___ the truth; honesty is the best policy.",
+      "options": [
+        "lay",
+        "lie",
+        "laid",
+        "lying"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) lie（說謊，原形與 don't 連用）。（A) lay 放置。（C) laid 過去式。（D) lying 進行式。"
+    },
+    {
+      "question_en": "He ___ the heavy box onto the truck with great effort.",
+      "options": [
+        "rose",
+        "arose",
+        "aroused",
+        "raised"
+      ],
+      "answer": 3,
+      "explanation_zh": "答案為 (D) raised（及物動詞，抬起）。（A) rose 不及物。（B) arose 出現。（C) aroused 喚起。"
+    },
+    {
+      "question_en": "The class was so ___ that several students fell asleep.",
+      "options": [
+        "bore",
+        "boring",
+        "bored",
+        "boredom"
+      ],
+      "answer": 1,
+      "explanation_zh": "答案為 (B) boring（令人感到無聊，物作主詞）。（A) bore 動詞。（C) bored 用於人。（D) boredom 名詞。"
+    },
+    {
+      "question_en": "My alarm clock ___ at 7 a.m. every day.",
+      "options": [
+        "goes off",
+        "goes on",
+        "goes out",
+        "goes up"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) goes off（響起）。（B) goes on 繼續。（C) goes out 外出。（D) goes up 上升。"
+    },
+    {
+      "question_en": "She has a ___ knowledge of European history.",
+      "options": [
+        "wide",
+        "width",
+        "widely",
+        "widen"
+      ],
+      "answer": 0,
+      "explanation_zh": "答案為 (A) wide（形容詞）。（B) width 名詞。（C) widely 副詞。（D) widen 動詞。"
     }
   ]
 }

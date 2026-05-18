@@ -5,9 +5,18 @@
       "meaning_zh": "表示從過去持續到現在的動作或狀態，或對現在仍有影響的過去經驗。常與 for, since, already, yet, ever, just 等副詞連用。",
       "structure": "S + have/has + p.p. (+ for/since/already/yet ...)",
       "examples": [
-        { "en": "I have lived in Taipei for more than ten years.", "zh": "我在台北住了十年以上。" },
-        { "en": "She has already finished her English homework.", "zh": "她已經寫完英文作業了。" },
-        { "en": "Have you ever visited the National Palace Museum?", "zh": "你曾經參觀過故宮博物院嗎？" }
+        {
+          "en": "I have lived in Taipei for more than ten years.",
+          "zh": "我在台北住了十年以上。"
+        },
+        {
+          "en": "She has already finished her English homework.",
+          "zh": "她已經寫完英文作業了。"
+        },
+        {
+          "en": "Have you ever visited the National Palace Museum?",
+          "zh": "你曾經參觀過故宮博物院嗎？"
+        }
       ]
     },
     {
@@ -15,9 +24,18 @@
       "meaning_zh": "用來比較兩者或三者以上的人事物。短形容詞加 -er/-est，長形容詞用 more/most，並注意 good-better-best 等不規則變化。",
       "structure": "S + V + adj-er + than + N ; S + V + the + adj-est + (N) ; S + V + more/most + adj (+ than ...)",
       "examples": [
-        { "en": "My new phone is lighter than the old one.", "zh": "我的新手機比舊的還要輕。" },
-        { "en": "This is the most interesting book I have ever read.", "zh": "這是我讀過最有趣的書。" },
-        { "en": "Learning English is more difficult than I expected.", "zh": "學英文比我預期的還要困難。" }
+        {
+          "en": "My new phone is lighter than the old one.",
+          "zh": "我的新手機比舊的還要輕。"
+        },
+        {
+          "en": "This is the most interesting book I have ever read.",
+          "zh": "這是我讀過最有趣的書。"
+        },
+        {
+          "en": "Learning English is more difficult than I expected.",
+          "zh": "學英文比我預期的還要困難。"
+        }
       ]
     },
     {
@@ -25,9 +43,18 @@
       "meaning_zh": "Type 1 表示未來可能發生的條件 (if + 現在式, will + V)；Type 2 表示與現在事實相反的假設 (if + 過去式, would + V)。",
       "structure": "Type 1: If + S + V(現在式), S + will + V. ; Type 2: If + S + V(過去式), S + would + V.",
       "examples": [
-        { "en": "If it rains tomorrow, we will cancel the picnic.", "zh": "如果明天下雨，我們就取消野餐。" },
-        { "en": "If I had more money, I would travel around the world.", "zh": "如果我有更多錢，我會環遊世界。" },
-        { "en": "If she were here, she would know what to do.", "zh": "如果她在這裡，她就會知道該怎麼辦。" }
+        {
+          "en": "If it rains tomorrow, we will cancel the picnic.",
+          "zh": "如果明天下雨，我們就取消野餐。"
+        },
+        {
+          "en": "If I had more money, I would travel around the world.",
+          "zh": "如果我有更多錢，我會環遊世界。"
+        },
+        {
+          "en": "If she were here, she would know what to do.",
+          "zh": "如果她在這裡，她就會知道該怎麼辦。"
+        }
       ]
     },
     {
@@ -35,9 +62,18 @@
       "meaning_zh": "強調動作的承受者而非動作的執行者，由 be 動詞加上過去分詞構成。執行者可用 by 帶出，必要時可省略。",
       "structure": "S + be + p.p. (+ by + 行為者)",
       "examples": [
-        { "en": "The report was written by our new colleague.", "zh": "這份報告是由我們的新同事撰寫的。" },
-        { "en": "English is spoken in many countries around the world.", "zh": "英文在世界上許多國家被使用。" },
-        { "en": "The package will be delivered tomorrow morning.", "zh": "這個包裹明天早上會被送達。" }
+        {
+          "en": "The report was written by our new colleague.",
+          "zh": "這份報告是由我們的新同事撰寫的。"
+        },
+        {
+          "en": "English is spoken in many countries around the world.",
+          "zh": "英文在世界上許多國家被使用。"
+        },
+        {
+          "en": "The package will be delivered tomorrow morning.",
+          "zh": "這個包裹明天早上會被送達。"
+        }
       ]
     },
     {
@@ -45,9 +81,18 @@
       "meaning_zh": "用來引導形容詞子句以修飾前面的先行詞。who 指人，which 指物，that 兩者皆可，whose 表示所有格。",
       "structure": "N (先行詞) + who/which/that/whose + V ...",
       "examples": [
-        { "en": "The student who won the speech contest is my classmate.", "zh": "贏得演講比賽的那位學生是我的同學。" },
-        { "en": "This is the restaurant which serves the best beef noodles.", "zh": "這就是賣最棒牛肉麵的餐廳。" },
-        { "en": "I met a girl whose father is a famous doctor.", "zh": "我遇到一個女孩，她的父親是有名的醫生。" }
+        {
+          "en": "The student who won the speech contest is my classmate.",
+          "zh": "贏得演講比賽的那位學生是我的同學。"
+        },
+        {
+          "en": "This is the restaurant which serves the best beef noodles.",
+          "zh": "這就是賣最棒牛肉麵的餐廳。"
+        },
+        {
+          "en": "I met a girl whose father is a famous doctor.",
+          "zh": "我遇到一個女孩，她的父親是有名的醫生。"
+        }
       ]
     },
     {
@@ -55,9 +100,3018 @@
       "meaning_zh": "某些動詞後接動名詞 (V-ing)，如 enjoy, finish, avoid, mind；某些動詞後接不定式 (to V)，如 decide, hope, plan, want。",
       "structure": "S + V + V-ing ; S + V + to + V",
       "examples": [
-        { "en": "I enjoy listening to English songs in my free time.", "zh": "我空閒時喜歡聽英文歌。" },
-        { "en": "She decided to study abroad next year.", "zh": "她決定明年出國念書。" },
-        { "en": "Please avoid making noise in the library.", "zh": "請避免在圖書館內製造噪音。" }
+        {
+          "en": "I enjoy listening to English songs in my free time.",
+          "zh": "我空閒時喜歡聽英文歌。"
+        },
+        {
+          "en": "She decided to study abroad next year.",
+          "zh": "她決定明年出國念書。"
+        },
+        {
+          "en": "Please avoid making noise in the library.",
+          "zh": "請避免在圖書館內製造噪音。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Present Tense - Habits (現在簡單式-習慣)",
+      "meaning_zh": "用來描述日常習慣或經常做的事情，常搭配 always、usually、often、sometimes 等頻率副詞。",
+      "structure": "S + V(s/es) + O",
+      "examples": [
+        {
+          "en": "She drinks coffee every morning.",
+          "zh": "她每天早上都喝咖啡。"
+        },
+        {
+          "en": "I usually walk to school.",
+          "zh": "我通常走路上學。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Present Tense - General Truths (現在簡單式-一般真理)",
+      "meaning_zh": "用來表達不變的事實、科學定律或普遍真理。",
+      "structure": "S + V(s/es)",
+      "examples": [
+        {
+          "en": "The sun rises in the east.",
+          "zh": "太陽從東邊升起。"
+        },
+        {
+          "en": "Water boils at 100 degrees Celsius.",
+          "zh": "水在攝氏一百度沸騰。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Present Tense - Scheduled Future (現在簡單式-時刻表未來)",
+      "meaning_zh": "用於表達依照時刻表或行程安排的未來事件，常見於交通、節目時刻。",
+      "structure": "S + V(s/es) + 未來時間",
+      "examples": [
+        {
+          "en": "The train leaves at 7 p.m. tomorrow.",
+          "zh": "火車明天晚上七點出發。"
+        },
+        {
+          "en": "The movie starts at eight tonight.",
+          "zh": "電影今晚八點開始。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Present Tense - States/Facts (現在簡單式-狀態事實)",
+      "meaning_zh": "用來陳述目前的狀態、身分或事實。",
+      "structure": "S + be / V(s/es)",
+      "examples": [
+        {
+          "en": "He is a doctor.",
+          "zh": "他是一位醫生。"
+        },
+        {
+          "en": "They live in Taipei.",
+          "zh": "他們住在台北。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Continuous Tense (現在進行式)",
+      "meaning_zh": "用來表達說話當下正在進行的動作，搭配 now、right now、at the moment 等。",
+      "structure": "S + am/is/are + V-ing",
+      "examples": [
+        {
+          "en": "I am reading a book now.",
+          "zh": "我現在正在看書。"
+        },
+        {
+          "en": "They are playing basketball at the moment.",
+          "zh": "他們此刻正在打籃球。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Continuous for Arranged Future (現在進行式表已安排未來)",
+      "meaning_zh": "用來表達已經安排或計畫好的未來行程，通常有明確時間。",
+      "structure": "S + am/is/are + V-ing + 未來時間",
+      "examples": [
+        {
+          "en": "I am meeting John tomorrow afternoon.",
+          "zh": "我明天下午要和約翰見面。"
+        },
+        {
+          "en": "She is flying to Tokyo next week.",
+          "zh": "她下週要飛去東京。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Continuous for Temporary Situations (現在進行式-暫時狀況)",
+      "meaning_zh": "用來描述目前一段時間正在進行、但屬於暫時性的動作或情況。",
+      "structure": "S + am/is/are + V-ing",
+      "examples": [
+        {
+          "en": "He is staying with his uncle this month.",
+          "zh": "他這個月暫住在他叔叔家。"
+        },
+        {
+          "en": "I am working from home these days.",
+          "zh": "我這陣子都在家工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Continuous for Changing Situations (現在進行式-變化中)",
+      "meaning_zh": "表達正在改變或發展中的情況，常與 get、become、grow、change 等動詞連用。",
+      "structure": "S + am/is/are + getting/becoming + adj",
+      "examples": [
+        {
+          "en": "The weather is getting colder.",
+          "zh": "天氣正變得越來越冷。"
+        },
+        {
+          "en": "My English is improving.",
+          "zh": "我的英文正在進步。"
+        }
+      ]
+    },
+    {
+      "pattern": "Stative Verbs - No Continuous (狀態動詞不用進行式)",
+      "meaning_zh": "表示感受、思想、擁有等狀態的動詞通常不使用進行式，例如 know、believe、like、own、belong。",
+      "structure": "S + 狀態動詞 (現在簡單式)",
+      "examples": [
+        {
+          "en": "I know the answer.",
+          "zh": "我知道答案。"
+        },
+        {
+          "en": "She likes chocolate.",
+          "zh": "她喜歡巧克力。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Past Tense - Completed Action (過去簡單式-已完成動作)",
+      "meaning_zh": "用來描述過去某個明確時間點完成的動作，常搭配 yesterday、last week、ago 等時間詞。",
+      "structure": "S + V-ed / 不規則過去式",
+      "examples": [
+        {
+          "en": "I visited my grandma last weekend.",
+          "zh": "我上週末去看了奶奶。"
+        },
+        {
+          "en": "He bought a new bike yesterday.",
+          "zh": "他昨天買了一輛新腳踏車。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Past Tense - Historical Facts (過去簡單式-歷史事實)",
+      "meaning_zh": "用來描述歷史上發生過的事件或人物的事蹟。",
+      "structure": "S + V-ed (過去式)",
+      "examples": [
+        {
+          "en": "Columbus arrived in America in 1492.",
+          "zh": "哥倫布在一四九二年抵達美洲。"
+        },
+        {
+          "en": "World War II ended in 1945.",
+          "zh": "第二次世界大戰於一九四五年結束。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Past Tense - Past Habits (過去簡單式-過去習慣)",
+      "meaning_zh": "用來描述過去經常發生、現在不一定持續的習慣，可搭配頻率副詞。",
+      "structure": "S + V-ed + 頻率副詞",
+      "examples": [
+        {
+          "en": "She always walked to school as a child.",
+          "zh": "她小時候總是走路上學。"
+        },
+        {
+          "en": "We often played by the river.",
+          "zh": "我們以前常在河邊玩。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Continuous Tense (過去進行式)",
+      "meaning_zh": "用來表達過去某個時間點正在進行的動作。",
+      "structure": "S + was/were + V-ing",
+      "examples": [
+        {
+          "en": "I was watching TV at 8 p.m. last night.",
+          "zh": "我昨晚八點正在看電視。"
+        },
+        {
+          "en": "They were studying when I called.",
+          "zh": "我打電話時他們正在念書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Continuous - Interrupted Action (過去進行式-動作被打斷)",
+      "meaning_zh": "用來表達一個過去正在進行的動作被另一個短暫動作打斷，常與 when 搭配。",
+      "structure": "S + was/were + V-ing + when + S + V-ed",
+      "examples": [
+        {
+          "en": "I was taking a shower when the phone rang.",
+          "zh": "我正在洗澡時，電話響了。"
+        },
+        {
+          "en": "She was cooking when the power went out.",
+          "zh": "她正在煮飯時，停電了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Continuous - Two Parallel Actions (過去進行式-同時發生)",
+      "meaning_zh": "用來描述過去同一時間兩個動作同時進行，常與 while 連用。",
+      "structure": "S + was/were + V-ing + while + S + was/were + V-ing",
+      "examples": [
+        {
+          "en": "I was reading while my brother was playing games.",
+          "zh": "我在看書時，弟弟在打電動。"
+        },
+        {
+          "en": "She was singing while he was playing the guitar.",
+          "zh": "她在唱歌時，他在彈吉他。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect Tense - Experience (現在完成式-經驗)",
+      "meaning_zh": "用來表達到目前為止的人生經驗，常搭配 ever、never、before。",
+      "structure": "S + have/has + p.p.",
+      "examples": [
+        {
+          "en": "I have been to Japan twice.",
+          "zh": "我去過日本兩次。"
+        },
+        {
+          "en": "She has never tried sushi before.",
+          "zh": "她從未嘗試過壽司。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect Tense - Unfinished Period (現在完成式-持續至今)",
+      "meaning_zh": "用來表達從過去某時間開始持續到現在的狀態或動作，常搭配 for、since。",
+      "structure": "S + have/has + p.p. + for/since + 時間",
+      "examples": [
+        {
+          "en": "I have lived here for ten years.",
+          "zh": "我在這裡住了十年了。"
+        },
+        {
+          "en": "He has worked at this company since 2015.",
+          "zh": "他從二零一五年起就在這家公司工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect Tense - Recent Past (現在完成式-剛完成)",
+      "meaning_zh": "用來表達剛剛完成或最近完成的動作，常搭配 just、already、recently、lately。",
+      "structure": "S + have/has + just/already + p.p.",
+      "examples": [
+        {
+          "en": "I have just finished my homework.",
+          "zh": "我剛剛寫完功課。"
+        },
+        {
+          "en": "She has already eaten lunch.",
+          "zh": "她已經吃過午餐了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect - With Yet (現在完成式-yet 否定/疑問)",
+      "meaning_zh": "yet 用於否定句和疑問句，表達某動作尚未發生或詢問是否已完成。",
+      "structure": "S + haven't/hasn't + p.p. + yet / Have/Has + S + p.p. + yet?",
+      "examples": [
+        {
+          "en": "I haven't finished the report yet.",
+          "zh": "我還沒寫完報告。"
+        },
+        {
+          "en": "Have you eaten dinner yet?",
+          "zh": "你吃過晚餐了嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect - Result in Present (現在完成式-過去動作影響現在)",
+      "meaning_zh": "用來強調過去發生的動作對現在造成的結果或影響。",
+      "structure": "S + have/has + p.p.",
+      "examples": [
+        {
+          "en": "I have lost my keys, so I can't get in.",
+          "zh": "我把鑰匙弄丟了，所以進不了門。"
+        },
+        {
+          "en": "He has broken his leg, so he can't play.",
+          "zh": "他摔斷了腿，所以不能踢球。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Tense vs Present Perfect (過去式 vs 現在完成式)",
+      "meaning_zh": "過去式用於明確過去時間的動作；現在完成式用於不指明確時間或仍與現在相關的動作。",
+      "structure": "S + V-ed (具體時間) / S + have/has + p.p. (不指明時間)",
+      "examples": [
+        {
+          "en": "I saw that movie last week.",
+          "zh": "我上週看了那部電影。"
+        },
+        {
+          "en": "I have seen that movie before.",
+          "zh": "我以前看過那部電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "Present Perfect Continuous (現在完成進行式)",
+      "meaning_zh": "用來強調某動作從過去持續進行到現在，並可能仍在進行，常搭配 for、since。",
+      "structure": "S + have/has + been + V-ing",
+      "examples": [
+        {
+          "en": "I have been studying English for three hours.",
+          "zh": "我已經念英文念了三個小時了。"
+        },
+        {
+          "en": "She has been waiting since noon.",
+          "zh": "她從中午就一直等到現在。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Perfect Tense (過去完成式)",
+      "meaning_zh": "用來表達過去某時間點之前已經完成的動作，常用於描述過去兩件事的先後順序。",
+      "structure": "S + had + p.p.",
+      "examples": [
+        {
+          "en": "When I arrived, the train had already left.",
+          "zh": "我到達時，火車已經開走了。"
+        },
+        {
+          "en": "She had finished dinner before he came home.",
+          "zh": "她在他回家前就吃完晚餐了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Perfect for Sequence (過去完成式-過去事件順序)",
+      "meaning_zh": "用來明確指出在過去兩個動作中，哪一個先發生，先發生的用過去完成式。",
+      "structure": "S + had + p.p. + before/when + S + V-ed",
+      "examples": [
+        {
+          "en": "He had eaten before I called him.",
+          "zh": "我打給他之前，他就已經吃過了。"
+        },
+        {
+          "en": "They had left when we got there.",
+          "zh": "我們到達時，他們已經離開了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past Perfect Continuous (過去完成進行式)",
+      "meaning_zh": "表達過去某時間點之前，已持續進行一段時間的動作。",
+      "structure": "S + had + been + V-ing",
+      "examples": [
+        {
+          "en": "She had been studying for two hours when I arrived.",
+          "zh": "我到達時，她已經念了兩小時的書。"
+        },
+        {
+          "en": "They had been waiting for an hour before the bus came.",
+          "zh": "公車來之前，他們已經等了一小時。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Future Tense - Will for Predictions (未來簡單式-預測)",
+      "meaning_zh": "will 用來表達對未來的預測或推測，常搭配 think、believe、probably。",
+      "structure": "S + will + V",
+      "examples": [
+        {
+          "en": "I think it will rain tomorrow.",
+          "zh": "我想明天會下雨。"
+        },
+        {
+          "en": "She will probably be late.",
+          "zh": "她可能會遲到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Simple Future - Will for Decisions (未來簡單式-當下決定)",
+      "meaning_zh": "will 用於說話當下臨時做出的決定，表達自願或承諾。",
+      "structure": "S + will + V",
+      "examples": [
+        {
+          "en": "I will help you with the bags.",
+          "zh": "我來幫你拿袋子。"
+        },
+        {
+          "en": "OK, I will call him right now.",
+          "zh": "好，我現在就打給他。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be Going To - Plans (be going to 計畫)",
+      "meaning_zh": "用來表達說話前已經想好或計畫好的未來打算。",
+      "structure": "S + am/is/are + going to + V",
+      "examples": [
+        {
+          "en": "I am going to visit my aunt this weekend.",
+          "zh": "我這週末要去看姑姑。"
+        },
+        {
+          "en": "They are going to start a new business.",
+          "zh": "他們打算開創新事業。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be Going To - Evidence-Based Prediction (be going to 有跡象的預測)",
+      "meaning_zh": "當有明顯跡象顯示某事即將發生時，用 be going to 表示預測。",
+      "structure": "S + am/is/are + going to + V",
+      "examples": [
+        {
+          "en": "Look at those clouds! It is going to rain.",
+          "zh": "你看那些雲！要下雨了。"
+        },
+        {
+          "en": "He is going to fall off the ladder.",
+          "zh": "他要從梯子上摔下來了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Will vs Be Going To (will 與 be going to 的差異)",
+      "meaning_zh": "will 多用於當下決定或單純預測；be going to 用於事先計畫或基於現有跡象的預測。",
+      "structure": "S + will / be going to + V",
+      "examples": [
+        {
+          "en": "I will answer the phone.",
+          "zh": "我來接電話。"
+        },
+        {
+          "en": "I am going to study abroad next year.",
+          "zh": "我明年要出國念書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be About To (即將要做)",
+      "meaning_zh": "用來表達非常接近、立刻要發生的動作，通常在幾分鐘內。",
+      "structure": "S + am/is/are + about to + V",
+      "examples": [
+        {
+          "en": "The movie is about to start.",
+          "zh": "電影馬上要開始了。"
+        },
+        {
+          "en": "I am about to leave the office.",
+          "zh": "我正要離開辦公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "Future Continuous Tense (未來進行式)",
+      "meaning_zh": "表達未來某個時間點正在進行的動作。",
+      "structure": "S + will + be + V-ing",
+      "examples": [
+        {
+          "en": "This time tomorrow I will be flying to Paris.",
+          "zh": "明天這個時候，我將正在飛往巴黎。"
+        },
+        {
+          "en": "At 8 p.m. she will be having dinner.",
+          "zh": "晚上八點她會正在吃晚餐。"
+        }
+      ]
+    },
+    {
+      "pattern": "Future Perfect Tense (未來完成式)",
+      "meaning_zh": "表達在未來某個時間點之前已完成的動作，常搭配 by + 時間。",
+      "structure": "S + will + have + p.p. + by + 時間",
+      "examples": [
+        {
+          "en": "I will have finished the project by next Friday.",
+          "zh": "我下週五之前會完成這個專案。"
+        },
+        {
+          "en": "By 2030, he will have graduated from college.",
+          "zh": "到二零三零年，他將會大學畢業。"
+        }
+      ]
+    },
+    {
+      "pattern": "Future Perfect Continuous (未來完成進行式)",
+      "meaning_zh": "用來表達到未來某時間點，動作已持續進行了多久。",
+      "structure": "S + will + have + been + V-ing + for + 時間",
+      "examples": [
+        {
+          "en": "By June, I will have been working here for ten years.",
+          "zh": "到六月時，我將會在這裡工作滿十年。"
+        },
+        {
+          "en": "By midnight, they will have been driving for eight hours.",
+          "zh": "到午夜時，他們將已開了八個小時的車。"
+        }
+      ]
+    },
+    {
+      "pattern": "Used To (過去經常)",
+      "meaning_zh": "used to 用來表達過去經常或習慣做、但現在不再做的事，或過去存在現在不存在的狀態。",
+      "structure": "S + used to + V (原形)",
+      "examples": [
+        {
+          "en": "I used to play piano when I was young.",
+          "zh": "我小時候常常彈鋼琴。"
+        },
+        {
+          "en": "There used to be a bakery on this corner.",
+          "zh": "這個轉角以前有一間麵包店。"
+        }
+      ]
+    },
+    {
+      "pattern": "Would for Past Habits (would 表過去習慣)",
+      "meaning_zh": "would 用來表達過去重複發生的動作習慣，但不能用於過去的狀態。",
+      "structure": "S + would + V (原形)",
+      "examples": [
+        {
+          "en": "Every summer we would visit our grandparents.",
+          "zh": "每年夏天我們都會去看祖父母。"
+        },
+        {
+          "en": "He would always tell us bedtime stories.",
+          "zh": "他以前總是會講床邊故事給我們聽。"
+        }
+      ]
+    },
+    {
+      "pattern": "Used To vs Would (used to 和 would 的差異)",
+      "meaning_zh": "used to 可用於動作和狀態；would 只能用於重複動作，不能用於狀態。",
+      "structure": "S + used to / would + V",
+      "examples": [
+        {
+          "en": "I used to live in Tokyo. (狀態)",
+          "zh": "我以前住在東京。"
+        },
+        {
+          "en": "We would go fishing every Sunday. (動作)",
+          "zh": "我們以前每週日都會去釣魚。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - Last / Ago / Yesterday (過去式時間標誌)",
+      "meaning_zh": "last week、yesterday、in 2010、... ago 等明確過去時間，需搭配過去簡單式。",
+      "structure": "S + V-ed + last / yesterday / ago",
+      "examples": [
+        {
+          "en": "She arrived three days ago.",
+          "zh": "她三天前抵達。"
+        },
+        {
+          "en": "We watched a movie last night.",
+          "zh": "我們昨晚看了一部電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - For / Since (現在完成式時間標誌)",
+      "meaning_zh": "for 接時間長度（如 for two years）；since 接時間起點（如 since 2020），搭配現在完成式。",
+      "structure": "S + have/has + p.p. + for/since + 時間",
+      "examples": [
+        {
+          "en": "I have known him for five years.",
+          "zh": "我認識他五年了。"
+        },
+        {
+          "en": "She has been ill since Monday.",
+          "zh": "她從週一開始就生病了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - Already / Yet / Just (現在完成式副詞)",
+      "meaning_zh": "already 用於肯定句強調已完成；yet 用於否定/疑問句表尚未；just 表剛剛。",
+      "structure": "have/has + already/just + p.p. / haven't + p.p. + yet",
+      "examples": [
+        {
+          "en": "I have already done my homework.",
+          "zh": "我已經做完功課了。"
+        },
+        {
+          "en": "He hasn't arrived yet.",
+          "zh": "他還沒到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - Ever / Never (現在完成式經驗副詞)",
+      "meaning_zh": "ever 用於疑問句問經驗；never 用於否定表示從未做過。",
+      "structure": "Have/Has + S + ever + p.p.? / S + have/has + never + p.p.",
+      "examples": [
+        {
+          "en": "Have you ever been to Korea?",
+          "zh": "你曾經去過韓國嗎？"
+        },
+        {
+          "en": "I have never seen snow.",
+          "zh": "我從未看過雪。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - By + Future Time (未來完成式時間標誌)",
+      "meaning_zh": "by + 未來時間表達截至某時間點之前；常與未來完成式搭配。",
+      "structure": "S + will + have + p.p. + by + 時間",
+      "examples": [
+        {
+          "en": "By next year, I will have saved enough money.",
+          "zh": "到明年，我將會存到足夠的錢。"
+        },
+        {
+          "en": "She will have left by 5 p.m.",
+          "zh": "她下午五點前就會離開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Markers - Lately / Recently (近期完成式副詞)",
+      "meaning_zh": "lately 和 recently 表達最近一段時間，常與現在完成式或現在完成進行式搭配。",
+      "structure": "S + have/has + (been) + p.p./V-ing + lately/recently",
+      "examples": [
+        {
+          "en": "I haven't seen him lately.",
+          "zh": "我最近都沒見到他。"
+        },
+        {
+          "en": "She has been feeling tired recently.",
+          "zh": "她最近一直覺得很累。"
+        }
+      ]
+    },
+    {
+      "pattern": "Reported Speech - Tense Backshift (轉述句-時態後移)",
+      "meaning_zh": "轉述他人話語時，動詞時態通常向過去後移一格，例如現在式變過去式。",
+      "structure": "主要動詞過去式 + that + 子句 (時態後移)",
+      "examples": [
+        {
+          "en": "He said that he was tired.",
+          "zh": "他說他很累。"
+        },
+        {
+          "en": "She told me that she had finished the book.",
+          "zh": "她告訴我她已經看完那本書了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Reported Speech - No Backshift (轉述句-不需後移)",
+      "meaning_zh": "若敘述為普遍真理或情況仍然成立，轉述時可不後移時態。",
+      "structure": "主要動詞過去式 + that + 現在式",
+      "examples": [
+        {
+          "en": "He said that the earth is round.",
+          "zh": "他說地球是圓的。"
+        },
+        {
+          "en": "She said she likes coffee.",
+          "zh": "她說她喜歡咖啡。"
+        }
+      ]
+    },
+    {
+      "pattern": "Zero Conditional (條件句零型-一般真理)",
+      "meaning_zh": "用來表達一般真理、科學事實或自然法則，兩個子句都用現在簡單式。",
+      "structure": "If + S + V (現在式), S + V (現在式)",
+      "examples": [
+        {
+          "en": "If you heat ice, it melts.",
+          "zh": "如果你加熱冰，它會融化。"
+        },
+        {
+          "en": "If it rains, the ground gets wet.",
+          "zh": "如果下雨，地面會變濕。"
+        }
+      ]
+    },
+    {
+      "pattern": "Frequency Adverbs with Present Tense (頻率副詞+現在式)",
+      "meaning_zh": "always、usually、often、sometimes、rarely、never 等頻率副詞通常放在一般動詞前、be 動詞後。",
+      "structure": "S + 頻率副詞 + V / S + be + 頻率副詞",
+      "examples": [
+        {
+          "en": "He always arrives on time.",
+          "zh": "他總是準時到達。"
+        },
+        {
+          "en": "She is rarely late for class.",
+          "zh": "她很少上課遲到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Clauses - When / After / Before + Present for Future (時間子句用現在式表未來)",
+      "meaning_zh": "在 when、after、before、until、as soon as 等時間連接詞引導的子句中，用現在式表達未來意義。",
+      "structure": "主句 will + V, when/after/before + S + V (現在式)",
+      "examples": [
+        {
+          "en": "I will call you when I arrive.",
+          "zh": "我到的時候會打電話給你。"
+        },
+        {
+          "en": "We will leave after she comes back.",
+          "zh": "她回來後我們就走。"
+        }
+      ]
+    },
+    {
+      "pattern": "Time Clauses - Until + Present for Future (until 子句用現在式)",
+      "meaning_zh": "until 引導的時間子句即使表達未來，也使用現在式。",
+      "structure": "主句 will + V, until + S + V (現在式)",
+      "examples": [
+        {
+          "en": "I will wait here until you come back.",
+          "zh": "你回來之前我會在這裡等。"
+        },
+        {
+          "en": "She won't leave until the meeting ends.",
+          "zh": "會議結束前她不會離開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tense Consistency in Subordinate Clauses (從屬子句時態一致)",
+      "meaning_zh": "主句為過去式時，從屬子句通常也使用過去式或過去完成式，保持時態一致。",
+      "structure": "主句 V-ed + that + S + V-ed / had p.p.",
+      "examples": [
+        {
+          "en": "I knew that he was sick.",
+          "zh": "我知道他生病了。"
+        },
+        {
+          "en": "She thought that he had already left.",
+          "zh": "她以為他已經離開了。"
+        }
+      ]
+    },
+    {
+      "pattern": "can (ability)",
+      "meaning_zh": "表達能力，「會、能夠」做某事。",
+      "structure": "主詞 + can + 原形動詞",
+      "examples": [
+        {
+          "en": "She can speak three languages fluently.",
+          "zh": "她能流利地說三種語言。"
+        },
+        {
+          "en": "I can swim across the river.",
+          "zh": "我能游過這條河。"
+        }
+      ]
+    },
+    {
+      "pattern": "could (past ability)",
+      "meaning_zh": "表達過去的能力，「以前能夠」。",
+      "structure": "主詞 + could + 原形動詞",
+      "examples": [
+        {
+          "en": "When I was young, I could run very fast.",
+          "zh": "我年輕時跑得非常快。"
+        },
+        {
+          "en": "He could play the piano at the age of five.",
+          "zh": "他五歲時就會彈鋼琴。"
+        }
+      ]
+    },
+    {
+      "pattern": "can / could (permission)",
+      "meaning_zh": "請求或給予許可，could 較有禮貌。",
+      "structure": "Can / Could + 主詞 + 原形動詞？",
+      "examples": [
+        {
+          "en": "Can I borrow your pen, please?",
+          "zh": "我可以借你的筆嗎？"
+        },
+        {
+          "en": "Could I use your phone for a moment?",
+          "zh": "我可以借用一下你的電話嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "may (formal permission)",
+      "meaning_zh": "正式地請求或給予許可。",
+      "structure": "May + 主詞 + 原形動詞？",
+      "examples": [
+        {
+          "en": "May I come in, sir?",
+          "zh": "先生，我可以進來嗎？"
+        },
+        {
+          "en": "You may leave the classroom now.",
+          "zh": "你現在可以離開教室了。"
+        }
+      ]
+    },
+    {
+      "pattern": "may / might (possibility)",
+      "meaning_zh": "表達可能性，might 通常較不確定。",
+      "structure": "主詞 + may / might + 原形動詞",
+      "examples": [
+        {
+          "en": "It may rain this afternoon.",
+          "zh": "今天下午可能會下雨。"
+        },
+        {
+          "en": "She might be at the library now.",
+          "zh": "她現在可能在圖書館。"
+        }
+      ]
+    },
+    {
+      "pattern": "must (obligation)",
+      "meaning_zh": "表達強烈的義務或必要，「必須」。",
+      "structure": "主詞 + must + 原形動詞",
+      "examples": [
+        {
+          "en": "You must wear a seatbelt in the car.",
+          "zh": "你在車裡必須繫安全帶。"
+        },
+        {
+          "en": "Students must hand in their homework on time.",
+          "zh": "學生必須準時交作業。"
+        }
+      ]
+    },
+    {
+      "pattern": "must (deduction)",
+      "meaning_zh": "根據證據做出強烈推論，「一定是」。",
+      "structure": "主詞 + must + be / 原形動詞",
+      "examples": [
+        {
+          "en": "You haven't eaten all day. You must be hungry.",
+          "zh": "你一整天沒吃東西，你一定很餓。"
+        },
+        {
+          "en": "The lights are on. They must be home.",
+          "zh": "燈亮著，他們一定在家。"
+        }
+      ]
+    },
+    {
+      "pattern": "mustn't (prohibition)",
+      "meaning_zh": "表達禁止，「絕對不可以」。",
+      "structure": "主詞 + mustn't + 原形動詞",
+      "examples": [
+        {
+          "en": "You mustn't smoke in the hospital.",
+          "zh": "你不可以在醫院裡抽菸。"
+        },
+        {
+          "en": "Children mustn't play with matches.",
+          "zh": "小孩不可以玩火柴。"
+        }
+      ]
+    },
+    {
+      "pattern": "should / ought to (advice)",
+      "meaning_zh": "給予建議，「應該」。",
+      "structure": "主詞 + should / ought to + 原形動詞",
+      "examples": [
+        {
+          "en": "You should drink more water every day.",
+          "zh": "你每天應該多喝水。"
+        },
+        {
+          "en": "He ought to apologize for being late.",
+          "zh": "他應該為遲到道歉。"
+        }
+      ]
+    },
+    {
+      "pattern": "shouldn't (negative advice)",
+      "meaning_zh": "給予否定的建議，「不應該」。",
+      "structure": "主詞 + shouldn't + 原形動詞",
+      "examples": [
+        {
+          "en": "You shouldn't eat so much junk food.",
+          "zh": "你不應該吃這麼多垃圾食物。"
+        },
+        {
+          "en": "We shouldn't judge people by their appearance.",
+          "zh": "我們不應該以貌取人。"
+        }
+      ]
+    },
+    {
+      "pattern": "will (prediction / future)",
+      "meaning_zh": "預測或表達未來的決定。",
+      "structure": "主詞 + will + 原形動詞",
+      "examples": [
+        {
+          "en": "It will be sunny tomorrow.",
+          "zh": "明天會是晴天。"
+        },
+        {
+          "en": "I will help you with your homework.",
+          "zh": "我會幫你做功課。"
+        }
+      ]
+    },
+    {
+      "pattern": "would (polite request)",
+      "meaning_zh": "禮貌地請求他人做某事。",
+      "structure": "Would + 主詞 + 原形動詞？",
+      "examples": [
+        {
+          "en": "Would you please open the window?",
+          "zh": "可以麻煩你打開窗戶嗎？"
+        },
+        {
+          "en": "Would you like some tea?",
+          "zh": "你想喝點茶嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "would (past habit / hypothetical)",
+      "meaning_zh": "表達過去習慣或假設情境。",
+      "structure": "主詞 + would + 原形動詞",
+      "examples": [
+        {
+          "en": "When I was a child, we would go fishing every summer.",
+          "zh": "我小時候，我們每年夏天都會去釣魚。"
+        },
+        {
+          "en": "I would travel the world if I were rich.",
+          "zh": "如果我有錢，我會環遊世界。"
+        }
+      ]
+    },
+    {
+      "pattern": "shall (suggestion / offer)",
+      "meaning_zh": "用於提議或詢問對方意見，多用於主詞 I/We。",
+      "structure": "Shall + I / we + 原形動詞？",
+      "examples": [
+        {
+          "en": "Shall we dance?",
+          "zh": "我們跳支舞好嗎？"
+        },
+        {
+          "en": "Shall I open the door for you?",
+          "zh": "要我幫你開門嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "must have + p.p. (past deduction)",
+      "meaning_zh": "對過去事件的強烈推論，「一定已經」。",
+      "structure": "主詞 + must have + 過去分詞",
+      "examples": [
+        {
+          "en": "The ground is wet; it must have rained last night.",
+          "zh": "地是濕的，昨晚一定下過雨。"
+        },
+        {
+          "en": "She must have forgotten about the meeting.",
+          "zh": "她一定是忘了這場會議。"
+        }
+      ]
+    },
+    {
+      "pattern": "should have + p.p. (past regret)",
+      "meaning_zh": "對過去未做之事的遺憾，「早該」。",
+      "structure": "主詞 + should have + 過去分詞",
+      "examples": [
+        {
+          "en": "I should have studied harder for the exam.",
+          "zh": "我應該更努力準備考試的。"
+        },
+        {
+          "en": "You should have told me the truth.",
+          "zh": "你早該告訴我實話。"
+        }
+      ]
+    },
+    {
+      "pattern": "could have + p.p. (past possibility)",
+      "meaning_zh": "過去可能但沒發生的事，「本來可以」。",
+      "structure": "主詞 + could have + 過去分詞",
+      "examples": [
+        {
+          "en": "You could have hurt yourself.",
+          "zh": "你本來可能會受傷的。"
+        },
+        {
+          "en": "We could have won the game.",
+          "zh": "我們本來可以贏得比賽。"
+        }
+      ]
+    },
+    {
+      "pattern": "might have + p.p. (past uncertainty)",
+      "meaning_zh": "對過去的不確定推論，「也許已經」。",
+      "structure": "主詞 + might have + 過去分詞",
+      "examples": [
+        {
+          "en": "He might have missed the bus.",
+          "zh": "他可能錯過了公車。"
+        },
+        {
+          "en": "They might have left already.",
+          "zh": "他們也許已經離開了。"
+        }
+      ]
+    },
+    {
+      "pattern": "have to (necessity)",
+      "meaning_zh": "表達外在的必要性，「必須」。",
+      "structure": "主詞 + have / has to + 原形動詞",
+      "examples": [
+        {
+          "en": "I have to wake up at six tomorrow.",
+          "zh": "我明天必須六點起床。"
+        },
+        {
+          "en": "She has to take care of her brother.",
+          "zh": "她必須照顧她的弟弟。"
+        }
+      ]
+    },
+    {
+      "pattern": "don't have to (no necessity)",
+      "meaning_zh": "沒有必要，「不必」。",
+      "structure": "主詞 + don't / doesn't have to + 原形動詞",
+      "examples": [
+        {
+          "en": "You don't have to come if you're busy.",
+          "zh": "如果你很忙，你不必來。"
+        },
+        {
+          "en": "He doesn't have to wear a uniform at work.",
+          "zh": "他上班不必穿制服。"
+        }
+      ]
+    },
+    {
+      "pattern": "need to",
+      "meaning_zh": "表達需要做某事。",
+      "structure": "主詞 + need to + 原形動詞",
+      "examples": [
+        {
+          "en": "I need to finish this report by Friday.",
+          "zh": "我必須在週五前完成這份報告。"
+        },
+        {
+          "en": "You need to drink more water.",
+          "zh": "你需要多喝水。"
+        }
+      ]
+    },
+    {
+      "pattern": "used to",
+      "meaning_zh": "表示過去的習慣或狀態，現已不再。",
+      "structure": "主詞 + used to + 原形動詞",
+      "examples": [
+        {
+          "en": "I used to live in Taipei.",
+          "zh": "我以前住在台北。"
+        },
+        {
+          "en": "She used to be very shy.",
+          "zh": "她以前很害羞。"
+        }
+      ]
+    },
+    {
+      "pattern": "be able to",
+      "meaning_zh": "表達能力，可用於各種時態。",
+      "structure": "主詞 + be 動詞 + able to + 原形動詞",
+      "examples": [
+        {
+          "en": "I was able to solve the puzzle.",
+          "zh": "我能夠解開那個謎題。"
+        },
+        {
+          "en": "Will you be able to come to the party?",
+          "zh": "你能來參加派對嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "had better",
+      "meaning_zh": "提出強烈建議或警告，「最好」。",
+      "structure": "主詞 + had better (+ not) + 原形動詞",
+      "examples": [
+        {
+          "en": "You had better see a doctor.",
+          "zh": "你最好去看醫生。"
+        },
+        {
+          "en": "We had better not be late again.",
+          "zh": "我們最好不要再遲到了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Zero Conditional (general truth)",
+      "meaning_zh": "表達普遍真理或科學事實。",
+      "structure": "If + 主詞 + 現在簡單式, 主詞 + 現在簡單式",
+      "examples": [
+        {
+          "en": "If you heat water to 100 degrees, it boils.",
+          "zh": "如果你把水加熱到一百度，水就會沸騰。"
+        },
+        {
+          "en": "If it rains, the ground gets wet.",
+          "zh": "如果下雨，地面就會濕。"
+        }
+      ]
+    },
+    {
+      "pattern": "First Conditional (real future)",
+      "meaning_zh": "表達未來可能發生的事。",
+      "structure": "If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
+      "examples": [
+        {
+          "en": "If it rains tomorrow, we will stay home.",
+          "zh": "如果明天下雨，我們就待在家。"
+        },
+        {
+          "en": "If you study hard, you will pass the exam.",
+          "zh": "如果你用功讀書，就會通過考試。"
+        }
+      ]
+    },
+    {
+      "pattern": "Second Conditional (unreal present)",
+      "meaning_zh": "表達與現在事實相反的假設。",
+      "structure": "If + 主詞 + 過去簡單式, 主詞 + would + 原形動詞",
+      "examples": [
+        {
+          "en": "If I were you, I would tell the truth.",
+          "zh": "如果我是你，我會說實話。"
+        },
+        {
+          "en": "If she had more time, she would learn French.",
+          "zh": "如果她有更多時間，她會學法文。"
+        }
+      ]
+    },
+    {
+      "pattern": "Third Conditional (unreal past)",
+      "meaning_zh": "表達與過去事實相反的假設。",
+      "structure": "If + 主詞 + 過去完成式, 主詞 + would have + 過去分詞",
+      "examples": [
+        {
+          "en": "If I had known, I would have helped you.",
+          "zh": "如果我早知道，我就會幫你了。"
+        },
+        {
+          "en": "If they had left earlier, they would have caught the train.",
+          "zh": "如果他們早點出發，就趕上火車了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Mixed Conditional (past → present)",
+      "meaning_zh": "過去的假設影響現在的結果。",
+      "structure": "If + 主詞 + 過去完成式, 主詞 + would + 原形動詞",
+      "examples": [
+        {
+          "en": "If I had studied medicine, I would be a doctor now.",
+          "zh": "如果我當初讀醫學，我現在就是醫生了。"
+        },
+        {
+          "en": "If he had taken the job, he would be rich today.",
+          "zh": "如果他當初接受那份工作，他今天就富有了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Mixed Conditional (present → past)",
+      "meaning_zh": "現在的狀況影響過去的結果。",
+      "structure": "If + 主詞 + 過去簡單式, 主詞 + would have + 過去分詞",
+      "examples": [
+        {
+          "en": "If I were taller, I would have joined the basketball team.",
+          "zh": "如果我長得高一點，我就會加入籃球隊了。"
+        },
+        {
+          "en": "If she weren't so shy, she would have spoken up.",
+          "zh": "如果她不那麼害羞，當時就會發言了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Unless (= if not)",
+      "meaning_zh": "表達「除非」，相當於 if not。",
+      "structure": "Unless + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
+      "examples": [
+        {
+          "en": "Unless you hurry, you will miss the bus.",
+          "zh": "除非你快點，否則你會錯過公車。"
+        },
+        {
+          "en": "I won't go unless you come with me.",
+          "zh": "除非你和我一起去，否則我不去。"
+        }
+      ]
+    },
+    {
+      "pattern": "As long as / provided that",
+      "meaning_zh": "表達「只要」、「假如」的條件。",
+      "structure": "主詞 + will + 原形動詞 + as long as / provided that + 子句",
+      "examples": [
+        {
+          "en": "You can borrow my car as long as you drive carefully.",
+          "zh": "只要你小心開車，你可以借我的車。"
+        },
+        {
+          "en": "I will help you provided that you ask politely.",
+          "zh": "假如你禮貌地請求，我就會幫你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Suppose / What if",
+      "meaning_zh": "提出假設情境，「假設…呢？」。",
+      "structure": "Suppose / What if + 主詞 + 過去簡單式？",
+      "examples": [
+        {
+          "en": "What if you lost your job tomorrow?",
+          "zh": "如果你明天失業了怎麼辦？"
+        },
+        {
+          "en": "Suppose he refused to help, what would we do?",
+          "zh": "假設他拒絕幫忙，我們該怎麼辦？"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion: Had I known...",
+      "meaning_zh": "第三條件句倒裝，省略 if 後將 had 提前。",
+      "structure": "Had + 主詞 + 過去分詞, 主詞 + would have + 過去分詞",
+      "examples": [
+        {
+          "en": "Had I known about the meeting, I would have come.",
+          "zh": "早知道有這場會議，我就會來了。"
+        },
+        {
+          "en": "Had she studied harder, she would have passed.",
+          "zh": "她要是更用功，當時就通過了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion: Were I to...",
+      "meaning_zh": "第二條件句倒裝，強調假設語氣。",
+      "structure": "Were + 主詞 + to + 原形動詞, 主詞 + would + 原形動詞",
+      "examples": [
+        {
+          "en": "Were I to win the lottery, I would travel the world.",
+          "zh": "假如我中樂透，我就會環遊世界。"
+        },
+        {
+          "en": "Were he to apologize, she might forgive him.",
+          "zh": "假如他道歉，她也許會原諒他。"
+        }
+      ]
+    },
+    {
+      "pattern": "Inversion: Should you...",
+      "meaning_zh": "第一條件句倒裝，用於正式表達。",
+      "structure": "Should + 主詞 + 原形動詞, 主詞 + will / would + 原形動詞",
+      "examples": [
+        {
+          "en": "Should you need help, please call me.",
+          "zh": "萬一你需要幫助，請打給我。"
+        },
+        {
+          "en": "Should it rain, the picnic will be canceled.",
+          "zh": "萬一下雨，野餐將取消。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Simple Present",
+      "meaning_zh": "被動語態現在簡單式。",
+      "structure": "主詞 + am / is / are + 過去分詞 (+ by + 行為者)",
+      "examples": [
+        {
+          "en": "English is spoken in many countries.",
+          "zh": "英語在許多國家被使用。"
+        },
+        {
+          "en": "The office is cleaned every day.",
+          "zh": "辦公室每天都被打掃。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Simple Past",
+      "meaning_zh": "被動語態過去簡單式。",
+      "structure": "主詞 + was / were + 過去分詞",
+      "examples": [
+        {
+          "en": "The window was broken by the boy.",
+          "zh": "窗戶被那男孩打破了。"
+        },
+        {
+          "en": "These books were written by a famous author.",
+          "zh": "這些書是由一位著名作家寫的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Present Continuous",
+      "meaning_zh": "被動語態現在進行式。",
+      "structure": "主詞 + am / is / are + being + 過去分詞",
+      "examples": [
+        {
+          "en": "The road is being repaired right now.",
+          "zh": "這條路正在被修理。"
+        },
+        {
+          "en": "New houses are being built in our neighborhood.",
+          "zh": "我們社區正在興建新房子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Past Continuous",
+      "meaning_zh": "被動語態過去進行式。",
+      "structure": "主詞 + was / were + being + 過去分詞",
+      "examples": [
+        {
+          "en": "The cake was being eaten when I arrived.",
+          "zh": "我到達時，蛋糕正被吃掉。"
+        },
+        {
+          "en": "The students were being tested all morning.",
+          "zh": "學生們整個早上都在被測驗。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Present Perfect",
+      "meaning_zh": "被動語態現在完成式。",
+      "structure": "主詞 + has / have + been + 過去分詞",
+      "examples": [
+        {
+          "en": "The report has been finished.",
+          "zh": "報告已經完成了。"
+        },
+        {
+          "en": "Many trees have been planted this year.",
+          "zh": "今年已經種了很多樹。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Past Perfect",
+      "meaning_zh": "被動語態過去完成式。",
+      "structure": "主詞 + had + been + 過去分詞",
+      "examples": [
+        {
+          "en": "The letter had been sent before I called.",
+          "zh": "在我打電話之前，信已經被寄出了。"
+        },
+        {
+          "en": "The room had been cleaned before the guests arrived.",
+          "zh": "客人到達前房間已經被打掃過了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive: Future Simple",
+      "meaning_zh": "被動語態未來簡單式。",
+      "structure": "主詞 + will + be + 過去分詞",
+      "examples": [
+        {
+          "en": "The package will be delivered tomorrow.",
+          "zh": "包裹明天會被送達。"
+        },
+        {
+          "en": "The results will be announced next week.",
+          "zh": "結果下週會被公布。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive with Modal Verbs",
+      "meaning_zh": "被動語態搭配情態動詞。",
+      "structure": "主詞 + 情態動詞 + be + 過去分詞",
+      "examples": [
+        {
+          "en": "This problem must be solved immediately.",
+          "zh": "這個問題必須立刻被解決。"
+        },
+        {
+          "en": "The work should be finished by Friday.",
+          "zh": "這份工作應該在週五前完成。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive Reporting: It is said that...",
+      "meaning_zh": "被動式報導句型，傳達一般傳聞或意見。",
+      "structure": "It + is / was + 過去分詞 + that + 子句",
+      "examples": [
+        {
+          "en": "It is said that he is a millionaire.",
+          "zh": "據說他是個百萬富翁。"
+        },
+        {
+          "en": "It was reported that the accident happened at noon.",
+          "zh": "據報導意外發生在中午。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive Reporting: She is said to...",
+      "meaning_zh": "以主詞開頭的被動報導句型。",
+      "structure": "主詞 + is / was + 過去分詞 + to 不定詞",
+      "examples": [
+        {
+          "en": "She is said to be very talented.",
+          "zh": "據說她非常有才華。"
+        },
+        {
+          "en": "He is believed to have left the country.",
+          "zh": "據信他已經離開了這個國家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Get-passive",
+      "meaning_zh": "以 get 取代 be 的被動，常用於口語且強調變化或意外。",
+      "structure": "主詞 + get / got + 過去分詞",
+      "examples": [
+        {
+          "en": "They got married last summer.",
+          "zh": "他們去年夏天結婚了。"
+        },
+        {
+          "en": "He got fired for being late too often.",
+          "zh": "他因為太常遲到被開除了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Get-passive (negative event)",
+      "meaning_zh": "get-passive 常用於不幸事件，如被搶、受傷。",
+      "structure": "主詞 + got + 過去分詞",
+      "examples": [
+        {
+          "en": "She got robbed on her way home.",
+          "zh": "她在回家路上被搶了。"
+        },
+        {
+          "en": "My phone got stolen at the station.",
+          "zh": "我的手機在車站被偷了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Causative: have something done",
+      "meaning_zh": "請他人為自己做某事，「使／讓某物被…」。",
+      "structure": "主詞 + have + 受詞 + 過去分詞",
+      "examples": [
+        {
+          "en": "I had my hair cut yesterday.",
+          "zh": "我昨天剪了頭髮。"
+        },
+        {
+          "en": "She had her car repaired last week.",
+          "zh": "她上週把車送修了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Passive with two objects",
+      "meaning_zh": "雙賓動詞的被動式，可由人或物當主詞。",
+      "structure": "間接受詞 + be + 過去分詞 + 直接受詞 (或 直接受詞 + be + 過去分詞 + to + 間接受詞)",
+      "examples": [
+        {
+          "en": "She was given a beautiful necklace.",
+          "zh": "她被送了一條美麗的項鍊。"
+        },
+        {
+          "en": "A beautiful necklace was given to her.",
+          "zh": "一條美麗的項鍊被送給她。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係代名詞 who（指人，作主詞）",
+      "meaning_zh": "用來引導形容詞子句修飾「人」，並在子句中當主詞。",
+      "structure": "先行詞（人）＋ who ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "The teacher who teaches us English is very kind.",
+          "zh": "教我們英文的老師非常親切。"
+        },
+        {
+          "en": "I know a girl who can speak three languages.",
+          "zh": "我認識一個會說三種語言的女孩。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係代名詞 whom（指人，作受詞）",
+      "meaning_zh": "指「人」並在子句中當受詞，較正式；口語常以 who 或省略代替。",
+      "structure": "先行詞（人）＋ whom ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "The man whom you met yesterday is my uncle.",
+          "zh": "你昨天遇到的那位男士是我叔叔。"
+        },
+        {
+          "en": "She is the friend whom I trust the most.",
+          "zh": "她是我最信任的朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係代名詞 whose（所有格）",
+      "meaning_zh": "表示「某人/某物的」，用來連接擁有關係。",
+      "structure": "先行詞 ＋ whose ＋ 名詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "I have a friend whose father is a doctor.",
+          "zh": "我有一個朋友，他的父親是醫生。"
+        },
+        {
+          "en": "The dog whose tail is short belongs to Mary.",
+          "zh": "那隻尾巴很短的狗是瑪莉的。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係代名詞 which（指物或事）",
+      "meaning_zh": "用來引導修飾「事物或動物」的形容詞子句。",
+      "structure": "先行詞（物）＋ which ＋ 動詞/主詞 …",
+      "examples": [
+        {
+          "en": "The book which is on the desk is mine.",
+          "zh": "在書桌上的那本書是我的。"
+        },
+        {
+          "en": "I bought a phone which has a great camera.",
+          "zh": "我買了一支相機很棒的手機。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係代名詞 that（人或物皆可）",
+      "meaning_zh": "可代替 who 或 which，常用於限定用法，前面不加逗號。",
+      "structure": "先行詞 ＋ that ＋ 動詞/主詞 …",
+      "examples": [
+        {
+          "en": "This is the cake that I baked this morning.",
+          "zh": "這是我今天早上烤的蛋糕。"
+        },
+        {
+          "en": "He is the boy that won the contest.",
+          "zh": "他就是那位贏得比賽的男孩。"
+        }
+      ]
+    },
+    {
+      "pattern": "省略關係代名詞（作受詞時可省略）",
+      "meaning_zh": "當關係代名詞在子句中作受詞時，可以直接省略。",
+      "structure": "先行詞 ＋（that/which/whom 省略）＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "The movie I watched last night was boring.",
+          "zh": "我昨晚看的那部電影很無聊。"
+        },
+        {
+          "en": "The person you called is not here.",
+          "zh": "你打電話找的那個人不在這裡。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係副詞 where（地點）",
+      "meaning_zh": "修飾「地點」的先行詞，等同於 in/at/on which。",
+      "structure": "地點先行詞 ＋ where ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "This is the park where we first met.",
+          "zh": "這就是我們初次相遇的公園。"
+        },
+        {
+          "en": "I love the café where they serve great coffee.",
+          "zh": "我喜歡那家供應好咖啡的咖啡館。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係副詞 when（時間）",
+      "meaning_zh": "修飾「時間」的先行詞，等同於 in/on/at which。",
+      "structure": "時間先行詞 ＋ when ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "I will never forget the day when I graduated.",
+          "zh": "我永遠不會忘記我畢業的那一天。"
+        },
+        {
+          "en": "Summer is the season when flowers bloom.",
+          "zh": "夏天是花朵盛開的季節。"
+        }
+      ]
+    },
+    {
+      "pattern": "關係副詞 why（原因）",
+      "meaning_zh": "修飾 reason 等「原因」名詞，等同於 for which。",
+      "structure": "the reason ＋ why ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "That's the reason why she was late.",
+          "zh": "那就是她遲到的原因。"
+        },
+        {
+          "en": "I don't know the reason why he left.",
+          "zh": "我不知道他離開的原因。"
+        }
+      ]
+    },
+    {
+      "pattern": "限定用法 vs 非限定用法（有無逗號）",
+      "meaning_zh": "非限定用法以逗號分隔，提供附加資訊；限定用法則是不可省略的關鍵訊息。",
+      "structure": "…, who/which …, … vs … who/which … without commas",
+      "examples": [
+        {
+          "en": "My brother, who lives in Japan, is a doctor.",
+          "zh": "我哥哥住在日本，他是醫生。"
+        },
+        {
+          "en": "The student who studies hard will succeed.",
+          "zh": "用功讀書的學生會成功。"
+        }
+      ]
+    },
+    {
+      "pattern": "非限定用法不能用 that",
+      "meaning_zh": "在加逗號的非限定形容詞子句中，不可用 that 取代 who/which。",
+      "structure": "…, who/which …（不可用 that）",
+      "examples": [
+        {
+          "en": "My laptop, which I bought last year, is broken.",
+          "zh": "我去年買的筆電壞了。"
+        },
+        {
+          "en": "Mr. Lin, who teaches math, is retiring.",
+          "zh": "教數學的林老師快退休了。"
+        }
+      ]
+    },
+    {
+      "pattern": "分詞片語簡化形容詞子句（主動 V-ing）",
+      "meaning_zh": "省略關係代名詞與 be 動詞，主動意義用 V-ing。",
+      "structure": "先行詞 ＋ V-ing 片語 …",
+      "examples": [
+        {
+          "en": "The man standing over there is my father.",
+          "zh": "站在那邊的那個人是我父親。"
+        },
+        {
+          "en": "Children playing in the yard look happy.",
+          "zh": "在院子裡玩耍的孩子們看起來很開心。"
+        }
+      ]
+    },
+    {
+      "pattern": "分詞片語簡化形容詞子句（被動 V-p.p.）",
+      "meaning_zh": "被動意義時，省略關係代名詞與 be 後直接用過去分詞。",
+      "structure": "先行詞 ＋ V-p.p. 片語 …",
+      "examples": [
+        {
+          "en": "The letter written in French is hard to read.",
+          "zh": "那封用法文寫的信很難讀。"
+        },
+        {
+          "en": "The window broken yesterday has been fixed.",
+          "zh": "昨天被打破的窗戶已經修好了。"
+        }
+      ]
+    },
+    {
+      "pattern": "介系詞 ＋ whom / which",
+      "meaning_zh": "正式用法中，介系詞可置於 whom/which 之前。",
+      "structure": "介系詞 ＋ whom/which ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "The man with whom I spoke is a professor.",
+          "zh": "和我說話的那位男士是教授。"
+        },
+        {
+          "en": "This is the tool with which he fixed the car.",
+          "zh": "這就是他用來修車的工具。"
+        }
+      ]
+    },
+    {
+      "pattern": "quantifier ＋ of which/whom",
+      "meaning_zh": "用 some/many/none/all 等量詞接 of which/whom 帶出補充資訊。",
+      "structure": "…, some/many/none/all of which/whom ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "He has many books, some of which are very old.",
+          "zh": "他有許多書，其中一些非常古老。"
+        },
+        {
+          "en": "I met three girls, none of whom I knew.",
+          "zh": "我遇到三個女孩，沒有一個是我認識的。"
+        }
+      ]
+    },
+    {
+      "pattern": "動名詞當主詞",
+      "meaning_zh": "V-ing 可當句子主詞，視為單數。",
+      "structure": "V-ing ＋ 單數動詞 …",
+      "examples": [
+        {
+          "en": "Swimming is good for your health.",
+          "zh": "游泳對你的健康有益。"
+        },
+        {
+          "en": "Learning English takes time.",
+          "zh": "學英文需要時間。"
+        }
+      ]
+    },
+    {
+      "pattern": "動名詞當受詞",
+      "meaning_zh": "某些動詞後必須接 V-ing 當受詞。",
+      "structure": "主詞 ＋ 動詞 ＋ V-ing …",
+      "examples": [
+        {
+          "en": "I enjoy reading novels.",
+          "zh": "我喜歡讀小說。"
+        },
+        {
+          "en": "She finished writing the report.",
+          "zh": "她寫完了報告。"
+        }
+      ]
+    },
+    {
+      "pattern": "動名詞置於介系詞後",
+      "meaning_zh": "介系詞後若接動詞，必須改為 V-ing。",
+      "structure": "介系詞 ＋ V-ing …",
+      "examples": [
+        {
+          "en": "He is good at playing the piano.",
+          "zh": "他很擅長彈鋼琴。"
+        },
+        {
+          "en": "Thank you for helping me.",
+          "zh": "謝謝你幫助我。"
+        }
+      ]
+    },
+    {
+      "pattern": "接動名詞的動詞（enjoy, finish, mind, avoid, suggest）",
+      "meaning_zh": "這些動詞之後只能接 V-ing。",
+      "structure": "enjoy / finish / mind / avoid / suggest ＋ V-ing",
+      "examples": [
+        {
+          "en": "Would you mind opening the window?",
+          "zh": "你介意打開窗戶嗎？"
+        },
+        {
+          "en": "He avoided answering my question.",
+          "zh": "他避免回答我的問題。"
+        }
+      ]
+    },
+    {
+      "pattern": "接不定詞的動詞（want, decide, hope, plan）",
+      "meaning_zh": "這些動詞之後只能接 to V。",
+      "structure": "want / decide / hope / plan ＋ to V",
+      "examples": [
+        {
+          "en": "I want to learn French.",
+          "zh": "我想學法文。"
+        },
+        {
+          "en": "They decided to move abroad.",
+          "zh": "他們決定搬到國外。"
+        }
+      ]
+    },
+    {
+      "pattern": "remember / forget ＋ V-ing vs to V",
+      "meaning_zh": "remember/forget ＋ V-ing 指「記得做過/忘了做過」；＋ to V 指「記得/忘了要去做」。",
+      "structure": "remember/forget ＋ V-ing（過去）／to V（未做）",
+      "examples": [
+        {
+          "en": "I remember meeting her last year.",
+          "zh": "我記得去年見過她。"
+        },
+        {
+          "en": "Remember to lock the door before you leave.",
+          "zh": "離開前記得鎖門。"
+        }
+      ]
+    },
+    {
+      "pattern": "stop ＋ V-ing vs to V",
+      "meaning_zh": "stop ＋ V-ing「停止做某事」；stop to V「停下來去做另一件事」。",
+      "structure": "stop ＋ V-ing／to V",
+      "examples": [
+        {
+          "en": "He stopped smoking last year.",
+          "zh": "他去年戒菸了。"
+        },
+        {
+          "en": "We stopped to take some photos.",
+          "zh": "我們停下來拍了一些照片。"
+        }
+      ]
+    },
+    {
+      "pattern": "try ＋ V-ing vs to V",
+      "meaning_zh": "try ＋ V-ing「試試看某方法」；try to V「努力嘗試去做」。",
+      "structure": "try ＋ V-ing／to V",
+      "examples": [
+        {
+          "en": "Try opening the window for some fresh air.",
+          "zh": "試試打開窗戶通通風。"
+        },
+        {
+          "en": "She tried to finish the work on time.",
+          "zh": "她努力試著準時完成工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "regret ＋ V-ing vs to V",
+      "meaning_zh": "regret ＋ V-ing「後悔做過」；regret to V「遺憾地告知」。",
+      "structure": "regret ＋ V-ing／to V",
+      "examples": [
+        {
+          "en": "I regret telling him the truth.",
+          "zh": "我後悔告訴他真相。"
+        },
+        {
+          "en": "We regret to inform you that your application failed.",
+          "zh": "很遺憾通知您，您的申請未通過。"
+        }
+      ]
+    },
+    {
+      "pattern": "完成動名詞 having ＋ V-p.p.",
+      "meaning_zh": "表示動名詞動作發生在主要動詞之前。",
+      "structure": "having ＋ V-p.p.",
+      "examples": [
+        {
+          "en": "He denied having stolen the money.",
+          "zh": "他否認偷過那筆錢。"
+        },
+        {
+          "en": "She apologized for having forgotten my birthday.",
+          "zh": "她為忘了我的生日而道歉。"
+        }
+      ]
+    },
+    {
+      "pattern": "完成不定詞 to have ＋ V-p.p.",
+      "meaning_zh": "表示不定詞動作發生在主要動詞之前。",
+      "structure": "主詞 ＋ 動詞 ＋ to have ＋ V-p.p.",
+      "examples": [
+        {
+          "en": "He seems to have finished his homework.",
+          "zh": "他似乎已經寫完功課了。"
+        },
+        {
+          "en": "She is glad to have met you.",
+          "zh": "她很高興曾經見過你。"
+        }
+      ]
+    },
+    {
+      "pattern": "make / let ＋ O ＋ 原形動詞",
+      "meaning_zh": "使役動詞 make/let 後接受詞與原形動詞。",
+      "structure": "make/let ＋ O ＋ V（原形）",
+      "examples": [
+        {
+          "en": "The teacher made us clean the classroom.",
+          "zh": "老師要我們打掃教室。"
+        },
+        {
+          "en": "My mother let me go to the party.",
+          "zh": "我媽讓我去參加派對。"
+        }
+      ]
+    },
+    {
+      "pattern": "help ＋ O ＋（to）V",
+      "meaning_zh": "help 後可接帶 to 或不帶 to 的不定詞，意思相同。",
+      "structure": "help ＋ O ＋（to）V",
+      "examples": [
+        {
+          "en": "She helped me carry the bags.",
+          "zh": "她幫我提袋子。"
+        },
+        {
+          "en": "He helped his sister to do her homework.",
+          "zh": "他幫他妹妹做功課。"
+        }
+      ]
+    },
+    {
+      "pattern": "情態動詞 ＋ 原形動詞",
+      "meaning_zh": "can/will/must/should 等情態動詞後接動詞原形。",
+      "structure": "主詞 ＋ 情態動詞 ＋ V（原形）",
+      "examples": [
+        {
+          "en": "You should drink more water.",
+          "zh": "你應該多喝水。"
+        },
+        {
+          "en": "He can swim very fast.",
+          "zh": "他可以游得很快。"
+        }
+      ]
+    },
+    {
+      "pattern": "不定詞表目的（to / in order to / so as to）",
+      "meaning_zh": "以 to V、in order to、so as to 表「為了」。",
+      "structure": "主詞 ＋ 動詞 …, to / in order to / so as to V",
+      "examples": [
+        {
+          "en": "He studies hard in order to pass the exam.",
+          "zh": "他用功讀書是為了通過考試。"
+        },
+        {
+          "en": "She got up early so as to catch the bus.",
+          "zh": "她早起是為了趕公車。"
+        }
+      ]
+    },
+    {
+      "pattern": "形容詞 ＋ 不定詞",
+      "meaning_zh": "某些形容詞後接 to V 表示原因或評論。",
+      "structure": "主詞 ＋ be ＋ 形容詞 ＋ to V",
+      "examples": [
+        {
+          "en": "I am happy to help you.",
+          "zh": "我很樂意幫你。"
+        },
+        {
+          "en": "This software is easy to use.",
+          "zh": "這套軟體很容易使用。"
+        }
+      ]
+    },
+    {
+      "pattern": "too ＋ 形容詞/副詞 ＋ to V",
+      "meaning_zh": "表示「太……以致於不能……」。",
+      "structure": "too ＋ adj./adv. ＋ to V",
+      "examples": [
+        {
+          "en": "He is too young to drive.",
+          "zh": "他太年輕了，不能開車。"
+        },
+        {
+          "en": "The box is too heavy to lift.",
+          "zh": "這個箱子太重了，搬不動。"
+        }
+      ]
+    },
+    {
+      "pattern": "形容詞/副詞 ＋ enough ＋ to V",
+      "meaning_zh": "表示「足夠……可以……」，enough 置於形容詞或副詞之後。",
+      "structure": "adj./adv. ＋ enough ＋ to V",
+      "examples": [
+        {
+          "en": "She is old enough to vote.",
+          "zh": "她年紀夠大可以投票了。"
+        },
+        {
+          "en": "He ran fast enough to win the race.",
+          "zh": "他跑得夠快，足以贏得比賽。"
+        }
+      ]
+    },
+    {
+      "pattern": "使役動詞 have ＋ O ＋ V（原形）",
+      "meaning_zh": "主動使役：have ＋ 受詞 ＋ 動詞原形。",
+      "structure": "have ＋ O ＋ V（原形）",
+      "examples": [
+        {
+          "en": "I had the mechanic check my car.",
+          "zh": "我請技師檢查我的車。"
+        },
+        {
+          "en": "She had her son clean his room.",
+          "zh": "她要她兒子打掃房間。"
+        }
+      ]
+    },
+    {
+      "pattern": "使役動詞 have ＋ O ＋ V-p.p.",
+      "meaning_zh": "被動使役：have ＋ 受詞 ＋ 過去分詞，表示「請人做某事」。",
+      "structure": "have ＋ O ＋ V-p.p.",
+      "examples": [
+        {
+          "en": "I had my hair cut yesterday.",
+          "zh": "我昨天去剪了頭髮。"
+        },
+        {
+          "en": "She had her phone repaired.",
+          "zh": "她把她的手機拿去修了。"
+        }
+      ]
+    },
+    {
+      "pattern": "使役動詞 get ＋ O ＋ to V／V-p.p.",
+      "meaning_zh": "get 作使役時主動形式為 get ＋ O ＋ to V；被動為 get ＋ O ＋ V-p.p.。",
+      "structure": "get ＋ O ＋ to V／V-p.p.",
+      "examples": [
+        {
+          "en": "I got him to wash the dishes.",
+          "zh": "我叫他去洗碗。"
+        },
+        {
+          "en": "She got her shoes cleaned.",
+          "zh": "她把鞋子拿去清洗了。"
+        }
+      ]
+    },
+    {
+      "pattern": "比較級 -er／more",
+      "meaning_zh": "單音節形容詞加 -er，多音節用 more，比較兩者用 than。",
+      "structure": "主詞 ＋ be ＋ adj.-er / more adj. ＋ than …",
+      "examples": [
+        {
+          "en": "My brother is taller than me.",
+          "zh": "我哥哥比我高。"
+        },
+        {
+          "en": "This book is more interesting than that one.",
+          "zh": "這本書比那本有趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "最高級 -est／most",
+      "meaning_zh": "表示三者以上中「最……」，前面通常加 the。",
+      "structure": "主詞 ＋ be ＋ the ＋ adj.-est / most adj. …",
+      "examples": [
+        {
+          "en": "He is the tallest boy in the class.",
+          "zh": "他是班上最高的男生。"
+        },
+        {
+          "en": "This is the most exciting movie I've ever seen.",
+          "zh": "這是我看過最刺激的電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "less / least（程度較少）",
+      "meaning_zh": "表示程度較少或最少。",
+      "structure": "less ＋ adj. ＋ than … / the least ＋ adj. …",
+      "examples": [
+        {
+          "en": "This problem is less difficult than I thought.",
+          "zh": "這個問題沒有我想得那麼難。"
+        },
+        {
+          "en": "He is the least talkative person in the group.",
+          "zh": "他是這個團體中最不愛說話的人。"
+        }
+      ]
+    },
+    {
+      "pattern": "as ＋ 形容詞/副詞 ＋ as（同等比較）",
+      "meaning_zh": "表示「和……一樣……」；否定為 not as/so ... as。",
+      "structure": "as ＋ adj./adv. ＋ as …",
+      "examples": [
+        {
+          "en": "She is as smart as her sister.",
+          "zh": "她跟她姐姐一樣聰明。"
+        },
+        {
+          "en": "He doesn't run as fast as I do.",
+          "zh": "他跑得沒有我快。"
+        }
+      ]
+    },
+    {
+      "pattern": "the same ＋ N ＋ as",
+      "meaning_zh": "表示「和……相同」。",
+      "structure": "the same ＋ 名詞 ＋ as …",
+      "examples": [
+        {
+          "en": "I have the same bag as yours.",
+          "zh": "我的包包跟你的一樣。"
+        },
+        {
+          "en": "She wears the same dress as her friend.",
+          "zh": "她穿的洋裝跟她朋友一樣。"
+        }
+      ]
+    },
+    {
+      "pattern": "the ＋ 比較級, the ＋ 比較級",
+      "meaning_zh": "表示「越……就越……」的平行結構。",
+      "structure": "The ＋ 比較級 …, the ＋ 比較級 …",
+      "examples": [
+        {
+          "en": "The more you practice, the better you get.",
+          "zh": "你越練習就越進步。"
+        },
+        {
+          "en": "The harder he works, the more tired he feels.",
+          "zh": "他越努力工作，就越感到疲倦。"
+        }
+      ]
+    },
+    {
+      "pattern": "比較級 ＋ and ＋ 比較級",
+      "meaning_zh": "表示「越來越……」的漸進變化。",
+      "structure": "主詞 ＋ be / become ＋ 比較級 ＋ and ＋ 比較級",
+      "examples": [
+        {
+          "en": "It is getting colder and colder.",
+          "zh": "天氣變得越來越冷。"
+        },
+        {
+          "en": "She is becoming more and more confident.",
+          "zh": "她變得越來越有自信。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接引述：直述句的時態退一格",
+      "meaning_zh": "轉述他人話語時，主要動詞為過去式，附屬子句的時態要往過去退一格。",
+      "structure": "主詞 ＋ said (that) ＋ 主詞 ＋ 過去式動詞 …",
+      "examples": [
+        {
+          "en": "He said that he was tired.",
+          "zh": "他說他累了。"
+        },
+        {
+          "en": "She told me she had finished her homework.",
+          "zh": "她告訴我她已經做完功課了。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接引述：人稱與時間/地點副詞變化",
+      "meaning_zh": "轉述時 today→that day、tomorrow→the next day、here→there 等需調整。",
+      "structure": "主詞 ＋ said (that) ＋ 主詞 ＋ 動詞 …（副詞替換）",
+      "examples": [
+        {
+          "en": "He said he would come the next day.",
+          "zh": "他說他隔天會來。"
+        },
+        {
+          "en": "She said she had seen him there the day before.",
+          "zh": "她說她前一天在那裡見過他。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接問句：yes/no 問句以 if/whether 引導",
+      "meaning_zh": "轉述 yes/no 問句時，用 if 或 whether 接陳述句語序。",
+      "structure": "主詞 ＋ asked ＋ if/whether ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "He asked me if I was tired.",
+          "zh": "他問我累不累。"
+        },
+        {
+          "en": "She asked whether I had finished the work.",
+          "zh": "她問我有沒有做完工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接問句：wh- 問句保留疑問詞",
+      "meaning_zh": "轉述 wh- 問句時保留疑問詞，並改為陳述句語序。",
+      "structure": "主詞 ＋ asked ＋ 疑問詞 ＋ 主詞 ＋ 動詞 …",
+      "examples": [
+        {
+          "en": "She asked me where I lived.",
+          "zh": "她問我住在哪裡。"
+        },
+        {
+          "en": "He asked what time the train would leave.",
+          "zh": "他問火車幾點會開。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接命令：tell / ask ＋ O ＋ to V",
+      "meaning_zh": "轉述命令或請求時，用 tell/ask 加受詞與不定詞。",
+      "structure": "主詞 ＋ told/asked ＋ O ＋（not）to V",
+      "examples": [
+        {
+          "en": "The teacher told us to be quiet.",
+          "zh": "老師叫我們安靜。"
+        },
+        {
+          "en": "She asked me not to be late.",
+          "zh": "她要我不要遲到。"
+        }
+      ]
+    },
+    {
+      "pattern": "間接建議：suggest ＋ V-ing / that ＋ 子句",
+      "meaning_zh": "轉述建議用 suggest 後接 V-ing 或 that 子句（that 子句中動詞用原形）。",
+      "structure": "suggest ＋ V-ing / suggest that ＋ S ＋（should）＋ V",
+      "examples": [
+        {
+          "en": "He suggested going to the beach.",
+          "zh": "他建議去海邊。"
+        },
+        {
+          "en": "She suggested that we should leave early.",
+          "zh": "她建議我們早點離開。"
+        }
+      ]
+    },
+    {
+      "pattern": "say vs tell 的用法區別",
+      "meaning_zh": "say 後直接接話語，不接間接受詞；tell 後必須接人作受詞。",
+      "structure": "say (to sb) that … / tell sb that …",
+      "examples": [
+        {
+          "en": "He said that he was hungry.",
+          "zh": "他說他餓了。"
+        },
+        {
+          "en": "She told me that she was happy.",
+          "zh": "她告訴我她很開心。"
+        }
+      ]
+    },
+    {
+      "pattern": "at + 時間點",
+      "meaning_zh": "用於確切的時間點（鐘點、節日時刻）",
+      "structure": "at + clock time / noon / night / weekend",
+      "examples": [
+        {
+          "en": "The meeting starts at 9 o'clock.",
+          "zh": "會議在九點開始。"
+        },
+        {
+          "en": "I can't sleep at night.",
+          "zh": "我晚上睡不著。"
+        }
+      ]
+    },
+    {
+      "pattern": "on + 日期／星期",
+      "meaning_zh": "用於特定日子或星期幾",
+      "structure": "on + day / date",
+      "examples": [
+        {
+          "en": "We have class on Monday.",
+          "zh": "我們星期一有課。"
+        },
+        {
+          "en": "She was born on May 5th.",
+          "zh": "她在五月五日出生。"
+        }
+      ]
+    },
+    {
+      "pattern": "in + 月份／年份／季節",
+      "meaning_zh": "用於較長的時間區段",
+      "structure": "in + month / year / season",
+      "examples": [
+        {
+          "en": "He moved to Taipei in 2020.",
+          "zh": "他在二○二○年搬到台北。"
+        },
+        {
+          "en": "It often rains in spring.",
+          "zh": "春天常下雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "by + 時間（之前）",
+      "meaning_zh": "表示在某時間之前完成",
+      "structure": "by + time point",
+      "examples": [
+        {
+          "en": "Please finish the report by Friday.",
+          "zh": "請在星期五前完成報告。"
+        },
+        {
+          "en": "I'll be home by ten.",
+          "zh": "我十點前會到家。"
+        }
+      ]
+    },
+    {
+      "pattern": "since + 起點時間",
+      "meaning_zh": "從某時間點以來，常與完成式連用",
+      "structure": "since + point in time",
+      "examples": [
+        {
+          "en": "I have lived here since 2015.",
+          "zh": "我從二○一五年起住在這裡。"
+        },
+        {
+          "en": "She hasn't called since Monday.",
+          "zh": "她從星期一起就沒打來過。"
+        }
+      ]
+    },
+    {
+      "pattern": "for + 一段時間",
+      "meaning_zh": "持續一段時間",
+      "structure": "for + duration",
+      "examples": [
+        {
+          "en": "We have been friends for ten years.",
+          "zh": "我們當朋友已十年。"
+        },
+        {
+          "en": "He studied for three hours.",
+          "zh": "他讀了三個小時。"
+        }
+      ]
+    },
+    {
+      "pattern": "during + 名詞",
+      "meaning_zh": "在某段期間之中",
+      "structure": "during + noun",
+      "examples": [
+        {
+          "en": "He fell asleep during the movie.",
+          "zh": "他在電影放映中睡著了。"
+        },
+        {
+          "en": "I traveled during the summer.",
+          "zh": "我在暑假期間旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "at + 地點（小／點狀）",
+      "meaning_zh": "在某個點狀位置",
+      "structure": "at + specific point",
+      "examples": [
+        {
+          "en": "I'll meet you at the bus stop.",
+          "zh": "我們在公車站碰面。"
+        },
+        {
+          "en": "She is waiting at the door.",
+          "zh": "她在門口等。"
+        }
+      ]
+    },
+    {
+      "pattern": "on + 表面",
+      "meaning_zh": "在某個表面上",
+      "structure": "on + surface",
+      "examples": [
+        {
+          "en": "The book is on the table.",
+          "zh": "書在桌上。"
+        },
+        {
+          "en": "There's a fly on the wall.",
+          "zh": "牆上有一隻蒼蠅。"
+        }
+      ]
+    },
+    {
+      "pattern": "in + 空間內",
+      "meaning_zh": "在某個空間或容器內",
+      "structure": "in + enclosed space",
+      "examples": [
+        {
+          "en": "The keys are in my bag.",
+          "zh": "鑰匙在我的包包裡。"
+        },
+        {
+          "en": "He lives in Taipei.",
+          "zh": "他住在台北。"
+        }
+      ]
+    },
+    {
+      "pattern": "between vs. among",
+      "meaning_zh": "between 用於兩者之間；among 用於三者或更多",
+      "structure": "between A and B / among + plural",
+      "examples": [
+        {
+          "en": "Sit between your sister and me.",
+          "zh": "坐在你妹妹和我之間。"
+        },
+        {
+          "en": "He is popular among his classmates.",
+          "zh": "他在同學之中很受歡迎。"
+        }
+      ]
+    },
+    {
+      "pattern": "to / from（方向）",
+      "meaning_zh": "到／從",
+      "structure": "to / from + place",
+      "examples": [
+        {
+          "en": "She drove from Taipei to Kaohsiung.",
+          "zh": "她從台北開車到高雄。"
+        },
+        {
+          "en": "I'm going to the library.",
+          "zh": "我要去圖書館。"
+        }
+      ]
+    },
+    {
+      "pattern": "through / over / under",
+      "meaning_zh": "穿過／越過／在下方",
+      "structure": "through / over / under + noun",
+      "examples": [
+        {
+          "en": "The train went through a tunnel.",
+          "zh": "火車穿過了隧道。"
+        },
+        {
+          "en": "The ball flew over the fence.",
+          "zh": "球飛過了圍籬。"
+        }
+      ]
+    },
+    {
+      "pattern": "because of / due to",
+      "meaning_zh": "由於、因為（後接名詞）",
+      "structure": "because of / due to + noun",
+      "examples": [
+        {
+          "en": "The game was canceled because of the rain.",
+          "zh": "比賽因雨取消。"
+        },
+        {
+          "en": "His success is due to hard work.",
+          "zh": "他的成功歸因於努力。"
+        }
+      ]
+    },
+    {
+      "pattern": "depend / rely on",
+      "meaning_zh": "依靠、取決於",
+      "structure": "depend / rely on + noun",
+      "examples": [
+        {
+          "en": "Children depend on their parents.",
+          "zh": "孩子依賴父母。"
+        },
+        {
+          "en": "You can rely on me.",
+          "zh": "你可以信賴我。"
+        }
+      ]
+    },
+    {
+      "pattern": "consist of",
+      "meaning_zh": "由……組成",
+      "structure": "consist of + noun",
+      "examples": [
+        {
+          "en": "The team consists of ten players.",
+          "zh": "這支隊伍由十名球員組成。"
+        },
+        {
+          "en": "Water consists of hydrogen and oxygen.",
+          "zh": "水由氫和氧組成。"
+        }
+      ]
+    },
+    {
+      "pattern": "accuse / suspect of",
+      "meaning_zh": "指控／懷疑某人……",
+      "structure": "accuse / suspect sb. of + N/V-ing",
+      "examples": [
+        {
+          "en": "They accused him of lying.",
+          "zh": "他們指控他說謊。"
+        },
+        {
+          "en": "The police suspected her of theft.",
+          "zh": "警方懷疑她偷竊。"
+        }
+      ]
+    },
+    {
+      "pattern": "afraid of / interested in",
+      "meaning_zh": "形容詞＋介系詞固定搭配",
+      "structure": "adj. + prep. + N/V-ing",
+      "examples": [
+        {
+          "en": "She is afraid of spiders.",
+          "zh": "她怕蜘蛛。"
+        },
+        {
+          "en": "I'm interested in music.",
+          "zh": "我對音樂有興趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "phrasal verb（可分離）",
+      "meaning_zh": "可分離片語動詞，受詞為代名詞時必置中",
+      "structure": "V + pronoun + particle",
+      "examples": [
+        {
+          "en": "Please turn it off.",
+          "zh": "請把它關掉。"
+        },
+        {
+          "en": "She picked up the book / picked the book up.",
+          "zh": "她把書撿起來。"
+        }
+      ]
+    },
+    {
+      "pattern": "phrasal verb（不可分離）",
+      "meaning_zh": "不可分離片語動詞，受詞必置最後",
+      "structure": "V + particle + object",
+      "examples": [
+        {
+          "en": "I look after my brother.",
+          "zh": "我照顧我弟弟。"
+        },
+        {
+          "en": "We ran into an old friend.",
+          "zh": "我們巧遇了一位老朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "the（特指、唯一）",
+      "meaning_zh": "定冠詞，用於特定、唯一或第二次提及",
+      "structure": "the + noun",
+      "examples": [
+        {
+          "en": "The sun rises in the east.",
+          "zh": "太陽從東方升起。"
+        },
+        {
+          "en": "I read a book; the book was great.",
+          "zh": "我看了一本書，那本書很棒。"
+        }
+      ]
+    },
+    {
+      "pattern": "a / an（第一次提及）",
+      "meaning_zh": "不定冠詞，首次提及或一個（任一）",
+      "structure": "a + 子音音 / an + 母音音",
+      "examples": [
+        {
+          "en": "I saw a dog and an elephant.",
+          "zh": "我看到一隻狗和一頭大象。"
+        },
+        {
+          "en": "He is a doctor.",
+          "zh": "他是醫生。"
+        }
+      ]
+    },
+    {
+      "pattern": "零冠詞（複數泛指）",
+      "meaning_zh": "複數名詞作泛指、抽象名詞不加冠詞",
+      "structure": "Ø + plural / abstract noun",
+      "examples": [
+        {
+          "en": "Dogs are loyal animals.",
+          "zh": "狗是忠誠的動物。"
+        },
+        {
+          "en": "Honesty is important.",
+          "zh": "誠實很重要。"
+        }
+      ]
+    },
+    {
+      "pattern": "some / any",
+      "meaning_zh": "some 用於肯定，any 用於否定／疑問",
+      "structure": "some / any + noun",
+      "examples": [
+        {
+          "en": "I have some money.",
+          "zh": "我有一些錢。"
+        },
+        {
+          "en": "Do you have any questions?",
+          "zh": "你有任何問題嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "few / a few / little / a little",
+      "meaning_zh": "幾乎沒有／一些（few 可數、little 不可數）",
+      "structure": "few / a few + 複可；little / a little + 不可數",
+      "examples": [
+        {
+          "en": "I have a few friends here.",
+          "zh": "我這裡有幾個朋友。"
+        },
+        {
+          "en": "There is little water in the bottle.",
+          "zh": "瓶子裡幾乎沒水。"
+        }
+      ]
+    },
+    {
+      "pattern": "FANBOYS（對等連接詞）",
+      "meaning_zh": "for/and/nor/but/or/yet/so，連接對等的句子",
+      "structure": "S1 V1, FANBOYS S2 V2",
+      "examples": [
+        {
+          "en": "I was tired, so I went to bed.",
+          "zh": "我累了，所以就睡了。"
+        },
+        {
+          "en": "He's young but very wise.",
+          "zh": "他年輕但很有智慧。"
+        }
+      ]
+    },
+    {
+      "pattern": "because / since（原因）",
+      "meaning_zh": "因為，引導原因副詞子句",
+      "structure": "because / since + S + V",
+      "examples": [
+        {
+          "en": "I stayed home because I was sick.",
+          "zh": "我留在家裡因為生病了。"
+        },
+        {
+          "en": "Since it's late, let's stop.",
+          "zh": "既然晚了，我們停下吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "although / though / even though",
+      "meaning_zh": "雖然，引導讓步副詞子句",
+      "structure": "although + S + V",
+      "examples": [
+        {
+          "en": "Although it rained, we went out.",
+          "zh": "雖然下雨，我們還是出門。"
+        },
+        {
+          "en": "He smiled even though he was upset.",
+          "zh": "他雖然難過卻面帶微笑。"
+        }
+      ]
+    },
+    {
+      "pattern": "unless（除非）",
+      "meaning_zh": "除非＝if...not",
+      "structure": "unless + S + V (現在式)",
+      "examples": [
+        {
+          "en": "You'll be late unless you hurry.",
+          "zh": "你不快點就會遲到。"
+        },
+        {
+          "en": "I won't go unless you come.",
+          "zh": "除非你來，否則我不去。"
+        }
+      ]
+    },
+    {
+      "pattern": "both...and",
+      "meaning_zh": "兩者都，連接兩對等成分",
+      "structure": "both A and B",
+      "examples": [
+        {
+          "en": "She is both smart and kind.",
+          "zh": "她既聰明又善良。"
+        },
+        {
+          "en": "Both my parents work.",
+          "zh": "我父母都工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "either...or / neither...nor",
+      "meaning_zh": "不是……就是／既不……也不",
+      "structure": "either A or B / neither A nor B",
+      "examples": [
+        {
+          "en": "You can have either tea or coffee.",
+          "zh": "你可以選茶或咖啡。"
+        },
+        {
+          "en": "Neither John nor Mary came.",
+          "zh": "約翰和瑪麗都沒來。"
+        }
+      ]
+    },
+    {
+      "pattern": "not only...but also",
+      "meaning_zh": "不僅……而且……",
+      "structure": "not only A but also B",
+      "examples": [
+        {
+          "en": "He is not only handsome but also rich.",
+          "zh": "他不僅帥而且有錢。"
+        },
+        {
+          "en": "She speaks not only English but also French.",
+          "zh": "她不僅說英語也說法語。"
+        }
+      ]
+    },
+    {
+      "pattern": "however / therefore / furthermore",
+      "meaning_zh": "連接副詞：然而／因此／再者",
+      "structure": "S1 V1. However/Therefore, S2 V2.",
+      "examples": [
+        {
+          "en": "It was raining. However, we went hiking.",
+          "zh": "當時下著雨，然而我們還是去爬山。"
+        },
+        {
+          "en": "He studied hard. Therefore, he passed.",
+          "zh": "他用功讀書，所以通過了。"
+        }
+      ]
+    },
+    {
+      "pattern": "否定副詞倒裝",
+      "meaning_zh": "否定副詞置句首，主詞與助動詞倒裝",
+      "structure": "Never/Rarely/Seldom/Hardly + aux + S + V",
+      "examples": [
+        {
+          "en": "Never have I seen such a sight.",
+          "zh": "我從未見過這樣的景象。"
+        },
+        {
+          "en": "Rarely does he complain.",
+          "zh": "他很少抱怨。"
+        }
+      ]
+    },
+    {
+      "pattern": "No sooner...than / Hardly...when",
+      "meaning_zh": "一……就……（句首倒裝）",
+      "structure": "No sooner had S Vpp than S2 V2 / Hardly had S Vpp when S2 V2",
+      "examples": [
+        {
+          "en": "No sooner had I sat down than the phone rang.",
+          "zh": "我才剛坐下電話就響了。"
+        },
+        {
+          "en": "Hardly had he arrived when it started to rain.",
+          "zh": "他才剛到就開始下雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "Only + 副詞片語倒裝",
+      "meaning_zh": "Only 開頭時主詞助動詞倒裝",
+      "structure": "Only then/if/when + aux + S + V",
+      "examples": [
+        {
+          "en": "Only then did I realize my mistake.",
+          "zh": "那時我才意識到自己的錯誤。"
+        },
+        {
+          "en": "Only when he left did she cry.",
+          "zh": "直到他離開她才哭。"
+        }
+      ]
+    },
+    {
+      "pattern": "條件句倒裝（省略 if）",
+      "meaning_zh": "省略 if 將助動詞提至句首",
+      "structure": "Had/Were/Should + S + V...",
+      "examples": [
+        {
+          "en": "Had I known, I would have helped.",
+          "zh": "早知道我就會幫忙。"
+        },
+        {
+          "en": "Were I you, I would apologize.",
+          "zh": "如果我是你，我會道歉。"
+        }
+      ]
+    },
+    {
+      "pattern": "It-cleft（強調句）",
+      "meaning_zh": "用 It is/was...that/who 強調某成分",
+      "structure": "It is/was + 強調部分 + that/who + 其餘",
+      "examples": [
+        {
+          "en": "It was John who broke the window.",
+          "zh": "是約翰打破了窗戶。"
+        },
+        {
+          "en": "It is honesty that matters most.",
+          "zh": "最重要的是誠實。"
+        }
+      ]
+    },
+    {
+      "pattern": "Wh-cleft（What 強調）",
+      "meaning_zh": "用 What 子句強調主詞或受詞",
+      "structure": "What + S + V + is/was + 強調部分",
+      "examples": [
+        {
+          "en": "What I need is some rest.",
+          "zh": "我需要的是休息。"
+        },
+        {
+          "en": "What he wants is your support.",
+          "zh": "他想要的是你的支持。"
+        }
+      ]
+    },
+    {
+      "pattern": "主詞動詞一致：集合名詞",
+      "meaning_zh": "集合名詞可單可複，視整體或個體而定",
+      "structure": "collective noun + is/are",
+      "examples": [
+        {
+          "en": "My family is large.",
+          "zh": "我家是大家庭。"
+        },
+        {
+          "en": "The team are arguing among themselves.",
+          "zh": "隊員們彼此在爭吵。"
+        }
+      ]
+    },
+    {
+      "pattern": "neither / either of + 複數",
+      "meaning_zh": "neither/either of 後接複數名詞，動詞用單數",
+      "structure": "Neither/Either of + the + Ns + V(s)",
+      "examples": [
+        {
+          "en": "Neither of the answers is correct.",
+          "zh": "兩個答案都不對。"
+        },
+        {
+          "en": "Either of you is welcome.",
+          "zh": "你們任一位都歡迎。"
+        }
+      ]
+    },
+    {
+      "pattern": "there is / there are",
+      "meaning_zh": "There 句型動詞需與後面名詞數一致",
+      "structure": "There is + 單 / There are + 複",
+      "examples": [
+        {
+          "en": "There is a cat on the sofa.",
+          "zh": "沙發上有一隻貓。"
+        },
+        {
+          "en": "There are three books on the desk.",
+          "zh": "桌上有三本書。"
+        }
+      ]
+    },
+    {
+      "pattern": "附加問句（question tag）",
+      "meaning_zh": "前肯後否、前否後肯",
+      "structure": "主句, aux + (n't) + pron?",
+      "examples": [
+        {
+          "en": "You're a student, aren't you?",
+          "zh": "你是學生，對吧？"
+        },
+        {
+          "en": "He doesn't drive, does he?",
+          "zh": "他不開車，是吧？"
+        }
+      ]
+    },
+    {
+      "pattern": "強調的 do",
+      "meaning_zh": "在動詞前加 do/does/did 強調語氣",
+      "structure": "S + do/does/did + V(原形)",
+      "examples": [
+        {
+          "en": "I do believe you.",
+          "zh": "我真的相信你。"
+        },
+        {
+          "en": "She did finish on time.",
+          "zh": "她的確準時完成了。"
+        }
+      ]
+    },
+    {
+      "pattern": "副詞位置（頻率副詞）",
+      "meaning_zh": "頻率副詞置 be 動詞後、一般動詞前",
+      "structure": "S + (aux/be) + adv + V",
+      "examples": [
+        {
+          "en": "She always arrives early.",
+          "zh": "她總是早到。"
+        },
+        {
+          "en": "He is never late.",
+          "zh": "他從不遲到。"
+        }
+      ]
+    },
+    {
+      "pattern": "基本語序 SVO",
+      "meaning_zh": "英文基本句序：主詞＋動詞＋受詞",
+      "structure": "S + V + O",
+      "examples": [
+        {
+          "en": "I love music.",
+          "zh": "我喜愛音樂。"
+        },
+        {
+          "en": "She wrote a letter.",
+          "zh": "她寫了一封信。"
+        }
+      ]
+    },
+    {
+      "pattern": "連續形容詞順序",
+      "meaning_zh": "多形容詞依大小／形狀／顏色／材料順序",
+      "structure": "opinion + size + age + shape + color + origin + material + N",
+      "examples": [
+        {
+          "en": "a beautiful small old round wooden table",
+          "zh": "一張美麗、小巧、古老、圓形的木桌。"
+        },
+        {
+          "en": "a lovely big red box",
+          "zh": "一個可愛的大紅盒子。"
+        }
+      ]
+    },
+    {
+      "pattern": "逗號用法（列舉）",
+      "meaning_zh": "列舉三項以上時用逗號分隔",
+      "structure": "A, B, and C",
+      "examples": [
+        {
+          "en": "I bought apples, oranges, and bananas.",
+          "zh": "我買了蘋果、橘子和香蕉。"
+        },
+        {
+          "en": "She is kind, smart, and funny.",
+          "zh": "她善良、聰明又幽默。"
+        }
+      ]
+    },
+    {
+      "pattern": "引號用法",
+      "meaning_zh": "直接引述用引號，標點置引號內",
+      "structure": "S said, \"...\"",
+      "examples": [
+        {
+          "en": "She said, \"I'll be back soon.\"",
+          "zh": "她說：「我很快就回來。」"
+        },
+        {
+          "en": "He asked, \"What time is it?\"",
+          "zh": "他問：「現在幾點？」"
+        }
+      ]
+    },
+    {
+      "pattern": "複合形容詞連字號",
+      "meaning_zh": "修飾名詞的複合形容詞用連字號",
+      "structure": "adj-N / N-V-ed + noun",
+      "examples": [
+        {
+          "en": "a well-known author",
+          "zh": "一位知名作家。"
+        },
+        {
+          "en": "a five-year-old boy",
+          "zh": "一個五歲的男孩。"
+        }
       ]
     }
   ]
