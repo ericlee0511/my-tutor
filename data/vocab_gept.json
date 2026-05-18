@@ -25733,6 +25733,3006 @@
       "meaning_zh": "(名) 雪橇",
       "example_en": "Children laughed loudly as they raced their wooden sleds down the snowy hill behind home.",
       "example_zh": "孩子們駕著木雪橇從家後面的雪丘上一路滑下，大聲歡笑。"
+    },
+    {
+      "word": "pestle",
+      "meaning_zh": "(名詞) 杵；搗棒",
+      "example_en": "She used a stone pestle to crush the garlic cloves into a smooth paste.",
+      "example_zh": "她用石杵把蒜瓣搗成滑順的泥。"
+    },
+    {
+      "word": "skillet",
+      "meaning_zh": "(名詞) 平底煎鍋",
+      "example_en": "Pour the beaten eggs into a hot skillet and stir them with a wooden spoon.",
+      "example_zh": "把打散的蛋倒入熱平底鍋，用木匙拌炒。"
+    },
+    {
+      "word": "wok",
+      "meaning_zh": "(名詞) 中式炒鍋",
+      "example_en": "My grandmother seasons her iron wok carefully so the surface stays nonstick.",
+      "example_zh": "祖母仔細養護她的鐵炒鍋，讓表面保持不沾。"
+    },
+    {
+      "word": "griddle",
+      "meaning_zh": "(名詞) 鐵板煎盤",
+      "example_en": "Pancakes cook evenly on the cast iron griddle if you wait until bubbles form.",
+      "example_zh": "在鑄鐵煎盤上等氣泡出現再翻面，鬆餅就熟得均勻。"
+    },
+    {
+      "word": "cleaver",
+      "meaning_zh": "(名詞) 中式菜刀；剁刀",
+      "example_en": "The chef chopped through the bone with a single swing of his heavy cleaver.",
+      "example_zh": "廚師一刀就用他沉重的剁刀劈穿了骨頭。"
+    },
+    {
+      "word": "paring knife",
+      "meaning_zh": "(名詞) 削皮小刀",
+      "example_en": "Use a sharp paring knife to remove the eyes from each potato.",
+      "example_zh": "用鋒利的削皮小刀挖掉每顆馬鈴薯上的芽眼。"
+    },
+    {
+      "word": "cutting board",
+      "meaning_zh": "(名詞) 砧板",
+      "example_en": "Please rinse the cutting board with hot water after slicing raw chicken on it.",
+      "example_zh": "切完生雞肉後，請用熱水沖洗砧板。"
+    },
+    {
+      "word": "measuring cup",
+      "meaning_zh": "(名詞) 量杯",
+      "example_en": "Fill the measuring cup to exactly two hundred milliliters for an accurate result.",
+      "example_zh": "把量杯精確倒到兩百毫升才能得到準確結果。"
+    },
+    {
+      "word": "oven mitt",
+      "meaning_zh": "(名詞) 烤箱隔熱手套",
+      "example_en": "Always wear an oven mitt when you take a hot tray out of the oven.",
+      "example_zh": "從烤箱拿出熱烤盤時，務必戴上隔熱手套。"
+    },
+    {
+      "word": "cinnamon",
+      "meaning_zh": "(名詞) 肉桂",
+      "example_en": "A dash of cinnamon makes the apple pie smell wonderfully warm and sweet.",
+      "example_zh": "撒一點肉桂粉能讓蘋果派散發溫暖香甜的氣味。"
+    },
+    {
+      "word": "cumin",
+      "meaning_zh": "(名詞) 孜然；小茴香",
+      "example_en": "Indian curries often rely on roasted cumin seeds for their deep, earthy flavor.",
+      "example_zh": "印度咖哩常靠烤過的孜然籽帶出深沉的土香風味。"
+    },
+    {
+      "word": "turmeric",
+      "meaning_zh": "(名詞) 薑黃",
+      "example_en": "Turmeric gives the rice its bright yellow color and a slightly bitter taste.",
+      "example_zh": "薑黃讓米飯呈現鮮黃色，並帶有微苦的味道。"
+    },
+    {
+      "word": "paprika",
+      "meaning_zh": "(名詞) 紅椒粉",
+      "example_en": "Sprinkle smoked paprika over the deviled eggs for both color and aroma.",
+      "example_zh": "在魔鬼蛋上撒煙燻紅椒粉，能增添色彩和香氣。"
+    },
+    {
+      "word": "oregano",
+      "meaning_zh": "(名詞) 奧勒岡葉",
+      "example_en": "Fresh oregano leaves smell strongly of pizza when you crush them between your fingers.",
+      "example_zh": "新鮮奧勒岡葉用手指搓開後會散發強烈的披薩香氣。"
+    },
+    {
+      "word": "rosemary",
+      "meaning_zh": "(名詞) 迷迭香",
+      "example_en": "Tuck a sprig of rosemary inside the chicken before roasting for extra fragrance.",
+      "example_zh": "烤雞前在雞腹塞入一小枝迷迭香，可增添香氣。"
+    },
+    {
+      "word": "thyme",
+      "meaning_zh": "(名詞) 百里香",
+      "example_en": "A few stems of thyme can transform a simple bowl of mushroom soup.",
+      "example_zh": "幾根百里香就能讓一碗簡單的蘑菇湯脫胎換骨。"
+    },
+    {
+      "word": "saffron",
+      "meaning_zh": "(名詞) 番紅花",
+      "example_en": "Saffron is one of the world's most expensive spices because of its careful harvest.",
+      "example_zh": "番紅花因採摘費工而成為世界上最昂貴的香料之一。"
+    },
+    {
+      "word": "clove",
+      "meaning_zh": "(名詞) 丁香",
+      "example_en": "Push a single clove into the onion before adding it to the simmering broth.",
+      "example_zh": "把一顆丁香插進洋蔥再放入煨煮的高湯中。"
+    },
+    {
+      "word": "nutmeg",
+      "meaning_zh": "(名詞) 肉豆蔻",
+      "example_en": "Grate fresh nutmeg over warm eggnog for a holiday flavor everyone loves.",
+      "example_zh": "在溫熱的蛋酒上現磨肉豆蔻，能營造大家都愛的節慶風味。"
+    },
+    {
+      "word": "soy sauce",
+      "meaning_zh": "(名詞) 醬油",
+      "example_en": "Add just a teaspoon of soy sauce to deepen the flavor of the stir-fry.",
+      "example_zh": "只加一小匙醬油就能讓炒菜的味道更有層次。"
+    },
+    {
+      "word": "oyster sauce",
+      "meaning_zh": "(名詞) 蠔油",
+      "example_en": "Cantonese broccoli tastes wonderful drizzled with warm garlicky oyster sauce.",
+      "example_zh": "芥蘭淋上溫熱的蒜香蠔油非常美味。"
+    },
+    {
+      "word": "fish sauce",
+      "meaning_zh": "(名詞) 魚露",
+      "example_en": "A spoonful of fish sauce gives Thai salads their signature savory kick.",
+      "example_zh": "一匙魚露能讓泰式沙拉散發出標誌性的鹹鮮風味。"
+    },
+    {
+      "word": "hot sauce",
+      "meaning_zh": "(名詞) 辣椒醬",
+      "example_en": "He keeps three different bottles of hot sauce on the dining table at all times.",
+      "example_zh": "他在餐桌上隨時擺著三種不同的辣椒醬。"
+    },
+    {
+      "word": "ketchup",
+      "meaning_zh": "(名詞) 番茄醬",
+      "example_en": "Kids will dip almost anything in ketchup if you let them.",
+      "example_zh": "如果你允許，小孩幾乎什麼都會沾番茄醬。"
+    },
+    {
+      "word": "mustard",
+      "meaning_zh": "(名詞) 芥末醬",
+      "example_en": "Spread a thin layer of mustard on the bread before adding the cold cuts.",
+      "example_zh": "在麵包上抹一薄層芥末醬，再放上冷切肉片。"
+    },
+    {
+      "word": "mayonnaise",
+      "meaning_zh": "(名詞) 美乃滋",
+      "example_en": "Homemade mayonnaise tastes much richer than the kind that comes from a jar.",
+      "example_zh": "自製美乃滋比罐裝的味道豐富許多。"
+    },
+    {
+      "word": "conditioner",
+      "meaning_zh": "(名詞) 潤髮乳",
+      "example_en": "Leave the conditioner on your hair for two minutes before rinsing it out.",
+      "example_zh": "把潤髮乳停留在頭髮上兩分鐘再沖掉。"
+    },
+    {
+      "word": "toothpaste",
+      "meaning_zh": "(名詞) 牙膏",
+      "example_en": "He squeezed a pea-sized amount of toothpaste onto his soft bristled brush.",
+      "example_zh": "他在軟毛牙刷上擠了豌豆大小的牙膏。"
+    },
+    {
+      "word": "mouthwash",
+      "meaning_zh": "(名詞) 漱口水",
+      "example_en": "Rinse with mouthwash for thirty seconds to freshen your breath before the meeting.",
+      "example_zh": "開會前用漱口水漱口三十秒以保持口氣清新。"
+    },
+    {
+      "word": "dental floss",
+      "meaning_zh": "(名詞) 牙線",
+      "example_en": "Using dental floss every night can prevent gum disease in the long run.",
+      "example_zh": "每晚使用牙線長期下來能預防牙周病。"
+    },
+    {
+      "word": "lotion",
+      "meaning_zh": "(名詞) 乳液",
+      "example_en": "Apply a generous layer of body lotion right after stepping out of the shower.",
+      "example_zh": "洗完澡後立刻擦上一層充足的身體乳液。"
+    },
+    {
+      "word": "moisturizer",
+      "meaning_zh": "(名詞) 保濕霜",
+      "example_en": "My new moisturizer feels light and absorbs into the skin within seconds.",
+      "example_zh": "我的新保濕霜質地輕薄，幾秒內就能被皮膚吸收。"
+    },
+    {
+      "word": "sunscreen",
+      "meaning_zh": "(名詞) 防曬乳",
+      "example_en": "Reapply sunscreen every two hours when you're swimming at the beach.",
+      "example_zh": "在海灘游泳時每兩小時就要補擦一次防曬乳。"
+    },
+    {
+      "word": "hairbrush",
+      "meaning_zh": "(名詞) 梳子",
+      "example_en": "She cleans her wooden hairbrush by removing the loose strands every Sunday.",
+      "example_zh": "她每週日都會把卡在木梳上的散落髮絲清乾淨。"
+    },
+    {
+      "word": "hair dryer",
+      "meaning_zh": "(名詞) 吹風機",
+      "example_en": "The hotel provides a small hair dryer mounted on the bathroom wall.",
+      "example_zh": "飯店在浴室牆上裝設了一台小型吹風機。"
+    },
+    {
+      "word": "shower curtain",
+      "meaning_zh": "(名詞) 浴簾",
+      "example_en": "Pull the shower curtain all the way across so water doesn't splash on the floor.",
+      "example_zh": "把浴簾完全拉上，水才不會濺到地板。"
+    },
+    {
+      "word": "bath mat",
+      "meaning_zh": "(名詞) 浴室腳踏墊",
+      "example_en": "Step onto the bath mat carefully so you don't slip on the wet tiles.",
+      "example_zh": "小心踏上浴室腳踏墊，避免在濕磁磚上滑倒。"
+    },
+    {
+      "word": "toilet seat",
+      "meaning_zh": "(名詞) 馬桶座",
+      "example_en": "Please remember to put the toilet seat down before you leave the bathroom.",
+      "example_zh": "離開浴室前請記得把馬桶座蓋下來。"
+    },
+    {
+      "word": "toilet brush",
+      "meaning_zh": "(名詞) 馬桶刷",
+      "example_en": "Scrub the bowl thoroughly with the toilet brush at least once a week.",
+      "example_zh": "每週至少用馬桶刷徹底刷洗馬桶內側一次。"
+    },
+    {
+      "word": "electric shaver",
+      "meaning_zh": "(名詞) 電動刮鬍刀",
+      "example_en": "He prefers an electric shaver because it leaves his skin much less irritated.",
+      "example_zh": "他偏好電動刮鬍刀，因為比較不會刺激皮膚。"
+    },
+    {
+      "word": "shaving cream",
+      "meaning_zh": "(名詞) 刮鬍泡",
+      "example_en": "Lather warm shaving cream over your jaw before lifting the razor.",
+      "example_zh": "舉起刮鬍刀前先在下巴塗上溫熱的刮鬍泡。"
+    },
+    {
+      "word": "cotton swab",
+      "meaning_zh": "(名詞) 棉花棒",
+      "example_en": "Use a cotton swab to apply the ointment precisely to the small cut.",
+      "example_zh": "用棉花棒把藥膏精確地塗在小傷口上。"
+    },
+    {
+      "word": "nail file",
+      "meaning_zh": "(名詞) 指甲銼",
+      "example_en": "A glass nail file shapes the nails more smoothly than a metal one.",
+      "example_zh": "玻璃指甲銼比金屬款式更能把指甲磨得光滑。"
+    },
+    {
+      "word": "tweezers",
+      "meaning_zh": "(名詞) 鑷子",
+      "example_en": "She used precision tweezers to remove the splinter from her son's thumb.",
+      "example_zh": "她用精細的鑷子把兒子拇指上的木刺夾出來。"
+    },
+    {
+      "word": "duvet",
+      "meaning_zh": "(名詞) 羽絨被",
+      "example_en": "In winter we use a thick goose-down duvet that keeps the whole bed warm.",
+      "example_zh": "冬天我們用厚厚的鵝絨羽絨被，能讓整張床都很溫暖。"
+    },
+    {
+      "word": "duvet cover",
+      "meaning_zh": "(名詞) 羽絨被套",
+      "example_en": "Wash the duvet cover in warm water and tumble dry it on a low setting.",
+      "example_zh": "用溫水清洗羽絨被套，並用低溫滾筒烘乾。"
+    },
+    {
+      "word": "headboard",
+      "meaning_zh": "(名詞) 床頭板",
+      "example_en": "The wooden headboard has small shelves for books and a reading lamp.",
+      "example_zh": "木製床頭板上有放書和檯燈的小架子。"
+    },
+    {
+      "word": "lampshade",
+      "meaning_zh": "(名詞) 燈罩",
+      "example_en": "The paper lampshade glowed warmly when she switched on the bedside light.",
+      "example_zh": "她開床頭燈時，紙燈罩透出溫暖的光。"
+    },
+    {
+      "word": "alarm clock",
+      "meaning_zh": "(名詞) 鬧鐘",
+      "example_en": "His old wind-up alarm clock still wakes him at six every morning.",
+      "example_zh": "他那個老舊的發條鬧鐘每天早上六點仍會把他叫醒。"
+    },
+    {
+      "word": "vanity",
+      "meaning_zh": "(名詞) 梳妝台",
+      "example_en": "She sat at her vanity and brushed her hair one hundred times before bed.",
+      "example_zh": "她坐在梳妝台前，睡前把頭髮梳了一百下。"
+    },
+    {
+      "word": "hoodie",
+      "meaning_zh": "(名詞) 連帽上衣",
+      "example_en": "He pulled the strings of his hoodie tight against the cold wind.",
+      "example_zh": "他把連帽上衣的繩子拉緊以擋寒風。"
+    },
+    {
+      "word": "blazer",
+      "meaning_zh": "(名詞) 西裝外套",
+      "example_en": "A navy blazer instantly makes any casual outfit look more professional.",
+      "example_zh": "一件海軍藍西裝外套能立刻讓任何休閒穿搭顯得更專業。"
+    },
+    {
+      "word": "slacks",
+      "meaning_zh": "(名詞) 西裝褲；長褲",
+      "example_en": "He wore gray wool slacks and a crisp white shirt to the interview.",
+      "example_zh": "他穿著灰色羊毛西裝褲和挺括的白襯衫去面試。"
+    },
+    {
+      "word": "leggings",
+      "meaning_zh": "(名詞) 緊身褲",
+      "example_en": "Black leggings are comfortable enough for yoga but stylish enough for coffee afterwards.",
+      "example_zh": "黑色緊身褲做瑜珈舒適，之後喝咖啡也夠時髦。"
+    },
+    {
+      "word": "jumpsuit",
+      "meaning_zh": "(名詞) 連身褲裝",
+      "example_en": "Her linen jumpsuit was the perfect choice for the outdoor summer wedding.",
+      "example_zh": "她的亞麻連身褲裝是戶外夏季婚禮的絕佳選擇。"
+    },
+    {
+      "word": "turtleneck",
+      "meaning_zh": "(名詞) 高領毛衣",
+      "example_en": "A black turtleneck under a tweed coat looks both warm and elegant.",
+      "example_zh": "在粗呢大衣下穿黑色高領毛衣，既保暖又優雅。"
+    },
+    {
+      "word": "polo shirt",
+      "meaning_zh": "(名詞) Polo衫",
+      "example_en": "The dress code allows a clean polo shirt instead of a button-up.",
+      "example_zh": "服裝規定允許穿乾淨的Polo衫代替襯衫。"
+    },
+    {
+      "word": "tank top",
+      "meaning_zh": "(名詞) 背心",
+      "example_en": "She layered a thin tank top under her linen blouse for extra coverage.",
+      "example_zh": "她在亞麻襯衫下加穿一件薄背心以增加覆蓋。"
+    },
+    {
+      "word": "loafers",
+      "meaning_zh": "(名詞) 樂福鞋",
+      "example_en": "Brown leather loafers go well with both jeans and dress trousers.",
+      "example_zh": "棕色皮質樂福鞋搭配牛仔褲或西裝褲都好看。"
+    },
+    {
+      "word": "high heels",
+      "meaning_zh": "(名詞) 高跟鞋",
+      "example_en": "She kept a pair of comfortable flats in her bag to swap for the high heels.",
+      "example_zh": "她包包裡放了一雙舒適的平底鞋，方便替換高跟鞋。"
+    },
+    {
+      "word": "watchband",
+      "meaning_zh": "(名詞) 錶帶",
+      "example_en": "The leather watchband cracked after five years of daily wear.",
+      "example_zh": "那條皮質錶帶天天戴了五年後出現裂痕。"
+    },
+    {
+      "word": "termite",
+      "meaning_zh": "(名詞) 白蟻",
+      "example_en": "The inspector found termite damage inside the wooden beams of the old house.",
+      "example_zh": "檢查員在老房子的木樑內發現白蟻啃食的痕跡。"
+    },
+    {
+      "word": "wasp",
+      "meaning_zh": "(名詞) 黃蜂；胡蜂",
+      "example_en": "Move slowly and quietly if a wasp lands on your sleeve outdoors.",
+      "example_zh": "如果黃蜂停在你戶外的袖子上，請慢慢且安靜地移動。"
+    },
+    {
+      "word": "hornet",
+      "meaning_zh": "(名詞) 大黃蜂",
+      "example_en": "Never disturb a hornet nest hanging from the eaves of your house.",
+      "example_zh": "千萬不要去驚動掛在屋簷下的大黃蜂巢。"
+    },
+    {
+      "word": "dragonfly",
+      "meaning_zh": "(名詞) 蜻蜓",
+      "example_en": "A bright blue dragonfly hovered just above the lily pond for several minutes.",
+      "example_zh": "一隻鮮藍色的蜻蜓在睡蓮池上方盤旋了好幾分鐘。"
+    },
+    {
+      "word": "firefly",
+      "meaning_zh": "(名詞) 螢火蟲",
+      "example_en": "On summer evenings we counted fireflies flashing in the meadow behind the barn.",
+      "example_zh": "夏天傍晚我們會在穀倉後的草地數閃爍的螢火蟲。"
+    },
+    {
+      "word": "moth",
+      "meaning_zh": "(名詞) 蛾",
+      "example_en": "A pale moth fluttered against the kitchen window all night long.",
+      "example_zh": "一隻淺色的蛾整夜拍打著廚房窗戶。"
+    },
+    {
+      "word": "beetle",
+      "meaning_zh": "(名詞) 甲蟲",
+      "example_en": "My nephew keeps a stag beetle in a clear plastic box on his desk.",
+      "example_zh": "我姪子在書桌上的透明塑膠盒裡養了一隻鍬形蟲。"
+    },
+    {
+      "word": "flea",
+      "meaning_zh": "(名詞) 跳蚤",
+      "example_en": "The vet recommended a monthly flea treatment for our outdoor cat.",
+      "example_zh": "獸醫建議我們家戶外的貓每月做一次跳蚤防治。"
+    },
+    {
+      "word": "tick",
+      "meaning_zh": "(名詞) 壁蝨",
+      "example_en": "Check your dog for ticks carefully after a long walk through tall grass.",
+      "example_zh": "在長草中遛狗很久後，要仔細檢查狗身上有沒有壁蝨。"
+    },
+    {
+      "word": "centipede",
+      "meaning_zh": "(名詞) 蜈蚣",
+      "example_en": "A large centipede crawled out from under the bathroom mat this morning.",
+      "example_zh": "今早一隻大蜈蚣從浴室腳踏墊下爬了出來。"
+    },
+    {
+      "word": "earthworm",
+      "meaning_zh": "(名詞) 蚯蚓",
+      "example_en": "Earthworms tunnel through the soil and help vegetables grow more easily.",
+      "example_zh": "蚯蚓在土壤中鑽洞，能幫助蔬菜更容易生長。"
+    },
+    {
+      "word": "gecko",
+      "meaning_zh": "(名詞) 壁虎",
+      "example_en": "A tiny gecko clung to the ceiling and watched the mosquitoes circle the lamp.",
+      "example_zh": "一隻小壁虎攀在天花板上，看著蚊子繞著燈飛。"
+    },
+    {
+      "word": "lizard",
+      "meaning_zh": "(名詞) 蜥蜴",
+      "example_en": "A green lizard sunbathed on the stone wall in our backyard.",
+      "example_zh": "一隻綠色蜥蜴在我們後院的石牆上曬太陽。"
+    },
+    {
+      "word": "iguana",
+      "meaning_zh": "(名詞) 鬣蜥",
+      "example_en": "The pet store sold a green iguana that grew nearly a meter long.",
+      "example_zh": "那間寵物店賣過一隻長到近一公尺的綠鬣蜥。"
+    },
+    {
+      "word": "chameleon",
+      "meaning_zh": "(名詞) 變色龍",
+      "example_en": "A chameleon slowly shifted from bright green to dusty brown on the branch.",
+      "example_zh": "變色龍在枝頭緩緩從鮮綠變成土褐色。"
+    },
+    {
+      "word": "toad",
+      "meaning_zh": "(名詞) 蟾蜍",
+      "example_en": "A fat toad sat under the porch light catching insects all evening.",
+      "example_zh": "一隻胖蟾蜍整晚坐在門廊燈下抓昆蟲。"
+    },
+    {
+      "word": "salamander",
+      "meaning_zh": "(名詞) 蠑螈",
+      "example_en": "We found a spotted salamander hiding beneath a damp, mossy log.",
+      "example_zh": "我們在潮濕長滿苔蘚的木頭下發現一隻斑點蠑螈。"
+    },
+    {
+      "word": "newt",
+      "meaning_zh": "(名詞) 蠑螈（水生）",
+      "example_en": "The science teacher kept three small newts in a freshwater tank.",
+      "example_zh": "自然老師在淡水缸裡養了三隻小蠑螈。"
+    },
+    {
+      "word": "tortoise",
+      "meaning_zh": "(名詞) 陸龜",
+      "example_en": "Our family tortoise has lived in the garden for more than thirty years.",
+      "example_zh": "我們家的陸龜在花園裡住了超過三十年。"
+    },
+    {
+      "word": "alligator",
+      "meaning_zh": "(名詞) 短吻鱷",
+      "example_en": "Tourists watched an alligator drift silently along the edge of the swamp.",
+      "example_zh": "遊客看著一隻短吻鱷沿著沼澤邊緣靜靜漂浮。"
+    },
+    {
+      "word": "python",
+      "meaning_zh": "(名詞) 蟒蛇",
+      "example_en": "The reticulated python at the zoo measured almost six meters in length.",
+      "example_zh": "動物園的網紋蟒長度將近六公尺。"
+    },
+    {
+      "word": "cobra",
+      "meaning_zh": "(名詞) 眼鏡蛇",
+      "example_en": "A king cobra slid quietly into the dense undergrowth and disappeared.",
+      "example_zh": "一條眼鏡王蛇悄悄滑進茂密灌木叢就消失了。"
+    },
+    {
+      "word": "viper",
+      "meaning_zh": "(名詞) 毒蛇；蝰蛇",
+      "example_en": "Hikers were warned about a viper that had been seen near the trail.",
+      "example_zh": "健行者被警告步道附近曾出現一條蝰蛇。"
+    },
+    {
+      "word": "tadpole",
+      "meaning_zh": "(名詞) 蝌蚪",
+      "example_en": "Children scooped tadpoles out of the pond with small plastic nets.",
+      "example_zh": "孩子們用小塑膠網從池塘撈出蝌蚪。"
+    },
+    {
+      "word": "parrot",
+      "meaning_zh": "(名詞) 鸚鵡",
+      "example_en": "Their gray parrot can imitate the doorbell, the kettle, and the cat.",
+      "example_zh": "他們家的灰鸚鵡會模仿門鈴、水壺和貓叫。"
+    },
+    {
+      "word": "peacock",
+      "meaning_zh": "(名詞) 孔雀",
+      "example_en": "A male peacock spread its enormous tail to attract the attention of the females.",
+      "example_zh": "雄孔雀展開巨大的尾屏以吸引雌鳥的注意。"
+    },
+    {
+      "word": "pelican",
+      "meaning_zh": "(名詞) 鵜鶘",
+      "example_en": "A pelican scooped up several small fish in its huge throat pouch.",
+      "example_zh": "一隻鵜鶘用大喉囊一次撈起好幾條小魚。"
+    },
+    {
+      "word": "vulture",
+      "meaning_zh": "(名詞) 禿鷹",
+      "example_en": "A bald vulture circled high above the dry plain looking for carrion.",
+      "example_zh": "一隻禿頭的禿鷹在乾燥平原上空盤旋尋找腐肉。"
+    },
+    {
+      "word": "falcon",
+      "meaning_zh": "(名詞) 隼",
+      "example_en": "The peregrine falcon dives at incredible speeds to catch smaller birds.",
+      "example_zh": "遊隼以驚人的速度俯衝來捕捉小型鳥類。"
+    },
+    {
+      "word": "swallow",
+      "meaning_zh": "(名詞) 燕子",
+      "example_en": "Every spring swallows return to build small mud nests under our eaves.",
+      "example_zh": "每年春天燕子都會回到我們屋簷下築小泥巢。"
+    },
+    {
+      "word": "seagull",
+      "meaning_zh": "(名詞) 海鷗",
+      "example_en": "A noisy seagull stole a chip right out of the tourist's hand.",
+      "example_zh": "一隻吵鬧的海鷗從遊客手上叼走了一根薯條。"
+    },
+    {
+      "word": "goose",
+      "meaning_zh": "(名詞) 鵝",
+      "example_en": "A loud goose hissed and chased the children away from her nest.",
+      "example_zh": "一隻大聲叫的鵝對著孩子們發出嘶聲，把他們趕離鵝巢。"
+    },
+    {
+      "word": "duckling",
+      "meaning_zh": "(名詞) 小鴨",
+      "example_en": "Five fluffy ducklings followed their mother in a perfect line across the pond.",
+      "example_zh": "五隻毛茸茸的小鴨排成完美的一列跟著母鴨過池塘。"
+    },
+    {
+      "word": "chick",
+      "meaning_zh": "(名詞) 小雞",
+      "example_en": "Each yellow chick weighed only a few grams when it first hatched.",
+      "example_zh": "每隻黃色小雞剛孵出來時只重幾公克。"
+    },
+    {
+      "word": "rooster",
+      "meaning_zh": "(名詞) 公雞",
+      "example_en": "A red rooster crowed loudly at the first hint of sunrise.",
+      "example_zh": "天才剛亮，一隻紅公雞就大聲啼叫。"
+    },
+    {
+      "word": "raven",
+      "meaning_zh": "(名詞) 渡鴉",
+      "example_en": "A large black raven perched on the iron gate watching us closely.",
+      "example_zh": "一隻大黑渡鴉停在鐵門上仔細地盯著我們看。"
+    },
+    {
+      "word": "cardinal",
+      "meaning_zh": "(名詞) 紅雀",
+      "example_en": "A bright red cardinal landed on the bird feeder right outside the kitchen window.",
+      "example_zh": "一隻鮮紅的紅雀停在廚房窗外的餵鳥器上。"
+    },
+    {
+      "word": "finch",
+      "meaning_zh": "(名詞) 雀類",
+      "example_en": "Several yellow finches gathered at the thistle seed feeder all afternoon.",
+      "example_zh": "好幾隻黃雀整個下午都聚在薊草籽餵食器旁。"
+    },
+    {
+      "word": "cod",
+      "meaning_zh": "(名詞) 鱈魚",
+      "example_en": "Baked cod with lemon and butter is a simple but elegant dinner.",
+      "example_zh": "用檸檬奶油烤鱈魚是一道簡單卻優雅的晚餐。"
+    },
+    {
+      "word": "mackerel",
+      "meaning_zh": "(名詞) 鯖魚",
+      "example_en": "Grilled mackerel served with grated radish is a Japanese household favorite.",
+      "example_zh": "烤鯖魚配蘿蔔泥是日本家庭最愛的料理之一。"
+    },
+    {
+      "word": "haddock",
+      "meaning_zh": "(名詞) 黑線鱈",
+      "example_en": "Smoked haddock makes a wonderful base for a creamy fish chowder.",
+      "example_zh": "燻黑線鱈是製作奶香魚雜燴湯的絕佳基底。"
+    },
+    {
+      "word": "halibut",
+      "meaning_zh": "(名詞) 大比目魚",
+      "example_en": "Pacific halibut is prized for its mild flavor and firm white flesh.",
+      "example_zh": "太平洋大比目魚以風味溫和、肉質白嫩緊實聞名。"
+    },
+    {
+      "word": "sea bass",
+      "meaning_zh": "(名詞) 鱸魚",
+      "example_en": "A whole sea bass steamed with ginger and scallions is a classic Cantonese dish.",
+      "example_zh": "清蒸鱸魚配薑絲與蔥段是經典的廣式佳餚。"
+    },
+    {
+      "word": "anchovy",
+      "meaning_zh": "(名詞) 鯷魚",
+      "example_en": "Just one anchovy melted into the pasta sauce adds incredible depth of flavor.",
+      "example_zh": "在義大利麵醬裡融入一條鯷魚就能增添驚人的層次。"
+    },
+    {
+      "word": "herring",
+      "meaning_zh": "(名詞) 鯡魚",
+      "example_en": "Pickled herring is served on dark bread as a traditional Scandinavian breakfast.",
+      "example_zh": "醃漬鯡魚搭配黑麵包是傳統的斯堪地那維亞早餐。"
+    },
+    {
+      "word": "tilapia",
+      "meaning_zh": "(名詞) 吳郭魚；羅非魚",
+      "example_en": "Tilapia is an affordable freshwater fish that takes on the flavors of its seasoning.",
+      "example_zh": "吳郭魚是價格實惠的淡水魚，能吸收調味的風味。"
+    },
+    {
+      "word": "catfish",
+      "meaning_zh": "(名詞) 鯰魚",
+      "example_en": "Southern American cooks fry catfish in a crisp cornmeal batter.",
+      "example_zh": "美國南方廚師會把鯰魚裹上酥脆的玉米粉麵糊油炸。"
+    },
+    {
+      "word": "prawn",
+      "meaning_zh": "(名詞) 大蝦",
+      "example_en": "Garlic butter prawns disappeared from the table almost as quickly as they were served.",
+      "example_zh": "蒜香奶油大蝦才端上桌幾乎就一掃而空。"
+    },
+    {
+      "word": "scallop",
+      "meaning_zh": "(名詞) 干貝；扇貝",
+      "example_en": "Sear the scallops for just one minute on each side for the perfect texture.",
+      "example_zh": "干貝每面只煎一分鐘就能達到最完美的口感。"
+    },
+    {
+      "word": "mussel",
+      "meaning_zh": "(名詞) 淡菜；貽貝",
+      "example_en": "Steam fresh mussels in white wine, garlic, and parsley for a quick dinner.",
+      "example_zh": "用白酒、蒜頭與巴西利清蒸新鮮淡菜，可做出快速的晚餐。"
+    },
+    {
+      "word": "abalone",
+      "meaning_zh": "(名詞) 鮑魚",
+      "example_en": "Abalone is considered a luxury ingredient at traditional Chinese banquets.",
+      "example_zh": "鮑魚在傳統中式宴席中被視為奢華食材。"
+    },
+    {
+      "word": "rose",
+      "meaning_zh": "(名詞) 玫瑰",
+      "example_en": "He gave her a single red rose wrapped in soft white paper.",
+      "example_zh": "他送她一朵用白色軟紙包著的紅玫瑰。"
+    },
+    {
+      "word": "carnation",
+      "meaning_zh": "(名詞) 康乃馨",
+      "example_en": "Children traditionally give pink carnations to their mothers on Mother's Day.",
+      "example_zh": "孩子們在母親節傳統上會送母親粉紅色的康乃馨。"
+    },
+    {
+      "word": "chrysanthemum",
+      "meaning_zh": "(名詞) 菊花",
+      "example_en": "Yellow chrysanthemums brightened the entire autumn garden.",
+      "example_zh": "黃色的菊花點亮了整個秋天的花園。"
+    },
+    {
+      "word": "iris",
+      "meaning_zh": "(名詞) 鳶尾花",
+      "example_en": "A row of purple irises bloomed along the edge of the small stream.",
+      "example_zh": "小溪邊綻放著一排紫色鳶尾花。"
+    },
+    {
+      "word": "violet",
+      "meaning_zh": "(名詞) 紫羅蘭",
+      "example_en": "Tiny wild violets carpeted the forest floor every April.",
+      "example_zh": "每年四月小小的野紫羅蘭都會鋪滿森林地面。"
+    },
+    {
+      "word": "gardenia",
+      "meaning_zh": "(名詞) 梔子花",
+      "example_en": "The smell of gardenia in summer is rich enough to fill an entire room.",
+      "example_zh": "夏天梔子花的香氣濃郁到能充滿整個房間。"
+    },
+    {
+      "word": "marigold",
+      "meaning_zh": "(名詞) 金盞花",
+      "example_en": "Gardeners plant marigolds near tomatoes to keep harmful insects away.",
+      "example_zh": "園丁會在番茄旁種金盞花以驅趕害蟲。"
+    },
+    {
+      "word": "hibiscus",
+      "meaning_zh": "(名詞) 木槿；扶桑花",
+      "example_en": "A scarlet hibiscus flower lasted only one day before falling to the ground.",
+      "example_zh": "鮮紅的扶桑花只能盛開一天就掉落地上。"
+    },
+    {
+      "word": "azalea",
+      "meaning_zh": "(名詞) 杜鵑花",
+      "example_en": "The azalea bush exploded into pink blooms throughout the entire month of April.",
+      "example_zh": "那叢杜鵑花在整個四月綻放成滿樹的粉紅花海。"
+    },
+    {
+      "word": "lotus",
+      "meaning_zh": "(名詞) 蓮花",
+      "example_en": "A pink lotus floated serenely on the still surface of the temple pond.",
+      "example_zh": "一朵粉紅蓮花在寺廟池塘平靜的水面上靜謐漂浮。"
+    },
+    {
+      "word": "elm",
+      "meaning_zh": "(名詞) 榆樹",
+      "example_en": "An old elm tree provided shade for the entire schoolyard.",
+      "example_zh": "一棵老榆樹為整個校園提供了遮蔭。"
+    },
+    {
+      "word": "sycamore",
+      "meaning_zh": "(名詞) 美國梧桐",
+      "example_en": "The huge sycamore in the park sheds bark in irregular patches every summer.",
+      "example_zh": "公園裡那棵巨大的美國梧桐每年夏天都會掉下不規則的樹皮。"
+    },
+    {
+      "word": "poplar",
+      "meaning_zh": "(名詞) 楊樹",
+      "example_en": "A row of tall poplars whispered loudly whenever a strong wind passed through.",
+      "example_zh": "一排高大的楊樹只要強風吹過就會大聲沙沙作響。"
+    },
+    {
+      "word": "redwood",
+      "meaning_zh": "(名詞) 紅杉",
+      "example_en": "Some California redwoods are over a thousand years old and incredibly tall.",
+      "example_zh": "加州有些紅杉的樹齡超過千年，而且極為高大。"
+    },
+    {
+      "word": "spruce",
+      "meaning_zh": "(名詞) 雲杉",
+      "example_en": "The spruce in our living room smelled wonderful all through December.",
+      "example_zh": "客廳裡那棵雲杉整個十二月都散發著好聞的香氣。"
+    },
+    {
+      "word": "fir",
+      "meaning_zh": "(名詞) 冷杉",
+      "example_en": "Snow piled heavily on the dark green branches of the fir tree.",
+      "example_zh": "雪厚厚地堆在冷杉深綠色的枝條上。"
+    },
+    {
+      "word": "sequoia",
+      "meaning_zh": "(名詞) 巨杉；世界爺",
+      "example_en": "A giant sequoia can grow taller than a thirty-story building.",
+      "example_zh": "巨杉能長得比三十層樓的建築還高。"
+    },
+    {
+      "word": "banyan",
+      "meaning_zh": "(名詞) 榕樹",
+      "example_en": "Villagers used to gather under the old banyan tree to share stories.",
+      "example_zh": "村民以前會聚在老榕樹下分享故事。"
+    },
+    {
+      "word": "cherry blossom",
+      "meaning_zh": "(名詞) 櫻花",
+      "example_en": "Cherry blossoms only last about a week, which is why people travel to see them.",
+      "example_zh": "櫻花大約只開一週，這就是人們特地前去賞花的原因。"
+    },
+    {
+      "word": "broccoli",
+      "meaning_zh": "(名詞) 青花菜",
+      "example_en": "Steam the broccoli for just three minutes so it stays bright green and crisp.",
+      "example_zh": "青花菜只蒸三分鐘就能保持鮮綠且爽脆。"
+    },
+    {
+      "word": "cauliflower",
+      "meaning_zh": "(名詞) 白花椰菜",
+      "example_en": "Roasted cauliflower with olive oil and salt makes a surprisingly hearty side dish.",
+      "example_zh": "用橄欖油與鹽烤白花椰菜，能做成意外飽足的配菜。"
+    },
+    {
+      "word": "kale",
+      "meaning_zh": "(名詞) 羽衣甘藍",
+      "example_en": "Massage the kale leaves with a bit of olive oil to soften them before tossing the salad.",
+      "example_zh": "拌沙拉前用一點橄欖油按摩羽衣甘藍，能讓葉片變軟。"
+    },
+    {
+      "word": "asparagus",
+      "meaning_zh": "(名詞) 蘆筍",
+      "example_en": "Snap off the woody ends of the asparagus before roasting them in the oven.",
+      "example_zh": "在烤箱烘烤蘆筍前，先折掉根部較木質化的部分。"
+    },
+    {
+      "word": "artichoke",
+      "meaning_zh": "(名詞) 朝鮮薊",
+      "example_en": "Peel away each tender artichoke leaf and dip the bottom in melted butter.",
+      "example_zh": "剝下每一片柔嫩的朝鮮薊葉，沾融化奶油食用。"
+    },
+    {
+      "word": "celery",
+      "meaning_zh": "(名詞) 芹菜",
+      "example_en": "Children often enjoy celery sticks filled with peanut butter as a snack.",
+      "example_zh": "小孩常喜歡把芹菜棒填上花生醬當點心。"
+    },
+    {
+      "word": "leek",
+      "meaning_zh": "(名詞) 韭蔥",
+      "example_en": "Wash leeks carefully because grit often hides between their layers.",
+      "example_zh": "韭蔥要仔細清洗，因為層與層之間常會藏沙。"
+    },
+    {
+      "word": "scallion",
+      "meaning_zh": "(名詞) 蔥",
+      "example_en": "Sprinkle thinly sliced scallions over the noodles right before serving.",
+      "example_zh": "上桌前在麵上撒上細切的蔥花。"
+    },
+    {
+      "word": "beet",
+      "meaning_zh": "(名詞) 甜菜根",
+      "example_en": "Roasted beets pair beautifully with goat cheese and walnuts in a winter salad.",
+      "example_zh": "烤甜菜根搭配羊奶起司和核桃，是絕配的冬季沙拉。"
+    },
+    {
+      "word": "turnip",
+      "meaning_zh": "(名詞) 蕪菁",
+      "example_en": "Add a few cubes of turnip to the stew for a slightly peppery flavor.",
+      "example_zh": "在燉菜裡加幾塊蕪菁，能帶來淡淡的辛辣味。"
+    },
+    {
+      "word": "parsnip",
+      "meaning_zh": "(名詞) 歐防風",
+      "example_en": "Roasted parsnips become wonderfully sweet when caramelized at high heat.",
+      "example_zh": "歐防風用高溫烤至焦糖化後會變得非常香甜。"
+    },
+    {
+      "word": "okra",
+      "meaning_zh": "(名詞) 秋葵",
+      "example_en": "Sliced okra thickens a southern gumbo into a rich, glossy stew.",
+      "example_zh": "切片秋葵能讓南方什錦濃湯變得濃稠油亮。"
+    },
+    {
+      "word": "sweet potato",
+      "meaning_zh": "(名詞) 地瓜；番薯",
+      "example_en": "A baked sweet potato topped with cinnamon makes a comforting cold-weather snack.",
+      "example_zh": "烤地瓜撒上肉桂粉是天冷時撫慰人心的小點心。"
+    },
+    {
+      "word": "squash",
+      "meaning_zh": "(名詞) 南瓜類；西葫蘆",
+      "example_en": "Butternut squash soup is creamy and warming on a chilly autumn day.",
+      "example_zh": "白胡桃南瓜湯在寒冷的秋日既綿密又暖心。"
+    },
+    {
+      "word": "lychee",
+      "meaning_zh": "(名詞) 荔枝",
+      "example_en": "Peel the rough skin of the lychee and savor the sweet, juicy fruit inside.",
+      "example_zh": "剝開荔枝粗糙的外皮，品嘗裡頭香甜多汁的果肉。"
+    },
+    {
+      "word": "longan",
+      "meaning_zh": "(名詞) 龍眼",
+      "example_en": "Fresh longans taste similar to lychees but with a slightly mellower sweetness.",
+      "example_zh": "新鮮龍眼的味道類似荔枝，但甜味更溫潤一些。"
+    },
+    {
+      "word": "kiwi",
+      "meaning_zh": "(名詞) 奇異果",
+      "example_en": "Slice the kiwi in half and scoop out the green flesh with a spoon.",
+      "example_zh": "把奇異果切半，用湯匙舀出裡面綠色的果肉。"
+    },
+    {
+      "word": "persimmon",
+      "meaning_zh": "(名詞) 柿子",
+      "example_en": "A fully ripe persimmon should be jelly-soft and almost translucent inside.",
+      "example_zh": "完全成熟的柿子應該軟如果凍，裡面幾乎透明。"
+    },
+    {
+      "word": "fig",
+      "meaning_zh": "(名詞) 無花果",
+      "example_en": "Fresh figs with creamy ricotta and honey make an elegant breakfast.",
+      "example_zh": "新鮮無花果搭配綿密瑞可塔起司和蜂蜜，是優雅的早餐。"
+    },
+    {
+      "word": "guava",
+      "meaning_zh": "(名詞) 芭樂",
+      "example_en": "My aunt slices guava into thin wedges and sprinkles them with plum powder.",
+      "example_zh": "我阿姨把芭樂切成薄片，撒上梅子粉。"
+    },
+    {
+      "word": "dragonfruit",
+      "meaning_zh": "(名詞) 火龍果",
+      "example_en": "The bright pink skin of dragonfruit hides flesh dotted with tiny black seeds.",
+      "example_zh": "火龍果鮮粉紅的外皮裡藏著佈滿小黑籽的果肉。"
+    },
+    {
+      "word": "passion fruit",
+      "meaning_zh": "(名詞) 百香果",
+      "example_en": "Scoop the tangy passion fruit pulp over a bowl of vanilla ice cream.",
+      "example_zh": "把酸甜的百香果果肉舀到香草冰淇淋上。"
+    },
+    {
+      "word": "cranberry",
+      "meaning_zh": "(名詞) 蔓越莓",
+      "example_en": "Cranberry sauce balances the richness of the roasted turkey beautifully.",
+      "example_zh": "蔓越莓醬能巧妙平衡烤火雞的豐腴口感。"
+    },
+    {
+      "word": "blackberry",
+      "meaning_zh": "(名詞) 黑莓",
+      "example_en": "We picked wild blackberries along the country lane and ate them straight from the bushes.",
+      "example_zh": "我們沿著鄉間小路採野黑莓，直接從樹叢上摘下來吃。"
+    },
+    {
+      "word": "apricot",
+      "meaning_zh": "(名詞) 杏桃",
+      "example_en": "Dried apricots add a chewy sweetness to homemade granola.",
+      "example_zh": "杏桃乾能為自製格蘭諾拉麥片增添耐嚼的甜味。"
+    },
+    {
+      "word": "plum",
+      "meaning_zh": "(名詞) 李子",
+      "example_en": "A perfectly ripe plum is juicy enough that you should eat it over the sink.",
+      "example_zh": "完美熟成的李子多汁到應該站在水槽邊吃。"
+    },
+    {
+      "word": "goalie",
+      "meaning_zh": "(名詞) 守門員",
+      "example_en": "The young goalie made an incredible save in the final minute of the match.",
+      "example_zh": "年輕的守門員在比賽最後一分鐘做出了不可思議的撲救。"
+    },
+    {
+      "word": "midfielder",
+      "meaning_zh": "(名詞) 中場球員",
+      "example_en": "A creative midfielder controls the rhythm of the entire game.",
+      "example_zh": "有創造力的中場球員能掌控整場比賽的節奏。"
+    },
+    {
+      "word": "defender",
+      "meaning_zh": "(名詞) 後衛",
+      "example_en": "The center defender headed the ball clear of the penalty area.",
+      "example_zh": "中後衛把球頂出禁區外。"
+    },
+    {
+      "word": "shin guard",
+      "meaning_zh": "(名詞) 護脛",
+      "example_en": "All youth soccer players must wear shin guards during practices and games.",
+      "example_zh": "所有青少年足球員在練習和比賽時都必須戴護脛。"
+    },
+    {
+      "word": "mouthguard",
+      "meaning_zh": "(名詞) 護齒套",
+      "example_en": "Coaches now require every boxer to wear a properly fitted mouthguard.",
+      "example_zh": "教練們現在規定每位拳擊手都得配戴合適的護齒套。"
+    },
+    {
+      "word": "cleats",
+      "meaning_zh": "(名詞) 釘鞋",
+      "example_en": "Don't forget to scrape mud off your cleats before walking inside the house.",
+      "example_zh": "進屋前別忘了把釘鞋上的泥巴刮掉。"
+    },
+    {
+      "word": "racquet",
+      "meaning_zh": "(名詞) 球拍",
+      "example_en": "He restrings his tennis racquet every six weeks during competition season.",
+      "example_zh": "比賽季時他每六週就會幫網球拍重新穿線。"
+    },
+    {
+      "word": "shuttlecock",
+      "meaning_zh": "(名詞) 羽毛球",
+      "example_en": "A feather shuttlecock flies very differently from a plastic training one.",
+      "example_zh": "羽毛製羽毛球的飛行方式和塑膠訓練用球差異很大。"
+    },
+    {
+      "word": "puck",
+      "meaning_zh": "(名詞) 冰球",
+      "example_en": "The rubber puck slid silently across the smooth, polished ice.",
+      "example_zh": "橡膠冰球無聲地滑過光滑拋光的冰面。"
+    },
+    {
+      "word": "jersey number",
+      "meaning_zh": "(名詞) 球衣號碼",
+      "example_en": "His jersey number ten was retired after he led the team to three championships.",
+      "example_zh": "他帶領球隊拿下三屆冠軍後，背號十號就被退休了。"
+    },
+    {
+      "word": "locker room",
+      "meaning_zh": "(名詞) 更衣室",
+      "example_en": "The coach gave an inspiring speech in the locker room at halftime.",
+      "example_zh": "教練在中場休息時在更衣室發表了一段激勵人心的演說。"
+    },
+    {
+      "word": "scoreboard",
+      "meaning_zh": "(名詞) 計分板",
+      "example_en": "The scoreboard above center field showed only three minutes remaining.",
+      "example_zh": "中外野上方的計分板顯示只剩三分鐘。"
+    },
+    {
+      "word": "sideline",
+      "meaning_zh": "(名詞) 邊線",
+      "example_en": "The injured player watched the rest of the match from the sideline.",
+      "example_zh": "受傷的球員從邊線旁觀看了下半場比賽。"
+    },
+    {
+      "word": "timeout",
+      "meaning_zh": "(名詞) 暫停",
+      "example_en": "The coach called a timeout to discuss the team's defensive strategy.",
+      "example_zh": "教練叫了暫停以討論球隊的防守戰術。"
+    },
+    {
+      "word": "penalty",
+      "meaning_zh": "(名詞) 罰球；犯規處罰",
+      "example_en": "He calmly slotted the penalty into the bottom corner of the net.",
+      "example_zh": "他冷靜地把罰球射進球門下角。"
+    },
+    {
+      "word": "customs declaration",
+      "meaning_zh": "(名詞) 海關申報單",
+      "example_en": "Fill out your customs declaration before stepping off the airplane.",
+      "example_zh": "下飛機前先填好海關申報單。"
+    },
+    {
+      "word": "security check",
+      "meaning_zh": "(名詞) 安檢",
+      "example_en": "The security check line at the airport moved unusually quickly this morning.",
+      "example_zh": "機場安檢的隊伍今早出乎意料地很快通過。"
+    },
+    {
+      "word": "immigration officer",
+      "meaning_zh": "(名詞) 移民官",
+      "example_en": "The immigration officer stamped my passport and welcomed me to the country.",
+      "example_zh": "移民官在我的護照上蓋章，並歡迎我進入該國。"
+    },
+    {
+      "word": "baggage claim",
+      "meaning_zh": "(名詞) 行李提領處",
+      "example_en": "Meet me at baggage claim once you've collected your suitcase.",
+      "example_zh": "等你領完行李後在行李提領處見我。"
+    },
+    {
+      "word": "departure gate",
+      "meaning_zh": "(名詞) 登機門",
+      "example_en": "Our departure gate was changed twice in the last thirty minutes.",
+      "example_zh": "我們的登機門在最後三十分鐘內換了兩次。"
+    },
+    {
+      "word": "jet bridge",
+      "meaning_zh": "(名詞) 空橋",
+      "example_en": "Passengers walked along the jet bridge directly into the airplane cabin.",
+      "example_zh": "乘客沿著空橋直接走進機艙。"
+    },
+    {
+      "word": "window seat",
+      "meaning_zh": "(名詞) 靠窗座位",
+      "example_en": "She always requests a window seat so she can watch the clouds.",
+      "example_zh": "她總是要求靠窗座位，這樣她可以看雲。"
+    },
+    {
+      "word": "aisle seat",
+      "meaning_zh": "(名詞) 走道座位",
+      "example_en": "On long flights he prefers an aisle seat so he can stretch his legs easily.",
+      "example_zh": "長途飛行他偏好走道座位，這樣可以方便伸展雙腿。"
+    },
+    {
+      "word": "travel insurance",
+      "meaning_zh": "(名詞) 旅遊險",
+      "example_en": "Buying travel insurance is wise before any trip abroad.",
+      "example_zh": "出國旅行前購買旅遊險是明智之舉。"
+    },
+    {
+      "word": "travel adapter",
+      "meaning_zh": "(名詞) 旅行轉接頭",
+      "example_en": "Pack a universal travel adapter so you can charge your devices anywhere.",
+      "example_zh": "打包一個萬用旅行轉接頭，到哪裡都能幫設備充電。"
+    },
+    {
+      "word": "sim card",
+      "meaning_zh": "(名詞) SIM卡",
+      "example_en": "Buy a local sim card at the airport to avoid expensive roaming charges.",
+      "example_zh": "在機場買一張當地SIM卡，可以省下昂貴的漫遊費。"
+    },
+    {
+      "word": "currency exchange",
+      "meaning_zh": "(名詞) 貨幣兌換",
+      "example_en": "The currency exchange counter charges a smaller fee than the hotel front desk.",
+      "example_zh": "貨幣兌換櫃台收的手續費比飯店櫃檯便宜。"
+    },
+    {
+      "word": "foreign currency",
+      "meaning_zh": "(名詞) 外幣",
+      "example_en": "Always keep a little foreign currency for tips when you arrive in a new country.",
+      "example_zh": "到一個新國家時，務必保留一些外幣以便給小費。"
+    },
+    {
+      "word": "traveler's check",
+      "meaning_zh": "(名詞) 旅行支票",
+      "example_en": "Few banks still accept traveler's checks for everyday purchases.",
+      "example_zh": "現在很少銀行還會接受旅行支票用於日常消費。"
+    },
+    {
+      "word": "withdrawal slip",
+      "meaning_zh": "(名詞) 提款單",
+      "example_en": "The teller asked her to sign the withdrawal slip before handing over the cash.",
+      "example_zh": "行員請她在提款單上簽名後才把現金交給她。"
+    },
+    {
+      "word": "deposit slip",
+      "meaning_zh": "(名詞) 存款單",
+      "example_en": "Write the total amount clearly on the deposit slip before joining the queue.",
+      "example_zh": "在排隊前先在存款單上清楚寫上總金額。"
+    },
+    {
+      "word": "atm card",
+      "meaning_zh": "(名詞) 提款卡",
+      "example_en": "His atm card was swallowed by the machine after he entered the wrong pin three times.",
+      "example_zh": "他連續輸錯密碼三次後，提款卡就被機器吞了。"
+    },
+    {
+      "word": "online banking",
+      "meaning_zh": "(名詞) 網路銀行",
+      "example_en": "Online banking saves him a trip to the branch every payday.",
+      "example_zh": "網路銀行讓他每次發薪日都省下跑分行的時間。"
+    },
+    {
+      "word": "mobile banking",
+      "meaning_zh": "(名詞) 行動銀行",
+      "example_en": "With the new mobile banking app, you can deposit checks by taking a photo.",
+      "example_zh": "用新的行動銀行app拍照就能存入支票。"
+    },
+    {
+      "word": "transfer fee",
+      "meaning_zh": "(名詞) 轉帳手續費",
+      "example_en": "International wire transfers usually have a transfer fee of around twenty dollars.",
+      "example_zh": "國際電匯通常會收取大約二十美元的轉帳手續費。"
+    },
+    {
+      "word": "service charge",
+      "meaning_zh": "(名詞) 服務費",
+      "example_en": "The hotel adds a ten percent service charge to every meal billed to the room.",
+      "example_zh": "飯店會在每一筆掛房內的餐費上加收一成服務費。"
+    },
+    {
+      "word": "late fee",
+      "meaning_zh": "(名詞) 逾期費用",
+      "example_en": "Pay the bill before the deadline to avoid a steep late fee.",
+      "example_zh": "在期限前付清帳單，以免被收高額逾期費用。"
+    },
+    {
+      "word": "minimum balance",
+      "meaning_zh": "(名詞) 最低存款額",
+      "example_en": "This account requires a minimum balance of one thousand dollars at all times.",
+      "example_zh": "這個帳戶必須隨時保持一千美元的最低存款額。"
+    },
+    {
+      "word": "safe deposit box",
+      "meaning_zh": "(名詞) 保險箱",
+      "example_en": "They keep important documents in a safe deposit box at the bank.",
+      "example_zh": "他們把重要文件存放在銀行的保險箱裡。"
+    },
+    {
+      "word": "banknote",
+      "meaning_zh": "(名詞) 紙鈔",
+      "example_en": "The new banknote design includes several hidden security features.",
+      "example_zh": "新版紙鈔的設計包含多項隱藏的防偽功能。"
+    },
+    {
+      "word": "coin purse",
+      "meaning_zh": "(名詞) 零錢包",
+      "example_en": "She emptied her coin purse onto the counter to count the change.",
+      "example_zh": "她把零錢包倒在櫃台上以便清點零錢。"
+    },
+    {
+      "word": "loose change",
+      "meaning_zh": "(名詞) 零錢",
+      "example_en": "He dropped his loose change into a jar at the end of every workday.",
+      "example_zh": "他每個工作日結束時都會把零錢丟進罐子裡。"
+    },
+    {
+      "word": "small bills",
+      "meaning_zh": "(名詞) 小面額鈔票",
+      "example_en": "Please give me the change in small bills so I can tip easily.",
+      "example_zh": "請把找的零錢換成小面額鈔票，這樣我比較方便給小費。"
+    },
+    {
+      "word": "counterfeit",
+      "meaning_zh": "(形容詞) 偽造的",
+      "example_en": "The cashier quickly recognized the counterfeit bill and called her manager.",
+      "example_zh": "收銀員很快看出那是偽鈔，馬上叫了經理。"
+    },
+    {
+      "word": "exchange counter",
+      "meaning_zh": "(名詞) 兌換櫃台",
+      "example_en": "The exchange counter at the airport opens at six o'clock every morning.",
+      "example_zh": "機場的兌換櫃台每天早上六點開門。"
+    },
+    {
+      "word": "begonia",
+      "meaning_zh": "(名詞) 海棠；秋海棠",
+      "example_en": "Pink begonias filled the hanging baskets along the entire porch.",
+      "example_zh": "粉紅秋海棠開滿了整個門廊的吊籃。"
+    },
+    {
+      "word": "camellia",
+      "meaning_zh": "(名詞) 山茶花",
+      "example_en": "A single white camellia floated on the surface of the tea ceremony bowl.",
+      "example_zh": "一朵白山茶花漂浮在茶道的茶碗水面上。"
+    },
+    {
+      "word": "hyacinth",
+      "meaning_zh": "(名詞) 風信子",
+      "example_en": "The sweet smell of hyacinth filled the entire kitchen for a whole week.",
+      "example_zh": "風信子的甜香整整一週都瀰漫在廚房裡。"
+    },
+    {
+      "word": "weeping willow",
+      "meaning_zh": "(名詞) 垂柳",
+      "example_en": "A graceful weeping willow leaned over the small wooden footbridge.",
+      "example_zh": "一株優雅的垂柳斜垂在小木橋上方。"
+    },
+    {
+      "word": "plum blossom",
+      "meaning_zh": "(名詞) 梅花",
+      "example_en": "Plum blossoms bloom in winter, often while snow still covers the branches.",
+      "example_zh": "梅花在冬天綻放，常常枝頭還積著雪。"
+    },
+    {
+      "word": "juniper",
+      "meaning_zh": "(名詞) 杜松",
+      "example_en": "Juniper berries give gin its distinctive piney aroma.",
+      "example_zh": "杜松子讓琴酒擁有獨特的松木香氣。"
+    },
+    {
+      "word": "ladder back chair",
+      "meaning_zh": "(名詞) 梯背椅",
+      "example_en": "Each ladder back chair was hand-carved from a single piece of oak.",
+      "example_zh": "每一張梯背椅都是用整塊橡木手工雕刻而成。"
+    },
+    {
+      "word": "rocking chair",
+      "meaning_zh": "(名詞) 搖椅",
+      "example_en": "Grandma fell asleep in the wooden rocking chair on the front porch.",
+      "example_zh": "奶奶在前門廊的木製搖椅上睡著了。"
+    },
+    {
+      "word": "footstool",
+      "meaning_zh": "(名詞) 腳凳",
+      "example_en": "Prop your tired feet up on the small footstool to relax.",
+      "example_zh": "把疲累的雙腳放上小腳凳放鬆一下。"
+    },
+    {
+      "word": "shoe horn",
+      "meaning_zh": "(名詞) 鞋拔",
+      "example_en": "A long shoe horn helps elderly people put on shoes without bending down.",
+      "example_zh": "長柄鞋拔能幫助年長者穿鞋時不必彎腰。"
+    },
+    {
+      "word": "shoe rack",
+      "meaning_zh": "(名詞) 鞋架",
+      "example_en": "Please place your shoes neatly on the wooden shoe rack by the entrance.",
+      "example_zh": "請把鞋子整齊放在門口的木鞋架上。"
+    },
+    {
+      "word": "napkin holder",
+      "meaning_zh": "(名詞) 餐巾紙架",
+      "example_en": "The wooden napkin holder on the dining table needs to be refilled.",
+      "example_zh": "餐桌上的木製餐巾紙架需要補貨了。"
+    },
+    {
+      "word": "salt shaker",
+      "meaning_zh": "(名詞) 鹽罐",
+      "example_en": "Could you please pass me the small glass salt shaker?",
+      "example_zh": "可以請你把那個小玻璃鹽罐遞給我嗎？"
+    },
+    {
+      "word": "pepper mill",
+      "meaning_zh": "(名詞) 胡椒研磨罐",
+      "example_en": "Twist the pepper mill a few times over the soup for fresh fragrance.",
+      "example_zh": "在湯上轉幾下胡椒研磨罐，能帶來新鮮的香氣。"
+    },
+    {
+      "word": "cookie cutter",
+      "meaning_zh": "(名詞) 餅乾模",
+      "example_en": "The children pressed star shapes into the dough with a cookie cutter.",
+      "example_zh": "孩子們用餅乾模在麵團上壓出星星形狀。"
+    },
+    {
+      "word": "dish towel",
+      "meaning_zh": "(名詞) 擦碗布",
+      "example_en": "Hang the damp dish towel over the oven handle so it can air dry.",
+      "example_zh": "把濕的擦碗布掛在烤箱把手上讓它自然風乾。"
+    },
+    {
+      "word": "apron string",
+      "meaning_zh": "(名詞) 圍裙帶",
+      "example_en": "He tied the apron strings tightly behind his back before starting to cook.",
+      "example_zh": "他開始下廚前把圍裙帶在背後綁緊。"
+    },
+    {
+      "word": "swordfish",
+      "meaning_zh": "(名詞) 旗魚；劍魚",
+      "example_en": "Grilled swordfish steaks taste similar to a meaty white fish.",
+      "example_zh": "烤旗魚排嚐起來像是肉感十足的白肉魚。"
+    },
+    {
+      "word": "snapper",
+      "meaning_zh": "(名詞) 鯛魚",
+      "example_en": "Red snapper is delicious when steamed whole with ginger and scallions.",
+      "example_zh": "紅鯛魚整條與薑絲蔥段清蒸非常美味。"
+    },
+    {
+      "word": "flounder",
+      "meaning_zh": "(名詞) 比目魚",
+      "example_en": "Pan-fry flounder with brown butter and capers for a quick weeknight dinner.",
+      "example_zh": "用焦化奶油與酸豆煎比目魚，是週間快速晚餐。"
+    },
+    {
+      "word": "crayfish",
+      "meaning_zh": "(名詞) 小龍蝦",
+      "example_en": "At Louisiana festivals, families share huge piles of boiled crayfish.",
+      "example_zh": "在路易斯安那的節慶，家庭會共享一大堆水煮小龍蝦。"
+    },
+    {
+      "word": "sardine can",
+      "meaning_zh": "(名詞) 沙丁魚罐頭",
+      "example_en": "He opened a sardine can and ate the fish straight on a piece of toast.",
+      "example_zh": "他打開沙丁魚罐頭，直接把魚放在吐司上吃。"
+    },
+    {
+      "word": "bluebird",
+      "meaning_zh": "(名詞) 藍鳥",
+      "example_en": "A pair of bluebirds raised their chicks in our cherry tree last year.",
+      "example_zh": "去年一對藍鳥在我們的櫻桃樹上養育雛鳥。"
+    },
+    {
+      "word": "woodlark",
+      "meaning_zh": "(名詞) 林雲雀",
+      "example_en": "The woodlark sang from the very top of the tallest pine.",
+      "example_zh": "林雲雀從最高大的松樹頂端唱起歌來。"
+    },
+    {
+      "word": "egret",
+      "meaning_zh": "(名詞) 白鷺",
+      "example_en": "A snowy egret stood perfectly still in the shallow rice paddy.",
+      "example_zh": "一隻雪白色的白鷺在淺水稻田中一動也不動地佇立。"
+    },
+    {
+      "word": "heron",
+      "meaning_zh": "(名詞) 蒼鷺",
+      "example_en": "A great blue heron speared a small fish with one swift motion.",
+      "example_zh": "一隻大藍鷺以迅捷的動作叉起一條小魚。"
+    },
+    {
+      "word": "stork",
+      "meaning_zh": "(名詞) 鸛",
+      "example_en": "Storks build their huge nests right on top of European chimneys.",
+      "example_zh": "鸛鳥會在歐洲的煙囪頂端築起巨大的巢。"
+    },
+    {
+      "word": "horned toad",
+      "meaning_zh": "(名詞) 角蟾蜍；角蜥",
+      "example_en": "A small horned toad scurried across the hot, dusty desert path.",
+      "example_zh": "一隻小角蜥快速地穿越炎熱的沙塵小徑。"
+    },
+    {
+      "word": "sea turtle",
+      "meaning_zh": "(名詞) 海龜",
+      "example_en": "A green sea turtle slowly swam past us along the coral reef.",
+      "example_zh": "一隻綠海龜沿著珊瑚礁緩緩從我們身邊游過。"
+    },
+    {
+      "word": "komodo dragon",
+      "meaning_zh": "(名詞) 科莫多巨蜥",
+      "example_en": "A komodo dragon can grow longer than two meters in the wild.",
+      "example_zh": "科莫多巨蜥在野外能長到超過兩公尺。"
+    },
+    {
+      "word": "beehive",
+      "meaning_zh": "(名詞) 蜂窩",
+      "example_en": "A beekeeper carefully lifted one frame from the wooden beehive.",
+      "example_zh": "養蜂人小心地從木製蜂窩中取出一片巢框。"
+    },
+    {
+      "word": "insect repellent",
+      "meaning_zh": "(名詞) 防蟲液",
+      "example_en": "Spray plenty of insect repellent on your ankles before hiking through tall grass.",
+      "example_zh": "在高草叢健行前，要在腳踝噴上充足的防蟲液。"
+    },
+    {
+      "word": "spider web",
+      "meaning_zh": "(名詞) 蜘蛛網",
+      "example_en": "A glistening spider web stretched between the two windowpanes overnight.",
+      "example_zh": "一夜之間，兩片窗格間就拉起一張閃亮的蜘蛛網。"
+    },
+    {
+      "word": "insect bite",
+      "meaning_zh": "(名詞) 蟲咬",
+      "example_en": "Apply a soothing cream to the insect bite to reduce the itch.",
+      "example_zh": "在被蟲咬的地方擦舒緩乳霜可以減輕搔癢。"
+    },
+    {
+      "word": "birdseed",
+      "meaning_zh": "(名詞) 鳥飼料",
+      "example_en": "Refill the birdseed feeder every other day during the cold winter months.",
+      "example_zh": "在寒冷的冬季每隔一天就要補一次鳥飼料餵食器。"
+    },
+    {
+      "word": "birdbath",
+      "meaning_zh": "(名詞) 鳥兒水盆；澡盆",
+      "example_en": "Several sparrows splashed happily in the stone birdbath all morning.",
+      "example_zh": "好幾隻麻雀整個早上開心地在石製澡盆裡戲水。"
+    },
+    {
+      "word": "birdfeeder",
+      "meaning_zh": "(名詞) 餵鳥器",
+      "example_en": "A red cardinal returned to our birdfeeder every morning at sunrise.",
+      "example_zh": "一隻紅雀每天日出時都會回到我們的餵鳥器旁。"
+    },
+    {
+      "word": "birdwatcher",
+      "meaning_zh": "(名詞) 賞鳥者",
+      "example_en": "A patient birdwatcher waited five hours just to spot a rare warbler.",
+      "example_zh": "一位有耐心的賞鳥者等了五個小時，就為了看一隻稀有的鶯。"
+    },
+    {
+      "word": "vegetable garden",
+      "meaning_zh": "(名詞) 菜園",
+      "example_en": "Our small vegetable garden produces enough tomatoes for the entire neighborhood.",
+      "example_zh": "我們的小菜園產的番茄足以供應整個社區。"
+    },
+    {
+      "word": "backpacker hostel",
+      "meaning_zh": "(名詞) 背包客棧",
+      "example_en": "They stayed at a friendly backpacker hostel near the old town square.",
+      "example_zh": "他們住在老城廣場附近一間友善的背包客棧。"
+    },
+    {
+      "word": "travel agency",
+      "meaning_zh": "(名詞) 旅行社",
+      "example_en": "The travel agency arranged everything from flights to local guides.",
+      "example_zh": "那家旅行社安排了從機票到當地導遊的所有事項。"
+    },
+    {
+      "word": "tour guide",
+      "meaning_zh": "(名詞) 導遊",
+      "example_en": "Our cheerful tour guide spoke four languages fluently and told great jokes.",
+      "example_zh": "我們開朗的導遊精通四種語言，還很會說笑話。"
+    },
+    {
+      "word": "bank statement",
+      "meaning_zh": "(名詞) 銀行對帳單",
+      "example_en": "Review your monthly bank statement carefully to spot any unfamiliar transactions.",
+      "example_zh": "仔細檢查每月的銀行對帳單以察覺任何陌生交易。"
+    },
+    {
+      "word": "checking account",
+      "meaning_zh": "(名詞) 支票帳戶",
+      "example_en": "Most employers deposit salary payments directly into your checking account.",
+      "example_zh": "大多數雇主會把薪資直接匯入你的支票帳戶。"
+    },
+    {
+      "word": "savings account",
+      "meaning_zh": "(名詞) 儲蓄帳戶",
+      "example_en": "She moves a fixed amount into her savings account on the first of every month.",
+      "example_zh": "她每月一號都會把固定金額轉入儲蓄帳戶。"
+    },
+    {
+      "word": "joint account",
+      "meaning_zh": "(名詞) 聯名帳戶",
+      "example_en": "The newlyweds opened a joint account to pay their shared household bills.",
+      "example_zh": "這對新婚夫婦開了一個聯名帳戶來繳家用帳單。"
+    },
+    {
+      "word": "frozen account",
+      "meaning_zh": "(名詞) 凍結帳戶",
+      "example_en": "A frozen account often unfreezes once the customer verifies their identity.",
+      "example_zh": "凍結的帳戶通常在客戶完成身分驗證後就會解凍。"
+    },
+    {
+      "word": "money order",
+      "meaning_zh": "(名詞) 匯票",
+      "example_en": "Some landlords prefer a money order instead of a personal check.",
+      "example_zh": "有些房東偏好收匯票而不是個人支票。"
+    },
+    {
+      "word": "introvert",
+      "meaning_zh": "(名) 內向者",
+      "example_en": "As an introvert, she preferred quiet evenings with a book to crowded parties.",
+      "example_zh": "身為內向者，她偏好安靜的夜晚讀本書，勝過擁擠的派對。"
+    },
+    {
+      "word": "extrovert",
+      "meaning_zh": "(名) 外向者",
+      "example_en": "The extrovert in the office quickly befriended every new colleague who joined the team.",
+      "example_zh": "辦公室裡的外向者很快就和每位加入團隊的新同事成為朋友。"
+    },
+    {
+      "word": "perfectionist",
+      "meaning_zh": "(名) 完美主義者",
+      "example_en": "A perfectionist by nature, he revised the report five times before submitting it.",
+      "example_zh": "他天生是個完美主義者，提交報告前修改了五次。"
+    },
+    {
+      "word": "optimist",
+      "meaning_zh": "(名) 樂觀主義者",
+      "example_en": "The optimist believed that every setback was simply a stepping stone toward future success.",
+      "example_zh": "那位樂觀主義者相信每次挫折都只是邁向未來成功的踏腳石。"
+    },
+    {
+      "word": "pessimist",
+      "meaning_zh": "(名) 悲觀主義者",
+      "example_en": "A pessimist always expects the worst outcome, even when the situation looks promising.",
+      "example_zh": "悲觀主義者總是預期最壞的結果，即使情況看來樂觀。"
+    },
+    {
+      "word": "realist",
+      "meaning_zh": "(名) 現實主義者",
+      "example_en": "As a realist, she weighed the risks carefully before making any major life decision.",
+      "example_zh": "身為現實主義者，她在做任何重大人生決定前都會仔細權衡風險。"
+    },
+    {
+      "word": "idealist",
+      "meaning_zh": "(名) 理想主義者",
+      "example_en": "The young idealist dreamed of building a society where everyone enjoyed equal opportunities.",
+      "example_zh": "年輕的理想主義者夢想建立一個人人享有平等機會的社會。"
+    },
+    {
+      "word": "workaholic",
+      "meaning_zh": "(名) 工作狂",
+      "example_en": "Being a workaholic, he stayed at the office past midnight nearly every weekday.",
+      "example_zh": "身為工作狂，他幾乎每個工作日都待在辦公室到半夜過後。"
+    },
+    {
+      "word": "loner",
+      "meaning_zh": "(名) 獨來獨往的人",
+      "example_en": "He had always been a loner, content to spend weekends hiking in solitude.",
+      "example_zh": "他一直都是個獨來獨往的人，週末喜歡獨自健行而感到滿足。"
+    },
+    {
+      "word": "daydreamer",
+      "meaning_zh": "(名) 愛幻想的人",
+      "example_en": "The teacher gently scolded the daydreamer for staring out the window during the lecture.",
+      "example_zh": "老師溫和地責備那位上課時望著窗外發呆的愛幻想者。"
+    },
+    {
+      "word": "overthinker",
+      "meaning_zh": "(名) 想太多的人",
+      "example_en": "As an overthinker, she analyzed every casual remark for hidden meanings.",
+      "example_zh": "身為一個想太多的人，她會分析每句隨口的話是否有隱含意義。"
+    },
+    {
+      "word": "risk-taker",
+      "meaning_zh": "(名) 冒險者",
+      "example_en": "Successful entrepreneurs are often risk-takers willing to invest in unproven ideas.",
+      "example_zh": "成功的創業家通常是冒險者，願意投資未經驗證的點子。"
+    },
+    {
+      "word": "go-getter",
+      "meaning_zh": "(名) 積極進取的人",
+      "example_en": "The new intern proved to be a go-getter, completing tasks ahead of every deadline.",
+      "example_zh": "新來的實習生證明自己是個積極進取的人，每項任務都提前完成。"
+    },
+    {
+      "word": "people-pleaser",
+      "meaning_zh": "(名) 討好他人的人",
+      "example_en": "As a people-pleaser, he found it nearly impossible to say no to favors.",
+      "example_zh": "身為一個討好他人的人，他幾乎不可能拒絕別人的請託。"
+    },
+    {
+      "word": "methodical",
+      "meaning_zh": "(形) 有條理的",
+      "example_en": "Her methodical approach to research impressed the entire academic committee.",
+      "example_zh": "她對研究有條理的做法令整個學術委員會印象深刻。"
+    },
+    {
+      "word": "impulsive",
+      "meaning_zh": "(形) 衝動的",
+      "example_en": "His impulsive decision to quit the job left his family worried about finances.",
+      "example_zh": "他衝動辭職的決定讓家人擔心經濟狀況。"
+    },
+    {
+      "word": "high-strung",
+      "meaning_zh": "(形) 神經緊繃的",
+      "example_en": "She was so high-strung before exams that her hands trembled while writing.",
+      "example_zh": "她考前神經太緊繃，書寫時雙手都在發抖。"
+    },
+    {
+      "word": "laid-back",
+      "meaning_zh": "(形) 悠閒的",
+      "example_en": "The laid-back manager rarely raised his voice, even during stressful product launches.",
+      "example_zh": "那位悠閒的經理即使在壓力大的產品發表期間也很少提高音量。"
+    },
+    {
+      "word": "self-conscious",
+      "meaning_zh": "(形) 害羞的；不自在的",
+      "example_en": "He felt self-conscious about his accent when speaking in front of native speakers.",
+      "example_zh": "在母語人士面前說話時，他對自己的口音感到不自在。"
+    },
+    {
+      "word": "open-minded",
+      "meaning_zh": "(形) 心胸開闊的",
+      "example_en": "An open-minded leader welcomes feedback even when it challenges her own views.",
+      "example_zh": "心胸開闊的領導者即使在意見挑戰自己看法時也會欣然接受。"
+    },
+    {
+      "word": "narrow-minded",
+      "meaning_zh": "(形) 心胸狹隘的",
+      "example_en": "His narrow-minded refusal to consider other cultures cost him several friendships abroad.",
+      "example_zh": "他心胸狹隘地拒絕了解其他文化，使他在國外失去了幾段友誼。"
+    },
+    {
+      "word": "scrupulous",
+      "meaning_zh": "(形) 一絲不苟的；正直的",
+      "example_en": "The auditor was scrupulous about documenting every transaction in proper detail.",
+      "example_zh": "那位審計員對每筆交易都一絲不苟地詳細記錄。"
+    },
+    {
+      "word": "fastidious",
+      "meaning_zh": "(形) 挑剔的",
+      "example_en": "He was fastidious about cleanliness and could not stand a single dish in the sink.",
+      "example_zh": "他對清潔極為挑剔，連水槽裡一個碗都受不了。"
+    },
+    {
+      "word": "conscientious",
+      "meaning_zh": "(形) 認真盡責的",
+      "example_en": "A conscientious worker, she stayed late to finish what others had abandoned.",
+      "example_zh": "她是個認真盡責的員工，總是留下來完成別人放棄的工作。"
+    },
+    {
+      "word": "tenacious",
+      "meaning_zh": "(形) 堅韌不拔的",
+      "example_en": "Her tenacious pursuit of the story uncovered corruption few journalists had suspected.",
+      "example_zh": "她堅韌不拔地追查那則新聞，揭發了少有記者懷疑的貪腐。"
+    },
+    {
+      "word": "frugal",
+      "meaning_zh": "(形) 節儉的",
+      "example_en": "Living a frugal lifestyle allowed her to save enough for an early retirement.",
+      "example_zh": "過著節儉的生活讓她存夠了錢提早退休。"
+    },
+    {
+      "word": "gullible",
+      "meaning_zh": "(形) 易受騙的",
+      "example_en": "The gullible tourist paid triple the normal price without questioning the vendor.",
+      "example_zh": "那位易受騙的遊客毫不質疑就付了三倍的正常價格。"
+    },
+    {
+      "word": "cynical",
+      "meaning_zh": "(形) 玩世不恭的",
+      "example_en": "After years in politics, he grew cynical about every promise made by candidates.",
+      "example_zh": "從政多年後，他對候選人的每個承諾都變得玩世不恭。"
+    },
+    {
+      "word": "skeptical",
+      "meaning_zh": "(形) 懷疑的",
+      "example_en": "She was skeptical of the bold claims made in the advertisement.",
+      "example_zh": "她對廣告中大膽的主張持懷疑態度。"
+    },
+    {
+      "word": "inquisitive",
+      "meaning_zh": "(形) 好奇的",
+      "example_en": "The inquisitive child asked dozens of questions during the museum tour.",
+      "example_zh": "那位好奇的孩子在博物館導覽期間問了數十個問題。"
+    },
+    {
+      "word": "tactful",
+      "meaning_zh": "(形) 圓融的",
+      "example_en": "A tactful manager delivers criticism in ways that protect dignity and motivation.",
+      "example_zh": "圓融的經理在傳達批評時會兼顧員工的尊嚴和工作動力。"
+    },
+    {
+      "word": "haughty",
+      "meaning_zh": "(形) 傲慢的",
+      "example_en": "His haughty manner alienated potential clients during the early business meetings.",
+      "example_zh": "他傲慢的態度在初期的商業會議中疏遠了潛在客戶。"
+    },
+    {
+      "word": "conceited",
+      "meaning_zh": "(形) 自負的",
+      "example_en": "The conceited actor refused to share the spotlight with any costar.",
+      "example_zh": "那位自負的演員拒絕與任何合演者分享鎂光燈。"
+    },
+    {
+      "word": "self-reliant",
+      "meaning_zh": "(形) 自立的",
+      "example_en": "Living abroad taught her to be self-reliant in nearly every aspect of daily life.",
+      "example_zh": "在國外生活教會她在日常生活幾乎各方面都要自立。"
+    },
+    {
+      "word": "self-aware",
+      "meaning_zh": "(形) 有自覺的",
+      "example_en": "A self-aware leader recognizes personal blind spots and actively seeks honest feedback.",
+      "example_zh": "有自覺的領導者會察覺自身盲點，並積極尋求誠實的回饋。"
+    },
+    {
+      "word": "self-discipline",
+      "meaning_zh": "(名) 自律",
+      "example_en": "Self-discipline allowed him to finish his novel while holding a demanding day job.",
+      "example_zh": "自律讓他在從事繁忙的正職工作時也完成了他的小說。"
+    },
+    {
+      "word": "self-doubt",
+      "meaning_zh": "(名) 自我懷疑",
+      "example_en": "Even seasoned professionals occasionally struggle with periods of self-doubt.",
+      "example_zh": "即使是經驗豐富的專業人士偶爾也會經歷自我懷疑的時期。"
+    },
+    {
+      "word": "self-esteem",
+      "meaning_zh": "(名) 自尊",
+      "example_en": "Healthy self-esteem develops gradually through small successes and supportive relationships.",
+      "example_zh": "健康的自尊透過小小的成功和支持性的關係逐漸發展。"
+    },
+    {
+      "word": "narcissism",
+      "meaning_zh": "(名) 自戀",
+      "example_en": "Excessive narcissism in leadership often leads to poor decisions and team turnover.",
+      "example_zh": "領導者過度自戀經常導致錯誤的決策和團隊流動。"
+    },
+    {
+      "word": "altruism",
+      "meaning_zh": "(名) 利他主義",
+      "example_en": "Her quiet altruism led her to donate most of her bonus to local charities.",
+      "example_zh": "她默默的利他精神讓她將大部分獎金捐給當地慈善機構。"
+    },
+    {
+      "word": "generosity",
+      "meaning_zh": "(名) 慷慨",
+      "example_en": "His generosity extended beyond money to time, mentorship, and patient listening.",
+      "example_zh": "他的慷慨不僅止於金錢，還包括時間、指導與耐心傾聽。"
+    },
+    {
+      "word": "philanthropist",
+      "meaning_zh": "(名) 慈善家",
+      "example_en": "The philanthropist funded scholarships for first-generation college students nationwide.",
+      "example_zh": "那位慈善家資助全國第一代大學生的獎學金。"
+    },
+    {
+      "word": "nostalgia",
+      "meaning_zh": "(名) 鄉愁；懷舊",
+      "example_en": "The old photograph filled her with nostalgia for childhood summers at the lake.",
+      "example_zh": "那張舊照片讓她對童年湖邊的夏日充滿懷舊之情。"
+    },
+    {
+      "word": "indifference",
+      "meaning_zh": "(名) 漠不關心",
+      "example_en": "Her indifference to the news shocked friends who expected a stronger reaction.",
+      "example_zh": "她對那則新聞的漠不關心使期待她有強烈反應的朋友感到震驚。"
+    },
+    {
+      "word": "unease",
+      "meaning_zh": "(名) 不安",
+      "example_en": "A growing sense of unease made him glance repeatedly over his shoulder.",
+      "example_zh": "日益增長的不安感使他不斷回頭張望。"
+    },
+    {
+      "word": "elation",
+      "meaning_zh": "(名) 興高采烈",
+      "example_en": "Her elation at receiving the scholarship was visible to everyone in the room.",
+      "example_zh": "她獲得獎學金時的興高采烈，房裡每個人都看得見。"
+    },
+    {
+      "word": "contempt",
+      "meaning_zh": "(名) 蔑視",
+      "example_en": "She made no effort to hide her contempt for dishonest business practices.",
+      "example_zh": "她毫不掩飾自己對不誠實商業行為的蔑視。"
+    },
+    {
+      "word": "awe-struck",
+      "meaning_zh": "(形) 敬畏的",
+      "example_en": "The tourists stood awe-struck before the towering ancient cathedral.",
+      "example_zh": "遊客們在高聳的古老大教堂前感到敬畏。"
+    },
+    {
+      "word": "wistful",
+      "meaning_zh": "(形) 惆悵的",
+      "example_en": "He gave a wistful smile as he flipped through the old yearbook.",
+      "example_zh": "他翻著舊畢業紀念冊時露出惆悵的微笑。"
+    },
+    {
+      "word": "bittersweet",
+      "meaning_zh": "(形) 苦樂參半的",
+      "example_en": "Saying goodbye to her students was a bittersweet end to her teaching career.",
+      "example_zh": "向學生告別是她教學生涯苦樂參半的結束。"
+    },
+    {
+      "word": "rivalry",
+      "meaning_zh": "(名) 競爭關係",
+      "example_en": "The friendly rivalry between the two siblings pushed both to excel academically.",
+      "example_zh": "兩兄弟姊妹間友好的競爭關係促使他們在學業上都表現優異。"
+    },
+    {
+      "word": "intimacy",
+      "meaning_zh": "(名) 親密",
+      "example_en": "True intimacy develops only when both partners feel safe being completely vulnerable.",
+      "example_zh": "只有當雙方都能安心展現脆弱時，真正的親密才會發展。"
+    },
+    {
+      "word": "betrayal",
+      "meaning_zh": "(名) 背叛",
+      "example_en": "The betrayal by his closest friend made him cautious in all future relationships.",
+      "example_zh": "最好朋友的背叛使他在日後所有關係中都變得謹慎。"
+    },
+    {
+      "word": "estrangement",
+      "meaning_zh": "(名) 疏遠",
+      "example_en": "The estrangement between father and son lasted nearly twenty painful years.",
+      "example_zh": "父子之間的疏遠持續了將近二十年痛苦的歲月。"
+    },
+    {
+      "word": "reconciliation",
+      "meaning_zh": "(名) 和解",
+      "example_en": "After months of mediation, a quiet reconciliation finally took place at Thanksgiving.",
+      "example_zh": "經過數個月的調解，感恩節時雙方終於悄悄和解。"
+    },
+    {
+      "word": "alienation",
+      "meaning_zh": "(名) 疏離感",
+      "example_en": "Many teenagers experience a feeling of alienation when moving to a new city.",
+      "example_zh": "許多青少年在搬到新城市時會經歷疏離感。"
+    },
+    {
+      "word": "attachment",
+      "meaning_zh": "(名) 依戀",
+      "example_en": "Children form strong emotional attachments to their primary caregivers in early years.",
+      "example_zh": "兒童在幼年時期會與主要照顧者形成強烈的情感依戀。"
+    },
+    {
+      "word": "fondness",
+      "meaning_zh": "(名) 喜愛",
+      "example_en": "He spoke with great fondness about the small village where he grew up.",
+      "example_zh": "他懷著深深的喜愛談起他成長的小村莊。"
+    },
+    {
+      "word": "infatuation",
+      "meaning_zh": "(名) 迷戀",
+      "example_en": "What began as a teenage infatuation eventually grew into a lasting marriage.",
+      "example_zh": "最初青少年時期的迷戀最終發展成一段長久的婚姻。"
+    },
+    {
+      "word": "courtship",
+      "meaning_zh": "(名) 求愛時期",
+      "example_en": "Their courtship lasted three years before he finally proposed at the lighthouse.",
+      "example_zh": "他們求愛三年後，他終於在燈塔向她求婚。"
+    },
+    {
+      "word": "matrimony",
+      "meaning_zh": "(名) 婚姻",
+      "example_en": "The couple entered matrimony in a small ceremony with only close family present.",
+      "example_zh": "那對伴侶在一場只有近親出席的小型儀式中步入婚姻。"
+    },
+    {
+      "word": "devotion",
+      "meaning_zh": "(名) 奉獻",
+      "example_en": "The teacher's devotion to her students earned her a national award.",
+      "example_zh": "那位教師對學生的奉獻為她贏得了全國性的獎項。"
+    },
+    {
+      "word": "affinity",
+      "meaning_zh": "(名) 親近感；相似",
+      "example_en": "She felt an immediate affinity with the new neighbor who shared her love of jazz.",
+      "example_zh": "她對同樣熱愛爵士樂的新鄰居立刻產生親近感。"
+    },
+    {
+      "word": "ruminate",
+      "meaning_zh": "(動) 反覆思索",
+      "example_en": "She tended to ruminate over small mistakes long after others had forgotten them.",
+      "example_zh": "她常會在別人早已遺忘後，仍反覆思索那些小錯誤。"
+    },
+    {
+      "word": "empathize",
+      "meaning_zh": "(動) 同理",
+      "example_en": "It is easier to empathize with someone after experiencing similar hardship yourself.",
+      "example_zh": "自己經歷過類似困境後，比較容易同理他人。"
+    },
+    {
+      "word": "sympathize",
+      "meaning_zh": "(動) 同情",
+      "example_en": "Neighbors gathered to sympathize with the family after the devastating fire.",
+      "example_zh": "鄰居們聚集在一起，對那場毀滅性大火後的家庭表示同情。"
+    },
+    {
+      "word": "introspect",
+      "meaning_zh": "(動) 內省",
+      "example_en": "He learned to introspect daily through journaling and quiet meditation.",
+      "example_zh": "他透過寫日記和靜坐冥想學會每天內省。"
+    },
+    {
+      "word": "envision",
+      "meaning_zh": "(動) 想像；展望",
+      "example_en": "The architect could envision the finished building long before construction began.",
+      "example_zh": "建築師早在動工前就能展望完工後的建築樣貌。"
+    },
+    {
+      "word": "recollect",
+      "meaning_zh": "(動) 回憶",
+      "example_en": "She struggled to recollect the name of her first elementary school teacher.",
+      "example_zh": "她努力回想小學第一位老師的名字。"
+    },
+    {
+      "word": "intuit",
+      "meaning_zh": "(動) 直覺感知",
+      "example_en": "Experienced nurses can often intuit when a patient's condition is about to change.",
+      "example_zh": "經驗豐富的護士通常能憑直覺感知到病人病情即將變化。"
+    },
+    {
+      "word": "constituency",
+      "meaning_zh": "(名) 選區；選民",
+      "example_en": "The senator visited her constituency every other weekend to hear voter concerns.",
+      "example_zh": "那位參議員每隔週末都會回選區傾聽選民的擔憂。"
+    },
+    {
+      "word": "activist",
+      "meaning_zh": "(名) 行動主義者",
+      "example_en": "The young activist organized weekly rallies in front of the city hall.",
+      "example_zh": "年輕的行動主義者每週都在市政廳前組織集會。"
+    },
+    {
+      "word": "protester",
+      "meaning_zh": "(名) 抗議者",
+      "example_en": "Hundreds of protesters gathered peacefully to demand stronger climate policies.",
+      "example_zh": "數百名抗議者和平聚集，要求更強有力的氣候政策。"
+    },
+    {
+      "word": "coalition",
+      "meaning_zh": "(名) 聯盟",
+      "example_en": "A coalition of three small parties formed the new government after the election.",
+      "example_zh": "由三個小黨組成的聯盟在大選後組建了新政府。"
+    },
+    {
+      "word": "ideology",
+      "meaning_zh": "(名) 意識形態",
+      "example_en": "The two candidates differ sharply in political ideology despite similar policy proposals.",
+      "example_zh": "儘管政策提案相似，兩位候選人在政治意識形態上卻有顯著差異。"
+    },
+    {
+      "word": "liberty",
+      "meaning_zh": "(名) 自由",
+      "example_en": "Citizens fought for centuries to secure the liberty they enjoy today.",
+      "example_zh": "公民們奮鬥了數百年，才獲得他們今日享有的自由。"
+    },
+    {
+      "word": "tyranny",
+      "meaning_zh": "(名) 暴政",
+      "example_en": "The revolution promised to free the people from generations of tyranny.",
+      "example_zh": "那場革命承諾將人民從世代的暴政中解放。"
+    },
+    {
+      "word": "republic",
+      "meaning_zh": "(名) 共和國",
+      "example_en": "The country became a republic after centuries under a monarchy.",
+      "example_zh": "該國在歷經數百年的君主制後成為了共和國。"
+    },
+    {
+      "word": "monarchy",
+      "meaning_zh": "(名) 君主政體",
+      "example_en": "Britain remains a constitutional monarchy with both a sovereign and elected officials.",
+      "example_zh": "英國至今仍是君主立憲制，同時擁有君主和民選官員。"
+    },
+    {
+      "word": "patriotism",
+      "meaning_zh": "(名) 愛國心",
+      "example_en": "His quiet patriotism showed in years of volunteer work for veterans.",
+      "example_zh": "他低調的愛國心展現在多年來為退伍軍人做志工的服務上。"
+    },
+    {
+      "word": "nationalism",
+      "meaning_zh": "(名) 民族主義",
+      "example_en": "Rising nationalism has reshaped political conversations across many European countries.",
+      "example_zh": "日益高漲的民族主義重塑了許多歐洲國家的政治對話。"
+    },
+    {
+      "word": "allegiance",
+      "meaning_zh": "(名) 效忠",
+      "example_en": "New citizens pledged allegiance to their adopted country at the formal ceremony.",
+      "example_zh": "新公民在正式儀式上宣誓效忠他們選擇歸化的國家。"
+    },
+    {
+      "word": "partisan",
+      "meaning_zh": "(形/名) 黨派的；黨徒",
+      "example_en": "Partisan disagreements stalled the budget negotiations for nearly three weeks.",
+      "example_zh": "黨派分歧使預算協商停滯了將近三週。"
+    },
+    {
+      "word": "filibuster",
+      "meaning_zh": "(名/動) 冗長辯論",
+      "example_en": "The senator launched a filibuster to delay the vote on the controversial bill.",
+      "example_zh": "那位參議員發動冗長辯論以拖延有爭議法案的表決。"
+    },
+    {
+      "word": "suffrage",
+      "meaning_zh": "(名) 投票權",
+      "example_en": "Universal suffrage was achieved only after long campaigns by determined activists.",
+      "example_zh": "普及投票權是經過決心堅定的活動人士長期奔走才實現的。"
+    },
+    {
+      "word": "nominee",
+      "meaning_zh": "(名) 被提名人",
+      "example_en": "The party's nominee promised major reforms in healthcare and education.",
+      "example_zh": "該黨被提名人承諾在醫療和教育上進行重大改革。"
+    },
+    {
+      "word": "frontrunner",
+      "meaning_zh": "(名) 領先者",
+      "example_en": "The frontrunner held a comfortable lead in the polls just before voting day.",
+      "example_zh": "那位領先者在投票日前夕的民調中佔有舒適的領先。"
+    },
+    {
+      "word": "underdog",
+      "meaning_zh": "(名) 弱者；不被看好者",
+      "example_en": "The underdog candidate surprised everyone by winning the election decisively.",
+      "example_zh": "那位不被看好的候選人以壓倒性勝利贏得大選，令所有人驚訝。"
+    },
+    {
+      "word": "recount",
+      "meaning_zh": "(名/動) 重新計票",
+      "example_en": "A recount was ordered after the margin of victory turned out to be razor-thin.",
+      "example_zh": "由於勝負差距極為微小，當局下令重新計票。"
+    },
+    {
+      "word": "impeach",
+      "meaning_zh": "(動) 彈劾",
+      "example_en": "Congress voted to impeach the official following months of investigation.",
+      "example_zh": "經過數月調查後，國會投票彈劾了那位官員。"
+    },
+    {
+      "word": "barrister",
+      "meaning_zh": "(名) (英)出庭律師",
+      "example_en": "In Britain, a barrister typically represents clients in higher courts during trials.",
+      "example_zh": "在英國，出庭律師通常在審判時於高等法院代表客戶。"
+    },
+    {
+      "word": "solicitor",
+      "meaning_zh": "(名) (英)事務律師",
+      "example_en": "They consulted a local solicitor before signing the lengthy property agreement.",
+      "example_zh": "在簽署冗長的不動產協議前，他們先諮詢了當地的事務律師。"
+    },
+    {
+      "word": "bailiff",
+      "meaning_zh": "(名) 法警",
+      "example_en": "The bailiff escorted the witness to the stand and announced the judge's entrance.",
+      "example_zh": "法警引領證人到證人席，並宣布法官進場。"
+    },
+    {
+      "word": "witness-stand",
+      "meaning_zh": "(名) 證人席",
+      "example_en": "She took the witness-stand and answered every question with calm composure.",
+      "example_zh": "她走上證人席，以鎮定的態度回答每個問題。"
+    },
+    {
+      "word": "sentencing",
+      "meaning_zh": "(名) 量刑",
+      "example_en": "The sentencing hearing was scheduled for two weeks after the guilty verdict.",
+      "example_zh": "量刑聽證會被安排在有罪判決後兩週舉行。"
+    },
+    {
+      "word": "conviction",
+      "meaning_zh": "(名) 定罪",
+      "example_en": "The conviction was overturned on appeal due to procedural errors at trial.",
+      "example_zh": "由於審判中的程序錯誤，該定罪在上訴後被推翻。"
+    },
+    {
+      "word": "settlement",
+      "meaning_zh": "(名) 和解",
+      "example_en": "Both parties reached a settlement just hours before the trial was set to begin.",
+      "example_zh": "雙方在審判即將開始前幾小時達成和解。"
+    },
+    {
+      "word": "courtroom",
+      "meaning_zh": "(名) 法庭",
+      "example_en": "The courtroom fell silent as the judge prepared to read the verdict.",
+      "example_zh": "當法官準備宣讀判決時，整個法庭一片寂靜。"
+    },
+    {
+      "word": "gavel",
+      "meaning_zh": "(名) 法槌",
+      "example_en": "The judge struck the gavel sharply to restore order in the noisy courtroom.",
+      "example_zh": "法官重重敲下法槌，恢復吵雜法庭的秩序。"
+    },
+    {
+      "word": "hearsay",
+      "meaning_zh": "(名) 傳聞",
+      "example_en": "The judge dismissed the statement as hearsay and instructed the jury to ignore it.",
+      "example_zh": "法官將該陳述視為傳聞而駁回，並指示陪審團不予理會。"
+    },
+    {
+      "word": "misdemeanor",
+      "meaning_zh": "(名) 輕罪",
+      "example_en": "He was charged with a misdemeanor that carried only a small fine.",
+      "example_zh": "他被控告一項輕罪，只需繳交小額罰款。"
+    },
+    {
+      "word": "felony",
+      "meaning_zh": "(名) 重罪",
+      "example_en": "A felony conviction can affect a person's voting rights and employment prospects.",
+      "example_zh": "重罪定罪可能影響一個人的投票權與就業前景。"
+    },
+    {
+      "word": "clemency",
+      "meaning_zh": "(名) 寬大；赦免",
+      "example_en": "The governor granted clemency to the prisoner who had shown remarkable rehabilitation.",
+      "example_zh": "州長對那位展現出非凡更生表現的囚犯施予寬大赦免。"
+    },
+    {
+      "word": "pardon",
+      "meaning_zh": "(名/動) 赦免",
+      "example_en": "The president issued a pardon for several individuals convicted of nonviolent offenses.",
+      "example_zh": "總統赦免了幾位被判非暴力罪行的人。"
+    },
+    {
+      "word": "amnesty",
+      "meaning_zh": "(名) 大赦",
+      "example_en": "The new law offered amnesty to undocumented workers who came forward voluntarily.",
+      "example_zh": "新法律對自願出面的無證件勞工提供大赦。"
+    },
+    {
+      "word": "bail",
+      "meaning_zh": "(名) 保釋金",
+      "example_en": "The defendant was released on bail pending the start of the trial next month.",
+      "example_zh": "被告以保釋金獲釋，等待下個月開始的審判。"
+    },
+    {
+      "word": "paralegal",
+      "meaning_zh": "(名) 法務助理",
+      "example_en": "The paralegal prepared the contracts and briefed the attorney before each meeting.",
+      "example_zh": "法務助理在每場會議前準備合約並向律師簡報。"
+    },
+    {
+      "word": "magistrate",
+      "meaning_zh": "(名) 治安法官",
+      "example_en": "The magistrate handles minor offenses and preliminary hearings in this district.",
+      "example_zh": "治安法官在此區處理輕微罪行和預備聽證。"
+    },
+    {
+      "word": "supreme-court",
+      "meaning_zh": "(名) 最高法院",
+      "example_en": "The case ultimately reached the supreme-court after several years of appeals.",
+      "example_zh": "那個案件經過數年上訴後最終上達最高法院。"
+    },
+    {
+      "word": "district-court",
+      "meaning_zh": "(名) 地方法院",
+      "example_en": "The district-court handles most civil cases filed within its territorial boundaries.",
+      "example_zh": "地方法院處理大部分在其轄區內提起的民事案件。"
+    },
+    {
+      "word": "family-court",
+      "meaning_zh": "(名) 家事法庭",
+      "example_en": "They resolved their custody dispute through the family-court rather than public hearings.",
+      "example_zh": "他們透過家事法庭而非公開聽證會解決了監護權爭議。"
+    },
+    {
+      "word": "juvenile-court",
+      "meaning_zh": "(名) 少年法院",
+      "example_en": "The juvenile-court emphasizes rehabilitation over punishment for young offenders.",
+      "example_zh": "少年法院對年輕犯罪者強調更生而非懲罰。"
+    },
+    {
+      "word": "appellate-court",
+      "meaning_zh": "(名) 上訴法院",
+      "example_en": "The appellate-court reviewed the trial transcript before issuing its ruling.",
+      "example_zh": "上訴法院在作出裁決前審閱了審判紀錄。"
+    },
+    {
+      "word": "small-claims",
+      "meaning_zh": "(名) 小額訴訟",
+      "example_en": "She filed her dispute with the landlord in small-claims court last Monday.",
+      "example_zh": "她週一在小額訴訟法庭對房東提起爭議。"
+    },
+    {
+      "word": "tribunal",
+      "meaning_zh": "(名) 法庭；裁判所",
+      "example_en": "An international tribunal was established to investigate war crimes in the region.",
+      "example_zh": "國際法庭成立以調查該地區的戰爭罪行。"
+    },
+    {
+      "word": "sacrament",
+      "meaning_zh": "(名) 聖事",
+      "example_en": "The priest performed the sacrament of baptism for the infant on Sunday.",
+      "example_zh": "神父在週日為那名嬰兒舉行洗禮聖事。"
+    },
+    {
+      "word": "liturgy",
+      "meaning_zh": "(名) 禮拜儀式",
+      "example_en": "The Sunday liturgy has remained largely unchanged for several centuries.",
+      "example_zh": "週日的禮拜儀式幾個世紀以來大致維持不變。"
+    },
+    {
+      "word": "sermon",
+      "meaning_zh": "(名) 講道",
+      "example_en": "The pastor's sermon focused on forgiveness and reconciliation within families.",
+      "example_zh": "牧師的講道聚焦於家庭內部的寬恕與和解。"
+    },
+    {
+      "word": "hymn",
+      "meaning_zh": "(名) 聖歌",
+      "example_en": "The congregation rose to sing a familiar hymn together.",
+      "example_zh": "會眾起立合唱一首熟悉的聖歌。"
+    },
+    {
+      "word": "baptism",
+      "meaning_zh": "(名) 洗禮",
+      "example_en": "Her baptism took place in a quiet riverside ceremony attended by close friends.",
+      "example_zh": "她的洗禮在河邊的安靜儀式中舉行，由親近的朋友陪伴。"
+    },
+    {
+      "word": "congregation",
+      "meaning_zh": "(名) 會眾",
+      "example_en": "The small congregation welcomed visitors warmly after every Sunday service.",
+      "example_zh": "那個小會眾在每次週日禮拜後都熱情歡迎訪客。"
+    },
+    {
+      "word": "monastery",
+      "meaning_zh": "(名) 修道院",
+      "example_en": "He spent a year at a remote monastery studying meditation and ancient texts.",
+      "example_zh": "他在偏遠的修道院待了一年，研習冥想與古籍。"
+    },
+    {
+      "word": "convent",
+      "meaning_zh": "(名) 女修道院",
+      "example_en": "The convent had operated continuously since the early seventeenth century.",
+      "example_zh": "那座女修道院自十七世紀初便持續運作。"
+    },
+    {
+      "word": "chapel",
+      "meaning_zh": "(名) 小教堂",
+      "example_en": "A small chapel stood at the corner of the campus, open to students of all faiths.",
+      "example_zh": "校園角落有一座小教堂，對所有信仰的學生開放。"
+    },
+    {
+      "word": "synagogue",
+      "meaning_zh": "(名) 猶太會堂",
+      "example_en": "The historic synagogue had served the local community for over a century.",
+      "example_zh": "那座歷史悠久的猶太會堂已為當地社區服務了一個多世紀。"
+    },
+    {
+      "word": "mosque",
+      "meaning_zh": "(名) 清真寺",
+      "example_en": "The grand mosque attracted visitors and worshippers from across the entire region.",
+      "example_zh": "那座宏偉的清真寺吸引了來自整個地區的訪客和信徒。"
+    },
+    {
+      "word": "abbey",
+      "meaning_zh": "(名) 修道院",
+      "example_en": "The medieval abbey now serves as both a museum and a working monastery.",
+      "example_zh": "那座中世紀修道院如今既是博物館，也是運作中的修院。"
+    },
+    {
+      "word": "monk",
+      "meaning_zh": "(名) 僧侶",
+      "example_en": "The monk had lived in silent contemplation for nearly thirty years.",
+      "example_zh": "那位僧侶在靜默冥想中已生活了將近三十年。"
+    },
+    {
+      "word": "nun",
+      "meaning_zh": "(名) 修女",
+      "example_en": "The elderly nun taught Latin and ancient history at the village school.",
+      "example_zh": "那位年長的修女在村裡的學校教授拉丁文和古代歷史。"
+    },
+    {
+      "word": "priest",
+      "meaning_zh": "(名) 神父",
+      "example_en": "The local priest visited every parishioner who was hospitalized last winter.",
+      "example_zh": "當地神父去年冬天探訪了每一位住院的教區信徒。"
+    },
+    {
+      "word": "missionary",
+      "meaning_zh": "(名) 傳教士",
+      "example_en": "The missionary spent twenty years building schools in remote mountain villages.",
+      "example_zh": "那位傳教士花了二十年在偏遠山村建設學校。"
+    },
+    {
+      "word": "sacred",
+      "meaning_zh": "(形) 神聖的",
+      "example_en": "The mountain is considered sacred by the indigenous people of this region.",
+      "example_zh": "這座山被該地區的原住民視為神聖之地。"
+    },
+    {
+      "word": "divine",
+      "meaning_zh": "(形) 神聖的；神的",
+      "example_en": "Many cultures believe that certain texts contain divine wisdom for daily living.",
+      "example_zh": "許多文化相信某些經典蘊含了日常生活的神聖智慧。"
+    },
+    {
+      "word": "spiritual",
+      "meaning_zh": "(形) 精神的；心靈的",
+      "example_en": "Her spiritual journey deepened during the long retreat in the mountains.",
+      "example_zh": "她在山中漫長的閉關期間，心靈之旅有了更深入的體會。"
+    },
+    {
+      "word": "numeracy",
+      "meaning_zh": "(名) 算術能力",
+      "example_en": "Basic numeracy is essential for managing personal finances and household budgets.",
+      "example_zh": "基本算術能力對管理個人財務和家庭預算來說不可或缺。"
+    },
+    {
+      "word": "mastery",
+      "meaning_zh": "(名) 精通",
+      "example_en": "True mastery of a language takes years of consistent practice and immersion.",
+      "example_zh": "真正精通一種語言需要多年持續的練習和沉浸。"
+    },
+    {
+      "word": "competence",
+      "meaning_zh": "(名) 能力",
+      "example_en": "His competence in handling difficult clients impressed even the senior partners.",
+      "example_zh": "他應對棘手客戶的能力連資深合夥人都印象深刻。"
+    },
+    {
+      "word": "aptitude",
+      "meaning_zh": "(名) 性向；天賦",
+      "example_en": "She showed a remarkable aptitude for mathematics from a very early age.",
+      "example_zh": "她從很小的年紀就展現出對數學非凡的天賦。"
+    },
+    {
+      "word": "talent-pool",
+      "meaning_zh": "(名) 人才庫",
+      "example_en": "The company recruits from a global talent-pool of recent engineering graduates.",
+      "example_zh": "該公司從全球工程系應屆畢業生的人才庫中招募人才。"
+    },
+    {
+      "word": "cognition",
+      "meaning_zh": "(名) 認知",
+      "example_en": "Researchers study how sleep affects cognition in elementary school children.",
+      "example_zh": "研究人員探討睡眠如何影響小學兒童的認知。"
+    },
+    {
+      "word": "recall-test",
+      "meaning_zh": "(名) 記憶測驗",
+      "example_en": "The recall-test measured how many words students remembered after a brief delay.",
+      "example_zh": "記憶測驗測量學生在短暫延遲後能記住多少單字。"
+    },
+    {
+      "word": "master's",
+      "meaning_zh": "(名) 碩士學位",
+      "example_en": "She earned her master's in public health from a leading European university.",
+      "example_zh": "她在一所頂尖的歐洲大學取得了公共衛生碩士學位。"
+    },
+    {
+      "word": "doctorate",
+      "meaning_zh": "(名) 博士學位",
+      "example_en": "After eight years of research, he finally completed his doctorate in neuroscience.",
+      "example_zh": "歷經八年研究，他終於完成神經科學的博士學位。"
+    },
+    {
+      "word": "bachelor's",
+      "meaning_zh": "(名) 學士學位",
+      "example_en": "A bachelor's in computer science is required for most entry-level developer positions.",
+      "example_zh": "大部分入門級開發人員職位都需要計算機科學的學士學位。"
+    },
+    {
+      "word": "associate's",
+      "meaning_zh": "(名) 副學士學位",
+      "example_en": "She earned an associate's degree at the community college before transferring.",
+      "example_zh": "她在轉學前於社區大學取得了副學士學位。"
+    },
+    {
+      "word": "certification",
+      "meaning_zh": "(名) 認證",
+      "example_en": "His teaching certification allowed him to work in schools across the entire state.",
+      "example_zh": "他的教師認證讓他能在整個州內的學校任教。"
+    },
+    {
+      "word": "credential",
+      "meaning_zh": "(名) 證書；資歷",
+      "example_en": "Employers often verify each credential listed on a candidate's professional resume.",
+      "example_zh": "雇主通常會核對候選人專業履歷上列出的每項資歷。"
+    },
+    {
+      "word": "licensure",
+      "meaning_zh": "(名) 執照取得",
+      "example_en": "Nursing licensure requires both an accredited degree and a passing exam score.",
+      "example_zh": "護理師執照的取得需要認可的學位和及格的考試成績。"
+    },
+    {
+      "word": "transcript-grade",
+      "meaning_zh": "(名) 成績單",
+      "example_en": "Graduate programs typically request an official transcript-grade from every prior institution.",
+      "example_zh": "研究所通常要求申請者提交曾就讀每所院校的正式成績單。"
+    },
+    {
+      "word": "mentoring",
+      "meaning_zh": "(名) 指導",
+      "example_en": "The mentoring program pairs new employees with experienced staff for the first year.",
+      "example_zh": "該指導計畫在第一年將新進員工與資深員工配對。"
+    },
+    {
+      "word": "coaching",
+      "meaning_zh": "(名) 教練輔導",
+      "example_en": "Executive coaching helped her develop a more confident leadership style.",
+      "example_zh": "高階主管教練輔導幫助她培養出更自信的領導風格。"
+    },
+    {
+      "word": "tutoring",
+      "meaning_zh": "(名) 家教",
+      "example_en": "Private tutoring after school helped him catch up in algebra and geometry.",
+      "example_zh": "放學後的私人家教幫助他在代數和幾何方面跟上進度。"
+    },
+    {
+      "word": "internship-program",
+      "meaning_zh": "(名) 實習計畫",
+      "example_en": "The summer internship-program offered students hands-on experience at major hospitals.",
+      "example_zh": "夏季實習計畫為學生提供在大型醫院的實地經驗。"
+    },
+    {
+      "word": "externship",
+      "meaning_zh": "(名) 校外實習",
+      "example_en": "The medical externship gave her exposure to rural healthcare for the first time.",
+      "example_zh": "那次醫療校外實習讓她首次接觸到鄉村醫療。"
+    },
+    {
+      "word": "colloquium",
+      "meaning_zh": "(名) 研討會",
+      "example_en": "The weekly colloquium featured visiting researchers from universities around the world.",
+      "example_zh": "每週的研討會邀請來自世界各地大學的訪問研究員演講。"
+    },
+    {
+      "word": "keynote",
+      "meaning_zh": "(名) 主題演講",
+      "example_en": "She delivered the keynote at the annual technology conference in Singapore.",
+      "example_zh": "她在新加坡的年度科技大會上發表主題演講。"
+    },
+    {
+      "word": "panel-discussion",
+      "meaning_zh": "(名) 座談會",
+      "example_en": "The panel-discussion brought together experts with very different perspectives on the issue.",
+      "example_zh": "那場座談會邀集對該議題持有截然不同觀點的專家。"
+    },
+    {
+      "word": "breakout-session",
+      "meaning_zh": "(名) 分組討論",
+      "example_en": "After the keynote, attendees joined a breakout-session on emerging educational technologies.",
+      "example_zh": "主題演講後，與會者參加了關於新興教育科技的分組討論。"
+    },
+    {
+      "word": "facilitation",
+      "meaning_zh": "(名) 引導；促進",
+      "example_en": "Group facilitation skills are increasingly valued in modern collaborative workplaces.",
+      "example_zh": "在現代協作型職場中，團體引導技巧愈來愈受到重視。"
+    },
+    {
+      "word": "taboo",
+      "meaning_zh": "(名/形) 禁忌；忌諱的",
+      "example_en": "Discussing salaries openly remains a social taboo in many corporate cultures.",
+      "example_zh": "公開談論薪資在許多企業文化中仍是社會禁忌。"
+    },
+    {
+      "word": "stigma",
+      "meaning_zh": "(名) 污名",
+      "example_en": "Public education campaigns have helped reduce the stigma around mental health treatment.",
+      "example_zh": "公共教育宣導有助於減少對心理健康治療的污名化。"
+    },
+    {
+      "word": "norm",
+      "meaning_zh": "(名) 規範；常態",
+      "example_en": "Remote work quickly became the new norm during the global health crisis.",
+      "example_zh": "全球健康危機期間，遠距工作迅速成為新的常態。"
+    },
+    {
+      "word": "convention",
+      "meaning_zh": "(名) 慣例；大會",
+      "example_en": "It is convention in this office to greet colleagues with a brief morning nod.",
+      "example_zh": "在這間辦公室裡，向同事點頭打招呼是早晨的慣例。"
+    },
+    {
+      "word": "superstition",
+      "meaning_zh": "(名) 迷信",
+      "example_en": "An old superstition holds that breaking a mirror brings seven years of bad luck.",
+      "example_zh": "古老的迷信認為打破鏡子會帶來七年厄運。"
+    },
+    {
+      "word": "dissent",
+      "meaning_zh": "(名/動) 異議；反對",
+      "example_en": "Healthy dissent within a team often leads to stronger collective decisions.",
+      "example_zh": "團隊內健康的異議經常能促成更穩健的集體決策。"
+    },
+    {
+      "word": "unanimity",
+      "meaning_zh": "(名) 一致同意",
+      "example_en": "The committee rarely achieved unanimity, but they always reached workable compromises.",
+      "example_zh": "委員會很少達成一致同意，但總能找到可行的妥協方案。"
+    },
+    {
+      "word": "discussion-forum",
+      "meaning_zh": "(名) 討論論壇",
+      "example_en": "The online discussion-forum allowed students to debate readings outside of class hours.",
+      "example_zh": "線上討論論壇讓學生能在課堂之外辯論指定讀物。"
+    },
+    {
+      "word": "roundtable",
+      "meaning_zh": "(名) 圓桌會議",
+      "example_en": "The roundtable brought together community leaders to address housing affordability.",
+      "example_zh": "那場圓桌會議邀集社區領袖討論住宅負擔得起的問題。"
+    },
+    {
+      "word": "open-letter",
+      "meaning_zh": "(名) 公開信",
+      "example_en": "The faculty published an open-letter calling for greater transparency from administrators.",
+      "example_zh": "教師們發表了一封公開信，呼籲行政單位提高透明度。"
+    },
+    {
+      "word": "collaboration-tool",
+      "meaning_zh": "(名) 協作工具",
+      "example_en": "The team adopted a new collaboration-tool to coordinate work across three time zones.",
+      "example_zh": "團隊採用了新的協作工具來協調跨三個時區的工作。"
+    },
+    {
+      "word": "interpersonal",
+      "meaning_zh": "(形) 人際的",
+      "example_en": "Strong interpersonal skills are essential for any successful management career.",
+      "example_zh": "成功的管理職涯都需要良好的人際交往能力。"
+    },
+    {
+      "word": "adaptability",
+      "meaning_zh": "(名) 適應力",
+      "example_en": "Adaptability has become one of the most valuable skills in modern workplaces.",
+      "example_zh": "適應力已成為現代職場中最寶貴的技能之一。"
+    },
+    {
+      "word": "resilience",
+      "meaning_zh": "(名) 韌性",
+      "example_en": "Her resilience after the layoff inspired others who faced similar challenges.",
+      "example_zh": "她在被資遣後展現的韌性鼓舞了面臨類似挑戰的人。"
+    },
+    {
+      "word": "resourcefulness",
+      "meaning_zh": "(名) 機智",
+      "example_en": "His resourcefulness solved the supply problem when conventional approaches failed.",
+      "example_zh": "當傳統方法失敗時，他的機智解決了供應問題。"
+    },
+    {
+      "word": "work-ethic",
+      "meaning_zh": "(名) 工作倫理",
+      "example_en": "Her strong work-ethic was evident in the long hours she dedicated to research.",
+      "example_zh": "她投入研究的漫長時間清楚顯示了她強烈的工作倫理。"
+    },
+    {
+      "word": "empowerment",
+      "meaning_zh": "(名) 賦權",
+      "example_en": "The new policy aimed at the empowerment of frontline staff to solve customer issues.",
+      "example_zh": "新政策旨在賦權第一線員工解決客戶問題。"
+    },
+    {
+      "word": "strategize",
+      "meaning_zh": "(動) 制定策略",
+      "example_en": "The leadership team met monthly to strategize about long-term growth.",
+      "example_zh": "領導團隊每月開會制定長期成長策略。"
+    },
+    {
+      "word": "prime-time",
+      "meaning_zh": "(名) 黃金時段",
+      "example_en": "The new drama series airs during prime-time every Wednesday evening.",
+      "example_zh": "那部新戲劇每週三晚的黃金時段播出。"
+    },
+    {
+      "word": "milestone-event",
+      "meaning_zh": "(名) 里程碑事件",
+      "example_en": "Graduation was a major milestone-event for the entire extended family.",
+      "example_zh": "畢業是整個大家庭重要的里程碑事件。"
+    },
+    {
+      "word": "countdown",
+      "meaning_zh": "(名) 倒數計時",
+      "example_en": "The countdown to launch day filled the entire team with excitement.",
+      "example_zh": "距發布日的倒數計時讓整個團隊充滿興奮之情。"
+    },
+    {
+      "word": "interim",
+      "meaning_zh": "(形/名) 臨時的；過渡期",
+      "example_en": "She served as interim director until the board completed its search.",
+      "example_zh": "在董事會完成遴選前，她擔任臨時主任。"
+    },
+    {
+      "word": "deadline-driven",
+      "meaning_zh": "(形) 期限導向的",
+      "example_en": "Working in a deadline-driven environment taught her to manage stress productively.",
+      "example_zh": "在期限導向的環境工作，教會她有效率地管理壓力。"
+    },
+    {
+      "word": "long-term",
+      "meaning_zh": "(形) 長期的",
+      "example_en": "Long-term planning ensures that resources are used wisely across multiple years.",
+      "example_zh": "長期規劃確保資源能在多年間妥善運用。"
+    },
+    {
+      "word": "short-term",
+      "meaning_zh": "(形) 短期的",
+      "example_en": "Short-term wins helped maintain team motivation during the multi-year project.",
+      "example_zh": "短期的勝利在這個跨年度專案中有助於維持團隊動力。"
+    },
+    {
+      "word": "logical",
+      "meaning_zh": "(形) 合乎邏輯的",
+      "example_en": "A logical argument requires both clear premises and valid conclusions to be persuasive.",
+      "example_zh": "具有說服力的論證需要清晰的前提和有效的結論。"
+    },
+    {
+      "word": "intuitive",
+      "meaning_zh": "(形) 直覺的",
+      "example_en": "Some decisions are intuitive while others demand careful long-term analysis.",
+      "example_zh": "有些決定靠直覺，有些則需要審慎的長期分析。"
+    },
+    {
+      "word": "systematic",
+      "meaning_zh": "(形) 系統性的",
+      "example_en": "A systematic approach to debugging often reveals issues that random testing misses.",
+      "example_zh": "系統性的除錯方法往往能找出隨機測試遺漏的問題。"
+    },
+    {
+      "word": "critical-thinking",
+      "meaning_zh": "(名) 批判性思考",
+      "example_en": "Critical-thinking skills help students evaluate information they find online.",
+      "example_zh": "批判性思考技能幫助學生評估網路上找到的資訊。"
+    },
+    {
+      "word": "problem-solving",
+      "meaning_zh": "(名) 解決問題",
+      "example_en": "Strong problem-solving abilities are valued in nearly every professional field.",
+      "example_zh": "優秀的解決問題能力幾乎在所有專業領域都受到重視。"
+    },
+    {
+      "word": "open-ended",
+      "meaning_zh": "(形) 開放式的",
+      "example_en": "The teacher asked open-ended questions to encourage deeper student reflection.",
+      "example_zh": "老師提出開放式問題以鼓勵學生更深入的反思。"
+    },
+    {
+      "word": "hypothetical",
+      "meaning_zh": "(形) 假設的",
+      "example_en": "Let's consider a hypothetical scenario where the supplier suddenly raises prices.",
+      "example_zh": "我們來想像一個假設情境，供應商突然調漲價格。"
+    },
+    {
+      "word": "speculation",
+      "meaning_zh": "(名) 推測",
+      "example_en": "Speculation about the company's future grew after the chief executive's sudden resignation.",
+      "example_zh": "執行長突然辭職後，對該公司未來的推測愈來愈多。"
+    },
+    {
+      "word": "presumption",
+      "meaning_zh": "(名) 假定",
+      "example_en": "The presumption of innocence is a cornerstone of modern criminal justice systems.",
+      "example_zh": "無罪推定是現代刑事司法制度的基石。"
+    },
+    {
+      "word": "verdict-final",
+      "meaning_zh": "(名) 最終裁決",
+      "example_en": "The verdict-final was announced after three days of intense jury deliberation.",
+      "example_zh": "經過三天激烈的陪審團審議後，最終裁決終於宣布。"
+    },
+    {
+      "word": "reasoning-skill",
+      "meaning_zh": "(名) 推理能力",
+      "example_en": "Strong reasoning-skill helps lawyers construct persuasive arguments in complex cases.",
+      "example_zh": "優秀的推理能力幫助律師在複雜案件中建構有說服力的論證。"
+    },
+    {
+      "word": "clarity",
+      "meaning_zh": "(名) 清晰",
+      "example_en": "The professor was admired for the clarity of her explanations of difficult concepts.",
+      "example_zh": "那位教授因解釋艱澀概念時的清晰而備受讚賞。"
+    },
+    {
+      "word": "ambiguity",
+      "meaning_zh": "(名) 模稜兩可",
+      "example_en": "The contract contained too much ambiguity to be enforced in court reliably.",
+      "example_zh": "那份合約過於模稜兩可，難以在法庭上可靠地執行。"
+    },
+    {
+      "word": "accountability-system",
+      "meaning_zh": "(名) 問責制度",
+      "example_en": "A clear accountability-system helped the agency restore public confidence after scandals.",
+      "example_zh": "清楚的問責制度幫助該機關在醜聞後恢復了大眾信任。"
+    },
+    {
+      "word": "reputation-management",
+      "meaning_zh": "(名) 聲譽管理",
+      "example_en": "Reputation-management has become essential for both businesses and public figures online.",
+      "example_zh": "聲譽管理已成為企業和公眾人物在網路上不可或缺的工作。"
+    },
+    {
+      "word": "shareholder",
+      "meaning_zh": "(名) 股東",
+      "example_en": "The annual shareholder meeting addressed concerns about declining quarterly earnings.",
+      "example_zh": "年度股東會議處理了季度盈利下滑的擔憂。"
+    },
+    {
+      "word": "constituent",
+      "meaning_zh": "(名) 選民；構成要素",
+      "example_en": "Each constituent received a personal reply from the senator's office.",
+      "example_zh": "每位選民都收到參議員辦公室的個別回覆。"
+    },
+    {
+      "word": "citizenry",
+      "meaning_zh": "(名) 全體公民",
+      "example_en": "An informed citizenry is essential for the proper functioning of any democracy.",
+      "example_zh": "知情的全體公民對任何民主政體的正常運作至關重要。"
+    },
+    {
+      "word": "public-opinion",
+      "meaning_zh": "(名) 公眾輿論",
+      "example_en": "Public-opinion shifted dramatically after the documentary aired on national television.",
+      "example_zh": "那部紀錄片在全國電視台播出後，公眾輿論大幅轉變。"
+    },
+    {
+      "word": "groupthink",
+      "meaning_zh": "(名) 團體迷思",
+      "example_en": "Groupthink can lead even talented teams to overlook obvious risks.",
+      "example_zh": "團體迷思可能讓即使是優秀的團隊也忽略明顯的風險。"
+    },
+    {
+      "word": "bandwagon",
+      "meaning_zh": "(名) 從眾風潮",
+      "example_en": "Many investors jumped on the bandwagon just before the market suddenly cooled.",
+      "example_zh": "許多投資者在市場突然降溫前才趕上了這波從眾風潮。"
+    },
+    {
+      "word": "peer-pressure",
+      "meaning_zh": "(名) 同儕壓力",
+      "example_en": "Peer-pressure influences many teenagers' choices about clothing, music, and social media.",
+      "example_zh": "同儕壓力影響許多青少年對服裝、音樂和社群媒體的選擇。"
+    },
+    {
+      "word": "social-circle",
+      "meaning_zh": "(名) 社交圈",
+      "example_en": "Her social-circle expanded considerably after she joined the local hiking club.",
+      "example_zh": "她加入當地健行俱樂部後，社交圈擴大了不少。"
+    },
+    {
+      "word": "introversion",
+      "meaning_zh": "(名) 內向性",
+      "example_en": "Introversion does not mean shyness; many introverts simply prefer quieter environments.",
+      "example_zh": "內向性並不等同於害羞，許多內向者只是偏好安靜的環境。"
+    },
+    {
+      "word": "extroversion",
+      "meaning_zh": "(名) 外向性",
+      "example_en": "Extroversion alone does not determine success in any specific professional role.",
+      "example_zh": "外向性本身並不決定任何特定專業職位的成功。"
+    },
+    {
+      "word": "disposition",
+      "meaning_zh": "(名) 性情；性格",
+      "example_en": "She has a cheerful disposition that brightens everyone's day at the office.",
+      "example_zh": "她開朗的性情讓辦公室裡每個人的一天都更明亮。"
+    },
+    {
+      "word": "demeanor",
+      "meaning_zh": "(名) 舉止",
+      "example_en": "His professional demeanor impressed clients during the first consultation.",
+      "example_zh": "首次諮詢時，他的專業舉止令客戶印象深刻。"
+    },
+    {
+      "word": "poise",
+      "meaning_zh": "(名) 沉著",
+      "example_en": "The young pianist showed remarkable poise during her first international competition.",
+      "example_zh": "那位年輕的鋼琴家在首次國際比賽中展現出非凡的沉著。"
+    },
+    {
+      "word": "dignity",
+      "meaning_zh": "(名) 尊嚴",
+      "example_en": "He faced his illness with quiet dignity that inspired everyone around him.",
+      "example_zh": "他以默默的尊嚴面對疾病，鼓舞了周圍的每個人。"
+    },
+    {
+      "word": "charisma",
+      "meaning_zh": "(名) 魅力",
+      "example_en": "Her natural charisma attracted attention whenever she entered a crowded room.",
+      "example_zh": "她與生俱來的魅力，每當她走進擁擠的房間都會引人注目。"
+    },
+    {
+      "word": "presence",
+      "meaning_zh": "(名) 存在感；氣場",
+      "example_en": "The veteran actor had a commanding presence that filled every scene.",
+      "example_zh": "那位資深演員有著主導全場的氣場，充滿每個場景。"
+    },
+    {
+      "word": "aura",
+      "meaning_zh": "(名) 氣息",
+      "example_en": "There was a calming aura around the meditation teacher that students immediately noticed.",
+      "example_zh": "那位冥想老師散發著平靜的氣息，學生們都立刻察覺。"
+    },
+    {
+      "word": "ambience",
+      "meaning_zh": "(名) 氛圍",
+      "example_en": "The cafe's warm ambience made it a favorite spot for studying graduate students.",
+      "example_zh": "那間咖啡館溫暖的氛圍使它成為研究生最愛的讀書地點。"
+    },
+    {
+      "word": "vibe",
+      "meaning_zh": "(名) 氛圍；感覺",
+      "example_en": "The new office has a relaxed vibe that encourages casual collaboration.",
+      "example_zh": "新辦公室散發出輕鬆的氛圍，鼓勵隨興的協作。"
+    },
+    {
+      "word": "backstory",
+      "meaning_zh": "(名) 背景故事",
+      "example_en": "Understanding his backstory helped me appreciate why he reacted that way.",
+      "example_zh": "了解他的背景故事，讓我能體會他為何那樣反應。"
+    },
+    {
+      "word": "worldview",
+      "meaning_zh": "(名) 世界觀",
+      "example_en": "Studying abroad fundamentally changed her worldview and career aspirations.",
+      "example_zh": "留學從根本上改變了她的世界觀和職涯志向。"
+    },
+    {
+      "word": "mindset",
+      "meaning_zh": "(名) 心態",
+      "example_en": "A growth mindset encourages continuous learning even after repeated failures.",
+      "example_zh": "成長心態鼓勵在反覆失敗後仍持續學習。"
+    },
+    {
+      "word": "outlook",
+      "meaning_zh": "(名) 觀點；展望",
+      "example_en": "His positive outlook helped him recover quickly from the unexpected setback.",
+      "example_zh": "他正面的展望幫助他從意外的挫折中迅速恢復。"
+    },
+    {
+      "word": "insight-deep",
+      "meaning_zh": "(名) 深刻洞察",
+      "example_en": "Her deep insight-deep into customer behavior shaped the entire marketing campaign.",
+      "example_zh": "她對顧客行為的深刻洞察形塑了整個行銷活動。"
+    },
+    {
+      "word": "insightful",
+      "meaning_zh": "(形) 富有洞察力的",
+      "example_en": "Her insightful comments transformed the discussion in a meaningful direction.",
+      "example_zh": "她富有洞察力的評論將討論引導到有意義的方向。"
+    },
+    {
+      "word": "thought-provoking",
+      "meaning_zh": "(形) 發人深省的",
+      "example_en": "The documentary raised thought-provoking questions about modern food systems.",
+      "example_zh": "那部紀錄片提出了關於現代食物系統發人深省的問題。"
+    },
+    {
+      "word": "reflective",
+      "meaning_zh": "(形) 反思的",
+      "example_en": "He spent a reflective hour by the window before drafting his resignation letter.",
+      "example_zh": "他在窗邊度過反思的一小時，才起草辭職信。"
+    },
+    {
+      "word": "mindful",
+      "meaning_zh": "(形) 留心的",
+      "example_en": "Being mindful of her tone helped her communicate difficult feedback constructively.",
+      "example_zh": "留心自己的語氣幫助她以建設性的方式傳達困難的回饋。"
+    },
+    {
+      "word": "meditative",
+      "meaning_zh": "(形) 冥想的",
+      "example_en": "She found long walks meditative and used them to process workplace stress.",
+      "example_zh": "她覺得長距離散步具有冥想效果，並用來消化職場壓力。"
+    },
+    {
+      "word": "thoughtfulness",
+      "meaning_zh": "(名) 體貼",
+      "example_en": "His thoughtfulness in remembering small details made everyone feel genuinely valued.",
+      "example_zh": "他記得小細節的體貼讓每個人都覺得自己真的被重視。"
+    },
+    {
+      "word": "earnestness",
+      "meaning_zh": "(名) 認真",
+      "example_en": "The candidate's earnestness during the interview impressed the entire hiring panel.",
+      "example_zh": "那位求職者面試時的認真，令整個招聘小組印象深刻。"
+    },
+    {
+      "word": "sincerity",
+      "meaning_zh": "(名) 真誠",
+      "example_en": "His sincerity in the apology helped repair the strained working relationship.",
+      "example_zh": "他在道歉中展現的真誠幫助修補了緊張的工作關係。"
+    },
+    {
+      "word": "genuineness",
+      "meaning_zh": "(名) 真誠",
+      "example_en": "Her genuineness made strangers feel comfortable opening up almost immediately.",
+      "example_zh": "她的真誠讓陌生人幾乎立刻就能放心敞開心扉。"
+    },
+    {
+      "word": "openness",
+      "meaning_zh": "(名) 開放",
+      "example_en": "His openness about past struggles inspired colleagues to seek help when needed.",
+      "example_zh": "他對過去掙扎的坦率態度，鼓勵同事在需要時尋求協助。"
+    },
+    {
+      "word": "candor",
+      "meaning_zh": "(名) 直率",
+      "example_en": "Her candor during performance reviews helped employees grow more rapidly.",
+      "example_zh": "她在績效考核時的直率幫助員工成長得更快。"
+    },
+    {
+      "word": "frankness",
+      "meaning_zh": "(名) 坦率",
+      "example_en": "The team appreciated her frankness about the challenging financial outlook.",
+      "example_zh": "團隊感激她對艱困財務前景的坦率說明。"
+    },
+    {
+      "word": "discreetness",
+      "meaning_zh": "(名) 謹慎",
+      "example_en": "His discreetness in handling personal matters earned widespread trust among colleagues.",
+      "example_zh": "他在處理個人事務上的謹慎，贏得同事們普遍的信任。"
+    },
+    {
+      "word": "tact",
+      "meaning_zh": "(名) 圓融",
+      "example_en": "The diplomat handled the sensitive negotiation with remarkable tact.",
+      "example_zh": "那位外交官以非凡的圓融處理了敏感的談判。"
+    },
+    {
+      "word": "finesse",
+      "meaning_zh": "(名) 巧妙",
+      "example_en": "She handled the awkward conversation with finesse no one expected from a newcomer.",
+      "example_zh": "她以新人罕見的巧妙處理了那場尷尬的對話。"
+    },
+    {
+      "word": "savvy",
+      "meaning_zh": "(名/形) 精明的",
+      "example_en": "Her business savvy helped the startup navigate two difficult funding rounds.",
+      "example_zh": "她在商業上的精明幫助那家新創公司度過兩輪艱困的募資。"
+    },
+    {
+      "word": "shrewdness",
+      "meaning_zh": "(名) 精明",
+      "example_en": "His shrewdness in reading markets made him a sought-after investment adviser.",
+      "example_zh": "他解讀市場的精明使他成為炙手可熱的投資顧問。"
+    },
+    {
+      "word": "thoughtful-leader",
+      "meaning_zh": "(名) 思慮周詳的領導者",
+      "example_en": "A thoughtful-leader considers long-term consequences before making any major decision.",
+      "example_zh": "思慮周詳的領導者在做任何重大決定前都會考慮長期後果。"
+    },
+    {
+      "word": "tenet",
+      "meaning_zh": "(名) 信條",
+      "example_en": "Honesty is a core tenet of the company's professional code of conduct.",
+      "example_zh": "誠實是該公司專業行為守則的核心信條。"
+    },
+    {
+      "word": "creed",
+      "meaning_zh": "(名) 信條",
+      "example_en": "Her personal creed centered on lifelong learning and steady kindness toward strangers.",
+      "example_zh": "她個人的信條圍繞著終生學習與對陌生人始終如一的善意。"
+    },
+    {
+      "word": "sect",
+      "meaning_zh": "(名) 教派",
+      "example_en": "The small religious sect maintained traditions dating back several hundred years.",
+      "example_zh": "那個小教派維持著可追溯數百年的傳統。"
+    },
+    {
+      "word": "denomination",
+      "meaning_zh": "(名) 教派；面額",
+      "example_en": "Members of every denomination were welcome to attend the community service.",
+      "example_zh": "歡迎每個教派的成員參加這場社區禮拜。"
+    },
+    {
+      "word": "orthodoxy",
+      "meaning_zh": "(名) 正統",
+      "example_en": "Questioning the orthodoxy of established economic theory can be professionally risky.",
+      "example_zh": "質疑既有經濟理論的正統可能對職業生涯帶來風險。"
+    },
+    {
+      "word": "stoicism",
+      "meaning_zh": "(名) 堅忍",
+      "example_en": "He faced the difficult diagnosis with a quiet stoicism his family deeply admired.",
+      "example_zh": "他以家人深感敬佩的沉穩堅忍面對艱難的診斷。"
+    },
+    {
+      "word": "materialism",
+      "meaning_zh": "(名) 物質主義",
+      "example_en": "Modern materialism has been blamed for rising household debt across many countries.",
+      "example_zh": "現代物質主義被認為是許多國家家庭負債上升的元兇。"
+    },
+    {
+      "word": "minimalism",
+      "meaning_zh": "(名) 極簡主義",
+      "example_en": "Embracing minimalism helped her clear her apartment and her cluttered schedule.",
+      "example_zh": "擁抱極簡主義幫助她清理了公寓和雜亂的行程。"
+    },
+    {
+      "word": "individualism",
+      "meaning_zh": "(名) 個人主義",
+      "example_en": "American culture often celebrates individualism more strongly than collective responsibility.",
+      "example_zh": "美國文化通常更強調個人主義而非集體責任。"
     }
   ]
 }
