@@ -1097,6 +1097,16 @@ function closeLevelPicker() {
   document.getElementById("level-picker").hidden = true;
 }
 
+function openStatsPicker() {
+  const overlay = document.getElementById("stats-picker");
+  overlay.hidden = false;
+  const body = overlay.querySelector(".stats-body");
+  if (body) body.scrollTop = 0;
+}
+function closeStatsPicker() {
+  document.getElementById("stats-picker").hidden = true;
+}
+
 function updateModeToggles() {
   const hideLang = isTopik() || isToeic() || isDele() || isGept();
   const langBtn = document.getElementById("lang-btn");
@@ -1145,6 +1155,21 @@ window.addEventListener("DOMContentLoaded", async () => {
   });
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
+  const titleStats = document.getElementById("title-stats");
+  if (titleStats) titleStats.addEventListener("click", openStatsPicker);
+  const statsOverlay = document.getElementById("stats-picker");
+  if (statsOverlay) {
+    statsOverlay.addEventListener("click", e => {
+      if (e.target === statsOverlay) closeStatsPicker();
+    });
+    const closeBtn = document.getElementById("stats-close");
+    if (closeBtn) closeBtn.addEventListener("click", closeStatsPicker);
+  }
+  document.addEventListener("keydown", e => {
+    if (e.key !== "Escape") return;
+    if (!statsOverlay.hidden) closeStatsPicker();
+    else if (!document.getElementById("level-picker").hidden) closeLevelPicker();
+  });
   document.querySelectorAll(".action").forEach(b =>
     b.addEventListener("click", () => render(b.dataset.action))
   );

@@ -12,7 +12,7 @@
 </head>
 <body>
   <header>
-    <h1>📚 日韓家教</h1>
+    <h1>📚 <span id="title-stats" class="title-link">日韓家教</span></h1>
     <div class="settings">
       <button id="lang-btn" class="chip">EN</button>
       <button id="dir-btn" class="chip">日→中</button>
@@ -65,6 +65,112 @@
       <div class="picker-row picker-row-toeic">
         <button class="picker-btn" data-level="toeic">TOEIC</button>
         <button class="picker-btn" data-level="gept">GEPT</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="stats-picker" class="picker-overlay" hidden>
+    <div class="picker-card stats-card">
+      <div class="stats-header">
+        <h2 class="stats-title">📊 學習資料統計</h2>
+        <button class="stats-close" id="stats-close" aria-label="關閉">✕</button>
+      </div>
+      <div class="stats-body">
+        <h3 class="stats-h3">西文 (DELE A1 ~ C2)</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>等級</th><th class="num">單字</th><th class="num">文法</th><th class="num">選擇題</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>DELE A1</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr><td>DELE A2</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr><td>DELE B1</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr><td>DELE B2</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr><td>DELE C1</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr><td>DELE C2</td><td class="num">45</td><td class="num">12</td><td class="num">15</td></tr>
+            <tr class="sum"><td>小計</td><td class="num">270</td><td class="num">72</td><td class="num">90</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">韓文 (TOPIK 1 ~ 6)</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>等級</th><th class="num">單字</th><th class="num">文法</th><th class="num">選擇題</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>TOPIK 1</td><td class="num">823</td><td class="num">114</td><td class="num">229</td></tr>
+            <tr><td>TOPIK 2</td><td class="num">2178</td><td class="num">244</td><td class="num">330</td></tr>
+            <tr><td>TOPIK 3</td><td class="num">3085</td><td class="num">327</td><td class="num">529</td></tr>
+            <tr><td>TOPIK 4</td><td class="num">1233</td><td class="num">128</td><td class="num">230</td></tr>
+            <tr><td>TOPIK 5</td><td class="num">1287</td><td class="num">125</td><td class="num">230</td></tr>
+            <tr><td>TOPIK 6</td><td class="num">1581</td><td class="num">127</td><td class="num">230</td></tr>
+            <tr class="sum"><td>小計</td><td class="num">10187</td><td class="num">1065</td><td class="num">1778</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">日文 (N5 ~ N1)</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>等級</th><th class="num">單字</th><th class="num">文法</th><th class="num">選擇題</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>N5</td><td class="num">671</td><td class="num">312</td><td class="num">279</td></tr>
+            <tr><td>N4</td><td class="num">639</td><td class="num">444</td><td class="num">286</td></tr>
+            <tr><td>N3</td><td class="num">2103</td><td class="num">248</td><td class="num">345</td></tr>
+            <tr><td>N2</td><td class="num">1742</td><td class="num">260</td><td class="num">401</td></tr>
+            <tr><td>N1</td><td class="num">2644</td><td class="num">305</td><td class="num">438</td></tr>
+            <tr class="sum"><td>小計</td><td class="num">7799</td><td class="num">1569</td><td class="num">1749</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">多益 (TOEIC)</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>等級</th><th class="num">單字</th><th class="num">文法</th><th class="num">選擇題</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>TOEIC</td><td class="num">3140</td><td class="num">227</td><td class="num">756</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">全民英檢 (GEPT)</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>等級</th><th class="num">單字</th><th class="num">文法</th><th class="num">選擇題</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>GEPT</td><td class="num">5280</td><td class="num">206</td><td class="num">510</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">情境句</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>系列</th><th class="num">故事數</th><th class="num">總句數</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>西文 (DELE A1 ~ C2)</td><td class="num">50</td><td class="num">34295</td></tr>
+            <tr><td>韓文 (TOPIK 1 ~ 6)</td><td class="num">100</td><td class="num">3260</td></tr>
+            <tr><td>日文 (N5 ~ N1)</td><td class="num">120</td><td class="num">2836</td></tr>
+            <tr><td>多益 (TOEIC)</td><td class="num">120</td><td class="num">6150</td></tr>
+            <tr><td>全民英檢 (GEPT)</td><td class="num">20</td><td class="num">228</td></tr>
+            <tr class="sum"><td>合計</td><td class="num">410</td><td class="num">46769</td></tr>
+          </tbody>
+        </table>
+
+        <h3 class="stats-h3">總計</h3>
+        <table class="stats-table">
+          <thead>
+            <tr><th>類型</th><th class="num">數量</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>單字</td><td class="num">26676</td></tr>
+            <tr><td>文法</td><td class="num">3139</td></tr>
+            <tr><td>選擇題</td><td class="num">4883</td></tr>
+            <tr><td>故事篇數</td><td class="num">410</td></tr>
+            <tr><td>故事句數</td><td class="num">46769</td></tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>
