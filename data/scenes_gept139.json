@@ -1,0 +1,145 @@
+{
+  "title": "The Coding Club's First Real App",
+  "all": [
+    {
+      "en": "Yu-chen founded the school coding club at the start of the autumn semester.",
+      "zh": "宇辰在秋季學期之初創立了學校的程式設計社團。"
+    },
+    {
+      "en": "Only four students showed up on the first Tuesday afternoon in the computer lab.",
+      "zh": "第一個星期二下午，電腦教室只來了四個學生。"
+    },
+    {
+      "en": "He felt a little disappointed but decided to make every meeting genuinely useful.",
+      "zh": "他有點失望，但決定讓每次聚會都真正有用。"
+    },
+    {
+      "en": "By the end of October, word had spread, and twelve students were attending weekly.",
+      "zh": "到了十月底，消息傳開了，每週有十二位學生來參加。"
+    },
+    {
+      "en": "Their new advisor, Ms. Chen, suggested they build something that could actually help students.",
+      "zh": "他們的新指導老師陳老師建議他們做一個能真正幫助學生的東西。"
+    },
+    {
+      "en": "After a long brainstorm, they chose to create a simple campus lost-and-found app.",
+      "zh": "經過長時間的腦力激盪，他們選擇做一個簡單的校園失物招領應用程式。"
+    },
+    {
+      "en": "Yu-chen sketched out the basic screens on big white paper taped across the wall.",
+      "zh": "宇辰在貼在牆上的大白紙上畫出基本的畫面草圖。"
+    },
+    {
+      "en": "His friend Po-ya, who loved design, started picking colors and friendly little icons.",
+      "zh": "他熱愛設計的朋友柏雅，開始挑選顏色和可愛的小圖示。"
+    },
+    {
+      "en": "The team split into three groups: front-end design, back-end database, and user testing.",
+      "zh": "團隊分成三組：前端設計、後端資料庫和使用者測試。"
+    },
+    {
+      "en": "None of them had ever finished a real app before, so everyone felt slightly afraid.",
+      "zh": "他們之中沒人真正完成過一個應用程式，所以每個人都有點害怕。"
+    },
+    {
+      "en": "Yu-chen watched online tutorials at night and shared the best ones in their group chat.",
+      "zh": "宇辰晚上看線上教學影片，並在他們的群組聊天中分享最好的幾支。"
+    },
+    {
+      "en": "The first version crashed every time a user tried to upload a photo of a lost item.",
+      "zh": "第一個版本每次使用者試圖上傳遺失物品的照片時就會當掉。"
+    },
+    {
+      "en": "Po-ya stayed after school for three days hunting down the stubborn image-handling bug.",
+      "zh": "柏雅放學後留下了三天，追查那個頑固的圖片處理錯誤。"
+    },
+    {
+      "en": "When she finally fixed it, the whole team cheered like their school had won a championship.",
+      "zh": "當她終於修好時，整個團隊歡呼得像他們學校贏了冠軍一樣。"
+    },
+    {
+      "en": "They invited ten classmates from different grades to try the early version of the app.",
+      "zh": "他們邀請了十位不同年級的同學試用這個應用程式的早期版本。"
+    },
+    {
+      "en": "The testers loved the cute design but complained that searching was painfully slow.",
+      "zh": "測試者喜歡可愛的設計，但抱怨搜尋速度慢得令人痛苦。"
+    },
+    {
+      "en": "Yu-chen rewrote the search function and improved the speed by nearly five hundred percent.",
+      "zh": "宇辰重寫了搜尋功能，速度提升了將近百分之五百。"
+    },
+    {
+      "en": "Ms. Chen connected them with a parent who worked as a real software engineer downtown.",
+      "zh": "陳老師為他們聯繫了一位在市區擔任真正軟體工程師的家長。"
+    },
+    {
+      "en": "He gave them honest, detailed feedback about clean code and protecting user privacy.",
+      "zh": "他針對乾淨的程式碼和保護使用者隱私給了他們誠實又詳細的回饋。"
+    },
+    {
+      "en": "His comments stung at first, but the team rewrote large parts to follow his advice.",
+      "zh": "他的評論一開始讓人刺痛，但團隊重寫了大量內容以採納他的建議。"
+    },
+    {
+      "en": "By December, the app had a clean login system, a photo gallery, and a reporting feature.",
+      "zh": "到了十二月，這個應用程式有了乾淨的登入系統、照片庫和回報功能。"
+    },
+    {
+      "en": "They named it FindIt, with a simple yellow flashlight icon as their cheerful logo.",
+      "zh": "他們將它命名為 FindIt，標誌是一個簡單的黃色手電筒圖示，充滿活力。"
+    },
+    {
+      "en": "Launch day was scheduled for the Friday before the winter break started.",
+      "zh": "上線日訂在寒假開始前的星期五。"
+    },
+    {
+      "en": "During the school morning announcement, the principal personally introduced the app to everyone.",
+      "zh": "在學校晨間廣播中，校長親自向大家介紹了這個應用程式。"
+    },
+    {
+      "en": "Within the first hour, over two hundred students had downloaded the new yellow icon.",
+      "zh": "上線後一小時內，已有超過兩百位學生下載了那個新的黃色圖示。"
+    },
+    {
+      "en": "By lunch, a missing earphone case had already been reunited with its happy owner.",
+      "zh": "到了午餐時間，一個遺失的耳機盒已經回到它開心的主人手中。"
+    },
+    {
+      "en": "A first-year girl wrote a kind thank-you message that made Yu-chen's whole afternoon brighter.",
+      "zh": "一位一年級女生寫了一則溫暖的感謝訊息，讓宇辰整個下午都變得明亮。"
+    },
+    {
+      "en": "However, the server became overloaded around three o'clock and briefly slowed to a crawl.",
+      "zh": "然而，伺服器在大約三點時負荷過重，短暫地慢得像爬行一樣。"
+    },
+    {
+      "en": "Yu-chen quickly upgraded their hosting plan using saved money from the club's small budget.",
+      "zh": "宇辰用社團小額預算存下的錢，迅速升級了他們的主機方案。"
+    },
+    {
+      "en": "By the next morning, everything ran smoothly, and reports of recovered items kept arriving.",
+      "zh": "到了隔天早上，一切運行順暢，找回物品的回報持續傳來。"
+    },
+    {
+      "en": "The local newspaper sent a reporter who interviewed Yu-chen and Po-ya in the lab.",
+      "zh": "當地報社派了一位記者，在實驗室裡採訪了宇辰和柏雅。"
+    },
+    {
+      "en": "Suddenly, twenty new students wanted to join the coding club for the next semester.",
+      "zh": "突然間，二十位新學生想在下學期加入程式設計社團。"
+    },
+    {
+      "en": "Yu-chen realized that one small, useful idea could grow into something genuinely meaningful.",
+      "zh": "宇辰領悟到，一個小而實用的點子，能成長為真正有意義的事物。"
+    },
+    {
+      "en": "He stayed late on the last day, organizing notes and planning their next ambitious project.",
+      "zh": "他在最後一天待到很晚，整理筆記並規劃他們下一個野心勃勃的專案。"
+    },
+    {
+      "en": "Outside the window, snow began to fall, gently covering the empty school courtyard below.",
+      "zh": "窗外開始下雪，輕輕覆蓋著下方空無一人的校園中庭。"
+    }
+  ]
+}
