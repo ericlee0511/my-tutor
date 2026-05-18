@@ -465,6 +465,8 @@ const DELE_STORIES = [
   { key: "dele016", title: "Reportaje: el auge de los espacios de coworking en ciudades medianas" },
   { key: "dele017", title: "Carta formal de reclamación de la comunidad de vecinos" },
   { key: "dele018", title: "Ensayo: la geografía del duelo" },
+  { key: "dele019", title: "Una tarde en la biblioteca" },
+  { key: "dele020", title: "Reportaje el auge de los podcasts en español" },
 ];
 
 let DATA = {};
