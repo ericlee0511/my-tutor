@@ -72,7 +72,52 @@ const scenes = {
   gept: countScenes("gept"),
 };
 
-const pad = (n, w) => String(n).padStart(w, " ");
+// Visual width: CJK (incl. Hangul, full-width punctuation) takes 2 cells, ASCII 1.
+// Used so columns line up visually in a monospace editor even when cells mix
+// CJK labels with ASCII numbers / "--" placeholders.
+function visualWidth(s) {
+  let w = 0;
+  for (const ch of String(s)) {
+    const c = ch.codePointAt(0);
+    if (
+      (c >= 0x1100 && c <= 0x115F) ||
+      (c >= 0x2E80 && c <= 0x303E) ||
+      (c >= 0x3041 && c <= 0x33FF) ||
+      (c >= 0x3400 && c <= 0x4DB5) ||
+      (c >= 0x4E00 && c <= 0x9FFF) ||
+      (c >= 0xA000 && c <= 0xA4CF) ||
+      (c >= 0xAC00 && c <= 0xD7A3) ||
+      (c >= 0xF900 && c <= 0xFAFF) ||
+      (c >= 0xFE30 && c <= 0xFE4F) ||
+      (c >= 0xFF00 && c <= 0xFF60) ||
+      (c >= 0xFFE0 && c <= 0xFFE6)
+    ) w += 2; else w += 1;
+  }
+  return w;
+}
+function padCell(text, width, align) {
+  const gap = width - visualWidth(text);
+  if (gap <= 0) return text;
+  return align === "right" ? " ".repeat(gap) + text : text + " ".repeat(gap);
+}
+// Render a markdown table with column widths auto-fit to content (visual width).
+// `aligns`: array of "left" | "right" per column.
+function formatTable(headers, aligns, rows) {
+  const cols = headers.length;
+  const widths = new Array(cols).fill(0);
+  for (let i = 0; i < cols; i++) {
+    widths[i] = visualWidth(headers[i]);
+    for (const r of rows) widths[i] = Math.max(widths[i], visualWidth(String(r[i] ?? "")));
+  }
+  const renderRow = r => "| " + r.map((c, i) => padCell(String(c ?? ""), widths[i], aligns[i])).join(" | ") + " |";
+  const separator = "|" + widths.map((w, i) => {
+    const dashes = "-".repeat(w + 2);
+    if (aligns[i] === "right") return dashes.slice(0, -1) + ":";
+    if (aligns[i] === "left")  return ":" + dashes.slice(1);
+    return dashes;
+  }).join("|") + "|";
+  return [renderRow(headers), separator, ...rows.map(renderRow)].join("\n");
+}
 
 const today = new Date().toISOString().slice(0, 10);
 
@@ -83,22 +128,20 @@ lines.push(`> generated: ${today} (auto by scripts/recount_stats.js)`);
 lines.push("");
 
 function levelTable(title, keys, labels, src) {
-  lines.push(`## ${title}`);
-  lines.push("");
-  lines.push("| 等級    | 單字 | 文法 | 選擇題 |");
-  lines.push("|---------|-----:|-----:|-------:|");
   let sv = 0, sg = 0, sq = 0;
+  const rows = [];
   for (let i = 0; i < keys.length; i++) {
     const k = keys[i];
     const v = src.vocab[k] || 0;
     const g = src.grammar[k] || 0;
     const q = src.quiz[k] || 0;
     sv += v; sg += g; sq += q;
-    lines.push(`| ${labels[i]} | ${pad(v, 4)} | ${pad(g, 4)} | ${pad(q, 6)} |`);
+    rows.push([labels[i], String(v), String(g), String(q)]);
   }
-  if (keys.length > 1) {
-    lines.push(`| **小計** | **${sv}** | **${sg}** | **${sq}** |`);
-  }
+  if (keys.length > 1) rows.push(["**小計**", `**${sv}**`, `**${sg}**`, `**${sq}**`]);
+  lines.push(`## ${title}`);
+  lines.push("");
+  lines.push(formatTable(["等級", "單字", "文法", "選擇題"], ["left", "right", "right", "right"], rows));
   lines.push("");
   return { vocab: sv, grammar: sg, quiz: sq };
 }
@@ -133,14 +176,12 @@ function tableWithSubLevels(title, mainLabel, vocabFile, vocabKey, subs, src) {
   const v = arr.length;
   const g = src.grammar[vocabKey] || 0;
   const q = src.quiz[vocabKey] || 0;
+  const rows = [[mainLabel, String(v), String(g), String(q)]];
+  // Sub-rows: 3-space indent in the label cell signals "sub" to the picker parser.
+  for (const s of subs) rows.push([`   ${s.label}`, String(subCounts[s.key]), "--", "--"]);
   lines.push(`## ${title}`);
   lines.push("");
-  lines.push("| 等級       | 單字 | 文法 | 選擇題 |");
-  lines.push("|------------|-----:|-----:|-------:|");
-  lines.push(`| ${mainLabel} | ${v} | ${g} | ${q} |`);
-  for (const s of subs) {
-    lines.push(`|   ${s.label} | ${subCounts[s.key]} | -- | -- |`);
-  }
+  lines.push(formatTable(["等級", "單字", "文法", "選擇題"], ["left", "right", "right", "right"], rows));
   lines.push("");
   return { vocab: v, grammar: g, quiz: q };
 }
@@ -169,11 +210,7 @@ const geptSum = tableWithSubLevels(
   gept
 );
 
-lines.push("## 情境句");
-lines.push("");
-lines.push("| 系列 | 故事數 | 總句數 |");
-lines.push("|------|-------:|-------:|");
-const sceneRows = [
+const sceneSrc = [
   ["西文 (DELE A1 ~ C2)", scenes.dele],
   ["韓文 (TOPIK 1 ~ 6)", scenes.topik],
   ["日文 (N5 ~ N1)", scenes.jap],
@@ -181,12 +218,16 @@ const sceneRows = [
   ["全民英檢 (GEPT)", scenes.gept],
 ];
 let sStories = 0, sSentences = 0;
-for (const [name, s] of sceneRows) {
+const sceneRows = [];
+for (const [name, s] of sceneSrc) {
   sStories += s.stories;
   sSentences += s.sentences;
-  lines.push(`| ${name} | ${s.stories} | ${s.sentences} |`);
+  sceneRows.push([name, String(s.stories), String(s.sentences)]);
 }
-lines.push(`| **合計** | **${sStories}** | **${sSentences}** |`);
+sceneRows.push(["**合計**", `**${sStories}**`, `**${sSentences}**`]);
+lines.push("## 情境句");
+lines.push("");
+lines.push(formatTable(["系列", "故事數", "總句數"], ["left", "right", "right"], sceneRows));
 lines.push("");
 
 const totalVocab = deleSum.vocab + topikSum.vocab + jpSum.vocab + toeicSum.vocab + geptSum.vocab;
@@ -195,13 +236,17 @@ const totalQuiz = deleSum.quiz + topikSum.quiz + jpSum.quiz + toeicSum.quiz + ge
 
 lines.push("## 總計");
 lines.push("");
-lines.push("| 類型   | 數量 |");
-lines.push("|--------|-----:|");
-lines.push(`| 單字   | ${totalVocab} |`);
-lines.push(`| 文法   | ${totalGrammar} |`);
-lines.push(`| 選擇題 | ${totalQuiz} |`);
-lines.push(`| 故事篇數 | ${sStories} |`);
-lines.push(`| 故事句數 | ${sSentences} |`);
+lines.push(formatTable(
+  ["類型", "數量"],
+  ["left", "right"],
+  [
+    ["單字", String(totalVocab)],
+    ["文法", String(totalGrammar)],
+    ["選擇題", String(totalQuiz)],
+    ["故事篇數", String(sStories)],
+    ["故事句數", String(sSentences)],
+  ]
+));
 lines.push("");
 
 fs.writeFileSync(OUT, lines.join("\n"), "utf8");
