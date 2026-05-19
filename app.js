@@ -1,6 +1,4 @@
-const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic", "g1", "g2", "g3", "g4", "g5", "da1", "da2", "db1", "db2", "dc1", "dc2"];
-const GEPT_LEVELS = ["g1", "g2", "g3", "g4", "g5"];
-const GEPT_LEVEL_LABELS = { g1: "初級", g2: "中級", g3: "中高級", g4: "高級", g5: "優級" };
+const LEVELS = ["n5", "n4", "n3", "n2", "n1", "t1", "t2", "t3", "t4", "t5", "t6", "toeic", "gept", "da1", "da2", "db1", "db2", "dc1", "dc2"];
 const LANGS = ["en", "ja"];
 const STORAGE_KEY = "jp_tutor_state";
 
@@ -108,12 +106,12 @@ const KOREAN_STORIES = [
 ];
 
 function isToeic() { return state.level === "toeic"; }
-function isGept() { return GEPT_LEVELS.includes(state.level); }
+function isGept() { return state.level === "gept"; }
 function isDele() { return !!(state.level && state.level.startsWith("d")); }
 function isTopik() { return state.level && state.level.startsWith("t") && !isToeic(); }
 function levelLabel(lvl) {
   if (lvl === "toeic") return "TOEIC";
-  if (GEPT_LEVEL_LABELS[lvl]) return "GEPT " + GEPT_LEVEL_LABELS[lvl];
+  if (lvl === "gept") return "GEPT";
   if (lvl && lvl.startsWith("d")) return "DELE " + lvl.slice(1).toUpperCase();
   if (lvl && lvl.startsWith("t")) return "TOPIK " + lvl.slice(1);
   return (lvl || "").toUpperCase();
@@ -132,19 +130,13 @@ function activeVocab() {
 }
 function activeGrammar() {
   if (isDele()) return DATA.grammar_dele;
-  if (isGept()) {
-    const shared = (DATA.grammar_gept && DATA.grammar_gept.gept) || [];
-    return { g1: shared, g2: shared, g3: shared, g4: shared, g5: shared };
-  }
+  if (isGept()) return DATA.grammar_gept;
   if (isToeic()) return DATA.grammar_toeic;
   return isTopik() ? DATA.grammar_ko : DATA.grammar;
 }
 function activeQuiz() {
   if (isDele()) return DATA.quiz_dele;
-  if (isGept()) {
-    const shared = (DATA.quiz_gept && DATA.quiz_gept.gept) || [];
-    return { g1: shared, g2: shared, g3: shared, g4: shared, g5: shared };
-  }
+  if (isGept()) return DATA.quiz_gept;
   if (isToeic()) return DATA.quiz_toeic;
   return isTopik() ? DATA.quiz_ko : DATA.quiz;
 }
@@ -526,8 +518,8 @@ function loadState() {
     Object.assign(state, saved);
   } catch {}
   state.history = state.history || {};
-  // Migrate legacy GEPT level: "gept" → "g3" (中高級, the most common sub-level)
-  if (state.level === "gept") state.level = "g3";
+  // Migrate: if a previous build stored g1-g5 (5-level GEPT), fold back to "gept"
+  if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
 }
 function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
@@ -1100,7 +1092,7 @@ function render(action) {
 
 function modeOfLevel(lvl) {
   if (lvl === "toeic") return "toeic";
-  if (GEPT_LEVELS.includes(lvl)) return "gept";
+  if (lvl === "gept") return "gept";
   if (lvl && lvl.startsWith("d")) return "dele";
   if (lvl && lvl.startsWith("t")) return "topik";
   return "jp";
