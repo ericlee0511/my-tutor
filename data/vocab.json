@@ -70198,6 +70198,4506 @@
       "example_ja": "高齢者人口の比率は、今後も上昇の一途を辿る見通しだ。",
       "example_en": "The ratio of the elderly population is expected to keep rising.",
       "example_kana": "こうれいしゃじんこうのひりつは、こんごもじょうしょうのいっとをたどるみとおしだ。"
+    },
+    {
+      "kanji": "施策",
+      "kana": "しさく",
+      "meaning_en": "policy, measure",
+      "meaning_ja": "行政が問題解決のために行う具体的な方策",
+      "example_ja": "政府は新たな施策を打ち出した。",
+      "example_en": "The government rolled out new measures.",
+      "example_kana": "せいふはあらたなしさくをうちだした。"
+    },
+    {
+      "kanji": "公正",
+      "kana": "こうせい",
+      "meaning_en": "fairness, impartiality",
+      "meaning_ja": "偏りがなく正しいこと",
+      "example_ja": "公正な選挙が行われた。",
+      "example_en": "A fair election was held.",
+      "example_kana": "こうせいなせんきょがおこなわれた。"
+    },
+    {
+      "kanji": "公益",
+      "kana": "こうえき",
+      "meaning_en": "public interest, public benefit",
+      "meaning_ja": "社会全体の利益",
+      "example_ja": "公益のために尽くす。",
+      "example_en": "Work for the public good.",
+      "example_kana": "こうえきのためにつくす。"
+    },
+    {
+      "kanji": "公務",
+      "kana": "こうむ",
+      "meaning_en": "official duty, public service",
+      "meaning_ja": "国や地方公共団体の仕事",
+      "example_ja": "公務に従事している。",
+      "example_en": "He is engaged in public service.",
+      "example_kana": "こうむにじゅうじしている。"
+    },
+    {
+      "kanji": "公平",
+      "kana": "こうへい",
+      "meaning_en": "impartiality, equity",
+      "meaning_ja": "どちらにも偏らないこと",
+      "example_ja": "公平に判断する必要がある。",
+      "example_en": "We need to judge impartially.",
+      "example_kana": "こうへいにはんだんするひつようがある。"
+    },
+    {
+      "kanji": "公示",
+      "kana": "こうじ",
+      "meaning_en": "public notice, announcement",
+      "meaning_ja": "国などが広く一般に告知すること",
+      "example_ja": "選挙の日程が公示された。",
+      "example_en": "The election schedule was publicly announced.",
+      "example_kana": "せんきょのにっていがこうじされた。"
+    },
+    {
+      "kanji": "国是",
+      "kana": "こくぜ",
+      "meaning_en": "national policy",
+      "meaning_ja": "国家の基本方針",
+      "example_ja": "平和は我が国の国是である。",
+      "example_en": "Peace is our nation's basic policy.",
+      "example_kana": "へいわはわがくにのこくぜである。"
+    },
+    {
+      "kanji": "国益",
+      "kana": "こくえき",
+      "meaning_en": "national interest",
+      "meaning_ja": "国家全体の利益",
+      "example_ja": "国益を最優先に考える。",
+      "example_en": "Put national interests first.",
+      "example_kana": "こくえきをさいゆうせんにかんがえる。"
+    },
+    {
+      "kanji": "国威",
+      "kana": "こくい",
+      "meaning_en": "national prestige",
+      "meaning_ja": "国家の威光",
+      "example_ja": "国威を世界に示す。",
+      "example_en": "Show national prestige to the world.",
+      "example_kana": "こくいをせかいにしめす。"
+    },
+    {
+      "kanji": "国情",
+      "kana": "こくじょう",
+      "meaning_en": "state of the nation",
+      "meaning_ja": "国家の事情・状態",
+      "example_ja": "国情に応じた政策が必要だ。",
+      "example_en": "Policies suited to national conditions are needed.",
+      "example_kana": "こくじょうにおうじたせいさくがひつようだ。"
+    },
+    {
+      "kanji": "立憲",
+      "kana": "りっけん",
+      "meaning_en": "constitutionalism",
+      "meaning_ja": "憲法に基づき政治を行うこと",
+      "example_ja": "立憲主義を守る。",
+      "example_en": "Uphold constitutionalism.",
+      "example_kana": "りっけんしゅぎをまもる。"
+    },
+    {
+      "kanji": "憲政",
+      "kana": "けんせい",
+      "meaning_en": "constitutional government",
+      "meaning_ja": "憲法に基づいた政治",
+      "example_ja": "憲政の常道を歩む。",
+      "example_en": "Follow the orthodox path of constitutional government.",
+      "example_kana": "けんせいのじょうどうをあゆむ。"
+    },
+    {
+      "kanji": "首相",
+      "kana": "しゅしょう",
+      "meaning_en": "prime minister",
+      "meaning_ja": "内閣総理大臣の通称",
+      "example_ja": "首相が記者会見を開いた。",
+      "example_en": "The prime minister held a press conference.",
+      "example_kana": "しゅしょうがきしゃかいけんをひらいた。"
+    },
+    {
+      "kanji": "閣議",
+      "kana": "かくぎ",
+      "meaning_en": "cabinet meeting",
+      "meaning_ja": "内閣の会議",
+      "example_ja": "閣議で決定された。",
+      "example_en": "It was decided in the cabinet meeting.",
+      "example_kana": "かくぎでけっていされた。"
+    },
+    {
+      "kanji": "答弁",
+      "kana": "とうべん",
+      "meaning_en": "official reply, response",
+      "meaning_ja": "国会などで質問に答えること",
+      "example_ja": "大臣が答弁に立った。",
+      "example_en": "The minister rose to respond.",
+      "example_kana": "だいじんがとうべんにたった。"
+    },
+    {
+      "kanji": "質疑応答",
+      "kana": "しつぎおうとう",
+      "meaning_en": "Q&A session",
+      "meaning_ja": "質問とそれに対する回答",
+      "example_ja": "質疑応答が活発に行われた。",
+      "example_en": "The Q&A session was lively.",
+      "example_kana": "しつぎおうとうがかっぱつにおこなわれた。"
+    },
+    {
+      "kanji": "陳情",
+      "kana": "ちんじょう",
+      "meaning_en": "petition, appeal",
+      "meaning_ja": "事情を述べて要望すること",
+      "example_ja": "住民が市長に陳情した。",
+      "example_en": "Residents petitioned the mayor.",
+      "example_kana": "じゅうみんがしちょうにちんじょうした。"
+    },
+    {
+      "kanji": "請願",
+      "kana": "せいがん",
+      "meaning_en": "petition",
+      "meaning_ja": "公的機関に願い出ること",
+      "example_ja": "請願書を国会に提出した。",
+      "example_en": "Submitted a petition to the Diet.",
+      "example_kana": "せいがんしょをこっかいにていしゅつした。"
+    },
+    {
+      "kanji": "可決",
+      "kana": "かけつ",
+      "meaning_en": "passage, approval",
+      "meaning_ja": "議案を承認して決めること",
+      "example_ja": "予算案が可決された。",
+      "example_en": "The budget bill was passed.",
+      "example_kana": "よさんあんがかけつされた。"
+    },
+    {
+      "kanji": "発議",
+      "kana": "はつぎ",
+      "meaning_en": "proposal, motion",
+      "meaning_ja": "会議で議案を提出すること",
+      "example_ja": "委員会で発議された。",
+      "example_en": "It was proposed at the committee.",
+      "example_kana": "いいんかいではつぎされた。"
+    },
+    {
+      "kanji": "提案",
+      "kana": "ていあん",
+      "meaning_en": "proposal, suggestion",
+      "meaning_ja": "案を出すこと",
+      "example_ja": "新しい制度を提案する。",
+      "example_en": "Propose a new system.",
+      "example_kana": "あたらしいせいどをていあんする。"
+    },
+    {
+      "kanji": "起草",
+      "kana": "きそう",
+      "meaning_en": "drafting",
+      "meaning_ja": "文書の原案を作ること",
+      "example_ja": "新憲法を起草する。",
+      "example_en": "Draft a new constitution.",
+      "example_kana": "しんけんぽうをきそうする。"
+    },
+    {
+      "kanji": "改正",
+      "kana": "かいせい",
+      "meaning_en": "revision, amendment",
+      "meaning_ja": "法律などを改めること",
+      "example_ja": "税法が改正される。",
+      "example_en": "The tax law will be amended.",
+      "example_kana": "ぜいほうがかいせいされる。"
+    },
+    {
+      "kanji": "撤廃",
+      "kana": "てっぱい",
+      "meaning_en": "abolition, removal",
+      "meaning_ja": "制度や規則をなくすこと",
+      "example_ja": "関税を撤廃する。",
+      "example_en": "Abolish tariffs.",
+      "example_kana": "かんぜいをてっぱいする。"
+    },
+    {
+      "kanji": "廃案",
+      "kana": "はいあん",
+      "meaning_en": "scrapping of a bill",
+      "meaning_ja": "議案を廃止すること",
+      "example_ja": "法案は廃案となった。",
+      "example_en": "The bill was scrapped.",
+      "example_kana": "ほうあんははいあんとなった。"
+    },
+    {
+      "kanji": "成立",
+      "kana": "せいりつ",
+      "meaning_en": "establishment, enactment",
+      "meaning_ja": "物事が決まって成り立つこと",
+      "example_ja": "改正案が成立した。",
+      "example_en": "The amendment was enacted.",
+      "example_kana": "かいせいあんがせいりつした。"
+    },
+    {
+      "kanji": "発効",
+      "kana": "はっこう",
+      "meaning_en": "coming into effect",
+      "meaning_ja": "効力が生じること",
+      "example_ja": "条約が発効した。",
+      "example_en": "The treaty came into effect.",
+      "example_kana": "じょうやくがはっこうした。"
+    },
+    {
+      "kanji": "批准",
+      "kana": "ひじゅん",
+      "meaning_en": "ratification",
+      "meaning_ja": "条約に最終承認を与えること",
+      "example_ja": "国会が条約を批准した。",
+      "example_en": "The Diet ratified the treaty.",
+      "example_kana": "こっかいがじょうやくをひじゅんした。"
+    },
+    {
+      "kanji": "署名",
+      "kana": "しょめい",
+      "meaning_en": "signature, signing",
+      "meaning_ja": "文書に名前を書くこと",
+      "example_ja": "両首脳が協定に署名した。",
+      "example_en": "Both leaders signed the agreement.",
+      "example_kana": "りょうしゅのうがきょうていにしょめいした。"
+    },
+    {
+      "kanji": "首脳会談",
+      "kana": "しゅのうかいだん",
+      "meaning_en": "summit meeting",
+      "meaning_ja": "国家指導者同士の会談",
+      "example_ja": "首脳会談が開催された。",
+      "example_en": "A summit meeting was held.",
+      "example_kana": "しゅのうかいだんがかいさいされた。"
+    },
+    {
+      "kanji": "外交",
+      "kana": "がいこう",
+      "meaning_en": "diplomacy",
+      "meaning_ja": "外国との交渉",
+      "example_ja": "外交を強化する。",
+      "example_en": "Strengthen diplomacy.",
+      "example_kana": "がいこうをきょうかする。"
+    },
+    {
+      "kanji": "外務省",
+      "kana": "がいむしょう",
+      "meaning_en": "Ministry of Foreign Affairs",
+      "meaning_ja": "外交を担当する官庁",
+      "example_ja": "外務省が声明を出した。",
+      "example_en": "The Foreign Ministry issued a statement.",
+      "example_kana": "がいむしょうがせいめいをだした。"
+    },
+    {
+      "kanji": "大使",
+      "kana": "たいし",
+      "meaning_en": "ambassador",
+      "meaning_ja": "国家を代表して他国に駐在する外交官",
+      "example_ja": "新大使が着任した。",
+      "example_en": "The new ambassador arrived.",
+      "example_kana": "しんたいしがちゃくにんした。"
+    },
+    {
+      "kanji": "領事",
+      "kana": "りょうじ",
+      "meaning_en": "consul",
+      "meaning_ja": "外国で自国民保護や通商を担当する官",
+      "example_ja": "総領事が会見した。",
+      "example_en": "The consul general gave an interview.",
+      "example_kana": "そうりょうじがかいけんした。"
+    },
+    {
+      "kanji": "公使",
+      "kana": "こうし",
+      "meaning_en": "minister (diplomatic)",
+      "meaning_ja": "大使に次ぐ外交官",
+      "example_ja": "在外公使が招集された。",
+      "example_en": "Ministers abroad were summoned.",
+      "example_kana": "ざいがいこうしがしょうしゅうされた。"
+    },
+    {
+      "kanji": "覇権",
+      "kana": "はけん2",
+      "meaning_en": "hegemony, supremacy",
+      "meaning_ja": "他を支配する強い力",
+      "example_ja": "覇権争いが続く。",
+      "example_en": "The struggle for hegemony continues.",
+      "example_kana": "はけんあらそいがつづく。"
+    },
+    {
+      "kanji": "宗主国",
+      "kana": "そうしゅこく",
+      "meaning_en": "suzerain state",
+      "meaning_ja": "他国を従属させる国",
+      "example_ja": "かつての宗主国を訪問した。",
+      "example_en": "Visited the former suzerain state.",
+      "example_kana": "かつてのそうしゅこくをほうもんした。"
+    },
+    {
+      "kanji": "属国",
+      "kana": "ぞっこく",
+      "meaning_en": "vassal state, dependency",
+      "meaning_ja": "他国の支配下にある国",
+      "example_ja": "属国扱いは認めない。",
+      "example_en": "We won't accept being treated as a vassal.",
+      "example_kana": "ぞっこくあつかいはみとめない。"
+    },
+    {
+      "kanji": "独立",
+      "kana": "どくりつ",
+      "meaning_en": "independence",
+      "meaning_ja": "他からの支配を受けず存立すること",
+      "example_ja": "経済的独立を目指す。",
+      "example_en": "Aim for economic independence.",
+      "example_kana": "けいざいてきどくりつをめざす。"
+    },
+    {
+      "kanji": "自治",
+      "kana": "じち",
+      "meaning_en": "self-government, autonomy",
+      "meaning_ja": "自らの統治",
+      "example_ja": "地方自治を推進する。",
+      "example_en": "Promote local autonomy.",
+      "example_kana": "ちほうじちをすいしんする。"
+    },
+    {
+      "kanji": "自治体",
+      "kana": "じちたい",
+      "meaning_en": "local government body",
+      "meaning_ja": "地方公共団体",
+      "example_ja": "自治体が支援を始めた。",
+      "example_en": "The local government began assistance.",
+      "example_kana": "じちたいがしえんをはじめた。"
+    },
+    {
+      "kanji": "中央集権",
+      "kana": "ちゅうおうしゅうけん",
+      "meaning_en": "centralization of power",
+      "meaning_ja": "権力を中央政府に集中させる体制",
+      "example_ja": "中央集権を改めるべきだ。",
+      "example_en": "Centralization should be reformed.",
+      "example_kana": "ちゅうおうしゅうけんをあらためるべきだ。"
+    },
+    {
+      "kanji": "分権",
+      "kana": "ぶんけん",
+      "meaning_en": "decentralization of power",
+      "meaning_ja": "権限を分散させること",
+      "example_ja": "地方分権を進める。",
+      "example_en": "Advance decentralization to localities.",
+      "example_kana": "ちほうぶんけんをすすめる。"
+    },
+    {
+      "kanji": "官僚",
+      "kana": "かんりょう",
+      "meaning_en": "bureaucrat",
+      "meaning_ja": "国の事務を行う上級公務員",
+      "example_ja": "官僚制度を改革する。",
+      "example_en": "Reform the bureaucracy.",
+      "example_kana": "かんりょうせいどをかいかくする。"
+    },
+    {
+      "kanji": "省庁",
+      "kana": "しょうちょう2",
+      "meaning_en": "ministries and agencies",
+      "meaning_ja": "中央官庁の総称",
+      "example_ja": "省庁横断の対策を講じる。",
+      "example_en": "Take cross-ministry measures.",
+      "example_kana": "しょうちょうおうだんのたいさくをこうじる。"
+    },
+    {
+      "kanji": "次官",
+      "kana": "じかん",
+      "meaning_en": "vice-minister",
+      "meaning_ja": "大臣を補佐する高級官僚",
+      "example_ja": "事務次官が説明した。",
+      "example_en": "The administrative vice-minister explained.",
+      "example_kana": "じむじかんがせつめいした。"
+    },
+    {
+      "kanji": "公務員",
+      "kana": "こうむいん",
+      "meaning_en": "civil servant",
+      "meaning_ja": "国や地方公共団体の職員",
+      "example_ja": "公務員試験を受けた。",
+      "example_en": "Took the civil service exam.",
+      "example_kana": "こうむいんしけんをうけた。"
+    },
+    {
+      "kanji": "公約",
+      "kana": "こうやく",
+      "meaning_en": "campaign pledge, public promise",
+      "meaning_ja": "公衆に対する約束",
+      "example_ja": "公約を果たす。",
+      "example_en": "Fulfill the pledge.",
+      "example_kana": "こうやくをはたす。"
+    },
+    {
+      "kanji": "綱領",
+      "kana": "こうりょう",
+      "meaning_en": "platform, program",
+      "meaning_ja": "団体の基本方針",
+      "example_ja": "党の綱領を改定した。",
+      "example_en": "The party platform was revised.",
+      "example_kana": "とうのこうりょうをかいていした。"
+    },
+    {
+      "kanji": "党首",
+      "kana": "とうしゅ",
+      "meaning_en": "party leader",
+      "meaning_ja": "政党の最高指導者",
+      "example_ja": "党首討論が行われた。",
+      "example_en": "A party leaders' debate was held.",
+      "example_kana": "とうしゅとうろんがおこなわれた。"
+    },
+    {
+      "kanji": "政党",
+      "kana": "せいとう2",
+      "meaning_en": "political party",
+      "meaning_ja": "政治理念を共有する団体",
+      "example_ja": "新しい政党が誕生した。",
+      "example_en": "A new political party was born.",
+      "example_kana": "あたらしいせいとうがたんじょうした。"
+    },
+    {
+      "kanji": "野党",
+      "kana": "やとう",
+      "meaning_en": "opposition party",
+      "meaning_ja": "政権に参加していない政党",
+      "example_ja": "野党が結集する。",
+      "example_en": "The opposition parties unite.",
+      "example_kana": "やとうがけっしゅうする。"
+    },
+    {
+      "kanji": "連立",
+      "kana": "れんりつ",
+      "meaning_en": "coalition",
+      "meaning_ja": "複数の政党が組むこと",
+      "example_ja": "連立政権が発足した。",
+      "example_en": "A coalition government was formed.",
+      "example_kana": "れんりつせいけんがほっそくした。"
+    },
+    {
+      "kanji": "派閥",
+      "kana": "はばつ",
+      "meaning_en": "faction, clique",
+      "meaning_ja": "政党などの内部の集団",
+      "example_ja": "派閥争いが激化した。",
+      "example_en": "Factional strife intensified.",
+      "example_kana": "はばつあらそいがげきかした。"
+    },
+    {
+      "kanji": "造反",
+      "kana": "ぞうはん",
+      "meaning_en": "rebellion, revolt",
+      "meaning_ja": "組織内で反対行動を取ること",
+      "example_ja": "造反議員が現れた。",
+      "example_en": "Rebel lawmakers appeared.",
+      "example_kana": "ぞうはんぎいんがあらわれた。"
+    },
+    {
+      "kanji": "離党",
+      "kana": "りとう",
+      "meaning_en": "leaving a party",
+      "meaning_ja": "所属政党を離れること",
+      "example_ja": "議員が離党を表明した。",
+      "example_en": "The lawmaker announced his departure from the party.",
+      "example_kana": "ぎいんがりとうをひょうめいした。"
+    },
+    {
+      "kanji": "入党",
+      "kana": "にゅうとう",
+      "meaning_en": "joining a party",
+      "meaning_ja": "政党に加入すること",
+      "example_ja": "若手が入党した。",
+      "example_en": "A young person joined the party.",
+      "example_kana": "わかてがにゅうとうした。"
+    },
+    {
+      "kanji": "立候補",
+      "kana": "りっこうほ",
+      "meaning_en": "running for office",
+      "meaning_ja": "選挙に候補者として立つこと",
+      "example_ja": "市長選に立候補する。",
+      "example_en": "Run for mayor.",
+      "example_kana": "しちょうせんにりっこうほする。"
+    },
+    {
+      "kanji": "投票",
+      "kana": "とうひょう",
+      "meaning_en": "vote, voting",
+      "meaning_ja": "選挙で意思を示すこと",
+      "example_ja": "投票率が低下した。",
+      "example_en": "Voter turnout declined.",
+      "example_kana": "とうひょうりつがていかした。"
+    },
+    {
+      "kanji": "開票",
+      "kana": "かいひょう",
+      "meaning_en": "ballot counting",
+      "meaning_ja": "投票結果を集計すること",
+      "example_ja": "開票作業が始まった。",
+      "example_en": "Ballot counting has begun.",
+      "example_kana": "かいひょうさぎょうがはじまった。"
+    },
+    {
+      "kanji": "選挙区",
+      "kana": "せんきょく",
+      "meaning_en": "electoral district",
+      "meaning_ja": "選挙の地理的区分",
+      "example_ja": "選挙区の区割りを見直す。",
+      "example_en": "Review the electoral district boundaries.",
+      "example_kana": "せんきょくのくわりをみなおす。"
+    },
+    {
+      "kanji": "得票",
+      "kana": "とくひょう",
+      "meaning_en": "votes obtained",
+      "meaning_ja": "選挙で得た票",
+      "example_ja": "得票数を発表する。",
+      "example_en": "Announce the vote count.",
+      "example_kana": "とくひょうすうをはっぴょうする。"
+    },
+    {
+      "kanji": "支持率",
+      "kana": "しじりつ",
+      "meaning_en": "approval rating",
+      "meaning_ja": "支持する人の割合",
+      "example_ja": "支持率が急落した。",
+      "example_en": "The approval rating plummeted.",
+      "example_kana": "しじりつがきゅうらくした。"
+    },
+    {
+      "kanji": "世論調査",
+      "kana": "よろんちょうさ",
+      "meaning_en": "opinion poll",
+      "meaning_ja": "世論を調べる調査",
+      "example_ja": "世論調査を実施した。",
+      "example_en": "An opinion poll was conducted.",
+      "example_kana": "よろんちょうさをじっしした。"
+    },
+    {
+      "kanji": "民意",
+      "kana": "みんい",
+      "meaning_en": "public will",
+      "meaning_ja": "国民の意思",
+      "example_ja": "民意を反映する政治。",
+      "example_en": "Politics that reflects the public will.",
+      "example_kana": "みんいをはんえいするせいじ。"
+    },
+    {
+      "kanji": "民主化",
+      "kana": "みんしゅか",
+      "meaning_en": "democratization",
+      "meaning_ja": "民主主義へ移行すること",
+      "example_ja": "民主化が進展する。",
+      "example_en": "Democratization progresses.",
+      "example_kana": "みんしゅかがしんてんする。"
+    },
+    {
+      "kanji": "政情",
+      "kana": "せいじょう2",
+      "meaning_en": "political situation",
+      "meaning_ja": "政治の状況",
+      "example_ja": "政情が不安定だ。",
+      "example_en": "The political situation is unstable.",
+      "example_kana": "せいじょうがふあんていだ。"
+    },
+    {
+      "kanji": "政局",
+      "kana": "せいきょく",
+      "meaning_en": "political situation",
+      "meaning_ja": "政治の流動的な状況",
+      "example_ja": "政局が緊迫している。",
+      "example_en": "The political situation is tense.",
+      "example_kana": "せいきょくがきんぱくしている。"
+    },
+    {
+      "kanji": "政略",
+      "kana": "せいりゃく",
+      "meaning_en": "political strategy",
+      "meaning_ja": "政治上の策略",
+      "example_ja": "政略結婚は批判された。",
+      "example_en": "The political marriage was criticized.",
+      "example_kana": "せいりゃくけっこんはひはんされた。"
+    },
+    {
+      "kanji": "財界",
+      "kana": "ざいかい",
+      "meaning_en": "business community",
+      "meaning_ja": "経済界",
+      "example_ja": "財界の重鎮が集まった。",
+      "example_en": "Business leaders gathered.",
+      "example_kana": "ざいかいのじゅうちんがあつまった。"
+    },
+    {
+      "kanji": "官民",
+      "kana": "かんみん",
+      "meaning_en": "public and private sectors",
+      "meaning_ja": "官庁と民間",
+      "example_ja": "官民が連携する。",
+      "example_en": "Public and private sectors cooperate.",
+      "example_kana": "かんみんがれんけいする。"
+    },
+    {
+      "kanji": "癒着",
+      "kana": "ゆちゃく",
+      "meaning_en": "collusion",
+      "meaning_ja": "好ましくない結びつき",
+      "example_ja": "政官の癒着が問題だ。",
+      "example_en": "Collusion between politicians and bureaucrats is a problem.",
+      "example_kana": "せいかんのゆちゃくがもんだいだ。"
+    },
+    {
+      "kanji": "汚職",
+      "kana": "おしょく",
+      "meaning_en": "corruption, graft",
+      "meaning_ja": "職権を利用した不正",
+      "example_ja": "汚職事件が発覚した。",
+      "example_en": "A corruption scandal came to light.",
+      "example_kana": "おしょくじけんがはっかくした。"
+    },
+    {
+      "kanji": "贈収賄",
+      "kana": "ぞうしゅうわい",
+      "meaning_en": "bribery (giving and taking)",
+      "meaning_ja": "賄賂のやり取り",
+      "example_ja": "贈収賄の疑いで逮捕された。",
+      "example_en": "Arrested on suspicion of bribery.",
+      "example_kana": "ぞうしゅうわいのうたがいでたいほされた。"
+    },
+    {
+      "kanji": "賄賂",
+      "kana": "わいろ",
+      "meaning_en": "bribe",
+      "meaning_ja": "不正な金品の授受",
+      "example_ja": "賄賂を受け取った。",
+      "example_en": "Received a bribe.",
+      "example_kana": "わいろをうけとった。"
+    },
+    {
+      "kanji": "不正",
+      "kana": "ふせい",
+      "meaning_en": "injustice, fraud",
+      "meaning_ja": "正しくないこと",
+      "example_ja": "不正を許さない。",
+      "example_en": "Will not tolerate injustice.",
+      "example_kana": "ふせいをゆるさない。"
+    },
+    {
+      "kanji": "告発",
+      "kana": "こくはつ",
+      "meaning_en": "accusation, indictment",
+      "meaning_ja": "犯罪を公的に申し立てること",
+      "example_ja": "市民が告発した。",
+      "example_en": "Citizens filed an accusation.",
+      "example_kana": "しみんがこくはつした。"
+    },
+    {
+      "kanji": "起訴",
+      "kana": "きそ",
+      "meaning_en": "indictment, prosecution",
+      "meaning_ja": "刑事裁判を求めること",
+      "example_ja": "検察が起訴した。",
+      "example_en": "The prosecution indicted him.",
+      "example_kana": "けんさつがきそした。"
+    },
+    {
+      "kanji": "立件",
+      "kana": "りっけん2",
+      "meaning_en": "building a case",
+      "meaning_ja": "犯罪として捜査を進めること",
+      "example_ja": "立件は困難とされる。",
+      "example_en": "Building a case is said to be difficult.",
+      "example_kana": "りっけんはこんなんとされる。"
+    },
+    {
+      "kanji": "裁定",
+      "kana": "さいてい",
+      "meaning_en": "ruling, arbitration",
+      "meaning_ja": "判定を下すこと",
+      "example_ja": "委員会が裁定を下した。",
+      "example_en": "The committee handed down a ruling.",
+      "example_kana": "いいんかいがさいていをくだした。"
+    },
+    {
+      "kanji": "違憲",
+      "kana": "いけん2",
+      "meaning_en": "unconstitutional",
+      "meaning_ja": "憲法に違反していること",
+      "example_ja": "違憲判決が出た。",
+      "example_en": "An unconstitutional ruling was issued.",
+      "example_kana": "いけんはんけつがでた。"
+    },
+    {
+      "kanji": "合憲",
+      "kana": "ごうけん",
+      "meaning_en": "constitutional",
+      "meaning_ja": "憲法に合致すること",
+      "example_ja": "最高裁は合憲とした。",
+      "example_en": "The supreme court ruled it constitutional.",
+      "example_kana": "さいこうさいはごうけんとした。"
+    },
+    {
+      "kanji": "違法",
+      "kana": "いほう",
+      "meaning_en": "illegal",
+      "meaning_ja": "法に違反すること",
+      "example_ja": "違法行為を取り締まる。",
+      "example_en": "Crack down on illegal acts.",
+      "example_kana": "いほうこういをとりしまる。"
+    },
+    {
+      "kanji": "合法",
+      "kana": "ごうほう",
+      "meaning_en": "legal, lawful",
+      "meaning_ja": "法律にかなっていること",
+      "example_ja": "合法的に営業する。",
+      "example_en": "Operate lawfully.",
+      "example_kana": "ごうほうてきにえいぎょうする。"
+    },
+    {
+      "kanji": "適法",
+      "kana": "てきほう",
+      "meaning_en": "lawful, legitimate",
+      "meaning_ja": "法令に適合すること",
+      "example_ja": "適法な手続きを踏む。",
+      "example_en": "Follow lawful procedures.",
+      "example_kana": "てきほうなてつづきをふむ。"
+    },
+    {
+      "kanji": "条例",
+      "kana": "じょうれい",
+      "meaning_en": "ordinance, regulation",
+      "meaning_ja": "地方公共団体の法規",
+      "example_ja": "新しい条例を制定した。",
+      "example_en": "Enacted a new ordinance.",
+      "example_kana": "あたらしいじょうれいをせいていした。"
+    },
+    {
+      "kanji": "規則",
+      "kana": "きそく",
+      "meaning_en": "rule, regulation",
+      "meaning_ja": "決まり",
+      "example_ja": "規則に従う。",
+      "example_en": "Follow the rules.",
+      "example_kana": "きそくにしたがう。"
+    },
+    {
+      "kanji": "規制緩和",
+      "kana": "きせいかんわ",
+      "meaning_en": "deregulation",
+      "meaning_ja": "規制を緩めること",
+      "example_ja": "規制緩和を進める。",
+      "example_en": "Advance deregulation.",
+      "example_kana": "きせいかんわをすすめる。"
+    },
+    {
+      "kanji": "規制",
+      "kana": "きせい",
+      "meaning_en": "regulation, restriction",
+      "meaning_ja": "決まりで制限すること",
+      "example_ja": "新たな規制が導入された。",
+      "example_en": "New regulations were introduced.",
+      "example_kana": "あらたなきせいがどうにゅうされた。"
+    },
+    {
+      "kanji": "罰則",
+      "kana": "ばっそく",
+      "meaning_en": "penalty provision",
+      "meaning_ja": "違反に対する罰の定め",
+      "example_ja": "罰則を強化する。",
+      "example_en": "Strengthen penalties.",
+      "example_kana": "ばっそくをきょうかする。"
+    },
+    {
+      "kanji": "懲戒",
+      "kana": "ちょうかい",
+      "meaning_en": "disciplinary action",
+      "meaning_ja": "戒めの処分",
+      "example_ja": "懲戒委員会が開かれた。",
+      "example_en": "A disciplinary committee was convened.",
+      "example_kana": "ちょうかいいいんかいがひらかれた。"
+    },
+    {
+      "kanji": "戒告",
+      "kana": "かいこく",
+      "meaning_en": "reprimand, warning",
+      "meaning_ja": "戒めの言葉や処分",
+      "example_ja": "戒告処分が下された。",
+      "example_en": "A reprimand was issued.",
+      "example_kana": "かいこくしょぶんがくだされた。"
+    },
+    {
+      "kanji": "免職",
+      "kana": "めんしょく",
+      "meaning_en": "dismissal from office",
+      "meaning_ja": "職を解くこと",
+      "example_ja": "懲戒免職となった。",
+      "example_en": "He was dismissed as discipline.",
+      "example_kana": "ちょうかいめんしょくとなった。"
+    },
+    {
+      "kanji": "辞任",
+      "kana": "じにん",
+      "meaning_en": "resignation",
+      "meaning_ja": "職を辞めること",
+      "example_ja": "閣僚が辞任した。",
+      "example_en": "The cabinet minister resigned.",
+      "example_kana": "かくりょうがじにんした。"
+    },
+    {
+      "kanji": "更迭",
+      "kana": "こうてつ",
+      "meaning_en": "reshuffling, replacement",
+      "meaning_ja": "役職者を入れ替えること",
+      "example_ja": "大臣を更迭する。",
+      "example_en": "Replace the minister.",
+      "example_kana": "だいじんをこうてつする。"
+    },
+    {
+      "kanji": "罷免",
+      "kana": "ひめん",
+      "meaning_en": "dismissal",
+      "meaning_ja": "職を辞めさせること",
+      "example_ja": "知事を罷免する。",
+      "example_en": "Dismiss the governor.",
+      "example_kana": "ちじをひめんする。"
+    },
+    {
+      "kanji": "弾劾",
+      "kana": "だんがい",
+      "meaning_en": "impeachment",
+      "meaning_ja": "公職者の責任を追及すること",
+      "example_ja": "弾劾裁判が行われた。",
+      "example_en": "An impeachment trial was held.",
+      "example_kana": "だんがいさいばんがおこなわれた。"
+    },
+    {
+      "kanji": "解散",
+      "kana": "かいさん",
+      "meaning_en": "dissolution",
+      "meaning_ja": "組織を解くこと",
+      "example_ja": "衆議院を解散した。",
+      "example_en": "Dissolved the lower house.",
+      "example_kana": "しゅうぎいんをかいさんした。"
+    },
+    {
+      "kanji": "総選挙",
+      "kana": "そうせんきょ",
+      "meaning_en": "general election",
+      "meaning_ja": "全議席を一斉に改選する選挙",
+      "example_ja": "総選挙が公示された。",
+      "example_en": "The general election was officially announced.",
+      "example_kana": "そうせんきょがこうじされた。"
+    },
+    {
+      "kanji": "再選",
+      "kana": "さいせん",
+      "meaning_en": "re-election",
+      "meaning_ja": "再び選ばれること",
+      "example_ja": "市長が再選された。",
+      "example_en": "The mayor was re-elected.",
+      "example_kana": "しちょうがさいせんされた。"
+    },
+    {
+      "kanji": "落選",
+      "kana": "らくせん",
+      "meaning_en": "election defeat",
+      "meaning_ja": "選挙で落ちること",
+      "example_ja": "現職が落選した。",
+      "example_en": "The incumbent was defeated.",
+      "example_kana": "げんしょくがらくせんした。"
+    },
+    {
+      "kanji": "現職",
+      "kana": "げんしょく",
+      "meaning_en": "incumbent",
+      "meaning_ja": "現在その職にある人",
+      "example_ja": "現職に挑戦する。",
+      "example_en": "Challenge the incumbent.",
+      "example_kana": "げんしょくにちょうせんする。"
+    },
+    {
+      "kanji": "任期",
+      "kana": "にんき",
+      "meaning_en": "term of office",
+      "meaning_ja": "役職に就いている期間",
+      "example_ja": "任期満了で退任する。",
+      "example_en": "Retire at the end of the term.",
+      "example_kana": "にんきまんりょうでたいにんする。"
+    },
+    {
+      "kanji": "在任",
+      "kana": "ざいにん",
+      "meaning_en": "in office",
+      "meaning_ja": "職に就いていること",
+      "example_ja": "在任中の功績を称える。",
+      "example_en": "Praise his achievements while in office.",
+      "example_kana": "ざいにんちゅうのこうせきをたたえる。"
+    },
+    {
+      "kanji": "退任",
+      "kana": "たいにん",
+      "meaning_en": "retiring from office",
+      "meaning_ja": "職を退くこと",
+      "example_ja": "会長が退任した。",
+      "example_en": "The chairman retired.",
+      "example_kana": "かいちょうがたいにんした。"
+    },
+    {
+      "kanji": "歳出",
+      "kana": "さいしゅつ",
+      "meaning_en": "annual expenditure",
+      "meaning_ja": "国の一年の支出",
+      "example_ja": "歳出を抑制する。",
+      "example_en": "Restrain annual expenditure.",
+      "example_kana": "さいしゅつをよくせいする。"
+    },
+    {
+      "kanji": "歳入",
+      "kana": "さいにゅう",
+      "meaning_en": "annual revenue",
+      "meaning_ja": "国の一年の収入",
+      "example_ja": "歳入が見込みを下回る。",
+      "example_en": "Revenue falls below estimates.",
+      "example_kana": "さいにゅうがみこみをしたまわる。"
+    },
+    {
+      "kanji": "予算",
+      "kana": "よさん",
+      "meaning_en": "budget",
+      "meaning_ja": "あらかじめ立てる経費の計画",
+      "example_ja": "予算を計上する。",
+      "example_en": "Appropriate the budget.",
+      "example_kana": "よさんをけいじょうする。"
+    },
+    {
+      "kanji": "計上",
+      "kana": "けいじょう",
+      "meaning_en": "appropriation, recording",
+      "meaning_ja": "全体の計算に組み入れること",
+      "example_ja": "費用を計上する。",
+      "example_en": "Record the expense.",
+      "example_kana": "ひようをけいじょうする。"
+    },
+    {
+      "kanji": "増税",
+      "kana": "ぞうぜい",
+      "meaning_en": "tax increase",
+      "meaning_ja": "税を増やすこと",
+      "example_ja": "増税が議論されている。",
+      "example_en": "A tax increase is being debated.",
+      "example_kana": "ぞうぜいがぎろんされている。"
+    },
+    {
+      "kanji": "減税",
+      "kana": "げんぜい",
+      "meaning_en": "tax cut",
+      "meaning_ja": "税を減らすこと",
+      "example_ja": "減税を打ち出した。",
+      "example_en": "Rolled out a tax cut.",
+      "example_kana": "げんぜいをうちだした。"
+    },
+    {
+      "kanji": "課税",
+      "kana": "かぜい",
+      "meaning_en": "taxation",
+      "meaning_ja": "税金をかけること",
+      "example_ja": "新たに課税する。",
+      "example_en": "Apply a new tax.",
+      "example_kana": "あらたにかぜいする。"
+    },
+    {
+      "kanji": "納税",
+      "kana": "のうぜい",
+      "meaning_en": "tax payment",
+      "meaning_ja": "税金を納めること",
+      "example_ja": "納税の義務を果たす。",
+      "example_en": "Fulfill the duty to pay taxes.",
+      "example_kana": "のうぜいのぎむをはたす。"
+    },
+    {
+      "kanji": "脱税",
+      "kana": "だつぜい",
+      "meaning_en": "tax evasion",
+      "meaning_ja": "不正に税を逃れること",
+      "example_ja": "脱税が摘発された。",
+      "example_en": "Tax evasion was uncovered.",
+      "example_kana": "だつぜいがてきはつされた。"
+    },
+    {
+      "kanji": "歳費",
+      "kana": "さいひ",
+      "meaning_en": "annual expense, lawmaker's salary",
+      "meaning_ja": "国会議員に支給される手当",
+      "example_ja": "歳費の削減を求める。",
+      "example_en": "Demand cuts to legislators' salaries.",
+      "example_kana": "さいひのさくげんをもとめる。"
+    },
+    {
+      "kanji": "国債",
+      "kana": "こくさい",
+      "meaning_en": "government bond",
+      "meaning_ja": "国が発行する債券",
+      "example_ja": "国債を発行する。",
+      "example_en": "Issue government bonds.",
+      "example_kana": "こくさいをはっこうする。"
+    },
+    {
+      "kanji": "公債",
+      "kana": "こうさい",
+      "meaning_en": "public debt, public bond",
+      "meaning_ja": "国や地方公共団体の借金",
+      "example_ja": "公債残高が増えている。",
+      "example_en": "Public debt is rising.",
+      "example_kana": "こうさいざんだかがふえている。"
+    },
+    {
+      "kanji": "債務",
+      "kana": "さいむ",
+      "meaning_en": "debt, liability",
+      "meaning_ja": "返済の義務",
+      "example_ja": "債務が膨らむ。",
+      "example_en": "Debt swells.",
+      "example_kana": "さいむがふくらむ。"
+    },
+    {
+      "kanji": "債権",
+      "kana": "さいけん2",
+      "meaning_en": "credit, claim",
+      "meaning_ja": "金銭などを請求できる権利",
+      "example_ja": "債権を回収する。",
+      "example_en": "Collect on the credit.",
+      "example_kana": "さいけんをかいしゅうする。"
+    },
+    {
+      "kanji": "金融",
+      "kana": "きんゆう",
+      "meaning_en": "finance",
+      "meaning_ja": "資金の貸借や取引",
+      "example_ja": "金融市場が動揺した。",
+      "example_en": "Financial markets were shaken.",
+      "example_kana": "きんゆうしじょうがどうようした。"
+    },
+    {
+      "kanji": "為替",
+      "kana": "かわせ",
+      "meaning_en": "exchange (currency)",
+      "meaning_ja": "通貨の交換",
+      "example_ja": "為替が円高に動いた。",
+      "example_en": "The exchange rate moved toward a stronger yen.",
+      "example_kana": "かわせがえんだかにうごいた。"
+    },
+    {
+      "kanji": "市況",
+      "kana": "しきょう",
+      "meaning_en": "market conditions",
+      "meaning_ja": "取引市場の状況",
+      "example_ja": "市況が好転した。",
+      "example_en": "Market conditions improved.",
+      "example_kana": "しきょうがこうてんした。"
+    },
+    {
+      "kanji": "景況",
+      "kana": "けいきょう",
+      "meaning_en": "business conditions",
+      "meaning_ja": "景気の状況",
+      "example_ja": "景況感が悪化した。",
+      "example_en": "Business sentiment worsened.",
+      "example_kana": "けいきょうかんがあっかした。"
+    },
+    {
+      "kanji": "需要",
+      "kana": "じゅよう",
+      "meaning_en": "demand",
+      "meaning_ja": "求められる量",
+      "example_ja": "需要が拡大する。",
+      "example_en": "Demand expands.",
+      "example_kana": "じゅようがかくだいする。"
+    },
+    {
+      "kanji": "供給",
+      "kana": "きょうきゅう",
+      "meaning_en": "supply",
+      "meaning_ja": "提供される量",
+      "example_ja": "供給が追いつかない。",
+      "example_en": "Supply can't keep up.",
+      "example_kana": "きょうきゅうがおいつかない。"
+    },
+    {
+      "kanji": "物価",
+      "kana": "ぶっか",
+      "meaning_en": "commodity prices",
+      "meaning_ja": "商品全般の価格",
+      "example_ja": "物価が上昇している。",
+      "example_en": "Prices are rising.",
+      "example_kana": "ぶっかがじょうしょうしている。"
+    },
+    {
+      "kanji": "価格",
+      "kana": "かかく",
+      "meaning_en": "price",
+      "meaning_ja": "商品の値段",
+      "example_ja": "価格を据え置く。",
+      "example_en": "Keep the price unchanged.",
+      "example_kana": "かかくをすえおく。"
+    },
+    {
+      "kanji": "高騰",
+      "kana": "こうとう2",
+      "meaning_en": "soaring, sharp rise",
+      "meaning_ja": "値段が急に上がること",
+      "example_ja": "原油価格が高騰した。",
+      "example_en": "Oil prices surged.",
+      "example_kana": "げんゆかかくがこうとうした。"
+    },
+    {
+      "kanji": "暴落",
+      "kana": "ぼうらく",
+      "meaning_en": "crash, plunge",
+      "meaning_ja": "値段が急激に下がること",
+      "example_ja": "株価が暴落した。",
+      "example_en": "Stock prices crashed.",
+      "example_kana": "かぶかがぼうらくした。"
+    },
+    {
+      "kanji": "下落",
+      "kana": "げらく",
+      "meaning_en": "decline, fall",
+      "meaning_ja": "値段が下がること",
+      "example_ja": "地価の下落が続く。",
+      "example_en": "Land prices continue to fall.",
+      "example_kana": "ちかのげらくがつづく。"
+    },
+    {
+      "kanji": "デフレ",
+      "kana": "デフレ",
+      "meaning_en": "deflation",
+      "meaning_ja": "物価が継続的に下がる現象",
+      "example_ja": "デフレからの脱却を図る。",
+      "example_en": "Aim to escape deflation.",
+      "example_kana": "デフレからのだっきゃくをはかる。"
+    },
+    {
+      "kanji": "脱却",
+      "kana": "だっきゃく",
+      "meaning_en": "breaking away, getting out",
+      "meaning_ja": "悪い状態から抜け出すこと",
+      "example_ja": "不況からの脱却を目指す。",
+      "example_en": "Aim to escape the recession.",
+      "example_kana": "ふきょうからのだっきゃくをめざす。"
+    },
+    {
+      "kanji": "好転",
+      "kana": "こうてん",
+      "meaning_en": "improvement, turn for the better",
+      "meaning_ja": "状況が良くなること",
+      "example_ja": "景気が好転した。",
+      "example_en": "The economy turned around.",
+      "example_kana": "けいきがこうてんした。"
+    },
+    {
+      "kanji": "活況",
+      "kana": "かっきょう",
+      "meaning_en": "boom, brisk activity",
+      "meaning_ja": "活発な状況",
+      "example_ja": "市場は活況を呈する。",
+      "example_en": "The market shows brisk activity.",
+      "example_kana": "しじょうはかっきょうをていする。"
+    },
+    {
+      "kanji": "失業率",
+      "kana": "しつぎょうりつ",
+      "meaning_en": "unemployment rate",
+      "meaning_ja": "労働力に対する失業者の割合",
+      "example_ja": "失業率が改善した。",
+      "example_en": "The unemployment rate improved.",
+      "example_kana": "しつぎょうりつがかいぜんした。"
+    },
+    {
+      "kanji": "雇用",
+      "kana": "こよう",
+      "meaning_en": "employment, hiring",
+      "meaning_ja": "人を雇うこと",
+      "example_ja": "雇用を創出する。",
+      "example_en": "Create employment.",
+      "example_kana": "こようをそうしゅつする。"
+    },
+    {
+      "kanji": "解雇",
+      "kana": "かいこ",
+      "meaning_en": "dismissal, firing",
+      "meaning_ja": "雇用を打ち切ること",
+      "example_ja": "不当解雇を訴える。",
+      "example_en": "Sue for unfair dismissal.",
+      "example_kana": "ふとうかいこをうったえる。"
+    },
+    {
+      "kanji": "リストラ",
+      "kana": "リストラ",
+      "meaning_en": "layoffs, restructuring",
+      "meaning_ja": "事業再構築のための人員削減",
+      "example_ja": "大規模なリストラを実施する。",
+      "example_en": "Carry out large-scale layoffs.",
+      "example_kana": "だいきぼなリストラをじっしする。"
+    },
+    {
+      "kanji": "労使",
+      "kana": "ろうし",
+      "meaning_en": "labor and management",
+      "meaning_ja": "労働者と使用者",
+      "example_ja": "労使協議が始まった。",
+      "example_en": "Labor-management talks began.",
+      "example_kana": "ろうしきょうぎがはじまった。"
+    },
+    {
+      "kanji": "賃上げ",
+      "kana": "ちんあげ",
+      "meaning_en": "wage increase",
+      "meaning_ja": "賃金を引き上げること",
+      "example_ja": "賃上げを要求する。",
+      "example_en": "Demand a wage increase.",
+      "example_kana": "ちんあげをようきゅうする。"
+    },
+    {
+      "kanji": "賃下げ",
+      "kana": "ちんさげ",
+      "meaning_en": "wage cut",
+      "meaning_ja": "賃金を引き下げること",
+      "example_ja": "業績悪化で賃下げとなった。",
+      "example_en": "Wages were cut due to poor performance.",
+      "example_kana": "ぎょうせきあっかでちんさげとなった。"
+    },
+    {
+      "kanji": "労組",
+      "kana": "ろうそ",
+      "meaning_en": "labor union",
+      "meaning_ja": "労働組合の略",
+      "example_ja": "労組が交渉に臨む。",
+      "example_en": "The labor union enters negotiations.",
+      "example_kana": "ろうそがこうしょうにのぞむ。"
+    },
+    {
+      "kanji": "団交",
+      "kana": "だんこう",
+      "meaning_en": "collective bargaining",
+      "meaning_ja": "団体交渉の略",
+      "example_ja": "団交を申し入れる。",
+      "example_en": "Request collective bargaining.",
+      "example_kana": "だんこうをもうしいれる。"
+    },
+    {
+      "kanji": "争議",
+      "kana": "そうぎ",
+      "meaning_en": "labor dispute",
+      "meaning_ja": "労使間の争い",
+      "example_ja": "労働争議が発生した。",
+      "example_en": "A labor dispute occurred.",
+      "example_kana": "ろうどうそうぎがはっせいした。"
+    },
+    {
+      "kanji": "格差社会",
+      "kana": "かくさしゃかい",
+      "meaning_en": "society with disparities",
+      "meaning_ja": "経済差が大きい社会",
+      "example_ja": "格差社会が問題視される。",
+      "example_en": "The widening-gap society is seen as a problem.",
+      "example_kana": "かくさしゃかいがもんだいしされる。"
+    },
+    {
+      "kanji": "貧富",
+      "kana": "ひんぷ",
+      "meaning_en": "poverty and wealth",
+      "meaning_ja": "貧しさと富裕",
+      "example_ja": "貧富の差が拡大する。",
+      "example_en": "The gap between rich and poor widens.",
+      "example_kana": "ひんぷのさがかくだいする。"
+    },
+    {
+      "kanji": "富裕",
+      "kana": "ふゆう",
+      "meaning_en": "wealthy, affluent",
+      "meaning_ja": "金銭的に豊かなこと",
+      "example_ja": "富裕層が増加した。",
+      "example_en": "The wealthy class increased.",
+      "example_kana": "ふゆうそうがぞうかした。"
+    },
+    {
+      "kanji": "困窮",
+      "kana": "こんきゅう",
+      "meaning_en": "destitution, hardship",
+      "meaning_ja": "経済的に苦しいこと",
+      "example_ja": "生活困窮者を支援する。",
+      "example_en": "Support those in financial hardship.",
+      "example_kana": "せいかつこんきゅうしゃをしえんする。"
+    },
+    {
+      "kanji": "救貧",
+      "kana": "きゅうひん",
+      "meaning_en": "poverty relief",
+      "meaning_ja": "貧しい人を救うこと",
+      "example_ja": "救貧政策を進める。",
+      "example_en": "Advance poverty relief policy.",
+      "example_kana": "きゅうひんせいさくをすすめる。"
+    },
+    {
+      "kanji": "生活保護",
+      "kana": "せいかつほご",
+      "meaning_en": "public assistance, welfare",
+      "meaning_ja": "国による最低生活の保障",
+      "example_ja": "生活保護を申請する。",
+      "example_en": "Apply for public assistance.",
+      "example_kana": "せいかつほごをしんせいする。"
+    },
+    {
+      "kanji": "年金",
+      "kana": "ねんきん",
+      "meaning_en": "pension",
+      "meaning_ja": "毎年支給されるお金",
+      "example_ja": "年金制度を改革する。",
+      "example_en": "Reform the pension system.",
+      "example_kana": "ねんきんせいどをかいかくする。"
+    },
+    {
+      "kanji": "扶助",
+      "kana": "ふじょ",
+      "meaning_en": "aid, assistance",
+      "meaning_ja": "助けること",
+      "example_ja": "公的扶助を受ける。",
+      "example_en": "Receive public assistance.",
+      "example_kana": "こうてきふじょをうける。"
+    },
+    {
+      "kanji": "助成",
+      "kana": "じょせい",
+      "meaning_en": "subsidy, grant aid",
+      "meaning_ja": "事業を助け促進すること",
+      "example_ja": "研究に助成金が出る。",
+      "example_en": "Grants are issued for research.",
+      "example_kana": "けんきゅうにじょせいきんがでる。"
+    },
+    {
+      "kanji": "補助金",
+      "kana": "ほじょきん",
+      "meaning_en": "subsidy",
+      "meaning_ja": "国などが援助する金",
+      "example_ja": "補助金を交付する。",
+      "example_en": "Grant a subsidy.",
+      "example_kana": "ほじょきんをこうふする。"
+    },
+    {
+      "kanji": "給付",
+      "kana": "きゅうふ",
+      "meaning_en": "benefit, provision",
+      "meaning_ja": "金品を支給すること",
+      "example_ja": "給付金を支給する。",
+      "example_en": "Provide a benefit payment.",
+      "example_kana": "きゅうふきんをしきゅうする。"
+    },
+    {
+      "kanji": "支給",
+      "kana": "しきゅう",
+      "meaning_en": "payment, supply",
+      "meaning_ja": "金品を渡すこと",
+      "example_ja": "手当が支給される。",
+      "example_en": "An allowance is paid.",
+      "example_kana": "てあてがしきゅうされる。"
+    },
+    {
+      "kanji": "受給",
+      "kana": "じゅきゅう",
+      "meaning_en": "receiving payment/benefits",
+      "meaning_ja": "給付を受け取ること",
+      "example_ja": "年金を受給する。",
+      "example_en": "Receive a pension.",
+      "example_kana": "ねんきんをじゅきゅうする。"
+    },
+    {
+      "kanji": "需給",
+      "kana": "じゅきゅう2",
+      "meaning_en": "supply and demand",
+      "meaning_ja": "需要と供給",
+      "example_ja": "需給バランスが崩れた。",
+      "example_en": "The supply-demand balance was broken.",
+      "example_kana": "じゅきゅうバランスがくずれた。"
+    },
+    {
+      "kanji": "高齢化",
+      "kana": "こうれいか",
+      "meaning_en": "aging (of population)",
+      "meaning_ja": "高齢者の割合が増えること",
+      "example_ja": "高齢化が進行する。",
+      "example_en": "Aging is progressing.",
+      "example_kana": "こうれいかがしんこうする。"
+    },
+    {
+      "kanji": "少子化",
+      "kana": "しょうしか",
+      "meaning_en": "declining birthrate",
+      "meaning_ja": "子供の数が減ること",
+      "example_ja": "少子化対策を講じる。",
+      "example_en": "Take measures against the declining birthrate.",
+      "example_kana": "しょうしかたいさくをこうじる。"
+    },
+    {
+      "kanji": "出生率",
+      "kana": "しゅっしょうりつ",
+      "meaning_en": "birthrate",
+      "meaning_ja": "人口当たりの出生数",
+      "example_ja": "出生率が低下した。",
+      "example_en": "The birthrate declined.",
+      "example_kana": "しゅっしょうりつがていかした。"
+    },
+    {
+      "kanji": "人口減",
+      "kana": "じんこうげん",
+      "meaning_en": "population decrease",
+      "meaning_ja": "人口が減ること",
+      "example_ja": "地方の人口減が深刻だ。",
+      "example_en": "Population decline in rural areas is serious.",
+      "example_kana": "ちほうのじんこうげんがしんこくだ。"
+    },
+    {
+      "kanji": "過疎化",
+      "kana": "かそか",
+      "meaning_en": "depopulation",
+      "meaning_ja": "人口が著しく減ること",
+      "example_ja": "山村の過疎化が進む。",
+      "example_en": "Depopulation of mountain villages advances.",
+      "example_kana": "さんそんのかそかがすすむ。"
+    },
+    {
+      "kanji": "過密化",
+      "kana": "かみつか",
+      "meaning_en": "overcrowding",
+      "meaning_ja": "過度に密集すること",
+      "example_ja": "都市の過密化が問題だ。",
+      "example_en": "Urban overcrowding is a problem.",
+      "example_kana": "としのかみつかがもんだいだ。"
+    },
+    {
+      "kanji": "都市部",
+      "kana": "としぶ",
+      "meaning_en": "urban area",
+      "meaning_ja": "都市の地域",
+      "example_ja": "都市部に人口が集中する。",
+      "example_en": "Population concentrates in urban areas.",
+      "example_kana": "としぶにじんこうがしゅうちゅうする。"
+    },
+    {
+      "kanji": "地方",
+      "kana": "ちほう",
+      "meaning_en": "region, locality",
+      "meaning_ja": "首都以外の地域",
+      "example_ja": "地方への移住が増える。",
+      "example_en": "Migration to rural areas increases.",
+      "example_kana": "ちほうへのいじゅうがふえる。"
+    },
+    {
+      "kanji": "難民",
+      "kana": "なんみん",
+      "meaning_en": "refugees",
+      "meaning_ja": "災害や紛争で避難する人",
+      "example_ja": "難民を受け入れる。",
+      "example_en": "Accept refugees.",
+      "example_kana": "なんみんをうけいれる。"
+    },
+    {
+      "kanji": "亡命",
+      "kana": "ぼうめい",
+      "meaning_en": "exile, defection",
+      "meaning_ja": "政治的理由で他国に逃れること",
+      "example_ja": "外国に亡命する。",
+      "example_en": "Seek exile abroad.",
+      "example_kana": "がいこくにぼうめいする。"
+    },
+    {
+      "kanji": "差別",
+      "kana": "さべつ",
+      "meaning_en": "discrimination",
+      "meaning_ja": "区別して不当に扱うこと",
+      "example_ja": "差別をなくす運動。",
+      "example_en": "A movement to end discrimination.",
+      "example_kana": "さべつをなくすうんどう。"
+    },
+    {
+      "kanji": "人権",
+      "kana": "じんけん",
+      "meaning_en": "human rights",
+      "meaning_ja": "人間が生まれながら持つ権利",
+      "example_ja": "人権を尊重する。",
+      "example_en": "Respect human rights.",
+      "example_kana": "じんけんをそんちょうする。"
+    },
+    {
+      "kanji": "侵害",
+      "kana": "しんがい",
+      "meaning_en": "infringement, violation",
+      "meaning_ja": "権利を侵すこと",
+      "example_ja": "著作権の侵害にあたる。",
+      "example_en": "It constitutes copyright infringement.",
+      "example_kana": "ちょさくけんのしんがいにあたる。"
+    },
+    {
+      "kanji": "保障",
+      "kana": "ほしょう",
+      "meaning_en": "security, guarantee",
+      "meaning_ja": "権利などを保つこと",
+      "example_ja": "社会保障を充実させる。",
+      "example_en": "Enhance social security.",
+      "example_kana": "しゃかいほしょうをじゅうじつさせる。"
+    },
+    {
+      "kanji": "保証",
+      "kana": "ほしょう2",
+      "meaning_en": "guarantee, warranty",
+      "meaning_ja": "間違いないと請け合うこと",
+      "example_ja": "品質を保証する。",
+      "example_en": "Guarantee quality.",
+      "example_kana": "ひんしつをほしょうする。"
+    },
+    {
+      "kanji": "補償",
+      "kana": "ほしょう3",
+      "meaning_en": "compensation",
+      "meaning_ja": "損害を埋め合わせること",
+      "example_ja": "被害者に補償する。",
+      "example_en": "Compensate the victims.",
+      "example_kana": "ひがいしゃにほしょうする。"
+    },
+    {
+      "kanji": "弁済",
+      "kana": "べんさい",
+      "meaning_en": "repayment, redemption",
+      "meaning_ja": "債務を支払うこと",
+      "example_ja": "借金を弁済する。",
+      "example_en": "Repay the debt.",
+      "example_kana": "しゃっきんをべんさいする。"
+    },
+    {
+      "kanji": "返納",
+      "kana": "へんのう",
+      "meaning_en": "return, surrender",
+      "meaning_ja": "受けたものを返すこと",
+      "example_ja": "免許を返納する。",
+      "example_en": "Surrender the license.",
+      "example_kana": "めんきょをへんのうする。"
+    },
+    {
+      "kanji": "提訴",
+      "kana": "ていそ",
+      "meaning_en": "filing a lawsuit",
+      "meaning_ja": "訴えを起こすこと",
+      "example_ja": "国を相手に提訴した。",
+      "example_en": "Filed a lawsuit against the state.",
+      "example_kana": "くにをあいてにていそした。"
+    },
+    {
+      "kanji": "敗訴",
+      "kana": "はいそ",
+      "meaning_en": "losing a lawsuit",
+      "meaning_ja": "裁判で負けること",
+      "example_ja": "原告が敗訴した。",
+      "example_en": "The plaintiff lost the case.",
+      "example_kana": "げんこくがはいそした。"
+    },
+    {
+      "kanji": "勝訴",
+      "kana": "しょうそ",
+      "meaning_en": "winning a lawsuit",
+      "meaning_ja": "裁判で勝つこと",
+      "example_ja": "勝訴判決を勝ち取った。",
+      "example_en": "Won a favorable verdict.",
+      "example_kana": "しょうそはんけつをかちとった。"
+    },
+    {
+      "kanji": "原告",
+      "kana": "げんこく",
+      "meaning_en": "plaintiff",
+      "meaning_ja": "訴えを起こした人",
+      "example_ja": "原告側の主張を聞く。",
+      "example_en": "Listen to the plaintiff's claims.",
+      "example_kana": "げんこくがわのしゅちょうをきく。"
+    },
+    {
+      "kanji": "被告",
+      "kana": "ひこく",
+      "meaning_en": "defendant",
+      "meaning_ja": "訴えられた人",
+      "example_ja": "被告は無罪を主張した。",
+      "example_en": "The defendant claimed innocence.",
+      "example_kana": "ひこくはむざいをしゅちょうした。"
+    },
+    {
+      "kanji": "弁護士",
+      "kana": "べんごし",
+      "meaning_en": "lawyer, attorney",
+      "meaning_ja": "法律事務の専門家",
+      "example_ja": "弁護士に相談する。",
+      "example_en": "Consult a lawyer.",
+      "example_kana": "べんごしにそうだんする。"
+    },
+    {
+      "kanji": "判事",
+      "kana": "はんじ",
+      "meaning_en": "judge",
+      "meaning_ja": "裁判官",
+      "example_ja": "判事が判決を下す。",
+      "example_en": "The judge hands down the verdict.",
+      "example_kana": "はんじがはんけつをくだす。"
+    },
+    {
+      "kanji": "裁判官",
+      "kana": "さいばんかん",
+      "meaning_en": "judge (court)",
+      "meaning_ja": "裁判を司る公職者",
+      "example_ja": "裁判官を任命する。",
+      "example_en": "Appoint a judge.",
+      "example_kana": "さいばんかんをにんめいする。"
+    },
+    {
+      "kanji": "陪審",
+      "kana": "ばいしん",
+      "meaning_en": "jury",
+      "meaning_ja": "市民が裁判に参加する制度",
+      "example_ja": "陪審制を導入する。",
+      "example_en": "Introduce the jury system.",
+      "example_kana": "ばいしんせいをどうにゅうする。"
+    },
+    {
+      "kanji": "検察",
+      "kana": "けんさつ",
+      "meaning_en": "prosecution",
+      "meaning_ja": "刑事事件を捜査・起訴する官庁",
+      "example_ja": "検察が捜査を進める。",
+      "example_en": "The prosecution proceeds with the investigation.",
+      "example_kana": "けんさつがそうさをすすめる。"
+    },
+    {
+      "kanji": "捜査",
+      "kana": "そうさ",
+      "meaning_en": "criminal investigation",
+      "meaning_ja": "犯罪を取り調べること",
+      "example_ja": "事件を捜査する。",
+      "example_en": "Investigate the case.",
+      "example_kana": "じけんをそうさする。"
+    },
+    {
+      "kanji": "逮捕",
+      "kana": "たいほ",
+      "meaning_en": "arrest",
+      "meaning_ja": "犯人を捕らえること",
+      "example_ja": "容疑者を逮捕した。",
+      "example_en": "Arrested the suspect.",
+      "example_kana": "ようぎしゃをたいほした。"
+    },
+    {
+      "kanji": "容疑者",
+      "kana": "ようぎしゃ",
+      "meaning_en": "suspect",
+      "meaning_ja": "犯罪の疑いをかけられた人",
+      "example_ja": "容疑者を取り調べる。",
+      "example_en": "Interrogate the suspect.",
+      "example_kana": "ようぎしゃをとりしらべる。"
+    },
+    {
+      "kanji": "拘束",
+      "kana": "こうそく",
+      "meaning_en": "restraint, detention",
+      "meaning_ja": "自由を奪うこと",
+      "example_ja": "身柄を拘束する。",
+      "example_en": "Take into custody.",
+      "example_kana": "みがらをこうそくする。"
+    },
+    {
+      "kanji": "拘置",
+      "kana": "こうち",
+      "meaning_en": "detention",
+      "meaning_ja": "刑事被告人を留め置くこと",
+      "example_ja": "拘置所に収監される。",
+      "example_en": "Be held in the detention center.",
+      "example_kana": "こうちしょにしゅうかんされる。"
+    },
+    {
+      "kanji": "服役",
+      "kana": "ふくえき",
+      "meaning_en": "serving a prison sentence",
+      "meaning_ja": "刑に服すること",
+      "example_ja": "刑務所に服役する。",
+      "example_en": "Serve time in prison.",
+      "example_kana": "けいむしょにふくえきする。"
+    },
+    {
+      "kanji": "刑期",
+      "kana": "けいき",
+      "meaning_en": "prison term",
+      "meaning_ja": "刑に服す期間",
+      "example_ja": "刑期を終える。",
+      "example_en": "Finish the prison term.",
+      "example_kana": "けいきをおえる。"
+    },
+    {
+      "kanji": "釈放",
+      "kana": "しゃくほう",
+      "meaning_en": "release",
+      "meaning_ja": "拘束を解いて自由にすること",
+      "example_ja": "容疑者を釈放した。",
+      "example_en": "Released the suspect.",
+      "example_kana": "ようぎしゃをしゃくほうした。"
+    },
+    {
+      "kanji": "恩赦",
+      "kana": "おんしゃ",
+      "meaning_en": "amnesty, pardon",
+      "meaning_ja": "刑を軽減または免除すること",
+      "example_ja": "恩赦が実施された。",
+      "example_en": "An amnesty was implemented.",
+      "example_kana": "おんしゃがじっしされた。"
+    },
+    {
+      "kanji": "無罪",
+      "kana": "むざい",
+      "meaning_en": "innocent, not guilty",
+      "meaning_ja": "罪がないこと",
+      "example_ja": "無罪を勝ち取った。",
+      "example_en": "Won an acquittal.",
+      "example_kana": "むざいをかちとった。"
+    },
+    {
+      "kanji": "有罪",
+      "kana": "ゆうざい",
+      "meaning_en": "guilty",
+      "meaning_ja": "罪があると認められること",
+      "example_ja": "有罪判決を受けた。",
+      "example_en": "Received a guilty verdict.",
+      "example_kana": "ゆうざいはんけつをうけた。"
+    },
+    {
+      "kanji": "冤罪",
+      "kana": "えんざい",
+      "meaning_en": "false charge, wrongful conviction",
+      "meaning_ja": "無実の罪",
+      "example_ja": "冤罪を晴らす。",
+      "example_en": "Clear oneself of a false charge.",
+      "example_kana": "えんざいをはらす。"
+    },
+    {
+      "kanji": "再審",
+      "kana": "さいしん",
+      "meaning_en": "retrial",
+      "meaning_ja": "確定判決を再び審理すること",
+      "example_ja": "再審を請求する。",
+      "example_en": "Petition for a retrial.",
+      "example_kana": "さいしんをせいきゅうする。"
+    },
+    {
+      "kanji": "控訴",
+      "kana": "こうそ",
+      "meaning_en": "appeal (to higher court)",
+      "meaning_ja": "上級裁判所に再審理を求めること",
+      "example_ja": "控訴を断念した。",
+      "example_en": "Gave up on appealing.",
+      "example_kana": "こうそをだんねんした。"
+    },
+    {
+      "kanji": "含蓄",
+      "kana": "がんちく",
+      "meaning_en": "implication, depth of meaning, nuance",
+      "meaning_ja": "言葉の奥に含まれた深い意味",
+      "example_ja": "含蓄のある言葉に感心した。",
+      "example_en": "I was impressed by his meaningful words.",
+      "example_kana": "がんちくのあることばにかんしんした。"
+    },
+    {
+      "kanji": "余韻",
+      "kana": "よいん",
+      "meaning_en": "lingering sound, afterglow, reverberation",
+      "meaning_ja": "事が終わった後に残る趣や感じ",
+      "example_ja": "音楽の余韻に浸る。",
+      "example_en": "I bask in the lingering echo of the music.",
+      "example_kana": "おんがくのよいんにひたる。"
+    },
+    {
+      "kanji": "風情",
+      "kana": "ふぜい",
+      "meaning_en": "taste, charm, elegance",
+      "meaning_ja": "しみじみと感じられる味わいや趣",
+      "example_ja": "古い町並みに風情を感じる。",
+      "example_en": "I sense charm in the old townscape.",
+      "example_kana": "ふるいまちなみにふぜいをかんじる。"
+    },
+    {
+      "kanji": "機微",
+      "kana": "きび",
+      "meaning_en": "subtleties, delicate nuance",
+      "meaning_ja": "表面に現れにくい微妙な事情",
+      "example_ja": "人情の機微に触れる物語だ。",
+      "example_en": "It is a story that touches on subtle human feelings.",
+      "example_kana": "にんじょうのきびにふれるものがたりだ。"
+    },
+    {
+      "kanji": "葛藤",
+      "kana": "かっとう",
+      "meaning_en": "conflict, inner struggle",
+      "meaning_ja": "心の中で対立する感情のもつれ",
+      "example_ja": "彼は内なる葛藤に苦しんだ。",
+      "example_en": "He suffered from inner conflict.",
+      "example_kana": "かれはうちなるかっとうにくるしんだ。"
+    },
+    {
+      "kanji": "矛盾",
+      "kana": "むじゅん",
+      "meaning_en": "contradiction, inconsistency",
+      "meaning_ja": "つじつまが合わないこと",
+      "example_ja": "彼の発言には矛盾がある。",
+      "example_en": "There is a contradiction in his statement.",
+      "example_kana": "かれのはつげんにはむじゅんがある。"
+    },
+    {
+      "kanji": "隠喩",
+      "kana": "いんゆ",
+      "meaning_en": "metaphor, implicit comparison",
+      "meaning_ja": "「ようだ」を使わずたとえる修辞法",
+      "example_ja": "詩には美しい隠喩が多い。",
+      "example_en": "The poem has many beautiful metaphors.",
+      "example_kana": "しにはうつくしいいんゆがおおい。"
+    },
+    {
+      "kanji": "風刺",
+      "kana": "ふうし",
+      "meaning_en": "satire, sarcasm",
+      "meaning_ja": "遠回しに社会や人を批判すること",
+      "example_ja": "彼の小説は鋭い風刺を含む。",
+      "example_en": "His novel contains sharp satire.",
+      "example_kana": "かれのしょうせつはするどいふうしをふくむ。"
+    },
+    {
+      "kanji": "寓意",
+      "kana": "ぐうい",
+      "meaning_en": "allegory, hidden meaning",
+      "meaning_ja": "物事に託して別の意味を示すこと",
+      "example_ja": "この童話には深い寓意がある。",
+      "example_en": "This fairy tale has a deep allegory.",
+      "example_kana": "このどうわにはふかいぐういがある。"
+    },
+    {
+      "kanji": "感慨",
+      "kana": "かんがい",
+      "meaning_en": "deep emotion, strong feeling",
+      "meaning_ja": "心にしみじみと感じる思い",
+      "example_ja": "卒業式で感慨にふけった。",
+      "example_en": "I was lost in deep emotion at the graduation.",
+      "example_kana": "そつぎょうしきでかんがいにふけった。"
+    },
+    {
+      "kanji": "諦観",
+      "kana": "ていかん",
+      "meaning_en": "resignation, philosophical view",
+      "meaning_ja": "真理を悟って執着しない態度",
+      "example_ja": "人生に諦観の境地に至る。",
+      "example_en": "He reaches a state of resignation about life.",
+      "example_kana": "じんせいにていかんのきょうちにいたる。"
+    },
+    {
+      "kanji": "真髄",
+      "kana": "しんずい",
+      "meaning_en": "essence, true spirit",
+      "meaning_ja": "物事の最も大切な部分",
+      "example_ja": "茶道の真髄に触れる。",
+      "example_en": "I touch the essence of tea ceremony.",
+      "example_kana": "さどうのしんずいにふれる。"
+    },
+    {
+      "kanji": "情趣",
+      "kana": "じょうしゅ",
+      "meaning_en": "atmosphere, mood, charm",
+      "meaning_ja": "しみじみとした趣や味わい",
+      "example_ja": "庭園は秋の情趣に満ちる。",
+      "example_en": "The garden is full of autumn charm.",
+      "example_kana": "ていえんはあきのじょうしゅにみちる。"
+    },
+    {
+      "kanji": "閑寂",
+      "kana": "かんじゃく",
+      "meaning_en": "tranquility, quiet seclusion",
+      "meaning_ja": "ひっそりと静かなようす",
+      "example_ja": "山寺の閑寂に心が和む。",
+      "example_en": "My heart calms in the tranquility of the mountain temple.",
+      "example_kana": "やまでらのかんじゃくにこころがなごむ。"
+    },
+    {
+      "kanji": "侘び",
+      "kana": "わび",
+      "meaning_en": "wabi, rustic simplicity",
+      "meaning_ja": "質素な中に趣を見いだす美意識",
+      "example_ja": "茶室は侘びの精神を表す。",
+      "example_en": "The tea room expresses the spirit of wabi.",
+      "example_kana": "ちゃしつはわびのせいしんをあらわす。"
+    },
+    {
+      "kanji": "寂",
+      "kana": "さび",
+      "meaning_en": "sabi, elegant simplicity",
+      "meaning_ja": "古びた中に感じる静かな趣",
+      "example_ja": "古い茶碗に寂を感じる。",
+      "example_en": "I feel sabi in the old tea bowl.",
+      "example_kana": "ふるいちゃわんにさびをかんじる。"
+    },
+    {
+      "kanji": "幽玄",
+      "kana": "ゆうげん",
+      "meaning_en": "subtle profundity, mystery",
+      "meaning_ja": "奥深く言葉にしがたい味わい",
+      "example_ja": "能の舞台は幽玄の美に満ちる。",
+      "example_en": "The noh stage is full of mysterious beauty.",
+      "example_kana": "のうのぶたいはゆうげんのびにみちる。"
+    },
+    {
+      "kanji": "粋",
+      "kana": "いき",
+      "meaning_en": "chic, refined elegance",
+      "meaning_ja": "あかぬけて洗練された美しさ",
+      "example_ja": "彼女の着こなしは粋だ。",
+      "example_en": "Her way of dressing is chic.",
+      "example_kana": "かのじょのきこなしはいきだ。"
+    },
+    {
+      "kanji": "醍醐味",
+      "kana": "だいごみ",
+      "meaning_en": "true pleasure, real charm",
+      "meaning_ja": "本当の面白さや深い味わい",
+      "example_ja": "読書の醍醐味を知る。",
+      "example_en": "I learn the true pleasure of reading.",
+      "example_kana": "どくしょのだいごみをしる。"
+    },
+    {
+      "kanji": "玄妙",
+      "kana": "げんみょう",
+      "meaning_en": "profound subtlety, mystery",
+      "meaning_ja": "奥深く言い表せない不思議さ",
+      "example_ja": "玄妙な理論に魅了される。",
+      "example_en": "I am fascinated by the profound theory.",
+      "example_kana": "げんみょうなりろんにみりょうされる。"
+    },
+    {
+      "kanji": "雅",
+      "kana": "みやび",
+      "meaning_en": "elegance, courtly refinement",
+      "meaning_ja": "上品で洗練された美しさ",
+      "example_ja": "平安の雅を今に伝える。",
+      "example_en": "It conveys Heian elegance to today.",
+      "example_kana": "へいあんのみやびをいまにつたえる。"
+    },
+    {
+      "kanji": "風雅",
+      "kana": "ふうが",
+      "meaning_en": "elegance, refined taste",
+      "meaning_ja": "上品で趣のあること",
+      "example_ja": "風雅な暮らしを愛する。",
+      "example_en": "He loves an elegant life.",
+      "example_kana": "ふうがなくらしをあいする。"
+    },
+    {
+      "kanji": "高邁",
+      "kana": "こうまい",
+      "meaning_en": "lofty, noble-minded",
+      "meaning_ja": "心が気高くすぐれていること",
+      "example_ja": "高邁な理想を掲げる。",
+      "example_en": "He upholds lofty ideals.",
+      "example_kana": "こうまいなりそうをかかげる。"
+    },
+    {
+      "kanji": "崇高",
+      "kana": "すうこう",
+      "meaning_en": "sublime, lofty",
+      "meaning_ja": "気高く尊いこと",
+      "example_ja": "崇高な使命を感じる。",
+      "example_en": "I feel a sublime mission.",
+      "example_kana": "すうこうなしめいをかんじる。"
+    },
+    {
+      "kanji": "悲哀",
+      "kana": "ひあい",
+      "meaning_en": "sorrow, sadness",
+      "meaning_ja": "深く心に染みる悲しみ",
+      "example_ja": "人生の悲哀を歌う詩だ。",
+      "example_en": "It is a poem singing of life's sorrow.",
+      "example_kana": "じんせいのひあいをうたうしだ。"
+    },
+    {
+      "kanji": "哀愁",
+      "kana": "あいしゅう",
+      "meaning_en": "pathos, melancholy",
+      "meaning_ja": "もの悲しい感じ",
+      "example_ja": "秋には哀愁が漂う。",
+      "example_en": "Melancholy drifts in autumn.",
+      "example_kana": "あきにはあいしゅうがただよう。"
+    },
+    {
+      "kanji": "哀感",
+      "kana": "あいかん",
+      "meaning_en": "pathos, sorrow",
+      "meaning_ja": "もの悲しさを感じる気持ち",
+      "example_ja": "別れの場面に哀感を覚える。",
+      "example_en": "I feel sorrow at the farewell scene.",
+      "example_kana": "わかれのばめんにあいかんをおぼえる。"
+    },
+    {
+      "kanji": "哀切",
+      "kana": "あいせつ",
+      "meaning_en": "pathetic, deeply sad",
+      "meaning_ja": "心にしみるように悲しいこと",
+      "example_ja": "哀切な歌声が響く。",
+      "example_en": "A deeply sad singing voice echoes.",
+      "example_kana": "あいせつなうたごえがひびく。"
+    },
+    {
+      "kanji": "憂愁",
+      "kana": "ゆうしゅう",
+      "meaning_en": "melancholy, gloom",
+      "meaning_ja": "心が沈み憂える気持ち",
+      "example_ja": "彼の顔に憂愁の影がさす。",
+      "example_en": "A shadow of melancholy crosses his face.",
+      "example_kana": "かれのかおにゆうしゅうのかげがさす。"
+    },
+    {
+      "kanji": "愁い",
+      "kana": "うれい",
+      "meaning_en": "sorrow, anxiety",
+      "meaning_ja": "心配や悲しみの気持ち",
+      "example_ja": "彼女の瞳に愁いが宿る。",
+      "example_en": "Sorrow dwells in her eyes.",
+      "example_kana": "かのじょのひとみにうれいがやどる。"
+    },
+    {
+      "kanji": "感傷",
+      "kana": "かんしょう",
+      "meaning_en": "sentimentality",
+      "meaning_ja": "物事に感じやすく傷つく心",
+      "example_ja": "秋は感傷的になりやすい。",
+      "example_en": "I tend to get sentimental in autumn.",
+      "example_kana": "あきはかんしょうてきになりやすい。"
+    },
+    {
+      "kanji": "懐古",
+      "kana": "かいこ",
+      "meaning_en": "nostalgia, reminiscence",
+      "meaning_ja": "昔を懐かしみ思い出すこと",
+      "example_ja": "懐古の情にひたる夕べ。",
+      "example_en": "An evening steeped in nostalgia.",
+      "example_kana": "かいこのじょうにひたるゆうべ。"
+    },
+    {
+      "kanji": "追憶",
+      "kana": "ついおく",
+      "meaning_en": "recollection, reminiscence",
+      "meaning_ja": "過去を思い起こすこと",
+      "example_ja": "母との追憶にひたる。",
+      "example_en": "I am immersed in memories of my mother.",
+      "example_kana": "ははとのついおくにひたる。"
+    },
+    {
+      "kanji": "回想",
+      "kana": "かいそう",
+      "meaning_en": "recollection, reminiscence",
+      "meaning_ja": "過去を心の中で振り返ること",
+      "example_ja": "若き日の回想にふける。",
+      "example_en": "He reminisces about his youth.",
+      "example_kana": "わかきひのかいそうにふける。"
+    },
+    {
+      "kanji": "黙想",
+      "kana": "もくそう",
+      "meaning_en": "meditation, silent contemplation",
+      "meaning_ja": "黙って深く考えること",
+      "example_ja": "朝の黙想で心を整える。",
+      "example_en": "I prepare my mind with morning meditation.",
+      "example_kana": "あさのもくそうでこころをととのえる。"
+    },
+    {
+      "kanji": "瞑想",
+      "kana": "めいそう",
+      "meaning_en": "meditation, contemplation",
+      "meaning_ja": "目を閉じて静かに考えること",
+      "example_ja": "毎朝瞑想を実践している。",
+      "example_en": "I practice meditation every morning.",
+      "example_kana": "まいあさめいそうをじっせんしている。"
+    },
+    {
+      "kanji": "思索",
+      "kana": "しさく",
+      "meaning_en": "speculation, contemplation",
+      "meaning_ja": "深く筋道を立てて考えること",
+      "example_ja": "哲学的な思索にふける。",
+      "example_en": "He is absorbed in philosophical thought.",
+      "example_kana": "てつがくてきなしさくにふける。"
+    },
+    {
+      "kanji": "省察",
+      "kana": "せいさつ",
+      "meaning_en": "introspection, reflection",
+      "meaning_ja": "自分の行いを反省し考えること",
+      "example_ja": "一日の終わりに省察する。",
+      "example_en": "I reflect at the end of the day.",
+      "example_kana": "いちにちのおわりにせいさつする。"
+    },
+    {
+      "kanji": "内省",
+      "kana": "ないせい",
+      "meaning_en": "introspection, self-examination",
+      "meaning_ja": "自分の心や行いを省みること",
+      "example_ja": "内省を通じて自己を知る。",
+      "example_en": "I know myself through introspection.",
+      "example_kana": "ないせいをつうじてじこをしる。"
+    },
+    {
+      "kanji": "観念",
+      "kana": "かんねん",
+      "meaning_en": "idea, concept, notion",
+      "meaning_ja": "心の中に思い浮かぶ考え",
+      "example_ja": "時間の観念がうすい人だ。",
+      "example_en": "He has a weak sense of time.",
+      "example_kana": "じかんのかんねんがうすいひとだ。"
+    },
+    {
+      "kanji": "理念",
+      "kana": "りねん",
+      "meaning_en": "ideology, principle, philosophy",
+      "meaning_ja": "あるべき姿についての根本の考え",
+      "example_ja": "会社の理念を共有する。",
+      "example_en": "We share the company's philosophy.",
+      "example_kana": "かいしゃのりねんをきょうゆうする。"
+    },
+    {
+      "kanji": "信条",
+      "kana": "しんじょう",
+      "meaning_en": "creed, belief",
+      "meaning_ja": "固く信じて守っている考え",
+      "example_ja": "誠実さが私の信条だ。",
+      "example_en": "Sincerity is my creed.",
+      "example_kana": "せいじつさがわたしのしんじょうだ。"
+    },
+    {
+      "kanji": "信念",
+      "kana": "しんねん",
+      "meaning_en": "belief, conviction",
+      "meaning_ja": "正しいと固く信じる気持ち",
+      "example_ja": "信念を貫いて行動する。",
+      "example_en": "He acts true to his convictions.",
+      "example_kana": "しんねんをつらぬいてこうどうする。"
+    },
+    {
+      "kanji": "倫理",
+      "kana": "りんり",
+      "meaning_en": "ethics, morality",
+      "meaning_ja": "人として守るべき道",
+      "example_ja": "倫理に反する行為だ。",
+      "example_en": "It is an act against ethics.",
+      "example_kana": "りんりにはんするこういだ。"
+    },
+    {
+      "kanji": "道徳",
+      "kana": "どうとく",
+      "meaning_en": "morality, ethics",
+      "meaning_ja": "善悪を判断する規範",
+      "example_ja": "学校で道徳を学ぶ。",
+      "example_en": "We learn morality at school.",
+      "example_kana": "がっこうでどうとくをまなぶ。"
+    },
+    {
+      "kanji": "美徳",
+      "kana": "びとく",
+      "meaning_en": "virtue, moral excellence",
+      "meaning_ja": "ほめるに値する美しい行い",
+      "example_ja": "謙虚は美徳とされる。",
+      "example_en": "Humility is considered a virtue.",
+      "example_kana": "けんきょはびとくとされる。"
+    },
+    {
+      "kanji": "悪徳",
+      "kana": "あくとく",
+      "meaning_en": "vice, immorality",
+      "meaning_ja": "人としてよくない行いや性質",
+      "example_ja": "悪徳商法に注意する。",
+      "example_en": "Beware of unethical business practices.",
+      "example_kana": "あくとくしょうほうにちゅういする。"
+    },
+    {
+      "kanji": "教養",
+      "kana": "きょうよう",
+      "meaning_en": "culture, refinement, education",
+      "meaning_ja": "学問や経験で培った人間性",
+      "example_ja": "彼は教養が深い人だ。",
+      "example_en": "He is a man of deep culture.",
+      "example_kana": "かれはきょうようがふかいひとだ。"
+    },
+    {
+      "kanji": "素養",
+      "kana": "そよう",
+      "meaning_en": "groundwork, foundation, training",
+      "meaning_ja": "日頃の修業で身につけた知識",
+      "example_ja": "音楽の素養がある。",
+      "example_en": "She has a foundation in music.",
+      "example_kana": "おんがくのそようがある。"
+    },
+    {
+      "kanji": "嗜み",
+      "kana": "たしなみ",
+      "meaning_en": "accomplishment, taste, modesty",
+      "meaning_ja": "心得ておくべき教養や慎み",
+      "example_ja": "茶道の嗜みがある。",
+      "example_en": "She has training in tea ceremony.",
+      "example_kana": "さどうのたしなみがある。"
+    },
+    {
+      "kanji": "造詣",
+      "kana": "ぞうけい",
+      "meaning_en": "deep knowledge, attainment",
+      "meaning_ja": "学問や芸術の深い知識",
+      "example_ja": "古典に造詣が深い。",
+      "example_en": "He has deep knowledge of classics.",
+      "example_kana": "こてんにぞうけいがふかい。"
+    },
+    {
+      "kanji": "薀蓄",
+      "kana": "うんちく",
+      "meaning_en": "deep knowledge, erudition",
+      "meaning_ja": "蓄えた深い学問や知識",
+      "example_ja": "ワインの薀蓄を傾ける。",
+      "example_en": "He pours out his knowledge of wine.",
+      "example_kana": "わいんのうんちくをかたむける。"
+    },
+    {
+      "kanji": "薫陶",
+      "kana": "くんとう",
+      "meaning_en": "education by example, training",
+      "meaning_ja": "徳によって人を導き育てること",
+      "example_ja": "恩師の薫陶を受けた。",
+      "example_en": "I received my mentor's tutelage.",
+      "example_kana": "おんしのくんとうをうけた。"
+    },
+    {
+      "kanji": "啓発",
+      "kana": "けいはつ",
+      "meaning_en": "enlightenment, edification",
+      "meaning_ja": "気づきを与えて理解を深めること",
+      "example_ja": "この本に大いに啓発された。",
+      "example_en": "I was greatly enlightened by this book.",
+      "example_kana": "このほんにおおいにけいはつされた。"
+    },
+    {
+      "kanji": "啓蒙",
+      "kana": "けいもう",
+      "meaning_en": "enlightenment, instruction",
+      "meaning_ja": "知識を授け教え導くこと",
+      "example_ja": "啓蒙活動に取り組む。",
+      "example_en": "He works on enlightenment activities.",
+      "example_kana": "けいもうかつどうにとりくむ。"
+    },
+    {
+      "kanji": "悟性",
+      "kana": "ごせい",
+      "meaning_en": "understanding, intellect",
+      "meaning_ja": "物事を理解し判断する力",
+      "example_ja": "悟性の働きを論じる。",
+      "example_en": "He discusses the workings of intellect.",
+      "example_kana": "ごせいのはたらきをろんじる。"
+    },
+    {
+      "kanji": "知見",
+      "kana": "ちけん",
+      "meaning_en": "knowledge, insight",
+      "meaning_ja": "経験から得た見識",
+      "example_ja": "新たな知見が得られた。",
+      "example_en": "New insights were obtained.",
+      "example_kana": "あらたなちけんがえられた。"
+    },
+    {
+      "kanji": "洞察",
+      "kana": "どうさつ",
+      "meaning_en": "insight, penetration",
+      "meaning_ja": "物事の本質を見抜くこと",
+      "example_ja": "鋭い洞察に感服する。",
+      "example_en": "I am impressed by his sharp insight.",
+      "example_kana": "するどいどうさつにかんぷくする。"
+    },
+    {
+      "kanji": "観照",
+      "kana": "かんしょう",
+      "meaning_en": "contemplation, observation",
+      "meaning_ja": "静かに対象を見つめ味わうこと",
+      "example_ja": "自然を観照する時間。",
+      "example_en": "Time to contemplate nature.",
+      "example_kana": "しぜんをかんしょうするじかん。"
+    },
+    {
+      "kanji": "鑑賞",
+      "kana": "かんしょう",
+      "meaning_en": "appreciation (of art)",
+      "meaning_ja": "芸術作品を味わい楽しむこと",
+      "example_ja": "絵画の鑑賞を趣味にする。",
+      "example_en": "I make painting appreciation my hobby.",
+      "example_kana": "かいがのかんしょうをしゅみにする。"
+    },
+    {
+      "kanji": "鑑識",
+      "kana": "かんしき",
+      "meaning_en": "discernment, judgment",
+      "meaning_ja": "良し悪しを見分ける力",
+      "example_ja": "骨董の鑑識眼を持つ。",
+      "example_en": "He has an eye for antiques.",
+      "example_kana": "こっとうのかんしきがんをもつ。"
+    },
+    {
+      "kanji": "審美",
+      "kana": "しんび",
+      "meaning_en": "aesthetic appreciation",
+      "meaning_ja": "美を見分け味わうこと",
+      "example_ja": "彼女は審美眼が高い。",
+      "example_en": "She has a refined aesthetic sense.",
+      "example_kana": "かのじょはしんびがんがたかい。"
+    },
+    {
+      "kanji": "情感",
+      "kana": "じょうかん",
+      "meaning_en": "feeling, emotion",
+      "meaning_ja": "しみじみと感じる気持ち",
+      "example_ja": "情感豊かな演奏だった。",
+      "example_en": "It was a richly emotive performance.",
+      "example_kana": "じょうかんゆたかなえんそうだった。"
+    },
+    {
+      "kanji": "情操",
+      "kana": "じょうそう",
+      "meaning_en": "sentiment, emotional refinement",
+      "meaning_ja": "感情を伴う高尚な心の働き",
+      "example_ja": "音楽は情操を育てる。",
+      "example_en": "Music cultivates the sentiments.",
+      "example_kana": "おんがくはじょうそうをそだてる。"
+    },
+    {
+      "kanji": "心境",
+      "kana": "しんきょう",
+      "meaning_en": "state of mind, mental state",
+      "meaning_ja": "そのときの心の状態",
+      "example_ja": "今の心境を語る。",
+      "example_en": "He speaks of his present state of mind.",
+      "example_kana": "いまのしんきょうをかたる。"
+    },
+    {
+      "kanji": "心象",
+      "kana": "しんしょう",
+      "meaning_en": "mental image, impression",
+      "meaning_ja": "心の中に浮かぶ姿",
+      "example_ja": "詩の心象風景を読む。",
+      "example_en": "I read the mental landscape of the poem.",
+      "example_kana": "しのしんしょうふうけいをよむ。"
+    },
+    {
+      "kanji": "心理",
+      "kana": "しんり",
+      "meaning_en": "psychology, mentality",
+      "meaning_ja": "心の動きや働き",
+      "example_ja": "犯人の心理を分析する。",
+      "example_en": "I analyze the criminal's psychology.",
+      "example_kana": "はんにんのしんりをぶんせきする。"
+    },
+    {
+      "kanji": "深層",
+      "kana": "しんそう",
+      "meaning_en": "depths, deep layer",
+      "meaning_ja": "心や物事の奥深い部分",
+      "example_ja": "深層心理を探る。",
+      "example_en": "We explore the deep psychology.",
+      "example_kana": "しんそうしんりをさぐる。"
+    },
+    {
+      "kanji": "潜在",
+      "kana": "せんざい",
+      "meaning_en": "latent, hidden",
+      "meaning_ja": "表に現れずひそんでいること",
+      "example_ja": "潜在能力を引き出す。",
+      "example_en": "He brings out latent abilities.",
+      "example_kana": "せんざいのうりょくをひきだす。"
+    },
+    {
+      "kanji": "顕在",
+      "kana": "けんざい",
+      "meaning_en": "manifest, obvious",
+      "meaning_ja": "はっきりと表に現れていること",
+      "example_ja": "問題が顕在化した。",
+      "example_en": "The problem has become apparent.",
+      "example_kana": "もんだいがけんざいかした。"
+    },
+    {
+      "kanji": "意識",
+      "kana": "いしき",
+      "meaning_en": "consciousness, awareness",
+      "meaning_ja": "自分や周囲を感じる心の働き",
+      "example_ja": "環境への意識が高まる。",
+      "example_en": "Environmental awareness is rising.",
+      "example_kana": "かんきょうへのいしきがたかまる。"
+    },
+    {
+      "kanji": "無意識",
+      "kana": "むいしき",
+      "meaning_en": "unconscious, unaware",
+      "meaning_ja": "意識していない心の働き",
+      "example_ja": "無意識に手が動いた。",
+      "example_en": "My hand moved unconsciously.",
+      "example_kana": "むいしきにてがうごいた。"
+    },
+    {
+      "kanji": "自意識",
+      "kana": "じいしき",
+      "meaning_en": "self-consciousness",
+      "meaning_ja": "自分自身についての意識",
+      "example_ja": "自意識が強すぎる人だ。",
+      "example_en": "He is too self-conscious a person.",
+      "example_kana": "じいしきがつよすぎるひとだ。"
+    },
+    {
+      "kanji": "脳裏",
+      "kana": "のうり",
+      "meaning_en": "one's mind, memory",
+      "meaning_ja": "心や頭の中",
+      "example_ja": "あの光景が脳裏をよぎる。",
+      "example_en": "That scene flashes through my mind.",
+      "example_kana": "あのこうけいがのうりをよぎる。"
+    },
+    {
+      "kanji": "胸中",
+      "kana": "きょうちゅう",
+      "meaning_en": "one's heart, inner thoughts",
+      "meaning_ja": "心の中で思っていること",
+      "example_ja": "彼の胸中を察する。",
+      "example_en": "I sense what is in his heart.",
+      "example_kana": "かれのきょうちゅうをさっする。"
+    },
+    {
+      "kanji": "腹心",
+      "kana": "ふくしん",
+      "meaning_en": "confidant, right-hand man",
+      "meaning_ja": "心から信頼できる人",
+      "example_ja": "彼は社長の腹心だ。",
+      "example_en": "He is the president's right-hand man.",
+      "example_kana": "かれはしゃちょうのふくしんだ。"
+    },
+    {
+      "kanji": "本心",
+      "kana": "ほんしん",
+      "meaning_en": "true intention, real motive",
+      "meaning_ja": "心の奥にある本当の気持ち",
+      "example_ja": "本心を打ち明ける。",
+      "example_en": "He reveals his true feelings.",
+      "example_kana": "ほんしんをうちあける。"
+    },
+    {
+      "kanji": "真情",
+      "kana": "しんじょう",
+      "meaning_en": "true feelings, sincerity",
+      "meaning_ja": "嘘のない本当の気持ち",
+      "example_ja": "真情あふれる手紙だった。",
+      "example_en": "It was a letter full of sincerity.",
+      "example_kana": "しんじょうあふれるてがみだった。"
+    },
+    {
+      "kanji": "衷心",
+      "kana": "ちゅうしん",
+      "meaning_en": "innermost heart, sincerity",
+      "meaning_ja": "心の底から思う気持ち",
+      "example_ja": "衷心よりお詫びする。",
+      "example_en": "I apologize from the bottom of my heart.",
+      "example_kana": "ちゅうしんよりおわびする。"
+    },
+    {
+      "kanji": "心痛",
+      "kana": "しんつう",
+      "meaning_en": "worry, anguish",
+      "meaning_ja": "心を痛めて悩むこと",
+      "example_ja": "親に心痛をかける。",
+      "example_en": "I cause my parents anguish.",
+      "example_kana": "おやにしんつうをかける。"
+    },
+    {
+      "kanji": "苦悩",
+      "kana": "くのう",
+      "meaning_en": "suffering, anguish",
+      "meaning_ja": "苦しみ悩むこと",
+      "example_ja": "深い苦悩を抱える。",
+      "example_en": "He bears deep suffering.",
+      "example_kana": "ふかいくのうをかかえる。"
+    },
+    {
+      "kanji": "煩悶",
+      "kana": "はんもん",
+      "meaning_en": "anguish, worry, agony",
+      "meaning_ja": "心が苦しみもだえること",
+      "example_ja": "夜通し煩悶する。",
+      "example_en": "He agonizes all night long.",
+      "example_kana": "よどおしはんもんする。"
+    },
+    {
+      "kanji": "焦燥",
+      "kana": "しょうそう",
+      "meaning_en": "impatience, irritation",
+      "meaning_ja": "気がいらだち焦ること",
+      "example_ja": "焦燥にかられて動く。",
+      "example_en": "He moves driven by impatience.",
+      "example_kana": "しょうそうにかられてうごく。"
+    },
+    {
+      "kanji": "焦慮",
+      "kana": "しょうりょ",
+      "meaning_en": "anxiety, impatience",
+      "meaning_ja": "焦って心を悩ますこと",
+      "example_ja": "結果を待つ焦慮の日々。",
+      "example_en": "Days of anxiety awaiting the result.",
+      "example_kana": "けっかをまつしょうりょのひび。"
+    },
+    {
+      "kanji": "懊悩",
+      "kana": "おうのう",
+      "meaning_en": "anguish, distress",
+      "meaning_ja": "深く悩み苦しむこと",
+      "example_ja": "彼は懊悩のうちに死んだ。",
+      "example_en": "He died in deep anguish.",
+      "example_kana": "かれはおうのうのうちにしんだ。"
+    },
+    {
+      "kanji": "悶え",
+      "kana": "もだえ",
+      "meaning_en": "agony, anguish",
+      "meaning_ja": "心や体が苦しみもだえること",
+      "example_ja": "失恋の悶えに苦しむ。",
+      "example_en": "He suffers the agony of lost love.",
+      "example_kana": "しつれんのもだえにくるしむ。"
+    },
+    {
+      "kanji": "恍惚",
+      "kana": "こうこつ",
+      "meaning_en": "ecstasy, rapture, trance",
+      "meaning_ja": "うっとりして我を忘れる状態",
+      "example_ja": "恍惚として音楽を聞く。",
+      "example_en": "He listens to music in ecstasy.",
+      "example_kana": "こうこつとしておんがくをきく。"
+    },
+    {
+      "kanji": "陶酔",
+      "kana": "とうすい",
+      "meaning_en": "intoxication, rapture",
+      "meaning_ja": "心を奪われ酔いしれること",
+      "example_ja": "演奏に陶酔する。",
+      "example_en": "He is enraptured by the performance.",
+      "example_kana": "えんそうにとうすいする。"
+    },
+    {
+      "kanji": "陶冶",
+      "kana": "とうや",
+      "meaning_en": "cultivation, training, edification",
+      "meaning_ja": "人格を養い育てること",
+      "example_ja": "人格の陶冶に努める。",
+      "example_en": "He strives to cultivate his character.",
+      "example_kana": "じんかくのとうやにつとめる。"
+    },
+    {
+      "kanji": "高揚",
+      "kana": "こうよう",
+      "meaning_en": "exaltation, elevation",
+      "meaning_ja": "気分や精神が高まること",
+      "example_ja": "気分が高揚している。",
+      "example_en": "My spirits are elevated.",
+      "example_kana": "きぶんがこうようしている。"
+    },
+    {
+      "kanji": "鼓舞",
+      "kana": "こぶ",
+      "meaning_en": "encouragement, inspiration",
+      "meaning_ja": "気持ちを奮い立たせること",
+      "example_ja": "仲間を鼓舞して進む。",
+      "example_en": "He inspires comrades to move on.",
+      "example_kana": "なかまをこぶしてすすむ。"
+    },
+    {
+      "kanji": "鼓動",
+      "kana": "こどう",
+      "meaning_en": "heartbeat, pulsation",
+      "meaning_ja": "心臓の打つ音",
+      "example_ja": "胸の鼓動が高まる。",
+      "example_en": "My heartbeat quickens.",
+      "example_kana": "むねのこどうがたかまる。"
+    },
+    {
+      "kanji": "胸騒ぎ",
+      "kana": "むなさわぎ",
+      "meaning_en": "uneasy feeling, premonition",
+      "meaning_ja": "悪い予感で胸がざわつくこと",
+      "example_ja": "嫌な胸騒ぎがする。",
+      "example_en": "I have an unpleasant premonition.",
+      "example_kana": "いやなむなさわぎがする。"
+    },
+    {
+      "kanji": "嫌悪",
+      "kana": "けんお",
+      "meaning_en": "disgust, hatred",
+      "meaning_ja": "嫌ってにくむこと",
+      "example_ja": "暴力に嫌悪を感じる。",
+      "example_en": "I feel disgust toward violence.",
+      "example_kana": "ぼうりょくにけんおをかんじる。"
+    },
+    {
+      "kanji": "憎悪",
+      "kana": "ぞうお",
+      "meaning_en": "hatred, abhorrence",
+      "meaning_ja": "強く憎み嫌うこと",
+      "example_ja": "彼への憎悪が募る。",
+      "example_en": "My hatred for him grows.",
+      "example_kana": "かれへのぞうおがつのる。"
+    },
+    {
+      "kanji": "憤怒",
+      "kana": "ふんぬ",
+      "meaning_en": "rage, fury",
+      "meaning_ja": "激しく怒ること",
+      "example_ja": "憤怒の表情を浮かべる。",
+      "example_en": "He shows a face of fury.",
+      "example_kana": "ふんぬのひょうじょうをうかべる。"
+    },
+    {
+      "kanji": "激怒",
+      "kana": "げきど",
+      "meaning_en": "rage, fury",
+      "meaning_ja": "ひどく怒ること",
+      "example_ja": "父は激怒して帰った。",
+      "example_en": "My father returned in a rage.",
+      "example_kana": "ちちはげきどしてかえった。"
+    },
+    {
+      "kanji": "激情",
+      "kana": "げきじょう",
+      "meaning_en": "passion, vehement emotion",
+      "meaning_ja": "激しく動く感情",
+      "example_ja": "激情に駆られて叫ぶ。",
+      "example_en": "He shouts driven by passion.",
+      "example_kana": "げきじょうにかられてさけぶ。"
+    },
+    {
+      "kanji": "情念",
+      "kana": "じょうねん",
+      "meaning_en": "deep emotion, passion",
+      "meaning_ja": "心に強くとどまる感情",
+      "example_ja": "詩は情念をあらわす。",
+      "example_en": "The poem expresses deep emotion.",
+      "example_kana": "しはじょうねんをあらわす。"
+    },
+    {
+      "kanji": "煩悩",
+      "kana": "ぼんのう",
+      "meaning_en": "earthly desires, worldly passions",
+      "meaning_ja": "心身を悩ます欲望や迷い",
+      "example_ja": "煩悩を断ち切る。",
+      "example_en": "He severs worldly desires.",
+      "example_kana": "ぼんのうをたちきる。"
+    },
+    {
+      "kanji": "欲求",
+      "kana": "よっきゅう",
+      "meaning_en": "desire, want, craving",
+      "meaning_ja": "ほしがり求めること",
+      "example_ja": "欲求を抑える。",
+      "example_en": "I restrain my desires.",
+      "example_kana": "よっきゅうをおさえる。"
+    },
+    {
+      "kanji": "渇望",
+      "kana": "かつぼう",
+      "meaning_en": "craving, longing",
+      "meaning_ja": "強く望み求めること",
+      "example_ja": "自由を渇望する。",
+      "example_en": "He yearns for freedom.",
+      "example_kana": "じゆうをかつぼうする。"
+    },
+    {
+      "kanji": "切望",
+      "kana": "せつぼう",
+      "meaning_en": "earnest desire, longing",
+      "meaning_ja": "心から強く望むこと",
+      "example_ja": "再会を切望している。",
+      "example_en": "I earnestly desire to meet again.",
+      "example_kana": "さいかいをせつぼうしている。"
+    },
+    {
+      "kanji": "熱望",
+      "kana": "ねつぼう",
+      "meaning_en": "fervent wish, eager desire",
+      "meaning_ja": "強く熱心に望むこと",
+      "example_ja": "留学を熱望する学生。",
+      "example_en": "A student who fervently desires to study abroad.",
+      "example_kana": "りゅうがくをねつぼうするがくせい。"
+    },
+    {
+      "kanji": "希求",
+      "kana": "ききゅう",
+      "meaning_en": "aspiration, longing",
+      "meaning_ja": "強く望み求めること",
+      "example_ja": "平和を希求する。",
+      "example_en": "We aspire for peace.",
+      "example_kana": "へいわをききゅうする。"
+    },
+    {
+      "kanji": "希望",
+      "kana": "きぼう",
+      "meaning_en": "hope, wish",
+      "meaning_ja": "こうあってほしいと望むこと",
+      "example_ja": "未来に希望を持つ。",
+      "example_en": "He holds hope for the future.",
+      "example_kana": "みらいにきぼうをもつ。"
+    },
+    {
+      "kanji": "絶望",
+      "kana": "ぜつぼう",
+      "meaning_en": "despair, hopelessness",
+      "meaning_ja": "希望を失うこと",
+      "example_ja": "失敗に絶望する。",
+      "example_en": "He despairs at the failure.",
+      "example_kana": "しっぱいにぜつぼうする。"
+    },
+    {
+      "kanji": "失意",
+      "kana": "しつい",
+      "meaning_en": "disappointment, despair",
+      "meaning_ja": "願いがかなわず気落ちすること",
+      "example_ja": "失意のうちに帰国した。",
+      "example_en": "He returned home in disappointment.",
+      "example_kana": "しついのうちにきこくした。"
+    },
+    {
+      "kanji": "落胆",
+      "kana": "らくたん",
+      "meaning_en": "disappointment, discouragement",
+      "meaning_ja": "がっかりして気を落とすこと",
+      "example_ja": "結果に落胆する。",
+      "example_en": "He is disappointed by the result.",
+      "example_kana": "けっかにらくたんする。"
+    },
+    {
+      "kanji": "嘆息",
+      "kana": "たんそく",
+      "meaning_en": "sigh, deep breath",
+      "meaning_ja": "ため息をついて嘆くこと",
+      "example_ja": "思わず嘆息をもらす。",
+      "example_en": "I unintentionally let out a sigh.",
+      "example_kana": "おもわずたんそくをもらす。"
+    },
+    {
+      "kanji": "悲嘆",
+      "kana": "ひたん",
+      "meaning_en": "grief, sorrow, lamentation",
+      "meaning_ja": "悲しみ嘆くこと",
+      "example_ja": "悲嘆に暮れる遺族。",
+      "example_en": "The family is sunk in grief.",
+      "example_kana": "ひたんにくれるいぞく。"
+    },
+    {
+      "kanji": "哀悼",
+      "kana": "あいとう",
+      "meaning_en": "condolence, mourning",
+      "meaning_ja": "人の死を悲しみ悼むこと",
+      "example_ja": "心から哀悼の意を表す。",
+      "example_en": "I express my heartfelt condolences.",
+      "example_kana": "こころからあいとうのいをあらわす。"
+    },
+    {
+      "kanji": "弔意",
+      "kana": "ちょうい",
+      "meaning_en": "condolences, sympathy",
+      "meaning_ja": "死者を悼む気持ち",
+      "example_ja": "弔意を表する。",
+      "example_en": "He expresses condolences.",
+      "example_kana": "ちょういをひょうする。"
+    },
+    {
+      "kanji": "悼む",
+      "kana": "いたむ",
+      "meaning_en": "to mourn, to grieve",
+      "meaning_ja": "人の死を悲しみ嘆く",
+      "example_ja": "故人を悼む集まり。",
+      "example_en": "A gathering to mourn the deceased.",
+      "example_kana": "こじんをいたむあつまり。"
+    },
+    {
+      "kanji": "偲ぶ",
+      "kana": "しのぶ",
+      "meaning_en": "to recollect, to remember fondly",
+      "meaning_ja": "過ぎたことや人を懐かしく思う",
+      "example_ja": "亡き友を偲ぶ。",
+      "example_en": "He fondly remembers his late friend.",
+      "example_kana": "なきともをしのぶ。"
+    },
+    {
+      "kanji": "慕情",
+      "kana": "ぼじょう",
+      "meaning_en": "longing, yearning, love",
+      "meaning_ja": "恋しく思い慕う気持ち",
+      "example_ja": "故郷への慕情がわく。",
+      "example_en": "Longing for my hometown wells up.",
+      "example_kana": "こきょうへのぼじょうがわく。"
+    },
+    {
+      "kanji": "憧憬",
+      "kana": "しょうけい",
+      "meaning_en": "longing, yearning, aspiration",
+      "meaning_ja": "強く心ひかれ慕うこと",
+      "example_ja": "西洋文化への憧憬。",
+      "example_en": "A longing for Western culture.",
+      "example_kana": "せいようぶんかへのしょうけい。"
+    },
+    {
+      "kanji": "敬慕",
+      "kana": "けいぼ",
+      "meaning_en": "love and respect",
+      "meaning_ja": "尊敬し慕うこと",
+      "example_ja": "師を敬慕する。",
+      "example_en": "He reveres his master.",
+      "example_kana": "しをけいぼする。"
+    },
+    {
+      "kanji": "畏敬",
+      "kana": "いけい",
+      "meaning_en": "reverence, awe",
+      "meaning_ja": "おそれうやまうこと",
+      "example_ja": "自然に畏敬の念を抱く。",
+      "example_en": "I hold reverence for nature.",
+      "example_kana": "しぜんにいけいのねんをいだく。"
+    },
+    {
+      "kanji": "畏怖",
+      "kana": "いふ",
+      "meaning_en": "awe, fear",
+      "meaning_ja": "おそれおののくこと",
+      "example_ja": "神々への畏怖。",
+      "example_en": "Awe of the gods.",
+      "example_kana": "かみがみへのいふ。"
+    },
+    {
+      "kanji": "畏怖の念",
+      "kana": "いふのねん",
+      "meaning_en": "feeling of awe",
+      "meaning_ja": "おそれの気持ち",
+      "example_ja": "畏怖の念にうたれる。",
+      "example_en": "I am struck by a feeling of awe.",
+      "example_kana": "いふのねんにうたれる。"
+    },
+    {
+      "kanji": "謙遜",
+      "kana": "けんそん",
+      "meaning_en": "humility, modesty",
+      "meaning_ja": "自分を低く見せる態度",
+      "example_ja": "謙遜の美徳を保つ。",
+      "example_en": "He maintains the virtue of humility.",
+      "example_kana": "けんそんのびとくをたもつ。"
+    },
+    {
+      "kanji": "傲慢",
+      "kana": "ごうまん",
+      "meaning_en": "arrogance, haughtiness",
+      "meaning_ja": "おごり高ぶる態度",
+      "example_ja": "傲慢な態度を改める。",
+      "example_en": "He corrects his arrogant attitude.",
+      "example_kana": "ごうまんなたいどをあらためる。"
+    },
+    {
+      "kanji": "高慢",
+      "kana": "こうまん",
+      "meaning_en": "haughtiness, pride",
+      "meaning_ja": "得意になって人を見下すこと",
+      "example_ja": "高慢な物言いを嫌う。",
+      "example_en": "I dislike a haughty way of speaking.",
+      "example_kana": "こうまんなものいいをきらう。"
+    },
+    {
+      "kanji": "虚栄",
+      "kana": "きょえい",
+      "meaning_en": "vanity, vainglory",
+      "meaning_ja": "うわべを飾り見栄を張ること",
+      "example_ja": "虚栄心を捨てる。",
+      "example_en": "He abandons his vanity.",
+      "example_kana": "きょえいしんをすてる。"
+    },
+    {
+      "kanji": "虚無",
+      "kana": "きょむ",
+      "meaning_en": "nihility, emptiness",
+      "meaning_ja": "何も価値がないと感じること",
+      "example_ja": "虚無感に襲われる。",
+      "example_en": "A sense of emptiness overcomes me.",
+      "example_kana": "きょむかんにおそわれる。"
+    },
+    {
+      "kanji": "空虚",
+      "kana": "くうきょ",
+      "meaning_en": "emptiness, void",
+      "meaning_ja": "中身がなくむなしいこと",
+      "example_ja": "空虚な日々を過ごす。",
+      "example_en": "He spends empty days.",
+      "example_kana": "くうきょなひびをすごす。"
+    },
+    {
+      "kanji": "空白",
+      "kana": "くうはく",
+      "meaning_en": "blank, void, gap",
+      "meaning_ja": "何もない空いた所",
+      "example_ja": "記憶に空白がある。",
+      "example_en": "There is a gap in my memory.",
+      "example_kana": "きおくにくうはくがある。"
+    },
+    {
+      "kanji": "孤高",
+      "kana": "ここう",
+      "meaning_en": "aloofness, solitary nobility",
+      "meaning_ja": "一人気高く生きること",
+      "example_ja": "孤高の詩人と呼ばれる。",
+      "example_en": "He is called an aloof poet.",
+      "example_kana": "ここうのしじんとよばれる。"
+    },
+    {
+      "kanji": "孤愁",
+      "kana": "こしゅう",
+      "meaning_en": "lonely sorrow",
+      "meaning_ja": "一人で抱える寂しい思い",
+      "example_ja": "孤愁を抱いて旅をする。",
+      "example_en": "He travels carrying lonely sorrow.",
+      "example_kana": "こしゅうをいだいてたびをする。"
+    },
+    {
+      "kanji": "寂寥",
+      "kana": "せきりょう",
+      "meaning_en": "loneliness, desolation",
+      "meaning_ja": "ひっそりとしてものさびしいこと",
+      "example_ja": "冬の海に寂寥を感じる。",
+      "example_en": "I feel desolation by the winter sea.",
+      "example_kana": "ふゆのうみにせきりょうをかんじる。"
+    },
+    {
+      "kanji": "蕭条",
+      "kana": "しょうじょう",
+      "meaning_en": "desolate, dreary",
+      "meaning_ja": "ものさびしくひっそりとした様",
+      "example_ja": "蕭条たる枯野が広がる。",
+      "example_en": "A desolate withered field spreads.",
+      "example_kana": "しょうじょうたるかれのがひろがる。"
+    },
+    {
+      "kanji": "閑静",
+      "kana": "かんせい",
+      "meaning_en": "quiet, tranquil",
+      "meaning_ja": "もの静かでひっそりしていること",
+      "example_ja": "閑静な住宅街に住む。",
+      "example_en": "He lives in a quiet residential area.",
+      "example_kana": "かんせいなじゅうたくがいにすむ。"
+    },
+    {
+      "kanji": "静謐",
+      "kana": "せいひつ",
+      "meaning_en": "tranquility, stillness",
+      "meaning_ja": "世の中や心が静かなこと",
+      "example_ja": "静謐な森を歩く。",
+      "example_en": "I walk through the tranquil forest.",
+      "example_kana": "せいひつなもりをあるく。"
+    },
+    {
+      "kanji": "悠久",
+      "kana": "ゆうきゅう",
+      "meaning_en": "eternity, perpetuity",
+      "meaning_ja": "果てしなく長く続くこと",
+      "example_ja": "悠久の歴史を持つ。",
+      "example_en": "It has an eternal history.",
+      "example_kana": "ゆうきゅうのれきしをもつ。"
+    },
+    {
+      "kanji": "悠然",
+      "kana": "ゆうぜん",
+      "meaning_en": "calm, composed",
+      "meaning_ja": "落ち着きはらっているさま",
+      "example_ja": "悠然と構えて待つ。",
+      "example_en": "He waits composed and calm.",
+      "example_kana": "ゆうぜんとかまえてまつ。"
+    },
+    {
+      "kanji": "悠長",
+      "kana": "ゆうちょう",
+      "meaning_en": "leisurely, slow",
+      "meaning_ja": "ゆったりとして急がないさま",
+      "example_ja": "悠長に構えてはいられない。",
+      "example_en": "I cannot afford to take it slowly.",
+      "example_kana": "ゆうちょうにかまえてはいられない。"
+    },
+    {
+      "kanji": "泰然",
+      "kana": "たいぜん",
+      "meaning_en": "calm, self-possessed",
+      "meaning_ja": "落ち着きはらって動じないさま",
+      "example_ja": "泰然自若としている。",
+      "example_en": "He remains calm and unshaken.",
+      "example_kana": "たいぜんじじゃくとしている。"
+    },
+    {
+      "kanji": "毅然",
+      "kana": "きぜん",
+      "meaning_en": "resolute, firm",
+      "meaning_ja": "意志が強くしっかりしているさま",
+      "example_ja": "毅然とした態度で臨む。",
+      "example_en": "He faces it with a resolute attitude.",
+      "example_kana": "きぜんとしたたいどでのぞむ。"
+    },
+    {
+      "kanji": "敢然",
+      "kana": "かんぜん",
+      "meaning_en": "boldly, resolutely",
+      "meaning_ja": "思いきって行うさま",
+      "example_ja": "敢然と立ち向かう。",
+      "example_en": "He faces it boldly.",
+      "example_kana": "かんぜんとたちむかう。"
+    },
+    {
+      "kanji": "果敢",
+      "kana": "かかん",
+      "meaning_en": "resolute, daring",
+      "meaning_ja": "決断力があって思いきってやる",
+      "example_ja": "果敢に挑戦する。",
+      "example_en": "He boldly takes up the challenge.",
+      "example_kana": "かかんにちょうせんする。"
+    },
+    {
+      "kanji": "悲壮",
+      "kana": "ひそう",
+      "meaning_en": "tragic and brave, heroic",
+      "meaning_ja": "悲しい中に勇ましいさま",
+      "example_ja": "悲壮な決意を抱く。",
+      "example_en": "He holds a tragic, brave resolve.",
+      "example_kana": "ひそうなけついをいだく。"
+    },
+    {
+      "kanji": "壮絶",
+      "kana": "そうぜつ",
+      "meaning_en": "fierce, dramatic",
+      "meaning_ja": "極めて勇ましく激しいさま",
+      "example_ja": "壮絶な戦いを繰り広げる。",
+      "example_en": "They wage a fierce battle.",
+      "example_kana": "そうぜつなたたかいをくりひろげる。"
+    },
+    {
+      "kanji": "壮麗",
+      "kana": "そうれい",
+      "meaning_en": "magnificent, splendid",
+      "meaning_ja": "雄大で美しいさま",
+      "example_ja": "壮麗な宮殿に見とれる。",
+      "example_en": "I gaze at the magnificent palace.",
+      "example_kana": "そうれいなきゅうでんにみとれる。"
+    },
+    {
+      "kanji": "華麗",
+      "kana": "かれい",
+      "meaning_en": "magnificent, splendid",
+      "meaning_ja": "はなやかで美しいこと",
+      "example_ja": "華麗な舞踏会だった。",
+      "example_en": "It was a splendid ball.",
+      "example_kana": "かれいなぶとうかいだった。"
+    },
+    {
+      "kanji": "絢爛",
+      "kana": "けんらん",
+      "meaning_en": "gorgeous, dazzling",
+      "meaning_ja": "きらびやかで美しいさま",
+      "example_ja": "豪華絢爛な衣装。",
+      "example_en": "A gorgeous and dazzling costume.",
+      "example_kana": "ごうかけんらんないしょう。"
+    },
+    {
+      "kanji": "婉麗",
+      "kana": "えんれい",
+      "meaning_en": "graceful and beautiful",
+      "meaning_ja": "やさしくて美しいこと",
+      "example_ja": "婉麗な舞いに見惚れる。",
+      "example_en": "I am charmed by the graceful dance.",
+      "example_kana": "えんれいなまいにみとれる。"
+    },
+    {
+      "kanji": "妖艶",
+      "kana": "ようえん",
+      "meaning_en": "voluptuous, bewitchingly beautiful",
+      "meaning_ja": "あやしく艶めかしい美しさ",
+      "example_ja": "妖艶な笑みを浮かべる。",
+      "example_en": "She wears a bewitching smile.",
+      "example_kana": "ようえんなえみをうかべる。"
+    },
+    {
+      "kanji": "凛然",
+      "kana": "りんぜん",
+      "meaning_en": "dignified, brave",
+      "meaning_ja": "凛々しく引き締まったさま",
+      "example_ja": "凛然たる姿で語る。",
+      "example_en": "He speaks with a dignified bearing.",
+      "example_kana": "りんぜんたるすがたでかたる。"
+    },
+    {
+      "kanji": "凛々しい",
+      "kana": "りりしい",
+      "meaning_en": "gallant, dignified",
+      "meaning_ja": "引き締まって勇ましいさま",
+      "example_ja": "凛々しい若者だ。",
+      "example_en": "He is a gallant young man.",
+      "example_kana": "りりしいわかものだ。"
+    },
+    {
+      "kanji": "気高い",
+      "kana": "けだかい",
+      "meaning_en": "noble, refined",
+      "meaning_ja": "上品で気品があるさま",
+      "example_ja": "気高い心を持つ人。",
+      "example_en": "A person with a noble heart.",
+      "example_kana": "けだかいこころをもつひと。"
+    },
+    {
+      "kanji": "麗しい",
+      "kana": "うるわしい",
+      "meaning_en": "beautiful, lovely",
+      "meaning_ja": "美しく心を打つさま",
+      "example_ja": "麗しい友情を結ぶ。",
+      "example_en": "They form a beautiful friendship.",
+      "example_kana": "うるわしいゆうじょうをむすぶ。"
+    },
+    {
+      "kanji": "艶やか",
+      "kana": "あでやか",
+      "meaning_en": "charming, alluring",
+      "meaning_ja": "華やかで美しいさま",
+      "example_ja": "艶やかな着物姿。",
+      "example_en": "A charming figure in kimono.",
+      "example_kana": "あでやかなきものすがた。"
+    },
+    {
+      "kanji": "華美",
+      "kana": "かび",
+      "meaning_en": "showy, gaudy",
+      "meaning_ja": "はなやかで美しいこと",
+      "example_ja": "華美な服装を避ける。",
+      "example_en": "I avoid showy clothes.",
+      "example_kana": "かびなふくそうをさける。"
+    },
+    {
+      "kanji": "風貌",
+      "kana": "ふうぼう",
+      "meaning_en": "looks, appearance",
+      "meaning_ja": "顔つきや姿のようす",
+      "example_ja": "学者らしい風貌だ。",
+      "example_en": "He has the appearance of a scholar.",
+      "example_kana": "がくしゃらしいふうぼうだ。"
+    },
+    {
+      "kanji": "面影",
+      "kana": "おもかげ",
+      "meaning_en": "vestige, image, trace",
+      "meaning_ja": "心に浮かぶ姿や名残",
+      "example_ja": "亡き父の面影を偲ぶ。",
+      "example_en": "I recall the image of my late father.",
+      "example_kana": "なきちちのおもかげをしのぶ。"
+    },
+    {
+      "kanji": "形跡",
+      "kana": "けいせき",
+      "meaning_en": "trace, vestige, sign",
+      "meaning_ja": "事の起こったあと",
+      "example_ja": "侵入の形跡を調べる。",
+      "example_en": "We investigate signs of intrusion.",
+      "example_kana": "しんにゅうのけいせきをしらべる。"
+    },
+    {
+      "kanji": "痕跡",
+      "kana": "こんせき",
+      "meaning_en": "trace, mark, vestige",
+      "meaning_ja": "何かがあったあと",
+      "example_ja": "痕跡をたどる。",
+      "example_en": "We follow the traces.",
+      "example_kana": "こんせきをたどる。"
+    },
+    {
+      "kanji": "余韻嫋々",
+      "kana": "よいんじょうじょう",
+      "meaning_en": "lingering echo",
+      "meaning_ja": "音や感動の余りが長く残るさま",
+      "example_ja": "余韻嫋々たる音色。",
+      "example_en": "A tone with a long-lingering echo.",
+      "example_kana": "よいんじょうじょうたるねいろ。"
+    },
+    {
+      "kanji": "余情",
+      "kana": "よじょう",
+      "meaning_en": "lingering charm, aftertaste",
+      "meaning_ja": "あとに残る趣や感じ",
+      "example_ja": "和歌の余情を味わう。",
+      "example_en": "I savor the lingering charm of the waka.",
+      "example_kana": "わかのよじょうをあじわう。"
+    },
+    {
+      "kanji": "詩情",
+      "kana": "しじょう",
+      "meaning_en": "poetic feeling, lyricism",
+      "meaning_ja": "詩のような味わいや気持ち",
+      "example_ja": "詩情あふれる風景画。",
+      "example_en": "A landscape full of poetic feeling.",
+      "example_kana": "しじょうあふれるふうけいが。"
+    },
+    {
+      "kanji": "詩興",
+      "kana": "しきょう",
+      "meaning_en": "poetic inspiration",
+      "meaning_ja": "詩を作りたくなる気持ち",
+      "example_ja": "月を見て詩興がわく。",
+      "example_en": "Looking at the moon stirs poetic inspiration.",
+      "example_kana": "つきをみてしきょうがわく。"
+    },
+    {
+      "kanji": "創作",
+      "kana": "そうさく",
+      "meaning_en": "creative work, creation",
+      "meaning_ja": "新しい作品をつくり出すこと",
+      "example_ja": "小説の創作に励む。",
+      "example_en": "He devotes himself to writing novels.",
+      "example_kana": "しょうせつのそうさくにはげむ。"
+    },
+    {
+      "kanji": "創造",
+      "kana": "そうぞう",
+      "meaning_en": "creation, creativity",
+      "meaning_ja": "新しいものを作り出すこと",
+      "example_ja": "創造の喜びを知る。",
+      "example_en": "He knows the joy of creation.",
+      "example_kana": "そうぞうのよろこびをしる。"
+    },
+    {
+      "kanji": "創意",
+      "kana": "そうい",
+      "meaning_en": "originality, ingenuity",
+      "meaning_ja": "新しい工夫を考えだす力",
+      "example_ja": "創意工夫を凝らす。",
+      "example_en": "He devises ingenious ideas.",
+      "example_kana": "そういくふうをこらす。"
+    },
+    {
+      "kanji": "着想",
+      "kana": "ちゃくそう",
+      "meaning_en": "idea, conception",
+      "meaning_ja": "思いつき、新しい考え",
+      "example_ja": "ユニークな着想を得る。",
+      "example_en": "He gets a unique idea.",
+      "example_kana": "ゆにーくなちゃくそうをえる。"
+    },
+    {
+      "kanji": "発想",
+      "kana": "はっそう",
+      "meaning_en": "idea, conception",
+      "meaning_ja": "考えを生み出すこと",
+      "example_ja": "柔軟な発想が必要だ。",
+      "example_en": "Flexible thinking is needed.",
+      "example_kana": "じゅうなんなはっそうがひつようだ。"
+    },
+    {
+      "kanji": "構想力",
+      "kana": "こうそうりょく",
+      "meaning_en": "creative imagination",
+      "meaning_ja": "全体を組み立てる力",
+      "example_ja": "壮大な構想力に驚く。",
+      "example_en": "I am amazed at his grand imagination.",
+      "example_kana": "そうだいなこうそうりょくにおどろく。"
+    },
+    {
+      "kanji": "想像力",
+      "kana": "そうぞうりょく",
+      "meaning_en": "imagination",
+      "meaning_ja": "心の中に思い描く力",
+      "example_ja": "想像力を働かせる。",
+      "example_en": "He uses his imagination.",
+      "example_kana": "そうぞうりょくをはたらかせる。"
+    },
+    {
+      "kanji": "空想",
+      "kana": "くうそう",
+      "meaning_en": "daydream, fantasy",
+      "meaning_ja": "現実ばなれの想像",
+      "example_ja": "空想にふける午後。",
+      "example_en": "An afternoon lost in daydreams.",
+      "example_kana": "くうそうにふけるごご。"
+    },
+    {
+      "kanji": "幻想",
+      "kana": "げんそう",
+      "meaning_en": "illusion, fantasy",
+      "meaning_ja": "現実にはないことを思い描くこと",
+      "example_ja": "幻想的な情景を描く。",
+      "example_en": "He depicts a fantastic scene.",
+      "example_kana": "げんそうてきなじょうけいをえがく。"
+    },
+    {
+      "kanji": "幻影",
+      "kana": "げんえい",
+      "meaning_en": "phantom, illusion",
+      "meaning_ja": "実際にはない姿が見えること",
+      "example_ja": "亡き母の幻影を見る。",
+      "example_en": "He sees the phantom of his late mother.",
+      "example_kana": "なきははのげんえいをみる。"
+    },
+    {
+      "kanji": "幻滅",
+      "kana": "げんめつ",
+      "meaning_en": "disillusionment",
+      "meaning_ja": "理想と現実の差で失望すること",
+      "example_ja": "現実に幻滅した。",
+      "example_en": "I was disillusioned by reality.",
+      "example_kana": "げんじつにげんめつした。"
+    },
+    {
+      "kanji": "理想",
+      "kana": "りそう",
+      "meaning_en": "ideal",
+      "meaning_ja": "そうあってほしいと考える最上の状態",
+      "example_ja": "理想を追い求める。",
+      "example_en": "He pursues his ideal.",
+      "example_kana": "りそうをおいもとめる。"
+    },
+    {
+      "kanji": "理想郷",
+      "kana": "りそうきょう",
+      "meaning_en": "utopia, ideal land",
+      "meaning_ja": "完全で理想的な世界",
+      "example_ja": "理想郷を夢見る。",
+      "example_en": "He dreams of utopia.",
+      "example_kana": "りそうきょうをゆめみる。"
+    },
+    {
+      "kanji": "桃源郷",
+      "kana": "とうげんきょう",
+      "meaning_en": "shangri-la, paradise",
+      "meaning_ja": "俗世を離れた理想の地",
+      "example_ja": "ここは桃源郷のようだ。",
+      "example_en": "This place is like a paradise.",
+      "example_kana": "ここはとうげんきょうのようだ。"
+    },
+    {
+      "kanji": "悟り",
+      "kana": "さとり",
+      "meaning_en": "enlightenment, realization",
+      "meaning_ja": "真理に気づいて迷いから離れること",
+      "example_ja": "禅の悟りを開く。",
+      "example_en": "He attains Zen enlightenment.",
+      "example_kana": "ぜんのさとりをひらく。"
+    },
+    {
+      "kanji": "無常",
+      "kana": "むじょう",
+      "meaning_en": "transience, impermanence",
+      "meaning_ja": "すべては移り変わるという考え",
+      "example_ja": "諸行無常を悟る。",
+      "example_en": "He realizes the impermanence of all things.",
+      "example_kana": "しょぎょうむじょうをさとる。"
+    },
+    {
+      "kanji": "無心",
+      "kana": "むしん",
+      "meaning_en": "innocence, free from worldly thoughts",
+      "meaning_ja": "雑念のない状態",
+      "example_ja": "子供は無心に遊ぶ。",
+      "example_en": "Children play with innocent hearts.",
+      "example_kana": "こどもはむしんにあそぶ。"
+    },
+    {
+      "kanji": "無我",
+      "kana": "むが",
+      "meaning_en": "selflessness, ecstasy",
+      "meaning_ja": "我を忘れた状態",
+      "example_ja": "無我の境地に入る。",
+      "example_en": "He enters the state of selflessness.",
+      "example_kana": "むがのきょうちにはいる。"
+    },
+    {
+      "kanji": "境地",
+      "kana": "きょうち",
+      "meaning_en": "state, mental state",
+      "meaning_ja": "心の到達したありさま",
+      "example_ja": "新たな境地に至る。",
+      "example_en": "He reaches a new state of mind.",
+      "example_kana": "あらたなきょうちにいたる。"
+    },
+    {
+      "kanji": "境涯",
+      "kana": "きょうがい",
+      "meaning_en": "circumstances, one's lot",
+      "meaning_ja": "その人の置かれた境遇",
+      "example_ja": "厳しい境涯に育つ。",
+      "example_en": "He grew up in harsh circumstances.",
+      "example_kana": "きびしいきょうがいにそだつ。"
+    },
+    {
+      "kanji": "宿縁",
+      "kana": "しゅくえん",
+      "meaning_en": "fate, karma",
+      "meaning_ja": "前世からの縁",
+      "example_ja": "二人は宿縁で結ばれた。",
+      "example_en": "The two are bound by fate.",
+      "example_kana": "ふたりはしゅくえんでむすばれた。"
+    },
+    {
+      "kanji": "因縁",
+      "kana": "いんねん",
+      "meaning_en": "fate, karma, connection",
+      "meaning_ja": "前から定まっているめぐり合わせ",
+      "example_ja": "因縁の対決を迎える。",
+      "example_en": "They face a fated showdown.",
+      "example_kana": "いんねんのたいけつをむかえる。"
+    },
+    {
+      "kanji": "宿命的",
+      "kana": "しゅくめいてき",
+      "meaning_en": "fated, predestined",
+      "meaning_ja": "あらかじめ定まっているような",
+      "example_ja": "宿命的な出会い。",
+      "example_en": "A fated encounter.",
+      "example_kana": "しゅくめいてきなであい。"
+    },
+    {
+      "kanji": "邂逅",
+      "kana": "かいこう",
+      "meaning_en": "chance encounter",
+      "meaning_ja": "思いがけず出会うこと",
+      "example_ja": "運命の邂逅を果たす。",
+      "example_en": "They have a fateful encounter.",
+      "example_kana": "うんめいのかいこうをはたす。"
+    },
+    {
+      "kanji": "別離",
+      "kana": "べつり",
+      "meaning_en": "parting, separation",
+      "meaning_ja": "別れること",
+      "example_ja": "別離の悲しみに耐える。",
+      "example_en": "She endures the sorrow of parting.",
+      "example_kana": "べつりのかなしみにたえる。"
+    },
+    {
+      "kanji": "離別",
+      "kana": "りべつ",
+      "meaning_en": "separation, parting",
+      "meaning_ja": "別れ離れになること",
+      "example_ja": "夫と離別する。",
+      "example_en": "She separates from her husband.",
+      "example_kana": "おっととりべつする。"
+    },
+    {
+      "kanji": "決別",
+      "kana": "けつべつ",
+      "meaning_en": "parting, breaking off",
+      "meaning_ja": "きっぱりと別れること",
+      "example_ja": "過去と決別する。",
+      "example_en": "He breaks from his past.",
+      "example_kana": "かことけつべつする。"
+    },
+    {
+      "kanji": "余生",
+      "kana": "よせい",
+      "meaning_en": "remainder of one's life",
+      "meaning_ja": "残りの人生",
+      "example_ja": "故郷で余生を送る。",
+      "example_en": "He spends his remaining years in his hometown.",
+      "example_kana": "こきょうでよせいをおくる。"
+    },
+    {
+      "kanji": "生涯",
+      "kana": "しょうがい",
+      "meaning_en": "lifetime, one's life",
+      "meaning_ja": "生まれてから死ぬまで",
+      "example_ja": "生涯を芸術にささげる。",
+      "example_en": "He dedicates his life to art.",
+      "example_kana": "しょうがいをげいじゅつにささげる。"
+    },
+    {
+      "kanji": "歳月",
+      "kana": "さいげつ",
+      "meaning_en": "years, time",
+      "meaning_ja": "年月、過ぎゆく時",
+      "example_ja": "歳月は人を待たず。",
+      "example_en": "Time waits for no one.",
+      "example_kana": "さいげつはひとをまたず。"
+    },
+    {
+      "kanji": "刹那",
+      "kana": "せつな",
+      "meaning_en": "moment, instant",
+      "meaning_ja": "極めて短い時間",
+      "example_ja": "刹那の美に酔う。",
+      "example_en": "He is intoxicated by fleeting beauty.",
+      "example_kana": "せつなのびによう。"
+    },
+    {
+      "kanji": "瞬時",
+      "kana": "しゅんじ",
+      "meaning_en": "moment, instant",
+      "meaning_ja": "ごく短い間",
+      "example_ja": "瞬時に判断する。",
+      "example_en": "He decides in an instant.",
+      "example_kana": "しゅんじにはんだんする。"
+    },
+    {
+      "kanji": "永劫",
+      "kana": "えいごう",
+      "meaning_en": "eternity, all eternity",
+      "meaning_ja": "果てしなく長い時間",
+      "example_ja": "永劫の愛を誓う。",
+      "example_en": "They pledge eternal love.",
+      "example_kana": "えいごうのあいをちかう。"
+    },
+    {
+      "kanji": "永遠",
+      "kana": "えいえん",
+      "meaning_en": "eternity, perpetuity",
+      "meaning_ja": "いつまでも続くこと",
+      "example_ja": "永遠の友情を願う。",
+      "example_en": "He wishes for eternal friendship.",
+      "example_kana": "えいえんのゆうじょうをねがう。"
+    },
+    {
+      "kanji": "不朽",
+      "kana": "ふきゅう",
+      "meaning_en": "immortal, undying, eternal",
+      "meaning_ja": "いつまでも価値が衰えないこと",
+      "example_ja": "不朽の名作を残す。",
+      "example_en": "He leaves immortal masterpieces.",
+      "example_kana": "ふきゅうのめいさくをのこす。"
+    },
+    {
+      "kanji": "仮説",
+      "kana": "かせつ",
+      "meaning_en": "hypothesis, supposition",
+      "meaning_ja": "ある現象を説明するための仮の説明",
+      "example_ja": "仮説を実験で検証する。",
+      "example_en": "We verify the hypothesis through experiments.",
+      "example_kana": "かせつをじっけんでけんしょうする。"
+    },
+    {
+      "kanji": "検証",
+      "kana": "けんしょう",
+      "meaning_en": "verification, examination",
+      "meaning_ja": "事実かどうかを調べて確かめること",
+      "example_ja": "データの正確性を検証する。",
+      "example_en": "We verify the accuracy of the data.",
+      "example_kana": "データのせいかくせいをけんしょうする。"
+    },
+    {
+      "kanji": "考察",
+      "kana": "こうさつ",
+      "meaning_en": "consideration, inquiry",
+      "meaning_ja": "物事を明らかにするために深く調べ考えること",
+      "example_ja": "結果について考察する。",
+      "example_en": "I will discuss the results.",
+      "example_kana": "けっかについてこうさつする。"
+    },
+    {
+      "kanji": "立証",
+      "kana": "りっしょう",
+      "meaning_en": "establishing proof, demonstration",
+      "meaning_ja": "証拠を挙げて事実を証明すること",
+      "example_ja": "無実を立証する証拠が出た。",
+      "example_en": "Evidence proving his innocence emerged.",
+      "example_kana": "むじつをりっしょうするしょうこがでた。"
+    },
+    {
+      "kanji": "実証",
+      "kana": "じっしょう",
+      "meaning_en": "actual proof, demonstration",
+      "meaning_ja": "確かな証拠で証明すること",
+      "example_ja": "理論を実証する実験が成功した。",
+      "example_en": "The experiment that demonstrates the theory succeeded.",
+      "example_kana": "りろんをじっしょうするじっけんがせいこうした。"
+    },
+    {
+      "kanji": "解析",
+      "kana": "かいせき",
+      "meaning_en": "analysis, parsing",
+      "meaning_ja": "物事を細かく分けて調べること",
+      "example_ja": "データを詳細に解析する。",
+      "example_en": "We analyze the data in detail.",
+      "example_kana": "データをしょうさいにかいせきする。"
+    },
+    {
+      "kanji": "観測",
+      "kana": "かんそく",
+      "meaning_en": "observation, measurement",
+      "meaning_ja": "自然現象を機器で測り調べること",
+      "example_ja": "天体を望遠鏡で観測する。",
+      "example_en": "We observe celestial bodies with a telescope.",
+      "example_kana": "てんたいをぼうえんきょうでかんそくする。"
+    },
+    {
+      "kanji": "測定",
+      "kana": "そくてい",
+      "meaning_en": "measurement, determination",
+      "meaning_ja": "ものの長さや量を測ること",
+      "example_ja": "気温を正確に測定する。",
+      "example_en": "We accurately measure the temperature.",
+      "example_kana": "きおんをせいかくにそくていする。"
+    },
+    {
+      "kanji": "精度",
+      "kana": "せいど",
+      "meaning_en": "precision, accuracy",
+      "meaning_ja": "計測などの正確さの度合い",
+      "example_ja": "機械の精度を高める。",
+      "example_en": "We increase the precision of the machine.",
+      "example_kana": "きかいのせいどをたかめる。"
+    },
+    {
+      "kanji": "因子",
+      "kana": "いんし",
+      "meaning_en": "factor, element",
+      "meaning_ja": "ある結果を生み出す原因の要素",
+      "example_ja": "病気の因子を特定する。",
+      "example_en": "We identify the factors of the disease.",
+      "example_kana": "びょうきのいんしをとくていする。"
+    },
+    {
+      "kanji": "変数",
+      "kana": "へんすう",
+      "meaning_en": "variable",
+      "meaning_ja": "様々な値を取りうる数",
+      "example_ja": "変数の値を代入する。",
+      "example_en": "We substitute a value for the variable.",
+      "example_kana": "へんすうのあたいをだいにゅうする。"
+    },
+    {
+      "kanji": "係数",
+      "kana": "けいすう",
+      "meaning_en": "coefficient",
+      "meaning_ja": "ある量に掛ける一定の数",
+      "example_ja": "摩擦係数を計算する。",
+      "example_en": "We calculate the friction coefficient.",
+      "example_kana": "まさつけいすうをけいさんする。"
+    },
+    {
+      "kanji": "指数",
+      "kana": "しすう",
+      "meaning_en": "exponent, index",
+      "meaning_ja": "ある数を何乗するかを示す数字",
+      "example_ja": "物価指数が上昇した。",
+      "example_en": "The price index has risen.",
+      "example_kana": "ぶっかしすうがじょうしょうした。"
+    },
+    {
+      "kanji": "関数",
+      "kana": "かんすう",
+      "meaning_en": "function (math)",
+      "meaning_ja": "ある変数に応じて値が決まる対応関係",
+      "example_ja": "関数のグラフを描く。",
+      "example_en": "We draw the graph of the function.",
+      "example_kana": "かんすうのグラフをえがく。"
+    },
+    {
+      "kanji": "公式",
+      "kana": "こうしき",
+      "meaning_en": "formula, official",
+      "meaning_ja": "数学などで一般化された規則",
+      "example_ja": "数学の公式を覚える。",
+      "example_en": "I memorize math formulas.",
+      "example_kana": "すうがくのこうしきをおぼえる。"
+    },
+    {
+      "kanji": "定理",
+      "kana": "ていり",
+      "meaning_en": "theorem",
+      "meaning_ja": "証明された数学的真理",
+      "example_ja": "ピタゴラスの定理を学ぶ。",
+      "example_en": "We learn Pythagoras' theorem.",
+      "example_kana": "ピタゴラスのていりをまなぶ。"
+    },
+    {
+      "kanji": "命題",
+      "kana": "めいだい",
+      "meaning_en": "proposition, thesis",
+      "meaning_ja": "真偽を判断できる文や考え",
+      "example_ja": "命題が真であることを示す。",
+      "example_en": "We show that the proposition is true.",
+      "example_kana": "めいだいがしんであることをしめす。"
+    },
+    {
+      "kanji": "論証",
+      "kana": "ろんしょう",
+      "meaning_en": "demonstration, proof",
+      "meaning_ja": "筋道立てて証明すること",
+      "example_ja": "彼の論証は緻密だ。",
+      "example_en": "His argument is meticulous.",
+      "example_kana": "かれのろんしょうはちみつだ。"
+    },
+    {
+      "kanji": "帰結",
+      "kana": "きけつ",
+      "meaning_en": "consequence, conclusion",
+      "meaning_ja": "結果として行きつくところ",
+      "example_ja": "必然的な帰結に至る。",
+      "example_en": "It arrives at an inevitable conclusion.",
+      "example_kana": "ひつぜんてきなきけつにいたる。"
+    },
+    {
+      "kanji": "原理",
+      "kana": "げんり",
+      "meaning_en": "principle, fundamental truth",
+      "meaning_ja": "物事の根本的な法則",
+      "example_ja": "てこの原理を応用する。",
+      "example_en": "We apply the principle of the lever.",
+      "example_kana": "てこのげんりをおうようする。"
+    },
+    {
+      "kanji": "法則",
+      "kana": "ほうそく",
+      "meaning_en": "law (scientific), rule",
+      "meaning_ja": "自然界で常に成り立つ規則",
+      "example_ja": "万有引力の法則を学ぶ。",
+      "example_en": "We learn the law of universal gravitation.",
+      "example_kana": "ばんゆういんりょくのほうそくをまなぶ。"
+    },
+    {
+      "kanji": "学術",
+      "kana": "がくじゅつ",
+      "meaning_en": "science, learning, scholarship",
+      "meaning_ja": "専門的な学問とその研究",
+      "example_ja": "学術論文を執筆する。",
+      "example_en": "He writes an academic paper.",
+      "example_kana": "がくじゅつろんぶんをしっぴつする。"
+    },
+    {
+      "kanji": "学会",
+      "kana": "がっかい",
+      "meaning_en": "academic society, conference",
+      "meaning_ja": "研究者の専門学術団体",
+      "example_ja": "学会で研究を発表する。",
+      "example_en": "I present my research at a conference.",
+      "example_kana": "がっかいでけんきゅうをはっぴょうする。"
+    },
+    {
+      "kanji": "論文",
+      "kana": "ろんぶん",
+      "meaning_en": "thesis, paper",
+      "meaning_ja": "学術的な考えを論じた文章",
+      "example_ja": "博士論文を提出する。",
+      "example_en": "I submit my doctoral thesis.",
+      "example_kana": "はくしろんぶんをていしゅつする。"
+    },
+    {
+      "kanji": "文献",
+      "kana": "ぶんけん",
+      "meaning_en": "literature, references",
+      "meaning_ja": "研究の参考となる書物や資料",
+      "example_ja": "古い文献を調査する。",
+      "example_en": "We investigate old literature.",
+      "example_kana": "ふるいぶんけんをちょうさする。"
+    },
+    {
+      "kanji": "引用",
+      "kana": "いんよう",
+      "meaning_en": "quotation, citation",
+      "meaning_ja": "他人の文や言葉を引いて用いること",
+      "example_ja": "原典から引用する。",
+      "example_en": "He quotes from the original text.",
+      "example_kana": "げんてんからいんようする。"
+    },
+    {
+      "kanji": "脚注",
+      "kana": "きゃくちゅう",
+      "meaning_en": "footnote",
+      "meaning_ja": "本文の下に付けた説明",
+      "example_ja": "脚注で出典を示す。",
+      "example_en": "The source is given in a footnote.",
+      "example_kana": "きゃくちゅうでしゅってんをしめす。"
+    },
+    {
+      "kanji": "実験",
+      "kana": "じっけん",
+      "meaning_en": "experiment, trial",
+      "meaning_ja": "理論や仮説を確かめる試み",
+      "example_ja": "化学実験を行う。",
+      "example_en": "We conduct a chemistry experiment.",
+      "example_kana": "かがくじっけんをおこなう。"
+    },
+    {
+      "kanji": "試行",
+      "kana": "しこう",
+      "meaning_en": "trial, try-out",
+      "meaning_ja": "試しに行うこと",
+      "example_ja": "試行錯誤を繰り返す。",
+      "example_en": "He repeats trial and error.",
+      "example_kana": "しこうさくごをくりかえす。"
+    },
+    {
+      "kanji": "標本",
+      "kana": "ひょうほん",
+      "meaning_en": "specimen, sample",
+      "meaning_ja": "研究や展示のために集めた現物",
+      "example_ja": "昆虫の標本を作る。",
+      "example_en": "I make an insect specimen.",
+      "example_kana": "こんちゅうのひょうほんをつくる。"
+    },
+    {
+      "kanji": "試料",
+      "kana": "しりょう",
+      "meaning_en": "sample (test material)",
+      "meaning_ja": "実験や分析に用いる材料",
+      "example_ja": "試料を顕微鏡で観察する。",
+      "example_en": "We observe the sample under a microscope.",
+      "example_kana": "しりょうをけんびきょうでかんさつする。"
+    },
+    {
+      "kanji": "比較",
+      "kana": "ひかく",
+      "meaning_en": "comparison",
+      "meaning_ja": "二つ以上を比べ違いを調べること",
+      "example_ja": "両者を比較してみる。",
+      "example_en": "I try to compare the two.",
+      "example_kana": "りょうしゃをひかくしてみる。"
+    },
+    {
+      "kanji": "対照",
+      "kana": "たいしょう",
+      "meaning_en": "contrast, comparison",
+      "meaning_ja": "二つを比べ合わせること",
+      "example_ja": "色合いの対照が美しい。",
+      "example_en": "The contrast of colors is beautiful.",
+      "example_kana": "いろあいのたいしょうがうつくしい。"
+    },
+    {
+      "kanji": "傾向",
+      "kana": "けいこう",
+      "meaning_en": "tendency, trend",
+      "meaning_ja": "ある方向に偏った性質",
+      "example_ja": "若者の傾向を分析する。",
+      "example_en": "We analyze the trends of young people.",
+      "example_kana": "わかもののけいこうをぶんせきする。"
+    },
+    {
+      "kanji": "確率",
+      "kana": "かくりつ",
+      "meaning_en": "probability, likelihood",
+      "meaning_ja": "ある事象が起こる割合",
+      "example_ja": "成功する確率は低い。",
+      "example_en": "The probability of success is low.",
+      "example_kana": "せいこうするかくりつはひくい。"
+    },
+    {
+      "kanji": "頻度",
+      "kana": "ひんど",
+      "meaning_en": "frequency",
+      "meaning_ja": "繰り返し起こる回数の割合",
+      "example_ja": "使用頻度を調べる。",
+      "example_en": "We investigate the frequency of usage.",
+      "example_kana": "しようひんどをしらべる。"
+    },
+    {
+      "kanji": "統計",
+      "kana": "とうけい",
+      "meaning_en": "statistics",
+      "meaning_ja": "集めた数値から傾向を示す手法",
+      "example_ja": "統計データを公表する。",
+      "example_en": "Statistical data is released.",
+      "example_kana": "とうけいデータをこうひょうする。"
+    },
+    {
+      "kanji": "平均",
+      "kana": "へいきん",
+      "meaning_en": "average, mean",
+      "meaning_ja": "全体をならして等しくした値",
+      "example_ja": "平均年齢を計算する。",
+      "example_en": "We calculate the average age.",
+      "example_kana": "へいきんねんれいをけいさんする。"
+    },
+    {
+      "kanji": "分布",
+      "kana": "ぶんぷ",
+      "meaning_en": "distribution",
+      "meaning_ja": "あちこちに分かれて存在すること",
+      "example_ja": "人口の分布を地図に示す。",
+      "example_en": "We show the population distribution on a map.",
+      "example_kana": "じんこうのぶんぷをちずにしめす。"
+    },
+    {
+      "kanji": "粒子",
+      "kana": "りゅうし",
+      "meaning_en": "particle",
+      "meaning_ja": "物質を構成する非常に小さい粒",
+      "example_ja": "微小な粒子を観察する。",
+      "example_en": "We observe minute particles.",
+      "example_kana": "びしょうなりゅうしをかんさつする。"
+    },
+    {
+      "kanji": "微生物",
+      "kana": "びせいぶつ",
+      "meaning_en": "microorganism",
+      "meaning_ja": "目に見えないほど小さな生物",
+      "example_ja": "微生物の働きを研究する。",
+      "example_en": "We study the action of microorganisms.",
+      "example_kana": "びせいぶつのはたらきをけんきゅうする。"
+    },
+    {
+      "kanji": "生態",
+      "kana": "せいたい",
+      "meaning_en": "ecology, mode of life",
+      "meaning_ja": "生物のありさまや生き方",
+      "example_ja": "野生動物の生態を調べる。",
+      "example_en": "We study the ecology of wild animals.",
+      "example_kana": "やせいどうぶつのせいたいをしらべる。"
+    },
+    {
+      "kanji": "生態系",
+      "kana": "せいたいけい",
+      "meaning_en": "ecosystem",
+      "meaning_ja": "生物と環境の関係の総体",
+      "example_ja": "生態系を保護する。",
+      "example_en": "We protect the ecosystem.",
+      "example_kana": "せいたいけいをほごする。"
+    },
+    {
+      "kanji": "種子",
+      "kana": "しゅし",
+      "meaning_en": "seed",
+      "meaning_ja": "植物の種",
+      "example_ja": "植物の種子を採取する。",
+      "example_en": "We collect plant seeds.",
+      "example_kana": "しょくぶつのしゅしをさいしゅする。"
+    },
+    {
+      "kanji": "胞子",
+      "kana": "ほうし",
+      "meaning_en": "spore",
+      "meaning_ja": "コケや菌類の繁殖細胞",
+      "example_ja": "キノコの胞子が飛ぶ。",
+      "example_en": "Mushroom spores are dispersed.",
+      "example_kana": "キノコのほうしがとぶ。"
+    },
+    {
+      "kanji": "遺伝",
+      "kana": "いでん",
+      "meaning_en": "heredity, inheritance (genetic)",
+      "meaning_ja": "形質が親から子に伝わること",
+      "example_ja": "この病気は遺伝する。",
+      "example_en": "This disease is hereditary.",
+      "example_kana": "このびょうきはいでんする。"
+    },
+    {
+      "kanji": "染色体",
+      "kana": "せんしょくたい",
+      "meaning_en": "chromosome",
+      "meaning_ja": "遺伝情報を担う細胞核内の構造体",
+      "example_ja": "染色体異常を検査する。",
+      "example_en": "We test for chromosome abnormalities.",
+      "example_kana": "せんしょくたいいじょうをけんさする。"
+    },
+    {
+      "kanji": "細胞分裂",
+      "kana": "さいぼうぶんれつ",
+      "meaning_en": "cell division",
+      "meaning_ja": "細胞が分かれて増えること",
+      "example_ja": "細胞分裂を観察する。",
+      "example_en": "We observe cell division.",
+      "example_kana": "さいぼうぶんれつをかんさつする。"
+    },
+    {
+      "kanji": "免疫",
+      "kana": "めんえき",
+      "meaning_en": "immunity",
+      "meaning_ja": "体が病原体に抵抗する仕組み",
+      "example_ja": "免疫力を高める。",
+      "example_en": "We boost immunity.",
+      "example_kana": "めんえきりょくをたかめる。"
+    },
+    {
+      "kanji": "抗体",
+      "kana": "こうたい",
+      "meaning_en": "antibody",
+      "meaning_ja": "病原体に対抗する蛋白質",
+      "example_ja": "抗体検査を受ける。",
+      "example_en": "I undergo an antibody test.",
+      "example_kana": "こうたいけんさをうける。"
+    },
+    {
+      "kanji": "抗生物質",
+      "kana": "こうせいぶっしつ",
+      "meaning_en": "antibiotic",
+      "meaning_ja": "細菌の繁殖を抑える薬剤",
+      "example_ja": "抗生物質を処方する。",
+      "example_en": "An antibiotic is prescribed.",
+      "example_kana": "こうせいぶっしつをしょほうする。"
+    },
+    {
+      "kanji": "病原体",
+      "kana": "びょうげんたい",
+      "meaning_en": "pathogen",
+      "meaning_ja": "病気を引き起こす微生物",
+      "example_ja": "病原体を特定する。",
+      "example_en": "We identify the pathogen.",
+      "example_kana": "びょうげんたいをとくていする。"
+    },
+    {
+      "kanji": "感染症",
+      "kana": "かんせんしょう",
+      "meaning_en": "infectious disease",
+      "meaning_ja": "病原体によって起こる病気",
+      "example_ja": "感染症の流行が拡大する。",
+      "example_en": "The infectious disease outbreak is spreading.",
+      "example_kana": "かんせんしょうのりゅうこうがかくだいする。"
+    },
+    {
+      "kanji": "潜伏",
+      "kana": "せんぷく",
+      "meaning_en": "lying hidden, incubation",
+      "meaning_ja": "病原体が体内に潜んでいること",
+      "example_ja": "ウイルスが潜伏期にある。",
+      "example_en": "The virus is in the incubation period.",
+      "example_kana": "ウイルスがせんぷくきにある。"
+    },
+    {
+      "kanji": "発症",
+      "kana": "はっしょう",
+      "meaning_en": "onset (of disease)",
+      "meaning_ja": "病気の症状が現れること",
+      "example_ja": "病気を発症する。",
+      "example_en": "The disease manifests itself.",
+      "example_kana": "びょうきをはっしょうする。"
+    },
+    {
+      "kanji": "治療",
+      "kana": "ちりょう",
+      "meaning_en": "medical treatment, cure",
+      "meaning_ja": "病気や怪我を治すこと",
+      "example_ja": "癌の治療を受ける。",
+      "example_en": "He receives cancer treatment.",
+      "example_kana": "がんのちりょうをうける。"
+    },
+    {
+      "kanji": "投与",
+      "kana": "とうよ",
+      "meaning_en": "administration (of medicine)",
+      "meaning_ja": "薬を患者に与えること",
+      "example_ja": "薬を患者に投与する。",
+      "example_en": "We administer medicine to the patient.",
+      "example_kana": "くすりをかんじゃにとうよする。"
+    },
+    {
+      "kanji": "副作用",
+      "kana": "ふくさよう",
+      "meaning_en": "side effect",
+      "meaning_ja": "薬の本来以外の好ましくない作用",
+      "example_ja": "薬の副作用に注意する。",
+      "example_en": "Be careful of the medicine's side effects.",
+      "example_kana": "くすりのふくさようにちゅういする。"
+    },
+    {
+      "kanji": "臨床",
+      "kana": "りんしょう",
+      "meaning_en": "clinical",
+      "meaning_ja": "実際の患者を診て治療すること",
+      "example_ja": "臨床試験を行う。",
+      "example_en": "We conduct clinical trials.",
+      "example_kana": "りんしょうしけんをおこなう。"
+    },
+    {
+      "kanji": "解剖学",
+      "kana": "かいぼうがく",
+      "meaning_en": "anatomy",
+      "meaning_ja": "生体の構造を研究する学問",
+      "example_ja": "医学生は解剖学を学ぶ。",
+      "example_en": "Medical students study anatomy.",
+      "example_kana": "いがくせいはかいぼうがくをまなぶ。"
+    },
+    {
+      "kanji": "生理学",
+      "kana": "せいりがく",
+      "meaning_en": "physiology",
+      "meaning_ja": "生物の機能を研究する学問",
+      "example_ja": "生理学の講義を受ける。",
+      "example_en": "I attend a physiology lecture.",
+      "example_kana": "せいりがくのこうぎをうける。"
+    },
+    {
+      "kanji": "病理",
+      "kana": "びょうり",
+      "meaning_en": "pathology",
+      "meaning_ja": "病気の原因や仕組みを研究する分野",
+      "example_ja": "病理検査を依頼する。",
+      "example_en": "We request a pathology test.",
+      "example_kana": "びょうりけんさをいらいする。"
+    },
+    {
+      "kanji": "症候群",
+      "kana": "しょうこうぐん",
+      "meaning_en": "syndrome",
+      "meaning_ja": "原因不明だが共通する症状の集まり",
+      "example_ja": "新たな症候群が報告された。",
+      "example_en": "A new syndrome was reported.",
+      "example_kana": "あらたなしょうこうぐんがほうこくされた。"
+    },
+    {
+      "kanji": "慢性",
+      "kana": "まんせい",
+      "meaning_en": "chronic",
+      "meaning_ja": "病気が長引いている状態",
+      "example_ja": "彼は慢性の頭痛に悩む。",
+      "example_en": "He suffers from chronic headaches.",
+      "example_kana": "かれはまんせいのずつうになやむ。"
+    },
+    {
+      "kanji": "急性",
+      "kana": "きゅうせい",
+      "meaning_en": "acute",
+      "meaning_ja": "急に発症する病気の性質",
+      "example_ja": "急性の症状が現れた。",
+      "example_en": "Acute symptoms appeared.",
+      "example_kana": "きゅうせいのしょうじょうがあらわれた。"
+    },
+    {
+      "kanji": "悪性",
+      "kana": "あくせい",
+      "meaning_en": "malignant",
+      "meaning_ja": "性質がよくなく治りにくい",
+      "example_ja": "悪性腫瘍と診断された。",
+      "example_en": "He was diagnosed with a malignant tumor.",
+      "example_kana": "あくせいしゅようとしんだんされた。"
+    },
+    {
+      "kanji": "良性",
+      "kana": "りょうせい",
+      "meaning_en": "benign",
+      "meaning_ja": "悪い性質を持たないこと",
+      "example_ja": "腫瘍は良性だった。",
+      "example_en": "The tumor was benign.",
+      "example_kana": "しゅようはりょうせいだった。"
+    },
+    {
+      "kanji": "予防",
+      "kana": "よぼう",
+      "meaning_en": "prevention",
+      "meaning_ja": "病気や事故を未然に防ぐこと",
+      "example_ja": "病気の予防に努める。",
+      "example_en": "We strive to prevent disease.",
+      "example_kana": "びょうきのよぼうにつとめる。"
+    },
+    {
+      "kanji": "免疫力",
+      "kana": "めんえきりょく",
+      "meaning_en": "immune strength",
+      "meaning_ja": "病原体に抵抗する体の力",
+      "example_ja": "睡眠で免疫力が回復する。",
+      "example_en": "Sleep restores immune strength.",
+      "example_kana": "すいみんでめんえきりょくがかいふくする。"
+    },
+    {
+      "kanji": "酵素",
+      "kana": "こうそ",
+      "meaning_en": "enzyme",
+      "meaning_ja": "生体内の化学反応を促す蛋白質",
+      "example_ja": "酵素が消化を助ける。",
+      "example_en": "Enzymes aid digestion.",
+      "example_kana": "こうそがしょうかをたすける。"
+    },
+    {
+      "kanji": "化合物",
+      "kana": "かごうぶつ",
+      "meaning_en": "chemical compound",
+      "meaning_ja": "二つ以上の元素が結びついた物質",
+      "example_ja": "新しい化合物を合成する。",
+      "example_en": "We synthesize a new compound.",
+      "example_kana": "あたらしいかごうぶつをごうせいする。"
+    },
+    {
+      "kanji": "原子核",
+      "kana": "げんしかく",
+      "meaning_en": "atomic nucleus",
+      "meaning_ja": "原子の中心にある粒子",
+      "example_ja": "原子核を研究する。",
+      "example_en": "We study atomic nuclei.",
+      "example_kana": "げんしかくをけんきゅうする。"
+    },
+    {
+      "kanji": "電子",
+      "kana": "でんし",
+      "meaning_en": "electron",
+      "meaning_ja": "原子内を回る負の電荷を持つ粒子",
+      "example_ja": "電子の動きを観察する。",
+      "example_en": "We observe the motion of electrons.",
+      "example_kana": "でんしのうごきをかんさつする。"
+    },
+    {
+      "kanji": "陽子",
+      "kana": "ようし",
+      "meaning_en": "proton",
+      "meaning_ja": "原子核を構成する正電荷粒子",
+      "example_ja": "陽子の数で元素が決まる。",
+      "example_en": "The element is determined by proton count.",
+      "example_kana": "ようしのかずでげんそがきまる。"
+    },
+    {
+      "kanji": "中性子",
+      "kana": "ちゅうせいし",
+      "meaning_en": "neutron",
+      "meaning_ja": "電荷を持たない原子核内の粒子",
+      "example_ja": "中性子を放出する。",
+      "example_en": "It emits neutrons.",
+      "example_kana": "ちゅうせいしをほうしゅつする。"
+    },
+    {
+      "kanji": "化学式",
+      "kana": "かがくしき",
+      "meaning_en": "chemical formula",
+      "meaning_ja": "物質を元素記号で表したもの",
+      "example_ja": "化学式を書き出す。",
+      "example_en": "He writes out the chemical formula.",
+      "example_kana": "かがくしきをかきだす。"
+    },
+    {
+      "kanji": "触媒",
+      "kana": "しょくばい",
+      "meaning_en": "catalyst",
+      "meaning_ja": "反応を促進する物質",
+      "example_ja": "触媒を加えて反応を速める。",
+      "example_en": "Adding a catalyst speeds the reaction.",
+      "example_kana": "しょくばいをくわえてはんのうをはやめる。"
+    },
+    {
+      "kanji": "溶解",
+      "kana": "ようかい",
+      "meaning_en": "dissolution, melting",
+      "meaning_ja": "物質が液体に溶けること",
+      "example_ja": "塩は水に溶解する。",
+      "example_en": "Salt dissolves in water.",
+      "example_kana": "しおはみずにようかいする。"
+    },
+    {
+      "kanji": "蒸発",
+      "kana": "じょうはつ",
+      "meaning_en": "evaporation",
+      "meaning_ja": "液体が気体になる現象",
+      "example_ja": "水分が急速に蒸発する。",
+      "example_en": "Moisture evaporates rapidly.",
+      "example_kana": "すいぶんがきゅうそくにじょうはつする。"
+    },
+    {
+      "kanji": "凝固",
+      "kana": "ぎょうこ",
+      "meaning_en": "solidification, coagulation",
+      "meaning_ja": "液体が固まること",
+      "example_ja": "血液が凝固する。",
+      "example_en": "The blood coagulates.",
+      "example_kana": "けつえきがぎょうこする。"
+    },
+    {
+      "kanji": "凝縮",
+      "kana": "ぎょうしゅく",
+      "meaning_en": "condensation",
+      "meaning_ja": "気体が液体になること",
+      "example_ja": "水蒸気が凝縮する。",
+      "example_en": "Water vapor condenses.",
+      "example_kana": "すいじょうきがぎょうしゅくする。"
+    },
+    {
+      "kanji": "気化",
+      "kana": "きか",
+      "meaning_en": "vaporization",
+      "meaning_ja": "液体が気体に変わること",
+      "example_ja": "アルコールが気化する。",
+      "example_en": "The alcohol vaporizes.",
+      "example_kana": "アルコールがきかする。"
+    },
+    {
+      "kanji": "浸透",
+      "kana": "しんとう",
+      "meaning_en": "permeation, infiltration",
+      "meaning_ja": "液体や考えが染み込み広がること",
+      "example_ja": "新理念が社内に浸透する。",
+      "example_en": "The new philosophy permeates the company.",
+      "example_kana": "しんりねんがしゃないにしんとうする。"
+    },
+    {
+      "kanji": "吸収",
+      "kana": "きゅうしゅう",
+      "meaning_en": "absorption",
+      "meaning_ja": "外から取り込んで自分のものにすること",
+      "example_ja": "知識を吸収する。",
+      "example_en": "He absorbs knowledge.",
+      "example_kana": "ちしきをきゅうしゅうする。"
+    },
+    {
+      "kanji": "排出",
+      "kana": "はいしゅつ",
+      "meaning_en": "emission, discharge",
+      "meaning_ja": "不要なものを外へ出すこと",
+      "example_ja": "二酸化炭素の排出を減らす。",
+      "example_en": "We reduce carbon dioxide emissions.",
+      "example_kana": "にさんかたんそのはいしゅつをへらす。"
+    },
+    {
+      "kanji": "排ガス",
+      "kana": "はいガス",
+      "meaning_en": "exhaust gas",
+      "meaning_ja": "燃焼後に放出される気体",
+      "example_ja": "排ガス規制を強化する。",
+      "example_en": "Exhaust regulations are strengthened.",
+      "example_kana": "はいガスきせいをきょうかする。"
+    },
+    {
+      "kanji": "温室",
+      "kana": "おんしつ",
+      "meaning_en": "greenhouse",
+      "meaning_ja": "植物を保温するための施設",
+      "example_ja": "温室効果ガスを削減する。",
+      "example_en": "We reduce greenhouse gases.",
+      "example_kana": "おんしつこうかガスをさくげんする。"
+    },
+    {
+      "kanji": "温暖化",
+      "kana": "おんだんか",
+      "meaning_en": "global warming",
+      "meaning_ja": "地球の気温が上昇する現象",
+      "example_ja": "温暖化対策を進める。",
+      "example_en": "We advance measures against warming.",
+      "example_kana": "おんだんかたいさくをすすめる。"
+    },
+    {
+      "kanji": "気候変動",
+      "kana": "きこうへんどう",
+      "meaning_en": "climate change",
+      "meaning_ja": "気候の長期的な変化",
+      "example_ja": "気候変動への適応を急ぐ。",
+      "example_en": "We hurry to adapt to climate change.",
+      "example_kana": "きこうへんどうへのてきおうをいそぐ。"
+    },
+    {
+      "kanji": "異常気象",
+      "kana": "いじょうきしょう",
+      "meaning_en": "abnormal weather",
+      "meaning_ja": "平年と大きく異なる気象現象",
+      "example_ja": "異常気象が頻発する。",
+      "example_en": "Abnormal weather occurs frequently.",
+      "example_kana": "いじょうきしょうがひんぱつする。"
+    },
+    {
+      "kanji": "気圧",
+      "kana": "きあつ",
+      "meaning_en": "atmospheric pressure",
+      "meaning_ja": "大気が物体に及ぼす圧力",
+      "example_ja": "気圧が急に下がる。",
+      "example_en": "The pressure drops suddenly.",
+      "example_kana": "きあつがきゅうにさがる。"
+    },
+    {
+      "kanji": "気温",
+      "kana": "きおん",
+      "meaning_en": "air temperature",
+      "meaning_ja": "大気の温度",
+      "example_ja": "今日の気温は高い。",
+      "example_en": "Today's temperature is high.",
+      "example_kana": "きょうのきおんはたかい。"
+    },
+    {
+      "kanji": "湿度",
+      "kana": "しつど",
+      "meaning_en": "humidity",
+      "meaning_ja": "大気中の水分の割合",
+      "example_ja": "梅雨は湿度が高い。",
+      "example_en": "The rainy season has high humidity.",
+      "example_kana": "つゆはしつどがたかい。"
+    },
+    {
+      "kanji": "降雨",
+      "kana": "こうう",
+      "meaning_en": "rainfall",
+      "meaning_ja": "雨が降ること",
+      "example_ja": "降雨量を測定する。",
+      "example_en": "We measure rainfall amount.",
+      "example_kana": "こううりょうをそくていする。"
+    },
+    {
+      "kanji": "豪雨",
+      "kana": "ごうう",
+      "meaning_en": "heavy rain, downpour",
+      "meaning_ja": "短時間に大量に降る雨",
+      "example_ja": "局地的な豪雨に注意する。",
+      "example_en": "Beware of localized heavy rain.",
+      "example_kana": "きょくちてきなごううにちゅういする。"
+    },
+    {
+      "kanji": "干ばつ",
+      "kana": "かんばつ",
+      "meaning_en": "drought",
+      "meaning_ja": "長く雨が降らないこと",
+      "example_ja": "干ばつで農作物が枯れる。",
+      "example_en": "Crops wither due to drought.",
+      "example_kana": "かんばつでのうさくぶつがかれる。"
+    },
+    {
+      "kanji": "地殻",
+      "kana": "ちかく",
+      "meaning_en": "earth's crust",
+      "meaning_ja": "地球の最も外側の岩石層",
+      "example_ja": "地殻変動を観測する。",
+      "example_en": "We observe crustal movements.",
+      "example_kana": "ちかくへんどうをかんそくする。"
+    },
+    {
+      "kanji": "断層",
+      "kana": "だんそう",
+      "meaning_en": "fault (geological)",
+      "meaning_ja": "地殻のずれた割れ目",
+      "example_ja": "活断層が走る地域だ。",
+      "example_en": "It is a region with active faults.",
+      "example_kana": "かつだんそうがはしるちいきだ。"
+    },
+    {
+      "kanji": "噴火",
+      "kana": "ふんか",
+      "meaning_en": "volcanic eruption",
+      "meaning_ja": "火山が爆発して溶岩を吹くこと",
+      "example_ja": "火山が突然噴火した。",
+      "example_en": "The volcano suddenly erupted.",
+      "example_kana": "かざんがとつぜんふんかした。"
+    },
+    {
+      "kanji": "溶岩",
+      "kana": "ようがん",
+      "meaning_en": "lava",
+      "meaning_ja": "噴出したマグマが地表で固まる物質",
+      "example_ja": "溶岩が斜面を流れ下る。",
+      "example_en": "Lava flows down the slope.",
+      "example_kana": "ようがんがしゃめんをながれくだる。"
+    },
+    {
+      "kanji": "津波警報",
+      "kana": "つなみけいほう",
+      "meaning_en": "tsunami warning",
+      "meaning_ja": "津波の襲来を知らせる警告",
+      "example_ja": "津波警報が発令された。",
+      "example_en": "A tsunami warning was issued.",
+      "example_kana": "つなみけいほうがはつれいされた。"
+    },
+    {
+      "kanji": "震度",
+      "kana": "しんど",
+      "meaning_en": "seismic intensity",
+      "meaning_ja": "地震の揺れの強さの段階",
+      "example_ja": "震度六の地震が起きた。",
+      "example_en": "An earthquake of intensity six occurred.",
+      "example_kana": "しんどろくのじしんがおきた。"
+    },
+    {
+      "kanji": "余震",
+      "kana": "よしん",
+      "meaning_en": "aftershock",
+      "meaning_ja": "本震の後に続いて起こる小さな地震",
+      "example_ja": "余震が続いている。",
+      "example_en": "Aftershocks continue.",
+      "example_kana": "よしんがつづいている。"
     }
   ]
 }
