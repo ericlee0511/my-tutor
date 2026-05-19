@@ -31,6 +31,16 @@
     { "en": "Carrier rejection notifications will be routed to an after hours response queue.", "zh": "業者拒收通知將導入非辦公時段回應佇列。" },
     { "en": "Internal stakeholders will receive a monthly trend report on near miss incidents.", "zh": "內部相關方將收到每月近未遂事件趨勢報告。" },
     { "en": "Closure of this incident is targeted for the end of the current fiscal quarter.", "zh": "本事件預定於本會計季結束前完成結案。" },
-    { "en": "Sincere thanks to the cross functional team that resolved this matter promptly.", "zh": "由衷感謝迅速處置本案的跨職能團隊。" }
+    { "en": "Sincere thanks to the cross functional team that resolved this matter promptly.", "zh": "由衷感謝迅速處置本案的跨職能團隊。" },
+    { "en": "Detailed timeline reconstruction has been added to the incident management database.", "zh": "詳細時序重建已加入事件管理資料庫。" },
+    { "en": "Communications template revisions ensure customer notifications go out within one hour.", "zh": "通訊範本修訂確保客戶通知於一小時內發出。" },
+    { "en": "Service recovery training will be offered to all customer service representatives.", "zh": "服務復原訓練將提供予所有客服代表。" },
+    { "en": "A monthly governance review will track all open corrective action items to closure.", "zh": "每月治理檢視會議將追蹤所有未結矯正措施直至結案。" },
+    { "en": "Process flow diagrams are being updated to reflect the new validation steps.", "zh": "流程圖正更新以反映新增的驗證步驟。" },
+    { "en": "Pilot testing of the dropdown control begins in three regional warehouses next week.", "zh": "下拉選單管控的試行測試將於下週於三個區域倉庫啟動。" },
+    { "en": "Success criteria require zero destination errors over a thirty day measurement window.", "zh": "成功標準要求三十天觀察期內零目的地錯誤。" },
+    { "en": "If pilot results meet targets, global rollout will proceed during the following quarter.", "zh": "若試行結果達標，下一季將進行全球推行。" },
+    { "en": "Carrier service representatives have been briefed about the new validation workflow.", "zh": "業者客戶代表已就新版驗證工作流程接受簡報。" },
+    { "en": "Customer satisfaction surveys will measure perceived improvements over the next six months.", "zh": "客戶滿意度調查將於未來六個月衡量感受到的改善情形。" }
   ]
 }

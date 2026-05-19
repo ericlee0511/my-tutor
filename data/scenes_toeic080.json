@@ -35,6 +35,16 @@
     { "en": "Safety stand downs are convened immediately after any serious near miss.", "zh": "發生任何重大近未遂事件後將立即召開安全停工會議。" },
     { "en": "Continuous training credits are awarded to technicians who complete advanced modules.", "zh": "完成進階模組的技師可獲得持續訓練學分。" },
     { "en": "Plans for next year include automating routine lubrication on twelve more assets.", "zh": "明年計畫包括將另外十二項設備的例行潤滑作業自動化。" },
-    { "en": "Together these efforts protect throughput, quality, and the wellbeing of operators.", "zh": "上述努力共同守護產出、品質與作業員的安康。" }
+    { "en": "Together these efforts protect throughput, quality, and the wellbeing of operators.", "zh": "上述努力共同守護產出、品質與作業員的安康。" },
+    { "en": "Reliability engineering principles guide the prioritization of every maintenance task.", "zh": "可靠性工程原則指引每項保養任務的優先排序。" },
+    { "en": "Failure mode and effects analysis is updated whenever new equipment is commissioned.", "zh": "每當新設備上線時即更新失效模式與效應分析。" },
+    { "en": "Condition monitoring sensors detect issues before they cause unplanned downtime.", "zh": "狀況監測感測器可在問題引發非計畫停機前先行偵測。" },
+    { "en": "Oil sample analysis is performed quarterly for hydraulic and gearbox systems.", "zh": "液壓與齒輪箱系統每季進行油品取樣分析。" },
+    { "en": "Refurbishment of legacy assets is evaluated against full replacement cost benefits.", "zh": "老舊資產的整新與全面汰換的成本效益併同評估。" },
+    { "en": "Maintenance metrics dashboards are visible on monitors throughout the plant floor.", "zh": "保養指標儀表板於廠區各處顯示器上即時呈現。" },
+    { "en": "After action reviews follow every breakdown that exceeds the recovery time target.", "zh": "凡修復時間超過目標的故障，事後皆進行事件檢討。" },
+    { "en": "Spare parts vendors are consolidated to reduce administrative overhead each year.", "zh": "備品供應商每年進行整併以降低行政負擔。" },
+    { "en": "Cross plant benchmarking helps surface best practices for adoption locally.", "zh": "跨廠標竿比較有助發掘可在地化採行的最佳實務。" },
+    { "en": "Annual reliability awards recognize the technicians who deliver outstanding uptime.", "zh": "年度可靠性獎肯定締造傑出運轉時數的技師。" }
   ]
 }

@@ -35,6 +35,16 @@
     { "en": "Training materials in multiple languages are available on our supplier portal.", "zh": "供應商入口網站提供多語訓練教材。" },
     { "en": "Suppliers are encouraged to share innovative ideas for joint sustainability projects.", "zh": "鼓勵供應商分享共同永續專案的創新構想。" },
     { "en": "This code will be reviewed every two years to reflect evolving best practices.", "zh": "本準則每兩年檢討一次，以反映演進的最佳實務。" },
-    { "en": "We value long term partnerships built on mutual trust and shared accountability.", "zh": "我們珍視奠基於互信與共同責任的長期合作關係。" }
+    { "en": "We value long term partnerships built on mutual trust and shared accountability.", "zh": "我們珍視奠基於互信與共同責任的長期合作關係。" },
+    { "en": "Annual supplier summits provide a forum for sharing innovation and best practices.", "zh": "年度供應商高峰會提供分享創新與最佳實務的平台。" },
+    { "en": "Top performing suppliers may join our preferred partner tier with extended benefits.", "zh": "績優供應商可加入優先夥伴層級並享延伸權益。" },
+    { "en": "Joint product development opportunities are reserved for suppliers in this tier.", "zh": "共同產品開發機會優先保留予此一層級的供應商。" },
+    { "en": "Carbon disclosure reports must be submitted to our procurement portal each March.", "zh": "碳排放揭露報告須於每年三月提交至本公司採購入口網。" },
+    { "en": "Water consumption metrics are required for suppliers operating in stressed regions.", "zh": "位於水資源緊張地區的供應商須提供用水量指標。" },
+    { "en": "Diversity and inclusion progress is reviewed during annual relationship meetings.", "zh": "多元共融進展於年度合作會議中接受檢視。" },
+    { "en": "Cyber security questionnaires must be completed for any digital data exchange.", "zh": "任何數位資料交換前須完成資安問卷。" },
+    { "en": "Business continuity plans must be tested at least once each calendar year.", "zh": "業務持續運作計畫每曆年至少須測試一次。" },
+    { "en": "Suppliers found in repeated violation may be added to a restricted vendor list.", "zh": "經查屢次違反規定者，可能被列入受限供應商名單。" },
+    { "en": "Reinstatement requires independent verification of sustained corrective improvements.", "zh": "復權須經獨立查核確認矯正改善已持續落實。" }
   ]
 }

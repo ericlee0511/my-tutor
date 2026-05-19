@@ -34,6 +34,16 @@
     { "en": "Expansion opportunities surface through structured business value workshops.", "zh": "擴展機會透過結構化的商業價值工作坊浮現。" },
     { "en": "Customer advisory board invitations recognize highly engaged accounts.", "zh": "客戶顧問委員會的邀請是對高參與度客戶的肯定。" },
     { "en": "Reference programs offer marketing benefits in exchange for case studies.", "zh": "推薦計畫以行銷利益換取客戶案例分享。" },
-    { "en": "Annual partnership reviews celebrate milestones and set the next year priorities.", "zh": "年度合作檢討慶祝里程碑並設定來年的優先事項。" }
+    { "en": "Annual partnership reviews celebrate milestones and set the next year priorities.", "zh": "年度合作檢討慶祝里程碑並設定來年的優先事項。" },
+    { "en": "Stakeholder mapping identifies champions, decision makers, and potential blockers.", "zh": "利害關係人地圖識別擁護者、決策者與潛在阻礙者。" },
+    { "en": "A communication plan defines update cadence and preferred contact channels.", "zh": "溝通計畫定義更新頻率與偏好的聯繫管道。" },
+    { "en": "Risk registers track issues with severity ratings and mitigation owners.", "zh": "風險登錄表追蹤問題並標註嚴重度與處置負責人。" },
+    { "en": "Configuration workshops translate business requirements into platform settings.", "zh": "設定工作坊將業務需求轉換為平台組態。" },
+    { "en": "Integration testing validates data flow between source systems and our platform.", "zh": "整合測試驗證來源系統與我方平台間的資料流。" },
+    { "en": "Performance benchmarks are captured prior to migration for accurate comparison.", "zh": "效能基準於移轉前擷取以便準確比較。" },
+    { "en": "Rollback procedures are rehearsed before cutover weekend to ensure confidence.", "zh": "切換當週前演練回復程序以確保信心。" },
+    { "en": "Post go live surveys capture user sentiment and identify pain points quickly.", "zh": "上線後問卷蒐集使用者感受並迅速找出痛點。" },
+    { "en": "Continuous improvement initiatives are prioritized using customer outcome metrics.", "zh": "持續改善方案以客戶成果指標排定優先順序。" },
+    { "en": "Success criteria are revisited quarterly to ensure ongoing alignment with goals.", "zh": "每季重新檢視成功標準以確保持續與目標一致。" }
   ]
 }

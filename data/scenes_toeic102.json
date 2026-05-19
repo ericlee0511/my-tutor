@@ -32,6 +32,16 @@
     { "en": "Learnings from this test will feed into our optimization roadmap document.", "zh": "本次測試的學習成果將納入我們的優化路徑圖文件。" },
     { "en": "We thank everyone who contributed to designing and shipping these variants.", "zh": "感謝所有參與設計與交付這些版本的同仁。" },
     { "en": "A detailed appendix with charts and raw figures is attached to this memo.", "zh": "本備忘錄附有含圖表與原始數據的詳細附錄。" },
-    { "en": "Feel free to share this summary with relevant stakeholders in your organization.", "zh": "歡迎將本摘要分享給貴組織內相關的利害關係人。" }
+    { "en": "Feel free to share this summary with relevant stakeholders in your organization.", "zh": "歡迎將本摘要分享給貴組織內相關的利害關係人。" },
+    { "en": "A guardrail metric on form abandonment will be added to our monitoring suite.", "zh": "將於監控組合中新增表單放棄率作為防護指標。" },
+    { "en": "Multi armed bandit testing will be evaluated for high traffic landing pages.", "zh": "高流量登陸頁將評估採用多臂吃角子老虎機測試法。" },
+    { "en": "We will partner with research to add qualitative insights to quantitative wins.", "zh": "我們將與研究團隊合作為量化勝果增添質化洞察。" },
+    { "en": "Test documentation standards will be updated to capture more contextual details.", "zh": "測試文件規範將更新以記錄更多情境細節。" },
+    { "en": "A monthly experimentation review will showcase wins, losses, and key learnings.", "zh": "每月將舉行實驗檢討會展示成功、失敗與關鍵學習。" },
+    { "en": "Hypothesis quality has improved since adopting the structured intake template.", "zh": "自採用結構化需求模板以來，假設品質已有所提升。" },
+    { "en": "We plan to share these learnings with the broader product organization next month.", "zh": "我們計畫於下月將這些學習成果分享給更廣的產品組織。" },
+    { "en": "Accessibility checks will be incorporated as a mandatory step before launching tests.", "zh": "無障礙檢查將納入啟動測試前的必要步驟。" },
+    { "en": "International market variants may require separate testing due to cultural nuances.", "zh": "因應文化差異，國際市場版本可能需要另行測試。" },
+    { "en": "Thank you to engineering, design, and analytics for partnering on these results.", "zh": "感謝工程、設計與分析團隊共同協作達成這些成果。" }
   ]
 }

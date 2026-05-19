@@ -34,6 +34,16 @@
     { "en": "Adoption metrics will be reviewed monthly with each regional vice president.", "zh": "採用率指標將每月與各區副總裁共同檢視。" },
     { "en": "Awards recognize the top three teams with the highest engagement scores.", "zh": "獎項將表揚參與度最高的前三支團隊。" },
     { "en": "We deeply appreciate your patience and partnership during this important transition.", "zh": "非常感謝您於此重要轉型期間的耐心與夥伴情誼。" },
-    { "en": "Together, Helios will accelerate our customer growth for years to come.", "zh": "齊心協力，Helios 將於未來數年加速我們的客戶成長。" }
+    { "en": "Together, Helios will accelerate our customer growth for years to come.", "zh": "齊心協力，Helios 將於未來數年加速我們的客戶成長。" },
+    { "en": "Single sign-on integration eliminates the need for separate Helios passwords.", "zh": "單一登入整合可免除另設 Helios 密碼之需。" },
+    { "en": "User roles are mapped from our existing identity management directory.", "zh": "使用者角色由現行身分管理目錄對應而來。" },
+    { "en": "Access reviews will be conducted quarterly to confirm appropriate permissions.", "zh": "將每季進行存取檢視以確認權限合宜。" },
+    { "en": "Reporting templates from the legacy system have been migrated automatically.", "zh": "舊系統的報表範本已自動移轉。" },
+    { "en": "Custom dashboards can be built using the new drag-and-drop designer tool.", "zh": "可使用新版拖放式設計工具自建客製儀表板。" },
+    { "en": "Field-level audit trails record every change for compliance reporting purposes.", "zh": "欄位層級稽核軌跡記錄每項變更，以供合規報告使用。" },
+    { "en": "Integration with our email system enables automatic activity logging from inbox.", "zh": "與電子郵件系統整合可自信箱自動記錄活動。" },
+    { "en": "Sales forecasts now refresh hourly instead of once each evening as before.", "zh": "銷售預測現每小時更新，較以往每晚一次更為頻繁。" },
+    { "en": "Bluepeak provides a dedicated technical account manager for our company.", "zh": "Bluepeak 為本公司提供專屬技術客戶經理。" },
+    { "en": "Quarterly business reviews ensure Helios continues to evolve with our needs.", "zh": "季度業務檢視確保 Helios 持續配合本公司需求演進。" }
   ]
 }

@@ -34,6 +34,16 @@
     { "en": "Customers receive at least ninety days notice prior to any material change in service scope.", "zh": "服務範圍若有重大變更，客戶將獲至少九十天的事前通知。" },
     { "en": "Dispute resolution will follow a defined escalation path before formal arbitration.", "zh": "爭議解決將遵循既定的逐級陳報路徑後方進入正式仲裁。" },
     { "en": "Both parties agree to act in good faith to resolve any service performance issues.", "zh": "雙方同意以誠信原則處理任何服務效能議題。" },
-    { "en": "This agreement reflects our shared commitment to delivering reliable, secure cloud services.", "zh": "本協議反映我們共同致力於提供可靠、安全雲端服務的承諾。" }
+    { "en": "This agreement reflects our shared commitment to delivering reliable, secure cloud services.", "zh": "本協議反映我們共同致力於提供可靠、安全雲端服務的承諾。" },
+    { "en": "Customer technical contacts will receive proactive alerts for any planned configuration changes.", "zh": "任何計畫性組態變更，客戶技術聯絡人均將收到主動告警。" },
+    { "en": "Quarterly business reviews will include uptime trends, support metrics, and roadmap previews.", "zh": "季度業務檢討將包含可用率趨勢、支援指標與路線圖預覽。" },
+    { "en": "Capacity planning data is available to enterprise customers upon written request.", "zh": "企業客戶可於書面申請後取得產能規劃資料。" },
+    { "en": "Service decommissioning notices will be provided no less than 12 months in advance.", "zh": "服務退場通知將於至少十二個月前提供。" },
+    { "en": "Multi-region failover configurations are recommended for mission critical workloads.", "zh": "建議任務關鍵型工作負載採用多區域容錯移轉組態。" },
+    { "en": "Customers retain ownership of all data uploaded to the service at all times.", "zh": "客戶始終保有所有上傳至本服務之資料的所有權。" },
+    { "en": "Data export tools allow customers to retrieve their information in industry standard formats.", "zh": "資料匯出工具可讓客戶以業界標準格式取回其資訊。" },
+    { "en": "Subprocessor changes will be communicated through the trust portal at least 30 days in advance.", "zh": "次處理者變更將透過信任入口於至少三十天前通知。" },
+    { "en": "Service level credits do not apply when issues arise from customer misconfiguration.", "zh": "因客戶錯誤組態造成的問題不適用服務水準補償。" },
+    { "en": "Both parties acknowledge this agreement supersedes prior service level commitments in writing.", "zh": "雙方確認本協議優先於先前以書面訂立的服務水準承諾。" }
   ]
 }

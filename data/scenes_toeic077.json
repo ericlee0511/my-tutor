@@ -35,6 +35,16 @@
     { "en": "Equipment maintenance windows are coordinated to avoid peak replenishment hours.", "zh": "設備保養時段已協調以避開補貨尖峰時間。" },
     { "en": "Backup batteries for scanners are stored in clearly labeled charging racks.", "zh": "掃描器備用電池存放於清楚標示的充電架上。" },
     { "en": "Performance bonuses reward teams that consistently meet accuracy targets.", "zh": "績效獎金獎勵持續達成準確率目標的團隊。" },
-    { "en": "Together these practices help ensure orders ship complete and on time every day.", "zh": "上述作法協助確保訂單每日皆能完整且準時出貨。" }
+    { "en": "Together these practices help ensure orders ship complete and on time every day.", "zh": "上述作法協助確保訂單每日皆能完整且準時出貨。" },
+    { "en": "Pick path optimization algorithms now reduce average operator travel by twelve percent.", "zh": "揀貨路徑優化演算法現可使作業員平均移動距離減少百分之十二。" },
+    { "en": "Wave planning consolidates similar orders to maximize labor efficiency each shift.", "zh": "波次規劃將相似訂單集中以最大化每班人力效率。" },
+    { "en": "Replenishment from reserve to forward locations now uses a pull based signal system.", "zh": "由備品區補至前線揀貨位的補貨現採拉式訊號系統。" },
+    { "en": "Cube utilization is monitored weekly to identify slow moving items occupying premium space.", "zh": "立方利用率每週監控，以識別佔用優先儲位的滯銷品。" },
+    { "en": "Returns processing has been integrated into the main replenishment workflow seamlessly.", "zh": "退貨處理已無縫整合至主補貨流程之中。" },
+    { "en": "Voice picking technology will be trialed in the high velocity zone next quarter.", "zh": "語音揀貨技術將於下季在高流速區域試行。" },
+    { "en": "Operators receive weekly accuracy scorecards through the team performance dashboard.", "zh": "作業員每週可透過團隊績效儀表板收到準確率成績單。" },
+    { "en": "Mentorship pairing helps newer team members learn shortcuts from experienced colleagues.", "zh": "導師配對協助新進團隊成員向資深同仁學習小技巧。" },
+    { "en": "Quarterly recognition events celebrate the top performing replenishment crews.", "zh": "季度表揚活動慶賀表現最優的補貨團隊。" },
+    { "en": "Suggestion boxes have been replaced by a digital idea submission and tracking tool.", "zh": "意見箱已由數位構想提交與追蹤工具取代。" }
   ]
 }

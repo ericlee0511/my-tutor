@@ -33,6 +33,16 @@
     { "en": "Please also ensure your operating system patches are fully up to date.", "zh": "也請確認您的作業系統修補程式皆已更新至最新版本。" },
     { "en": "Outdated patches can prevent the VPN client from establishing a session.", "zh": "過舊的修補程式可能導致 VPN 用戶端無法建立連線工作階段。" },
     { "en": "We appreciate your cooperation in keeping company devices secure and current.", "zh": "感謝您配合確保公司裝置維持安全且最新狀態。" },
-    { "en": "Please reply to this email if you need further assistance from our team.", "zh": "若您需要我們團隊進一步協助，請直接回覆此封郵件。" }
+    { "en": "Please reply to this email if you need further assistance from our team.", "zh": "若您需要我們團隊進一步協助，請直接回覆此封郵件。" },
+    { "en": "Remote workers can request a courier service to swap faulty hardware quickly.", "zh": "遠距工作者可申請快遞服務以迅速更換故障硬體。" },
+    { "en": "Replacement laptops are prepared with all your standard applications preinstalled.", "zh": "備用筆電已預先安裝您所有的標準應用程式。" },
+    { "en": "Data migration support is available through our endpoint management platform.", "zh": "可透過端點管理平台取得資料移轉支援。" },
+    { "en": "Please report any phishing emails to the dedicated security inbox immediately.", "zh": "請立即將任何釣魚郵件回報至專屬資安信箱。" },
+    { "en": "Mandatory security awareness training is due to be renewed every six months.", "zh": "資安認知強制訓練每六個月須更新一次。" },
+    { "en": "Multi factor authentication enrollment is required for all remote access scenarios.", "zh": "所有遠端存取情境皆須完成多因素驗證註冊。" },
+    { "en": "Approved password manager licenses are available upon request through this portal.", "zh": "可透過本入口網站申請取得已核可的密碼管理工具授權。" },
+    { "en": "Major scheduled maintenance windows will be announced two weeks in advance.", "zh": "重大排程維護時段將提前兩週公告。" },
+    { "en": "After hours emergency support is available for production critical incidents only.", "zh": "下班時段緊急支援僅限於營運關鍵事件提供。" },
+    { "en": "We appreciate your partnership in keeping our digital workplace secure and resilient.", "zh": "感謝您的合作，共同維護我們的數位職場安全與韌性。" }
   ]
 }
