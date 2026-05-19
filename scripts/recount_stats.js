@@ -121,16 +121,51 @@ const jpSum = levelTable(
   ["N5","N4","N3","N2","N1"],
   jp
 );
-const toeicSum = levelTable(
-  "多益 (TOEIC)",
-  ["toeic"],
-  ["TOEIC"],
+// TOEIC and GEPT vocab are sub-classified by a per-entry `level` field
+// (not split into separate JSON keys). Render the main row + per-sub-level
+// vocab rows; grammar/quiz are shared, so sub-rows show "--" for those.
+function tableWithSubLevels(title, mainLabel, vocabFile, vocabKey, subs, src) {
+  const arr = readJSON(path.join(DATA, vocabFile))[vocabKey] || [];
+  const subCounts = Object.fromEntries(subs.map(s => [s.key, 0]));
+  for (const e of arr) {
+    if (subCounts[e.level] !== undefined) subCounts[e.level]++;
+  }
+  const v = arr.length;
+  const g = src.grammar[vocabKey] || 0;
+  const q = src.quiz[vocabKey] || 0;
+  lines.push(`## ${title}`);
+  lines.push("");
+  lines.push("| 等級       | 單字 | 文法 | 選擇題 |");
+  lines.push("|------------|-----:|-----:|-------:|");
+  lines.push(`| ${mainLabel} | ${v} | ${g} | ${q} |`);
+  for (const s of subs) {
+    lines.push(`|   ${s.label} | ${subCounts[s.key]} | -- | -- |`);
+  }
+  lines.push("");
+  return { vocab: v, grammar: g, quiz: q };
+}
+
+const toeicSum = tableWithSubLevels(
+  "多益 (TOEIC)", "TOEIC",
+  "vocab_toeic.json", "toeic",
+  [
+    { key: "基礎生活級", label: "基礎生活" },
+    { key: "職場日常級", label: "職場日常" },
+    { key: "進階商務級", label: "進階商務" },
+    { key: "專業頂尖級", label: "專業頂尖" },
+  ],
   toeic
 );
-const geptSum = levelTable(
-  "全民英檢 (GEPT)",
-  ["gept"],
-  ["GEPT"],
+const geptSum = tableWithSubLevels(
+  "全民英檢 (GEPT)", "GEPT",
+  "vocab_gept.json", "gept",
+  [
+    { key: "初級",   label: "初級" },
+    { key: "中級",   label: "中級" },
+    { key: "中高級", label: "中高級" },
+    { key: "高級",   label: "高級" },
+    { key: "優級",   label: "優級" },
+  ],
   gept
 );
 
