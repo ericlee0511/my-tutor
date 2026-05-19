@@ -122,19 +122,26 @@ function activeStories() {
   if (isToeic()) return TOEIC_STORIES;
   return isTopik() ? KOREAN_STORIES : STORIES;
 }
-function activeVocab() {
-  if (isDele()) return DATA.vocab_dele;
-  if (isGept()) {
+function vocabFor(mode) {
+  if (mode === "dele") return DATA.vocab_dele;
+  if (mode === "gept") {
     const all = (DATA.vocab_gept && DATA.vocab_gept.gept) || [];
     const sub = state.geptSubLevel || "g1";
     return { gept: all.filter(e => e.level === sub) };
   }
-  if (isToeic()) {
+  if (mode === "toeic") {
     const all = (DATA.vocab_toeic && DATA.vocab_toeic.toeic) || [];
     const sub = state.toeicSubLevel || "基礎生活級";
     return { toeic: all.filter(e => e.level === sub) };
   }
-  return isTopik() ? DATA.vocab_ko : DATA.vocab;
+  if (mode === "topik") return DATA.vocab_ko;
+  return DATA.vocab;
+}
+function activeVocab() {
+  if (isDele()) return vocabFor("dele");
+  if (isGept()) return vocabFor("gept");
+  if (isToeic()) return vocabFor("toeic");
+  return isTopik() ? vocabFor("topik") : vocabFor("jp");
 }
 function activeGrammar() {
   if (isDele()) return DATA.grammar_dele;
@@ -1039,11 +1046,11 @@ function nextTimeline() {
     if (item) { pushTimeline("scene", last.key, item, mode); displayEntry(state.timeline[state.timelinePos]); }
   } else {
     const poolMap =
-      mode === "dele" ? { word: DATA.vocab_dele, grammar: DATA.grammar_dele, quiz: DATA.quiz_dele } :
-      mode === "gept" ? { word: DATA.vocab_gept, grammar: DATA.grammar_gept, quiz: DATA.quiz_gept } :
-      mode === "toeic" ? { word: DATA.vocab_toeic, grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
-      mode === "topik" ? { word: DATA.vocab_ko, grammar: DATA.grammar_ko, quiz: DATA.quiz_ko } :
-      { word: DATA.vocab, grammar: DATA.grammar, quiz: DATA.quiz };
+      mode === "dele" ? { word: vocabFor("dele"), grammar: DATA.grammar_dele, quiz: DATA.quiz_dele } :
+      mode === "gept" ? { word: vocabFor("gept"), grammar: DATA.grammar_gept, quiz: DATA.quiz_gept } :
+      mode === "toeic" ? { word: vocabFor("toeic"), grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
+      mode === "topik" ? { word: vocabFor("topik"), grammar: DATA.grammar_ko, quiz: DATA.quiz_ko } :
+      { word: vocabFor("jp"), grammar: DATA.grammar, quiz: DATA.quiz };
     const histKind = last.kind === "word" ? "vocab" : last.kind;
     const item = pickRandom(poolMap[last.kind], last.key, histKind);
     if (item) { pushTimeline(last.kind, last.key, item, mode); displayEntry(state.timeline[state.timelinePos]); }
