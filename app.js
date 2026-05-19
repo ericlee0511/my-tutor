@@ -124,7 +124,11 @@ function activeStories() {
 }
 function activeVocab() {
   if (isDele()) return DATA.vocab_dele;
-  if (isGept()) return DATA.vocab_gept;
+  if (isGept()) {
+    const all = (DATA.vocab_gept && DATA.vocab_gept.gept) || [];
+    const sub = state.geptSubLevel || "g1";
+    return { gept: all.filter(e => e.level === sub) };
+  }
   if (isToeic()) return DATA.vocab_toeic;
   return isTopik() ? DATA.vocab_ko : DATA.vocab;
 }
@@ -501,10 +505,14 @@ const DELE_STORIES = [
 
 let DATA = {};
 let currentView = null;
+const GEPT_SUB_LABELS = { g1: "初級", g2: "中級", g3: "中高級", g4: "高級", g5: "優級" };
+const GEPT_SUB_KEYS = Object.keys(GEPT_SUB_LABELS);
+
 let state = {
   level: "n5",
   lang: "en",
   dir: "ja",
+  geptSubLevel: "g1",
   story: null,
   history: {},
   timeline: [],
@@ -518,8 +526,9 @@ function loadState() {
     Object.assign(state, saved);
   } catch {}
   state.history = state.history || {};
-  // Migrate: if a previous build stored g1-g5 (5-level GEPT), fold back to "gept"
+  // Migrate: if a previous build stored g1-g5 as the main level, fold back to "gept"
   if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
+  if (!GEPT_SUB_KEYS.includes(state.geptSubLevel)) state.geptSubLevel = "g1";
 }
 function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
@@ -610,7 +619,9 @@ function updateStats() {
 function pickRandom(pool, level, kind) {
   const items = pool[level];
   if (!items || !items.length) return null;
-  const key = `${kind}_${level}`;
+  // GEPT vocab filters by sub-level; track "already shown" history per sub-level so each pool gets its own rotation.
+  let key = `${kind}_${level}`;
+  if (level === "gept" && kind === "vocab") key += `_${state.geptSubLevel || "g1"}`;
   let history = state.history[key] || [];
   history = history.filter(i => i < items.length);
   let available = [];
@@ -1129,6 +1140,27 @@ function closeLevelPicker() {
   document.getElementById("level-picker").hidden = true;
 }
 
+function openGeptSubPicker() {
+  const overlay = document.getElementById("gept-sub-picker");
+  overlay.querySelectorAll(".picker-btn[data-sub]").forEach(b => {
+    b.classList.toggle("picker-current", b.dataset.sub === state.geptSubLevel);
+  });
+  overlay.hidden = false;
+}
+function closeGeptSubPicker() {
+  document.getElementById("gept-sub-picker").hidden = true;
+}
+function setGeptSubLevel(next) {
+  if (!GEPT_SUB_KEYS.includes(next) || next === state.geptSubLevel) return;
+  state.geptSubLevel = next;
+  saveState();
+  const btn = document.getElementById("gept-sub-btn");
+  if (btn) btn.textContent = GEPT_SUB_LABELS[next];
+  // Only the vocab pool depends on sub-level. Re-render if we're currently showing a word.
+  const entry = state.timeline[state.timelinePos];
+  if (entry && entry.kind === "word") render("word");
+}
+
 let statsLoaded = false;
 
 function parseStatisticsMd(md) {
@@ -1210,10 +1242,15 @@ function updateModeToggles() {
   const hideLang = isTopik() || isToeic() || isDele() || isGept();
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
+  const geptSubBtn = document.getElementById("gept-sub-btn");
   if (langBtn) langBtn.style.display = hideLang ? "none" : "";
   if (dirBtn) {
     dirBtn.style.display = "";
     dirBtn.textContent = dirLabel();
+  }
+  if (geptSubBtn) {
+    geptSubBtn.hidden = !isGept();
+    geptSubBtn.textContent = GEPT_SUB_LABELS[state.geptSubLevel || "g1"];
   }
 }
 function cycleLang() {
@@ -1254,6 +1291,16 @@ window.addEventListener("DOMContentLoaded", async () => {
   });
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
+  const geptSubBtn = document.getElementById("gept-sub-btn");
+  if (geptSubBtn) geptSubBtn.addEventListener("click", openGeptSubPicker);
+  const geptSubPicker = document.getElementById("gept-sub-picker");
+  if (geptSubPicker) {
+    geptSubPicker.addEventListener("click", e => {
+      if (e.target === geptSubPicker) { closeGeptSubPicker(); return; }
+      const btn = e.target.closest(".picker-btn[data-sub]");
+      if (btn) { setGeptSubLevel(btn.dataset.sub); closeGeptSubPicker(); }
+    });
+  }
   const titleStats = document.getElementById("title-stats");
   if (titleStats) titleStats.addEventListener("click", openStatsPicker);
   const statsOverlay = document.getElementById("stats-picker");
@@ -1267,6 +1314,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
     if (!statsOverlay.hidden) closeStatsPicker();
+    else if (geptSubPicker && !geptSubPicker.hidden) closeGeptSubPicker();
     else if (!document.getElementById("level-picker").hidden) closeLevelPicker();
   });
   document.querySelectorAll(".action").forEach(b =>
