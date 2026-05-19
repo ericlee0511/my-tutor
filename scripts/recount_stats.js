@@ -59,7 +59,7 @@ const toeic = {
   quiz: countLevels("quiz_toeic.json", ["toeic"]),
 };
 const gept = {
-  vocab: countLevels("vocab_gept.json", ["gept"]),
+  vocab: countLevels("vocab_gept.json", ["g1", "g2", "g3", "g4", "g5"]),
   grammar: countLevels("grammar_gept.json", ["gept"]),
   quiz: countLevels("quiz_gept.json", ["gept"]),
 };
@@ -127,12 +127,25 @@ const toeicSum = levelTable(
   ["TOEIC"],
   toeic
 );
-const geptSum = levelTable(
-  "全民英檢 (GEPT)",
-  ["gept"],
-  ["GEPT"],
-  gept
-);
+// GEPT: vocab is split into 5 sub-levels; grammar/quiz are shared.
+// Render with per-level vocab rows and "—" for the shared columns.
+const geptKeys = ["g1", "g2", "g3", "g4", "g5"];
+const geptLabels = ["GEPT 初級", "GEPT 中級", "GEPT 中高級", "GEPT 高級", "GEPT 優級"];
+let geptVocabSum = 0;
+const geptGrammar = gept.grammar.gept || 0;
+const geptQuiz = gept.quiz.gept || 0;
+lines.push("## 全民英檢 (GEPT)");
+lines.push("");
+lines.push("| 等級        | 單字 | 文法 | 選擇題 |");
+lines.push("|-------------|-----:|-----:|-------:|");
+for (let i = 0; i < geptKeys.length; i++) {
+  const v = gept.vocab[geptKeys[i]] || 0;
+  geptVocabSum += v;
+  lines.push(`| ${geptLabels[i]} | ${pad(v, 4)} | — | — |`);
+}
+lines.push(`| **小計** | **${geptVocabSum}** | **${geptGrammar}** | **${geptQuiz}** |`);
+lines.push("");
+const geptSum = { vocab: geptVocabSum, grammar: geptGrammar, quiz: geptQuiz };
 
 lines.push("## 情境句");
 lines.push("");
