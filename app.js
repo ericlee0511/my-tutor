@@ -126,7 +126,7 @@ function vocabFor(mode) {
   if (mode === "dele") return DATA.vocab_dele;
   if (mode === "gept") {
     const all = (DATA.vocab_gept && DATA.vocab_gept.gept) || [];
-    const sub = state.geptSubLevel || "g1";
+    const sub = state.geptSubLevel || "初級";
     return { gept: all.filter(e => e.level === sub) };
   }
   if (mode === "toeic") {
@@ -516,8 +516,8 @@ const DELE_STORIES = [
 
 let DATA = {};
 let currentView = null;
-const GEPT_SUB_LABELS = { g1: "初級", g2: "中級", g3: "中高級", g4: "高級", g5: "優級" };
-const GEPT_SUB_KEYS = Object.keys(GEPT_SUB_LABELS);
+const GEPT_SUB_LEVELS = ["初級", "中級", "中高級", "高級", "優級"];
+const GEPT_LEGACY_KEY_MAP = { g1: "初級", g2: "中級", g3: "中高級", g4: "高級", g5: "優級" };
 const TOEIC_SUB_LABELS = {
   "基礎生活級": "基礎生活",
   "職場日常級": "職場日常",
@@ -530,7 +530,7 @@ let state = {
   level: "n5",
   lang: "en",
   dir: "ja",
-  geptSubLevel: "g1",
+  geptSubLevel: "初級",
   toeicSubLevel: "基礎生活級",
   story: null,
   history: {},
@@ -547,7 +547,9 @@ function loadState() {
   state.history = state.history || {};
   // Migrate: if a previous build stored g1-g5 as the main level, fold back to "gept"
   if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
-  if (!GEPT_SUB_KEYS.includes(state.geptSubLevel)) state.geptSubLevel = "g1";
+  // Migrate legacy gept sub-level keys (g1-g5) → Chinese labels
+  if (GEPT_LEGACY_KEY_MAP[state.geptSubLevel]) state.geptSubLevel = GEPT_LEGACY_KEY_MAP[state.geptSubLevel];
+  if (!GEPT_SUB_LEVELS.includes(state.geptSubLevel)) state.geptSubLevel = "初級";
   if (!TOEIC_SUB_KEYS.includes(state.toeicSubLevel)) state.toeicSubLevel = "基礎生活級";
 }
 function saveState() {
@@ -641,7 +643,7 @@ function pickRandom(pool, level, kind) {
   if (!items || !items.length) return null;
   // GEPT/TOEIC vocab filter by sub-level; track "already shown" history per sub-level so each pool keeps its own rotation.
   let key = `${kind}_${level}`;
-  if (level === "gept"  && kind === "vocab") key += `_${state.geptSubLevel  || "g1"}`;
+  if (level === "gept"  && kind === "vocab") key += `_${state.geptSubLevel  || "初級"}`;
   if (level === "toeic" && kind === "vocab") key += `_${state.toeicSubLevel || "基礎生活級"}`;
   let history = state.history[key] || [];
   history = history.filter(i => i < items.length);
@@ -1172,11 +1174,11 @@ function closeGeptSubPicker() {
   document.getElementById("gept-sub-picker").hidden = true;
 }
 function setGeptSubLevel(next) {
-  if (!GEPT_SUB_KEYS.includes(next) || next === state.geptSubLevel) return;
+  if (!GEPT_SUB_LEVELS.includes(next) || next === state.geptSubLevel) return;
   state.geptSubLevel = next;
   saveState();
   const btn = document.getElementById("gept-sub-btn");
-  if (btn) btn.textContent = GEPT_SUB_LABELS[next];
+  if (btn) btn.textContent = next;
   // Only the vocab pool depends on sub-level. Re-render if we're currently showing a word.
   const entry = state.timeline[state.timelinePos];
   if (entry && entry.kind === "word") render("word");
@@ -1292,7 +1294,7 @@ function updateModeToggles() {
   }
   if (geptSubBtn) {
     geptSubBtn.hidden = !isGept();
-    geptSubBtn.textContent = GEPT_SUB_LABELS[state.geptSubLevel || "g1"];
+    geptSubBtn.textContent = state.geptSubLevel || "初級";
   }
   if (toeicSubBtn) {
     toeicSubBtn.hidden = !isToeic();
