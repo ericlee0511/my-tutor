@@ -129,7 +129,11 @@ function activeVocab() {
     const sub = state.geptSubLevel || "g1";
     return { gept: all.filter(e => e.level === sub) };
   }
-  if (isToeic()) return DATA.vocab_toeic;
+  if (isToeic()) {
+    const all = (DATA.vocab_toeic && DATA.vocab_toeic.toeic) || [];
+    const sub = state.toeicSubLevel || "基礎生活級";
+    return { toeic: all.filter(e => e.level === sub) };
+  }
   return isTopik() ? DATA.vocab_ko : DATA.vocab;
 }
 function activeGrammar() {
@@ -507,12 +511,20 @@ let DATA = {};
 let currentView = null;
 const GEPT_SUB_LABELS = { g1: "初級", g2: "中級", g3: "中高級", g4: "高級", g5: "優級" };
 const GEPT_SUB_KEYS = Object.keys(GEPT_SUB_LABELS);
+const TOEIC_SUB_LABELS = {
+  "基礎生活級": "基礎生活",
+  "職場日常級": "職場日常",
+  "進階商務級": "進階商務",
+  "專業頂尖級": "專業頂尖",
+};
+const TOEIC_SUB_KEYS = Object.keys(TOEIC_SUB_LABELS);
 
 let state = {
   level: "n5",
   lang: "en",
   dir: "ja",
   geptSubLevel: "g1",
+  toeicSubLevel: "基礎生活級",
   story: null,
   history: {},
   timeline: [],
@@ -529,6 +541,7 @@ function loadState() {
   // Migrate: if a previous build stored g1-g5 as the main level, fold back to "gept"
   if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
   if (!GEPT_SUB_KEYS.includes(state.geptSubLevel)) state.geptSubLevel = "g1";
+  if (!TOEIC_SUB_KEYS.includes(state.toeicSubLevel)) state.toeicSubLevel = "基礎生活級";
 }
 function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
@@ -619,9 +632,10 @@ function updateStats() {
 function pickRandom(pool, level, kind) {
   const items = pool[level];
   if (!items || !items.length) return null;
-  // GEPT vocab filters by sub-level; track "already shown" history per sub-level so each pool gets its own rotation.
+  // GEPT/TOEIC vocab filter by sub-level; track "already shown" history per sub-level so each pool keeps its own rotation.
   let key = `${kind}_${level}`;
-  if (level === "gept" && kind === "vocab") key += `_${state.geptSubLevel || "g1"}`;
+  if (level === "gept"  && kind === "vocab") key += `_${state.geptSubLevel  || "g1"}`;
+  if (level === "toeic" && kind === "vocab") key += `_${state.toeicSubLevel || "基礎生活級"}`;
   let history = state.history[key] || [];
   history = history.filter(i => i < items.length);
   let available = [];
@@ -1161,6 +1175,26 @@ function setGeptSubLevel(next) {
   if (entry && entry.kind === "word") render("word");
 }
 
+function openToeicSubPicker() {
+  const overlay = document.getElementById("toeic-sub-picker");
+  overlay.querySelectorAll(".picker-btn[data-sub]").forEach(b => {
+    b.classList.toggle("picker-current", b.dataset.sub === state.toeicSubLevel);
+  });
+  overlay.hidden = false;
+}
+function closeToeicSubPicker() {
+  document.getElementById("toeic-sub-picker").hidden = true;
+}
+function setToeicSubLevel(next) {
+  if (!TOEIC_SUB_KEYS.includes(next) || next === state.toeicSubLevel) return;
+  state.toeicSubLevel = next;
+  saveState();
+  const btn = document.getElementById("toeic-sub-btn");
+  if (btn) btn.textContent = TOEIC_SUB_LABELS[next];
+  const entry = state.timeline[state.timelinePos];
+  if (entry && entry.kind === "word") render("word");
+}
+
 let statsLoaded = false;
 
 function parseStatisticsMd(md) {
@@ -1243,6 +1277,7 @@ function updateModeToggles() {
   const langBtn = document.getElementById("lang-btn");
   const dirBtn = document.getElementById("dir-btn");
   const geptSubBtn = document.getElementById("gept-sub-btn");
+  const toeicSubBtn = document.getElementById("toeic-sub-btn");
   if (langBtn) langBtn.style.display = hideLang ? "none" : "";
   if (dirBtn) {
     dirBtn.style.display = "";
@@ -1251,6 +1286,10 @@ function updateModeToggles() {
   if (geptSubBtn) {
     geptSubBtn.hidden = !isGept();
     geptSubBtn.textContent = GEPT_SUB_LABELS[state.geptSubLevel || "g1"];
+  }
+  if (toeicSubBtn) {
+    toeicSubBtn.hidden = !isToeic();
+    toeicSubBtn.textContent = TOEIC_SUB_LABELS[state.toeicSubLevel || "基礎生活級"];
   }
 }
 function cycleLang() {
@@ -1301,6 +1340,16 @@ window.addEventListener("DOMContentLoaded", async () => {
       if (btn) { setGeptSubLevel(btn.dataset.sub); closeGeptSubPicker(); }
     });
   }
+  const toeicSubBtn = document.getElementById("toeic-sub-btn");
+  if (toeicSubBtn) toeicSubBtn.addEventListener("click", openToeicSubPicker);
+  const toeicSubPicker = document.getElementById("toeic-sub-picker");
+  if (toeicSubPicker) {
+    toeicSubPicker.addEventListener("click", e => {
+      if (e.target === toeicSubPicker) { closeToeicSubPicker(); return; }
+      const btn = e.target.closest(".picker-btn[data-sub]");
+      if (btn) { setToeicSubLevel(btn.dataset.sub); closeToeicSubPicker(); }
+    });
+  }
   const titleStats = document.getElementById("title-stats");
   if (titleStats) titleStats.addEventListener("click", openStatsPicker);
   const statsOverlay = document.getElementById("stats-picker");
@@ -1315,6 +1364,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     if (e.key !== "Escape") return;
     if (!statsOverlay.hidden) closeStatsPicker();
     else if (geptSubPicker && !geptSubPicker.hidden) closeGeptSubPicker();
+    else if (toeicSubPicker && !toeicSubPicker.hidden) closeToeicSubPicker();
     else if (!document.getElementById("level-picker").hidden) closeLevelPicker();
   });
   document.querySelectorAll(".action").forEach(b =>
