@@ -383,6 +383,9 @@ footer {
 .picker-row-toeic .picker-btn {
   flex: 0 0 calc((100% - 5 * 8px) / 6);
 }
+.picker-row-gept-sub {
+  grid-template-columns: repeat(5, 1fr);
+}
 .picker-btn {
   min-width: 0;
   background: var(--accent-soft);
