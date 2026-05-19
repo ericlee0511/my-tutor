@@ -1207,7 +1207,7 @@ function setToeicSubLevel(next) {
 let statsLoaded = false;
 
 function parseStatisticsMd(md) {
-  // Returns [{ heading, headers:[...], rows:[[cells]], sumRow:idxOrNull }]
+  // Returns [{ heading, headers:[...], rows:[{cells:[...], sub:bool}] }]
   const lines = md.split(/\r?\n/);
   const sections = [];
   let cur = null;
@@ -1223,10 +1223,13 @@ function parseStatisticsMd(md) {
     if (!line.startsWith("|")) continue;
     // skip separator rows like |---|---:|
     if (/^\|\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/.test(line)) continue;
-    const cells = line.split("|").slice(1, -1).map(c => c.trim().replace(/^\*\*(.*)\*\*$/, "$1"));
-    if (!cells.length) continue;
+    const rawCells = line.split("|").slice(1, -1);
+    if (!rawCells.length) continue;
+    // sub-row: first cell label is indented (leading whitespace before the text)
+    const isSub = /^\s{2,}\S/.test(rawCells[0]);
+    const cells = rawCells.map(c => c.trim().replace(/^\*\*(.*)\*\*$/, "$1"));
     if (!cur.headers) cur.headers = cells;
-    else cur.rows.push(cells);
+    else cur.rows.push({ cells, sub: isSub });
   }
   if (cur) sections.push(cur);
   return sections;
@@ -1237,18 +1240,22 @@ function escapeHTMLSafe(s) {
 }
 
 function renderStatsSection(sec) {
-  const isSum = row => /^(小計|合計)$/.test(row[0]);
   const headerCells = sec.headers.map((h, i) => {
     const cls = i === 0 ? "" : ' class="num"';
     return `<th${cls}>${escapeHTMLSafe(h)}</th>`;
   }).join("");
   const bodyRows = sec.rows.map(r => {
-    const cls = isSum(r) ? ' class="sum"' : "";
-    const cells = r.map((c, i) => {
+    const cells = r.cells;
+    const isSum = /^(小計|合計)$/.test(cells[0]);
+    const rowClasses = [];
+    if (isSum) rowClasses.push("sum");
+    if (r.sub) rowClasses.push("sub");
+    const cls = rowClasses.length ? ` class="${rowClasses.join(" ")}"` : "";
+    const tds = cells.map((c, i) => {
       const tdCls = i === 0 ? "" : ' class="num"';
       return `<td${tdCls}>${escapeHTMLSafe(c)}</td>`;
     }).join("");
-    return `<tr${cls}>${cells}</tr>`;
+    return `<tr${cls}>${tds}</tr>`;
   }).join("");
   return `<h3 class="stats-h3">${escapeHTMLSafe(sec.heading)}</h3>` +
     `<table class="stats-table"><thead><tr>${headerCells}</tr></thead><tbody>${bodyRows}</tbody></table>`;

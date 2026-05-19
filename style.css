@@ -496,3 +496,12 @@ footer {
   background: var(--accent-soft);
   border-bottom: none;
 }
+.stats-table tr.sub td:first-child {
+  padding-left: 24px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.stats-table tr.sub td.num {
+  color: var(--muted);
+  font-size: 12px;
+}
