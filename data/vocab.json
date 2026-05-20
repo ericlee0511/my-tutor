@@ -74698,6 +74698,4506 @@
       "example_ja": "余震が続いている。",
       "example_en": "Aftershocks continue.",
       "example_kana": "よしんがつづいている。"
+    },
+    {
+      "kanji": "経営",
+      "kana": "けいえい",
+      "meaning_en": "management, administration",
+      "meaning_ja": "事業を運営し管理すること",
+      "example_ja": "彼は会社の経営を任された。",
+      "example_en": "He was entrusted with the management of the company.",
+      "example_kana": "かれはかいしゃのけいえいをまかされた。"
+    },
+    {
+      "kanji": "戦略",
+      "kana": "せんりゃく",
+      "meaning_en": "strategy",
+      "meaning_ja": "長期的な目標達成のための計画",
+      "example_ja": "新しい市場戦略を立てた。",
+      "example_en": "We formulated a new market strategy.",
+      "example_kana": "あたらしいしじょうせんりゃくをたてた。"
+    },
+    {
+      "kanji": "連携",
+      "kana": "れんけい",
+      "meaning_en": "cooperation, coordination",
+      "meaning_ja": "互いに連絡を取って協力すること",
+      "example_ja": "他社との連携を強化する。",
+      "example_en": "We strengthen cooperation with other companies.",
+      "example_kana": "たしゃとのれんけいをきょうかする。"
+    },
+    {
+      "kanji": "出資",
+      "kana": "しゅっし",
+      "meaning_en": "investment, capital contribution",
+      "meaning_ja": "事業のために資金を出すこと",
+      "example_ja": "彼は新会社に出資した。",
+      "example_en": "He invested in the new company.",
+      "example_kana": "かれはしんかいしゃにしゅっしした。"
+    },
+    {
+      "kanji": "撤退",
+      "kana": "てったい",
+      "meaning_en": "withdrawal, pullout",
+      "meaning_ja": "事業や活動から手を引くこと",
+      "example_ja": "海外市場から撤退する。",
+      "example_en": "We are withdrawing from the overseas market.",
+      "example_kana": "かいがいしじょうからてったいする。"
+    },
+    {
+      "kanji": "買収",
+      "kana": "ばいしゅう",
+      "meaning_en": "acquisition, buyout",
+      "meaning_ja": "企業を買い取ること",
+      "example_ja": "競合他社を買収した。",
+      "example_en": "We acquired a competitor.",
+      "example_kana": "きょうごうたしゃをばいしゅうした。"
+    },
+    {
+      "kanji": "人事",
+      "kana": "じんじ",
+      "meaning_en": "personnel affairs, HR",
+      "meaning_ja": "人の任免や配置に関する事柄",
+      "example_ja": "春の人事異動が発表された。",
+      "example_en": "The spring personnel changes were announced.",
+      "example_kana": "はるのじんじいどうがはっぴょうされた。"
+    },
+    {
+      "kanji": "異動",
+      "kana": "いどう",
+      "meaning_en": "personnel change, transfer",
+      "meaning_ja": "職場や役職が変わること",
+      "example_ja": "営業部への異動が決まった。",
+      "example_en": "His transfer to the sales department was decided.",
+      "example_kana": "えいぎょうぶへのいどうがきまった。"
+    },
+    {
+      "kanji": "給与",
+      "kana": "きゅうよ",
+      "meaning_en": "salary, wages",
+      "meaning_ja": "労働の対価として支払われる金銭",
+      "example_ja": "給与が振り込まれた。",
+      "example_en": "My salary has been deposited.",
+      "example_kana": "きゅうよがふりこまれた。"
+    },
+    {
+      "kanji": "利益",
+      "kana": "りえき",
+      "meaning_en": "profit, gain",
+      "meaning_ja": "収入から費用を引いた残り",
+      "example_ja": "利益が大幅に増えた。",
+      "example_en": "Profits increased substantially.",
+      "example_kana": "りえきがおおはばにふえた。"
+    },
+    {
+      "kanji": "株主",
+      "kana": "かぶぬし",
+      "meaning_en": "shareholder, stockholder",
+      "meaning_ja": "会社の株式を所有する人",
+      "example_ja": "株主総会が開かれた。",
+      "example_en": "The shareholders' meeting was held.",
+      "example_kana": "かぶぬしそうかいがひらかれた。"
+    },
+    {
+      "kanji": "役員",
+      "kana": "やくいん",
+      "meaning_en": "executive, board member",
+      "meaning_ja": "会社の経営を担う幹部",
+      "example_ja": "役員会で承認された。",
+      "example_en": "It was approved at the board meeting.",
+      "example_kana": "やくいんかいでしょうにんされた。"
+    },
+    {
+      "kanji": "取締役",
+      "kana": "とりしまりやく",
+      "meaning_en": "director, board director",
+      "meaning_ja": "会社の業務執行を担う役員",
+      "example_ja": "彼は取締役に就任した。",
+      "example_en": "He assumed the position of director.",
+      "example_kana": "かれはとりしまりやくにしゅうにんした。"
+    },
+    {
+      "kanji": "経理",
+      "kana": "けいり",
+      "meaning_en": "accounting, finance department",
+      "meaning_ja": "会社の金銭処理を扱う部門",
+      "example_ja": "経理に書類を提出した。",
+      "example_en": "I submitted the documents to accounting.",
+      "example_kana": "けいりにしょるいをていしゅつした。"
+    },
+    {
+      "kanji": "監査",
+      "kana": "かんさ",
+      "meaning_en": "audit, inspection",
+      "meaning_ja": "業務や会計を調査すること",
+      "example_ja": "内部監査が実施された。",
+      "example_en": "An internal audit was conducted.",
+      "example_kana": "ないぶかんさがじっしされた。"
+    },
+    {
+      "kanji": "拡張",
+      "kana": "かくちょう",
+      "meaning_en": "expansion, extension",
+      "meaning_ja": "規模を広げること",
+      "example_ja": "事業の拡張を計画する。",
+      "example_en": "We plan to expand the business.",
+      "example_kana": "じぎょうのかくちょうをけいかくする。"
+    },
+    {
+      "kanji": "縮小",
+      "kana": "しゅくしょう",
+      "meaning_en": "reduction, downsizing",
+      "meaning_ja": "規模を小さくすること",
+      "example_ja": "事業を縮小せざるを得ない。",
+      "example_en": "We have no choice but to downsize.",
+      "example_kana": "じぎょうをしゅくしょうせざるをえない。"
+    },
+    {
+      "kanji": "再編",
+      "kana": "さいへん",
+      "meaning_en": "reorganization, restructuring",
+      "meaning_ja": "組織を編成し直すこと",
+      "example_ja": "業界再編が進んでいる。",
+      "example_en": "Industry restructuring is progressing.",
+      "example_kana": "ぎょうかいさいへんがすすんでいる。"
+    },
+    {
+      "kanji": "起業",
+      "kana": "きぎょう",
+      "meaning_en": "starting a business",
+      "meaning_ja": "新しく事業を始めること",
+      "example_ja": "彼は若くして起業した。",
+      "example_en": "He started a business at a young age.",
+      "example_kana": "かれはわかくしてきぎょうした。"
+    },
+    {
+      "kanji": "営業",
+      "kana": "えいぎょう",
+      "meaning_en": "sales, business operations",
+      "meaning_ja": "事業活動や販売活動を行うこと",
+      "example_ja": "明日から営業を再開する。",
+      "example_en": "We resume business from tomorrow.",
+      "example_kana": "あしたからえいぎょうをさいかいする。"
+    },
+    {
+      "kanji": "業界",
+      "kana": "ぎょうかい",
+      "meaning_en": "industry, business world",
+      "meaning_ja": "同種の事業に関わる人々の集まり",
+      "example_ja": "業界の動向を注視する。",
+      "example_en": "We watch industry trends closely.",
+      "example_kana": "ぎょうかいのどうこうをちゅうしする。"
+    },
+    {
+      "kanji": "競争力",
+      "kana": "きょうそうりょく",
+      "meaning_en": "competitiveness",
+      "meaning_ja": "他に競り勝つ力",
+      "example_ja": "国際競争力を高める。",
+      "example_en": "We enhance our international competitiveness.",
+      "example_kana": "こくさいきょうそうりょくをたかめる。"
+    },
+    {
+      "kanji": "資本",
+      "kana": "しほん",
+      "meaning_en": "capital, funds",
+      "meaning_ja": "事業の元手となる資金",
+      "example_ja": "資本を増やす必要がある。",
+      "example_en": "We need to increase our capital.",
+      "example_kana": "しほんをふやすひつようがある。"
+    },
+    {
+      "kanji": "配当",
+      "kana": "はいとう",
+      "meaning_en": "dividend",
+      "meaning_ja": "利益を株主に分配すること",
+      "example_ja": "配当が増額された。",
+      "example_en": "The dividend was increased.",
+      "example_kana": "はいとうがぞうがくされた。"
+    },
+    {
+      "kanji": "景気",
+      "kana": "けいき",
+      "meaning_en": "business conditions, economy",
+      "meaning_ja": "経済活動の状況",
+      "example_ja": "景気が回復しつつある。",
+      "example_en": "The economy is gradually recovering.",
+      "example_kana": "けいきがかいふくしつつある。"
+    },
+    {
+      "kanji": "顧客",
+      "kana": "こきゃく",
+      "meaning_en": "customer, client",
+      "meaning_ja": "商品やサービスを買う相手",
+      "example_ja": "顧客の信頼を得る。",
+      "example_en": "We earn the trust of our customers.",
+      "example_kana": "こきゃくのしんらいをえる。"
+    },
+    {
+      "kanji": "契約",
+      "kana": "けいやく",
+      "meaning_en": "contract, agreement",
+      "meaning_ja": "当事者間の法的な約束",
+      "example_ja": "契約書に署名した。",
+      "example_en": "I signed the contract.",
+      "example_kana": "けいやくしょにしょめいした。"
+    },
+    {
+      "kanji": "協議",
+      "kana": "きょうぎ",
+      "meaning_en": "discussion, consultation",
+      "meaning_ja": "互いに話し合って決めること",
+      "example_ja": "労使協議が開かれた。",
+      "example_en": "Labor-management talks were held.",
+      "example_kana": "ろうしきょうぎがひらかれた。"
+    },
+    {
+      "kanji": "稟議",
+      "kana": "りんぎ",
+      "meaning_en": "circulating proposal for approval",
+      "meaning_ja": "書類を回して上司の決裁を仰ぐこと",
+      "example_ja": "稟議書を回覧する。",
+      "example_en": "We circulate the approval document.",
+      "example_kana": "りんぎしょをかいらんする。"
+    },
+    {
+      "kanji": "決裁",
+      "kana": "けっさい",
+      "meaning_en": "approval, sanction",
+      "meaning_ja": "上位者が案を承認すること",
+      "example_ja": "社長の決裁を得た。",
+      "example_en": "We obtained the president's approval.",
+      "example_kana": "しゃちょうのけっさいをえた。"
+    },
+    {
+      "kanji": "承認",
+      "kana": "しょうにん",
+      "meaning_en": "approval, authorization",
+      "meaning_ja": "正当として認めること",
+      "example_ja": "計画が承認された。",
+      "example_en": "The plan was approved.",
+      "example_kana": "けいかくがしょうにんされた。"
+    },
+    {
+      "kanji": "議事録",
+      "kana": "ぎじろく",
+      "meaning_en": "minutes (of a meeting)",
+      "meaning_ja": "会議の内容を記録した文書",
+      "example_ja": "議事録を取りまとめる。",
+      "example_en": "I compile the minutes.",
+      "example_kana": "ぎじろくをとりまとめる。"
+    },
+    {
+      "kanji": "商談",
+      "kana": "しょうだん",
+      "meaning_en": "business talks",
+      "meaning_ja": "商売についての話し合い",
+      "example_ja": "商談がまとまった。",
+      "example_en": "The business deal came together.",
+      "example_kana": "しょうだんがまとまった。"
+    },
+    {
+      "kanji": "納期",
+      "kana": "のうき",
+      "meaning_en": "delivery deadline",
+      "meaning_ja": "品物を納める期限",
+      "example_ja": "納期に間に合わせる。",
+      "example_en": "We meet the delivery deadline.",
+      "example_kana": "のうきにまにあわせる。"
+    },
+    {
+      "kanji": "納品",
+      "kana": "のうひん",
+      "meaning_en": "delivery of goods",
+      "meaning_ja": "注文された品を納めること",
+      "example_ja": "明日納品予定だ。",
+      "example_en": "Delivery is scheduled for tomorrow.",
+      "example_kana": "あすのうひんよていだ。"
+    },
+    {
+      "kanji": "発注",
+      "kana": "はっちゅう",
+      "meaning_en": "placing an order",
+      "meaning_ja": "注文を出すこと",
+      "example_ja": "部品を発注した。",
+      "example_en": "We placed an order for parts.",
+      "example_kana": "ぶひんをはっちゅうした。"
+    },
+    {
+      "kanji": "受注",
+      "kana": "じゅちゅう",
+      "meaning_en": "receiving an order",
+      "meaning_ja": "注文を受けること",
+      "example_ja": "大口の受注を獲得した。",
+      "example_en": "We secured a large order.",
+      "example_kana": "おおぐちのじゅちゅうをかくとくした。"
+    },
+    {
+      "kanji": "販売",
+      "kana": "はんばい",
+      "meaning_en": "sales, selling",
+      "meaning_ja": "商品を売ること",
+      "example_ja": "新商品の販売を開始する。",
+      "example_en": "We begin selling the new product.",
+      "example_kana": "しんしょうひんのはんばいをかいしする。"
+    },
+    {
+      "kanji": "販路",
+      "kana": "はんろ",
+      "meaning_en": "sales channel, market",
+      "meaning_ja": "商品の売れていく道筋",
+      "example_ja": "海外に販路を広げる。",
+      "example_en": "We expand sales channels overseas.",
+      "example_kana": "かいがいにはんろをひろげる。"
+    },
+    {
+      "kanji": "原価",
+      "kana": "げんか",
+      "meaning_en": "cost price, prime cost",
+      "meaning_ja": "商品を作るのにかかる費用",
+      "example_ja": "原価を下げる工夫をする。",
+      "example_en": "We devise ways to lower production costs.",
+      "example_kana": "げんかをさげるくふうをする。"
+    },
+    {
+      "kanji": "単価",
+      "kana": "たんか",
+      "meaning_en": "unit price",
+      "meaning_ja": "一つ当たりの値段",
+      "example_ja": "単価を交渉する。",
+      "example_en": "We negotiate the unit price.",
+      "example_kana": "たんかをこうしょうする。"
+    },
+    {
+      "kanji": "定価",
+      "kana": "ていか",
+      "meaning_en": "list price, fixed price",
+      "meaning_ja": "あらかじめ定められた価格",
+      "example_ja": "定価より安く買えた。",
+      "example_en": "I bought it cheaper than the list price.",
+      "example_kana": "ていかよりやすくかえた。"
+    },
+    {
+      "kanji": "割引",
+      "kana": "わりびき",
+      "meaning_en": "discount",
+      "meaning_ja": "定価より安くすること",
+      "example_ja": "会員には割引がある。",
+      "example_en": "Members get a discount.",
+      "example_kana": "かいいんにはわりびきがある。"
+    },
+    {
+      "kanji": "値上げ",
+      "kana": "ねあげ",
+      "meaning_en": "price hike, raising prices",
+      "meaning_ja": "値段を上げること",
+      "example_ja": "原料費高騰で値上げした。",
+      "example_en": "We raised prices due to rising material costs.",
+      "example_kana": "げんりょうひこうとうでねあげした。"
+    },
+    {
+      "kanji": "値下げ",
+      "kana": "ねさげ",
+      "meaning_en": "price reduction",
+      "meaning_ja": "値段を下げること",
+      "example_ja": "在庫処分で値下げする。",
+      "example_en": "We cut prices to clear inventory.",
+      "example_kana": "ざいこしょぶんでねさげする。"
+    },
+    {
+      "kanji": "手数料",
+      "kana": "てすうりょう",
+      "meaning_en": "fee, commission, handling charge",
+      "meaning_ja": "手間に対して支払う料金",
+      "example_ja": "振込手数料がかかる。",
+      "example_en": "There is a transfer fee.",
+      "example_kana": "ふりこみてすうりょうがかかる。"
+    },
+    {
+      "kanji": "歩合",
+      "kana": "ぶあい",
+      "meaning_en": "percentage, commission rate",
+      "meaning_ja": "成績に応じて支払われる割合",
+      "example_ja": "歩合給で働いている。",
+      "example_en": "I work on commission.",
+      "example_kana": "ぶあいきゅうではたらいている。"
+    },
+    {
+      "kanji": "残業",
+      "kana": "ざんぎょう",
+      "meaning_en": "overtime work",
+      "meaning_ja": "定時を過ぎて働くこと",
+      "example_ja": "毎日残業が続く。",
+      "example_en": "Overtime continues every day.",
+      "example_kana": "まいにちざんぎょうがつづく。"
+    },
+    {
+      "kanji": "休暇",
+      "kana": "きゅうか",
+      "meaning_en": "leave, vacation",
+      "meaning_ja": "勤務を休む期間",
+      "example_ja": "有給休暇を取った。",
+      "example_en": "I took paid leave.",
+      "example_kana": "ゆうきゅうきゅうかをとった。"
+    },
+    {
+      "kanji": "出張",
+      "kana": "しゅっちょう",
+      "meaning_en": "business trip",
+      "meaning_ja": "仕事で他所へ出向くこと",
+      "example_ja": "来週海外出張に行く。",
+      "example_en": "I'll go on an overseas business trip next week.",
+      "example_kana": "らいしゅうかいがいしゅっちょうにいく。"
+    },
+    {
+      "kanji": "左遷",
+      "kana": "させん",
+      "meaning_en": "demotion, banishment to a remote post",
+      "meaning_ja": "低い地位に移されること",
+      "example_ja": "地方に左遷された。",
+      "example_en": "He was demoted to a regional post.",
+      "example_kana": "ちほうにさせんされた。"
+    },
+    {
+      "kanji": "栄転",
+      "kana": "えいてん",
+      "meaning_en": "promotion-transfer to higher post",
+      "meaning_ja": "より高い地位への異動",
+      "example_ja": "本社へ栄転した。",
+      "example_en": "He was promoted to head office.",
+      "example_kana": "ほんしゃへえいてんした。"
+    },
+    {
+      "kanji": "新卒",
+      "kana": "しんそつ",
+      "meaning_en": "new graduate",
+      "meaning_ja": "その春に学校を卒業したばかりの人",
+      "example_ja": "新卒を積極的に採用する。",
+      "example_en": "We actively recruit new graduates.",
+      "example_kana": "しんそつをせっきょくてきにさいようする。"
+    },
+    {
+      "kanji": "中途採用",
+      "kana": "ちゅうとさいよう",
+      "meaning_en": "mid-career hiring",
+      "meaning_ja": "新卒以外の人を採用すること",
+      "example_ja": "中途採用に応募した。",
+      "example_en": "I applied for a mid-career position.",
+      "example_kana": "ちゅうとさいようにおうぼした。"
+    },
+    {
+      "kanji": "内定",
+      "kana": "ないてい",
+      "meaning_en": "unofficial job offer",
+      "meaning_ja": "正式な決定の前の事実上の決定",
+      "example_ja": "大手企業から内定を得た。",
+      "example_en": "I received an informal offer from a major firm.",
+      "example_kana": "おおてきぎょうからないていをえた。"
+    },
+    {
+      "kanji": "面接",
+      "kana": "めんせつ",
+      "meaning_en": "interview",
+      "meaning_ja": "直接会って話を聞くこと",
+      "example_ja": "最終面接に進んだ。",
+      "example_en": "I advanced to the final interview.",
+      "example_kana": "さいしゅうめんせつにすすんだ。"
+    },
+    {
+      "kanji": "履歴書",
+      "kana": "りれきしょ",
+      "meaning_en": "resume, CV",
+      "meaning_ja": "学歴・職歴などを記した書類",
+      "example_ja": "履歴書を郵送した。",
+      "example_en": "I mailed my resume.",
+      "example_kana": "りれきしょをゆうそうした。"
+    },
+    {
+      "kanji": "職歴",
+      "kana": "しょくれき",
+      "meaning_en": "work history, career history",
+      "meaning_ja": "これまで就いた職業の経歴",
+      "example_ja": "職歴を詳しく書く。",
+      "example_en": "I write my work history in detail.",
+      "example_kana": "しょくれきをくわしくかく。"
+    },
+    {
+      "kanji": "職権",
+      "kana": "しょっけん",
+      "meaning_en": "official authority, job powers",
+      "meaning_ja": "職務上与えられた権限",
+      "example_ja": "職権を濫用してはならない。",
+      "example_en": "One must not abuse one's authority.",
+      "example_kana": "しょっけんをらんようしてはならない。"
+    },
+    {
+      "kanji": "職責",
+      "kana": "しょくせき",
+      "meaning_en": "professional responsibility",
+      "meaning_ja": "職務上の責任",
+      "example_ja": "重い職責を担う。",
+      "example_en": "He bears heavy responsibility.",
+      "example_kana": "おもいしょくせきをになう。"
+    },
+    {
+      "kanji": "裁量",
+      "kana": "さいりょう",
+      "meaning_en": "discretion",
+      "meaning_ja": "自分の判断で物事を処理すること",
+      "example_ja": "現場の裁量に任せる。",
+      "example_en": "We leave it to the discretion of the field.",
+      "example_kana": "げんばのさいりょうにまかせる。"
+    },
+    {
+      "kanji": "統括",
+      "kana": "とうかつ",
+      "meaning_en": "supervision, overall control",
+      "meaning_ja": "全体をまとめおさめること",
+      "example_ja": "海外事業を統括する。",
+      "example_en": "He oversees overseas operations.",
+      "example_kana": "かいがいじぎょうをとうかつする。"
+    },
+    {
+      "kanji": "監督",
+      "kana": "かんとく",
+      "meaning_en": "supervision, oversight",
+      "meaning_ja": "取り締まり指導すること",
+      "example_ja": "工事を監督する。",
+      "example_en": "He supervises the construction.",
+      "example_kana": "こうじをかんとくする。"
+    },
+    {
+      "kanji": "指導",
+      "kana": "しどう",
+      "meaning_en": "guidance, instruction",
+      "meaning_ja": "目的に向かって教え導くこと",
+      "example_ja": "後輩を指導する。",
+      "example_en": "I instruct my juniors.",
+      "example_kana": "こうはいをしどうする。"
+    },
+    {
+      "kanji": "研修",
+      "kana": "けんしゅう",
+      "meaning_en": "training, workshop",
+      "meaning_ja": "技能や知識を学び習うこと",
+      "example_ja": "新入社員研修が始まった。",
+      "example_en": "The new employee training began.",
+      "example_kana": "しんにゅうしゃいんけんしゅうがはじまった。"
+    },
+    {
+      "kanji": "評価",
+      "kana": "ひょうか",
+      "meaning_en": "evaluation, assessment",
+      "meaning_ja": "価値や優劣を判定すること",
+      "example_ja": "成果を正当に評価する。",
+      "example_en": "We assess the results fairly.",
+      "example_kana": "せいかをせいとうにひょうかする。"
+    },
+    {
+      "kanji": "査定",
+      "kana": "さてい",
+      "meaning_en": "appraisal, assessment",
+      "meaning_ja": "金額や等級を決めること",
+      "example_ja": "ボーナスが査定された。",
+      "example_en": "The bonus was assessed.",
+      "example_kana": "ボーナスがさていされた。"
+    },
+    {
+      "kanji": "昇給",
+      "kana": "しょうきゅう",
+      "meaning_en": "pay raise",
+      "meaning_ja": "給料が上がること",
+      "example_ja": "毎年昇給がある。",
+      "example_en": "There is a pay raise every year.",
+      "example_kana": "まいとししょうきゅうがある。"
+    },
+    {
+      "kanji": "現場",
+      "kana": "げんば",
+      "meaning_en": "site, scene, shop floor",
+      "meaning_ja": "実際に作業を行う場所",
+      "example_ja": "現場の声を聞く。",
+      "example_en": "We listen to voices from the field.",
+      "example_kana": "げんばのこえをきく。"
+    },
+    {
+      "kanji": "本社",
+      "kana": "ほんしゃ",
+      "meaning_en": "head office, main office",
+      "meaning_ja": "会社の中心となる事業所",
+      "example_ja": "本社は東京にある。",
+      "example_en": "The head office is in Tokyo.",
+      "example_kana": "ほんしゃはとうきょうにある。"
+    },
+    {
+      "kanji": "支社",
+      "kana": "ししゃ",
+      "meaning_en": "branch office",
+      "meaning_ja": "本社から分かれて設けた事業所",
+      "example_ja": "大阪支社に勤務する。",
+      "example_en": "I work at the Osaka branch.",
+      "example_kana": "おおさかししゃにきんむする。"
+    },
+    {
+      "kanji": "部署",
+      "kana": "ぶしょ",
+      "meaning_en": "department, post",
+      "meaning_ja": "持ち場や役目",
+      "example_ja": "新しい部署に移った。",
+      "example_en": "I moved to a new department.",
+      "example_kana": "あたらしいぶしょにうつった。"
+    },
+    {
+      "kanji": "肩書き",
+      "kana": "かたがき",
+      "meaning_en": "title, position",
+      "meaning_ja": "名前に添えて記す地位や職名",
+      "example_ja": "彼は肩書きが多い。",
+      "example_en": "He has many titles.",
+      "example_kana": "かれはかたがきがおおい。"
+    },
+    {
+      "kanji": "名刺",
+      "kana": "めいし",
+      "meaning_en": "business card",
+      "meaning_ja": "氏名や所属を記した小さな札",
+      "example_ja": "名刺を交換した。",
+      "example_en": "We exchanged business cards.",
+      "example_kana": "めいしをこうかんした。"
+    },
+    {
+      "kanji": "応対",
+      "kana": "おうたい",
+      "meaning_en": "receiving and dealing with visitors",
+      "meaning_ja": "相手に応じて受け答えすること",
+      "example_ja": "電話応対が丁寧だ。",
+      "example_en": "Her phone manner is polite.",
+      "example_kana": "でんわおうたいがていねいだ。"
+    },
+    {
+      "kanji": "接客",
+      "kana": "せっきゃく",
+      "meaning_en": "customer service, dealing with customers",
+      "meaning_ja": "客に対応すること",
+      "example_ja": "接客の研修を受ける。",
+      "example_en": "I take a customer service training.",
+      "example_kana": "せっきゃくのけんしゅうをうける。"
+    },
+    {
+      "kanji": "製品",
+      "kana": "せいひん",
+      "meaning_en": "product, manufactured goods",
+      "meaning_ja": "原料を加工して作られた品",
+      "example_ja": "自社製品を売り込む。",
+      "example_en": "We promote our company's products.",
+      "example_kana": "じしゃせいひんをうりこむ。"
+    },
+    {
+      "kanji": "原料",
+      "kana": "げんりょう",
+      "meaning_en": "raw materials",
+      "meaning_ja": "製品を作る元になるもの",
+      "example_ja": "原料を仕入れる。",
+      "example_en": "We procure raw materials.",
+      "example_kana": "げんりょうをしいれる。"
+    },
+    {
+      "kanji": "設備",
+      "kana": "せつび",
+      "meaning_en": "equipment, facilities",
+      "meaning_ja": "必要な物を備えつけたもの",
+      "example_ja": "工場の設備を更新する。",
+      "example_en": "We upgrade the factory equipment.",
+      "example_kana": "こうじょうのせつびをこうしんする。"
+    },
+    {
+      "kanji": "工程",
+      "kana": "こうてい",
+      "meaning_en": "manufacturing process",
+      "meaning_ja": "作業を進める順序",
+      "example_ja": "工程を見直す。",
+      "example_en": "We review the process.",
+      "example_kana": "こうていをみなおす。"
+    },
+    {
+      "kanji": "生産",
+      "kana": "せいさん",
+      "meaning_en": "production",
+      "meaning_ja": "物を作り出すこと",
+      "example_ja": "生産量を増やす。",
+      "example_en": "We increase the production volume.",
+      "example_kana": "せいさんりょうをふやす。"
+    },
+    {
+      "kanji": "製造",
+      "kana": "せいぞう",
+      "meaning_en": "manufacture",
+      "meaning_ja": "原料を加工して品物を作ること",
+      "example_ja": "国内で製造している。",
+      "example_en": "It is manufactured domestically.",
+      "example_kana": "こくないでせいぞうしている。"
+    },
+    {
+      "kanji": "検査",
+      "kana": "けんさ",
+      "meaning_en": "inspection, examination",
+      "meaning_ja": "詳しく調べること",
+      "example_ja": "出荷前に検査する。",
+      "example_en": "We inspect before shipping.",
+      "example_kana": "しゅっかまえにけんさする。"
+    },
+    {
+      "kanji": "基準",
+      "kana": "きじゅん",
+      "meaning_en": "criterion, standard",
+      "meaning_ja": "判断のよりどころ",
+      "example_ja": "厳しい基準を設ける。",
+      "example_en": "We set strict standards.",
+      "example_kana": "きびしいきじゅんをもうける。"
+    },
+    {
+      "kanji": "認証",
+      "kana": "にんしょう",
+      "meaning_en": "certification, authentication",
+      "meaning_ja": "正当であると公的に認めること",
+      "example_ja": "ISO認証を取得した。",
+      "example_en": "We obtained ISO certification.",
+      "example_kana": "ISOにんしょうをしゅとくした。"
+    },
+    {
+      "kanji": "許可",
+      "kana": "きょか",
+      "meaning_en": "permission, license",
+      "meaning_ja": "してよいと認めること",
+      "example_ja": "営業許可を得る。",
+      "example_en": "We obtain a business license.",
+      "example_kana": "えいぎょうきょかをえる。"
+    },
+    {
+      "kanji": "申請",
+      "kana": "しんせい",
+      "meaning_en": "application, request",
+      "meaning_ja": "役所などに願い出ること",
+      "example_ja": "補助金を申請した。",
+      "example_en": "I applied for a subsidy.",
+      "example_kana": "ほじょきんをしんせいした。"
+    },
+    {
+      "kanji": "手続き",
+      "kana": "てつづき",
+      "meaning_en": "procedures, formalities",
+      "meaning_ja": "事を進めるための段取り",
+      "example_ja": "手続きが煩雑だ。",
+      "example_en": "The procedures are complicated.",
+      "example_kana": "てつづきがはんざつだ。"
+    },
+    {
+      "kanji": "請求",
+      "kana": "せいきゅう",
+      "meaning_en": "claim, demand, billing",
+      "meaning_ja": "相手に対して何かを要求すること",
+      "example_ja": "代金を請求する。",
+      "example_en": "We bill for the charges.",
+      "example_kana": "だいきんをせいきゅうする。"
+    },
+    {
+      "kanji": "配送",
+      "kana": "はいそう",
+      "meaning_en": "delivery, distribution",
+      "meaning_ja": "品物を配って届けること",
+      "example_ja": "翌日配送が可能だ。",
+      "example_en": "Next-day delivery is possible.",
+      "example_kana": "よくじつはいそうがかのうだ。"
+    },
+    {
+      "kanji": "出荷",
+      "kana": "しゅっか",
+      "meaning_en": "shipment, dispatch",
+      "meaning_ja": "商品を市場へ送り出すこと",
+      "example_ja": "今日中に出荷する。",
+      "example_en": "We ship by the end of the day.",
+      "example_kana": "きょうじゅうにしゅっかする。"
+    },
+    {
+      "kanji": "入荷",
+      "kana": "にゅうか",
+      "meaning_en": "arrival of goods",
+      "meaning_ja": "商品が店に届くこと",
+      "example_ja": "新商品が入荷した。",
+      "example_en": "New products have arrived.",
+      "example_kana": "しんしょうひんがにゅうかした。"
+    },
+    {
+      "kanji": "輸送",
+      "kana": "ゆそう",
+      "meaning_en": "transportation",
+      "meaning_ja": "人や物を運び送ること",
+      "example_ja": "海外へ輸送する。",
+      "example_en": "We transport overseas.",
+      "example_kana": "かいがいへゆそうする。"
+    },
+    {
+      "kanji": "輸出",
+      "kana": "ゆしゅつ",
+      "meaning_en": "export",
+      "meaning_ja": "外国へ品物を送り出すこと",
+      "example_ja": "自動車を輸出する。",
+      "example_en": "We export automobiles.",
+      "example_kana": "じどうしゃをゆしゅつする。"
+    },
+    {
+      "kanji": "輸入",
+      "kana": "ゆにゅう",
+      "meaning_en": "import",
+      "meaning_ja": "外国から品物を取り寄せること",
+      "example_ja": "原料を輸入する。",
+      "example_en": "We import raw materials.",
+      "example_kana": "げんりょうをゆにゅうする。"
+    },
+    {
+      "kanji": "貿易",
+      "kana": "ぼうえき",
+      "meaning_en": "trade, foreign commerce",
+      "meaning_ja": "外国と商品の取引をすること",
+      "example_ja": "貿易摩擦が起きている。",
+      "example_en": "Trade friction is occurring.",
+      "example_kana": "ぼうえきまさつがおきている。"
+    },
+    {
+      "kanji": "通関",
+      "kana": "つうかん",
+      "meaning_en": "customs clearance",
+      "meaning_ja": "税関を通る手続き",
+      "example_ja": "通関に時間がかかる。",
+      "example_en": "Customs clearance takes time.",
+      "example_kana": "つうかんにじかんがかかる。"
+    },
+    {
+      "kanji": "卸売",
+      "kana": "おろしうり",
+      "meaning_en": "wholesale",
+      "meaning_ja": "小売店に商品を売ること",
+      "example_ja": "卸売価格で仕入れる。",
+      "example_en": "We buy at wholesale price.",
+      "example_kana": "おろしうりかかくでしいれる。"
+    },
+    {
+      "kanji": "店舗",
+      "kana": "てんぽ",
+      "meaning_en": "store, shop",
+      "meaning_ja": "商品を売る建物",
+      "example_ja": "新店舗を出した。",
+      "example_en": "We opened a new store.",
+      "example_kana": "しんてんぽをだした。"
+    },
+    {
+      "kanji": "出店",
+      "kana": "しゅってん",
+      "meaning_en": "opening a store",
+      "meaning_ja": "店を新たに出すこと",
+      "example_ja": "駅前に出店する。",
+      "example_en": "We open a store in front of the station.",
+      "example_kana": "えきまえにしゅってんする。"
+    },
+    {
+      "kanji": "倒産",
+      "kana": "とうさん",
+      "meaning_en": "bankruptcy, going under",
+      "meaning_ja": "会社がつぶれること",
+      "example_ja": "中小企業が倒産した。",
+      "example_en": "The small business went bankrupt.",
+      "example_kana": "ちゅうしょうきぎょうがとうさんした。"
+    },
+    {
+      "kanji": "破産",
+      "kana": "はさん",
+      "meaning_en": "bankruptcy, insolvency",
+      "meaning_ja": "財産をすべて失うこと",
+      "example_ja": "破産を申請した。",
+      "example_en": "He filed for bankruptcy.",
+      "example_kana": "はさんをしんせいした。"
+    },
+    {
+      "kanji": "清算",
+      "kana": "せいさん",
+      "meaning_en": "liquidation, settlement",
+      "meaning_ja": "債権債務を整理しまとめること",
+      "example_ja": "会社を清算する。",
+      "example_en": "We liquidate the company.",
+      "example_kana": "かいしゃをせいさんする。"
+    },
+    {
+      "kanji": "分社化",
+      "kana": "ぶんしゃか",
+      "meaning_en": "spinoff, corporate separation",
+      "meaning_ja": "事業を別会社として独立させること",
+      "example_ja": "事業部を分社化した。",
+      "example_en": "We spun off the division.",
+      "example_kana": "じぎょうぶをぶんしゃかした。"
+    },
+    {
+      "kanji": "貸付",
+      "kana": "かしつけ",
+      "meaning_en": "loan, lending",
+      "meaning_ja": "金品を貸し与えること",
+      "example_ja": "無利子で貸付を行う。",
+      "example_en": "We lend at zero interest.",
+      "example_kana": "むりしでかしつけをおこなう。"
+    },
+    {
+      "kanji": "借入",
+      "kana": "かりいれ",
+      "meaning_en": "borrowing, loan",
+      "meaning_ja": "金品を借り入れること",
+      "example_ja": "銀行から借入する。",
+      "example_en": "We borrow from the bank.",
+      "example_kana": "ぎんこうからかりいれする。"
+    },
+    {
+      "kanji": "債権",
+      "kana": "さいけん",
+      "meaning_en": "credit, claim",
+      "meaning_ja": "貸した側が持つ請求権",
+      "example_ja": "債権を回収する。",
+      "example_en": "We collect the receivables.",
+      "example_kana": "さいけんをかいしゅうする。"
+    },
+    {
+      "kanji": "担保",
+      "kana": "たんぽ",
+      "meaning_en": "collateral, security",
+      "meaning_ja": "弁済を保証する物",
+      "example_ja": "土地を担保にする。",
+      "example_en": "We use the land as collateral.",
+      "example_kana": "とちをたんぽにする。"
+    },
+    {
+      "kanji": "信用",
+      "kana": "しんよう",
+      "meaning_en": "credit, trust",
+      "meaning_ja": "信じて疑わないこと",
+      "example_ja": "会社の信用が高まる。",
+      "example_en": "The company's credibility rises.",
+      "example_kana": "かいしゃのしんようがたかまる。"
+    },
+    {
+      "kanji": "信託",
+      "kana": "しんたく",
+      "meaning_en": "trust (financial)",
+      "meaning_ja": "財産の管理運用を委ねること",
+      "example_ja": "信託銀行に預ける。",
+      "example_en": "I deposit it with a trust bank.",
+      "example_kana": "しんたくぎんこうにあずける。"
+    },
+    {
+      "kanji": "時給",
+      "kana": "じきゅう",
+      "meaning_en": "hourly wage",
+      "meaning_ja": "一時間当たりの賃金",
+      "example_ja": "時給が上がった。",
+      "example_en": "My hourly wage went up.",
+      "example_kana": "じきゅうがあがった。"
+    },
+    {
+      "kanji": "月給",
+      "kana": "げっきゅう",
+      "meaning_en": "monthly salary",
+      "meaning_ja": "月ごとに支払われる給料",
+      "example_ja": "月給制で雇われる。",
+      "example_en": "He is hired on a monthly salary basis.",
+      "example_kana": "げっきゅうせいでやとわれる。"
+    },
+    {
+      "kanji": "年俸",
+      "kana": "ねんぽう",
+      "meaning_en": "annual salary",
+      "meaning_ja": "一年単位で決まる給料",
+      "example_ja": "年俸制を導入した。",
+      "example_en": "We introduced an annual salary system.",
+      "example_kana": "ねんぽうせいをどうにゅうした。"
+    },
+    {
+      "kanji": "繰越",
+      "kana": "くりこし",
+      "meaning_en": "carryover, balance brought forward",
+      "meaning_ja": "次の期間に持ち越すこと",
+      "example_ja": "残額を翌月へ繰越す。",
+      "example_en": "We carry the balance to next month.",
+      "example_kana": "ざんがくをよくげつへくりこす。"
+    },
+    {
+      "kanji": "手腕",
+      "kana": "しゅわん",
+      "meaning_en": "ability, skill, competence",
+      "meaning_ja": "物事を処理する能力",
+      "example_ja": "彼の経営手腕は高い。",
+      "example_en": "His managerial skill is high.",
+      "example_kana": "かれのけいえいしゅわんはたかい。"
+    },
+    {
+      "kanji": "敏腕",
+      "kana": "びんわん",
+      "meaning_en": "ability, skillfulness",
+      "meaning_ja": "物事をてきぱき処理する手腕",
+      "example_ja": "敏腕な弁護士に頼む。",
+      "example_en": "We hire a capable lawyer.",
+      "example_kana": "びんわんなべんごしにたのむ。"
+    },
+    {
+      "kanji": "辣腕",
+      "kana": "らつわん",
+      "meaning_en": "shrewd, sharp ability",
+      "meaning_ja": "厳しく仕事をこなす能力",
+      "example_ja": "辣腕を振るう経営者だ。",
+      "example_en": "He is an executive who wields shrewd skill.",
+      "example_kana": "らつわんをふるうけいえいしゃだ。"
+    },
+    {
+      "kanji": "采配",
+      "kana": "さいはい",
+      "meaning_en": "command, direction, leadership",
+      "meaning_ja": "指図して人を動かすこと",
+      "example_ja": "見事な采配を見せる。",
+      "example_en": "He shows splendid leadership.",
+      "example_kana": "みごとなさいはいをみせる。"
+    },
+    {
+      "kanji": "指揮",
+      "kana": "しき",
+      "meaning_en": "command, direction",
+      "meaning_ja": "全体をまとめ動かすこと",
+      "example_ja": "プロジェクトを指揮する。",
+      "example_en": "He directs the project.",
+      "example_kana": "プロジェクトをしきする。"
+    },
+    {
+      "kanji": "遂行",
+      "kana": "すいこう",
+      "meaning_en": "carrying out, execution",
+      "meaning_ja": "最後までやり遂げること",
+      "example_ja": "任務を遂行する。",
+      "example_en": "He carries out the mission.",
+      "example_kana": "にんむをすいこうする。"
+    },
+    {
+      "kanji": "履行",
+      "kana": "りこう",
+      "meaning_en": "performance, fulfillment",
+      "meaning_ja": "約束や義務を実行すること",
+      "example_ja": "契約を履行する。",
+      "example_en": "We fulfill the contract.",
+      "example_kana": "けいやくをりこうする。"
+    },
+    {
+      "kanji": "策定",
+      "kana": "さくてい",
+      "meaning_en": "drafting (a plan), formulating",
+      "meaning_ja": "計画や政策を立てること",
+      "example_ja": "中期計画を策定した。",
+      "example_en": "We formulated a mid-term plan.",
+      "example_kana": "ちゅうきけいかくをさくていした。"
+    },
+    {
+      "kanji": "画策",
+      "kana": "かくさく",
+      "meaning_en": "plotting, scheming",
+      "meaning_ja": "ひそかに計画を立てること",
+      "example_ja": "対立陣営が画策する。",
+      "example_en": "The opposing camp is scheming.",
+      "example_kana": "たいりつじんえいがかくさくする。"
+    },
+    {
+      "kanji": "斬新",
+      "kana": "ざんしん",
+      "meaning_en": "novel, original, fresh",
+      "meaning_ja": "新しく際立っていること",
+      "example_ja": "斬新な発想で勝負する。",
+      "example_en": "We compete with a fresh idea.",
+      "example_kana": "ざんしんなはっそうでしょうぶする。"
+    },
+    {
+      "kanji": "寡占",
+      "kana": "かせん",
+      "meaning_en": "oligopoly",
+      "meaning_ja": "少数企業による市場支配",
+      "example_ja": "寡占状態が続く業界だ。",
+      "example_en": "It's an industry of continued oligopoly.",
+      "example_kana": "かせんじょうたいがつづくぎょうかいだ。"
+    },
+    {
+      "kanji": "総務",
+      "kana": "そうむ",
+      "meaning_en": "general affairs",
+      "meaning_ja": "組織の事務全般を扱う部署",
+      "example_ja": "総務部に異動した。",
+      "example_en": "I was transferred to general affairs.",
+      "example_kana": "そうむぶにいどうした。"
+    },
+    {
+      "kanji": "広報",
+      "kana": "こうほう",
+      "meaning_en": "public relations, PR",
+      "meaning_ja": "外部に情報を広く知らせる活動",
+      "example_ja": "広報担当を任される。",
+      "example_en": "I was put in charge of PR.",
+      "example_kana": "こうほうたんとうをまかされる。"
+    },
+    {
+      "kanji": "宣伝",
+      "kana": "せんでん",
+      "meaning_en": "advertisement, publicity",
+      "meaning_ja": "商品などを広く知らせること",
+      "example_ja": "新製品を宣伝する。",
+      "example_en": "We advertise the new product.",
+      "example_kana": "しんせいひんをせんでんする。"
+    },
+    {
+      "kanji": "販促",
+      "kana": "はんそく",
+      "meaning_en": "sales promotion",
+      "meaning_ja": "販売を促進する活動",
+      "example_ja": "販促キャンペーンを行う。",
+      "example_en": "We run a sales promotion campaign.",
+      "example_kana": "はんそくキャンペーンをおこなう。"
+    },
+    {
+      "kanji": "調達",
+      "kana": "ちょうたつ",
+      "meaning_en": "procurement, raising (funds)",
+      "meaning_ja": "必要な物資や資金を集めること",
+      "example_ja": "資金を調達する。",
+      "example_en": "We raise funds.",
+      "example_kana": "しきんをちょうたつする。"
+    },
+    {
+      "kanji": "得意先",
+      "kana": "とくいさき",
+      "meaning_en": "customer, regular client",
+      "meaning_ja": "ひいきにしてくれる顧客",
+      "example_ja": "得意先を訪問する。",
+      "example_en": "I visit a regular client.",
+      "example_kana": "とくいさきをほうもんする。"
+    },
+    {
+      "kanji": "取引先",
+      "kana": "とりひきさき",
+      "meaning_en": "business partner, client",
+      "meaning_ja": "商取引の相手",
+      "example_ja": "取引先に挨拶する。",
+      "example_en": "I greet our business partners.",
+      "example_kana": "とりひきさきにあいさつする。"
+    },
+    {
+      "kanji": "大手",
+      "kana": "おおて",
+      "meaning_en": "major company, big player",
+      "meaning_ja": "業界で大きな勢力を持つ会社",
+      "example_ja": "大手企業に就職した。",
+      "example_en": "I joined a major company.",
+      "example_kana": "おおてきぎょうにしゅうしょくした。"
+    },
+    {
+      "kanji": "中堅",
+      "kana": "ちゅうけん",
+      "meaning_en": "mid-size, mid-career",
+      "meaning_ja": "中規模で安定した存在",
+      "example_ja": "中堅社員を育てる。",
+      "example_en": "We train mid-career staff.",
+      "example_kana": "ちゅうけんしゃいんをそだてる。"
+    },
+    {
+      "kanji": "零細",
+      "kana": "れいさい",
+      "meaning_en": "tiny, micro (business)",
+      "meaning_ja": "規模がきわめて小さいこと",
+      "example_ja": "零細企業を支援する。",
+      "example_en": "We support micro-businesses.",
+      "example_kana": "れいさいきぎょうをしえんする。"
+    },
+    {
+      "kanji": "老舗",
+      "kana": "しにせ",
+      "meaning_en": "long-established store, old shop",
+      "meaning_ja": "古くから続いている店",
+      "example_ja": "京都の老舗に立ち寄る。",
+      "example_en": "I drop by an old shop in Kyoto.",
+      "example_kana": "きょうとのしにせにたちよる。"
+    },
+    {
+      "kanji": "登記",
+      "kana": "とうき",
+      "meaning_en": "registration (of legal entities)",
+      "meaning_ja": "公的な帳簿に記載すること",
+      "example_ja": "会社を登記する。",
+      "example_en": "We register the company.",
+      "example_kana": "かいしゃをとうきする。"
+    },
+    {
+      "kanji": "商標",
+      "kana": "しょうひょう",
+      "meaning_en": "trademark",
+      "meaning_ja": "商品を識別するための標識",
+      "example_ja": "商標を登録する。",
+      "example_en": "We register a trademark.",
+      "example_kana": "しょうひょうをとうろくする。"
+    },
+    {
+      "kanji": "実績",
+      "kana": "じっせき",
+      "meaning_en": "track record, achievements",
+      "meaning_ja": "実際にあげた成績",
+      "example_ja": "実績を積み重ねる。",
+      "example_en": "We build up a track record.",
+      "example_kana": "じっせきをつみかさねる。"
+    },
+    {
+      "kanji": "目標",
+      "kana": "もくひょう",
+      "meaning_en": "goal, target",
+      "meaning_ja": "目指す到達点",
+      "example_ja": "売上目標を達成した。",
+      "example_en": "We achieved the sales target.",
+      "example_kana": "うりあげもくひょうをたっせいした。"
+    },
+    {
+      "kanji": "合理化",
+      "kana": "ごうりか",
+      "meaning_en": "rationalization, streamlining",
+      "meaning_ja": "むだを省いて能率を高めること",
+      "example_ja": "業務を合理化する。",
+      "example_en": "We streamline operations.",
+      "example_kana": "ぎょうむをごうりかする。"
+    },
+    {
+      "kanji": "外注",
+      "kana": "がいちゅう",
+      "meaning_en": "outsourcing",
+      "meaning_ja": "業務を外部に発注すること",
+      "example_ja": "デザインを外注する。",
+      "example_en": "We outsource the design.",
+      "example_kana": "デザインをがいちゅうする。"
+    },
+    {
+      "kanji": "請負",
+      "kana": "うけおい",
+      "meaning_en": "contracting, undertaking",
+      "meaning_ja": "仕事を請け負うこと",
+      "example_ja": "工事を請負で行う。",
+      "example_en": "We do the work on contract.",
+      "example_kana": "こうじをうけおいでおこなう。"
+    },
+    {
+      "kanji": "下請け",
+      "kana": "したうけ",
+      "meaning_en": "subcontracting",
+      "meaning_ja": "他者から仕事を引き受けること",
+      "example_ja": "下請け業者と契約する。",
+      "example_en": "We contract with a subcontractor.",
+      "example_kana": "したうけぎょうしゃとけいやくする。"
+    },
+    {
+      "kanji": "添付",
+      "kana": "てんぷ",
+      "meaning_en": "attachment, appending",
+      "meaning_ja": "書類などに添えること",
+      "example_ja": "資料を添付する。",
+      "example_en": "I attach the materials.",
+      "example_kana": "しりょうをてんぷする。"
+    },
+    {
+      "kanji": "委譲",
+      "kana": "いじょう",
+      "meaning_en": "delegation, transfer of authority",
+      "meaning_ja": "権限などを譲り渡すこと",
+      "example_ja": "権限を部下に委譲する。",
+      "example_en": "I delegate authority to my subordinates.",
+      "example_kana": "けんげんをぶかにいじょうする。"
+    },
+    {
+      "kanji": "推移",
+      "kana": "すいい",
+      "meaning_en": "transition, change",
+      "meaning_ja": "時間とともに移り変わること",
+      "example_ja": "業績の推移を見る。",
+      "example_en": "We watch the transition of results.",
+      "example_kana": "ぎょうせきのすいいをみる。"
+    },
+    {
+      "kanji": "予測",
+      "kana": "よそく",
+      "meaning_en": "forecast, prediction",
+      "meaning_ja": "将来を見通して予想すること",
+      "example_ja": "需要を予測する。",
+      "example_en": "We forecast demand.",
+      "example_kana": "じゅようをよそくする。"
+    },
+    {
+      "kanji": "需給",
+      "kana": "じゅきゅう",
+      "meaning_en": "supply and demand",
+      "meaning_ja": "需要と供給の関係",
+      "example_ja": "需給バランスが崩れる。",
+      "example_en": "The supply-demand balance breaks down.",
+      "example_kana": "じゅきゅうバランスがくずれる。"
+    },
+    {
+      "kanji": "売上",
+      "kana": "うりあげ",
+      "meaning_en": "sales, revenue",
+      "meaning_ja": "商品を売って得た金額",
+      "example_ja": "売上が伸び悩む。",
+      "example_en": "Sales are sluggish.",
+      "example_kana": "うりあげがのびなやむ。"
+    },
+    {
+      "kanji": "粗利",
+      "kana": "あらり",
+      "meaning_en": "gross profit, gross margin",
+      "meaning_ja": "売上から原価を引いた利益",
+      "example_ja": "粗利を計算する。",
+      "example_en": "We calculate the gross profit.",
+      "example_kana": "あらりをけいさんする。"
+    },
+    {
+      "kanji": "純利益",
+      "kana": "じゅんりえき",
+      "meaning_en": "net profit",
+      "meaning_ja": "費用や税を引いた最終利益",
+      "example_ja": "純利益が過去最高だ。",
+      "example_en": "Net profit is a record high.",
+      "example_kana": "じゅんりえきがかこさいこうだ。"
+    },
+    {
+      "kanji": "営業利益",
+      "kana": "えいぎょうりえき",
+      "meaning_en": "operating profit",
+      "meaning_ja": "本業から得た利益",
+      "example_ja": "営業利益が倍増した。",
+      "example_en": "Operating profit doubled.",
+      "example_kana": "えいぎょうりえきがばいぞうした。"
+    },
+    {
+      "kanji": "実効",
+      "kana": "じっこう",
+      "meaning_en": "actual effect, effectiveness",
+      "meaning_ja": "実際に現れる効き目",
+      "example_ja": "実効性のある対策だ。",
+      "example_en": "It is an effective countermeasure.",
+      "example_kana": "じっこうせいのあるたいさくだ。"
+    },
+    {
+      "kanji": "浮上",
+      "kana": "ふじょう",
+      "meaning_en": "rising to the surface, coming to light",
+      "meaning_ja": "下から表面に上がること",
+      "example_ja": "新たな課題が浮上する。",
+      "example_en": "New issues come to the fore.",
+      "example_kana": "あらたなかだいがふじょうする。"
+    },
+    {
+      "kanji": "波及",
+      "kana": "はきゅう",
+      "meaning_en": "ripple effect, spread",
+      "meaning_ja": "影響が広がっていくこと",
+      "example_ja": "経済への波及効果が大きい。",
+      "example_en": "The ripple effect on the economy is large.",
+      "example_kana": "けいざいへのはきゅうこうかがおおきい。"
+    },
+    {
+      "kanji": "競合",
+      "kana": "きょうごう",
+      "meaning_en": "competition, rivalry",
+      "meaning_ja": "互いに張り合うこと",
+      "example_ja": "競合他社の動きを探る。",
+      "example_en": "We probe the moves of competitors.",
+      "example_kana": "きょうごうたしゃのうごきをさぐる。"
+    },
+    {
+      "kanji": "差別化",
+      "kana": "さべつか",
+      "meaning_en": "differentiation",
+      "meaning_ja": "他と区別される特色を出すこと",
+      "example_ja": "商品を差別化する。",
+      "example_en": "We differentiate our products.",
+      "example_kana": "しょうひんをさべつかする。"
+    },
+    {
+      "kanji": "提唱",
+      "kana": "ていしょう",
+      "meaning_en": "advocacy, proposing",
+      "meaning_ja": "考え方を唱え主張すること",
+      "example_ja": "新理論を提唱する。",
+      "example_en": "He proposes a new theory.",
+      "example_kana": "しんりろんをていしょうする。"
+    },
+    {
+      "kanji": "席巻",
+      "kana": "せっけん",
+      "meaning_en": "sweeping conquest, dominating",
+      "meaning_ja": "勢いよく勢力範囲を広げること",
+      "example_ja": "市場を席巻する。",
+      "example_en": "They sweep over the market.",
+      "example_kana": "しじょうをせっけんする。"
+    },
+    {
+      "kanji": "牽引",
+      "kana": "けんいん",
+      "meaning_en": "leading, pulling along",
+      "meaning_ja": "先頭に立って引っ張ること",
+      "example_ja": "業界を牽引する企業だ。",
+      "example_en": "It is the company leading the industry.",
+      "example_kana": "ぎょうかいをけんいんするきぎょうだ。"
+    },
+    {
+      "kanji": "黎明",
+      "kana": "れいめい",
+      "meaning_en": "dawn (figurative), new era",
+      "meaning_ja": "新しい時代の始まり",
+      "example_ja": "AI産業の黎明期にある。",
+      "example_en": "We are at the dawn of the AI industry.",
+      "example_kana": "AIさんぎょうのれいめいきにある。"
+    },
+    {
+      "kanji": "陣容",
+      "kana": "じんよう",
+      "meaning_en": "lineup, team composition",
+      "meaning_ja": "陣の構えや組織の顔ぶれ",
+      "example_ja": "新体制の陣容を発表する。",
+      "example_en": "We announce the lineup of the new structure.",
+      "example_kana": "しんたいせいのじんようをはっぴょうする。"
+    },
+    {
+      "kanji": "刷新",
+      "kana": "さっしん",
+      "meaning_en": "overhaul, reform, renewal",
+      "meaning_ja": "悪い面を除き新しくすること",
+      "example_ja": "組織を刷新する。",
+      "example_en": "We renew the organization.",
+      "example_kana": "そしきをさっしんする。"
+    },
+    {
+      "kanji": "登用",
+      "kana": "とうよう",
+      "meaning_en": "appointment to a high post",
+      "meaning_ja": "人を取り立てて使うこと",
+      "example_ja": "若手を要職に登用する。",
+      "example_en": "We appoint young people to key posts.",
+      "example_kana": "わかてをようしょくにとうようする。"
+    },
+    {
+      "kanji": "抜擢",
+      "kana": "ばってき",
+      "meaning_en": "selection (for promotion), elevation",
+      "meaning_ja": "多くの中から特に選び出すこと",
+      "example_ja": "彼を部長に抜擢する。",
+      "example_en": "We elevate him to department head.",
+      "example_kana": "かれをぶちょうにばってきする。"
+    },
+    {
+      "kanji": "兼務",
+      "kana": "けんむ",
+      "meaning_en": "holding multiple positions",
+      "meaning_ja": "二つ以上の役目を持つこと",
+      "example_ja": "二つの部署を兼務する。",
+      "example_en": "I hold two department positions concurrently.",
+      "example_kana": "ふたつのぶしょをけんむする。"
+    },
+    {
+      "kanji": "出向",
+      "kana": "しゅっこう",
+      "meaning_en": "secondment, loan staffing",
+      "meaning_ja": "他社などに勤務先を移すこと",
+      "example_ja": "関連会社へ出向する。",
+      "example_en": "I am seconded to an affiliate.",
+      "example_kana": "かんれんがいしゃへしゅっこうする。"
+    },
+    {
+      "kanji": "縁故",
+      "kana": "えんこ",
+      "meaning_en": "connections, personal ties",
+      "meaning_ja": "親類などのつながり",
+      "example_ja": "縁故採用が問題視される。",
+      "example_en": "Hiring through connections is questioned.",
+      "example_kana": "えんこさいようがもんだいしされる。"
+    },
+    {
+      "kanji": "肩代わり",
+      "kana": "かたがわり",
+      "meaning_en": "taking over (a burden), assuming a debt",
+      "meaning_ja": "他人の負担を代わって引き受けること",
+      "example_ja": "借金を肩代わりする。",
+      "example_en": "I take over the debt.",
+      "example_kana": "しゃっきんをかたがわりする。"
+    },
+    {
+      "kanji": "棚卸し",
+      "kana": "たなおろし",
+      "meaning_en": "stocktaking, inventory check",
+      "meaning_ja": "在庫を点検し数え上げること",
+      "example_ja": "年末に棚卸しを行う。",
+      "example_en": "We do stocktaking at year-end.",
+      "example_kana": "ねんまつにたなおろしをおこなう。"
+    },
+    {
+      "kanji": "資金繰り",
+      "kana": "しきんぐり",
+      "meaning_en": "cash flow management, financing",
+      "meaning_ja": "事業に必要なお金のやりくり",
+      "example_ja": "資金繰りに苦しむ。",
+      "example_en": "We struggle with cash flow.",
+      "example_kana": "しきんぐりにくるしむ。"
+    },
+    {
+      "kanji": "矢先",
+      "kana": "やさき",
+      "meaning_en": "at the very moment, just as",
+      "meaning_ja": "ちょうどその時",
+      "example_ja": "出社した矢先に呼ばれた。",
+      "example_en": "I was called the moment I came in.",
+      "example_kana": "しゅっしゃしたやさきによばれた。"
+    },
+    {
+      "kanji": "歯車",
+      "kana": "はぐるま",
+      "meaning_en": "cog, gear (figurative)",
+      "meaning_ja": "組織の一部としての役割",
+      "example_ja": "組織の歯車として働く。",
+      "example_en": "He works as a cog in the organization.",
+      "example_kana": "そしきのはぐるまとしてはたらく。"
+    },
+    {
+      "kanji": "屋台骨",
+      "kana": "やたいぼね",
+      "meaning_en": "framework, mainstay",
+      "meaning_ja": "組織を支える中心的存在",
+      "example_ja": "会社の屋台骨を支える。",
+      "example_en": "He supports the company's mainstay.",
+      "example_kana": "かいしゃのやたいぼねをささえる。"
+    },
+    {
+      "kanji": "天下り",
+      "kana": "あまくだり",
+      "meaning_en": "retiring officials taking up corporate posts",
+      "meaning_ja": "官僚が民間の上層職に就くこと",
+      "example_ja": "天下りが問題化する。",
+      "example_en": "Post-retirement appointments become an issue.",
+      "example_kana": "あまくだりがもんだいかする。"
+    },
+    {
+      "kanji": "辞表",
+      "kana": "じひょう",
+      "meaning_en": "letter of resignation",
+      "meaning_ja": "辞職を願い出る文書",
+      "example_ja": "辞表を提出した。",
+      "example_en": "I submitted my letter of resignation.",
+      "example_kana": "じひょうをていしゅつした。"
+    },
+    {
+      "kanji": "辞令",
+      "kana": "じれい",
+      "meaning_en": "official notice of appointment",
+      "meaning_ja": "任免を知らせる公文書",
+      "example_ja": "転勤の辞令が出た。",
+      "example_en": "A transfer notice was issued.",
+      "example_kana": "てんきんのじれいがでた。"
+    },
+    {
+      "kanji": "転職",
+      "kana": "てんしょく",
+      "meaning_en": "changing jobs",
+      "meaning_ja": "別の職業に変わること",
+      "example_ja": "同業他社に転職する。",
+      "example_en": "I change jobs to a competitor.",
+      "example_kana": "どうぎょうたしゃにてんしょくする。"
+    },
+    {
+      "kanji": "就業規則",
+      "kana": "しゅうぎょうきそく",
+      "meaning_en": "work rules, employment regulations",
+      "meaning_ja": "労働条件を定めた社内規則",
+      "example_ja": "就業規則を改定する。",
+      "example_en": "We revise the work rules.",
+      "example_kana": "しゅうぎょうきそくをかいていする。"
+    },
+    {
+      "kanji": "打ち合わせ",
+      "kana": "うちあわせ",
+      "meaning_en": "meeting, briefing",
+      "meaning_ja": "事前に話し合うこと",
+      "example_ja": "明日打ち合わせがある。",
+      "example_en": "There is a meeting tomorrow.",
+      "example_kana": "あすうちあわせがある。"
+    },
+    {
+      "kanji": "押印",
+      "kana": "おういん",
+      "meaning_en": "affixing a seal",
+      "meaning_ja": "判を押すこと",
+      "example_ja": "書類に押印する。",
+      "example_en": "We affix a seal on the document.",
+      "example_kana": "しょるいにおういんする。"
+    },
+    {
+      "kanji": "書面",
+      "kana": "しょめん",
+      "meaning_en": "in writing, document",
+      "meaning_ja": "文書に書かれた形",
+      "example_ja": "書面で回答する。",
+      "example_en": "I reply in writing.",
+      "example_kana": "しょめんでかいとうする。"
+    },
+    {
+      "kanji": "雛形",
+      "kana": "ひながた",
+      "meaning_en": "template, model form",
+      "meaning_ja": "手本となる形式",
+      "example_ja": "契約書の雛形を使う。",
+      "example_en": "I use a contract template.",
+      "example_kana": "けいやくしょのひながたをつかう。"
+    },
+    {
+      "kanji": "顧問",
+      "kana": "こもん",
+      "meaning_en": "advisor, consultant",
+      "meaning_ja": "相談に応じる立場の人",
+      "example_ja": "弁護士を顧問に迎える。",
+      "example_en": "We retain a lawyer as advisor.",
+      "example_kana": "べんごしをこもんにむかえる。"
+    },
+    {
+      "kanji": "専務",
+      "kana": "せんむ",
+      "meaning_en": "senior managing director",
+      "meaning_ja": "社長を補佐する役職",
+      "example_ja": "専務に昇格した。",
+      "example_en": "He was promoted to senior director.",
+      "example_kana": "せんむにしょうかくした。"
+    },
+    {
+      "kanji": "同僚",
+      "kana": "どうりょう",
+      "meaning_en": "colleague, coworker",
+      "meaning_ja": "同じ職場で働く人",
+      "example_ja": "同僚と昼食を取る。",
+      "example_en": "I have lunch with colleagues.",
+      "example_kana": "どうりょうとちゅうしょくをとる。"
+    },
+    {
+      "kanji": "苦情",
+      "kana": "くじょう",
+      "meaning_en": "complaint, grievance",
+      "meaning_ja": "相手に対する不満の訴え",
+      "example_ja": "顧客から苦情が来た。",
+      "example_en": "A complaint came from a customer.",
+      "example_kana": "こきゃくからくじょうがきた。"
+    },
+    {
+      "kanji": "仲裁",
+      "kana": "ちゅうさい",
+      "meaning_en": "arbitration, mediation",
+      "meaning_ja": "第三者として争いを収めること",
+      "example_ja": "労使紛争を仲裁する。",
+      "example_en": "We mediate the labor dispute.",
+      "example_kana": "ろうしふんそうをちゅうさいする。"
+    },
+    {
+      "kanji": "示談",
+      "kana": "じだん",
+      "meaning_en": "out-of-court settlement",
+      "meaning_ja": "裁判外の話し合いによる解決",
+      "example_ja": "示談が成立した。",
+      "example_en": "A settlement was reached.",
+      "example_kana": "じだんがせいりつした。"
+    },
+    {
+      "kanji": "解約",
+      "kana": "かいやく",
+      "meaning_en": "cancellation (of contract)",
+      "meaning_ja": "契約を解除すること",
+      "example_ja": "契約を解約する。",
+      "example_en": "I cancel the contract.",
+      "example_kana": "けいやくをかいやくする。"
+    },
+    {
+      "kanji": "違約金",
+      "kana": "いやくきん",
+      "meaning_en": "penalty fee, breach-of-contract money",
+      "meaning_ja": "契約違反の際支払う金銭",
+      "example_ja": "違約金を請求された。",
+      "example_en": "I was billed for a breach penalty.",
+      "example_kana": "いやくきんをせいきゅうされた。"
+    },
+    {
+      "kanji": "遵守",
+      "kana": "じゅんしゅ",
+      "meaning_en": "compliance, observance",
+      "meaning_ja": "規則をよく守ること",
+      "example_ja": "法令を遵守する。",
+      "example_en": "We comply with the law.",
+      "example_kana": "ほうれいをじゅんしゅする。"
+    },
+    {
+      "kanji": "法令",
+      "kana": "ほうれい",
+      "meaning_en": "laws and ordinances",
+      "meaning_ja": "法律と命令の総称",
+      "example_ja": "法令違反が発覚した。",
+      "example_en": "A legal violation was discovered.",
+      "example_kana": "ほうれいいはんがはっかくした。"
+    },
+    {
+      "kanji": "内規",
+      "kana": "ないき",
+      "meaning_en": "internal rules",
+      "meaning_ja": "組織内部の規則",
+      "example_ja": "内規に従って処理する。",
+      "example_en": "We process per internal rules.",
+      "example_kana": "ないきにしたがってしょりする。"
+    },
+    {
+      "kanji": "経営難",
+      "kana": "けいえいなん",
+      "meaning_en": "business difficulties",
+      "meaning_ja": "経営が苦しい状態",
+      "example_ja": "経営難に陥る。",
+      "example_en": "They fall into business difficulties.",
+      "example_kana": "けいえいなんにおちいる。"
+    },
+    {
+      "kanji": "子会社",
+      "kana": "こがいしゃ",
+      "meaning_en": "subsidiary company",
+      "meaning_ja": "親会社に支配される会社",
+      "example_ja": "子会社を設立する。",
+      "example_en": "We establish a subsidiary.",
+      "example_kana": "こがいしゃをせつりつする。"
+    },
+    {
+      "kanji": "系列",
+      "kana": "けいれつ",
+      "meaning_en": "corporate group, affiliated chain",
+      "meaning_ja": "親密に結びついた企業群",
+      "example_ja": "系列企業と協力する。",
+      "example_en": "We cooperate with affiliated firms.",
+      "example_kana": "けいれつきぎょうときょうりょくする。"
+    },
+    {
+      "kanji": "上場",
+      "kana": "じょうじょう",
+      "meaning_en": "listing (on stock exchange)",
+      "meaning_ja": "株式を取引所に公開すること",
+      "example_ja": "東証に上場する。",
+      "example_en": "We list on the Tokyo Stock Exchange.",
+      "example_kana": "とうしょうにじょうじょうする。"
+    },
+    {
+      "kanji": "福利厚生",
+      "kana": "ふくりこうせい",
+      "meaning_en": "employee benefits, welfare programs",
+      "meaning_ja": "従業員のための福祉施策",
+      "example_ja": "福利厚生が充実している。",
+      "example_en": "The employee benefits are excellent.",
+      "example_kana": "ふくりこうせいがじゅうじつしている。"
+    },
+    {
+      "kanji": "診断",
+      "kana": "しんだん",
+      "meaning_en": "medical diagnosis",
+      "meaning_ja": "医師が病気の状態を判断すること。",
+      "example_ja": "医師の診断を仰ぐ。",
+      "example_en": "I seek a doctor's diagnosis.",
+      "example_kana": "いしのしんだんをあおぐ。"
+    },
+    {
+      "kanji": "病態",
+      "kana": "びょうたい",
+      "meaning_en": "pathological condition",
+      "meaning_ja": "病気の状態や様子。",
+      "example_ja": "病態が急変した。",
+      "example_en": "His condition suddenly changed.",
+      "example_kana": "びょうたいがきゅうへんした。"
+    },
+    {
+      "kanji": "投薬",
+      "kana": "とうやく",
+      "meaning_en": "medication; dosing",
+      "meaning_ja": "患者に薬を与えること。",
+      "example_ja": "投薬の量を調整する。",
+      "example_en": "They adjust the dose of medication.",
+      "example_kana": "とうやくのりょうをちょうせいする。"
+    },
+    {
+      "kanji": "接種",
+      "kana": "せっしゅ",
+      "meaning_en": "vaccination; inoculation",
+      "meaning_ja": "ワクチンを体内に取り入れること。",
+      "example_ja": "予防接種を受けた。",
+      "example_en": "I received a preventive vaccination.",
+      "example_kana": "よぼうせっしゅをうけた。"
+    },
+    {
+      "kanji": "検診",
+      "kana": "けんしん",
+      "meaning_en": "medical examination",
+      "meaning_ja": "病気の有無を調べる診察。",
+      "example_ja": "定期検診を毎年受ける。",
+      "example_en": "I get a regular check-up every year.",
+      "example_kana": "ていきけんしんをまいとしうける。"
+    },
+    {
+      "kanji": "手術",
+      "kana": "しゅじゅつ",
+      "meaning_en": "surgery; operation",
+      "meaning_ja": "医師が体を切開して治療すること。",
+      "example_ja": "心臓の手術を受けた。",
+      "example_en": "He underwent heart surgery.",
+      "example_kana": "しんぞうのしゅじゅつをうけた。"
+    },
+    {
+      "kanji": "入院",
+      "kana": "にゅういん",
+      "meaning_en": "hospitalization",
+      "meaning_ja": "病院に入って治療を受けること。",
+      "example_ja": "祖父が入院した。",
+      "example_en": "My grandfather was hospitalized.",
+      "example_kana": "そふがにゅういんした。"
+    },
+    {
+      "kanji": "退院",
+      "kana": "たいいん",
+      "meaning_en": "hospital discharge",
+      "meaning_ja": "病院から出て家に帰ること。",
+      "example_ja": "来週退院する予定だ。",
+      "example_en": "He plans to leave the hospital next week.",
+      "example_kana": "らいしゅうたいいんするよていだ。"
+    },
+    {
+      "kanji": "介助",
+      "kana": "かいじょ",
+      "meaning_en": "assistance; aid",
+      "meaning_ja": "動作などを手助けすること。",
+      "example_ja": "歩行を介助する。",
+      "example_en": "He assists with walking.",
+      "example_kana": "ほこうをかいじょする。"
+    },
+    {
+      "kanji": "高齢者",
+      "kana": "こうれいしゃ",
+      "meaning_en": "elderly person",
+      "meaning_ja": "年齢の高い人。",
+      "example_ja": "高齢者を支援する。",
+      "example_en": "They support the elderly.",
+      "example_kana": "こうれいしゃをしえんする。"
+    },
+    {
+      "kanji": "認知症",
+      "kana": "にんちしょう",
+      "meaning_en": "dementia",
+      "meaning_ja": "脳の機能が低下する病気。",
+      "example_ja": "認知症の予防に努める。",
+      "example_en": "They work to prevent dementia.",
+      "example_kana": "にんちしょうのよぼうにつとめる。"
+    },
+    {
+      "kanji": "体調",
+      "kana": "たいちょう",
+      "meaning_en": "physical condition",
+      "meaning_ja": "体の調子。",
+      "example_ja": "体調を崩した。",
+      "example_en": "My health has deteriorated.",
+      "example_kana": "たいちょうをくずした。"
+    },
+    {
+      "kanji": "食生活",
+      "kana": "しょくせいかつ",
+      "meaning_en": "diet; eating habits",
+      "meaning_ja": "食事の取り方や習慣。",
+      "example_ja": "食生活を見直す。",
+      "example_en": "I reconsider my eating habits.",
+      "example_kana": "しょくせいかつをみなおす。"
+    },
+    {
+      "kanji": "治癒",
+      "kana": "ちゆ",
+      "meaning_en": "healing; cure",
+      "meaning_ja": "病気や傷が治ること。",
+      "example_ja": "傷の治癒が遅い。",
+      "example_en": "The wound heals slowly.",
+      "example_kana": "きずのちゆがおそい。"
+    },
+    {
+      "kanji": "処方",
+      "kana": "しょほう",
+      "meaning_en": "medical prescription",
+      "meaning_ja": "医師が薬を指示すること。",
+      "example_ja": "薬を処方する。",
+      "example_en": "The doctor prescribes medicine.",
+      "example_kana": "くすりをしょほうする。"
+    },
+    {
+      "kanji": "薬剤",
+      "kana": "やくざい",
+      "meaning_en": "medicine; drug",
+      "meaning_ja": "治療に用いる薬。",
+      "example_ja": "薬剤を保管する。",
+      "example_en": "He stores the drugs.",
+      "example_kana": "やくざいをほかんする。"
+    },
+    {
+      "kanji": "錠剤",
+      "kana": "じょうざい",
+      "meaning_en": "tablet; pill",
+      "meaning_ja": "固形の薬。",
+      "example_ja": "錠剤を水で飲む。",
+      "example_en": "He swallows the tablet with water.",
+      "example_kana": "じょうざいをみずでのむ。"
+    },
+    {
+      "kanji": "注射",
+      "kana": "ちゅうしゃ",
+      "meaning_en": "injection; shot",
+      "meaning_ja": "針で薬液を体内に入れる治療。",
+      "example_ja": "注射を打ってもらう。",
+      "example_en": "I get an injection.",
+      "example_kana": "ちゅうしゃをうってもらう。"
+    },
+    {
+      "kanji": "点滴",
+      "kana": "てんてき",
+      "meaning_en": "intravenous drip",
+      "meaning_ja": "液体の薬を静脈に注ぐ治療。",
+      "example_ja": "点滴で栄養を補う。",
+      "example_en": "They supply nutrition by IV drip.",
+      "example_kana": "てんてきでえいようをおぎなう。"
+    },
+    {
+      "kanji": "外科",
+      "kana": "げか",
+      "meaning_en": "surgery (medical dept.)",
+      "meaning_ja": "手術を行う診療科。",
+      "example_ja": "外科を受診する。",
+      "example_en": "He visits the surgery department.",
+      "example_kana": "げかをじゅしんする。"
+    },
+    {
+      "kanji": "内科",
+      "kana": "ないか",
+      "meaning_en": "internal medicine",
+      "meaning_ja": "薬で病気を治す診療科。",
+      "example_ja": "内科の医師に相談する。",
+      "example_en": "He consults an internist.",
+      "example_kana": "ないかのいしにそうだんする。"
+    },
+    {
+      "kanji": "皮膚科",
+      "kana": "ひふか",
+      "meaning_en": "dermatology",
+      "meaning_ja": "皮膚の病気を扱う科。",
+      "example_ja": "皮膚科に通っている。",
+      "example_en": "I attend a dermatology clinic.",
+      "example_kana": "ひふかにかよっている。"
+    },
+    {
+      "kanji": "精神科",
+      "kana": "せいしんか",
+      "meaning_en": "psychiatry",
+      "meaning_ja": "心の病気を扱う科。",
+      "example_ja": "精神科で診てもらう。",
+      "example_en": "He is examined at psychiatry.",
+      "example_kana": "せいしんかでみてもらう。"
+    },
+    {
+      "kanji": "流行",
+      "kana": "りゅうこう",
+      "meaning_en": "epidemic; trend",
+      "meaning_ja": "病気や流行が広まること。",
+      "example_ja": "インフルが流行する。",
+      "example_en": "The flu is going around.",
+      "example_kana": "いんふるがりゅうこうする。"
+    },
+    {
+      "kanji": "防疫",
+      "kana": "ぼうえき",
+      "meaning_en": "disease prevention",
+      "meaning_ja": "伝染病を防ぐこと。",
+      "example_ja": "防疫対策を強化する。",
+      "example_en": "They reinforce disease prevention.",
+      "example_kana": "ぼうえきたいさくをきょうかする。"
+    },
+    {
+      "kanji": "消毒",
+      "kana": "しょうどく",
+      "meaning_en": "disinfection",
+      "meaning_ja": "病原菌を殺すこと。",
+      "example_ja": "傷口を消毒する。",
+      "example_en": "She disinfects the wound.",
+      "example_kana": "きずぐちをしょうどくする。"
+    },
+    {
+      "kanji": "殺菌",
+      "kana": "さっきん",
+      "meaning_en": "sterilization",
+      "meaning_ja": "細菌を殺すこと。",
+      "example_ja": "器具を殺菌する。",
+      "example_en": "They sterilize the instruments.",
+      "example_kana": "きぐをさっきんする。"
+    },
+    {
+      "kanji": "清潔",
+      "kana": "せいけつ",
+      "meaning_en": "cleanliness; hygienic",
+      "meaning_ja": "汚れがなくきれいなこと。",
+      "example_ja": "手を清潔に保つ。",
+      "example_en": "I keep my hands clean.",
+      "example_kana": "てをせいけつにたもつ。"
+    },
+    {
+      "kanji": "虚弱",
+      "kana": "きょじゃく",
+      "meaning_en": "frailty; weakness",
+      "meaning_ja": "体が弱いこと。",
+      "example_ja": "虚弱な体質を改善する。",
+      "example_en": "He improves his frail constitution.",
+      "example_kana": "きょじゃくなたいしつをかいぜんする。"
+    },
+    {
+      "kanji": "気力",
+      "kana": "きりょく",
+      "meaning_en": "willpower; energy",
+      "meaning_ja": "物事を行う気持ちの強さ。",
+      "example_ja": "気力がわいてきた。",
+      "example_en": "My energy is coming back.",
+      "example_kana": "きりょくがわいてきた。"
+    },
+    {
+      "kanji": "活力",
+      "kana": "かつりょく",
+      "meaning_en": "vitality; vigor",
+      "meaning_ja": "活動するための力。",
+      "example_ja": "活力を取り戻す。",
+      "example_en": "He regains his vitality.",
+      "example_kana": "かつりょくをとりもどす。"
+    },
+    {
+      "kanji": "患者",
+      "kana": "かんじゃ",
+      "meaning_en": "patient",
+      "meaning_ja": "病気で治療を受ける人。",
+      "example_ja": "患者を診察する。",
+      "example_en": "The doctor examines the patient.",
+      "example_kana": "かんじゃをしんさつする。"
+    },
+    {
+      "kanji": "疾患",
+      "kana": "しっかん",
+      "meaning_en": "disease; ailment",
+      "meaning_ja": "病気のこと。",
+      "example_ja": "持病の疾患がある。",
+      "example_en": "He has a chronic disease.",
+      "example_kana": "じびょうのしっかんがある。"
+    },
+    {
+      "kanji": "疾病",
+      "kana": "しっぺい",
+      "meaning_en": "disease; illness",
+      "meaning_ja": "病気。",
+      "example_ja": "疾病を予防する。",
+      "example_en": "They prevent disease.",
+      "example_kana": "しっぺいをよぼうする。"
+    },
+    {
+      "kanji": "発熱",
+      "kana": "はつねつ",
+      "meaning_en": "fever; heat generation",
+      "meaning_ja": "熱が出ること。",
+      "example_ja": "急に発熱した。",
+      "example_en": "He suddenly developed a fever.",
+      "example_kana": "きゅうにはつねつした。"
+    },
+    {
+      "kanji": "貧血",
+      "kana": "ひんけつ",
+      "meaning_en": "anemia",
+      "meaning_ja": "血が薄くなる状態。",
+      "example_ja": "貧血で倒れた。",
+      "example_en": "She collapsed from anemia.",
+      "example_kana": "ひんけつでたおれた。"
+    },
+    {
+      "kanji": "血圧",
+      "kana": "けつあつ",
+      "meaning_en": "blood pressure",
+      "meaning_ja": "血液が血管を押す圧力。",
+      "example_ja": "血圧を測る。",
+      "example_en": "He measures his blood pressure.",
+      "example_kana": "けつあつをはかる。"
+    },
+    {
+      "kanji": "脈拍",
+      "kana": "みゃくはく",
+      "meaning_en": "pulse",
+      "meaning_ja": "心臓の鼓動の速さ。",
+      "example_ja": "脈拍を確認する。",
+      "example_en": "The nurse checks the pulse.",
+      "example_kana": "みゃくはくをかくにんする。"
+    },
+    {
+      "kanji": "呼吸",
+      "kana": "こきゅう",
+      "meaning_en": "breathing; respiration",
+      "meaning_ja": "息をすること。",
+      "example_ja": "深く呼吸する。",
+      "example_en": "He breathes deeply.",
+      "example_kana": "ふかくこきゅうする。"
+    },
+    {
+      "kanji": "心臓",
+      "kana": "しんぞう",
+      "meaning_en": "heart (organ)",
+      "meaning_ja": "血を全身に送る器官。",
+      "example_ja": "心臓が止まりかけた。",
+      "example_en": "His heart almost stopped.",
+      "example_kana": "しんぞうがとまりかけた。"
+    },
+    {
+      "kanji": "肺",
+      "kana": "はい",
+      "meaning_en": "lungs",
+      "meaning_ja": "呼吸を行う臓器。",
+      "example_ja": "肺の機能が落ちる。",
+      "example_en": "His lung function declines.",
+      "example_kana": "はいのきのうがおちる。"
+    },
+    {
+      "kanji": "肝臓",
+      "kana": "かんぞう",
+      "meaning_en": "liver",
+      "meaning_ja": "解毒や代謝を行う臓器。",
+      "example_ja": "肝臓を労る。",
+      "example_en": "He takes care of his liver.",
+      "example_kana": "かんぞうをいたわる。"
+    },
+    {
+      "kanji": "腎臓",
+      "kana": "じんぞう",
+      "meaning_en": "kidney",
+      "meaning_ja": "尿をつくる臓器。",
+      "example_ja": "腎臓の働きが弱い。",
+      "example_en": "His kidneys are weak.",
+      "example_kana": "じんぞうのはたらきがよわい。"
+    },
+    {
+      "kanji": "内臓",
+      "kana": "ないぞう",
+      "meaning_en": "internal organs",
+      "meaning_ja": "体内の臓器。",
+      "example_ja": "内臓に異常はない。",
+      "example_en": "There is no abnormality in the organs.",
+      "example_kana": "ないぞうにいじょうはない。"
+    },
+    {
+      "kanji": "神経",
+      "kana": "しんけい",
+      "meaning_en": "nerve; nerves",
+      "meaning_ja": "刺激を伝える組織。",
+      "example_ja": "神経が過敏になる。",
+      "example_en": "His nerves become hypersensitive.",
+      "example_kana": "しんけいがかびんになる。"
+    },
+    {
+      "kanji": "筋肉",
+      "kana": "きんにく",
+      "meaning_en": "muscle",
+      "meaning_ja": "体を動かす組織。",
+      "example_ja": "筋肉を鍛える。",
+      "example_en": "He trains his muscles.",
+      "example_kana": "きんにくをきたえる。"
+    },
+    {
+      "kanji": "関節",
+      "kana": "かんせつ",
+      "meaning_en": "joint (body)",
+      "meaning_ja": "骨と骨のつなぎ目。",
+      "example_ja": "関節が痛む。",
+      "example_en": "His joints ache.",
+      "example_kana": "かんせつがいたむ。"
+    },
+    {
+      "kanji": "皮膚",
+      "kana": "ひふ",
+      "meaning_en": "skin",
+      "meaning_ja": "体の表面を覆う組織。",
+      "example_ja": "皮膚が乾燥する。",
+      "example_en": "My skin gets dry.",
+      "example_kana": "ひふがかんそうする。"
+    },
+    {
+      "kanji": "骨折",
+      "kana": "こっせつ",
+      "meaning_en": "bone fracture",
+      "meaning_ja": "骨が折れること。",
+      "example_ja": "足を骨折した。",
+      "example_en": "He fractured his leg.",
+      "example_kana": "あしをこっせつした。"
+    },
+    {
+      "kanji": "打撲",
+      "kana": "だぼく",
+      "meaning_en": "bruise; contusion",
+      "meaning_ja": "体を強く打つけが。",
+      "example_ja": "腰を打撲した。",
+      "example_en": "He bruised his lower back.",
+      "example_kana": "こしをだぼくした。"
+    },
+    {
+      "kanji": "捻挫",
+      "kana": "ねんざ",
+      "meaning_en": "sprain",
+      "meaning_ja": "関節をひねるけが。",
+      "example_ja": "足首を捻挫した。",
+      "example_en": "She sprained her ankle.",
+      "example_kana": "あしくびをねんざした。"
+    },
+    {
+      "kanji": "火傷",
+      "kana": "やけど",
+      "meaning_en": "burn (skin)",
+      "meaning_ja": "熱で皮膚を傷めること。",
+      "example_ja": "手に火傷を負う。",
+      "example_en": "He suffers a burn on his hand.",
+      "example_kana": "てにやけどをおう。"
+    },
+    {
+      "kanji": "擦り傷",
+      "kana": "すりきず",
+      "meaning_en": "scrape; abrasion",
+      "meaning_ja": "こすってできた傷。",
+      "example_ja": "膝に擦り傷ができた。",
+      "example_en": "He got a scrape on his knee.",
+      "example_kana": "ひざにすりきずができた。"
+    },
+    {
+      "kanji": "瀕死",
+      "kana": "ひんし",
+      "meaning_en": "on the verge of death",
+      "meaning_ja": "死にそうな状態。",
+      "example_ja": "瀕死の重傷を負う。",
+      "example_en": "He suffers a near-fatal injury.",
+      "example_kana": "ひんしのじゅうしょうをおう。"
+    },
+    {
+      "kanji": "重傷",
+      "kana": "じゅうしょう",
+      "meaning_en": "serious injury",
+      "meaning_ja": "重いけが。",
+      "example_ja": "事故で重傷を負った。",
+      "example_en": "He sustained serious injuries.",
+      "example_kana": "じこでじゅうしょうをおった。"
+    },
+    {
+      "kanji": "軽傷",
+      "kana": "けいしょう",
+      "meaning_en": "minor injury",
+      "meaning_ja": "軽いけが。",
+      "example_ja": "軽傷で済んだ。",
+      "example_en": "He got away with minor injuries.",
+      "example_kana": "けいしょうですんだ。"
+    },
+    {
+      "kanji": "応急処置",
+      "kana": "おうきゅうしょち",
+      "meaning_en": "first aid",
+      "meaning_ja": "急場の手当て。",
+      "example_ja": "応急処置を施す。",
+      "example_en": "He administers first aid.",
+      "example_kana": "おうきゅうしょちをほどこす。"
+    },
+    {
+      "kanji": "救急",
+      "kana": "きゅうきゅう",
+      "meaning_en": "emergency (medical)",
+      "meaning_ja": "急病人を救うこと。",
+      "example_ja": "救急車を呼ぶ。",
+      "example_en": "He calls an ambulance.",
+      "example_kana": "きゅうきゅうしゃをよぶ。"
+    },
+    {
+      "kanji": "救命",
+      "kana": "きゅうめい",
+      "meaning_en": "lifesaving",
+      "meaning_ja": "命を救うこと。",
+      "example_ja": "救命処置を行う。",
+      "example_en": "They perform lifesaving treatment.",
+      "example_kana": "きゅうめいしょちをおこなう。"
+    },
+    {
+      "kanji": "延命",
+      "kana": "えんめい",
+      "meaning_en": "prolongation of life",
+      "meaning_ja": "命を長らえること。",
+      "example_ja": "延命治療を望まない。",
+      "example_en": "He refuses life-prolonging treatment.",
+      "example_kana": "えんめいちりょうをのぞまない。"
+    },
+    {
+      "kanji": "安楽死",
+      "kana": "あんらくし",
+      "meaning_en": "euthanasia",
+      "meaning_ja": "苦痛なく死なせること。",
+      "example_ja": "安楽死は議論を呼ぶ。",
+      "example_en": "Euthanasia provokes debate.",
+      "example_kana": "あんらくしはぎろんをよぶ。"
+    },
+    {
+      "kanji": "寿命",
+      "kana": "じゅみょう",
+      "meaning_en": "lifespan",
+      "meaning_ja": "生きている期間。",
+      "example_ja": "平均寿命が延びる。",
+      "example_en": "Average lifespan increases.",
+      "example_kana": "へいきんじゅみょうがのびる。"
+    },
+    {
+      "kanji": "加齢",
+      "kana": "かれい",
+      "meaning_en": "aging; growing old",
+      "meaning_ja": "年を取ること。",
+      "example_ja": "加齢で視力が落ちる。",
+      "example_en": "Eyesight declines with age.",
+      "example_kana": "かれいでしりょくがおちる。"
+    },
+    {
+      "kanji": "病床",
+      "kana": "びょうしょう",
+      "meaning_en": "sickbed",
+      "meaning_ja": "病人が寝るベッド。",
+      "example_ja": "病床に伏す。",
+      "example_en": "He is bedridden.",
+      "example_kana": "びょうしょうにふす。"
+    },
+    {
+      "kanji": "病棟",
+      "kana": "びょうとう",
+      "meaning_en": "hospital ward",
+      "meaning_ja": "入院患者がいる建物。",
+      "example_ja": "小児病棟を見学する。",
+      "example_en": "He tours the pediatric ward.",
+      "example_kana": "しょうにびょうとうをけんがくする。"
+    },
+    {
+      "kanji": "病室",
+      "kana": "びょうしつ",
+      "meaning_en": "hospital room",
+      "meaning_ja": "入院患者の部屋。",
+      "example_ja": "病室を訪ねる。",
+      "example_en": "She visits the hospital room.",
+      "example_kana": "びょうしつをたずねる。"
+    },
+    {
+      "kanji": "看病",
+      "kana": "かんびょう",
+      "meaning_en": "nursing the sick",
+      "meaning_ja": "病人の世話をすること。",
+      "example_ja": "母を看病する。",
+      "example_en": "He nurses his mother.",
+      "example_kana": "ははをかんびょうする。"
+    },
+    {
+      "kanji": "養生",
+      "kana": "ようじょう",
+      "meaning_en": "recuperation; care for health",
+      "meaning_ja": "健康を保つこと。",
+      "example_ja": "養生に努める。",
+      "example_en": "He takes care of himself.",
+      "example_kana": "ようじょうにつとめる。"
+    },
+    {
+      "kanji": "静養",
+      "kana": "せいよう",
+      "meaning_en": "rest cure",
+      "meaning_ja": "心身を休めて治療すること。",
+      "example_ja": "自宅で静養する。",
+      "example_en": "He convalesces at home.",
+      "example_kana": "じたくでせいようする。"
+    },
+    {
+      "kanji": "療養",
+      "kana": "りょうよう",
+      "meaning_en": "medical treatment; recuperation",
+      "meaning_ja": "治療をしながら休むこと。",
+      "example_ja": "療養生活を送る。",
+      "example_en": "He lives a life of convalescence.",
+      "example_kana": "りょうようせいかつをおくる。"
+    },
+    {
+      "kanji": "療法",
+      "kana": "りょうほう",
+      "meaning_en": "therapy; treatment method",
+      "meaning_ja": "治療の方法。",
+      "example_ja": "新しい療法を試す。",
+      "example_en": "He tries a new therapy.",
+      "example_kana": "あたらしいりょうほうをためす。"
+    },
+    {
+      "kanji": "医療",
+      "kana": "いりょう",
+      "meaning_en": "medical care",
+      "meaning_ja": "病気の治療や予防の活動。",
+      "example_ja": "医療を充実させる。",
+      "example_en": "They enhance medical care.",
+      "example_kana": "いりょうをじゅうじつさせる。"
+    },
+    {
+      "kanji": "医学",
+      "kana": "いがく",
+      "meaning_en": "medical science",
+      "meaning_ja": "病気を扱う学問。",
+      "example_ja": "医学を志す。",
+      "example_en": "He aspires to study medicine.",
+      "example_kana": "いがくをこころざす。"
+    },
+    {
+      "kanji": "医師",
+      "kana": "いし",
+      "meaning_en": "medical doctor",
+      "meaning_ja": "医療を行う専門家。",
+      "example_ja": "医師に診てもらう。",
+      "example_en": "He gets examined by a doctor.",
+      "example_kana": "いしにみてもらう。"
+    },
+    {
+      "kanji": "獣医",
+      "kana": "じゅうい",
+      "meaning_en": "veterinarian",
+      "meaning_ja": "動物を診る医師。",
+      "example_ja": "獣医に犬を見せる。",
+      "example_en": "He shows his dog to the vet.",
+      "example_kana": "じゅういにいぬをみせる。"
+    },
+    {
+      "kanji": "歯医者",
+      "kana": "はいしゃ",
+      "meaning_en": "dentist",
+      "meaning_ja": "歯を治療する医師。",
+      "example_ja": "歯医者が苦手だ。",
+      "example_en": "He is bad with dentists.",
+      "example_kana": "はいしゃがにがてだ。"
+    },
+    {
+      "kanji": "薬局",
+      "kana": "やっきょく",
+      "meaning_en": "pharmacy",
+      "meaning_ja": "薬を売る店。",
+      "example_ja": "薬局で薬を買う。",
+      "example_en": "He buys medicine at the pharmacy.",
+      "example_kana": "やっきょくでくすりをかう。"
+    },
+    {
+      "kanji": "薬剤師",
+      "kana": "やくざいし",
+      "meaning_en": "pharmacist",
+      "meaning_ja": "薬を扱う専門家。",
+      "example_ja": "薬剤師に質問する。",
+      "example_en": "He asks the pharmacist.",
+      "example_kana": "やくざいしにしつもんする。"
+    },
+    {
+      "kanji": "病原",
+      "kana": "びょうげん",
+      "meaning_en": "cause of disease",
+      "meaning_ja": "病気のもと。",
+      "example_ja": "病原を特定する。",
+      "example_en": "They identify the cause of illness.",
+      "example_kana": "びょうげんをとくていする。"
+    },
+    {
+      "kanji": "ウイルス",
+      "kana": "ういるす",
+      "meaning_en": "virus",
+      "meaning_ja": "病気を起こす微小な存在。",
+      "example_ja": "ウイルスが変異する。",
+      "example_en": "The virus mutates.",
+      "example_kana": "ういるすがへんいする。"
+    },
+    {
+      "kanji": "伝染",
+      "kana": "でんせん",
+      "meaning_en": "contagion",
+      "meaning_ja": "病気がうつること。",
+      "example_ja": "病気が伝染する。",
+      "example_en": "The disease spreads.",
+      "example_kana": "びょうきがでんせんする。"
+    },
+    {
+      "kanji": "持病",
+      "kana": "じびょう",
+      "meaning_en": "chronic condition",
+      "meaning_ja": "長く付き合う病気。",
+      "example_ja": "持病が悪化する。",
+      "example_en": "His chronic illness worsens.",
+      "example_kana": "じびょうがあっかする。"
+    },
+    {
+      "kanji": "既往症",
+      "kana": "きおうしょう",
+      "meaning_en": "medical history; past illness",
+      "meaning_ja": "過去にかかった病気。",
+      "example_ja": "既往症を申告する。",
+      "example_en": "He declares his medical history.",
+      "example_kana": "きおうしょうをしんこくする。"
+    },
+    {
+      "kanji": "合併症",
+      "kana": "がっぺいしょう",
+      "meaning_en": "medical complication",
+      "meaning_ja": "主な病気に伴う別の病気。",
+      "example_ja": "合併症を起こす。",
+      "example_en": "He develops complications.",
+      "example_kana": "がっぺいしょうをおこす。"
+    },
+    {
+      "kanji": "看取る",
+      "kana": "みとる",
+      "meaning_en": "attend at deathbed",
+      "meaning_ja": "死を見届け世話をする。",
+      "example_ja": "祖母を看取った。",
+      "example_en": "She saw her grandmother off.",
+      "example_kana": "そぼをみとった。"
+    },
+    {
+      "kanji": "診察",
+      "kana": "しんさつ",
+      "meaning_en": "medical examination",
+      "meaning_ja": "医師が病状を見ること。",
+      "example_ja": "診察を受ける。",
+      "example_en": "He gets an examination.",
+      "example_kana": "しんさつをうける。"
+    },
+    {
+      "kanji": "問診",
+      "kana": "もんしん",
+      "meaning_en": "medical interview",
+      "meaning_ja": "症状を聞いて調べること。",
+      "example_ja": "問診票を書く。",
+      "example_en": "She fills out the medical questionnaire.",
+      "example_kana": "もんしんひょうをかく。"
+    },
+    {
+      "kanji": "カルテ",
+      "kana": "かるて",
+      "meaning_en": "medical chart",
+      "meaning_ja": "診療記録の書類。",
+      "example_ja": "カルテを確認する。",
+      "example_en": "He checks the medical chart.",
+      "example_kana": "かるてをかくにんする。"
+    },
+    {
+      "kanji": "輸血",
+      "kana": "ゆけつ",
+      "meaning_en": "blood transfusion",
+      "meaning_ja": "他人の血を入れる治療。",
+      "example_ja": "輸血が必要だ。",
+      "example_en": "A transfusion is needed.",
+      "example_kana": "ゆけつがひつようだ。"
+    },
+    {
+      "kanji": "献血",
+      "kana": "けんけつ",
+      "meaning_en": "blood donation",
+      "meaning_ja": "血を寄付すること。",
+      "example_ja": "献血に協力する。",
+      "example_en": "He cooperates with blood donation.",
+      "example_kana": "けんけつにきょうりょくする。"
+    },
+    {
+      "kanji": "移植",
+      "kana": "いしょく",
+      "meaning_en": "transplant",
+      "meaning_ja": "他の体に臓器を植えること。",
+      "example_ja": "心臓移植を受ける。",
+      "example_en": "He receives a heart transplant.",
+      "example_kana": "しんぞういしょくをうける。"
+    },
+    {
+      "kanji": "臓器",
+      "kana": "ぞうき",
+      "meaning_en": "organ (body)",
+      "meaning_ja": "体の中の器官。",
+      "example_ja": "臓器を提供する。",
+      "example_en": "He donates organs.",
+      "example_kana": "ぞうきをていきょうする。"
+    },
+    {
+      "kanji": "遺体",
+      "kana": "いたい",
+      "meaning_en": "corpse; remains",
+      "meaning_ja": "亡くなった人の体。",
+      "example_ja": "遺体を引き取る。",
+      "example_en": "He receives the remains.",
+      "example_kana": "いたいをひきとる。"
+    },
+    {
+      "kanji": "検体",
+      "kana": "けんたい",
+      "meaning_en": "medical specimen",
+      "meaning_ja": "検査用の試料。",
+      "example_ja": "検体を採取する。",
+      "example_en": "They collect the specimen.",
+      "example_kana": "けんたいをさいしゅする。"
+    },
+    {
+      "kanji": "採血",
+      "kana": "さいけつ",
+      "meaning_en": "blood drawing",
+      "meaning_ja": "検査などで血を取ること。",
+      "example_ja": "看護師が採血する。",
+      "example_en": "The nurse draws blood.",
+      "example_kana": "かんごしがさいけつする。"
+    },
+    {
+      "kanji": "レントゲン",
+      "kana": "れんとげん",
+      "meaning_en": "X-ray",
+      "meaning_ja": "体内を写す装置。",
+      "example_ja": "レントゲンを撮る。",
+      "example_en": "He takes an X-ray.",
+      "example_kana": "れんとげんをとる。"
+    },
+    {
+      "kanji": "診断書",
+      "kana": "しんだんしょ",
+      "meaning_en": "medical certificate",
+      "meaning_ja": "医師の所見を書いた書類。",
+      "example_ja": "診断書を発行する。",
+      "example_en": "They issue a medical certificate.",
+      "example_kana": "しんだんしょをはっこうする。"
+    },
+    {
+      "kanji": "保険証",
+      "kana": "ほけんしょう",
+      "meaning_en": "insurance card",
+      "meaning_ja": "医療保険の証明書。",
+      "example_ja": "保険証を提示する。",
+      "example_en": "He presents his insurance card.",
+      "example_kana": "ほけんしょうをていじする。"
+    },
+    {
+      "kanji": "健康保険",
+      "kana": "けんこうほけん",
+      "meaning_en": "health insurance",
+      "meaning_ja": "医療費を補う制度。",
+      "example_ja": "健康保険に加入する。",
+      "example_en": "He joins the health insurance.",
+      "example_kana": "けんこうほけんにかにゅうする。"
+    },
+    {
+      "kanji": "医療費",
+      "kana": "いりょうひ",
+      "meaning_en": "medical expenses",
+      "meaning_ja": "治療にかかるお金。",
+      "example_ja": "医療費が膨らむ。",
+      "example_en": "Medical costs swell.",
+      "example_kana": "いりょうひがふくらむ。"
+    },
+    {
+      "kanji": "在宅",
+      "kana": "ざいたく",
+      "meaning_en": "at home; home care",
+      "meaning_ja": "自宅にいること。",
+      "example_ja": "在宅介護を選ぶ。",
+      "example_en": "They choose home care.",
+      "example_kana": "ざいたくかいごをえらぶ。"
+    },
+    {
+      "kanji": "訪問",
+      "kana": "ほうもん",
+      "meaning_en": "visit (home call)",
+      "meaning_ja": "家を訪れること。",
+      "example_ja": "訪問看護を頼む。",
+      "example_en": "They request visiting nursing.",
+      "example_kana": "ほうもんかんごをたのむ。"
+    },
+    {
+      "kanji": "看護師",
+      "kana": "かんごし",
+      "meaning_en": "nurse",
+      "meaning_ja": "病人の世話をする専門家。",
+      "example_ja": "看護師を呼ぶ。",
+      "example_en": "He calls a nurse.",
+      "example_kana": "かんごしをよぶ。"
+    },
+    {
+      "kanji": "介護士",
+      "kana": "かいごし",
+      "meaning_en": "care worker",
+      "meaning_ja": "介護を専門に行う人。",
+      "example_ja": "介護士として働く。",
+      "example_en": "She works as a caregiver.",
+      "example_kana": "かいごしとしてはたらく。"
+    },
+    {
+      "kanji": "福祉施設",
+      "kana": "ふくししせつ",
+      "meaning_en": "welfare facility",
+      "meaning_ja": "高齢者などを支える施設。",
+      "example_ja": "福祉施設に入所する。",
+      "example_en": "He enters a welfare facility.",
+      "example_kana": "ふくししせつににゅうしょする。"
+    },
+    {
+      "kanji": "老人ホーム",
+      "kana": "ろうじんほーむ",
+      "meaning_en": "nursing home",
+      "meaning_ja": "高齢者が暮らす施設。",
+      "example_ja": "老人ホームに入る。",
+      "example_en": "She enters a nursing home.",
+      "example_kana": "ろうじんほーむにはいる。"
+    },
+    {
+      "kanji": "障害者",
+      "kana": "しょうがいしゃ",
+      "meaning_en": "person with a disability",
+      "meaning_ja": "心身に障害のある人。",
+      "example_ja": "障害者を支援する。",
+      "example_en": "They support disabled people.",
+      "example_kana": "しょうがいしゃをしえんする。"
+    },
+    {
+      "kanji": "身障者",
+      "kana": "しんしょうしゃ",
+      "meaning_en": "physically disabled person",
+      "meaning_ja": "体に障害のある人。",
+      "example_ja": "身障者用の駐車場。",
+      "example_en": "Parking for the physically disabled.",
+      "example_kana": "しんしょうしゃようのちゅうしゃじょう。"
+    },
+    {
+      "kanji": "視覚障害",
+      "kana": "しかくしょうがい",
+      "meaning_en": "visual impairment",
+      "meaning_ja": "目が見えない、または見えにくいこと。",
+      "example_ja": "視覚障害を抱える。",
+      "example_en": "He has a visual impairment.",
+      "example_kana": "しかくしょうがいをかかえる。"
+    },
+    {
+      "kanji": "嗅覚",
+      "kana": "きゅうかく",
+      "meaning_en": "sense of smell",
+      "meaning_ja": "においを感じる感覚。",
+      "example_ja": "嗅覚が鋭い。",
+      "example_en": "He has a keen sense of smell.",
+      "example_kana": "きゅうかくがするどい。"
+    },
+    {
+      "kanji": "触覚",
+      "kana": "しょっかく",
+      "meaning_en": "sense of touch",
+      "meaning_ja": "触れて感じる感覚。",
+      "example_ja": "触覚が敏感だ。",
+      "example_en": "Her sense of touch is sensitive.",
+      "example_kana": "しょっかくがびんかんだ。"
+    },
+    {
+      "kanji": "視力",
+      "kana": "しりょく",
+      "meaning_en": "eyesight",
+      "meaning_ja": "目で見る力。",
+      "example_ja": "視力が落ちる。",
+      "example_en": "His eyesight declines.",
+      "example_kana": "しりょくがおちる。"
+    },
+    {
+      "kanji": "聴力",
+      "kana": "ちょうりょく",
+      "meaning_en": "hearing ability",
+      "meaning_ja": "音を聞き取る力。",
+      "example_ja": "聴力検査を受ける。",
+      "example_en": "He has a hearing test.",
+      "example_kana": "ちょうりょくけんさをうける。"
+    },
+    {
+      "kanji": "近視",
+      "kana": "きんし",
+      "meaning_en": "myopia; nearsightedness",
+      "meaning_ja": "近くしか見えない目。",
+      "example_ja": "近視で眼鏡をかける。",
+      "example_en": "He wears glasses for myopia.",
+      "example_kana": "きんしでめがねをかける。"
+    },
+    {
+      "kanji": "老眼",
+      "kana": "ろうがん",
+      "meaning_en": "presbyopia",
+      "meaning_ja": "加齢で近くが見えにくいこと。",
+      "example_ja": "老眼が進んだ。",
+      "example_en": "His presbyopia progressed.",
+      "example_kana": "ろうがんがすすんだ。"
+    },
+    {
+      "kanji": "白内障",
+      "kana": "はくないしょう",
+      "meaning_en": "cataracts",
+      "meaning_ja": "目のレンズが濁る病気。",
+      "example_ja": "白内障の手術を受ける。",
+      "example_en": "He has cataract surgery.",
+      "example_kana": "はくないしょうのしゅじゅつをうける。"
+    },
+    {
+      "kanji": "糖尿病",
+      "kana": "とうにょうびょう",
+      "meaning_en": "diabetes",
+      "meaning_ja": "血糖値が高くなる病気。",
+      "example_ja": "糖尿病を患う。",
+      "example_en": "He suffers from diabetes.",
+      "example_kana": "とうにょうびょうをわずらう。"
+    },
+    {
+      "kanji": "高血圧",
+      "kana": "こうけつあつ",
+      "meaning_en": "high blood pressure",
+      "meaning_ja": "血圧が高い状態。",
+      "example_ja": "高血圧を改善する。",
+      "example_en": "He improves his hypertension.",
+      "example_kana": "こうけつあつをかいぜんする。"
+    },
+    {
+      "kanji": "脳卒中",
+      "kana": "のうそっちゅう",
+      "meaning_en": "stroke",
+      "meaning_ja": "脳の血管が詰まる病気。",
+      "example_ja": "脳卒中で倒れた。",
+      "example_en": "He collapsed from a stroke.",
+      "example_kana": "のうそっちゅうでたおれた。"
+    },
+    {
+      "kanji": "癌",
+      "kana": "がん",
+      "meaning_en": "cancer",
+      "meaning_ja": "悪性の腫瘍。",
+      "example_ja": "癌と診断される。",
+      "example_en": "He is diagnosed with cancer.",
+      "example_kana": "がんとしんだんされる。"
+    },
+    {
+      "kanji": "腫瘍",
+      "kana": "しゅよう",
+      "meaning_en": "tumor",
+      "meaning_ja": "異常に増えた細胞の塊。",
+      "example_ja": "腫瘍を切除する。",
+      "example_en": "They remove the tumor.",
+      "example_kana": "しゅようをせつじょする。"
+    },
+    {
+      "kanji": "切除",
+      "kana": "せつじょ",
+      "meaning_en": "surgical removal",
+      "meaning_ja": "切って取り除くこと。",
+      "example_ja": "腫瘍を切除する。",
+      "example_en": "They excise the tumor.",
+      "example_kana": "しゅようをせつじょする。"
+    },
+    {
+      "kanji": "放射線",
+      "kana": "ほうしゃせん",
+      "meaning_en": "radiation",
+      "meaning_ja": "放射する光線や粒子。",
+      "example_ja": "放射線治療を受ける。",
+      "example_en": "He undergoes radiation therapy.",
+      "example_kana": "ほうしゃせんちりょうをうける。"
+    },
+    {
+      "kanji": "化学療法",
+      "kana": "かがくりょうほう",
+      "meaning_en": "chemotherapy",
+      "meaning_ja": "薬で癌などを治す療法。",
+      "example_ja": "化学療法を続ける。",
+      "example_en": "He continues chemotherapy.",
+      "example_kana": "かがくりょうほうをつづける。"
+    },
+    {
+      "kanji": "鎮痛剤",
+      "kana": "ちんつうざい",
+      "meaning_en": "painkiller",
+      "meaning_ja": "痛みを和らげる薬。",
+      "example_ja": "鎮痛剤を飲む。",
+      "example_en": "He takes a painkiller.",
+      "example_kana": "ちんつうざいをのむ。"
+    },
+    {
+      "kanji": "抗生剤",
+      "kana": "こうせいざい",
+      "meaning_en": "antibiotic",
+      "meaning_ja": "細菌を抑える薬。",
+      "example_ja": "抗生剤を処方する。",
+      "example_en": "They prescribe antibiotics.",
+      "example_kana": "こうせいざいをしょほうする。"
+    },
+    {
+      "kanji": "漢方",
+      "kana": "かんぽう",
+      "meaning_en": "Chinese herbal medicine",
+      "meaning_ja": "中国伝来の薬の方法。",
+      "example_ja": "漢方を試す。",
+      "example_en": "He tries Chinese herbal medicine.",
+      "example_kana": "かんぽうをためす。"
+    },
+    {
+      "kanji": "鍼灸",
+      "kana": "しんきゅう",
+      "meaning_en": "acupuncture and moxibustion",
+      "meaning_ja": "針とお灸の治療法。",
+      "example_ja": "鍼灸に通う。",
+      "example_en": "He goes to acupuncture.",
+      "example_kana": "しんきゅうにかよう。"
+    },
+    {
+      "kanji": "整体",
+      "kana": "せいたい",
+      "meaning_en": "chiropractic; body alignment",
+      "meaning_ja": "骨格や筋肉を整える施術。",
+      "example_ja": "整体で腰痛を治す。",
+      "example_en": "He treats back pain at a chiropractor.",
+      "example_kana": "せいたいでようつうをなおす。"
+    },
+    {
+      "kanji": "指圧",
+      "kana": "しあつ",
+      "meaning_en": "shiatsu massage",
+      "meaning_ja": "指で圧迫する治療。",
+      "example_ja": "指圧を受ける。",
+      "example_en": "He receives shiatsu.",
+      "example_kana": "しあつをうける。"
+    },
+    {
+      "kanji": "マッサージ",
+      "kana": "まっさーじ",
+      "meaning_en": "massage",
+      "meaning_ja": "体をもむ治療や行為。",
+      "example_ja": "マッサージで疲れを取る。",
+      "example_en": "He relieves fatigue with massage.",
+      "example_kana": "まっさーじでつかれをとる。"
+    },
+    {
+      "kanji": "湿布",
+      "kana": "しっぷ",
+      "meaning_en": "medicated patch; compress",
+      "meaning_ja": "患部に貼る薬。",
+      "example_ja": "肩に湿布を貼る。",
+      "example_en": "He applies a patch to his shoulder.",
+      "example_kana": "かたにしっぷをはる。"
+    },
+    {
+      "kanji": "包帯",
+      "kana": "ほうたい",
+      "meaning_en": "bandage",
+      "meaning_ja": "傷を保護する布。",
+      "example_ja": "包帯を巻く。",
+      "example_en": "She wraps a bandage.",
+      "example_kana": "ほうたいをまく。"
+    },
+    {
+      "kanji": "ガーゼ",
+      "kana": "がーぜ",
+      "meaning_en": "gauze",
+      "meaning_ja": "傷を覆う薄い布。",
+      "example_ja": "ガーゼで止血する。",
+      "example_en": "They stop bleeding with gauze.",
+      "example_kana": "がーぜでしけつする。"
+    },
+    {
+      "kanji": "絆創膏",
+      "kana": "ばんそうこう",
+      "meaning_en": "adhesive bandage",
+      "meaning_ja": "傷に貼る粘着シート。",
+      "example_ja": "絆創膏を貼る。",
+      "example_en": "He applies a bandage.",
+      "example_kana": "ばんそうこうをはる。"
+    },
+    {
+      "kanji": "松葉杖",
+      "kana": "まつばづえ",
+      "meaning_en": "crutch",
+      "meaning_ja": "歩行を助ける道具。",
+      "example_ja": "松葉杖を使う。",
+      "example_en": "He uses crutches.",
+      "example_kana": "まつばづえをつかう。"
+    },
+    {
+      "kanji": "車椅子",
+      "kana": "くるまいす",
+      "meaning_en": "wheelchair",
+      "meaning_ja": "足の不自由な人の乗り物。",
+      "example_ja": "車椅子で移動する。",
+      "example_en": "He moves by wheelchair.",
+      "example_kana": "くるまいすでいどうする。"
+    },
+    {
+      "kanji": "義手",
+      "kana": "ぎしゅ",
+      "meaning_en": "prosthetic arm",
+      "meaning_ja": "人工の腕。",
+      "example_ja": "義手を装着する。",
+      "example_en": "He attaches a prosthetic arm.",
+      "example_kana": "ぎしゅをそうちゃくする。"
+    },
+    {
+      "kanji": "義足",
+      "kana": "ぎそく",
+      "meaning_en": "prosthetic leg",
+      "meaning_ja": "人工の足。",
+      "example_ja": "義足で歩く。",
+      "example_en": "He walks with a prosthetic leg.",
+      "example_kana": "ぎそくであるく。"
+    },
+    {
+      "kanji": "補聴器",
+      "kana": "ほちょうき",
+      "meaning_en": "hearing aid",
+      "meaning_ja": "音を大きくする耳の道具。",
+      "example_ja": "補聴器を着ける。",
+      "example_en": "He wears a hearing aid.",
+      "example_kana": "ほちょうきをつける。"
+    },
+    {
+      "kanji": "眼鏡",
+      "kana": "めがね",
+      "meaning_en": "eyeglasses",
+      "meaning_ja": "視力を補う道具。",
+      "example_ja": "眼鏡をかける。",
+      "example_en": "He puts on glasses.",
+      "example_kana": "めがねをかける。"
+    },
+    {
+      "kanji": "コンタクト",
+      "kana": "こんたくと",
+      "meaning_en": "contact lens",
+      "meaning_ja": "目に入れる視力補助具。",
+      "example_ja": "コンタクトをつける。",
+      "example_en": "She puts in her contacts.",
+      "example_kana": "こんたくとをつける。"
+    },
+    {
+      "kanji": "睡眠",
+      "kana": "すいみん",
+      "meaning_en": "sleep",
+      "meaning_ja": "眠ること。",
+      "example_ja": "睡眠が足りない。",
+      "example_en": "He doesn't get enough sleep.",
+      "example_kana": "すいみんがたりない。"
+    },
+    {
+      "kanji": "不眠",
+      "kana": "ふみん",
+      "meaning_en": "insomnia",
+      "meaning_ja": "眠れないこと。",
+      "example_ja": "不眠に悩む。",
+      "example_en": "She suffers from insomnia.",
+      "example_kana": "ふみんになやむ。"
+    },
+    {
+      "kanji": "安眠",
+      "kana": "あんみん",
+      "meaning_en": "sound sleep",
+      "meaning_ja": "よく眠ること。",
+      "example_ja": "安眠を妨げる。",
+      "example_en": "It disturbs sound sleep.",
+      "example_kana": "あんみんをさまたげる。"
+    },
+    {
+      "kanji": "目覚まし",
+      "kana": "めざまし",
+      "meaning_en": "alarm; wake-up",
+      "meaning_ja": "眠りから起こすこと。",
+      "example_ja": "目覚ましをかける。",
+      "example_en": "She sets the alarm.",
+      "example_kana": "めざましをかける。"
+    },
+    {
+      "kanji": "摂取",
+      "kana": "せっしゅ",
+      "meaning_en": "intake; ingestion",
+      "meaning_ja": "取り入れて体に入れること。",
+      "example_ja": "栄養を摂取する。",
+      "example_en": "He takes in nutrients.",
+      "example_kana": "えいようをせっしゅする。"
+    },
+    {
+      "kanji": "栄養",
+      "kana": "えいよう",
+      "meaning_en": "nutrition",
+      "meaning_ja": "体に必要な養分。",
+      "example_ja": "栄養が偏る。",
+      "example_en": "His nutrition is unbalanced.",
+      "example_kana": "えいようがかたよる。"
+    },
+    {
+      "kanji": "偏食",
+      "kana": "へんしょく",
+      "meaning_en": "unbalanced diet",
+      "meaning_ja": "食べ物の好き嫌いが激しいこと。",
+      "example_ja": "偏食を直す。",
+      "example_en": "He fixes his picky eating.",
+      "example_kana": "へんしょくをなおす。"
+    },
+    {
+      "kanji": "過食",
+      "kana": "かしょく",
+      "meaning_en": "overeating",
+      "meaning_ja": "食べ過ぎること。",
+      "example_ja": "過食症を治す。",
+      "example_en": "She overcomes binge eating.",
+      "example_kana": "かしょくしょうをなおす。"
+    },
+    {
+      "kanji": "拒食",
+      "kana": "きょしょく",
+      "meaning_en": "refusal to eat; anorexia",
+      "meaning_ja": "食事を拒むこと。",
+      "example_ja": "拒食症に苦しむ。",
+      "example_en": "She suffers from anorexia.",
+      "example_kana": "きょしょくしょうにくるしむ。"
+    },
+    {
+      "kanji": "肥満",
+      "kana": "ひまん",
+      "meaning_en": "obesity",
+      "meaning_ja": "体が太り過ぎていること。",
+      "example_ja": "肥満を解消する。",
+      "example_en": "He overcomes obesity.",
+      "example_kana": "ひまんをかいしょうする。"
+    },
+    {
+      "kanji": "痩身",
+      "kana": "そうしん",
+      "meaning_en": "slim body; slimming",
+      "meaning_ja": "やせていること、やせること。",
+      "example_ja": "痩身を目指す。",
+      "example_en": "She aims for a slim body.",
+      "example_kana": "そうしんをめざす。"
+    },
+    {
+      "kanji": "代謝",
+      "kana": "たいしゃ",
+      "meaning_en": "metabolism",
+      "meaning_ja": "体内で物質を変える働き。",
+      "example_ja": "代謝が落ちる。",
+      "example_en": "His metabolism slows.",
+      "example_kana": "たいしゃがおちる。"
+    },
+    {
+      "kanji": "消化",
+      "kana": "しょうか",
+      "meaning_en": "digestion",
+      "meaning_ja": "食物を体内で分解すること。",
+      "example_ja": "消化が悪い。",
+      "example_en": "His digestion is poor.",
+      "example_kana": "しょうかがわるい。"
+    },
+    {
+      "kanji": "排泄",
+      "kana": "はいせつ",
+      "meaning_en": "excretion",
+      "meaning_ja": "不要物を体外に出すこと。",
+      "example_ja": "排泄を促す。",
+      "example_en": "It promotes excretion.",
+      "example_kana": "はいせつをうながす。"
+    },
+    {
+      "kanji": "嘔吐",
+      "kana": "おうと",
+      "meaning_en": "vomiting",
+      "meaning_ja": "胃の物を吐くこと。",
+      "example_ja": "嘔吐を繰り返す。",
+      "example_en": "He repeatedly vomits.",
+      "example_kana": "おうとをくりかえす。"
+    },
+    {
+      "kanji": "便秘",
+      "kana": "べんぴ",
+      "meaning_en": "constipation",
+      "meaning_ja": "便が出にくいこと。",
+      "example_ja": "便秘に悩む。",
+      "example_en": "She suffers constipation.",
+      "example_kana": "べんぴになやむ。"
+    },
+    {
+      "kanji": "喘息",
+      "kana": "ぜんそく",
+      "meaning_en": "asthma",
+      "meaning_ja": "呼吸が苦しくなる病気。",
+      "example_ja": "喘息の発作が出る。",
+      "example_en": "He has an asthma attack.",
+      "example_kana": "ぜんそくのほっさがでる。"
+    },
+    {
+      "kanji": "花粉症",
+      "kana": "かふんしょう",
+      "meaning_en": "hay fever",
+      "meaning_ja": "花粉によるアレルギー。",
+      "example_ja": "花粉症がつらい。",
+      "example_en": "My hay fever is tough.",
+      "example_kana": "かふんしょうがつらい。"
+    },
+    {
+      "kanji": "アレルギー",
+      "kana": "あれるぎー",
+      "meaning_en": "allergy",
+      "meaning_ja": "特定の物に過敏に反応する症状。",
+      "example_ja": "卵にアレルギーがある。",
+      "example_en": "He is allergic to eggs.",
+      "example_kana": "たまごにあれるぎーがある。"
+    },
+    {
+      "kanji": "鼻炎",
+      "kana": "びえん",
+      "meaning_en": "rhinitis",
+      "meaning_ja": "鼻の粘膜の炎症。",
+      "example_ja": "鼻炎の薬を飲む。",
+      "example_en": "He takes rhinitis medicine.",
+      "example_kana": "びえんのくすりをのむ。"
+    },
+    {
+      "kanji": "頭痛",
+      "kana": "ずつう",
+      "meaning_en": "headache",
+      "meaning_ja": "頭が痛むこと。",
+      "example_ja": "激しい頭痛がする。",
+      "example_en": "He has a severe headache.",
+      "example_kana": "はげしいずつうがする。"
+    },
+    {
+      "kanji": "腹痛",
+      "kana": "ふくつう",
+      "meaning_en": "stomachache",
+      "meaning_ja": "腹が痛むこと。",
+      "example_ja": "腹痛で休む。",
+      "example_en": "He rests from a stomachache.",
+      "example_kana": "ふくつうでやすむ。"
+    },
+    {
+      "kanji": "腰痛",
+      "kana": "ようつう",
+      "meaning_en": "lower back pain",
+      "meaning_ja": "腰の痛み。",
+      "example_ja": "腰痛が悪化する。",
+      "example_en": "His back pain worsens.",
+      "example_kana": "ようつうがあっかする。"
+    },
+    {
+      "kanji": "肩凝り",
+      "kana": "かたこり",
+      "meaning_en": "stiff shoulders",
+      "meaning_ja": "肩の筋肉が張ること。",
+      "example_ja": "肩凝りがひどい。",
+      "example_en": "My shoulders are very stiff.",
+      "example_kana": "かたこりがひどい。"
+    },
+    {
+      "kanji": "目眩",
+      "kana": "めまい",
+      "meaning_en": "dizziness",
+      "meaning_ja": "頭がふらつくこと。",
+      "example_ja": "急に目眩がした。",
+      "example_en": "He felt sudden dizziness.",
+      "example_kana": "きゅうにめまいがした。"
+    },
+    {
+      "kanji": "吐き気",
+      "kana": "はきけ",
+      "meaning_en": "nausea",
+      "meaning_ja": "吐きそうな感じ。",
+      "example_ja": "吐き気を催す。",
+      "example_en": "He feels nauseous.",
+      "example_kana": "はきけをもよおす。"
+    },
+    {
+      "kanji": "悪寒",
+      "kana": "おかん",
+      "meaning_en": "chills",
+      "meaning_ja": "寒気のする不快感。",
+      "example_ja": "悪寒が走る。",
+      "example_en": "He feels a chill.",
+      "example_kana": "おかんがはしる。"
+    },
+    {
+      "kanji": "風邪",
+      "kana": "かぜ",
+      "meaning_en": "cold (illness)",
+      "meaning_ja": "喉や鼻にかかる軽い病。",
+      "example_ja": "風邪をひいた。",
+      "example_en": "I caught a cold.",
+      "example_kana": "かぜをひいた。"
+    },
+    {
+      "kanji": "咳",
+      "kana": "せき",
+      "meaning_en": "cough",
+      "meaning_ja": "喉から強く息を出すこと。",
+      "example_ja": "咳が止まらない。",
+      "example_en": "His cough won't stop.",
+      "example_kana": "せきがとまらない。"
+    },
+    {
+      "kanji": "くしゃみ",
+      "kana": "くしゃみ",
+      "meaning_en": "sneeze",
+      "meaning_ja": "鼻から強く息を出すこと。",
+      "example_ja": "くしゃみが出る。",
+      "example_en": "He sneezes.",
+      "example_kana": "くしゃみがでる。"
+    },
+    {
+      "kanji": "鼻水",
+      "kana": "はなみず",
+      "meaning_en": "runny nose",
+      "meaning_ja": "鼻から出る液体。",
+      "example_ja": "鼻水が止まらない。",
+      "example_en": "His runny nose persists.",
+      "example_kana": "はなみずがとまらない。"
+    },
+    {
+      "kanji": "鼻血",
+      "kana": "はなぢ",
+      "meaning_en": "nosebleed",
+      "meaning_ja": "鼻から出る血。",
+      "example_ja": "鼻血を出す。",
+      "example_en": "He gets a nosebleed.",
+      "example_kana": "はなぢをだす。"
+    },
+    {
+      "kanji": "うつ病",
+      "kana": "うつびょう",
+      "meaning_en": "depression (illness)",
+      "meaning_ja": "気分が落ち込む病気。",
+      "example_ja": "うつ病と診断される。",
+      "example_en": "He is diagnosed with depression.",
+      "example_kana": "うつびょうとしんだんされる。"
+    },
+    {
+      "kanji": "不安",
+      "kana": "ふあん",
+      "meaning_en": "anxiety; unease",
+      "meaning_ja": "心配して落ち着かないこと。",
+      "example_ja": "不安に駆られる。",
+      "example_en": "He is seized by anxiety.",
+      "example_kana": "ふあんにかられる。"
+    },
+    {
+      "kanji": "不眠症",
+      "kana": "ふみんしょう",
+      "meaning_en": "insomnia (illness)",
+      "meaning_ja": "眠れない症状の病気。",
+      "example_ja": "不眠症を治す。",
+      "example_en": "He overcomes insomnia.",
+      "example_kana": "ふみんしょうをなおす。"
+    },
+    {
+      "kanji": "心療内科",
+      "kana": "しんりょうないか",
+      "meaning_en": "psychosomatic medicine",
+      "meaning_ja": "心と体の不調を診る科。",
+      "example_ja": "心療内科を訪れる。",
+      "example_en": "He visits the psychosomatic clinic.",
+      "example_kana": "しんりょうないかをおとずれる。"
+    },
+    {
+      "kanji": "カウンセリング",
+      "kana": "かうんせりんぐ",
+      "meaning_en": "counseling",
+      "meaning_ja": "相談して心を整えること。",
+      "example_ja": "カウンセリングを受ける。",
+      "example_en": "He receives counseling.",
+      "example_kana": "かうんせりんぐをうける。"
+    },
+    {
+      "kanji": "自閉症",
+      "kana": "じへいしょう",
+      "meaning_en": "autism",
+      "meaning_ja": "発達障害の一種。",
+      "example_ja": "自閉症の子を支援する。",
+      "example_en": "They support autistic children.",
+      "example_kana": "じへいしょうのこをしえんする。"
+    },
+    {
+      "kanji": "発達障害",
+      "kana": "はったつしょうがい",
+      "meaning_en": "developmental disorder",
+      "meaning_ja": "脳の発達による特性。",
+      "example_ja": "発達障害を理解する。",
+      "example_en": "They understand developmental disorders.",
+      "example_kana": "はったつしょうがいをりかいする。"
+    },
+    {
+      "kanji": "育児",
+      "kana": "いくじ",
+      "meaning_en": "child-rearing",
+      "meaning_ja": "子供を育てること。",
+      "example_ja": "育児に励む。",
+      "example_en": "She devotes herself to child-rearing.",
+      "example_kana": "いくじにはげむ。"
+    },
+    {
+      "kanji": "流産",
+      "kana": "りゅうざん",
+      "meaning_en": "miscarriage",
+      "meaning_ja": "妊娠が途中で終わること。",
+      "example_ja": "流産の経験がある。",
+      "example_en": "She has experienced a miscarriage.",
+      "example_kana": "りゅうざんのけいけんがある。"
+    },
+    {
+      "kanji": "早産",
+      "kana": "そうざん",
+      "meaning_en": "premature birth",
+      "meaning_ja": "予定より早く産むこと。",
+      "example_ja": "早産の危険がある。",
+      "example_en": "There is risk of premature birth.",
+      "example_kana": "そうざんのきけんがある。"
+    },
+    {
+      "kanji": "分娩",
+      "kana": "ぶんべん",
+      "meaning_en": "delivery (childbirth)",
+      "meaning_ja": "子供が産まれる過程。",
+      "example_ja": "分娩室に入る。",
+      "example_en": "She enters the delivery room.",
+      "example_kana": "ぶんべんしつにはいる。"
+    },
+    {
+      "kanji": "助産師",
+      "kana": "じょさんし",
+      "meaning_en": "midwife",
+      "meaning_ja": "出産を介助する専門家。",
+      "example_ja": "助産師に相談する。",
+      "example_en": "She consults a midwife.",
+      "example_kana": "じょさんしにそうだんする。"
+    },
+    {
+      "kanji": "乳児",
+      "kana": "にゅうじ",
+      "meaning_en": "infant",
+      "meaning_ja": "生後一年未満の子。",
+      "example_ja": "乳児を抱く。",
+      "example_en": "She holds the infant.",
+      "example_kana": "にゅうじをだく。"
+    },
+    {
+      "kanji": "幼児",
+      "kana": "ようじ",
+      "meaning_en": "young child",
+      "meaning_ja": "幼い子供。",
+      "example_ja": "幼児を見守る。",
+      "example_en": "They watch over the toddler.",
+      "example_kana": "ようじをみまもる。"
+    },
+    {
+      "kanji": "思春期",
+      "kana": "ししゅんき",
+      "meaning_en": "puberty",
+      "meaning_ja": "子供から大人になる時期。",
+      "example_ja": "思春期を迎える。",
+      "example_en": "She enters puberty.",
+      "example_kana": "ししゅんきをむかえる。"
+    },
+    {
+      "kanji": "更年期",
+      "kana": "こうねんき",
+      "meaning_en": "menopause",
+      "meaning_ja": "中年期の体の変化期。",
+      "example_ja": "更年期の症状が出る。",
+      "example_en": "She has menopausal symptoms.",
+      "example_kana": "こうねんきのしょうじょうがでる。"
+    },
+    {
+      "kanji": "生理",
+      "kana": "せいり",
+      "meaning_en": "menstruation; physiology",
+      "meaning_ja": "月経。または体の働き。",
+      "example_ja": "生理痛がひどい。",
+      "example_en": "Her period cramps are bad.",
+      "example_kana": "せいりつうがひどい。"
+    },
+    {
+      "kanji": "妊婦",
+      "kana": "にんぷ",
+      "meaning_en": "pregnant woman",
+      "meaning_ja": "妊娠している女性。",
+      "example_ja": "妊婦を労る。",
+      "example_en": "He cares for the pregnant woman.",
+      "example_kana": "にんぷをいたわる。"
+    },
+    {
+      "kanji": "育休",
+      "kana": "いくきゅう",
+      "meaning_en": "childcare leave",
+      "meaning_ja": "育児のための休み。",
+      "example_ja": "育休を取得する。",
+      "example_en": "He takes childcare leave.",
+      "example_kana": "いくきゅうをしゅとくする。"
+    },
+    {
+      "kanji": "看護休暇",
+      "kana": "かんごきゅうか",
+      "meaning_en": "nursing care leave",
+      "meaning_ja": "看護のための休暇。",
+      "example_ja": "看護休暇を申請する。",
+      "example_en": "He applies for nursing leave.",
+      "example_kana": "かんごきゅうかをしんせいする。"
+    },
+    {
+      "kanji": "献身",
+      "kana": "けんしん",
+      "meaning_en": "devotion; dedication",
+      "meaning_ja": "自分を犠牲にして尽くすこと。",
+      "example_ja": "献身的に看病する。",
+      "example_en": "She devotedly cares for him.",
+      "example_kana": "けんしんてきにかんびょうする。"
+    },
+    {
+      "kanji": "ボランティア",
+      "kana": "ぼらんてぃあ",
+      "meaning_en": "volunteer",
+      "meaning_ja": "無償で奉仕する人。",
+      "example_ja": "ボランティアに参加する。",
+      "example_en": "He joins volunteer work.",
+      "example_kana": "ぼらんてぃあにさんかする。"
+    },
+    {
+      "kanji": "支援",
+      "kana": "しえん",
+      "meaning_en": "support; assistance",
+      "meaning_ja": "力を貸して助けること。",
+      "example_ja": "高齢者を支援する。",
+      "example_en": "They support the elderly.",
+      "example_kana": "こうれいしゃをしえんする。"
+    },
+    {
+      "kanji": "医療制度",
+      "kana": "いりょうせいど",
+      "meaning_en": "medical system",
+      "meaning_ja": "医療の仕組み。",
+      "example_ja": "医療制度を改革する。",
+      "example_en": "They reform the medical system.",
+      "example_kana": "いりょうせいどをかいかくする。"
+    },
+    {
+      "kanji": "健診",
+      "kana": "けんしん",
+      "meaning_en": "health checkup",
+      "meaning_ja": "健康状態を調べること。",
+      "example_ja": "健診で異常が出る。",
+      "example_en": "An abnormality shows in the checkup.",
+      "example_kana": "けんしんでいじょうがでる。"
+    },
+    {
+      "kanji": "由緒",
+      "kana": "ゆいしょ",
+      "meaning_en": "history, origin, lineage",
+      "meaning_ja": "古くからの言い伝えや家柄。",
+      "example_ja": "由緒ある寺を訪ねた。",
+      "example_en": "I visited a temple with a long history.",
+      "example_kana": "ゆいしょあるてらをたずねた。"
+    },
+    {
+      "kanji": "由来",
+      "kana": "ゆらい",
+      "meaning_en": "origin, derivation",
+      "meaning_ja": "物事の起こりや起源。",
+      "example_ja": "この祭りの由来を調べた。",
+      "example_en": "I researched the origin of this festival.",
+      "example_kana": "このまつりのゆらいをしらべた。"
+    },
+    {
+      "kanji": "伝承",
+      "kana": "でんしょう",
+      "meaning_en": "folklore, transmission",
+      "meaning_ja": "古くから語り継がれてきた事柄。",
+      "example_ja": "村に古い伝承が残っている。",
+      "example_en": "An old folklore remains in the village.",
+      "example_kana": "むらにふるいでんしょうがのこっている。"
+    },
+    {
+      "kanji": "沿革",
+      "kana": "えんかく",
+      "meaning_en": "history, development",
+      "meaning_ja": "物事の移り変わりの歴史。",
+      "example_ja": "校史の沿革を紐解いた。",
+      "example_en": "I traced the school's history.",
+      "example_kana": "こうしのえんかくをひもといた。"
+    },
+    {
+      "kanji": "興隆",
+      "kana": "こうりゅう",
+      "meaning_en": "rise, prosperity",
+      "meaning_ja": "勢いが盛んになること。",
+      "example_ja": "仏教の興隆を学んだ。",
+      "example_en": "I studied the rise of Buddhism.",
+      "example_kana": "ぶっきょうのこうりゅうをまなんだ。"
+    },
+    {
+      "kanji": "隆盛",
+      "kana": "りゅうせい",
+      "meaning_en": "prosperity, flourishing",
+      "meaning_ja": "勢いの盛んな状態。",
+      "example_ja": "文化の隆盛を極めた時代。",
+      "example_en": "An era when culture reached its peak.",
+      "example_kana": "ぶんかのりゅうせいをきわめたじだい。"
+    },
+    {
+      "kanji": "衰退",
+      "kana": "すいたい",
+      "meaning_en": "decline, deterioration",
+      "meaning_ja": "勢いが弱くなること。",
+      "example_ja": "伝統工芸が衰退している。",
+      "example_en": "Traditional crafts are declining.",
+      "example_kana": "でんとうこうげいがすいたいしている。"
+    },
+    {
+      "kanji": "廃れる",
+      "kana": "すたれる",
+      "meaning_en": "to fall into disuse, decline",
+      "meaning_ja": "盛んだったものが衰えること。",
+      "example_ja": "古い風習が廃れていく。",
+      "example_en": "Old customs are dying out.",
+      "example_kana": "ふるいふうしゅうがすたれていく。"
+    },
+    {
+      "kanji": "風物",
+      "kana": "ふうぶつ",
+      "meaning_en": "scenery, features of a season",
+      "meaning_ja": "その季節や土地らしいもの。",
+      "example_ja": "夏の風物詩を楽しむ。",
+      "example_en": "I enjoy the features of summer.",
+      "example_kana": "なつのふうぶつしをたのしむ。"
+    },
+    {
+      "kanji": "風潮",
+      "kana": "ふうちょう",
+      "meaning_en": "trend, tendency",
+      "meaning_ja": "時代の流れや傾向。",
+      "example_ja": "世の風潮に流される。",
+      "example_en": "I'm swept along by societal trends.",
+      "example_kana": "よのふうちょうにながされる。"
+    },
+    {
+      "kanji": "儀式",
+      "kana": "ぎしき",
+      "meaning_en": "ceremony, ritual",
+      "meaning_ja": "決まった作法で行う式。",
+      "example_ja": "厳粛な儀式が始まった。",
+      "example_en": "The solemn ceremony began.",
+      "example_kana": "げんしゅくなぎしきがはじまった。"
+    },
+    {
+      "kanji": "儀礼",
+      "kana": "ぎれい",
+      "meaning_en": "etiquette, courtesy",
+      "meaning_ja": "礼儀として行う形式。",
+      "example_ja": "外交儀礼を重んじる。",
+      "example_en": "We value diplomatic etiquette.",
+      "example_kana": "がいこうぎれいをおもんじる。"
+    },
+    {
+      "kanji": "礼節",
+      "kana": "れいせつ",
+      "meaning_en": "decorum, propriety",
+      "meaning_ja": "礼儀と節度。",
+      "example_ja": "礼節を弁えた人だ。",
+      "example_en": "He is a person of decorum.",
+      "example_kana": "れいせつをわきまえたひとだ。"
+    },
+    {
+      "kanji": "作法",
+      "kana": "さほう",
+      "meaning_en": "manners, etiquette",
+      "meaning_ja": "決まりに従った振る舞い方。",
+      "example_ja": "食事の作法を学ぶ。",
+      "example_en": "I learn dining etiquette.",
+      "example_kana": "しょくじのさほうをまなぶ。"
+    },
+    {
+      "kanji": "礼讃",
+      "kana": "らいさん",
+      "meaning_en": "praise, glorification",
+      "meaning_ja": "ほめたたえること。",
+      "example_ja": "古典美を礼讃する。",
+      "example_en": "He praises classical beauty.",
+      "example_kana": "こてんびをらいさんする。"
+    },
+    {
+      "kanji": "謁見",
+      "kana": "えっけん",
+      "meaning_en": "audience with royalty",
+      "meaning_ja": "身分の高い人に会うこと。",
+      "example_ja": "国王に謁見を許された。",
+      "example_en": "I was granted an audience with the king.",
+      "example_kana": "こくおうにえっけんをゆるされた。"
+    },
+    {
+      "kanji": "拝謁",
+      "kana": "はいえつ",
+      "meaning_en": "humble audience",
+      "meaning_ja": "貴人に会うことの謙譲語。",
+      "example_ja": "陛下に拝謁した。",
+      "example_en": "I had an audience with His Majesty.",
+      "example_kana": "へいかにはいえつした。"
+    },
+    {
+      "kanji": "参詣",
+      "kana": "さんけい",
+      "meaning_en": "visit to a shrine or temple",
+      "meaning_ja": "寺社にお参りすること。",
+      "example_ja": "正月に神社へ参詣する。",
+      "example_en": "I visit the shrine at New Year.",
+      "example_kana": "しょうがつにじんじゃへさんけいする。"
+    },
+    {
+      "kanji": "参拝",
+      "kana": "さんぱい",
+      "meaning_en": "worship visit",
+      "meaning_ja": "神仏に拝みに行くこと。",
+      "example_ja": "祖霊に参拝する。",
+      "example_en": "I pay respects to the ancestors.",
+      "example_kana": "それいにさんぱいする。"
+    },
+    {
+      "kanji": "祭祀",
+      "kana": "さいし",
+      "meaning_en": "religious rites",
+      "meaning_ja": "神や祖先をまつる行事。",
+      "example_ja": "古代の祭祀を再現する。",
+      "example_en": "We reenact ancient rites.",
+      "example_kana": "こだいのさいしをさいげんする。"
+    },
+    {
+      "kanji": "祭礼",
+      "kana": "さいれい",
+      "meaning_en": "festival, religious ceremony",
+      "meaning_ja": "神社の祭りの儀式。",
+      "example_ja": "盛大な祭礼が行われた。",
+      "example_en": "A grand festival was held.",
+      "example_kana": "せいだいなさいれいがおこなわれた。"
+    },
+    {
+      "kanji": "祝祭",
+      "kana": "しゅくさい",
+      "meaning_en": "celebration, festival",
+      "meaning_ja": "祝いと祭り。",
+      "example_ja": "村の祝祭に参加した。",
+      "example_en": "I joined the village celebration.",
+      "example_kana": "むらのしゅくさいにさんかした。"
+    },
+    {
+      "kanji": "祝言",
+      "kana": "しゅうげん",
+      "meaning_en": "wedding ceremony",
+      "meaning_ja": "結婚式の古い言い方。",
+      "example_ja": "二人は祝言を挙げた。",
+      "example_en": "The two held a wedding ceremony.",
+      "example_kana": "ふたりはしゅうげんをあげた。"
+    },
+    {
+      "kanji": "婚礼",
+      "kana": "こんれい",
+      "meaning_en": "wedding ceremony",
+      "meaning_ja": "結婚の儀式。",
+      "example_ja": "婚礼の支度に追われる。",
+      "example_en": "I'm busy preparing for the wedding.",
+      "example_kana": "こんれいのしたくにおわれる。"
+    },
+    {
+      "kanji": "葬儀",
+      "kana": "そうぎ",
+      "meaning_en": "funeral",
+      "meaning_ja": "故人を弔う儀式。",
+      "example_ja": "葬儀を静かに執り行う。",
+      "example_en": "We hold the funeral quietly.",
+      "example_kana": "そうぎをしずかにとりおこなう。"
+    },
+    {
+      "kanji": "葬列",
+      "kana": "そうれつ",
+      "meaning_en": "funeral procession",
+      "meaning_ja": "葬式の行列。",
+      "example_ja": "葬列が町を進む。",
+      "example_en": "The funeral procession moves through town.",
+      "example_kana": "そうれつがまちをすすむ。"
+    },
+    {
+      "kanji": "弔辞",
+      "kana": "ちょうじ",
+      "meaning_en": "memorial address, eulogy",
+      "meaning_ja": "故人を悼む言葉。",
+      "example_ja": "弔辞を読み上げた。",
+      "example_en": "He read the eulogy.",
+      "example_kana": "ちょうじをよみあげた。"
+    },
+    {
+      "kanji": "弔問",
+      "kana": "ちょうもん",
+      "meaning_en": "condolence call",
+      "meaning_ja": "遺族をたずねて悔やみを述べること。",
+      "example_ja": "丁重に弔問した。",
+      "example_en": "He paid a respectful condolence call.",
+      "example_kana": "ていちょうにちょうもんした。"
+    },
+    {
+      "kanji": "供養",
+      "kana": "くよう",
+      "meaning_en": "memorial service",
+      "meaning_ja": "故人や仏に供え物をして祈ること。",
+      "example_ja": "先祖の供養を行う。",
+      "example_en": "We hold a memorial for our ancestors.",
+      "example_kana": "せんぞのくようをおこなう。"
+    },
+    {
+      "kanji": "法要",
+      "kana": "ほうよう",
+      "meaning_en": "Buddhist memorial service",
+      "meaning_ja": "故人をしのぶ仏教の儀式。",
+      "example_ja": "祖父の法要に参列する。",
+      "example_en": "I attend my grandfather's memorial.",
+      "example_kana": "そふのほうようにさんれつする。"
+    },
+    {
+      "kanji": "焼香",
+      "kana": "しょうこう",
+      "meaning_en": "burning incense",
+      "meaning_ja": "仏前で香をたくこと。",
+      "example_ja": "順に焼香を行う。",
+      "example_en": "We burn incense in turn.",
+      "example_kana": "じゅんにしょうこうをおこなう。"
+    },
+    {
+      "kanji": "戒名",
+      "kana": "かいみょう",
+      "meaning_en": "posthumous Buddhist name",
+      "meaning_ja": "死後に与えられる仏教名。",
+      "example_ja": "戒名を授かった。",
+      "example_en": "He was given a posthumous name.",
+      "example_kana": "かいみょうをさずかった。"
+    },
+    {
+      "kanji": "得度",
+      "kana": "とくど",
+      "meaning_en": "taking Buddhist vows",
+      "meaning_ja": "出家して僧になること。",
+      "example_ja": "若くして得度した。",
+      "example_en": "He took Buddhist vows in his youth.",
+      "example_kana": "わかくしてとくどした。"
+    },
+    {
+      "kanji": "鍛錬",
+      "kana": "たんれん",
+      "meaning_en": "discipline, training",
+      "meaning_ja": "心身を強くきたえること。",
+      "example_ja": "日々の鍛錬を欠かさない。",
+      "example_en": "He never skips daily training.",
+      "example_kana": "ひびのたんれんをかかさない。"
+    },
+    {
+      "kanji": "錬磨",
+      "kana": "れんま",
+      "meaning_en": "training, polishing skills",
+      "meaning_ja": "技や精神を磨くこと。",
+      "example_ja": "技を錬磨する。",
+      "example_en": "He polishes his skills.",
+      "example_kana": "わざをれんまする。"
+    },
+    {
+      "kanji": "研鑽",
+      "kana": "けんさん",
+      "meaning_en": "diligent study",
+      "meaning_ja": "学問や技を深めること。",
+      "example_ja": "研鑽を積んだ職人だ。",
+      "example_en": "He is a craftsman of deep study.",
+      "example_kana": "けんさんをつんだしょくにんだ。"
+    },
+    {
+      "kanji": "切磋琢磨",
+      "kana": "せっさたくま",
+      "meaning_en": "mutual improvement",
+      "meaning_ja": "仲間と互いに励まし合うこと。",
+      "example_ja": "学友と切磋琢磨する。",
+      "example_en": "I improve alongside classmates.",
+      "example_kana": "がくゆうとせっさたくまする。"
+    },
+    {
+      "kanji": "養成",
+      "kana": "ようせい",
+      "meaning_en": "training, cultivation",
+      "meaning_ja": "教え育てること。",
+      "example_ja": "後継者の養成に励む。",
+      "example_en": "He works on training successors.",
+      "example_kana": "こうけいしゃのようせいにはげむ。"
+    },
+    {
+      "kanji": "教化",
+      "kana": "きょうか",
+      "meaning_en": "education, edification",
+      "meaning_ja": "教えて感化すること。",
+      "example_ja": "民衆を教化する。",
+      "example_en": "They educate the populace.",
+      "example_kana": "みんしゅうをきょうかする。"
+    },
+    {
+      "kanji": "啓示",
+      "kana": "けいじ",
+      "meaning_en": "revelation",
+      "meaning_ja": "神が真理を示すこと。",
+      "example_ja": "神の啓示を受けた。",
+      "example_en": "He received a divine revelation.",
+      "example_kana": "かみのけいじをうけた。"
+    },
+    {
+      "kanji": "継承",
+      "kana": "けいしょう",
+      "meaning_en": "succession, inheritance",
+      "meaning_ja": "受け継ぐこと。",
+      "example_ja": "伝統を継承する。",
+      "example_en": "We carry on the tradition.",
+      "example_kana": "でんとうをけいしょうする。"
+    },
+    {
+      "kanji": "家系",
+      "kana": "かけい",
+      "meaning_en": "family lineage",
+      "meaning_ja": "家のつながりの系統。",
+      "example_ja": "古い家系の出身だ。",
+      "example_en": "He's from an old lineage.",
+      "example_kana": "ふるいかけいのしゅっしんだ。"
+    },
+    {
+      "kanji": "系譜",
+      "kana": "けいふ",
+      "meaning_en": "genealogy, lineage",
+      "meaning_ja": "血筋の流れの記録。",
+      "example_ja": "学派の系譜をたどる。",
+      "example_en": "I trace the school's lineage.",
+      "example_kana": "がくはのけいふをたどる。"
+    },
+    {
+      "kanji": "血筋",
+      "kana": "ちすじ",
+      "meaning_en": "lineage, blood",
+      "meaning_ja": "血のつながり。",
+      "example_ja": "武家の血筋を引く。",
+      "example_en": "He has samurai blood.",
+      "example_kana": "ぶけのちすじをひく。"
+    },
+    {
+      "kanji": "縁戚",
+      "kana": "えんせき",
+      "meaning_en": "relatives by marriage",
+      "meaning_ja": "親類関係にある人。",
+      "example_ja": "遠い縁戚に当たる。",
+      "example_en": "He is a distant relative.",
+      "example_kana": "とおいえんせきにあたる。"
+    },
+    {
+      "kanji": "親戚",
+      "kana": "しんせき",
+      "meaning_en": "relatives",
+      "meaning_ja": "血や婚姻でつながる人。",
+      "example_ja": "親戚が一堂に会する。",
+      "example_en": "All the relatives gather.",
+      "example_kana": "しんせきがいちどうにかいする。"
+    },
+    {
+      "kanji": "本家",
+      "kana": "ほんけ",
+      "meaning_en": "head family",
+      "meaning_ja": "一族の中心となる家。",
+      "example_ja": "本家に挨拶へ伺う。",
+      "example_en": "I'll greet the head family.",
+      "example_kana": "ほんけにあいさつへうかがう。"
+    },
+    {
+      "kanji": "分家",
+      "kana": "ぶんけ",
+      "meaning_en": "branch family",
+      "meaning_ja": "本家から分かれた家。",
+      "example_ja": "分家を立てて独立した。",
+      "example_en": "He founded a branch family and became independent.",
+      "example_kana": "ぶんけをたててどくりつした。"
+    },
+    {
+      "kanji": "嫁ぐ",
+      "kana": "とつぐ",
+      "meaning_en": "to marry into a family",
+      "meaning_ja": "嫁として相手の家に入ること。",
+      "example_ja": "遠い土地に嫁いだ。",
+      "example_en": "She married into a distant land.",
+      "example_kana": "とおいとちにとついだ。"
+    },
+    {
+      "kanji": "結納",
+      "kana": "ゆいのう",
+      "meaning_en": "engagement gift exchange",
+      "meaning_ja": "婚約の品を交わす儀式。",
+      "example_ja": "結納の品を整えた。",
+      "example_en": "We prepared the engagement gifts.",
+      "example_kana": "ゆいのうのしなをととのえた。"
+    },
+    {
+      "kanji": "祝言の場",
+      "kana": "しゅうげんのば",
+      "meaning_en": "wedding venue",
+      "meaning_ja": "結婚式が行われる場。",
+      "example_ja": "祝言の場が華やいだ。",
+      "example_en": "The wedding venue grew lively.",
+      "example_kana": "しゅうげんのばがはなやいだ。"
+    },
+    {
+      "kanji": "成人式",
+      "kana": "せいじんしき",
+      "meaning_en": "coming-of-age ceremony",
+      "meaning_ja": "二十歳を祝う式。",
+      "example_ja": "成人式で晴れ着を着る。",
+      "example_en": "She wears formal dress at her coming-of-age.",
+      "example_kana": "せいじんしきではれぎをきる。"
+    },
+    {
+      "kanji": "晴れ着",
+      "kana": "はれぎ",
+      "meaning_en": "formal dress",
+      "meaning_ja": "祝いの場で着る衣装。",
+      "example_ja": "晴れ着をまとう。",
+      "example_en": "She dons her formal kimono.",
+      "example_kana": "はれぎをまとう。"
+    },
+    {
+      "kanji": "袴",
+      "kana": "はかま",
+      "meaning_en": "hakama, formal trousers",
+      "meaning_ja": "和装の伝統的な袴。",
+      "example_ja": "卒業式に袴を着けた。",
+      "example_en": "She wore hakama for graduation.",
+      "example_kana": "そつぎょうしきにはかまをつけた。"
+    },
+    {
+      "kanji": "着物",
+      "kana": "きもの",
+      "meaning_en": "kimono",
+      "meaning_ja": "日本の伝統衣装。",
+      "example_ja": "母から着物を譲り受けた。",
+      "example_en": "I inherited a kimono from my mother.",
+      "example_kana": "ははからきものをゆずりうけた。"
+    },
+    {
+      "kanji": "帯",
+      "kana": "おび",
+      "meaning_en": "obi sash",
+      "meaning_ja": "着物の腰に巻く布。",
+      "example_ja": "帯を丁寧に結ぶ。",
+      "example_en": "She ties the obi carefully.",
+      "example_kana": "おびをていねいにむすぶ。"
+    },
+    {
+      "kanji": "草履",
+      "kana": "ぞうり",
+      "meaning_en": "Japanese sandals",
+      "meaning_ja": "和装で履く伝統履物。",
+      "example_ja": "草履を履いて歩く。",
+      "example_en": "She walks wearing zori sandals.",
+      "example_kana": "ぞうりをはいてあるく。"
+    },
+    {
+      "kanji": "雪駄",
+      "kana": "せった",
+      "meaning_en": "leather-soled sandals",
+      "meaning_ja": "男性が和装で履く履物。",
+      "example_ja": "雪駄の音が涼しげだ。",
+      "example_en": "The sound of setta is cooling.",
+      "example_kana": "せったのおとがすずしげだ。"
+    },
+    {
+      "kanji": "下駄",
+      "kana": "げた",
+      "meaning_en": "wooden clogs",
+      "meaning_ja": "木製の伝統履物。",
+      "example_ja": "下駄を鳴らして歩く。",
+      "example_en": "He walks clacking his geta.",
+      "example_kana": "げたをならしてあるく。"
+    },
+    {
+      "kanji": "浴衣",
+      "kana": "ゆかた",
+      "meaning_en": "yukata, summer kimono",
+      "meaning_ja": "夏の薄い着物。",
+      "example_ja": "花火を浴衣で見に行く。",
+      "example_en": "We watch fireworks in yukata.",
+      "example_kana": "はなびをゆかたでみにいく。"
+    },
+    {
+      "kanji": "茶道",
+      "kana": "さどう",
+      "meaning_en": "tea ceremony",
+      "meaning_ja": "茶を点てる伝統作法。",
+      "example_ja": "茶道を嗜む。",
+      "example_en": "She practices the tea ceremony.",
+      "example_kana": "さどうをたしなむ。"
+    },
+    {
+      "kanji": "華道",
+      "kana": "かどう",
+      "meaning_en": "flower arrangement",
+      "meaning_ja": "花を生ける伝統芸術。",
+      "example_ja": "華道の教室に通う。",
+      "example_en": "I attend a flower arrangement class.",
+      "example_kana": "かどうのきょうしつにかよう。"
+    },
+    {
+      "kanji": "書道",
+      "kana": "しょどう",
+      "meaning_en": "calligraphy",
+      "meaning_ja": "筆で文字を書く芸術。",
+      "example_ja": "書道に長けている。",
+      "example_en": "She excels at calligraphy.",
+      "example_kana": "しょどうにたけている。"
+    },
+    {
+      "kanji": "香道",
+      "kana": "こうどう",
+      "meaning_en": "incense ceremony",
+      "meaning_ja": "香を聞き分ける伝統芸道。",
+      "example_ja": "香道の作法を学ぶ。",
+      "example_en": "I learn incense ceremony manners.",
+      "example_kana": "こうどうのさほうをまなぶ。"
+    },
+    {
+      "kanji": "武道",
+      "kana": "ぶどう",
+      "meaning_en": "martial arts",
+      "meaning_ja": "日本の伝統武術。",
+      "example_ja": "武道の精神を学ぶ。",
+      "example_en": "I learn the spirit of martial arts.",
+      "example_kana": "ぶどうのせいしんをまなぶ。"
+    },
+    {
+      "kanji": "剣道",
+      "kana": "けんどう",
+      "meaning_en": "kendo, Japanese fencing",
+      "meaning_ja": "竹刀で打ち合う武道。",
+      "example_ja": "剣道の稽古に励む。",
+      "example_en": "He works hard at kendo practice.",
+      "example_kana": "けんどうのけいこにはげむ。"
+    },
+    {
+      "kanji": "弓道",
+      "kana": "きゅうどう",
+      "meaning_en": "Japanese archery",
+      "meaning_ja": "弓矢を用いる武道。",
+      "example_ja": "弓道で集中力を養う。",
+      "example_en": "I cultivate focus through kyudo.",
+      "example_kana": "きゅうどうでしゅうちゅうりょくをやしなう。"
+    },
+    {
+      "kanji": "柔道",
+      "kana": "じゅうどう",
+      "meaning_en": "judo",
+      "meaning_ja": "投げ技中心の武道。",
+      "example_ja": "柔道の試合に挑む。",
+      "example_en": "I take on a judo match.",
+      "example_kana": "じゅうどうのしあいにいどむ。"
+    },
+    {
+      "kanji": "稽古",
+      "kana": "けいこ",
+      "meaning_en": "practice, training",
+      "meaning_ja": "技や芸を習い練習すること。",
+      "example_ja": "毎朝稽古を欠かさない。",
+      "example_en": "I never miss morning practice.",
+      "example_kana": "まいあさけいこをかかさない。"
+    },
+    {
+      "kanji": "師範",
+      "kana": "しはん",
+      "meaning_en": "master, instructor",
+      "meaning_ja": "技芸を教える師。",
+      "example_ja": "師範に弟子入りした。",
+      "example_en": "I became the master's pupil.",
+      "example_kana": "しはんにでしいりした。"
+    },
+    {
+      "kanji": "免許皆伝",
+      "kana": "めんきょかいでん",
+      "meaning_en": "master certification",
+      "meaning_ja": "技芸を全て習得した証。",
+      "example_ja": "免許皆伝を許された。",
+      "example_en": "He was granted full mastery.",
+      "example_kana": "めんきょかいでんをゆるされた。"
+    },
+    {
+      "kanji": "奥義",
+      "kana": "おうぎ",
+      "meaning_en": "secrets, profound art",
+      "meaning_ja": "学問や武芸の極意。",
+      "example_ja": "剣の奥義を会得する。",
+      "example_en": "He masters the secrets of the sword.",
+      "example_kana": "けんのおうぎをえとくする。"
+    },
+    {
+      "kanji": "極意",
+      "kana": "ごくい",
+      "meaning_en": "essence, essential point",
+      "meaning_ja": "技や学問の本質。",
+      "example_ja": "茶の極意を伝授する。",
+      "example_en": "He teaches the essence of tea.",
+      "example_kana": "ちゃのごくいをでんじゅする。"
+    },
+    {
+      "kanji": "伝授",
+      "kana": "でんじゅ",
+      "meaning_en": "transmission, teaching",
+      "meaning_ja": "技や学問を伝え授けること。",
+      "example_ja": "秘伝を伝授された。",
+      "example_en": "He was taught the secret techniques.",
+      "example_kana": "ひでんをでんじゅされた。"
+    },
+    {
+      "kanji": "秘伝",
+      "kana": "ひでん",
+      "meaning_en": "secret teaching",
+      "meaning_ja": "限られた人にだけ伝える秘訣。",
+      "example_ja": "秘伝のレシピを継ぐ。",
+      "example_en": "I inherit the secret recipe.",
+      "example_kana": "ひでんのれしぴをつぐ。"
+    },
+    {
+      "kanji": "口伝",
+      "kana": "くでん",
+      "meaning_en": "oral tradition",
+      "meaning_ja": "口で伝える教え。",
+      "example_ja": "口伝で技を学ぶ。",
+      "example_en": "Skills are learned by oral tradition.",
+      "example_kana": "くでんでわざをまなぶ。"
+    },
+    {
+      "kanji": "言い伝え",
+      "kana": "いいつたえ",
+      "meaning_en": "legend, oral lore",
+      "meaning_ja": "古くから伝わる話。",
+      "example_ja": "里の言い伝えを聞く。",
+      "example_en": "I hear the village lore.",
+      "example_kana": "さとのいいつたえをきく。"
+    },
+    {
+      "kanji": "口承",
+      "kana": "こうしょう",
+      "meaning_en": "oral transmission",
+      "meaning_ja": "話して伝えること。",
+      "example_ja": "口承文学を研究する。",
+      "example_en": "He studies oral literature.",
+      "example_kana": "こうしょうぶんがくをけんきゅうする。"
+    },
+    {
+      "kanji": "民話",
+      "kana": "みんわ",
+      "meaning_en": "folk tale",
+      "meaning_ja": "民間に伝わる物語。",
+      "example_ja": "民話を子に語る。",
+      "example_en": "I tell folk tales to children.",
+      "example_kana": "みんわをこにかたる。"
+    },
+    {
+      "kanji": "神話",
+      "kana": "しんわ",
+      "meaning_en": "myth",
+      "meaning_ja": "神々の物語。",
+      "example_ja": "古い神話を紐解く。",
+      "example_en": "I delve into old myths.",
+      "example_kana": "ふるいしんわをひもとく。"
+    },
+    {
+      "kanji": "古典",
+      "kana": "こてん",
+      "meaning_en": "classics",
+      "meaning_ja": "昔から伝わる優れた作品。",
+      "example_ja": "古典に親しむ。",
+      "example_en": "I familiarize myself with classics.",
+      "example_kana": "こてんにしたしむ。"
+    },
+    {
+      "kanji": "古文",
+      "kana": "こぶん",
+      "meaning_en": "classical Japanese",
+      "meaning_ja": "古い時代の文章。",
+      "example_ja": "古文を読み解く。",
+      "example_en": "I decipher classical Japanese.",
+      "example_kana": "こぶんをよみとく。"
+    },
+    {
+      "kanji": "漢詩",
+      "kana": "かんし",
+      "meaning_en": "Chinese poetry",
+      "meaning_ja": "中国古典の詩。",
+      "example_ja": "漢詩を吟じる。",
+      "example_en": "He recites Chinese poems.",
+      "example_kana": "かんしをぎんじる。"
+    },
+    {
+      "kanji": "和歌",
+      "kana": "わか",
+      "meaning_en": "waka, Japanese poem",
+      "meaning_ja": "三十一音の日本の伝統詩。",
+      "example_ja": "和歌を一首詠む。",
+      "example_en": "He composes a waka.",
+      "example_kana": "わかをいっしゅよむ。"
+    },
+    {
+      "kanji": "俳句",
+      "kana": "はいく",
+      "meaning_en": "haiku",
+      "meaning_ja": "十七音の日本の短詩。",
+      "example_ja": "俳句に季語を入れる。",
+      "example_en": "I include a season word in the haiku.",
+      "example_kana": "はいくにきごをいれる。"
+    },
+    {
+      "kanji": "詠む",
+      "kana": "よむ",
+      "meaning_en": "to compose a poem",
+      "meaning_ja": "詩や和歌を作ること。",
+      "example_ja": "春の歌を詠む。",
+      "example_en": "He composes a spring poem.",
+      "example_kana": "はるのうたをよむ。"
+    },
+    {
+      "kanji": "歌人",
+      "kana": "かじん",
+      "meaning_en": "poet of waka",
+      "meaning_ja": "和歌を作る人。",
+      "example_ja": "名高い歌人を慕う。",
+      "example_en": "I admire a famous waka poet.",
+      "example_kana": "なだかいかじんをしたう。"
+    },
+    {
+      "kanji": "俳人",
+      "kana": "はいじん",
+      "meaning_en": "haiku poet",
+      "meaning_ja": "俳句を作る人。",
+      "example_ja": "俳人の集まりに加わる。",
+      "example_en": "I join a haiku poets' gathering.",
+      "example_kana": "はいじんのあつまりにくわわる。"
+    },
+    {
+      "kanji": "文豪",
+      "kana": "ぶんごう",
+      "meaning_en": "literary master",
+      "meaning_ja": "優れた文学者。",
+      "example_ja": "文豪の作品に触れる。",
+      "example_en": "I encounter the master's work.",
+      "example_kana": "ぶんごうのさくひんにふれる。"
+    },
+    {
+      "kanji": "巨匠",
+      "kana": "きょしょう",
+      "meaning_en": "great master",
+      "meaning_ja": "芸術や学問の大家。",
+      "example_ja": "絵画の巨匠を訪ねる。",
+      "example_en": "I visit a master painter.",
+      "example_kana": "かいがのきょしょうをたずねる。"
+    },
+    {
+      "kanji": "名匠",
+      "kana": "めいしょう",
+      "meaning_en": "master craftsman",
+      "meaning_ja": "技に優れた職人。",
+      "example_ja": "名匠の手による壺だ。",
+      "example_en": "It's a jar by a master craftsman.",
+      "example_kana": "めいしょうのてによるつぼだ。"
+    },
+    {
+      "kanji": "職人気質",
+      "kana": "しょくにんかたぎ",
+      "meaning_en": "craftsman's spirit",
+      "meaning_ja": "職人らしい誠実な性質。",
+      "example_ja": "職人気質を貫く。",
+      "example_en": "He upholds the craftsman's spirit.",
+      "example_kana": "しょくにんかたぎをつらぬく。"
+    },
+    {
+      "kanji": "丁稚",
+      "kana": "でっち",
+      "meaning_en": "apprentice",
+      "meaning_ja": "見習いの若者。",
+      "example_ja": "幼くして丁稚に出た。",
+      "example_en": "He left as an apprentice when young.",
+      "example_kana": "おさなくしてでっちにでた。"
+    },
+    {
+      "kanji": "弟子",
+      "kana": "でし",
+      "meaning_en": "disciple, pupil",
+      "meaning_ja": "師に教えを受ける者。",
+      "example_ja": "弟子に技を伝える。",
+      "example_en": "I pass on the craft to my disciple.",
+      "example_kana": "でしにわざをつたえる。"
+    },
+    {
+      "kanji": "弟子入り",
+      "kana": "でしいり",
+      "meaning_en": "becoming a disciple",
+      "meaning_ja": "弟子として仕えること。",
+      "example_ja": "高名な人に弟子入りした。",
+      "example_en": "I became a disciple of a famous master.",
+      "example_kana": "こうめいなひとにでしいりした。"
+    },
+    {
+      "kanji": "恩師",
+      "kana": "おんし",
+      "meaning_en": "respected teacher",
+      "meaning_ja": "教えを受けた先生。",
+      "example_ja": "恩師を訪ね歩く。",
+      "example_en": "I go visit my old teacher.",
+      "example_kana": "おんしをたずねあるく。"
+    },
+    {
+      "kanji": "師弟",
+      "kana": "してい",
+      "meaning_en": "master and disciple",
+      "meaning_ja": "師と弟子の間柄。",
+      "example_ja": "師弟の絆は深い。",
+      "example_en": "The bond of master and disciple runs deep.",
+      "example_kana": "していのきずなはふかい。"
+    },
+    {
+      "kanji": "教鞭",
+      "kana": "きょうべん",
+      "meaning_en": "teaching profession",
+      "meaning_ja": "教師として教えること。",
+      "example_ja": "大学で教鞭を執る。",
+      "example_en": "He teaches at a university.",
+      "example_kana": "だいがくできょうべんをとる。"
+    },
+    {
+      "kanji": "学問",
+      "kana": "がくもん",
+      "meaning_en": "learning, scholarship",
+      "meaning_ja": "知識を学ぶこと。",
+      "example_ja": "学問の道を志す。",
+      "example_en": "He aspires to the path of learning.",
+      "example_kana": "がくもんのみちをこころざす。"
+    },
+    {
+      "kanji": "学究",
+      "kana": "がっきゅう",
+      "meaning_en": "scholar, researcher",
+      "meaning_ja": "学問を深く研究する人。",
+      "example_ja": "学究の徒として生きる。",
+      "example_en": "He lives as a scholar.",
+      "example_kana": "がっきゅうのととしていきる。"
+    },
+    {
+      "kanji": "学識",
+      "kana": "がくしき",
+      "meaning_en": "scholarship, learning",
+      "meaning_ja": "学問上の知識。",
+      "example_ja": "深い学識を持つ。",
+      "example_en": "He has deep scholarship.",
+      "example_kana": "ふかいがくしきをもつ。"
     }
   ]
 }
