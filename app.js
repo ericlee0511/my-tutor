@@ -563,9 +563,9 @@ async function loadData() {
   const deleFixed = 3;
   const geptFixed = 3;
   const loaded = await Promise.all([
-    fetch("data/vocab.json").then(r => r.json()),
-    fetch("data/grammar.json").then(r => r.json()),
-    fetch("data/quiz.json").then(r => r.json()),
+    fetch("data/vocab_jap.json").then(r => r.json()),
+    fetch("data/grammar_jap.json").then(r => r.json()),
+    fetch("data/quiz_jap.json").then(r => r.json()),
     fetch("data/vocab_ko.json").then(r => r.json()),
     fetch("data/grammar_ko.json").then(r => r.json()),
     fetch("data/quiz_ko.json").then(r => r.json()),

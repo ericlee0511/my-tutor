@@ -49,9 +49,9 @@ const topik = {
   quiz: countLevels("quiz_ko.json", ["t1","t2","t3","t4","t5","t6"]),
 };
 const jp = {
-  vocab: countLevels("vocab.json", ["n5","n4","n3","n2","n1"]),
-  grammar: countLevels("grammar.json", ["n5","n4","n3","n2","n1"]),
-  quiz: countLevels("quiz.json", ["n5","n4","n3","n2","n1"]),
+  vocab: countLevels("vocab_jap.json", ["n5","n4","n3","n2","n1"]),
+  grammar: countLevels("grammar_jap.json", ["n5","n4","n3","n2","n1"]),
+  quiz: countLevels("quiz_jap.json", ["n5","n4","n3","n2","n1"]),
 };
 const toeic = {
   vocab: countLevels("vocab_toeic.json", ["toeic"]),

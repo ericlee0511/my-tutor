@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v175";
+const CACHE = "jp-tutor-v176";
 const ASSETS = [
   "./",
   "./index.html",
@@ -8,9 +8,9 @@ const ASSETS = [
   "./icon-192.png",
   "./icon-512.png",
   "./data/statistics.md",
-  "./data/vocab.json",
-  "./data/grammar.json",
-  "./data/quiz.json",
+  "./data/vocab_jap.json",
+  "./data/grammar_jap.json",
+  "./data/quiz_jap.json",
   "./data/vocab_ko.json",
   "./data/grammar_ko.json",
   "./data/quiz_ko.json",
