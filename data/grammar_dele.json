@@ -2329,6 +2329,2400 @@
           "zh": "我哥哥很會彈吉他。"
         }
       ]
+    },
+    {
+      "pattern": "Pretérito Indefinido — verbos irregulares (ser/ir)",
+      "meaning_zh": "ser 與 ir 的過去簡單式同形：fui, fuiste, fue, fuimos, fuisteis, fueron，由上下文判斷意思。",
+      "structure": "fui / fuiste / fue / fuimos / fuisteis / fueron",
+      "examples": [
+        {
+          "es": "Ayer fui al cine con mi hermano.",
+          "zh": "我昨天和我哥哥去了電影院。"
+        },
+        {
+          "es": "Mi abuelo fue profesor durante treinta años.",
+          "zh": "我祖父當了三十年的老師。"
+        },
+        {
+          "es": "¿Adónde fuiste el verano pasado?",
+          "zh": "你去年夏天去了哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Indefinido — verbos irregulares (tener/estar)",
+      "meaning_zh": "tener 與 estar 在過去簡單式有特殊不規則語幹：tuv- / estuv-，並使用特殊重音規則的字尾。",
+      "structure": "tuv- / estuv- + (-e/-iste/-o/-imos/-isteis/-ieron)",
+      "examples": [
+        {
+          "es": "Ayer tuve que trabajar hasta tarde.",
+          "zh": "我昨天必須工作到很晚。"
+        },
+        {
+          "es": "Estuvimos en Madrid tres días.",
+          "zh": "我們在馬德里待了三天。"
+        },
+        {
+          "es": "¿Tuviste tiempo de llamarla?",
+          "zh": "你有時間打電話給她嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Indefinido — verbos irregulares (hacer/poder)",
+      "meaning_zh": "hacer 與 poder 的不規則語幹為 hic- / pud-，第三人稱單數 hizo 須改 c → z。",
+      "structure": "hic- / pud- + (-e/-iste/-o/-imos/-isteis/-ieron)",
+      "examples": [
+        {
+          "es": "Ayer hice la tarea por la noche.",
+          "zh": "我昨天晚上做了作業。"
+        },
+        {
+          "es": "No pude ir a la fiesta.",
+          "zh": "我沒能去參加派對。"
+        },
+        {
+          "es": "¿Qué hiciste el fin de semana?",
+          "zh": "你週末做了什麼？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Indefinido — verbos con cambio vocálico (e→i, o→u)",
+      "meaning_zh": "-ir 結尾的動詞如 pedir, dormir 在過去簡單式第三人稱發生母音變化：pidió/pidieron, durmió/durmieron。",
+      "structure": "3ª persona: e→i (pidió/pidieron), o→u (durmió/durmieron)",
+      "examples": [
+        {
+          "es": "Él pidió un café con leche.",
+          "zh": "他點了一杯咖啡加牛奶。"
+        },
+        {
+          "es": "Los niños durmieron toda la noche.",
+          "zh": "孩子們整夜熟睡。"
+        },
+        {
+          "es": "Ella prefirió quedarse en casa.",
+          "zh": "她比較想留在家裡。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Imperfecto — verbos irregulares (ser/ir/ver)",
+      "meaning_zh": "過去未完成式僅有三個不規則動詞：ser → era, ir → iba, ver → veía，常用於描述背景。",
+      "structure": "era/iba/veía + 字尾變化",
+      "examples": [
+        {
+          "es": "Cuando era niño, vivía en un pueblo.",
+          "zh": "我小時候住在一個小村莊。"
+        },
+        {
+          "es": "Iba al colegio en autobús.",
+          "zh": "我都搭公車去學校。"
+        },
+        {
+          "es": "La veía todos los días.",
+          "zh": "我以前每天都見到她。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperfecto vs Indefinido — descripción vs acción",
+      "meaning_zh": "Imperfecto 描述背景、狀態或同時發生的情境；Indefinido 表達該背景中發生的具體事件。",
+      "structure": "Imperfecto (背景) + Indefinido (事件)",
+      "examples": [
+        {
+          "es": "Llovía cuando salí de casa.",
+          "zh": "我出門時正在下雨。"
+        },
+        {
+          "es": "Estaba cansado, así que me acosté temprano.",
+          "zh": "我很累，所以早早上床睡覺。"
+        },
+        {
+          "es": "Mientras cocinaba, sonó el teléfono.",
+          "zh": "我做飯時電話響了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperfecto vs Indefinido — hábito vs evento puntual",
+      "meaning_zh": "Imperfecto 表達過去習慣性、重複性動作；Indefinido 用於明確時間點完成的單次動作。",
+      "structure": "Imperfecto (todos los días) / Indefinido (ayer, una vez)",
+      "examples": [
+        {
+          "es": "De pequeño jugaba al fútbol los sábados.",
+          "zh": "我小時候每週六踢足球。"
+        },
+        {
+          "es": "El sábado pasado jugué al tenis.",
+          "zh": "上週六我打了網球。"
+        },
+        {
+          "es": "Antes fumaba mucho, pero ayer no fumé nada.",
+          "zh": "我以前抽很多菸，但昨天完全沒抽。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pretérito Perfecto — formación con haber + participio",
+      "meaning_zh": "現在完成式由 haber 的現在式 + 過去分詞構成：he/has/ha/hemos/habéis/han + -ado/-ido。",
+      "structure": "haber (presente) + participio (-ado/-ido)",
+      "examples": [
+        {
+          "es": "He comido demasiado hoy.",
+          "zh": "我今天吃太多了。"
+        },
+        {
+          "es": "¿Has visto a Carlos?",
+          "zh": "你看到卡洛斯了嗎？"
+        },
+        {
+          "es": "Hemos vivido aquí muchos años.",
+          "zh": "我們在這裡住了很多年。"
+        }
+      ]
+    },
+    {
+      "pattern": "Participios irregulares (hecho, visto, dicho…)",
+      "meaning_zh": "常用不規則過去分詞：hacer→hecho, ver→visto, decir→dicho, escribir→escrito, abrir→abierto, poner→puesto。",
+      "structure": "hecho / visto / dicho / escrito / abierto / puesto / vuelto / muerto",
+      "examples": [
+        {
+          "es": "He hecho mis deberes.",
+          "zh": "我已經做完功課了。"
+        },
+        {
+          "es": "¿Has visto la película?",
+          "zh": "你看過那部電影了嗎？"
+        },
+        {
+          "es": "Han abierto una tienda nueva.",
+          "zh": "他們開了一家新店。"
+        }
+      ]
+    },
+    {
+      "pattern": "Marcadores temporales del Pretérito Perfecto",
+      "meaning_zh": "與「hoy, esta semana, este año, ya, todavía no, alguna vez, nunca」搭配使用，表示與現在仍相關的時間。",
+      "structure": "hoy / esta semana / este mes / ya / todavía no + perfecto",
+      "examples": [
+        {
+          "es": "Esta mañana he tomado un café.",
+          "zh": "我今天早上喝了一杯咖啡。"
+        },
+        {
+          "es": "Todavía no he terminado el libro.",
+          "zh": "我還沒讀完那本書。"
+        },
+        {
+          "es": "¿Has estado alguna vez en Japón?",
+          "zh": "你去過日本嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Marcadores temporales del Indefinido",
+      "meaning_zh": "與「ayer, anoche, la semana pasada, en 2020, hace dos años」搭配，表示已結束、與現在無關的時間。",
+      "structure": "ayer / anoche / la semana pasada / hace + tiempo + indefinido",
+      "examples": [
+        {
+          "es": "Ayer comí en un restaurante chino.",
+          "zh": "我昨天在中餐廳吃飯。"
+        },
+        {
+          "es": "El año pasado viajamos a Italia.",
+          "zh": "我們去年去義大利旅行。"
+        },
+        {
+          "es": "Hace tres días llegó mi paquete.",
+          "zh": "我的包裹三天前到了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro Simple — verbos regulares",
+      "meaning_zh": "未來簡單式由動詞原形加字尾構成：-é, -ás, -á, -emos, -éis, -án，表達未來預測或計畫。",
+      "structure": "Infinitivo + (-é/-ás/-á/-emos/-éis/-án)",
+      "examples": [
+        {
+          "es": "Mañana hablaré con el jefe.",
+          "zh": "我明天會和老闆談。"
+        },
+        {
+          "es": "Comeremos en casa.",
+          "zh": "我們會在家吃飯。"
+        },
+        {
+          "es": "¿Vivirás en Madrid?",
+          "zh": "你會住在馬德里嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro Simple — verbos irregulares (tener/poder/salir)",
+      "meaning_zh": "某些動詞未來式語幹不規則：tendr-, podr-, saldr-, vendr-, pondr-，字尾相同。",
+      "structure": "tendr-/podr-/saldr-/vendr-/pondr- + 字尾",
+      "examples": [
+        {
+          "es": "Tendré tiempo el viernes.",
+          "zh": "我星期五會有時間。"
+        },
+        {
+          "es": "No podré ir a la reunión.",
+          "zh": "我沒辦法去開會。"
+        },
+        {
+          "es": "Saldremos a las ocho.",
+          "zh": "我們八點會出門。"
+        }
+      ]
+    },
+    {
+      "pattern": "Futuro de probabilidad",
+      "meaning_zh": "未來式可表達對現在事實的推測：「Serán las cinco」意為「大概是五點」。",
+      "structure": "Futuro + (推測現在情境)",
+      "examples": [
+        {
+          "es": "Serán las diez de la noche.",
+          "zh": "現在大概是晚上十點。"
+        },
+        {
+          "es": "Estará en casa.",
+          "zh": "他應該在家。"
+        },
+        {
+          "es": "Tendrá unos cuarenta años.",
+          "zh": "他大概四十歲左右。"
+        }
+      ]
+    },
+    {
+      "pattern": "Condicional Simple — formación",
+      "meaning_zh": "條件式由動詞原形加 -ía 字尾構成：-ía, -ías, -ía, -íamos, -íais, -ían，表達禮貌、假設或建議。",
+      "structure": "Infinitivo + (-ía/-ías/-ía/-íamos/-íais/-ían)",
+      "examples": [
+        {
+          "es": "Me gustaría un café, por favor.",
+          "zh": "麻煩給我一杯咖啡。"
+        },
+        {
+          "es": "Yo en tu lugar estudiaría más.",
+          "zh": "如果我是你，我會多念點書。"
+        },
+        {
+          "es": "¿Podrías ayudarme?",
+          "zh": "你能幫我嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Condicional para sugerencias y consejos",
+      "meaning_zh": "用 deberías / podrías / yo que tú… 表達建議或意見，比直接命令更委婉。",
+      "structure": "deberías / podrías + infinitivo",
+      "examples": [
+        {
+          "es": "Deberías ir al médico.",
+          "zh": "你應該去看醫生。"
+        },
+        {
+          "es": "Podrías hablar con ella.",
+          "zh": "你可以和她談談。"
+        },
+        {
+          "es": "Yo que tú aceptaría el trabajo.",
+          "zh": "我要是你會接受那份工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Presente de Subjuntivo — verbos regulares",
+      "meaning_zh": "現在虛擬式由現在式 yo 字根加相反字尾構成：-ar → -e, -er/-ir → -a。",
+      "structure": "Stem (yo presente) + (-e/-es/-e/-emos/-éis/-en) 或 (-a/-as/-a/-amos/-áis/-an)",
+      "examples": [
+        {
+          "es": "Quiero que hables más despacio.",
+          "zh": "我希望你說慢一點。"
+        },
+        {
+          "es": "Espero que comamos juntos pronto.",
+          "zh": "我希望我們很快能一起吃飯。"
+        },
+        {
+          "es": "Es importante que estudies.",
+          "zh": "你念書很重要。"
+        }
+      ]
+    },
+    {
+      "pattern": "Presente de Subjuntivo — verbos irregulares",
+      "meaning_zh": "ser→sea, ir→vaya, haber→haya, saber→sepa, dar→dé, estar→esté 是常見不規則虛擬式。",
+      "structure": "sea / vaya / haya / sepa / dé / esté + 字尾",
+      "examples": [
+        {
+          "es": "Quiero que seas feliz.",
+          "zh": "我希望你快樂。"
+        },
+        {
+          "es": "Espero que vayas a la fiesta.",
+          "zh": "我希望你去派對。"
+        },
+        {
+          "es": "Es necesario que sepas la verdad.",
+          "zh": "你必須知道真相。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo con expresiones de deseo (querer que, esperar que)",
+      "meaning_zh": "當主句表達願望、希望時，用「que + 虛擬式」表達對他人的期望。",
+      "structure": "Querer / Esperar / Desear que + subjuntivo",
+      "examples": [
+        {
+          "es": "Quiero que vengas a mi casa.",
+          "zh": "我希望你來我家。"
+        },
+        {
+          "es": "Espero que tengas suerte.",
+          "zh": "我希望你好運。"
+        },
+        {
+          "es": "Deseamos que disfrutes el viaje.",
+          "zh": "我們希望你享受這次旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo con expresiones impersonales (es importante que)",
+      "meaning_zh": "Es importante / necesario / bueno / mejor que… 後接虛擬式，表達主觀價值判斷。",
+      "structure": "Es + adjetivo + que + subjuntivo",
+      "examples": [
+        {
+          "es": "Es importante que hables español.",
+          "zh": "你說西班牙語很重要。"
+        },
+        {
+          "es": "Es mejor que descanses.",
+          "zh": "你最好休息一下。"
+        },
+        {
+          "es": "Es necesario que llegues a tiempo.",
+          "zh": "你必須準時到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo afirmativo — tú",
+      "meaning_zh": "對「你」下肯定命令時，去掉 -s（如同第三人稱現在式）：hablar → habla, comer → come。",
+      "structure": "3ª persona singular del presente (habla / come / vive)",
+      "examples": [
+        {
+          "es": "Habla más alto, por favor.",
+          "zh": "請說大聲一點。"
+        },
+        {
+          "es": "Come la fruta.",
+          "zh": "把水果吃了。"
+        },
+        {
+          "es": "Abre la ventana.",
+          "zh": "把窗戶打開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo tú — irregulares (ven, ten, pon, sal, di, haz, ve, sé)",
+      "meaning_zh": "常見不規則 tú 命令式：venir→ven, tener→ten, poner→pon, salir→sal, decir→di, hacer→haz, ir→ve, ser→sé。",
+      "structure": "ven / ten / pon / sal / di / haz / ve / sé",
+      "examples": [
+        {
+          "es": "Ven aquí, por favor.",
+          "zh": "請過來這裡。"
+        },
+        {
+          "es": "Haz tus deberes ahora.",
+          "zh": "現在做你的功課。"
+        },
+        {
+          "es": "Dime la verdad.",
+          "zh": "告訴我真相。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo afirmativo — usted",
+      "meaning_zh": "對「您」下肯定命令時使用虛擬式形態：hablar → hable, comer → coma, vivir → viva。",
+      "structure": "Stem + (-e/-a) (forma de subjuntivo)",
+      "examples": [
+        {
+          "es": "Hable más despacio, por favor.",
+          "zh": "請您說慢一點。"
+        },
+        {
+          "es": "Coma usted primero.",
+          "zh": "請您先吃。"
+        },
+        {
+          "es": "Pase usted, por favor.",
+          "zh": "請您進來。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo afirmativo — vosotros",
+      "meaning_zh": "對「你們」下肯定命令時，將原形動詞字尾 -r 改為 -d：hablar → hablad, comer → comed。",
+      "structure": "Infinitivo cambia -r por -d (hablad / comed / vivid)",
+      "examples": [
+        {
+          "es": "Hablad más bajo.",
+          "zh": "你們說小聲一點。"
+        },
+        {
+          "es": "Comed antes de salir.",
+          "zh": "你們出門前先吃飯。"
+        },
+        {
+          "es": "Venid conmigo.",
+          "zh": "你們跟我來。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo afirmativo — ustedes",
+      "meaning_zh": "對「您們」下命令時使用虛擬式第三人稱複數：hablen, coman, vivan。",
+      "structure": "Stem + (-en/-an)",
+      "examples": [
+        {
+          "es": "Hablen ustedes en español.",
+          "zh": "請您們用西班牙語說。"
+        },
+        {
+          "es": "Pasen, por favor.",
+          "zh": "請您們進來。"
+        },
+        {
+          "es": "Esperen un momento.",
+          "zh": "請您們等一下。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo + pronombre enclítico",
+      "meaning_zh": "肯定命令式之後直接加代名詞，連寫成一字並需要重音符號：dímelo, cómpralo, escúchame。",
+      "structure": "Imperativo + pronombre (一字相連)",
+      "examples": [
+        {
+          "es": "Dímelo ahora mismo.",
+          "zh": "現在就告訴我。"
+        },
+        {
+          "es": "Cómpralo, es barato.",
+          "zh": "買吧，很便宜。"
+        },
+        {
+          "es": "Escúchame con atención.",
+          "zh": "認真聽我說。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imperativo negativo",
+      "meaning_zh": "否定命令式使用「no + 虛擬式」，所有人稱都改用虛擬式：no hables, no coma, no vengáis。",
+      "structure": "No + presente de subjuntivo",
+      "examples": [
+        {
+          "es": "No hables tan rápido.",
+          "zh": "不要說那麼快。"
+        },
+        {
+          "es": "No comáis dulces.",
+          "zh": "你們不要吃甜食。"
+        },
+        {
+          "es": "No vengas tarde.",
+          "zh": "不要遲到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Combinación se + lo/la/los/las",
+      "meaning_zh": "當間接受詞 le/les 與直接受詞 lo/la/los/las 並列時，間接受詞改為 se。",
+      "structure": "se + lo / la / los / las (se lo, se la…)",
+      "examples": [
+        {
+          "es": "Se lo dije ayer.",
+          "zh": "我昨天告訴他了。"
+        },
+        {
+          "es": "Se la regalé en Navidad.",
+          "zh": "我聖誕節送她那個禮物。"
+        },
+        {
+          "es": "Se los compré a mis hijos.",
+          "zh": "我買給我的孩子們。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres con verbo + infinitivo",
+      "meaning_zh": "代名詞可放在動詞前，或附加在原形動詞之後：「Quiero verlo」或「Lo quiero ver」。",
+      "structure": "(pron) + verbo + infinitivo / verbo + infinitivo+pron",
+      "examples": [
+        {
+          "es": "Quiero verte mañana.",
+          "zh": "我明天想見你。"
+        },
+        {
+          "es": "Te quiero ver mañana.",
+          "zh": "我明天想見你。"
+        },
+        {
+          "es": "Voy a comprártelo.",
+          "zh": "我會買給你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos de superioridad (más…que)",
+      "meaning_zh": "比較級「比…更…」結構為 más + 形容詞/副詞/名詞 + que。",
+      "structure": "más + adj/adv/sust + que",
+      "examples": [
+        {
+          "es": "Mi hermano es más alto que yo.",
+          "zh": "我哥哥比我高。"
+        },
+        {
+          "es": "Madrid es más grande que Valencia.",
+          "zh": "馬德里比瓦倫西亞大。"
+        },
+        {
+          "es": "Tengo más libros que tú.",
+          "zh": "我的書比你多。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos de inferioridad (menos…que)",
+      "meaning_zh": "「比…更少／更不…」結構為 menos + 形容詞/副詞/名詞 + que。",
+      "structure": "menos + adj/adv/sust + que",
+      "examples": [
+        {
+          "es": "Esta camisa es menos cara que la otra.",
+          "zh": "這件襯衫比另一件便宜。"
+        },
+        {
+          "es": "Hablo menos rápido que él.",
+          "zh": "我說話比他慢。"
+        },
+        {
+          "es": "Tengo menos tiempo que antes.",
+          "zh": "我的時間比以前少。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos de igualdad (tan…como / tanto…como)",
+      "meaning_zh": "形容詞與副詞用 tan…como；名詞用 tanto/a/os/as…como，表「和…一樣」。",
+      "structure": "tan + adj/adv + como / tanto(a)(s) + sust + como",
+      "examples": [
+        {
+          "es": "Ella es tan inteligente como tú.",
+          "zh": "她和你一樣聰明。"
+        },
+        {
+          "es": "No hablo tan bien como mi profesor.",
+          "zh": "我說得不像我的老師那麼好。"
+        },
+        {
+          "es": "Tengo tantos amigos como mi hermana.",
+          "zh": "我和我妹妹一樣多朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos irregulares (mejor, peor, mayor, menor)",
+      "meaning_zh": "bueno→mejor (更好)、malo→peor (更糟)、grande→mayor (年紀大／更大)、pequeño→menor (年紀小／更小)。",
+      "structure": "mejor / peor / mayor / menor + que",
+      "examples": [
+        {
+          "es": "Mi coche es mejor que el tuyo.",
+          "zh": "我的車比你的好。"
+        },
+        {
+          "es": "Hoy hace peor tiempo que ayer.",
+          "zh": "今天天氣比昨天糟。"
+        },
+        {
+          "es": "Mi hermana es mayor que yo.",
+          "zh": "我妹妹比我年長。"
+        }
+      ]
+    },
+    {
+      "pattern": "Superlativo relativo (el más…de)",
+      "meaning_zh": "「最…的…」結構為「el/la/los/las + (名詞) + más/menos + 形容詞 + de」。",
+      "structure": "el/la/los/las + (sust) + más/menos + adj + de",
+      "examples": [
+        {
+          "es": "Es el chico más alto de la clase.",
+          "zh": "他是班上最高的男生。"
+        },
+        {
+          "es": "Esta es la película más interesante del año.",
+          "zh": "這是今年最有趣的電影。"
+        },
+        {
+          "es": "Son los más simpáticos del grupo.",
+          "zh": "他們是團體中最友善的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Superlativo absoluto (-ísimo/-ísima)",
+      "meaning_zh": "在形容詞後加 -ísimo/-ísima 表達「非常…」：guapo→guapísimo, fácil→facilísimo。",
+      "structure": "adj (sin vocal final) + -ísimo/-ísima",
+      "examples": [
+        {
+          "es": "La comida está buenísima.",
+          "zh": "食物超級好吃。"
+        },
+        {
+          "es": "Es una película interesantísima.",
+          "zh": "這是一部非常有趣的電影。"
+        },
+        {
+          "es": "Estoy cansadísimo hoy.",
+          "zh": "我今天累死了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombre relativo «que»",
+      "meaning_zh": "que 是最常用的關係代名詞，可指人或事物，意為「…的那個」。",
+      "structure": "sustantivo + que + verbo",
+      "examples": [
+        {
+          "es": "El libro que leo es muy bueno.",
+          "zh": "我在讀的這本書很好。"
+        },
+        {
+          "es": "La chica que vino ayer es mi prima.",
+          "zh": "昨天來的那個女孩是我表妹。"
+        },
+        {
+          "es": "Compré el coche que querías.",
+          "zh": "我買了你想要的那台車。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombre relativo «quien/quienes»",
+      "meaning_zh": "quien/quienes 只指人，常用於介系詞之後或非限定子句。",
+      "structure": "preposición + quien / quienes",
+      "examples": [
+        {
+          "es": "La persona con quien hablé es mi jefe.",
+          "zh": "我談過話的那個人是我的老闆。"
+        },
+        {
+          "es": "El chico de quien te hablé llegó.",
+          "zh": "我跟你提過的那個男生來了。"
+        },
+        {
+          "es": "Las amigas con quienes salí son simpáticas.",
+          "zh": "和我一起出去的那些朋友很友善。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbio relativo «donde»",
+      "meaning_zh": "donde 用於指地點，等於「en el que / en la que」。",
+      "structure": "lugar + donde + verbo",
+      "examples": [
+        {
+          "es": "La casa donde vivo es pequeña.",
+          "zh": "我住的這個房子很小。"
+        },
+        {
+          "es": "Visité el pueblo donde nació mi madre.",
+          "zh": "我去了我媽出生的村莊。"
+        },
+        {
+          "es": "Este es el café donde nos conocimos.",
+          "zh": "這是我們認識的那家咖啡店。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «porque» (causa)",
+      "meaning_zh": "porque 用於表達原因，連接兩個句子。注意「porque (因為)」與「¿por qué? (為什麼)」不同。",
+      "structure": "Oración + porque + oración",
+      "examples": [
+        {
+          "es": "No vine porque estaba enfermo.",
+          "zh": "我沒來因為我生病了。"
+        },
+        {
+          "es": "Lo compré porque era barato.",
+          "zh": "我買了它因為很便宜。"
+        },
+        {
+          "es": "Estudio español porque me gusta.",
+          "zh": "我學西班牙語因為我喜歡。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «cuando» + indicativo",
+      "meaning_zh": "cuando 表達「當…時」，搭配現在式或過去式描述事實或習慣。",
+      "structure": "Cuando + indicativo, oración",
+      "examples": [
+        {
+          "es": "Cuando llegué, ya estaban allí.",
+          "zh": "我到的時候，他們已經在了。"
+        },
+        {
+          "es": "Cuando era niño, jugaba mucho.",
+          "zh": "我小時候很愛玩。"
+        },
+        {
+          "es": "Cuando llueve, me quedo en casa.",
+          "zh": "下雨時我會待在家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «mientras»",
+      "meaning_zh": "mientras 表示「當…同時」，通常搭配 imperfecto 表達同時進行的兩個動作。",
+      "structure": "Mientras + verbo, oración",
+      "examples": [
+        {
+          "es": "Mientras estudiaba, escuchaba música.",
+          "zh": "我讀書時聽音樂。"
+        },
+        {
+          "es": "Cocinaba mientras hablaba por teléfono.",
+          "zh": "他一邊講電話一邊做飯。"
+        },
+        {
+          "es": "Mientras tú duermes, yo trabajo.",
+          "zh": "當你睡覺時我在工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «después de» + infinitivo",
+      "meaning_zh": "「在…之後」結構為 después de + 原形動詞，主語必須相同。",
+      "structure": "Después de + infinitivo",
+      "examples": [
+        {
+          "es": "Después de comer, dormí la siesta.",
+          "zh": "吃完飯後我午睡了。"
+        },
+        {
+          "es": "Después de salir del trabajo, fui al gimnasio.",
+          "zh": "下班後我去健身房。"
+        },
+        {
+          "es": "Te llamaré después de llegar.",
+          "zh": "我到了之後會打給你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «antes de» + infinitivo",
+      "meaning_zh": "「在…之前」結構為 antes de + 原形動詞，主語必須相同。",
+      "structure": "Antes de + infinitivo",
+      "examples": [
+        {
+          "es": "Antes de dormir, leo un libro.",
+          "zh": "睡覺前我會讀書。"
+        },
+        {
+          "es": "Llámame antes de salir.",
+          "zh": "出門前打電話給我。"
+        },
+        {
+          "es": "Antes de venir aquí, vivía en Lima.",
+          "zh": "來這之前我住在利馬。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conector «aunque»",
+      "meaning_zh": "aunque 表示「雖然／儘管」，引導讓步子句。",
+      "structure": "Aunque + oración, oración",
+      "examples": [
+        {
+          "es": "Aunque llueve, salgo a correr.",
+          "zh": "雖然下雨，我還是出去跑步。"
+        },
+        {
+          "es": "Aunque es difícil, lo intentaré.",
+          "zh": "雖然很難，我還是會試。"
+        },
+        {
+          "es": "Aunque estoy cansado, voy a estudiar.",
+          "zh": "雖然我累了，我還是要念書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conectores de oposición (pero, sin embargo)",
+      "meaning_zh": "pero 表達轉折，較口語；sin embargo 較正式，常置於句首加逗號。",
+      "structure": "Oración, pero/sin embargo + oración",
+      "examples": [
+        {
+          "es": "Quiero ir, pero no puedo.",
+          "zh": "我想去，但不行。"
+        },
+        {
+          "es": "Estudia mucho. Sin embargo, no aprueba.",
+          "zh": "他很用功，然而還是不及格。"
+        },
+        {
+          "es": "Es caro, pero vale la pena.",
+          "zh": "很貴，但值得。"
+        }
+      ]
+    },
+    {
+      "pattern": "Desde hace + tiempo",
+      "meaning_zh": "「desde hace + 時間段」表達「從…起持續至今」，搭配現在式。",
+      "structure": "Verbo (presente) + desde hace + tiempo",
+      "examples": [
+        {
+          "es": "Vivo aquí desde hace cinco años.",
+          "zh": "我在這裡住了五年。"
+        },
+        {
+          "es": "Estudio español desde hace seis meses.",
+          "zh": "我學西班牙語六個月了。"
+        },
+        {
+          "es": "Lo conozco desde hace mucho tiempo.",
+          "zh": "我認識他很久了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hace + tiempo + que + verbo",
+      "meaning_zh": "「Hace + 時間 + que + 現在式動詞」與「desde hace」意義相同，可互換。",
+      "structure": "Hace + tiempo + que + presente",
+      "examples": [
+        {
+          "es": "Hace tres años que vivo en Taipei.",
+          "zh": "我住在台北三年了。"
+        },
+        {
+          "es": "Hace mucho que no la veo.",
+          "zh": "我很久沒看到她了。"
+        },
+        {
+          "es": "Hace dos meses que estudio chino.",
+          "zh": "我學中文兩個月了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Llevar + tiempo + gerundio",
+      "meaning_zh": "「llevar + 時間 + gerundio」表達「持續做某事多久了」，主語為人。",
+      "structure": "Llevar + tiempo + gerundio (-ando/-iendo)",
+      "examples": [
+        {
+          "es": "Llevo dos horas esperándote.",
+          "zh": "我等你兩小時了。"
+        },
+        {
+          "es": "Lleva diez años trabajando aquí.",
+          "zh": "他在這裡工作十年了。"
+        },
+        {
+          "es": "Llevamos un mes viviendo juntos.",
+          "zh": "我們住在一起一個月了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hace + tiempo (acción pasada)",
+      "meaning_zh": "「Hace + 時間段」表示「…前」，搭配 indefinido 或 imperfecto。",
+      "structure": "Hace + tiempo + verbo (pasado)",
+      "examples": [
+        {
+          "es": "Hace dos años fui a México.",
+          "zh": "兩年前我去了墨西哥。"
+        },
+        {
+          "es": "Llegó hace una hora.",
+          "zh": "他一小時前到的。"
+        },
+        {
+          "es": "Hace una semana terminamos el curso.",
+          "zh": "一週前我們結束了課程。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «encantar» (estilo gustar)",
+      "meaning_zh": "encantar 表「非常喜愛」，結構同 gustar：間接受詞 + encanta(n) + 主語。",
+      "structure": "(A mí/ti…) me/te/le/nos/os/les + encanta(n) + sustantivo",
+      "examples": [
+        {
+          "es": "Me encanta el chocolate.",
+          "zh": "我超愛巧克力。"
+        },
+        {
+          "es": "Le encantan los animales.",
+          "zh": "他超愛動物。"
+        },
+        {
+          "es": "Nos encanta viajar.",
+          "zh": "我們很愛旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «doler»",
+      "meaning_zh": "doler 表「疼痛」，結構同 gustar：me duele + 單數名詞 / me duelen + 複數名詞。",
+      "structure": "me/te/le… + duele(n) + parte del cuerpo",
+      "examples": [
+        {
+          "es": "Me duele la cabeza.",
+          "zh": "我頭痛。"
+        },
+        {
+          "es": "Le duelen los pies.",
+          "zh": "他腳痛。"
+        },
+        {
+          "es": "¿Te duele el estómago?",
+          "zh": "你胃痛嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «faltar»",
+      "meaning_zh": "faltar 表「缺少／差…」，結構同 gustar：me falta + 名詞，常用於差多少時間或物品。",
+      "structure": "me/te/le… + falta(n) + sustantivo",
+      "examples": [
+        {
+          "es": "Me falta dinero para el viaje.",
+          "zh": "我缺旅行的錢。"
+        },
+        {
+          "es": "Nos faltan dos sillas.",
+          "zh": "我們少了兩張椅子。"
+        },
+        {
+          "es": "Falta media hora para empezar.",
+          "zh": "離開始還有半小時。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «parecer»",
+      "meaning_zh": "parecer 表「覺得／似乎」：me parece bien (我覺得好)，結構同 gustar。",
+      "structure": "me/te/le… + parece(n) + adj/sust",
+      "examples": [
+        {
+          "es": "Me parece una buena idea.",
+          "zh": "我覺得這是個好主意。"
+        },
+        {
+          "es": "¿Qué te parece la película?",
+          "zh": "你覺得這部電影怎麼樣？"
+        },
+        {
+          "es": "Nos parece muy interesante.",
+          "zh": "我們覺得非常有趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «interesar»",
+      "meaning_zh": "interesar 表「感興趣」，結構同 gustar：Me interesa la historia。",
+      "structure": "me/te/le… + interesa(n) + sustantivo",
+      "examples": [
+        {
+          "es": "Me interesa la política.",
+          "zh": "我對政治有興趣。"
+        },
+        {
+          "es": "No le interesan los deportes.",
+          "zh": "他對運動不感興趣。"
+        },
+        {
+          "es": "¿Te interesa este libro?",
+          "zh": "你對這本書有興趣嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «importar»",
+      "meaning_zh": "importar 表「在乎／介意」，常用否定句：No me importa。",
+      "structure": "me/te/le… + importa(n) + sust/oración",
+      "examples": [
+        {
+          "es": "No me importa esperar.",
+          "zh": "我不介意等。"
+        },
+        {
+          "es": "¿Te importa cerrar la puerta?",
+          "zh": "你介意關門嗎？"
+        },
+        {
+          "es": "Le importan mucho sus hijos.",
+          "zh": "他很在乎他的孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Por — causa o motivo",
+      "meaning_zh": "por 可表「因為／由於」：「Lo hago por ti」意為「我為你而做」。",
+      "structure": "Por + sustantivo/pronombre",
+      "examples": [
+        {
+          "es": "Lo hago por ti.",
+          "zh": "我為你而做。"
+        },
+        {
+          "es": "Llegué tarde por el tráfico.",
+          "zh": "我因為塞車遲到了。"
+        },
+        {
+          "es": "Estudio mucho por mis exámenes.",
+          "zh": "為了考試我用功讀書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Para — finalidad u objetivo",
+      "meaning_zh": "para 表「為了…」，表示目的或目標。後接原形動詞或名詞。",
+      "structure": "Para + infinitivo / sustantivo",
+      "examples": [
+        {
+          "es": "Estudio para aprobar el examen.",
+          "zh": "我念書是為了考及格。"
+        },
+        {
+          "es": "Este regalo es para ti.",
+          "zh": "這禮物是給你的。"
+        },
+        {
+          "es": "Trabajo para vivir.",
+          "zh": "我為了生活而工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Por — movimiento a través",
+      "meaning_zh": "por 表「穿過／經過」某地，強調路徑：「Pasamos por el parque」。",
+      "structure": "Verbo de movimiento + por + lugar",
+      "examples": [
+        {
+          "es": "Pasamos por el parque.",
+          "zh": "我們經過公園。"
+        },
+        {
+          "es": "Caminé por la calle principal.",
+          "zh": "我走在主要街道上。"
+        },
+        {
+          "es": "El tren pasa por Madrid.",
+          "zh": "這班火車經過馬德里。"
+        }
+      ]
+    },
+    {
+      "pattern": "Para — destino o dirección",
+      "meaning_zh": "para 可表「前往…」的目的地：「Salgo para Madrid」。",
+      "structure": "Verbo de movimiento + para + lugar",
+      "examples": [
+        {
+          "es": "Salgo para Barcelona mañana.",
+          "zh": "我明天前往巴塞隆納。"
+        },
+        {
+          "es": "Este tren va para Sevilla.",
+          "zh": "這班火車開往塞維亞。"
+        },
+        {
+          "es": "Volvemos para casa.",
+          "zh": "我們回家去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Por — tiempo aproximado / duración",
+      "meaning_zh": "por 用於表達近似時間或持續時間：「por la mañana, por dos horas」。",
+      "structure": "Por + parte del día / tiempo",
+      "examples": [
+        {
+          "es": "Estudio por la tarde.",
+          "zh": "我下午念書。"
+        },
+        {
+          "es": "Estuvo aquí por dos semanas.",
+          "zh": "他在這裡待了兩週。"
+        },
+        {
+          "es": "Voy al gimnasio por la mañana.",
+          "zh": "我早上去健身房。"
+        }
+      ]
+    },
+    {
+      "pattern": "Para — plazo o fecha límite",
+      "meaning_zh": "para 表「截止於…」的期限：「Lo necesito para el lunes」。",
+      "structure": "Para + fecha/momento",
+      "examples": [
+        {
+          "es": "Lo necesito para mañana.",
+          "zh": "我明天就需要。"
+        },
+        {
+          "es": "Es para el viernes.",
+          "zh": "截止日是星期五。"
+        },
+        {
+          "es": "Termina el trabajo para las cinco.",
+          "zh": "請在五點前完成工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ser para identificar materia / posesión",
+      "meaning_zh": "ser de + 材質／來源／所有者：「Es de oro / Es de Madrid / Es de Juan」。",
+      "structure": "Ser + de + sustantivo",
+      "examples": [
+        {
+          "es": "La mesa es de madera.",
+          "zh": "桌子是木頭做的。"
+        },
+        {
+          "es": "Este coche es de mi padre.",
+          "zh": "這台車是我爸的。"
+        },
+        {
+          "es": "Soy de Taiwán.",
+          "zh": "我來自台灣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + gerundio (acción en progreso)",
+      "meaning_zh": "現在進行式：estar 的現在式 + gerundio (-ando/-iendo)，強調正在進行。",
+      "structure": "estoy/estás… + gerundio",
+      "examples": [
+        {
+          "es": "Estoy estudiando español.",
+          "zh": "我正在學西班牙語。"
+        },
+        {
+          "es": "Está comiendo ahora.",
+          "zh": "他現在正在吃飯。"
+        },
+        {
+          "es": "Estamos viendo una película.",
+          "zh": "我們正在看電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "Gerundios irregulares (leyendo, durmiendo, pidiendo)",
+      "meaning_zh": "某些動詞的副動詞不規則：leer→leyendo, dormir→durmiendo, pedir→pidiendo, ir→yendo。",
+      "structure": "Verbo irregular: -yendo (leer/oír) / -u- (dormir) / -i- (pedir)",
+      "examples": [
+        {
+          "es": "Estoy leyendo un libro.",
+          "zh": "我正在讀一本書。"
+        },
+        {
+          "es": "Está durmiendo en el sofá.",
+          "zh": "他在沙發上睡覺。"
+        },
+        {
+          "es": "Están pidiendo más comida.",
+          "zh": "他們在點更多食物。"
+        }
+      ]
+    },
+    {
+      "pattern": "Acabar de + infinitivo",
+      "meaning_zh": "「剛剛…」結構：acabar 的現在式 + de + 原形動詞，表達不久前完成的動作。",
+      "structure": "Acabar (presente) + de + infinitivo",
+      "examples": [
+        {
+          "es": "Acabo de comer.",
+          "zh": "我剛吃完飯。"
+        },
+        {
+          "es": "Acaba de llegar el tren.",
+          "zh": "火車剛到。"
+        },
+        {
+          "es": "Acabamos de verla.",
+          "zh": "我們剛看到她。"
+        }
+      ]
+    },
+    {
+      "pattern": "Volver a + infinitivo",
+      "meaning_zh": "「再次…」結構：volver 的現在式 + a + 原形動詞，表達動作重複。",
+      "structure": "Volver (presente) + a + infinitivo",
+      "examples": [
+        {
+          "es": "Vuelvo a leer el libro.",
+          "zh": "我再讀一次這本書。"
+        },
+        {
+          "es": "Vuelven a llamar.",
+          "zh": "他們又打電話來。"
+        },
+        {
+          "es": "No vuelvas a hacer eso.",
+          "zh": "不要再做那件事了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Empezar a + infinitivo",
+      "meaning_zh": "「開始…」結構：empezar/comenzar 的現在式 + a + 原形動詞。",
+      "structure": "Empezar / Comenzar + a + infinitivo",
+      "examples": [
+        {
+          "es": "Empiezo a entender el español.",
+          "zh": "我開始懂西班牙語了。"
+        },
+        {
+          "es": "Empezamos a trabajar a las ocho.",
+          "zh": "我們八點開始工作。"
+        },
+        {
+          "es": "Comenzó a llover.",
+          "zh": "開始下雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Dejar de + infinitivo",
+      "meaning_zh": "「停止／不再…」結構：dejar 的現在式 + de + 原形動詞。",
+      "structure": "Dejar + de + infinitivo",
+      "examples": [
+        {
+          "es": "He dejado de fumar.",
+          "zh": "我戒菸了。"
+        },
+        {
+          "es": "Deja de hablar, por favor.",
+          "zh": "請別再說話了。"
+        },
+        {
+          "es": "Dejó de llover.",
+          "zh": "雨停了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Seguir + gerundio",
+      "meaning_zh": "「繼續…」結構：seguir 的現在式 + 副動詞 (gerundio)，表示動作仍在進行。",
+      "structure": "Seguir + gerundio",
+      "examples": [
+        {
+          "es": "Sigo estudiando español.",
+          "zh": "我繼續學西班牙語。"
+        },
+        {
+          "es": "Sigue trabajando en la misma empresa.",
+          "zh": "他還在同一家公司工作。"
+        },
+        {
+          "es": "Seguimos esperando el autobús.",
+          "zh": "我們繼續等公車。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hay que + infinitivo (obligación impersonal)",
+      "meaning_zh": "「必須…」的非人稱表達，泛指對所有人有效的規定或建議。",
+      "structure": "Hay que + infinitivo",
+      "examples": [
+        {
+          "es": "Hay que estudiar para aprobar.",
+          "zh": "必須念書才能及格。"
+        },
+        {
+          "es": "Hay que comer sano.",
+          "zh": "必須吃得健康。"
+        },
+        {
+          "es": "Hay que respetar las normas.",
+          "zh": "必須遵守規則。"
+        }
+      ]
+    },
+    {
+      "pattern": "Deber + infinitivo (obligación moral / consejo)",
+      "meaning_zh": "deber + 原形動詞 表達道德義務或建議，比 tener que 委婉。",
+      "structure": "Deber + infinitivo",
+      "examples": [
+        {
+          "es": "Debes llegar a tiempo.",
+          "zh": "你應該準時到。"
+        },
+        {
+          "es": "Debemos ayudar a los demás.",
+          "zh": "我們應該幫助他人。"
+        },
+        {
+          "es": "No debes mentir.",
+          "zh": "你不應該說謊。"
+        }
+      ]
+    },
+    {
+      "pattern": "Querer + infinitivo",
+      "meaning_zh": "「想要做…」結構：querer 的現在式 + 原形動詞，表達意願。",
+      "structure": "Querer + infinitivo",
+      "examples": [
+        {
+          "es": "Quiero aprender italiano.",
+          "zh": "我想學義大利語。"
+        },
+        {
+          "es": "¿Quieres tomar algo?",
+          "zh": "你想喝點什麼嗎？"
+        },
+        {
+          "es": "Queremos viajar a Europa.",
+          "zh": "我們想去歐洲旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Poder + infinitivo",
+      "meaning_zh": "「能夠做…」結構：poder 的現在式 + 原形動詞，表達能力或許可。",
+      "structure": "Poder + infinitivo",
+      "examples": [
+        {
+          "es": "Puedo hablar tres idiomas.",
+          "zh": "我能說三種語言。"
+        },
+        {
+          "es": "¿Puedo entrar?",
+          "zh": "我可以進來嗎？"
+        },
+        {
+          "es": "No podemos ir hoy.",
+          "zh": "我們今天不能去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preferir + infinitivo / que + subj",
+      "meaning_zh": "preferir 表「比較喜歡」，後接原形動詞或 que + 虛擬式（不同主語時）。",
+      "structure": "Preferir + infinitivo / que + subjuntivo",
+      "examples": [
+        {
+          "es": "Prefiero quedarme en casa.",
+          "zh": "我比較想待在家。"
+        },
+        {
+          "es": "Prefiero que vengas mañana.",
+          "zh": "我比較希望你明天來。"
+        },
+        {
+          "es": "Prefieren ir en coche.",
+          "zh": "他們比較想開車去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Indirect speech — presente",
+      "meaning_zh": "間接引語：直接話「Tengo hambre」→ 間接話 dice que tiene hambre，使用 que + 動詞。",
+      "structure": "Dice / pregunta que + verbo (presente)",
+      "examples": [
+        {
+          "es": "Dice que está cansado.",
+          "zh": "他說他累了。"
+        },
+        {
+          "es": "Pregunta si vienes.",
+          "zh": "他問你來不來。"
+        },
+        {
+          "es": "Dice que no quiere comer.",
+          "zh": "他說他不想吃。"
+        }
+      ]
+    },
+    {
+      "pattern": "Indirect speech — pasado simple",
+      "meaning_zh": "用 dijo que… 時，動詞時態通常改為 imperfecto 或 pluscuamperfecto。",
+      "structure": "Dijo que + imperfecto",
+      "examples": [
+        {
+          "es": "Dijo que estaba cansado.",
+          "zh": "他說他很累。"
+        },
+        {
+          "es": "Dijo que venía mañana.",
+          "zh": "他說他明天會來。"
+        },
+        {
+          "es": "Preguntó si yo tenía tiempo.",
+          "zh": "他問我有沒有時間。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivo antes vs después del sustantivo",
+      "meaning_zh": "西語形容詞通常在名詞之後；放在名詞前常帶主觀情感色彩或意義改變。",
+      "structure": "sustantivo + adjetivo (común) / adjetivo + sustantivo (énfasis)",
+      "examples": [
+        {
+          "es": "Un coche caro.",
+          "zh": "一台貴的車。"
+        },
+        {
+          "es": "Una gran ciudad.",
+          "zh": "一座偉大的城市。"
+        },
+        {
+          "es": "Mi viejo amigo.",
+          "zh": "我的老朋友（舊識）。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivos apocopados (buen, mal, gran, primer)",
+      "meaning_zh": "bueno, malo, grande, primero, tercero 放在陽性單數名詞前時去掉字尾：buen, mal, gran, primer, tercer。",
+      "structure": "buen/mal/gran/primer/tercer + sustantivo masculino singular",
+      "examples": [
+        {
+          "es": "Es un buen amigo.",
+          "zh": "他是個好朋友。"
+        },
+        {
+          "es": "Hace mal tiempo.",
+          "zh": "天氣很糟。"
+        },
+        {
+          "es": "Vivo en el primer piso.",
+          "zh": "我住在一樓（西語第一層）。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ser + profesión / nacionalidad",
+      "meaning_zh": "ser 用於職業或國籍，通常不加冠詞：「Soy médico」「Es española」。",
+      "structure": "Ser + profesión / nacionalidad (sin artículo)",
+      "examples": [
+        {
+          "es": "Mi madre es profesora.",
+          "zh": "我媽是老師。"
+        },
+        {
+          "es": "Soy taiwanés.",
+          "zh": "我是台灣人。"
+        },
+        {
+          "es": "Mis amigos son arquitectos.",
+          "zh": "我的朋友是建築師。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + participio (resultado / estado)",
+      "meaning_zh": "estar + 過去分詞 表示動作的結果或目前的狀態：「La puerta está cerrada」。",
+      "structure": "Estar + participio (concordancia)",
+      "examples": [
+        {
+          "es": "La tienda está cerrada.",
+          "zh": "店關門了。"
+        },
+        {
+          "es": "Los platos están limpios.",
+          "zh": "盤子是乾淨的。"
+        },
+        {
+          "es": "La carta está escrita.",
+          "zh": "信寫好了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ser + participio (voz pasiva)",
+      "meaning_zh": "被動語態：ser + 過去分詞 + (por + 行為者)，分詞需與主詞配合。",
+      "structure": "Ser + participio + (por + agente)",
+      "examples": [
+        {
+          "es": "La carta fue escrita por Juan.",
+          "zh": "信是胡安寫的。"
+        },
+        {
+          "es": "El libro es leído por muchos.",
+          "zh": "這本書被很多人讀過。"
+        },
+        {
+          "es": "Las puertas son abiertas a las nueve.",
+          "zh": "門在九點時被打開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pasiva refleja con «se»",
+      "meaning_zh": "用 se + 第三人稱動詞表達被動：「Se vende casa」「Aquí se habla español」。",
+      "structure": "Se + verbo 3ª persona + sustantivo",
+      "examples": [
+        {
+          "es": "Se vende coche.",
+          "zh": "賣車。"
+        },
+        {
+          "es": "Aquí se habla inglés.",
+          "zh": "這裡說英語。"
+        },
+        {
+          "es": "Se hablan dos idiomas.",
+          "zh": "（這裡）有人說兩種語言。"
+        }
+      ]
+    },
+    {
+      "pattern": "Se impersonal",
+      "meaning_zh": "se + 第三人稱單數動詞表達泛指主詞：「Se vive bien aquí」「No se puede fumar」。",
+      "structure": "Se + verbo 3ª persona singular",
+      "examples": [
+        {
+          "es": "Se vive bien aquí.",
+          "zh": "這裡生活很好。"
+        },
+        {
+          "es": "No se puede entrar.",
+          "zh": "不能進入。"
+        },
+        {
+          "es": "Se come muy bien en este restaurante.",
+          "zh": "這家餐廳的食物很好吃。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres indefinidos (alguien, nadie, algo, nada)",
+      "meaning_zh": "alguien/nadie 指人；algo/nada 指物。否定時動詞前需加 no：No veo a nadie。",
+      "structure": "(No) + verbo + alguien/nadie/algo/nada",
+      "examples": [
+        {
+          "es": "¿Hay alguien en casa?",
+          "zh": "家裡有人嗎？"
+        },
+        {
+          "es": "No veo a nadie.",
+          "zh": "我沒看到任何人。"
+        },
+        {
+          "es": "No quiero nada.",
+          "zh": "我什麼都不想要。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivos / pronombres indefinidos (algún, ningún)",
+      "meaning_zh": "algún/alguna/algunos/algunas 表「某些」；ningún/ninguna 表「沒有任何」，否定時動詞前加 no。",
+      "structure": "algún/ningún + sust. masc. sing.",
+      "examples": [
+        {
+          "es": "¿Tienes algún libro?",
+          "zh": "你有什麼書嗎？"
+        },
+        {
+          "es": "No tengo ningún problema.",
+          "zh": "我沒有任何問題。"
+        },
+        {
+          "es": "Algunas chicas vinieron.",
+          "zh": "有些女孩來了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Todo / toda / todos / todas",
+      "meaning_zh": "todo/a/os/as 與冠詞並用表「全部的…」：todo el día, todas las semanas。",
+      "structure": "Todo(s) / Toda(s) + artículo + sustantivo",
+      "examples": [
+        {
+          "es": "Trabajo todo el día.",
+          "zh": "我整天工作。"
+        },
+        {
+          "es": "Todas las mañanas tomo café.",
+          "zh": "我每天早上喝咖啡。"
+        },
+        {
+          "es": "Conozco a todos los profesores.",
+          "zh": "我認識所有老師。"
+        }
+      ]
+    },
+    {
+      "pattern": "Otro / otra / otros / otras",
+      "meaning_zh": "otro/a/os/as 表「另一個／其他的」，不加 un/una：otro café (另一杯咖啡)。",
+      "structure": "Otro(s) / Otra(s) + sustantivo",
+      "examples": [
+        {
+          "es": "Quiero otro café.",
+          "zh": "我想再來一杯咖啡。"
+        },
+        {
+          "es": "Vendrán otros amigos.",
+          "zh": "其他朋友會來。"
+        },
+        {
+          "es": "Necesito otra oportunidad.",
+          "zh": "我需要另一個機會。"
+        }
+      ]
+    },
+    {
+      "pattern": "Muy vs Mucho + sustantivo / verbo",
+      "meaning_zh": "muy 修飾形容詞/副詞 (muy alto)；mucho 修飾名詞或動詞 (mucho dinero, trabajo mucho)。",
+      "structure": "muy + adj/adv / mucho(s)/mucha(s) + sust / verbo + mucho",
+      "examples": [
+        {
+          "es": "Tengo mucha hambre.",
+          "zh": "我很餓。"
+        },
+        {
+          "es": "Es muy interesante.",
+          "zh": "這很有趣。"
+        },
+        {
+          "es": "Trabaja mucho.",
+          "zh": "他工作很多。"
+        }
+      ]
+    },
+    {
+      "pattern": "Demasiado / Bastante / Poco",
+      "meaning_zh": "demasiado 太多；bastante 相當／夠；poco 少。形容詞用時隨名詞變化。",
+      "structure": "demasiado(s)/bastante(s)/poco(s) + sust/adj",
+      "examples": [
+        {
+          "es": "Hace demasiado frío.",
+          "zh": "太冷了。"
+        },
+        {
+          "es": "Tengo bastante tiempo.",
+          "zh": "我有足夠的時間。"
+        },
+        {
+          "es": "Hay pocas personas.",
+          "zh": "人很少。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios de modo en -mente",
+      "meaning_zh": "陰性形容詞 + mente 變成方式副詞：rápida → rápidamente, fácil → fácilmente。",
+      "structure": "Adj. femenino + -mente",
+      "examples": [
+        {
+          "es": "Habla rápidamente.",
+          "zh": "他說得很快。"
+        },
+        {
+          "es": "Lo hizo fácilmente.",
+          "zh": "他輕鬆地做到了。"
+        },
+        {
+          "es": "Llegó tranquilamente.",
+          "zh": "他冷靜地到達。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios de frecuencia (siempre, a veces, nunca)",
+      "meaning_zh": "siempre 總是；a veces 有時；nunca 從不；casi nunca 幾乎不；a menudo 經常。",
+      "structure": "siempre / a veces / nunca + verbo",
+      "examples": [
+        {
+          "es": "Siempre desayuno café.",
+          "zh": "我總是早餐喝咖啡。"
+        },
+        {
+          "es": "A veces voy al cine.",
+          "zh": "我有時去看電影。"
+        },
+        {
+          "es": "Nunca como carne.",
+          "zh": "我從不吃肉。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ya vs Todavía / Aún",
+      "meaning_zh": "ya 表「已經」；todavía/aún 表「還／仍然」。否定句中 todavía no = 還沒。",
+      "structure": "Ya / Todavía (aún) / Todavía no",
+      "examples": [
+        {
+          "es": "Ya he comido.",
+          "zh": "我已經吃過了。"
+        },
+        {
+          "es": "Todavía estudio español.",
+          "zh": "我還在學西班牙語。"
+        },
+        {
+          "es": "Todavía no ha llegado.",
+          "zh": "他還沒到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Acabar de + inf vs Empezar a + inf",
+      "meaning_zh": "acabar de 表剛剛完成；empezar a 表剛開始。兩者皆與當下相關聯。",
+      "structure": "Acabar de + inf (剛完成) / Empezar a + inf (剛開始)",
+      "examples": [
+        {
+          "es": "Acabo de empezar a estudiar.",
+          "zh": "我剛開始學習。"
+        },
+        {
+          "es": "Acaba de salir el sol.",
+          "zh": "太陽剛出來。"
+        },
+        {
+          "es": "Empezamos a comer.",
+          "zh": "我們開始吃飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con preposición «a» (ir a, venir a, ayudar a)",
+      "meaning_zh": "許多動詞固定搭配 a：ir a, venir a, empezar a, aprender a, ayudar a。",
+      "structure": "Verbo + a + (infinitivo / persona)",
+      "examples": [
+        {
+          "es": "Voy a comer.",
+          "zh": "我要去吃飯。"
+        },
+        {
+          "es": "Aprendo a tocar el piano.",
+          "zh": "我在學彈鋼琴。"
+        },
+        {
+          "es": "Ayudo a mi madre.",
+          "zh": "我幫助我媽媽。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con preposición «de» (acordarse de, salir de)",
+      "meaning_zh": "常見動詞固定搭配 de：acordarse de, depender de, salir de, terminar de, tratar de。",
+      "structure": "Verbo + de + (sust / infinitivo)",
+      "examples": [
+        {
+          "es": "Me acuerdo de ti.",
+          "zh": "我記得你。"
+        },
+        {
+          "es": "Salgo de casa a las ocho.",
+          "zh": "我八點出門。"
+        },
+        {
+          "es": "Acabo de terminar de comer.",
+          "zh": "我剛吃完飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con preposición «en» (pensar en, confiar en)",
+      "meaning_zh": "常見動詞搭配 en：pensar en (想著), confiar en (信任), creer en (相信)。",
+      "structure": "Verbo + en + sust/pron",
+      "examples": [
+        {
+          "es": "Pienso en ti.",
+          "zh": "我想著你。"
+        },
+        {
+          "es": "Confío en mis amigos.",
+          "zh": "我信任我的朋友。"
+        },
+        {
+          "es": "Cree en sus sueños.",
+          "zh": "他相信自己的夢想。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con «con» (soñar con, contar con)",
+      "meaning_zh": "常見動詞搭配 con：soñar con (夢見), contar con (依靠), hablar con (與…說話)。",
+      "structure": "Verbo + con + sust/pron",
+      "examples": [
+        {
+          "es": "Sueño con viajar a España.",
+          "zh": "我夢想去西班牙旅行。"
+        },
+        {
+          "es": "Cuento contigo.",
+          "zh": "我相信你（指望你）。"
+        },
+        {
+          "es": "Hablo con mi madre todos los días.",
+          "zh": "我每天和我媽說話。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos pronominales (quejarse, atreverse, arrepentirse)",
+      "meaning_zh": "某些動詞必須搭配反身代名詞使用：quejarse de (抱怨), atreverse a (敢於), arrepentirse de (後悔)。",
+      "structure": "se + verbo + preposición",
+      "examples": [
+        {
+          "es": "Se queja del ruido.",
+          "zh": "他抱怨吵鬧。"
+        },
+        {
+          "es": "No me atrevo a hablar.",
+          "zh": "我不敢說話。"
+        },
+        {
+          "es": "Me arrepiento de no haber estudiado.",
+          "zh": "我後悔沒有念書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar a punto de + infinitivo",
+      "meaning_zh": "「即將…」結構，表示馬上要發生的動作。",
+      "structure": "Estar a punto de + infinitivo",
+      "examples": [
+        {
+          "es": "Estoy a punto de salir.",
+          "zh": "我即將出門。"
+        },
+        {
+          "es": "Está a punto de llover.",
+          "zh": "快要下雨了。"
+        },
+        {
+          "es": "Estábamos a punto de comer cuando llegó.",
+          "zh": "他來的時候我們正要吃飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tener ganas de + infinitivo",
+      "meaning_zh": "「想要做…／渴望…」結構，表達主觀情感或欲望。",
+      "structure": "Tener ganas de + infinitivo",
+      "examples": [
+        {
+          "es": "Tengo ganas de viajar.",
+          "zh": "我很想去旅行。"
+        },
+        {
+          "es": "No tengo ganas de salir hoy.",
+          "zh": "我今天不想出門。"
+        },
+        {
+          "es": "Tenemos ganas de verte.",
+          "zh": "我們很想見你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tener que vs Hay que vs Deber",
+      "meaning_zh": "tener que 個人義務；hay que 泛指義務；deber 道德建議。三者強度與用法不同。",
+      "structure": "(Persona) tener que / Hay que / Deber + infinitivo",
+      "examples": [
+        {
+          "es": "Tengo que ir al banco.",
+          "zh": "我必須去銀行。"
+        },
+        {
+          "es": "Hay que tener paciencia.",
+          "zh": "必須有耐心。"
+        },
+        {
+          "es": "Debes respetar a tus padres.",
+          "zh": "你應該尊敬父母。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pluscuamperfecto — había + participio",
+      "meaning_zh": "過去完成式：haber 的 imperfecto (había, habías…) + 過去分詞，表「在過去某時點之前已完成」。",
+      "structure": "había/habías/había… + participio",
+      "examples": [
+        {
+          "es": "Cuando llegué, ya había salido.",
+          "zh": "我到的時候，他已經出門了。"
+        },
+        {
+          "es": "Nunca había visto el mar.",
+          "zh": "我從來沒看過海。"
+        },
+        {
+          "es": "Me dijo que había comido.",
+          "zh": "他告訴我他已經吃過了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Para vs Por con personas",
+      "meaning_zh": "para + 人 = 為了某人（接收者）；por + 人 = 為了某人（理由／代替）。",
+      "structure": "para/por + persona",
+      "examples": [
+        {
+          "es": "Este regalo es para ti.",
+          "zh": "這個禮物是給你的。"
+        },
+        {
+          "es": "Lo hago por ti.",
+          "zh": "我為你做這件事。"
+        },
+        {
+          "es": "Vino por su madre.",
+          "zh": "他為了他媽媽而來。"
+        }
+      ]
+    },
+    {
+      "pattern": "Numerales ordinales (primero, segundo, tercero…)",
+      "meaning_zh": "序數：primero, segundo, tercero, cuarto, quinto…。陽性單數形 primero/tercero 在名詞前縮短為 primer/tercer。",
+      "structure": "primer(o)/segundo/tercer(o)/cuarto/quinto + sust",
+      "examples": [
+        {
+          "es": "Vivo en el primer piso.",
+          "zh": "我住在第一層。"
+        },
+        {
+          "es": "Es la segunda vez.",
+          "zh": "這是第二次。"
+        },
+        {
+          "es": "Es mi tercer hijo.",
+          "zh": "這是我第三個孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres demostrativos (este/ese/aquel)",
+      "meaning_zh": "三度距離指示代名詞：este (近說話者), ese (近聽話者), aquel (遠離兩者)。",
+      "structure": "Este(s)/Esta(s) / Ese(s)/Esa(s) / Aquel(los)/Aquella(s)",
+      "examples": [
+        {
+          "es": "Este libro es mío.",
+          "zh": "這本書是我的。"
+        },
+        {
+          "es": "Ese coche es nuevo.",
+          "zh": "那台車是新的。"
+        },
+        {
+          "es": "Aquella casa es grande.",
+          "zh": "那邊的那房子很大。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres posesivos tónicos (mío, tuyo, suyo)",
+      "meaning_zh": "強調式所有格：el mío, la tuya, los suyos。可作代名詞或形容詞（置於名詞後）。",
+      "structure": "(el/la/los/las) + mío/tuyo/suyo/nuestro/vuestro",
+      "examples": [
+        {
+          "es": "Este libro es mío.",
+          "zh": "這本書是我的。"
+        },
+        {
+          "es": "Un amigo mío vive en Roma.",
+          "zh": "我的一個朋友住在羅馬。"
+        },
+        {
+          "es": "La casa es nuestra.",
+          "zh": "這房子是我們的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Si + presente, presente / futuro (condicional real)",
+      "meaning_zh": "真實條件句：Si + 現在式 + 現在式/未來式/命令式，描述可能發生的情況。",
+      "structure": "Si + presente, presente / futuro / imperativo",
+      "examples": [
+        {
+          "es": "Si llueve, no salgo.",
+          "zh": "如果下雨，我就不出門。"
+        },
+        {
+          "es": "Si estudias, aprobarás.",
+          "zh": "如果你念書，你就會及格。"
+        },
+        {
+          "es": "Si tienes tiempo, llámame.",
+          "zh": "如果你有時間，打電話給我。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preguntas indirectas (saber si / preguntar si)",
+      "meaning_zh": "間接問句以 si (是否) 或疑問詞 + indicativo 構成。",
+      "structure": "Saber/preguntar + si / qué / dónde / cuándo + verbo",
+      "examples": [
+        {
+          "es": "No sé si vendrá.",
+          "zh": "我不知道他會不會來。"
+        },
+        {
+          "es": "Pregúntale dónde vive.",
+          "zh": "問他住在哪裡。"
+        },
+        {
+          "es": "No sé qué hacer.",
+          "zh": "我不知道該做什麼。"
+        }
+      ]
+    },
+    {
+      "pattern": "Exclamativos (¡Qué…! ¡Cómo…! ¡Cuánto…!)",
+      "meaning_zh": "感嘆句：¡Qué bonito! 多麼漂亮！¡Cómo llueve! 雨下得多大！¡Cuánto trabajo! 工作好多！",
+      "structure": "¡Qué/Cómo/Cuánto + adj/verbo/sust!",
+      "examples": [
+        {
+          "es": "¡Qué bonito es!",
+          "zh": "多麼漂亮啊！"
+        },
+        {
+          "es": "¡Cómo corre!",
+          "zh": "他跑得多快啊！"
+        },
+        {
+          "es": "¡Cuánta gente hay!",
+          "zh": "好多人喔！"
+        }
+      ]
+    },
+    {
+      "pattern": "Diminutivos -ito / -ita",
+      "meaning_zh": "在名詞或形容詞後加 -ito/-ita 表達小、可愛或親密感：casa → casita, momento → momentito。",
+      "structure": "Sustantivo/adj + -ito/-ita",
+      "examples": [
+        {
+          "es": "Vive en una casita.",
+          "zh": "他住在一間小房子裡。"
+        },
+        {
+          "es": "Espera un momentito.",
+          "zh": "等一小下。"
+        },
+        {
+          "es": "Es un perrito muy lindo.",
+          "zh": "這是一隻很可愛的小狗。"
+        }
+      ]
+    },
+    {
+      "pattern": "Marcadores de secuencia (primero, luego, después, finalmente)",
+      "meaning_zh": "敘述順序用語：primero (首先), luego/después (然後), por último/finalmente (最後)。",
+      "structure": "Primero… luego… finalmente…",
+      "examples": [
+        {
+          "es": "Primero estudio, luego salgo.",
+          "zh": "我先念書，然後出門。"
+        },
+        {
+          "es": "Después de comer, fuimos al parque.",
+          "zh": "吃完飯後，我們去公園。"
+        },
+        {
+          "es": "Finalmente, nos fuimos a dormir.",
+          "zh": "最後，我們去睡覺了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Negaciones dobles (no… nada / nunca / nadie)",
+      "meaning_zh": "西語允許雙重否定：當否定詞出現在動詞後時，動詞前必須加 no。",
+      "structure": "No + verbo + nada / nunca / nadie",
+      "examples": [
+        {
+          "es": "No quiero nada.",
+          "zh": "我什麼都不想要。"
+        },
+        {
+          "es": "No viene nadie.",
+          "zh": "沒有人會來。"
+        },
+        {
+          "es": "No voy nunca a la playa.",
+          "zh": "我從不去海邊。"
+        }
+      ]
+    },
+    {
+      "pattern": "Lo + adjetivo (lo bueno, lo malo)",
+      "meaning_zh": "中性冠詞 lo + 形容詞 = 「…的事／…之處」：「Lo bueno es que…」。",
+      "structure": "Lo + adjetivo / participio",
+      "examples": [
+        {
+          "es": "Lo bueno es que está cerca.",
+          "zh": "好的是它很近。"
+        },
+        {
+          "es": "Lo importante es la salud.",
+          "zh": "重要的是健康。"
+        },
+        {
+          "es": "Lo difícil es empezar.",
+          "zh": "困難的是開始。"
+        }
+      ]
+    },
+    {
+      "pattern": "Lo que (相對代名詞)",
+      "meaning_zh": "lo que 指「…的事」，連接整句概念：「Lo que dijo es verdad」。",
+      "structure": "Lo que + verbo",
+      "examples": [
+        {
+          "es": "Lo que dices es interesante.",
+          "zh": "你說的事情很有趣。"
+        },
+        {
+          "es": "No entiendo lo que quieres.",
+          "zh": "我不懂你想要什麼。"
+        },
+        {
+          "es": "Lo que me gusta es viajar.",
+          "zh": "我喜歡的就是旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombre interrogativo «cuál»",
+      "meaning_zh": "cuál/cuáles 用於選擇某個特定項目：「¿Cuál prefieres?」，與 qué 不同。",
+      "structure": "¿Cuál(es) + verbo?",
+      "examples": [
+        {
+          "es": "¿Cuál prefieres, el rojo o el azul?",
+          "zh": "你比較喜歡哪個，紅的還是藍的？"
+        },
+        {
+          "es": "¿Cuál es tu nombre?",
+          "zh": "你叫什麼名字？"
+        },
+        {
+          "es": "¿Cuáles son tus libros?",
+          "zh": "哪些是你的書？"
+        }
+      ]
+    },
+    {
+      "pattern": "Qué vs Cuál",
+      "meaning_zh": "qué 用於詢問定義或本質；cuál 用於從一群選項中選擇。",
+      "structure": "¿Qué + sust? / ¿Cuál + verbo?",
+      "examples": [
+        {
+          "es": "¿Qué libro prefieres?",
+          "zh": "你比較喜歡哪本書（種類）？"
+        },
+        {
+          "es": "¿Cuál de estos libros prefieres?",
+          "zh": "這些書中你比較喜歡哪本？"
+        },
+        {
+          "es": "¿Qué es esto?",
+          "zh": "這是什麼？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos «volverse / ponerse / hacerse» (cambio)",
+      "meaning_zh": "三種變化動詞：ponerse 暫時情緒；volverse 性格突變；hacerse 努力達成。",
+      "structure": "Ponerse / Volverse / Hacerse + adj/sust",
+      "examples": [
+        {
+          "es": "Se puso nervioso.",
+          "zh": "他變得緊張。"
+        },
+        {
+          "es": "Se volvió loco.",
+          "zh": "他變瘋了。"
+        },
+        {
+          "es": "Se hizo médico.",
+          "zh": "他成為醫生。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tan pronto como / En cuanto",
+      "meaning_zh": "「一…就…」用 tan pronto como / en cuanto + indicativo (描述過去事實)。",
+      "structure": "Tan pronto como / En cuanto + verbo",
+      "examples": [
+        {
+          "es": "En cuanto llegué, te llamé.",
+          "zh": "我一到就打給你了。"
+        },
+        {
+          "es": "Tan pronto como pueda, te aviso.",
+          "zh": "我一有空就通知你。"
+        },
+        {
+          "es": "En cuanto termine, salimos.",
+          "zh": "一結束我們就出發。"
+        }
+      ]
+    },
+    {
+      "pattern": "Necesitar / hacer falta",
+      "meaning_zh": "necesitar 主動表達需要；hacer falta 似 gustar 結構，表「對某人來說缺…」。",
+      "structure": "Necesitar + sust/inf / Me hace falta + sust",
+      "examples": [
+        {
+          "es": "Necesito dormir más.",
+          "zh": "我需要多睡點。"
+        },
+        {
+          "es": "Me hace falta más tiempo.",
+          "zh": "我缺更多時間。"
+        },
+        {
+          "es": "Necesitamos ayuda.",
+          "zh": "我們需要幫助。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + adjetivo de emoción",
+      "meaning_zh": "estar 表達情緒狀態：estar contento/triste/enfadado/preocupado/nervioso。",
+      "structure": "Estar + adjetivo de emoción",
+      "examples": [
+        {
+          "es": "Estoy muy contento.",
+          "zh": "我很高興。"
+        },
+        {
+          "es": "Está enfadada conmigo.",
+          "zh": "她在生我的氣。"
+        },
+        {
+          "es": "Estamos preocupados por ti.",
+          "zh": "我們在擔心你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «tardar en + infinitivo»",
+      "meaning_zh": "tardar 表「花費（時間）做某事」：Tardé dos horas en llegar。",
+      "structure": "Tardar + tiempo + en + infinitivo",
+      "examples": [
+        {
+          "es": "Tardé dos horas en llegar.",
+          "zh": "我花了兩小時才到。"
+        },
+        {
+          "es": "¿Cuánto tardas en levantarte?",
+          "zh": "你起床要花多久？"
+        },
+        {
+          "es": "Tardamos mucho en comer.",
+          "zh": "我們花很久才吃完。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «soler + infinitivo»",
+      "meaning_zh": "soler 表「通常／習慣於…」：Suelo desayunar a las ocho。",
+      "structure": "Soler (presente o imperfecto) + infinitivo",
+      "examples": [
+        {
+          "es": "Suelo levantarme temprano.",
+          "zh": "我通常早起。"
+        },
+        {
+          "es": "Solía vivir en Madrid.",
+          "zh": "我以前住在馬德里。"
+        },
+        {
+          "es": "Solemos comer en casa.",
+          "zh": "我們通常在家吃飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hacer + tiempo meteorológico",
+      "meaning_zh": "天氣用 hacer + 名詞：hace sol/frío/calor/viento/buen tiempo/mal tiempo。",
+      "structure": "Hace + sustantivo (clima)",
+      "examples": [
+        {
+          "es": "Hace mucho frío hoy.",
+          "zh": "今天很冷。"
+        },
+        {
+          "es": "Hace buen tiempo.",
+          "zh": "天氣很好。"
+        },
+        {
+          "es": "Ayer hizo mucho viento.",
+          "zh": "昨天風很大。"
+        }
+      ]
+    },
+    {
+      "pattern": "Está / Hay (climática) — nublado, lluvia",
+      "meaning_zh": "天氣亦可用 estar + 形容詞 (está nublado) 或 hay + 名詞 (hay tormenta/niebla)。",
+      "structure": "Está + adj / Hay + sustantivo (clima)",
+      "examples": [
+        {
+          "es": "Está nublado.",
+          "zh": "天空多雲。"
+        },
+        {
+          "es": "Hay tormenta.",
+          "zh": "有暴風雨。"
+        },
+        {
+          "es": "Hoy hay niebla.",
+          "zh": "今天有霧。"
+        }
+      ]
+    },
+    {
+      "pattern": "Recién + participio",
+      "meaning_zh": "recién + 過去分詞表「剛剛被…」：recién casados / recién hecho。",
+      "structure": "Recién + participio",
+      "examples": [
+        {
+          "es": "Son recién casados.",
+          "zh": "他們是新婚夫妻。"
+        },
+        {
+          "es": "El pan está recién hecho.",
+          "zh": "麵包剛出爐。"
+        },
+        {
+          "es": "Estos zapatos están recién comprados.",
+          "zh": "這雙鞋剛買的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + lugar (ubicación temporal)",
+      "meaning_zh": "estar 用於表達位置，無論是人、物或暫時情況：Estoy en casa。",
+      "structure": "Estar + en/sobre/cerca de + lugar",
+      "examples": [
+        {
+          "es": "Estoy en la oficina.",
+          "zh": "我在辦公室。"
+        },
+        {
+          "es": "El libro está sobre la mesa.",
+          "zh": "書在桌上。"
+        },
+        {
+          "es": "Madrid está en España.",
+          "zh": "馬德里在西班牙。"
+        }
+      ]
     }
   ],
   "db1": [

@@ -1431,6 +1431,1282 @@
       ],
       "answer": 3,
       "explanation_zh": "泛指「必須」用無人稱 «hay que»，故選 (D) hay。(A) tiene、(B) tienes、(C) tengo 皆是 «tener que» 形式，必須指明主詞，與此處無人稱語境不符。"
+    },
+    {
+      "question_es": "La semana pasada mis padres ___ a Barcelona para visitarme.",
+      "options": [
+        "vinieron",
+        "venían",
+        "vienen",
+        "han venido"
+      ],
+      "answer": 0,
+      "explanation_zh": "«la semana pasada» 為過去明確時間點，需用 pretérito indefinido，動詞 venir 第三人稱複數為 vinieron，故選 (A) vinieron。(B) venían 為 imperfecto 表習慣或背景、(C) vienen 為現在式、(D) han venido 為現在完成式不搭配封閉的過去時間，皆不符。"
+    },
+    {
+      "question_es": "Esta mañana (yo) ___ café con leche y una tostada.",
+      "options": [
+        "desayuné",
+        "desayunaba",
+        "he desayunado",
+        "desayunaré"
+      ],
+      "answer": 2,
+      "explanation_zh": "«esta mañana» 屬尚未結束的時間範圍，西班牙西語常用 pretérito perfecto，故選 (C) he desayunado。(A) desayuné 為 indefinido 適用於已結束的過去、(B) desayunaba 表習慣或背景、(D) desayunaré 為未來式，皆不符。"
+    },
+    {
+      "question_es": "Cuando ___ pequeña, mi abuela me contaba cuentos cada noche.",
+      "options": [
+        "fui",
+        "estaba",
+        "soy",
+        "era"
+      ],
+      "answer": 3,
+      "explanation_zh": "描述過去的年齡、特徵屬背景描述，需用 ser 的 imperfecto，故選 (D) era。(A) fui 為 indefinido 表單次完成、(C) soy 為現在式、(B) estaba 表暫時狀態而非身分，皆不符。"
+    },
+    {
+      "question_es": "Mientras yo cocinaba, mi hijo ___ los deberes en el salón.",
+      "options": [
+        "hizo",
+        "ha hecho",
+        "hace",
+        "hacía"
+      ],
+      "answer": 3,
+      "explanation_zh": "兩個過去同時持續的背景動作都用 imperfecto，故選 (D) hacía。(A) hizo 為單次完成動作、(C) hace 為現在式、(B) ha hecho 為現在完成式，皆不符同時進行語境。"
+    },
+    {
+      "question_es": "Anoche, cuando yo dormía, ___ un ruido muy fuerte en la calle.",
+      "options": [
+        "escuchaba",
+        "escucho",
+        "escuché",
+        "escucharé"
+      ],
+      "answer": 2,
+      "explanation_zh": "在過去持續動作（dormía）中插入的單次突發事件用 indefinido，故選 (C) escuché。(A) escuchaba 表持續或習慣、(B) escucho 為現在式、(D) escucharé 為未來式，皆不符。"
+    },
+    {
+      "question_es": "El próximo verano (nosotros) ___ a Italia de vacaciones.",
+      "options": [
+        "iremos",
+        "fuimos",
+        "íbamos",
+        "vamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "«el próximo verano» 指未來時間，需用 futuro simple，ir 第一人稱複數為 iremos，故選 (A) iremos。(B) fuimos 為過去、(C) íbamos 為 imperfecto、(D) vamos 為現在式（雖可表近未來但需加 a + inf.）。"
+    },
+    {
+      "question_es": "Si no llueve, mañana ___ al parque con los niños.",
+      "options": [
+        "iré",
+        "iba",
+        "fui",
+        "vaya"
+      ],
+      "answer": 0,
+      "explanation_zh": "第一型條件句 si + presente, 主句用 futuro，故選 (A) iré。(B) iba 為 imperfecto、(C) fui 為 indefinido、(D) vaya 為 subjuntivo，皆不符語法結構。"
+    },
+    {
+      "question_es": "Me ___ un café, por favor, sin azúcar.",
+      "options": [
+        "pone",
+        "ponga",
+        "pondría",
+        "pones"
+      ],
+      "answer": 2,
+      "explanation_zh": "在餐館客氣點餐用 condicional simple 表禮貌請求，故選 (C) pondría。(A) pone 為現在式語氣不夠客氣、(B) ponga 為 subjuntivo 須搭配命令式 ponga usted、(D) pones 為非正式現在式，皆不符客氣語境。"
+    },
+    {
+      "question_es": "Yo en tu lugar ___ con el médico antes de viajar.",
+      "options": [
+        "hablo",
+        "hablaré",
+        "hablaría",
+        "hablaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "假設性建議「我若是你」用條件式，故選 (C) hablaría。(A) hablo 為現在式、(B) hablaré 為未來式、(D) hablaba 為過去 imperfecto，皆不符假設語境。"
+    },
+    {
+      "question_es": "¡___ la puerta, por favor! Hace mucho frío.",
+      "options": [
+        "Cierra",
+        "Cierras",
+        "Cerrar",
+        "Cerraste"
+      ],
+      "answer": 0,
+      "explanation_zh": "對 tú 的肯定命令式為動詞第三人稱單數現在式形式，cerrar 為 cierra，故選 (A) Cierra。(B) cierras 為陳述式、(C) cerrar 為原形、(D) cerraste 為過去式，皆非命令式。"
+    },
+    {
+      "question_es": "No ___ tan rápido, hijo, te puedes caer.",
+      "options": [
+        "corres",
+        "corre",
+        "corras",
+        "correr"
+      ],
+      "answer": 2,
+      "explanation_zh": "對 tú 的否定命令式須用 presente de subjuntivo，correr 變為 corras，故選 (C) corras。(A) corres 為陳述式、(B) corre 為肯定命令、(D) corre r為原形，皆不符。"
+    },
+    {
+      "question_es": "Señor López, ___ entrada, por favor, le estamos esperando.",
+      "options": [
+        "pasa",
+        "pasar",
+        "pasas",
+        "pase"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 usted 的命令式用 presente de subjuntivo，pasar 變為 pase，故選 (D) pase。(A) pasa 為 tú 命令式、(C) pasas 為陳述式、(B) pasar 為原形，皆不適合正式對 usted 場景。"
+    },
+    {
+      "question_es": "—¿Le has dado el regalo a tu hermana? —Sí, ya ___ he dado.",
+      "options": [
+        "le lo",
+        "se la",
+        "lo le",
+        "se lo"
+      ],
+      "answer": 3,
+      "explanation_zh": "le 在直接受詞代名詞 lo 前須改為 se，且 regalo 為陽性單數搭配 lo，故選 (D) se lo。(A) le lo 為錯誤組合、(C) lo le 順序錯誤、(B) se la 之 la 性別不符 regalo，皆不符。"
+    },
+    {
+      "question_es": "—¿Me prestas tu coche? —Lo siento, no ___ puedo prestar.",
+      "options": [
+        "te lo",
+        "te le",
+        "se lo",
+        "lo te"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接受詞 te（給你）+ 直接受詞 lo（coche 陽性單數），順序為間接+直接，故選 (A) te lo。(B) te le 為錯誤組合、(C) se lo 須有 le/les 條件、(D) lo te 順序顛倒，皆不符。"
+    },
+    {
+      "question_es": "Mi hermana es ___ alta ___ yo, las dos medimos lo mismo.",
+      "options": [
+        "más / que",
+        "tanta / como",
+        "menos / que",
+        "tan / como"
+      ],
+      "answer": 3,
+      "explanation_zh": "表「同等程度」用 tan + adj + como，故選 (D) tan / como。(A)(C) 為比較級不符「一樣高」、(B) tanta 用於修飾陰性名詞而非形容詞，皆不符。"
+    },
+    {
+      "question_es": "Este libro es ___ interesante ___ el otro, pero más corto.",
+      "options": [
+        "tan / que",
+        "más / que",
+        "tanto / como",
+        "tan / como"
+      ],
+      "answer": 3,
+      "explanation_zh": "tan + adj + como 表同等比較，故選 (D) tan / como。(A) tan / que 為錯誤組合、(B) más / que 表優等比較與後句矛盾、(C) tanto 用於修飾名詞或動詞，皆不符。"
+    },
+    {
+      "question_es": "Madrid tiene ___ habitantes ___ Barcelona.",
+      "options": [
+        "más / que",
+        "tan / como",
+        "muy / que",
+        "mucho / que"
+      ],
+      "answer": 0,
+      "explanation_zh": "優等比較「比…更多」用 más + 名詞 + que，故選 (A) más / que。(B) tan…como 用於形容詞、(C) muy 不能比較、(D) mucho 須與名詞性數一致且不搭配 que，皆不符。"
+    },
+    {
+      "question_es": "Esta paella está ___ buena, ¡tienes que probarla!",
+      "options": [
+        "muy",
+        "mucho",
+        "buenísima",
+        "mejor"
+      ],
+      "answer": 2,
+      "explanation_zh": "本句缺空後仍接 buena 不通，最自然句子應使用絕對最高級 buenísima 而省略 buena；但若空格為單獨修飾語，最高級型 -ísimo 表「非常好」最貼切，故選 (C) buenísima（替代 muy buena 的強調用法）。(A) muy buena 也可接受但本題答案指向絕對最高級的單字，(B) mucho 不修飾形容詞、(D) mejor 為比較級語意不符。"
+    },
+    {
+      "question_es": "El Everest es la montaña ___ alta del mundo.",
+      "options": [
+        "la más",
+        "tan",
+        "la muy",
+        "más"
+      ],
+      "answer": 3,
+      "explanation_zh": "已有定冠詞 la 在「montaña」前，最高級結構為 «la + sust. + más + adj. + de»，空格只需 más，故選 (D) más。(A) la más 重複定冠詞、(C) la muy 為錯誤結構、(B) tan 為同等比較，皆不符。"
+    },
+    {
+      "question_es": "Este examen es ___ que el del año pasado.",
+      "options": [
+        "mejor",
+        "más bueno",
+        "muy bueno",
+        "tan bueno"
+      ],
+      "answer": 0,
+      "explanation_zh": "bueno 的比較級為不規則的 mejor，故選 (A) mejor。(B) más bueno 雖可指道德上「人比較善良」，比較事物優劣不可用、(C) muy bueno 非比較級、(D) tan bueno 須接 como，皆不符。"
+    },
+    {
+      "question_es": "Gracias ___ tu ayuda, terminé el proyecto a tiempo.",
+      "options": [
+        "por",
+        "para",
+        "de",
+        "en"
+      ],
+      "answer": 0,
+      "explanation_zh": "«gracias por + 名詞» 表感謝原因，故選 (A) por。(B) para 表目的、(C) de 表所屬、(D) en 表地點時間，皆不適用感謝句型。"
+    },
+    {
+      "question_es": "Estudio español ___ trabajar en una empresa internacional.",
+      "options": [
+        "por",
+        "con",
+        "de",
+        "para"
+      ],
+      "answer": 3,
+      "explanation_zh": "表示「目的」用 para + infinitivo，故選 (D) para。(A) por 表原因、(C) de 表所屬、(B) con 表伴隨，皆不符目的語意。"
+    },
+    {
+      "question_es": "Pasamos ___ el parque cuando volvíamos a casa.",
+      "options": [
+        "para",
+        "a",
+        "en",
+        "por"
+      ],
+      "answer": 3,
+      "explanation_zh": "表「經過某地」用 por，故選 (D) por。(A) para 表終點目的地、(C) en 表「在裡面」、(B) a 表方向，皆不符經過的語意。"
+    },
+    {
+      "question_es": "Este tren sale ___ Sevilla a las nueve de la mañana.",
+      "options": [
+        "por",
+        "en",
+        "de",
+        "para"
+      ],
+      "answer": 3,
+      "explanation_zh": "表「前往某目的地」用 para，故選 (D) para。(A) por 表原因或經過、(C) de 表出發地、(B) en 表內部，皆不符方向目的地語意。"
+    },
+    {
+      "question_es": "Mi padre ___ médico desde hace veinte años.",
+      "options": [
+        "está",
+        "hay",
+        "tiene",
+        "es"
+      ],
+      "answer": 3,
+      "explanation_zh": "表職業屬性用 ser，故選 (D) es。(A) está 表暫時狀態或位置、(C) tiene 為「擁有」、(B) hay 為存在句動詞，皆不符身分職業語意。"
+    },
+    {
+      "question_es": "Hoy mi madre ___ muy contenta porque ha recibido buenas noticias.",
+      "options": [
+        "es",
+        "hay",
+        "tiene",
+        "está"
+      ],
+      "answer": 3,
+      "explanation_zh": "表暫時情緒狀態用 estar，故選 (D) está。(A) es 表本質特徵、(C) tiene 為「擁有」、(B) hay 為存在句，皆不符暫時心情語意。"
+    },
+    {
+      "question_es": "Mi abuelo ya ___ muerto, pero lo recuerdo con cariño.",
+      "options": [
+        "es",
+        "tiene",
+        "ha",
+        "está"
+      ],
+      "answer": 3,
+      "explanation_zh": "muerto/vivo 雖看似永久狀態，但西語慣用 estar，故選 (D) está。(A) es 不搭配 muerto、(C) ha 是助動詞缺主動詞、(B) tiene 為「擁有」，皆不符。"
+    },
+    {
+      "question_es": "El concierto ___ en el estadio nacional el sábado próximo.",
+      "options": [
+        "es",
+        "está",
+        "hay",
+        "tiene"
+      ],
+      "answer": 0,
+      "explanation_zh": "事件（演唱會、會議）的舉行地點用 ser，故選 (A) es。(B) está 用於物體位置、(C) hay 為存在動詞但需不定冠詞或無冠詞、(D) tiene 為「擁有」，皆不符事件發生地的用法。"
+    },
+    {
+      "question_es": "___ que estudiar mucho si quieres aprobar el examen.",
+      "options": [
+        "Tengo",
+        "Tienes",
+        "Hay",
+        "Tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "表泛指「必須」用無人稱 hay que，故選 (C) Hay。(A) Tengo、(B) Tienes、(D) Tiene 皆為 tener que 形式需指明主詞，與「泛指規則」語境不符。"
+    },
+    {
+      "question_es": "(Tú) ___ que llamar a tus padres más a menudo, te echan de menos.",
+      "options": [
+        "hay",
+        "tener",
+        "debes de",
+        "tienes"
+      ],
+      "answer": 3,
+      "explanation_zh": "個別主詞「你」應該做某事用 tener que，故選 (D) tienes。(A) hay 為無人稱、(C) debes de 表推測而非義務、(B) tener 為原形，皆不符。"
+    },
+    {
+      "question_es": "Voy ___ comprar el pan al supermercado de la esquina.",
+      "options": [
+        "a",
+        "de",
+        "en",
+        "para"
+      ],
+      "answer": 0,
+      "explanation_zh": "近未來週期句 ir a + infinitivo 表即將要做某事，故選 (A) a。(B) de、(C) en、(D) para 皆不符「ir a + inf.」固定結構。"
+    },
+    {
+      "question_es": "Acabo ___ ver a tu hermano en el parque hace un momento.",
+      "options": [
+        "a",
+        "por",
+        "de",
+        "en"
+      ],
+      "answer": 2,
+      "explanation_zh": "acabar de + infinitivo 表「剛做完某事」，故選 (C) de。(A) a、(B) por、(D) en 皆非此固定結構搭配。"
+    },
+    {
+      "question_es": "Ahora mismo estoy ___ una carta a mi familia.",
+      "options": [
+        "escribir",
+        "escribe",
+        "escrito",
+        "escribiendo"
+      ],
+      "answer": 3,
+      "explanation_zh": "estar + gerundio 表正在進行的動作，escribir 的 gerundio 為 escribiendo，故選 (D) escribiendo。(A) 原形、(C) 過去分詞、(B) 第三人稱現在式皆不符結構。"
+    },
+    {
+      "question_es": "A mí me ___ mucho los gatos, especialmente los persas.",
+      "options": [
+        "encantan",
+        "encanta",
+        "encantar",
+        "encantamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "encantar 採類似 gustar 結構，主詞為 los gatos 複數，動詞用第三人稱複數 encantan，故選 (A) encantan。(B) 單數不符、(C) 原形、(D) 第一人稱複數，皆不符。"
+    },
+    {
+      "question_es": "Me ___ la cabeza desde esta mañana, voy a tomar una pastilla.",
+      "options": [
+        "duele",
+        "duelen",
+        "dolió",
+        "duelo"
+      ],
+      "answer": 0,
+      "explanation_zh": "doler 結構同 gustar，主詞 la cabeza 為單數，動詞用 duele，故選 (A) duele。(B) duelen 為複數、(C) dolió 為過去式不符「持續到現在」、(D) duelo 為第一人稱不合語法結構。"
+    },
+    {
+      "question_es": "Nos ___ dos sillas para terminar de poner la mesa.",
+      "options": [
+        "falta",
+        "faltáis",
+        "faltamos",
+        "faltan"
+      ],
+      "answer": 3,
+      "explanation_zh": "faltar 結構同 gustar，主詞 dos sillas 為複數，故選 (D) faltan。(A) falta 為單數、(C)(B) 是反向人稱變化，皆不符。"
+    },
+    {
+      "question_es": "Tu propuesta me ___ muy interesante, deberíamos hablarlo más.",
+      "options": [
+        "parece",
+        "parecen",
+        "parezco",
+        "pareces"
+      ],
+      "answer": 0,
+      "explanation_zh": "parecer 採類似 gustar 結構，主詞 tu propuesta 為單數，故選 (A) parece。(B) parecen 複數不符、(C)(D) 為第一、二人稱變化與結構不符。"
+    },
+    {
+      "question_es": "Por la mañana primero (yo) me ___ y luego desayuno.",
+      "options": [
+        "ducho",
+        "duchas",
+        "ducha",
+        "duchan"
+      ],
+      "answer": 0,
+      "explanation_zh": "ducharse 為反身動詞，主詞 yo 用反身代名詞 me + ducho，故選 (A) ducho。(B) duchas 為 tú、(C) ducha 為 él/ella、(D) duchan 為 ellos，皆不符第一人稱。"
+    },
+    {
+      "question_es": "Mi madre ___ la mesa todos los días antes de cenar.",
+      "options": [
+        "se pone",
+        "pone se",
+        "ponerse",
+        "pone"
+      ],
+      "answer": 3,
+      "explanation_zh": "「擺桌（poner la mesa）」為非反身用法表動作對外部物體，故選 (D) pone。(A) se pone 為「穿上、變成」、(C) 原形、(B) 順序錯誤，皆不符固定搭配。"
+    },
+    {
+      "question_es": "Vivo en esta ciudad ___ hace cinco años, me encanta.",
+      "options": [
+        "por",
+        "durante",
+        "hace",
+        "desde"
+      ],
+      "answer": 3,
+      "explanation_zh": "«desde hace + 時段» 表「自從…至今持續了…」，故選 (D) desde。(A) por 表交換或經過、(C) hace 單獨用「N 時段+前」，但本句已有 hace 故空白前需 desde、(B) durante 表「持續期間」但語法搭配不同，皆不符。"
+    },
+    {
+      "question_es": "___ tres años que estudio español en la universidad.",
+      "options": [
+        "Desde",
+        "En",
+        "Por",
+        "Hace"
+      ],
+      "answer": 3,
+      "explanation_zh": "«Hace + 時段 + que + 現在式» 表「某事持續了多久」，故選 (D) Hace。(A) Desde 需搭配時間點或 hace、(C) Por、(B) En 皆不符此句型結構。"
+    },
+    {
+      "question_es": "(Yo) ___ dos meses esperando una respuesta de la empresa.",
+      "options": [
+        "llevo",
+        "lleva",
+        "llevas",
+        "llevamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "«llevar + 時段 + gerundio» 表持續至今的時間，主詞 yo 用 llevo，故選 (A) llevo。(B) lleva 為三單、(C) llevas 為 tú、(D) llevamos 為 nosotros，皆不符第一人稱單數。"
+    },
+    {
+      "question_es": "Este es el chico ___ vive en el piso de arriba.",
+      "options": [
+        "que",
+        "quien",
+        "donde",
+        "cuyo"
+      ],
+      "answer": 0,
+      "explanation_zh": "關係代名詞 que 可指人或物，作主語且無前置詞，故選 (A) que。(B) quien 用於人但常需介詞或逗號分隔、(C) donde 表地點、(D) cuyo 表所屬，皆不符此關係從句結構。"
+    },
+    {
+      "question_es": "La persona con ___ hablé ayer es la directora del colegio.",
+      "options": [
+        "que",
+        "cual",
+        "donde",
+        "quien"
+      ],
+      "answer": 3,
+      "explanation_zh": "介詞 con 後表「人」用 quien，故選 (D) quien。(A) que 一般不直接接於介詞後指人（須加冠詞 el/la que）、(C) donde 表地點、(B) cual 須加冠詞，皆不符簡潔結構。"
+    },
+    {
+      "question_es": "Esa es la cafetería ___ nos conocimos por primera vez.",
+      "options": [
+        "que",
+        "quien",
+        "donde",
+        "cuando"
+      ],
+      "answer": 2,
+      "explanation_zh": "指地點的關係副詞用 donde，故選 (C) donde。(A) que 雖可作關代但本句強調地點、(B) quien 用於人、(D) cuando 表時間，皆不符語意。"
+    },
+    {
+      "question_es": "No voy a la fiesta ___ tengo que estudiar para el examen.",
+      "options": [
+        "porque",
+        "como",
+        "aunque",
+        "cuando"
+      ],
+      "answer": 0,
+      "explanation_zh": "表原因用 porque，故選 (A) porque。(B) como 表原因時須置於句首、(C) aunque 表轉折、(D) cuando 表時間，皆不符語意。"
+    },
+    {
+      "question_es": "___ era muy tarde, decidimos llamar un taxi.",
+      "options": [
+        "Porque",
+        "Mientras",
+        "Aunque",
+        "Como"
+      ],
+      "answer": 3,
+      "explanation_zh": "原因連接詞 Como 通常置於句首，故選 (D) Como。(A) Porque 一般不置句首作原因起頭、(C) Aunque 表轉折、(B) Mientras 表同時，皆不符。"
+    },
+    {
+      "question_es": "___ termine la cena, vamos al cine, ¿te parece?",
+      "options": [
+        "Cuando",
+        "Mientras",
+        "Porque",
+        "Aunque"
+      ],
+      "answer": 0,
+      "explanation_zh": "表未來事件發生後再做另一動作用 cuando + subjuntivo（termine），故選 (A) Cuando。(B) Mientras 表「同時、持續」、(C) Porque 表原因、(D) Aunque 表讓步，皆不符語意。"
+    },
+    {
+      "question_es": "___ mi hermana cocina, yo pongo la mesa.",
+      "options": [
+        "Cuando",
+        "Si",
+        "Porque",
+        "Mientras"
+      ],
+      "answer": 3,
+      "explanation_zh": "兩動作同時進行用 mientras，故選 (D) Mientras。(A) Cuando 偏指時點、(C) Porque 表原因、(B) Si 表條件，皆不符同時並列語意。"
+    },
+    {
+      "question_es": "___ llueva mañana, iremos de excursión al campo.",
+      "options": [
+        "Porque",
+        "Mientras",
+        "Cuando",
+        "Aunque"
+      ],
+      "answer": 3,
+      "explanation_zh": "讓步連接詞「即使」用 aunque + subjuntivo，故選 (D) Aunque。(A) Porque 表原因、(C) Cuando 表時間、(B) Mientras 表同時，皆不符讓步語意。"
+    },
+    {
+      "question_es": "Cuando llegué a casa, mis padres ya ___ a dormir.",
+      "options": [
+        "se han ido",
+        "se iban",
+        "se habían ido",
+        "se irán"
+      ],
+      "answer": 2,
+      "explanation_zh": "在過去某動作之前已完成的動作用 pretérito pluscuamperfecto (había + participio)，故選 (C) se habían ido。(A) 現在完成、(B) imperfecto、(D) 未來式，皆不符前後過去時序。"
+    },
+    {
+      "question_es": "Aquí ___ una farmacia muy cerca del hospital.",
+      "options": [
+        "está",
+        "es",
+        "hay",
+        "tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「存在」搭配不定冠詞 una 用 hay，故選 (C) hay。(A) está 須主詞確定（la farmacia）、(B) es 表本質、(D) tiene 為「擁有」，皆不符存在句語意。"
+    },
+    {
+      "question_es": "La farmacia ___ al lado del supermercado, en la calle Mayor.",
+      "options": [
+        "es",
+        "hay",
+        "está",
+        "tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "表特定物體位置用 estar，故選 (C) está。(A) es 表本質、(B) hay 用於不定冠詞或無冠詞、(D) tiene 為「擁有」，皆不符位置語意。"
+    },
+    {
+      "question_es": "Necesito un bolígrafo ___ escriba bien, este no funciona.",
+      "options": [
+        "que",
+        "quien",
+        "cual",
+        "donde"
+      ],
+      "answer": 0,
+      "explanation_zh": "關係代名詞 que 指物，本句先行詞為 bolígrafo 屬未確定指涉故動詞用 subjuntivo escriba，故選 (A) que。(B) quien 指人、(C) cual 須加冠詞、(D) donde 指地點，皆不符。"
+    },
+    {
+      "question_es": "Llevo ___ peluquería para cortarme el pelo este sábado.",
+      "options": [
+        "a la",
+        "en la",
+        "por la",
+        "de la"
+      ],
+      "answer": 0,
+      "explanation_zh": "本句宜改為 voy a la peluquería，但若用 llevo 表「帶領（東西/人）到…」搭配 a la。然而最自然句子應理解為 voy a la peluquería；空格選擇方向介詞 a la，故選 (A) a la。(B) en la 表「在裡面」、(C) por la 表「經過」、(D) de la 表所屬，皆不符方向語意。"
+    },
+    {
+      "question_es": "Mi hijo es ___ inteligente que ya lee libros para adultos.",
+      "options": [
+        "muy",
+        "mucho",
+        "tanto",
+        "tan"
+      ],
+      "answer": 3,
+      "explanation_zh": "«tan + adj + que» 表結果「如此…以至於」，故選 (D) tan。(A) muy 無「以致」結構、(C) tanto 修飾名詞或動詞、(B) mucho 修飾名詞或動詞，皆不符。"
+    },
+    {
+      "question_es": "Esta sopa está riquísima, ___ caliente. ¡Espera un poco!",
+      "options": [
+        "pero muy",
+        "porque muy",
+        "aunque",
+        "sino"
+      ],
+      "answer": 0,
+      "explanation_zh": "表轉折補充用 pero，並 muy 修飾形容詞 caliente，故選 (A) pero muy。(B) porque muy 為原因+副詞不合語法、(C) aunque 後常接動詞、(D) sino 用於「不…而是」結構，皆不符。"
+    },
+    {
+      "question_es": "—¿Has visto a Lola hoy? —Sí, la ___ esta mañana en el mercado.",
+      "options": [
+        "veo",
+        "veía",
+        "vi",
+        "veré"
+      ],
+      "answer": 2,
+      "explanation_zh": "「esta mañana」雖屬今天，但回答者用 indefinido 強調已完成動作（口語常見），故選 (C) vi。(A) veo 為現在式、(B) veía 表持續或習慣、(D) veré 為未來式，皆不符已發生的單次動作。"
+    },
+    {
+      "question_es": "El año pasado mi familia y yo ___ a Japón en avión.",
+      "options": [
+        "viajábamos",
+        "hemos viajado",
+        "viajaremos",
+        "viajamos"
+      ],
+      "answer": 3,
+      "explanation_zh": "«el año pasado» 為過去明確時間，第一人稱複數 viajar 用 indefinido 為 viajamos，故選 (D) viajamos。(A) imperfecto 表習慣、(C) 未來式、(B) 現在完成式，皆不符封閉的過去時間。"
+    },
+    {
+      "question_es": "Mientras estudiaba en la universidad, ___ a trabajar en una cafetería.",
+      "options": [
+        "empecé",
+        "empezaba",
+        "empiezo",
+        "empezaré"
+      ],
+      "answer": 0,
+      "explanation_zh": "在持續的背景（estudiaba imperfecto）中發生的單次具體動作用 indefinido，故選 (A) empecé。(B) empezaba 表持續或習慣、(C) empiezo 現在式、(D) empezaré 未來式，皆不符。"
+    },
+    {
+      "question_es": "Mañana por la mañana ___ con tu profesor para hablar del proyecto.",
+      "options": [
+        "te reuniste",
+        "te reuniste",
+        "te reúnes",
+        "te reunirás"
+      ],
+      "answer": 3,
+      "explanation_zh": "「mañana por la mañana」指未來，反身動詞 reunirse 第二人稱單數未來式為 te reunirás，故選 (D) te reunirás。(A)(B) 為過去式重複選項、(C) 雖可用現在式表未來但需具體計劃，正式書面以未來式為佳。"
+    },
+    {
+      "question_es": "Si tuviera más dinero, ___ un coche nuevo.",
+      "options": [
+        "compro",
+        "compraré",
+        "compraría",
+        "compraba"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二型條件句 si + 過去虛擬, 主句用 condicional，故選 (C) compraría。(A) 現在式、(B) 未來式、(D) imperfecto，皆不符條件句結構。"
+    },
+    {
+      "question_es": "¡___ aquí! No salgas a la calle sin paraguas.",
+      "options": [
+        "Quedas",
+        "Te quedas",
+        "Quedarte",
+        "Quédate"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 tú 的肯定命令式反身動詞代名詞接尾，quedarse 變為 quédate，故選 (D) Quédate。(A) Quedas 為陳述式、(C) Quedarte 原形、(B) Te quedas 為陳述式，皆非命令式格式。"
+    },
+    {
+      "question_es": "No ___ ahora, está descansando, llámalo más tarde.",
+      "options": [
+        "lo molestes",
+        "lo molestas",
+        "molestes lo",
+        "le moleste"
+      ],
+      "answer": 0,
+      "explanation_zh": "否定命令式：no + 代名詞 + subjuntivo，molestar a él 用 lo + molestes，故選 (A) lo molestes。(B) molestas 為陳述式、(C) 順序錯誤、(D) 用 le 不符直接受詞語境（雖 leísmo 接受 le 指男性，但搭配 moleste 動詞變化錯誤），皆不符。"
+    },
+    {
+      "question_es": "Dame el libro, por favor. ___ encima de la mesa.",
+      "options": [
+        "Está",
+        "Es",
+        "Hay",
+        "Tiene"
+      ],
+      "answer": 0,
+      "explanation_zh": "表特定物體位置用 estar，故選 (A) Está。(B) Es 表本質、(C) Hay 用於不定指存在、(D) Tiene 為「擁有」，皆不符具體位置語意。"
+    },
+    {
+      "question_es": "Antes de venir aquí, nunca ___ pulpo en mi vida.",
+      "options": [
+        "comí",
+        "comía",
+        "había comido",
+        "he comido"
+      ],
+      "answer": 2,
+      "explanation_zh": "在過去某時點之前的經驗，用 pluscuamperfecto，故選 (C) había comido。(A) indefinido、(B) imperfecto、(D) 現在完成式，皆不符「之前的之前」時序。"
+    },
+    {
+      "question_es": "Cuando ___ tu llamada, estaba en la ducha y no oí el teléfono.",
+      "options": [
+        "llegaba",
+        "ha llegado",
+        "llega",
+        "llegó"
+      ],
+      "answer": 3,
+      "explanation_zh": "持續背景（estaba en la ducha imperfecto）中發生的單次具體動作用 indefinido，故選 (D) llegó。(A) imperfecto 持續、(C) 現在式、(B) 現在完成式，皆不符。"
+    },
+    {
+      "question_es": "El próximo año (yo) ___ a aprender alemán en una academia.",
+      "options": [
+        "empiezo",
+        "empecé",
+        "empezaba",
+        "empezaré"
+      ],
+      "answer": 3,
+      "explanation_zh": "「el próximo año」指未來，主詞 yo 用 empezaré，故選 (D) empezaré。(A) empiezo 雖可表計劃但搭配 voy a 更自然、(C) imperfecto、(B) indefinido，皆不符未來時點。"
+    },
+    {
+      "question_es": "—¿Cuándo vendrás a mi casa? —___ a las seis si no hay tráfico.",
+      "options": [
+        "Iré",
+        "Voy",
+        "Iba",
+        "Fui"
+      ],
+      "answer": 0,
+      "explanation_zh": "回答未來時間用 futuro simple，第一人稱 ir 為 iré，故選 (A) Iré。(B) Voy 雖可表近未來但須加 a + inf.、(C) Iba 過去、(D) Fui 過去，皆不符未來語意。"
+    },
+    {
+      "question_es": "¿Me ___ pasar el azúcar, por favor?",
+      "options": [
+        "puede",
+        "pudo",
+        "podrá",
+        "podría"
+      ],
+      "answer": 3,
+      "explanation_zh": "餐桌客氣請求用 condicional simple 表禮貌，故選 (D) podría。(A) puede 現在式語氣較直接、(C) podrá 未來、(B) pudo 過去，皆不如條件式客氣。"
+    },
+    {
+      "question_es": "Yo que tú, no ___ tanto café antes de dormir.",
+      "options": [
+        "tomo",
+        "tomaré",
+        "tomaría",
+        "tomaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "「我若是你」假設性建議用條件式，故選 (C) tomaría。(A) 現在式、(B) 未來式、(D) imperfecto，皆不符假設建議語境。"
+    },
+    {
+      "question_es": "—Niños, ___ la habitación antes de salir.",
+      "options": [
+        "recogen",
+        "recogéis",
+        "recoger",
+        "recoged"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 vosotros 的肯定命令式為原形去 r 加 d，recoger 變為 recoged，故選 (D) recoged。(A)(B) 為陳述式、(C) 原形，皆不符命令式。"
+    },
+    {
+      "question_es": "Por favor, señores, ___ ustedes la mano si tienen alguna pregunta.",
+      "options": [
+        "levantan",
+        "levantar",
+        "levantad",
+        "levanten"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 ustedes 的命令式用 presente de subjuntivo 第三人稱複數 levanten，故選 (D) levanten。(A) 陳述式、(C) levantad 為 vosotros、(B) 原形，皆不符正式 ustedes 命令式。"
+    },
+    {
+      "question_es": "—¿Le has contado la noticia a tu madre? —No, todavía no ___ he contado.",
+      "options": [
+        "le la",
+        "se le",
+        "la le",
+        "se la"
+      ],
+      "answer": 3,
+      "explanation_zh": "le（給她）+ la（la noticia 陰性單數），le 在 la 前須改 se，故選 (D) se la。(A) le la 為錯誤組合、(C) la le 順序錯誤、(B) se le 缺直接代名詞，皆不符。"
+    },
+    {
+      "question_es": "—¿Me das las llaves? —Sí, ahora ___ doy.",
+      "options": [
+        "te las",
+        "te los",
+        "se las",
+        "las te"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接 te（給你）+ 直接 las（las llaves 陰性複數），故選 (A) te las。(B) te los 性別不符、(C) se las 須 le/les 條件、(D) las te 順序錯誤，皆不符。"
+    },
+    {
+      "question_es": "Esta camisa es ___ cara que la otra, llévate esta.",
+      "options": [
+        "menos",
+        "menor",
+        "menos de",
+        "menor que"
+      ],
+      "answer": 0,
+      "explanation_zh": "劣等比較「比較不…」用 menos + adj + que，故選 (A) menos。(B) menor 用於年齡或數量比較、(C) menos de 用於數量「少於」、(D) menor que 同 (B) 用法限制，皆不符修飾「貴」。"
+    },
+    {
+      "question_es": "Tengo ___ veinte euros en la cartera, no me llega para el libro.",
+      "options": [
+        "menos de",
+        "menos que",
+        "menor que",
+        "más que"
+      ],
+      "answer": 0,
+      "explanation_zh": "數量比較「少於」用 menos de + 數字，故選 (A) menos de。(B) menos que 用於比較對象不接數字、(C) menor que 用於年齡、(D) más que 表「比…多」，皆不符。"
+    },
+    {
+      "question_es": "Tu coche es ___ rápido del barrio, ¡siempre ganas las carreras!",
+      "options": [
+        "el más",
+        "más",
+        "muy",
+        "tan"
+      ],
+      "answer": 0,
+      "explanation_zh": "最高級結構 «el/la + más + adj + de»，先行詞 coche 為陽性單數需 el más，故選 (A) el más。(B) más 缺定冠詞、(C) muy 非最高級、(D) tan 為同等比較，皆不符。"
+    },
+    {
+      "question_es": "Esa película fue ___, me reí muchísimo.",
+      "options": [
+        "divertidísimo",
+        "muy divertidísima",
+        "divertidísima",
+        "más divertida"
+      ],
+      "answer": 2,
+      "explanation_zh": "絕對最高級 -ísimo/-ísima，película 為陰性單數變為 divertidísima，故選 (C) divertidísima。(A) 陽性不符、(B) muy 不可與 -ísimo 連用、(D) 為比較級不符語境。"
+    },
+    {
+      "question_es": "Te llamé ___ pedirte un favor importante.",
+      "options": [
+        "por",
+        "a",
+        "para",
+        "de"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「目的」用 para + infinitivo，故選 (C) para。(A) por 表原因、(B) a、(D) de 不符目的語意。"
+    },
+    {
+      "question_es": "Te llamé ___ tu cumpleaños, ¡felicidades!",
+      "options": [
+        "por",
+        "para",
+        "a",
+        "de"
+      ],
+      "answer": 0,
+      "explanation_zh": "表「原因／因為」用 por，故選 (A) por。(B) para 表目的、(C)(D) 不符語意。"
+    },
+    {
+      "question_es": "Esta tarta está hecha ___ mi abuela con mucho cariño.",
+      "options": [
+        "por",
+        "para",
+        "de",
+        "con"
+      ],
+      "answer": 0,
+      "explanation_zh": "被動句的施事者用 por，故選 (A) por。(B) para 表目的、(C) de 表所屬或材料、(D) con 表伴隨，皆不符被動施事者語意。"
+    },
+    {
+      "question_es": "Pagué cien euros ___ estos zapatos italianos.",
+      "options": [
+        "para",
+        "a",
+        "por",
+        "en"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「交換、價格」用 por，故選 (C) por。(A) para 表目的、(B) a、(D) en 不符交換語意。"
+    },
+    {
+      "question_es": "Mi habitación es ___ y luminosa, me encanta despertarme aquí.",
+      "options": [
+        "grande",
+        "gran",
+        "grandes",
+        "más grande"
+      ],
+      "answer": 0,
+      "explanation_zh": "形容詞 grande 置於名詞後保留完整形，故選 (A) grande。(B) gran 為置於單數名詞前的縮短形、(C) grandes 為複數、(D) 為比較級不符單純描述語意。"
+    },
+    {
+      "question_es": "Es un ___ chico, siempre ayuda a los demás.",
+      "options": [
+        "bueno",
+        "buen",
+        "bien",
+        "bueno"
+      ],
+      "answer": 1,
+      "explanation_zh": "bueno 置於陽性單數名詞前縮短為 buen，故選 (B) buen。(A)(D) 為完整形通常後置、(C) bien 為副詞，皆不符位置與詞性。"
+    },
+    {
+      "question_es": "—¿Conoces ___ nuevo profesor de matemáticas? —Sí, es muy simpático.",
+      "options": [
+        "el",
+        "al",
+        "a",
+        "del"
+      ],
+      "answer": 1,
+      "explanation_zh": "認識「人」需用人稱介詞 a，且後接定冠詞 el 合縮為 al，故選 (B) al。(A) el 缺人稱介詞、(C) a 缺定冠詞、(D) del 為 de + el 不符動詞需求，皆不符。"
+    },
+    {
+      "question_es": "Veo ___ mi hermano todos los días en el autobús al trabajo.",
+      "options": [
+        "a",
+        "el",
+        "al",
+        "—"
+      ],
+      "answer": 0,
+      "explanation_zh": "直接受詞為「特定人」須加人稱介詞 a，故選 (A) a。(B) el 缺人稱介詞、(C) al 為 a+el 但 mi hermano 不需冠詞、(D) 無介詞不符規則，皆不符。"
+    },
+    {
+      "question_es": "El sábado ___ a llover toda la mañana, no pudimos salir.",
+      "options": [
+        "estuvo",
+        "estaba",
+        "iba",
+        "fue"
+      ],
+      "answer": 1,
+      "explanation_zh": "持續性背景天氣描述用 imperfecto 搭配 estar + gerundio，故選 (B) estaba（llover），但完整結構應為 estaba lloviendo。本題選最接近的 estaba。(A) estuvo 為單次完成、(C) iba 表近未來過去 (iba a llover 將要下雨)、(D) fue 為一次性，皆不如 estaba 持續最自然。"
+    },
+    {
+      "question_es": "Cuando llegamos al cine, la película ya ___.",
+      "options": [
+        "empezó",
+        "empezaba",
+        "había empezado",
+        "ha empezado"
+      ],
+      "answer": 2,
+      "explanation_zh": "在過去某動作之前完成的動作用 pluscuamperfecto，故選 (C) había empezado。(A) indefinido、(B) imperfecto、(D) 現在完成式，皆不符「之前的之前」時序。"
+    },
+    {
+      "question_es": "Cuando termines los deberes, ___ ver la televisión.",
+      "options": [
+        "puedes",
+        "podrás",
+        "pudiste",
+        "puedas"
+      ],
+      "answer": 1,
+      "explanation_zh": "「cuando + subjuntivo」後表未來條件，主句用 futuro，故選 (B) podrás。(A) 現在式不夠精確、(C) 過去式、(D) subjuntivo 應在 cuando 從句而非主句，皆不符主句結構。"
+    },
+    {
+      "question_es": "—¿Has ido alguna vez a Argentina? —No, nunca ___ allí.",
+      "options": [
+        "fui",
+        "iba",
+        "he estado",
+        "estaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "「人生經驗」用 pretérito perfecto，故選 (C) he estado。(A) indefinido 表單次過去、(B)(D) imperfecto 表習慣或背景，皆不符「至今經驗」語意。"
+    },
+    {
+      "question_es": "Este verano ___ la novela completa de Cervantes en español.",
+      "options": [
+        "leí",
+        "leía",
+        "he leído",
+        "leeré"
+      ],
+      "answer": 2,
+      "explanation_zh": "「este verano」屬尚未結束的時間範圍（西班牙西語），用 pretérito perfecto，故選 (C) he leído。(A) indefinido 多用於封閉過去、(B) imperfecto、(D) 未來式，皆不符。"
+    },
+    {
+      "question_es": "Ese día yo ___ una camisa blanca y unos vaqueros azules.",
+      "options": [
+        "llevé",
+        "llevaba",
+        "llevo",
+        "llevaré"
+      ],
+      "answer": 1,
+      "explanation_zh": "描述過去某時刻的穿著屬背景描述，用 imperfecto，故選 (B) llevaba。(A) indefinido 表單次完成動作、(C) 現在式、(D) 未來式，皆不符背景描述。"
+    },
+    {
+      "question_es": "Después de cenar, los niños ___ los dientes y se van a la cama.",
+      "options": [
+        "se cepillan",
+        "se cepilla",
+        "cepillan",
+        "cepillas"
+      ],
+      "answer": 0,
+      "explanation_zh": "反身動詞 cepillarse 主詞 los niños 第三人稱複數，反身代名詞 se + cepillan，故選 (A) se cepillan。(B) 單數不符、(C) 缺反身代名詞、(D) 為 tú 變化，皆不符。"
+    },
+    {
+      "question_es": "El bebé ___ a llorar cuando vio al desconocido.",
+      "options": [
+        "empezaba",
+        "empezó",
+        "empiezo",
+        "ha empezado"
+      ],
+      "answer": 1,
+      "explanation_zh": "「看到陌生人」（vio）為單次完成觸發動作，連帶 empezar 也用 indefinido empezó，故選 (B) empezó。(A) imperfecto 表持續或習慣、(C) 現在式、(D) 現在完成，皆不符同步單次過去。"
+    },
+    {
+      "question_es": "Mi novio me ___ flores todos los viernes cuando éramos novios.",
+      "options": [
+        "trajo",
+        "traía",
+        "traerá",
+        "ha traído"
+      ],
+      "answer": 1,
+      "explanation_zh": "過去習慣性動作（todos los viernes）用 imperfecto，故選 (B) traía。(A) indefinido 表單次、(C) 未來式、(D) 現在完成式，皆不符過去習慣。"
+    },
+    {
+      "question_es": "—¿Sabes ___ está mi móvil? —Lo vi en la cocina.",
+      "options": [
+        "donde",
+        "dónde",
+        "que",
+        "quién"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接疑問句中疑問詞 dónde 保留重音符號，故選 (B) dónde。(A) donde 無重音為關係副詞、(C) que、(D) quién 不符「在哪裡」語意。"
+    },
+    {
+      "question_es": "Quiero saber ___ vendrás a la fiesta o no.",
+      "options": [
+        "si",
+        "sí",
+        "que",
+        "como"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接疑問句「是否」用 si（無重音）為連接詞，故選 (A) si。(B) sí 為「是」帶重音、(C) que 為「that」不表是否、(D) como 表「如何」，皆不符。"
+    },
+    {
+      "question_es": "Mi padre dijo que ___ a recogerme a la estación.",
+      "options": [
+        "vendrá",
+        "vendría",
+        "viene",
+        "venga"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接引語主句為過去 (dijo)，從句的未來轉為 condicional，故選 (B) vendría。(A) 未來式須主句現在式、(C) 現在式、(D) subjuntivo，皆不符時態一致原則。"
+    },
+    {
+      "question_es": "El curso de español ___ a las nueve de la mañana, no llegues tarde.",
+      "options": [
+        "empezó",
+        "empieza",
+        "empezará",
+        "empezaba"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「常規開始時間」用現在式，故選 (B) empieza。(A) indefinido、(C) 未來式、(D) imperfecto，皆不符固定時間表規律。"
+    },
+    {
+      "question_es": "Quiero un café con leche y, además, un ___ de chocolate.",
+      "options": [
+        "pieza",
+        "pedazo",
+        "trozo",
+        "trocito"
+      ],
+      "answer": 3,
+      "explanation_zh": "「一小塊巧克力」最自然口語用 trocito（trozo + 縮小詞 -ito），故選 (D) trocito。(A) pieza 較正式且常用於「一塊作品」、(B) pedazo 也可但語感較粗、(C) trozo 雖可但 (D) 更自然親切，本題選最貼近口語小份量的詞。"
+    },
+    {
+      "question_es": "—¿Te ___ ir al teatro este sábado? —Sí, ¡me encantaría!",
+      "options": [
+        "gusta",
+        "gustaría",
+        "gustas",
+        "gustabas"
+      ],
+      "answer": 1,
+      "explanation_zh": "客氣邀請「你會喜歡…嗎」用 condicional gustaría，故選 (B) gustaría。(A) gusta 較直接、(C)(D) 為其他人稱變化，皆不符客氣邀請語境。"
+    },
+    {
+      "question_es": "Cuando termine los estudios, ___ trabajar en una empresa grande.",
+      "options": [
+        "quiero",
+        "querré",
+        "quería",
+        "quiera"
+      ],
+      "answer": 1,
+      "explanation_zh": "「cuando + subjuntivo」表未來條件，主句用 futuro，故選 (B) querré。(A) 現在式不夠精確、(C) imperfecto 過去、(D) subjuntivo 應在從句，皆不符主句結構。"
+    },
+    {
+      "question_es": "No te preocupes, todo ___ bien al final.",
+      "options": [
+        "sale",
+        "saldrá",
+        "salía",
+        "salió"
+      ],
+      "answer": 1,
+      "explanation_zh": "安慰用未來式表預測，故選 (B) saldrá。(A) sale 為現在式語氣較弱、(C) imperfecto 過去、(D) indefinido 過去，皆不符未來預測。"
+    },
+    {
+      "question_es": "¿Cuántos años ___ tu sobrina ahora? Crece muy rápido.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「歲數」用 tener，故選 (C) tiene。(A) es、(B) está、(D) hay 皆不符「擁有 X 歲」的固定用法。"
+    },
+    {
+      "question_es": "Mi cuñada ___ embarazada de seis meses, va a tener un niño.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "懷孕為暫時狀態用 estar，故選 (B) está。(A) es 為本質、(C) tiene 用於 «tener X meses» 非「懷孕」、(D) hay 為存在動詞，皆不符暫時狀態。"
+    },
+    {
+      "question_es": "—¿De qué ___ esta mesa? —De madera de roble.",
+      "options": [
+        "está",
+        "es",
+        "hay",
+        "tiene"
+      ],
+      "answer": 1,
+      "explanation_zh": "問「材質、來源」用 ser + de，故選 (B) es。(A) está 表狀態或位置、(C) hay、(D) tiene 皆不符材質詢問結構。"
+    },
+    {
+      "question_es": "Marisol ___ la mejor estudiante de su clase, saca siempre sobresalientes.",
+      "options": [
+        "está",
+        "es",
+        "tiene",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「身分／本質」用 ser，故選 (B) es。(A) está 表暫時狀態、(C) tiene、(D) hay 皆不符身分定義語意。"
+    },
+    {
+      "question_es": "Hoy el café ___ muy amargo, creo que se les fue la mano con los granos.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "表「特定情況下的口味判斷」用 estar，故選 (B) está。(A) es 表本質特徵、(C) tiene、(D) hay 皆不符具體場合的味道評價。"
+    },
+    {
+      "question_es": "Los plátanos ___ verdes todavía, no se pueden comer.",
+      "options": [
+        "son",
+        "están",
+        "tienen",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "「verde」指「未成熟」屬暫時狀態用 estar，故選 (B) están。(A) son verdes 為「綠色為其顏色」、(C) tienen、(D) hay 皆不符暫時成熟狀態語意。"
+    },
+    {
+      "question_es": "¿___ alguien que sepa hablar chino en la oficina?",
+      "options": [
+        "Está",
+        "Es",
+        "Hay",
+        "Tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "問「是否存在某人」用 hay，故選 (C) Hay。(A) Está 須指特定的人、(B) Es 表本質、(D) Tiene 為「擁有」，皆不符存在問句。"
+    },
+    {
+      "question_es": "El profesor ___ explicando la lección cuando sonó el timbre.",
+      "options": [
+        "era",
+        "estaba",
+        "fue",
+        "tenía"
+      ],
+      "answer": 1,
+      "explanation_zh": "estar + gerundio 表進行中動作，過去進行用 estaba，故選 (B) estaba。(A) era 用於 ser、(C) fue 不搭配 gerundio、(D) tenía 不能組成持續結構，皆不符。"
+    },
+    {
+      "question_es": "Acabamos ___ llegar del aeropuerto, estamos muy cansados.",
+      "options": [
+        "a",
+        "de",
+        "por",
+        "en"
+      ],
+      "answer": 1,
+      "explanation_zh": "«acabar de + infinitivo» 表「剛做完」，故選 (B) de。(A) a、(C) por、(D) en 皆非此固定結構搭配介詞。"
+    },
+    {
+      "question_es": "Sigo ___ español todos los días aunque no es fácil.",
+      "options": [
+        "estudiar",
+        "estudiando",
+        "estudiado",
+        "estudia"
+      ],
+      "answer": 1,
+      "explanation_zh": "«seguir + gerundio» 表「持續做某事」，故選 (B) estudiando。(A) 原形、(C) 過去分詞、(D) 現在式變位，皆不符此週期句結構。"
+    },
+    {
+      "question_es": "Después de tres horas de búsqueda, ___ las llaves debajo del sofá.",
+      "options": [
+        "encuentro",
+        "encontré",
+        "encontraba",
+        "he encontrado"
+      ],
+      "answer": 1,
+      "explanation_zh": "封閉的過去單次完成動作用 indefinido，故選 (B) encontré。(A) 現在式、(C) imperfecto、(D) 現在完成式，皆不符明確過去結果語意。"
+    },
+    {
+      "question_es": "Hoy ___ mucho calor, vamos a la piscina por la tarde.",
+      "options": [
+        "es",
+        "está",
+        "hace",
+        "tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "天氣「熱」用 hacer，hace calor 為固定搭配，故選 (C) hace。(A) es、(B) está、(D) tiene 皆不能搭配 calor 表天氣。"
     }
   ],
   "db1": [
