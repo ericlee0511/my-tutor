@@ -4438,6 +4438,1117 @@
       ],
       "answer": 3,
       "explanation_zh": "與過去事實相反的條件後句用條件完成式 «habría + p.p.»，故選 (D) habría。(A) he 為現在完成、(B) habré 為未來完成、(C) había 為過去完成，皆不符過去假設句的主句時態。"
+    },
+    {
+      "question_es": "Dudo que él ___ lo que pasó en la reunión de ayer entre los socios.",
+      "options": [
+        "sepa",
+        "sabe",
+        "supo",
+        "sabría"
+      ],
+      "answer": 0,
+      "explanation_zh": "「Dudar que」表懷疑，從句須用虛擬式現在；主句為現在式故用 presente de subjuntivo，故選 (A) sepa。(B) sabe 為陳述式；(C) supo 過去簡單式；(D) sabría 條件式皆不符虛擬要求。"
+    },
+    {
+      "question_es": "El jefe nos aconsejó que ___ con más prudencia ante los nuevos clientes.",
+      "options": [
+        "actuamos",
+        "actuemos",
+        "actuáramos",
+        "actuaremos"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Aconsejar que」需虛擬式；主句 aconsejó 為過去簡單式，依時態一致律從句用 imperfecto de subjuntivo，故選 (C) actuáramos。(A) actuamos 陳述式；(B) actuemos 現虛時態不一致；(D) actuaremos 未來式不可。"
+    },
+    {
+      "question_es": "Es probable que mañana ___ una tormenta muy fuerte por toda la costa norte.",
+      "options": [
+        "habrá",
+        "hay",
+        "haya",
+        "hubiera"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Es probable que」表可能性，從句須用虛擬式；指未來事件用 presente de subjuntivo haya，故選 (C) haya。(A) habrá 未來陳述；(B) hay 陳述現在；(D) hubiera 為過去虛擬不合現未來語境。"
+    },
+    {
+      "question_es": "Antes de que ___ el avión, asegúrate de revisar el pasaporte y el equipaje.",
+      "options": [
+        "despega",
+        "despegará",
+        "despegue",
+        "despegaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Antes de que」一律觸發虛擬式，無論時間指向，故選 (C) despegue。(A) despega 陳述式；(B) despegará 未來陳述；(D) despegaba 過去未完成，皆不符固定規則。"
+    },
+    {
+      "question_es": "Aunque ___ mucho frío hoy, voy a salir a correr al parque como siempre.",
+      "options": [
+        "haga",
+        "hizo",
+        "hacía",
+        "hace"
+      ],
+      "answer": 3,
+      "explanation_zh": "「Aunque」表已知事實時用陳述式（雖然真的很冷我還是去跑），故選 (D) hace。(A) haga 表假設或讓步未確認；(B) hizo 過去簡單；(C) hacía 過去未完成不合現在情境。"
+    },
+    {
+      "question_es": "Si tuviera más dinero, ___ una casa con jardín en las afueras de Madrid.",
+      "options": [
+        "compro",
+        "compraré",
+        "compraría",
+        "comprara"
+      ],
+      "answer": 2,
+      "explanation_zh": "第二型條件句：si + imperfecto de subjuntivo, 主句 condicional simple，故選 (C) compraría。(A) compro 現在式不符不真實假設；(B) compraré 未來式為第一型；(D) comprara 不可作主句。"
+    },
+    {
+      "question_es": "Si hubiéramos salido antes, ___ llegado a tiempo al concierto del sábado pasado.",
+      "options": [
+        "habremos",
+        "habríamos",
+        "hemos",
+        "hubiéramos"
+      ],
+      "answer": 1,
+      "explanation_zh": "第三型條件句：si + pluscuamperfecto de subj., 主句 condicional compuesto habríamos + p.p.，故選 (B) habríamos。(A) habremos 未來完成；(C) hemos 現在完成；(D) hubiéramos 雖可但多用於 si 子句。"
+    },
+    {
+      "question_es": "Me dijo que ___ a verme la semana siguiente, pero al final no apareció.",
+      "options": [
+        "viene",
+        "vendrá",
+        "vendría",
+        "viniera"
+      ],
+      "answer": 2,
+      "explanation_zh": "間接引語時態後移：原 vendrá → 後移為 condicional simple vendría，故選 (C) vendría。(A) viene 現在；(B) vendrá 未來原形未後移；(D) viniera 虛擬不符 decir que 陳述報告。"
+    },
+    {
+      "question_es": "El contrato ___ firmado por ambas partes el lunes pasado en la notaría.",
+      "options": [
+        "estuvo",
+        "está",
+        "es",
+        "fue"
+      ],
+      "answer": 3,
+      "explanation_zh": "ser + p.p. 為「動作被動」，過去單一明確時點用 indefinido fue，故選 (D) fue。(A) estuvo + p.p. 表結果狀態；(B) está / (C) es 為現在時不符 lunes pasado。"
+    },
+    {
+      "question_es": "La puerta ya ___ cerrada cuando llegamos al edificio principal a las nueve.",
+      "options": [
+        "fue",
+        "estuvo",
+        "estaba",
+        "era"
+      ],
+      "answer": 2,
+      "explanation_zh": "estar + p.p. 表「結果狀態」，過去持續背景狀態用 imperfecto estaba，故選 (C) estaba。(A) fue 動作被動單次；(B) estuvo 強調短暫結果；(D) era 不接 p.p. 表被動。"
+    },
+    {
+      "question_es": "En esta empresa ___ a los empleados según los resultados anuales de cada departamento.",
+      "options": [
+        "se evalúa",
+        "se evalúan",
+        "es evaluado",
+        "están evaluados"
+      ],
+      "answer": 1,
+      "explanation_zh": "Se 被動須與主語 los empleados 數一致：複數動詞 se evalúan，故選 (B)。(A) se evalúa 單數不合複數主詞；(C) es evaluado 單數且須加 por；(D) están evaluados 表狀態語意不同。"
+    },
+    {
+      "question_es": "Busco a alguien que ___ hablar chino y francés con fluidez para el puesto.",
+      "options": [
+        "sabe",
+        "sepa",
+        "supo",
+        "sabría"
+      ],
+      "answer": 1,
+      "explanation_zh": "前行詞不確定 alguien，關係從句用虛擬式，故選 (B) sepa。(A) sabe 用於已知對象；(C) supo 過去簡單；(D) sabría 條件式，皆不符指未知對象的關係子句。"
+    },
+    {
+      "question_es": "Conozco a una persona que ___ resolver este problema técnico sin dificultad alguna.",
+      "options": [
+        "pueda",
+        "puede",
+        "pudiera",
+        "podría"
+      ],
+      "answer": 1,
+      "explanation_zh": "前行詞為已知特定人 una persona（conocer 指已認識），關係從句用陳述式 puede，故選 (B)。(A) pueda 虛擬式用於不確定；(C)(D) 時態不合主句現在。"
+    },
+    {
+      "question_es": "Estudio mucho ___ aprobar el examen DELE B2 a finales de este año.",
+      "options": [
+        "por",
+        "a",
+        "de",
+        "para"
+      ],
+      "answer": 3,
+      "explanation_zh": "para 表目的（為了通過考試），故選 (D) para。(A) por 表原因/手段；(B) a 不表目的；(C) de 多表所屬或材料，皆不符目的語境。"
+    },
+    {
+      "question_es": "Gracias ___ tu ayuda, conseguí terminar el proyecto antes del plazo previsto.",
+      "options": [
+        "para",
+        "por",
+        "a",
+        "con"
+      ],
+      "answer": 1,
+      "explanation_zh": "「Gracias por」為固定搭配表「感謝因為…」，故選 (B) por。(A) para 表目的；(C) gracias a 表「多虧」用法但前無 «gracias» 固定搭配差；(D) con 不合此片語。"
+    },
+    {
+      "question_es": "El cuadro ___ pintado por Velázquez en el siglo XVII y se conserva en el Prado.",
+      "options": [
+        "está",
+        "es",
+        "fue",
+        "era"
+      ],
+      "answer": 2,
+      "explanation_zh": "ser + p.p. + por 表動作被動，明確過去時點（siglo XVII）用 indefinido fue，故選 (C) fue。(A) está 表狀態；(B) es 現在式；(D) era 未完成，皆不符歷史單次動作。"
+    },
+    {
+      "question_es": "La conferencia ___ en el auditorio principal este sábado a las cinco de la tarde.",
+      "options": [
+        "está",
+        "hay",
+        "estará",
+        "es"
+      ],
+      "answer": 3,
+      "explanation_zh": "活動「發生地點」用 ser（事件發生於），故選 (D) es。(A) está 用於物體位置不用於活動；(C) estará 同樣不可表事件；(B) hay 表存在不接定冠詞主語。"
+    },
+    {
+      "question_es": "Llevo dos horas ___ a que llegues, ya me estoy poniendo nervioso.",
+      "options": [
+        "esperar",
+        "esperando",
+        "esperado",
+        "espero"
+      ],
+      "answer": 1,
+      "explanation_zh": "Llevar + gerundio 表「已持續做某事多久」，故選 (B) esperando。(A) 原形；(C) 過去分詞；(D) 現在式皆不能用於 llevar + 時間結構。"
+    },
+    {
+      "question_es": "Acabo de ___ que el vuelo se ha retrasado tres horas por el mal tiempo.",
+      "options": [
+        "enterar",
+        "enterado",
+        "enterarme",
+        "enterándome"
+      ],
+      "answer": 2,
+      "explanation_zh": "Acabar de + infinitivo 表「剛剛做」，enterarse 為反身動詞，故選 (C) enterarme。(A) 缺反身代詞；(B) 分詞；(D) 副動詞皆不符 acabar de 結構。"
+    },
+    {
+      "question_es": "Seguimos ___ el mismo plan que diseñamos al principio del semestre académico.",
+      "options": [
+        "siguiendo",
+        "seguido",
+        "seguir",
+        "seguimos"
+      ],
+      "answer": 0,
+      "explanation_zh": "Seguir + gerundio 表「繼續做」，故選 (A) siguiendo。(B) 過去分詞；(C) 原形；(D) 動詞變位皆不能用於 seguir 周邊結構。"
+    },
+    {
+      "question_es": "Suelo ___ a la oficina en bicicleta cuando hace buen tiempo en primavera.",
+      "options": [
+        "yendo",
+        "voy",
+        "ir",
+        "ido"
+      ],
+      "answer": 2,
+      "explanation_zh": "Soler + infinitivo 表習慣性動作，故選 (C) ir。(A) 副動詞；(B) 動詞變位；(D) 過去分詞皆不能接在 soler 之後。"
+    },
+    {
+      "question_es": "Hemos dejado de ___ aceite de palma en todos nuestros productos a partir del año pasado.",
+      "options": [
+        "usando",
+        "usado",
+        "usamos",
+        "usar"
+      ],
+      "answer": 3,
+      "explanation_zh": "Dejar de + infinitivo 表「停止做某事」，故選 (D) usar。(A) 副動詞；(B) 過去分詞；(C) 動詞變位皆不可接 dejar de。"
+    },
+    {
+      "question_es": "Mi vecino volvió a ___ el coche después de tres años sin conducir.",
+      "options": [
+        "conducir",
+        "conduciendo",
+        "conducido",
+        "conduce"
+      ],
+      "answer": 0,
+      "explanation_zh": "Volver a + infinitivo 表「再次做」，故選 (A) conducir。其餘形式皆不符該周邊結構。"
+    },
+    {
+      "question_es": "No habrá llegado todavía; ___ atrapado en el tráfico de la hora punta.",
+      "options": [
+        "está",
+        "estaría",
+        "esté",
+        "estará"
+      ],
+      "answer": 3,
+      "explanation_zh": "「Futuro de probabilidad」未來式表現在推測，故選 (D) estará（他大概還塞在車陣中）。(A) está 直接陳述；(B) estaría 表過去推測；(C) esté 虛擬式不合獨立句推測。"
+    },
+    {
+      "question_es": "___ interesante de esta novela es la forma en que está narrada por dos voces.",
+      "options": [
+        "El",
+        "La",
+        "Lo",
+        "Una"
+      ],
+      "answer": 2,
+      "explanation_zh": "Lo + adjetivo 表抽象概念「…之處」，故選 (C) Lo。(A)(B) 為定冠詞需接名詞；(D) 不定冠詞同理。"
+    },
+    {
+      "question_es": "Hablamos de ___ Carlos durante la cena de anoche en casa de Marta.",
+      "options": [
+        "el de",
+        "lo de",
+        "la de",
+        "los de"
+      ],
+      "answer": 1,
+      "explanation_zh": "Lo de + nombre 表「關於某人的那件事」，故選 (B) lo de。其餘為帶性數的冠詞結構不符中性抽象指涉。"
+    },
+    {
+      "question_es": "El abogado ___ presentar más pruebas si quiere ganar el caso ante el tribunal.",
+      "options": [
+        "debe",
+        "debe de",
+        "tiene",
+        "hay"
+      ],
+      "answer": 0,
+      "explanation_zh": "Deber + infinitivo 表「應該（義務）」，故選 (A) debe。(B) deber de 表推測語意不同；(C) tener 缺 que；(D) hay que 不接主語。"
+    },
+    {
+      "question_es": "Para entrar en la biblioteca ___ presentar el carné de estudiante en la recepción.",
+      "options": [
+        "debe",
+        "debe de",
+        "hay que",
+        "tiene que"
+      ],
+      "answer": 2,
+      "explanation_zh": "Hay que + infinitivo 表無人稱普遍義務，故選 (C) hay que。(A)(B)(D) 皆需指明主語，此處為一般規定。"
+    },
+    {
+      "question_es": "La razón por ___ no vino a la fiesta sigue siendo un misterio para todos.",
+      "options": [
+        "que",
+        "la cual",
+        "cuya",
+        "lo que"
+      ],
+      "answer": 1,
+      "explanation_zh": "介詞 por 後接關係代名詞用「la cual / la que」，故選 (B) la cual。(A) que 罕接 por 此處；(C) cuya 表所屬；(D) lo que 為中性結構不合先行詞 razón。"
+    },
+    {
+      "question_es": "El director, ___ decisiones afectan a toda la empresa, dimitió ayer por motivos personales.",
+      "options": [
+        "que",
+        "quien",
+        "cuyas",
+        "cuyos"
+      ],
+      "answer": 2,
+      "explanation_zh": "Cuyo/cuyas 表所屬須與後名詞性數一致；decisiones 陰性複數，故選 (C) cuyas。(A) que 不表所屬；(B) quien 不表所屬；(D) cuyos 陽性不合。"
+    },
+    {
+      "question_es": "Aunque ___ todo lo posible, no logramos terminar el trabajo a tiempo.",
+      "options": [
+        "hicimos",
+        "hagamos",
+        "hiciéramos",
+        "hacíamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "Aunque 表已實現事實「雖然我們做了一切」用陳述式 indefinido，故選 (A) hicimos。(B)(C) 虛擬不合事實；(D) 未完成不合單次完成動作。"
+    },
+    {
+      "question_es": "Te lo digo ___ que sepas lo que pasó realmente en aquella reunión privada.",
+      "options": [
+        "por",
+        "para",
+        "porque",
+        "sin"
+      ],
+      "answer": 1,
+      "explanation_zh": "Para que + subjuntivo 表目的「為了讓你知道」，故選 (B) para。(A) por que 罕用；(C) porque 表原因接陳述式；(D) sin que 表「不…」語意相反。"
+    },
+    {
+      "question_es": "No fui al cine ___ no tenía dinero para comprar la entrada.",
+      "options": [
+        "para",
+        "por",
+        "aunque",
+        "porque"
+      ],
+      "answer": 3,
+      "explanation_zh": "Porque + indicativo 表原因，故選 (D) porque。(A)(B) 介詞不接子句；(C) aunque 表讓步不合直接原因。"
+    },
+    {
+      "question_es": "Estudia mucho, ___ tanto aprobará el examen sin ningún problema mañana.",
+      "options": [
+        "por",
+        "para",
+        "por lo",
+        "porque"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Por lo tanto」表結果連接詞「因此」，故選 (C) por lo。(A)(B) 單獨介詞語法不全；(D) porque 表原因不表結果。"
+    },
+    {
+      "question_es": "Estoy ___ a Carlos lo que pasó ayer en la reunión de trabajo.",
+      "options": [
+        "explicándoselo",
+        "se lo explicando",
+        "lo explicándose",
+        "explicándolo le"
+      ],
+      "answer": 0,
+      "explanation_zh": "Estar + gerundio 結構，代詞可附加在副動詞後：se(le→se)+lo+explicando = explicándoselo，故選 (A)。其餘語序錯誤。"
+    },
+    {
+      "question_es": "Voy a ___ todos los detalles cuando llegue a casa esta misma noche.",
+      "options": [
+        "te explicar",
+        "explicarte los",
+        "explicártelos",
+        "te los explicar"
+      ],
+      "answer": 2,
+      "explanation_zh": "Ir a + inf. 中代詞可附加於原形後，順序 IO+DO=te+los → explicártelos，故選 (C)。其餘語序皆錯。"
+    },
+    {
+      "question_es": "Cuando ___ la nueva oficina, organizaremos una pequeña fiesta de inauguración.",
+      "options": [
+        "terminamos",
+        "terminemos",
+        "termináramos",
+        "terminaremos"
+      ],
+      "answer": 1,
+      "explanation_zh": "Cuando 指向未來事件用 presente de subjuntivo，故選 (B) terminemos。(A) 現在陳述用於習慣；(C) 過去虛擬；(D) 未來陳述不可接 cuando。"
+    },
+    {
+      "question_es": "Hasta que no ___ todos los documentos, no podremos cerrar el contrato definitivamente.",
+      "options": [
+        "recibimos",
+        "recibiremos",
+        "recibamos",
+        "recibiéramos"
+      ],
+      "answer": 2,
+      "explanation_zh": "Hasta que 指未來用虛擬式，故選 (C) recibamos。(A) 陳述現在；(B) 未來陳述不可；(D) 過去虛擬不合語境。"
+    },
+    {
+      "question_es": "En cuanto ___ noticias del hospital, te llamaré sin importar la hora.",
+      "options": [
+        "tengo",
+        "tendré",
+        "tuviera",
+        "tenga"
+      ],
+      "answer": 3,
+      "explanation_zh": "En cuanto 指未來用虛擬式，故選 (D) tenga。(A) 陳述現在；(B) 未來陳述；(C) 過去虛擬皆不符。"
+    },
+    {
+      "question_es": "Lamentamos que el envío ___ con varios días de retraso debido a la huelga.",
+      "options": [
+        "llega",
+        "llegará",
+        "haya llegado",
+        "habrá llegado"
+      ],
+      "answer": 2,
+      "explanation_zh": "Lamentar 表情感觸發虛擬式；事件已發生用 pretérito perfecto de subjuntivo haya llegado，故選 (C)。(A)(B) 陳述式；(D) 未來完成陳述。"
+    },
+    {
+      "question_es": "Me parece increíble que ya ___ tres años desde que terminé la universidad.",
+      "options": [
+        "pasen",
+        "han pasado",
+        "hayan pasado",
+        "pasaron"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Me parece increíble que」表主觀情感評價，從句用虛擬式；指已發生用 perfecto de subjuntivo hayan pasado，故選 (C)。(A) 現在虛擬時態不合；(B)(D) 陳述式不合情感觸發。"
+    },
+    {
+      "question_es": "No es cierto que el gobierno ___ los impuestos el próximo año fiscal.",
+      "options": [
+        "baja",
+        "bajará",
+        "baje",
+        "bajaría"
+      ],
+      "answer": 2,
+      "explanation_zh": "「No es cierto que」否定真實性觸發虛擬式，故選 (C) baje。(A) 陳述現在；(B) 未來陳述；(D) 條件式皆不合否定否認。"
+    },
+    {
+      "question_es": "Es evidente que María ___ la verdad sobre lo ocurrido en la oficina.",
+      "options": [
+        "sabe",
+        "sepa",
+        "sabría",
+        "sabrá"
+      ],
+      "answer": 0,
+      "explanation_zh": "「Es evidente que」表確認事實用陳述式，故選 (A) sabe。(B) 虛擬不合確定；(C) 條件式；(D) 未來陳述語境不符。"
+    },
+    {
+      "question_es": "Tal vez ___ la verdad si le preguntáramos directamente sin rodeos.",
+      "options": [
+        "dice",
+        "dirá",
+        "diría",
+        "dijera"
+      ],
+      "answer": 2,
+      "explanation_zh": "Si + imperfecto de subjuntivo 主句用 condicional simple diría，故選 (C) diría。(A)(B) 陳述不合假設；(D) 不可作主句。"
+    },
+    {
+      "question_es": "Le pidió a su hermano que le ___ una mano con la mudanza del sábado.",
+      "options": [
+        "echa",
+        "eche",
+        "echara",
+        "echaría"
+      ],
+      "answer": 2,
+      "explanation_zh": "Pidió（過去）+ que 觸發虛擬式時態一致，故選 (C) echara（imperfecto de subj.）。(A) 陳述式；(B) 現在虛擬時態不一致；(D) 條件式不合 pedir que。"
+    },
+    {
+      "question_es": "Sugiero que ___ una pausa de quince minutos antes de continuar con la presentación.",
+      "options": [
+        "hacemos",
+        "hagamos",
+        "hicimos",
+        "haremos"
+      ],
+      "answer": 1,
+      "explanation_zh": "Sugerir que 觸發虛擬式現在，故選 (B) hagamos。(A) 陳述現在；(C) 過去簡單；(D) 未來陳述皆不合。"
+    },
+    {
+      "question_es": "El médico me recomendó que ___ menos sal y más verduras en mis comidas.",
+      "options": [
+        "tomo",
+        "tome",
+        "tomara",
+        "tomaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "Recomendó 過去式 + que 用 imperfecto de subjuntivo，故選 (C) tomara。(A)(D) 陳述式；(B) 現在虛擬時態不一致。"
+    },
+    {
+      "question_es": "Tan pronto como ___ del trabajo, te enviaré un mensaje para quedar.",
+      "options": [
+        "salgo",
+        "saldré",
+        "saldría",
+        "salga"
+      ],
+      "answer": 3,
+      "explanation_zh": "Tan pronto como 指未來用虛擬式，故選 (D) salga。(A) 陳述現在用於習慣；(B) 未來陳述不可；(C) 條件式不符。"
+    },
+    {
+      "question_es": "Me dijo que ya ___ el informe el día anterior por la tarde.",
+      "options": [
+        "entregaba",
+        "ha entregado",
+        "había entregado",
+        "entregará"
+      ],
+      "answer": 2,
+      "explanation_zh": "間接引語：原 «he entregado» 後移為 pluscuamperfecto «había entregado»，故選 (C)。(A) 未完成不合單次完成；(B) 完成式無後移；(D) 未來不合過去陳述。"
+    },
+    {
+      "question_es": "Le pregunté si ___ ir conmigo al cine el sábado por la noche.",
+      "options": [
+        "quiere",
+        "quería",
+        "querría",
+        "quiso"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接問句中 quiere → quería（presente → imperfecto），故選 (B) quería。(A) 現在式無後移；(C) condicional 過度禮貌；(D) 過去簡單不合 si 問句。"
+    },
+    {
+      "question_es": "Me prometió que ___ todo lo posible para ayudarme con el trabajo final.",
+      "options": [
+        "hará",
+        "haría",
+        "ha hecho",
+        "hiciera"
+      ],
+      "answer": 1,
+      "explanation_zh": "間接引語 hará → haría（未來 → 條件式），故選 (B) haría。(A) 未後移；(C) 現在完成；(D) 虛擬不合 prometer que 陳述。"
+    },
+    {
+      "question_es": "Por mucho que ___ no consigo entender este texto filosófico tan complejo.",
+      "options": [
+        "leo",
+        "leía",
+        "leyera",
+        "lea"
+      ],
+      "answer": 3,
+      "explanation_zh": "Por mucho que + subjuntivo 表讓步「再怎麼…也」，現在語境用虛擬現在，故選 (D) lea。(A) 陳述式不合讓步；(B)(C) 過去式不合現在敘述。"
+    },
+    {
+      "question_es": "Mientras ___ estudiando, no contestes al teléfono ni mires el móvil.",
+      "options": [
+        "estás",
+        "estés",
+        "estarás",
+        "estuvieras"
+      ],
+      "answer": 1,
+      "explanation_zh": "Mientras 指未來行動 + 命令時用虛擬式，故選 (B) estés。(A) 陳述用於並行事實；(C) 未來陳述；(D) 過去虛擬皆不合祈使語境。"
+    },
+    {
+      "question_es": "No saldremos a cenar a no ser que ___ todos los deberes para mañana.",
+      "options": [
+        "terminamos",
+        "terminaremos",
+        "terminemos",
+        "terminaríamos"
+      ],
+      "answer": 2,
+      "explanation_zh": "A no ser que 一律接虛擬式，故選 (C) terminemos。(A) 陳述現在；(B) 未來陳述；(D) 條件式皆不合此固定結構。"
+    },
+    {
+      "question_es": "En caso de que ___ algún problema durante el vuelo, llámame inmediatamente.",
+      "options": [
+        "hay",
+        "habrá",
+        "habría",
+        "haya"
+      ],
+      "answer": 3,
+      "explanation_zh": "En caso de que 一律接虛擬式，故選 (D) haya。其他陳述／未來／條件式皆不符。"
+    },
+    {
+      "question_es": "Sin que nadie ___ nada, salió de la habitación sigilosamente por la puerta trasera.",
+      "options": [
+        "dijo",
+        "dijera",
+        "diría",
+        "dice"
+      ],
+      "answer": 1,
+      "explanation_zh": "Sin que 一律接虛擬式；主句過去式時用 imperfecto de subj.，故選 (B) dijera。(A) 過去陳述；(C) 條件式；(D) 現在陳述皆不合。"
+    },
+    {
+      "question_es": "El paquete que esperaba todavía no ___ entregado por el mensajero.",
+      "options": [
+        "es",
+        "está",
+        "ha sido",
+        "ha estado"
+      ],
+      "answer": 2,
+      "explanation_zh": "Ser + p.p. 「動作被動」+ por 行為者；現在完成 ha sido 表近期動作，故選 (C) ha sido。(A) 缺時態完成感；(B)(D) estar 表狀態不接 por 行為者。"
+    },
+    {
+      "question_es": "Aquí no se ___ ruido después de las once de la noche, por favor.",
+      "options": [
+        "hace",
+        "hacen",
+        "haga",
+        "hagan"
+      ],
+      "answer": 0,
+      "explanation_zh": "Se + 第三單數 + 名詞單數構成無人稱句「不可製造噪音」，故選 (A) hace。(B) 複數不合 ruido 單數；(C)(D) 虛擬式不合直接告示陳述。"
+    },
+    {
+      "question_es": "Trabaja ___ las mañanas en una panadería del centro histórico de la ciudad.",
+      "options": [
+        "en",
+        "de",
+        "para",
+        "por"
+      ],
+      "answer": 3,
+      "explanation_zh": "Por + 一天時段表「在某時段」，故選 (D) por。(C) para 表目的；(A) en 雖可用但 «por las mañanas» 為固定搭配；(B) de 不合此語境。"
+    },
+    {
+      "question_es": "Te llamo ___ teléfono esta misma noche para confirmarte la cita.",
+      "options": [
+        "por",
+        "para",
+        "en",
+        "con"
+      ],
+      "answer": 0,
+      "explanation_zh": "Por + 媒介工具（電話/網路）表「透過」，故選 (A) por。其他介詞不合「以電話聯絡」固定用法。"
+    },
+    {
+      "question_es": "Para ___ persona tan joven, demuestra una madurez sorprendente en sus decisiones.",
+      "options": [
+        "ser",
+        "estar",
+        "haber",
+        "tener"
+      ],
+      "answer": 0,
+      "explanation_zh": "「Para ser + N/Adj.」表「就…而言」屬固定搭配讓步比較，故選 (A) ser。(B) estar 不合此片語；(C) haber 助動詞；(D) tener 為「擁有」皆不符。"
+    },
+    {
+      "question_es": "Voy a hacerlo ___ las buenas o por las malas, no me queda otra opción.",
+      "options": [
+        "para",
+        "con",
+        "a",
+        "por"
+      ],
+      "answer": 3,
+      "explanation_zh": "«Por las buenas o por las malas» 為固定片語「好說歹說／硬來」，故選 (D) por。其他介詞不能構成此慣用語。"
+    },
+    {
+      "question_es": "Lleva enferma ___ tres semanas y aún no se ha recuperado del todo.",
+      "options": [
+        "por",
+        "durante",
+        "hace",
+        "desde hace"
+      ],
+      "answer": 3,
+      "explanation_zh": "Desde hace + 時間段表「自從…到現在持續」，故選 (D) desde hace。(A) por 多表大致時段；(B) durante 表期間但通常已結束；(C) hace 單獨指「之前」不合持續至今。"
+    },
+    {
+      "question_es": "Es un análisis muy ___ del problema: ha visto detalles que nadie más notó.",
+      "options": [
+        "perezoso",
+        "pesado",
+        "perfecto",
+        "perspicaz"
+      ],
+      "answer": 3,
+      "explanation_zh": "Perspicaz「敏銳的、洞察力強的」與「看見細節」吻合，故選 (D)。(A) perezoso 懶惰；(B) pesado 沉重/惱人；(C) perfecto 完美但不強調洞察力。"
+    },
+    {
+      "question_es": "Su respuesta fue ___ y no dejó lugar a dudas sobre su postura final.",
+      "options": [
+        "contundente",
+        "tímida",
+        "indecisa",
+        "vaga"
+      ],
+      "answer": 0,
+      "explanation_zh": "Contundente「強而有力、毫不含糊」與「不留疑問」吻合，故選 (A)。(B) 怯懦；(C) 猶豫；(D) 模糊皆與毫無疑問矛盾。"
+    },
+    {
+      "question_es": "En el ___ académico, se valora mucho la honestidad intelectual y el rigor.",
+      "options": [
+        "recinto",
+        "ámbito",
+        "barrio",
+        "panorama"
+      ],
+      "answer": 1,
+      "explanation_zh": "Ámbito「領域、範圍」常與 académico 搭配，故選 (B)。(A) recinto 場所；(C) barrio 街區；(D) panorama 全景皆不合抽象「領域」義。"
+    },
+    {
+      "question_es": "Los gastos imprevistos han ___ considerablemente nuestro presupuesto mensual de la familia.",
+      "options": [
+        "mermado",
+        "merendado",
+        "merecido",
+        "mareado"
+      ],
+      "answer": 0,
+      "explanation_zh": "Mermar「削減、減少」與預算被削減語境吻合，故選 (A)。(B) merendar 用點心；(C) merecer 值得；(D) marear 暈眩皆不合。"
+    },
+    {
+      "question_es": "Estamos ___ una época de grandes cambios tecnológicos sin precedentes en la historia.",
+      "options": [
+        "atravesado",
+        "atravesar",
+        "atravesemos",
+        "atravesando"
+      ],
+      "answer": 3,
+      "explanation_zh": "Estar + gerundio atravesando 表「正經歷」，故選 (D)。(A) 過去分詞；(B) 原形；(C) 虛擬式皆不接 estar 表進行。"
+    },
+    {
+      "question_es": "Nos consta que el director ___ informado de todo lo ocurrido en aquella reunión.",
+      "options": [
+        "es",
+        "está",
+        "fue",
+        "estaba"
+      ],
+      "answer": 3,
+      "explanation_zh": "Estar + p.p. 表結果狀態，過去背景用 imperfecto estaba，故選 (D) estaba（當時他是知情的）。(A)(B) 現在式不合過去語境；(C) fue 表被告知之動作。"
+    },
+    {
+      "question_es": "Ayer ___ tan cansado que me quedé dormido en el sofá del salón.",
+      "options": [
+        "era",
+        "estuve",
+        "estaba",
+        "fui"
+      ],
+      "answer": 2,
+      "explanation_zh": "Estar + 形容詞表暫時狀態；過去背景並引發另一動作用 imperfecto estaba，故選 (C)。(A) era 表本質；(B) estuve 強調短暫結束；(D) fui 為 ser 過去簡單不合狀態。"
+    },
+    {
+      "question_es": "Cuando la conocí, ella ___ una persona muy reservada y poco sociable.",
+      "options": [
+        "era",
+        "estaba",
+        "fue",
+        "estuvo"
+      ],
+      "answer": 0,
+      "explanation_zh": "Ser + 個性 表本質屬性；過去描述用 imperfecto era，故選 (A)。(B)(D) estar 表暫時狀態不合性格；(C) fue 表單次過去事件不合長期屬性。"
+    },
+    {
+      "question_es": "Los niños están ___ con los nuevos juguetes que les regalaron sus abuelos.",
+      "options": [
+        "contentos",
+        "buenos",
+        "felices",
+        "alegres"
+      ],
+      "answer": 0,
+      "explanation_zh": "Estar contento 「（暫時）開心」最自然搭配 estar，故選 (A) contentos。(B) buenos 多指身體好；(C) felices 較長期；(D) alegres 也可但 contento 更貼新禮物的瞬間情緒。"
+    },
+    {
+      "question_es": "Lo de Marta sigue ___ un misterio para todos los que la conocemos.",
+      "options": [
+        "siendo",
+        "estando",
+        "ser",
+        "estar"
+      ],
+      "answer": 0,
+      "explanation_zh": "Seguir + gerundio；ser 本質屬性「仍然是個謎」故 siendo，故選 (A)。(B) estar 不合「是…」；(C)(D) 原形不能接 seguir 後。"
+    },
+    {
+      "question_es": "Acabamos de ___ que el examen se ha aplazado para el próximo viernes por la tarde.",
+      "options": [
+        "saber",
+        "sabiendo",
+        "sabido",
+        "sabemos"
+      ],
+      "answer": 0,
+      "explanation_zh": "Acabar de + infinitivo 表「剛剛」，故選 (A) saber。其餘形式皆不符該周邊結構。"
+    },
+    {
+      "question_es": "Se han puesto a ___ desde primera hora de la mañana sin descanso.",
+      "options": [
+        "trabajar",
+        "trabajando",
+        "trabajado",
+        "trabajamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "Ponerse a + infinitivo 表「開始（突然）做」，故選 (A) trabajar。其餘形式皆不符結構。"
+    },
+    {
+      "question_es": "El equipo va ___ una solución más eficiente para reducir los costes operativos.",
+      "options": [
+        "buscar",
+        "buscado",
+        "busque",
+        "buscando"
+      ],
+      "answer": 3,
+      "explanation_zh": "Ir + gerundio 表「逐漸進行」，故選 (D) buscando。其他形式不合此周邊結構。"
+    },
+    {
+      "question_es": "Hay que ___ todos los documentos antes del jueves a las dos de la tarde.",
+      "options": [
+        "entregar",
+        "entregando",
+        "entregado",
+        "entregue"
+      ],
+      "answer": 0,
+      "explanation_zh": "Hay que + infinitivo 表無人稱義務，故選 (A) entregar。其餘形式皆不可接此結構。"
+    },
+    {
+      "question_es": "Cuando entré en clase, los estudiantes ya ___ los exámenes en sus mesas.",
+      "options": [
+        "tienen",
+        "tenían",
+        "tuvieron",
+        "habían tenido"
+      ],
+      "answer": 1,
+      "explanation_zh": "敘事中過去同時並行的背景狀態用 imperfecto tenían，故選 (B)。(A) 現在；(C) 過去簡單表單次完成；(D) 過去完成表更早的動作皆不合背景。"
+    },
+    {
+      "question_es": "Si me lo hubieras pedido antes, te ___ ayudado sin ningún problema.",
+      "options": [
+        "habría",
+        "había",
+        "hube",
+        "he"
+      ],
+      "answer": 0,
+      "explanation_zh": "第三型條件句主句用 condicional compuesto habría + p.p.，故選 (A) habría。(B) 過去完成；(C) 罕用；(D) 現在完成皆不合過去假設句主句。"
+    },
+    {
+      "question_es": "Habría aprobado el examen si ___ estudiado más durante las vacaciones.",
+      "options": [
+        "he",
+        "había",
+        "hubiera",
+        "habré"
+      ],
+      "answer": 2,
+      "explanation_zh": "第三型條件 si 子句用 pluscuamperfecto de subjuntivo hubiera + p.p.，故選 (C)。(A)(B) 陳述式不合；(D) 未來完成不合假設。"
+    },
+    {
+      "question_es": "No hay nadie que ___ resolver este problema matemático tan complejo.",
+      "options": [
+        "puede",
+        "pueda",
+        "podría",
+        "podrá"
+      ],
+      "answer": 1,
+      "explanation_zh": "前行詞為否定不存在（nadie），關係從句用虛擬式，故選 (B) pueda。(A) 陳述式；(C) 條件式；(D) 未來陳述皆不合不存在前行詞。"
+    },
+    {
+      "question_es": "Necesito una secretaria que ___ tres idiomas y tenga experiencia en negocios.",
+      "options": [
+        "habla",
+        "hable",
+        "hablara",
+        "hablará"
+      ],
+      "answer": 1,
+      "explanation_zh": "Necesitar + 不確定前行詞 una secretaria，關係從句用虛擬式，故選 (B) hable。(A) 陳述式假設已知；(C) 過去虛擬；(D) 未來陳述皆不合。"
+    },
+    {
+      "question_es": "Ese es el coche ___ siempre soñé desde que era pequeño.",
+      "options": [
+        "que",
+        "con que",
+        "con el que",
+        "del cual"
+      ],
+      "answer": 2,
+      "explanation_zh": "Soñar con 需介詞 con + 關係代詞 el que：con el que，故選 (C)。(A) 缺介詞；(B) con que 通常作目的連詞；(D) del cual 介詞錯。"
+    },
+    {
+      "question_es": "El profesor ___ quien aprendí más fue el de literatura clásica.",
+      "options": [
+        "por",
+        "de",
+        "con",
+        "a"
+      ],
+      "answer": 1,
+      "explanation_zh": "Aprender de alguien「從某人學到」，故選 (B) de。其餘介詞不合搭配。"
+    },
+    {
+      "question_es": "Es una persona ___ la que se puede contar en momentos difíciles.",
+      "options": [
+        "en",
+        "con",
+        "para",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "Contar con alguien「依靠某人」，故選 (B) con。其餘介詞不合該動詞搭配。"
+    },
+    {
+      "question_es": "Lo que más me sorprendió fue ___ pocos asistentes hubo en la conferencia.",
+      "options": [
+        "el",
+        "lo",
+        "los",
+        "la"
+      ],
+      "answer": 1,
+      "explanation_zh": "Lo + adj./adv. + que 表「多麼…」抽象量化，故選 (B) lo。(A)(C)(D) 為定冠詞需接具體名詞。"
+    },
+    {
+      "question_es": "Sé perfectamente ___ que estás pensando en este preciso momento.",
+      "options": [
+        "el",
+        "los",
+        "la",
+        "lo"
+      ],
+      "answer": 3,
+      "explanation_zh": "Lo que = 「所想的事」中性關係結構，故選 (D) lo。(A)(B)(C) 為定冠詞接具體名詞不合中性指涉。"
+    },
+    {
+      "question_es": "Aunque le ___ varias veces, nunca contesta el teléfono cuando llamo.",
+      "options": [
+        "llamo",
+        "llame",
+        "llamé",
+        "llamara"
+      ],
+      "answer": 0,
+      "explanation_zh": "Aunque + indicativo 表事實（雖然我打了好幾次），現在持續習慣用陳述現在，故選 (A) llamo。(B) 虛擬不合事實；(C) 過去簡單；(D) 過去虛擬皆不合現在習慣語境。"
+    },
+    {
+      "question_es": "Aunque ___ la verdad, dudo que se atreva a contártela en persona.",
+      "options": [
+        "sabe",
+        "sepa",
+        "supiera",
+        "sabrá"
+      ],
+      "answer": 1,
+      "explanation_zh": "Aunque + subjuntivo 表「即使」（不確定他是否真的知道），現在假設用 presente de subjuntivo sepa，故選 (B)。(A) 陳述式表事實；(C) 過去虛擬；(D) 未來陳述皆不合假設。"
+    },
+    {
+      "question_es": "Esta mañana ___ con un viejo amigo del colegio en la cafetería.",
+      "options": [
+        "me encontré",
+        "me encontraba",
+        "me he encontrado",
+        "me había encontrado"
+      ],
+      "answer": 2,
+      "explanation_zh": "Esta mañana 屬「尚未結束的時間單位」用 pretérito perfecto，故選 (C) me he encontrado。(A) indefinido 通常用於結束時段；(B) 未完成式表習慣；(D) 過去完成需更早參照。"
+    },
+    {
+      "question_es": "Cuando llegué a la oficina, mis colegas ya ___ a trabajar hacía horas.",
+      "options": [
+        "empezaron",
+        "empezaban",
+        "han empezado",
+        "habían empezado"
+      ],
+      "answer": 3,
+      "explanation_zh": "敘事中更早的動作用 pluscuamperfecto habían empezado，故選 (D)。(A) 過去簡單同時；(B) 未完成持續；(C) 現在完成皆不合更早參照。"
+    },
+    {
+      "question_es": "El año que viene, ya ___ cinco años trabajando en esta empresa.",
+      "options": [
+        "llevo",
+        "llevaré",
+        "habré llevado",
+        "llevaría"
+      ],
+      "answer": 2,
+      "explanation_zh": "El año que viene + 累積到那時的時長用 futuro perfecto habré llevado，故選 (C)。(A) 現在；(B) 未來簡單不合累積；(D) 條件式不合未來確定。"
+    },
+    {
+      "question_es": "Vivo en esta ciudad ___ hace casi diez años, y me sigue encantando.",
+      "options": [
+        "por",
+        "durante",
+        "desde",
+        "en"
+      ],
+      "answer": 2,
+      "explanation_zh": "Desde hace + 時間 「自從…多久以前到現在」，故選 (C) desde。(A) por 表大致時段；(B) durante 表整個期間；(D) en 表時間點皆不合持續至今。"
+    },
+    {
+      "question_es": "Estoy ___ de tanto trabajo y necesito unas vacaciones largas.",
+      "options": [
+        "harto",
+        "hartar",
+        "hartado",
+        "hartando"
+      ],
+      "answer": 0,
+      "explanation_zh": "Estar harto de + N.「對…受夠了」為固定搭配形容詞，故選 (A) harto。(B) 原形；(C) 過去分詞作完成式；(D) 副動詞皆不合此片語。"
+    },
+    {
+      "question_es": "Se trata ___ una novela muy interesante sobre la posguerra española.",
+      "options": [
+        "en",
+        "por",
+        "con",
+        "de"
+      ],
+      "answer": 3,
+      "explanation_zh": "Tratarse de「是關於、涉及」為固定搭配，故選 (D) de。其餘介詞不合此片語。"
+    },
+    {
+      "question_es": "Soñé ___ ti anoche; estábamos paseando por una playa preciosa.",
+      "options": [
+        "en",
+        "con",
+        "de",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "Soñar con「夢見」為固定搭配，故選 (B) con。其餘介詞不合此動詞固定搭配。"
+    },
+    {
+      "question_es": "Insistió ___ que la acompañáramos al médico aunque no era necesario.",
+      "options": [
+        "por",
+        "de",
+        "con",
+        "en"
+      ],
+      "answer": 3,
+      "explanation_zh": "Insistir en「堅持要」固定搭配，故選 (D) en。其餘介詞不合此動詞搭配。"
+    },
+    {
+      "question_es": "El nuevo director se ha ganado el respeto ___ todos los empleados rápidamente.",
+      "options": [
+        "por",
+        "de",
+        "para",
+        "en"
+      ],
+      "answer": 1,
+      "explanation_zh": "El respeto de「…的尊重（屬格）」表來源，故選 (B) de。(A) por 表「因」；(C) para 表目的；(D) en 不合此屬格結構。"
+    },
+    {
+      "question_es": "No tengo más remedio ___ aceptar las condiciones que me han impuesto.",
+      "options": [
+        "de",
+        "que",
+        "para",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "No tener más remedio que + inf.「別無選擇只能」為固定片語，故選 (B) que。其餘介詞不合此固定結構。"
+    },
+    {
+      "question_es": "A medida que ___ pasando los años, fui valorando más a mi familia.",
+      "options": [
+        "van",
+        "iban",
+        "vayan",
+        "fueran"
+      ],
+      "answer": 1,
+      "explanation_zh": "A medida que 表「隨著…」+ ir + gerundio；過去敘事用 imperfecto iban，故選 (B)。(A) 現在；(C) 虛擬式不合事實；(D) 過去虛擬不合敘述。"
+    },
+    {
+      "question_es": "Le habría llamado, pero el móvil ___ sin batería esa noche.",
+      "options": [
+        "estuvo",
+        "fue",
+        "era",
+        "estaba"
+      ],
+      "answer": 3,
+      "explanation_zh": "Estar + 狀態(暫時)；過去背景持續用 imperfecto estaba，故選 (D)。(A) 強調短暫結果；(B)(C) ser 不接暫時狀態。"
     }
   ],
   "dc1": [
