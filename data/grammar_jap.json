@@ -17726,6 +17726,2381 @@
           "kana": "いのちがあるだけましだ。"
         }
       ]
+    },
+    {
+      "pattern": "〜が早いか",
+      "meaning_en": "as soon as; no sooner than",
+      "meaning_ja": "～するとすぐに、直後に次の動作が起こる（書き言葉）。",
+      "meaning_zh": "一…就…；剛…馬上就…（書面語，後接瞬間動作）。",
+      "structure": "Verb-辞書形 + が早いか",
+      "examples": [
+        {
+          "ja": "ベルが鳴るが早いか、生徒たちは教室を飛び出した。",
+          "en": "No sooner had the bell rung than the students dashed out of the classroom.",
+          "kana": "ベルがなるがはやいか、せいとたちはきょうしつをとびだした。"
+        },
+        {
+          "ja": "彼は席に着くが早いか、料理を平らげ始めた。",
+          "en": "The moment he sat down, he began wolfing down the food.",
+          "kana": "かれはせきにつくがはやいか、りょうりをたいらげはじめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なり〜",
+      "meaning_en": "the moment; as soon as",
+      "meaning_ja": "～した、まさにその瞬間に。意外な行動が続く。",
+      "meaning_zh": "一…就…（前後動作幾乎同時，常為意外舉動）。",
+      "structure": "Verb-辞書形 + なり",
+      "examples": [
+        {
+          "ja": "子どもは母親の顔を見るなり、わっと泣き出した。",
+          "en": "The moment the child saw his mother's face, he burst into tears.",
+          "kana": "こどもははははのかおをみるなり、わっとなきだした。"
+        },
+        {
+          "ja": "彼女はドアを開けるなり、その場に倒れ込んだ。",
+          "en": "As soon as she opened the door, she collapsed on the spot.",
+          "kana": "かのじょはドアをあけるなり、そのばにたおれこんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜次第に",
+      "meaning_en": "gradually; little by little",
+      "meaning_ja": "時間の経過とともに少しずつ変化していくことを表す。",
+      "meaning_zh": "漸漸地；逐漸（隨時間慢慢變化）。",
+      "structure": "次第に + Verb/Adjective",
+      "examples": [
+        {
+          "ja": "雨は次第に小降りになっていった。",
+          "en": "The rain gradually let up.",
+          "kana": "あめはしだいにこぶりになっていった。"
+        },
+        {
+          "ja": "日本での生活にも次第に慣れてきました。",
+          "en": "I have gradually gotten used to life in Japan.",
+          "kana": "にほんでのせいかつにもしだいになれてきました。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にいたって",
+      "meaning_en": "only when; it was not until",
+      "meaning_ja": "極端な事態になってようやく～する、という遅さを表す。",
+      "meaning_zh": "事到如今才…；到了…的地步才…。",
+      "structure": "Noun / Verb-辞書形 + にいたって",
+      "examples": [
+        {
+          "ja": "事件が公になるにいたって、会社はようやく謝罪した。",
+          "en": "It was not until the incident became public that the company finally apologized.",
+          "kana": "じけんがおおやけになるにいたって、かいしゃはようやくしゃざいした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜うちが",
+      "meaning_en": "while still in (state); the prime of",
+      "meaning_ja": "その状態の間が最もよい、一番だ、と評価する表現。",
+      "meaning_zh": "趁…的時候才是最…；…的時候才是…。",
+      "structure": "Verb-ている / Noun-の + うちが",
+      "examples": [
+        {
+          "ja": "桜は満開のうちが一番美しい。",
+          "en": "Cherry blossoms are most beautiful while in full bloom.",
+          "kana": "さくらはまんかいのうちがいちばんうつくしい。"
+        },
+        {
+          "ja": "若いうちが花だよ。",
+          "en": "Your youth is your prime — make the most of it.",
+          "kana": "わかいうちがはなだよ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜折に",
+      "meaning_en": "on the occasion of; when",
+      "meaning_ja": "ある機会・場面に、丁寧で改まった言い方で用いる。",
+      "meaning_zh": "在…的時候；趁…的機會（鄭重表達）。",
+      "structure": "Noun-の / Verb-辞書形・た形 + 折に",
+      "examples": [
+        {
+          "ja": "東京へお越しの折には、ぜひお立ち寄りください。",
+          "en": "When you come to Tokyo, please be sure to drop by.",
+          "kana": "とうきょうへおこしのおりには、ぜひおたちよりください。"
+        },
+        {
+          "ja": "先日お会いした折に伺ったお話を覚えています。",
+          "en": "I remember the story you told me on the occasion we met the other day.",
+          "kana": "せんじつおあいしたおりにうかがったおはなしをおぼえています。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たそばから",
+      "meaning_en": "no sooner than; as soon as (and repeatedly)",
+      "meaning_ja": "～してもすぐに、また同じことが起こる。繰り返しを表す。",
+      "meaning_zh": "剛…就又…（反覆地、無奈地發生）。",
+      "structure": "Verb-た形 + そばから",
+      "examples": [
+        {
+          "ja": "片付けたそばから、子どもがおもちゃを散らかす。",
+          "en": "No sooner do I tidy up than my child scatters the toys again.",
+          "kana": "かたづけたそばから、こどもがおもちゃをちらかす。"
+        },
+        {
+          "ja": "習ったそばから忘れてしまう。",
+          "en": "I forget things as soon as I learn them.",
+          "kana": "ならったそばからわすれてしまう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜てはじめて",
+      "meaning_en": "only after; not until",
+      "meaning_ja": "～した経験を経て、初めてあることに気づく・できる。",
+      "meaning_zh": "…之後才（第一次）…；直到…才…。",
+      "structure": "Verb-て形 + はじめて",
+      "examples": [
+        {
+          "ja": "親になってはじめて、親のありがたさが分かった。",
+          "en": "Only after becoming a parent myself did I appreciate my own parents.",
+          "kana": "おやになってはじめて、おやのありがたさがわかった。"
+        },
+        {
+          "ja": "失ってはじめて、その大切さに気づくものだ。",
+          "en": "It's only after you lose something that you realize its importance.",
+          "kana": "うしなってはじめて、そのたいせつさにきづくものだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たて",
+      "meaning_en": "just done; freshly",
+      "meaning_ja": "ある動作をしてからまだ間もない、新鮮な状態を表す。",
+      "meaning_zh": "剛剛…完的（新鮮、剛做好）。",
+      "structure": "Verb-ます形(stem) + たて",
+      "examples": [
+        {
+          "ja": "焼きたてのパンはやっぱりおいしい。",
+          "en": "Freshly baked bread is just delicious.",
+          "kana": "やきたてのパンはやっぱりおいしい。"
+        },
+        {
+          "ja": "彼は大学を出たての新入社員です。",
+          "en": "He is a new employee fresh out of university.",
+          "kana": "かれはだいがくをでたてのしんにゅうしゃいんです。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ぶり",
+      "meaning_en": "for the first time in (period)",
+      "meaning_ja": "ある動作・状態がそれだけの時間を経て再び起こることを表す。",
+      "meaning_zh": "隔了…（時間）（再次發生）。",
+      "structure": "Noun (時間) + ぶり",
+      "examples": [
+        {
+          "ja": "十年ぶりに故郷の友人に再会した。",
+          "en": "I met up with a friend from my hometown for the first time in ten years.",
+          "kana": "じゅうねんぶりにこきょうのゆうじんにさいかいした。"
+        },
+        {
+          "ja": "三日ぶりに晴れて、洗濯ができた。",
+          "en": "The sun came out for the first time in three days, so I could do the laundry.",
+          "kana": "みっかぶりにはれて、せんたくができた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こちら",
+      "meaning_en": "since (time period); for the past...",
+      "meaning_ja": "ある時点からずっと現在まで続いていることを表す。",
+      "meaning_zh": "從…以來（一直持續到現在）。",
+      "structure": "Noun (時間) + こちら",
+      "examples": [
+        {
+          "ja": "ここ一週間こちら、彼の姿を見ていない。",
+          "en": "I haven't seen him for the past week.",
+          "kana": "ここいっしゅうかんこちら、かれのすがたをみていない。"
+        },
+        {
+          "ja": "去年こちら、体調が思わしくない。",
+          "en": "Since last year, my health hasn't been good.",
+          "kana": "きょねんこちら、たいちょうがおもわしくない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜以後",
+      "meaning_en": "after; from ... onward",
+      "meaning_ja": "ある時点を基準に、それから後の時間を示す。",
+      "meaning_zh": "…以後（從某時點之後）。",
+      "structure": "Noun / Verb-て形 + 以後",
+      "examples": [
+        {
+          "ja": "九時以後の入店はお断りしております。",
+          "en": "We do not allow entry after 9 p.m.",
+          "kana": "くじいごのにゅうてんはおことわりしております。"
+        },
+        {
+          "ja": "結婚して以後、彼は人が変わったように真面目になった。",
+          "en": "Since getting married, he has become diligent as if he were a different person.",
+          "kana": "けっこんしていご、かれはひとがかわったようにまじめになった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜から〜にかけての",
+      "meaning_en": "from ... to (a span); over the period from",
+      "meaning_ja": "おおよその時間的・空間的な範囲を名詞化して示す。",
+      "meaning_zh": "從…到…的（時間或地點的大致範圍，作為連體修飾）。",
+      "structure": "Noun + から + Noun + にかけての + Noun",
+      "examples": [
+        {
+          "ja": "六月から七月にかけての梅雨は湿気がひどい。",
+          "en": "The rainy season from June through July has terrible humidity.",
+          "kana": "ろくがつからしちがつにかけてのつゆはしっけがひどい。"
+        },
+        {
+          "ja": "関東から東北にかけての地域で大雨が予想される。",
+          "en": "Heavy rain is expected in the area stretching from Kanto to Tohoku.",
+          "kana": "かんとうからとうほくにかけてのちいきでおおあめがよそうされる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にわたり",
+      "meaning_en": "over (a period/range); throughout",
+      "meaning_ja": "ある期間・範囲の全体にわたって及ぶことを示す（書き言葉）。",
+      "meaning_zh": "歷經…；遍及…的整個範圍（書面語）。",
+      "structure": "Noun (期間/範囲) + にわたり",
+      "examples": [
+        {
+          "ja": "三日間にわたり、国際会議が開催された。",
+          "en": "The international conference was held over a three-day period.",
+          "kana": "みっかかんにわたり、こくさいかいぎがかいさいされた。"
+        },
+        {
+          "ja": "長年にわたり、地域の発展に貢献してこられました。",
+          "en": "You have contributed to the region's development over many years.",
+          "kana": "ながねんにわたり、ちいきのはってんにこうけんしてこられました。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜きった",
+      "meaning_en": "completely; thoroughly (done)",
+      "meaning_ja": "動作・状態が最後まで完全に行きついたことを強調する。",
+      "meaning_zh": "完全地…；…到極點（達到極限狀態）。",
+      "structure": "Verb-ます形(stem) + きった",
+      "examples": [
+        {
+          "ja": "疲れきった顔で彼は帰宅した。",
+          "en": "He came home with a thoroughly exhausted face.",
+          "kana": "つかれきったかおでかれはきたくした。"
+        },
+        {
+          "ja": "冷えきったスープを温め直した。",
+          "en": "I reheated the soup that had gone completely cold.",
+          "kana": "ひえきったスープをあたためなおした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なくしては",
+      "meaning_en": "without; if it were not for",
+      "meaning_ja": "～がなければ成立しない、と強く否定的に述べる書き言葉。",
+      "meaning_zh": "如果沒有…就不…（書面語、強調）。",
+      "structure": "Noun + なくしては",
+      "examples": [
+        {
+          "ja": "皆様のご支援なくしては、このプロジェクトの成功はあり得なかった。",
+          "en": "Without your support, the success of this project would not have been possible.",
+          "kana": "みなさまのごしえんなくしては、このプロジェクトのせいこうはありえなかった。"
+        },
+        {
+          "ja": "努力なくしては成功は望めない。",
+          "en": "You cannot hope for success without effort.",
+          "kana": "どりょくなくしてはせいこうはのぞめない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしてからが",
+      "meaning_en": "even ... is no exception",
+      "meaning_ja": "極端な例を挙げて、「これでさえそうなのだから」と強調する。",
+      "meaning_zh": "就連…也…（舉極端例子強調連這個都這樣）。",
+      "structure": "Noun + にしてからが",
+      "examples": [
+        {
+          "ja": "校長先生にしてからが、その問題には答えられなかった。",
+          "en": "Even the principal could not answer that question.",
+          "kana": "こうちょうせんせいにしてからが、そのもんだいにはこたえられなかった。"
+        },
+        {
+          "ja": "プロの選手にしてからが、この技は難しいと言う。",
+          "en": "Even professional athletes say this technique is difficult.",
+          "kana": "プロのせんしゅにしてからが、このわざはむずかしいという。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜うちから",
+      "meaning_en": "from while still (in a state)",
+      "meaning_ja": "ある状態が続いているうちから、早くも次のことが起こる。",
+      "meaning_zh": "從…的時候就（已經）…（趁早、早期就開始）。",
+      "structure": "Verb-辞書形/ない形 / i-Adj + うちから",
+      "examples": [
+        {
+          "ja": "若いうちから貯金する習慣をつけたほうがいい。",
+          "en": "You should get into the habit of saving money from while you're still young.",
+          "kana": "わかいうちからちょきんするしゅうかんをつけたほうがいい。"
+        },
+        {
+          "ja": "子どものうちから外国語に触れさせる家庭が増えている。",
+          "en": "More families are exposing their children to foreign languages from a young age.",
+          "kana": "こどものうちからがいこくごにふれさせるかていがふえている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜が最後",
+      "meaning_en": "once ... then (inevitably)",
+      "meaning_ja": "一度～したら最後、必ず悪い結果になることを表す。",
+      "meaning_zh": "一旦…就…（必然導致無法挽回的結果）。",
+      "structure": "Verb-た形 + が最後",
+      "examples": [
+        {
+          "ja": "彼は一度怒り出したが最後、誰にも止められない。",
+          "en": "Once he starts getting angry, no one can stop him.",
+          "kana": "かれはいちどおこりだしたがさいご、だれにもとめられない。"
+        },
+        {
+          "ja": "この秘密を口にしたが最後、君の信用は失われるだろう。",
+          "en": "Once you say this secret out loud, you'll lose all credibility.",
+          "kana": "このひみつをくちにしたがさいご、きみのしんようはうしなわれるだろう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たら最後",
+      "meaning_en": "once you ... that's it",
+      "meaning_ja": "「が最後」と同義で、一度～したら必ず悪い結末になる。",
+      "meaning_zh": "一旦…就完了（必然帶來不可挽回的結果，口語感）。",
+      "structure": "Verb-た形 + ら最後",
+      "examples": [
+        {
+          "ja": "この沼にはまったら最後、二度と抜け出せない。",
+          "en": "Once you fall into this swamp, you can never get out again.",
+          "kana": "このぬまにはまったらさいご、にどとぬけだせない。"
+        },
+        {
+          "ja": "彼に頼まれたら最後、断ることはできない。",
+          "en": "Once he asks you for something, there's no refusing.",
+          "kana": "かれにたのまれたらさいご、ことわることはできない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜直前に",
+      "meaning_en": "just before; immediately prior to",
+      "meaning_ja": "ある出来事のごく直前の時点を示す。",
+      "meaning_zh": "在…即將發生之前；正要…的時候。",
+      "structure": "Noun-の / Verb-辞書形 + 直前に",
+      "examples": [
+        {
+          "ja": "試験の直前になって、教科書を開いてもむだだ。",
+          "en": "It's useless to open the textbook right before the exam.",
+          "kana": "しけんのちょくぜんになって、きょうかしょをひらいてもむだだ。"
+        },
+        {
+          "ja": "電車が発車する直前に、彼はホームに駆け込んだ。",
+          "en": "He rushed onto the platform just before the train departed.",
+          "kana": "でんしゃがはっしゃするちょくぜんに、かれはホームにかけこんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜あくる",
+      "meaning_en": "the next; the following",
+      "meaning_ja": "ある日・年などの次の～を表す改まった連体詞。",
+      "meaning_zh": "次（日）；翌（年）（用於書面、稍鄭重）。",
+      "structure": "あくる + Noun (時間)",
+      "examples": [
+        {
+          "ja": "あくる朝、彼は早々に出発した。",
+          "en": "The next morning, he set off early.",
+          "kana": "あくるあさ、かれははやばやとしゅっぱつした。"
+        },
+        {
+          "ja": "あくる日になって、ようやく連絡がついた。",
+          "en": "It wasn't until the next day that I finally got in touch.",
+          "kana": "あくるひになって、ようやくれんらくがついた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とあれば",
+      "meaning_en": "if it is the case that; if it is for",
+      "meaning_ja": "特別な事情・条件であるならば、当然～する、と仮定する。",
+      "meaning_zh": "如果是…的話（特別情況下當然會…）。",
+      "structure": "Noun / Verb-普通形 + とあれば",
+      "examples": [
+        {
+          "ja": "子どものためとあれば、どんな苦労もいとわない。",
+          "en": "If it's for my child's sake, I won't mind any hardship.",
+          "kana": "こどものためとあれば、どんなくろうもいとわない。"
+        },
+        {
+          "ja": "あなたの頼みとあれば、断れません。",
+          "en": "If it's a request from you, I can't refuse.",
+          "kana": "あなたのたのみとあれば、ことわれません。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ところを",
+      "meaning_en": "(I'm sorry to bother you) at a time when",
+      "meaning_ja": "相手がある状態である場面に介入する、配慮を示す表現。",
+      "meaning_zh": "在您…的時候（鄭重打擾的客套表達）。",
+      "structure": "Noun-の / Verb-辞書形・ている + ところを",
+      "examples": [
+        {
+          "ja": "お忙しいところをお邪魔いたします。",
+          "en": "Pardon me for intruding when you're so busy.",
+          "kana": "おいそがしいところをおじゃまいたします。"
+        },
+        {
+          "ja": "お休みのところをすみません、急ぎの件で連絡しました。",
+          "en": "Sorry to disturb your rest — I'm contacting you about an urgent matter.",
+          "kana": "おやすみのところをすみません、いそぎのけんでれんらくしました。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜となく",
+      "meaning_en": "without specifying; countless times",
+      "meaning_ja": "「何度となく」「いつとなく」などの形で、はっきりした区切りなしに継続することを示す。",
+      "meaning_zh": "不知…多少次；不知不覺地…（不特定的時間或次數）。",
+      "structure": "Interrogative + となく",
+      "examples": [
+        {
+          "ja": "彼女のことが、いつとなく心に浮かぶ。",
+          "en": "Thoughts of her come to mind at unexpected moments.",
+          "kana": "かのじょのことが、いつとなくこころにうかぶ。"
+        },
+        {
+          "ja": "幾度となく挑戦したが、結局成功しなかった。",
+          "en": "I tried any number of times, but in the end did not succeed.",
+          "kana": "いくどとなくちょうせんしたが、けっきょくせいこうしなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を経て",
+      "meaning_en": "after going through; via",
+      "meaning_ja": "ある過程・場所・時間を経過して次の段階に至ることを表す。",
+      "meaning_zh": "經過…（過程或時間）後…。",
+      "structure": "Noun + を経て",
+      "examples": [
+        {
+          "ja": "長い議論を経て、ようやく結論に達した。",
+          "en": "After lengthy discussions, we finally reached a conclusion.",
+          "kana": "ながいぎろんをへて、ようやくけつろんにたっした。"
+        },
+        {
+          "ja": "彼は数々の困難を経て今の地位を築いた。",
+          "en": "He built his current position after going through numerous hardships.",
+          "kana": "かれはかずかずのこんなんをへていまのちいをきずいた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を機に",
+      "meaning_en": "taking the opportunity of; on the occasion of",
+      "meaning_ja": "ある出来事を機会として、新しい行動・変化を始めることを表す。",
+      "meaning_zh": "以…為契機；藉著…的機會。",
+      "structure": "Noun + を機に",
+      "examples": [
+        {
+          "ja": "退職を機に、田舎で生活を始めた。",
+          "en": "Taking my retirement as an opportunity, I started living in the countryside.",
+          "kana": "たいしょくをきに、いなかでせいかつをはじめた。"
+        },
+        {
+          "ja": "結婚を機にタバコをやめた。",
+          "en": "I quit smoking on the occasion of my marriage.",
+          "kana": "けっこんをきにタバコをやめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜が早いか〜やいなや",
+      "meaning_en": "the instant; the very moment",
+      "meaning_ja": "「やいなや」と同様、ほぼ同時に次の動作が起こることを強調。",
+      "meaning_zh": "剛一…就立刻…（兩件事幾乎同時發生）。",
+      "structure": "Verb-辞書形 + やいなや",
+      "examples": [
+        {
+          "ja": "玄関に着くやいなや、彼は荷物を放り出した。",
+          "en": "The instant he reached the entrance, he threw his luggage down.",
+          "kana": "げんかんにつくやいなや、かれはにもつをほうりだした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜そばから",
+      "meaning_en": "as soon as (repeatedly)",
+      "meaning_ja": "～してもまたすぐに同じ状態になる、その繰り返しを表す。",
+      "meaning_zh": "剛…就又…（反覆發生，常含無奈）。",
+      "structure": "Verb-辞書形 + そばから",
+      "examples": [
+        {
+          "ja": "覚えるそばから忘れていく。",
+          "en": "I forget things as soon as I memorize them.",
+          "kana": "おぼえるそばからわすれていく。"
+        },
+        {
+          "ja": "稼ぐそばから使ってしまう。",
+          "en": "I spend money as fast as I earn it.",
+          "kana": "かせぐそばからつかってしまう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ところへ",
+      "meaning_en": "just at the moment when",
+      "meaning_ja": "ある動作・状態の最中に、別の人や事が現れる場面を表す。",
+      "meaning_zh": "正…的時候，（碰巧）…來了／發生了…。",
+      "structure": "Verb-ている / Verb-た形 + ところへ",
+      "examples": [
+        {
+          "ja": "出かけようとしているところへ、来客があった。",
+          "en": "Just as I was about to go out, a visitor came.",
+          "kana": "でかけようとしているところへ、らいきゃくがあった。"
+        },
+        {
+          "ja": "話をしていたところへ、彼女が入ってきた。",
+          "en": "She walked in just as we were talking about her.",
+          "kana": "はなしをしていたところへ、かのじょがはいってきた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ところを見ると",
+      "meaning_en": "judging from the fact that",
+      "meaning_ja": "見たり聞いたりした事実から判断して、と推測する根拠を示す。",
+      "meaning_zh": "從…的情況看來；由…的樣子來判斷。",
+      "structure": "Verb-普通形 + ところを見ると",
+      "examples": [
+        {
+          "ja": "笑っているところを見ると、試験はうまくいったらしい。",
+          "en": "Judging from the fact that he's smiling, the exam seems to have gone well.",
+          "kana": "わらっているところをみると、しけんはうまくいったらしい。"
+        },
+        {
+          "ja": "傘を持っているところを見ると、雨が降るのだろう。",
+          "en": "Judging from the fact that he's carrying an umbrella, it must be going to rain.",
+          "kana": "かさをもっているところをみると、あめがふるのだろう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜が見られる",
+      "meaning_en": "can be seen; is observed",
+      "meaning_ja": "ある現象や傾向が観察されることを表す書き言葉。",
+      "meaning_zh": "可以看到…；觀察到…的現象（書面語）。",
+      "structure": "Noun + が見られる",
+      "examples": [
+        {
+          "ja": "若者の間にも、和食を見直す傾向が見られる。",
+          "en": "Even among young people, a tendency to reappraise Japanese food can be observed.",
+          "kana": "わかもののあいだにも、わしょくをみなおすけいこうがみられる。"
+        },
+        {
+          "ja": "今年は経済の回復が見られる。",
+          "en": "An economic recovery can be seen this year.",
+          "kana": "ことしはけいざいのかいふくがみられる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ものと思われる",
+      "meaning_en": "it is thought that; is believed to",
+      "meaning_ja": "客観的・控えめに判断・推測を述べる書き言葉。",
+      "meaning_zh": "被認為…；推測…（客觀、書面語）。",
+      "structure": "Verb-普通形 + ものと思われる",
+      "examples": [
+        {
+          "ja": "事故の原因は人為的なミスであるものと思われる。",
+          "en": "The cause of the accident is thought to be human error.",
+          "kana": "じこのげんいんはじんいてきなミスであるものとおもわれる。"
+        },
+        {
+          "ja": "明日には全国的に晴れるものと思われる。",
+          "en": "It is expected to be sunny nationwide tomorrow.",
+          "kana": "あしたにはぜんこくてきにはれるものとおもわれる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にあたっての",
+      "meaning_en": "on the occasion of (modifying a noun)",
+      "meaning_ja": "ある時・場面における～、と名詞を修飾する改まった言い方。",
+      "meaning_zh": "在…的時候之…（鄭重，作為連體修飾）。",
+      "structure": "Noun / Verb-辞書形 + にあたっての + Noun",
+      "examples": [
+        {
+          "ja": "開会にあたっての挨拶を、社長から申し上げます。",
+          "en": "The president will now give the opening address for the meeting.",
+          "kana": "かいかいにあたってのあいさつを、しゃちょうからもうしあげます。"
+        },
+        {
+          "ja": "受験にあたっての注意事項を確認してください。",
+          "en": "Please review the precautions for taking the exam.",
+          "kana": "じゅけんにあたってのちゅういじこうをかくにんしてください。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜まぎわに",
+      "meaning_en": "right before; on the verge of",
+      "meaning_ja": "ある出来事が起こる直前の、緊迫した時点を示す。",
+      "meaning_zh": "在…即將發生的緊要關頭；眼看…要…的時候。",
+      "structure": "Noun-の / Verb-辞書形 + 間際に",
+      "examples": [
+        {
+          "ja": "出発間際に忘れ物に気づいた。",
+          "en": "I noticed I had forgotten something right before departing.",
+          "kana": "しゅっぱつまぎわにわすれものにきづいた。"
+        },
+        {
+          "ja": "締め切り間際になって慌てて書き始めた。",
+          "en": "I started writing in a panic right before the deadline.",
+          "kana": "しめきりまぎわになってあわててかきはじめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜矢先に",
+      "meaning_en": "just when; just as one was about to",
+      "meaning_ja": "ちょうど何かをしようとしていた、その瞬間に別の事が起こる。",
+      "meaning_zh": "正當…的時候；剛要…的時候。",
+      "structure": "Verb-た形/ようとした + 矢先に",
+      "examples": [
+        {
+          "ja": "家を出ようとした矢先に、雨が降り出した。",
+          "en": "Just as I was about to leave the house, it started to rain.",
+          "kana": "いえをでようとしたやさきに、あめがふりだした。"
+        },
+        {
+          "ja": "新しい仕事に慣れてきた矢先に、転勤を命じられた。",
+          "en": "Just as I was getting used to the new job, I was ordered to transfer.",
+          "kana": "あたらしいしごとになれてきたやさきに、てんきんをめいじられた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こと数年",
+      "meaning_en": "for several years (of doing)",
+      "meaning_ja": "「～すること数年」の形で、その動作が数年続いたことを示す書き言葉。",
+      "meaning_zh": "…了好幾年（持續做某動作好幾年，書面語）。",
+      "structure": "Verb-辞書形 + こと数年",
+      "examples": [
+        {
+          "ja": "彼は研究に没頭すること数年、ついに新薬を発見した。",
+          "en": "After devoting himself to research for several years, he finally discovered a new drug.",
+          "kana": "かれはけんきゅうにぼっとうすることすうねん、ついにしんやくをはっけんした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の折",
+      "meaning_en": "when; at the time of (formal)",
+      "meaning_ja": "ある時節・機会に、と改まって述べる書き言葉。手紙によく使う。",
+      "meaning_zh": "在…的時節（書信常用，鄭重）。",
+      "structure": "Noun-の + 折",
+      "examples": [
+        {
+          "ja": "猛暑の折、くれぐれもご自愛ください。",
+          "en": "In this scorching weather, please take good care of yourself.",
+          "kana": "もうしょのおり、くれぐれもごじあいください。"
+        },
+        {
+          "ja": "ご出張の折には、お立ち寄りいただければ幸いです。",
+          "en": "When you are on a business trip, I would be glad if you could drop by.",
+          "kana": "ごしゅっちょうのおりには、おたちよりいただければさいわいです。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にして〜",
+      "meaning_en": "even at; in a mere",
+      "meaning_ja": "数量や立場を表す語と共に、「それでなお」「それだからこそ」の意。",
+      "meaning_zh": "在…的階段、立場上（仍／才）…。",
+      "structure": "Noun (数量・立場) + にして",
+      "examples": [
+        {
+          "ja": "一日にして、町の風景は一変した。",
+          "en": "In a single day, the town's landscape was transformed.",
+          "kana": "いちにちにして、まちのふうけいはいっぺんした。"
+        },
+        {
+          "ja": "ローマは一日にして成らず。",
+          "en": "Rome wasn't built in a day.",
+          "kana": "ローマはいちにちにしてならず。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たそばで",
+      "meaning_en": "right beside (while)",
+      "meaning_ja": "ある動作のすぐそば・並行で別の事が起こることを示す。",
+      "meaning_zh": "在剛…的旁邊；剛…就在旁邊…。",
+      "structure": "Verb-た形 + そばで",
+      "examples": [
+        {
+          "ja": "教えたそばで、もう違うやり方をしている。",
+          "en": "Right after I taught him, he's already doing it differently.",
+          "kana": "おしえたそばで、もうちがうやりかたをしている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の最中",
+      "meaning_en": "right in the middle of",
+      "meaning_ja": "ある動作・出来事が今まさに進行している状況を示す名詞句。",
+      "meaning_zh": "正在…的當中；…的最高潮。",
+      "structure": "Noun-の / Verb-ている + 最中",
+      "examples": [
+        {
+          "ja": "会議の最中に携帯電話が鳴ってしまった。",
+          "en": "My cell phone rang right in the middle of the meeting.",
+          "kana": "かいぎのさいちゅうにけいたいでんわがなってしまった。"
+        },
+        {
+          "ja": "話し合っている最中に、停電になった。",
+          "en": "Right in the middle of our discussion, there was a power outage.",
+          "kana": "はなしあっているさいちゅうに、ていでんになった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜先立つ",
+      "meaning_en": "preceding; prior to",
+      "meaning_ja": "「～に先立つ」の形で、ある事柄より前に位置することを表す書き言葉。",
+      "meaning_zh": "在…之前；先於…（書面語）。",
+      "structure": "Noun + に先立つ + Noun",
+      "examples": [
+        {
+          "ja": "出発に先立つ準備が大変だった。",
+          "en": "The preparations leading up to departure were exhausting.",
+          "kana": "しゅっぱつにさきだつじゅんびがたいへんだった。"
+        },
+        {
+          "ja": "発表会に先立つリハーサルが行われた。",
+          "en": "A rehearsal was held prior to the recital.",
+          "kana": "はっぴょうかいにさきだつリハーサルがおこなわれた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の暁には",
+      "meaning_en": "when ... is realized; once it comes true",
+      "meaning_ja": "願望や計画が実現したそのときには、と未来を述べる書き言葉。",
+      "meaning_zh": "等到…實現的時候；…成功之日（書面語、莊重）。",
+      "structure": "Noun-の / Verb-た形 + 暁には",
+      "examples": [
+        {
+          "ja": "当選した暁には、必ず公約を実現します。",
+          "en": "Once I am elected, I will absolutely fulfill my pledges.",
+          "kana": "とうせんしたあかつきには、かならずこうやくをじつげんします。"
+        },
+        {
+          "ja": "成功の暁には、皆で祝杯をあげよう。",
+          "en": "When we succeed, let's raise a toast together.",
+          "kana": "せいこうのあかつきには、みんなでしゅくはいをあげよう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を経るにつれて",
+      "meaning_en": "as ... passes; as one goes through",
+      "meaning_ja": "時間や過程を経るに従って状況が変化していくことを表す。",
+      "meaning_zh": "隨著…的經過；經歷…後逐漸…。",
+      "structure": "Noun + を経るにつれて",
+      "examples": [
+        {
+          "ja": "時を経るにつれて、傷の記憶も薄れていった。",
+          "en": "As time passed, the memory of the wound also faded.",
+          "kana": "ときをへるにつれて、きずのきおくもうすれていった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にかけては",
+      "meaning_en": "when it comes to",
+      "meaning_ja": "ある分野・事柄に関しては誰にも負けない、と能力を強調する。",
+      "meaning_zh": "在…方面（誰也比不上、能力強）。",
+      "structure": "Noun + にかけては",
+      "examples": [
+        {
+          "ja": "料理にかけては、彼の右に出る者はいない。",
+          "en": "When it comes to cooking, no one can outdo him.",
+          "kana": "りょうりにかけては、かれのみぎにでるものはいない。"
+        },
+        {
+          "ja": "計算の速さにかけては自信がある。",
+          "en": "When it comes to speed of calculation, I'm confident.",
+          "kana": "けいさんのはやさにかけてはじしんがある。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を限度に",
+      "meaning_en": "with ... as the limit; up to a maximum of",
+      "meaning_ja": "それを上限・最後として、と限度を示す書き言葉。",
+      "meaning_zh": "以…為上限；以…為終點。",
+      "structure": "Noun + を限度に",
+      "examples": [
+        {
+          "ja": "一日三時間を限度に、勉強することにしている。",
+          "en": "I have set a limit of three hours a day for studying.",
+          "kana": "いちにちさんじかんをげんどに、べんきょうすることにしている。"
+        },
+        {
+          "ja": "今月末を限度に、このサービスは終了します。",
+          "en": "This service will end as of the end of this month at the latest.",
+          "kana": "こんげつまつをげんどに、このサービスはしゅうりょうします。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を境に",
+      "meaning_en": "with ... as a turning point; from ... on",
+      "meaning_ja": "ある出来事を境界として、状況が大きく変わることを表す。",
+      "meaning_zh": "以…為界；從…起，情況有了轉變。",
+      "structure": "Noun + を境に",
+      "examples": [
+        {
+          "ja": "三十歳を境に、体力の衰えを感じるようになった。",
+          "en": "From around the age of thirty, I started to feel my physical strength declining.",
+          "kana": "さんじゅっさいをさかいに、たいりょくのおとろえをかんじるようになった。"
+        },
+        {
+          "ja": "あの事故を境に、彼の人生は大きく変わった。",
+          "en": "That accident was the turning point that changed his life dramatically.",
+          "kana": "あのじこをさかいに、かれのじんせいはおおきくかわった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とあって",
+      "meaning_en": "given that; because (special circumstance)",
+      "meaning_ja": "～という特別な状況なので（書き言葉）",
+      "meaning_zh": "因為是…（描述特殊情況導致的結果，書面語）",
+      "structure": "Noun / 普通形 + とあって",
+      "examples": [
+        {
+          "ja": "連休とあって、観光地はどこも混雑している。",
+          "en": "Given that it's a long holiday, every tourist spot is crowded.",
+          "kana": "れんきゅうとあって、かんこうちはどこもこんざつしている。"
+        },
+        {
+          "ja": "有名な歌手が来るとあって、会場は大盛況だ。",
+          "en": "With a famous singer coming, the venue is packed.",
+          "kana": "ゆうめいなかしゅがくるとあって、かいじょうはだいせいきょうだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ゆえ(に)",
+      "meaning_en": "because of; due to (formal/literary)",
+      "meaning_ja": "～という理由・原因で（古風・硬い表現）",
+      "meaning_zh": "因為…；由於…（古風書面語）",
+      "structure": "Noun(の) / 普通形 + ゆえ(に)",
+      "examples": [
+        {
+          "ja": "若さゆえの過ちは誰にでもある。",
+          "en": "Mistakes made due to youth happen to everyone.",
+          "kana": "わかさゆえのあやまちはだれにでもある。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜のは〜ためだ",
+      "meaning_en": "the reason ~ is because of ~",
+      "meaning_ja": "～の理由は～だからである",
+      "meaning_zh": "之所以…是因為…",
+      "structure": "Sentence + のは + Noun(の)/普通形 + ためだ",
+      "examples": [
+        {
+          "ja": "電車が遅れたのは事故があったためだ。",
+          "en": "The reason the train was late is that there was an accident.",
+          "kana": "でんしゃがおくれたのはじこがあったためだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜結果",
+      "meaning_en": "as a result of",
+      "meaning_ja": "～した結果として",
+      "meaning_zh": "…的結果；…之後（最終結果）",
+      "structure": "Verb-た形 / Noun-の + 結果",
+      "examples": [
+        {
+          "ja": "話し合った結果、計画を変更することになった。",
+          "en": "As a result of our discussion, we decided to change the plan.",
+          "kana": "はなしあったけっか、けいかくをへんこうすることになった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜以上(は)",
+      "meaning_en": "now that; since (logical consequence)",
+      "meaning_ja": "～のだから当然～すべきだ",
+      "meaning_zh": "既然…就應該…",
+      "structure": "Verb-普通形 / Adj + 以上(は)",
+      "examples": [
+        {
+          "ja": "約束した以上は、必ず守らなければならない。",
+          "en": "Since I've promised, I must keep my word.",
+          "kana": "やくそくしたいじょうは、かならずまもらなければならない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜上は",
+      "meaning_en": "now that; given that (formal)",
+      "meaning_ja": "～のだから当然～する（硬い表現）",
+      "meaning_zh": "既然…就…（書面語）",
+      "structure": "Verb-た形/辞書形 + 上は",
+      "examples": [
+        {
+          "ja": "引き受けた上は、最後までやり遂げる。",
+          "en": "Now that I've accepted, I'll see it through to the end.",
+          "kana": "ひきうけたうえは、さいごまでやりとげる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜からこそ",
+      "meaning_en": "precisely because",
+      "meaning_ja": "～という理由が特に重要だから",
+      "meaning_zh": "正因為…才…（強調原因）",
+      "structure": "普通形 + からこそ",
+      "examples": [
+        {
+          "ja": "君を信頼しているからこそ、この仕事を任せたのだ。",
+          "en": "It's precisely because I trust you that I'm entrusting this job to you.",
+          "kana": "きみをしんらいしているからこそ、このしごとをまかせたのだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こととて",
+      "meaning_en": "because of; as it is (apologetic, formal)",
+      "meaning_ja": "～のことだから（言い訳・お詫びで使う古風な表現）",
+      "meaning_zh": "因為是…（道歉、辯解時的古風用法）",
+      "structure": "Noun-の / 普通形 + こととて",
+      "examples": [
+        {
+          "ja": "慣れぬこととて、失礼があったらお許しください。",
+          "en": "Being unaccustomed to this, please forgive any rudeness.",
+          "kana": "なれぬこととて、しつれいがあったらおゆるしください。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とあっては",
+      "meaning_en": "if it's the case that; given that",
+      "meaning_ja": "～という状況なら当然～する",
+      "meaning_zh": "若是…的話（在這種特殊情況下必須…）",
+      "structure": "Noun / 普通形 + とあっては",
+      "examples": [
+        {
+          "ja": "恩師の頼みとあっては、断るわけにはいかない。",
+          "en": "If it's a request from my mentor, I can't refuse.",
+          "kana": "おんしのたのみとあっては、ことわるわけにはいかない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とすると",
+      "meaning_en": "supposing that; if we assume",
+      "meaning_ja": "もし～と仮定すると",
+      "meaning_zh": "假設…的話",
+      "structure": "普通形 + とすると",
+      "examples": [
+        {
+          "ja": "この計算が正しいとすると、予算が足りなくなる。",
+          "en": "If this calculation is correct, the budget will fall short.",
+          "kana": "このけいさんがただしいとすると、よさんがたりなくなる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜としたら",
+      "meaning_en": "if; supposing",
+      "meaning_ja": "もし～と仮定したら",
+      "meaning_zh": "如果…的話（假設）",
+      "structure": "普通形 + としたら",
+      "examples": [
+        {
+          "ja": "一億円当たったとしたら、何に使いますか。",
+          "en": "If you won 100 million yen, what would you spend it on?",
+          "kana": "いちおくえんあたったとしたら、なににつかいますか。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なくして(は)",
+      "meaning_en": "without; if not for",
+      "meaning_ja": "～がなければ（硬い表現）",
+      "meaning_zh": "如果沒有…就（無法）…",
+      "structure": "Noun + なくして(は)",
+      "examples": [
+        {
+          "ja": "家族の支えなくしては、ここまで来られなかった。",
+          "en": "Without my family's support, I couldn't have come this far.",
+          "kana": "かぞくのささえなくしては、ここまでこられなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なしに(は)",
+      "meaning_en": "without doing; without",
+      "meaning_ja": "～しないで／～がなくては",
+      "meaning_zh": "沒有…（就無法…）",
+      "structure": "Noun / Verb-辞書形こと + なしに(は)",
+      "examples": [
+        {
+          "ja": "許可なしに入室することはできない。",
+          "en": "You cannot enter the room without permission.",
+          "kana": "きょかなしににゅうしつすることはできない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なしには",
+      "meaning_en": "not without (emotional reaction)",
+      "meaning_ja": "～がなければ～できない（感情を込めて）",
+      "meaning_zh": "沒有…就無法…（帶感情）",
+      "structure": "Noun + なしには",
+      "examples": [
+        {
+          "ja": "その映画は涙なしには見られない。",
+          "en": "You can't watch that movie without tears.",
+          "kana": "そのえいがはなみだなしにはみられない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜だけのことはあって",
+      "meaning_en": "as one would expect from",
+      "meaning_ja": "～にふさわしく、さすが",
+      "meaning_zh": "不愧是…；正因為…才…",
+      "structure": "Noun / 普通形 + だけのことはあって",
+      "examples": [
+        {
+          "ja": "彼は十年も日本に住んだだけのことはあって、日本語がとても上手だ。",
+          "en": "As one would expect from having lived in Japan for ten years, his Japanese is excellent.",
+          "kana": "かれはじゅうねんもにほんにすんだだけのことはあって、にほんごがとてもじょうずだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜次第では",
+      "meaning_en": "depending on",
+      "meaning_ja": "～の状況によっては",
+      "meaning_zh": "根據…的情況；視…而定",
+      "structure": "Noun + 次第では",
+      "examples": [
+        {
+          "ja": "天候次第では、試合は中止になる可能性がある。",
+          "en": "Depending on the weather, the match may be canceled.",
+          "kana": "てんこうしだいでは、しあいはちゅうしになるかのうせいがある。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ばまだしも",
+      "meaning_en": "if ~ it would be one thing, but",
+      "meaning_ja": "もし～ならまだいいが、実際はそうではない",
+      "meaning_zh": "如果是…還算了，但…",
+      "structure": "Verb-ば形 / Noun + ならまだしも",
+      "examples": [
+        {
+          "ja": "一度ならまだしも、三度も遅刻するのは許せない。",
+          "en": "Once would be one thing, but being late three times is unacceptable.",
+          "kana": "いちどならまだしも、さんどもちこくするのはゆるせない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ならまだしも",
+      "meaning_en": "if it were ~, it would be acceptable, but",
+      "meaning_ja": "～ならまだ許せるが、実際はそうではない",
+      "meaning_zh": "如果是…還可以，但…",
+      "structure": "Noun / 普通形 + ならまだしも",
+      "examples": [
+        {
+          "ja": "子供ならまだしも、大人がそんなことを言うとは情けない。",
+          "en": "If it were a child it would be one thing, but for an adult to say such a thing is pathetic.",
+          "kana": "こどもならまだしも、おとながそんなことをいうとはなさけない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の極み",
+      "meaning_en": "the height of; extreme",
+      "meaning_ja": "～の最高の状態",
+      "meaning_zh": "…的極致；極為…",
+      "structure": "Noun + の極み",
+      "examples": [
+        {
+          "ja": "このような賞をいただき、感激の極みです。",
+          "en": "Receiving such an award, I am at the height of emotion.",
+          "kana": "このようなしょうをいただき、かんげきのきわみです。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の至り",
+      "meaning_en": "the utmost; nothing but (formal)",
+      "meaning_ja": "この上なく～である（硬い表現）",
+      "meaning_zh": "…之至；無比…（鄭重表達）",
+      "structure": "Noun + の至り",
+      "examples": [
+        {
+          "ja": "皆様にお褒めいただき、光栄の至りです。",
+          "en": "I am honored beyond measure to receive your praise.",
+          "kana": "みなさまにおほめいただき、こうえいのいたりです。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜きわまる",
+      "meaning_en": "extremely",
+      "meaning_ja": "非常に～である（硬い表現）",
+      "meaning_zh": "極為…；…到極點",
+      "structure": "な-Adj語幹 + きわまる",
+      "examples": [
+        {
+          "ja": "彼の態度は失礼きわまる。",
+          "en": "His attitude is extremely rude.",
+          "kana": "かれのたいどはしつれいきわまる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜きわまりない",
+      "meaning_en": "extremely; nothing more ~ than",
+      "meaning_ja": "これ以上ないほど～だ",
+      "meaning_zh": "極為…；…到無以復加",
+      "structure": "な-Adj語幹 + きわまりない",
+      "examples": [
+        {
+          "ja": "あんなことを言うとは不愉快きわまりない。",
+          "en": "To say such a thing is utterly unpleasant.",
+          "kana": "あんなことをいうとはふゆかいきわまりない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜思いをする",
+      "meaning_en": "to feel; to experience (a feeling)",
+      "meaning_ja": "～という気持ちを経験する",
+      "meaning_zh": "感到…；體會到…的心情",
+      "structure": "Adj + 思いをする",
+      "examples": [
+        {
+          "ja": "人前で失敗して、恥ずかしい思いをした。",
+          "en": "I felt embarrassed after failing in front of people.",
+          "kana": "ひとまえでしっぱいして、はずかしいおもいをした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にかこつけて",
+      "meaning_en": "using ~ as a pretext",
+      "meaning_ja": "～を口実にして",
+      "meaning_zh": "藉口…；以…為由",
+      "structure": "Noun + にかこつけて",
+      "examples": [
+        {
+          "ja": "彼は出張にかこつけて観光を楽しんだ。",
+          "en": "He used the business trip as a pretext to enjoy sightseeing.",
+          "kana": "かれはしゅっちょうにかこつけてかんこうをたのしんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にかまけて",
+      "meaning_en": "being absorbed in (neglecting other things)",
+      "meaning_ja": "～にばかり気を取られて他のことをおろそかにする",
+      "meaning_zh": "光顧著…（而疏忽其他）",
+      "structure": "Noun + にかまけて",
+      "examples": [
+        {
+          "ja": "仕事にかまけて家族との時間を取らなかった。",
+          "en": "Being absorbed in work, I didn't make time for my family.",
+          "kana": "しごとにかまけてかぞくとのじかんをとらなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜さえあれば",
+      "meaning_en": "as long as one has ~",
+      "meaning_ja": "～さえあれば十分だ",
+      "meaning_zh": "只要有…就…",
+      "structure": "Noun + さえあれば",
+      "examples": [
+        {
+          "ja": "やる気さえあれば、何でもできる。",
+          "en": "As long as you have motivation, you can do anything.",
+          "kana": "やるきさえあれば、なんでもできる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜さえ〜たら",
+      "meaning_en": "if only ~",
+      "meaning_ja": "～しさえすれば",
+      "meaning_zh": "只要…就…",
+      "structure": "Verb-ます形 + さえ + Verb-たら",
+      "examples": [
+        {
+          "ja": "薬を飲みさえしたら、すぐに治るよ。",
+          "en": "If only you take the medicine, you'll get better right away.",
+          "kana": "くすりをのみさえしたら、すぐになおるよ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とばかりは言えない",
+      "meaning_en": "cannot necessarily say",
+      "meaning_ja": "必ずしも～とは言えない",
+      "meaning_zh": "不能一概說是…",
+      "structure": "普通形 + とばかりは言えない",
+      "examples": [
+        {
+          "ja": "高いものが必ずしも良いとばかりは言えない。",
+          "en": "You can't necessarily say that expensive things are always good.",
+          "kana": "たかいものがかならずしもよいとばかりはいえない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜手前",
+      "meaning_en": "now that (because of one's position/duty)",
+      "meaning_ja": "～した立場上、当然～しなければならない",
+      "meaning_zh": "既然…（出於立場、面子）就必須…",
+      "structure": "Verb-辞書形/た形 + 手前",
+      "examples": [
+        {
+          "ja": "みんなの前で約束した手前、やらないわけにはいかない。",
+          "en": "Having promised in front of everyone, I can't not do it.",
+          "kana": "みんなのまえでやくそくしたてまえ、やらないわけにはいかない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とあらば",
+      "meaning_en": "if it is that; if such is the case",
+      "meaning_ja": "もし～ということなら（古風）",
+      "meaning_zh": "若是…的話（古風）",
+      "structure": "Noun / 普通形 + とあらば",
+      "examples": [
+        {
+          "ja": "君の頼みとあらば、断れない。",
+          "en": "If it is your request, I cannot refuse.",
+          "kana": "きみのたのみとあらば、ことわれない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ばそれまでだ",
+      "meaning_en": "if ~ then that's the end of it",
+      "meaning_ja": "もし～たら、すべて終わりだ",
+      "meaning_zh": "如果…的話就完了；…就無可挽回",
+      "structure": "Verb-ば形 + それまでだ",
+      "examples": [
+        {
+          "ja": "どんなにお金があっても、死んでしまえばそれまでだ。",
+          "en": "No matter how much money you have, if you die, that's the end of it.",
+          "kana": "どんなにおかねがあっても、しんでしまえばそれまでだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようでは",
+      "meaning_en": "if (a negative condition exists)",
+      "meaning_ja": "もし～という状態では（よくない結果になる）",
+      "meaning_zh": "如果是…的話（會有壞結果）",
+      "structure": "Verb-辞書形/ている形 + ようでは",
+      "examples": [
+        {
+          "ja": "こんなことで諦めるようでは、成功はおぼつかない。",
+          "en": "If you give up over something like this, success is unlikely.",
+          "kana": "こんなことであきらめるようでは、せいこうはおぼつかない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にして初めて",
+      "meaning_en": "only when ~ for the first time",
+      "meaning_ja": "～して、ようやく～できる",
+      "meaning_zh": "到了…才終於…",
+      "structure": "Verb-て形 + 初めて / Noun + にして初めて",
+      "examples": [
+        {
+          "ja": "親になってはじめて、親のありがたみがわかる。",
+          "en": "Only when you become a parent do you understand a parent's gratitude.",
+          "kana": "おやになってはじめて、おやのありがたみがわかる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜あればこそ",
+      "meaning_en": "only because there is",
+      "meaning_ja": "～があるからこそ",
+      "meaning_zh": "正因為有…才…",
+      "structure": "Noun + あればこそ",
+      "examples": [
+        {
+          "ja": "皆様のご支援あればこそ、今日の私がある。",
+          "en": "It is only thanks to your support that I am who I am today.",
+          "kana": "みなさまのごしえんあればこそ、きょうのわたしがある。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようと(も)",
+      "meaning_en": "no matter how/what",
+      "meaning_ja": "たとえ～しても",
+      "meaning_zh": "就算…也…；無論…",
+      "structure": "Verb-意向形 + と(も)",
+      "examples": [
+        {
+          "ja": "誰が反対しようとも、私はやり遂げる。",
+          "en": "No matter who opposes, I will see it through.",
+          "kana": "だれがはんたいしようとも、わたしはやりとげる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようが〜まいが",
+      "meaning_en": "whether or not",
+      "meaning_ja": "～しても～しなくても",
+      "meaning_zh": "不管…還是不…",
+      "structure": "Verb-意向形 + が + Verb-辞書形 + まいが",
+      "examples": [
+        {
+          "ja": "君が行こうが行くまいが、私は行く。",
+          "en": "Whether you go or not, I'm going.",
+          "kana": "きみがいこうがいくまいが、わたしはいく。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜べく",
+      "meaning_en": "in order to",
+      "meaning_ja": "～するために（硬い表現）",
+      "meaning_zh": "為了…（書面語）",
+      "structure": "Verb-辞書形 + べく",
+      "examples": [
+        {
+          "ja": "問題を解決すべく、専門家を招いた。",
+          "en": "In order to solve the problem, we invited an expert.",
+          "kana": "もんだいをかいけつすべく、せんもんかをまねいた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことだし",
+      "meaning_en": "since; given that (soft reason)",
+      "meaning_ja": "～だから（理由を軽く述べる）",
+      "meaning_zh": "因為…（輕微列舉理由）",
+      "structure": "普通形 + ことだし",
+      "examples": [
+        {
+          "ja": "雨も止んだことだし、そろそろ出かけよう。",
+          "en": "Since the rain has stopped, let's head out.",
+          "kana": "あめもやんだことだし、そろそろでかけよう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とすれば〜だろう",
+      "meaning_en": "if we suppose, then probably",
+      "meaning_ja": "もし～と仮定するなら、たぶん～だろう",
+      "meaning_zh": "假設…的話，大概…",
+      "structure": "普通形 + とすれば〜だろう",
+      "examples": [
+        {
+          "ja": "もし彼が来ないとすれば、誰が代わりに発表するだろう。",
+          "en": "If he doesn't come, who will probably present in his place?",
+          "kana": "もしかれがこないとすれば、だれがかわりにはっぴょうするだろう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜手段として",
+      "meaning_en": "as a means to",
+      "meaning_ja": "～する方法として",
+      "meaning_zh": "作為…的手段",
+      "structure": "Noun-の / Verb-辞書形 + 手段として",
+      "examples": [
+        {
+          "ja": "ストレスを発散する手段として、運動が効果的だ。",
+          "en": "As a means to relieve stress, exercise is effective.",
+          "kana": "ストレスをはっさんするしゅだんとして、うんどうがこうかてきだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を頼りに",
+      "meaning_en": "relying on; using ~ as a guide",
+      "meaning_ja": "～を頼みにして",
+      "meaning_zh": "依靠…；憑藉…",
+      "structure": "Noun + を頼りに",
+      "examples": [
+        {
+          "ja": "地図を頼りに、目的地まで歩いた。",
+          "en": "Relying on the map, I walked to the destination.",
+          "kana": "ちずをたよりに、もくてきちまであるいた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜目的で",
+      "meaning_en": "for the purpose of",
+      "meaning_ja": "～する目的のために",
+      "meaning_zh": "以…為目的；為了…",
+      "structure": "Noun-の / Verb-辞書形 + 目的で",
+      "examples": [
+        {
+          "ja": "研究目的で、海外の資料を集めた。",
+          "en": "For the purpose of research, I gathered materials from overseas.",
+          "kana": "けんきゅうもくてきで、かいがいのしりょうをあつめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ともなれば",
+      "meaning_en": "when it comes to (special situation)",
+      "meaning_ja": "～という立場・時期になると",
+      "meaning_zh": "一旦到了…（這個身分、時期）",
+      "structure": "Noun / Verb-辞書形 + ともなれば",
+      "examples": [
+        {
+          "ja": "大人ともなれば、自分の行動に責任を持たねばならない。",
+          "en": "Once you become an adult, you must take responsibility for your actions.",
+          "kana": "おとなともなれば、じぶんのこうどうにせきにんをもたねばならない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜手にかかると",
+      "meaning_en": "when ~ takes it on; in the hands of",
+      "meaning_ja": "～がやれば、特別な結果になる",
+      "meaning_zh": "若由…來做的話（會有特別效果）",
+      "structure": "Noun-の + 手にかかると",
+      "examples": [
+        {
+          "ja": "彼の手にかかると、難しい問題も簡単に解ける。",
+          "en": "In his hands, even difficult problems can be solved easily.",
+          "kana": "かれのてにかかると、むずかしいもんだいもかんたんにとける。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ばきりがない",
+      "meaning_en": "if one starts ~, there's no end",
+      "meaning_ja": "～したら終わりがない",
+      "meaning_zh": "如果…起來就沒完沒了",
+      "structure": "Verb-ば形 + きりがない",
+      "examples": [
+        {
+          "ja": "彼の文句を聞いていたらきりがない。",
+          "en": "If you listen to his complaints, there's no end.",
+          "kana": "かれのもんくをきいていたらきりがない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことには〜ない",
+      "meaning_en": "unless ~, cannot",
+      "meaning_ja": "～しなければ～できない",
+      "meaning_zh": "不…就無法…",
+      "structure": "Verb-ない形 + ことには + Verb-ない",
+      "examples": [
+        {
+          "ja": "実際に見ないことには、判断できない。",
+          "en": "Unless I actually see it, I can't judge.",
+          "kana": "じっさいにみないことには、はんだんできない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜の一念で",
+      "meaning_en": "with the single-minded thought of",
+      "meaning_ja": "～したいという強い気持ちで",
+      "meaning_zh": "懷著…的一念；一心想著…",
+      "structure": "Verb-たい / Noun + の一念で",
+      "examples": [
+        {
+          "ja": "家族を守りたいの一念で、必死に働いた。",
+          "en": "With the single-minded thought of protecting my family, I worked desperately.",
+          "kana": "かぞくをまもりたいのいちねんで、ひっしにはたらいた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を理由に",
+      "meaning_en": "citing ~ as a reason",
+      "meaning_ja": "～を理由として",
+      "meaning_zh": "以…為理由",
+      "structure": "Noun + を理由に",
+      "examples": [
+        {
+          "ja": "彼は健康上の問題を理由に、会社を辞めた。",
+          "en": "Citing health problems as a reason, he quit the company.",
+          "kana": "かれはけんこうじょうのもんだいをりゆうに、かいしゃをやめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ばかりか〜さえ",
+      "meaning_en": "not only ... but even",
+      "meaning_ja": "～だけでなく、～までも",
+      "meaning_zh": "不僅…甚至連…也…",
+      "structure": "名詞/普通形 + ばかりか + 名詞 + さえ",
+      "examples": [
+        {
+          "ja": "彼は宿題ばかりか、自分の名前さえ書けなかった。",
+          "en": "Not only did he not do his homework, he couldn't even write his own name.",
+          "kana": "かれはしゅくだいばかりか、じぶんのなまえさえかけなかった。"
+        },
+        {
+          "ja": "嵐で電気ばかりか、水さえ止まってしまった。",
+          "en": "Due to the storm, not only the electricity but even the water was cut off.",
+          "kana": "あらしででんきばかりか、みずさえとまってしまった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ながらに",
+      "meaning_en": "while; in the state of",
+      "meaning_ja": "～のままで、～の状態で",
+      "meaning_zh": "保持…的狀態；一邊…一邊…",
+      "structure": "名詞/動詞ます形 + ながらに",
+      "examples": [
+        {
+          "ja": "彼女は涙ながらに事件の真相を語った。",
+          "en": "She tearfully told the truth of the incident.",
+          "kana": "かのじょはなみだながらにじけんのしんそうをかたった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ながらの",
+      "meaning_en": "in the state of (modifying noun)",
+      "meaning_ja": "～のままの",
+      "meaning_zh": "保持…狀態的…",
+      "structure": "名詞/動詞ます形 + ながらの + 名詞",
+      "examples": [
+        {
+          "ja": "この村には昔ながらの風景が残っている。",
+          "en": "This village still retains its old-time scenery.",
+          "kana": "このむらにはむかしながらのふうけいがのこっている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ながらにして",
+      "meaning_en": "while remaining in (a place/state)",
+      "meaning_ja": "～のままで、～の状態で",
+      "meaning_zh": "在…的狀態下就…",
+      "structure": "名詞 + ながらにして",
+      "examples": [
+        {
+          "ja": "インターネットがあれば、家にいながらにして世界中の情報が手に入る。",
+          "en": "With the internet, you can access information worldwide while staying at home.",
+          "kana": "インターネットがあれば、いえにいながらにしてせかいじゅうのじょうほうがてにはいる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ほどの",
+      "meaning_en": "to the extent of; ... enough to",
+      "meaning_ja": "～くらいの程度の",
+      "meaning_zh": "達到…程度的",
+      "structure": "動詞辞書形/名詞 + ほどの + 名詞",
+      "examples": [
+        {
+          "ja": "それは問題にするほどのことではない。",
+          "en": "That's not something worth making an issue of.",
+          "kana": "それはもんだいにするほどのことではない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ほどのことではない",
+      "meaning_en": "not such a big deal",
+      "meaning_ja": "大したことではない、わざわざ～する必要はない",
+      "meaning_zh": "沒到那種程度的事；不值得…",
+      "structure": "動詞辞書形 + ほどのことではない",
+      "examples": [
+        {
+          "ja": "そんなに怒るほどのことではないでしょう。",
+          "en": "It's not something to get that angry about.",
+          "kana": "そんなにおこるほどのことではないでしょう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜のなんの",
+      "meaning_en": "extremely; really (emphatic)",
+      "meaning_ja": "非常に～だ（強調）",
+      "meaning_zh": "非常…什麼的（強調）",
+      "structure": "形容詞/動詞普通形 + のなんの",
+      "examples": [
+        {
+          "ja": "寒いのなんの、外に出る気にもならない。",
+          "en": "It's so unbelievably cold that I don't even feel like going outside.",
+          "kana": "さむいのなんの、そとにでるきにもならない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とでもいうのか",
+      "meaning_en": "are you saying that ...?",
+      "meaning_ja": "～と言いたいのか（反語的）",
+      "meaning_zh": "難道是…嗎？（反問）",
+      "structure": "普通形 + とでもいうのか",
+      "examples": [
+        {
+          "ja": "私が嘘をついているとでもいうのか。",
+          "en": "Are you saying that I'm lying?",
+          "kana": "わたしがうそをついているとでもいうのか。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしてみれば",
+      "meaning_en": "from the standpoint of",
+      "meaning_ja": "～の立場から考えれば",
+      "meaning_zh": "從…的立場來看",
+      "structure": "名詞 + にしてみれば",
+      "examples": [
+        {
+          "ja": "親にしてみれば、子供の安全が一番だ。",
+          "en": "From a parent's perspective, a child's safety is most important.",
+          "kana": "おやにしてみれば、こどものあんぜんがいちばんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしてみたら",
+      "meaning_en": "from the viewpoint of",
+      "meaning_ja": "～の立場から考えたら",
+      "meaning_zh": "從…的立場考慮的話",
+      "structure": "名詞 + にしてみたら",
+      "examples": [
+        {
+          "ja": "外国人にしてみたら、日本の習慣は不思議に思えるだろう。",
+          "en": "From a foreigner's perspective, Japanese customs must seem strange.",
+          "kana": "がいこくじんにしてみたら、にほんのしゅうかんはふしぎにおもえるだろう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしたところで",
+      "meaning_en": "even ...; even from the standpoint of",
+      "meaning_ja": "～の立場から見ても、～しても",
+      "meaning_zh": "即使從…的立場來看；就算…也…",
+      "structure": "名詞 + にしたところで",
+      "examples": [
+        {
+          "ja": "社長にしたところで、この問題の解決は難しい。",
+          "en": "Even for the president, solving this problem is difficult.",
+          "kana": "しゃちょうにしたところで、このもんだいのかいけつはむずかしい。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしたって",
+      "meaning_en": "even if; even for (casual)",
+      "meaning_ja": "～にしても（口語的）",
+      "meaning_zh": "就算…也…（口語）",
+      "structure": "名詞/普通形 + にしたって",
+      "examples": [
+        {
+          "ja": "急にしたって、もう少し丁寧に話せるはずだ。",
+          "en": "Even if you're in a hurry, you should be able to speak a bit more politely.",
+          "kana": "きゅうにしたって、もうすこしていねいにはなせるはずだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ったらない",
+      "meaning_en": "incredibly; extremely (no words for it)",
+      "meaning_ja": "非常に～だ（程度が甚だしい）",
+      "meaning_zh": "…得不得了；…極了",
+      "structure": "形容詞 + ったらない",
+      "examples": [
+        {
+          "ja": "今日の暑さったらない、もう倒れそうだ。",
+          "en": "The heat today is unbelievable, I feel like I'm going to collapse.",
+          "kana": "きょうのあつさったらない、もうたおれそうだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜といったらない",
+      "meaning_en": "indescribably; extremely",
+      "meaning_ja": "言葉で表せないほど～だ",
+      "meaning_zh": "說不出地…；極為…",
+      "structure": "名詞/形容詞 + といったらない",
+      "examples": [
+        {
+          "ja": "彼の喜びようといったらなかった。",
+          "en": "His delight was beyond description.",
+          "kana": "かれのよろこびようといったらなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ったらありゃしない",
+      "meaning_en": "extremely; unbearably (negative nuance)",
+      "meaning_ja": "非常に～で、我慢できない（マイナス）",
+      "meaning_zh": "…得受不了（負面語氣）",
+      "structure": "形容詞 + ったらありゃしない",
+      "examples": [
+        {
+          "ja": "あの人の話の長さったらありゃしない。",
+          "en": "His talks are unbearably long.",
+          "kana": "あのひとのはなしのながさったらありゃしない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜限りだ",
+      "meaning_en": "extremely; nothing could be more ... (emotion)",
+      "meaning_ja": "非常に～な気持ちだ（感情の極限）",
+      "meaning_zh": "極為…（感情的極致）",
+      "structure": "イ形容詞/ナ形容詞な + 限りだ",
+      "examples": [
+        {
+          "ja": "君に再会できて、嬉しい限りだ。",
+          "en": "I couldn't be happier to meet you again.",
+          "kana": "きみにさいかいできて、うれしいかぎりだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜極まりない",
+      "meaning_en": "extremely; in the extreme",
+      "meaning_ja": "この上なく～だ",
+      "meaning_zh": "極其…；…到了極點",
+      "structure": "ナ形容詞 + 極まりない",
+      "examples": [
+        {
+          "ja": "彼の態度は失礼極まりない。",
+          "en": "His attitude is extremely rude.",
+          "kana": "かれのたいどはしつれいきわまりない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と思いきや",
+      "meaning_en": "contrary to expectation; thought ... but",
+      "meaning_ja": "～と思ったが、実際は違った",
+      "meaning_zh": "本以為…結果卻…",
+      "structure": "普通形 + と思いきや",
+      "examples": [
+        {
+          "ja": "簡単な問題と思いきや、まったく解けなかった。",
+          "en": "I thought it was an easy problem, but I couldn't solve it at all.",
+          "kana": "かんたんなもんだいとおもいきや、まったくとけなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と思えば",
+      "meaning_en": "no sooner ... than; just when",
+      "meaning_ja": "～したばかりなのに、すぐに",
+      "meaning_zh": "剛以為…就…；才剛…又…",
+      "structure": "動詞た形 + と思えば",
+      "examples": [
+        {
+          "ja": "雨が降ったと思えば、すぐに晴れた。",
+          "en": "No sooner had it rained than it cleared up.",
+          "kana": "あめがふったとおもえば、すぐにはれた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜といったところだ",
+      "meaning_en": "about; roughly (modest estimate)",
+      "meaning_ja": "せいぜい～くらいだ",
+      "meaning_zh": "頂多…；大概…的程度",
+      "structure": "名詞/数量 + といったところだ",
+      "examples": [
+        {
+          "ja": "今月の収入は20万円といったところだ。",
+          "en": "This month's income is about 200,000 yen at most.",
+          "kana": "こんげつのしゅうにゅうはにじゅうまんえんといったところだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と来ては",
+      "meaning_en": "when it comes to; as for",
+      "meaning_ja": "～について言えば（否定的評価が多い）",
+      "meaning_zh": "說到…就…（多為負面評價）",
+      "structure": "名詞 + と来ては",
+      "examples": [
+        {
+          "ja": "うちの息子と来ては、勉強もせず遊んでばかりいる。",
+          "en": "As for my son, he doesn't study and just plays around.",
+          "kana": "うちのむすこときては、べんきょうもせずあそんでばかりいる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ともすれば",
+      "meaning_en": "tends to; is apt to",
+      "meaning_ja": "～する傾向がある、～しがちだ",
+      "meaning_zh": "動不動就…；往往容易…",
+      "structure": "ともすれば + 動詞",
+      "examples": [
+        {
+          "ja": "ともすれば、私たちは大切なことを忘れがちだ。",
+          "en": "We tend to forget important things.",
+          "kana": "ともすれば、わたしたちはたいせつなことをわすれがちだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ともすると",
+      "meaning_en": "tends to; is prone to",
+      "meaning_ja": "～する傾向がある",
+      "meaning_zh": "動不動就…；容易…",
+      "structure": "ともすると + 動詞",
+      "examples": [
+        {
+          "ja": "ともすると、彼は感情的になりやすい。",
+          "en": "He is prone to becoming emotional.",
+          "kana": "ともすると、かれはかんじょうてきになりやすい。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないものか",
+      "meaning_en": "isn't there some way to ...?",
+      "meaning_ja": "何とかして～できないだろうか（強い願望）",
+      "meaning_zh": "難道不能…嗎？（強烈願望）",
+      "structure": "動詞ない形 + ものか",
+      "examples": [
+        {
+          "ja": "もっと簡単に解決できないものか。",
+          "en": "Isn't there some way to solve this more easily?",
+          "kana": "もっとかんたんにかいけつできないものか。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないものでもない",
+      "meaning_en": "not impossible; could be",
+      "meaning_ja": "～する可能性がないわけではない",
+      "meaning_zh": "也並非不…；也不是不能…",
+      "structure": "動詞ない形 + ものでもない",
+      "examples": [
+        {
+          "ja": "条件次第では、引き受けないものでもない。",
+          "en": "Depending on the conditions, I'm not unwilling to take it on.",
+          "kana": "じょうけんしだいでは、ひきうけないものでもない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないでもない",
+      "meaning_en": "not that ... not; somewhat",
+      "meaning_ja": "少しは～する気持ちがある",
+      "meaning_zh": "也不是不…；倒也有點…",
+      "structure": "動詞ない形 + でもない",
+      "examples": [
+        {
+          "ja": "彼の言うことも分からないでもない。",
+          "en": "It's not that I don't understand what he says.",
+          "kana": "かれのいうこともわからないでもない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なくもない",
+      "meaning_en": "not entirely impossible; somewhat",
+      "meaning_ja": "少しは～する気持ちがある",
+      "meaning_zh": "也不是不…；多少有點…",
+      "structure": "動詞ない形 + くもない",
+      "examples": [
+        {
+          "ja": "君の意見も分からなくもない。",
+          "en": "It's not that I can't understand your opinion.",
+          "kana": "きみのいけんもわからなくもない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たらそれまでだ",
+      "meaning_en": "if ..., that's the end",
+      "meaning_ja": "～したら、それで終わりだ",
+      "meaning_zh": "如果…就沒戲了",
+      "structure": "動詞た形 + らそれまでだ",
+      "examples": [
+        {
+          "ja": "試験当日に風邪をひいたらそれまでだ。",
+          "en": "If you catch a cold on exam day, that's the end of it.",
+          "kana": "しけんとうじつにかぜをひいたらそれまでだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようによっては",
+      "meaning_en": "depending on how you ...",
+      "meaning_ja": "～の仕方によっては",
+      "meaning_zh": "依…方式不同；看怎麼…",
+      "structure": "動詞ます形 + ようによっては",
+      "examples": [
+        {
+          "ja": "考えようによっては、この失敗もいい経験だ。",
+          "en": "Depending on how you look at it, this failure is also a good experience.",
+          "kana": "かんがえようによっては、このしっぱいもいいけいけんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にもまして",
+      "meaning_en": "even more than",
+      "meaning_ja": "～以上に",
+      "meaning_zh": "比…更加…",
+      "structure": "名詞 + にもまして",
+      "examples": [
+        {
+          "ja": "去年にもまして、今年は猛暑だ。",
+          "en": "This year is even hotter than last year.",
+          "kana": "きょねんにもまして、ことしはもうしょだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしのびない",
+      "meaning_en": "cannot bear to",
+      "meaning_ja": "～するのは耐えられない、可哀そうでできない",
+      "meaning_zh": "不忍心…",
+      "structure": "動詞辞書形 + にしのびない",
+      "examples": [
+        {
+          "ja": "子供の悲しい顔を見るにしのびない。",
+          "en": "I can't bear to see the child's sad face.",
+          "kana": "こどものかなしいかおをみるにしのびない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜のではあるまいか",
+      "meaning_en": "isn't it perhaps that ...?",
+      "meaning_ja": "～のではないだろうか（控えめな推測）",
+      "meaning_zh": "難道不是…嗎？（委婉推測）",
+      "structure": "普通形 + のではあるまいか",
+      "examples": [
+        {
+          "ja": "彼は何か隠しているのではあるまいか。",
+          "en": "Isn't it that he's hiding something?",
+          "kana": "かれはなにかかくしているのではあるまいか。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようでいて",
+      "meaning_en": "seems ... but actually",
+      "meaning_ja": "～ように見えて、実は違う",
+      "meaning_zh": "看似…其實…",
+      "structure": "動詞辞書形/形容詞 + ようでいて",
+      "examples": [
+        {
+          "ja": "彼は優しいようでいて、実はとても厳しい人だ。",
+          "en": "He seems kind but is actually very strict.",
+          "kana": "かれはやさしいようでいて、じつはとてもきびしいひとだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なんて",
+      "meaning_en": "such as; the likes of (dismissive/emphatic)",
+      "meaning_ja": "～など（軽視・驚き）",
+      "meaning_zh": "什麼的；居然…（輕視或驚訝）",
+      "structure": "名詞/普通形 + なんて",
+      "examples": [
+        {
+          "ja": "彼が試験に落ちるなんて信じられない。",
+          "en": "I can't believe he failed the exam.",
+          "kana": "かれがしけんにおちるなんてしんじられない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜なんか",
+      "meaning_en": "things like; ... or something (dismissive)",
+      "meaning_ja": "～など（軽視）",
+      "meaning_zh": "…什麼的（輕蔑）",
+      "structure": "名詞 + なんか",
+      "examples": [
+        {
+          "ja": "あんな人の言うことなんか信じない。",
+          "en": "I don't believe anything someone like him says.",
+          "kana": "あんなひとのいうことなんかしんじない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こその",
+      "meaning_en": "precisely because (modifying noun)",
+      "meaning_ja": "～だからこその",
+      "meaning_zh": "正因為…才有的…",
+      "structure": "名詞 + こその + 名詞",
+      "examples": [
+        {
+          "ja": "努力したあなたこその成功だ。",
+          "en": "This success is precisely because of your effort.",
+          "kana": "どりょくしたあなたこそのせいこうだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こそ〜が",
+      "meaning_en": "it's true that ... but",
+      "meaning_ja": "確かに～だが",
+      "meaning_zh": "雖然…但…",
+      "structure": "名詞こそ + 動詞が",
+      "examples": [
+        {
+          "ja": "見た目こそ古いが、性能は最新だ。",
+          "en": "True, it looks old, but its performance is the latest.",
+          "kana": "みためこそふるいが、せいのうはさいしんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないまでも",
+      "meaning_en": "even if not ..., at least",
+      "meaning_ja": "～ほどではないが、せめて～",
+      "meaning_zh": "即使不到…的程度，至少…",
+      "structure": "動詞ない形 + までも",
+      "examples": [
+        {
+          "ja": "毎日とは言わないまでも、週に一度は運動すべきだ。",
+          "en": "Even if not every day, you should exercise at least once a week.",
+          "kana": "まいにちとはいわないまでも、しゅうにいちどはうんどうすべきだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とは別に",
+      "meaning_en": "apart from; separately from",
+      "meaning_ja": "～と関係なく、別に",
+      "meaning_zh": "與…分開；除了…之外",
+      "structure": "名詞 + とは別に",
+      "examples": [
+        {
+          "ja": "給料とは別に、ボーナスが支給される。",
+          "en": "A bonus is paid separately from the salary.",
+          "kana": "きゅうりょうとはべつに、ボーナスがしきゅうされる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と打って変わって",
+      "meaning_en": "in complete contrast to",
+      "meaning_ja": "～とすっかり変わって",
+      "meaning_zh": "與…完全相反；判若兩人",
+      "structure": "名詞 + と打って変わって",
+      "examples": [
+        {
+          "ja": "昨日と打って変わって、今日は晴天だ。",
+          "en": "In complete contrast to yesterday, today is sunny.",
+          "kana": "きのうとうってかわって、きょうはせいてんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にひきかえて",
+      "meaning_en": "in contrast to; unlike",
+      "meaning_ja": "～とは反対に、～と違って",
+      "meaning_zh": "與…相反；和…不同",
+      "structure": "名詞 + にひきかえて",
+      "examples": [
+        {
+          "ja": "兄は活発なのにひきかえて、弟はおとなしい。",
+          "en": "In contrast to the lively older brother, the younger brother is quiet.",
+          "kana": "あにはかっぱつなのにひきかえて、おとうとはおとなしい。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしてみても",
+      "meaning_en": "even from the perspective of",
+      "meaning_ja": "～の立場から見ても",
+      "meaning_zh": "即使從…的立場來看也…",
+      "structure": "名詞 + にしてみても",
+      "examples": [
+        {
+          "ja": "私にしてみても、その提案は受け入れがたい。",
+          "en": "Even from my perspective, that proposal is hard to accept.",
+          "kana": "わたしにしてみても、そのていあんはうけいれがたい。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と言わんばかりに",
+      "meaning_en": "as if to say",
+      "meaning_ja": "～と言いたそうな様子で",
+      "meaning_zh": "彷彿在說…似的",
+      "structure": "普通形 + と言わんばかりに",
+      "examples": [
+        {
+          "ja": "彼は早く帰れと言わんばかりに時計を見た。",
+          "en": "He looked at his watch as if to say I should go home soon.",
+          "kana": "かれははやくかえれといわんばかりにとけいをみた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜であろうと〜であろうと",
+      "meaning_en": "whether ... or ...",
+      "meaning_ja": "～でも～でも、どちらでも",
+      "meaning_zh": "無論是…還是…",
+      "structure": "名詞 + であろうと + 名詞 + であろうと",
+      "examples": [
+        {
+          "ja": "晴れであろうと雨であろうと、試合は行われる。",
+          "en": "Whether it's sunny or rainy, the match will be held.",
+          "kana": "はれであろうとあめであろうと、しあいはおこなわれる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜羽目になる",
+      "meaning_en": "end up in an unpleasant situation; be forced into",
+      "meaning_ja": "（望ましくない）結果になる；困った状況に陥る",
+      "meaning_zh": "落得…的下場；結果不得不…",
+      "structure": "Verb-辞書形/Verb-ない形 + 羽目になる",
+      "examples": [
+        {
+          "ja": "終電を逃して、駅で一晩過ごす羽目になった。",
+          "en": "I missed the last train and ended up spending the night at the station.",
+          "kana": "しゅうでんをのがして、えきでひとばんすごすはめになった。"
+        },
+        {
+          "ja": "友達の保証人になったために、借金を返す羽目になった。",
+          "en": "Because I became my friend's guarantor, I ended up having to pay back the debt.",
+          "kana": "ともだちのほしょうにんになったために、しゃっきんをかえすはめになった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしたがい",
+      "meaning_en": "in accordance with; as",
+      "meaning_ja": "～につれて；～に応じて",
+      "meaning_zh": "隨著…；按照…",
+      "structure": "Noun/Verb-辞書形 + にしたがい",
+      "examples": [
+        {
+          "ja": "年を取るにしたがい、体力が落ちてきた。",
+          "en": "As I get older, my physical strength has been declining.",
+          "kana": "としをとるにしたがい、たいりょくがおちてきた。"
+        },
+        {
+          "ja": "係員の指示にしたがい、避難してください。",
+          "en": "Please evacuate in accordance with the staff's instructions.",
+          "kana": "かかりいんのしじにしたがい、ひなんしてください。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にともなって",
+      "meaning_en": "accompanying; along with",
+      "meaning_ja": "～と一緒に変化して；～につれて",
+      "meaning_zh": "伴隨著…；隨著…",
+      "structure": "Noun/Verb-辞書形 + にともなって",
+      "examples": [
+        {
+          "ja": "高齢化の進行にともなって、医療費が増加している。",
+          "en": "Along with the progress of aging, medical expenses are increasing.",
+          "kana": "こうれいかのしんこうにともなって、いりょうひがぞうかしている。"
+        },
+        {
+          "ja": "気温の上昇にともなって、桜の開花も早まった。",
+          "en": "Along with the rise in temperature, the cherry blossoms bloomed earlier.",
+          "kana": "きおんのじょうしょうにともなって、さくらのかいかもはやまった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜という形で",
+      "meaning_en": "in the form of",
+      "meaning_ja": "～という方法・スタイルで",
+      "meaning_zh": "以…的形式；用…的方式",
+      "structure": "Noun + という形で",
+      "examples": [
+        {
+          "ja": "会議はオンラインという形で行われた。",
+          "en": "The meeting was held in the form of an online session.",
+          "kana": "かいぎはオンラインというかたちでおこなわれた。"
+        },
+        {
+          "ja": "支援は寄付という形で表された。",
+          "en": "Their support was expressed in the form of donations.",
+          "kana": "しえんはきふというかたちであらわされた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と言わざるを得ない",
+      "meaning_en": "cannot help but say; have to say",
+      "meaning_ja": "～と言うほかはない；どうしてもそう言うしかない",
+      "meaning_zh": "不得不說…；只能說是…",
+      "structure": "Plain form + と言わざるを得ない",
+      "examples": [
+        {
+          "ja": "今回の判断は誤りだったと言わざるを得ない。",
+          "en": "I have to say that this decision was a mistake.",
+          "kana": "こんかいのはんだんはあやまりだったといわざるをえない。"
+        },
+        {
+          "ja": "彼の態度は無責任だと言わざるを得ない。",
+          "en": "I cannot help but say his attitude is irresponsible.",
+          "kana": "かれのたいどはむせきにんだといわざるをえない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようと(も)しない",
+      "meaning_en": "not even try to; show no intention of",
+      "meaning_ja": "～しようとする気もない；まったくしない",
+      "meaning_zh": "連…也不肯做；根本不打算…",
+      "structure": "Verb-意向形 + と(も)しない",
+      "examples": [
+        {
+          "ja": "彼は人の話を聞こうともしない。",
+          "en": "He doesn't even try to listen to what others say.",
+          "kana": "かれはひとのはなしをきこうともしない。"
+        },
+        {
+          "ja": "息子は何度言っても勉強しようとしない。",
+          "en": "No matter how many times I tell him, my son doesn't even try to study.",
+          "kana": "むすこはなんどいってもべんきょうしようとしない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にも〜ない",
+      "meaning_en": "even if one wants to, one cannot",
+      "meaning_ja": "～しようとしてもできない",
+      "meaning_zh": "想…也…不了",
+      "structure": "Verb-意向形 + にも + Verb-可能形 + ない",
+      "examples": [
+        {
+          "ja": "声が大きすぎて、眠ろうにも眠れない。",
+          "en": "The noise is so loud that I can't sleep even if I want to.",
+          "kana": "こえがおおきすぎて、ねむろうにもねむれない。"
+        },
+        {
+          "ja": "お金がないので、旅行に行こうにも行けない。",
+          "en": "I have no money, so I can't go on a trip even if I want to.",
+          "kana": "おかねがないので、りょこうにいこうにもいけない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜きる",
+      "meaning_en": "do completely; finish off",
+      "meaning_ja": "完全に～する；最後まで～する",
+      "meaning_zh": "徹底地…；…完",
+      "structure": "Verb-ます形(stem) + きる",
+      "examples": [
+        {
+          "ja": "長い小説をついに読みきった。",
+          "en": "I finally finished reading the long novel.",
+          "kana": "ながいしょうせつをついによみきった。"
+        },
+        {
+          "ja": "マラソンを最後まで走りきった。",
+          "en": "I ran the marathon all the way to the end.",
+          "kana": "マラソンをさいごまではしりきった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜出す",
+      "meaning_en": "start to; suddenly begin",
+      "meaning_ja": "急に～し始める",
+      "meaning_zh": "突然開始…；…起來",
+      "structure": "Verb-ます形(stem) + 出す",
+      "examples": [
+        {
+          "ja": "急に赤ちゃんが泣き出した。",
+          "en": "The baby suddenly started crying.",
+          "kana": "きゅうにあかちゃんがなきだした。"
+        },
+        {
+          "ja": "夕方から雨が降り出した。",
+          "en": "It started raining from the evening.",
+          "kana": "ゆうがたからあめがふりだした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜やる",
+      "meaning_en": "do (with strong will or for someone, often emphatic)",
+      "meaning_ja": "強い意志で～する；目下の者に～してあげる",
+      "meaning_zh": "（帶有強烈意志或對下位者）做…給…看",
+      "structure": "Verb-て形 + やる",
+      "examples": [
+        {
+          "ja": "いつか必ず成功してやると心に誓った。",
+          "en": "I swore to myself that I would definitely succeed someday.",
+          "kana": "いつかかならずせいこうしてやるとこころにちかった。"
+        },
+        {
+          "ja": "弟に自転車の乗り方を教えてやった。",
+          "en": "I taught my little brother how to ride a bicycle.",
+          "kana": "おとうとにじてんしゃののりかたをおしえてやった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜つもりだったが",
+      "meaning_en": "I intended to, but...",
+      "meaning_ja": "～する予定だったが；～しようと思っていたが",
+      "meaning_zh": "原本打算…，但是…",
+      "structure": "Verb-辞書形/Verb-た形 + つもりだったが",
+      "examples": [
+        {
+          "ja": "早く帰るつもりだったが、残業になってしまった。",
+          "en": "I intended to go home early, but I ended up having to work overtime.",
+          "kana": "はやくかえるつもりだったが、ざんぎょうになってしまった。"
+        },
+        {
+          "ja": "ちゃんと説明したつもりだったが、誤解されてしまった。",
+          "en": "I thought I had explained it properly, but I ended up being misunderstood.",
+          "kana": "ちゃんとせつめいしたつもりだったが、ごかいされてしまった。"
+        }
+      ]
     }
   ],
   "n1": [
