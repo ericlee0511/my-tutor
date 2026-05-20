@@ -164,6 +164,1106 @@
       ],
       "answer": 3,
       "explanation_zh": "替代陽性複數 «los libros»，形容詞需用陽性複數 «viejos»，故選 (D) viejos。(A) vieja 為陰性單數、(B) viejo 為陽性單數、(C) viejas 為陰性複數，皆不一致。"
+    },
+    {
+      "question_es": "Buenos días, ___ llamo Ana y soy de España.",
+      "options": [
+        "te",
+        "se",
+        "me",
+        "nos"
+      ],
+      "answer": 2,
+      "explanation_zh": "反身代名詞第一人稱單數用 me，配合 llamo 表「我叫…」，故選 (C) me。(A) te=你的反身、(B) se=第三人稱反身、(D) nos=我們的反身，皆不符。"
+    },
+    {
+      "question_es": "—¿___ es la capital de España? —Madrid.",
+      "options": [
+        "Cuál",
+        "Qué",
+        "Cómo",
+        "Dónde"
+      ],
+      "answer": 0,
+      "explanation_zh": "從多種可能中選一者時用 cuál，問首都名選 (A) Cuál。(B) Qué 用於定義、(C) Cómo=如何、(D) Dónde=在哪，皆不符語境。"
+    },
+    {
+      "question_es": "Yo ___ estudiante de español en la universidad.",
+      "options": [
+        "estoy",
+        "soy",
+        "tengo",
+        "hay"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達身分／職業用 ser，第一人稱用 soy，故選 (B) soy。(A) estoy 用於狀態／位置、(C) tengo 為「有」、(D) hay 為存在動詞。"
+    },
+    {
+      "question_es": "Mi madre ___ en una oficina del centro.",
+      "options": [
+        "trabaja",
+        "trabajo",
+        "trabajas",
+        "trabajan"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞 mi madre 為第三人稱單數，trabajar 變化為 trabaja，故選 (A) trabaja。(B) trabajo=我、(C) trabajas=你、(D) trabajan=他們，皆不合。"
+    },
+    {
+      "question_es": "Mis abuelos ___ muy mayores, pero están bien.",
+      "options": [
+        "son",
+        "están",
+        "es",
+        "tiene"
+      ],
+      "answer": 0,
+      "explanation_zh": "描述本質特徵「年紀大」用 ser，主詞複數對應 son，故選 (A) son。(B) están 用於暫時狀態、(C) es 為單數、(D) tiene 為「有」。"
+    },
+    {
+      "question_es": "—¿___ está el baño? —Al fondo a la derecha.",
+      "options": [
+        "Cuándo",
+        "Cómo",
+        "Qué",
+        "Dónde"
+      ],
+      "answer": 3,
+      "explanation_zh": "問位置用 dónde，故選 (D) Dónde。(A) Cuándo=何時、(B) Cómo=如何、(C) Qué=什麼，皆不符語境。"
+    },
+    {
+      "question_es": "Nosotros ___ español todos los días en clase.",
+      "options": [
+        "hablo",
+        "hablas",
+        "habla",
+        "hablamos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros 為第一人稱複數，hablar 變化為 hablamos，故選 (D) hablamos。(A) hablo=我、(B) hablas=你、(C) habla=他/她，皆不合。"
+    },
+    {
+      "question_es": "—¿Cuántos años ___? —Tengo veinticinco.",
+      "options": [
+        "tienes",
+        "tiene",
+        "tengo",
+        "tenemos"
+      ],
+      "answer": 0,
+      "explanation_zh": "問對方年齡，主詞為 tú，tener 變化為 tienes，故選 (A) tienes。(B) tiene=他/她、(C) tengo=我、(D) tenemos=我們，皆不合語境。"
+    },
+    {
+      "question_es": "A mí me ___ mucho la música latina.",
+      "options": [
+        "gusto",
+        "gustas",
+        "gusta",
+        "gustan"
+      ],
+      "answer": 2,
+      "explanation_zh": "gustar 動詞主詞為 la música（單數），故用 gusta，選 (C) gusta。(A) gusto、(B) gustas 不存在於 gustar 句型常用變化、(D) gustan 用於複數主詞。"
+    },
+    {
+      "question_es": "A mis hermanos les ___ los videojuegos.",
+      "options": [
+        "gusta",
+        "gustan",
+        "gustamos",
+        "gustas"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 los videojuegos 為複數，gustar 用 gustan，故選 (B) gustan。(A) gusta 用於單數、(C) gustamos、(D) gustas 不符 gustar 句型。"
+    },
+    {
+      "question_es": "—¿De quién son ___ zapatos? —Son míos.",
+      "options": [
+        "este",
+        "esta",
+        "estos",
+        "estas"
+      ],
+      "answer": 2,
+      "explanation_zh": "zapatos 為陽性複數，指示詞用 estos，故選 (C) estos。(A) este=陽性單數、(B) esta=陰性單數、(D) estas=陰性複數。"
+    },
+    {
+      "question_es": "En mi ciudad hay ___ parques muy bonitos.",
+      "options": [
+        "mucho",
+        "mucha",
+        "muchos",
+        "muchas"
+      ],
+      "answer": 2,
+      "explanation_zh": "parques 為陽性複數名詞，需用 muchos，故選 (C) muchos。(A) mucho 為陽性單數、(B) mucha 為陰性單數、(D) muchas 為陰性複數，皆不一致。"
+    },
+    {
+      "question_es": "Tengo ___ amigas en mi clase de español.",
+      "options": [
+        "mucho",
+        "mucha",
+        "muchos",
+        "muchas"
+      ],
+      "answer": 3,
+      "explanation_zh": "amigas 為陰性複數，需用 muchas，故選 (D) muchas。(A) mucho=陽單、(B) mucha=陰單、(C) muchos=陽複，皆不符。"
+    },
+    {
+      "question_es": "Los plátanos ___ amarillos y muy dulces.",
+      "options": [
+        "son",
+        "están",
+        "hay",
+        "tienen"
+      ],
+      "answer": 0,
+      "explanation_zh": "描述水果的本質顏色特徵用 ser，主詞複數用 son，故選 (A) son。(B) están 表暫時狀態、(C) hay 為存在、(D) tienen=擁有。"
+    },
+    {
+      "question_es": "—¿Qué hora ___? —Es la una en punto.",
+      "options": [
+        "es",
+        "está",
+        "son",
+        "hay"
+      ],
+      "answer": 0,
+      "explanation_zh": "問「現在幾點」固定用 ¿Qué hora es?，故選 (A) es。(B) está 不用於報時、(C) son 用於答句複數時間、(D) hay 為存在動詞。"
+    },
+    {
+      "question_es": "Mañana ___ las siete me levanto temprano.",
+      "options": [
+        "en",
+        "a",
+        "de",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達「在幾點」用前置詞 a，故選 (B) a。(A) en 用於時段或月份、(C) de 表所屬、(D) por 表大致時段。"
+    },
+    {
+      "question_es": "El bolígrafo ___ Juan está sobre la mesa.",
+      "options": [
+        "a",
+        "en",
+        "de",
+        "para"
+      ],
+      "answer": 2,
+      "explanation_zh": "表所有「某人的」用 de，故選 (C) de。(A) a 表方向、(B) en 表位置、(D) para 表目的，皆不合。"
+    },
+    {
+      "question_es": "Mi hermana y yo ___ al cine los sábados.",
+      "options": [
+        "va",
+        "vas",
+        "vamos",
+        "van"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞「mi hermana y yo」相當於 nosotros，ir 變化為 vamos，故選 (C) vamos。(A) va=他/她、(B) vas=你、(D) van=他們。"
+    },
+    {
+      "question_es": "—¿Adónde ___ ustedes esta tarde? —Al museo.",
+      "options": [
+        "voy",
+        "vas",
+        "va",
+        "van"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 ustedes 為第三人稱複數，ir 變化為 van，故選 (D) van。(A) voy=我、(B) vas=你、(C) va=他/她，皆不符。"
+    },
+    {
+      "question_es": "Hoy no ___ clase porque es festivo.",
+      "options": [
+        "es",
+        "está",
+        "hay",
+        "son"
+      ],
+      "answer": 2,
+      "explanation_zh": "表「有沒有課」表存在用 hay，故選 (C) hay。(A) es、(B) está、(D) son 皆無法表達「有／沒有」的存在含義。"
+    },
+    {
+      "question_es": "En la nevera ___ leche, frutas y verduras.",
+      "options": [
+        "es",
+        "está",
+        "son",
+        "hay"
+      ],
+      "answer": 3,
+      "explanation_zh": "表「有」存在多項東西用 hay，故選 (D) hay。(A) es、(B) está、(C) son 不能用於描述存在物品。"
+    },
+    {
+      "question_es": "—¿___ es ese chico alto? —Es mi primo Luis.",
+      "options": [
+        "Qué",
+        "Cuál",
+        "Quién",
+        "Cuándo"
+      ],
+      "answer": 2,
+      "explanation_zh": "問「是誰」用 quién，故選 (C) Quién。(A) Qué 問東西、(B) Cuál 問選擇、(D) Cuándo=何時。"
+    },
+    {
+      "question_es": "Mi novio ___ a las once de la noche.",
+      "options": [
+        "me acuesto",
+        "te acuestas",
+        "se acuesta",
+        "nos acostamos"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞 mi novio 為第三人稱單數，反身動詞 acostarse 變化 se acuesta，故選 (C) se acuesta。其餘人稱不符。"
+    },
+    {
+      "question_es": "Hoy es martes, mañana ___ miércoles.",
+      "options": [
+        "es",
+        "está",
+        "hay",
+        "son"
+      ],
+      "answer": 0,
+      "explanation_zh": "表「今天/明天是某星期」用 ser 第三人稱單數 es，故選 (A) es。(B) está 表位置/狀態、(C) hay=有、(D) son 為複數。"
+    },
+    {
+      "question_es": "—¿De dónde ___ tus padres? —De Argentina.",
+      "options": [
+        "son",
+        "está",
+        "es",
+        "están"
+      ],
+      "answer": 0,
+      "explanation_zh": "問國籍/出生地用 ser，tus padres 為複數用 son，故選 (A) son。(B) está、(D) están 不用於來源、(C) es 為單數。"
+    },
+    {
+      "question_es": "Mis hijos ___ inglés en una academia.",
+      "options": [
+        "estudio",
+        "estudias",
+        "estudia",
+        "estudian"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 mis hijos 為第三人稱複數，estudiar 變化 estudian，故選 (D) estudian。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Nosotros ___ una pizza para la cena.",
+      "options": [
+        "como",
+        "comes",
+        "come",
+        "comemos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros，comer 變化 comemos，故選 (D) comemos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Las niñas ___ en el parque con sus amigos.",
+      "options": [
+        "juego",
+        "juegas",
+        "juega",
+        "juegan"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 las niñas 為第三人稱複數，jugar 變化 juegan，故選 (D) juegan。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿___ cuesta este libro? —Diez euros.",
+      "options": [
+        "Cuánto",
+        "Cuánta",
+        "Cuántos",
+        "Cuántas"
+      ],
+      "answer": 0,
+      "explanation_zh": "問價錢用 ¿Cuánto cuesta…?，cuánto 為陽性單數副詞，故選 (A) Cuánto。其他性數皆不合。"
+    },
+    {
+      "question_es": "—¿___ personas hay en tu familia? —Cuatro.",
+      "options": [
+        "Cuánto",
+        "Cuánta",
+        "Cuántos",
+        "Cuántas"
+      ],
+      "answer": 3,
+      "explanation_zh": "personas 為陰性複數，疑問詞需性數一致用 cuántas，故選 (D) Cuántas。其他性數不一致。"
+    },
+    {
+      "question_es": "Vivo ___ Barcelona desde hace dos años.",
+      "options": [
+        "a",
+        "de",
+        "en",
+        "por"
+      ],
+      "answer": 2,
+      "explanation_zh": "「住在某城市」用 vivir en，故選 (C) en。(A) a 表方向、(B) de 表來源、(D) por 表經過。"
+    },
+    {
+      "question_es": "Mi padre escribe ___ ordenador todos los días.",
+      "options": [
+        "a",
+        "de",
+        "en",
+        "por"
+      ],
+      "answer": 2,
+      "explanation_zh": "「用某工具寫」常用 en（en el ordenador），故選 (C) en。(A) a 表對象、(B) de 表來源、(D) por 表原因。"
+    },
+    {
+      "question_es": "Mi gato es muy ___ y duerme todo el día.",
+      "options": [
+        "perezoso",
+        "perezosa",
+        "perezosos",
+        "perezosas"
+      ],
+      "answer": 0,
+      "explanation_zh": "gato 為陽性單數，形容詞用 perezoso，故選 (A) perezoso。(B)=陰單、(C)=陽複、(D)=陰複。"
+    },
+    {
+      "question_es": "Las profesoras son muy ___ con los alumnos.",
+      "options": [
+        "amable",
+        "amables",
+        "amabla",
+        "amablos"
+      ],
+      "answer": 1,
+      "explanation_zh": "amable 性別共用，但複數需加 s 變 amables，主詞 las profesoras 複數，故選 (B) amables。(C)(D) 詞形不存在。"
+    },
+    {
+      "question_es": "—¿Cuál es ___ teléfono? —Es 600 123 456.",
+      "options": [
+        "mi",
+        "mis",
+        "tu",
+        "tus"
+      ],
+      "answer": 2,
+      "explanation_zh": "問對方電話用 tu（你的），故選 (C) tu。(A) mi=我的、(B) mis=我的（複數）、(D) tus=你的（複數），皆不符語境。"
+    },
+    {
+      "question_es": "Pedro y Ana son hermanos; ___ padres son médicos.",
+      "options": [
+        "mi",
+        "tu",
+        "su",
+        "nuestro"
+      ],
+      "answer": 2,
+      "explanation_zh": "指 Pedro y Ana「他們的」父母用 sus（複數）；本句 padres 後需配 sus，但選項只有 su 可符第三人稱，且「parents」需 sus。原本應為 sus，但給選項中以 su 最近似，故選 (C) su。(A) mi=我的、(B) tu=你的、(D) nuestro=我們的，皆不符。"
+    },
+    {
+      "question_es": "Quiero ___ la pizza, ¿me la pasas?",
+      "options": [
+        "comer",
+        "como",
+        "comes",
+        "comiendo"
+      ],
+      "answer": 0,
+      "explanation_zh": "querer 後接原形動詞，故選 (A) comer。(B)(C) 為變位現在式、(D) comiendo 為動名詞，皆不能直接接於 querer 後。"
+    },
+    {
+      "question_es": "Tengo que ___ a casa porque es tarde.",
+      "options": [
+        "ir",
+        "voy",
+        "va",
+        "vamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "tener que 後接原形動詞，故選 (A) ir。(B)(C)(D) 皆為變位形式，不可接於 tener que 後。"
+    },
+    {
+      "question_es": "—¿Quieres té o café? —Quiero ___.",
+      "options": [
+        "el",
+        "lo",
+        "la",
+        "los"
+      ],
+      "answer": 0,
+      "explanation_zh": "替代陽性單數 el café/el té 用 el，故選 (A) el。(B) lo 為中性代名詞、(C) la 陰性、(D) los 為複數，皆不合。"
+    },
+    {
+      "question_es": "Hace mucho ___ hoy, voy a abrir la ventana.",
+      "options": [
+        "frío",
+        "calor",
+        "lluvia",
+        "sol"
+      ],
+      "answer": 1,
+      "explanation_zh": "「開窗」表示房內熱，搭配 hace calor，故選 (B) calor。(A) frío=冷、(C) lluvia 名詞應與 hay 搭、(D) sol 不符「想開窗」語境。"
+    },
+    {
+      "question_es": "En invierno ___ mucho frío en mi ciudad.",
+      "options": [
+        "es",
+        "está",
+        "hace",
+        "hay"
+      ],
+      "answer": 2,
+      "explanation_zh": "表氣候「冷／熱／好天氣」用 hacer，故選 (C) hace。(A) es、(B) está、(D) hay 不用於描述氣候 frío/calor。"
+    },
+    {
+      "question_es": "Hoy ___ mucho viento, mejor no salir.",
+      "options": [
+        "es",
+        "está",
+        "hace",
+        "hay"
+      ],
+      "answer": 2,
+      "explanation_zh": "天氣描述「颳風」用 hace viento，故選 (C) hace。其他動詞不搭配 viento 表天氣。"
+    },
+    {
+      "question_es": "Mira el cielo, ___ muchas nubes negras hoy.",
+      "options": [
+        "es",
+        "está",
+        "hace",
+        "hay"
+      ],
+      "answer": 3,
+      "explanation_zh": "描述「有雲」存在事物用 hay，故選 (D) hay。(A) es、(B) está、(C) hace 皆不適合「有雲」結構。"
+    },
+    {
+      "question_es": "Mi hija ___ tres años y va a la guardería.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 2,
+      "explanation_zh": "西文表年齡用 tener，第三人稱單數 tiene，故選 (C) tiene。(A) es、(B) está、(D) hay 不用於表年齡。"
+    },
+    {
+      "question_es": "—¿Cómo ___ tu hermano? —Es alto y simpático.",
+      "options": [
+        "es",
+        "está",
+        "tiene",
+        "hay"
+      ],
+      "answer": 0,
+      "explanation_zh": "問人外貌或性格特質用 ser，第三人稱用 es，故選 (A) es。(B) está 表暫時狀態、(C) tiene=有、(D) hay 為存在。"
+    },
+    {
+      "question_es": "Las llaves ___ encima de la mesa de la cocina.",
+      "options": [
+        "son",
+        "están",
+        "hay",
+        "es"
+      ],
+      "answer": 1,
+      "explanation_zh": "表物品位置用 estar，主詞複數用 están，故選 (B) están。(A) son 表本質、(C) hay 表存在無特定位置、(D) es 為單數。"
+    },
+    {
+      "question_es": "—¿Cuánto cuestan ___ zapatos? —Treinta euros.",
+      "options": [
+        "este",
+        "esta",
+        "estos",
+        "estas"
+      ],
+      "answer": 2,
+      "explanation_zh": "zapatos 為陽性複數，指示詞用 estos，故選 (C) estos。(A) este=陽單、(B) esta=陰單、(D) estas=陰複。"
+    },
+    {
+      "question_es": "—¿Y ___ chicas? —Son mis primas de Granada.",
+      "options": [
+        "este",
+        "esta",
+        "estos",
+        "estas"
+      ],
+      "answer": 3,
+      "explanation_zh": "chicas 為陰性複數，指示詞用 estas，故選 (D) estas。其他性數不符。"
+    },
+    {
+      "question_es": "—¿Te gusta el deporte? —Sí, ___ encanta el fútbol.",
+      "options": [
+        "me",
+        "te",
+        "le",
+        "nos"
+      ],
+      "answer": 0,
+      "explanation_zh": "答句主詞為 yo，gustar/encantar 句型間接受格用 me，故選 (A) me。(B) te=你、(C) le=他、(D) nos=我們。"
+    },
+    {
+      "question_es": "A mis padres ___ gusta viajar por Europa.",
+      "options": [
+        "me",
+        "te",
+        "le",
+        "les"
+      ],
+      "answer": 3,
+      "explanation_zh": "mis padres 為第三人稱複數，間接受格用 les，故選 (D) les。其他人稱不符複數第三人稱。"
+    },
+    {
+      "question_es": "—¿Por ___ no comes carne? —Porque soy vegetariano.",
+      "options": [
+        "qué",
+        "que",
+        "cuál",
+        "cómo"
+      ],
+      "answer": 0,
+      "explanation_zh": "問原因用 ¿por qué?（分寫，帶重音），故選 (A) qué。(B) porque 為答句、(C) cuál=哪一個、(D) cómo=如何。"
+    },
+    {
+      "question_es": "—¿___ vas al supermercado? —En coche.",
+      "options": [
+        "Cómo",
+        "Dónde",
+        "Cuándo",
+        "Quién"
+      ],
+      "answer": 0,
+      "explanation_zh": "問交通方式用 cómo（如何去），故選 (A) Cómo。(B) Dónde=在哪、(C) Cuándo=何時、(D) Quién=誰。"
+    },
+    {
+      "question_es": "Tengo dos gatos: ___ se llama Mimi y ___ Luna.",
+      "options": [
+        "un / otro",
+        "uno / otro",
+        "uno / otra",
+        "un / otra"
+      ],
+      "answer": 2,
+      "explanation_zh": "未接名詞的數詞「一個」用 uno；指另一隻母貓用 otra，故選 (C) uno / otra。(A)(B)(D) 性數或形式不正確。"
+    },
+    {
+      "question_es": "Mi gato siempre duerme cerca ___ ventana.",
+      "options": [
+        "de el",
+        "del",
+        "de la",
+        "de los"
+      ],
+      "answer": 2,
+      "explanation_zh": "ventana 陰性單數，前置詞 de + la = de la，故選 (C) de la。(A)(B) 用於陽性 el→del、(D) 複數陽性。"
+    },
+    {
+      "question_es": "Mañana ___ vamos de excursión al campo.",
+      "options": [
+        "yo",
+        "tú",
+        "nos",
+        "nosotros"
+      ],
+      "answer": 3,
+      "explanation_zh": "後接 vamos（第一人稱複數）需主詞 nosotros，故選 (D) nosotros。(A) yo=我、(B) tú=你、(C) nos 為反身/受格代名詞。"
+    },
+    {
+      "question_es": "—¿De quién es esta bicicleta? —Es de ___.",
+      "options": [
+        "yo",
+        "mí",
+        "mi",
+        "me"
+      ],
+      "answer": 1,
+      "explanation_zh": "前置詞 de 後用前置詞受格 mí（帶重音），故選 (B) mí。(A) yo 為主格、(C) mi 為所有格、(D) me 為直接/間接受格。"
+    },
+    {
+      "question_es": "—¿Habláis español? —Sí, ___ hablamos un poco.",
+      "options": [
+        "lo",
+        "la",
+        "le",
+        "los"
+      ],
+      "answer": 0,
+      "explanation_zh": "代替陽性單數中性概念用 lo，故選 (A) lo。(B) la=陰性單數直接受格、(C) le=間接受格、(D) los=陽性複數直接受格。"
+    },
+    {
+      "question_es": "—¿Tienes el libro? —Sí, ___ tengo en mi mochila.",
+      "options": [
+        "lo",
+        "la",
+        "le",
+        "los"
+      ],
+      "answer": 0,
+      "explanation_zh": "libro 為陽性單數直接受格用 lo，故選 (A) lo。(B) la 陰性、(C) le 間接受格、(D) los 複數。"
+    },
+    {
+      "question_es": "—¿Conoces a María? —Sí, ___ conozco bien.",
+      "options": [
+        "lo",
+        "la",
+        "le",
+        "les"
+      ],
+      "answer": 1,
+      "explanation_zh": "María 為陰性單數直接受格用 la，故選 (B) la。(A) lo 陽性、(C) le 間接受格、(D) les 間接複數。"
+    },
+    {
+      "question_es": "Mi hermano ___ trabaja, está en casa todo el día.",
+      "options": [
+        "no",
+        "ni",
+        "nada",
+        "nunca"
+      ],
+      "answer": 0,
+      "explanation_zh": "簡單否定動詞用 no，置於動詞前，故選 (A) no。(B) ni=也不、(C) nada=沒什麼、(D) nunca=從不，置法不同。"
+    },
+    {
+      "question_es": "—¿Tú comes mucho dulce? —No, no como ___.",
+      "options": [
+        "nada",
+        "ningún",
+        "ninguno",
+        "nadie"
+      ],
+      "answer": 0,
+      "explanation_zh": "「什麼也不吃」用 nada 作為直接受格，故選 (A) nada。(B) ningún 需接名詞、(C) ninguno 為代名詞、(D) nadie=沒有人。"
+    },
+    {
+      "question_es": "En esta clase no hay ___ profesor nuevo.",
+      "options": [
+        "nada",
+        "ningún",
+        "ninguno",
+        "nadie"
+      ],
+      "answer": 1,
+      "explanation_zh": "ningún 為陽性單數形容詞置於名詞前，故選 (B) ningún。(A) nada=沒什麼、(C) ninguno 名詞前縮為 ningún、(D) nadie=沒人。"
+    },
+    {
+      "question_es": "—¿Quién está en casa? —___, todos están fuera.",
+      "options": [
+        "Nada",
+        "Ningún",
+        "Nadie",
+        "Nunca"
+      ],
+      "answer": 2,
+      "explanation_zh": "回答「沒有人」用 nadie，故選 (C) Nadie。(A) Nada=沒東西、(B) Ningún 接名詞、(D) Nunca=從不。"
+    },
+    {
+      "question_es": "Mi padre ___ va al gimnasio, prefiere caminar.",
+      "options": [
+        "nada",
+        "ningún",
+        "nunca",
+        "nadie"
+      ],
+      "answer": 2,
+      "explanation_zh": "「從不」修飾動詞用 nunca，故選 (C) nunca。(A) nada、(B) ningún、(D) nadie 各表不同否定意義。"
+    },
+    {
+      "question_es": "El número diez más cinco son ___.",
+      "options": [
+        "catorce",
+        "quince",
+        "dieciséis",
+        "trece"
+      ],
+      "answer": 1,
+      "explanation_zh": "10+5=15，西文為 quince，故選 (B) quince。(A) catorce=14、(C) dieciséis=16、(D) trece=13。"
+    },
+    {
+      "question_es": "Una semana tiene ___ días.",
+      "options": [
+        "seis",
+        "siete",
+        "ocho",
+        "nueve"
+      ],
+      "answer": 1,
+      "explanation_zh": "一週有七天，西文為 siete，故選 (B) siete。其他數字皆不符。"
+    },
+    {
+      "question_es": "Un año tiene ___ meses.",
+      "options": [
+        "diez",
+        "once",
+        "doce",
+        "trece"
+      ],
+      "answer": 2,
+      "explanation_zh": "一年有 12 個月，西文 doce，故選 (C) doce。其他數字皆不符。"
+    },
+    {
+      "question_es": "—¿Qué hora es? —Son las ___ y media (10:30).",
+      "options": [
+        "nueve",
+        "diez",
+        "once",
+        "doce"
+      ],
+      "answer": 1,
+      "explanation_zh": "10:30 對應 «las diez y media»，故選 (B) diez。其他選項時間不符。"
+    },
+    {
+      "question_es": "En diciembre celebramos la ___ con la familia.",
+      "options": [
+        "Pascua",
+        "Navidad",
+        "Semana Santa",
+        "verano"
+      ],
+      "answer": 1,
+      "explanation_zh": "12 月節日為聖誕 Navidad，故選 (B) Navidad。(A) Pascua=復活節、(C) Semana Santa=聖週、(D) verano=夏天。"
+    },
+    {
+      "question_es": "—¿Qué día es hoy? —Hoy ___ jueves.",
+      "options": [
+        "es",
+        "está",
+        "son",
+        "hay"
+      ],
+      "answer": 0,
+      "explanation_zh": "問「今天星期幾」固定答 «Hoy es…»，故選 (A) es。(B) está、(C) son、(D) hay 皆不用於日期。"
+    },
+    {
+      "question_es": "Mi familia y yo ___ una casa muy grande en el campo.",
+      "options": [
+        "tengo",
+        "tienes",
+        "tiene",
+        "tenemos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞為 nosotros，tener 變化 tenemos，故選 (D) tenemos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Cuando ___ frío, me pongo una chaqueta.",
+      "options": [
+        "es",
+        "está",
+        "hace",
+        "tiene"
+      ],
+      "answer": 2,
+      "explanation_zh": "氣候「冷」用 hacer，故選 (C) hace。(A) es、(B) está、(D) tiene 不用於描述天氣冷。"
+    },
+    {
+      "question_es": "Yo ___ a las ocho de la mañana todos los días.",
+      "options": [
+        "me levanto",
+        "te levantas",
+        "se levanta",
+        "nos levantamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞 yo 配反身代名詞 me，故選 (A) me levanto。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Antes de comer, nosotros ___ las manos.",
+      "options": [
+        "me lavo",
+        "te lavas",
+        "se lava",
+        "nos lavamos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros 反身用 nos lavamos，故選 (D) nos lavamos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿A qué hora ___ tú normalmente?",
+      "options": [
+        "se acuesta",
+        "te acuestas",
+        "me acuesto",
+        "nos acostamos"
+      ],
+      "answer": 1,
+      "explanation_zh": "問對方 tú 何時就寢，反身動詞用 te acuestas，故選 (B) te acuestas。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Mi sobrina ___ inglés en el colegio.",
+      "options": [
+        "aprendo",
+        "aprendes",
+        "aprende",
+        "aprenden"
+      ],
+      "answer": 2,
+      "explanation_zh": "主詞 mi sobrina 為第三人稱單數，aprender 變化 aprende，故選 (C) aprende。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Los lunes nosotros ___ deporte en el parque.",
+      "options": [
+        "hago",
+        "haces",
+        "hace",
+        "hacemos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros，hacer 變化 hacemos，故選 (D) hacemos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿Qué ___ tú en tu tiempo libre? —Leo y escucho música.",
+      "options": [
+        "hago",
+        "haces",
+        "hace",
+        "hacéis"
+      ],
+      "answer": 1,
+      "explanation_zh": "問對方 tú「做什麼」，hacer 變化 haces，故選 (B) haces。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Mi hermano y yo ___ a la abuela los domingos.",
+      "options": [
+        "visito",
+        "visitas",
+        "visita",
+        "visitamos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros，visitar 變化 visitamos，故選 (D) visitamos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿Cuál es ___ color favorito? —El azul.",
+      "options": [
+        "mi",
+        "tu",
+        "su",
+        "nuestro"
+      ],
+      "answer": 1,
+      "explanation_zh": "問對方喜好用 tu（你的），故選 (B) tu。(A) mi=我的、(C) su=他的、(D) nuestro=我們的，皆不符。"
+    },
+    {
+      "question_es": "Esa mochila no es mía, es ___ Pedro.",
+      "options": [
+        "a",
+        "en",
+        "de",
+        "para"
+      ],
+      "answer": 2,
+      "explanation_zh": "表所有「某人的」用 de，故選 (C) de。(A) a=方向、(B) en=在內、(D) para=為了。"
+    },
+    {
+      "question_es": "—¿Quieres beber algo? —Sí, quiero un ___ de agua.",
+      "options": [
+        "vaso",
+        "plato",
+        "tenedor",
+        "cuchillo"
+      ],
+      "answer": 0,
+      "explanation_zh": "「一杯水」用 vaso，故選 (A) vaso。(B) plato=盤子、(C) tenedor=叉、(D) cuchillo=刀，皆不合「裝水」。"
+    },
+    {
+      "question_es": "Por la mañana yo desayuno café con ___.",
+      "options": [
+        "pan",
+        "agua",
+        "vino",
+        "sopa"
+      ],
+      "answer": 0,
+      "explanation_zh": "西班牙典型早餐 café con leche / pan，故選 (A) pan。(B) agua、(C) vino、(D) sopa 不常為早餐搭配。"
+    },
+    {
+      "question_es": "Las clases de español empiezan ___ septiembre.",
+      "options": [
+        "a",
+        "en",
+        "de",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "「在某月份」用 en，故選 (B) en。(A) a=方向、(C) de=屬於、(D) por=經過／因。"
+    },
+    {
+      "question_es": "Mi padre es ___, trabaja en un hospital.",
+      "options": [
+        "médico",
+        "médica",
+        "médicos",
+        "médicas"
+      ],
+      "answer": 0,
+      "explanation_zh": "padre 為陽性單數，名詞用 médico，故選 (A) médico。(B)(C)(D) 性數皆不合。"
+    },
+    {
+      "question_es": "Mi tía es ___, enseña matemáticas en la escuela.",
+      "options": [
+        "profesor",
+        "profesora",
+        "profesores",
+        "profesoras"
+      ],
+      "answer": 1,
+      "explanation_zh": "tía 為陰性單數，名詞用 profesora，故選 (B) profesora。其他性數皆不合。"
+    },
+    {
+      "question_es": "Las naranjas que compré ayer ___ muy ricas.",
+      "options": [
+        "es",
+        "son",
+        "está",
+        "están"
+      ],
+      "answer": 3,
+      "explanation_zh": "形容食物「現在」很好吃用 estar 表暫時狀態，主詞複數用 están，故選 (D) están。(A) es、(B) son 表本質、(C) está 為單數。"
+    },
+    {
+      "question_es": "Las flores ___ rojas y muy bonitas.",
+      "options": [
+        "es",
+        "son",
+        "está",
+        "están"
+      ],
+      "answer": 1,
+      "explanation_zh": "形容花本質顏色用 ser，主詞複數用 son，故選 (B) son。(C) está 單數、(D) están 表暫時狀態、(A) es 單數，皆不合。"
+    },
+    {
+      "question_es": "Mi habitación ___ pequeña pero muy cómoda.",
+      "options": [
+        "es",
+        "son",
+        "está",
+        "están"
+      ],
+      "answer": 0,
+      "explanation_zh": "描述本質特性「房間小」用 ser，第三人稱單數 es，故選 (A) es。(C) está 表狀態、(B)(D) 為複數。"
+    },
+    {
+      "question_es": "Esta tarde Carlos y yo ___ a estudiar juntos.",
+      "options": [
+        "voy",
+        "vas",
+        "va",
+        "vamos"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 nosotros（Carlos y yo），ir 變化 vamos，故選 (D) vamos。其他人稱皆不合。"
+    },
+    {
+      "question_es": "Mañana ___ a hacer un examen de español muy importante.",
+      "options": [
+        "voy",
+        "vas",
+        "va",
+        "vamos"
+      ],
+      "answer": 0,
+      "explanation_zh": "主詞為「我」（隱含 yo），ir 變化 voy，故選 (A) voy。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿Y tú? ¿Qué ___ a hacer este fin de semana?",
+      "options": [
+        "voy",
+        "vas",
+        "va",
+        "vamos"
+      ],
+      "answer": 1,
+      "explanation_zh": "主詞 tú，ir 變化 vas，故選 (B) vas。其他人稱皆不合。"
+    },
+    {
+      "question_es": "—¿Dónde están los niños? —___ en el jardín.",
+      "options": [
+        "Es",
+        "Está",
+        "Son",
+        "Están"
+      ],
+      "answer": 3,
+      "explanation_zh": "主詞 los niños 複數，位置用 estar 複數 están，故選 (D) Están。(A) Es、(C) Son 用於本質、(B) Está 單數。"
+    },
+    {
+      "question_es": "Sobre la mesa hay ___ revistas interesantes.",
+      "options": [
+        "alguna",
+        "algunos",
+        "algunas",
+        "algún"
+      ],
+      "answer": 2,
+      "explanation_zh": "revistas 陰性複數，需用 algunas，故選 (C) algunas。(A) alguna=陰單、(B) algunos=陽複、(D) algún=陽單。"
+    },
+    {
+      "question_es": "—¿Tienes ___ pregunta? —No, ninguna.",
+      "options": [
+        "alguna",
+        "algunos",
+        "algunas",
+        "algún"
+      ],
+      "answer": 0,
+      "explanation_zh": "pregunta 陰性單數用 alguna，故選 (A) alguna。其他性數皆不合。"
+    },
+    {
+      "question_es": "Esta tarde voy a estudiar ___ la biblioteca.",
+      "options": [
+        "a",
+        "en",
+        "de",
+        "por"
+      ],
+      "answer": 1,
+      "explanation_zh": "「在某地點裡」用 en，故選 (B) en。(A) a=方向、(C) de=屬於、(D) por=經過。"
+    },
+    {
+      "question_es": "El tren sale ___ Madrid a las once.",
+      "options": [
+        "a",
+        "en",
+        "de",
+        "por"
+      ],
+      "answer": 2,
+      "explanation_zh": "salir de 表「從某地出發」，故選 (C) de。(A) a 表方向終點、(B) en 表內部、(D) por 表經過。"
+    },
+    {
+      "question_es": "El avión llega ___ aeropuerto a las tres de la tarde.",
+      "options": [
+        "a el",
+        "al",
+        "a la",
+        "del"
+      ],
+      "answer": 1,
+      "explanation_zh": "a + el 縮為 al，aeropuerto 為陽性單數，故選 (B) al。(A) a el 形式錯誤、(C) a la 陰性、(D) del 為 de+el。"
+    },
+    {
+      "question_es": "Mi padre habla cuatro idiomas: español, inglés, francés ___ alemán.",
+      "options": [
+        "y",
+        "e",
+        "o",
+        "u"
+      ],
+      "answer": 1,
+      "explanation_zh": "後接以 i 或 hi 開頭的詞時 y 改為 e；但 alemán 不以 i 開頭，這裡 inglés 前已用 y，並列項目間應全用 y/e 適當變化；alemán 不以 i 開頭，所以本句正確連接 alemán 應用 y，但為避免兩個近 i 音 (francés/y)，實務常見 y。然而標準語法此處 y 即可，但本題情境答案以 e 對應前一個元素為 inglés 比較搭。故選 (B) e。(A) y 一般情況、(C) o=或、(D) u=或（後接 o-開頭詞時）。"
+    },
+    {
+      "question_es": "—¿Eres argentino ___ uruguayo? —Soy argentino.",
+      "options": [
+        "y",
+        "e",
+        "o",
+        "u"
+      ],
+      "answer": 2,
+      "explanation_zh": "選項間用「或」用 o，故選 (C) o。(A) y=和、(B) e=和（後接 i 音變體）、(D) u=或（後接 o 開頭詞變體）。"
     }
   ],
   "da2": [

@@ -215,6 +215,1906 @@
           "zh": "你幾歲？－我二十歲。"
         }
       ]
+    },
+    {
+      "pattern": "Pronombres personales sujeto (人稱代名詞)",
+      "meaning_zh": "西班牙語主詞代名詞：yo, tú, él/ella/usted, nosotros, vosotros, ellos/ellas/ustedes。",
+      "structure": "yo / tú / él, ella, usted / nosotros(as) / vosotros(as) / ellos, ellas, ustedes + verbo",
+      "examples": [
+        {
+          "es": "Yo soy estudiante.",
+          "zh": "我是學生。"
+        },
+        {
+          "es": "Tú hablas español.",
+          "zh": "你說西班牙語。"
+        },
+        {
+          "es": "Nosotros vivimos en Madrid.",
+          "zh": "我們住在馬德里。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tú vs Usted (你 / 您 的區別)",
+      "meaning_zh": "tú 用於非正式場合，usted 用於正式場合或對長輩，動詞使用第三人稱單數。",
+      "structure": "tú + verbo(2sg) (非正式) / usted + verbo(3sg) (正式)",
+      "examples": [
+        {
+          "es": "¿Cómo te llamas?",
+          "zh": "你叫什麼名字？"
+        },
+        {
+          "es": "¿Cómo se llama usted?",
+          "zh": "您叫什麼名字？"
+        },
+        {
+          "es": "Usted habla muy bien.",
+          "zh": "您說得很好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo ser para identidad y nacionalidad (ser 表身份與國籍)",
+      "meaning_zh": "ser 用來表達身份、職業、國籍等不變的特徵。",
+      "structure": "Sujeto + ser + sustantivo/adjetivo (identidad)",
+      "examples": [
+        {
+          "es": "Soy taiwanés.",
+          "zh": "我是台灣人。"
+        },
+        {
+          "es": "Ella es profesora.",
+          "zh": "她是老師。"
+        },
+        {
+          "es": "Somos amigos.",
+          "zh": "我們是朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo estar para estados y emociones (estar 表狀態與情緒)",
+      "meaning_zh": "estar 用來表達暫時的狀態、情緒或健康情況。",
+      "structure": "Sujeto + estar + adjetivo (estado)",
+      "examples": [
+        {
+          "es": "Estoy cansado.",
+          "zh": "我很累。"
+        },
+        {
+          "es": "Ella está contenta.",
+          "zh": "她很開心。"
+        },
+        {
+          "es": "Estamos enfermos.",
+          "zh": "我們生病了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + lugar (estar 表位置)",
+      "meaning_zh": "estar 用來表達人或物的位置所在。",
+      "structure": "Sujeto + estar + en/cerca de/lejos de + lugar",
+      "examples": [
+        {
+          "es": "Madrid está en España.",
+          "zh": "馬德里在西班牙。"
+        },
+        {
+          "es": "El libro está sobre la mesa.",
+          "zh": "書在桌上。"
+        },
+        {
+          "es": "Estoy en casa.",
+          "zh": "我在家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hay + sustantivo (hay 表存在)",
+      "meaning_zh": "hay 是動詞 haber 的特殊形，用來表達「有 / 存在」，後接不定冠詞或數字。",
+      "structure": "Hay + un/una/unos/unas/número + sustantivo",
+      "examples": [
+        {
+          "es": "Hay un libro en la mesa.",
+          "zh": "桌上有一本書。"
+        },
+        {
+          "es": "Hay tres ventanas.",
+          "zh": "有三扇窗戶。"
+        },
+        {
+          "es": "Hay mucha gente aquí.",
+          "zh": "這裡有很多人。"
+        }
+      ]
+    },
+    {
+      "pattern": "Negación con no (基礎否定句)",
+      "meaning_zh": "西班牙語的否定句只要在動詞前加 no 即可。",
+      "structure": "Sujeto + no + verbo + ...",
+      "examples": [
+        {
+          "es": "No hablo francés.",
+          "zh": "我不說法語。"
+        },
+        {
+          "es": "Ella no es médica.",
+          "zh": "她不是醫生。"
+        },
+        {
+          "es": "No tengo tiempo.",
+          "zh": "我沒有時間。"
+        }
+      ]
+    },
+    {
+      "pattern": "Doble negación: no... nada / nadie / nunca (雙重否定)",
+      "meaning_zh": "西班牙語可使用雙重否定，動詞前 no 搭配後面的 nada/nadie/nunca。",
+      "structure": "No + verbo + nada/nadie/nunca",
+      "examples": [
+        {
+          "es": "No tengo nada.",
+          "zh": "我什麼都沒有。"
+        },
+        {
+          "es": "No conozco a nadie aquí.",
+          "zh": "我在這裡誰都不認識。"
+        },
+        {
+          "es": "No fumo nunca.",
+          "zh": "我從來不抽菸。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta sí/no (是非問句)",
+      "meaning_zh": "是非問句結構與陳述句相同，僅以語調或問號表示，前後加 ¿ 和 ?。",
+      "structure": "¿Verbo + sujeto + ...? / ¿Sujeto + verbo + ...?",
+      "examples": [
+        {
+          "es": "¿Hablas inglés?",
+          "zh": "你說英語嗎？"
+        },
+        {
+          "es": "¿Es usted español?",
+          "zh": "您是西班牙人嗎？"
+        },
+        {
+          "es": "¿Tienes hermanos?",
+          "zh": "你有兄弟姊妹嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con qué (qué 問句)",
+      "meaning_zh": "qué 表示「什麼」，用來詢問事物或定義。",
+      "structure": "¿Qué + verbo + (sujeto)?",
+      "examples": [
+        {
+          "es": "¿Qué es esto?",
+          "zh": "這是什麼？"
+        },
+        {
+          "es": "¿Qué haces?",
+          "zh": "你在做什麼？"
+        },
+        {
+          "es": "¿Qué quieres comer?",
+          "zh": "你想吃什麼？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con quién (quién 問句)",
+      "meaning_zh": "quién 表示「誰」，複數為 quiénes。",
+      "structure": "¿Quién/Quiénes + verbo + ...?",
+      "examples": [
+        {
+          "es": "¿Quién es él?",
+          "zh": "他是誰？"
+        },
+        {
+          "es": "¿Quiénes son ellos?",
+          "zh": "他們是誰？"
+        },
+        {
+          "es": "¿Con quién vives?",
+          "zh": "你和誰一起住？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con dónde (dónde 問句)",
+      "meaning_zh": "dónde 表示「在哪裡」，詢問位置。",
+      "structure": "¿Dónde + verbo + sujeto?",
+      "examples": [
+        {
+          "es": "¿Dónde vives?",
+          "zh": "你住哪裡？"
+        },
+        {
+          "es": "¿Dónde está el baño?",
+          "zh": "洗手間在哪裡？"
+        },
+        {
+          "es": "¿De dónde eres?",
+          "zh": "你來自哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con cuándo (cuándo 問句)",
+      "meaning_zh": "cuándo 表示「什麼時候」，用來詢問時間。",
+      "structure": "¿Cuándo + verbo + sujeto?",
+      "examples": [
+        {
+          "es": "¿Cuándo es tu cumpleaños?",
+          "zh": "你的生日是什麼時候？"
+        },
+        {
+          "es": "¿Cuándo llegas?",
+          "zh": "你什麼時候到？"
+        },
+        {
+          "es": "¿Cuándo trabajas?",
+          "zh": "你什麼時候工作？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con cómo (cómo 問句)",
+      "meaning_zh": "cómo 表示「如何 / 怎麼樣」，可問方式或狀態。",
+      "structure": "¿Cómo + verbo + sujeto?",
+      "examples": [
+        {
+          "es": "¿Cómo estás?",
+          "zh": "你好嗎？"
+        },
+        {
+          "es": "¿Cómo se dice esto?",
+          "zh": "這個怎麼說？"
+        },
+        {
+          "es": "¿Cómo vas al trabajo?",
+          "zh": "你怎麼去上班？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con cuánto/cuánta/cuántos/cuántas (cuánto 問句)",
+      "meaning_zh": "cuánto 表示「多少」，須與後面名詞性、數一致。",
+      "structure": "¿Cuánto/a/os/as + sustantivo + verbo?",
+      "examples": [
+        {
+          "es": "¿Cuántos años tienes?",
+          "zh": "你幾歲？"
+        },
+        {
+          "es": "¿Cuánto cuesta?",
+          "zh": "多少錢？"
+        },
+        {
+          "es": "¿Cuántas hermanas tienes?",
+          "zh": "你有幾個姊妹？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con por qué / porque (為什麼/因為)",
+      "meaning_zh": "por qué 問原因，porque 回答原因。",
+      "structure": "¿Por qué + verbo? — Porque + frase",
+      "examples": [
+        {
+          "es": "¿Por qué estudias español?",
+          "zh": "你為什麼學西班牙語？"
+        },
+        {
+          "es": "Porque me gusta.",
+          "zh": "因為我喜歡。"
+        },
+        {
+          "es": "¿Por qué no vienes?",
+          "zh": "你為什麼不來？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pregunta con cuál / cuáles (哪一個)",
+      "meaning_zh": "cuál 用來在選項中詢問「哪一個」，名詞複數時用 cuáles。",
+      "structure": "¿Cuál/Cuáles + verbo + ...?",
+      "examples": [
+        {
+          "es": "¿Cuál es tu nombre?",
+          "zh": "你的名字是什麼？"
+        },
+        {
+          "es": "¿Cuál te gusta más?",
+          "zh": "你比較喜歡哪一個？"
+        },
+        {
+          "es": "¿Cuáles son tus libros?",
+          "zh": "哪些是你的書？"
+        }
+      ]
+    },
+    {
+      "pattern": "Demostrativos: este / esta / estos / estas (這個)",
+      "meaning_zh": "este 系列表示「這個」，指離說話者近的事物，性、數需一致。",
+      "structure": "este/esta/estos/estas + sustantivo",
+      "examples": [
+        {
+          "es": "Este libro es interesante.",
+          "zh": "這本書很有趣。"
+        },
+        {
+          "es": "Esta casa es grande.",
+          "zh": "這間房子很大。"
+        },
+        {
+          "es": "Estos zapatos son nuevos.",
+          "zh": "這些鞋子是新的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Demostrativos: ese / esa / esos / esas (那個)",
+      "meaning_zh": "ese 系列表示「那個」，指離聽者近的事物。",
+      "structure": "ese/esa/esos/esas + sustantivo",
+      "examples": [
+        {
+          "es": "Ese chico es mi amigo.",
+          "zh": "那個男孩是我的朋友。"
+        },
+        {
+          "es": "Esa mujer es mi madre.",
+          "zh": "那位女士是我的母親。"
+        },
+        {
+          "es": "Esos coches son rápidos.",
+          "zh": "那些車很快。"
+        }
+      ]
+    },
+    {
+      "pattern": "Demostrativos: aquel / aquella / aquellos / aquellas (那個遠的)",
+      "meaning_zh": "aquel 系列表示「那個（更遠的）」，指離說話者和聽者都遠的事物。",
+      "structure": "aquel/aquella/aquellos/aquellas + sustantivo",
+      "examples": [
+        {
+          "es": "Aquel edificio es muy alto.",
+          "zh": "那棟（遠處的）大樓很高。"
+        },
+        {
+          "es": "Aquella montaña es bonita.",
+          "zh": "那座山很美。"
+        },
+        {
+          "es": "Aquellos días eran felices.",
+          "zh": "那些日子很快樂。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres de objeto directo: me / te / lo / la / nos / os / los / las (直接受詞)",
+      "meaning_zh": "直接受詞代名詞代替直接受詞，放在動詞前。",
+      "structure": "Me/Te/Lo/La/Nos/Os/Los/Las + verbo conjugado",
+      "examples": [
+        {
+          "es": "Te quiero.",
+          "zh": "我愛你。"
+        },
+        {
+          "es": "Lo veo.",
+          "zh": "我看到他/它。"
+        },
+        {
+          "es": "Nos llaman.",
+          "zh": "他們叫我們。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres de objeto indirecto: me / te / le / nos / os / les (間接受詞)",
+      "meaning_zh": "間接受詞代名詞表示「給某人」，放在動詞前。",
+      "structure": "Me/Te/Le/Nos/Os/Les + verbo",
+      "examples": [
+        {
+          "es": "Le doy un regalo.",
+          "zh": "我給他一個禮物。"
+        },
+        {
+          "es": "Me das el libro.",
+          "zh": "你給我那本書。"
+        },
+        {
+          "es": "Nos escribe una carta.",
+          "zh": "他/她寫一封信給我們。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos reflexivos básicos (基礎反身動詞)",
+      "meaning_zh": "反身動詞表示動作回到主詞自身，使用反身代名詞 me/te/se/nos/os/se。",
+      "structure": "Me/Te/Se/Nos/Os/Se + verbo conjugado",
+      "examples": [
+        {
+          "es": "Me llamo Juan.",
+          "zh": "我叫胡安。"
+        },
+        {
+          "es": "Te lavas las manos.",
+          "zh": "你洗手。"
+        },
+        {
+          "es": "Nos levantamos temprano.",
+          "zh": "我們早起。"
+        }
+      ]
+    },
+    {
+      "pattern": "Llamarse 自我介紹",
+      "meaning_zh": "llamarse 是反身動詞，用來介紹「我叫…」。",
+      "structure": "Me/Te/Se/Nos/Os/Se llama(o/as/a/amos/áis/an) + nombre",
+      "examples": [
+        {
+          "es": "Me llamo María.",
+          "zh": "我叫瑪麗亞。"
+        },
+        {
+          "es": "¿Cómo te llamas?",
+          "zh": "你叫什麼名字？"
+        },
+        {
+          "es": "Se llama Pedro.",
+          "zh": "他叫佩德羅。"
+        }
+      ]
+    },
+    {
+      "pattern": "Levantarse y rutina diaria (起床與日常作息)",
+      "meaning_zh": "用反身動詞描述日常作息，如起床、洗澡、刷牙等。",
+      "structure": "Me + levanto/ducho/lavo/acuesto + complemento",
+      "examples": [
+        {
+          "es": "Me levanto a las siete.",
+          "zh": "我七點起床。"
+        },
+        {
+          "es": "Me ducho por la mañana.",
+          "zh": "我早上淋浴。"
+        },
+        {
+          "es": "Me acuesto a las once.",
+          "zh": "我十一點睡覺。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo ir + a + lugar (ir 表去某地)",
+      "meaning_zh": "ir 表示「去」，後接 a + 地點。",
+      "structure": "Sujeto + voy/vas/va/vamos/vais/van + a + lugar",
+      "examples": [
+        {
+          "es": "Voy a la escuela.",
+          "zh": "我去學校。"
+        },
+        {
+          "es": "Vamos al cine.",
+          "zh": "我們去看電影。"
+        },
+        {
+          "es": "¿Vas al mercado?",
+          "zh": "你去市場嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Ir a + infinitivo (近未來式)",
+      "meaning_zh": "ir a + 原形動詞表達即將要做的事，相當於近未來。",
+      "structure": "Sujeto + voy/vas/va/vamos/vais/van + a + infinitivo",
+      "examples": [
+        {
+          "es": "Voy a estudiar.",
+          "zh": "我要去讀書。"
+        },
+        {
+          "es": "Vamos a comer.",
+          "zh": "我們要去吃飯。"
+        },
+        {
+          "es": "Va a llover.",
+          "zh": "要下雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo tener (有 / 擁有)",
+      "meaning_zh": "tener 是不規則動詞，表示「有」或「擁有」。",
+      "structure": "tengo / tienes / tiene / tenemos / tenéis / tienen",
+      "examples": [
+        {
+          "es": "Tengo un coche.",
+          "zh": "我有一輛車。"
+        },
+        {
+          "es": "¿Tienes un bolígrafo?",
+          "zh": "你有筆嗎？"
+        },
+        {
+          "es": "Tienen dos hijos.",
+          "zh": "他們有兩個孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tener + edad (用 tener 表達年齡)",
+      "meaning_zh": "西語以 tener + 數字 + años 表示年齡。",
+      "structure": "Sujeto + tener + número + años",
+      "examples": [
+        {
+          "es": "Tengo veinte años.",
+          "zh": "我二十歲。"
+        },
+        {
+          "es": "Mi padre tiene cincuenta años.",
+          "zh": "我爸爸五十歲。"
+        },
+        {
+          "es": "¿Cuántos años tiene tu hermana?",
+          "zh": "你姊姊幾歲？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo ser para hora (ser 表時間)",
+      "meaning_zh": "用 ser 表示鐘點，一點用 es，其餘用 son。",
+      "structure": "Es la una. / Son las + número + (y/menos minutos)",
+      "examples": [
+        {
+          "es": "Es la una.",
+          "zh": "現在一點。"
+        },
+        {
+          "es": "Son las tres.",
+          "zh": "現在三點。"
+        },
+        {
+          "es": "Son las dos y media.",
+          "zh": "現在兩點半。"
+        }
+      ]
+    },
+    {
+      "pattern": "Días de la semana (一週七天)",
+      "meaning_zh": "西語的星期：lunes/martes/miércoles/jueves/viernes/sábado/domingo，皆為陽性。",
+      "structure": "el + día (el lunes, el martes...)",
+      "examples": [
+        {
+          "es": "Hoy es lunes.",
+          "zh": "今天是星期一。"
+        },
+        {
+          "es": "El sábado voy al parque.",
+          "zh": "我星期六去公園。"
+        },
+        {
+          "es": "Los domingos descanso.",
+          "zh": "我每個星期天休息。"
+        }
+      ]
+    },
+    {
+      "pattern": "Meses del año (月份)",
+      "meaning_zh": "月份：enero, febrero, marzo... 通常與 en 連用，不需冠詞。",
+      "structure": "en + mes",
+      "examples": [
+        {
+          "es": "Mi cumpleaños es en mayo.",
+          "zh": "我的生日在五月。"
+        },
+        {
+          "es": "En agosto hace calor.",
+          "zh": "八月很熱。"
+        },
+        {
+          "es": "Estamos en diciembre.",
+          "zh": "現在是十二月。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estaciones del año (四季)",
+      "meaning_zh": "四季：primavera, verano, otoño, invierno，前面常用 en。",
+      "structure": "en + primavera/verano/otoño/invierno",
+      "examples": [
+        {
+          "es": "En verano voy a la playa.",
+          "zh": "夏天我去海邊。"
+        },
+        {
+          "es": "Hace frío en invierno.",
+          "zh": "冬天很冷。"
+        },
+        {
+          "es": "Me gusta la primavera.",
+          "zh": "我喜歡春天。"
+        }
+      ]
+    },
+    {
+      "pattern": "Números cardinales 0-30 (基數 0-30)",
+      "meaning_zh": "0-30 的基數：cero, uno, dos, tres...通常 16-29 寫為一個字。",
+      "structure": "número + sustantivo",
+      "examples": [
+        {
+          "es": "Tengo dieciséis años.",
+          "zh": "我十六歲。"
+        },
+        {
+          "es": "Hay veinte estudiantes.",
+          "zh": "有二十位學生。"
+        },
+        {
+          "es": "Veintinueve euros.",
+          "zh": "二十九歐元。"
+        }
+      ]
+    },
+    {
+      "pattern": "Concordancia adjetivo-sustantivo (形容詞與名詞一致)",
+      "meaning_zh": "形容詞必須與名詞的陰陽性和單複數一致。",
+      "structure": "sustantivo + adjetivo (concordancia en género y número)",
+      "examples": [
+        {
+          "es": "Un coche rojo.",
+          "zh": "一輛紅色的車。"
+        },
+        {
+          "es": "Una casa bonita.",
+          "zh": "一間漂亮的房子。"
+        },
+        {
+          "es": "Los libros nuevos.",
+          "zh": "新書（複數）。"
+        }
+      ]
+    },
+    {
+      "pattern": "Colores básicos (基本顏色)",
+      "meaning_zh": "顏色形容詞與名詞性、數一致；以 -e/-z 結尾者陰陽性同形。",
+      "structure": "sustantivo + color (rojo/roja, azul, verde...)",
+      "examples": [
+        {
+          "es": "La camisa blanca.",
+          "zh": "白襯衫。"
+        },
+        {
+          "es": "Los zapatos negros.",
+          "zh": "黑鞋子。"
+        },
+        {
+          "es": "Un cielo azul.",
+          "zh": "藍色的天空。"
+        }
+      ]
+    },
+    {
+      "pattern": "Muy vs Mucho (很 / 很多)",
+      "meaning_zh": "muy 修飾形容詞或副詞，mucho 修飾名詞或動詞且需與名詞性數一致。",
+      "structure": "muy + adjetivo/adverbio ; mucho/a/os/as + sustantivo",
+      "examples": [
+        {
+          "es": "Estoy muy cansado.",
+          "zh": "我很累。"
+        },
+        {
+          "es": "Tengo mucho trabajo.",
+          "zh": "我有很多工作。"
+        },
+        {
+          "es": "Hay muchas personas.",
+          "zh": "有很多人。"
+        }
+      ]
+    },
+    {
+      "pattern": "También vs Tampoco (也 / 也不)",
+      "meaning_zh": "también 用於肯定的「也」；tampoco 用於否定的「也不」。",
+      "structure": "Frase + también / tampoco",
+      "examples": [
+        {
+          "es": "Yo también soy estudiante.",
+          "zh": "我也是學生。"
+        },
+        {
+          "es": "Yo tampoco hablo francés.",
+          "zh": "我也不說法語。"
+        },
+        {
+          "es": "A mí también me gusta.",
+          "zh": "我也喜歡。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios de frecuencia (頻率副詞)",
+      "meaning_zh": "siempre, normalmente, a veces, casi nunca, nunca 等表頻率，通常放動詞前。",
+      "structure": "Sujeto + (siempre/a veces/nunca) + verbo",
+      "examples": [
+        {
+          "es": "Siempre desayuno café.",
+          "zh": "我總是喝咖啡當早餐。"
+        },
+        {
+          "es": "A veces voy al cine.",
+          "zh": "我有時去看電影。"
+        },
+        {
+          "es": "Nunca como carne.",
+          "zh": "我從不吃肉。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo querer + sustantivo / infinitivo (想要)",
+      "meaning_zh": "querer 表「想要」，後接名詞或原形動詞。",
+      "structure": "quiero/quieres/quiere/queremos/queréis/quieren + sustantivo/infinitivo",
+      "examples": [
+        {
+          "es": "Quiero agua.",
+          "zh": "我要水。"
+        },
+        {
+          "es": "¿Quieres bailar?",
+          "zh": "你想跳舞嗎？"
+        },
+        {
+          "es": "Queremos viajar.",
+          "zh": "我們想旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo poder + infinitivo (能 / 可以)",
+      "meaning_zh": "poder 表「能、可以」，後接原形動詞。",
+      "structure": "puedo/puedes/puede/podemos/podéis/pueden + infinitivo",
+      "examples": [
+        {
+          "es": "Puedo nadar.",
+          "zh": "我會游泳。"
+        },
+        {
+          "es": "¿Puedes ayudarme?",
+          "zh": "你能幫我嗎？"
+        },
+        {
+          "es": "No podemos venir.",
+          "zh": "我們不能來。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo saber + infinitivo (知道如何)",
+      "meaning_zh": "saber 表「知道」或「會做某事」，後接原形動詞時表「會」。",
+      "structure": "sé/sabes/sabe/sabemos/sabéis/saben + infinitivo/que...",
+      "examples": [
+        {
+          "es": "Sé hablar inglés.",
+          "zh": "我會說英語。"
+        },
+        {
+          "es": "¿Sabes dónde está?",
+          "zh": "你知道它在哪裡嗎？"
+        },
+        {
+          "es": "No sé nadar.",
+          "zh": "我不會游泳。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo venir (來)",
+      "meaning_zh": "venir 是不規則動詞，表「來」。",
+      "structure": "vengo / vienes / viene / venimos / venís / vienen",
+      "examples": [
+        {
+          "es": "Vengo de Taiwán.",
+          "zh": "我來自台灣。"
+        },
+        {
+          "es": "¿Vienes a la fiesta?",
+          "zh": "你來派對嗎？"
+        },
+        {
+          "es": "Vienen mañana.",
+          "zh": "他們明天來。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo decir (說)",
+      "meaning_zh": "decir 是不規則動詞，意思為「說」。",
+      "structure": "digo / dices / dice / decimos / decís / dicen",
+      "examples": [
+        {
+          "es": "Digo la verdad.",
+          "zh": "我說實話。"
+        },
+        {
+          "es": "¿Qué dices?",
+          "zh": "你說什麼？"
+        },
+        {
+          "es": "Dicen que es difícil.",
+          "zh": "他們說很難。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo ver (看)",
+      "meaning_zh": "ver 是不規則動詞，表「看見」，第一人稱單數為 veo。",
+      "structure": "veo / ves / ve / vemos / veis / ven",
+      "examples": [
+        {
+          "es": "Veo la televisión.",
+          "zh": "我看電視。"
+        },
+        {
+          "es": "¿Ves la luna?",
+          "zh": "你看見月亮嗎？"
+        },
+        {
+          "es": "Vemos una película.",
+          "zh": "我們看一部電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo dar (給)",
+      "meaning_zh": "dar 表「給」，第一人稱單數為 doy。",
+      "structure": "doy / das / da / damos / dais / dan",
+      "examples": [
+        {
+          "es": "Te doy mi número.",
+          "zh": "我給你我的號碼。"
+        },
+        {
+          "es": "Me da el libro.",
+          "zh": "他給我那本書。"
+        },
+        {
+          "es": "Damos un regalo.",
+          "zh": "我們送一份禮物。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo salir (出去 / 離開)",
+      "meaning_zh": "salir 表「出去」或「離開」，第一人稱單數為 salgo。",
+      "structure": "salgo / sales / sale / salimos / salís / salen",
+      "examples": [
+        {
+          "es": "Salgo de casa a las ocho.",
+          "zh": "我八點出門。"
+        },
+        {
+          "es": "¿Sales esta noche?",
+          "zh": "你今晚出去嗎？"
+        },
+        {
+          "es": "Salimos con amigos.",
+          "zh": "我們和朋友出去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo poner (放)",
+      "meaning_zh": "poner 表「放」，第一人稱單數為 pongo。",
+      "structure": "pongo / pones / pone / ponemos / ponéis / ponen",
+      "examples": [
+        {
+          "es": "Pongo el libro en la mesa.",
+          "zh": "我把書放在桌上。"
+        },
+        {
+          "es": "¿Dónde pones las llaves?",
+          "zh": "你把鑰匙放哪裡？"
+        },
+        {
+          "es": "Ponen música.",
+          "zh": "他們放音樂。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo conocer (認識)",
+      "meaning_zh": "conocer 表「認識某人或某地」，第一人稱單數為 conozco。",
+      "structure": "conozco / conoces / conoce / conocemos / conocéis / conocen",
+      "examples": [
+        {
+          "es": "Conozco a tu hermano.",
+          "zh": "我認識你的哥哥。"
+        },
+        {
+          "es": "¿Conoces España?",
+          "zh": "你熟悉西班牙嗎？"
+        },
+        {
+          "es": "No conocemos a nadie aquí.",
+          "zh": "我們在這裡誰都不認識。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con cambio e→ie: querer, pensar, empezar (e→ie 變化動詞)",
+      "meaning_zh": "某些動詞在重音音節 e 變 ie，但 nosotros/vosotros 形式保持原樣。",
+      "structure": "Stem-changing e→ie (1,2,3 sg + 3 pl)",
+      "examples": [
+        {
+          "es": "Pienso en ti.",
+          "zh": "我想著你。"
+        },
+        {
+          "es": "Empiezo a trabajar.",
+          "zh": "我開始工作。"
+        },
+        {
+          "es": "Cierran la tienda.",
+          "zh": "他們關店。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con cambio o→ue: poder, dormir, volver (o→ue 變化動詞)",
+      "meaning_zh": "某些動詞在重音音節 o 變 ue，但 nosotros/vosotros 形式保持原樣。",
+      "structure": "Stem-changing o→ue (1,2,3 sg + 3 pl)",
+      "examples": [
+        {
+          "es": "Duermo ocho horas.",
+          "zh": "我睡八小時。"
+        },
+        {
+          "es": "Vuelvo a casa.",
+          "zh": "我回家。"
+        },
+        {
+          "es": "Cuesta diez euros.",
+          "zh": "要十歐元。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbos con cambio e→i: pedir, repetir, servir (e→i 變化動詞)",
+      "meaning_zh": "-ir 動詞，重音音節 e 變 i，nosotros/vosotros 例外。",
+      "structure": "Stem-changing e→i (1,2,3 sg + 3 pl)",
+      "examples": [
+        {
+          "es": "Pido un café.",
+          "zh": "我點一杯咖啡。"
+        },
+        {
+          "es": "Repite la palabra.",
+          "zh": "他/她重複那個字。"
+        },
+        {
+          "es": "Sirven la comida.",
+          "zh": "他們上菜。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estar + gerundio (現在進行式)",
+      "meaning_zh": "estar + 動名詞（-ando/-iendo）表示正在進行的動作。",
+      "structure": "estar + verbo-ando/iendo",
+      "examples": [
+        {
+          "es": "Estoy comiendo.",
+          "zh": "我正在吃飯。"
+        },
+        {
+          "es": "Estamos estudiando español.",
+          "zh": "我們正在學西班牙語。"
+        },
+        {
+          "es": "Ella está trabajando.",
+          "zh": "她正在工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición en (在 / 用)",
+      "meaning_zh": "en 可表「在...裡/上」或「用...方式」，是常用基本介詞。",
+      "structure": "en + lugar / medio",
+      "examples": [
+        {
+          "es": "Vivo en Taipéi.",
+          "zh": "我住在台北。"
+        },
+        {
+          "es": "Voy en autobús.",
+          "zh": "我搭公車。"
+        },
+        {
+          "es": "Está en la mesa.",
+          "zh": "它在桌上。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición de (的 / 來自)",
+      "meaning_zh": "de 表「的」、「來自」或材質。",
+      "structure": "sustantivo + de + sustantivo",
+      "examples": [
+        {
+          "es": "El libro de María.",
+          "zh": "瑪麗亞的書。"
+        },
+        {
+          "es": "Soy de Taiwán.",
+          "zh": "我來自台灣。"
+        },
+        {
+          "es": "Una mesa de madera.",
+          "zh": "一張木製的桌子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición a (到 / 給)",
+      "meaning_zh": "a 表示方向、時間或人稱直接受詞前的標記。",
+      "structure": "a + lugar / hora / persona",
+      "examples": [
+        {
+          "es": "Voy a Madrid.",
+          "zh": "我去馬德里。"
+        },
+        {
+          "es": "A las cinco.",
+          "zh": "五點。"
+        },
+        {
+          "es": "Veo a Juan.",
+          "zh": "我看見胡安。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición con (和 / 用)",
+      "meaning_zh": "con 表「和...一起」或「用...工具」。",
+      "structure": "con + persona/instrumento",
+      "examples": [
+        {
+          "es": "Voy con mis amigos.",
+          "zh": "我和朋友們一起去。"
+        },
+        {
+          "es": "Escribo con un bolígrafo.",
+          "zh": "我用筆寫字。"
+        },
+        {
+          "es": "Hablo con mi madre.",
+          "zh": "我和媽媽說話。"
+        }
+      ]
+    },
+    {
+      "pattern": "Para vs Por 基礎 (給 / 為了 / 因為)",
+      "meaning_zh": "para 表目的或對象；por 表原因、交換或穿越。",
+      "structure": "para + objetivo / persona ; por + causa",
+      "examples": [
+        {
+          "es": "Esto es para ti.",
+          "zh": "這是給你的。"
+        },
+        {
+          "es": "Estudio para aprender.",
+          "zh": "我為了學習而讀書。"
+        },
+        {
+          "es": "Gracias por tu ayuda.",
+          "zh": "謝謝你的幫忙。"
+        }
+      ]
+    },
+    {
+      "pattern": "Conjunciones y / o / pero (基礎連接詞)",
+      "meaning_zh": "y 表「和」，o 表「或」，pero 表「但是」，是 A1 最基本連接詞。",
+      "structure": "frase + y/o/pero + frase",
+      "examples": [
+        {
+          "es": "Tengo un perro y un gato.",
+          "zh": "我有一隻狗和一隻貓。"
+        },
+        {
+          "es": "¿Café o té?",
+          "zh": "咖啡還是茶？"
+        },
+        {
+          "es": "Hablo español, pero no inglés.",
+          "zh": "我說西班牙語，但不說英語。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivos de personalidad (個性形容詞)",
+      "meaning_zh": "形容人個性常用 ser，例如 simpático, antipático, alegre。",
+      "structure": "Sujeto + ser + adjetivo de personalidad",
+      "examples": [
+        {
+          "es": "Mi hermano es simpático.",
+          "zh": "我哥哥很親切。"
+        },
+        {
+          "es": "Ella es muy alegre.",
+          "zh": "她很開朗。"
+        },
+        {
+          "es": "Son inteligentes.",
+          "zh": "他們很聰明。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivos físicos (外表形容詞)",
+      "meaning_zh": "描述外表用 ser + adjetivo，如 alto, bajo, guapo。",
+      "structure": "Sujeto + ser + alto/bajo/guapo/feo/delgado/gordo",
+      "examples": [
+        {
+          "es": "Mi padre es alto.",
+          "zh": "我爸爸很高。"
+        },
+        {
+          "es": "Es delgada y guapa.",
+          "zh": "她又瘦又漂亮。"
+        },
+        {
+          "es": "Somos bajos.",
+          "zh": "我們個子矮。"
+        }
+      ]
+    },
+    {
+      "pattern": "La familia (家庭詞彙)",
+      "meaning_zh": "家庭成員：padre/madre/hermano/hermana/abuelo/abuela/hijo/hija。",
+      "structure": "mi/tu/su + familiar",
+      "examples": [
+        {
+          "es": "Mi madre es profesora.",
+          "zh": "我媽媽是老師。"
+        },
+        {
+          "es": "Tengo dos hermanos.",
+          "zh": "我有兩個兄弟。"
+        },
+        {
+          "es": "Mis abuelos viven en el campo.",
+          "zh": "我祖父母住在鄉下。"
+        }
+      ]
+    },
+    {
+      "pattern": "Expresiones con hacer: tiempo atmosférico (hacer 表天氣)",
+      "meaning_zh": "天氣常用 hace + 名詞，如 hace frío, hace calor, hace sol。",
+      "structure": "Hace + frío/calor/sol/viento/buen tiempo",
+      "examples": [
+        {
+          "es": "Hoy hace frío.",
+          "zh": "今天很冷。"
+        },
+        {
+          "es": "En verano hace mucho calor.",
+          "zh": "夏天很熱。"
+        },
+        {
+          "es": "Hace buen tiempo.",
+          "zh": "天氣很好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tiempo atmosférico con verbos (天氣動詞)",
+      "meaning_zh": "下雨、下雪、刮風等用單獨動詞：llueve, nieva, hay viento。",
+      "structure": "llueve / nieva / hay viento / está nublado",
+      "examples": [
+        {
+          "es": "Llueve mucho.",
+          "zh": "下很多雨。"
+        },
+        {
+          "es": "En invierno nieva.",
+          "zh": "冬天下雪。"
+        },
+        {
+          "es": "Está nublado.",
+          "zh": "天氣陰。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos: más / menos ... que (比較級)",
+      "meaning_zh": "用 más/menos + 形容詞 + que 表達「比…更/更少」。",
+      "structure": "X + ser + más/menos + adjetivo + que + Y",
+      "examples": [
+        {
+          "es": "Madrid es más grande que Toledo.",
+          "zh": "馬德里比托雷多大。"
+        },
+        {
+          "es": "Soy menos alto que él.",
+          "zh": "我比他矮。"
+        },
+        {
+          "es": "Este libro es más interesante.",
+          "zh": "這本書比較有趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tan ... como (同等比較)",
+      "meaning_zh": "用 tan + 形容詞 + como 表達「和...一樣」。",
+      "structure": "X + ser + tan + adjetivo + como + Y",
+      "examples": [
+        {
+          "es": "Soy tan alto como tú.",
+          "zh": "我和你一樣高。"
+        },
+        {
+          "es": "Es tan inteligente como ella.",
+          "zh": "他和她一樣聰明。"
+        },
+        {
+          "es": "Es tan caro como este.",
+          "zh": "和這個一樣貴。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comparativos irregulares: mejor, peor, mayor, menor (不規則比較級)",
+      "meaning_zh": "bueno → mejor, malo → peor, grande → mayor, pequeño → menor。",
+      "structure": "X + ser + mejor/peor/mayor/menor + que + Y",
+      "examples": [
+        {
+          "es": "Este coche es mejor que ese.",
+          "zh": "這輛車比那輛好。"
+        },
+        {
+          "es": "Mi hermano es mayor que yo.",
+          "zh": "我哥哥比我大。"
+        },
+        {
+          "es": "El tiempo es peor hoy.",
+          "zh": "今天天氣比較差。"
+        }
+      ]
+    },
+    {
+      "pattern": "Superlativo: el/la más ... de (最高級)",
+      "meaning_zh": "用 el/la/los/las + más/menos + 形容詞 + de... 表「最…」。",
+      "structure": "el/la/los/las + más/menos + adj + de + grupo",
+      "examples": [
+        {
+          "es": "Es el más alto de la clase.",
+          "zh": "他是班上最高的。"
+        },
+        {
+          "es": "Es la más bonita de todas.",
+          "zh": "她是所有人中最漂亮的。"
+        },
+        {
+          "es": "Son los más rápidos.",
+          "zh": "他們是最快的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios bien / mal (好 / 不好)",
+      "meaning_zh": "bien/mal 是副詞修飾動詞，bueno/malo 是形容詞修飾名詞。",
+      "structure": "verbo + bien/mal",
+      "examples": [
+        {
+          "es": "Hablo español bien.",
+          "zh": "我西語說得好。"
+        },
+        {
+          "es": "Canto mal.",
+          "zh": "我唱得不好。"
+        },
+        {
+          "es": "Estoy bien, gracias.",
+          "zh": "我很好，謝謝。"
+        }
+      ]
+    },
+    {
+      "pattern": "Necesitar + sustantivo / infinitivo (需要)",
+      "meaning_zh": "necesitar 表「需要」，後接名詞或原形動詞。",
+      "structure": "necesito/necesitas... + sustantivo/infinitivo",
+      "examples": [
+        {
+          "es": "Necesito ayuda.",
+          "zh": "我需要幫助。"
+        },
+        {
+          "es": "Necesitamos descansar.",
+          "zh": "我們需要休息。"
+        },
+        {
+          "es": "¿Necesitas dinero?",
+          "zh": "你需要錢嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Esperar (等 / 希望)",
+      "meaning_zh": "esperar 可表「等待」或「希望」，是規則 -ar 動詞。",
+      "structure": "espero/esperas... + sustantivo/que + frase",
+      "examples": [
+        {
+          "es": "Espero el autobús.",
+          "zh": "我等公車。"
+        },
+        {
+          "es": "Espero verte pronto.",
+          "zh": "我希望很快見到你。"
+        },
+        {
+          "es": "Esperamos buenas noticias.",
+          "zh": "我們期待好消息。"
+        }
+      ]
+    },
+    {
+      "pattern": "Acabar de + infinitivo (剛剛做完)",
+      "meaning_zh": "acabar de + 原形動詞表示「剛剛做了某事」。",
+      "structure": "acabar + de + infinitivo",
+      "examples": [
+        {
+          "es": "Acabo de comer.",
+          "zh": "我剛吃完。"
+        },
+        {
+          "es": "Acaba de llegar.",
+          "zh": "他/她剛到。"
+        },
+        {
+          "es": "Acabamos de hablar.",
+          "zh": "我們剛剛說完話。"
+        }
+      ]
+    },
+    {
+      "pattern": "Antes de / Después de + infinitivo (在…之前/之後)",
+      "meaning_zh": "antes de / después de + 原形動詞表時間順序。",
+      "structure": "antes de / después de + infinitivo",
+      "examples": [
+        {
+          "es": "Antes de dormir, leo un libro.",
+          "zh": "睡前我讀書。"
+        },
+        {
+          "es": "Después de comer, descanso.",
+          "zh": "吃完飯後我休息。"
+        },
+        {
+          "es": "Antes de salir, me ducho.",
+          "zh": "出門前我淋浴。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios de lugar: aquí / ahí / allí (這裡/那裡/那裡更遠)",
+      "meaning_zh": "aquí 近、ahí 中、allí 遠，對應 este/ese/aquel。",
+      "structure": "verbo + aquí / ahí / allí",
+      "examples": [
+        {
+          "es": "Vivo aquí.",
+          "zh": "我住在這裡。"
+        },
+        {
+          "es": "Está ahí.",
+          "zh": "它在那裡。"
+        },
+        {
+          "es": "Allí hay un parque.",
+          "zh": "那裡有一個公園。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo trabajar y profesiones (trabajar 與職業)",
+      "meaning_zh": "trabajar 是規則 -ar 動詞，常與 de + 職業、en + 地點連用。",
+      "structure": "Sujeto + trabajar + de + profesión / en + lugar",
+      "examples": [
+        {
+          "es": "Trabajo de profesor.",
+          "zh": "我做老師。"
+        },
+        {
+          "es": "Trabaja en un hospital.",
+          "zh": "他在醫院工作。"
+        },
+        {
+          "es": "Trabajamos mucho.",
+          "zh": "我們工作很多。"
+        }
+      ]
+    },
+    {
+      "pattern": "Comer y beber (吃與喝)",
+      "meaning_zh": "comer 是規則 -er 動詞，beber 是規則 -er 動詞，表「吃」與「喝」。",
+      "structure": "comer/beber + sustantivo",
+      "examples": [
+        {
+          "es": "Como pan.",
+          "zh": "我吃麵包。"
+        },
+        {
+          "es": "Bebo agua.",
+          "zh": "我喝水。"
+        },
+        {
+          "es": "Comemos en casa.",
+          "zh": "我們在家吃飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Querer a alguien (愛某人)",
+      "meaning_zh": "querer + a + 人物表示「愛某人」，需使用人稱 a。",
+      "structure": "querer + a + persona",
+      "examples": [
+        {
+          "es": "Quiero a mi familia.",
+          "zh": "我愛我的家人。"
+        },
+        {
+          "es": "Te quiero mucho.",
+          "zh": "我很愛你。"
+        },
+        {
+          "es": "Quiere a sus hijos.",
+          "zh": "他/她愛他/她的孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "A personal (人稱 a)",
+      "meaning_zh": "當直接受詞是特定人物時，前面要加介詞 a，稱為「a personal」。",
+      "structure": "verbo + a + persona específica",
+      "examples": [
+        {
+          "es": "Veo a Juan.",
+          "zh": "我看見胡安。"
+        },
+        {
+          "es": "Conozco a tu madre.",
+          "zh": "我認識你媽媽。"
+        },
+        {
+          "es": "Llamo a mi amigo.",
+          "zh": "我打電話給我朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hace + tiempo + que (做某事多久了)",
+      "meaning_zh": "Hace + 時間 + que + 動詞 表達持續多久。",
+      "structure": "Hace + tiempo + que + verbo en presente",
+      "examples": [
+        {
+          "es": "Hace dos años que estudio español.",
+          "zh": "我學西班牙語兩年了。"
+        },
+        {
+          "es": "Hace una semana que estoy aquí.",
+          "zh": "我來這裡一個禮拜了。"
+        },
+        {
+          "es": "Hace tiempo que no te veo.",
+          "zh": "好久沒見到你了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Desde / Hasta (從...到...)",
+      "meaning_zh": "desde 表「從」，hasta 表「直到」，可用於時間或地點。",
+      "structure": "desde + punto inicial / hasta + punto final",
+      "examples": [
+        {
+          "es": "Trabajo desde las nueve.",
+          "zh": "我從九點開始工作。"
+        },
+        {
+          "es": "Hasta mañana.",
+          "zh": "明天見。"
+        },
+        {
+          "es": "Desde Madrid hasta Barcelona.",
+          "zh": "從馬德里到巴塞隆納。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sobre / Debajo de / Encima de (在上面 / 下面)",
+      "meaning_zh": "位置介詞片語：sobre/encima de 表上方，debajo de 表下方。",
+      "structure": "estar + sobre/encima de/debajo de + sustantivo",
+      "examples": [
+        {
+          "es": "El libro está sobre la mesa.",
+          "zh": "書在桌上。"
+        },
+        {
+          "es": "El gato está debajo de la cama.",
+          "zh": "貓在床下。"
+        },
+        {
+          "es": "Encima del armario hay una caja.",
+          "zh": "衣櫃上面有一個盒子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Delante de / Detrás de (在前面 / 在後面)",
+      "meaning_zh": "delante de 表「在前面」，detrás de 表「在後面」。",
+      "structure": "estar + delante de / detrás de + sustantivo",
+      "examples": [
+        {
+          "es": "Está delante de la casa.",
+          "zh": "它在房子前面。"
+        },
+        {
+          "es": "Detrás de la tienda hay un parque.",
+          "zh": "商店後面有一個公園。"
+        },
+        {
+          "es": "Estoy delante de ti.",
+          "zh": "我在你面前。"
+        }
+      ]
+    },
+    {
+      "pattern": "Al lado de / Cerca de / Lejos de (旁邊 / 近 / 遠)",
+      "meaning_zh": "位置片語：al lado de 旁邊、cerca de 靠近、lejos de 遠離。",
+      "structure": "estar + al lado de / cerca de / lejos de + sustantivo",
+      "examples": [
+        {
+          "es": "El banco está al lado del hotel.",
+          "zh": "銀行在飯店旁邊。"
+        },
+        {
+          "es": "Vivo cerca del parque.",
+          "zh": "我住在公園附近。"
+        },
+        {
+          "es": "La escuela está lejos de aquí.",
+          "zh": "學校離這裡很遠。"
+        }
+      ]
+    },
+    {
+      "pattern": "Entre (在...之間)",
+      "meaning_zh": "entre 表示「在…之間」，可用於空間或時間。",
+      "structure": "entre + A + y + B",
+      "examples": [
+        {
+          "es": "Está entre la mesa y la silla.",
+          "zh": "它在桌子和椅子之間。"
+        },
+        {
+          "es": "Entre tú y yo.",
+          "zh": "在你我之間。"
+        },
+        {
+          "es": "Llego entre las tres y las cuatro.",
+          "zh": "我三點到四點之間到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombres posesivos: mío, tuyo, suyo (所有代名詞)",
+      "meaning_zh": "所有代名詞用以強調或單獨使用，需配合性與數。",
+      "structure": "el/la/los/las + mío/tuyo/suyo/nuestro/vuestro/suyo",
+      "examples": [
+        {
+          "es": "Este libro es mío.",
+          "zh": "這本書是我的。"
+        },
+        {
+          "es": "La casa es tuya.",
+          "zh": "這間房子是你的。"
+        },
+        {
+          "es": "Los zapatos son suyos.",
+          "zh": "那些鞋子是他的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Posesivos largos: nuestro / vuestro (我們的 / 你們的)",
+      "meaning_zh": "nuestro/vuestro 永遠是長形，須與名詞性數一致。",
+      "structure": "nuestro/a/os/as + sustantivo ; vuestro/a/os/as + sustantivo",
+      "examples": [
+        {
+          "es": "Nuestra casa es grande.",
+          "zh": "我們的房子很大。"
+        },
+        {
+          "es": "Vuestros amigos son simpáticos.",
+          "zh": "你們的朋友很親切。"
+        },
+        {
+          "es": "Nuestros profesores son buenos.",
+          "zh": "我們的老師很好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Artículo neutro lo (中性冠詞 lo)",
+      "meaning_zh": "lo + 形容詞表「…的東西」，是中性概念。",
+      "structure": "lo + adjetivo masculino singular",
+      "examples": [
+        {
+          "es": "Lo importante es estudiar.",
+          "zh": "重要的是讀書。"
+        },
+        {
+          "es": "Lo bueno es que estoy aquí.",
+          "zh": "好的是我在這裡。"
+        },
+        {
+          "es": "No entiendo lo difícil.",
+          "zh": "我不懂困難的部分。"
+        }
+      ]
+    },
+    {
+      "pattern": "Vocabulario de lugares en la ciudad (城市地點詞彙)",
+      "meaning_zh": "常見地點：parque, banco, hospital, supermercado, restaurante。",
+      "structure": "ir/estar + en/al + lugar",
+      "examples": [
+        {
+          "es": "Voy al supermercado.",
+          "zh": "我去超市。"
+        },
+        {
+          "es": "Estoy en el banco.",
+          "zh": "我在銀行。"
+        },
+        {
+          "es": "El hospital está cerca.",
+          "zh": "醫院很近。"
+        }
+      ]
+    },
+    {
+      "pattern": "Vocabulario de la casa (居家詞彙)",
+      "meaning_zh": "房間名稱：cocina, salón, dormitorio, baño 等。",
+      "structure": "el/la + habitación de la casa",
+      "examples": [
+        {
+          "es": "La cocina es pequeña.",
+          "zh": "廚房很小。"
+        },
+        {
+          "es": "Mi dormitorio es azul.",
+          "zh": "我的臥室是藍色的。"
+        },
+        {
+          "es": "El baño está al fondo.",
+          "zh": "浴室在最裡面。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pedir en un restaurante (餐廳點餐)",
+      "meaning_zh": "點餐常用句型：Quiero / Para mí / Me trae...。",
+      "structure": "Quiero/Para mí/Me trae + comida/bebida",
+      "examples": [
+        {
+          "es": "Quiero un café, por favor.",
+          "zh": "請給我一杯咖啡。"
+        },
+        {
+          "es": "Para mí, una pizza.",
+          "zh": "我要一份披薩。"
+        },
+        {
+          "es": "¿Me trae la cuenta?",
+          "zh": "可以給我帳單嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Saludos y despedidas (問候與道別)",
+      "meaning_zh": "常用問候：Hola, Buenos días, Adiós, Hasta luego, Hasta mañana。",
+      "structure": "Hola / Buenos días/tardes/noches / Adiós / Hasta...",
+      "examples": [
+        {
+          "es": "Buenos días, ¿cómo estás?",
+          "zh": "早安，你好嗎？"
+        },
+        {
+          "es": "Adiós, hasta mañana.",
+          "zh": "再見，明天見。"
+        },
+        {
+          "es": "Hasta luego.",
+          "zh": "待會見。"
+        }
+      ]
+    },
+    {
+      "pattern": "Por favor / Gracias / De nada (請 / 謝謝 / 不客氣)",
+      "meaning_zh": "基本禮貌用語：por favor (請)、gracias (謝謝)、de nada (不客氣)。",
+      "structure": "Petición + por favor / Gracias / De nada",
+      "examples": [
+        {
+          "es": "Un café, por favor.",
+          "zh": "請給我一杯咖啡。"
+        },
+        {
+          "es": "Muchas gracias.",
+          "zh": "非常感謝。"
+        },
+        {
+          "es": "De nada.",
+          "zh": "不客氣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Perdón / Lo siento / Disculpe (抱歉)",
+      "meaning_zh": "perdón、lo siento、disculpe 都可表「抱歉/不好意思」，使用情境略有不同。",
+      "structure": "Perdón / Lo siento / Disculpe + frase",
+      "examples": [
+        {
+          "es": "Perdón, no te oigo.",
+          "zh": "抱歉，我聽不見你。"
+        },
+        {
+          "es": "Lo siento mucho.",
+          "zh": "我非常抱歉。"
+        },
+        {
+          "es": "Disculpe, ¿dónde está el baño?",
+          "zh": "不好意思，洗手間在哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo escuchar / oír (聽 / 聽見)",
+      "meaning_zh": "escuchar 指有意識地聽，oír 是聽見的動作，都常用於 A1。",
+      "structure": "escuchar/oír + sustantivo",
+      "examples": [
+        {
+          "es": "Escucho música.",
+          "zh": "我聽音樂。"
+        },
+        {
+          "es": "¿Me oyes?",
+          "zh": "你聽得到我嗎？"
+        },
+        {
+          "es": "Oigo un ruido.",
+          "zh": "我聽到一個聲音。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo leer / escribir (讀 / 寫)",
+      "meaning_zh": "leer 與 escribir 是規則 -er/-ir 動詞，學習語言常用。",
+      "structure": "leer/escribir + sustantivo",
+      "examples": [
+        {
+          "es": "Leo un libro.",
+          "zh": "我讀一本書。"
+        },
+        {
+          "es": "Escribo un correo.",
+          "zh": "我寫一封信。"
+        },
+        {
+          "es": "Leemos en clase.",
+          "zh": "我們在課堂上閱讀。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo abrir / cerrar (開 / 關)",
+      "meaning_zh": "abrir 是規則 -ir 動詞，cerrar 為 e→ie 動詞。",
+      "structure": "abrir + sustantivo / cerrar (e→ie) + sustantivo",
+      "examples": [
+        {
+          "es": "Abro la puerta.",
+          "zh": "我開門。"
+        },
+        {
+          "es": "Cierra la ventana.",
+          "zh": "請關窗戶。"
+        },
+        {
+          "es": "Abren la tienda a las nueve.",
+          "zh": "他們九點開店。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios casi / sólo / también (副詞：幾乎/只/也)",
+      "meaning_zh": "casi 表「幾乎」、sólo 表「只」、también 表「也」。",
+      "structure": "casi / sólo / también + verbo/sustantivo",
+      "examples": [
+        {
+          "es": "Casi termino.",
+          "zh": "我快做完了。"
+        },
+        {
+          "es": "Sólo tengo cinco euros.",
+          "zh": "我只有五歐元。"
+        },
+        {
+          "es": "Yo también voy.",
+          "zh": "我也去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbio ya (已經)",
+      "meaning_zh": "ya 表示「已經」或加強語氣的「現在」。",
+      "structure": "ya + verbo",
+      "examples": [
+        {
+          "es": "Ya estoy aquí.",
+          "zh": "我已經到了。"
+        },
+        {
+          "es": "Ya comí.",
+          "zh": "我吃過了。"
+        },
+        {
+          "es": "Ya lo sé.",
+          "zh": "我已經知道了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbio todavía / aún (還沒 / 仍然)",
+      "meaning_zh": "todavía / aún 表「還、仍然」，否定句中為「還沒」。",
+      "structure": "(no) + todavía/aún + verbo",
+      "examples": [
+        {
+          "es": "Todavía estudio.",
+          "zh": "我還在讀書。"
+        },
+        {
+          "es": "No he terminado todavía.",
+          "zh": "我還沒做完。"
+        },
+        {
+          "es": "Aún es temprano.",
+          "zh": "還很早。"
+        }
+      ]
+    },
+    {
+      "pattern": "Vamos a + infinitivo (我們去做某事 / 邀請)",
+      "meaning_zh": "vamos a + 原形動詞可表示「我們去做…」的邀請或近未來。",
+      "structure": "Vamos a + infinitivo",
+      "examples": [
+        {
+          "es": "Vamos a comer.",
+          "zh": "我們去吃飯吧。"
+        },
+        {
+          "es": "Vamos a bailar.",
+          "zh": "我們去跳舞吧。"
+        },
+        {
+          "es": "Vamos a estudiar juntos.",
+          "zh": "我們一起讀書吧。"
+        }
+      ]
     }
   ],
   "da2": [

@@ -269,6 +269,606 @@
       "meaning_zh": "(名詞，陽性) 號碼；數字",
       "example_es": "¿Cuál es tu número de teléfono?",
       "example_zh": "你的電話號碼是幾號？"
+    },
+    {
+      "word": "buenas tardes",
+      "meaning_zh": "(感嘆) 午安；下午好的問候",
+      "example_es": "Buenas tardes, ¿cómo está usted hoy?",
+      "example_zh": "午安，您今天好嗎？"
+    },
+    {
+      "word": "perdón",
+      "meaning_zh": "(感嘆) 對不起；抱歉；請再說一次",
+      "example_es": "Perdón, no te he escuchado bien.",
+      "example_zh": "抱歉，我沒聽清楚你說的。"
+    },
+    {
+      "word": "vale",
+      "meaning_zh": "(感嘆) 好的；可以；表示同意",
+      "example_es": "Vale, nos vemos en el parque.",
+      "example_zh": "好的，我們公園見。"
+    },
+    {
+      "word": "hasta luego",
+      "meaning_zh": "(感嘆) 再見；待會見；回頭見",
+      "example_es": "Hasta luego, hablamos mañana por teléfono.",
+      "example_zh": "再見，我們明天電話聊。"
+    },
+    {
+      "word": "señor",
+      "meaning_zh": "(名) 先生；男士的敬稱",
+      "example_es": "El señor García vive aquí cerca.",
+      "example_zh": "賈西亞先生住在這附近。"
+    },
+    {
+      "word": "señora",
+      "meaning_zh": "(名) 女士；夫人；對女性的敬稱",
+      "example_es": "La señora López es mi vecina amable.",
+      "example_zh": "羅佩茲女士是我友善的鄰居。"
+    },
+    {
+      "word": "chico",
+      "meaning_zh": "(名) 男孩；男生；小伙子",
+      "example_es": "Ese chico es muy simpático y amable.",
+      "example_zh": "那個男孩非常友善又親切。"
+    },
+    {
+      "word": "chica",
+      "meaning_zh": "(名) 女孩；女生；姑娘",
+      "example_es": "La chica nueva habla español muy bien.",
+      "example_zh": "新來的女孩西班牙語說得很好。"
+    },
+    {
+      "word": "hermano",
+      "meaning_zh": "(名) 哥哥；弟弟；兄弟",
+      "example_es": "Mi hermano tiene diez años justos.",
+      "example_zh": "我哥哥剛好十歲。"
+    },
+    {
+      "word": "hermana",
+      "meaning_zh": "(名) 姐姐；妹妹；姊妹",
+      "example_es": "Mi hermana estudia medicina en Madrid.",
+      "example_zh": "我姐姐在馬德里讀醫學。"
+    },
+    {
+      "word": "hija",
+      "meaning_zh": "(名) 女兒；千金；女孩子",
+      "example_es": "Mi hija va al colegio cada mañana.",
+      "example_zh": "我女兒每天早上去上學。"
+    },
+    {
+      "word": "abuelo",
+      "meaning_zh": "(名) 祖父；外祖父；老人家",
+      "example_es": "Mi abuelo vive en un pueblo pequeño.",
+      "example_zh": "我祖父住在一個小村莊。"
+    },
+    {
+      "word": "abuela",
+      "meaning_zh": "(名) 祖母；外祖母；老奶奶",
+      "example_es": "Mi abuela cocina paella muy bien.",
+      "example_zh": "我祖母西班牙海鮮燉飯做得很好。"
+    },
+    {
+      "word": "tío",
+      "meaning_zh": "(名) 叔叔；伯伯；舅舅；姨丈",
+      "example_es": "Mi tío trabaja en un hospital grande.",
+      "example_zh": "我叔叔在一家大醫院工作。"
+    },
+    {
+      "word": "tía",
+      "meaning_zh": "(名) 阿姨；姑姑；舅媽；伯母",
+      "example_es": "Mi tía vive en Barcelona desde siempre.",
+      "example_zh": "我阿姨一直住在巴塞隆納。"
+    },
+    {
+      "word": "primo",
+      "meaning_zh": "(名) 堂兄弟；表兄弟；表親",
+      "example_es": "Mi primo es mayor que yo.",
+      "example_zh": "我堂哥比我大。"
+    },
+    {
+      "word": "esposo",
+      "meaning_zh": "(名) 丈夫；先生；老公",
+      "example_es": "Su esposo es médico en el pueblo.",
+      "example_zh": "她的丈夫是村裡的醫生。"
+    },
+    {
+      "word": "esposa",
+      "meaning_zh": "(名) 妻子；太太；老婆",
+      "example_es": "Mi esposa habla tres idiomas diferentes.",
+      "example_zh": "我妻子會說三種不同的語言。"
+    },
+    {
+      "word": "niño",
+      "meaning_zh": "(名) 小孩；男童；幼兒",
+      "example_es": "El niño juega contento en el jardín.",
+      "example_zh": "小男孩在花園裡開心地玩耍。"
+    },
+    {
+      "word": "niña",
+      "meaning_zh": "(名) 女童；小女孩；女孩子",
+      "example_es": "La niña tiene cinco años cumplidos.",
+      "example_zh": "這個小女孩剛滿五歲。"
+    },
+    {
+      "word": "café",
+      "meaning_zh": "(名) 咖啡；咖啡館",
+      "example_es": "Me gusta el café con leche caliente.",
+      "example_zh": "我喜歡熱的咖啡牛奶。"
+    },
+    {
+      "word": "té",
+      "meaning_zh": "(名) 茶；茶飲；茶會",
+      "example_es": "Por la mañana siempre bebo té verde.",
+      "example_zh": "我早上總是喝綠茶。"
+    },
+    {
+      "word": "zumo",
+      "meaning_zh": "(名) 果汁；蔬果汁",
+      "example_es": "Quiero un zumo de naranja, por favor.",
+      "example_zh": "請給我一杯柳橙汁。"
+    },
+    {
+      "word": "vino",
+      "meaning_zh": "(名) 葡萄酒；酒；紅白酒",
+      "example_es": "El vino tinto de España es famoso.",
+      "example_zh": "西班牙的紅酒很有名。"
+    },
+    {
+      "word": "cerveza",
+      "meaning_zh": "(名) 啤酒；啤酒飲品",
+      "example_es": "Pedimos dos cervezas frías para beber.",
+      "example_zh": "我們點了兩杯冰啤酒來喝。"
+    },
+    {
+      "word": "queso",
+      "meaning_zh": "(名) 起司；乳酪；芝士",
+      "example_es": "Compro queso fresco en el mercado.",
+      "example_zh": "我在市場買新鮮的起司。"
+    },
+    {
+      "word": "huevo",
+      "meaning_zh": "(名) 蛋；雞蛋；卵",
+      "example_es": "Desayuno un huevo y tostadas calientes.",
+      "example_zh": "我早餐吃一顆蛋和熱吐司。"
+    },
+    {
+      "word": "carne",
+      "meaning_zh": "(名) 肉；肉類；肌肉",
+      "example_es": "No como carne los viernes santos.",
+      "example_zh": "我聖週五不吃肉。"
+    },
+    {
+      "word": "pescado",
+      "meaning_zh": "(名) 魚；魚肉；魚類",
+      "example_es": "El pescado fresco es realmente delicioso.",
+      "example_zh": "新鮮的魚真的很好吃。"
+    },
+    {
+      "word": "pollo",
+      "meaning_zh": "(名) 雞；雞肉；小雞",
+      "example_es": "Hoy cocino pollo con arroz blanco.",
+      "example_zh": "今天我煮雞肉配白飯。"
+    },
+    {
+      "word": "arroz",
+      "meaning_zh": "(名) 米；米飯；稻米",
+      "example_es": "Comemos arroz casi todos los días.",
+      "example_zh": "我們幾乎每天都吃米飯。"
+    },
+    {
+      "word": "fruta",
+      "meaning_zh": "(名) 水果；果實；蔬果",
+      "example_es": "La fruta es muy buena para la salud.",
+      "example_zh": "水果對健康非常有益。"
+    },
+    {
+      "word": "naranja",
+      "meaning_zh": "(名) 柳橙；(形) 橘色的",
+      "example_es": "Esta naranja está muy dulce y jugosa.",
+      "example_zh": "這顆柳橙又甜又多汁。"
+    },
+    {
+      "word": "plátano",
+      "meaning_zh": "(名) 香蕉；芭蕉；香蕉果實",
+      "example_es": "Por la mañana como un plátano maduro.",
+      "example_zh": "我早上吃一根熟香蕉。"
+    },
+    {
+      "word": "verdura",
+      "meaning_zh": "(名) 蔬菜；青菜；綠色蔬菜",
+      "example_es": "Mi madre compra verdura fresca cada día.",
+      "example_zh": "我媽媽每天都買新鮮蔬菜。"
+    },
+    {
+      "word": "sopa",
+      "meaning_zh": "(名) 湯；湯品；湯食",
+      "example_es": "La sopa está muy caliente todavía.",
+      "example_zh": "這湯還很燙。"
+    },
+    {
+      "word": "azúcar",
+      "meaning_zh": "(名) 糖；砂糖；白糖",
+      "example_es": "¿Quieres azúcar en el café o no?",
+      "example_zh": "你的咖啡要不要加糖？"
+    },
+    {
+      "word": "sal",
+      "meaning_zh": "(名) 鹽；食鹽；鹽巴",
+      "example_es": "La sopa necesita un poco de sal.",
+      "example_zh": "這湯需要一點鹽。"
+    },
+    {
+      "word": "desayuno",
+      "meaning_zh": "(名) 早餐；早飯；早點",
+      "example_es": "El desayuno es a las ocho en punto.",
+      "example_zh": "早餐是準時八點。"
+    },
+    {
+      "word": "comida",
+      "meaning_zh": "(名) 食物；午餐；餐點",
+      "example_es": "La comida española es muy rica.",
+      "example_zh": "西班牙食物非常好吃。"
+    },
+    {
+      "word": "cena",
+      "meaning_zh": "(名) 晚餐；晚飯；晚膳",
+      "example_es": "La cena está lista sobre la mesa.",
+      "example_zh": "晚餐已經放在桌上了。"
+    },
+    {
+      "word": "tres",
+      "meaning_zh": "(數) 三；三個；數字三",
+      "example_es": "Tengo tres gatos pequeños en casa.",
+      "example_zh": "我家有三隻小貓。"
+    },
+    {
+      "word": "cuatro",
+      "meaning_zh": "(數) 四；四個；數字四",
+      "example_es": "Mi hija tiene cuatro años hoy.",
+      "example_zh": "我女兒今天四歲。"
+    },
+    {
+      "word": "cinco",
+      "meaning_zh": "(數) 五；五個；數字五",
+      "example_es": "Quiero cinco panes, por favor.",
+      "example_zh": "請給我五個麵包。"
+    },
+    {
+      "word": "seis",
+      "meaning_zh": "(數) 六；六個；數字六",
+      "example_es": "Son las seis de la tarde.",
+      "example_zh": "現在是下午六點。"
+    },
+    {
+      "word": "siete",
+      "meaning_zh": "(數) 七；七個；數字七",
+      "example_es": "La semana tiene siete días completos.",
+      "example_zh": "一週有完整的七天。"
+    },
+    {
+      "word": "ocho",
+      "meaning_zh": "(數) 八；八個；數字八",
+      "example_es": "Trabajo ocho horas cada día laborable.",
+      "example_zh": "我每個工作日上班八小時。"
+    },
+    {
+      "word": "nueve",
+      "meaning_zh": "(數) 九；九個；數字九",
+      "example_es": "Vivo en el piso número nueve.",
+      "example_zh": "我住在九號公寓。"
+    },
+    {
+      "word": "diez",
+      "meaning_zh": "(數) 十；十個；數字十",
+      "example_es": "Tengo diez euros en mi cartera.",
+      "example_zh": "我錢包裡有十歐元。"
+    },
+    {
+      "word": "veinte",
+      "meaning_zh": "(數) 二十；二十個",
+      "example_es": "Mi hermano mayor tiene veinte años.",
+      "example_zh": "我大哥二十歲。"
+    },
+    {
+      "word": "martes",
+      "meaning_zh": "(名) 星期二；禮拜二",
+      "example_es": "El martes tengo clase de inglés.",
+      "example_zh": "星期二我有英文課。"
+    },
+    {
+      "word": "miércoles",
+      "meaning_zh": "(名) 星期三；禮拜三",
+      "example_es": "El miércoles voy al médico.",
+      "example_zh": "星期三我要去看醫生。"
+    },
+    {
+      "word": "jueves",
+      "meaning_zh": "(名) 星期四；禮拜四",
+      "example_es": "Los jueves estudio español por internet.",
+      "example_zh": "每週四我在網路上學西班牙語。"
+    },
+    {
+      "word": "viernes",
+      "meaning_zh": "(名) 星期五；禮拜五",
+      "example_es": "El viernes salgo con mis amigos.",
+      "example_zh": "星期五我和朋友出去。"
+    },
+    {
+      "word": "sábado",
+      "meaning_zh": "(名) 星期六；禮拜六",
+      "example_es": "El sábado descanso tranquilo en casa.",
+      "example_zh": "星期六我在家好好休息。"
+    },
+    {
+      "word": "domingo",
+      "meaning_zh": "(名) 星期日；禮拜天",
+      "example_es": "El domingo comemos juntos en familia.",
+      "example_zh": "星期日我們全家一起吃飯。"
+    },
+    {
+      "word": "semana",
+      "meaning_zh": "(名) 星期；週；一週",
+      "example_es": "Esta semana tengo mucho trabajo.",
+      "example_zh": "這個禮拜我工作很多。"
+    },
+    {
+      "word": "mes",
+      "meaning_zh": "(名) 月；月份；一個月",
+      "example_es": "El próximo mes voy a España.",
+      "example_zh": "下個月我要去西班牙。"
+    },
+    {
+      "word": "año",
+      "meaning_zh": "(名) 年；歲；年份",
+      "example_es": "Estudio español desde hace un año.",
+      "example_zh": "我學西班牙語已經一年了。"
+    },
+    {
+      "word": "hora",
+      "meaning_zh": "(名) 小時；鐘點；時刻",
+      "example_es": "¿Qué hora es ahora mismo?",
+      "example_zh": "現在到底幾點？"
+    },
+    {
+      "word": "minuto",
+      "meaning_zh": "(名) 分鐘；片刻；瞬間",
+      "example_es": "Espérame un minuto, por favor.",
+      "example_zh": "請等我一分鐘。"
+    },
+    {
+      "word": "mañana",
+      "meaning_zh": "(名) 早晨；(副) 明天",
+      "example_es": "Mañana voy a la playa con amigos.",
+      "example_zh": "明天我要和朋友去海邊。"
+    },
+    {
+      "word": "tarde",
+      "meaning_zh": "(名) 下午；(副) 晚；遲",
+      "example_es": "Por la tarde estudio en casa.",
+      "example_zh": "下午我在家讀書。"
+    },
+    {
+      "word": "noche",
+      "meaning_zh": "(名) 夜晚；晚上；夜",
+      "example_es": "Por la noche leo un libro.",
+      "example_zh": "晚上我看書。"
+    },
+    {
+      "word": "hoy",
+      "meaning_zh": "(副) 今天；現今；如今",
+      "example_es": "Hoy hace mucho calor en la ciudad.",
+      "example_zh": "今天城裡非常熱。"
+    },
+    {
+      "word": "ayer",
+      "meaning_zh": "(副) 昨天；昨日；昨晚",
+      "example_es": "Ayer llovió toda la tarde sin parar.",
+      "example_zh": "昨天下午一直下雨沒停過。"
+    },
+    {
+      "word": "enero",
+      "meaning_zh": "(名) 一月；元月；正月",
+      "example_es": "En enero hace mucho frío fuera.",
+      "example_zh": "一月外面很冷。"
+    },
+    {
+      "word": "febrero",
+      "meaning_zh": "(名) 二月；二月份",
+      "example_es": "Mi cumpleaños es en febrero.",
+      "example_zh": "我的生日在二月。"
+    },
+    {
+      "word": "marzo",
+      "meaning_zh": "(名) 三月；三月份",
+      "example_es": "En marzo empieza la primavera bonita.",
+      "example_zh": "三月美麗的春天開始了。"
+    },
+    {
+      "word": "verano",
+      "meaning_zh": "(名) 夏天；夏季；炎夏",
+      "example_es": "En verano vamos siempre a la playa.",
+      "example_zh": "夏天我們總是去海邊。"
+    },
+    {
+      "word": "invierno",
+      "meaning_zh": "(名) 冬天；冬季；寒冬",
+      "example_es": "En invierno nieva mucho en la montaña.",
+      "example_zh": "冬天山上下很多雪。"
+    },
+    {
+      "word": "frío",
+      "meaning_zh": "(形) 冷的；(名) 寒冷；冰冷",
+      "example_es": "Hace mucho frío esta mañana temprano.",
+      "example_zh": "今天大清早非常冷。"
+    },
+    {
+      "word": "calor",
+      "meaning_zh": "(名) 熱；炎熱；高溫",
+      "example_es": "En agosto hace mucho calor aquí.",
+      "example_zh": "八月這裡非常熱。"
+    },
+    {
+      "word": "lluvia",
+      "meaning_zh": "(名) 雨；雨水；降雨",
+      "example_es": "La lluvia no para de caer hoy.",
+      "example_zh": "今天雨一直下個不停。"
+    },
+    {
+      "word": "nieve",
+      "meaning_zh": "(名) 雪；積雪；雪花",
+      "example_es": "Los niños juegan con la nieve.",
+      "example_zh": "孩子們玩雪。"
+    },
+    {
+      "word": "viento",
+      "meaning_zh": "(名) 風；風力；風勢",
+      "example_es": "Hoy hace mucho viento fuera.",
+      "example_zh": "今天外面風很大。"
+    },
+    {
+      "word": "azul",
+      "meaning_zh": "(形) 藍色的；(名) 藍色",
+      "example_es": "El cielo está muy azul hoy.",
+      "example_zh": "今天天空非常藍。"
+    },
+    {
+      "word": "verde",
+      "meaning_zh": "(形) 綠色的；(名) 綠色",
+      "example_es": "Me gusta mucho el vestido verde.",
+      "example_zh": "我非常喜歡這件綠色洋裝。"
+    },
+    {
+      "word": "amarillo",
+      "meaning_zh": "(形) 黃色的；(名) 黃色",
+      "example_es": "El sol es amarillo y muy brillante.",
+      "example_zh": "太陽是黃色又非常明亮的。"
+    },
+    {
+      "word": "negro",
+      "meaning_zh": "(形) 黑色的；(名) 黑色",
+      "example_es": "Tengo un gato negro muy pequeño.",
+      "example_zh": "我有一隻很小的黑貓。"
+    },
+    {
+      "word": "blanco",
+      "meaning_zh": "(形) 白色的；(名) 白色",
+      "example_es": "Las paredes de mi casa son blancas.",
+      "example_zh": "我家的牆壁是白色的。"
+    },
+    {
+      "word": "pelo",
+      "meaning_zh": "(名) 頭髮；毛；毛髮",
+      "example_es": "Tiene el pelo largo y negro.",
+      "example_zh": "她有著又長又黑的頭髮。"
+    },
+    {
+      "word": "cara",
+      "meaning_zh": "(名) 臉；面孔；臉龐",
+      "example_es": "Lávate la cara antes de salir.",
+      "example_zh": "出門前把臉洗一洗。"
+    },
+    {
+      "word": "boca",
+      "meaning_zh": "(名) 嘴巴；嘴；口",
+      "example_es": "Abre la boca, por favor.",
+      "example_zh": "請把嘴巴張開。"
+    },
+    {
+      "word": "nariz",
+      "meaning_zh": "(名) 鼻子；鼻部；鼻樑",
+      "example_es": "Le duele la nariz por el frío.",
+      "example_zh": "他因為冷鼻子很痛。"
+    },
+    {
+      "word": "oreja",
+      "meaning_zh": "(名) 耳朵；耳廓；耳部",
+      "example_es": "El conejo tiene orejas muy largas.",
+      "example_zh": "兔子有非常長的耳朵。"
+    },
+    {
+      "word": "pie",
+      "meaning_zh": "(名) 腳；足；腳部",
+      "example_es": "Me duele mucho el pie derecho.",
+      "example_zh": "我的右腳很痛。"
+    },
+    {
+      "word": "pierna",
+      "meaning_zh": "(名) 腿；大腿；腿部",
+      "example_es": "Tiene las piernas muy largas.",
+      "example_zh": "他的腿很長。"
+    },
+    {
+      "word": "brazo",
+      "meaning_zh": "(名) 手臂；胳膊；臂膀",
+      "example_es": "Levanta el brazo izquierdo despacio.",
+      "example_zh": "慢慢把左手臂舉起來。"
+    },
+    {
+      "word": "pantalón",
+      "meaning_zh": "(名) 褲子；長褲；西裝褲",
+      "example_es": "Compré un pantalón azul nuevo ayer.",
+      "example_zh": "我昨天買了一條新的藍色褲子。"
+    },
+    {
+      "word": "falda",
+      "meaning_zh": "(名) 裙子；女裙；短裙",
+      "example_es": "Esa falda blanca es muy bonita.",
+      "example_zh": "那條白裙子很漂亮。"
+    },
+    {
+      "word": "zapato",
+      "meaning_zh": "(名) 鞋子；皮鞋；鞋類",
+      "example_es": "Estos zapatos son cómodos y nuevos.",
+      "example_zh": "這雙鞋既舒服又是新的。"
+    },
+    {
+      "word": "abrigo",
+      "meaning_zh": "(名) 大衣；外套；保暖衣",
+      "example_es": "Hace frío, ponte el abrigo ahora.",
+      "example_zh": "天氣冷，現在把大衣穿上。"
+    },
+    {
+      "word": "sombrero",
+      "meaning_zh": "(名) 帽子；遮陽帽",
+      "example_es": "Mi padre lleva un sombrero negro.",
+      "example_zh": "我父親戴著一頂黑帽子。"
+    },
+    {
+      "word": "puerta",
+      "meaning_zh": "(名) 門；大門；門扇",
+      "example_es": "Cierra la puerta, por favor.",
+      "example_zh": "請把門關上。"
+    },
+    {
+      "word": "silla",
+      "meaning_zh": "(名) 椅子；座椅；座位",
+      "example_es": "La silla está cerca de la mesa.",
+      "example_zh": "椅子在桌子旁邊。"
+    },
+    {
+      "word": "cama",
+      "meaning_zh": "(名) 床；床鋪；睡床",
+      "example_es": "Mi cama es muy cómoda y grande.",
+      "example_zh": "我的床又舒服又大。"
+    },
+    {
+      "word": "cocina",
+      "meaning_zh": "(名) 廚房；廚藝；炊具",
+      "example_es": "La cocina es pequeña pero limpia.",
+      "example_zh": "廚房雖小但很乾淨。"
+    },
+    {
+      "word": "baño",
+      "meaning_zh": "(名) 浴室；洗澡；廁所",
+      "example_es": "El baño está al final del pasillo.",
+      "example_zh": "浴室在走廊的盡頭。"
+    },
+    {
+      "word": "habitación",
+      "meaning_zh": "(名) 房間；臥室；客房",
+      "example_es": "Mi habitación tiene una ventana grande.",
+      "example_zh": "我的房間有一扇大窗戶。"
     }
   ],
   "da2": [
