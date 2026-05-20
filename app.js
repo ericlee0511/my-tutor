@@ -679,8 +679,10 @@ function fmtWord(item) {
 function fmtGrammar(item) {
   const lang = state.lang;
   const meaning = item[`meaning_${lang}`] ?? item.meaning_en;
+  const meaningExtra = lang === "ja" && item.meaning_zh
+    ? `<br>${escapeHTML(item.meaning_zh)}` : "";
   let html = `<div class="headword">📘 ${escapeHTML(item.pattern)}</div>` +
-    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}</span></div>` +
+    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
     `<div><span class="label">Structure:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
   (item.examples || []).forEach((ex, i) => {
     const t = lang === "ja" ? (ex.kana || ex.en) : ex.en;
