@@ -668,10 +668,12 @@ function escapeHTML(s) {
 function fmtWord(item) {
   const lang = state.lang;
   const meaning = item[`meaning_${lang}`] ?? item.meaning_en;
+  const meaningExtra = lang === "ja" && item.meaning_zh
+    ? `<br>${escapeHTML(item.meaning_zh)}` : "";
   const trans = lang === "ja" ? (item.example_kana || item.example_en) : item.example_en;
   return `<div class="headword">📖 ${escapeHTML(item.kanji)}</div>` +
     `<div class="kana">かな: ${escapeHTML(item.kana)}</div>` +
-    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}</span></div>` +
+    `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_ja)}<br>` +
     `   → ${escapeHTML(trans)}</div>`;
 }
