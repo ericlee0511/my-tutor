@@ -8281,6 +8281,721 @@
       ],
       "answer": 0,
       "explanation_zh": "片語 «por lo que respecta a»（關於…）為固定書面，動詞為 respectar（限於此式），故選 (A) respecta。(B) respetar 為「尊敬」語意錯；(C)(D) 數錯。"
+    },
+    {
+      "question_es": "Lleva tres meses ___ en ese proyecto y aún no ha logrado consolidar las hipótesis preliminares del estudio.",
+      "options": [
+        "pensar",
+        "pensando",
+        "pensado",
+        "que piensa"
+      ],
+      "answer": 1,
+      "explanation_zh": "「llevar + tiempo + gerundio」為延續動作之語法迂迴（perífrasis durativa），表「持續某動作多久」，故選 (B) pensando。(A) 不定詞無法直接跟在 llevar 後表持續；(C) 過去分詞用於 «llevar + part» 表「結果」（llevo escritas tres páginas）；(D) 從屬子句非此結構。"
+    },
+    {
+      "question_es": "No anda ___ por ahí esas calumnias sin tener pruebas fehacientes que respalden tan graves acusaciones.",
+      "options": [
+        "dicho",
+        "decir",
+        "diciendo",
+        "que dice"
+      ],
+      "answer": 2,
+      "explanation_zh": "「andar + gerundio」表「到處／一直在…」帶輕微貶義，故選 (C) diciendo。(A) 過去分詞需配 «andar» 表狀態（anda dicho）此處語意不合；(B) 不定詞無法接在 andar 後；(D) 從屬子句破壞迂迴結構。"
+    },
+    {
+      "question_es": "Doy por ___ el asunto y no quiero que se vuelva a mencionar en futuras reuniones del consejo.",
+      "options": [
+        "concluyendo",
+        "concluir",
+        "concluido",
+        "concluye"
+      ],
+      "answer": 2,
+      "explanation_zh": "「dar por + participio」為書面語固定迂迴，表「視為…」，故選 (C) concluido。(A) 副動詞、(B) 不定詞、(D) 現在式皆不形成此「視為已完成」之結構。"
+    },
+    {
+      "question_es": "Apenas ___ el último acorde, el público estalló en una clamorosa ovación que duró varios minutos.",
+      "options": [
+        "hubo sonado",
+        "había sonado",
+        "sonaba",
+        "habrá sonado"
+      ],
+      "answer": 0,
+      "explanation_zh": "「apenas + pretérito anterior (hubo + part)」為文學書面用法，表「一…就…」緊接關係，故選 (A) hubo sonado。(B) 過完式為持續性／先前性，不表緊接；(C) 未完成過去式表背景；(D) 未來完成式時態錯。"
+    },
+    {
+      "question_es": "Por más estudios que ___, jamás conseguirá comprender la sutileza del razonamiento filosófico kantiano.",
+      "options": [
+        "hace",
+        "haga",
+        "hará",
+        "hiciera"
+      ],
+      "answer": 1,
+      "explanation_zh": "「por más + sust + que + subjuntivo」為讓步結構，主句為未來式，故從句用現在虛擬式 (B) haga。(A) 直陳式不合讓步；(C) 未來式不入此結構；(D) 未完成虛擬式須配條件式主句。"
+    },
+    {
+      "question_es": "Comoquiera que ___ el resultado, debemos aceptarlo con la entereza que las circunstancias exijan.",
+      "options": [
+        "es",
+        "será",
+        "sea",
+        "fuese"
+      ],
+      "answer": 2,
+      "explanation_zh": "「comoquiera que + subjuntivo」表「不論如何…」之讓步，現在虛擬 (C) sea 為標準形式。(A) 直陳式不入此書面讓步結構；(B) 未來式不可；(D) 未完成虛擬式須配過去語境。"
+    },
+    {
+      "question_es": "El director hizo ___ todos los protocolos a fin de garantizar la transparencia del proceso de selección.",
+      "options": [
+        "revisar",
+        "que revisara",
+        "revisado",
+        "revisando"
+      ],
+      "answer": 0,
+      "explanation_zh": "「hacer + infinitivo」為使役結構，表「使／令某動作發生」，故選 (A) revisar。(B) 「hacer que + subj」雖正確但通常配人稱主詞 (hizo que revisaran)；(C) 過去分詞不入使役；(D) 副動詞不合此結構。"
+    },
+    {
+      "question_es": "¡Qué lástima que no ___ acudido a la conferencia inaugural de tan eximio catedrático!",
+      "options": [
+        "habías",
+        "habrías",
+        "hayas",
+        "habrás"
+      ],
+      "answer": 2,
+      "explanation_zh": "「Qué lástima que + 虛擬式」表情感判斷，現在完成虛擬式 (C) hayas 表「迄今未發生之憾」。(A) 過完直陳、(B) 條件式、(D) 未來完成皆不入「情感+que」之虛擬。"
+    },
+    {
+      "question_es": "A renglón ___, expuso las conclusiones más controvertidas del estudio etnográfico recién publicado.",
+      "options": [
+        "seguido",
+        "siguiente",
+        "continuo",
+        "siguiendo"
+      ],
+      "answer": 0,
+      "explanation_zh": "「a renglón seguido」為固定書面連接語，意「緊接著／隨後」，故選 (A) seguido。(B) siguiente 為形容詞「下一個」不入此片語；(C) continuo 無此搭配；(D) 副動詞不合。"
+    },
+    {
+      "question_es": "En lo ___ a la reforma fiscal, el ministro se mostró deliberadamente parco en declaraciones.",
+      "options": [
+        "concernido",
+        "concerniendo",
+        "concierne",
+        "concerniente"
+      ],
+      "answer": 3,
+      "explanation_zh": "「en lo concerniente a」為高雅書面連接語，意「就…而言」，需現在分詞形容詞形 (D) concerniente。(A) 過去分詞、(B) 副動詞、(C) 動詞皆不入固定片語。"
+    },
+    {
+      "question_es": "Se ___ cayó el jarrón mientras quitaba el polvo de la estantería del salón principal.",
+      "options": [
+        "le",
+        "lo",
+        "se",
+        "la"
+      ],
+      "answer": 0,
+      "explanation_zh": "非自願「se」結構：«se + le/me/te + verbo + sujeto»，表非故意動作，故選 (A) le（指動作者）。(B)(D) 為直接受格不入此結構；(C) 重複 se 為錯。"
+    },
+    {
+      "question_es": "Cuanto más ___ la cuestión, tanto más insondable se nos revela su verdadera complejidad.",
+      "options": [
+        "analizamos",
+        "analicemos",
+        "analizaremos",
+        "analizáramos"
+      ],
+      "answer": 0,
+      "explanation_zh": "「cuanto más + V₁, tanto más + V₂」之並進結構，當表「普遍真理／當下」時兩動詞皆用直陳式，故選 (A) analizamos。(B) 虛擬式須配未來語境；(C) 未來式不入此格言型；(D) 未完成虛擬式不合。"
+    },
+    {
+      "question_es": "El juez procedió a ___ las graves discrepancias surgidas entre las partes litigantes del caso.",
+      "options": [
+        "dirimir",
+        "desmentir",
+        "denostar",
+        "vituperar"
+      ],
+      "answer": 0,
+      "explanation_zh": "dirimir=「裁決／調解（爭端）」為法律高雅用語，故選 (A)。(B) desmentir=「否認」；(C) denostar=「辱罵」；(D) vituperar=「譴責」皆與「裁決」語意不符。"
+    },
+    {
+      "question_es": "A la ___, lo que realmente importa es la coherencia interna de su trayectoria profesional.",
+      "options": [
+        "postre",
+        "última",
+        "final",
+        "instancia"
+      ],
+      "answer": 0,
+      "explanation_zh": "「a la postre」為固定片語，意「歸根究柢／最終」，故選 (A) postre。(B)(C) 雖近義但需配 «al final» / «en última instancia»；(D) 單獨不入此片語。"
+    },
+    {
+      "question_es": "Sea como ___, no estoy dispuesto a renunciar a mis principios éticos por mera conveniencia.",
+      "options": [
+        "sea",
+        "fuere",
+        "fuera",
+        "es"
+      ],
+      "answer": 1,
+      "explanation_zh": "「sea como fuere」為固定文學片語（含古典未來虛擬式 fuere），意「無論如何」，故選 (B) fuere。(A)(C) 雖文法可接受但非此固定式；(D) 直陳式破壞片語。"
+    },
+    {
+      "question_es": "Tengo ___ que su silencio obedece a razones mucho más profundas de lo que aparenta.",
+      "options": [
+        "creyendo",
+        "creer",
+        "creído",
+        "creída"
+      ],
+      "answer": 2,
+      "explanation_zh": "「tener + participio」為主觀完成迂迴，表「我認定…」（書面），故選 (C) creído（與直接受詞 «que…» 搭配時保持陽性單數）。(A) 副動詞、(B) 不定詞、(D) 陰性形皆不合。"
+    },
+    {
+      "question_es": "Iba ___ la noticia de boca en boca, sin que nadie verificara su autenticidad.",
+      "options": [
+        "contado",
+        "contando",
+        "contar",
+        "que contaba"
+      ],
+      "answer": 1,
+      "explanation_zh": "「ir + gerundio」表「漸進／逐步」之迂迴，故選 (B) contando。(A) 過去分詞需配 estar/llevar 表結果；(C) 不定詞不入此結構；(D) 從屬子句破壞。"
+    },
+    {
+      "question_es": "Quienquiera que ___ tal afirmación, deberá sustentarla con pruebas documentales irrefutables.",
+      "options": [
+        "formula",
+        "formulará",
+        "formule",
+        "formulaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "「quienquiera que + subjuntivo」為書面讓步「不論誰…」，故選 (C) formule。(A) 直陳、(B) 未來、(D) 未完成式皆不入此固定虛擬結構。"
+    },
+    {
+      "question_es": "No bien ___ las palabras, se arrepintió amargamente de haberlas pronunciado en aquel contexto.",
+      "options": [
+        "hubo proferido",
+        "había proferido",
+        "profería",
+        "proferiría"
+      ],
+      "answer": 0,
+      "explanation_zh": "「no bien + pretérito anterior」為文學緊接結構「一…就…」，故選 (A) hubo proferido。(B) 過完式不表緊接；(C) 未完成過去式為背景；(D) 條件式不合。"
+    },
+    {
+      "question_es": "Así ___ el mundo entero, no cejará en su empeño de denunciar la injusticia.",
+      "options": [
+        "se opone",
+        "se oponga",
+        "se opondrá",
+        "se opondría"
+      ],
+      "answer": 1,
+      "explanation_zh": "「así + subjuntivo」為書面讓步「即使／哪怕」，故選 (B) se oponga。(A) 直陳、(C) 未來、(D) 條件式皆不形成此固定讓步。"
+    },
+    {
+      "question_es": "El catedrático no ahorró palabras para ___ la actitud cínica de sus detractores académicos.",
+      "options": [
+        "dirimir",
+        "barruntar",
+        "otear",
+        "denostar"
+      ],
+      "answer": 3,
+      "explanation_zh": "denostar=「公開譴責／辱罵」，符合「不吝言詞批評」之語意，故選 (D)。(A) dirimir=裁決；(B) barruntar=預感；(C) otear=瞭望，皆不符。"
+    },
+    {
+      "question_es": "Ni que ___ tiene que su contribución resultó decisiva para el éxito de la negociación.",
+      "options": [
+        "decir",
+        "diciendo",
+        "dicho",
+        "diga"
+      ],
+      "answer": 0,
+      "explanation_zh": "「ni que decir tiene que…」為固定書面片語，意「不言而喻」，故選 (A) decir（不定詞）。(B) 副動詞、(C) 過去分詞、(D) 虛擬式皆破壞固定片語。"
+    },
+    {
+      "question_es": "Actuó a ___ de que sus decisiones acarrearían consecuencias políticas de hondo calado.",
+      "options": [
+        "pesar",
+        "expensas",
+        "sabiendas",
+        "sabiendo"
+      ],
+      "answer": 2,
+      "explanation_zh": "「a sabiendas de que」為固定連接語，意「明知…」，故選 (C) sabiendas。(A) a pesar de que=雖然，不合語意；(B) a expensas de=以…為代價，不合；(D) sabiendo 為副動詞不入片語。"
+    },
+    {
+      "question_es": "No tanto la falta de medios ___ la apatía generalizada explica el deterioro del servicio público.",
+      "options": [
+        "como",
+        "cuanto",
+        "que",
+        "sino"
+      ],
+      "answer": 1,
+      "explanation_zh": "「no tanto X cuanto Y」為書面比較結構，意「與其說X不如說Y」，故選 (B) cuanto。(A) como 為口語版亦可，但題目要求文雅高階；(C) que、(D) sino 皆不形成此固定書面比較。"
+    },
+    {
+      "question_es": "Su pertinaz ___ a aceptar la realidad le condujo finalmente al ostracismo más absoluto.",
+      "options": [
+        "negativa",
+        "afirmación",
+        "concesión",
+        "aquiescencia"
+      ],
+      "answer": 0,
+      "explanation_zh": "pertinaz=「頑強的」搭配 negativa=「拒絕」，意「頑強拒絕」最自然，故選 (A)。(B) 肯定、(C) 讓步、(D) 默許皆與「導致放逐」之邏輯不合。"
+    },
+    {
+      "question_es": "Dicho ___ de paso, conviene recordar que los datos del informe ya están desactualizados.",
+      "options": [
+        "queda",
+        "es",
+        "esté",
+        "sea"
+      ],
+      "answer": 3,
+      "explanation_zh": "「dicho sea de paso」為固定文學插入語，意「順便一提」，內含古典命令式虛擬 sea，故選 (D) sea。(A) queda、(B) es、(C) esté 皆不入此固定式。"
+    },
+    {
+      "question_es": "El acusado se mantuvo ___ en su negativa a colaborar con la investigación judicial.",
+      "options": [
+        "solícito",
+        "displicente",
+        "contumaz",
+        "voluble"
+      ],
+      "answer": 2,
+      "explanation_zh": "contumaz=「頑固不化／抗命的」為法律高雅詞，搭配「頑固拒絕配合調查」最自然，故選 (C) contumaz。(A) solícito=殷勤、(B) displicente=漠然、(D) voluble=反覆無常，皆與「頑固拒絕」之語意不合。"
+    },
+    {
+      "question_es": "Cae sobre su honor el ___ de no haber cumplido con la palabra empeñada ante el consejo.",
+      "options": [
+        "loor",
+        "elogio",
+        "baldón",
+        "encomio"
+      ],
+      "answer": 2,
+      "explanation_zh": "baldón=「污名／恥辱」，搭配「未守承諾使榮譽蒙羞」之語境，故選 (C)。(A) loor、(B) elogio、(D) encomio 皆為「讚揚」反義，不合。"
+    },
+    {
+      "question_es": "El taimado mercader supo ___ las verdaderas intenciones de sus competidores antes de cerrar el trato.",
+      "options": [
+        "barruntar",
+        "dirimir",
+        "denostar",
+        "vituperar"
+      ],
+      "answer": 0,
+      "explanation_zh": "barruntar=「預感／察覺」搭配「狡猾商人察覺對手意圖」最自然，故選 (A)。(B) dirimir=裁決、(C) denostar=辱罵、(D) vituperar=譴責，皆不合「預感」語境。"
+    },
+    {
+      "question_es": "Así ___ fueren las pruebas, el tribunal deberá ponderarlas con absoluta imparcialidad y rigor.",
+      "options": [
+        "como",
+        "cualesquiera",
+        "que",
+        "donde"
+      ],
+      "answer": 1,
+      "explanation_zh": "「cualesquiera que fueren」為法律／文學讓步結構，含古典未來虛擬 fueren，意「無論何種」，故選 (B) cualesquiera。(A)(C)(D) 皆不形成此固定書面讓步。"
+    },
+    {
+      "question_es": "El que ___ pruebas, hablare; el que no, callare para siempre, dice el adagio jurídico.",
+      "options": [
+        "tiene",
+        "tenga",
+        "tuviere",
+        "tuvo"
+      ],
+      "answer": 2,
+      "explanation_zh": "未來虛擬式（futuro de subjuntivo）«tuviere/hablare/callare» 為法律與文學保留之古典時態，表「將來不確定之事」，故選 (C) tuviere。(A) 直陳、(B) 現在虛擬、(D) 過去簡單式皆破壞此古典對仗。"
+    },
+    {
+      "question_es": "Hizo ___ la verdad mediante un razonamiento tan diáfano que nadie pudo refutarlo.",
+      "options": [
+        "resplandeciendo",
+        "que resplandeciera",
+        "resplandecer",
+        "resplandecida"
+      ],
+      "answer": 2,
+      "explanation_zh": "「hacer + infinitivo」使役結構為簡潔書面選擇，故選 (C) resplandecer。(B) hacer que + subj 雖也成立但較冗長，且本題語境更傾向使役不定詞；(A) 副動詞、(D) 過去分詞皆不入使役。"
+    },
+    {
+      "question_es": "Qué pena que aquella iniciativa tan loable no ___ contado con el apoyo institucional debido.",
+      "options": [
+        "había",
+        "habrá",
+        "habría",
+        "hubiera"
+      ],
+      "answer": 3,
+      "explanation_zh": "「Qué pena que + 虛擬式」之情感判斷，過去語境用過完虛擬 (D) hubiera。(A) 過完直陳、(B) 未來完成、(C) 條件完成皆不入情感+que 之虛擬。"
+    },
+    {
+      "question_es": "Con ___ del agravamiento de la pandemia, se decretó el cierre inmediato de las fronteras.",
+      "options": [
+        "mor",
+        "vista",
+        "motivo",
+        "razón"
+      ],
+      "answer": 0,
+      "explanation_zh": "「con mor de」為高雅書面連接語，意「以…為由」，故選 (A) mor。(B) con vista a=展望；(C) con motivo de=由於（較中性）；(D) con razón de 非固定片語。題目要求 C2 高階寫作。"
+    },
+    {
+      "question_es": "Así las ___, no nos queda más remedio que aceptar el dictamen con la dignidad debida.",
+      "options": [
+        "cosas",
+        "cuentas",
+        "circunstancias",
+        "ocasiones"
+      ],
+      "answer": 0,
+      "explanation_zh": "「así las cosas」為固定書面連接語，意「事已至此」，故選 (A) cosas。(B)(C)(D) 雖近義但非此固定片語。"
+    },
+    {
+      "question_es": "La lluvia, ___, se prolongó durante toda la jornada sin tregua aparente alguna.",
+      "options": [
+        "pertinazmente",
+        "displicente",
+        "voluble",
+        "solícita"
+      ],
+      "answer": 0,
+      "explanation_zh": "pertinaz=「綿延不絕的」副詞 pertinazmente 修飾「持續整日不停」，故選 (A)。(B) displicente=漠然、(C) voluble=反覆、(D) solícita=殷勤，皆與「綿延不絕的雨」不合。"
+    },
+    {
+      "question_es": "Cuanto más se ___ en el bosque, tanto más espesa se tornaba la maleza circundante.",
+      "options": [
+        "internaba",
+        "internara",
+        "internará",
+        "ha internado"
+      ],
+      "answer": 0,
+      "explanation_zh": "「cuanto más + V₁ tanto más + V₂」之並進結構，過去敘事用未完成過去式 (A) internaba 表背景。(B) 虛擬式不入過去敘事直陳；(C) 未來、(D) 現在完成皆不合此並進結構。"
+    },
+    {
+      "question_es": "Ya sea por convicción, ya sea por interés, lo cierto es que siempre ___ a su mecenas.",
+      "options": [
+        "defiende",
+        "defienda",
+        "defendiera",
+        "defendería"
+      ],
+      "answer": 0,
+      "explanation_zh": "「ya sea X ya sea Y」為書面選言讓步，主句陳述事實，仍用直陳式 (A) defiende。(B)(C) 虛擬式只在從句「ya sea」中已體現；(D) 條件式不入事實陳述。"
+    },
+    {
+      "question_es": "Vino el catedrático y, a ___ seguido, expuso su novedosa hipótesis sobre el barroco tardío.",
+      "options": [
+        "paso",
+        "renglón",
+        "trecho",
+        "tirón"
+      ],
+      "answer": 1,
+      "explanation_zh": "「a renglón seguido」為書面連接語「緊接著」，故選 (B) renglón。(A) a paso=步驟性、(C) a trecho=間隔、(D) de un tirón=一口氣，皆非此固定式。"
+    },
+    {
+      "question_es": "A ___ de su prestigio académico, no escatimó esfuerzos para defender al pseudo-intelectual.",
+      "options": [
+        "sabiendas",
+        "expensas",
+        "raíz",
+        "tenor"
+      ],
+      "answer": 1,
+      "explanation_zh": "「a expensas de」意「以…為代價」，符合「以學術聲望為代價」之語意，故選 (B) expensas。(A) a sabiendas de=明知；(C) a raíz de=由於；(D) a tenor de=依照，皆不合。"
+    },
+    {
+      "question_es": "Se ___ olvidaron las llaves en la oficina y no pudo entrar en casa hasta bien entrada la noche.",
+      "options": [
+        "le",
+        "lo",
+        "los",
+        "la"
+      ],
+      "answer": 0,
+      "explanation_zh": "非自願「se」結構：«se + le + verbo + sujeto»，故選 (A) le（指動作者，間接受詞）。(B)(C)(D) 為直接受格，不入此非自願結構。"
+    },
+    {
+      "question_es": "Dicho ___, conviene matizar que mis críticas no van dirigidas a su persona, sino a sus métodos.",
+      "options": [
+        "así",
+        "esto",
+        "ello",
+        "que"
+      ],
+      "answer": 1,
+      "explanation_zh": "「dicho esto」為書面銜接語，意「話雖如此／講完這個之後」，故選 (B) esto。(A) dicho así=只是這麼說（口語）；(C) ello 不入此固定式；(D) que 無此用法。"
+    },
+    {
+      "question_es": "Recayó sobre la familia el oprobio de aquel ___ que jamás pudo ser borrado del todo.",
+      "options": [
+        "loor",
+        "elogio",
+        "agasajo",
+        "estigma"
+      ],
+      "answer": 3,
+      "explanation_zh": "oprobio=「恥辱／污名」，搭配同義 (D) estigma=「烙印／污點」最自然。(A)(B)(C) 皆為「讚揚／款待」之正面語意，與「恥辱」相悖。"
+    },
+    {
+      "question_es": "En última ___, la responsabilidad recaerá sobre quien haya autorizado tan irregular operación.",
+      "options": [
+        "postre",
+        "instancia",
+        "hora",
+        "vez"
+      ],
+      "answer": 1,
+      "explanation_zh": "「en última instancia」為書面連接語，意「歸根究柢／最終」，故選 (B) instancia。(A) a la postre 為另一固定式；(C) a última hora=最後一刻（時間義）；(D) por última vez=最後一次，皆非此固定書面式。"
+    },
+    {
+      "question_es": "Apenas ___ el documento, fue convocado urgentemente al despacho del ministro.",
+      "options": [
+        "firmaba",
+        "hubo firmado",
+        "habría firmado",
+        "firmará"
+      ],
+      "answer": 1,
+      "explanation_zh": "「apenas + pretérito anterior」為文學緊接結構，故選 (B) hubo firmado。(A) 未完成過去、(C) 條件完成、(D) 未來式皆不形成此緊接書面式。"
+    },
+    {
+      "question_es": "El ladrón, ___ que la policía lo aguardaba, optó por entregarse sin ofrecer resistencia.",
+      "options": [
+        "sabiendo",
+        "a sabiendas",
+        "sabido",
+        "saber"
+      ],
+      "answer": 0,
+      "explanation_zh": "副動詞 «sabiendo que» 為書面因果語，意「由於得知…」，故選 (A) sabiendo。(B) a sabiendas 須配 de que：a sabiendas de que…，此處空格僅一字不合；(C) 過去分詞、(D) 不定詞皆不合。"
+    },
+    {
+      "question_es": "Por más vueltas que ___ al asunto, no logro dilucidar la naturaleza última de su comportamiento.",
+      "options": [
+        "doy",
+        "dé",
+        "daré",
+        "diera"
+      ],
+      "answer": 1,
+      "explanation_zh": "「por más + sust + que + subjuntivo」之讓步，主句為現在式，從句用現在虛擬式 (B) dé。(A) 直陳、(C) 未來、(D) 未完成虛擬皆不入此搭配。"
+    },
+    {
+      "question_es": "Tan inverosímil era la trama que el autor hubo de ___ matices para tornarla creíble.",
+      "options": [
+        "añadir",
+        "que añadiera",
+        "añadiendo",
+        "añadido"
+      ],
+      "answer": 0,
+      "explanation_zh": "「haber de + infinitivo」為書面義務迂迴，意「不得不…」，故選 (A) añadir。(B)(C)(D) 皆破壞此固定迂迴形式。"
+    },
+    {
+      "question_es": "Valga la ___, su gesta resultó memorable, memorabilísima en los anales de la institución.",
+      "options": [
+        "pena",
+        "redundancia",
+        "verdad",
+        "ocasión"
+      ],
+      "answer": 1,
+      "explanation_zh": "「valga la redundancia」為固定書面插入語，意「容我贅言／恕我重複」，故選 (B) redundancia。(A) valga la pena=值得（非此意）；(C)(D) 無此固定式。"
+    },
+    {
+      "question_es": "Llevo ___ que su explicación carece del rigor metodológico que el caso requiere.",
+      "options": [
+        "pensar",
+        "pensando",
+        "pensado",
+        "que pensar"
+      ],
+      "answer": 1,
+      "explanation_zh": "「llevar + gerundio」表「持續一段時間在…」迂迴，故選 (B) pensando。(A)(C)(D) 皆不入此持續迂迴。"
+    },
+    {
+      "question_es": "Ni que ___ tiene que sus aportaciones cambiaron radicalmente el panorama de la lingüística cognitiva.",
+      "options": [
+        "decir",
+        "diciendo",
+        "dicho",
+        "dice"
+      ],
+      "answer": 0,
+      "explanation_zh": "「ni que decir tiene que…」為固定書面，意「無需多言」，故選 (A) decir。(B) 副動詞、(C) 過去分詞、(D) 直陳式皆破壞固定片語。"
+    },
+    {
+      "question_es": "Al alba ___ el centinela el horizonte, esperando avistar la silueta del bergantín fugitivo.",
+      "options": [
+        "denostaba",
+        "vituperaba",
+        "oteaba",
+        "barruntaba"
+      ],
+      "answer": 2,
+      "explanation_zh": "otear=「從高處眺望／瞭望」，符合「黎明哨兵眺望地平線」之語境，故選 (C) oteaba。(A) denostar=辱罵、(B) vituperar=譴責、(D) barruntar=預感，皆不合「眺望」語意。"
+    },
+    {
+      "question_es": "Sea cual ___ el veredicto, acataré sus términos sin formular reproche ni objeción alguna.",
+      "options": [
+        "sea",
+        "fuere",
+        "será",
+        "fuese"
+      ],
+      "answer": 1,
+      "explanation_zh": "「sea cual fuere」為固定文學讓步，含古典未來虛擬 fuere，意「無論…如何」，故選 (B) fuere。(A) sea cual sea 亦可（較中性），但題目強調 C2 文學色彩；(C) 直陳未來、(D) 未完成虛擬皆破壞此固定式。"
+    },
+    {
+      "question_es": "Tan ___ se mostró el acusado durante el juicio que el juez tuvo que llamarle al orden repetidamente.",
+      "options": [
+        "pertinaz",
+        "solícito",
+        "diáfano",
+        "elocuente"
+      ],
+      "answer": 0,
+      "explanation_zh": "pertinaz=「頑強／執拗的」，搭配「法庭上頑固不化以致法官多次警告」最自然，故選 (A)。(B) 殷勤、(C) 清晰、(D) 雄辯皆不合。"
+    },
+    {
+      "question_es": "Acusado fue de contumaz ___ a obedecer las órdenes legítimas del tribunal supremo.",
+      "options": [
+        "aquiescencia",
+        "rebeldía",
+        "complacencia",
+        "sumisión"
+      ],
+      "answer": 1,
+      "explanation_zh": "contumaz 搭配 rebeldía=「頑固抗命」為法律高雅語，故選 (B)。(A) 默許、(C) 取悅、(D) 順從皆與「頑固抗命」反義。"
+    },
+    {
+      "question_es": "Por más empeño que el escritor ___, no logró capturar la esencia del paisaje que pretendía evocar.",
+      "options": [
+        "puso",
+        "ponga",
+        "pusiera",
+        "pondría"
+      ],
+      "answer": 2,
+      "explanation_zh": "「por más + sust + que + subjuntivo」之讓步，主句為過去式 (logró)，從句用未完成虛擬式 (C) pusiera。(A) 直陳式不入此書面讓步；(B) 現在虛擬不配過去主句；(D) 條件式破壞。"
+    },
+    {
+      "question_es": "Hube de hacer que el operario ___ de inmediato la avería en la maquinaria principal.",
+      "options": [
+        "repara",
+        "reparase",
+        "reparar",
+        "reparado"
+      ],
+      "answer": 1,
+      "explanation_zh": "「hacer que + subjuntivo」之使役結構，過去語境用未完成虛擬 (B) reparase。(A) 現在直陳、(C) 不定詞、(D) 過去分詞皆不入此「hacer que + subj」結構。"
+    },
+    {
+      "question_es": "Tornó el orador su mirada al auditorio, y, sin más preámbulos, ___ su filípica.",
+      "options": [
+        "acabó",
+        "inició",
+        "rehuyó",
+        "esquivó"
+      ],
+      "answer": 1,
+      "explanation_zh": "filípica=「強烈譴責的演說」，搭配「沒有前言便開始其譴責演說」最自然，故選 (B) inició。(A) acabó=結束、(C) rehuyó=迴避、(D) esquivó=閃躲，皆與「不加前言便開始」之邏輯不合。"
+    },
+    {
+      "question_es": "Comoquiera que ___ el desenlace, la obra perdurará en la memoria del público por su audacia.",
+      "options": [
+        "fuese",
+        "fuere",
+        "será",
+        "es"
+      ],
+      "answer": 1,
+      "explanation_zh": "「comoquiera que + futuro de subjuntivo」為法律／文學書面讓步，故選 (B) fuere。(A) 未完成虛擬式須配過去語境；(C) 直陳未來、(D) 直陳現在皆破壞此固定古典結構。"
+    },
+    {
+      "question_es": "Mas no ___ dado tres pasos cuando le sobrevino un repentino y angustiosísimo desfallecimiento.",
+      "options": [
+        "hubo",
+        "había",
+        "habrá",
+        "habría"
+      ],
+      "answer": 0,
+      "explanation_zh": "「no + hubo + part + cuando…」為文學緊接結構「才…就…」，故選 (A) hubo。(B) 過完式不表緊接；(C) 未來完成、(D) 條件完成皆不入此書面緊接式。"
+    },
+    {
+      "question_es": "No tanto le importaba el reconocimiento ___ la certeza de haber actuado conforme a sus principios.",
+      "options": [
+        "como",
+        "que",
+        "cuanto",
+        "sino"
+      ],
+      "answer": 2,
+      "explanation_zh": "「no tanto X cuanto Y」為高雅書面比較結構，故選 (C) cuanto。(A) como 為口語版；(B)(D) 不入此固定比較。"
+    },
+    {
+      "question_es": "Ya ___ por temor, ya por convicción, el funcionario decidió silenciar las irregularidades observadas.",
+      "options": [
+        "sea",
+        "será",
+        "fuese",
+        "es"
+      ],
+      "answer": 0,
+      "explanation_zh": "「ya sea X, ya Y」為書面選言讓步，含現在虛擬 (A) sea。(B) 直陳未來、(D) 直陳現在皆破壞此固定式；(C) 未完成虛擬式須配過去語境（ya fuese…ya）。"
+    },
+    {
+      "question_es": "El político se mostró taimado, ocultando sus verdaderas intenciones bajo una sonrisa ___.",
+      "options": [
+        "sincera",
+        "diáfana",
+        "ladina",
+        "candorosa"
+      ],
+      "answer": 2,
+      "explanation_zh": "taimado=「狡詐的」搭配 ladina=「狡黠的」笑容最一致，故選 (C) ladina。(A) sincera=真誠、(B) diáfana=清澈、(D) candorosa=純真，皆與「狡詐」反義。"
+    },
+    {
+      "question_es": "Cuanto más ___ los días, tanto más se acrecentaba la incertidumbre en el seno del equipo.",
+      "options": [
+        "transcurrían",
+        "transcurran",
+        "transcurrirán",
+        "han transcurrido"
+      ],
+      "answer": 0,
+      "explanation_zh": "「cuanto más + V₁ tanto más + V₂」之並進結構，過去敘事用未完成過去式 (A) transcurrían。(B) 虛擬、(C) 未來、(D) 現在完成皆不入此過去敘事並進。"
+    },
+    {
+      "question_es": "El secretario tomó nota a ___ seguido de cuanto el ponente exponía con magistral elocuencia.",
+      "options": [
+        "paso",
+        "renglón",
+        "vuelo",
+        "tramo"
+      ],
+      "answer": 1,
+      "explanation_zh": "「a renglón seguido」=「緊接著／不間斷地」，故選 (B) renglón。(A)(C)(D) 雖近義但非固定書面片語。"
     }
   ]
 }
