@@ -11692,6 +11692,1259 @@
           "zh": "這醬料以番茄為基底。"
         }
       ]
+    },
+    {
+      "pattern": "En cuanto a que + subjuntivo — matiz temático con virtualidad",
+      "meaning_zh": "「至於…這一點」帶有評價或假設性意味的主題引入結構，從句因含有假定或評價內涵而採虛擬式。",
+      "structure": "En cuanto a que + verbo en subjuntivo, ...",
+      "examples": [
+        {
+          "es": "En cuanto a que el director dimita, lo veo poco probable.",
+          "zh": "至於主任會辭職這件事，我認為不太可能。"
+        },
+        {
+          "es": "En cuanto a que tengamos razón, eso aún está por demostrar.",
+          "zh": "至於我們是否有理，這還有待證明。"
+        },
+        {
+          "es": "En cuanto a que se publique antes de junio, lo dudo enormemente.",
+          "zh": "至於它能否在六月前出版，我深表懷疑。"
+        }
+      ]
+    },
+    {
+      "pattern": "No por nada + indicativo — negación enfática de causa nula",
+      "meaning_zh": "「並非無緣無故」用以否認某行為缺乏理由，強調其實有充分依據。",
+      "structure": "No por nada + verbo en indicativo, ...",
+      "examples": [
+        {
+          "es": "No por nada lo eligieron presidente: es el más capaz del grupo.",
+          "zh": "他們選他當主席並非無緣無故：他是團體裡最有能力的。"
+        },
+        {
+          "es": "No por nada se le considera el mejor cirujano del país.",
+          "zh": "並非無緣無故他被視為全國最佳外科醫師。"
+        }
+      ]
+    },
+    {
+      "pattern": "Considerando que + indicativo / subjuntivo — argumentación contextual",
+      "meaning_zh": "「考慮到…」引入支持結論的事實依據；陳述客觀事實用陳述式，若引介假設則用虛擬式。",
+      "structure": "Considerando que + verbo en indicativo (hecho) / subjuntivo (hipótesis)",
+      "examples": [
+        {
+          "es": "Considerando que es novato, lo hace excepcionalmente bien.",
+          "zh": "考慮到他是新手，他做得異常出色。"
+        },
+        {
+          "es": "Considerando que pudiera haber tráfico, salgamos antes.",
+          "zh": "考慮到可能會塞車，我們提早出發吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "A la vista de que + indicativo — toma de conclusión basada en evidencia",
+      "meaning_zh": "「鑒於…」根據明顯事實得出結論的正式連接詞，從句使用陳述式。",
+      "structure": "A la vista de que + verbo en indicativo, ...",
+      "examples": [
+        {
+          "es": "A la vista de que nadie protesta, asumimos que están de acuerdo.",
+          "zh": "鑑於沒有人抗議，我們假設大家同意。"
+        },
+        {
+          "es": "A la vista de que los resultados son negativos, repetiremos el experimento.",
+          "zh": "鑑於結果為負，我們將重做實驗。"
+        }
+      ]
+    },
+    {
+      "pattern": "Mucho que + subjuntivo — concesión enfática mínima",
+      "meaning_zh": "「再…也…」表示無論程度多大也無法改變結局的讓步結構，常與否定主句搭配。",
+      "structure": "Mucho que + verbo en subjuntivo, no/sí + verbo principal",
+      "examples": [
+        {
+          "es": "Mucho que insista, no le abrirán la puerta.",
+          "zh": "他再怎麼堅持，他們也不會替他開門。"
+        },
+        {
+          "es": "Mucho que lo intentes, este nudo no se deshace.",
+          "zh": "你再怎麼試，這個結也解不開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hasta tal punto que + indicativo — resultado de grado extremo",
+      "meaning_zh": "「到了…的地步以致於…」表達結果達到極端程度的連接詞，引導實際發生的後果用陳述式。",
+      "structure": "... hasta tal punto que + verbo en indicativo",
+      "examples": [
+        {
+          "es": "Lo criticaron hasta tal punto que renunció a su cargo.",
+          "zh": "他們批評他到了讓他辭職的地步。"
+        },
+        {
+          "es": "Subió la temperatura hasta tal punto que se derritió el asfalto.",
+          "zh": "氣溫升高到柏油都融化的程度。"
+        }
+      ]
+    },
+    {
+      "pattern": "De manera/modo que + subjuntivo — finalidad consecutiva",
+      "meaning_zh": "當表達「以…的方式以便」具目的性時，從句用虛擬式；若僅陳述既成結果則用陳述式。",
+      "structure": "De manera/modo que + verbo en subjuntivo (finalidad)",
+      "examples": [
+        {
+          "es": "Explícaselo de manera que lo entienda hasta un niño.",
+          "zh": "用連小孩都能懂的方式向他解釋。"
+        },
+        {
+          "es": "Organiza los archivos de modo que cualquiera pueda consultarlos.",
+          "zh": "把檔案安排成任何人都能查閱的方式。"
+        },
+        {
+          "es": "Habló de manera que nadie se sintiera ofendido.",
+          "zh": "他講話的方式讓沒有人感到被冒犯。"
+        }
+      ]
+    },
+    {
+      "pattern": "De forma/suerte que + subjuntivo — finalidad estilo culto",
+      "meaning_zh": "「以…的形式／如此…以便」為較正式或文學的目的連接詞，要求虛擬式。",
+      "structure": "De forma/suerte que + verbo en subjuntivo",
+      "examples": [
+        {
+          "es": "Redactó el contrato de suerte que no hubiera lugar a equívocos.",
+          "zh": "他擬定合約的方式使其毫無歧義可能。"
+        },
+        {
+          "es": "Habla de forma que todos te oigan al fondo de la sala.",
+          "zh": "說話方式要讓房間後方的人也聽得到。"
+        }
+      ]
+    },
+    {
+      "pattern": "De tal manera/modo que + indicativo — resultado real intensificado",
+      "meaning_zh": "「以致於…」前置「tal」強調程度，引入實際結果時搭配陳述式。",
+      "structure": "... de tal manera/modo que + verbo en indicativo",
+      "examples": [
+        {
+          "es": "Llovió de tal manera que se inundaron las calles.",
+          "zh": "雨下得使街道全被淹沒。"
+        },
+        {
+          "es": "Se comportó de tal modo que perdió todo el respeto del equipo.",
+          "zh": "他的行為讓他失去整個團隊的尊重。"
+        }
+      ]
+    },
+    {
+      "pattern": "En la medida (en) que + indicativo / subjuntivo — proporcionalidad condicional",
+      "meaning_zh": "「就…程度而言」表達依比例變化或條件限制；陳述事實用陳述式，假設未來用虛擬式。",
+      "structure": "En la medida (en) que + indicativo (real) / subjuntivo (hipótesis)",
+      "examples": [
+        {
+          "es": "En la medida en que avanza la tecnología, cambian nuestros hábitos.",
+          "zh": "隨著科技進步，我們的習慣也在改變。"
+        },
+        {
+          "es": "Te ayudaré en la medida en que pueda.",
+          "zh": "我會在我能力所及的範圍內幫你。"
+        },
+        {
+          "es": "En la medida en que sea posible, evite los conflictos.",
+          "zh": "在可能的範圍內，請避免衝突。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pasiva refleja vs pasiva con ser — matiz de agente",
+      "meaning_zh": "「se」被動式強調動作本身而隱去施事者；「ser+過分」可明示施事者並具書面正式色彩。",
+      "structure": "Se + verbo activo (3.ª pers.) / Ser + participio (+ por agente)",
+      "examples": [
+        {
+          "es": "Se vendieron mil entradas en una hora.",
+          "zh": "一小時內賣出一千張票。"
+        },
+        {
+          "es": "Mil entradas fueron vendidas por la agencia oficial.",
+          "zh": "一千張票由官方售票機構售出。"
+        },
+        {
+          "es": "Se ha aprobado la ley sin debate.",
+          "zh": "該法案未經辯論便已通過。"
+        }
+      ]
+    },
+    {
+      "pattern": "Lo + adjetivo + de + sustantivo — nominalización abstracta de cualidad",
+      "meaning_zh": "「…的…之處／程度」用中性 lo 加形容詞再接 de+名詞，將形容詞性質抽象化並聚焦於某事物。",
+      "structure": "Lo + adjetivo + de + sustantivo / infinitivo",
+      "examples": [
+        {
+          "es": "Lo grande de esta decisión es su impacto a largo plazo.",
+          "zh": "這項決定的重要之處在於長遠的影響。"
+        },
+        {
+          "es": "Lo difícil del examen no es el contenido, sino el tiempo.",
+          "zh": "考試難的地方不在內容，而在時間。"
+        },
+        {
+          "es": "Lo curioso del caso es que nadie lo denunció.",
+          "zh": "這案件奇怪之處在於沒有人提告。"
+        }
+      ]
+    },
+    {
+      "pattern": "A pesar de + infinitivo vs A pesar de que + indicativo/subjuntivo",
+      "meaning_zh": "兩者皆表讓步；同主語時用 a pesar de + 不定詞，不同主語時用 a pesar de que + 陳述式（事實）或虛擬式（假設）。",
+      "structure": "A pesar de + infinitivo / A pesar de que + indicativo o subjuntivo",
+      "examples": [
+        {
+          "es": "A pesar de saberlo, no dijo nada.",
+          "zh": "儘管他知道，他什麼也沒說。"
+        },
+        {
+          "es": "A pesar de que llovía, salimos a correr.",
+          "zh": "儘管下著雨，我們還是出去跑步。"
+        },
+        {
+          "es": "A pesar de que sea complicado, lo intentaremos.",
+          "zh": "即使可能很複雜，我們也會嘗試。"
+        }
+      ]
+    },
+    {
+      "pattern": "Llevar + participio — aspecto acumulativo refinado",
+      "meaning_zh": "「至今已…」此迂迴結構強調至目前為止累積完成的數量或結果，主語必須能控制動作。",
+      "structure": "Llevar + participio + complemento cuantificable",
+      "examples": [
+        {
+          "es": "Lleva escritas tres novelas y una colección de cuentos.",
+          "zh": "他至今已寫了三本小說和一本短篇集。"
+        },
+        {
+          "es": "Llevamos vendidos más de cinco mil ejemplares.",
+          "zh": "我們至今已售出超過五千冊。"
+        },
+        {
+          "es": "Llevo recorridos cinco países en este viaje.",
+          "zh": "這趟旅程中我已走過五個國家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tener + participio — resultado subjetivo acumulado",
+      "meaning_zh": "「已經…完畢」帶有主觀情感、強調主語對結果的關注或不耐，常含心理負擔意味。",
+      "structure": "Tener + participio (concuerda con OD)",
+      "examples": [
+        {
+          "es": "Te tengo dicho que no toques mis cosas.",
+          "zh": "我已經跟你說過別碰我的東西。"
+        },
+        {
+          "es": "Tengo pensado mudarme el mes que viene.",
+          "zh": "我已經打算下個月搬家。"
+        },
+        {
+          "es": "Tienen comprobado que el método funciona.",
+          "zh": "他們已經證實該方法有效。"
+        }
+      ]
+    },
+    {
+      "pattern": "Seguir + gerundio — continuación aspectual refinada",
+      "meaning_zh": "「仍持續…」強調動作未中斷地持續進行，相對於「continuar」更口語且自然。",
+      "structure": "Seguir + gerundio",
+      "examples": [
+        {
+          "es": "Sigue insistiendo en que es inocente.",
+          "zh": "他仍堅持自己是無辜的。"
+        },
+        {
+          "es": "A pesar del fracaso, seguimos creyendo en el proyecto.",
+          "zh": "雖然失敗，我們仍相信這個計畫。"
+        },
+        {
+          "es": "El precio sigue subiendo cada semana.",
+          "zh": "價格每週仍持續上漲。"
+        }
+      ]
+    },
+    {
+      "pattern": "Traer + participio — resultado persistente desde el origen",
+      "meaning_zh": "「帶著…的結果而來」強調動作的結果由過去延續至今，含有「附帶」或「招致」的語意色彩。",
+      "structure": "Traer + participio",
+      "examples": [
+        {
+          "es": "Esa propuesta trae confundidos a los inversores.",
+          "zh": "那項提案讓投資人感到困惑。"
+        },
+        {
+          "es": "El asunto me trae preocupado desde hace semanas.",
+          "zh": "這件事讓我擔心好幾個禮拜了。"
+        },
+        {
+          "es": "Los rumores traen revolucionada a toda la oficina.",
+          "zh": "謠言把整個辦公室搞得人心惶惶。"
+        }
+      ]
+    },
+    {
+      "pattern": "Dar por + participio — declaración resolutiva refinada",
+      "meaning_zh": "「視為…／當作已經…」表示主語決定將某狀態認定為事實，常用於正式或裁定語境。",
+      "structure": "Dar por + participio",
+      "examples": [
+        {
+          "es": "Damos por finalizada la reunión.",
+          "zh": "我們宣布會議結束。"
+        },
+        {
+          "es": "El juez dio por concluido el juicio.",
+          "zh": "法官宣告審判終結。"
+        },
+        {
+          "es": "Doy por sentado que estarás de acuerdo.",
+          "zh": "我就當作你會同意。"
+        }
+      ]
+    },
+    {
+      "pattern": "Deber + infinitivo — obligación moral refinada",
+      "meaning_zh": "「應該…」表示道德或職責性的義務，主語必須履行某行為，不帶推測意味。",
+      "structure": "Deber + infinitivo",
+      "examples": [
+        {
+          "es": "Los ciudadanos debemos respetar las leyes.",
+          "zh": "我們公民應該遵守法律。"
+        },
+        {
+          "es": "Debes pedirle disculpas cuanto antes.",
+          "zh": "你應該盡快向他道歉。"
+        },
+        {
+          "es": "Un profesional debe mantener la confidencialidad.",
+          "zh": "專業人士應維持保密義務。"
+        }
+      ]
+    },
+    {
+      "pattern": "Deber de + infinitivo — suposición o conjetura",
+      "meaning_zh": "「想必…／應該是…」表達根據判斷的推測，與單純 deber 表義務有明顯差異，C1 須嚴格區辨。",
+      "structure": "Deber de + infinitivo",
+      "examples": [
+        {
+          "es": "Debe de tener unos cincuenta años.",
+          "zh": "他大概五十歲左右。"
+        },
+        {
+          "es": "Deben de estar a punto de llegar.",
+          "zh": "他們應該快到了。"
+        },
+        {
+          "es": "Esa luz debe de venir del faro.",
+          "zh": "那道光想必來自燈塔。"
+        }
+      ]
+    },
+    {
+      "pattern": "Haber de + infinitivo — obligación formal o literaria",
+      "meaning_zh": "「必須／當…」具書面、文學或地域色彩（西班牙北部與美洲）的義務表達，語氣較正式。",
+      "structure": "Haber de + infinitivo",
+      "examples": [
+        {
+          "es": "Hemos de actuar con prudencia ante esta crisis.",
+          "zh": "面對這場危機，我們必須謹慎行事。"
+        },
+        {
+          "es": "Has de saber que la verdad siempre prevalece.",
+          "zh": "你應當知道真相終會勝出。"
+        },
+        {
+          "es": "El testigo ha de comparecer mañana ante el juez.",
+          "zh": "證人明日須到法官面前出庭。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hubiera de + infinitivo — obligación irreal en el pasado",
+      "meaning_zh": "「當時本應…」表達過去未實現的義務或預期，屬虛擬條件式中的文體化表達。",
+      "structure": "Hubiera de + infinitivo (en condicionales pasadas)",
+      "examples": [
+        {
+          "es": "Si hubiera de elegir de nuevo, optaría por lo mismo.",
+          "zh": "如果我得再選擇一次，我仍會選相同的。"
+        },
+        {
+          "es": "Quien hubiera de juzgarlo, no lo tendría fácil.",
+          "zh": "誰若要評判他，事情並不簡單。"
+        }
+      ]
+    },
+    {
+      "pattern": "Si + imperfecto de subjuntivo + condicional simple — hipótesis presente irreal",
+      "meaning_zh": "現在或一般情況的不真實假設，主句用簡單條件式，從句用過去虛擬式。",
+      "structure": "Si + imperfecto de subjuntivo, + condicional simple",
+      "examples": [
+        {
+          "es": "Si tuviera tiempo, aprendería japonés.",
+          "zh": "如果我有時間，我會學日語。"
+        },
+        {
+          "es": "Si fuese más alto, jugaría al baloncesto profesional.",
+          "zh": "如果我再高一點，我就會打職業籃球。"
+        },
+        {
+          "es": "Si me lo pidieras con educación, te ayudaría.",
+          "zh": "若你客氣請求，我會幫你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Si + pluscuamperfecto de subjuntivo + condicional perfecto — hipótesis pasada irreal",
+      "meaning_zh": "對過去事實的反事實假設，從句用過去完成虛擬式，主句用完成條件式。",
+      "structure": "Si + pluscuamperfecto de subjuntivo, + condicional perfecto",
+      "examples": [
+        {
+          "es": "Si hubiera estudiado más, habría aprobado el examen.",
+          "zh": "如果我那時多讀書，就會考過考試。"
+        },
+        {
+          "es": "Si te hubieses callado, no te habrían descubierto.",
+          "zh": "如果你那時閉嘴，就不會被發現。"
+        },
+        {
+          "es": "Si lo hubiéramos sabido antes, habríamos actuado distinto.",
+          "zh": "若我們早知道，我們就會以不同方式行動。"
+        }
+      ]
+    },
+    {
+      "pattern": "Si + pluscuamperfecto de subjuntivo + imperfecto de subjuntivo — mixto pasado-presente",
+      "meaning_zh": "混合條件句：過去未發生的條件影響到現在的結果，主句可用簡單條件式或過去虛擬式。",
+      "structure": "Si + pluscuamperfecto de subjuntivo, + condicional simple / imperfecto de subjuntivo",
+      "examples": [
+        {
+          "es": "Si hubiera ahorrado de joven, hoy fuera (sería) rico.",
+          "zh": "如果年輕時有存錢，今天就會富有。"
+        },
+        {
+          "es": "Si me hubieras hecho caso, ahora no tendrías problemas.",
+          "zh": "如果你那時聽我的話，現在就不會有問題。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto — presente → imperfecto (backshift completo)",
+      "meaning_zh": "間接引語完整時態後移：直接引語的現在式在過去引述動詞後變為過去未完成式。",
+      "structure": "Verbo de comunicación en pasado + que + imperfecto de indicativo",
+      "examples": [
+        {
+          "es": "Me dijo: «Vivo en Madrid.» → Me dijo que vivía en Madrid.",
+          "zh": "他告訴我：「我住在馬德里。」→ 他告訴我他住在馬德里。"
+        },
+        {
+          "es": "Aseguró que conocía bien la ciudad.",
+          "zh": "他斷言他熟悉這座城市。"
+        },
+        {
+          "es": "Comentó que el plan funcionaba a la perfección.",
+          "zh": "他評論說計畫運作得非常完美。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto — indefinido → pluscuamperfecto (backshift completo)",
+      "meaning_zh": "完整時態後移：直接引語的簡單過去式在過去引述後變為過去完成式。",
+      "structure": "Verbo de comunicación en pasado + que + pluscuamperfecto",
+      "examples": [
+        {
+          "es": "Confesó: «Robé el dinero.» → Confesó que había robado el dinero.",
+          "zh": "他承認：「我偷了錢。」→ 他承認他偷了錢。"
+        },
+        {
+          "es": "Me contó que ya había viajado a México el año anterior.",
+          "zh": "他告訴我前一年他已到過墨西哥。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto — futuro → condicional simple (backshift completo)",
+      "meaning_zh": "時態完整後移：直接引語的未來簡單式在過去引述動詞之後，必須轉變為簡單條件式以對應參照時間的延後。",
+      "structure": "Verbo de comunicación en pasado + que + condicional simple",
+      "examples": [
+        {
+          "es": "Prometió: «Te llamaré mañana.» → Prometió que me llamaría al día siguiente.",
+          "zh": "他承諾：「我明天會打給你。」→ 他承諾隔天會打給我。"
+        },
+        {
+          "es": "Aseguraron que asistirían a la ceremonia.",
+          "zh": "他們保證會出席儀式。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto — futuro perfecto → condicional perfecto",
+      "meaning_zh": "完成未來式在間接引語中後移為完成條件式，表示對某參照點之前已完成的預期動作。",
+      "structure": "Verbo de comunicación en pasado + que + condicional perfecto",
+      "examples": [
+        {
+          "es": "Dijo: «Para junio habré terminado la tesis.» → Dijo que para junio habría terminado la tesis.",
+          "zh": "他說：「六月前我會寫完論文。」→ 他說六月前他會寫完論文。"
+        },
+        {
+          "es": "Anunciaron que para entonces ya habrían publicado los resultados.",
+          "zh": "他們宣布到那時他們將已公布結果。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estilo indirecto — imperativo → imperfecto de subjuntivo (backshift completo)",
+      "meaning_zh": "命令式在過去間接引語中後移為過去虛擬式，搭配 que 引導。",
+      "structure": "Verbo de mandato en pasado + que + imperfecto de subjuntivo",
+      "examples": [
+        {
+          "es": "Me ordenó: «Cállate.» → Me ordenó que me callara.",
+          "zh": "他命令我：「閉嘴。」→ 他命令我要安靜。"
+        },
+        {
+          "es": "Nos pidió que llegáramos antes de las ocho.",
+          "zh": "他要求我們八點前到。"
+        },
+        {
+          "es": "Le rogó que no se marchara.",
+          "zh": "他懇求她別離開。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ser + participio vs Estar + participio — acción vs estado resultante",
+      "meaning_zh": "ser + 過分強調動作的發生過程（被動行為），estar + 過分強調行為造成的狀態結果。",
+      "structure": "Ser + participio (acción) / Estar + participio (resultado)",
+      "examples": [
+        {
+          "es": "La puerta fue cerrada por el portero a las diez.",
+          "zh": "門在十點被門房關上了。"
+        },
+        {
+          "es": "Cuando llegué, la puerta ya estaba cerrada.",
+          "zh": "我到的時候，門已經是關著的狀態。"
+        },
+        {
+          "es": "El informe fue escrito ayer; ahora ya está escrito y listo.",
+          "zh": "報告昨天被寫好；現在已寫好且就緒。"
+        }
+      ]
+    },
+    {
+      "pattern": "En aras de que + subjuntivo — finalidad solemne con cambio de sujeto",
+      "meaning_zh": "「為了使…」表達莊重正式的目的，從句必用虛擬式且主語通常與主句不同。",
+      "structure": "En aras de que + verbo en subjuntivo",
+      "examples": [
+        {
+          "es": "Renunciaron a sus privilegios en aras de que se restablezca la paz.",
+          "zh": "他們放棄特權，以期和平得以恢復。"
+        },
+        {
+          "es": "Se modificó la ley en aras de que todos tengan acceso a la sanidad.",
+          "zh": "為使全民都能享有醫療，法律已加以修改。"
+        }
+      ]
+    },
+    {
+      "pattern": "Con miras a que + subjuntivo — propósito prospectivo con cambio de sujeto",
+      "meaning_zh": "「以期使…」表達面向未來的目的，從句主語不同於主句時用虛擬式。",
+      "structure": "Con miras a que + verbo en subjuntivo",
+      "examples": [
+        {
+          "es": "Se firmó el acuerdo con miras a que las dos partes colaboren.",
+          "zh": "簽訂協議以期雙方合作。"
+        },
+        {
+          "es": "Lanzaron la campaña con miras a que aumenten las donaciones.",
+          "zh": "他們發起活動以期增加捐款。"
+        }
+      ]
+    },
+    {
+      "pattern": "Hacer + infinitivo — causativo de un solo agente",
+      "meaning_zh": "「讓／使…做」直接由主語使另一人或物產生動作，主語與被使動者構成單一行為單位。",
+      "structure": "Hacer + infinitivo (+ a alguien)",
+      "examples": [
+        {
+          "es": "Su comentario me hizo reflexionar.",
+          "zh": "他的評論讓我反思。"
+        },
+        {
+          "es": "El profesor hizo trabajar a los alumnos en grupos.",
+          "zh": "老師讓學生分組工作。"
+        },
+        {
+          "es": "La película me hizo llorar.",
+          "zh": "這部電影讓我流淚。"
+        }
+      ]
+    },
+    {
+      "pattern": "Mandar + infinitivo vs Mandar que + subjuntivo — orden directa vs delegada",
+      "meaning_zh": "mandar+不定詞表示直接吩咐執行；mandar que+虛擬式則強調轉達指令給第三方。",
+      "structure": "Mandar + infinitivo / Mandar que + subjuntivo",
+      "examples": [
+        {
+          "es": "Mandó construir un nuevo puente.",
+          "zh": "他下令建造一座新橋。"
+        },
+        {
+          "es": "Mandó que los obreros construyeran un nuevo puente.",
+          "zh": "他命令工人建造一座新橋。"
+        },
+        {
+          "es": "El médico mandó hacer análisis al paciente.",
+          "zh": "醫生吩咐替病人做檢驗。"
+        }
+      ]
+    },
+    {
+      "pattern": "Permitir + infinitivo vs Permitir que + subjuntivo — permiso directo vs delegado",
+      "meaning_zh": "permitir+不定詞表示直接同意動作；permitir que+虛擬式則強調允許他人做動作，主語不同。",
+      "structure": "Permitir + infinitivo / Permitir que + subjuntivo",
+      "examples": [
+        {
+          "es": "No le permiten salir solo de noche.",
+          "zh": "他們不允許他晚上獨自出門。"
+        },
+        {
+          "es": "No permiten que los menores entren en este local.",
+          "zh": "他們不允許未成年人進入此場所。"
+        },
+        {
+          "es": "La normativa permite consultar el archivo digital.",
+          "zh": "規定允許查閱數位檔案。"
+        }
+      ]
+    },
+    {
+      "pattern": "No creer/pensar/considerar/opinar que + subjuntivo — opinión negada",
+      "meaning_zh": "表達意見的動詞被否定時，從句因含懷疑或主觀色彩而必須使用虛擬式。",
+      "structure": "No + verbo de opinión + que + subjuntivo",
+      "examples": [
+        {
+          "es": "No creo que sea tan grave como dicen.",
+          "zh": "我不認為情況有他們說的那麼嚴重。"
+        },
+        {
+          "es": "No considero que tengas razón en este punto.",
+          "zh": "我不認為你在這一點上有道理。"
+        },
+        {
+          "es": "No opinamos que la propuesta merezca la pena.",
+          "zh": "我們不認為這個提案值得。"
+        }
+      ]
+    },
+    {
+      "pattern": "No ver/notar/observar que + subjuntivo — percepción negada",
+      "meaning_zh": "感知動詞被否定時，從句呈現未被察覺的不確定內容，需用虛擬式。",
+      "structure": "No + verbo de percepción + que + subjuntivo",
+      "examples": [
+        {
+          "es": "No veo que esta solución funcione.",
+          "zh": "我看不出這個解決方案行得通。"
+        },
+        {
+          "es": "No noto que haya cambiado nada.",
+          "zh": "我感覺不出有什麼改變。"
+        },
+        {
+          "es": "No observo que se respete el protocolo.",
+          "zh": "我看不出規程被遵守。"
+        }
+      ]
+    },
+    {
+      "pattern": "Gran vs Grande — adjetivo antepuesto valorativo vs pospuesto físico",
+      "meaning_zh": "gran 置於名詞前表達抽象、評價性的「偉大」；grande 置於名詞後表達實體大小。",
+      "structure": "gran + sustantivo (cualidad) / sustantivo + grande (tamaño)",
+      "examples": [
+        {
+          "es": "Es un gran hombre, aunque no sea un hombre grande.",
+          "zh": "他是一位偉大的人，雖然身材不大。"
+        },
+        {
+          "es": "Mañana habrá una gran fiesta en una sala grande.",
+          "zh": "明天會在一個大廳裡舉辦盛大派對。"
+        },
+        {
+          "es": "Cervantes fue un gran escritor.",
+          "zh": "塞萬提斯是一位偉大的作家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pobre antepuesto vs pospuesto — lástima vs carencia económica",
+      "meaning_zh": "pobre 置於名詞前帶有「可憐的」同情色彩；置於名詞後則指「貧窮的」經濟狀態。",
+      "structure": "pobre + sustantivo (compasión) / sustantivo + pobre (sin dinero)",
+      "examples": [
+        {
+          "es": "El pobre hombre acaba de perderlo todo.",
+          "zh": "可憐的人剛失去了一切。"
+        },
+        {
+          "es": "Es un hombre pobre, pero feliz.",
+          "zh": "他是個窮人，但很快樂。"
+        },
+        {
+          "es": "¡Pobre niña!, se rompió el brazo.",
+          "zh": "可憐的小女孩，她摔斷了手臂。"
+        }
+      ]
+    },
+    {
+      "pattern": "Viejo antepuesto vs pospuesto — antigüedad de relación vs edad",
+      "meaning_zh": "viejo 置於名詞前表示「老朋友／舊有的」關係久遠；置於名詞後則表示年邁。",
+      "structure": "viejo + sustantivo (relación antigua) / sustantivo + viejo (edad avanzada)",
+      "examples": [
+        {
+          "es": "Es un viejo amigo de la universidad.",
+          "zh": "他是我大學時代的老朋友。"
+        },
+        {
+          "es": "El hombre viejo se sentó en el banco.",
+          "zh": "那位年邁的男人坐到長椅上。"
+        },
+        {
+          "es": "Conserva un viejo coche en perfecto estado.",
+          "zh": "他保留著一輛狀態極佳的舊車。"
+        }
+      ]
+    },
+    {
+      "pattern": "Nuevo antepuesto vs pospuesto — recientemente adquirido vs sin estrenar",
+      "meaning_zh": "nuevo 置於名詞前表示「新換的、剛接手的」；置於名詞後則指「全新尚未使用過的」。",
+      "structure": "nuevo + sustantivo (otro reciente) / sustantivo + nuevo (sin uso)",
+      "examples": [
+        {
+          "es": "Tengo un nuevo coche, aunque no es nuevo.",
+          "zh": "我有一輛新車，但其實不是全新的。"
+        },
+        {
+          "es": "Estrenó un coche nuevo el fin de semana.",
+          "zh": "他週末啟用一輛全新的車。"
+        },
+        {
+          "es": "Vivo en una nueva casa desde marzo.",
+          "zh": "我從三月起住在新換的房子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Antiguo antepuesto vs pospuesto — anterior vs viejo en años",
+      "meaning_zh": "antiguo 置於名詞前表「前任的、以前的」；置於名詞後則指「年代久遠的」。",
+      "structure": "antiguo + sustantivo (anterior) / sustantivo + antiguo (de antaño)",
+      "examples": [
+        {
+          "es": "Mi antiguo jefe ahora trabaja en otra empresa.",
+          "zh": "我的前任老闆現在在另一家公司工作。"
+        },
+        {
+          "es": "Vivimos en un edificio antiguo del siglo XVIII.",
+          "zh": "我們住在一棟十八世紀的古老建築裡。"
+        },
+        {
+          "es": "Es un antiguo alumno del colegio.",
+          "zh": "他是這間學校的校友。"
+        }
+      ]
+    },
+    {
+      "pattern": "Único antepuesto vs pospuesto — el solo vs sin par",
+      "meaning_zh": "único 置於名詞前表示「唯一的」（只有一個）；置於名詞後則表示「獨一無二的、卓越的」。",
+      "structure": "único + sustantivo (solo uno) / sustantivo + único (excepcional)",
+      "examples": [
+        {
+          "es": "Es mi único hijo.",
+          "zh": "他是我唯一的兒子。"
+        },
+        {
+          "es": "Tiene un talento único para la música.",
+          "zh": "他擁有無與倫比的音樂天賦。"
+        },
+        {
+          "es": "La única razón por la que vine eres tú.",
+          "zh": "我來的唯一原因就是你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Cierto antepuesto vs pospuesto — algún vs verdadero",
+      "meaning_zh": "cierto 置於名詞前等於「某個／某些」（不定）；置於名詞後則表「確定的、真實的」。",
+      "structure": "cierto + sustantivo (algún) / sustantivo + cierto (verdadero)",
+      "examples": [
+        {
+          "es": "Cierto día llegaré a comprenderlo.",
+          "zh": "某一天我會明白的。"
+        },
+        {
+          "es": "Esa información es noticia cierta.",
+          "zh": "那則消息是確切的新聞。"
+        },
+        {
+          "es": "Hay cierta tensión en el ambiente.",
+          "zh": "氣氛中有某種緊張感。"
+        }
+      ]
+    },
+    {
+      "pattern": "Propio antepuesto vs pospuesto — mismo vs personal",
+      "meaning_zh": "propio 置於名詞前表「本人、本身」加強指認；置於名詞後則表「自己擁有的、合適的」。",
+      "structure": "propio + sustantivo (mismo) / sustantivo + propio (personal/apropiado)",
+      "examples": [
+        {
+          "es": "Lo dijo el propio presidente.",
+          "zh": "是總統本人親口說的。"
+        },
+        {
+          "es": "Tiene una casa propia en la sierra.",
+          "zh": "他在山區有一棟自己的房子。"
+        },
+        {
+          "es": "Esa actitud no es propia de un profesional.",
+          "zh": "那種態度不像個專業人士。"
+        }
+      ]
+    },
+    {
+      "pattern": "Por más que + subjuntivo — concesión enfática con cambio de sujeto",
+      "meaning_zh": "「無論再怎麼…也…」表示讓步的最高程度，未來或假設情境下從句用虛擬式。",
+      "structure": "Por más que + subjuntivo, + verbo principal",
+      "examples": [
+        {
+          "es": "Por más que se esfuerce, no logrará convencerme.",
+          "zh": "他再怎麼努力，也說服不了我。"
+        },
+        {
+          "es": "Por más que llores, la decisión está tomada.",
+          "zh": "你再怎麼哭，決定已經做了。"
+        },
+        {
+          "es": "Por más que insistas, no cambiaremos las normas.",
+          "zh": "你再怎麼堅持，我們也不會改變規定。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en exclamativas: ¡Que + presente de subjuntivo! — orden/deseo independiente",
+      "meaning_zh": "獨立句中以 que 引導現在虛擬式表達命令、傳達指令或祈願，常用於轉達。",
+      "structure": "¡Que + presente de subjuntivo!",
+      "examples": [
+        {
+          "es": "¡Que pase el siguiente!",
+          "zh": "下一個請進！"
+        },
+        {
+          "es": "¡Que aproveche!",
+          "zh": "用餐愉快！"
+        },
+        {
+          "es": "¡Que tenga usted un buen día!",
+          "zh": "祝您有美好的一天！"
+        }
+      ]
+    },
+    {
+      "pattern": "Voz pasiva con se — sujeto plural inanimado",
+      "meaning_zh": "「se+動詞第三人稱複數」用於非人格化的被動表達，主詞為複數無生命物件。",
+      "structure": "Se + verbo (3.ª pers. pl.) + sujeto plural",
+      "examples": [
+        {
+          "es": "Se publicaron los resultados en la web oficial.",
+          "zh": "結果在官方網站上公布。"
+        },
+        {
+          "es": "Se conservan los documentos en el archivo nacional.",
+          "zh": "這些文件保存在國家檔案館。"
+        },
+        {
+          "es": "Se firmaron los acuerdos sin demora.",
+          "zh": "協議毫無耽擱地被簽署。"
+        }
+      ]
+    },
+    {
+      "pattern": "Construcción «Lo de que + indicativo / subjuntivo» — mención evaluativa",
+      "meaning_zh": "「關於…那件事」用 lo de que 將某話題作為評論主題；陳述事實用陳述式，提出虛擬意見用虛擬式。",
+      "structure": "Lo de que + indicativo (hecho) / subjuntivo (opinión)",
+      "examples": [
+        {
+          "es": "Lo de que dimitió me sorprendió.",
+          "zh": "他辭職這件事讓我驚訝。"
+        },
+        {
+          "es": "Lo de que sea inocente está por demostrar.",
+          "zh": "說他是無辜的這件事還有待證實。"
+        },
+        {
+          "es": "Lo de que cobre tanto no tiene sentido.",
+          "zh": "說他賺那麼多這件事毫無道理。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo perfecto en oraciones temporales: cuando haya + participio",
+      "meaning_zh": "「等到…完成之後」cuando 引導未來動作的完成階段，必用虛擬式現在完成時。",
+      "structure": "Cuando + haya + participio, + verbo principal",
+      "examples": [
+        {
+          "es": "Cuando hayas terminado el informe, mándamelo.",
+          "zh": "你寫完報告後請寄給我。"
+        },
+        {
+          "es": "Iremos al cine cuando hayamos cenado.",
+          "zh": "我們晚餐吃完後就去看電影。"
+        },
+        {
+          "es": "Llámame cuando hayas llegado.",
+          "zh": "你到了之後打給我。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo perfecto en finales: para que haya + participio",
+      "meaning_zh": "「為了使…已完成」目的子句中表「在某時點前完成」的虛擬完成式。",
+      "structure": "Para que + haya + participio",
+      "examples": [
+        {
+          "es": "Te adelanto la información para que ya la hayas estudiado en la reunión.",
+          "zh": "我先提供資訊讓你在會議前已研究過。"
+        },
+        {
+          "es": "Imprimimos las copias antes para que las hayas revisado a tiempo.",
+          "zh": "我們提前印好副本，讓你能及時審閱完。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en concesivas con valor general: lo que sea, donde sea, como sea",
+      "meaning_zh": "雙倍虛擬式的廣義讓步：「無論是什麼／哪裡／怎樣」表達不限定的接受度。",
+      "structure": "Lo que sea / Donde sea / Como sea (+ oración principal)",
+      "examples": [
+        {
+          "es": "Comeré lo que sea, tengo hambre.",
+          "zh": "我什麼都吃，我餓了。"
+        },
+        {
+          "es": "Iremos donde sea con tal de descansar.",
+          "zh": "只要能休息，我們去哪都行。"
+        },
+        {
+          "es": "Lo lograré como sea.",
+          "zh": "無論如何我都會達成。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo + a que + subjuntivo — final con verbo de movimiento",
+      "meaning_zh": "「(去)做某事以…」運動或主動動詞接 a que+虛擬式表示目的或意圖。",
+      "structure": "Verbo de movimiento + a que + subjuntivo",
+      "examples": [
+        {
+          "es": "Vino a que le explicara la situación.",
+          "zh": "他來是為了讓我向他解釋情況。"
+        },
+        {
+          "es": "La invitaron a que diera una conferencia.",
+          "zh": "他們邀請她去做一場演講。"
+        },
+        {
+          "es": "Salí a que me diera el aire.",
+          "zh": "我出去透氣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo con verbos de sentimiento + infinitivo vs que + subjuntivo",
+      "meaning_zh": "情感動詞同主語用不定詞，不同主語用 que+虛擬式；C1 須精準辨別。",
+      "structure": "Sentir/Lamentar/Temer + infinitivo (mismo sujeto) / que + subjuntivo",
+      "examples": [
+        {
+          "es": "Lamento no poder asistir a tu boda.",
+          "zh": "很遺憾我無法出席你的婚禮。"
+        },
+        {
+          "es": "Lamento que no puedas asistir a mi boda.",
+          "zh": "很遺憾你無法出席我的婚禮。"
+        },
+        {
+          "es": "Temo haberme equivocado de fecha.",
+          "zh": "我恐怕弄錯了日期。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «llevar» como tiempo transcurrido + sin + infinitivo",
+      "meaning_zh": "「已經多久沒…」此持續性動詞迂迴強調自過去某時刻至今未進行某動作的時間長度，主語為發動者。",
+      "structure": "Llevar + tiempo + sin + infinitivo",
+      "examples": [
+        {
+          "es": "Llevo tres meses sin fumar.",
+          "zh": "我已經三個月沒抽菸。"
+        },
+        {
+          "es": "Llevábamos años sin vernos.",
+          "zh": "我們已經好幾年沒見面。"
+        },
+        {
+          "es": "Lleva semanas sin pisar la oficina.",
+          "zh": "他已經好幾週沒踏進辦公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo independiente: «Quién + imperfecto/pluscuamperfecto de subjuntivo» — deseo irreal",
+      "meaning_zh": "「真希望(我)能…」獨立感嘆句以 quién+過去虛擬式表達當下或過去的不切實際願望。",
+      "structure": "Quién + imperfecto / pluscuamperfecto de subjuntivo",
+      "examples": [
+        {
+          "es": "¡Quién supiera tantos idiomas como tú!",
+          "zh": "真希望我能像你一樣會這麼多語言！"
+        },
+        {
+          "es": "¡Quién hubiera estado allí!",
+          "zh": "真希望我當時也在場！"
+        },
+        {
+          "es": "¡Quién tuviera veinte años otra vez!",
+          "zh": "真希望能再回到二十歲！"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en exclamativas con «Cómo» — sorpresa o reproche",
+      "meaning_zh": "「怎麼會…？／竟然…」感嘆句以 cómo+虛擬式表達驚訝、責備或不可置信。",
+      "structure": "¡Cómo + verbo en subjuntivo!",
+      "examples": [
+        {
+          "es": "¡Cómo no me lo dijeras antes!",
+          "zh": "你怎麼不早點告訴我！"
+        },
+        {
+          "es": "¡Cómo te atrevieras a mentirme!",
+          "zh": "你竟敢對我說謊！"
+        }
+      ]
+    },
+    {
+      "pattern": "Reduplicación verbal: «pase lo que pase / digan lo que digan» — concesión absoluta",
+      "meaning_zh": "動詞與其虛擬式同源重複，形成「無論…如何…」的固定讓步表達。",
+      "structure": "Verbo en subjuntivo + lo que + mismo verbo en subjuntivo",
+      "examples": [
+        {
+          "es": "Pase lo que pase, no te abandonaré.",
+          "zh": "不管發生什麼事，我都不會離開你。"
+        },
+        {
+          "es": "Digan lo que digan, tú sigue tu camino.",
+          "zh": "不管別人怎麼說，你走自己的路。"
+        },
+        {
+          "es": "Pienses lo que pienses, hay que actuar ya.",
+          "zh": "不管你怎麼想，現在就得行動。"
+        }
+      ]
+    },
+    {
+      "pattern": "Reduplicación con «cuanto»: cueste lo que cueste / venga lo que venga",
+      "meaning_zh": "「無論代價／來者如何」用動詞與 lo que 形式重疊，強調絕對的決心或接受度。",
+      "structure": "Verbo subj. + lo que + verbo subj.",
+      "examples": [
+        {
+          "es": "Lo conseguiré, cueste lo que cueste.",
+          "zh": "無論代價如何，我都會達成。"
+        },
+        {
+          "es": "Venga lo que venga, estaremos preparados.",
+          "zh": "無論來什麼，我們都會準備好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo después de «el hecho de que» — valoración objetivada",
+      "meaning_zh": "「…這件事實本身」當主句評價該事實時，從句用虛擬式以凸顯主觀判斷。",
+      "structure": "El hecho de que + subjuntivo + verbo valorativo",
+      "examples": [
+        {
+          "es": "El hecho de que sea joven no significa que sea inexperto.",
+          "zh": "他年輕這件事並不代表他沒經驗。"
+        },
+        {
+          "es": "El hecho de que no haya respondido me preocupa.",
+          "zh": "他沒回應這件事讓我擔心。"
+        },
+        {
+          "es": "Me sorprendió el hecho de que dimitiera tan pronto.",
+          "zh": "他這麼快辭職的事實讓我驚訝。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en concesivas reduplicadas: «por mucho/poco que + subjuntivo»",
+      "meaning_zh": "「無論多麼／多麼少」量化讓步結構，未來或假設情境下從句用虛擬式。",
+      "structure": "Por mucho/poco que + subjuntivo, + verbo principal",
+      "examples": [
+        {
+          "es": "Por mucho que corra, no llegará a tiempo.",
+          "zh": "他再怎麼跑也來不及。"
+        },
+        {
+          "es": "Por poco que te lo digan, deberías hacer caso.",
+          "zh": "就算他們很少對你說，你也該聽進去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estructura «No tanto X como Y» — corrección comparativa de cantidad",
+      "meaning_zh": "「與其說是X不如說是Y」用以修正前項，將重點置於後項，常見於正式語體。",
+      "structure": "No tanto + sintagma X + como + sintagma Y",
+      "examples": [
+        {
+          "es": "El problema no es tanto el dinero como la falta de tiempo.",
+          "zh": "問題與其說是錢，不如說是時間不夠。"
+        },
+        {
+          "es": "No me preocupa tanto el qué dirán como el resultado.",
+          "zh": "讓我擔心的與其說是流言，不如說是結果。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estructura «Cuanto + comparativo, (tanto) + comparativo» — proporción gradual",
+      "meaning_zh": "「越…越…」比例關係結構，第二項可省略 tanto，C1 常用於評論或預測。",
+      "structure": "Cuanto más/menos + sintagma, (tanto) más/menos + sintagma",
+      "examples": [
+        {
+          "es": "Cuanto más lo pienso, menos lo entiendo.",
+          "zh": "我越想越搞不懂。"
+        },
+        {
+          "es": "Cuanto antes empieces, antes terminarás.",
+          "zh": "你越早開始，越早結束。"
+        },
+        {
+          "es": "Cuanto menos hables, mejor será para todos.",
+          "zh": "你說得越少，對大家越好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo después de «de no + infinitivo» equivalente condicional",
+      "meaning_zh": "「若不…」用 de no+不定詞代替否定條件句，主句多用條件式或現在式預測。",
+      "structure": "De no + infinitivo, + condicional / presente",
+      "examples": [
+        {
+          "es": "De no haber actuado a tiempo, habríamos perdido todo.",
+          "zh": "如果當時沒及時行動，我們會失去一切。"
+        },
+        {
+          "es": "De no llover, saldremos de excursión mañana.",
+          "zh": "如果不下雨，我們明天就去郊遊。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo después de «caso de que» — hipótesis previsora coloquial",
+      "meaning_zh": "「萬一…」較通俗的條件性子句，從句用虛擬式表達可能發生但未確定的情況。",
+      "structure": "Caso de que + subjuntivo, + verbo principal",
+      "examples": [
+        {
+          "es": "Caso de que llueva, suspenderemos el partido.",
+          "zh": "萬一下雨，我們就取消比賽。"
+        },
+        {
+          "es": "Caso de que no venga, llamaremos a su sustituto.",
+          "zh": "萬一他沒來，我們就叫他的替代人。"
+        }
+      ]
+    },
+    {
+      "pattern": "Estructura «Tan ... que / Tanto ... que» con valor consecutivo",
+      "meaning_zh": "「如此…以致於…」表示原因強度引發實際結果，主句帶 tan/tanto，從句用陳述式。",
+      "structure": "Tan/Tanto + adjetivo/sustantivo + que + indicativo",
+      "examples": [
+        {
+          "es": "Hablaba tan deprisa que nadie lo entendía.",
+          "zh": "他講得太快，沒人聽得懂。"
+        },
+        {
+          "es": "Había tanta gente que no podíamos movernos.",
+          "zh": "人多到我們動彈不得。"
+        },
+        {
+          "es": "Estaba tan cansada que se durmió en el sofá.",
+          "zh": "她累到在沙發上睡著了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subjuntivo en el verbo principal: «vaya por delante que…»",
+      "meaning_zh": "「先聲明的是…」獨立句以 vaya 開頭的虛擬式片語，正式引導免責或前提。",
+      "structure": "Vaya por delante que + indicativo",
+      "examples": [
+        {
+          "es": "Vaya por delante que respeto su decisión.",
+          "zh": "先聲明我尊重他的決定。"
+        },
+        {
+          "es": "Vaya por delante que estos datos son provisionales.",
+          "zh": "先聲明這些數據是暫定的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Construcción «poner a alguien + adjetivo» — provocar cambio emocional",
+      "meaning_zh": "「使某人變得…」主語使他人進入某種情緒或狀態，常用於口語與書面。",
+      "structure": "Poner + a + alguien + adjetivo",
+      "examples": [
+        {
+          "es": "Esa noticia me puso muy triste.",
+          "zh": "那則消息讓我非常難過。"
+        },
+        {
+          "es": "Los gritos lo pusieron nervioso.",
+          "zh": "那些喊叫聲讓他變得緊張。"
+        },
+        {
+          "es": "Sus comentarios siempre me ponen de mal humor.",
+          "zh": "他的評論總是讓我心情不好。"
+        }
+      ]
+    },
+    {
+      "pattern": "Construcción «traer/llevar consigo» — implicación consecuente",
+      "meaning_zh": "「伴隨而來／帶來」常用於抽象後果，主語為事件或概念，後接其結果。",
+      "structure": "Traer / Llevar consigo + sustantivo",
+      "examples": [
+        {
+          "es": "La crisis trae consigo numerosos cambios sociales.",
+          "zh": "危機伴隨著眾多社會變化。"
+        },
+        {
+          "es": "Esa decisión lleva consigo grandes responsabilidades.",
+          "zh": "那項決定附帶重大的責任。"
+        }
+      ]
+    },
+    {
+      "pattern": "Construcción «poner de manifiesto» — locución verbal formal",
+      "meaning_zh": "「彰顯／顯示出」屬正式書面的固定動詞片語，常用於學術、新聞或報告語體中以呈現結論或事實。",
+      "structure": "Poner de manifiesto + sustantivo / que + indicativo",
+      "examples": [
+        {
+          "es": "El estudio pone de manifiesto la necesidad de reformas.",
+          "zh": "該研究顯示了改革的必要性。"
+        },
+        {
+          "es": "Sus palabras pusieron de manifiesto que no estaba preparado.",
+          "zh": "他的話顯示出他並未準備好。"
+        }
+      ]
     }
   ],
   "dc2": [
