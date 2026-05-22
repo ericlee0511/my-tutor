@@ -2115,6 +2115,785 @@
           "zh": "我們一起讀書吧。"
         }
       ]
+    },
+    {
+      "pattern": "Verbo «estar» — conjugación en presente",
+      "meaning_zh": "動詞 estar 在現在式的六個人稱變化：estoy, estás, está, estamos, estáis, están。",
+      "structure": "sujeto + estoy/estás/está/estamos/estáis/están",
+      "examples": [
+        {
+          "es": "Yo estoy en casa ahora.",
+          "zh": "我現在在家。"
+        },
+        {
+          "es": "Nosotros estamos muy cansados.",
+          "zh": "我們很累。"
+        },
+        {
+          "es": "Ellos están en la escuela.",
+          "zh": "他們在學校。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «ser» — conjugación en presente",
+      "meaning_zh": "動詞 ser 在現在式的六個人稱變化：soy, eres, es, somos, sois, son。",
+      "structure": "sujeto + soy/eres/es/somos/sois/son",
+      "examples": [
+        {
+          "es": "Yo soy estudiante.",
+          "zh": "我是學生。"
+        },
+        {
+          "es": "Tú eres muy amable.",
+          "zh": "你很親切。"
+        },
+        {
+          "es": "Nosotros somos amigos.",
+          "zh": "我們是朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «hacer» en presente — todas las personas",
+      "meaning_zh": "動詞 hacer（做）的現在式變化，第一人稱單數不規則：hago。",
+      "structure": "yo hago / tú haces / él hace / nosotros hacemos",
+      "examples": [
+        {
+          "es": "Yo hago los deberes por la tarde.",
+          "zh": "我下午做作業。"
+        },
+        {
+          "es": "¿Qué haces tú los domingos?",
+          "zh": "你星期天做什麼？"
+        },
+        {
+          "es": "Nosotros hacemos la comida juntos.",
+          "zh": "我們一起做飯。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «ir» en presente — todas las personas",
+      "meaning_zh": "動詞 ir（去）是完全不規則動詞：voy, vas, va, vamos, vais, van。",
+      "structure": "yo voy / tú vas / él va / nosotros vamos / ellos van",
+      "examples": [
+        {
+          "es": "Yo voy a la escuela en autobús.",
+          "zh": "我搭公車去學校。"
+        },
+        {
+          "es": "¿Adónde vas ahora?",
+          "zh": "你現在要去哪裡？"
+        },
+        {
+          "es": "Ellos van al cine los sábados.",
+          "zh": "他們星期六去看電影。"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombre interrogativo «quiénes» (plural)",
+      "meaning_zh": "問「誰」當指多人時，要用複數形 quiénes，而非單數的 quién。",
+      "structure": "¿Quiénes + verbo + ...?",
+      "examples": [
+        {
+          "es": "¿Quiénes son esas chicas?",
+          "zh": "那些女孩是誰？"
+        },
+        {
+          "es": "¿Quiénes vienen a la fiesta?",
+          "zh": "誰要來派對？"
+        },
+        {
+          "es": "¿Quiénes son tus profesores?",
+          "zh": "你的老師們是誰？"
+        }
+      ]
+    },
+    {
+      "pattern": "Números cardinales 31-100",
+      "meaning_zh": "31 到 100 的基數，整十有專屬名稱：cuarenta, cincuenta, sesenta 等。",
+      "structure": "treinta y uno ... cuarenta ... cien",
+      "examples": [
+        {
+          "es": "Mi abuela tiene setenta años.",
+          "zh": "我奶奶七十歲。"
+        },
+        {
+          "es": "Hay cincuenta libros en la mesa.",
+          "zh": "桌上有五十本書。"
+        },
+        {
+          "es": "El billete cuesta cien euros.",
+          "zh": "車票要一百歐元。"
+        }
+      ]
+    },
+    {
+      "pattern": "La hora «en punto» (整點)",
+      "meaning_zh": "報整點時間時，在小時後加 en punto，表示「整」。",
+      "structure": "Es la / Son las + número + en punto",
+      "examples": [
+        {
+          "es": "Son las tres en punto.",
+          "zh": "現在三點整。"
+        },
+        {
+          "es": "La clase empieza a las nueve en punto.",
+          "zh": "課程九點整開始。"
+        },
+        {
+          "es": "Es la una en punto.",
+          "zh": "現在一點整。"
+        }
+      ]
+    },
+    {
+      "pattern": "La hora con «y media» y «y cuarto»",
+      "meaning_zh": "表達「半」用 y media，「一刻鐘（十五分）」用 y cuarto。",
+      "structure": "Son las + hora + y media / y cuarto",
+      "examples": [
+        {
+          "es": "Son las dos y media.",
+          "zh": "現在兩點半。"
+        },
+        {
+          "es": "Es la una y cuarto.",
+          "zh": "現在一點十五分。"
+        },
+        {
+          "es": "Llego a las seis y media.",
+          "zh": "我六點半到。"
+        }
+      ]
+    },
+    {
+      "pattern": "La hora con «menos cuarto» (差一刻)",
+      "meaning_zh": "報快到整點的時間時，用下一個鐘點加 menos cuarto，表示「差十五分」。",
+      "structure": "Son las + hora siguiente + menos cuarto",
+      "examples": [
+        {
+          "es": "Son las ocho menos cuarto.",
+          "zh": "現在七點四十五分。"
+        },
+        {
+          "es": "El tren sale a las cinco menos cuarto.",
+          "zh": "火車四點四十五分出發。"
+        },
+        {
+          "es": "Es la una menos cuarto.",
+          "zh": "現在十二點四十五分。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preguntar la hora: «¿Qué hora es?»",
+      "meaning_zh": "詢問現在幾點固定用 ¿Qué hora es?，回答用 es / son。",
+      "structure": "¿Qué hora es? → Es la una / Son las + número",
+      "examples": [
+        {
+          "es": "¿Qué hora es? — Son las cuatro.",
+          "zh": "現在幾點？——四點。"
+        },
+        {
+          "es": "Perdona, ¿qué hora es?",
+          "zh": "不好意思，請問現在幾點？"
+        },
+        {
+          "es": "¿Qué hora es? — Es la una.",
+          "zh": "現在幾點？——一點。"
+        }
+      ]
+    },
+    {
+      "pattern": "«¿A qué hora...?» (詢問幾點做某事)",
+      "meaning_zh": "詢問某事在幾點發生用 ¿A qué hora...?，回答用介系詞 a。",
+      "structure": "¿A qué hora + verbo? → A la(s) + hora",
+      "examples": [
+        {
+          "es": "¿A qué hora te levantas?",
+          "zh": "你幾點起床？"
+        },
+        {
+          "es": "¿A qué hora abre la tienda?",
+          "zh": "商店幾點開門？"
+        },
+        {
+          "es": "¿A qué hora comemos? — A las dos.",
+          "zh": "我們幾點吃飯？——兩點。"
+        }
+      ]
+    },
+    {
+      "pattern": "Partes del día: por la mañana / por la tarde / por la noche",
+      "meaning_zh": "表達一天中的時段用 por la mañana（早上）、por la tarde（下午）、por la noche（晚上）。",
+      "structure": "por la mañana / por la tarde / por la noche",
+      "examples": [
+        {
+          "es": "Estudio español por la mañana.",
+          "zh": "我早上學西班牙語。"
+        },
+        {
+          "es": "Trabajo por la tarde.",
+          "zh": "我下午工作。"
+        },
+        {
+          "es": "Veo la televisión por la noche.",
+          "zh": "我晚上看電視。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «hacer» para preguntar la profesión",
+      "meaning_zh": "問人的職業常用 ¿A qué te dedicas? 或 ¿Qué haces?，回答常用 ser。",
+      "structure": "¿A qué te dedicas? → Soy + profesión",
+      "examples": [
+        {
+          "es": "¿A qué te dedicas? — Soy profesor.",
+          "zh": "你做什麼工作？——我是老師。"
+        },
+        {
+          "es": "¿Qué hace tu padre? — Es médico.",
+          "zh": "你爸爸做什麼？——他是醫生。"
+        },
+        {
+          "es": "Mi hermana es enfermera.",
+          "zh": "我姊姊是護士。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «estudiar» en presente",
+      "meaning_zh": "規則 -ar 動詞 estudiar（學習）在現在式的變化，用來談學習科目或地點。",
+      "structure": "estudio / estudias / estudia / estudiamos / estudiáis / estudian",
+      "examples": [
+        {
+          "es": "Yo estudio en la universidad.",
+          "zh": "我在大學唸書。"
+        },
+        {
+          "es": "Ella estudia medicina.",
+          "zh": "她讀醫學。"
+        },
+        {
+          "es": "Nosotros estudiamos español.",
+          "zh": "我們學西班牙語。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «vivir» en presente",
+      "meaning_zh": "規則 -ir 動詞 vivir（住、生活）在現在式的變化，常與 en 連用表居住地。",
+      "structure": "vivo / vives / vive / vivimos / vivís / viven",
+      "examples": [
+        {
+          "es": "Yo vivo en Madrid.",
+          "zh": "我住在馬德里。"
+        },
+        {
+          "es": "¿Dónde vives tú?",
+          "zh": "你住在哪裡？"
+        },
+        {
+          "es": "Mis padres viven en un pueblo.",
+          "zh": "我父母住在一個小鎮。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «hablar» en presente",
+      "meaning_zh": "規則 -ar 動詞 hablar（說）在現在式的變化，常用來談會說的語言。",
+      "structure": "hablo / hablas / habla / hablamos / habláis / hablan",
+      "examples": [
+        {
+          "es": "Yo hablo chino e inglés.",
+          "zh": "我會說中文和英文。"
+        },
+        {
+          "es": "¿Hablas español?",
+          "zh": "你會說西班牙語嗎？"
+        },
+        {
+          "es": "Ellos hablan muy rápido.",
+          "zh": "他們說得很快。"
+        }
+      ]
+    },
+    {
+      "pattern": "«mucho / mucha / muchos / muchas» concordancia",
+      "meaning_zh": "mucho 當形容詞修飾名詞時，要與名詞的陰陽性、單複數一致。",
+      "structure": "mucho/mucha/muchos/muchas + sustantivo",
+      "examples": [
+        {
+          "es": "Tengo mucho trabajo hoy.",
+          "zh": "我今天有很多工作。"
+        },
+        {
+          "es": "Hay mucha gente en la plaza.",
+          "zh": "廣場上有很多人。"
+        },
+        {
+          "es": "Compro muchas manzanas.",
+          "zh": "我買很多蘋果。"
+        }
+      ]
+    },
+    {
+      "pattern": "«poco / poca / pocos / pocas» concordancia",
+      "meaning_zh": "poco（少）當形容詞時要與名詞的陰陽性、單複數一致。",
+      "structure": "poco/poca/pocos/pocas + sustantivo",
+      "examples": [
+        {
+          "es": "Tengo poco tiempo.",
+          "zh": "我時間很少。"
+        },
+        {
+          "es": "Hay poca leche en la nevera.",
+          "zh": "冰箱裡牛奶很少。"
+        },
+        {
+          "es": "Pocos estudiantes vienen hoy.",
+          "zh": "今天來的學生很少。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adjetivo «otro / otra» sin artículo",
+      "meaning_zh": "西班牙語的 otro（另一個）前面不加不定冠詞 un/una，這與英文不同。",
+      "structure": "otro/otra + sustantivo（不加 un/una）",
+      "examples": [
+        {
+          "es": "Quiero otro café, por favor.",
+          "zh": "我想要再來一杯咖啡。"
+        },
+        {
+          "es": "Necesito otra silla.",
+          "zh": "我需要另一把椅子。"
+        },
+        {
+          "es": "¿Tienes otro bolígrafo?",
+          "zh": "你有另一支筆嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Pronombre «me gusta» vs «me gustan»",
+      "meaning_zh": "gustar 的動詞依「喜歡的事物」決定單複數：單數用 gusta，複數用 gustan。",
+      "structure": "me gusta + singular / me gustan + plural",
+      "examples": [
+        {
+          "es": "Me gusta el chocolate.",
+          "zh": "我喜歡巧克力。"
+        },
+        {
+          "es": "Me gustan los gatos.",
+          "zh": "我喜歡貓。"
+        },
+        {
+          "es": "Me gusta leer libros.",
+          "zh": "我喜歡讀書。"
+        }
+      ]
+    },
+    {
+      "pattern": "Frecuencia: «una vez / dos veces a la semana»",
+      "meaning_zh": "表達做某事的次數頻率，用「vez/veces + a la semana / al mes」。",
+      "structure": "número + vez/veces + a la semana / al mes",
+      "examples": [
+        {
+          "es": "Voy al gimnasio dos veces a la semana.",
+          "zh": "我一週去健身房兩次。"
+        },
+        {
+          "es": "Visito a mis abuelos una vez al mes.",
+          "zh": "我一個月探望祖父母一次。"
+        },
+        {
+          "es": "Como pescado tres veces a la semana.",
+          "zh": "我一週吃三次魚。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbio «todos los días»",
+      "meaning_zh": "表達「每天」用 todos los días，是常用的時間頻率表達。",
+      "structure": "todos los días + verbo",
+      "examples": [
+        {
+          "es": "Todos los días tomo café.",
+          "zh": "我每天喝咖啡。"
+        },
+        {
+          "es": "Estudio español todos los días.",
+          "zh": "我每天學西班牙語。"
+        },
+        {
+          "es": "Ella va a trabajar todos los días.",
+          "zh": "她每天去上班。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «desayunar / comer / cenar» (三餐)",
+      "meaning_zh": "三餐動詞：desayunar（吃早餐）、comer（吃午餐）、cenar（吃晚餐）。",
+      "structure": "desayuno / como / ceno + comida",
+      "examples": [
+        {
+          "es": "Desayuno pan y café.",
+          "zh": "我早餐吃麵包配咖啡。"
+        },
+        {
+          "es": "Como con mi familia.",
+          "zh": "我和家人一起吃午餐。"
+        },
+        {
+          "es": "Ceno a las nueve de la noche.",
+          "zh": "我晚上九點吃晚餐。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición «a» con horas",
+      "meaning_zh": "說明事情在「幾點」發生時，時間前要加介系詞 a。",
+      "structure": "verbo + a la(s) + hora",
+      "examples": [
+        {
+          "es": "Me levanto a las siete.",
+          "zh": "我七點起床。"
+        },
+        {
+          "es": "La película empieza a las ocho.",
+          "zh": "電影八點開始。"
+        },
+        {
+          "es": "Vuelvo a casa a la una.",
+          "zh": "我一點回家。"
+        }
+      ]
+    },
+    {
+      "pattern": "Preposición «de» con horas (de la mañana/tarde)",
+      "meaning_zh": "明確指出是早上、下午還是晚上的幾點時，用「de la mañana / de la tarde / de la noche」。",
+      "structure": "a las + hora + de la mañana / tarde / noche",
+      "examples": [
+        {
+          "es": "Trabajo a las nueve de la mañana.",
+          "zh": "我早上九點工作。"
+        },
+        {
+          "es": "Cenamos a las ocho de la noche.",
+          "zh": "我們晚上八點吃晚餐。"
+        },
+        {
+          "es": "La cita es a las cinco de la tarde.",
+          "zh": "約會在下午五點。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «llevar» — ropa (穿著)",
+      "meaning_zh": "動詞 llevar 用來表達「穿著」某件衣服或配件。",
+      "structure": "llevar + ropa / complemento",
+      "examples": [
+        {
+          "es": "Llevo una camiseta azul.",
+          "zh": "我穿著一件藍色T恤。"
+        },
+        {
+          "es": "Ella lleva gafas.",
+          "zh": "她戴著眼鏡。"
+        },
+        {
+          "es": "Hoy llevamos zapatos nuevos.",
+          "zh": "我們今天穿新鞋。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «costar» — preguntar el precio",
+      "meaning_zh": "詢問價格用 ¿Cuánto cuesta?（單數）或 ¿Cuánto cuestan?（複數）。",
+      "structure": "¿Cuánto cuesta/cuestan + sustantivo?",
+      "examples": [
+        {
+          "es": "¿Cuánto cuesta este libro?",
+          "zh": "這本書多少錢？"
+        },
+        {
+          "es": "¿Cuánto cuestan las naranjas?",
+          "zh": "這些柳橙多少錢？"
+        },
+        {
+          "es": "El café cuesta dos euros.",
+          "zh": "咖啡要兩歐元。"
+        }
+      ]
+    },
+    {
+      "pattern": "«¿Cómo te llamas?» y «Me llamo...»",
+      "meaning_zh": "詢問名字用 ¿Cómo te llamas?，回答用 Me llamo + 名字。",
+      "structure": "¿Cómo te llamas? → Me llamo + nombre",
+      "examples": [
+        {
+          "es": "¿Cómo te llamas? — Me llamo Ana.",
+          "zh": "你叫什麼名字？——我叫安娜。"
+        },
+        {
+          "es": "¿Cómo se llama usted?",
+          "zh": "您叫什麼名字？"
+        },
+        {
+          "es": "Mi amigo se llama Pedro.",
+          "zh": "我朋友叫佩德羅。"
+        }
+      ]
+    },
+    {
+      "pattern": "«¿De dónde eres?» — origen",
+      "meaning_zh": "詢問來自哪裡用 ¿De dónde eres?，回答用 Soy de + 地方。",
+      "structure": "¿De dónde eres? → Soy de + lugar",
+      "examples": [
+        {
+          "es": "¿De dónde eres? — Soy de Taiwán.",
+          "zh": "你來自哪裡？——我來自台灣。"
+        },
+        {
+          "es": "Ella es de México.",
+          "zh": "她來自墨西哥。"
+        },
+        {
+          "es": "¿De dónde son ustedes?",
+          "zh": "你們來自哪裡？"
+        }
+      ]
+    },
+    {
+      "pattern": "«¿Cuántos años tienes?» — preguntar la edad",
+      "meaning_zh": "詢問年齡固定用 ¿Cuántos años tienes?，回答用 Tengo + 數字 + años。",
+      "structure": "¿Cuántos años tienes? → Tengo + número + años",
+      "examples": [
+        {
+          "es": "¿Cuántos años tienes? — Tengo veinte años.",
+          "zh": "你幾歲？——我二十歲。"
+        },
+        {
+          "es": "Mi hermano tiene diez años.",
+          "zh": "我弟弟十歲。"
+        },
+        {
+          "es": "¿Cuántos años tiene tu madre?",
+          "zh": "你媽媽幾歲？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «jugar a» — deportes y juegos",
+      "meaning_zh": "表達玩運動或遊戲用「jugar a + 運動」，jugar 是 u→ue 變化動詞。",
+      "structure": "jugar a + el/los + deporte",
+      "examples": [
+        {
+          "es": "Juego al fútbol los domingos.",
+          "zh": "我星期天踢足球。"
+        },
+        {
+          "es": "Mis amigos juegan al baloncesto.",
+          "zh": "我的朋友打籃球。"
+        },
+        {
+          "es": "¿Juegas al tenis?",
+          "zh": "你打網球嗎？"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «gustar» con «a + nombre» para aclarar",
+      "meaning_zh": "為了說明是「誰」喜歡某事物，在句首用「A + 人名」加上對應的間接受詞。",
+      "structure": "A + nombre + le gusta(n) + cosa",
+      "examples": [
+        {
+          "es": "A María le gusta el té.",
+          "zh": "瑪麗亞喜歡茶。"
+        },
+        {
+          "es": "A mi padre le gustan los deportes.",
+          "zh": "我爸爸喜歡運動。"
+        },
+        {
+          "es": "A los niños les gusta jugar.",
+          "zh": "孩子們喜歡玩。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbio «también» en respuestas",
+      "meaning_zh": "回應別人的肯定句、表達「我也是」時用 A mí también。",
+      "structure": "A mí también / Yo también",
+      "examples": [
+        {
+          "es": "Me gusta el café. — A mí también.",
+          "zh": "我喜歡咖啡。——我也是。"
+        },
+        {
+          "es": "Soy estudiante. — Yo también.",
+          "zh": "我是學生。——我也是。"
+        },
+        {
+          "es": "Tengo hambre. — Yo también.",
+          "zh": "我餓了。——我也是。"
+        }
+      ]
+    },
+    {
+      "pattern": "Días de la semana con «el» y «los»",
+      "meaning_zh": "說某一天用 el lunes，說「每逢星期幾」用複數 los lunes。",
+      "structure": "el + día (一次) / los + día+s (習慣)",
+      "examples": [
+        {
+          "es": "El lunes voy al médico.",
+          "zh": "星期一我要去看醫生。"
+        },
+        {
+          "es": "Los sábados no trabajo.",
+          "zh": "我每個星期六不上班。"
+        },
+        {
+          "es": "Los domingos descanso en casa.",
+          "zh": "我每個星期天在家休息。"
+        }
+      ]
+    },
+    {
+      "pattern": "Fecha: «¿Qué día es hoy?»",
+      "meaning_zh": "詢問今天日期用 ¿Qué día es hoy?，回答用「Hoy es + 星期/日期」。",
+      "structure": "¿Qué día es hoy? → Hoy es + día",
+      "examples": [
+        {
+          "es": "¿Qué día es hoy? — Hoy es martes.",
+          "zh": "今天星期幾？——今天星期二。"
+        },
+        {
+          "es": "Hoy es 5 de mayo.",
+          "zh": "今天是五月五日。"
+        },
+        {
+          "es": "Mañana es viernes.",
+          "zh": "明天是星期五。"
+        }
+      ]
+    },
+    {
+      "pattern": "Expresar la fecha: «el + número + de + mes»",
+      "meaning_zh": "說日期用「el + 數字 + de + 月份」，第一日用 primero 或 uno。",
+      "structure": "el + número + de + mes",
+      "examples": [
+        {
+          "es": "Mi cumpleaños es el 12 de marzo.",
+          "zh": "我的生日是三月十二日。"
+        },
+        {
+          "es": "Hoy es el 1 de enero.",
+          "zh": "今天是一月一日。"
+        },
+        {
+          "es": "La fiesta es el 25 de diciembre.",
+          "zh": "派對在十二月二十五日。"
+        }
+      ]
+    },
+    {
+      "pattern": "Adverbios «hoy / mañana / ayer»",
+      "meaning_zh": "基本時間副詞：hoy（今天）、mañana（明天）、ayer（昨天）。",
+      "structure": "hoy / mañana / ayer + oración",
+      "examples": [
+        {
+          "es": "Hoy hace sol.",
+          "zh": "今天出太陽。"
+        },
+        {
+          "es": "Mañana voy a la playa.",
+          "zh": "明天我要去海灘。"
+        },
+        {
+          "es": "Ayer estudio mucho.",
+          "zh": "昨天我學了很多。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tiempo: «hace calor / hace frío»",
+      "meaning_zh": "談天氣冷熱用無人稱的 hace：hace calor（很熱）、hace frío（很冷）。",
+      "structure": "hace + calor / frío / sol / viento",
+      "examples": [
+        {
+          "es": "Hoy hace mucho calor.",
+          "zh": "今天很熱。"
+        },
+        {
+          "es": "En invierno hace frío.",
+          "zh": "冬天很冷。"
+        },
+        {
+          "es": "Hace viento en la montaña.",
+          "zh": "山上有風。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tiempo: «llueve» y «nieva»",
+      "meaning_zh": "下雨用動詞 llueve，下雪用 nieva，兩者都是無人稱動詞。",
+      "structure": "llueve / nieva（無主詞）",
+      "examples": [
+        {
+          "es": "Hoy llueve mucho.",
+          "zh": "今天雨下得很大。"
+        },
+        {
+          "es": "En diciembre nieva en la montaña.",
+          "zh": "十二月山上會下雪。"
+        },
+        {
+          "es": "Cuando llueve, no salgo.",
+          "zh": "下雨時，我不出門。"
+        }
+      ]
+    },
+    {
+      "pattern": "«¿Qué tiempo hace?» — preguntar el clima",
+      "meaning_zh": "詢問天氣固定用 ¿Qué tiempo hace?，回答用 hace / está / hay。",
+      "structure": "¿Qué tiempo hace? → Hace + ... / Está + ...",
+      "examples": [
+        {
+          "es": "¿Qué tiempo hace hoy? — Hace sol.",
+          "zh": "今天天氣如何？——出太陽。"
+        },
+        {
+          "es": "¿Qué tiempo hace en verano?",
+          "zh": "夏天天氣如何？"
+        },
+        {
+          "es": "¿Qué tiempo hace allí? — Está nublado.",
+          "zh": "那裡天氣如何？——多雲。"
+        }
+      ]
+    },
+    {
+      "pattern": "Verbo «despertarse» (e→ie, 醒來)",
+      "meaning_zh": "反身動詞 despertarse（醒來）有 e→ie 母音變化：me despierto。",
+      "structure": "me despierto / te despiertas / se despierta",
+      "examples": [
+        {
+          "es": "Me despierto a las seis.",
+          "zh": "我六點醒來。"
+        },
+        {
+          "es": "¿A qué hora te despiertas?",
+          "zh": "你幾點醒來？"
+        },
+        {
+          "es": "Los niños se despiertan temprano.",
+          "zh": "孩子們很早醒來。"
+        }
+      ]
     }
   ],
   "da2": [
