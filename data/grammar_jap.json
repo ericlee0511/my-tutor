@@ -27873,6 +27873,90 @@
           "kana": "こんシーズンをかぎりとして、かれはげんえきをいんたいすることをきめた。"
         }
       ]
+    },
+    {
+      "pattern": "〜であろうはずがない",
+      "meaning_en": "there is no way it could be; it cannot possibly be",
+      "meaning_ja": "そのような状況や事実が成り立つことは絶対にないと強く断定する言い方。",
+      "meaning_zh": "絕對不可能是…；斷然否定某種情況存在的可能性。",
+      "structure": "Noun/Na-adjective + であろうはずがない；普通形（動詞・イ形容詞）+ はずがない の強調形",
+      "examples": [
+        {
+          "ja": "彼ほど誠実な人間が、そんな卑劣な裏切りをするであろうはずがない。",
+          "en": "There is simply no way that a person as honest as he is would commit such a despicable betrayal.",
+          "kana": "かれほどせいじつなにんげんが、そんなひれつなうらぎりをするであろうはずがない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たりとて",
+      "meaning_en": "even (a single); not even one",
+      "meaning_ja": "たとえ一つ・一人といった最小の存在であってもという意味で、後に否定を伴うことが多い。",
+      "meaning_zh": "即便是…（一個、一人之類最小單位）也…；後接否定，強調毫無例外。",
+      "structure": "Noun（一人・一日・一瞬など最小単位を表す語）+ たりとて",
+      "examples": [
+        {
+          "ja": "戦時下にあっては、子供一人たりとて飢えから逃れることはできなかった。",
+          "en": "Under wartime conditions, not even a single child could escape from hunger.",
+          "kana": "せんじかにあっては、こどもひとりたりとてうえからのがれることはできなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と言ったところで",
+      "meaning_en": "even if one says; no matter how one puts it",
+      "meaning_ja": "あることを主張・説明しても、実際にはたいした効果や程度ではないと述べるときに使う。",
+      "meaning_zh": "即使說是…，實際上也不過如此；表示說了也沒多大意義或程度有限。",
+      "structure": "普通形 + と言ったところで",
+      "examples": [
+        {
+          "ja": "節約していると言ったところで、せいぜい月に数千円浮く程度のことだ。",
+          "en": "Even if I say I'm being frugal, at best it only amounts to saving a few thousand yen a month.",
+          "kana": "せつやくしているといったところで、せいぜいつきにすうせんえんうくていどのことだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を押してでも",
+      "meaning_en": "even at the cost of forcing oneself through (difficulty)",
+      "meaning_ja": "病気や反対などの困難を承知のうえで、無理を押し切ってでも行うことを表す。",
+      "meaning_zh": "即使勉強克服…（病痛、反對等）也要…；表示不顧困難硬要去做。",
+      "structure": "Noun（病・反対・無理など）+ を押してでも",
+      "examples": [
+        {
+          "ja": "彼女は高熱を押してでも、観客との約束だった舞台に立とうとした。",
+          "en": "She was determined to take the stage, which she had promised to the audience, even at the cost of pushing through a high fever.",
+          "kana": "かのじょはこうねつをおしてでも、かんきゃくとのやくそくだったぶたいにたとうとした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜を顧みず",
+      "meaning_en": "without regard for; in disregard of",
+      "meaning_ja": "本来気にかけるべき事柄を考慮に入れず、それを無視して行動することを表す。",
+      "meaning_zh": "不顧…；無視本應在意的事物而採取行動。",
+      "structure": "Noun（危険・身・家庭など）+ を顧みず",
+      "examples": [
+        {
+          "ja": "消防士たちは我が身の危険を顧みず、燃えさかる建物へ突入していった。",
+          "en": "The firefighters charged into the blazing building without any regard for the danger to their own lives.",
+          "kana": "しょうぼうしたちはわがみのきけんをかえりみず、もえさかるたてものへとつにゅうしていった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜とは比べるべくもない",
+      "meaning_en": "is utterly beyond comparison with",
+      "meaning_ja": "差があまりに大きく、比較すること自体が成り立たないほどだという意味を表す。",
+      "meaning_zh": "根本無法與…相提並論；差距懸殊到連比較都談不上。",
+      "structure": "Noun + とは比べるべくもない",
+      "examples": [
+        {
+          "ja": "現代の医療水準は、半世紀前のそれとは比べるべくもないほど進歩した。",
+          "en": "Today's standard of medical care has advanced to a degree utterly beyond comparison with that of half a century ago.",
+          "kana": "げんだいのいりょうすいじゅんは、はんせいきまえのそれとはくらべるべくもないほどしんぽした。"
+        }
+      ]
     }
   ]
 }
