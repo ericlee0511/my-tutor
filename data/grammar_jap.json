@@ -14084,6 +14084,370 @@
           "kana": "ありうるはなしだ。"
         }
       ]
+    },
+    {
+      "pattern": "〜たまえ",
+      "meaning_en": "do (mild masculine command)",
+      "meaning_ja": "目上の人が目下の人に軽く命令したり促したりするときに使う、男性的でやや古風な言い方",
+      "meaning_zh": "用於上對下、語氣較緩和的男性命令或勸誘，略帶老派文雅感",
+      "structure": "Verb-ます stem + たまえ",
+      "examples": [
+        {
+          "ja": "まあ、そう怒らずに座りたまえ。",
+          "en": "Now now, don't get so angry; have a seat.",
+          "kana": "まあ、そうおこらずにすわりたまえ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜さ (形容詞の名詞化)",
+      "meaning_en": "-ness (nominalizer for adjectives)",
+      "meaning_ja": "形容詞をその性質や程度を客観的に表す名詞に変える働きをする",
+      "meaning_zh": "把形容詞變成客觀表示性質或程度的名詞，「…度、…的程度」",
+      "structure": "i-adj語幹 / na-adj語幹 + さ",
+      "examples": [
+        {
+          "ja": "この山の高さは三千メートルもある。",
+          "en": "The height of this mountain is as much as three thousand meters.",
+          "kana": "このやまのたかさはさんぜんメートルもある。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜み (形容詞の名詞化)",
+      "meaning_en": "-ness (nominalizing suffix expressing a quality)",
+      "meaning_ja": "形容詞をその性質や状態を感覚的・主観的に表す名詞に変える働きをする",
+      "meaning_zh": "把形容詞變成名詞，較感性主觀地表達其性質或狀態",
+      "structure": "i-adj語幹 / 一部 na-adj語幹 + み",
+      "examples": [
+        {
+          "ja": "彼の話には深みがあって、聞いていて飽きない。",
+          "en": "His talks have depth, so they never get boring to listen to.",
+          "kana": "かれのはなしにはふかみがあって、きいていてあきない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜っこない",
+      "meaning_en": "there's no way that; definitely not",
+      "meaning_ja": "そんなことは絶対にありえない、と強く否定する話し言葉の言い方",
+      "meaning_zh": "強烈否定某事絕對不可能，口語說法，「絕不可能…、才不會…」",
+      "structure": "Verb-ます stem + っこない",
+      "examples": [
+        {
+          "ja": "こんなに難しい問題、私に解けっこない。",
+          "en": "There's no way I can solve a problem this difficult.",
+          "kana": "こんなにむずかしいもんだい、わたしにとけっこない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないわけにはいかない",
+      "meaning_en": "cannot help but; have no choice but to",
+      "meaning_ja": "義務や事情のために、そうしないでいることはできないことを表す",
+      "meaning_zh": "因義務或情況等而不得不做，「不得不…、非…不可」",
+      "structure": "Verb-ない形 + わけにはいかない",
+      "examples": [
+        {
+          "ja": "課長に頼まれたのだから、引き受けないわけにはいかない。",
+          "en": "Since the section chief asked me, I have no choice but to take it on.",
+          "kana": "かちょうにたのまれたのだから、ひきうけないわけにはいかない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜放題",
+      "meaning_en": "to do freely; as much as one likes",
+      "meaning_ja": "制限がなく、思いのままに自由にその動作ができることを表す",
+      "meaning_zh": "表示沒有限制、可以隨心所欲自由地做某動作，「任意…、隨便…」",
+      "structure": "Verb-ます stem + 放題(ほうだい)",
+      "examples": [
+        {
+          "ja": "このレストランは時間内なら食べ放題だ。",
+          "en": "At this restaurant you can eat as much as you like within the time limit.",
+          "kana": "このレストランはじかんないならたべほうだいだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ふりをする",
+      "meaning_en": "to pretend to; to act as if",
+      "meaning_ja": "実際はそうでないのに、そうであるかのように見せかけることを表す",
+      "meaning_zh": "明明不是那樣，卻裝出一副那樣的樣子，「假裝…」",
+      "structure": "Verb/i-adj 普通形 / na-adj + な / Noun + の + ふりをする",
+      "examples": [
+        {
+          "ja": "知っているのに、彼は知らないふりをした。",
+          "en": "Even though he knew, he pretended not to.",
+          "kana": "しっているのに、かれはしらないふりをした。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜となると",
+      "meaning_en": "when it comes to; if it comes to the point of",
+      "meaning_ja": "ある事柄を取り上げて、その場合にはと特別な状況を仮定して述べる",
+      "meaning_zh": "提出某事項，假設「一旦到了那種情況」，「一旦要…、說到…」",
+      "structure": "Verb辞書形 / Noun + となると",
+      "examples": [
+        {
+          "ja": "旅行は好きだが、一人で海外へ行くとなると少し不安だ。",
+          "en": "I like traveling, but when it comes to going abroad alone, I feel a little anxious.",
+          "kana": "りょこうはすきだが、ひとりでかいがいへいくとなるとすこしふあんだ。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことだろう",
+      "meaning_en": "I imagine; surely (an emotional guess)",
+      "meaning_ja": "ある事柄について、きっとそうだろうと感情を込めて推量する",
+      "meaning_zh": "對某事帶著情感地推測「一定是…吧」",
+      "structure": "Verb/i-adj 普通形 / na-adj + な + ことだろう",
+      "examples": [
+        {
+          "ja": "合格の知らせを聞いたら、両親はどんなに喜ぶことだろう。",
+          "en": "When they hear the news that I passed, I can only imagine how delighted my parents will be.",
+          "kana": "ごうかくのしらせをきいたら、りょうしんはどんなによろこぶことだろう。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜と言われている",
+      "meaning_en": "it is said that; people say that",
+      "meaning_ja": "世間で一般にそのように考えられたり言われたりしていることを表す",
+      "meaning_zh": "表示社會上一般如此認為或如此說，「據說…、一般認為…」",
+      "structure": "Verb/i-adj/na-adj/Noun 普通形 + と言われている",
+      "examples": [
+        {
+          "ja": "緑茶は健康にいいと言われている。",
+          "en": "It is said that green tea is good for your health.",
+          "kana": "りょくちゃはけんこうにいいといわれている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ように見える",
+      "meaning_en": "to look as if; to appear to",
+      "meaning_ja": "外から見た様子から、そのような状態だと判断できることを表す",
+      "meaning_zh": "從外觀看來判斷似乎是那種狀態，「看起來像…、似乎…」",
+      "structure": "Verb/i-adj 普通形 / na-adj + な / Noun + の + ように見える",
+      "examples": [
+        {
+          "ja": "彼は元気そうにしているが、本当は無理をしているように見える。",
+          "en": "He acts cheerful, but he really looks as if he is overdoing it.",
+          "kana": "かれはげんきそうにしているが、ほんとうはむりをしているようにみえる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜め (程度がやや〜)",
+      "meaning_en": "slightly; a bit on the ... side",
+      "meaning_ja": "ある性質や程度が、ふつうより少しそうであることを表す",
+      "meaning_zh": "表示某性質或程度比一般稍微偏向某方向，「稍微…、…一點」",
+      "structure": "i-adj語幹 + め",
+      "examples": [
+        {
+          "ja": "塩を少し多めに入れたほうがおいしくなる。",
+          "en": "It tastes better if you add a little more salt than usual.",
+          "kana": "しおをすこしおおめにいれたほうがおいしくなる。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜はずだった",
+      "meaning_en": "was supposed to (but didn't)",
+      "meaning_ja": "そうなるはずだった予定や予想が、実際にはそうならなかったことを表す",
+      "meaning_zh": "表示原本應該如此的預定或預想，實際上卻沒有實現，「本來應該…（卻沒…）」",
+      "structure": "Verb辞書形・た形 / i-adj辞書形 / na-adj + な / Noun + の + はずだった",
+      "examples": [
+        {
+          "ja": "今日届くはずだった荷物が、まだ届いていない。",
+          "en": "The package that was supposed to arrive today still hasn't come.",
+          "kana": "きょうとどくはずだったにもつが、まだとどいていない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜あまりの〜に",
+      "meaning_en": "because of the sheer (extent of)",
+      "meaning_ja": "ある程度がはなはだしいことが原因となって、ある結果が生じることを表す",
+      "meaning_zh": "因某種程度過於強烈而導致某結果，「由於太過…」",
+      "structure": "あまりの + Noun + に",
+      "examples": [
+        {
+          "ja": "あまりの暑さに、外に出る気がしなかった。",
+          "en": "Because of the sheer heat, I didn't feel like going outside.",
+          "kana": "あまりのあつさに、そとにでるきがしなかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜らしさ",
+      "meaning_en": "the quality of being typically ...",
+      "meaning_ja": "そのものが本来持っているふさわしい性質や特徴を名詞として表す",
+      "meaning_zh": "把某事物本來該有的、相稱的特質名詞化，「…的特質、像…的樣子」",
+      "structure": "Noun + らしさ",
+      "examples": [
+        {
+          "ja": "この町には、昔ながらの日本らしさが残っている。",
+          "en": "This town retains the old-fashioned quality of being typically Japanese.",
+          "kana": "このまちには、むかしながらのにほんらしさがのこっている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ぎみ",
+      "meaning_en": "a touch of; tending to be (slightly)",
+      "meaning_ja": "はっきりとではないが、そのような傾向や様子が少し感じられることを表す",
+      "meaning_zh": "雖不明顯，但稍微感覺到有那樣的傾向或樣子，「有點…、稍微…」",
+      "structure": "Noun / Verb-ます stem + ぎみ",
+      "examples": [
+        {
+          "ja": "最近、少し疲れぎみなので、早めに寝るようにしている。",
+          "en": "Lately I've been feeling a little tired, so I try to go to bed early.",
+          "kana": "さいきん、すこしつかれぎみなので、はやめにねるようにしている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ようと(意志)",
+      "meaning_en": "intending to; deciding to",
+      "meaning_ja": "あることをしようという話し手の意志や決意を表す",
+      "meaning_zh": "表示說話者打算做某事的意志或決心，「打算…、想要…」",
+      "structure": "Verb意向形 + と",
+      "examples": [
+        {
+          "ja": "今年こそ日本語の試験に合格しようと、毎日勉強している。",
+          "en": "Determined to pass the Japanese exam this year for sure, I study every day.",
+          "kana": "ことしこそにほんごのしけんにごうかくしようと、まいにちべんきょうしている。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜こと(指示・規則)",
+      "meaning_en": "must; be sure to (written rule)",
+      "meaning_ja": "規則や注意書きなどで、そうしなければならない指示を簡潔に伝える",
+      "meaning_zh": "用於規則或注意事項中，簡潔地傳達必須這麼做的指示，「應…、務必…」",
+      "structure": "Verb辞書形・ない形 + こと",
+      "examples": [
+        {
+          "ja": "図書館の本は、必ず期限までに返すこと。",
+          "en": "Library books must be returned by the due date without fail.",
+          "kana": "としょかんのほんは、かならずきげんまでにかえすこと。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことか(嘆き・感嘆)",
+      "meaning_en": "how very ... !; how much ... !",
+      "meaning_ja": "感動や驚き、嘆きの気持ちを込めて程度がはなはだしいことを強調する",
+      "meaning_zh": "帶著感嘆、驚訝或感慨的心情，強調程度之深，「多麼…啊」",
+      "structure": "疑問詞(なんと/どれほど等) + Verb/i-adj 普通形 + ことか",
+      "examples": [
+        {
+          "ja": "一人でこの国へ来て、どれほど心細かったことか。",
+          "en": "How lonely and helpless I felt, coming to this country all alone!",
+          "kana": "ひとりでこのくにへきて、どれほどこころぼそかったことか。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にしたがって (変化の連動)",
+      "meaning_en": "as; in proportion as",
+      "meaning_ja": "一方が変化するのにつれて、もう一方も同じように変化することを表す",
+      "meaning_zh": "表示隨著一方變化，另一方也同樣變化，「隨著…」",
+      "structure": "Verb辞書形 / Noun + にしたがって",
+      "examples": [
+        {
+          "ja": "山を登るにしたがって、気温が下がってきた。",
+          "en": "As we climbed the mountain, the temperature gradually dropped.",
+          "kana": "やまをのぼるにしたがって、きおんがさがってきた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜たて (動作の直後)",
+      "meaning_en": "freshly; just done",
+      "meaning_ja": "ある動作が終わったばかりであることを表す",
+      "meaning_zh": "表示某動作剛完成不久，「剛…好的」",
+      "structure": "Verb-ます stem + たて",
+      "examples": [
+        {
+          "ja": "焼きたてのパンはとてもいいにおいがする。",
+          "en": "Freshly baked bread smells really good.",
+          "kana": "やきたてのパンはとてもいいにおいがする。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ぶり (時間の経過)",
+      "meaning_en": "after an interval of; for the first time in",
+      "meaning_ja": "前に同じことが起きてから、それだけの時間がたったことを表す",
+      "meaning_zh": "表示自上次發生同樣的事以來經過了那麼久，「相隔…、睽違…」",
+      "structure": "時間を表すNoun + ぶり",
+      "examples": [
+        {
+          "ja": "十年ぶりに故郷へ帰って、町の変わりように驚いた。",
+          "en": "Returning to my hometown for the first time in ten years, I was surprised at how the town had changed.",
+          "kana": "じゅうねんぶりにこきょうへかえって、まちのかわりようにおどろいた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ばかりだ (悪化の一途)",
+      "meaning_en": "to only get more; to do nothing but",
+      "meaning_ja": "ある状態が悪い方向へ進む一方であることを表す",
+      "meaning_zh": "表示某狀態只朝壞的方向發展，「只是一味地…、越來越…」",
+      "structure": "Verb辞書形 + ばかりだ",
+      "examples": [
+        {
+          "ja": "手術をしても、祖父の病気は悪くなるばかりだった。",
+          "en": "Even after the operation, my grandfather's illness only got worse.",
+          "kana": "しゅじゅつをしても、そふのびょうきはわるくなるばかりだった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことから(根拠)",
+      "meaning_en": "from the fact that; because of",
+      "meaning_ja": "ある事実を根拠として、判断や結論、名前の由来などを述べる",
+      "meaning_zh": "以某事實為根據，說明判斷、結論或名稱由來，「由於…、從…來看」",
+      "structure": "Verb/i-adj/na-adj/Noun 普通形 + ことから",
+      "examples": [
+        {
+          "ja": "窓ガラスが割れていることから、泥棒が入ったと分かった。",
+          "en": "From the fact that the window glass was broken, we knew a burglar had broken in.",
+          "kana": "まどガラスがわれていることから、どろぼうがはいったとわかった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ことだから(人物の性格を根拠に)",
+      "meaning_en": "because it's (a person we know well), surely",
+      "meaning_ja": "よく知っている人の性格や習慣を理由に、当然そうなるだろうと推測する",
+      "meaning_zh": "以熟知對象的個性或習慣為由，推測理所當然會如此，「因為是…，所以一定…」",
+      "structure": "Noun + の + ことだから",
+      "examples": [
+        {
+          "ja": "まじめな彼のことだから、約束を忘れるはずがない。",
+          "en": "Because he's such a serious person, there's no way he would forget a promise.",
+          "kana": "まじめなかれのことだから、やくそくをわすれるはずがない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜うえで(まず〜してから)",
+      "meaning_en": "after; upon; in the course of",
+      "meaning_ja": "まずあることをして、その結果をふまえて次のことをすることを表す",
+      "meaning_zh": "先做某事，再以其結果為基礎進行下一步，「在…之後（再）、…的基礎上」",
+      "structure": "Verb-た形 / Noun + の + うえで",
+      "examples": [
+        {
+          "ja": "家族とよく相談したうえで、留学するかどうか決めます。",
+          "en": "I will decide whether to study abroad after discussing it thoroughly with my family.",
+          "kana": "かぞくとよくそうだんしたうえで、りゅうがくするかどうかきめます。"
+        }
+      ]
     }
   ],
   "n2": [
