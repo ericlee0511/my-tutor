@@ -3070,6 +3070,347 @@
       ],
       "answer": 2,
       "explanation_zh": "天氣「熱」用 hacer，hace calor 為固定搭配，故選 (C) hace。(A) es、(B) está、(D) tiene 皆不能搭配 calor 表天氣。"
+    },
+    {
+      "question_es": "Esta semana ___ tres libros muy interesantes en la biblioteca.",
+      "options": [
+        "he leído",
+        "leí",
+        "leía",
+        "leeré"
+      ],
+      "answer": 0,
+      "explanation_zh": "«esta semana» 屬尚未結束的時間範圍，用現在完成式 pretérito perfecto，故選 (A) he leído。(B) leí 過去簡單式搭配已結束時間；(C) leía 過去未完成式；(D) leeré 未來式皆不符。"
+    },
+    {
+      "question_es": "El año pasado mi familia y yo ___ de vacaciones a Italia.",
+      "options": [
+        "vamos",
+        "íbamos",
+        "fuimos",
+        "hemos ido"
+      ],
+      "answer": 2,
+      "explanation_zh": "«el año pasado» 為已結束的具體過去時間，用 pretérito indefinido，第一人稱複數 fuimos，故選 (C)。(A) 現在式；(B) 過去未完成式；(D) 現在完成式皆不搭配。"
+    },
+    {
+      "question_es": "Cuando ___ pequeña, mi abuela me contaba cuentos cada noche.",
+      "options": [
+        "fui",
+        "soy",
+        "he sido",
+        "era"
+      ],
+      "answer": 3,
+      "explanation_zh": "描述過去長期的狀態（年紀小時）用 pretérito imperfecto，故選 (B) era。(A) fui 過去簡單式；(C) soy 現在式；(D) he sido 現在完成式皆不符。"
+    },
+    {
+      "question_es": "Mientras yo ___ la cena, mi hermano puso la mesa.",
+      "options": [
+        "preparé",
+        "prepararé",
+        "he preparado",
+        "preparaba"
+      ],
+      "answer": 3,
+      "explanation_zh": "«mientras» 引導的背景持續動作用 imperfecto，故選 (B) preparaba；puso 為打斷的具體動作用 indefinido。(A)(C)(D) 時態皆不符。"
+    },
+    {
+      "question_es": "El próximo verano nosotros ___ a la montaña a hacer senderismo.",
+      "options": [
+        "fuimos",
+        "íbamos",
+        "iremos",
+        "hemos ido"
+      ],
+      "answer": 2,
+      "explanation_zh": "«el próximo verano» 指未來時間，用 futuro simple，第一人稱複數 iremos，故選 (C)。(A) 過去簡單式；(B) 過去未完成式；(D) 現在完成式皆不符。"
+    },
+    {
+      "question_es": "Si tengo tiempo, mañana ___ a verte después del trabajo.",
+      "options": [
+        "vine",
+        "venía",
+        "vendré",
+        "he venido"
+      ],
+      "answer": 2,
+      "explanation_zh": "表達未來的計畫用 futuro simple，venir 的未來式為 vendré，故選 (C)。(A) 過去簡單式；(B) 過去未完成式；(D) 現在完成式皆不符。"
+    },
+    {
+      "question_es": "Yo en tu lugar no ___ tanto dinero en ropa cada mes.",
+      "options": [
+        "gasté",
+        "gastaba",
+        "gastaré",
+        "gastaría"
+      ],
+      "answer": 3,
+      "explanation_zh": "«yo en tu lugar» 表達建議，用 condicional simple，gastar 的條件式為 gastaría，故選 (B)。(A) 過去簡單式；(C) 過去未完成式；(D) 未來式皆不符。"
+    },
+    {
+      "question_es": "¿___ ayudarme con estas maletas, por favor? Pesan mucho.",
+      "options": [
+        "Podrías",
+        "Pudiste",
+        "Podías",
+        "Has podido"
+      ],
+      "answer": 0,
+      "explanation_zh": "禮貌請求用 condicional simple，poder 的條件式 podrías，故選 (A)。(B) 過去簡單式；(C) 過去未完成式；(D) 現在完成式皆不適合禮貌請求。"
+    },
+    {
+      "question_es": "Niños, ___ la televisión y venid a cenar ahora mismo.",
+      "options": [
+        "apaga",
+        "apagáis",
+        "apagar",
+        "apagad"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 vosotros 的肯定命令式，apagar 變為 apagad，故選 (B)。(A) 為 tú 的命令式；(C) 為現在式；(D) 為原形動詞皆不符。"
+    },
+    {
+      "question_es": "Por favor, ___ la ventana, que aquí hace mucho calor.",
+      "options": [
+        "abres",
+        "abrir",
+        "abre",
+        "abráis"
+      ],
+      "answer": 2,
+      "explanation_zh": "對 tú 的肯定命令式，abrir 變為 abre，故選 (C)。(A) 為現在式；(B) 為原形動詞；(D) 為 vosotros 的否定命令式形式皆不符。"
+    },
+    {
+      "question_es": "No ___ tarde a la reunión, es muy importante para todos.",
+      "options": [
+        "llegas",
+        "llega",
+        "llegar",
+        "llegues"
+      ],
+      "answer": 3,
+      "explanation_zh": "對 tú 的否定命令式用虛擬式現在式，llegar 變為 llegues，故選 (B)。(A) 為陳述式現在式；(C) 為肯定命令式；(D) 為原形動詞皆不符。"
+    },
+    {
+      "question_es": "—¿Le diste el regalo a Ana? —Sí, ya ___ di esta mañana.",
+      "options": [
+        "le lo",
+        "le la",
+        "te lo",
+        "se lo"
+      ],
+      "answer": 3,
+      "explanation_zh": "間接受詞 le 加直接受詞 lo（el regalo）時，le 須改為 se，故為 se lo，選 (B)。(A) le lo 不合語法；(C) se la 性別不符；(D) te lo 人稱不符。"
+    },
+    {
+      "question_es": "—¿Me prestas tu bici? —Claro, ___ presto sin problema.",
+      "options": [
+        "te la",
+        "te lo",
+        "se la",
+        "me la"
+      ],
+      "answer": 0,
+      "explanation_zh": "間接受詞 te（給你）加直接受詞 la（la bici 陰性），故為 te la，選 (A)。(B) te lo 性別不符；(C) se la 人稱不符；(D) me la 人稱不符。"
+    },
+    {
+      "question_es": "Mi hermano es ___ alto ___ mi padre, miden lo mismo.",
+      "options": [
+        "más / que",
+        "menos / que",
+        "tanto / como",
+        "tan / como"
+      ],
+      "answer": 3,
+      "explanation_zh": "表達同等比較（一樣高）用 «tan + 形容詞 + como»，故選 (B)。(A)(C) 為差等比較；(D) tanto 用於名詞或動詞前皆不符。"
+    },
+    {
+      "question_es": "Este restaurante es ___ caro ___ el de la esquina.",
+      "options": [
+        "tan / que",
+        "más / como",
+        "menos / que",
+        "tanto / que"
+      ],
+      "answer": 2,
+      "explanation_zh": "表達「比較不貴」的差等比較用 «menos + 形容詞 + que»，故選 (C)。(A)(D) 連接詞錯；(B) más 須配 que 而非 como 皆不符。"
+    },
+    {
+      "question_es": "Marta es la chica ___ inteligente de toda la clase.",
+      "options": [
+        "más",
+        "tan",
+        "tanto",
+        "mucho"
+      ],
+      "answer": 0,
+      "explanation_zh": "最高級用 «el/la + 名詞 + más + 形容詞 + de»，故選 (A) más。(B) tan 用於同等比較；(C) tanto、(D) mucho 皆不構成最高級。"
+    },
+    {
+      "question_es": "Esta es la película ___ divertida que he visto este año.",
+      "options": [
+        "tan",
+        "muy",
+        "tanta",
+        "más"
+      ],
+      "answer": 3,
+      "explanation_zh": "最高級結構 «la + 名詞 + más + 形容詞»，故選 (B) más。(A) tan、(C) muy、(D) tanta 皆無法構成最高級。"
+    },
+    {
+      "question_es": "Gracias ___ tu ayuda, terminé el trabajo muy rápido.",
+      "options": [
+        "por",
+        "para",
+        "de",
+        "en"
+      ],
+      "answer": 0,
+      "explanation_zh": "«gracias por» 表示感謝的原因，為固定用法，故選 (A) por。(B) para、(C) de、(D) en 皆不能與 gracias 連用。"
+    },
+    {
+      "question_es": "Estudio español ___ poder trabajar en una empresa de Madrid.",
+      "options": [
+        "por",
+        "de",
+        "con",
+        "para"
+      ],
+      "answer": 3,
+      "explanation_zh": "表達目的「為了能夠…」用 «para + 原形動詞»，故選 (B) para。(A) por 表原因或交換；(C)(D) 不符目的語境。"
+    },
+    {
+      "question_es": "Esta mañana pasé ___ el parque para ir a la oficina.",
+      "options": [
+        "para",
+        "en",
+        "por",
+        "de"
+      ],
+      "answer": 2,
+      "explanation_zh": "表達「經過某地」用 por，故選 (C)。(A) para 表目的或方向；(B) en 表位置；(D) de 表來源皆不符。"
+    },
+    {
+      "question_es": "La sopa ya ___ fría, no me apetece comerla ahora.",
+      "options": [
+        "es",
+        "hay",
+        "tiene",
+        "está"
+      ],
+      "answer": 3,
+      "explanation_zh": "湯「變涼」是一種狀態結果，用 estar，故選 (D) está。(A) es 表本質特徵；(B) hay 為存在；(C) tiene 為「有」皆不符。"
+    },
+    {
+      "question_es": "Mi abuelo ya tiene noventa años, pero ___ muy bien de salud.",
+      "options": [
+        "es",
+        "está",
+        "hay",
+        "tiene"
+      ],
+      "answer": 1,
+      "explanation_zh": "描述目前的健康狀況用 estar，«estar bien de salud» 為固定用法，故選 (B) está。(A) es、(C) hay、(D) tiene 皆不符。"
+    },
+    {
+      "question_es": "Hoy hace mucho sol, así que ___ que ponerse crema solar.",
+      "options": [
+        "hay",
+        "tiene",
+        "debes",
+        "es"
+      ],
+      "answer": 0,
+      "explanation_zh": "表達一般性的必要（無特定主詞）用 «hay que + 原形»，故選 (A) hay。(B) tiene 須配人稱；(C) debes 後不接 que；(D) es 不構成此句型。"
+    },
+    {
+      "question_es": "Estás muy cansado; ___ descansar un poco antes de seguir.",
+      "options": [
+        "debes",
+        "hay que",
+        "hay",
+        "tienes"
+      ],
+      "answer": 0,
+      "explanation_zh": "對特定的「你」給建議用 «deber + 原形»，故選 (A) debes。(B) hay que 不指明對象；(C) hay 缺 que；(D) tienes 須加 que 才正確皆不符。"
+    },
+    {
+      "question_es": "No puedo salir ahora porque ___ que terminar mis deberes.",
+      "options": [
+        "hay",
+        "debo",
+        "tengo",
+        "es"
+      ],
+      "answer": 2,
+      "explanation_zh": "表達個人的義務用 «tener que + 原形»，主詞 yo 變為 tengo，故選 (C)。(A) hay que 不指明對象；(B) debo 後不接 que；(D) es 不符。"
+    },
+    {
+      "question_es": "Mañana por la tarde nosotros ___ a visitar el museo de la ciudad.",
+      "options": [
+        "vamos",
+        "fuimos",
+        "íbamos",
+        "hemos ido"
+      ],
+      "answer": 0,
+      "explanation_zh": "近未來計畫用 «ir a + 原形»，現在式 vamos 表將要做，故選 (A)。(B) 過去簡單式；(C) 過去未完成式；(D) 現在完成式皆不符未來語境。"
+    },
+    {
+      "question_es": "No tengo hambre porque ___ de comer hace solo diez minutos.",
+      "options": [
+        "voy a",
+        "acabo",
+        "estoy",
+        "vuelvo a"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達「剛剛做完」用 «acabar de + 原形»，故選 (B) acabo。(A) ir a 表將來；(C) estar 須配 gerundio；(D) volver a 表再次皆不符。"
+    },
+    {
+      "question_es": "No puedo hablar ahora, ___ conduciendo y es peligroso.",
+      "options": [
+        "acabo",
+        "voy a",
+        "estoy",
+        "vuelvo"
+      ],
+      "answer": 2,
+      "explanation_zh": "表達正在進行的動作用 «estar + gerundio»，故選 (C) estoy。(A) acabar 須配 de；(B) ir a 表將來；(D) volver 須配 a 皆不符。"
+    },
+    {
+      "question_es": "Después de las vacaciones, todos ___ a trabajar el lunes.",
+      "options": [
+        "acaban",
+        "vuelven",
+        "están",
+        "van"
+      ],
+      "answer": 1,
+      "explanation_zh": "表達「再次（回去）做某事」用 «volver a + 原形»，故選 (B) vuelven。(A) acabar 須配 de；(C) estar 須配 gerundio；(D) van 雖可配 a 但語意為將去而非重複，較不符「假期後恢復上班」之意。"
+    },
+    {
+      "question_es": "A mi hermana ___ mucho los animales; tiene tres gatos en casa.",
+      "options": [
+        "le encantan",
+        "le encanta",
+        "les encanta",
+        "se encantan"
+      ],
+      "answer": 0,
+      "explanation_zh": "encantar 與主詞 los animales（複數）一致用 encantan，間接受詞 le 指 mi hermana，故選 (A)。(B) 動詞單數不符；(C) les 人稱不符；(D) se 不合語法。"
+    },
+    {
+      "question_es": "Después de caminar tantas horas, ___ los pies muchísimo.",
+      "options": [
+        "me duele",
+        "me duelen",
+        "te duelen",
+        "se duele"
+      ],
+      "answer": 1,
+      "explanation_zh": "doler 與主詞 los pies（複數）一致用 duelen，間接受詞 me，故選 (B)。(A) 動詞單數不符；(C) te 人稱不符；(D) se 不合語法。"
     }
   ],
   "db1": [

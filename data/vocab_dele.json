@@ -4357,6 +4357,2802 @@
       "meaning_zh": "(形) 安靜的；冷靜的",
       "example_es": "El pueblo es muy tranquilo por la noche.",
       "example_zh": "這個小鎮晚上非常安靜。"
+    },
+    {
+      "word": "fregar",
+      "meaning_zh": "(動) 洗刷；擦洗",
+      "example_es": "Mi hermano friega el suelo de la cocina cada sábado.",
+      "example_zh": "我哥哥每個星期六都擦廚房的地板。"
+    },
+    {
+      "word": "planchar",
+      "meaning_zh": "(動) 燙衣服；熨平",
+      "example_es": "Después de lavar la ropa, tengo que plancharla.",
+      "example_zh": "洗完衣服後，我得把衣服燙平。"
+    },
+    {
+      "word": "tender",
+      "meaning_zh": "(動) 晾（衣服）；攤開",
+      "example_es": "Voy a tender la ropa en el balcón porque hace sol.",
+      "example_zh": "因為出太陽，我要把衣服晾在陽台上。"
+    },
+    {
+      "word": "doblar",
+      "meaning_zh": "(動) 折疊；轉彎",
+      "example_es": "Mi madre dobla las toallas y las guarda en el armario.",
+      "example_zh": "我媽媽把毛巾折好放進衣櫃裡。"
+    },
+    {
+      "word": "regar",
+      "meaning_zh": "(動) 澆水；灌溉",
+      "example_es": "Tengo que regar las plantas todas las mañanas.",
+      "example_zh": "我得每天早上給植物澆水。"
+    },
+    {
+      "word": "sacudir",
+      "meaning_zh": "(動) 抖動；拍打灰塵",
+      "example_es": "Ella sacude la alfombra en la ventana cada semana.",
+      "example_zh": "她每星期都在窗邊拍打地毯。"
+    },
+    {
+      "word": "fregona",
+      "meaning_zh": "(名) 拖把",
+      "example_es": "Necesito una fregona nueva para limpiar el suelo.",
+      "example_zh": "我需要一支新拖把來清潔地板。"
+    },
+    {
+      "word": "trapo",
+      "meaning_zh": "(名) 抹布；破布",
+      "example_es": "Limpio la mesa con un trapo húmedo después de comer.",
+      "example_zh": "吃完飯後我用濕抹布擦桌子。"
+    },
+    {
+      "word": "aspiradora",
+      "meaning_zh": "(名) 吸塵器",
+      "example_es": "Paso la aspiradora por el salón los domingos.",
+      "example_zh": "我星期天用吸塵器清理客廳。"
+    },
+    {
+      "word": "lavadora",
+      "meaning_zh": "(名) 洗衣機",
+      "example_es": "La lavadora tarda una hora en lavar la ropa.",
+      "example_zh": "洗衣機要花一個小時才能洗完衣服。"
+    },
+    {
+      "word": "secadora",
+      "meaning_zh": "(名) 烘衣機",
+      "example_es": "En invierno usamos la secadora para secar la ropa.",
+      "example_zh": "冬天我們用烘衣機把衣服烘乾。"
+    },
+    {
+      "word": "lavavajillas",
+      "meaning_zh": "(名) 洗碗機；洗碗精",
+      "example_es": "Pongo los platos sucios en el lavavajillas cada noche.",
+      "example_zh": "我每天晚上把髒盤子放進洗碗機。"
+    },
+    {
+      "word": "detergente",
+      "meaning_zh": "(名) 洗衣粉；清潔劑",
+      "example_es": "Compré detergente nuevo para lavar la ropa blanca.",
+      "example_zh": "我買了新的洗衣粉來洗白色衣物。"
+    },
+    {
+      "word": "suavizante",
+      "meaning_zh": "(名) 衣物柔軟精",
+      "example_es": "El suavizante hace que la ropa huela muy bien.",
+      "example_zh": "柔軟精讓衣服聞起來很香。"
+    },
+    {
+      "word": "lejía",
+      "meaning_zh": "(名) 漂白水",
+      "example_es": "Mi madre limpia el baño con lejía cada semana.",
+      "example_zh": "我媽媽每星期用漂白水清潔浴室。"
+    },
+    {
+      "word": "polvo",
+      "meaning_zh": "(名) 灰塵；粉末",
+      "example_es": "Hay mucho polvo encima de los muebles del salón.",
+      "example_zh": "客廳家具上有很多灰塵。"
+    },
+    {
+      "word": "mancha",
+      "meaning_zh": "(名) 污漬；斑點",
+      "example_es": "Tengo una mancha de café en la camisa nueva.",
+      "example_zh": "我的新襯衫上有一個咖啡漬。"
+    },
+    {
+      "word": "enchufe",
+      "meaning_zh": "(名) 插座；插頭",
+      "example_es": "El enchufe de la cocina no funciona bien.",
+      "example_zh": "廚房的插座運作不太正常。"
+    },
+    {
+      "word": "interruptor",
+      "meaning_zh": "(名) 開關",
+      "example_es": "El interruptor de la luz está al lado de la puerta.",
+      "example_zh": "電燈開關在門的旁邊。"
+    },
+    {
+      "word": "bombilla",
+      "meaning_zh": "(名) 燈泡",
+      "example_es": "La bombilla del baño se ha roto otra vez.",
+      "example_zh": "浴室的燈泡又壞了。"
+    },
+    {
+      "word": "cubo de basura",
+      "meaning_zh": "(名) 垃圾桶",
+      "example_es": "Saca el cubo de basura a la calle por la noche.",
+      "example_zh": "晚上把垃圾桶拿到街上去。"
+    },
+    {
+      "word": "tarea doméstica",
+      "meaning_zh": "(名) 家務",
+      "example_es": "Las tareas domésticas se reparten entre toda la familia.",
+      "example_zh": "家務由全家人一起分擔。"
+    },
+    {
+      "word": "rutina",
+      "meaning_zh": "(名) 日常作息；例行公事",
+      "example_es": "Mi rutina diaria empieza siempre a las siete.",
+      "example_zh": "我的每日作息總是從七點開始。"
+    },
+    {
+      "word": "madrugar",
+      "meaning_zh": "(動) 早起",
+      "example_es": "Tengo que madrugar mañana para coger el tren.",
+      "example_zh": "我明天得早起去搭火車。"
+    },
+    {
+      "word": "trasnochar",
+      "meaning_zh": "(動) 熬夜",
+      "example_es": "No me gusta trasnochar porque al día siguiente estoy cansado.",
+      "example_zh": "我不喜歡熬夜，因為隔天會很累。"
+    },
+    {
+      "word": "descanso",
+      "meaning_zh": "(名) 休息；中場休息",
+      "example_es": "Después de trabajar mucho, necesito un descanso.",
+      "example_zh": "工作很久之後，我需要休息一下。"
+    },
+    {
+      "word": "siesta",
+      "meaning_zh": "(名) 午睡",
+      "example_es": "Mi abuelo siempre duerme la siesta después de comer.",
+      "example_zh": "我爺爺午餐後總是睡午覺。"
+    },
+    {
+      "word": "agenda",
+      "meaning_zh": "(名) 記事本；行程表",
+      "example_es": "Apunto todas mis reuniones en la agenda.",
+      "example_zh": "我把所有會議都記在記事本上。"
+    },
+    {
+      "word": "horario flexible",
+      "meaning_zh": "(名) 彈性工時",
+      "example_es": "Mi nuevo trabajo tiene un horario flexible muy cómodo.",
+      "example_zh": "我的新工作有很方便的彈性工時。"
+    },
+    {
+      "word": "puntual",
+      "meaning_zh": "(形) 準時的",
+      "example_es": "Mi jefe quiere que seamos puntuales cada mañana.",
+      "example_zh": "我老闆希望我們每天早上都準時。"
+    },
+    {
+      "word": "tardar",
+      "meaning_zh": "(動) 花費時間；遲到",
+      "example_es": "El autobús tarda media hora en llegar al centro.",
+      "example_zh": "公車要花半小時才能到市中心。"
+    },
+    {
+      "word": "acabar",
+      "meaning_zh": "(動) 結束；完成",
+      "example_es": "Acabo de trabajar a las seis de la tarde.",
+      "example_zh": "我下午六點結束工作。"
+    },
+    {
+      "word": "ocuparse",
+      "meaning_zh": "(動) 負責；照料",
+      "example_es": "Mi hermana se ocupa de los niños por la tarde.",
+      "example_zh": "我姊姊下午負責照顧孩子。"
+    },
+    {
+      "word": "encargarse",
+      "meaning_zh": "(動) 負責；承擔",
+      "example_es": "Yo me encargo de comprar la comida esta semana.",
+      "example_zh": "這星期由我負責買食物。"
+    },
+    {
+      "word": "preparar",
+      "meaning_zh": "(動) 準備；烹調",
+      "example_es": "Mi padre prepara el desayuno para toda la familia.",
+      "example_zh": "我爸爸為全家人準備早餐。"
+    },
+    {
+      "word": "pelar",
+      "meaning_zh": "(動) 削皮；剝皮",
+      "example_es": "Voy a pelar las patatas para hacer la sopa.",
+      "example_zh": "我要削馬鈴薯皮來煮湯。"
+    },
+    {
+      "word": "picar",
+      "meaning_zh": "(動) 切碎；叮咬",
+      "example_es": "Pica la cebolla en trozos pequeños para la ensalada.",
+      "example_zh": "把洋蔥切成小塊放進沙拉。"
+    },
+    {
+      "word": "rallar",
+      "meaning_zh": "(動) 磨碎；刨絲",
+      "example_es": "Mi madre ralla el queso encima de la pasta.",
+      "example_zh": "我媽媽把起司刨絲撒在義大利麵上。"
+    },
+    {
+      "word": "batir",
+      "meaning_zh": "(動) 攪打；攪拌",
+      "example_es": "Tienes que batir los huevos antes de hacer la tortilla.",
+      "example_zh": "做蛋餅之前你得先把蛋打散。"
+    },
+    {
+      "word": "hervir",
+      "meaning_zh": "(動) 煮沸",
+      "example_es": "Pongo el agua a hervir para cocer la pasta.",
+      "example_zh": "我把水煮沸來煮義大利麵。"
+    },
+    {
+      "word": "asar",
+      "meaning_zh": "(動) 烤；燒烤",
+      "example_es": "Vamos a asar pollo en el horno esta noche.",
+      "example_zh": "我們今晚要在烤箱裡烤雞。"
+    },
+    {
+      "word": "remover",
+      "meaning_zh": "(動) 攪動；翻動",
+      "example_es": "Remueve la sopa con la cuchara para que no se pegue.",
+      "example_zh": "用湯匙攪動湯，免得黏鍋。"
+    },
+    {
+      "word": "añadir",
+      "meaning_zh": "(動) 添加；增添",
+      "example_es": "Añade un poco de sal a la comida, por favor.",
+      "example_zh": "請在菜裡加一點鹽。"
+    },
+    {
+      "word": "echar",
+      "meaning_zh": "(動) 倒入；放入",
+      "example_es": "Echa el aceite en la sartén antes de freír.",
+      "example_zh": "煎之前先把油倒進平底鍋。"
+    },
+    {
+      "word": "congelar",
+      "meaning_zh": "(動) 冷凍",
+      "example_es": "Voy a congelar la carne que sobró de la cena.",
+      "example_zh": "我要把晚餐剩下的肉冷凍起來。"
+    },
+    {
+      "word": "descongelar",
+      "meaning_zh": "(動) 解凍",
+      "example_es": "Tengo que descongelar el pescado antes de cocinarlo.",
+      "example_zh": "煮魚之前我得先把魚解凍。"
+    },
+    {
+      "word": "hornear",
+      "meaning_zh": "(動) 烘焙；烘烤",
+      "example_es": "Mi abuela hornea un pastel todos los domingos.",
+      "example_zh": "我奶奶每個星期天都烤一個蛋糕。"
+    },
+    {
+      "word": "microondas",
+      "meaning_zh": "(名) 微波爐",
+      "example_es": "Caliento la sopa en el microondas en dos minutos.",
+      "example_zh": "我用微波爐花兩分鐘把湯加熱。"
+    },
+    {
+      "word": "tabla de cortar",
+      "meaning_zh": "(名) 砧板",
+      "example_es": "Corta las verduras sobre la tabla de cortar.",
+      "example_zh": "在砧板上切蔬菜。"
+    },
+    {
+      "word": "delantal",
+      "meaning_zh": "(名) 圍裙",
+      "example_es": "Me pongo el delantal antes de empezar a cocinar.",
+      "example_zh": "開始煮飯之前我會穿上圍裙。"
+    },
+    {
+      "word": "cazuela",
+      "meaning_zh": "(名) 燉鍋；砂鍋",
+      "example_es": "Preparamos el guiso en una cazuela grande.",
+      "example_zh": "我們用一個大砂鍋來做燉菜。"
+    },
+    {
+      "word": "molde",
+      "meaning_zh": "(名) 烤模；模具",
+      "example_es": "Pongo la masa del pastel en el molde redondo.",
+      "example_zh": "我把蛋糕麵糊倒進圓形烤模裡。"
+    },
+    {
+      "word": "ingrediente principal",
+      "meaning_zh": "(名) 主要食材",
+      "example_es": "El arroz es el ingrediente principal de este plato.",
+      "example_zh": "米飯是這道菜的主要食材。"
+    },
+    {
+      "word": "sabroso",
+      "meaning_zh": "(形) 美味的；可口的",
+      "example_es": "La comida de mi madre siempre está muy sabrosa.",
+      "example_zh": "我媽媽做的菜總是非常美味。"
+    },
+    {
+      "word": "soso",
+      "meaning_zh": "(形) 沒味道的；淡而無味的",
+      "example_es": "Esta sopa está muy sosa, le falta sal.",
+      "example_zh": "這碗湯太淡了，缺鹽。"
+    },
+    {
+      "word": "picante",
+      "meaning_zh": "(形) 辣的；辛辣的",
+      "example_es": "No me gusta la comida muy picante.",
+      "example_zh": "我不喜歡太辣的食物。"
+    },
+    {
+      "word": "crudo",
+      "meaning_zh": "(形) 生的；未煮熟的",
+      "example_es": "No comas el pollo crudo, puede hacerte daño.",
+      "example_zh": "別吃生雞肉，可能會讓你不舒服。"
+    },
+    {
+      "word": "ración",
+      "meaning_zh": "(名) 一份；份量",
+      "example_es": "Pedimos una ración de patatas para compartir.",
+      "example_zh": "我們點了一份馬鈴薯一起分享。"
+    },
+    {
+      "word": "menú del día",
+      "meaning_zh": "(名) 每日套餐",
+      "example_es": "El menú del día cuesta doce euros en este restaurante.",
+      "example_zh": "這家餐廳的每日套餐要十二歐元。"
+    },
+    {
+      "word": "primer plato",
+      "meaning_zh": "(名) 第一道菜；前菜",
+      "example_es": "De primer plato voy a pedir una ensalada.",
+      "example_zh": "第一道菜我要點一份沙拉。"
+    },
+    {
+      "word": "segundo plato",
+      "meaning_zh": "(名) 第二道菜；主菜",
+      "example_es": "De segundo plato hay pescado o carne.",
+      "example_zh": "第二道菜有魚或肉可以選。"
+    },
+    {
+      "word": "bebida",
+      "meaning_zh": "(名) 飲料",
+      "example_es": "¿Qué bebida quieres con la comida?",
+      "example_zh": "你用餐想配什麼飲料？"
+    },
+    {
+      "word": "servir",
+      "meaning_zh": "(動) 端上；提供服務",
+      "example_es": "El camarero nos sirve la comida muy rápido.",
+      "example_zh": "服務生很快地把菜端給我們。"
+    },
+    {
+      "word": "pedir la cuenta",
+      "meaning_zh": "(動) 結帳；要帳單",
+      "example_es": "Cuando terminamos de comer, pedimos la cuenta.",
+      "example_zh": "吃完飯後我們叫服務生結帳。"
+    },
+    {
+      "word": "reservar mesa",
+      "meaning_zh": "(動) 訂位",
+      "example_es": "Voy a reservar mesa para cuatro personas el sábado.",
+      "example_zh": "我要訂星期六四個人的位子。"
+    },
+    {
+      "word": "terraza",
+      "meaning_zh": "(名) 露台；露天座位",
+      "example_es": "En verano nos sentamos en la terraza del bar.",
+      "example_zh": "夏天我們坐在酒吧的露天座位。"
+    },
+    {
+      "word": "merendar",
+      "meaning_zh": "(動) 吃點心；吃下午茶",
+      "example_es": "Los niños meriendan fruta después del colegio.",
+      "example_zh": "孩子們放學後吃水果當點心。"
+    },
+    {
+      "word": "merienda",
+      "meaning_zh": "(名) 下午茶；點心",
+      "example_es": "Para la merienda preparo un bocadillo pequeño.",
+      "example_zh": "下午點心我準備一個小三明治。"
+    },
+    {
+      "word": "tener hambre",
+      "meaning_zh": "(動) 肚子餓",
+      "example_es": "Tengo mucha hambre, vamos a comer ya.",
+      "example_zh": "我肚子很餓，我們現在去吃飯吧。"
+    },
+    {
+      "word": "tener sed",
+      "meaning_zh": "(動) 口渴",
+      "example_es": "Después de correr tengo mucha sed.",
+      "example_zh": "跑完步後我覺得很渴。"
+    },
+    {
+      "word": "vegetariano",
+      "meaning_zh": "(形) 素食的；(名) 素食者",
+      "example_es": "Mi amigo es vegetariano y no come carne.",
+      "example_zh": "我朋友是素食者，不吃肉。"
+    },
+    {
+      "word": "saludable",
+      "meaning_zh": "(形) 健康的；有益健康的",
+      "example_es": "Comer fruta y verdura es muy saludable.",
+      "example_zh": "吃水果和蔬菜對健康很有益。"
+    },
+    {
+      "word": "dieta",
+      "meaning_zh": "(名) 飲食；節食",
+      "example_es": "Mi madre está a dieta para perder peso.",
+      "example_zh": "我媽媽正在節食減重。"
+    },
+    {
+      "word": "vitamina",
+      "meaning_zh": "(名) 維他命；維生素",
+      "example_es": "Las naranjas tienen muchas vitaminas.",
+      "example_zh": "柳橙含有很多維他命。"
+    },
+    {
+      "word": "alimento",
+      "meaning_zh": "(名) 食物；營養品",
+      "example_es": "El pescado es un alimento muy bueno para la salud.",
+      "example_zh": "魚是對健康很好的食物。"
+    },
+    {
+      "word": "marisco",
+      "meaning_zh": "(名) 海鮮；貝類",
+      "example_es": "En este restaurante el marisco está muy fresco.",
+      "example_zh": "這家餐廳的海鮮很新鮮。"
+    },
+    {
+      "word": "especia",
+      "meaning_zh": "(名) 香料；調味料",
+      "example_es": "Esta comida lleva muchas especias diferentes.",
+      "example_zh": "這道菜用了很多不同的香料。"
+    },
+    {
+      "word": "vinagre",
+      "meaning_zh": "(名) 醋",
+      "example_es": "Pongo aceite y vinagre en la ensalada.",
+      "example_zh": "我在沙拉裡加油和醋。"
+    },
+    {
+      "word": "salsa",
+      "meaning_zh": "(名) 醬汁；醬料",
+      "example_es": "La pasta sabe mejor con esta salsa de tomate.",
+      "example_zh": "義大利麵配這個番茄醬更好吃。"
+    },
+    {
+      "word": "sabor",
+      "meaning_zh": "(名) 味道；滋味",
+      "example_es": "Este helado tiene un sabor a fresa muy rico.",
+      "example_zh": "這個冰淇淋有很棒的草莓味。"
+    },
+    {
+      "word": "estar a dieta",
+      "meaning_zh": "(動) 在節食",
+      "example_es": "No puedo comer pastel porque estoy a dieta.",
+      "example_zh": "我不能吃蛋糕，因為我在節食。"
+    },
+    {
+      "word": "resfriarse",
+      "meaning_zh": "(動) 感冒",
+      "example_es": "Me he resfriado por salir sin abrigo.",
+      "example_zh": "我因為沒穿外套出門而感冒了。"
+    },
+    {
+      "word": "estornudo",
+      "meaning_zh": "(名) 噴嚏",
+      "example_es": "Cuando estoy resfriado, tengo muchos estornudos.",
+      "example_zh": "我感冒的時候會一直打噴嚏。"
+    },
+    {
+      "word": "mocos",
+      "meaning_zh": "(名) 鼻涕",
+      "example_es": "Tengo muchos mocos porque estoy resfriado.",
+      "example_zh": "我因為感冒所以鼻涕很多。"
+    },
+    {
+      "word": "catarro",
+      "meaning_zh": "(名) 感冒；著涼",
+      "example_es": "He cogido un catarro y me duele la garganta.",
+      "example_zh": "我得了感冒，喉嚨很痛。"
+    },
+    {
+      "word": "dolor de cabeza",
+      "meaning_zh": "(名) 頭痛",
+      "example_es": "Tengo dolor de cabeza desde esta mañana.",
+      "example_zh": "我從今天早上就一直頭痛。"
+    },
+    {
+      "word": "dolor de estómago",
+      "meaning_zh": "(名) 胃痛；肚子痛",
+      "example_es": "Después de comer tanto, tengo dolor de estómago.",
+      "example_zh": "吃這麼多之後，我肚子痛。"
+    },
+    {
+      "word": "tener fiebre",
+      "meaning_zh": "(動) 發燒",
+      "example_es": "El niño tiene fiebre y no puede ir al colegio.",
+      "example_zh": "這個孩子發燒了，不能去上學。"
+    },
+    {
+      "word": "encontrarse mal",
+      "meaning_zh": "(動) 感覺不舒服",
+      "example_es": "Hoy me encuentro mal y voy a quedarme en casa.",
+      "example_zh": "我今天覺得不舒服，要待在家裡。"
+    },
+    {
+      "word": "cansancio",
+      "meaning_zh": "(名) 疲倦；勞累",
+      "example_es": "Siento mucho cansancio después de una semana de trabajo.",
+      "example_zh": "工作一星期後我覺得很疲倦。"
+    },
+    {
+      "word": "recetar",
+      "meaning_zh": "(動) 開處方；開藥",
+      "example_es": "El médico me recetó un jarabe para la tos.",
+      "example_zh": "醫生開了止咳糖漿給我。"
+    },
+    {
+      "word": "termómetro",
+      "meaning_zh": "(名) 體溫計；溫度計",
+      "example_es": "Usa el termómetro para ver si tienes fiebre.",
+      "example_zh": "用體溫計看看你是不是發燒了。"
+    },
+    {
+      "word": "vendar",
+      "meaning_zh": "(動) 包紮；纏繃帶",
+      "example_es": "La enfermera me vendó la mano después del accidente.",
+      "example_zh": "意外之後護士幫我把手包紮起來。"
+    },
+    {
+      "word": "curar",
+      "meaning_zh": "(動) 治療；醫治",
+      "example_es": "El médico me ayudó a curar la herida del brazo.",
+      "example_zh": "醫生幫我治療手臂上的傷口。"
+    },
+    {
+      "word": "doctora",
+      "meaning_zh": "(名) 女醫生",
+      "example_es": "Mi doctora es muy amable y me explica todo bien.",
+      "example_zh": "我的女醫生很親切，會把一切解釋清楚。"
+    },
+    {
+      "word": "enfermera",
+      "meaning_zh": "(名) 女護士",
+      "example_es": "La enfermera me puso una inyección en el brazo.",
+      "example_zh": "護士在我手臂上打了一針。"
+    },
+    {
+      "word": "sala de espera",
+      "meaning_zh": "(名) 候診室；等候室",
+      "example_es": "Esperé media hora en la sala de espera del médico.",
+      "example_zh": "我在醫生的候診室等了半小時。"
+    },
+    {
+      "word": "tarjeta sanitaria",
+      "meaning_zh": "(名) 健保卡；醫療卡",
+      "example_es": "No olvides la tarjeta sanitaria cuando vayas al médico.",
+      "example_zh": "去看醫生時別忘了帶健保卡。"
+    },
+    {
+      "word": "seguro médico",
+      "meaning_zh": "(名) 醫療保險",
+      "example_es": "Mi empresa me paga un seguro médico privado.",
+      "example_zh": "我的公司幫我付私人醫療保險。"
+    },
+    {
+      "word": "gotas",
+      "meaning_zh": "(名) 藥水滴劑；眼藥水",
+      "example_es": "El médico me dio unas gotas para los ojos.",
+      "example_zh": "醫生給了我一些眼藥水。"
+    },
+    {
+      "word": "crema",
+      "meaning_zh": "(名) 藥膏；乳霜",
+      "example_es": "Me pongo esta crema en la piel dos veces al día.",
+      "example_zh": "我一天兩次把這種藥膏抹在皮膚上。"
+    },
+    {
+      "word": "golpe",
+      "meaning_zh": "(名) 撞擊；打擊",
+      "example_es": "Me di un golpe en la cabeza con la puerta.",
+      "example_zh": "我的頭撞到門了。"
+    },
+    {
+      "word": "caída",
+      "meaning_zh": "(名) 跌倒；摔落",
+      "example_es": "Después de la caída, le dolía mucho la pierna.",
+      "example_zh": "跌倒之後，他的腿很痛。"
+    },
+    {
+      "word": "estar enfermo",
+      "meaning_zh": "(動) 生病",
+      "example_es": "Mi hijo está enfermo y se queda en casa hoy.",
+      "example_zh": "我兒子生病了，今天待在家。"
+    },
+    {
+      "word": "ponerse bien",
+      "meaning_zh": "(動) 康復；好起來",
+      "example_es": "Después de unos días me puse bien otra vez.",
+      "example_zh": "過了幾天我又康復了。"
+    },
+    {
+      "word": "guardar cama",
+      "meaning_zh": "(動) 臥床休息",
+      "example_es": "El médico me dijo que tenía que guardar cama.",
+      "example_zh": "醫生說我必須臥床休息。"
+    },
+    {
+      "word": "cuidarse",
+      "meaning_zh": "(動) 照顧自己；保重",
+      "example_es": "Tienes que cuidarte mucho este invierno.",
+      "example_zh": "這個冬天你要好好保重身體。"
+    },
+    {
+      "word": "hacer ejercicio",
+      "meaning_zh": "(動) 運動；做運動",
+      "example_es": "Hago ejercicio tres veces a la semana en el parque.",
+      "example_zh": "我每星期在公園運動三次。"
+    },
+    {
+      "word": "operar",
+      "meaning_zh": "(動) 動手術",
+      "example_es": "El médico va a operar a mi tío la semana que viene.",
+      "example_zh": "醫生下星期要幫我叔叔動手術。"
+    },
+    {
+      "word": "vacunarse",
+      "meaning_zh": "(動) 接種疫苗",
+      "example_es": "Cada año me vacuno contra la gripe.",
+      "example_zh": "我每年都接種流感疫苗。"
+    },
+    {
+      "word": "estar embarazada",
+      "meaning_zh": "(動) 懷孕",
+      "example_es": "Mi hermana está embarazada de seis meses.",
+      "example_zh": "我姊姊懷孕六個月了。"
+    },
+    {
+      "word": "rebajas",
+      "meaning_zh": "(名) 折扣季；大特賣",
+      "example_es": "En enero hay rebajas en todas las tiendas de ropa.",
+      "example_zh": "一月所有服飾店都有折扣特賣。"
+    },
+    {
+      "word": "probador",
+      "meaning_zh": "(名) 試衣間",
+      "example_es": "Voy a probarme estos pantalones en el probador.",
+      "example_zh": "我要去試衣間試穿這條褲子。"
+    },
+    {
+      "word": "probarse",
+      "meaning_zh": "(動) 試穿",
+      "example_es": "¿Puedo probarme esta camisa en la talla mediana?",
+      "example_zh": "我可以試穿這件中號的襯衫嗎？"
+    },
+    {
+      "word": "talla",
+      "meaning_zh": "(名) 尺碼；尺寸",
+      "example_es": "Esta camiseta es muy pequeña, necesito otra talla.",
+      "example_zh": "這件T恤太小了，我需要另一個尺碼。"
+    },
+    {
+      "word": "número de zapato",
+      "meaning_zh": "(名) 鞋號",
+      "example_es": "¿Cuál es tu número de zapato para comprar las botas?",
+      "example_zh": "你的鞋號是幾號，好買靴子？"
+    },
+    {
+      "word": "quedar bien",
+      "meaning_zh": "(動) 合身；好看",
+      "example_es": "Este vestido te queda muy bien.",
+      "example_zh": "這件洋裝你穿起來很好看。"
+    },
+    {
+      "word": "escaparate",
+      "meaning_zh": "(名) 櫥窗",
+      "example_es": "Vi una chaqueta bonita en el escaparate de la tienda.",
+      "example_zh": "我在商店櫥窗看到一件漂亮的外套。"
+    },
+    {
+      "word": "dependiente",
+      "meaning_zh": "(名) 店員",
+      "example_es": "El dependiente me ayudó a buscar mi talla.",
+      "example_zh": "店員幫我找我的尺碼。"
+    },
+    {
+      "word": "cajero",
+      "meaning_zh": "(名) 收銀員；提款機",
+      "example_es": "El cajero me dio el cambio y un recibo.",
+      "example_zh": "收銀員找我零錢還給我一張收據。"
+    },
+    {
+      "word": "cola",
+      "meaning_zh": "(名) 排隊的隊伍",
+      "example_es": "Hay mucha cola para pagar en el supermercado.",
+      "example_zh": "超市結帳排了很長的隊。"
+    },
+    {
+      "word": "hacer cola",
+      "meaning_zh": "(動) 排隊",
+      "example_es": "Tuvimos que hacer cola media hora para entrar.",
+      "example_zh": "我們得排隊半小時才能進去。"
+    },
+    {
+      "word": "devolver",
+      "meaning_zh": "(動) 退還；歸還",
+      "example_es": "Quiero devolver esta camisa porque es muy grande.",
+      "example_zh": "我想退這件襯衫，因為太大了。"
+    },
+    {
+      "word": "cambiar",
+      "meaning_zh": "(動) 更換；改變",
+      "example_es": "¿Puedo cambiar estos zapatos por otro número?",
+      "example_zh": "我可以把這雙鞋換成別的尺碼嗎？"
+    },
+    {
+      "word": "gratis",
+      "meaning_zh": "(形) 免費的",
+      "example_es": "Hoy el envío a casa es totalmente gratis.",
+      "example_zh": "今天送貨到府完全免費。"
+    },
+    {
+      "word": "ticket",
+      "meaning_zh": "(名) 收據；購物小票",
+      "example_es": "Guarda el ticket por si quieres cambiar el producto.",
+      "example_zh": "把收據留著，以防你想換貨。"
+    },
+    {
+      "word": "pagar en efectivo",
+      "meaning_zh": "(動) 付現金",
+      "example_es": "Prefiero pagar en efectivo cuando compro poco.",
+      "example_zh": "買得不多時我比較喜歡付現金。"
+    },
+    {
+      "word": "pagar con tarjeta",
+      "meaning_zh": "(動) 刷卡付款",
+      "example_es": "En esta tienda puedes pagar con tarjeta.",
+      "example_zh": "在這家店你可以刷卡付款。"
+    },
+    {
+      "word": "monedero",
+      "meaning_zh": "(名) 零錢包",
+      "example_es": "Guardo las monedas pequeñas en el monedero.",
+      "example_zh": "我把小硬幣放在零錢包裡。"
+    },
+    {
+      "word": "cartera",
+      "meaning_zh": "(名) 皮夾；錢包",
+      "example_es": "Perdí la cartera con todo el dinero dentro.",
+      "example_zh": "我把裝著所有錢的皮夾弄丟了。"
+    },
+    {
+      "word": "precio fijo",
+      "meaning_zh": "(名) 固定價格",
+      "example_es": "En esta tienda los productos tienen precio fijo.",
+      "example_zh": "這家店的商品都是固定價格。"
+    },
+    {
+      "word": "costar",
+      "meaning_zh": "(動) 花費；值（多少錢）",
+      "example_es": "¿Cuánto cuesta esta camiseta azul?",
+      "example_zh": "這件藍色T恤要多少錢？"
+    },
+    {
+      "word": "valer",
+      "meaning_zh": "(動) 值（多少錢）；有價值",
+      "example_es": "Estos zapatos valen sesenta euros.",
+      "example_zh": "這雙鞋值六十歐元。"
+    },
+    {
+      "word": "carrito",
+      "meaning_zh": "(名) 購物車",
+      "example_es": "Pongo toda la comida en el carrito del supermercado.",
+      "example_zh": "我把所有食物放進超市的購物車。"
+    },
+    {
+      "word": "cesta",
+      "meaning_zh": "(名) 購物籃；籃子",
+      "example_es": "Cojo una cesta porque solo necesito pocas cosas.",
+      "example_zh": "我拿一個購物籃，因為只需要買一些東西。"
+    },
+    {
+      "word": "estanco",
+      "meaning_zh": "(名) 菸草店",
+      "example_es": "Compro los sellos en el estanco de la esquina.",
+      "example_zh": "我在轉角的菸草店買郵票。"
+    },
+    {
+      "word": "carnicería",
+      "meaning_zh": "(名) 肉舖",
+      "example_es": "Mi madre compra la carne en la carnicería del barrio.",
+      "example_zh": "我媽媽在社區的肉舖買肉。"
+    },
+    {
+      "word": "pescadería",
+      "meaning_zh": "(名) 魚舖；海鮮店",
+      "example_es": "En la pescadería venden pescado muy fresco.",
+      "example_zh": "魚舖賣的魚很新鮮。"
+    },
+    {
+      "word": "frutería",
+      "meaning_zh": "(名) 水果店",
+      "example_es": "La frutería de la plaza tiene fruta muy buena.",
+      "example_zh": "廣場上的水果店有很好的水果。"
+    },
+    {
+      "word": "ferretería",
+      "meaning_zh": "(名) 五金行",
+      "example_es": "Voy a la ferretería a comprar unos clavos.",
+      "example_zh": "我去五金行買一些釘子。"
+    },
+    {
+      "word": "librería",
+      "meaning_zh": "(名) 書店",
+      "example_es": "Compré este libro en una librería del centro.",
+      "example_zh": "我在市中心的一家書店買了這本書。"
+    },
+    {
+      "word": "papelería",
+      "meaning_zh": "(名) 文具店",
+      "example_es": "Necesito ir a la papelería a comprar cuadernos.",
+      "example_zh": "我得去文具店買筆記本。"
+    },
+    {
+      "word": "quiosco",
+      "meaning_zh": "(名) 報攤；售貨亭",
+      "example_es": "Compro el periódico en el quiosco cada mañana.",
+      "example_zh": "我每天早上在報攤買報紙。"
+    },
+    {
+      "word": "centro comercial",
+      "meaning_zh": "(名) 購物中心",
+      "example_es": "El sábado fuimos de compras al centro comercial.",
+      "example_zh": "星期六我們去購物中心買東西。"
+    },
+    {
+      "word": "ir de compras",
+      "meaning_zh": "(動) 去購物；逛街",
+      "example_es": "Me encanta ir de compras los fines de semana.",
+      "example_zh": "我很喜歡週末去逛街購物。"
+    },
+    {
+      "word": "hacer la compra",
+      "meaning_zh": "(動) 採買日常用品",
+      "example_es": "Los lunes hago la compra para toda la semana.",
+      "example_zh": "我星期一採買一整週的日用品。"
+    },
+    {
+      "word": "lista de la compra",
+      "meaning_zh": "(名) 購物清單",
+      "example_es": "Escribo la lista de la compra antes de ir al supermercado.",
+      "example_zh": "去超市之前我會寫購物清單。"
+    },
+    {
+      "word": "marca",
+      "meaning_zh": "(名) 品牌；牌子",
+      "example_es": "Me gusta esta marca de zapatos deportivos.",
+      "example_zh": "我喜歡這個品牌的運動鞋。"
+    },
+    {
+      "word": "calidad",
+      "meaning_zh": "(名) 品質",
+      "example_es": "Esta chaqueta es cara pero de muy buena calidad.",
+      "example_zh": "這件外套很貴，但品質很好。"
+    },
+    {
+      "word": "envoltorio",
+      "meaning_zh": "(名) 包裝紙",
+      "example_es": "Tira el envoltorio del regalo a la papelera.",
+      "example_zh": "把禮物的包裝紙丟進垃圾桶。"
+    },
+    {
+      "word": "envolver",
+      "meaning_zh": "(動) 包裝",
+      "example_es": "¿Me puede envolver este regalo, por favor?",
+      "example_zh": "可以麻煩您幫我把這個禮物包起來嗎？"
+    },
+    {
+      "word": "garantía",
+      "meaning_zh": "(名) 保固；保證",
+      "example_es": "Este móvil tiene dos años de garantía.",
+      "example_zh": "這支手機有兩年保固。"
+    },
+    {
+      "word": "puesto de trabajo",
+      "meaning_zh": "(名) 工作職位",
+      "example_es": "Encontré un buen puesto de trabajo en una empresa grande.",
+      "example_zh": "我在一家大公司找到一個好工作職位。"
+    },
+    {
+      "word": "compañero de trabajo",
+      "meaning_zh": "(名) 同事",
+      "example_es": "Mis compañeros de trabajo son muy simpáticos.",
+      "example_zh": "我的同事都很友善。"
+    },
+    {
+      "word": "trabajar",
+      "meaning_zh": "(動) 工作",
+      "example_es": "Mi padre trabaja en una oficina del centro.",
+      "example_zh": "我爸爸在市中心的一間辦公室工作。"
+    },
+    {
+      "word": "empezar a trabajar",
+      "meaning_zh": "(動) 開始工作",
+      "example_es": "Empiezo a trabajar a las nueve de la mañana.",
+      "example_zh": "我早上九點開始工作。"
+    },
+    {
+      "word": "salir del trabajo",
+      "meaning_zh": "(動) 下班",
+      "example_es": "Salgo del trabajo a las seis y vuelvo a casa.",
+      "example_zh": "我六點下班然後回家。"
+    },
+    {
+      "word": "descanso del trabajo",
+      "meaning_zh": "(名) 工作休息時間",
+      "example_es": "Durante el descanso del trabajo tomo un café.",
+      "example_zh": "工作休息時間我會喝杯咖啡。"
+    },
+    {
+      "word": "hora de comer",
+      "meaning_zh": "(名) 午餐時間",
+      "example_es": "A la hora de comer salgo de la oficina con mis compañeros.",
+      "example_zh": "午餐時間我和同事一起離開辦公室。"
+    },
+    {
+      "word": "día libre",
+      "meaning_zh": "(名) 休假日",
+      "example_es": "El lunes tengo un día libre y voy a descansar.",
+      "example_zh": "星期一我有一天休假，我要好好休息。"
+    },
+    {
+      "word": "pedir vacaciones",
+      "meaning_zh": "(動) 請假；申請休假",
+      "example_es": "Voy a pedir vacaciones para viajar en agosto.",
+      "example_zh": "我要申請休假在八月去旅行。"
+    },
+    {
+      "word": "estar de baja",
+      "meaning_zh": "(動) 請病假；休病假",
+      "example_es": "Mi compañera está de baja porque está enferma.",
+      "example_zh": "我同事生病所以請病假。"
+    },
+    {
+      "word": "currar",
+      "meaning_zh": "(動) 工作（口語）",
+      "example_es": "Hoy he currado mucho y estoy muy cansado.",
+      "example_zh": "我今天工作很多，很累。"
+    },
+    {
+      "word": "ganarse la vida",
+      "meaning_zh": "(動) 謀生；賺錢生活",
+      "example_es": "Se gana la vida trabajando como camarero.",
+      "example_zh": "他靠當服務生謀生。"
+    },
+    {
+      "word": "carrera profesional",
+      "meaning_zh": "(名) 職業生涯",
+      "example_es": "Quiere mejorar su carrera profesional con un nuevo curso.",
+      "example_zh": "他想透過上一門新課程來提升職業生涯。"
+    },
+    {
+      "word": "currículum vitae",
+      "meaning_zh": "(名) 履歷表",
+      "example_es": "Envié mi currículum vitae a tres empresas.",
+      "example_zh": "我把履歷表寄給了三家公司。"
+    },
+    {
+      "word": "entrevista de trabajo",
+      "meaning_zh": "(名) 工作面試",
+      "example_es": "Mañana tengo una entrevista de trabajo importante.",
+      "example_zh": "我明天有一場重要的工作面試。"
+    },
+    {
+      "word": "buscar trabajo",
+      "meaning_zh": "(動) 找工作",
+      "example_es": "Mi primo está buscando trabajo desde hace dos meses.",
+      "example_zh": "我表哥已經找工作兩個月了。"
+    },
+    {
+      "word": "ganar dinero",
+      "meaning_zh": "(動) 賺錢",
+      "example_es": "Trabaja los fines de semana para ganar dinero.",
+      "example_zh": "他週末工作來賺錢。"
+    },
+    {
+      "word": "cobrar el sueldo",
+      "meaning_zh": "(動) 領薪水",
+      "example_es": "Cobro el sueldo el último día de cada mes.",
+      "example_zh": "我每個月最後一天領薪水。"
+    },
+    {
+      "word": "empresa pequeña",
+      "meaning_zh": "(名) 小公司",
+      "example_es": "Trabaja en una empresa pequeña con diez personas.",
+      "example_zh": "他在一家只有十個人的小公司上班。"
+    },
+    {
+      "word": "fábrica",
+      "meaning_zh": "(名) 工廠",
+      "example_es": "Mi tío trabaja en una fábrica de coches.",
+      "example_zh": "我叔叔在一間汽車工廠工作。"
+    },
+    {
+      "word": "mecánico",
+      "meaning_zh": "(名) 技工；汽車修理工",
+      "example_es": "El mecánico arregló mi coche en una hora.",
+      "example_zh": "技工一個小時就修好了我的車。"
+    },
+    {
+      "word": "cocinero",
+      "meaning_zh": "(名) 廚師",
+      "example_es": "El cocinero de este restaurante prepara platos muy ricos.",
+      "example_zh": "這家餐廳的廚師做的菜很美味。"
+    },
+    {
+      "word": "peluquero",
+      "meaning_zh": "(名) 理髮師；美髮師",
+      "example_es": "El peluquero me cortó el pelo muy corto.",
+      "example_zh": "理髮師把我的頭髮剪得很短。"
+    },
+    {
+      "word": "cartero",
+      "meaning_zh": "(名) 郵差",
+      "example_es": "El cartero trae las cartas todas las mañanas.",
+      "example_zh": "郵差每天早上送信來。"
+    },
+    {
+      "word": "policía",
+      "meaning_zh": "(名) 警察",
+      "example_es": "El policía me explicó cómo llegar a la estación.",
+      "example_zh": "警察告訴我怎麼去車站。"
+    },
+    {
+      "word": "bombero",
+      "meaning_zh": "(名) 消防員",
+      "example_es": "Los bomberos llegaron rápido para apagar el fuego.",
+      "example_zh": "消防員很快趕到把火撲滅。"
+    },
+    {
+      "word": "enfermero",
+      "meaning_zh": "(名) 男護士",
+      "example_es": "El enfermero me tomó la temperatura por la mañana.",
+      "example_zh": "男護士早上幫我量了體溫。"
+    },
+    {
+      "word": "dentista",
+      "meaning_zh": "(名) 牙醫",
+      "example_es": "Voy al dentista dos veces al año.",
+      "example_zh": "我一年看兩次牙醫。"
+    },
+    {
+      "word": "abogada",
+      "meaning_zh": "(名) 女律師",
+      "example_es": "Mi vecina es abogada y trabaja en el centro.",
+      "example_zh": "我的鄰居是律師，在市中心工作。"
+    },
+    {
+      "word": "ingeniero",
+      "meaning_zh": "(名) 工程師",
+      "example_es": "Mi hermano estudia para ser ingeniero.",
+      "example_zh": "我哥哥正在念書要當工程師。"
+    },
+    {
+      "word": "agricultor",
+      "meaning_zh": "(名) 農夫",
+      "example_es": "El agricultor cultiva tomates y patatas.",
+      "example_zh": "這位農夫種番茄和馬鈴薯。"
+    },
+    {
+      "word": "pintor",
+      "meaning_zh": "(名) 油漆工；畫家",
+      "example_es": "El pintor pintó las paredes de la casa de blanco.",
+      "example_zh": "油漆工把家裡的牆漆成白色。"
+    },
+    {
+      "word": "electricista",
+      "meaning_zh": "(名) 電工",
+      "example_es": "Llamamos al electricista porque no había luz.",
+      "example_zh": "因為沒電，我們叫了電工來。"
+    },
+    {
+      "word": "fontanero",
+      "meaning_zh": "(名) 水管工",
+      "example_es": "El fontanero arregló el grifo de la cocina.",
+      "example_zh": "水管工修好了廚房的水龍頭。"
+    },
+    {
+      "word": "vendedor",
+      "meaning_zh": "(名) 銷售員",
+      "example_es": "El vendedor de la tienda fue muy amable conmigo.",
+      "example_zh": "店裡的銷售員對我很親切。"
+    },
+    {
+      "word": "conductor",
+      "meaning_zh": "(名) 司機；駕駛",
+      "example_es": "El conductor del autobús conoce bien la ciudad.",
+      "example_zh": "公車司機很熟悉這座城市。"
+    },
+    {
+      "word": "guía",
+      "meaning_zh": "(名) 導遊；指南",
+      "example_es": "El guía nos enseñó los lugares más bonitos.",
+      "example_zh": "導遊帶我們看最漂亮的地方。"
+    },
+    {
+      "word": "secretaria",
+      "meaning_zh": "(名) 女秘書",
+      "example_es": "La secretaria contesta el teléfono de la oficina.",
+      "example_zh": "秘書負責接辦公室的電話。"
+    },
+    {
+      "word": "documento",
+      "meaning_zh": "(名) 文件",
+      "example_es": "Tengo que firmar este documento para el banco.",
+      "example_zh": "我得簽這份文件給銀行。"
+    },
+    {
+      "word": "firma",
+      "meaning_zh": "(名) 簽名",
+      "example_es": "Pon tu firma al final del papel, por favor.",
+      "example_zh": "請在這張紙的最後簽名。"
+    },
+    {
+      "word": "fotocopia",
+      "meaning_zh": "(名) 影印本",
+      "example_es": "Necesito una fotocopia de mi pasaporte.",
+      "example_zh": "我需要一份護照的影印本。"
+    },
+    {
+      "word": "fotocopiar",
+      "meaning_zh": "(動) 影印",
+      "example_es": "Voy a fotocopiar estos papeles para la reunión.",
+      "example_zh": "我要把這些文件影印好開會用。"
+    },
+    {
+      "word": "grapadora",
+      "meaning_zh": "(名) 釘書機",
+      "example_es": "Usa la grapadora para juntar todos los papeles.",
+      "example_zh": "用釘書機把所有的文件釘在一起。"
+    },
+    {
+      "word": "carpeta de papeles",
+      "meaning_zh": "(名) 文件夾",
+      "example_es": "Guardo los documentos importantes en una carpeta de papeles.",
+      "example_zh": "我把重要文件放在一個文件夾裡。"
+    },
+    {
+      "word": "escritorio",
+      "meaning_zh": "(名) 辦公桌；書桌",
+      "example_es": "Tengo el ordenador encima del escritorio.",
+      "example_zh": "我的電腦放在辦公桌上。"
+    },
+    {
+      "word": "calculadora",
+      "meaning_zh": "(名) 計算機",
+      "example_es": "Uso la calculadora para sumar los precios.",
+      "example_zh": "我用計算機把價格加起來。"
+    },
+    {
+      "word": "sobre",
+      "meaning_zh": "(名) 信封",
+      "example_es": "Pongo la carta dentro del sobre y la cierro.",
+      "example_zh": "我把信放進信封裡然後封起來。"
+    },
+    {
+      "word": "paquete",
+      "meaning_zh": "(名) 包裹",
+      "example_es": "Hoy me llegó un paquete de mi familia.",
+      "example_zh": "我家人寄的包裹今天到了。"
+    },
+    {
+      "word": "buzón",
+      "meaning_zh": "(名) 郵筒；信箱",
+      "example_es": "Echo la carta en el buzón de la esquina.",
+      "example_zh": "我把信投進轉角的郵筒。"
+    },
+    {
+      "word": "reunión de trabajo",
+      "meaning_zh": "(名) 工作會議",
+      "example_es": "La reunión de trabajo es a las diez de la mañana.",
+      "example_zh": "工作會議在早上十點。"
+    },
+    {
+      "word": "jefa",
+      "meaning_zh": "(名) 女主管；女上司",
+      "example_es": "Mi jefa me explicó las tareas de hoy.",
+      "example_zh": "我的女主管跟我說明了今天的工作。"
+    },
+    {
+      "word": "comparar",
+      "meaning_zh": "(動) 比較",
+      "example_es": "Me gusta comparar los precios antes de comprar.",
+      "example_zh": "買東西前我喜歡比較價格。"
+    },
+    {
+      "word": "decidirse",
+      "meaning_zh": "(動) 下定決心；做決定",
+      "example_es": "Al final me decidí por el coche más barato.",
+      "example_zh": "最後我決定買比較便宜的車。"
+    },
+    {
+      "word": "fijarse",
+      "meaning_zh": "(動) 注意；留意",
+      "example_es": "Fíjate bien en la dirección antes de salir.",
+      "example_zh": "出門前仔細看清楚地址。"
+    },
+    {
+      "word": "acordarse",
+      "meaning_zh": "(動) 記得；想起",
+      "example_es": "No me acuerdo del nombre de aquel restaurante.",
+      "example_zh": "我不記得那家餐廳的名字。"
+    },
+    {
+      "word": "olvidarse",
+      "meaning_zh": "(動) 忘記",
+      "example_es": "Siempre me olvido de comprar el pan.",
+      "example_zh": "我總是忘記買麵包。"
+    },
+    {
+      "word": "imaginar",
+      "meaning_zh": "(動) 想像",
+      "example_es": "Imagina que vivimos en una casa junto al mar.",
+      "example_zh": "想像我們住在一棟海邊的房子。"
+    },
+    {
+      "word": "creer",
+      "meaning_zh": "(動) 認為；相信",
+      "example_es": "Creo que mañana va a llover.",
+      "example_zh": "我認為明天會下雨。"
+    },
+    {
+      "word": "conseguir",
+      "meaning_zh": "(動) 取得；獲得",
+      "example_es": "Por fin conseguí dos entradas para el concierto.",
+      "example_zh": "我終於拿到了兩張演唱會的票。"
+    },
+    {
+      "word": "mejorar",
+      "meaning_zh": "(動) 改善；變好",
+      "example_es": "Quiero mejorar mi español este año.",
+      "example_zh": "我今年想把我的西班牙文學得更好。"
+    },
+    {
+      "word": "cambiar de idea",
+      "meaning_zh": "(動) 改變主意",
+      "example_es": "Al final cambié de idea y no fui al cine.",
+      "example_zh": "最後我改變主意，沒去看電影。"
+    },
+    {
+      "word": "preocupar",
+      "meaning_zh": "(動) 使擔心；令人擔憂",
+      "example_es": "Me preocupa la salud de mi abuela.",
+      "example_zh": "我擔心我奶奶的健康。"
+    },
+    {
+      "word": "alegrar",
+      "meaning_zh": "(動) 使高興",
+      "example_es": "Me alegra mucho verte después de tanto tiempo.",
+      "example_zh": "這麼久以後再見到你，我很高興。"
+    },
+    {
+      "word": "molestar",
+      "meaning_zh": "(動) 打擾；使厭煩",
+      "example_es": "El ruido de la calle me molesta para dormir.",
+      "example_zh": "街上的噪音讓我難以入睡。"
+    },
+    {
+      "word": "pedir prestado",
+      "meaning_zh": "(動) 借入",
+      "example_es": "Le pedí prestado un libro a mi compañero.",
+      "example_zh": "我向我同學借了一本書。"
+    },
+    {
+      "word": "invitar",
+      "meaning_zh": "(動) 邀請；請客",
+      "example_es": "Mis amigos me invitaron a cenar el viernes.",
+      "example_zh": "我朋友星期五請我吃晚餐。"
+    },
+    {
+      "word": "presentar",
+      "meaning_zh": "(動) 介紹；呈現",
+      "example_es": "Quiero presentarte a mi nuevo compañero.",
+      "example_zh": "我想介紹你認識我的新同事。"
+    },
+    {
+      "word": "conocerse",
+      "meaning_zh": "(動) 認識；相識",
+      "example_es": "Mis padres se conocieron en la universidad.",
+      "example_zh": "我父母是在大學認識的。"
+    },
+    {
+      "word": "quedar",
+      "meaning_zh": "(動) 約定見面",
+      "example_es": "Quedamos a las cinco en la puerta del cine.",
+      "example_zh": "我們約五點在電影院門口見。"
+    },
+    {
+      "word": "charlar",
+      "meaning_zh": "(動) 閒聊",
+      "example_es": "Me gusta charlar con mis amigos en la cafetería.",
+      "example_zh": "我喜歡在咖啡店跟朋友聊天。"
+    },
+    {
+      "word": "avisar",
+      "meaning_zh": "(動) 通知；告知",
+      "example_es": "Avísame cuando llegues a casa, por favor.",
+      "example_zh": "你到家時請通知我。"
+    },
+    {
+      "word": "enterarse",
+      "meaning_zh": "(動) 得知；獲悉",
+      "example_es": "Me enteré de la noticia por mi vecina.",
+      "example_zh": "我從鄰居那裡得知這個消息。"
+    },
+    {
+      "word": "repetir",
+      "meaning_zh": "(動) 重複；再說一次",
+      "example_es": "¿Puede repetir la dirección más despacio?",
+      "example_zh": "您可以慢一點再說一次地址嗎？"
+    },
+    {
+      "word": "callarse",
+      "meaning_zh": "(動) 安靜；閉嘴",
+      "example_es": "Los niños se callaron cuando entró el profesor.",
+      "example_zh": "老師進來時孩子們都安靜了。"
+    },
+    {
+      "word": "gritar",
+      "meaning_zh": "(動) 大叫；喊",
+      "example_es": "No grites, te oigo perfectamente.",
+      "example_zh": "別大叫，我聽得很清楚。"
+    },
+    {
+      "word": "mensaje de texto",
+      "meaning_zh": "(名) 簡訊",
+      "example_es": "Te mando un mensaje de texto cuando salga.",
+      "example_zh": "我出發時會傳簡訊給你。"
+    },
+    {
+      "word": "correo electrónico",
+      "meaning_zh": "(名) 電子郵件",
+      "example_es": "Le escribí un correo electrónico a mi jefe.",
+      "example_zh": "我寫了一封電子郵件給我老闆。"
+    },
+    {
+      "word": "llamada",
+      "meaning_zh": "(名) 來電；通話",
+      "example_es": "Recibí una llamada de mi madre por la tarde.",
+      "example_zh": "下午我接到媽媽的一通電話。"
+    },
+    {
+      "word": "número de teléfono",
+      "meaning_zh": "(名) 電話號碼",
+      "example_es": "Apunta mi número de teléfono en tu agenda.",
+      "example_zh": "把我的電話號碼記在你的記事本上。"
+    },
+    {
+      "word": "colgar",
+      "meaning_zh": "(動) 掛斷電話；掛起",
+      "example_es": "No cuelgues todavía, quiero decirte una cosa.",
+      "example_zh": "先別掛電話，我想跟你說件事。"
+    },
+    {
+      "word": "dejar un mensaje",
+      "meaning_zh": "(動) 留言",
+      "example_es": "Si no contesta, puedes dejar un mensaje.",
+      "example_zh": "如果他沒接，你可以留言。"
+    },
+    {
+      "word": "ponerse en contacto",
+      "meaning_zh": "(動) 取得聯繫",
+      "example_es": "Voy a ponerme en contacto con la empresa mañana.",
+      "example_zh": "我明天會跟那家公司取得聯繫。"
+    },
+    {
+      "word": "cuadrar",
+      "meaning_zh": "(動) 對得上；吻合",
+      "example_es": "Las cuentas no me cuadran este mes.",
+      "example_zh": "這個月我的帳對不上。"
+    },
+    {
+      "word": "anotar",
+      "meaning_zh": "(動) 記下；註記",
+      "example_es": "Anota la fecha de la cita en el calendario.",
+      "example_zh": "把約會的日期記在月曆上。"
+    },
+    {
+      "word": "rellenar",
+      "meaning_zh": "(動) 填寫；填滿",
+      "example_es": "Tienes que rellenar este papel con tus datos.",
+      "example_zh": "你得用你的資料填寫這張表格。"
+    },
+    {
+      "word": "formulario",
+      "meaning_zh": "(名) 表格；申請表",
+      "example_es": "Rellené el formulario para abrir una cuenta.",
+      "example_zh": "我填了申請表來開戶。"
+    },
+    {
+      "word": "cita previa",
+      "meaning_zh": "(名) 預約",
+      "example_es": "Para ir al banco necesitas pedir cita previa.",
+      "example_zh": "去銀行需要先預約。"
+    },
+    {
+      "word": "ventanilla",
+      "meaning_zh": "(名) 服務窗口",
+      "example_es": "Tienes que pagar el recibo en la ventanilla tres.",
+      "example_zh": "你得在三號窗口繳費。"
+    },
+    {
+      "word": "horario de atención",
+      "meaning_zh": "(名) 服務時間",
+      "example_es": "El horario de atención del banco es de nueve a dos.",
+      "example_zh": "銀行的服務時間是九點到兩點。"
+    },
+    {
+      "word": "atender",
+      "meaning_zh": "(動) 接待；服務",
+      "example_es": "La dependienta nos atendió muy bien.",
+      "example_zh": "店員為我們服務得很好。"
+    },
+    {
+      "word": "encargar",
+      "meaning_zh": "(動) 訂購；託付",
+      "example_es": "Voy a encargar una tarta para el cumpleaños.",
+      "example_zh": "我要訂一個生日蛋糕。"
+    },
+    {
+      "word": "entregar",
+      "meaning_zh": "(動) 交付；遞送",
+      "example_es": "El cartero entregó el paquete esta mañana.",
+      "example_zh": "郵差今天早上送來了包裹。"
+    },
+    {
+      "word": "recoger",
+      "meaning_zh": "(動) 領取；收拾",
+      "example_es": "Tengo que recoger el paquete en la oficina de correos.",
+      "example_zh": "我得去郵局領取包裹。"
+    },
+    {
+      "word": "apuntarse",
+      "meaning_zh": "(動) 報名參加",
+      "example_es": "Me he apuntado a un curso de cocina.",
+      "example_zh": "我報名了一門烹飪課。"
+    },
+    {
+      "word": "matricular",
+      "meaning_zh": "(動) 註冊；報名",
+      "example_es": "Voy a matricular a mi hijo en la escuela nueva.",
+      "example_zh": "我要幫我兒子在新學校註冊。"
+    },
+    {
+      "word": "fecha límite",
+      "meaning_zh": "(名) 截止日期",
+      "example_es": "La fecha límite para entregar el trabajo es el viernes.",
+      "example_zh": "交作業的截止日期是星期五。"
+    },
+    {
+      "word": "plazo",
+      "meaning_zh": "(名) 期限；分期",
+      "example_es": "Tenemos un plazo de una semana para pagar.",
+      "example_zh": "我們有一星期的期限可以付款。"
+    },
+    {
+      "word": "a tiempo",
+      "meaning_zh": "(副) 及時；準時地",
+      "example_es": "Llegamos a tiempo para coger el tren.",
+      "example_zh": "我們及時趕上了火車。"
+    },
+    {
+      "word": "de repente",
+      "meaning_zh": "(副) 突然地",
+      "example_es": "De repente empezó a llover muy fuerte.",
+      "example_zh": "突然間下起了大雨。"
+    },
+    {
+      "word": "casi",
+      "meaning_zh": "(副) 幾乎；差一點",
+      "example_es": "Casi pierdo el autobús esta mañana.",
+      "example_zh": "我今天早上差一點錯過公車。"
+    },
+    {
+      "word": "enseguida",
+      "meaning_zh": "(副) 立刻；馬上",
+      "example_es": "Termino esto y enseguida voy contigo.",
+      "example_zh": "我做完這個馬上就跟你去。"
+    },
+    {
+      "word": "a menudo",
+      "meaning_zh": "(副) 經常",
+      "example_es": "Voy al gimnasio a menudo después del trabajo.",
+      "example_zh": "下班後我經常去健身房。"
+    },
+    {
+      "word": "de vez en cuando",
+      "meaning_zh": "(副) 偶爾",
+      "example_es": "De vez en cuando como en un restaurante.",
+      "example_zh": "我偶爾會在餐廳吃飯。"
+    },
+    {
+      "word": "una vez",
+      "meaning_zh": "(副) 一次",
+      "example_es": "Voy al dentista una vez cada seis meses.",
+      "example_zh": "我每六個月看一次牙醫。"
+    },
+    {
+      "word": "dos veces",
+      "meaning_zh": "(副) 兩次",
+      "example_es": "Hago la compra dos veces a la semana.",
+      "example_zh": "我一星期採買兩次。"
+    },
+    {
+      "word": "todos los días",
+      "meaning_zh": "(副) 每天",
+      "example_es": "Mi padre lee el periódico todos los días.",
+      "example_zh": "我爸爸每天看報紙。"
+    },
+    {
+      "word": "cada mañana",
+      "meaning_zh": "(副) 每天早上",
+      "example_es": "Cada mañana tomo un café antes de salir.",
+      "example_zh": "我每天早上出門前都喝一杯咖啡。"
+    },
+    {
+      "word": "muchas veces",
+      "meaning_zh": "(副) 很多次；常常",
+      "example_es": "He estado muchas veces en esa ciudad.",
+      "example_zh": "我去過那個城市很多次。"
+    },
+    {
+      "word": "un poco",
+      "meaning_zh": "(副) 一點點；稍微",
+      "example_es": "Estoy un poco cansado después del viaje.",
+      "example_zh": "旅行之後我有點累。"
+    },
+    {
+      "word": "más o menos",
+      "meaning_zh": "(副) 大概；差不多",
+      "example_es": "El viaje dura más o menos tres horas.",
+      "example_zh": "這趟旅程大概要三個小時。"
+    },
+    {
+      "word": "sobre todo",
+      "meaning_zh": "(副) 尤其；特別是",
+      "example_es": "Me gusta la fruta, sobre todo las fresas.",
+      "example_zh": "我喜歡水果，尤其是草莓。"
+    },
+    {
+      "word": "por fin",
+      "meaning_zh": "(副) 終於",
+      "example_es": "Por fin terminé todo el trabajo de la semana.",
+      "example_zh": "我終於完成了這星期所有的工作。"
+    },
+    {
+      "word": "en seguida",
+      "meaning_zh": "(副) 馬上；立即",
+      "example_es": "Espera un momento, vuelvo en seguida.",
+      "example_zh": "等一下，我馬上回來。"
+    },
+    {
+      "word": "mientras tanto",
+      "meaning_zh": "(副) 在這期間；同時",
+      "example_es": "Tú cocinas y mientras tanto yo pongo la mesa.",
+      "example_zh": "你煮飯，這期間我來擺餐具。"
+    },
+    {
+      "word": "barrio tranquilo",
+      "meaning_zh": "(名) 安靜的社區",
+      "example_es": "Vivimos en un barrio tranquilo cerca del parque.",
+      "example_zh": "我們住在公園附近一個安靜的社區。"
+    },
+    {
+      "word": "ruidoso",
+      "meaning_zh": "(形) 吵鬧的",
+      "example_es": "Esta calle es muy ruidosa por la noche.",
+      "example_zh": "這條街晚上很吵。"
+    },
+    {
+      "word": "cómodo",
+      "meaning_zh": "(形) 舒適的；方便的",
+      "example_es": "Este sofá nuevo es muy cómodo.",
+      "example_zh": "這張新沙發很舒服。"
+    },
+    {
+      "word": "incómodo",
+      "meaning_zh": "(形) 不舒服的",
+      "example_es": "La silla de la oficina es muy incómoda.",
+      "example_zh": "辦公室的椅子很不舒服。"
+    },
+    {
+      "word": "amueblado",
+      "meaning_zh": "(形) 附家具的",
+      "example_es": "Alquilamos un piso amueblado en el centro.",
+      "example_zh": "我們在市中心租了一間附家具的公寓。"
+    },
+    {
+      "word": "vecindario",
+      "meaning_zh": "(名) 鄰里；街坊",
+      "example_es": "Todo el vecindario conoce a la panadera.",
+      "example_zh": "整個街坊的人都認識那位麵包店老闆娘。"
+    },
+    {
+      "word": "mudarse",
+      "meaning_zh": "(動) 搬家",
+      "example_es": "El mes que viene nos mudamos a una casa más grande.",
+      "example_zh": "下個月我們要搬到一間更大的房子。"
+    },
+    {
+      "word": "compartir piso",
+      "meaning_zh": "(動) 合租公寓",
+      "example_es": "Comparto piso con dos amigas de la universidad.",
+      "example_zh": "我和兩個大學朋友合租公寓。"
+    },
+    {
+      "word": "alquiler",
+      "meaning_zh": "(名) 租金；房租",
+      "example_es": "El alquiler de este piso es muy caro.",
+      "example_zh": "這間公寓的房租很貴。"
+    },
+    {
+      "word": "casero",
+      "meaning_zh": "(名) 房東",
+      "example_es": "Le pago el alquiler al casero cada mes.",
+      "example_zh": "我每個月付房租給房東。"
+    },
+    {
+      "word": "calefacción",
+      "meaning_zh": "(名) 暖氣",
+      "example_es": "En invierno encendemos la calefacción de casa.",
+      "example_zh": "冬天我們會開家裡的暖氣。"
+    },
+    {
+      "word": "aire acondicionado",
+      "meaning_zh": "(名) 冷氣；空調",
+      "example_es": "En verano usamos el aire acondicionado por la noche.",
+      "example_zh": "夏天晚上我們會開冷氣。"
+    },
+    {
+      "word": "portero",
+      "meaning_zh": "(名) 門房；管理員",
+      "example_es": "El portero del edificio recoge los paquetes.",
+      "example_zh": "這棟樓的管理員會代收包裹。"
+    },
+    {
+      "word": "trastero",
+      "meaning_zh": "(名) 儲藏室",
+      "example_es": "Guardamos las maletas en el trastero.",
+      "example_zh": "我們把行李箱放在儲藏室裡。"
+    },
+    {
+      "word": "encender la luz",
+      "meaning_zh": "(動) 開燈",
+      "example_es": "Enciende la luz, está muy oscuro aquí.",
+      "example_zh": "把燈打開，這裡太暗了。"
+    },
+    {
+      "word": "apagar la luz",
+      "meaning_zh": "(動) 關燈",
+      "example_es": "Apaga la luz antes de salir de la habitación.",
+      "example_zh": "離開房間前把燈關掉。"
+    },
+    {
+      "word": "arreglar",
+      "meaning_zh": "(動) 修理；整理",
+      "example_es": "Tengo que arreglar la silla rota del comedor.",
+      "example_zh": "我得修理飯廳那張壞掉的椅子。"
+    },
+    {
+      "word": "estropearse",
+      "meaning_zh": "(動) 故障；壞掉",
+      "example_es": "La nevera se ha estropeado y no enfría.",
+      "example_zh": "冰箱壞了，不會冷了。"
+    },
+    {
+      "word": "funcionar",
+      "meaning_zh": "(動) 運作；運轉",
+      "example_es": "El reloj de la cocina ya no funciona.",
+      "example_zh": "廚房的時鐘已經不會走了。"
+    },
+    {
+      "word": "gotear",
+      "meaning_zh": "(動) 滴水；漏水",
+      "example_es": "El grifo del baño gotea toda la noche.",
+      "example_zh": "浴室的水龍頭整晚都在滴水。"
+    },
+    {
+      "word": "factura de la luz",
+      "meaning_zh": "(名) 電費帳單",
+      "example_es": "Este mes la factura de la luz es muy alta.",
+      "example_zh": "這個月的電費帳單很高。"
+    },
+    {
+      "word": "recibo del agua",
+      "meaning_zh": "(名) 水費帳單",
+      "example_es": "Hay que pagar el recibo del agua antes del día diez.",
+      "example_zh": "水費帳單要在十號前繳。"
+    },
+    {
+      "word": "gastos",
+      "meaning_zh": "(名) 開銷；花費",
+      "example_es": "Cada mes apunto todos mis gastos en un cuaderno.",
+      "example_zh": "我每個月把所有開銷記在一本筆記本上。"
+    },
+    {
+      "word": "ahorrar dinero",
+      "meaning_zh": "(動) 存錢",
+      "example_es": "Quiero ahorrar dinero para las vacaciones.",
+      "example_zh": "我想存錢去度假。"
+    },
+    {
+      "word": "andén",
+      "meaning_zh": "(名) 月台",
+      "example_es": "El tren sale del andén número cuatro.",
+      "example_zh": "火車從四號月台出發。"
+    },
+    {
+      "word": "vía",
+      "meaning_zh": "(名) 軌道；路線",
+      "example_es": "No debes cruzar la vía del tren.",
+      "example_zh": "你不可以穿越火車軌道。"
+    },
+    {
+      "word": "trayecto",
+      "meaning_zh": "(名) 路程；行程",
+      "example_es": "El trayecto en autobús dura una hora.",
+      "example_zh": "公車的路程要一個小時。"
+    },
+    {
+      "word": "destino",
+      "meaning_zh": "(名) 目的地",
+      "example_es": "Nuestro destino este verano es Italia.",
+      "example_zh": "我們今年夏天的目的地是義大利。"
+    },
+    {
+      "word": "salida",
+      "meaning_zh": "(名) 出發；出口",
+      "example_es": "La salida del avión es a las ocho.",
+      "example_zh": "飛機的起飛時間是八點。"
+    },
+    {
+      "word": "llegada",
+      "meaning_zh": "(名) 抵達",
+      "example_es": "La llegada del tren tiene un retraso.",
+      "example_zh": "火車的抵達時間有些延誤。"
+    },
+    {
+      "word": "horario de trenes",
+      "meaning_zh": "(名) 火車時刻表",
+      "example_es": "Miro el horario de trenes en la estación.",
+      "example_zh": "我在車站看火車時刻表。"
+    },
+    {
+      "word": "asiento de ventanilla",
+      "meaning_zh": "(名) 靠窗座位",
+      "example_es": "Prefiero un asiento de ventanilla en el avión.",
+      "example_zh": "我在飛機上比較喜歡靠窗座位。"
+    },
+    {
+      "word": "billete de ida",
+      "meaning_zh": "(名) 單程票",
+      "example_es": "Compré un billete de ida para Madrid.",
+      "example_zh": "我買了一張到馬德里的單程票。"
+    },
+    {
+      "word": "billete de vuelta",
+      "meaning_zh": "(名) 回程票",
+      "example_es": "También necesito un billete de vuelta.",
+      "example_zh": "我也需要一張回程票。"
+    },
+    {
+      "word": "ida y vuelta",
+      "meaning_zh": "(名) 來回票；往返",
+      "example_es": "El billete de ida y vuelta es más barato.",
+      "example_zh": "來回票比較便宜。"
+    },
+    {
+      "word": "facturar",
+      "meaning_zh": "(動) 託運（行李）",
+      "example_es": "Tenemos que facturar las maletas grandes.",
+      "example_zh": "我們得把大行李箱託運。"
+    },
+    {
+      "word": "embarcar",
+      "meaning_zh": "(動) 登機；上船",
+      "example_es": "Los pasajeros empiezan a embarcar ahora.",
+      "example_zh": "乘客現在開始登機。"
+    },
+    {
+      "word": "puerta de embarque",
+      "meaning_zh": "(名) 登機門",
+      "example_es": "Nuestra puerta de embarque es la número doce.",
+      "example_zh": "我們的登機門是十二號。"
+    },
+    {
+      "word": "azafata",
+      "meaning_zh": "(名) 空服員",
+      "example_es": "La azafata nos sirve agua durante el vuelo.",
+      "example_zh": "空服員在飛行途中給我們倒水。"
+    },
+    {
+      "word": "tripulación",
+      "meaning_zh": "(名) 機組人員；船員",
+      "example_es": "La tripulación es muy amable con los pasajeros.",
+      "example_zh": "機組人員對乘客很友善。"
+    },
+    {
+      "word": "escala",
+      "meaning_zh": "(名) 中途停留；轉機",
+      "example_es": "El vuelo tiene una escala en París.",
+      "example_zh": "這班航班在巴黎有一次轉機。"
+    },
+    {
+      "word": "retrasarse",
+      "meaning_zh": "(動) 延誤；遲到",
+      "example_es": "El avión se retrasó dos horas por la lluvia.",
+      "example_zh": "飛機因為下雨延誤了兩個小時。"
+    },
+    {
+      "word": "cancelar",
+      "meaning_zh": "(動) 取消",
+      "example_es": "Tuvieron que cancelar el vuelo por la nieve.",
+      "example_zh": "他們因為下雪不得不取消航班。"
+    },
+    {
+      "word": "alojarse",
+      "meaning_zh": "(動) 住宿；下榻",
+      "example_es": "Nos alojamos en un hotel cerca del centro.",
+      "example_zh": "我們住在市中心附近的旅館。"
+    },
+    {
+      "word": "hospedarse",
+      "meaning_zh": "(動) 投宿；寄宿",
+      "example_es": "Vamos a hospedarnos en casa de mis primos.",
+      "example_zh": "我們要住在我表親家裡。"
+    },
+    {
+      "word": "noche extra",
+      "meaning_zh": "(名) 加住一晚",
+      "example_es": "Pagamos una noche extra en el hotel.",
+      "example_zh": "我們在旅館多付了一晚的住宿費。"
+    },
+    {
+      "word": "media pensión",
+      "meaning_zh": "(名) 半膳食宿",
+      "example_es": "El hotel ofrece media pensión con desayuno y cena.",
+      "example_zh": "旅館提供含早餐和晚餐的半膳食宿。"
+    },
+    {
+      "word": "guía turístico",
+      "meaning_zh": "(名) 導遊",
+      "example_es": "El guía turístico nos cuenta la historia de la ciudad.",
+      "example_zh": "導遊向我們講述這座城市的歷史。"
+    },
+    {
+      "word": "folleto",
+      "meaning_zh": "(名) 宣傳手冊；傳單",
+      "example_es": "Cogí un folleto con información de los museos.",
+      "example_zh": "我拿了一本有博物館資訊的手冊。"
+    },
+    {
+      "word": "souvenir",
+      "meaning_zh": "(名) 紀念品",
+      "example_es": "Compré un souvenir pequeño para mi hermana.",
+      "example_zh": "我買了一個小紀念品給我妹妹。"
+    },
+    {
+      "word": "recuerdo de viaje",
+      "meaning_zh": "(名) 旅行紀念品",
+      "example_es": "Esta postal es un recuerdo de viaje bonito.",
+      "example_zh": "這張明信片是個漂亮的旅行紀念品。"
+    },
+    {
+      "word": "mochilero",
+      "meaning_zh": "(名) 背包客",
+      "example_es": "Mi hermano viaja por Asia como mochilero.",
+      "example_zh": "我哥哥當背包客在亞洲旅行。"
+    },
+    {
+      "word": "crucero",
+      "meaning_zh": "(名) 郵輪；遊輪之旅",
+      "example_es": "Hicimos un crucero por el mar Mediterráneo.",
+      "example_zh": "我們搭郵輪遊地中海。"
+    },
+    {
+      "word": "tarjeta de embarque",
+      "meaning_zh": "(名) 登機證",
+      "example_es": "Enseña tu tarjeta de embarque en la puerta.",
+      "example_zh": "在登機門出示你的登機證。"
+    },
+    {
+      "word": "carril",
+      "meaning_zh": "(名) 車道",
+      "example_es": "Hay un carril especial para las bicicletas.",
+      "example_zh": "有一條專門給腳踏車的車道。"
+    },
+    {
+      "word": "atasco",
+      "meaning_zh": "(名) 塞車",
+      "example_es": "Llegamos tarde por culpa del atasco.",
+      "example_zh": "我們因為塞車而遲到了。"
+    },
+    {
+      "word": "semáforo",
+      "meaning_zh": "(名) 紅綠燈",
+      "example_es": "Espera a que el semáforo se ponga verde.",
+      "example_zh": "等紅綠燈變綠再走。"
+    },
+    {
+      "word": "acera",
+      "meaning_zh": "(名) 人行道",
+      "example_es": "Los niños caminan por la acera.",
+      "example_zh": "孩子們走在人行道上。"
+    },
+    {
+      "word": "paso de peatones",
+      "meaning_zh": "(名) 行人穿越道",
+      "example_es": "Cruza siempre por el paso de peatones.",
+      "example_zh": "永遠要從行人穿越道過馬路。"
+    },
+    {
+      "word": "rotonda",
+      "meaning_zh": "(名) 圓環",
+      "example_es": "Gira a la derecha en la rotonda.",
+      "example_zh": "在圓環處向右轉。"
+    },
+    {
+      "word": "gasolinera",
+      "meaning_zh": "(名) 加油站",
+      "example_es": "Tenemos que parar en la gasolinera.",
+      "example_zh": "我們得在加油站停一下。"
+    },
+    {
+      "word": "túnel",
+      "meaning_zh": "(名) 隧道",
+      "example_es": "El coche pasa por un túnel muy largo.",
+      "example_zh": "車子經過一條很長的隧道。"
+    },
+    {
+      "word": "autopista",
+      "meaning_zh": "(名) 高速公路",
+      "example_es": "La autopista es la ruta más rápida.",
+      "example_zh": "高速公路是最快的路線。"
+    },
+    {
+      "word": "peaje",
+      "meaning_zh": "(名) 過路費",
+      "example_es": "Pagamos el peaje antes de entrar en la autopista.",
+      "example_zh": "我們在進高速公路前付了過路費。"
+    },
+    {
+      "word": "matrícula del coche",
+      "meaning_zh": "(名) 車牌",
+      "example_es": "No recuerdo la matrícula del coche.",
+      "example_zh": "我不記得車牌號碼。"
+    },
+    {
+      "word": "neumático",
+      "meaning_zh": "(名) 輪胎",
+      "example_es": "Uno de los neumáticos está casi vacío.",
+      "example_zh": "其中一個輪胎快沒氣了。"
+    },
+    {
+      "word": "tranvía",
+      "meaning_zh": "(名) 電車",
+      "example_es": "Voy al trabajo en tranvía cada día.",
+      "example_zh": "我每天搭電車上班。"
+    },
+    {
+      "word": "andar en bici",
+      "meaning_zh": "(動) 騎腳踏車",
+      "example_es": "Me gusta andar en bici los domingos.",
+      "example_zh": "我喜歡在星期天騎腳踏車。"
+    },
+    {
+      "word": "casco",
+      "meaning_zh": "(名) 安全帽",
+      "example_es": "Siempre llevo casco cuando voy en moto.",
+      "example_zh": "我騎機車時總是戴安全帽。"
+    },
+    {
+      "word": "transbordo",
+      "meaning_zh": "(名) 轉乘；換車",
+      "example_es": "Tienes que hacer transbordo en la siguiente estación.",
+      "example_zh": "你得在下一站轉乘。"
+    },
+    {
+      "word": "abono de transporte",
+      "meaning_zh": "(名) 交通月票",
+      "example_es": "Con el abono de transporte viajo más barato.",
+      "example_zh": "用交通月票搭車比較便宜。"
+    },
+    {
+      "word": "taquilla automática",
+      "meaning_zh": "(名) 自動售票機",
+      "example_es": "Saco los billetes en la taquilla automática.",
+      "example_zh": "我在自動售票機買票。"
+    },
+    {
+      "word": "salida de emergencia",
+      "meaning_zh": "(名) 緊急出口",
+      "example_es": "La salida de emergencia está al fondo.",
+      "example_zh": "緊急出口在最裡面。"
+    },
+    {
+      "word": "pasajero",
+      "meaning_zh": "(名) 乘客",
+      "example_es": "Hay muchos pasajeros en el metro por la mañana.",
+      "example_zh": "早上地鐵裡有很多乘客。"
+    },
+    {
+      "word": "alquiler de coches",
+      "meaning_zh": "(名) 租車",
+      "example_es": "Buscamos una oficina de alquiler de coches.",
+      "example_zh": "我們在找一家租車公司。"
+    },
+    {
+      "word": "ruta turística",
+      "meaning_zh": "(名) 觀光路線",
+      "example_es": "Seguimos la ruta turística por el casco antiguo.",
+      "example_zh": "我們沿著觀光路線遊老城區。"
+    },
+    {
+      "word": "casco antiguo",
+      "meaning_zh": "(名) 老城區",
+      "example_es": "El casco antiguo tiene calles muy estrechas.",
+      "example_zh": "老城區的街道很狹窄。"
+    },
+    {
+      "word": "afueras",
+      "meaning_zh": "(名) 郊區",
+      "example_es": "Mis abuelos viven en las afueras de la ciudad.",
+      "example_zh": "我的祖父母住在城市的郊區。"
+    },
+    {
+      "word": "mirador",
+      "meaning_zh": "(名) 觀景台",
+      "example_es": "Desde el mirador se ve toda la ciudad.",
+      "example_zh": "從觀景台可以看到整座城市。"
+    },
+    {
+      "word": "paisaje urbano",
+      "meaning_zh": "(名) 城市景觀",
+      "example_es": "Me gusta el paisaje urbano de noche.",
+      "example_zh": "我喜歡夜晚的城市景觀。"
+    },
+    {
+      "word": "ayuntamiento",
+      "meaning_zh": "(名) 市政廳",
+      "example_es": "El ayuntamiento está en la plaza mayor.",
+      "example_zh": "市政廳在大廣場上。"
+    },
+    {
+      "word": "comisaría",
+      "meaning_zh": "(名) 警察局",
+      "example_es": "Fui a la comisaría a denunciar el robo.",
+      "example_zh": "我去警察局報案說東西被偷了。"
+    },
+    {
+      "word": "oficina de turismo",
+      "meaning_zh": "(名) 旅遊服務中心",
+      "example_es": "En la oficina de turismo dan mapas gratis.",
+      "example_zh": "旅遊服務中心免費提供地圖。"
+    },
+    {
+      "word": "cajero automático",
+      "meaning_zh": "(名) 自動提款機",
+      "example_es": "Saco dinero del cajero automático.",
+      "example_zh": "我從自動提款機領錢。"
+    },
+    {
+      "word": "sello de correos",
+      "meaning_zh": "(名) 郵票",
+      "example_es": "Necesito un sello de correos para esta postal.",
+      "example_zh": "我需要一張郵票寄這張明信片。"
+    },
+    {
+      "word": "fuente",
+      "meaning_zh": "(名) 噴泉",
+      "example_es": "Los niños juegan cerca de la fuente.",
+      "example_zh": "孩子們在噴泉附近玩。"
+    },
+    {
+      "word": "estatua",
+      "meaning_zh": "(名) 雕像",
+      "example_es": "Hay una estatua antigua en medio del parque.",
+      "example_zh": "公園中央有一座古老的雕像。"
+    },
+    {
+      "word": "monumento",
+      "meaning_zh": "(名) 紀念碑；名勝",
+      "example_es": "Visitamos los monumentos más famosos de la ciudad.",
+      "example_zh": "我們參觀了城市裡最有名的名勝。"
+    },
+    {
+      "word": "catedral",
+      "meaning_zh": "(名) 大教堂",
+      "example_es": "La catedral es muy alta y muy bonita.",
+      "example_zh": "大教堂又高又漂亮。"
+    },
+    {
+      "word": "castillo",
+      "meaning_zh": "(名) 城堡",
+      "example_es": "El castillo está sobre una colina verde.",
+      "example_zh": "城堡坐落在一座綠色山丘上。"
+    },
+    {
+      "word": "zona peatonal",
+      "meaning_zh": "(名) 行人徒步區",
+      "example_es": "En la zona peatonal no pueden entrar coches.",
+      "example_zh": "車子不能進入行人徒步區。"
+    },
+    {
+      "word": "callejón",
+      "meaning_zh": "(名) 小巷",
+      "example_es": "El restaurante está en un callejón estrecho.",
+      "example_zh": "那家餐廳在一條狹窄的小巷裡。"
+    },
+    {
+      "word": "alcantarilla",
+      "meaning_zh": "(名) 下水道；排水溝",
+      "example_es": "La lluvia entra por la alcantarilla.",
+      "example_zh": "雨水從排水溝流走。"
+    },
+    {
+      "word": "farola",
+      "meaning_zh": "(名) 路燈",
+      "example_es": "Las farolas se encienden al anochecer.",
+      "example_zh": "路燈在天黑時亮起。"
+    },
+    {
+      "word": "papelera de reciclaje",
+      "meaning_zh": "(名) 資源回收桶",
+      "example_es": "Echa las botellas en la papelera de reciclaje.",
+      "example_zh": "把瓶子丟進資源回收桶。"
+    },
+    {
+      "word": "mercadillo",
+      "meaning_zh": "(名) 跳蚤市場；露天市集",
+      "example_es": "Los domingos hay un mercadillo en la plaza.",
+      "example_zh": "星期天廣場上有一個露天市集。"
+    },
+    {
+      "word": "peluquería",
+      "meaning_zh": "(名) 美髮店",
+      "example_es": "Voy a la peluquería a cortarme el pelo.",
+      "example_zh": "我要去美髮店剪頭髮。"
+    },
+    {
+      "word": "lavandería",
+      "meaning_zh": "(名) 洗衣店",
+      "example_es": "Llevo las sábanas a la lavandería.",
+      "example_zh": "我把床單拿去洗衣店。"
+    },
+    {
+      "word": "biblioteca municipal",
+      "meaning_zh": "(名) 市立圖書館",
+      "example_es": "Estudio en la biblioteca municipal por la tarde.",
+      "example_zh": "我下午在市立圖書館讀書。"
+    },
+    {
+      "word": "polideportivo",
+      "meaning_zh": "(名) 綜合運動中心",
+      "example_es": "Hay una piscina en el polideportivo del barrio.",
+      "example_zh": "社區的綜合運動中心裡有一座游泳池。"
+    },
+    {
+      "word": "parque infantil",
+      "meaning_zh": "(名) 兒童遊樂場",
+      "example_es": "Los niños juegan en el parque infantil.",
+      "example_zh": "孩子們在兒童遊樂場玩。"
+    },
+    {
+      "word": "piscina pública",
+      "meaning_zh": "(名) 公共游泳池",
+      "example_es": "En verano vamos a la piscina pública.",
+      "example_zh": "夏天我們會去公共游泳池。"
+    },
+    {
+      "word": "guardarropa",
+      "meaning_zh": "(名) 衣帽間；寄物處",
+      "example_es": "Dejé el abrigo en el guardarropa del teatro.",
+      "example_zh": "我把外套放在劇院的衣帽間。"
+    },
+    {
+      "word": "ascensor del edificio",
+      "meaning_zh": "(名) 大樓電梯",
+      "example_es": "El ascensor del edificio no funciona hoy.",
+      "example_zh": "大樓電梯今天故障了。"
+    },
+    {
+      "word": "patio interior",
+      "meaning_zh": "(名) 中庭",
+      "example_es": "Mi habitación da al patio interior.",
+      "example_zh": "我的房間面向中庭。"
+    },
+    {
+      "word": "azotea",
+      "meaning_zh": "(名) 屋頂平台",
+      "example_es": "Subimos a la azotea para ver las estrellas.",
+      "example_zh": "我們上屋頂平台看星星。"
+    },
+    {
+      "word": "fuente de agua",
+      "meaning_zh": "(名) 飲水機；水源",
+      "example_es": "Bebí agua de la fuente de agua del parque.",
+      "example_zh": "我喝了公園飲水機的水。"
+    },
+    {
+      "word": "tiempo libre",
+      "meaning_zh": "(名) 空閒時間",
+      "example_es": "En mi tiempo libre escucho música.",
+      "example_zh": "我空閒時間會聽音樂。"
+    },
+    {
+      "word": "pasatiempo",
+      "meaning_zh": "(名) 嗜好；消遣",
+      "example_es": "Coleccionar monedas es su pasatiempo favorito.",
+      "example_zh": "收集硬幣是他最喜歡的嗜好。"
+    },
+    {
+      "word": "entretenimiento",
+      "meaning_zh": "(名) 娛樂",
+      "example_es": "El cine es un buen entretenimiento para todos.",
+      "example_zh": "看電影對所有人來說都是不錯的娛樂。"
+    },
+    {
+      "word": "ajedrez",
+      "meaning_zh": "(名) 西洋棋",
+      "example_es": "Mi padre me enseñó a jugar al ajedrez.",
+      "example_zh": "我爸爸教我下西洋棋。"
+    },
+    {
+      "word": "naipes",
+      "meaning_zh": "(名) 撲克牌",
+      "example_es": "Jugamos a los naipes después de cenar.",
+      "example_zh": "我們晚餐後玩撲克牌。"
+    },
+    {
+      "word": "rompecabezas",
+      "meaning_zh": "(名) 拼圖",
+      "example_es": "Este rompecabezas tiene mil piezas.",
+      "example_zh": "這個拼圖有一千片。"
+    },
+    {
+      "word": "videojuego",
+      "meaning_zh": "(名) 電動遊戲",
+      "example_es": "Mi hermano pequeño juega a un videojuego nuevo.",
+      "example_zh": "我弟弟在玩一款新的電動遊戲。"
+    },
+    {
+      "word": "manualidades",
+      "meaning_zh": "(名) 手工藝",
+      "example_es": "A mi hija le encantan las manualidades.",
+      "example_zh": "我女兒非常喜歡手工藝。"
+    },
+    {
+      "word": "fotografía",
+      "meaning_zh": "(名) 攝影",
+      "example_es": "La fotografía es uno de mis hobbies.",
+      "example_zh": "攝影是我的興趣之一。"
+    },
+    {
+      "word": "jardinería",
+      "meaning_zh": "(名) 園藝",
+      "example_es": "Mi abuela dedica las mañanas a la jardinería.",
+      "example_zh": "我奶奶早上都花時間在園藝上。"
+    },
+    {
+      "word": "coleccionar",
+      "meaning_zh": "(動) 收集",
+      "example_es": "Me gusta coleccionar sellos de otros países.",
+      "example_zh": "我喜歡收集其他國家的郵票。"
+    },
+    {
+      "word": "tocar el piano",
+      "meaning_zh": "(動) 彈鋼琴",
+      "example_es": "Mi hermana sabe tocar el piano muy bien.",
+      "example_zh": "我姊姊鋼琴彈得很好。"
+    },
+    {
+      "word": "espectador",
+      "meaning_zh": "(名) 觀眾",
+      "example_es": "Los espectadores aplaudieron al final del concierto.",
+      "example_zh": "觀眾在音樂會結束時鼓掌。"
+    },
+    {
+      "word": "escenario teatral",
+      "meaning_zh": "(名) 戲劇舞台",
+      "example_es": "Los actores salieron al escenario teatral.",
+      "example_zh": "演員們走上了戲劇舞台。"
+    },
+    {
+      "word": "estreno",
+      "meaning_zh": "(名) 首映；首演",
+      "example_es": "El estreno de la película es este viernes.",
+      "example_zh": "這部電影的首映是這個星期五。"
+    },
+    {
+      "word": "taquilla de cine",
+      "meaning_zh": "(名) 電影售票口",
+      "example_es": "Compramos las entradas en la taquilla de cine.",
+      "example_zh": "我們在電影售票口買了票。"
+    },
+    {
+      "word": "palomitas",
+      "meaning_zh": "(名) 爆米花",
+      "example_es": "Comemos palomitas mientras vemos la película.",
+      "example_zh": "我們邊看電影邊吃爆米花。"
+    },
+    {
+      "word": "comedia",
+      "meaning_zh": "(名) 喜劇",
+      "example_es": "Anoche vimos una comedia muy divertida.",
+      "example_zh": "昨晚我們看了一部很有趣的喜劇。"
+    },
+    {
+      "word": "dibujos animados",
+      "meaning_zh": "(名) 卡通",
+      "example_es": "A los niños les gustan los dibujos animados.",
+      "example_zh": "孩子們喜歡看卡通。"
+    },
+    {
+      "word": "documental de viajes",
+      "meaning_zh": "(名) 旅遊紀錄片",
+      "example_es": "Vimos un documental de viajes sobre Japón.",
+      "example_zh": "我們看了一部關於日本的旅遊紀錄片。"
+    },
+    {
+      "word": "feria",
+      "meaning_zh": "(名) 園遊會；展覽會",
+      "example_es": "Cada primavera hay una feria en el pueblo.",
+      "example_zh": "每年春天村裡都有一場園遊會。"
+    },
+    {
+      "word": "noria",
+      "meaning_zh": "(名) 摩天輪",
+      "example_es": "Subimos a la noria para ver el paisaje.",
+      "example_zh": "我們搭摩天輪欣賞風景。"
+    },
+    {
+      "word": "parque de atracciones",
+      "meaning_zh": "(名) 遊樂園",
+      "example_es": "Pasamos un día genial en el parque de atracciones.",
+      "example_zh": "我們在遊樂園度過了美好的一天。"
+    },
+    {
+      "word": "zoo",
+      "meaning_zh": "(名) 動物園",
+      "example_es": "El domingo llevamos a los niños al zoo.",
+      "example_zh": "星期天我們帶孩子去動物園。"
+    },
+    {
+      "word": "acuario",
+      "meaning_zh": "(名) 水族館",
+      "example_es": "En el acuario vimos peces de muchos colores.",
+      "example_zh": "我們在水族館看到許多顏色的魚。"
+    },
+    {
+      "word": "picnic",
+      "meaning_zh": "(名) 野餐",
+      "example_es": "Hicimos un picnic en el campo el sábado.",
+      "example_zh": "星期六我們在鄉間野餐。"
+    },
+    {
+      "word": "bailar salsa",
+      "meaning_zh": "(動) 跳莎莎舞",
+      "example_es": "Aprendimos a bailar salsa en la fiesta.",
+      "example_zh": "我們在派對上學跳莎莎舞。"
+    },
+    {
+      "word": "discoteca",
+      "meaning_zh": "(名) 舞廳；夜店",
+      "example_es": "Los jóvenes bailan en la discoteca los sábados.",
+      "example_zh": "年輕人星期六在夜店跳舞。"
+    },
+    {
+      "word": "karaoke",
+      "meaning_zh": "(名) 卡拉OK",
+      "example_es": "Cantamos en un karaoke por el cumpleaños.",
+      "example_zh": "我們為了慶生在卡拉OK唱歌。"
+    },
+    {
+      "word": "campamento",
+      "meaning_zh": "(名) 露營；夏令營",
+      "example_es": "Mi hijo va a un campamento de verano.",
+      "example_zh": "我兒子要去參加夏令營。"
+    },
+    {
+      "word": "tienda de campaña",
+      "meaning_zh": "(名) 帳篷",
+      "example_es": "Dormimos en una tienda de campaña en el bosque.",
+      "example_zh": "我們在森林裡睡帳篷。"
+    },
+    {
+      "word": "saco de dormir",
+      "meaning_zh": "(名) 睡袋",
+      "example_es": "Necesito un saco de dormir para el camping.",
+      "example_zh": "我需要一個睡袋去露營。"
+    },
+    {
+      "word": "hoguera",
+      "meaning_zh": "(名) 營火；篝火",
+      "example_es": "Hicimos una hoguera para calentarnos.",
+      "example_zh": "我們生了一堆營火取暖。"
+    },
+    {
+      "word": "linterna",
+      "meaning_zh": "(名) 手電筒",
+      "example_es": "Lleva una linterna porque hay poca luz.",
+      "example_zh": "帶一支手電筒,因為光線很暗。"
+    },
+    {
+      "word": "brújula",
+      "meaning_zh": "(名) 指南針",
+      "example_es": "Con la brújula no nos perdemos en la montaña.",
+      "example_zh": "有指南針我們就不會在山上迷路。"
+    },
+    {
+      "word": "remar",
+      "meaning_zh": "(動) 划船",
+      "example_es": "Aprendimos a remar en el lago del parque.",
+      "example_zh": "我們在公園的湖上學划船。"
+    },
+    {
+      "word": "pescar",
+      "meaning_zh": "(動) 釣魚",
+      "example_es": "A mi abuelo le gusta pescar en el río.",
+      "example_zh": "我爺爺喜歡在河邊釣魚。"
+    },
+    {
+      "word": "patinar",
+      "meaning_zh": "(動) 溜冰；滑板",
+      "example_es": "Los niños patinan en la plaza por la tarde.",
+      "example_zh": "孩子們下午在廣場溜冰。"
+    },
+    {
+      "word": "esquiar",
+      "meaning_zh": "(動) 滑雪",
+      "example_es": "En invierno vamos a esquiar a la montaña.",
+      "example_zh": "冬天我們去山上滑雪。"
+    },
+    {
+      "word": "escalar",
+      "meaning_zh": "(動) 攀岩；登山",
+      "example_es": "Mis amigos van a escalar este fin de semana.",
+      "example_zh": "我朋友這個週末要去攀岩。"
+    },
+    {
+      "word": "entrenar",
+      "meaning_zh": "(動) 訓練；鍛鍊",
+      "example_es": "El equipo entrena tres veces por semana.",
+      "example_zh": "這支隊伍每週訓練三次。"
+    },
+    {
+      "word": "estiramiento",
+      "meaning_zh": "(名) 伸展運動",
+      "example_es": "Después del deporte hacemos estiramientos.",
+      "example_zh": "運動後我們會做伸展運動。"
+    },
+    {
+      "word": "partido de fútbol",
+      "meaning_zh": "(名) 足球比賽",
+      "example_es": "Vemos el partido de fútbol en la tele.",
+      "example_zh": "我們在電視上看足球比賽。"
+    },
+    {
+      "word": "portería",
+      "meaning_zh": "(名) 球門",
+      "example_es": "El balón entró directo en la portería.",
+      "example_zh": "球直接進了球門。"
+    },
+    {
+      "word": "raqueta",
+      "meaning_zh": "(名) 球拍",
+      "example_es": "Necesito una raqueta nueva para jugar al tenis.",
+      "example_zh": "我需要一支新球拍打網球。"
+    },
+    {
+      "word": "medalla",
+      "meaning_zh": "(名) 獎牌",
+      "example_es": "La nadadora recibió una medalla de oro.",
+      "example_zh": "那位游泳選手獲得了一面金牌。"
+    },
+    {
+      "word": "copa",
+      "meaning_zh": "(名) 獎盃",
+      "example_es": "El equipo ganó la copa este año.",
+      "example_zh": "這支隊伍今年贏得了獎盃。"
+    },
+    {
+      "word": "vuelo internacional",
+      "meaning_zh": "(名) 國際航班",
+      "example_es": "Cogemos un vuelo internacional a México.",
+      "example_zh": "我們要搭一班飛往墨西哥的國際航班。"
+    },
+    {
+      "word": "control de seguridad",
+      "meaning_zh": "(名) 安全檢查",
+      "example_es": "Pasamos el control de seguridad sin problemas.",
+      "example_zh": "我們順利通過了安全檢查。"
+    },
+    {
+      "word": "cinta transportadora",
+      "meaning_zh": "(名) 行李輸送帶",
+      "example_es": "Recogemos las maletas en la cinta transportadora.",
+      "example_zh": "我們在行李輸送帶領行李。"
+    },
+    {
+      "word": "naturaleza salvaje",
+      "meaning_zh": "(名) 野生自然",
+      "example_es": "Me encanta caminar por la naturaleza salvaje.",
+      "example_zh": "我很喜歡在野生自然中漫步。"
+    },
+    {
+      "word": "sendero",
+      "meaning_zh": "(名) 小徑；步道",
+      "example_es": "Seguimos un sendero hasta la cima.",
+      "example_zh": "我們沿著步道走到山頂。"
+    },
+    {
+      "word": "cima",
+      "meaning_zh": "(名) 山頂；頂峰",
+      "example_es": "Desde la cima vemos todo el valle.",
+      "example_zh": "從山頂我們能看到整個山谷。"
+    },
+    {
+      "word": "cueva",
+      "meaning_zh": "(名) 洞穴",
+      "example_es": "Visitamos una cueva con murciélagos.",
+      "example_zh": "我們參觀了一個有蝙蝠的洞穴。"
+    },
+    {
+      "word": "cascada",
+      "meaning_zh": "(名) 瀑布",
+      "example_es": "El agua de la cascada es muy fría.",
+      "example_zh": "瀑布的水非常冰冷。"
+    },
+    {
+      "word": "orilla",
+      "meaning_zh": "(名) 岸邊",
+      "example_es": "Caminamos por la orilla del río.",
+      "example_zh": "我們沿著河岸散步。"
+    },
+    {
+      "word": "marea",
+      "meaning_zh": "(名) 潮水；潮汐",
+      "example_es": "Cuando baja la marea, recogemos conchas.",
+      "example_zh": "退潮時我們撿貝殼。"
+    },
+    {
+      "word": "concha",
+      "meaning_zh": "(名) 貝殼",
+      "example_es": "Los niños buscan conchas en la playa.",
+      "example_zh": "孩子們在海灘上找貝殼。"
+    },
+    {
+      "word": "roca",
+      "meaning_zh": "(名) 岩石",
+      "example_es": "Nos sentamos sobre una roca grande.",
+      "example_zh": "我們坐在一塊大岩石上。"
+    },
+    {
+      "word": "barro",
+      "meaning_zh": "(名) 泥巴",
+      "example_es": "Después de la lluvia hay barro en el camino.",
+      "example_zh": "下雨後路上都是泥巴。"
+    },
+    {
+      "word": "charco",
+      "meaning_zh": "(名) 水窪",
+      "example_es": "El niño salta sobre los charcos de la calle.",
+      "example_zh": "小男孩在街上的水窪上跳來跳去。"
+    },
+    {
+      "word": "niebla",
+      "meaning_zh": "(名) 霧",
+      "example_es": "Por la mañana hay mucha niebla en el valle.",
+      "example_zh": "早上山谷裡有很濃的霧。"
+    },
+    {
+      "word": "granizo",
+      "meaning_zh": "(名) 冰雹",
+      "example_es": "Cayó granizo y rompió algunas ventanas.",
+      "example_zh": "下了冰雹,打破了幾扇窗戶。"
+    },
+    {
+      "word": "trueno",
+      "meaning_zh": "(名) 雷聲",
+      "example_es": "El perro tiene miedo de los truenos.",
+      "example_zh": "那隻狗害怕雷聲。"
+    },
+    {
+      "word": "relámpago",
+      "meaning_zh": "(名) 閃電",
+      "example_es": "Vimos un relámpago en el cielo oscuro.",
+      "example_zh": "我們看到暗黑天空中的一道閃電。"
+    },
+    {
+      "word": "arcoíris",
+      "meaning_zh": "(名) 彩虹",
+      "example_es": "Después de la lluvia salió un arcoíris.",
+      "example_zh": "雨後出現了一道彩虹。"
+    },
+    {
+      "word": "amanecer",
+      "meaning_zh": "(名) 日出；黎明",
+      "example_es": "Vimos el amanecer desde la playa.",
+      "example_zh": "我們在海灘上看了日出。"
+    },
+    {
+      "word": "atardecer",
+      "meaning_zh": "(名) 黃昏；傍晚",
+      "example_es": "El atardecer en la montaña es precioso.",
+      "example_zh": "山上的黃昏非常美。"
+    },
+    {
+      "word": "temperatura",
+      "meaning_zh": "(名) 溫度；氣溫",
+      "example_es": "Hoy la temperatura es muy agradable.",
+      "example_zh": "今天的氣溫很舒服。"
+    },
+    {
+      "word": "pronóstico del tiempo",
+      "meaning_zh": "(名) 天氣預報",
+      "example_es": "El pronóstico del tiempo dice que lloverá.",
+      "example_zh": "天氣預報說會下雨。"
+    },
+    {
+      "word": "húmedo",
+      "meaning_zh": "(形) 潮濕的",
+      "example_es": "El aire está muy húmedo después de la lluvia.",
+      "example_zh": "下雨後空氣非常潮濕。"
+    },
+    {
+      "word": "seco",
+      "meaning_zh": "(形) 乾燥的",
+      "example_es": "El verano aquí es muy caluroso y seco.",
+      "example_zh": "這裡的夏天又熱又乾燥。"
+    },
+    {
+      "word": "templado",
+      "meaning_zh": "(形) 溫和的（氣候）",
+      "example_es": "El clima de esta región es muy templado.",
+      "example_zh": "這個地區的氣候很溫和。"
+    },
+    {
+      "word": "soplar",
+      "meaning_zh": "(動) 吹（風）",
+      "example_es": "El viento sopla fuerte cerca del mar.",
+      "example_zh": "海邊的風吹得很強。"
+    },
+    {
+      "word": "ardilla",
+      "meaning_zh": "(名) 松鼠",
+      "example_es": "Vimos una ardilla subir a un árbol.",
+      "example_zh": "我們看到一隻松鼠爬上樹。"
+    },
+    {
+      "word": "ciervo",
+      "meaning_zh": "(名) 鹿",
+      "example_es": "Un ciervo cruzó el sendero del bosque.",
+      "example_zh": "一隻鹿穿越了森林的小徑。"
+    },
+    {
+      "word": "zorro",
+      "meaning_zh": "(名) 狐狸",
+      "example_es": "El zorro corre rápido entre los árboles.",
+      "example_zh": "狐狸在樹林間快速奔跑。"
+    },
+    {
+      "word": "lobo",
+      "meaning_zh": "(名) 狼",
+      "example_es": "El lobo vive en los bosques fríos.",
+      "example_zh": "狼生活在寒冷的森林裡。"
+    },
+    {
+      "word": "búho",
+      "meaning_zh": "(名) 貓頭鷹",
+      "example_es": "El búho caza ratones durante la noche.",
+      "example_zh": "貓頭鷹在夜間獵捕老鼠。"
+    },
+    {
+      "word": "serpiente",
+      "meaning_zh": "(名) 蛇",
+      "example_es": "Hay que tener cuidado con las serpientes.",
+      "example_zh": "要小心蛇。"
+    },
+    {
+      "word": "delfín",
+      "meaning_zh": "(名) 海豚",
+      "example_es": "Vimos delfines saltar cerca del barco.",
+      "example_zh": "我們看到海豚在船邊跳躍。"
+    },
+    {
+      "word": "ballena",
+      "meaning_zh": "(名) 鯨魚",
+      "example_es": "La ballena es el animal más grande del mar.",
+      "example_zh": "鯨魚是海裡最大的動物。"
+    },
+    {
+      "word": "cangrejo",
+      "meaning_zh": "(名) 螃蟹",
+      "example_es": "Un cangrejo camina por la arena de la playa.",
+      "example_zh": "一隻螃蟹在海灘的沙地上爬行。"
+    },
+    {
+      "word": "mosquito",
+      "meaning_zh": "(名) 蚊子",
+      "example_es": "Los mosquitos me molestan mucho de noche.",
+      "example_zh": "蚊子晚上很煩我。"
+    },
+    {
+      "word": "araña",
+      "meaning_zh": "(名) 蜘蛛",
+      "example_es": "Hay una araña pequeña en la ventana.",
+      "example_zh": "窗戶上有一隻小蜘蛛。"
+    },
+    {
+      "word": "insecto",
+      "meaning_zh": "(名) 昆蟲",
+      "example_es": "En el jardín hay muchos insectos en verano.",
+      "example_zh": "夏天花園裡有很多昆蟲。"
+    },
+    {
+      "word": "nido",
+      "meaning_zh": "(名) 鳥巢",
+      "example_es": "Hay un nido de pájaros en el árbol.",
+      "example_zh": "樹上有一個鳥巢。"
+    },
+    {
+      "word": "ala",
+      "meaning_zh": "(名) 翅膀",
+      "example_es": "El pájaro tiene un ala herida.",
+      "example_zh": "那隻鳥有一邊翅膀受傷了。"
+    },
+    {
+      "word": "pluma",
+      "meaning_zh": "(名) 羽毛",
+      "example_es": "Encontré una pluma blanca en el suelo.",
+      "example_zh": "我在地上找到一根白色羽毛。"
+    },
+    {
+      "word": "raíz",
+      "meaning_zh": "(名) 根",
+      "example_es": "Las raíces del árbol son muy profundas.",
+      "example_zh": "這棵樹的根非常深。"
+    },
+    {
+      "word": "tronco",
+      "meaning_zh": "(名) 樹幹",
+      "example_es": "El tronco de este árbol es muy ancho.",
+      "example_zh": "這棵樹的樹幹非常粗。"
+    },
+    {
+      "word": "semilla",
+      "meaning_zh": "(名) 種子",
+      "example_es": "Plantamos unas semillas en el jardín.",
+      "example_zh": "我們在花園裡種了一些種子。"
+    },
+    {
+      "word": "pétalo",
+      "meaning_zh": "(名) 花瓣",
+      "example_es": "El viento se llevó los pétalos de la flor.",
+      "example_zh": "風把花瓣吹走了。"
     }
   ],
   "db1": [
