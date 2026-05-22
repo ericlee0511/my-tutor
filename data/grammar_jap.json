@@ -27957,6 +27957,62 @@
           "kana": "げんだいのいりょうすいじゅんは、はんせいきまえのそれとはくらべるべくもないほどしんぽした。"
         }
       ]
+    },
+    {
+      "pattern": "〜は言うに及ばず",
+      "meaning_en": "not to mention; needless to say, let alone",
+      "meaning_ja": "前のことは当然なので言うまでもなく、後ろのことまでそうだと強調する言い方。",
+      "meaning_zh": "前項自不待言，連後項也是如此，用以強調範圍之廣。",
+      "structure": "名詞＋は言うに及ばず",
+      "examples": [
+        {
+          "ja": "この温泉宿は料理は言うに及ばず、接客の心遣いも見事だった。",
+          "en": "At this hot-spring inn, the cuisine goes without saying, and even the attentiveness of the service was splendid.",
+          "kana": "このおんせんやどはりょうりはいうにおよばず、せっきゃくのこころづかいもみごとだった。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜にあかせて",
+      "meaning_en": "lavishing (money/time); making full use of",
+      "meaning_ja": "金や時間などを惜しまず、ふんだんに使って何かをすることを表す。",
+      "meaning_zh": "不惜花費金錢或時間，盡情地、大手筆地用以做某事。",
+      "structure": "名詞（金・時間・暇など）＋にあかせて",
+      "examples": [
+        {
+          "ja": "彼は金にあかせて世界中の珍しい美術品を買い集めた。",
+          "en": "Lavishing money on it, he bought up rare works of art from all over the world.",
+          "kana": "かれはかねにあかせてせかいじゅうのめずらしいびじゅつひんをかいあつめた。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜ないとも限らない",
+      "meaning_en": "there is no guarantee that ... won't; it is not impossible that",
+      "meaning_ja": "そうならない可能性も否定できない、起こりうると述べて注意を促す言い方。",
+      "meaning_zh": "也不見得不會…、難保不會…，表示某種可能性無法完全排除。",
+      "structure": "動詞ない形／い形容詞・な形容詞・名詞のない形＋とも限らない",
+      "examples": [
+        {
+          "ja": "今は晴れているが、夕方には雨が降らないとも限らない。",
+          "en": "It's clear now, but there's no guarantee it won't rain by evening.",
+          "kana": "いまははれているが、ゆうがたにはあめがふらないともかぎらない。"
+        }
+      ]
+    },
+    {
+      "pattern": "〜てはばからない",
+      "meaning_en": "do not hesitate to; have no qualms about (saying/doing)",
+      "meaning_ja": "周囲を気にせず、遠慮なく堂々と言ったり行ったりすることを表す。",
+      "meaning_zh": "毫不顧忌、毫不客氣地公然說出或做出某事。",
+      "structure": "動詞て形＋はばからない",
+      "examples": [
+        {
+          "ja": "その政治家は自分こそ国を救えると公言してはばからない。",
+          "en": "That politician has no qualms about declaring publicly that he alone can save the country.",
+          "kana": "そのせいじかはじぶんこそくにをすくえるとこうげんしてはばからない。"
+        }
+      ]
     }
   ]
 }
