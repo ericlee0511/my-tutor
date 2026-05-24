@@ -13295,6 +13295,1878 @@
       "meaning_zh": "(形) 欺騙的；具誤導性的",
       "example_es": "La publicidad engañosa puede acarrear sanciones económicas considerables.",
       "example_zh": "不實廣告可能會招致相當可觀的經濟處罰。"
+    },
+    {
+      "word": "delegar",
+      "meaning_zh": "(動) 委派；授權",
+      "example_es": "El director decidió delegar parte de sus responsabilidades en su equipo.",
+      "example_zh": "經理決定把部分職責委派給他的團隊。"
+    },
+    {
+      "word": "encabezar",
+      "meaning_zh": "(動) 領導；率領；居首位",
+      "example_es": "Ella va a encabezar la nueva campaña publicitaria de la empresa.",
+      "example_zh": "她將領導公司新的廣告宣傳活動。"
+    },
+    {
+      "word": "presidir",
+      "meaning_zh": "(動) 主持；擔任主席",
+      "example_es": "El alcalde presidirá la reunión sobre el nuevo proyecto urbano.",
+      "example_zh": "市長將主持關於新都市計畫的會議。"
+    },
+    {
+      "word": "asesorar",
+      "meaning_zh": "(動) 提供諮詢；建議",
+      "example_es": "Un experto en finanzas vino a asesorar a la junta directiva.",
+      "example_zh": "一位金融專家前來向董事會提供諮詢。"
+    },
+    {
+      "word": "consultar",
+      "meaning_zh": "(動) 諮詢；查詢",
+      "example_es": "Antes de tomar una decisión, prefiero consultar con mis colegas.",
+      "example_zh": "做決定之前，我比較喜歡先與同事商量。"
+    },
+    {
+      "word": "coordinar",
+      "meaning_zh": "(動) 協調；統籌",
+      "example_es": "Mi tarea consiste en coordinar las actividades entre los departamentos.",
+      "example_zh": "我的工作是協調各部門之間的活動。"
+    },
+    {
+      "word": "conciliar",
+      "meaning_zh": "(動) 調和；協調",
+      "example_es": "Es difícil conciliar la vida laboral con las obligaciones familiares.",
+      "example_zh": "要兼顧工作生活與家庭責任並不容易。"
+    },
+    {
+      "word": "encomendar",
+      "meaning_zh": "(動) 委託；託付",
+      "example_es": "Le encomendaron la difícil tarea de reorganizar todo el departamento.",
+      "example_zh": "他們把重組整個部門的艱鉅任務交給了他。"
+    },
+    {
+      "word": "agendar",
+      "meaning_zh": "(動) 安排日程；排定",
+      "example_es": "Necesitamos agendar una nueva cita con los inversores extranjeros.",
+      "example_zh": "我們需要與外國投資者安排新的會面。"
+    },
+    {
+      "word": "tramitar",
+      "meaning_zh": "(動) 辦理；處理手續",
+      "example_es": "Hay que tramitar todos los permisos antes de iniciar las obras.",
+      "example_zh": "在動工之前必須辦理所有的許可手續。"
+    },
+    {
+      "word": "instruir",
+      "meaning_zh": "(動) 指導；教導",
+      "example_es": "El veterano se encargó de instruir a los nuevos empleados.",
+      "example_zh": "資深員工負責指導新進員工。"
+    },
+    {
+      "word": "capacitar",
+      "meaning_zh": "(動) 培訓；使具備能力",
+      "example_es": "La empresa busca capacitar a su personal en nuevas tecnologías.",
+      "example_zh": "公司希望培訓員工掌握新技術。"
+    },
+    {
+      "word": "expansión",
+      "meaning_zh": "(名) 擴張；擴展",
+      "example_es": "La expansión de la compañía hacia Asia generó miles de empleos.",
+      "example_zh": "公司向亞洲的擴張創造了數千個工作機會。"
+    },
+    {
+      "word": "retroceso",
+      "meaning_zh": "(名) 倒退；後退",
+      "example_es": "El sector turístico sufrió un notable retroceso durante la pandemia.",
+      "example_zh": "旅遊業在疫情期間遭遇了明顯的倒退。"
+    },
+    {
+      "word": "distribuir",
+      "meaning_zh": "(動) 分配；分發",
+      "example_es": "La organización va a distribuir alimentos entre las familias necesitadas.",
+      "example_zh": "該組織將把食物分發給有需要的家庭。"
+    },
+    {
+      "word": "comercializar",
+      "meaning_zh": "(動) 銷售；上市",
+      "example_es": "Esa empresa empezó a comercializar productos ecológicos hace cinco años.",
+      "example_zh": "那家公司五年前開始銷售環保產品。"
+    },
+    {
+      "word": "desabastecimiento",
+      "meaning_zh": "(名) 供應短缺",
+      "example_es": "El desabastecimiento de medicamentos preocupa cada vez más a los hospitales.",
+      "example_zh": "藥品的供應短缺讓醫院愈來愈擔心。"
+    },
+    {
+      "word": "minorista",
+      "meaning_zh": "(名) 零售商",
+      "example_es": "Los pequeños minoristas tienen dificultades para competir con las grandes cadenas.",
+      "example_zh": "小型零售商難以與大型連鎖店競爭。"
+    },
+    {
+      "word": "mayorista",
+      "meaning_zh": "(名) 批發商",
+      "example_es": "Compramos toda la mercancía directamente al mayorista para ahorrar costes.",
+      "example_zh": "我們直接向批發商購買所有商品以節省成本。"
+    },
+    {
+      "word": "mercancía",
+      "meaning_zh": "(名) 商品；貨物",
+      "example_es": "La mercancía llegará al puerto la próxima semana sin retrasos.",
+      "example_zh": "貨物將於下週準時抵達港口。"
+    },
+    {
+      "word": "almacenar",
+      "meaning_zh": "(動) 儲存；庫存",
+      "example_es": "Es necesario almacenar los productos perecederos en cámaras refrigeradas.",
+      "example_zh": "必須將易腐商品存放在冷藏庫中。"
+    },
+    {
+      "word": "inventario",
+      "meaning_zh": "(名) 庫存；存貨清單",
+      "example_es": "Cada mes realizamos un inventario detallado de todos los productos.",
+      "example_zh": "我們每個月對所有產品進行詳細的庫存盤點。"
+    },
+    {
+      "word": "facturación",
+      "meaning_zh": "(名) 營業額；開立發票",
+      "example_es": "La facturación anual de la empresa ha aumentado un quince por ciento.",
+      "example_zh": "公司年營業額已增加了百分之十五。"
+    },
+    {
+      "word": "margen",
+      "meaning_zh": "(名) 利潤；邊際",
+      "example_es": "El margen de beneficio de este producto es bastante reducido este año.",
+      "example_zh": "這個產品今年的利潤空間相當有限。"
+    },
+    {
+      "word": "rotativo",
+      "meaning_zh": "(形) 輪流的；輪班的",
+      "example_es": "Tenemos un horario rotativo que nos permite descansar los fines de semana.",
+      "example_zh": "我們有輪班的工作時間，讓我們能在週末休息。"
+    },
+    {
+      "word": "metodología",
+      "meaning_zh": "(名) 方法論；方法",
+      "example_es": "La metodología empleada en este estudio resultó muy innovadora y eficaz.",
+      "example_zh": "本研究所採用的方法論極具創新性與效率。"
+    },
+    {
+      "word": "tutoría",
+      "meaning_zh": "(名) 輔導；指導",
+      "example_es": "La tutoría individualizada ayuda a los alumnos con mayores dificultades.",
+      "example_zh": "個別輔導能協助學習上較為困難的學生。"
+    },
+    {
+      "word": "instrucción",
+      "meaning_zh": "(名) 教導；指示",
+      "example_es": "Recibieron una instrucción muy completa antes de comenzar el trabajo.",
+      "example_zh": "他們在開始工作前接受了非常完整的教導。"
+    },
+    {
+      "word": "didáctico",
+      "meaning_zh": "(形) 教學的；具教育意義的",
+      "example_es": "El material didáctico debe adaptarse al nivel de cada estudiante.",
+      "example_zh": "教學材料必須配合每位學生的程度。"
+    },
+    {
+      "word": "pedagógico",
+      "meaning_zh": "(形) 教育的；教學法的",
+      "example_es": "Su enfoque pedagógico se centra en el aprendizaje basado en proyectos.",
+      "example_zh": "他的教學方法著重於以專題為基礎的學習。"
+    },
+    {
+      "word": "magistral",
+      "meaning_zh": "(形) 大師級的；講授式的",
+      "example_es": "El catedrático impartió una conferencia magistral sobre literatura comparada.",
+      "example_zh": "教授發表了一場關於比較文學的精彩講座。"
+    },
+    {
+      "word": "alumnado",
+      "meaning_zh": "(名) 學生群；全體學生",
+      "example_es": "El alumnado se mostró muy receptivo ante las nuevas dinámicas de clase.",
+      "example_zh": "學生們對新的課堂活動表現得非常積極。"
+    },
+    {
+      "word": "profesorado",
+      "meaning_zh": "(名) 教師團；師資",
+      "example_es": "El profesorado del centro participa activamente en la formación continua.",
+      "example_zh": "該校教師團積極參與在職進修。"
+    },
+    {
+      "word": "abarcar",
+      "meaning_zh": "(動) 包含；涵蓋",
+      "example_es": "El informe pretende abarcar todos los aspectos relevantes del problema.",
+      "example_zh": "這份報告旨在涵蓋問題所有相關的層面。"
+    },
+    {
+      "word": "identificar",
+      "meaning_zh": "(動) 辨識；認明",
+      "example_es": "Los expertos lograron identificar las causas principales del accidente.",
+      "example_zh": "專家成功辨識出事故的主要原因。"
+    },
+    {
+      "word": "disuadir",
+      "meaning_zh": "(動) 勸阻；打消念頭",
+      "example_es": "Nadie pudo disuadirlo de tomar esa arriesgada decisión empresarial.",
+      "example_zh": "沒有人能勸阻他做出那個冒險的商業決定。"
+    },
+    {
+      "word": "alertar",
+      "meaning_zh": "(動) 警示；警告",
+      "example_es": "Los científicos quieren alertar a la población sobre los riesgos ambientales.",
+      "example_zh": "科學家希望提醒大眾注意環境風險。"
+    },
+    {
+      "word": "proponer",
+      "meaning_zh": "(動) 提議；建議",
+      "example_es": "Voy a proponer una nueva estrategia para mejorar nuestras ventas trimestrales.",
+      "example_zh": "我將提出一項新策略以改善我們的季度銷售。"
+    },
+    {
+      "word": "exponer",
+      "meaning_zh": "(動) 闡述；展示",
+      "example_es": "El profesor logró exponer sus argumentos con claridad y convicción.",
+      "example_zh": "教授清晰且有說服力地闡述了他的論點。"
+    },
+    {
+      "word": "demostrar",
+      "meaning_zh": "(動) 證明；展現",
+      "example_es": "Los datos recogidos sirven para demostrar la efectividad del tratamiento.",
+      "example_zh": "收集到的數據可用以證明該治療的有效性。"
+    },
+    {
+      "word": "razonar",
+      "meaning_zh": "(動) 推理；論證",
+      "example_es": "Hay que razonar con calma antes de sacar conclusiones precipitadas.",
+      "example_zh": "做出倉促結論之前必須冷靜地思考。"
+    },
+    {
+      "word": "fundamentar",
+      "meaning_zh": "(動) 奠定基礎；論證",
+      "example_es": "El abogado supo fundamentar su defensa con pruebas muy sólidas.",
+      "example_zh": "律師以非常堅實的證據為其辯護奠定了基礎。"
+    },
+    {
+      "word": "rebajar",
+      "meaning_zh": "(動) 降低；減少",
+      "example_es": "La tienda decidió rebajar los precios para atraer a más clientes.",
+      "example_zh": "店家決定降價以吸引更多顧客。"
+    },
+    {
+      "word": "innovar",
+      "meaning_zh": "(動) 創新；革新",
+      "example_es": "Las empresas que no saben innovar terminan perdiendo competitividad.",
+      "example_zh": "不懂得創新的公司最終會失去競爭力。"
+    },
+    {
+      "word": "diseñar",
+      "meaning_zh": "(動) 設計；規劃",
+      "example_es": "El arquitecto fue contratado para diseñar el nuevo centro cultural.",
+      "example_zh": "建築師受聘設計新的文化中心。"
+    },
+    {
+      "word": "remodelar",
+      "meaning_zh": "(動) 改造；重塑",
+      "example_es": "El ayuntamiento planea remodelar la plaza central del barrio histórico.",
+      "example_zh": "市政府計畫改造歷史街區的中央廣場。"
+    },
+    {
+      "word": "reformar",
+      "meaning_zh": "(動) 改革；翻修",
+      "example_es": "Decidieron reformar el sistema educativo después de muchos debates.",
+      "example_zh": "經過多次辯論後，他們決定改革教育體系。"
+    },
+    {
+      "word": "renovar",
+      "meaning_zh": "(動) 更新；翻新",
+      "example_es": "Es hora de renovar el contrato de alquiler con el propietario.",
+      "example_zh": "是時候與房東續簽租賃合約了。"
+    },
+    {
+      "word": "reanudar",
+      "meaning_zh": "(動) 重新開始；恢復",
+      "example_es": "Tras la pausa, decidimos reanudar las negociaciones con la otra parte.",
+      "example_zh": "暫停後，我們決定與對方重啟談判。"
+    },
+    {
+      "word": "interrumpir",
+      "meaning_zh": "(動) 中斷；打斷",
+      "example_es": "Por favor, no me interrumpas mientras estoy hablando por teléfono.",
+      "example_zh": "請不要在我講電話的時候打斷我。"
+    },
+    {
+      "word": "obstaculizar",
+      "meaning_zh": "(動) 阻礙；妨礙",
+      "example_es": "La burocracia excesiva suele obstaculizar el desarrollo de pequeñas empresas.",
+      "example_zh": "過多的官僚程序常常阻礙小型企業的發展。"
+    },
+    {
+      "word": "perjudicial",
+      "meaning_zh": "(形) 有害的；不利的",
+      "example_es": "El consumo excesivo de azúcar resulta muy perjudicial para la salud.",
+      "example_zh": "過量攝取糖分對健康非常有害。"
+    },
+    {
+      "word": "beneficioso",
+      "meaning_zh": "(形) 有益的；有利的",
+      "example_es": "El ejercicio regular es beneficioso tanto para el cuerpo como para la mente.",
+      "example_zh": "規律的運動對身體和心靈都有益。"
+    },
+    {
+      "word": "factible",
+      "meaning_zh": "(形) 可行的；可實現的",
+      "example_es": "La propuesta del ingeniero parece factible desde el punto de vista técnico.",
+      "example_zh": "從技術角度來看，工程師的提議似乎可行。"
+    },
+    {
+      "word": "inviable",
+      "meaning_zh": "(形) 不可行的",
+      "example_es": "El proyecto resultó inviable por falta de financiación adecuada.",
+      "example_zh": "該專案因缺乏足夠資金而不可行。"
+    },
+    {
+      "word": "viable",
+      "meaning_zh": "(形) 可行的；可實行的",
+      "example_es": "Necesitamos buscar una alternativa viable antes de tomar la decisión final.",
+      "example_zh": "在做最終決定前我們需要尋找可行的替代方案。"
+    },
+    {
+      "word": "versátil",
+      "meaning_zh": "(形) 多功能的；靈活的",
+      "example_es": "Este programa informático es muy versátil y se adapta a distintas necesidades.",
+      "example_zh": "這套軟體非常靈活，能適應不同的需求。"
+    },
+    {
+      "word": "presuponer",
+      "meaning_zh": "(動) 預設；假定",
+      "example_es": "No debes presuponer las intenciones de tus colegas sin pruebas suficientes.",
+      "example_zh": "你不應在沒有足夠證據下預設同事的意圖。"
+    },
+    {
+      "word": "afín",
+      "meaning_zh": "(形) 相近的；相似的",
+      "example_es": "Buscamos profesionales con un perfil afín al de nuestra empresa.",
+      "example_zh": "我們尋找與本公司理念相近的專業人士。"
+    },
+    {
+      "word": "discordante",
+      "meaning_zh": "(形) 不一致的；不協調的",
+      "example_es": "Su opinión resultó discordante con la del resto del grupo de trabajo.",
+      "example_zh": "他的意見與其他工作小組成員不一致。"
+    },
+    {
+      "word": "homogéneo",
+      "meaning_zh": "(形) 同質的；均質的",
+      "example_es": "Es difícil encontrar un grupo completamente homogéneo en una clase numerosa.",
+      "example_zh": "在大型班級中很難找到完全同質的一群人。"
+    },
+    {
+      "word": "heterogéneo",
+      "meaning_zh": "(形) 異質的；多樣的",
+      "example_es": "Trabajamos con un equipo heterogéneo formado por personas de varios países.",
+      "example_zh": "我們的團隊組成多元，成員來自不同國家。"
+    },
+    {
+      "word": "consistente",
+      "meaning_zh": "(形) 一致的；扎實的",
+      "example_es": "Sus argumentos resultaron consistentes y muy bien fundamentados.",
+      "example_zh": "他的論點一致且有充分根據。"
+    },
+    {
+      "word": "inconsistente",
+      "meaning_zh": "(形) 不一致的；空洞的",
+      "example_es": "El informe presentaba datos inconsistentes que generaron muchas dudas.",
+      "example_zh": "報告呈現的資料不一致，引起了許多疑慮。"
+    },
+    {
+      "word": "objeción",
+      "meaning_zh": "(名) 反對；異議",
+      "example_es": "Plantearon una objeción válida durante la asamblea del barrio.",
+      "example_zh": "他們在社區大會上提出了一個合理的異議。"
+    },
+    {
+      "word": "réplica",
+      "meaning_zh": "(名) 答辯；回應",
+      "example_es": "Su réplica al artículo fue publicada en el mismo periódico al día siguiente.",
+      "example_zh": "他對該文的反駁次日刊登在同一份報紙上。"
+    },
+    {
+      "word": "contraréplica",
+      "meaning_zh": "(名) 再答辯；反駁",
+      "example_es": "El abogado presentó una contraréplica detallada ante el tribunal.",
+      "example_zh": "律師在法庭上提出了詳盡的再答辯。"
+    },
+    {
+      "word": "balanza",
+      "meaning_zh": "(名) 天秤；貿易平衡",
+      "example_es": "La balanza comercial del país mostró un superávit considerable este año.",
+      "example_zh": "該國的貿易差額今年呈現相當可觀的順差。"
+    },
+    {
+      "word": "logística",
+      "meaning_zh": "(名) 後勤；物流",
+      "example_es": "La logística de un evento internacional requiere mucha planificación previa.",
+      "example_zh": "國際活動的後勤工作需要大量的事前規劃。"
+    },
+    {
+      "word": "envío",
+      "meaning_zh": "(名) 寄送；運送",
+      "example_es": "El envío llegará a su domicilio en un plazo de tres días laborables.",
+      "example_zh": "貨物將在三個工作天內送達您的住處。"
+    },
+    {
+      "word": "presupuestar",
+      "meaning_zh": "(動) 編列預算；估價",
+      "example_es": "El arquitecto fue capaz de presupuestar la obra con bastante precisión.",
+      "example_zh": "建築師能夠相當準確地估算工程預算。"
+    },
+    {
+      "word": "recortar",
+      "meaning_zh": "(動) 削減；裁剪",
+      "example_es": "El gobierno decidió recortar el presupuesto destinado a sanidad pública.",
+      "example_zh": "政府決定削減公共醫療的預算。"
+    },
+    {
+      "word": "recorte",
+      "meaning_zh": "(名) 削減；裁減",
+      "example_es": "Los recortes en educación provocaron grandes protestas entre los docentes.",
+      "example_zh": "教育預算的削減引發了教師之間的大規模抗議。"
+    },
+    {
+      "word": "controvertido",
+      "meaning_zh": "(形) 具爭議的；引起爭論的",
+      "example_es": "Es un tema controvertido que divide claramente a la opinión pública.",
+      "example_zh": "這是一個有爭議的話題，明顯地分裂了輿論。"
+    },
+    {
+      "word": "convenir",
+      "meaning_zh": "(動) 同意；適合",
+      "example_es": "Conviene revisar todos los documentos antes de firmar el acuerdo.",
+      "example_zh": "在簽署協議之前最好檢閱所有文件。"
+    },
+    {
+      "word": "ceder",
+      "meaning_zh": "(動) 讓步；退讓",
+      "example_es": "La empresa no está dispuesta a ceder ante las demandas sindicales.",
+      "example_zh": "公司不打算對工會的要求讓步。"
+    },
+    {
+      "word": "exigencia",
+      "meaning_zh": "(名) 要求；嚴格",
+      "example_es": "La exigencia académica de esta universidad es realmente muy alta.",
+      "example_zh": "這所大學的學業要求確實非常高。"
+    },
+    {
+      "word": "requerimiento",
+      "meaning_zh": "(名) 要求；需要",
+      "example_es": "El requerimiento principal del puesto es dominar dos idiomas extranjeros.",
+      "example_zh": "該職位的主要要求是精通兩種外語。"
+    },
+    {
+      "word": "conclusión",
+      "meaning_zh": "(名) 結論；總結",
+      "example_es": "La conclusión del estudio confirma las sospechas iniciales del equipo.",
+      "example_zh": "研究的結論證實了團隊最初的懷疑。"
+    },
+    {
+      "word": "deducción",
+      "meaning_zh": "(名) 推論；扣除",
+      "example_es": "Tu deducción es correcta, aunque te falten algunos datos importantes.",
+      "example_zh": "你的推論是正確的，雖然缺少了一些重要的數據。"
+    },
+    {
+      "word": "interpretación",
+      "meaning_zh": "(名) 解釋；詮釋",
+      "example_es": "Esa interpretación del texto resulta muy personal y poco convincente.",
+      "example_zh": "對該文本的這種詮釋過於個人化且缺乏說服力。"
+    },
+    {
+      "word": "indagación",
+      "meaning_zh": "(名) 調查；探查",
+      "example_es": "Se inició una indagación interna para esclarecer los hechos ocurridos.",
+      "example_zh": "已啟動內部調查以釐清發生的事件。"
+    },
+    {
+      "word": "averiguación",
+      "meaning_zh": "(名) 查明；查證",
+      "example_es": "La averiguación de los hechos llevará más tiempo del previsto.",
+      "example_zh": "事實的查證將比預期花費更多時間。"
+    },
+    {
+      "word": "esclarecimiento",
+      "meaning_zh": "(名) 釐清；澄清",
+      "example_es": "El esclarecimiento del caso depende ahora de los testigos clave.",
+      "example_zh": "案件的釐清現在取決於關鍵證人。"
+    },
+    {
+      "word": "consensual",
+      "meaning_zh": "(形) 共識的；合意的",
+      "example_es": "Buscamos una solución consensual que satisfaga a todas las partes.",
+      "example_zh": "我們尋求一個能讓所有各方滿意的合意解決方案。"
+    },
+    {
+      "word": "obligatoriedad",
+      "meaning_zh": "(名) 強制性",
+      "example_es": "La obligatoriedad de la vacuna provocó debates en muchos países europeos.",
+      "example_zh": "疫苗的強制性在許多歐洲國家引發了辯論。"
+    },
+    {
+      "word": "voluntariedad",
+      "meaning_zh": "(名) 自願性",
+      "example_es": "El programa se basa en la voluntariedad de los participantes interesados.",
+      "example_zh": "該計畫建立在感興趣參與者的自願性基礎上。"
+    },
+    {
+      "word": "infringir",
+      "meaning_zh": "(動) 違反；觸犯",
+      "example_es": "Quien infringe las normas se expone a sanciones muy severas.",
+      "example_zh": "違反規定的人將面臨非常嚴厲的處罰。"
+    },
+    {
+      "word": "implantación",
+      "meaning_zh": "(名) 實施；建立",
+      "example_es": "La implantación del nuevo sistema informático requerirá varios meses.",
+      "example_zh": "新資訊系統的實施將需要數個月時間。"
+    },
+    {
+      "word": "ejecución",
+      "meaning_zh": "(名) 執行；實施",
+      "example_es": "La ejecución del plan exigió una coordinación perfecta entre departamentos.",
+      "example_zh": "該計畫的執行需要部門間完美的協調。"
+    },
+    {
+      "word": "directivo",
+      "meaning_zh": "(名) 高階管理人員",
+      "example_es": "Los directivos se reunieron para evaluar el balance del año anterior.",
+      "example_zh": "高階主管們開會評估前一年的財務報告。"
+    },
+    {
+      "word": "subordinado",
+      "meaning_zh": "(名) 下屬",
+      "example_es": "Trata a sus subordinados con mucho respeto y consideración personal.",
+      "example_zh": "他以極大的尊重與關懷對待他的下屬。"
+    },
+    {
+      "word": "jerarquía",
+      "meaning_zh": "(名) 階層；位階",
+      "example_es": "La jerarquía dentro de la organización es bastante rígida y formal.",
+      "example_zh": "該組織內部的階層相當嚴格且正式。"
+    },
+    {
+      "word": "rango",
+      "meaning_zh": "(名) 級別；等級",
+      "example_es": "Su rango dentro del ejército le otorga ciertos privilegios especiales.",
+      "example_zh": "他在軍中的級別賦予他某些特殊待遇。"
+    },
+    {
+      "word": "escalafón",
+      "meaning_zh": "(名) 職等；晉升階梯",
+      "example_es": "Subió rápidamente en el escalafón gracias a su dedicación constante.",
+      "example_zh": "由於他持續的付出，他在職等上晉升迅速。"
+    },
+    {
+      "word": "impulso",
+      "meaning_zh": "(名) 推動；衝動",
+      "example_es": "El sector turístico recibió un nuevo impulso gracias a las inversiones.",
+      "example_zh": "旅遊業因投資而獲得了新的推動力。"
+    },
+    {
+      "word": "rendir",
+      "meaning_zh": "(動) 產生收益；表現",
+      "example_es": "Esta inversión empieza a rendir buenos resultados después de tres años.",
+      "example_zh": "這項投資三年後開始產生良好的收益。"
+    },
+    {
+      "word": "acelerar",
+      "meaning_zh": "(動) 加速；加快",
+      "example_es": "Es preciso acelerar los trámites para cumplir con el plazo establecido.",
+      "example_zh": "必須加快手續以符合既定的期限。"
+    },
+    {
+      "word": "ralentizar",
+      "meaning_zh": "(動) 減慢；放緩",
+      "example_es": "La crisis económica logró ralentizar el crecimiento del sector tecnológico.",
+      "example_zh": "經濟危機減緩了科技業的成長。"
+    },
+    {
+      "word": "estancarse",
+      "meaning_zh": "(動) 停滯；陷入僵局",
+      "example_es": "Las negociaciones parecen estancarse sin que se vea ninguna salida.",
+      "example_zh": "談判似乎陷入僵局，看不出任何出路。"
+    },
+    {
+      "word": "avanzar",
+      "meaning_zh": "(動) 前進；進展",
+      "example_es": "El proyecto comienza a avanzar a buen ritmo después de muchos obstáculos.",
+      "example_zh": "在許多障礙之後，專案開始以良好的進度推進。"
+    },
+    {
+      "word": "evolucionar",
+      "meaning_zh": "(動) 演進；發展",
+      "example_es": "La situación política del país sigue evolucionando de manera imprevisible.",
+      "example_zh": "該國的政治局勢仍以難以預測的方式持續演變。"
+    },
+    {
+      "word": "involucrarse",
+      "meaning_zh": "(動) 參與；涉入",
+      "example_es": "Los ciudadanos deberían involucrarse más en los asuntos comunitarios.",
+      "example_zh": "市民應更積極地參與社區事務。"
+    },
+    {
+      "word": "comprometido",
+      "meaning_zh": "(形) 投入的；負責任的",
+      "example_es": "Es un profesional muy comprometido con la calidad de su trabajo.",
+      "example_zh": "他是一位對工作品質非常投入的專業人士。"
+    },
+    {
+      "word": "esmerarse",
+      "meaning_zh": "(動) 用心；費心",
+      "example_es": "El chef suele esmerarse mucho en la presentación de cada plato.",
+      "example_zh": "主廚總是非常用心於每道菜的擺盤。"
+    },
+    {
+      "word": "disciplina",
+      "meaning_zh": "(名) 紀律；學科",
+      "example_es": "La disciplina diaria es fundamental para mejorar en cualquier deporte.",
+      "example_zh": "每天的紀律對任何運動的進步都至關重要。"
+    },
+    {
+      "word": "minuciosamente",
+      "meaning_zh": "(副) 細緻地；仔細地",
+      "example_es": "Revisó minuciosamente cada uno de los documentos antes de entregarlos.",
+      "example_zh": "他在交件前仔細審閱了每一份文件。"
+    },
+    {
+      "word": "consultoría",
+      "meaning_zh": "(名) 顧問業；諮詢服務",
+      "example_es": "Trabaja en una consultoría internacional especializada en recursos humanos.",
+      "example_zh": "他在一家專門從事人力資源的國際顧問公司工作。"
+    },
+    {
+      "word": "asociarse",
+      "meaning_zh": "(動) 結盟；合夥",
+      "example_es": "Decidió asociarse con un viejo amigo para abrir un nuevo negocio.",
+      "example_zh": "他決定與一位老朋友合夥開設新事業。"
+    },
+    {
+      "word": "alianza",
+      "meaning_zh": "(名) 聯盟；同盟",
+      "example_es": "Las dos compañías firmaron una alianza estratégica muy beneficiosa.",
+      "example_zh": "兩家公司簽訂了一項非常有利的戰略聯盟。"
+    },
+    {
+      "word": "asociacionismo",
+      "meaning_zh": "(名) 結社主義；社團活動",
+      "example_es": "El asociacionismo vecinal tiene una larga tradición en este pueblo.",
+      "example_zh": "鄰里結社在這個小鎮有悠久的傳統。"
+    },
+    {
+      "word": "patronal",
+      "meaning_zh": "(名) 雇主組織",
+      "example_es": "La patronal y los sindicatos volverán a reunirse el próximo lunes.",
+      "example_zh": "雇主組織與工會將於下週一再次會面。"
+    },
+    {
+      "word": "captación",
+      "meaning_zh": "(名) 招募；吸收",
+      "example_es": "La empresa lanzó una campaña de captación de nuevos talentos jóvenes.",
+      "example_zh": "公司推出了一項招募年輕新人才的活動。"
+    },
+    {
+      "word": "fidelización",
+      "meaning_zh": "(名) 維繫忠誠度",
+      "example_es": "La fidelización de clientes es uno de los grandes retos del comercio.",
+      "example_zh": "維繫顧客忠誠度是商業界的重大挑戰之一。"
+    },
+    {
+      "word": "estimación",
+      "meaning_zh": "(名) 估計；評估",
+      "example_es": "Hicieron una estimación bastante optimista de las ventas previstas.",
+      "example_zh": "他們對預期銷售做出了相當樂觀的估計。"
+    },
+    {
+      "word": "proyección",
+      "meaning_zh": "(名) 預測；發展前景",
+      "example_es": "Las proyecciones económicas para el próximo año son más bien negativas.",
+      "example_zh": "明年的經濟預測偏向負面。"
+    },
+    {
+      "word": "cuantía",
+      "meaning_zh": "(名) 金額；數量",
+      "example_es": "La cuantía de la multa dependerá de la gravedad de la infracción.",
+      "example_zh": "罰款的金額將取決於違規的嚴重性。"
+    },
+    {
+      "word": "monto",
+      "meaning_zh": "(名) 總額；金額",
+      "example_es": "El monto total de la operación supera los cinco millones de euros.",
+      "example_zh": "該交易的總額超過五百萬歐元。"
+    },
+    {
+      "word": "importe",
+      "meaning_zh": "(名) 金額；款項",
+      "example_es": "Le devolveremos el importe íntegro de su última compra realizada.",
+      "example_zh": "我們將全額退還您上次購買的款項。"
+    },
+    {
+      "word": "abono",
+      "meaning_zh": "(名) 付款；月票",
+      "example_es": "El abono mensual del transporte público resulta bastante económico.",
+      "example_zh": "大眾運輸的月票相當經濟實惠。"
+    },
+    {
+      "word": "anticipo",
+      "meaning_zh": "(名) 預付款；訂金",
+      "example_es": "Pidió un anticipo de su salario para pagar gastos urgentes.",
+      "example_zh": "他請求預支薪水以支付急用的開支。"
+    },
+    {
+      "word": "comprador",
+      "meaning_zh": "(名) 買家；採購人",
+      "example_es": "El comprador exigió una revisión completa del producto antes de pagarlo.",
+      "example_zh": "買家在付款前要求對產品進行完整檢查。"
+    },
+    {
+      "word": "asalariado",
+      "meaning_zh": "(名) 受薪者",
+      "example_es": "La mayoría de los trabajadores en este sector son asalariados con contrato.",
+      "example_zh": "此行業大多數工作者是有合約的受薪員工。"
+    },
+    {
+      "word": "remunerado",
+      "meaning_zh": "(形) 有薪的；給薪的",
+      "example_es": "Las prácticas en esta empresa son remuneradas y duran seis meses.",
+      "example_zh": "這家公司的實習有支薪，為期六個月。"
+    },
+    {
+      "word": "interpretar",
+      "meaning_zh": "(動) 詮釋；解讀",
+      "example_es": "Cada lector puede interpretar el poema de una manera muy distinta.",
+      "example_zh": "每位讀者都能以非常不同的方式詮釋這首詩。"
+    },
+    {
+      "word": "polifuncional",
+      "meaning_zh": "(形) 多功能的",
+      "example_es": "Compramos una herramienta polifuncional muy útil para el taller.",
+      "example_zh": "我們為工作室買了一個非常實用的多功能工具。"
+    },
+    {
+      "word": "multifuncional",
+      "meaning_zh": "(形) 多功能的",
+      "example_es": "Esta impresora multifuncional permite escanear, imprimir y enviar faxes.",
+      "example_zh": "這台多功能印表機可掃描、列印與傳真。"
+    },
+    {
+      "word": "consensuado",
+      "meaning_zh": "(形) 已達成共識的",
+      "example_es": "El texto fue consensuado por todos los grupos parlamentarios.",
+      "example_zh": "該文件已由所有議會團體達成共識。"
+    },
+    {
+      "word": "consensuación",
+      "meaning_zh": "(名) 達成共識的過程",
+      "example_es": "La consensuación entre las partes parece todavía bastante lejana.",
+      "example_zh": "各方達成共識似乎仍相當遙遠。"
+    },
+    {
+      "word": "directriz",
+      "meaning_zh": "(名) 指導方針；指令",
+      "example_es": "La nueva directriz europea afecta a todos los estados miembros.",
+      "example_zh": "新的歐洲指令影響所有的成員國。"
+    },
+    {
+      "word": "lineamiento",
+      "meaning_zh": "(名) 方針；綱要",
+      "example_es": "Seguiremos los lineamientos establecidos por la dirección general.",
+      "example_zh": "我們將遵循總部所制定的方針。"
+    },
+    {
+      "word": "pautar",
+      "meaning_zh": "(動) 制定準則；規範",
+      "example_es": "Tenemos que pautar bien las tareas semanales del equipo.",
+      "example_zh": "我們必須妥善規劃團隊每週的任務。"
+    },
+    {
+      "word": "incumplimiento",
+      "meaning_zh": "(名) 違約；未履行",
+      "example_es": "El incumplimiento del contrato dará lugar a importantes sanciones económicas.",
+      "example_zh": "違反合約將導致重大的經濟處罰。"
+    },
+    {
+      "word": "cumplimiento",
+      "meaning_zh": "(名) 履行；遵守",
+      "example_es": "El cumplimiento de los plazos es una prioridad absoluta para nosotros.",
+      "example_zh": "遵守期限對我們而言是絕對的優先事項。"
+    },
+    {
+      "word": "garante",
+      "meaning_zh": "(名) 擔保人",
+      "example_es": "El banco actuará como garante en esta importante operación financiera.",
+      "example_zh": "銀行將在此重要的金融交易中擔任擔保人。"
+    },
+    {
+      "word": "aval",
+      "meaning_zh": "(名) 擔保；保證",
+      "example_es": "Necesitan un aval bancario para poder formalizar el préstamo solicitado.",
+      "example_zh": "他們需要銀行擔保才能正式簽訂所申請的貸款。"
+    },
+    {
+      "word": "fiador",
+      "meaning_zh": "(名) 保證人",
+      "example_es": "Sin un fiador será muy difícil que te alquilen ese piso.",
+      "example_zh": "沒有保證人很難租到那間公寓。"
+    },
+    {
+      "word": "destacarse",
+      "meaning_zh": "(動) 脫穎而出；顯著",
+      "example_es": "El nuevo modelo se destaca por su elegancia y su eficiencia energética.",
+      "example_zh": "新款式以其優雅和節能而脫穎而出。"
+    },
+    {
+      "word": "facultativo",
+      "meaning_zh": "(形) 自由選擇的；非強制的",
+      "example_es": "El uso de mascarilla es facultativo en este tipo de espacios públicos.",
+      "example_zh": "在這類公共場所中，戴口罩是自由選擇的。"
+    },
+    {
+      "word": "habilitar",
+      "meaning_zh": "(動) 啟用；授權",
+      "example_es": "El ayuntamiento decidió habilitar nuevas zonas verdes para los vecinos.",
+      "example_zh": "市政府決定為居民開放新的綠地區。"
+    },
+    {
+      "word": "deshabilitar",
+      "meaning_zh": "(動) 停用；取消授權",
+      "example_es": "Tuvieron que deshabilitar la cuenta debido a un uso indebido.",
+      "example_zh": "由於不當使用，他們必須停用該帳戶。"
+    },
+    {
+      "word": "agremiar",
+      "meaning_zh": "(動) 組成公會；結社",
+      "example_es": "Los artesanos decidieron agremiar a sus miembros para defender intereses comunes.",
+      "example_zh": "工匠們決定將成員組成公會以捍衛共同利益。"
+    },
+    {
+      "word": "esbozo",
+      "meaning_zh": "(名) 草稿；雛形",
+      "example_es": "Presentó un primer esbozo del proyecto durante la reunión inicial.",
+      "example_zh": "他在首次會議中提交了專案的初步草稿。"
+    },
+    {
+      "word": "plantilla laboral",
+      "meaning_zh": "(名) 員工編制",
+      "example_es": "La plantilla laboral de la empresa creció un veinte por ciento.",
+      "example_zh": "公司的員工編制增加了百分之二十。"
+    },
+    {
+      "word": "convocatoria abierta",
+      "meaning_zh": "(名) 公開招募",
+      "example_es": "Han publicado una convocatoria abierta para cubrir varios puestos técnicos.",
+      "example_zh": "他們發布了一項公開招募，以填補多個技術職位。"
+    },
+    {
+      "word": "puesto vacante",
+      "meaning_zh": "(名) 空缺職位",
+      "example_es": "Quedan tres puestos vacantes en el departamento de marketing internacional.",
+      "example_zh": "國際行銷部門還有三個空缺職位。"
+    },
+    {
+      "word": "tutorizar",
+      "meaning_zh": "(動) 輔導；指導學生",
+      "example_es": "El catedrático aceptó tutorizar la tesis doctoral de la joven investigadora.",
+      "example_zh": "教授接受指導這位年輕研究員的博士論文。"
+    },
+    {
+      "word": "intercambio cultural",
+      "meaning_zh": "(名) 文化交流",
+      "example_es": "Participó en un intercambio cultural muy enriquecedor con estudiantes alemanes.",
+      "example_zh": "他參加了一個與德國學生極具啟發性的文化交流。"
+    },
+    {
+      "word": "evaluación continua",
+      "meaning_zh": "(名) 持續評估",
+      "example_es": "La evaluación continua permite detectar las dificultades del alumnado a tiempo.",
+      "example_zh": "持續評估能及時發現學生的學習困難。"
+    },
+    {
+      "word": "decanato",
+      "meaning_zh": "(名) 院長辦公室；學院管理",
+      "example_es": "El decanato anunció varias modificaciones en el plan de estudios actual.",
+      "example_zh": "院長辦公室宣布了現行課程的多項修改。"
+    },
+    {
+      "word": "rectorado",
+      "meaning_zh": "(名) 大學校長辦公室",
+      "example_es": "El rectorado convocará un encuentro con todos los representantes estudiantiles.",
+      "example_zh": "校長辦公室將召集所有學生代表的會議。"
+    },
+    {
+      "word": "ponente",
+      "meaning_zh": "(名) 主講人；報告人",
+      "example_es": "El ponente principal ofreció una visión innovadora sobre el cambio climático.",
+      "example_zh": "主講人對氣候變遷提出了創新的觀點。"
+    },
+    {
+      "word": "moderador",
+      "meaning_zh": "(名) 主持人；調節者",
+      "example_es": "El moderador del debate supo controlar los turnos de palabra con habilidad.",
+      "example_zh": "辯論主持人熟練地控制了發言順序。"
+    },
+    {
+      "word": "ronda de preguntas",
+      "meaning_zh": "(名) 提問環節",
+      "example_es": "Al final hubo una ronda de preguntas muy interesante con el público.",
+      "example_zh": "最後與觀眾進行了一場非常有趣的提問環節。"
+    },
+    {
+      "word": "intervención",
+      "meaning_zh": "(名) 發言；介入",
+      "example_es": "Su intervención en el congreso fue muy aplaudida por los asistentes.",
+      "example_zh": "他在大會上的發言獲得與會者熱烈鼓掌。"
+    },
+    {
+      "word": "réplica institucional",
+      "meaning_zh": "(名) 官方回應",
+      "example_es": "La réplica institucional al informe llegó pocas horas después de su publicación.",
+      "example_zh": "對該報告的官方回應在發布幾小時後就出現了。"
+    },
+    {
+      "word": "comunicado",
+      "meaning_zh": "(名) 公告；新聞稿",
+      "example_es": "La empresa emitió un comunicado oficial para aclarar la situación.",
+      "example_zh": "公司發布了一份正式公告以澄清情況。"
+    },
+    {
+      "word": "rueda de prensa",
+      "meaning_zh": "(名) 記者會",
+      "example_es": "El alcalde dará una rueda de prensa mañana a primera hora.",
+      "example_zh": "市長明天一早將召開記者會。"
+    },
+    {
+      "word": "portavoz",
+      "meaning_zh": "(名) 發言人；代言人",
+      "example_es": "El portavoz del gobierno declinó hacer cualquier comentario sobre el asunto.",
+      "example_zh": "政府發言人拒絕對此事件作任何評論。"
+    },
+    {
+      "word": "vocero",
+      "meaning_zh": "(名) 發言人",
+      "example_es": "El vocero del partido aclaró las declaraciones polémicas del candidato.",
+      "example_zh": "黨派發言人澄清了候選人有爭議的言論。"
+    },
+    {
+      "word": "expediente académico",
+      "meaning_zh": "(名) 學業紀錄",
+      "example_es": "Su expediente académico le permitió acceder a una beca internacional.",
+      "example_zh": "他的學業紀錄使他能獲得國際獎學金。"
+    },
+    {
+      "word": "perfil profesional",
+      "meaning_zh": "(名) 職業背景",
+      "example_es": "Su perfil profesional encaja perfectamente con las necesidades de la vacante.",
+      "example_zh": "他的職業背景完全符合該職缺的需求。"
+    },
+    {
+      "word": "actitud profesional",
+      "meaning_zh": "(名) 職業態度",
+      "example_es": "Su actitud profesional siempre ha sido ejemplar dentro del equipo.",
+      "example_zh": "他在團隊中的職業態度一直很模範。"
+    },
+    {
+      "word": "buena disposición",
+      "meaning_zh": "(名) 良好意願；積極態度",
+      "example_es": "Trabaja siempre con buena disposición para aprender de sus compañeros.",
+      "example_zh": "他總是以積極的態度向同事學習。"
+    },
+    {
+      "word": "iniciativa propia",
+      "meaning_zh": "(名) 主動性；自發性",
+      "example_es": "Valoramos mucho la iniciativa propia de cada miembro del equipo.",
+      "example_zh": "我們非常重視團隊每位成員的主動性。"
+    },
+    {
+      "word": "proactivo",
+      "meaning_zh": "(形) 主動積極的",
+      "example_es": "Es una persona proactiva que siempre propone nuevas ideas en el trabajo.",
+      "example_zh": "他是個主動積極的人，總在工作中提出新點子。"
+    },
+    {
+      "word": "reactivo",
+      "meaning_zh": "(形) 被動反應的",
+      "example_es": "Su comportamiento reactivo frente a los problemas dificulta la planificación.",
+      "example_zh": "他面對問題的被動反應使規劃變得困難。"
+    },
+    {
+      "word": "matriculación",
+      "meaning_zh": "(名) 註冊；註冊登記",
+      "example_es": "La matriculación para el próximo curso comienza el lunes que viene.",
+      "example_zh": "下學年的註冊將於下週一開始。"
+    },
+    {
+      "word": "becado",
+      "meaning_zh": "(形) 獲得獎學金的",
+      "example_es": "Cinco estudiantes becados representarán al instituto en el congreso internacional.",
+      "example_zh": "五位獲得獎學金的學生將代表該機構參加國際會議。"
+    },
+    {
+      "word": "trayecto profesional",
+      "meaning_zh": "(名) 職涯歷程",
+      "example_es": "Su trayecto profesional refleja un compromiso constante con la excelencia.",
+      "example_zh": "他的職涯歷程反映出對卓越的持續承諾。"
+    },
+    {
+      "word": "ascenso laboral",
+      "meaning_zh": "(名) 職場晉升",
+      "example_es": "Su ascenso laboral fue una consecuencia natural de sus excelentes resultados.",
+      "example_zh": "他的職場晉升是其優異成果的自然結果。"
+    },
+    {
+      "word": "traslado",
+      "meaning_zh": "(名) 調動；遷移",
+      "example_es": "El traslado a la nueva sede se realizará durante el próximo trimestre.",
+      "example_zh": "搬遷至新總部將於下一季完成。"
+    },
+    {
+      "word": "incorporación",
+      "meaning_zh": "(名) 入職；加入",
+      "example_es": "Su incorporación al equipo aportará una visión fresca y muy necesaria.",
+      "example_zh": "他加入團隊將帶來一個迫切需要的新視角。"
+    },
+    {
+      "word": "desempeñar funciones",
+      "meaning_zh": "(動) 履行職務",
+      "example_es": "Lleva diez años desempeñando funciones de coordinador en este organismo.",
+      "example_zh": "他在這個機構擔任協調員職務已有十年。"
+    },
+    {
+      "word": "asumir compromisos",
+      "meaning_zh": "(動) 承擔承諾",
+      "example_es": "El nuevo gobierno deberá asumir compromisos firmes en política ambiental.",
+      "example_zh": "新政府必須在環境政策上做出堅定的承諾。"
+    },
+    {
+      "word": "asumir responsabilidades",
+      "meaning_zh": "(動) 承擔責任",
+      "example_es": "Es importante asumir responsabilidades cuando uno comete un error grave.",
+      "example_zh": "犯下嚴重錯誤時，承擔責任是很重要的。"
+    },
+    {
+      "word": "asignación presupuestaria",
+      "meaning_zh": "(名) 預算分配",
+      "example_es": "La asignación presupuestaria para investigación ha aumentado este año.",
+      "example_zh": "今年研究預算的分配有所增加。"
+    },
+    {
+      "word": "partida presupuestaria",
+      "meaning_zh": "(名) 預算項目",
+      "example_es": "Es necesario revisar cada partida presupuestaria antes de aprobar el plan.",
+      "example_zh": "在批准計畫前必須檢視每個預算項目。"
+    },
+    {
+      "word": "ejercicio fiscal",
+      "meaning_zh": "(名) 會計年度",
+      "example_es": "Los resultados del último ejercicio fiscal superaron todas las expectativas previstas.",
+      "example_zh": "上一會計年度的結果超出了所有預期。"
+    },
+    {
+      "word": "balanza de pagos",
+      "meaning_zh": "(名) 國際收支",
+      "example_es": "La balanza de pagos del país muestra un ligero desequilibrio estructural.",
+      "example_zh": "該國的國際收支顯示出輕微的結構性失衡。"
+    },
+    {
+      "word": "saldo",
+      "meaning_zh": "(名) 餘額；結餘",
+      "example_es": "Necesito conocer el saldo actual de mi cuenta corriente antes de pagar.",
+      "example_zh": "我需要在付款前知道我活期帳戶的目前餘額。"
+    },
+    {
+      "word": "remesar",
+      "meaning_zh": "(動) 匯款；寄送",
+      "example_es": "Muchos migrantes suelen remesar parte de sus ingresos a sus familias.",
+      "example_zh": "許多移民經常將部分收入匯給家人。"
+    },
+    {
+      "word": "comerciar",
+      "meaning_zh": "(動) 進行貿易；交易",
+      "example_es": "Esta región lleva siglos comerciando con países del norte de África.",
+      "example_zh": "這個地區與北非國家進行貿易已有數百年。"
+    },
+    {
+      "word": "exportador",
+      "meaning_zh": "(名) 出口商",
+      "example_es": "Los exportadores nacionales temen las nuevas tarifas impuestas por Europa.",
+      "example_zh": "國內出口商擔心歐洲新加徵的關稅。"
+    },
+    {
+      "word": "importador",
+      "meaning_zh": "(名) 進口商",
+      "example_es": "Los importadores buscan diversificar sus proveedores para reducir riesgos.",
+      "example_zh": "進口商希望分散供應商以降低風險。"
+    },
+    {
+      "word": "arancel",
+      "meaning_zh": "(名) 關稅",
+      "example_es": "El nuevo arancel encarecerá considerablemente los productos importados de Asia.",
+      "example_zh": "新關稅將大幅提高從亞洲進口商品的價格。"
+    },
+    {
+      "word": "convenio comercial",
+      "meaning_zh": "(名) 貿易協定",
+      "example_es": "Firmaron un convenio comercial que beneficia a ambos países por igual.",
+      "example_zh": "他們簽訂了對兩國同等有利的貿易協定。"
+    },
+    {
+      "word": "ámbito empresarial",
+      "meaning_zh": "(名) 商業領域",
+      "example_es": "En el ámbito empresarial actual, la innovación es absolutamente esencial.",
+      "example_zh": "在當前的商業領域中，創新是絕對必要的。"
+    },
+    {
+      "word": "índole comercial",
+      "meaning_zh": "(名) 商業性質",
+      "example_es": "Las decisiones de índole comercial deben sustentarse en datos fiables.",
+      "example_zh": "商業性質的決策必須建立在可靠的數據之上。"
+    },
+    {
+      "word": "vínculo contractual",
+      "meaning_zh": "(名) 合約關係",
+      "example_es": "El vínculo contractual entre ambas partes vencerá a finales de año.",
+      "example_zh": "雙方的合約關係將於年底到期。"
+    },
+    {
+      "word": "prorrogar",
+      "meaning_zh": "(動) 延長；展期",
+      "example_es": "Decidieron prorrogar el plazo de entrega por otros quince días.",
+      "example_zh": "他們決定將交付期限再延長十五天。"
+    },
+    {
+      "word": "arbitraje",
+      "meaning_zh": "(名) 仲裁；裁決",
+      "example_es": "El arbitraje internacional resolvió la disputa entre las dos compañías.",
+      "example_zh": "國際仲裁解決了兩家公司之間的爭議。"
+    },
+    {
+      "word": "concordia",
+      "meaning_zh": "(名) 和諧；和睦",
+      "example_es": "Buscan vivir en concordia con sus vecinos a pesar de las diferencias.",
+      "example_zh": "他們希望儘管有分歧仍能與鄰居和睦相處。"
+    },
+    {
+      "word": "discordia",
+      "meaning_zh": "(名) 不和；分歧",
+      "example_es": "Aquella decisión sembró la discordia entre los miembros del equipo.",
+      "example_zh": "那項決定在團隊成員之間播下了分歧的種子。"
+    },
+    {
+      "word": "avenencia",
+      "meaning_zh": "(名) 和解；協議",
+      "example_es": "Por fin llegaron a una avenencia tras largas semanas de negociación.",
+      "example_zh": "經過數週的談判，他們終於達成了和解。"
+    },
+    {
+      "word": "concurso público",
+      "meaning_zh": "(名) 公開招標",
+      "example_es": "La obra fue adjudicada mediante un concurso público transparente y reglado.",
+      "example_zh": "該工程透過透明且合規的公開招標方式發包。"
+    },
+    {
+      "word": "licitación",
+      "meaning_zh": "(名) 投標；招標",
+      "example_es": "Participaron en la licitación tres empresas constructoras del sector privado.",
+      "example_zh": "三家私部門的營造公司參與了這次投標。"
+    },
+    {
+      "word": "adjudicación",
+      "meaning_zh": "(名) 授予；得標",
+      "example_es": "La adjudicación del contrato se anunciará la próxima semana sin falta.",
+      "example_zh": "合約的得標結果將於下週確定公布。"
+    },
+    {
+      "word": "exhaustivamente",
+      "meaning_zh": "(副) 詳盡地；徹底地",
+      "example_es": "Analizaron exhaustivamente todas las opciones antes de tomar la decisión final.",
+      "example_zh": "他們在做最終決定前詳盡地分析了所有選項。"
+    },
+    {
+      "word": "pormenorizadamente",
+      "meaning_zh": "(副) 詳細地",
+      "example_es": "El experto explicó pormenorizadamente los resultados del estudio realizado.",
+      "example_zh": "專家詳細解釋了研究的結果。"
+    },
+    {
+      "word": "arraigo social",
+      "meaning_zh": "(名) 社會根基；社區歸屬",
+      "example_es": "El arraigo social de los inmigrantes facilita su acceso a la vivienda.",
+      "example_zh": "移民的社會根基有助於他們取得住所。"
+    },
+    {
+      "word": "vecindad",
+      "meaning_zh": "(名) 鄰里關係；街坊",
+      "example_es": "La buena vecindad hace que la vida diaria del barrio sea más agradable.",
+      "example_zh": "鄰里關係讓街區的日常生活變得更愉快。"
+    },
+    {
+      "word": "hermanamiento",
+      "meaning_zh": "(名) 城市結盟；姊妹市締結",
+      "example_es": "El hermanamiento entre las dos ciudades promueve intercambios culturales.",
+      "example_zh": "兩座城市的結盟促進了文化交流。"
+    },
+    {
+      "word": "pertenencia",
+      "meaning_zh": "(名) 歸屬感；隸屬",
+      "example_es": "El sentimiento de pertenencia fortalece la cohesión del grupo.",
+      "example_zh": "歸屬感增強了群體的凝聚力。"
+    },
+    {
+      "word": "arraigarse",
+      "meaning_zh": "(動) 紮根；落地生根",
+      "example_es": "La familia logró arraigarse en el pueblo tras varios años de esfuerzo.",
+      "example_zh": "這家人經過多年努力後終於在小鎮紮下了根。"
+    },
+    {
+      "word": "acoger refugiados",
+      "meaning_zh": "(動) 接納難民；收容",
+      "example_es": "El municipio decidió acoger refugiados procedentes del conflicto.",
+      "example_zh": "市政府決定接納來自衝突地區的難民。"
+    },
+    {
+      "word": "hospitalidad",
+      "meaning_zh": "(名) 好客；熱情款待",
+      "example_es": "La hospitalidad de los vecinos sorprendió gratamente a los visitantes.",
+      "example_zh": "鄰居們的熱情款待令訪客感到驚喜。"
+    },
+    {
+      "word": "convivir armoniosamente",
+      "meaning_zh": "(動) 和諧共處",
+      "example_es": "Distintas culturas pueden convivir armoniosamente en una misma ciudad.",
+      "example_zh": "不同文化能在同一座城市中和諧共處。"
+    },
+    {
+      "word": "cohesión vecinal",
+      "meaning_zh": "(名) 社區凝聚力",
+      "example_es": "Las fiestas populares refuerzan la cohesión vecinal del barrio.",
+      "example_zh": "民俗節慶增強了社區的鄰里凝聚力。"
+    },
+    {
+      "word": "asociación de vecinos",
+      "meaning_zh": "(名) 社區協會；住戶協會",
+      "example_es": "La asociación de vecinos organiza talleres para los niños del barrio.",
+      "example_zh": "社區協會為街區的孩子們籌辦工作坊。"
+    },
+    {
+      "word": "asistencia social",
+      "meaning_zh": "(名) 社會救助；社會服務",
+      "example_es": "La asistencia social acompaña a las familias en situación vulnerable.",
+      "example_zh": "社會救助陪伴處於脆弱處境的家庭。"
+    },
+    {
+      "word": "redes de apoyo",
+      "meaning_zh": "(名) 支援網絡",
+      "example_es": "Las redes de apoyo informales son fundamentales para los mayores.",
+      "example_zh": "非正式的支援網絡對長者至關重要。"
+    },
+    {
+      "word": "tutoría comunitaria",
+      "meaning_zh": "(名) 社區輔導；社區陪伴",
+      "example_es": "La tutoría comunitaria reduce el abandono escolar en zonas desfavorecidas.",
+      "example_zh": "社區輔導降低了弱勢地區的輟學率。"
+    },
+    {
+      "word": "labor comunitaria",
+      "meaning_zh": "(名) 社區工作；公益勞動",
+      "example_es": "Dedica los sábados a la labor comunitaria en el centro cívico.",
+      "example_zh": "她週六投入社區工作，服務於市民中心。"
+    },
+    {
+      "word": "mediador cultural",
+      "meaning_zh": "(名) 文化調解員",
+      "example_es": "El mediador cultural facilitó el diálogo entre familias y profesores.",
+      "example_zh": "文化調解員促成家長與老師之間的對話。"
+    },
+    {
+      "word": "convivencia intercultural",
+      "meaning_zh": "(名) 跨文化共處",
+      "example_es": "La convivencia intercultural exige respeto mutuo y curiosidad.",
+      "example_zh": "跨文化共處需要相互尊重與好奇心。"
+    },
+    {
+      "word": "interculturalidad",
+      "meaning_zh": "(名) 跨文化性；多元文化交融",
+      "example_es": "La interculturalidad enriquece la vida educativa de los colegios.",
+      "example_zh": "跨文化交融豐富了學校的教育生活。"
+    },
+    {
+      "word": "multiculturalismo",
+      "meaning_zh": "(名) 多元文化主義",
+      "example_es": "El multiculturalismo plantea retos para las políticas públicas.",
+      "example_zh": "多元文化主義為公共政策帶來挑戰。"
+    },
+    {
+      "word": "minoría étnica",
+      "meaning_zh": "(名) 少數族裔",
+      "example_es": "Las minorías étnicas reclaman mayor representación en los medios.",
+      "example_zh": "少數族裔要求在媒體中獲得更多代表性。"
+    },
+    {
+      "word": "colectivo vulnerable",
+      "meaning_zh": "(名) 弱勢群體",
+      "example_es": "El programa beneficia a colectivos vulnerables del centro de la ciudad.",
+      "example_zh": "該計畫使市中心的弱勢群體受益。"
+    },
+    {
+      "word": "estilo de vida saludable",
+      "meaning_zh": "(名) 健康的生活方式",
+      "example_es": "Adoptar un estilo de vida saludable mejora la calidad del sueño.",
+      "example_zh": "採取健康的生活方式能改善睡眠品質。"
+    },
+    {
+      "word": "calidad de vida",
+      "meaning_zh": "(名) 生活品質",
+      "example_es": "Pasear por el parque cada día aumenta la calidad de vida.",
+      "example_zh": "每天到公園散步能提升生活品質。"
+    },
+    {
+      "word": "hábitos saludables",
+      "meaning_zh": "(名) 健康習慣",
+      "example_es": "Los hábitos saludables se consolidan con la repetición diaria.",
+      "example_zh": "健康習慣透過每日重複而鞏固。"
+    },
+    {
+      "word": "rutina saludable",
+      "meaning_zh": "(名) 健康作息",
+      "example_es": "Mantener una rutina saludable previene muchas enfermedades crónicas.",
+      "example_zh": "保持健康作息可預防許多慢性病。"
+    },
+    {
+      "word": "equilibrio personal",
+      "meaning_zh": "(名) 個人平衡；身心平衡",
+      "example_es": "Encontrar el equilibrio personal exige reflexión y tiempo.",
+      "example_zh": "找到個人平衡需要反思與時間。"
+    },
+    {
+      "word": "armonía interior",
+      "meaning_zh": "(名) 內在和諧",
+      "example_es": "La meditación diaria le ha devuelto la armonía interior.",
+      "example_zh": "每日的冥想讓她重拾內在和諧。"
+    },
+    {
+      "word": "plenitud personal",
+      "meaning_zh": "(名) 個人圓滿；自我實現",
+      "example_es": "Encontró la plenitud personal cuando decidió cambiar de profesión.",
+      "example_zh": "當她決定轉行時，便找到了個人的圓滿。"
+    },
+    {
+      "word": "salud integral",
+      "meaning_zh": "(名) 整體健康",
+      "example_es": "El centro promueve la salud integral del cuerpo y la mente.",
+      "example_zh": "該中心推廣身心整體健康。"
+    },
+    {
+      "word": "salud emocional",
+      "meaning_zh": "(名) 情緒健康",
+      "example_es": "Cuidar la salud emocional es tan importante como la física.",
+      "example_zh": "照顧情緒健康與身體健康同樣重要。"
+    },
+    {
+      "word": "gestión emocional",
+      "meaning_zh": "(名) 情緒管理",
+      "example_es": "La gestión emocional se aprende desde la infancia.",
+      "example_zh": "情緒管理從童年就開始學習。"
+    },
+    {
+      "word": "autoconocimiento",
+      "meaning_zh": "(名) 自我認識",
+      "example_es": "El autoconocimiento facilita tomar decisiones más coherentes.",
+      "example_zh": "自我認識有助於做出更一致的決定。"
+    },
+    {
+      "word": "autorregulación",
+      "meaning_zh": "(名) 自我調節",
+      "example_es": "Los niños aprenden autorregulación a través del juego compartido.",
+      "example_zh": "孩子們透過共玩學會自我調節。"
+    },
+    {
+      "word": "técnicas de relajación",
+      "meaning_zh": "(名) 放鬆技巧",
+      "example_es": "Las técnicas de relajación alivian la tensión acumulada en el cuello.",
+      "example_zh": "放鬆技巧可舒緩頸部累積的緊繃。"
+    },
+    {
+      "word": "respiración consciente",
+      "meaning_zh": "(名) 正念呼吸",
+      "example_es": "La respiración consciente reduce los niveles de ansiedad cotidiana.",
+      "example_zh": "正念呼吸可降低日常焦慮程度。"
+    },
+    {
+      "word": "tiempo de calidad",
+      "meaning_zh": "(名) 高品質時光",
+      "example_es": "Dedica los domingos a pasar tiempo de calidad con sus hijos.",
+      "example_zh": "他週日專注與孩子共度高品質時光。"
+    },
+    {
+      "word": "tiempo libre creativo",
+      "meaning_zh": "(名) 創意休閒時間",
+      "example_es": "El tiempo libre creativo estimula la imaginación de los adolescentes.",
+      "example_zh": "創意休閒時間激發青少年的想像力。"
+    },
+    {
+      "word": "esparcimiento",
+      "meaning_zh": "(名) 消遣；休閒娛樂",
+      "example_es": "El parque ofrece múltiples opciones de esparcimiento familiar.",
+      "example_zh": "這座公園提供多種家庭休閒選擇。"
+    },
+    {
+      "word": "actividad recreativa",
+      "meaning_zh": "(名) 康樂活動",
+      "example_es": "La actividad recreativa semanal mejora el ánimo del grupo.",
+      "example_zh": "每週的康樂活動提升了團體的氣氛。"
+    },
+    {
+      "word": "descanso reparador",
+      "meaning_zh": "(名) 修復性休息",
+      "example_es": "Un descanso reparador es esencial para el rendimiento intelectual.",
+      "example_zh": "修復性休息對智力表現至關重要。"
+    },
+    {
+      "word": "hábito sedentario",
+      "meaning_zh": "(名) 久坐習慣",
+      "example_es": "El hábito sedentario aumenta el riesgo de enfermedades cardiovasculares.",
+      "example_zh": "久坐習慣會增加心血管疾病的風險。"
+    },
+    {
+      "word": "vida activa",
+      "meaning_zh": "(名) 積極的生活",
+      "example_es": "Llevar una vida activa retrasa el envejecimiento prematuro.",
+      "example_zh": "過著積極的生活可延緩早衰。"
+    },
+    {
+      "word": "alimentación equilibrada",
+      "meaning_zh": "(名) 均衡飲食",
+      "example_es": "Una alimentación equilibrada incluye frutas, verduras y cereales integrales.",
+      "example_zh": "均衡飲食包含水果、蔬菜與全穀類。"
+    },
+    {
+      "word": "consumo moderado",
+      "meaning_zh": "(名) 適量攝取",
+      "example_es": "Recomiendan un consumo moderado de sal y de azúcar.",
+      "example_zh": "他們建議適量攝取鹽與糖。"
+    },
+    {
+      "word": "hidratación adecuada",
+      "meaning_zh": "(名) 充足補水",
+      "example_es": "La hidratación adecuada es clave en los meses de calor.",
+      "example_zh": "充足補水在炎熱月份是關鍵。"
+    },
+    {
+      "word": "higiene del sueño",
+      "meaning_zh": "(名) 睡眠衛生",
+      "example_es": "Apagar las pantallas mejora la higiene del sueño nocturna.",
+      "example_zh": "關閉螢幕能改善夜間睡眠衛生。"
+    },
+    {
+      "word": "pausa activa",
+      "meaning_zh": "(名) 工作中的活動休息",
+      "example_es": "Hacer una pausa activa cada hora alivia la tensión muscular.",
+      "example_zh": "每小時做一次活動休息能舒緩肌肉緊張。"
+    },
+    {
+      "word": "ergonomía laboral",
+      "meaning_zh": "(名) 職場人體工學",
+      "example_es": "Una buena ergonomía laboral previene dolores de espalda.",
+      "example_zh": "良好的職場人體工學能預防背痛。"
+    },
+    {
+      "word": "salud postural",
+      "meaning_zh": "(名) 姿勢健康",
+      "example_es": "La salud postural depende del mobiliario que usamos a diario.",
+      "example_zh": "姿勢健康取決於我們日常使用的家具。"
+    },
+    {
+      "word": "vida tranquila",
+      "meaning_zh": "(名) 寧靜的生活",
+      "example_es": "Soñaba con una vida tranquila lejos del ruido urbano.",
+      "example_zh": "他夢想著遠離都市喧囂、過寧靜的生活。"
+    },
+    {
+      "word": "vida pausada",
+      "meaning_zh": "(名) 慢活；緩節奏的生活",
+      "example_es": "Apuestan por una vida pausada que respete los ciclos naturales.",
+      "example_zh": "他們選擇緩節奏的生活，尊重自然週期。"
+    },
+    {
+      "word": "minimalismo cotidiano",
+      "meaning_zh": "(名) 日常極簡主義",
+      "example_es": "El minimalismo cotidiano invita a consumir solo lo necesario.",
+      "example_zh": "日常極簡主義呼籲只消費必要之物。"
+    },
+    {
+      "word": "huella ambiental",
+      "meaning_zh": "(名) 環境足跡",
+      "example_es": "Reducir la huella ambiental implica cambios en el transporte diario.",
+      "example_zh": "縮小環境足跡意味著改變日常交通方式。"
+    },
+    {
+      "word": "consumo responsable",
+      "meaning_zh": "(名) 負責任消費",
+      "example_es": "El consumo responsable favorece a productores locales y artesanos.",
+      "example_zh": "負責任消費有利於本地生產者與工匠。"
+    },
+    {
+      "word": "producto ecológico",
+      "meaning_zh": "(名) 生態產品；有機產品",
+      "example_es": "Los productos ecológicos suelen ser más respetuosos con el suelo.",
+      "example_zh": "有機產品通常對土壤更友善。"
+    },
+    {
+      "word": "envase reutilizable",
+      "meaning_zh": "(名) 可重複使用包裝",
+      "example_es": "Llevar un envase reutilizable evita generar residuos plásticos innecesarios.",
+      "example_zh": "攜帶可重複使用的包裝可避免產生不必要的塑膠垃圾。"
+    },
+    {
+      "word": "reutilización",
+      "meaning_zh": "(名) 重複使用",
+      "example_es": "La reutilización de muebles antiguos ahorra recursos y dinero.",
+      "example_zh": "重複使用舊家具能節省資源與金錢。"
+    },
+    {
+      "word": "recogida selectiva",
+      "meaning_zh": "(名) 分類回收；垃圾分類",
+      "example_es": "La recogida selectiva facilita el reciclaje posterior de los materiales.",
+      "example_zh": "垃圾分類有助於後續材料的回收。"
+    },
+    {
+      "word": "punto limpio",
+      "meaning_zh": "(名) 資源回收站",
+      "example_es": "Llevamos los aparatos viejos al punto limpio del barrio.",
+      "example_zh": "我們把舊電器送到社區的資源回收站。"
+    },
+    {
+      "word": "vertedero",
+      "meaning_zh": "(名) 垃圾掩埋場",
+      "example_es": "El vertedero municipal está cerca del límite de su capacidad.",
+      "example_zh": "市立掩埋場已接近容量上限。"
+    },
+    {
+      "word": "agua potable",
+      "meaning_zh": "(名) 飲用水",
+      "example_es": "Garantizar el acceso a agua potable sigue siendo un reto global.",
+      "example_zh": "確保飲用水的取得仍是全球性課題。"
+    },
+    {
+      "word": "calidad del aire",
+      "meaning_zh": "(名) 空氣品質",
+      "example_es": "La calidad del aire empeora en las horas de mayor tráfico.",
+      "example_zh": "空氣品質在交通尖峰時段變得更差。"
+    },
+    {
+      "word": "zona verde",
+      "meaning_zh": "(名) 綠地",
+      "example_es": "El nuevo barrio cuenta con amplias zonas verdes para los niños.",
+      "example_zh": "新社區擁有寬廣的綠地供孩子使用。"
+    },
+    {
+      "word": "espacio natural",
+      "meaning_zh": "(名) 自然空間；自然保留地",
+      "example_es": "El espacio natural recibe miles de visitantes en primavera.",
+      "example_zh": "這片自然保留地春季吸引數千名訪客。"
+    },
+    {
+      "word": "fauna autóctona",
+      "meaning_zh": "(名) 原生動物群",
+      "example_es": "Proteger la fauna autóctona es prioritario para los biólogos locales.",
+      "example_zh": "保護原生動物群是當地生物學家的首要任務。"
+    },
+    {
+      "word": "flora autóctona",
+      "meaning_zh": "(名) 原生植物群",
+      "example_es": "La flora autóctona resiste mejor las sequías estivales.",
+      "example_zh": "原生植物群更能耐受夏季乾旱。"
+    },
+    {
+      "word": "agricultura sostenible",
+      "meaning_zh": "(名) 永續農業",
+      "example_es": "La agricultura sostenible reduce el uso de pesticidas químicos.",
+      "example_zh": "永續農業可減少化學農藥的使用。"
+    },
+    {
+      "word": "ganadería extensiva",
+      "meaning_zh": "(名) 放牧式畜牧",
+      "example_es": "La ganadería extensiva conserva los pastos tradicionales de montaña.",
+      "example_zh": "放牧式畜牧保留了傳統的山地草場。"
+    },
+    {
+      "word": "energía renovable",
+      "meaning_zh": "(名) 再生能源",
+      "example_es": "Cada vez más viviendas funcionan con energía renovable propia.",
+      "example_zh": "越來越多住宅以自有的再生能源運作。"
+    },
+    {
+      "word": "ahorro hídrico",
+      "meaning_zh": "(名) 節水",
+      "example_es": "El ahorro hídrico se ha convertido en una prioridad municipal.",
+      "example_zh": "節水已成為市政的首要工作。"
+    },
+    {
+      "word": "consumo energético",
+      "meaning_zh": "(名) 能源消耗",
+      "example_es": "Reducir el consumo energético doméstico abarata la factura mensual.",
+      "example_zh": "減少家庭能源消耗可降低每月帳單。"
+    },
+    {
+      "word": "vehículo eléctrico",
+      "meaning_zh": "(名) 電動車",
+      "example_es": "El vehículo eléctrico gana cuota en las ciudades europeas.",
+      "example_zh": "電動車在歐洲城市的市佔率不斷上升。"
+    },
+    {
+      "word": "carril bici",
+      "meaning_zh": "(名) 自行車道",
+      "example_es": "El nuevo carril bici recorre toda la ribera del río.",
+      "example_zh": "新的自行車道沿著整條河岸延伸。"
+    },
+    {
+      "word": "movilidad activa",
+      "meaning_zh": "(名) 主動移動方式（步行、騎車）",
+      "example_es": "Fomentar la movilidad activa reduce las emisiones urbanas contaminantes.",
+      "example_zh": "推廣主動移動方式能減少都市污染排放。"
+    },
+    {
+      "word": "vivienda eficiente",
+      "meaning_zh": "(名) 節能住宅",
+      "example_es": "Una vivienda eficiente gasta mucho menos en calefacción invernal.",
+      "example_zh": "節能住宅在冬季暖氣上花費少得多。"
+    },
+    {
+      "word": "aislamiento térmico",
+      "meaning_zh": "(名) 隔熱",
+      "example_es": "El aislamiento térmico mejora notablemente el confort interior.",
+      "example_zh": "隔熱顯著提升室內舒適度。"
+    },
+    {
+      "word": "consumo cero",
+      "meaning_zh": "(名) 零消費；零浪費",
+      "example_es": "El movimiento de consumo cero rechaza los productos de un solo uso.",
+      "example_zh": "零浪費運動拒絕一次性用品。"
+    },
+    {
+      "word": "comunidad sostenible",
+      "meaning_zh": "(名) 永續社區",
+      "example_es": "Las comunidades sostenibles comparten huertos y herramientas.",
+      "example_zh": "永續社區共享菜園與工具。"
+    },
+    {
+      "word": "biorregión",
+      "meaning_zh": "(名) 生物區；生態區",
+      "example_es": "Cada biorregión exige estrategias de conservación diferenciadas.",
+      "example_zh": "每個生態區都需要不同的保育策略。"
+    },
+    {
+      "word": "respeto medioambiental",
+      "meaning_zh": "(名) 環境尊重",
+      "example_es": "El respeto medioambiental debería formar parte del currículo escolar.",
+      "example_zh": "環境尊重應該成為學校課程的一部分。"
+    },
+    {
+      "word": "honradez",
+      "meaning_zh": "(名) 誠實；正直",
+      "example_es": "La honradez del comerciante atrajo clientela durante décadas.",
+      "example_zh": "這位商人的誠實吸引了數十年的客源。"
+    },
+    {
+      "word": "honestidad",
+      "meaning_zh": "(名) 誠實正直",
+      "example_es": "La honestidad intelectual es imprescindible en el trabajo académico.",
+      "example_zh": "學術誠實在學術工作中不可或缺。"
+    },
+    {
+      "word": "sinceridad",
+      "meaning_zh": "(名) 真誠；坦率",
+      "example_es": "Agradezco tu sinceridad aunque la opinión sea dura.",
+      "example_zh": "雖然意見嚴厲，我仍感謝你的真誠。"
+    },
+    {
+      "word": "franqueza",
+      "meaning_zh": "(名) 坦率；直爽",
+      "example_es": "Habló con franqueza sobre las dificultades del proyecto.",
+      "example_zh": "他坦率地談論了專案中的困難。"
+    },
+    {
+      "word": "lealtad",
+      "meaning_zh": "(名) 忠誠",
+      "example_es": "La lealtad a los principios pesa más que cualquier recompensa.",
+      "example_zh": "對原則的忠誠重於任何回報。"
+    },
+    {
+      "word": "fidelidad",
+      "meaning_zh": "(名) 忠實；忠誠",
+      "example_es": "Su fidelidad a la causa nunca flaqueó durante los años difíciles.",
+      "example_zh": "在艱困歲月中，她對事業的忠誠從未動搖。"
+    },
+    {
+      "word": "compromiso ético",
+      "meaning_zh": "(名) 道德承諾",
+      "example_es": "El compromiso ético del periodista garantiza la veracidad del informe.",
+      "example_zh": "記者的道德承諾保證了報導的真實性。"
+    },
+    {
+      "word": "rectitud moral",
+      "meaning_zh": "(名) 道德端正",
+      "example_es": "Sus colegas admiran la rectitud moral con la que dirige el equipo.",
+      "example_zh": "同事們敬佩她以道德端正領導團隊。"
+    },
+    {
+      "word": "autenticidad personal",
+      "meaning_zh": "(名) 個人真實性",
+      "example_es": "La autenticidad personal se nota en cada decisión que toma.",
+      "example_zh": "她的個人真實性在每個決定中都顯而易見。"
+    },
+    {
+      "word": "genuino",
+      "meaning_zh": "(形) 真正的；地道的",
+      "example_es": "Mostró un interés genuino por los problemas de los vecinos.",
+      "example_zh": "他對鄰居的問題表現出真正的關心。"
+    },
+    {
+      "word": "fiabilidad",
+      "meaning_zh": "(名) 可靠性",
+      "example_es": "La fiabilidad del proveedor es decisiva en este contrato.",
+      "example_zh": "供應商的可靠性在這份合約中至關重要。"
+    },
+    {
+      "word": "honorable",
+      "meaning_zh": "(形) 可敬的；光榮的",
+      "example_es": "Su trayectoria profesional ha sido siempre honorable y discreta.",
+      "example_zh": "她的職業生涯始終可敬且低調。"
+    },
+    {
+      "word": "digno",
+      "meaning_zh": "(形) 有尊嚴的；值得敬重的",
+      "example_es": "Mantuvo una actitud digna a pesar de las injustas críticas.",
+      "example_zh": "面對不公的批評，他仍維持有尊嚴的態度。"
+    },
+    {
+      "word": "dignidad",
+      "meaning_zh": "(名) 尊嚴",
+      "example_es": "Defender la dignidad de los trabajadores es una causa justa.",
+      "example_zh": "捍衛勞工的尊嚴是一項正義的事業。"
+    },
+    {
+      "word": "coherencia personal",
+      "meaning_zh": "(名) 個人言行一致",
+      "example_es": "La coherencia personal entre palabras y hechos genera confianza.",
+      "example_zh": "言行一致能贏得信任。"
+    },
+    {
+      "word": "consecuencia con",
+      "meaning_zh": "(名) 與…一致；遵循",
+      "example_es": "Actúa siempre en consecuencia con sus valores familiares.",
+      "example_zh": "她的行動始終與其家庭價值觀一致。"
+    },
+    {
+      "word": "firmeza de carácter",
+      "meaning_zh": "(名) 堅定的性格",
+      "example_es": "Su firmeza de carácter le permitió superar la crisis.",
+      "example_zh": "他堅定的性格讓他度過了危機。"
+    },
+    {
+      "word": "entereza",
+      "meaning_zh": "(名) 堅毅；剛毅",
+      "example_es": "Afrontó la enfermedad con una entereza admirable.",
+      "example_zh": "她以令人欽佩的剛毅面對疾病。"
+    },
+    {
+      "word": "discreción",
+      "meaning_zh": "(名) 慎重；謹言",
+      "example_es": "Trataron el asunto con la máxima discreción posible.",
+      "example_zh": "他們以最大的謹慎處理此事。"
+    },
+    {
+      "word": "prudente",
+      "meaning_zh": "(形) 謹慎的；明智的",
+      "example_es": "Tomó una decisión prudente ante la incertidumbre del mercado.",
+      "example_zh": "面對市場的不確定，她做了謹慎的決定。"
+    },
+    {
+      "word": "constante",
+      "meaning_zh": "(形) 持之以恆的；穩定的",
+      "example_es": "Es un estudiante constante que mejora cada trimestre.",
+      "example_zh": "她是一位持之以恆的學生，每學期都在進步。"
+    },
+    {
+      "word": "tenaz",
+      "meaning_zh": "(形) 頑強的；不屈不撓的",
+      "example_es": "Resultó ser un investigador tenaz pese a los obstáculos burocráticos.",
+      "example_zh": "儘管有行政阻礙，他仍是位不屈不撓的研究者。"
+    },
+    {
+      "word": "perseverante",
+      "meaning_zh": "(形) 堅持不懈的",
+      "example_es": "Solo los más perseverantes lograrán terminar el doctorado.",
+      "example_zh": "只有最堅持不懈的人才能完成博士學位。"
+    },
+    {
+      "word": "tesonero",
+      "meaning_zh": "(形) 鍥而不捨的",
+      "example_es": "Demostró un esfuerzo tesonero hasta completar la obra.",
+      "example_zh": "她展現了鍥而不捨的努力直到完成作品。"
+    },
+    {
+      "word": "abnegación silenciosa",
+      "meaning_zh": "(名) 默默的奉獻",
+      "example_es": "Su abnegación silenciosa sostiene la familia desde hace años.",
+      "example_zh": "她默默的奉獻多年來支撐著這個家庭。"
+    },
+    {
+      "word": "rigor profesional",
+      "meaning_zh": "(名) 專業嚴謹",
+      "example_es": "El rigor profesional del cirujano es reconocido por sus colegas.",
+      "example_zh": "這位外科醫生的專業嚴謹獲得同行肯定。"
+    },
+    {
+      "word": "escrupulosidad",
+      "meaning_zh": "(名) 一絲不苟",
+      "example_es": "Trabajó con escrupulosidad para no cometer ningún error.",
+      "example_zh": "她一絲不苟地工作，以免犯任何錯誤。"
+    },
+    {
+      "word": "moderación",
+      "meaning_zh": "(名) 節制；適度",
+      "example_es": "La moderación en el lenguaje facilita el debate parlamentario.",
+      "example_zh": "言語上的節制有助於議會辯論。"
+    },
+    {
+      "word": "ecuanimidad emocional",
+      "meaning_zh": "(名) 情緒平和",
+      "example_es": "Mantuvo la ecuanimidad emocional durante las negociaciones más tensas.",
+      "example_zh": "在最緊張的談判中，她保持了情緒平和。"
+    },
+    {
+      "word": "asombro profundo",
+      "meaning_zh": "(名) 深深的驚奇",
+      "example_es": "Contempló el paisaje con asombro profundo durante varios minutos.",
+      "example_zh": "她以深深的驚奇凝視景色好幾分鐘。"
+    },
+    {
+      "word": "fascinación",
+      "meaning_zh": "(名) 著迷；迷戀",
+      "example_es": "Siente fascinación por la cultura precolombina del altiplano andino.",
+      "example_zh": "他對安第斯高原的前哥倫布文化深感著迷。"
+    },
+    {
+      "word": "admiración sincera",
+      "meaning_zh": "(名) 真誠的敬佩",
+      "example_es": "Expresó admiración sincera por la trayectoria de su mentor.",
+      "example_zh": "她對其導師的職業生涯表達真誠的敬佩。"
+    },
+    {
+      "word": "gratitud profunda",
+      "meaning_zh": "(名) 深深的感激",
+      "example_es": "Le escribió una carta llena de gratitud profunda.",
+      "example_zh": "她寫給他一封充滿深深感激的信。"
     }
   ],
   "dc1": [
