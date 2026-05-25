@@ -214,6 +214,7 @@ const STORIES = [
   { key: "jap049", title: "赤門同好会！" },
   { key: "jap050", title: "自由研究" },
   { key: "jap051", title: "三分間ミステリー" },
+  { key: "jap052", title: "探偵冷泉深見シリーズ《一》　四神村殺人事件" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
