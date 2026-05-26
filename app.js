@@ -1271,8 +1271,9 @@ function renderStatsSection(sec) {
     }).join("");
     return `<tr${cls}>${tds}</tr>`;
   }).join("");
+  const tableCls = sec.headers.length === 4 ? "stats-table stats-level" : "stats-table";
   return `<h3 class="stats-h3">${escapeHTMLSafe(sec.heading)}</h3>` +
-    `<table class="stats-table"><thead><tr>${headerCells}</tr></thead><tbody>${bodyRows}</tbody></table>`;
+    `<table class="${tableCls}"><thead><tr>${headerCells}</tr></thead><tbody>${bodyRows}</tbody></table>`;
 }
 
 async function loadStatsIntoPicker() {

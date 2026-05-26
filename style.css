@@ -474,6 +474,15 @@ footer {
   border-collapse: collapse;
   font-size: 13px;
   margin-bottom: 4px;
+  table-layout: fixed;
+}
+.stats-table th:first-child,
+.stats-table td:first-child {
+  width: 40%;
+}
+.stats-table.stats-level th.num,
+.stats-table.stats-level td.num {
+  width: 20%;
 }
 .stats-table th,
 .stats-table td {
