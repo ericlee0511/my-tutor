@@ -73,8 +73,6 @@ const scenes = {
 };
 
 // Visual width: CJK (incl. Hangul, full-width punctuation) takes 2 cells, ASCII 1.
-// Used so columns line up visually in a monospace editor even when cells mix
-// CJK labels with ASCII numbers / "--" placeholders.
 function visualWidth(s) {
   let w = 0;
   for (const ch of String(s)) {
@@ -100,12 +98,18 @@ function padCell(text, width, align) {
   if (gap <= 0) return text;
   return align === "right" ? " ".repeat(gap) + text : text + " ".repeat(gap);
 }
-// Render a markdown table with column widths auto-fit to content (visual width).
+// Render a markdown table.
 // `aligns`: array of "left" | "right" per column.
-function formatTable(headers, aligns, rows) {
+// `forceWidths`: optional array of widths (number or null). When non-null,
+//   that column is rendered at the forced width instead of auto-fit.
+function formatTable(headers, aligns, rows, forceWidths) {
   const cols = headers.length;
   const widths = new Array(cols).fill(0);
   for (let i = 0; i < cols; i++) {
+    if (forceWidths && typeof forceWidths[i] === "number") {
+      widths[i] = forceWidths[i];
+      continue;
+    }
     widths[i] = visualWidth(headers[i]);
     for (const r of rows) widths[i] = Math.max(widths[i], visualWidth(String(r[i] ?? "")));
   }
@@ -119,15 +123,14 @@ function formatTable(headers, aligns, rows) {
   return [renderRow(headers), separator, ...rows.map(renderRow)].join("\n");
 }
 
-const today = new Date().toISOString().slice(0, 10);
+// ---- Pass 1: collect all table data without rendering -----------------------
+// Each entry: { title, headers, aligns, rows, kind }
+//   kind: "level" (5 main level tables, share L+V widths)
+//         "scenes" (情境句, shares L width only)
+//         "totals" (總計, shares L width only)
+const tables = [];
 
-const lines = [];
-lines.push("# e-learning 內容統計");
-lines.push("");
-lines.push(`> generated: ${today} (auto by scripts/recount_stats.js)`);
-lines.push("");
-
-function levelTable(title, keys, labels, src) {
+function pushLevelTable(title, keys, labels, src) {
   let sv = 0, sg = 0, sq = 0;
   const rows = [];
   for (let i = 0; i < keys.length; i++) {
@@ -139,35 +142,17 @@ function levelTable(title, keys, labels, src) {
     rows.push([labels[i], String(v), String(g), String(q)]);
   }
   if (keys.length > 1) rows.push(["**小計**", `**${sv}**`, `**${sg}**`, `**${sq}**`]);
-  lines.push(`## ${title}`);
-  lines.push("");
-  lines.push(formatTable(["等級", "單字", "文法", "選擇題"], ["left", "right", "right", "right"], rows));
-  lines.push("");
+  tables.push({
+    title,
+    headers: ["等級", "單字", "文法", "選擇題"],
+    aligns: ["left", "right", "right", "right"],
+    rows,
+    kind: "level",
+  });
   return { vocab: sv, grammar: sg, quiz: sq };
 }
 
-const deleSum = levelTable(
-  "西文 (DELE A1 ~ C2)",
-  ["da1","da2","db1","db2","dc1","dc2"],
-  ["DELE A1","DELE A2","DELE B1","DELE B2","DELE C1","DELE C2"],
-  dele
-);
-const topikSum = levelTable(
-  "韓文 (TOPIK 1 ~ 6)",
-  ["t1","t2","t3","t4","t5","t6"],
-  ["TOPIK 1","TOPIK 2","TOPIK 3","TOPIK 4","TOPIK 5","TOPIK 6"],
-  topik
-);
-const jpSum = levelTable(
-  "日文 (N5 ~ N1)",
-  ["n5","n4","n3","n2","n1"],
-  ["N5","N4","N3","N2","N1"],
-  jp
-);
-// TOEIC and GEPT vocab are sub-classified by a per-entry `level` field
-// (not split into separate JSON keys). Render the main row + per-sub-level
-// vocab rows; grammar/quiz are shared, so sub-rows show "--" for those.
-function tableWithSubLevels(title, mainLabel, vocabFile, vocabKey, subs, src) {
+function pushTableWithSubLevels(title, mainLabel, vocabFile, vocabKey, subs, src) {
   const arr = readJSON(path.join(DATA, vocabFile))[vocabKey] || [];
   const subCounts = Object.fromEntries(subs.map(s => [s.key, 0]));
   for (const e of arr) {
@@ -177,16 +162,36 @@ function tableWithSubLevels(title, mainLabel, vocabFile, vocabKey, subs, src) {
   const g = src.grammar[vocabKey] || 0;
   const q = src.quiz[vocabKey] || 0;
   const rows = [[mainLabel, String(v), String(g), String(q)]];
-  // Sub-rows: 3-space indent in the label cell signals "sub" to the picker parser.
   for (const s of subs) rows.push([`   ${s.label}`, String(subCounts[s.key]), "--", "--"]);
-  lines.push(`## ${title}`);
-  lines.push("");
-  lines.push(formatTable(["等級", "單字", "文法", "選擇題"], ["left", "right", "right", "right"], rows));
-  lines.push("");
+  tables.push({
+    title,
+    headers: ["等級", "單字", "文法", "選擇題"],
+    aligns: ["left", "right", "right", "right"],
+    rows,
+    kind: "level",
+  });
   return { vocab: v, grammar: g, quiz: q };
 }
 
-const toeicSum = tableWithSubLevels(
+const deleSum = pushLevelTable(
+  "西文 (DELE A1 ~ C2)",
+  ["da1","da2","db1","db2","dc1","dc2"],
+  ["DELE A1","DELE A2","DELE B1","DELE B2","DELE C1","DELE C2"],
+  dele
+);
+const topikSum = pushLevelTable(
+  "韓文 (TOPIK 1 ~ 6)",
+  ["t1","t2","t3","t4","t5","t6"],
+  ["TOPIK 1","TOPIK 2","TOPIK 3","TOPIK 4","TOPIK 5","TOPIK 6"],
+  topik
+);
+const jpSum = pushLevelTable(
+  "日文 (N5 ~ N1)",
+  ["n5","n4","n3","n2","n1"],
+  ["N5","N4","N3","N2","N1"],
+  jp
+);
+const toeicSum = pushTableWithSubLevels(
   "多益 (TOEIC)", "TOEIC",
   "vocab_toeic.json", "toeic",
   [
@@ -197,7 +202,7 @@ const toeicSum = tableWithSubLevels(
   ],
   toeic
 );
-const geptSum = tableWithSubLevels(
+const geptSum = pushTableWithSubLevels(
   "全民英檢 (GEPT)", "GEPT",
   "vocab_gept.json", "gept",
   [
@@ -225,29 +230,72 @@ for (const [name, s] of sceneSrc) {
   sceneRows.push([name, String(s.stories), String(s.sentences)]);
 }
 sceneRows.push(["**合計**", `**${sStories}**`, `**${sSentences}**`]);
-lines.push("## 情境句");
-lines.push("");
-lines.push(formatTable(["系列", "故事數", "總句數"], ["left", "right", "right"], sceneRows));
-lines.push("");
+tables.push({
+  title: "情境句",
+  headers: ["系列", "故事數", "總句數"],
+  aligns: ["left", "right", "right"],
+  rows: sceneRows,
+  kind: "scenes",
+});
 
 const totalVocab = deleSum.vocab + topikSum.vocab + jpSum.vocab + toeicSum.vocab + geptSum.vocab;
 const totalGrammar = deleSum.grammar + topikSum.grammar + jpSum.grammar + toeicSum.grammar + geptSum.grammar;
 const totalQuiz = deleSum.quiz + topikSum.quiz + jpSum.quiz + toeicSum.quiz + geptSum.quiz;
 
-lines.push("## 總計");
-lines.push("");
-lines.push(formatTable(
-  ["類型", "數量"],
-  ["left", "right"],
-  [
+tables.push({
+  title: "總計",
+  headers: ["類型", "數量"],
+  aligns: ["left", "right"],
+  rows: [
     ["單字", String(totalVocab)],
     ["文法", String(totalGrammar)],
     ["選擇題", String(totalQuiz)],
     ["故事篇數", String(sStories)],
     ["故事句數", String(sSentences)],
-  ]
-));
+  ],
+  kind: "totals",
+});
+
+// ---- Pass 2: compute shared column widths -----------------------------------
+// Group L (leftmost label column): shared by all 7 tables — 等級 / 系列 / 類型
+let groupL = 0;
+for (const t of tables) {
+  groupL = Math.max(groupL, visualWidth(t.headers[0]));
+  for (const r of t.rows) groupL = Math.max(groupL, visualWidth(String(r[0] ?? "")));
+}
+// Group V (right-aligned numeric columns 單字/文法/選擇題): shared across 5 level tables only
+let groupV = 0;
+for (const t of tables) {
+  if (t.kind !== "level") continue;
+  for (let ci = 1; ci <= 3; ci++) {
+    groupV = Math.max(groupV, visualWidth(t.headers[ci]));
+    for (const r of t.rows) groupV = Math.max(groupV, visualWidth(String(r[ci] ?? "")));
+  }
+}
+
+// ---- Pass 3: render -----------------------------------------------------------
+const today = new Date().toISOString().slice(0, 10);
+
+const lines = [];
+lines.push("# e-learning 內容統計");
 lines.push("");
+lines.push(`> generated: ${today} (auto by scripts/recount_stats.js)`);
+lines.push("");
+
+for (const t of tables) {
+  lines.push(`## ${t.title}`);
+  lines.push("");
+  let force;
+  if (t.kind === "level") {
+    force = [groupL, groupV, groupV, groupV];
+  } else if (t.kind === "scenes") {
+    force = [groupL, null, null];
+  } else if (t.kind === "totals") {
+    force = [groupL, null];
+  }
+  lines.push(formatTable(t.headers, t.aligns, t.rows, force));
+  lines.push("");
+}
 
 fs.writeFileSync(OUT, lines.join("\n"), "utf8");
 console.log(`wrote ${OUT}`);
