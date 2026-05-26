@@ -666,6 +666,7 @@ async function loadData() {
     DATA.scenes_gept[s.key] = loaded[geptStart + i].all || [];
   });
   buildLookupIndex();
+  initJaTokenizer();
   updateStats();
 }
 
@@ -707,12 +708,27 @@ function escapeHTML(s) {
   }[c]));
 }
 
-// ========== Lookup engine (MVP: substring + longest match) ==========
+// ========== Lookup engine (kuromoji for ja, substring + longest-match for others) ==========
 const lookup = {
   built: false,
   index: { ja: null, ko: null, en_toeic: null, en_gept: null, es: null },
   regex: { ja: null, ko: null, en_toeic: null, en_gept: null, es: null },
 };
+let jaTokenizer = null;
+let jaTokenizerLoading = false;
+function initJaTokenizer() {
+  if (jaTokenizer || jaTokenizerLoading) return;
+  if (typeof kuromoji === "undefined") return;
+  jaTokenizerLoading = true;
+  kuromoji.builder({ dicPath: "vendor/kuromoji/dict" }).build((err, tokenizer) => {
+    jaTokenizerLoading = false;
+    if (err) { console.warn("[kuromoji] init failed:", err); return; }
+    jaTokenizer = tokenizer;
+    // Re-render current entry so existing scene card upgrades to tokenized highlight
+    const entry = state.timeline[state.timelinePos];
+    if (entry) displayEntry(entry);
+  });
+}
 
 function lookupSceneLang() {
   if (isDele()) return "es";
@@ -764,7 +780,9 @@ function buildLookupIndex() {
 }
 
 function highlightSentence(text, lang) {
-  if (!state.lookup || !lookup.regex[lang]) return escapeHTML(text);
+  if (!state.lookup) return escapeHTML(text);
+  if (lang === "ja" && jaTokenizer) return highlightJaWithTokenizer(text);
+  if (!lookup.regex[lang]) return escapeHTML(text);
   const isLatin = lang.startsWith("en") || lang === "es";
   const re = lookup.regex[lang];
   re.lastIndex = 0;
@@ -780,6 +798,32 @@ function highlightSentence(text, lang) {
     if (m.index === re.lastIndex) re.lastIndex++;
   }
   out += escapeHTML(text.slice(cursor));
+  return out;
+}
+
+// Use kuromoji morphological analysis: only tokens whose surface OR base_form
+// is a known vocab entry get highlighted. Particles / aux / punctuation skipped.
+function highlightJaWithTokenizer(text) {
+  if (!lookup.index.ja) return escapeHTML(text);
+  let tokens;
+  try { tokens = jaTokenizer.tokenize(text); }
+  catch (e) { return escapeHTML(text); }
+  const SKIP_POS = new Set(["助詞", "助動詞", "記号", "フィラー", "その他"]);
+  let out = "";
+  for (const t of tokens) {
+    const surface = t.surface_form || "";
+    const base = t.basic_form && t.basic_form !== "*" ? t.basic_form : surface;
+    let matchKey = null;
+    if (!SKIP_POS.has(t.pos)) {
+      if (lookup.index.ja.has(base)) matchKey = base;
+      else if (lookup.index.ja.has(surface)) matchKey = surface;
+    }
+    if (matchKey) {
+      out += `<span class="lookup-word" data-lang="ja" data-w="${encodeURIComponent(matchKey)}">${escapeHTML(surface)}</span>`;
+    } else {
+      out += escapeHTML(surface);
+    }
+  }
   return out;
 }
 

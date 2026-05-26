@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v226";
+const CACHE = "jp-tutor-v227";
 const ASSETS = [
   "./",
   "./index.html",
@@ -7,6 +7,19 @@ const ASSETS = [
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
+  "./vendor/kuromoji/kuromoji.js",
+  "./vendor/kuromoji/dict/base.dat.gz",
+  "./vendor/kuromoji/dict/cc.dat.gz",
+  "./vendor/kuromoji/dict/check.dat.gz",
+  "./vendor/kuromoji/dict/tid.dat.gz",
+  "./vendor/kuromoji/dict/tid_map.dat.gz",
+  "./vendor/kuromoji/dict/tid_pos.dat.gz",
+  "./vendor/kuromoji/dict/unk.dat.gz",
+  "./vendor/kuromoji/dict/unk_char.dat.gz",
+  "./vendor/kuromoji/dict/unk_compat.dat.gz",
+  "./vendor/kuromoji/dict/unk_invoke.dat.gz",
+  "./vendor/kuromoji/dict/unk_map.dat.gz",
+  "./vendor/kuromoji/dict/unk_pos.dat.gz",
   "./data/statistics.md",
   "./data/vocab_jap.json",
   "./data/grammar_jap.json",
