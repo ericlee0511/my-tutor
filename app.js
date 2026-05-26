@@ -1013,11 +1013,36 @@ function formatEntry(entry) {
   return "";
 }
 
+function canMoveNext() {
+  // Already have a next entry in history → always allowed
+  if (state.timelinePos < state.timeline.length - 1) return true;
+  // At tail — can a new random entry be generated from the current pool?
+  const last = state.timeline[state.timelinePos];
+  if (!last) return false;
+  const mode = last.mode;
+  if (last.kind === "scene") {
+    const pool =
+      mode === "dele"  ? DATA.scenes_dele :
+      mode === "gept"  ? DATA.scenes_gept :
+      mode === "toeic" ? DATA.scenes_toeic :
+      mode === "topik" ? DATA.scenes_ko : DATA.scenes;
+    return !!(pool?.[last.key]?.length);
+  }
+  const poolMap =
+    mode === "dele"  ? { word: vocabFor("dele"),  grammar: DATA.grammar_dele,  quiz: DATA.quiz_dele  } :
+    mode === "gept"  ? { word: vocabFor("gept"),  grammar: DATA.grammar_gept,  quiz: DATA.quiz_gept  } :
+    mode === "toeic" ? { word: vocabFor("toeic"), grammar: DATA.grammar_toeic, quiz: DATA.quiz_toeic } :
+    mode === "topik" ? { word: vocabFor("topik"), grammar: DATA.grammar_ko,    quiz: DATA.quiz_ko    } :
+                       { word: vocabFor("jp"),    grammar: DATA.grammar,       quiz: DATA.quiz       };
+  return !!(poolMap[last.kind]?.[last.key]?.length);
+}
+
 function renderNav() {
   const canPrev = state.timelinePos > 0;
+  const canNext = canMoveNext();
   return `<div class="nav-buttons">` +
     `<button class="nav-btn" id="prev-btn" type="button" ${canPrev ? "" : "disabled"}>← 上一個</button>` +
-    `<button class="nav-btn" id="next-btn" type="button">下一個 →</button>` +
+    `<button class="nav-btn" id="next-btn" type="button" ${canNext ? "" : "disabled"}>下一個 →</button>` +
     `</div>`;
 }
 
