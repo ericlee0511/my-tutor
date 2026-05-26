@@ -216,6 +216,7 @@ const STORIES = [
   { key: "jap051", title: "三分間ミステリー" },
   { key: "jap052", title: "探偵冷泉深見シリーズ《一》　四神村殺人事件" },
   { key: "jap053", title: "探偵冷泉深見シリーズ《二》　雪女島殺人事件" },
+  { key: "jap054", title: "探偵冷泉深見シリーズ《三》　恨み島殺人事件" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
