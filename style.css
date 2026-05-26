@@ -87,9 +87,12 @@ header h1 {
   box-sizing: border-box;
 }
 #lookup-btn {
-  width: 44px;
-  padding: 6px 0;
-  text-align: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   box-sizing: border-box;
 }
 #level-btn {
@@ -97,9 +100,11 @@ header h1 {
   text-align: center;
   box-sizing: border-box;
 }
-#gept-sub-btn {
-  min-width: 80px;
+#gept-sub-btn,
+#toeic-sub-btn {
+  width: 88px;
   text-align: center;
+  box-sizing: border-box;
 }
 
 main {
