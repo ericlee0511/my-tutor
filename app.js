@@ -665,6 +665,7 @@ async function loadData() {
   GEPT_STORIES.forEach((s, i) => {
     DATA.scenes_gept[s.key] = loaded[geptStart + i].all || [];
   });
+  buildLookupIndex();
   updateStats();
 }
 
@@ -704,6 +705,144 @@ function escapeHTML(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   }[c]));
+}
+
+// ========== Lookup engine (MVP: substring + longest match) ==========
+const lookup = {
+  built: false,
+  index: { ja: null, ko: null, en_toeic: null, en_gept: null, es: null },
+  regex: { ja: null, ko: null, en_toeic: null, en_gept: null, es: null },
+};
+
+function lookupSceneLang() {
+  if (isDele()) return "es";
+  if (isGept()) return "en_gept";
+  if (isToeic()) return "en_toeic";
+  if (isTopik()) return "ko";
+  return "ja";
+}
+
+function buildLookupIndex() {
+  if (lookup.built) return;
+  const collect = (poolByLevel, getSurface) => {
+    const idx = new Map();
+    if (!poolByLevel) return idx;
+    Object.values(poolByLevel).forEach(arr => {
+      if (!Array.isArray(arr)) return;
+      arr.forEach(item => {
+        const surf = getSurface(item);
+        if (!surf) return;
+        const list = idx.get(surf) || [];
+        list.push(item);
+        idx.set(surf, list);
+      });
+    });
+    return idx;
+  };
+  lookup.index.ja       = collect(DATA.vocab,       it => it && it.kanji);
+  lookup.index.ko       = collect(DATA.vocab_ko,    it => it && it.word);
+  lookup.index.en_toeic = collect(DATA.vocab_toeic, it => it && it.word ? it.word.toLowerCase() : "");
+  lookup.index.en_gept  = collect(DATA.vocab_gept,  it => it && it.word ? it.word.toLowerCase() : "");
+  lookup.index.es       = collect(DATA.vocab_dele,  it => it && it.word ? it.word.toLowerCase() : "");
+  Object.keys(lookup.index).forEach(lang => {
+    const isLatin = lang.startsWith("en") || lang === "es";
+    const terms = Array.from(lookup.index[lang].keys())
+      .filter(t => t && t.length > 0)
+      .sort((a, b) => b.length - a.length); // longest first → preferred
+    if (terms.length === 0) { lookup.regex[lang] = null; return; }
+    const escaped = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+    let pattern = escaped.join("|");
+    if (isLatin) pattern = "\\b(?:" + pattern + ")\\b";
+    try {
+      lookup.regex[lang] = new RegExp(pattern, isLatin ? "gi" : "g");
+    } catch (e) {
+      console.warn("[lookup] regex build failed for", lang, e.message);
+      lookup.regex[lang] = null;
+    }
+  });
+  lookup.built = true;
+}
+
+function highlightSentence(text, lang) {
+  if (!state.lookup || !lookup.regex[lang]) return escapeHTML(text);
+  const isLatin = lang.startsWith("en") || lang === "es";
+  const re = lookup.regex[lang];
+  re.lastIndex = 0;
+  let out = "";
+  let cursor = 0;
+  let m;
+  while ((m = re.exec(text)) !== null) {
+    out += escapeHTML(text.slice(cursor, m.index));
+    const matched = m[0];
+    const key = isLatin ? matched.toLowerCase() : matched;
+    out += `<span class="lookup-word" data-lang="${lang}" data-w="${encodeURIComponent(key)}">${escapeHTML(matched)}</span>`;
+    cursor = m.index + matched.length;
+    if (m.index === re.lastIndex) re.lastIndex++;
+  }
+  out += escapeHTML(text.slice(cursor));
+  return out;
+}
+
+function lookupEntryHtml(entry, lang) {
+  let reading = "";
+  if (lang === "ja" && entry.kana) reading = entry.kana;
+  else if (lang === "ko" && entry.romanization) reading = entry.romanization;
+  const headWord = lang === "ja" ? entry.kanji : entry.word;
+  const exampleSrc = entry.example_ja || entry.example_ko || entry.example_en || entry.example_es || "";
+  const exampleZh = entry.example_zh || "";
+  let html = `<div class="lookup-entry"><div class="lookup-head"><strong>${escapeHTML(headWord || "")}</strong>`;
+  if (reading) html += `<span class="lookup-reading">[${escapeHTML(reading)}]</span>`;
+  html += `</div>`;
+  if (entry.meaning_zh) html += `<div class="lookup-meaning">${escapeHTML(entry.meaning_zh)}</div>`;
+  if (exampleSrc) {
+    html += `<div class="lookup-example">${escapeHTML(exampleSrc)}`;
+    if (exampleZh) html += `<br>→ ${escapeHTML(exampleZh)}`;
+    html += `</div>`;
+  }
+  html += `</div>`;
+  return html;
+}
+
+function showLookupPopup(spanEl) {
+  const lang = spanEl.dataset.lang;
+  const key = decodeURIComponent(spanEl.dataset.w || "");
+  const entries = lookup.index[lang]?.get(key) || [];
+  if (entries.length === 0) { hideLookupPopup(); return; }
+  let popup = document.getElementById("lookup-popup");
+  if (!popup) {
+    popup = document.createElement("div");
+    popup.id = "lookup-popup";
+    document.body.appendChild(popup);
+  }
+  let inner = entries.map(e => lookupEntryHtml(e, lang)).join("");
+  popup.innerHTML = `<button class="lookup-close" aria-label="close">×</button>${inner}`;
+  popup.hidden = false;
+  // Position below the clicked span if room; else above
+  const rect = spanEl.getBoundingClientRect();
+  popup.style.visibility = "hidden";
+  popup.style.left = "0px";
+  popup.style.top = "0px";
+  const popupRect = popup.getBoundingClientRect();
+  const viewW = document.documentElement.clientWidth;
+  const viewH = document.documentElement.clientHeight;
+  let left = rect.left + window.scrollX;
+  if (left + popupRect.width > viewW + window.scrollX - 8) {
+    left = Math.max(8 + window.scrollX, viewW + window.scrollX - popupRect.width - 8);
+  }
+  let top = rect.bottom + window.scrollY + 4;
+  if (rect.bottom + popupRect.height + 8 > viewH) {
+    top = rect.top + window.scrollY - popupRect.height - 4;
+    if (top < window.scrollY + 8) top = window.scrollY + 8;
+  }
+  popup.style.left = left + "px";
+  popup.style.top = top + "px";
+  popup.style.visibility = "visible";
+  popup.querySelector(".lookup-close")?.addEventListener("click", hideLookupPopup);
+}
+
+function hideLookupPopup() {
+  const popup = document.getElementById("lookup-popup");
+  if (popup) popup.hidden = true;
 }
 
 function fmtWord(item) {
@@ -805,7 +944,7 @@ function fmtSceneKo(item, num, title) {
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `🎭 ${escapeHTML(item.ko)}</span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${escapeHTML(item.ko)}</div>`;
+    html += `<div class="headword">🎭 ${highlightSentence(item.ko, "ko")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -852,7 +991,7 @@ function fmtSceneToeic(item, num, title) {
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `🎭 ${escapeHTML(item.en)}</span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
+    html += `<div class="headword">🎭 ${highlightSentence(item.en, "en_toeic")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -899,7 +1038,7 @@ function fmtSceneGept(item, num, title) {
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `🎭 ${escapeHTML(item.en)}</span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${escapeHTML(item.en)}</div>`;
+    html += `<div class="headword">🎭 ${highlightSentence(item.en, "en_gept")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -946,7 +1085,7 @@ function fmtSceneDele(item, num, title) {
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `🎭 ${escapeHTML(item.es)}</span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${escapeHTML(item.es)}</div>`;
+    html += `<div class="headword">🎭 ${highlightSentence(item.es, "es")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -957,7 +1096,7 @@ function fmtScene(item, num, title) {
   const dir = state.dir === "zh" ? "zh" : "ja";
   let html = fmtStoryBanner(num, title);
   if (dir === "ja") {
-    html += `<div class="headword">🎭 ${escapeHTML(item.ja)}</div>`;
+    html += `<div class="headword">🎭 ${highlightSentence(item.ja, "ja")}</div>`;
     if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
@@ -1486,6 +1625,15 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.querySelectorAll(".action").forEach(b =>
     b.addEventListener("click", () => render(b.dataset.action))
   );
+
+  document.addEventListener("click", e => {
+    const w = e.target.closest(".lookup-word");
+    if (w) { e.stopPropagation(); showLookupPopup(w); return; }
+    if (!e.target.closest("#lookup-popup")) hideLookupPopup();
+  });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") hideLookupPopup();
+  });
 
   try {
     await loadData();
