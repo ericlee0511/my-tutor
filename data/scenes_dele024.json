@@ -1,0 +1,25 @@
+{
+  "title": "Comprando ropa en el centro",
+  "all": [
+    { "es": "Buenas tardes, ¿puedo ayudarle?", "zh": "午安，需要幫忙嗎？" },
+    { "es": "Sí, busco una camisa blanca.", "zh": "是的，我在找一件白襯衫。" },
+    { "es": "¿De qué talla?", "zh": "什麼尺寸？" },
+    { "es": "Talla mediana, por favor.", "zh": "中號，麻煩你。" },
+    { "es": "Tenemos estos modelos. ¿Le gusta alguno?", "zh": "我們有這幾款。你喜歡哪一件？" },
+    { "es": "Esta de manga larga es bonita.", "zh": "這件長袖的很好看。" },
+    { "es": "¿Puedo probármela?", "zh": "我可以試穿嗎？" },
+    { "es": "Sí, el probador está al fondo.", "zh": "可以，試衣間在最裡面。" },
+    { "es": "Me queda un poco grande.", "zh": "穿起來有點大。" },
+    { "es": "¿Quiere una talla más pequeña?", "zh": "你要小一號的嗎？" },
+    { "es": "Sí, por favor.", "zh": "好的，麻煩你。" },
+    { "es": "Aquí tiene. Pruébesela.", "zh": "在這裡。試試看。" },
+    { "es": "Esta me queda perfecta.", "zh": "這件剛剛好。" },
+    { "es": "Le sienta muy bien.", "zh": "你穿起來很好看。" },
+    { "es": "¿Cuánto cuesta?", "zh": "多少錢？" },
+    { "es": "Treinta y cinco euros.", "zh": "三十五歐元。" },
+    { "es": "¿Tienen descuento?", "zh": "有折扣嗎？" },
+    { "es": "Hoy tenemos un diez por ciento de descuento.", "zh": "今天有九折優惠。" },
+    { "es": "Muy bien, me la llevo.", "zh": "好，我買了。" },
+    { "es": "Gracias por su compra.", "zh": "謝謝您的光顧。" }
+  ]
+}

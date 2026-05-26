@@ -1,0 +1,25 @@
+{
+  "title": "Ensayo: la deriva del lenguaje en la era algorítmica",
+  "all": [
+    { "es": "Asistimos, sin advertirlo del todo, a una deriva silenciosa del lenguaje cuyo cauce ha sido subrepticiamente reconfigurado por la maquinaria algorítmica.", "zh": "我們在不甚自覺中，正目睹語言一場沉默的漂移，其河道早已被演算法機制悄然重新塑形。" },
+    { "es": "Aquello que parecía la materia más íntima del sujeto hablante ha devenido objeto cuantificable, predecible y, en consecuencia, modulable por intereses ajenos.", "zh": "曾被視為言說主體最私密之質料者，已淪為可量化、可預測，並因而可受外部利益調控之物。" },
+    { "es": "Conviene preguntarse si todavía hablamos como queremos, o si más bien hablamos como las arquitecturas computacionales nos han habituado a hablar.", "zh": "我們應自問，自己是否仍照所願而言說，抑或已是按計算架構所馴化之方式而言說。" },
+    { "es": "Los modelos estadísticos del lenguaje, entrenados sobre corpus inabarcables, devuelven una versión promediada del decir que tiende a borrar las asperezas estilísticas.", "zh": "以浩瀚語料訓練之語言統計模型，回饋給我們一種趨於平均的言說，往往磨平風格上的稜角。" },
+    { "es": "Lo idiosincrásico, lo regional, lo desviado: he ahí precisamente lo que un sistema diseñado para optimizar la probabilidad tiende a marginar como ruido.", "zh": "個人特異性、地域性、偏離常軌之言：正是這些，被以最佳化機率為目標所設計之系統視為雜訊而邊緣化。" },
+    { "es": "Si Walter Benjamin lamentaba la pérdida del aura en la obra de arte reproducible, cabría hoy lamentar la del verbo cuando se vuelve serializable.", "zh": "若班雅明曾哀嘆可複製藝術作品中靈光之逝，今日我們或可哀嘆語詞淪為可序列化產物時所失之靈光。" },
+    { "es": "La conversación humana, despojada de sus titubeos, sus silencios fértiles y sus desvíos retóricos, queda reducida a un intercambio funcional de tokens.", "zh": "人類對話一旦被剝除其支吾、其豐盈沉默與修辭迂迴，便淪為功能性的詞元交換。" },
+    { "es": "Tal empobrecimiento no es accidental: responde a la lógica económica que ha encontrado en la textualidad fluida un yacimiento por explotar.", "zh": "此種貧化絕非偶然，它呼應著一種經濟邏輯，後者在流暢文本性中發現了可供開採的礦藏。" },
+    { "es": "Toda palabra que tecleamos alimenta un dispositivo que aprende a anticiparnos, configurando paulatinamente las condiciones en que nos será dado pensar.", "zh": "我們所敲下的每一字，皆餵養一架學習預測我們之機器，逐步形塑著我們得以思考的條件。" },
+    { "es": "El feedback se torna circular: escribimos sugeridos por modelos que se reentrenan con nuestra escritura ya mediada por aquellas sugerencias.", "zh": "回饋環路於焉閉合：我們依模型所建議而書寫，模型則以早已受其建議所中介的我們之書寫重新訓練。" },
+    { "es": "Quienes celebran esta deriva como mero progreso comunicativo desatienden la dimensión propiamente política de toda economía lingüística.", "zh": "將此種漂移單純頌揚為溝通進步者，忽略了任何語言經濟所固有的政治面向。" },
+    { "es": "Pues hablar nunca fue solo transmitir información: hablar es siempre, también, instituir mundos y disputar el sentido de lo común.", "zh": "因為言說從不僅是傳遞資訊，言說同時亦是建構世界、爭辯共通意義的行動。" },
+    { "es": "Cuando la sintaxis del bien hablar la decide una empresa, también se decide, de un modo opaco pero efectivo, qué pensamientos resultarán pensables.", "zh": "當「善言」之語法由某企業所決定時，亦以隱晦但有效的方式，決定了何種思想將成為可思之物。" },
+    { "es": "Frente a este horizonte, no basta con denunciar; urge cultivar disciplinas de resistencia estilística, geografías expresivas que escapen a la homogeneización.", "zh": "面對此一境況，僅止於指控有所不足，當務之急是培育風格抵抗的修養，培育能逃脫均質化的表達地理學。" },
+    { "es": "La poesía, la jerga, el dialecto, el habla que se permite la opacidad: he aquí refugios que el algoritmo aún no ha sabido domesticar del todo.", "zh": "詩、行話、方言、容許不透明的言說：正是演算法尚未能徹底馴化之庇護所。" },
+    { "es": "Sostener tales refugios exige una pedagogía del decir difícil, que se atreva a privilegiar el matiz sobre la eficiencia.", "zh": "維護此類庇護所需一種困難之言說教學法，敢於將細微優先於效率。" },
+    { "es": "Hace falta, igualmente, una jurisprudencia capaz de reconocer derechos lingüísticos colectivos frente a la captura corporativa del lenguaje.", "zh": "同樣亟需的，是能於企業對語言之擄獲面前承認集體語言權的法理學。" },
+    { "es": "Nada de esto resultará viable si no se asume, además, una crítica de fondo a la métrica con que medimos lo que dignifica una expresión.", "zh": "若不同時對我們衡量何謂尊嚴表達之量度進行根本批判，上述一切皆難以實現。" },
+    { "es": "Pues mientras sigamos juzgando la lengua por su rendimiento, no seremos capaces de defenderla en aquello que la hace propiamente humana.", "zh": "因為只要我們持續以效能評斷語言，便無法捍衛使其真正具人性之所在。" },
+    { "es": "Quizá la tarea más urgente consista, paradójicamente, en aprender a callar de modos que ninguna máquina pueda completar por nosotros.", "zh": "或許最迫切的工作弔詭地在於，學會以任何機器無法替我們完成之方式沉默。" }
+  ]
+}

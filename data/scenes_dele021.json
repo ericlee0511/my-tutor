@@ -1,0 +1,25 @@
+{
+  "title": "En el restaurante",
+  "all": [
+    { "es": "Buenas noches, ¿tienen una mesa para dos personas?", "zh": "晚安，請問有兩個人的桌子嗎？" },
+    { "es": "Sí, claro. Síganme, por favor.", "zh": "有的，當然。請跟我來。" },
+    { "es": "¿Esta mesa cerca de la ventana está bien?", "zh": "靠窗的這張桌子可以嗎？" },
+    { "es": "Perfecto, muchas gracias.", "zh": "很好，非常謝謝。" },
+    { "es": "Aquí tienen la carta. ¿Quieren beber algo?", "zh": "這是菜單。要喝點什麼嗎？" },
+    { "es": "Yo quiero un vaso de agua, por favor.", "zh": "我想要一杯水，麻煩你。" },
+    { "es": "Para mí, una copa de vino tinto.", "zh": "我要一杯紅酒。" },
+    { "es": "¿Qué plato me recomienda?", "zh": "你推薦哪一道菜？" },
+    { "es": "La paella de mariscos es nuestra especialidad.", "zh": "海鮮燉飯是我們的招牌菜。" },
+    { "es": "Muy bien, voy a probarla.", "zh": "好的，我要試試看。" },
+    { "es": "Yo quiero una ensalada y pollo asado.", "zh": "我要一份沙拉和烤雞。" },
+    { "es": "¿Algo más para empezar?", "zh": "前菜還要點別的嗎？" },
+    { "es": "No, gracias. Eso es todo.", "zh": "不用，謝謝。這樣就好了。" },
+    { "es": "La comida está deliciosa.", "zh": "這頓飯真好吃。" },
+    { "es": "Me alegro de que les guste.", "zh": "很高興你們喜歡。" },
+    { "es": "¿Nos puede traer la cuenta, por favor?", "zh": "可以幫我們結帳嗎？" },
+    { "es": "En seguida, son cuarenta y cinco euros.", "zh": "馬上來，總共四十五歐元。" },
+    { "es": "¿Aceptan tarjeta de crédito?", "zh": "你們收信用卡嗎？" },
+    { "es": "Sí, por supuesto.", "zh": "是的，當然可以。" },
+    { "es": "Muchas gracias, hasta luego.", "zh": "非常感謝，再見。" }
+  ]
+}

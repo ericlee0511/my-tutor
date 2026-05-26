@@ -1,0 +1,25 @@
+{
+  "title": "Reservando una mesa para cenar",
+  "all": [
+    { "es": "Restaurante La Cazuela, buenas tardes.", "zh": "拉卡蘇拉餐廳，午安。" },
+    { "es": "Hola, quería reservar una mesa para este sábado.", "zh": "你好，我想預訂這個星期六的位子。" },
+    { "es": "Con mucho gusto. ¿Para cuántas personas?", "zh": "非常樂意。請問幾位？" },
+    { "es": "Seremos seis adultos y dos niños.", "zh": "六個大人，兩個小孩。" },
+    { "es": "¿A qué hora les gustaría cenar?", "zh": "你們希望幾點用餐？" },
+    { "es": "Sobre las nueve de la noche, si es posible.", "zh": "如果可以的話，大概晚上九點。" },
+    { "es": "Déjeme revisar la agenda un momento.", "zh": "讓我查一下訂位表。" },
+    { "es": "A esa hora tenemos la terraza disponible.", "zh": "那個時間我們的露台還有位子。" },
+    { "es": "¿La terraza tiene calefacción?", "zh": "露台有暖氣嗎？" },
+    { "es": "Sí, no se preocupe, estarán muy cómodos.", "zh": "有，請別擔心，會很舒適的。" },
+    { "es": "El sábado pasado vinimos y nos gustó mucho la comida.", "zh": "上個星期六我們來過，非常喜歡你們的菜。" },
+    { "es": "Me alegra escuchar eso, muchas gracias.", "zh": "聽到這個我很開心，非常感謝。" },
+    { "es": "¿Tienen menú especial para niños?", "zh": "你們有兒童特餐嗎？" },
+    { "es": "Sí, tenemos varias opciones para los más pequeños.", "zh": "有的，我們有幾種為小朋友準備的選擇。" },
+    { "es": "Una de las niñas es alérgica a los frutos secos.", "zh": "其中一個小女孩對堅果過敏。" },
+    { "es": "Avisaré al chef para que tenga cuidado.", "zh": "我會通知主廚特別小心。" },
+    { "es": "Muy amable, muchas gracias.", "zh": "你真親切，非常感謝。" },
+    { "es": "¿Me puede dar su nombre y un teléfono de contacto?", "zh": "可以給我您的姓名和聯絡電話嗎？" },
+    { "es": "Soy Marta Gómez, mi número es seis cinco cuatro, dos uno tres, ocho siete seis.", "zh": "我是瑪塔·戈梅斯，電話是 654-213-876。" },
+    { "es": "Perfecto, su reserva está confirmada. ¡Hasta el sábado!", "zh": "好的，您的訂位已確認。星期六見！" }
+  ]
+}

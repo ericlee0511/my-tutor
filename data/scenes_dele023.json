@@ -1,0 +1,25 @@
+{
+  "title": "Pidiendo direcciones por la calle",
+  "all": [
+    { "es": "Disculpe, ¿puede ayudarme?", "zh": "不好意思，可以幫我一下嗎？" },
+    { "es": "Claro, dígame.", "zh": "當然，請說。" },
+    { "es": "¿Sabe dónde está la Plaza Mayor?", "zh": "你知道主廣場在哪裡嗎？" },
+    { "es": "Sí, no está muy lejos de aquí.", "zh": "知道，離這裡不遠。" },
+    { "es": "¿Puedo ir caminando?", "zh": "我可以走路過去嗎？" },
+    { "es": "Sí, son unos diez minutos a pie.", "zh": "可以，走路大約十分鐘。" },
+    { "es": "¿Cómo llego allí?", "zh": "我要怎麼到那裡？" },
+    { "es": "Siga todo recto por esta calle.", "zh": "沿著這條街一直往前走。" },
+    { "es": "¿Y después?", "zh": "然後呢？" },
+    { "es": "En el segundo semáforo, gire a la derecha.", "zh": "在第二個紅綠燈右轉。" },
+    { "es": "¿A la derecha?", "zh": "右轉嗎？" },
+    { "es": "Sí, a la derecha. Después camine dos calles más.", "zh": "對，右轉。再走兩條街。" },
+    { "es": "¿La plaza está a la izquierda o a la derecha?", "zh": "廣場在左邊還是右邊？" },
+    { "es": "Está a la izquierda, frente a una iglesia grande.", "zh": "在左邊，正對著一座大教堂。" },
+    { "es": "¿Hay un banco cerca de la plaza?", "zh": "廣場附近有銀行嗎？" },
+    { "es": "Sí, hay uno en la esquina.", "zh": "有，街角有一家。" },
+    { "es": "Perfecto. ¿Y un cajero automático?", "zh": "太好了。那有自動提款機嗎？" },
+    { "es": "También, justo al lado del banco.", "zh": "也有，就在銀行旁邊。" },
+    { "es": "Muchas gracias por su ayuda.", "zh": "非常感謝你的幫忙。" },
+    { "es": "De nada, que tenga un buen día.", "zh": "不客氣，祝你有美好的一天。" }
+  ]
+}

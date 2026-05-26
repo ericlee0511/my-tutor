@@ -1,0 +1,25 @@
+{
+  "title": "Una llamada al médico",
+  "all": [
+    { "es": "Buenos días, Centro Médico San Rafael, ¿en qué puedo ayudarle?", "zh": "早安，這裡是聖拉斐爾醫療中心，需要什麼服務？" },
+    { "es": "Hola, quería pedir una cita con el doctor Ramírez.", "zh": "你好，我想預約拉米雷斯醫生的看診。" },
+    { "es": "¿Es la primera vez que viene a la clínica?", "zh": "你是第一次來本診所嗎？" },
+    { "es": "No, ya he venido varias veces el año pasado.", "zh": "不是，去年我已經來過好幾次了。" },
+    { "es": "Perfecto. ¿Me puede decir su nombre completo?", "zh": "很好。可以告訴我您的全名嗎？" },
+    { "es": "Me llamo Lucía Fernández Torres.", "zh": "我叫露西亞·費南德斯·托雷斯。" },
+    { "es": "¿Qué síntomas tiene?", "zh": "您有什麼症狀？" },
+    { "es": "Llevo una semana con dolor de espalda y no he podido dormir bien.", "zh": "我背痛已經一個禮拜了，而且都睡不好。" },
+    { "es": "¿Ha tomado algún medicamento?", "zh": "您有吃什麼藥嗎？" },
+    { "es": "Solo unos analgésicos, pero no me han hecho mucho efecto.", "zh": "只吃了一些止痛藥，但效果不太好。" },
+    { "es": "Entiendo. El doctor tiene un hueco el jueves por la tarde.", "zh": "我了解。醫生星期四下午有空檔。" },
+    { "es": "¿A qué hora exactamente?", "zh": "確切是幾點？" },
+    { "es": "Podría ser a las cinco y media, si le viene bien.", "zh": "如果方便的話，可以是五點半。" },
+    { "es": "Sí, esa hora me va perfecta.", "zh": "好的，那個時間對我剛好。" },
+    { "es": "¿Sigue viviendo en la misma dirección?", "zh": "您還住在同一個地址嗎？" },
+    { "es": "Sí, pero he cambiado de número de teléfono.", "zh": "是的，但我換了電話號碼。" },
+    { "es": "Dígame el nuevo, por favor.", "zh": "請告訴我新的號碼。" },
+    { "es": "Es el seis siete ocho, cuatro tres dos, nueve uno cero.", "zh": "是 678-432-910。" },
+    { "es": "Perfecto, queda anotado. Le esperamos el jueves.", "zh": "好的，已記下。星期四等您光臨。" },
+    { "es": "Muchas gracias, hasta el jueves.", "zh": "非常感謝，星期四見。" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "En la recepción del hotel",
+  "all": [
+    { "es": "Buenas tardes, bienvenido al Hotel Sol.", "zh": "午安，歡迎來到太陽飯店。" },
+    { "es": "Buenas tardes, tengo una reserva.", "zh": "午安，我有訂房。" },
+    { "es": "¿A qué nombre, por favor?", "zh": "請問訂房人姓名是？" },
+    { "es": "A nombre de Carlos Méndez.", "zh": "卡洛斯·門德斯。" },
+    { "es": "Sí, una habitación doble por tres noches.", "zh": "是的，雙人房，三晚。" },
+    { "es": "Exacto.", "zh": "沒錯。" },
+    { "es": "¿Me deja su pasaporte, por favor?", "zh": "可以給我您的護照嗎？" },
+    { "es": "Aquí tiene.", "zh": "在這裡。" },
+    { "es": "¿La habitación tiene vista al mar?", "zh": "房間有海景嗎？" },
+    { "es": "Sí, una vista preciosa.", "zh": "有，景色很美。" },
+    { "es": "¿A qué hora es el desayuno?", "zh": "早餐是幾點？" },
+    { "es": "De siete a diez en el restaurante del primer piso.", "zh": "從七點到十點，在一樓的餐廳。" },
+    { "es": "¿Hay wifi en la habitación?", "zh": "房間裡有 wifi 嗎？" },
+    { "es": "Sí, es gratis. La contraseña está en esta tarjeta.", "zh": "有，免費的。密碼在這張卡片上。" },
+    { "es": "Su habitación es la doscientos cinco.", "zh": "您的房間是 205。" },
+    { "es": "¿En qué piso está?", "zh": "在哪一層樓？" },
+    { "es": "En el segundo. El ascensor está a la derecha.", "zh": "在二樓。電梯在右邊。" },
+    { "es": "¿A qué hora hay que dejar la habitación?", "zh": "幾點要退房？" },
+    { "es": "Antes de las doce del mediodía.", "zh": "中午十二點以前。" },
+    { "es": "Muchas gracias, disfrute su estancia.", "zh": "非常感謝，祝您住宿愉快。" }
+  ]
+}

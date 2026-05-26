@@ -1,0 +1,25 @@
+{
+  "title": "Buscando un piso de alquiler",
+  "all": [
+    { "es": "Buenas tardes, llamo por el anuncio del piso en alquiler.", "zh": "午安，我是看到出租公寓的廣告打來的。" },
+    { "es": "Hola, sí, el piso aún está disponible.", "zh": "你好，是的，房子還沒租出去。" },
+    { "es": "¿Me puede dar más información, por favor?", "zh": "可以給我多一些資訊嗎？" },
+    { "es": "Claro, es un piso de dos habitaciones en el centro.", "zh": "當然，這是市中心的兩房公寓。" },
+    { "es": "¿En qué piso está?", "zh": "在幾樓？" },
+    { "es": "En el tercero, con ascensor.", "zh": "三樓，有電梯。" },
+    { "es": "¿Está amueblado?", "zh": "有附傢俱嗎？" },
+    { "es": "Sí, está totalmente amueblado y tiene electrodomésticos nuevos.", "zh": "有，傢俱齊全，家電都是新的。" },
+    { "es": "¿Cuánto cuesta el alquiler al mes?", "zh": "月租金多少？" },
+    { "es": "Son ochocientos cincuenta euros, gastos incluidos.", "zh": "八百五十歐元，包含管理費。" },
+    { "es": "¿La fianza son dos meses?", "zh": "押金是兩個月嗎？" },
+    { "es": "Sí, hay que pagar dos meses por adelantado.", "zh": "是的，需要先付兩個月。" },
+    { "es": "¿Se admiten animales?", "zh": "可以養寵物嗎？" },
+    { "es": "Tengo un gato pequeño, espero que no sea un problema.", "zh": "我有一隻小貓，希望不是問題。" },
+    { "es": "Los gatos sí se permiten, pero los perros grandes no.", "zh": "貓可以，但大型犬不行。" },
+    { "es": "¿Cuándo podría ir a verlo?", "zh": "我什麼時候可以去看房？" },
+    { "es": "Si quiere, podemos quedar mañana sobre las siete.", "zh": "如果你方便，我們可以約明天大約七點。" },
+    { "es": "Perfecto. ¿Cuál es la dirección exacta?", "zh": "好極了。確切的地址是？" },
+    { "es": "Calle del Olivo, número veinte, portal B.", "zh": "橄欖樹街二十號，B 棟。" },
+    { "es": "Muy bien, nos vemos mañana. Gracias por su tiempo.", "zh": "好的，我們明天見。感謝您撥空。" }
+  ]
+}
