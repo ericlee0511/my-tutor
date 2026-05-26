@@ -219,6 +219,7 @@ const STORIES = [
   { key: "jap054", title: "探偵冷泉深見シリーズ《3》恨み島殺人事件" },
   { key: "jap055", title: "探偵冷泉深見シリーズ《4》九九尾村殺人事件" },
   { key: "jap056", title: "浦和探偵 ジン" },
+  { key: "jap057", title: "理科室のスミレ ～七星先生の最後の授業～" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
