@@ -570,6 +570,7 @@ let state = {
   level: "n5",
   lang: "en",
   dir: "ja",
+  lookup: true,
   geptSubLevel: "初級",
   toeicSubLevel: "基礎生活級",
   story: null,
@@ -1087,6 +1088,7 @@ function displayEntry(entry) {
   }
   document.getElementById("prev-btn")?.addEventListener("click", prevTimeline);
   document.getElementById("next-btn")?.addEventListener("click", nextTimeline);
+  updateLookupBtn();
 }
 
 function prevTimeline() {
@@ -1397,6 +1399,32 @@ function cycleDir() {
   state.dir = state.dir === "zh" ? "ja" : "zh";
   saveState();
   document.getElementById("dir-btn").textContent = dirLabel();
+  updateLookupBtn();
+  const entry = state.timeline[state.timelinePos];
+  if (entry) displayEntry(entry);
+}
+
+function lookupAllowed() {
+  if (state.dir === "zh") return false;
+  const entry = state.timeline[state.timelinePos];
+  if (!entry || entry.kind !== "scene") return false;
+  return true;
+}
+
+function updateLookupBtn() {
+  const btn = document.getElementById("lookup-btn");
+  if (!btn) return;
+  const allowed = lookupAllowed();
+  btn.classList.toggle("disabled", !allowed);
+  btn.classList.toggle("active", allowed && state.lookup);
+  btn.disabled = !allowed;
+}
+
+function toggleLookup() {
+  if (!lookupAllowed()) return;
+  state.lookup = !state.lookup;
+  saveState();
+  updateLookupBtn();
   const entry = state.timeline[state.timelinePos];
   if (entry) displayEntry(entry);
 }
@@ -1416,6 +1444,8 @@ window.addEventListener("DOMContentLoaded", async () => {
   });
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
+  document.getElementById("lookup-btn").addEventListener("click", toggleLookup);
+  updateLookupBtn();
   const geptSubBtn = document.getElementById("gept-sub-btn");
   if (geptSubBtn) geptSubBtn.addEventListener("click", openGeptSubPicker);
   const geptSubPicker = document.getElementById("gept-sub-picker");
