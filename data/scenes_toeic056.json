@@ -1,50 +1,185 @@
 {
   "title": "Quarterly Sales Report",
   "all": [
-    { "en": "This report summarizes our sales performance for the third quarter.", "zh": "本報告總結我們第三季的業務表現。" },
-    { "en": "Total revenue reached eight point two million dollars this quarter.", "zh": "本季總營收達到八百二十萬美元。" },
-    { "en": "That figure represents a twelve percent increase over last year.", "zh": "該數字較去年同期成長百分之十二。" },
-    { "en": "The North American region delivered the strongest growth across all markets.", "zh": "北美地區在所有市場中交出最強勁的成長。" },
-    { "en": "Enterprise software accounted for sixty percent of total bookings.", "zh": "企業軟體佔總簽約金額的百分之六十。" },
-    { "en": "Our renewal rate climbed to ninety one percent this period.", "zh": "本期續約率提升至百分之九十一。" },
-    { "en": "Three new strategic accounts were added during the quarter.", "zh": "本季新增三個策略級客戶。" },
-    { "en": "Average deal size grew from forty five to fifty two thousand.", "zh": "平均成交金額從四萬五千成長至五萬二千美元。" },
-    { "en": "The sales cycle shortened by roughly nine days on average.", "zh": "業務週期平均縮短約九天。" },
-    { "en": "Marketing qualified leads contributed forty percent of closed deals.", "zh": "行銷合格名單貢獻了百分之四十的成交案。" },
-    { "en": "However, the European region missed its quota by eight percent.", "zh": "然而歐洲地區未達標百分之八。" },
-    { "en": "Currency fluctuations had a noticeable impact on reported revenue.", "zh": "匯率波動對申報營收造成明顯影響。" },
-    { "en": "We lost two large opportunities to a more aggressive competitor.", "zh": "我們將兩個大型機會輸給了更積極的競爭對手。" },
-    { "en": "The product team is reviewing feature gaps highlighted by lost deals.", "zh": "產品團隊正在檢視流失案件凸顯的功能缺口。" },
-    { "en": "Channel partners delivered twenty two percent of new logo revenue.", "zh": "通路夥伴貢獻了百分之二十二的新客戶營收。" },
-    { "en": "Direct sales remained the primary engine of enterprise expansion.", "zh": "直銷仍是企業擴張的主要動能。" },
-    { "en": "Customer satisfaction scores held steady at four point six out of five.", "zh": "客戶滿意度穩定維持在五分之四點六。" },
-    { "en": "The pipeline coverage for next quarter currently sits at three point one times.", "zh": "下一季的 pipeline 覆蓋率目前為三點一倍。" },
-    { "en": "We expect the upcoming product launch to accelerate fourth quarter bookings.", "zh": "我們預期即將推出的產品將加速第四季簽約。" },
-    { "en": "Hiring plans include five additional account executives in key territories.", "zh": "招募計畫包含於關鍵區域增聘五名業務代表。" },
-    { "en": "Training investment will focus on solution selling and discovery skills.", "zh": "訓練投資將聚焦於解決方案銷售與需求探索技巧。" },
-    { "en": "Risks include a possible economic slowdown affecting enterprise budgets.", "zh": "風險包含可能的經濟放緩衝擊企業預算。" },
-    { "en": "Overall, the quarter exceeded expectations despite regional headwinds.", "zh": "整體而言，本季在區域逆風下仍超越預期。" },
-    { "en": "We remain confident in meeting our annual revenue target.", "zh": "我們仍有信心達成年度營收目標。" },
-    { "en": "A detailed regional breakdown is attached as an appendix.", "zh": "詳細的區域分析附於附錄中。" },
-    { "en": "Looking ahead, we have planned a targeted account-based marketing campaign across key verticals.", "zh": "展望未來，我們已規劃針對關鍵垂直市場的客戶導向行銷活動。" },
-    { "en": "The campaign will focus on financial services, healthcare, and advanced manufacturing.", "zh": "本活動將聚焦於金融服務、醫療保健及先進製造業。" },
-    { "en": "Sales operations will roll out a refreshed forecasting cadence beginning next week.", "zh": "業務營運將於下週起推出更新後的預測節奏。" },
-    { "en": "Account executives are expected to update opportunity stages within 48 hours of activity.", "zh": "業務代表須在活動後四十八小時內更新商機階段。" },
-    { "en": "A new partner enablement program will launch in October to expand channel reach.", "zh": "新的夥伴賦能計畫將於十月啟動以擴大通路觸及。" },
-    { "en": "Customer references and case studies will be a priority for the fourth quarter.", "zh": "客戶推薦及案例研究將為第四季的優先工作。" },
-    { "en": "We have also approved additional investment in competitive intelligence research.", "zh": "我們亦核准追加投資於競爭情報研究。" },
-    { "en": "Win-loss analysis will be conducted on every deal above 100,000 dollars going forward.", "zh": "未來每件十萬美元以上的交易將進行勝敗分析。" },
-    { "en": "I would like to thank the entire sales organization for an outstanding quarterly effort.", "zh": "我要感謝整個業務組織在本季所付出的卓越努力。" },
-    { "en": "Together we will close out the year strong and lay the foundation for next year.", "zh": "讓我們齊心完美收官本年度，並為來年奠定堅實基礎。" },
-    { "en": "Top performers will be recognized at the global sales kickoff in January.", "zh": "頂尖業績表現者將於一月份全球業務啟動大會獲表揚。" },
-    { "en": "President club qualifications have been refreshed to reflect a balanced scorecard approach.", "zh": "總裁俱樂部資格已重新調整以反映平衡計分卡方式。" },
-    { "en": "Customer success will collaborate closely with sales on at-risk renewal accounts.", "zh": "客戶成功部門將與業務密切合作處理續約風險客戶。" },
-    { "en": "A streamlined deal desk process is expected to reduce approval cycle time by 40 percent.", "zh": "精簡後的交易委員會流程預期可將核准週期縮短百分之四十。" },
-    { "en": "Quarterly territory reviews will continue to ensure rep capacity is optimally deployed.", "zh": "季度區域檢視將持續進行以確保業務人力最佳化配置。" },
-    { "en": "Marketing investment in late-stage account based programs will increase by 15 percent.", "zh": "對後期客戶導向行銷計畫的投資將增加百分之十五。" },
-    { "en": "Our partner ecosystem is on track to contribute 28 percent of bookings next quarter.", "zh": "我們的夥伴生態系預計於下季貢獻百分之二十八的簽約量。" },
-    { "en": "Investment in sales analytics tooling will be prioritized in the upcoming budget cycle.", "zh": "業務分析工具的投資將於下次預算週期被列為優先項目。" },
-    { "en": "An updated commission structure will be communicated to the field by month end.", "zh": "更新後的佣金架構將於月底前傳達給第一線業務。" },
-    { "en": "Thank you to every customer, partner, and team member who made this quarter possible.", "zh": "感謝每位讓本季成果得以實現的客戶、夥伴與團隊成員。" }
+    {
+      "en": "This report summarizes our sales performance for the third quarter.",
+      "zh": "本報告總結我們第三季的業務表現。"
+    },
+    {
+      "en": "Total revenue reached eight point two million dollars this quarter.",
+      "zh": "本季總營收達到八百二十萬美元。"
+    },
+    {
+      "en": "That figure represents a twelve percent increase over last year.",
+      "zh": "該數字較去年同期成長百分之十二。"
+    },
+    {
+      "en": "The North American region delivered the strongest growth across all markets.",
+      "zh": "北美地區在所有市場中交出最強勁的成長。"
+    },
+    {
+      "en": "Enterprise software accounted for sixty percent of total bookings.",
+      "zh": "企業軟體佔總簽約金額的百分之六十。"
+    },
+    {
+      "en": "Our renewal rate climbed to ninety one percent this period.",
+      "zh": "本期續約率提升至百分之九十一。"
+    },
+    {
+      "en": "Three new strategic accounts were added during the quarter.",
+      "zh": "本季新增三個策略級客戶。"
+    },
+    {
+      "en": "Average deal size grew from forty five to fifty two thousand.",
+      "zh": "平均成交金額從四萬五千成長至五萬二千美元。"
+    },
+    {
+      "en": "The sales cycle shortened by roughly nine days on average.",
+      "zh": "業務週期平均縮短約九天。"
+    },
+    {
+      "en": "Marketing qualified leads contributed forty percent of closed deals.",
+      "zh": "行銷合格名單貢獻了百分之四十的成交案。"
+    },
+    {
+      "en": "However, the European region missed its quota by eight percent.",
+      "zh": "然而歐洲地區未達標百分之八。"
+    },
+    {
+      "en": "Currency fluctuations had a noticeable impact on reported revenue.",
+      "zh": "匯率波動對申報營收造成明顯影響。"
+    },
+    {
+      "en": "We lost two large opportunities to a more aggressive competitor.",
+      "zh": "我們將兩個大型機會輸給了更積極的競爭對手。"
+    },
+    {
+      "en": "The product team is reviewing feature gaps highlighted by lost deals.",
+      "zh": "產品團隊正在檢視流失案件凸顯的功能缺口。"
+    },
+    {
+      "en": "Channel partners delivered twenty two percent of new logo revenue.",
+      "zh": "通路夥伴貢獻了百分之二十二的新客戶營收。"
+    },
+    {
+      "en": "Direct sales remained the primary engine of enterprise expansion.",
+      "zh": "直銷仍是企業擴張的主要動能。"
+    },
+    {
+      "en": "Customer satisfaction scores held steady at four point six out of five.",
+      "zh": "客戶滿意度穩定維持在五分之四點六。"
+    },
+    {
+      "en": "The pipeline coverage for next quarter currently sits at three point one times.",
+      "zh": "下一季的 pipeline 覆蓋率目前為三點一倍。"
+    },
+    {
+      "en": "We expect the upcoming product launch to accelerate fourth quarter bookings.",
+      "zh": "我們預期即將推出的產品將加速第四季簽約。"
+    },
+    {
+      "en": "Hiring plans include five additional account executives in key territories.",
+      "zh": "招募計畫包含於關鍵區域增聘五名業務代表。"
+    },
+    {
+      "en": "Training investment will focus on solution selling and discovery skills.",
+      "zh": "訓練投資將聚焦於解決方案銷售與需求探索技巧。"
+    },
+    {
+      "en": "Risks include a possible economic slowdown affecting enterprise budgets.",
+      "zh": "風險包含可能的經濟放緩衝擊企業預算。"
+    },
+    {
+      "en": "Overall, the quarter exceeded expectations despite regional headwinds.",
+      "zh": "整體而言，本季在區域逆風下仍超越預期。"
+    },
+    {
+      "en": "We remain confident in meeting our annual revenue target.",
+      "zh": "我們仍有信心達成年度營收目標。"
+    },
+    {
+      "en": "A detailed regional breakdown is attached as an appendix.",
+      "zh": "詳細的區域分析附於附錄中。"
+    },
+    {
+      "en": "Looking ahead, we have planned a targeted account-based marketing campaign across key verticals.",
+      "zh": "展望未來，我們已規劃針對關鍵垂直市場的客戶導向行銷活動。"
+    },
+    {
+      "en": "The campaign will focus on financial services, healthcare, and advanced manufacturing.",
+      "zh": "本活動將聚焦於金融服務、醫療保健及先進製造業。"
+    },
+    {
+      "en": "Sales operations will roll out a refreshed forecasting cadence beginning next week.",
+      "zh": "業務營運將於下週起推出更新後的預測節奏。"
+    },
+    {
+      "en": "Account executives are expected to update opportunity stages within 48 hours of activity.",
+      "zh": "業務代表須在活動後四十八小時內更新商機階段。"
+    },
+    {
+      "en": "A new partner enablement program will launch in October to expand channel reach.",
+      "zh": "新的夥伴賦能計畫將於十月啟動以擴大通路觸及。"
+    },
+    {
+      "en": "Customer references and case studies will be a priority for the fourth quarter.",
+      "zh": "客戶推薦及案例研究將為第四季的優先工作。"
+    },
+    {
+      "en": "We have also approved additional investment in competitive intelligence research.",
+      "zh": "我們亦核准追加投資於競爭情報研究。"
+    },
+    {
+      "en": "Win-loss analysis will be conducted on every deal above 100,000 dollars going forward.",
+      "zh": "未來每件十萬美元以上的交易將進行勝敗分析。"
+    },
+    {
+      "en": "I would like to thank the entire sales organization for an outstanding quarterly effort.",
+      "zh": "我要感謝整個業務組織在本季所付出的卓越努力。"
+    },
+    {
+      "en": "Together we will close out the year strong and lay the foundation for next year.",
+      "zh": "讓我們齊心完美收官本年度，並為來年奠定堅實基礎。"
+    },
+    {
+      "en": "Top performers will be recognized at the global sales kickoff in January.",
+      "zh": "頂尖業績表現者將於一月份全球業務啟動大會獲表揚。"
+    },
+    {
+      "en": "President club qualifications have been refreshed to reflect a balanced scorecard approach.",
+      "zh": "總裁俱樂部資格已重新調整以反映平衡計分卡方式。"
+    },
+    {
+      "en": "Customer success will collaborate closely with sales on at-risk renewal accounts.",
+      "zh": "客戶成功部門將與業務密切合作處理續約風險客戶。"
+    },
+    {
+      "en": "A streamlined deal desk process is expected to reduce approval cycle time by 40 percent.",
+      "zh": "精簡後的交易委員會流程預期可將核准週期縮短百分之四十。"
+    },
+    {
+      "en": "Quarterly territory reviews will continue to ensure rep capacity is optimally deployed.",
+      "zh": "季度區域檢視將持續進行以確保業務人力最佳化配置。"
+    },
+    {
+      "en": "Marketing investment in late-stage account based programs will increase by 15 percent.",
+      "zh": "對後期客戶導向行銷計畫的投資將增加百分之十五。"
+    },
+    {
+      "en": "Our partner ecosystem is on track to contribute 28 percent of bookings next quarter.",
+      "zh": "我們的夥伴生態系預計於下季貢獻百分之二十八的簽約量。"
+    },
+    {
+      "en": "Investment in sales analytics tooling will be prioritized in the upcoming budget cycle.",
+      "zh": "業務分析工具的投資將於下次預算週期被列為優先項目。"
+    },
+    {
+      "en": "An updated commission structure will be communicated to the field by month end.",
+      "zh": "更新後的佣金架構將於月底前傳達給第一線業務。"
+    },
+    {
+      "en": "Thank you to every customer, partner, and team member who made this quarter possible.",
+      "zh": "感謝每位讓本季成果得以實現的客戶、夥伴與團隊成員。"
+    }
   ]
 }

@@ -1,47 +1,173 @@
 {
   "title": "Content Calendar Planning Meeting",
   "all": [
-    { "en": "Welcome everyone to the quarterly content calendar planning meeting today.", "zh": "歡迎大家參加今日的季度內容行事曆規劃會議。" },
-    { "en": "Our goal is to align on themes, channels, and publishing cadence for next quarter.", "zh": "目標是就下一季的主題、通路與發布頻率達成共識。" },
-    { "en": "We will begin with a quick review of performance from the previous quarter.", "zh": "首先快速檢視上一季的成效表現。" },
-    { "en": "Blog traffic grew by twenty two percent compared with the same period last year.", "zh": "部落格流量較去年同期成長百分之二十二。" },
-    { "en": "Video content delivered the strongest engagement rates across social platforms.", "zh": "影音內容在社群平台上創下最強的互動率表現。" },
-    { "en": "Email open rates remained stable while click through rates declined slightly.", "zh": "電子報開信率維持穩定，點擊率則略為下降。" },
-    { "en": "Based on these signals, we plan to invest more in short form video next quarter.", "zh": "依據這些訊號，下一季我們計畫加強短影音的投入。" },
-    { "en": "Three core themes are proposed to guide editorial planning during this period.", "zh": "建議以三大核心主題引導此期間的編輯規劃。" },
-    { "en": "The first theme highlights customer success stories across diverse industries.", "zh": "第一個主題聚焦於不同產業的客戶成功故事。" },
-    { "en": "The second theme explores practical guides for emerging workplace technologies.", "zh": "第二個主題探討新興職場科技的實用指南。" },
-    { "en": "The third theme addresses sustainability practices that resonate with our audience.", "zh": "第三個主題探討能引起受眾共鳴的永續實務作法。" },
-    { "en": "Each theme will receive a dedicated landing hub and a measurable channel mix.", "zh": "每個主題將擁有專屬主題頁與可衡量的通路組合。" },
-    { "en": "Publishing cadence will include two long articles and three short posts each week.", "zh": "發布頻率將包含每週兩篇長文與三則短文。" },
-    { "en": "We will also distribute one podcast episode and one newsletter every Friday.", "zh": "另將於每週五發布一集 podcast 與一份電子報。" },
-    { "en": "Social posts will follow a fixed rhythm with platform specific creative formats.", "zh": "社群貼文將依固定節奏，採用各平台專屬的創意格式。" },
-    { "en": "Creative briefs will be circulated two weeks before each publishing window opens.", "zh": "創意需求書將於每個發布檔期開放前兩週發送。" },
-    { "en": "Subject matter experts should confirm availability for interviews by Friday this week.", "zh": "主題專家請於本週五前確認受訪時段。" },
-    { "en": "Translation needs into Japanese and Spanish should be flagged early in the cycle.", "zh": "如需日語與西班牙語翻譯，請於週期初期即提出註記。" },
-    { "en": "Compliance review will continue for any content related to regulated industries.", "zh": "涉及受規管產業的內容仍須進行法遵審查。" },
-    { "en": "Performance reviews will be held monthly to identify learnings and next actions.", "zh": "每月將舉辦成效檢討，找出學習要點與後續行動。" },
-    { "en": "Please review the shared planning document and add comments by Wednesday.", "zh": "請檢視共享的規劃文件，並於週三前加入意見。" },
-    { "en": "We appreciate everyone bringing fresh ideas and energy to this collaborative effort.", "zh": "感謝大家為這項合作投入新鮮的點子與活力。" },
-    { "en": "Editorial roles and responsibilities will be confirmed in the planning document.", "zh": "編輯角色與職責將於規劃文件中正式確認。" },
-    { "en": "Budget for guest writers has been increased by fifteen percent this quarter.", "zh": "本季客座作者的預算已調升百分之十五。" },
-    { "en": "Design support will be allocated based on each theme priority and timing.", "zh": "設計支援將依各主題的優先順序與時程進行分配。" },
-    { "en": "We will pilot a new approval workflow to shorten review cycles.", "zh": "我們將試行新版審核流程以縮短審查週期。" },
-    { "en": "SEO will continue to feed monthly keyword opportunities into the calendar.", "zh": "SEO 團隊將持續每月將關鍵字機會輸入行事曆。" },
-    { "en": "Analytics will share an updated dashboard at next month team meeting.", "zh": "分析團隊將於下個月團隊會議分享最新版儀表板。" },
-    { "en": "Cross promotion with the partnerships team is encouraged where it adds value.", "zh": "在能創造價值之處鼓勵與合作夥伴團隊進行交叉推廣。" },
-    { "en": "Please raise any resource conflicts as soon as they become apparent to you.", "zh": "一旦察覺任何資源衝突，請儘速提出反映。" },
-    { "en": "Today minutes and action items will be sent out before end of business.", "zh": "今日會議記錄與行動項目將於下班前發送。" },
-    { "en": "Thank you and let us aim for our most impactful quarter to date together.", "zh": "感謝大家，讓我們一起朝向至今最具影響力的一季邁進。" },
-    { "en": "Editorial standards documentation will be refreshed before the new quarter begins.", "zh": "新一季開始前將更新編輯規範文件。" },
-    { "en": "We will trial a new tagging taxonomy to improve internal content discoverability.", "zh": "我們將試行新版標籤分類以提升內部內容可發現性。" },
-    { "en": "Content repurposing workflows aim to extend the lifespan of high performing pieces.", "zh": "內容再利用流程旨在延長高績效作品的壽命。" },
-    { "en": "Influencer collaborations will be evaluated case by case to extend reach.", "zh": "網紅合作將逐案評估以擴大觸及範圍。" },
-    { "en": "An updated tone of voice guide will accompany every theme brief this quarter.", "zh": "本季每份主題簡報皆將附上更新版的語調指引。" },
-    { "en": "Editorial calendar conflicts should be raised in our weekly stand up meeting.", "zh": "編輯行事曆衝突應於每週站立會議中提出。" },
-    { "en": "Performance learnings from each campaign will be archived in the shared library.", "zh": "每檔活動的成效心得將存檔於共享資料庫中。" },
-    { "en": "Audience research findings will be summarized in monthly insight bulletins.", "zh": "受眾研究發現將以每月洞察快訊形式彙整。" },
-    { "en": "We will continue investing in employee storytelling across our key channels.", "zh": "我們將持續投資於員工故事敘述於各重點通路的推廣。" },
-    { "en": "Please block time on your calendar for the kickoff workshop next Thursday.", "zh": "請於行事曆上預留下週四的啟動工作坊時段。" }
+    {
+      "en": "Welcome everyone to the quarterly content calendar planning meeting today.",
+      "zh": "歡迎大家參加今日的季度內容行事曆規劃會議。"
+    },
+    {
+      "en": "Our goal is to align on themes, channels, and publishing cadence for next quarter.",
+      "zh": "目標是就下一季的主題、通路與發布頻率達成共識。"
+    },
+    {
+      "en": "We will begin with a quick review of performance from the previous quarter.",
+      "zh": "首先快速檢視上一季的成效表現。"
+    },
+    {
+      "en": "Blog traffic grew by twenty two percent compared with the same period last year.",
+      "zh": "部落格流量較去年同期成長百分之二十二。"
+    },
+    {
+      "en": "Video content delivered the strongest engagement rates across social platforms.",
+      "zh": "影音內容在社群平台上創下最強的互動率表現。"
+    },
+    {
+      "en": "Email open rates remained stable while click through rates declined slightly.",
+      "zh": "電子報開信率維持穩定，點擊率則略為下降。"
+    },
+    {
+      "en": "Based on these signals, we plan to invest more in short form video next quarter.",
+      "zh": "依據這些訊號，下一季我們計畫加強短影音的投入。"
+    },
+    {
+      "en": "Three core themes are proposed to guide editorial planning during this period.",
+      "zh": "建議以三大核心主題引導此期間的編輯規劃。"
+    },
+    {
+      "en": "The first theme highlights customer success stories across diverse industries.",
+      "zh": "第一個主題聚焦於不同產業的客戶成功故事。"
+    },
+    {
+      "en": "The second theme explores practical guides for emerging workplace technologies.",
+      "zh": "第二個主題探討新興職場科技的實用指南。"
+    },
+    {
+      "en": "The third theme addresses sustainability practices that resonate with our audience.",
+      "zh": "第三個主題探討能引起受眾共鳴的永續實務作法。"
+    },
+    {
+      "en": "Each theme will receive a dedicated landing hub and a measurable channel mix.",
+      "zh": "每個主題將擁有專屬主題頁與可衡量的通路組合。"
+    },
+    {
+      "en": "Publishing cadence will include two long articles and three short posts each week.",
+      "zh": "發布頻率將包含每週兩篇長文與三則短文。"
+    },
+    {
+      "en": "We will also distribute one podcast episode and one newsletter every Friday.",
+      "zh": "另將於每週五發布一集 podcast 與一份電子報。"
+    },
+    {
+      "en": "Social posts will follow a fixed rhythm with platform specific creative formats.",
+      "zh": "社群貼文將依固定節奏，採用各平台專屬的創意格式。"
+    },
+    {
+      "en": "Creative briefs will be circulated two weeks before each publishing window opens.",
+      "zh": "創意需求書將於每個發布檔期開放前兩週發送。"
+    },
+    {
+      "en": "Subject matter experts should confirm availability for interviews by Friday this week.",
+      "zh": "主題專家請於本週五前確認受訪時段。"
+    },
+    {
+      "en": "Translation needs into Japanese and Spanish should be flagged early in the cycle.",
+      "zh": "如需日語與西班牙語翻譯，請於週期初期即提出註記。"
+    },
+    {
+      "en": "Compliance review will continue for any content related to regulated industries.",
+      "zh": "涉及受規管產業的內容仍須進行法遵審查。"
+    },
+    {
+      "en": "Performance reviews will be held monthly to identify learnings and next actions.",
+      "zh": "每月將舉辦成效檢討，找出學習要點與後續行動。"
+    },
+    {
+      "en": "Please review the shared planning document and add comments by Wednesday.",
+      "zh": "請檢視共享的規劃文件，並於週三前加入意見。"
+    },
+    {
+      "en": "We appreciate everyone bringing fresh ideas and energy to this collaborative effort.",
+      "zh": "感謝大家為這項合作投入新鮮的點子與活力。"
+    },
+    {
+      "en": "Editorial roles and responsibilities will be confirmed in the planning document.",
+      "zh": "編輯角色與職責將於規劃文件中正式確認。"
+    },
+    {
+      "en": "Budget for guest writers has been increased by fifteen percent this quarter.",
+      "zh": "本季客座作者的預算已調升百分之十五。"
+    },
+    {
+      "en": "Design support will be allocated based on each theme priority and timing.",
+      "zh": "設計支援將依各主題的優先順序與時程進行分配。"
+    },
+    {
+      "en": "We will pilot a new approval workflow to shorten review cycles.",
+      "zh": "我們將試行新版審核流程以縮短審查週期。"
+    },
+    {
+      "en": "SEO will continue to feed monthly keyword opportunities into the calendar.",
+      "zh": "SEO 團隊將持續每月將關鍵字機會輸入行事曆。"
+    },
+    {
+      "en": "Analytics will share an updated dashboard at next month team meeting.",
+      "zh": "分析團隊將於下個月團隊會議分享最新版儀表板。"
+    },
+    {
+      "en": "Cross promotion with the partnerships team is encouraged where it adds value.",
+      "zh": "在能創造價值之處鼓勵與合作夥伴團隊進行交叉推廣。"
+    },
+    {
+      "en": "Please raise any resource conflicts as soon as they become apparent to you.",
+      "zh": "一旦察覺任何資源衝突，請儘速提出反映。"
+    },
+    {
+      "en": "Today minutes and action items will be sent out before end of business.",
+      "zh": "今日會議記錄與行動項目將於下班前發送。"
+    },
+    {
+      "en": "Thank you and let us aim for our most impactful quarter to date together.",
+      "zh": "感謝大家，讓我們一起朝向至今最具影響力的一季邁進。"
+    },
+    {
+      "en": "Editorial standards documentation will be refreshed before the new quarter begins.",
+      "zh": "新一季開始前將更新編輯規範文件。"
+    },
+    {
+      "en": "We will trial a new tagging taxonomy to improve internal content discoverability.",
+      "zh": "我們將試行新版標籤分類以提升內部內容可發現性。"
+    },
+    {
+      "en": "Content repurposing workflows aim to extend the lifespan of high performing pieces.",
+      "zh": "內容再利用流程旨在延長高績效作品的壽命。"
+    },
+    {
+      "en": "Influencer collaborations will be evaluated case by case to extend reach.",
+      "zh": "網紅合作將逐案評估以擴大觸及範圍。"
+    },
+    {
+      "en": "An updated tone of voice guide will accompany every theme brief this quarter.",
+      "zh": "本季每份主題簡報皆將附上更新版的語調指引。"
+    },
+    {
+      "en": "Editorial calendar conflicts should be raised in our weekly stand up meeting.",
+      "zh": "編輯行事曆衝突應於每週站立會議中提出。"
+    },
+    {
+      "en": "Performance learnings from each campaign will be archived in the shared library.",
+      "zh": "每檔活動的成效心得將存檔於共享資料庫中。"
+    },
+    {
+      "en": "Audience research findings will be summarized in monthly insight bulletins.",
+      "zh": "受眾研究發現將以每月洞察快訊形式彙整。"
+    },
+    {
+      "en": "We will continue investing in employee storytelling across our key channels.",
+      "zh": "我們將持續投資於員工故事敘述於各重點通路的推廣。"
+    },
+    {
+      "en": "Please block time on your calendar for the kickoff workshop next Thursday.",
+      "zh": "請於行事曆上預留下週四的啟動工作坊時段。"
+    }
   ]
 }

@@ -1,49 +1,181 @@
 {
   "title": "SEO Audit Findings",
   "all": [
-    { "en": "Our agency completed a full technical and content audit of the corporate website.", "zh": "我們的代理商完成了企業網站的完整技術與內容體檢。" },
-    { "en": "The audit covered nine hundred unique URLs across all language versions.", "zh": "本次體檢涵蓋了所有語系共九百個獨立網址。" },
-    { "en": "Overall site health was rated at sixty eight out of one hundred.", "zh": "整體站點健康度評為一百分中的六十八分。" },
-    { "en": "The score reflects solid fundamentals but several high impact issues remain.", "zh": "此分數反映基礎良好但仍存在數項高影響問題。" },
-    { "en": "Forty two pages currently return server errors that block indexing.", "zh": "目前有四十二個頁面回傳伺服器錯誤致使無法被索引。" },
-    { "en": "More than one hundred pages have missing or duplicated meta descriptions.", "zh": "超過一百個頁面有遺漏或重複的中繼描述。" },
-    { "en": "Title tags on product pages often exceed the recommended sixty character limit.", "zh": "產品頁的標題標籤經常超過建議的六十字元上限。" },
-    { "en": "Image alt text is absent on roughly thirty percent of all visual assets.", "zh": "約百分之三十的視覺素材缺少圖片替代文字。" },
-    { "en": "Page load speed on mobile averages four point one seconds for our top pages.", "zh": "我們主要頁面在行動裝置上的平均載入時間為四點一秒。" },
-    { "en": "Core web vitals scores fall below the recommended threshold on three key templates.", "zh": "三項關鍵版型的核心網頁指標分數低於建議門檻。" },
-    { "en": "Several blog articles contain broken internal links to discontinued products.", "zh": "數篇部落格文章含有指向已下架產品的失效內部連結。" },
-    { "en": "The XML sitemap still references old URLs from the previous site structure.", "zh": "XML 網站地圖仍引用舊版站點結構的舊網址。" },
-    { "en": "Hreflang tags are missing on about half of the multilingual pages.", "zh": "約一半的多語頁面缺少 hreflang 標記。" },
-    { "en": "Schema markup is implemented only on a small portion of product detail pages.", "zh": "結構化資料僅實作於一小部分產品詳細頁。" },
-    { "en": "Backlink profile remains healthy with two thousand referring domains overall.", "zh": "外部連結組合維持健康，總計兩千個參照網域。" },
-    { "en": "However, twelve toxic links from low quality sites should be disavowed promptly.", "zh": "然而有十二個來自低品質站點的有害連結應儘速否認。" },
-    { "en": "Keyword rankings improved in twenty eight tracked terms over the past quarter.", "zh": "追蹤的二十八個關鍵字排名於過去一季有所提升。" },
-    { "en": "Eleven keywords slipped out of the top ten and require fresh content support.", "zh": "十一個關鍵字跌出前十名需新內容支援。" },
-    { "en": "Recommended quick wins include fixing redirects and updating meta descriptions.", "zh": "建議的速勝項目包含修復轉址與更新中繼描述。" },
-    { "en": "Medium term actions involve content refresh on twenty top performing articles.", "zh": "中期行動涉及更新二十篇表現頂尖文章的內容。" },
-    { "en": "Long term strategy should focus on building topic clusters around solution pages.", "zh": "長期策略應聚焦於圍繞解決方案頁建立主題集群。" },
-    { "en": "A re audit is recommended six months after implementation begins.", "zh": "建議於改善實施開始六個月後進行再次體檢。" },
-    { "en": "The full report with prioritized action items is attached for your review.", "zh": "含優先排序行動項目的完整報告隨附供您審閱。" },
-    { "en": "Please confirm your team availability for the implementation kickoff next week.", "zh": "請確認貴團隊下週實施啟動會議的可出席時間。" },
-    { "en": "Our consultants will lead a workshop to walk through each priority item.", "zh": "我們的顧問將主持工作坊，逐項講解每個優先項目。" },
-    { "en": "Developers should receive the technical fix list at least two days beforehand.", "zh": "開發人員應至少在兩天前收到技術修正清單。" },
-    { "en": "We can provide sample code snippets for the schema markup implementation.", "zh": "我們可提供結構化資料實作的範例程式碼片段。" },
-    { "en": "Editorial guidelines for the content refresh will be shared by Friday.", "zh": "內容更新的編輯準則將於週五前分享給各位。" },
-    { "en": "A shared dashboard will track weekly progress against the agreed milestones.", "zh": "共用儀表板將依約定里程碑每週追蹤進度。" },
-    { "en": "Stakeholders will receive a brief status email every other Monday morning.", "zh": "利害關係人將於每隔週的週一上午收到簡短狀態郵件。" },
-    { "en": "Performance benchmarks should be captured before changes go live.", "zh": "應在變更上線前記錄效能基準值。" },
-    { "en": "We expect organic traffic to begin recovering within six to ten weeks.", "zh": "我們預期自然流量將於六至十週內開始回升。" },
-    { "en": "Budget allocation for additional content production has been confirmed by finance.", "zh": "新增內容製作的預算配置已獲財務確認。" },
-    { "en": "Feel free to forward this report to your regional marketing leads.", "zh": "歡迎將本報告轉發給您區域的行銷負責人。" },
-    { "en": "A competitor benchmarking section will be added in the next quarterly report.", "zh": "下一季的報告將新增競品比較分析章節。" },
-    { "en": "Voice search optimization opportunities are flagged in the appendix for review.", "zh": "語音搜尋優化機會已於附錄中標註以供檢視。" },
-    { "en": "We recommend installing structured event tracking on the new conversion paths.", "zh": "我們建議於新版轉換路徑上加裝結構化事件追蹤。" },
-    { "en": "Internal search query logs reveal three unmet content needs from buyers.", "zh": "內部搜尋查詢日誌揭露買家三項未被滿足的內容需求。" },
-    { "en": "Featured snippet opportunities exist for fifteen high intent question queries.", "zh": "十五個高意圖問句查詢存在精選摘要的曝光機會。" },
-    { "en": "Page experience signals will receive a dedicated optimization sprint next month.", "zh": "下個月將為頁面體驗訊號安排專屬的優化衝刺。" },
-    { "en": "International expansion will require dedicated technical SEO planning by region.", "zh": "國際擴展將需要按區域進行專屬的技術型 SEO 規劃。" },
-    { "en": "Our team can support content localization with vetted in country reviewers.", "zh": "我們團隊可提供內容在地化支援，並配置已核可的在地審稿者。" },
-    { "en": "Monthly office hours are available to your team for any technical questions.", "zh": "我們每月提供諮詢時段供貴團隊請教任何技術問題。" },
-    { "en": "Thank you for the partnership and continued investment in long term organic growth.", "zh": "感謝您持續合作並投資於長期的自然流量成長。" }
+    {
+      "en": "Our agency completed a full technical and content audit of the corporate website.",
+      "zh": "我們的代理商完成了企業網站的完整技術與內容體檢。"
+    },
+    {
+      "en": "The audit covered nine hundred unique URLs across all language versions.",
+      "zh": "本次體檢涵蓋了所有語系共九百個獨立網址。"
+    },
+    {
+      "en": "Overall site health was rated at sixty eight out of one hundred.",
+      "zh": "整體站點健康度評為一百分中的六十八分。"
+    },
+    {
+      "en": "The score reflects solid fundamentals but several high impact issues remain.",
+      "zh": "此分數反映基礎良好但仍存在數項高影響問題。"
+    },
+    {
+      "en": "Forty two pages currently return server errors that block indexing.",
+      "zh": "目前有四十二個頁面回傳伺服器錯誤致使無法被索引。"
+    },
+    {
+      "en": "More than one hundred pages have missing or duplicated meta descriptions.",
+      "zh": "超過一百個頁面有遺漏或重複的中繼描述。"
+    },
+    {
+      "en": "Title tags on product pages often exceed the recommended sixty character limit.",
+      "zh": "產品頁的標題標籤經常超過建議的六十字元上限。"
+    },
+    {
+      "en": "Image alt text is absent on roughly thirty percent of all visual assets.",
+      "zh": "約百分之三十的視覺素材缺少圖片替代文字。"
+    },
+    {
+      "en": "Page load speed on mobile averages four point one seconds for our top pages.",
+      "zh": "我們主要頁面在行動裝置上的平均載入時間為四點一秒。"
+    },
+    {
+      "en": "Core web vitals scores fall below the recommended threshold on three key templates.",
+      "zh": "三項關鍵版型的核心網頁指標分數低於建議門檻。"
+    },
+    {
+      "en": "Several blog articles contain broken internal links to discontinued products.",
+      "zh": "數篇部落格文章含有指向已下架產品的失效內部連結。"
+    },
+    {
+      "en": "The XML sitemap still references old URLs from the previous site structure.",
+      "zh": "XML 網站地圖仍引用舊版站點結構的舊網址。"
+    },
+    {
+      "en": "Hreflang tags are missing on about half of the multilingual pages.",
+      "zh": "約一半的多語頁面缺少 hreflang 標記。"
+    },
+    {
+      "en": "Schema markup is implemented only on a small portion of product detail pages.",
+      "zh": "結構化資料僅實作於一小部分產品詳細頁。"
+    },
+    {
+      "en": "Backlink profile remains healthy with two thousand referring domains overall.",
+      "zh": "外部連結組合維持健康，總計兩千個參照網域。"
+    },
+    {
+      "en": "However, twelve toxic links from low quality sites should be disavowed promptly.",
+      "zh": "然而有十二個來自低品質站點的有害連結應儘速否認。"
+    },
+    {
+      "en": "Keyword rankings improved in twenty eight tracked terms over the past quarter.",
+      "zh": "追蹤的二十八個關鍵字排名於過去一季有所提升。"
+    },
+    {
+      "en": "Eleven keywords slipped out of the top ten and require fresh content support.",
+      "zh": "十一個關鍵字跌出前十名需新內容支援。"
+    },
+    {
+      "en": "Recommended quick wins include fixing redirects and updating meta descriptions.",
+      "zh": "建議的速勝項目包含修復轉址與更新中繼描述。"
+    },
+    {
+      "en": "Medium term actions involve content refresh on twenty top performing articles.",
+      "zh": "中期行動涉及更新二十篇表現頂尖文章的內容。"
+    },
+    {
+      "en": "Long term strategy should focus on building topic clusters around solution pages.",
+      "zh": "長期策略應聚焦於圍繞解決方案頁建立主題集群。"
+    },
+    {
+      "en": "A re audit is recommended six months after implementation begins.",
+      "zh": "建議於改善實施開始六個月後進行再次體檢。"
+    },
+    {
+      "en": "The full report with prioritized action items is attached for your review.",
+      "zh": "含優先排序行動項目的完整報告隨附供您審閱。"
+    },
+    {
+      "en": "Please confirm your team availability for the implementation kickoff next week.",
+      "zh": "請確認貴團隊下週實施啟動會議的可出席時間。"
+    },
+    {
+      "en": "Our consultants will lead a workshop to walk through each priority item.",
+      "zh": "我們的顧問將主持工作坊，逐項講解每個優先項目。"
+    },
+    {
+      "en": "Developers should receive the technical fix list at least two days beforehand.",
+      "zh": "開發人員應至少在兩天前收到技術修正清單。"
+    },
+    {
+      "en": "We can provide sample code snippets for the schema markup implementation.",
+      "zh": "我們可提供結構化資料實作的範例程式碼片段。"
+    },
+    {
+      "en": "Editorial guidelines for the content refresh will be shared by Friday.",
+      "zh": "內容更新的編輯準則將於週五前分享給各位。"
+    },
+    {
+      "en": "A shared dashboard will track weekly progress against the agreed milestones.",
+      "zh": "共用儀表板將依約定里程碑每週追蹤進度。"
+    },
+    {
+      "en": "Stakeholders will receive a brief status email every other Monday morning.",
+      "zh": "利害關係人將於每隔週的週一上午收到簡短狀態郵件。"
+    },
+    {
+      "en": "Performance benchmarks should be captured before changes go live.",
+      "zh": "應在變更上線前記錄效能基準值。"
+    },
+    {
+      "en": "We expect organic traffic to begin recovering within six to ten weeks.",
+      "zh": "我們預期自然流量將於六至十週內開始回升。"
+    },
+    {
+      "en": "Budget allocation for additional content production has been confirmed by finance.",
+      "zh": "新增內容製作的預算配置已獲財務確認。"
+    },
+    {
+      "en": "Feel free to forward this report to your regional marketing leads.",
+      "zh": "歡迎將本報告轉發給您區域的行銷負責人。"
+    },
+    {
+      "en": "A competitor benchmarking section will be added in the next quarterly report.",
+      "zh": "下一季的報告將新增競品比較分析章節。"
+    },
+    {
+      "en": "Voice search optimization opportunities are flagged in the appendix for review.",
+      "zh": "語音搜尋優化機會已於附錄中標註以供檢視。"
+    },
+    {
+      "en": "We recommend installing structured event tracking on the new conversion paths.",
+      "zh": "我們建議於新版轉換路徑上加裝結構化事件追蹤。"
+    },
+    {
+      "en": "Internal search query logs reveal three unmet content needs from buyers.",
+      "zh": "內部搜尋查詢日誌揭露買家三項未被滿足的內容需求。"
+    },
+    {
+      "en": "Featured snippet opportunities exist for fifteen high intent question queries.",
+      "zh": "十五個高意圖問句查詢存在精選摘要的曝光機會。"
+    },
+    {
+      "en": "Page experience signals will receive a dedicated optimization sprint next month.",
+      "zh": "下個月將為頁面體驗訊號安排專屬的優化衝刺。"
+    },
+    {
+      "en": "International expansion will require dedicated technical SEO planning by region.",
+      "zh": "國際擴展將需要按區域進行專屬的技術型 SEO 規劃。"
+    },
+    {
+      "en": "Our team can support content localization with vetted in country reviewers.",
+      "zh": "我們團隊可提供內容在地化支援，並配置已核可的在地審稿者。"
+    },
+    {
+      "en": "Monthly office hours are available to your team for any technical questions.",
+      "zh": "我們每月提供諮詢時段供貴團隊請教任何技術問題。"
+    },
+    {
+      "en": "Thank you for the partnership and continued investment in long term organic growth.",
+      "zh": "感謝您持續合作並投資於長期的自然流量成長。"
+    }
   ]
 }

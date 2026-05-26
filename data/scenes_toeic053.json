@@ -1,49 +1,181 @@
 {
   "title": "Tax Filing Reminder",
   "all": [
-    { "en": "This is a friendly reminder that the corporate tax filing deadline is approaching.", "zh": "此為善意提醒：公司稅申報截止日即將到來。" },
-    { "en": "All required returns must be submitted no later than April 30.", "zh": "所有應申報文件須於四月三十日前提交。" },
-    { "en": "The deadline applies to both federal and applicable state tax obligations.", "zh": "此期限同時適用於聯邦稅及相關州稅義務。" },
-    { "en": "Please ensure that all supporting documentation has been gathered in advance.", "zh": "請確保所有佐證文件已事先彙整完成。" },
-    { "en": "Required items include income statements, expense ledgers, and depreciation schedules.", "zh": "必要項目包含損益表、費用分類帳及折舊明細表。" },
-    { "en": "Payroll tax forms must be reconciled with the general ledger before submission.", "zh": "薪資稅表單須與總帳對帳一致後方可送出。" },
-    { "en": "Departments should provide receipts and contracts for major capital expenditures.", "zh": "各部門應提供重大資本支出的收據與合約。" },
-    { "en": "Foreign subsidiaries are reminded to complete their respective transfer pricing reports.", "zh": "提醒海外子公司完成各自的移轉訂價報告。" },
-    { "en": "Estimated tax payments for the first quarter are due on the same date.", "zh": "第一季預估稅款亦同日繳納到期。" },
-    { "en": "If you anticipate any underpayment, please consult the tax department immediately.", "zh": "若預期可能短繳，請立即聯絡稅務部門。" },
-    { "en": "Late filings can incur penalties of up to 5 percent per month of unpaid tax.", "zh": "逾期申報每月可能產生最高百分之五的未繳稅款罰款。" },
-    { "en": "Interest will also accrue on any outstanding balances until full settlement.", "zh": "任何未清餘額在全額繳清前亦將計息。" },
-    { "en": "Employees claiming reimbursable business expenses should submit requests by April 15.", "zh": "申請可報銷商務費用的員工應於四月十五日前提出申請。" },
-    { "en": "This will allow the finance team enough time to update the relevant accounts.", "zh": "此舉可讓財務團隊有足夠時間更新相關科目。" },
-    { "en": "Tax certificates from banks and brokers should be uploaded to the shared folder.", "zh": "銀行及券商提供的稅務憑證應上傳至共用資料夾。" },
-    { "en": "Please name files using the format vendor name underscore document type.", "zh": "請以供應商名稱底線文件類型的格式命名檔案。" },
-    { "en": "Inconsistent file names slow down review and create unnecessary errors.", "zh": "檔名不一致會拖慢審查並造成不必要的錯誤。" },
-    { "en": "Our external tax advisor will conduct a preliminary review next week.", "zh": "我們的外部稅務顧問將於下週進行初步審查。" },
-    { "en": "Department heads will be asked to confirm completeness of submitted information.", "zh": "將要求各部門主管確認所提交資訊的完整性。" },
-    { "en": "Final returns will be reviewed by the chief financial officer before filing.", "zh": "最終申報書將於送件前由財務長覆核。" },
-    { "en": "Electronic submission will be used for all eligible forms this year.", "zh": "今年所有可電子申報之表單將採用電子送件方式。" },
-    { "en": "Please direct any questions to the tax team mailbox at tax@company.com.", "zh": "如有任何疑問，請寄至稅務團隊信箱 tax@company.com。" },
-    { "en": "Thank you in advance for your timely cooperation during this busy season.", "zh": "感謝您在此繁忙期間的及時配合。" },
-    { "en": "Together we can ensure a smooth, accurate, and compliant filing process.", "zh": "讓我們齊心確保申報過程順利、準確且合規。" },
-    { "en": "A pre-filing workshop will be held on April 8 to address common questions from finance leads.", "zh": "四月八日將舉辦申報前工作坊，以解答財務主管的常見問題。" },
-    { "en": "Topics include new deduction rules, digital asset reporting, and updated state filing thresholds.", "zh": "主題包括新扣除規則、數位資產申報及更新後的州別申報門檻。" },
-    { "en": "Each business unit must designate a primary tax liaison to coordinate document submission.", "zh": "每個業務單位須指定一名主要稅務聯絡人協調文件提交。" },
-    { "en": "The tax team has prepared a checklist to help reviewers track completion across categories.", "zh": "稅務團隊已備妥檢核表，協助審查者追蹤各類別的完成情形。" },
-    { "en": "Please be aware that paper submissions will no longer be accepted by most jurisdictions.", "zh": "請注意大多數轄區將不再接受紙本申報。" },
-    { "en": "Electronic signatures must be applied using the corporate e-signature platform only.", "zh": "電子簽章僅得透過企業電子簽章平台使用。" },
-    { "en": "Any retroactive adjustments must be flagged in writing to the controller before April 22.", "zh": "任何追溯性調整須於四月二十二日前以書面方式向財務主計通報。" },
-    { "en": "We strongly encourage early submission to allow time for unexpected reviews or corrections.", "zh": "強烈鼓勵提早送件，以預留時間因應突發審查或修正。" },
-    { "en": "Following this year's filing, a debrief session will be held to capture process improvements.", "zh": "本年度申報結束後將召開檢討會議，蒐集流程改善建議。" },
-    { "en": "Your diligence and attention to detail are essential to maintaining our strong compliance record.", "zh": "您的勤勉與對細節的關注對於維持我們良好的合規紀錄至關重要。" },
-    { "en": "Please confirm receipt of this reminder by clicking the acknowledgment link below.", "zh": "請點擊下方確認連結以回覆已收到此提醒。" },
-    { "en": "Tax forms for retired employees should be requested through human resources by April 10.", "zh": "退休員工的稅務表單應於四月十日前透過人資部門申請。" },
-    { "en": "Backup copies of all submitted returns will be archived for seven years per policy.", "zh": "依政策所有送件申報書的備份將保存七年。" },
-    { "en": "Departments expecting tax credits should attach supporting research and development logs.", "zh": "預期享有稅額抵減的部門應檢附支持性的研發紀錄。" },
-    { "en": "International branches must coordinate with local controllers on filing obligations.", "zh": "海外分支機構須與當地主計協調當地申報義務。" },
-    { "en": "Withholding statements for contractor payments must be reconciled by April 12.", "zh": "承包商付款的扣繳憑單須於四月十二日前對帳完成。" },
-    { "en": "Sales tax remittance reports for all states are due along with the federal package.", "zh": "所有州別的銷售稅匯繳報告須與聯邦申報文件一同送出。" },
-    { "en": "If filing extensions are required, please submit the request through the tax portal.", "zh": "如需申請延期申報，請透過稅務入口提出申請。" },
-    { "en": "Audit defense files should be readily accessible for at least three subsequent years.", "zh": "稽核應變檔案應於後續至少三年內均可隨時取得。" },
-    { "en": "On behalf of the tax team, thank you for your continued partnership and accuracy.", "zh": "謹代表稅務團隊感謝您持續的合作與精準作業。" }
+    {
+      "en": "This is a friendly reminder that the corporate tax filing deadline is approaching.",
+      "zh": "此為善意提醒：公司稅申報截止日即將到來。"
+    },
+    {
+      "en": "All required returns must be submitted no later than April 30.",
+      "zh": "所有應申報文件須於四月三十日前提交。"
+    },
+    {
+      "en": "The deadline applies to both federal and applicable state tax obligations.",
+      "zh": "此期限同時適用於聯邦稅及相關州稅義務。"
+    },
+    {
+      "en": "Please ensure that all supporting documentation has been gathered in advance.",
+      "zh": "請確保所有佐證文件已事先彙整完成。"
+    },
+    {
+      "en": "Required items include income statements, expense ledgers, and depreciation schedules.",
+      "zh": "必要項目包含損益表、費用分類帳及折舊明細表。"
+    },
+    {
+      "en": "Payroll tax forms must be reconciled with the general ledger before submission.",
+      "zh": "薪資稅表單須與總帳對帳一致後方可送出。"
+    },
+    {
+      "en": "Departments should provide receipts and contracts for major capital expenditures.",
+      "zh": "各部門應提供重大資本支出的收據與合約。"
+    },
+    {
+      "en": "Foreign subsidiaries are reminded to complete their respective transfer pricing reports.",
+      "zh": "提醒海外子公司完成各自的移轉訂價報告。"
+    },
+    {
+      "en": "Estimated tax payments for the first quarter are due on the same date.",
+      "zh": "第一季預估稅款亦同日繳納到期。"
+    },
+    {
+      "en": "If you anticipate any underpayment, please consult the tax department immediately.",
+      "zh": "若預期可能短繳，請立即聯絡稅務部門。"
+    },
+    {
+      "en": "Late filings can incur penalties of up to 5 percent per month of unpaid tax.",
+      "zh": "逾期申報每月可能產生最高百分之五的未繳稅款罰款。"
+    },
+    {
+      "en": "Interest will also accrue on any outstanding balances until full settlement.",
+      "zh": "任何未清餘額在全額繳清前亦將計息。"
+    },
+    {
+      "en": "Employees claiming reimbursable business expenses should submit requests by April 15.",
+      "zh": "申請可報銷商務費用的員工應於四月十五日前提出申請。"
+    },
+    {
+      "en": "This will allow the finance team enough time to update the relevant accounts.",
+      "zh": "此舉可讓財務團隊有足夠時間更新相關科目。"
+    },
+    {
+      "en": "Tax certificates from banks and brokers should be uploaded to the shared folder.",
+      "zh": "銀行及券商提供的稅務憑證應上傳至共用資料夾。"
+    },
+    {
+      "en": "Please name files using the format vendor name underscore document type.",
+      "zh": "請以供應商名稱底線文件類型的格式命名檔案。"
+    },
+    {
+      "en": "Inconsistent file names slow down review and create unnecessary errors.",
+      "zh": "檔名不一致會拖慢審查並造成不必要的錯誤。"
+    },
+    {
+      "en": "Our external tax advisor will conduct a preliminary review next week.",
+      "zh": "我們的外部稅務顧問將於下週進行初步審查。"
+    },
+    {
+      "en": "Department heads will be asked to confirm completeness of submitted information.",
+      "zh": "將要求各部門主管確認所提交資訊的完整性。"
+    },
+    {
+      "en": "Final returns will be reviewed by the chief financial officer before filing.",
+      "zh": "最終申報書將於送件前由財務長覆核。"
+    },
+    {
+      "en": "Electronic submission will be used for all eligible forms this year.",
+      "zh": "今年所有可電子申報之表單將採用電子送件方式。"
+    },
+    {
+      "en": "Please direct any questions to the tax team mailbox at tax@company.com.",
+      "zh": "如有任何疑問，請寄至稅務團隊信箱 tax@company.com。"
+    },
+    {
+      "en": "Thank you in advance for your timely cooperation during this busy season.",
+      "zh": "感謝您在此繁忙期間的及時配合。"
+    },
+    {
+      "en": "Together we can ensure a smooth, accurate, and compliant filing process.",
+      "zh": "讓我們齊心確保申報過程順利、準確且合規。"
+    },
+    {
+      "en": "A pre-filing workshop will be held on April 8 to address common questions from finance leads.",
+      "zh": "四月八日將舉辦申報前工作坊，以解答財務主管的常見問題。"
+    },
+    {
+      "en": "Topics include new deduction rules, digital asset reporting, and updated state filing thresholds.",
+      "zh": "主題包括新扣除規則、數位資產申報及更新後的州別申報門檻。"
+    },
+    {
+      "en": "Each business unit must designate a primary tax liaison to coordinate document submission.",
+      "zh": "每個業務單位須指定一名主要稅務聯絡人協調文件提交。"
+    },
+    {
+      "en": "The tax team has prepared a checklist to help reviewers track completion across categories.",
+      "zh": "稅務團隊已備妥檢核表，協助審查者追蹤各類別的完成情形。"
+    },
+    {
+      "en": "Please be aware that paper submissions will no longer be accepted by most jurisdictions.",
+      "zh": "請注意大多數轄區將不再接受紙本申報。"
+    },
+    {
+      "en": "Electronic signatures must be applied using the corporate e-signature platform only.",
+      "zh": "電子簽章僅得透過企業電子簽章平台使用。"
+    },
+    {
+      "en": "Any retroactive adjustments must be flagged in writing to the controller before April 22.",
+      "zh": "任何追溯性調整須於四月二十二日前以書面方式向財務主計通報。"
+    },
+    {
+      "en": "We strongly encourage early submission to allow time for unexpected reviews or corrections.",
+      "zh": "強烈鼓勵提早送件，以預留時間因應突發審查或修正。"
+    },
+    {
+      "en": "Following this year's filing, a debrief session will be held to capture process improvements.",
+      "zh": "本年度申報結束後將召開檢討會議，蒐集流程改善建議。"
+    },
+    {
+      "en": "Your diligence and attention to detail are essential to maintaining our strong compliance record.",
+      "zh": "您的勤勉與對細節的關注對於維持我們良好的合規紀錄至關重要。"
+    },
+    {
+      "en": "Please confirm receipt of this reminder by clicking the acknowledgment link below.",
+      "zh": "請點擊下方確認連結以回覆已收到此提醒。"
+    },
+    {
+      "en": "Tax forms for retired employees should be requested through human resources by April 10.",
+      "zh": "退休員工的稅務表單應於四月十日前透過人資部門申請。"
+    },
+    {
+      "en": "Backup copies of all submitted returns will be archived for seven years per policy.",
+      "zh": "依政策所有送件申報書的備份將保存七年。"
+    },
+    {
+      "en": "Departments expecting tax credits should attach supporting research and development logs.",
+      "zh": "預期享有稅額抵減的部門應檢附支持性的研發紀錄。"
+    },
+    {
+      "en": "International branches must coordinate with local controllers on filing obligations.",
+      "zh": "海外分支機構須與當地主計協調當地申報義務。"
+    },
+    {
+      "en": "Withholding statements for contractor payments must be reconciled by April 12.",
+      "zh": "承包商付款的扣繳憑單須於四月十二日前對帳完成。"
+    },
+    {
+      "en": "Sales tax remittance reports for all states are due along with the federal package.",
+      "zh": "所有州別的銷售稅匯繳報告須與聯邦申報文件一同送出。"
+    },
+    {
+      "en": "If filing extensions are required, please submit the request through the tax portal.",
+      "zh": "如需申請延期申報，請透過稅務入口提出申請。"
+    },
+    {
+      "en": "Audit defense files should be readily accessible for at least three subsequent years.",
+      "zh": "稽核應變檔案應於後續至少三年內均可隨時取得。"
+    },
+    {
+      "en": "On behalf of the tax team, thank you for your continued partnership and accuracy.",
+      "zh": "謹代表稅務團隊感謝您持續的合作與精準作業。"
+    }
   ]
 }

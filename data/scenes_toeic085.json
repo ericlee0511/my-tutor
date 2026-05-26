@@ -1,48 +1,177 @@
 {
   "title": "Cross Docking Workflow Guide",
   "all": [
-    { "en": "This guide describes the standard cross docking workflow at the central hub.", "zh": "本指南說明中央集散中心的標準越庫作業流程。" },
-    { "en": "Cross docking moves goods directly from inbound trucks to outbound vehicles.", "zh": "越庫作業將貨物自進貨車輛直接轉至出貨車輛。" },
-    { "en": "The model minimizes storage time and reduces overall handling costs significantly.", "zh": "此模式可將存放時間降至最低，並大幅降低整體搬運成本。" },
-    { "en": "Inbound trucks must be scheduled through the dock appointment system in advance.", "zh": "進貨車輛需透過月台預約系統提前排程。" },
-    { "en": "Drivers report to the security gate and present a confirmed reference number.", "zh": "司機需至警衛室報到並出示確認的預約編號。" },
-    { "en": "Dock assignments are displayed on the digital screen at the staging area.", "zh": "月台分派資訊將顯示於暫存區的電子看板。" },
-    { "en": "Receiving clerks verify shipment documents against the advance shipping notice.", "zh": "收貨人員依據出貨預先通知核對貨運文件。" },
-    { "en": "Pallets are scanned upon arrival to record condition and item counts accurately.", "zh": "棧板於到貨時即進行掃描，準確紀錄狀態與數量。" },
-    { "en": "Damaged or short shipments must be reported to the supervisor immediately.", "zh": "如有損壞或短少貨物，應立即通報主管。" },
-    { "en": "Sorting takes place in the central staging lanes using color coded markings.", "zh": "分揀作業於中央暫存通道進行，採彩色標示分區。" },
-    { "en": "Each destination route corresponds to a unique lane and barcode label format.", "zh": "每一目的地路線對應專屬通道與條碼標籤格式。" },
-    { "en": "Outbound staging must be completed within two hours of inbound arrival.", "zh": "出貨備位須於進貨抵達後兩小時內完成。" },
-    { "en": "Material handlers transport goods using powered pallet jacks across the dock floor.", "zh": "搬運人員以電動托盤車於月台地板移動貨物。" },
-    { "en": "Pedestrian walkways are clearly marked to ensure safety during peak hours.", "zh": "行人通道有清楚標示，以確保尖峰時段安全。" },
-    { "en": "Loaders verify each pallet against the outbound manifest before sealing the trailer.", "zh": "裝載人員封櫃前需依出貨清單核對每張棧板。" },
-    { "en": "Trailer seals are recorded in the warehouse management system upon departure.", "zh": "拖車封條於出貨時於倉儲管理系統中登錄。" },
-    { "en": "Real time dashboards monitor throughput and dwell time at every dock door.", "zh": "即時儀表板監控每個月台門的吞吐量與停留時間。" },
-    { "en": "Daily targets include average dwell times below ninety minutes per shipment.", "zh": "每日目標包含每筆貨物平均停留時間低於九十分鐘。" },
-    { "en": "Exceptions are logged into the incident tracker for end of shift review meetings.", "zh": "例外事件登錄至事件追蹤系統，供下班檢討會議使用。" },
-    { "en": "Continuous improvement teams analyze trends to refine procedures every month.", "zh": "持續改善小組每月分析趨勢，以精進作業程序。" },
-    { "en": "Safety briefings occur at the start of every shift in the operations briefing room.", "zh": "每班開始前於營運簡報室進行安全宣導。" },
-    { "en": "Personal protective equipment is mandatory in all dock and staging zones.", "zh": "所有月台與暫存區皆須穿戴個人防護裝備。" },
-    { "en": "By following this workflow, our hub maintains industry leading service levels.", "zh": "遵循本流程，本集散中心得以維持業界領先的服務水準。" },
-    { "en": "New employees attend a two week orientation covering dock procedures and safety codes.", "zh": "新進員工須參加為期兩週的訓練，內容涵蓋月台作業與安全規範。" },
-    { "en": "Forklift operators must renew certification every three years through the training department.", "zh": "堆高機操作員須每三年透過訓練部門更新證照。" },
-    { "en": "Seasonal volume surges require additional temporary staff hired through approved agencies.", "zh": "季節性貨量高峰時需透過合格人力派遣公司增聘臨時人員。" },
-    { "en": "Weekly performance reports are distributed to operations managers every Monday morning.", "zh": "每週績效報告於星期一上午分送各營運主管。" },
-    { "en": "Customer service teams receive shipment status updates through the integrated tracking portal.", "zh": "客服團隊透過整合追蹤平台接收貨物狀態更新。" },
-    { "en": "Carriers must comply with the facility's appointment policy to avoid detention fees.", "zh": "承運商須遵守本場站預約政策，以免產生滯留費用。" },
-    { "en": "Quality audits sample one percent of pallets each day to verify scanning accuracy.", "zh": "品質稽核每日抽樣百分之一的棧板，以驗證掃描準確度。" },
-    { "en": "Cold chain shipments follow separate procedures detailed in the refrigerated handling manual.", "zh": "冷鏈貨物依冷藏搬運手冊所載的獨立程序處理。" },
-    { "en": "All exceptions exceeding two hours trigger an automatic notification to senior leadership.", "zh": "凡超過兩小時的例外狀況，將自動通報資深管理階層。" },
-    { "en": "Year end reviews evaluate cost savings and identify priority projects for next year.", "zh": "年終檢討評估節省成本並列出明年的優先專案。" },
-    { "en": "Automated guided vehicles assist with repetitive transport between staging and outbound lanes.", "zh": "自動導引車輛協助暫存與出貨通道間之重複性搬運作業。" },
-    { "en": "Sustainability initiatives include reusable pallet programs with several long term partners.", "zh": "永續倡議包含與多家長期夥伴推動之重複使用棧板計畫。" },
-    { "en": "Energy efficient lighting was installed across the entire dock area last quarter.", "zh": "節能照明已於上季完成整個月台區域之安裝。" },
-    { "en": "Driver lounges provide rest facilities while shipments are processed inside the warehouse.", "zh": "司機休息室於倉內處理貨物期間提供休憩設施。" },
-    { "en": "Cross training programs allow staff to rotate between scanning, sorting, and loading roles.", "zh": "跨職能訓練計畫使員工可於掃描、分揀與裝載職務間輪調。" },
-    { "en": "Performance bonuses reward teams that achieve daily throughput and quality benchmarks.", "zh": "績效獎金獎勵達成每日吞吐量與品質基準之團隊。" },
-    { "en": "Carrier scorecards rank trucking partners based on on time arrival and damage rates.", "zh": "承運商評分卡依準時到達與損壞率對運輸夥伴進行排名。" },
-    { "en": "Holiday peak season planning begins in August with capacity reservations and staff hiring.", "zh": "假期旺季規劃自八月開始，包含量能預訂與人員招募。" },
-    { "en": "Disaster recovery drills are conducted twice a year with local emergency response teams.", "zh": "災害復原演練每年舉行兩次，與當地緊急應變團隊共同進行。" },
-    { "en": "Feedback channels welcome operational improvement suggestions from staff at every organizational level.", "zh": "意見回饋管道歡迎各級組織員工提出營運改善建議。" }
+    {
+      "en": "This guide describes the standard cross docking workflow at the central hub.",
+      "zh": "本指南說明中央集散中心的標準越庫作業流程。"
+    },
+    {
+      "en": "Cross docking moves goods directly from inbound trucks to outbound vehicles.",
+      "zh": "越庫作業將貨物自進貨車輛直接轉至出貨車輛。"
+    },
+    {
+      "en": "The model minimizes storage time and reduces overall handling costs significantly.",
+      "zh": "此模式可將存放時間降至最低，並大幅降低整體搬運成本。"
+    },
+    {
+      "en": "Inbound trucks must be scheduled through the dock appointment system in advance.",
+      "zh": "進貨車輛需透過月台預約系統提前排程。"
+    },
+    {
+      "en": "Drivers report to the security gate and present a confirmed reference number.",
+      "zh": "司機需至警衛室報到並出示確認的預約編號。"
+    },
+    {
+      "en": "Dock assignments are displayed on the digital screen at the staging area.",
+      "zh": "月台分派資訊將顯示於暫存區的電子看板。"
+    },
+    {
+      "en": "Receiving clerks verify shipment documents against the advance shipping notice.",
+      "zh": "收貨人員依據出貨預先通知核對貨運文件。"
+    },
+    {
+      "en": "Pallets are scanned upon arrival to record condition and item counts accurately.",
+      "zh": "棧板於到貨時即進行掃描，準確紀錄狀態與數量。"
+    },
+    {
+      "en": "Damaged or short shipments must be reported to the supervisor immediately.",
+      "zh": "如有損壞或短少貨物，應立即通報主管。"
+    },
+    {
+      "en": "Sorting takes place in the central staging lanes using color coded markings.",
+      "zh": "分揀作業於中央暫存通道進行，採彩色標示分區。"
+    },
+    {
+      "en": "Each destination route corresponds to a unique lane and barcode label format.",
+      "zh": "每一目的地路線對應專屬通道與條碼標籤格式。"
+    },
+    {
+      "en": "Outbound staging must be completed within two hours of inbound arrival.",
+      "zh": "出貨備位須於進貨抵達後兩小時內完成。"
+    },
+    {
+      "en": "Material handlers transport goods using powered pallet jacks across the dock floor.",
+      "zh": "搬運人員以電動托盤車於月台地板移動貨物。"
+    },
+    {
+      "en": "Pedestrian walkways are clearly marked to ensure safety during peak hours.",
+      "zh": "行人通道有清楚標示，以確保尖峰時段安全。"
+    },
+    {
+      "en": "Loaders verify each pallet against the outbound manifest before sealing the trailer.",
+      "zh": "裝載人員封櫃前需依出貨清單核對每張棧板。"
+    },
+    {
+      "en": "Trailer seals are recorded in the warehouse management system upon departure.",
+      "zh": "拖車封條於出貨時於倉儲管理系統中登錄。"
+    },
+    {
+      "en": "Real time dashboards monitor throughput and dwell time at every dock door.",
+      "zh": "即時儀表板監控每個月台門的吞吐量與停留時間。"
+    },
+    {
+      "en": "Daily targets include average dwell times below ninety minutes per shipment.",
+      "zh": "每日目標包含每筆貨物平均停留時間低於九十分鐘。"
+    },
+    {
+      "en": "Exceptions are logged into the incident tracker for end of shift review meetings.",
+      "zh": "例外事件登錄至事件追蹤系統，供下班檢討會議使用。"
+    },
+    {
+      "en": "Continuous improvement teams analyze trends to refine procedures every month.",
+      "zh": "持續改善小組每月分析趨勢，以精進作業程序。"
+    },
+    {
+      "en": "Safety briefings occur at the start of every shift in the operations briefing room.",
+      "zh": "每班開始前於營運簡報室進行安全宣導。"
+    },
+    {
+      "en": "Personal protective equipment is mandatory in all dock and staging zones.",
+      "zh": "所有月台與暫存區皆須穿戴個人防護裝備。"
+    },
+    {
+      "en": "By following this workflow, our hub maintains industry leading service levels.",
+      "zh": "遵循本流程，本集散中心得以維持業界領先的服務水準。"
+    },
+    {
+      "en": "New employees attend a two week orientation covering dock procedures and safety codes.",
+      "zh": "新進員工須參加為期兩週的訓練，內容涵蓋月台作業與安全規範。"
+    },
+    {
+      "en": "Forklift operators must renew certification every three years through the training department.",
+      "zh": "堆高機操作員須每三年透過訓練部門更新證照。"
+    },
+    {
+      "en": "Seasonal volume surges require additional temporary staff hired through approved agencies.",
+      "zh": "季節性貨量高峰時需透過合格人力派遣公司增聘臨時人員。"
+    },
+    {
+      "en": "Weekly performance reports are distributed to operations managers every Monday morning.",
+      "zh": "每週績效報告於星期一上午分送各營運主管。"
+    },
+    {
+      "en": "Customer service teams receive shipment status updates through the integrated tracking portal.",
+      "zh": "客服團隊透過整合追蹤平台接收貨物狀態更新。"
+    },
+    {
+      "en": "Carriers must comply with the facility's appointment policy to avoid detention fees.",
+      "zh": "承運商須遵守本場站預約政策，以免產生滯留費用。"
+    },
+    {
+      "en": "Quality audits sample one percent of pallets each day to verify scanning accuracy.",
+      "zh": "品質稽核每日抽樣百分之一的棧板，以驗證掃描準確度。"
+    },
+    {
+      "en": "Cold chain shipments follow separate procedures detailed in the refrigerated handling manual.",
+      "zh": "冷鏈貨物依冷藏搬運手冊所載的獨立程序處理。"
+    },
+    {
+      "en": "All exceptions exceeding two hours trigger an automatic notification to senior leadership.",
+      "zh": "凡超過兩小時的例外狀況，將自動通報資深管理階層。"
+    },
+    {
+      "en": "Year end reviews evaluate cost savings and identify priority projects for next year.",
+      "zh": "年終檢討評估節省成本並列出明年的優先專案。"
+    },
+    {
+      "en": "Automated guided vehicles assist with repetitive transport between staging and outbound lanes.",
+      "zh": "自動導引車輛協助暫存與出貨通道間之重複性搬運作業。"
+    },
+    {
+      "en": "Sustainability initiatives include reusable pallet programs with several long term partners.",
+      "zh": "永續倡議包含與多家長期夥伴推動之重複使用棧板計畫。"
+    },
+    {
+      "en": "Energy efficient lighting was installed across the entire dock area last quarter.",
+      "zh": "節能照明已於上季完成整個月台區域之安裝。"
+    },
+    {
+      "en": "Driver lounges provide rest facilities while shipments are processed inside the warehouse.",
+      "zh": "司機休息室於倉內處理貨物期間提供休憩設施。"
+    },
+    {
+      "en": "Cross training programs allow staff to rotate between scanning, sorting, and loading roles.",
+      "zh": "跨職能訓練計畫使員工可於掃描、分揀與裝載職務間輪調。"
+    },
+    {
+      "en": "Performance bonuses reward teams that achieve daily throughput and quality benchmarks.",
+      "zh": "績效獎金獎勵達成每日吞吐量與品質基準之團隊。"
+    },
+    {
+      "en": "Carrier scorecards rank trucking partners based on on time arrival and damage rates.",
+      "zh": "承運商評分卡依準時到達與損壞率對運輸夥伴進行排名。"
+    },
+    {
+      "en": "Holiday peak season planning begins in August with capacity reservations and staff hiring.",
+      "zh": "假期旺季規劃自八月開始，包含量能預訂與人員招募。"
+    },
+    {
+      "en": "Disaster recovery drills are conducted twice a year with local emergency response teams.",
+      "zh": "災害復原演練每年舉行兩次，與當地緊急應變團隊共同進行。"
+    },
+    {
+      "en": "Feedback channels welcome operational improvement suggestions from staff at every organizational level.",
+      "zh": "意見回饋管道歡迎各級組織員工提出營運改善建議。"
+    }
   ]
 }

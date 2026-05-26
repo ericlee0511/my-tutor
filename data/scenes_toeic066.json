@@ -1,49 +1,181 @@
 {
   "title": "Software Engineer Job Posting",
   "all": [
-    { "en": "Our growing technology team is hiring a senior software engineer in Taipei.", "zh": "我們成長中的技術團隊正在台北招募一位資深軟體工程師。" },
-    { "en": "The position reports to the engineering manager of the platform group.", "zh": "此職位向平台組的工程經理直接彙報。" },
-    { "en": "We are looking for someone passionate about scalable backend systems.", "zh": "我們尋找對可擴展後端系統懷抱熱情的人選。" },
-    { "en": "The successful candidate will design, build, and maintain core services.", "zh": "錄取者將負責設計、建置並維護核心服務。" },
-    { "en": "You will collaborate closely with product managers and designers across regions.", "zh": "你將與跨區域的產品經理及設計師密切合作。" },
-    { "en": "Daily work includes code reviews, architecture discussions, and on-call rotations.", "zh": "日常工作包含程式碼審查、架構討論及輪值待命。" },
-    { "en": "We require at least five years of professional development experience.", "zh": "我們要求至少五年的專業開發經驗。" },
-    { "en": "Strong proficiency in Java, Go, or Python is considered essential.", "zh": "精通 Java、Go 或 Python 被視為必要條件。" },
-    { "en": "Familiarity with containerization tools such as Docker and Kubernetes is preferred.", "zh": "熟悉 Docker 及 Kubernetes 等容器化工具者尤佳。" },
-    { "en": "Experience with cloud platforms like AWS or GCP is highly desirable.", "zh": "具備 AWS 或 GCP 等雲端平台經驗者極受歡迎。" },
-    { "en": "Knowledge of distributed databases and message queues will be a strong advantage.", "zh": "具備分散式資料庫與訊息佇列知識將是強力加分。" },
-    { "en": "Excellent written and verbal communication in English is required for this role.", "zh": "此職位要求優秀的英文書寫及口語溝通能力。" },
-    { "en": "We value engineers who write clean, testable, and well-documented code.", "zh": "我們重視能撰寫清晰、可測試且具良好文件的工程師。" },
-    { "en": "A bachelor degree in computer science or a related field is preferred.", "zh": "電腦科學或相關領域學士學位者尤佳。" },
-    { "en": "Equivalent practical experience will be considered in lieu of formal education.", "zh": "等同的實務經驗可替代正式學歷。" },
-    { "en": "We offer a competitive salary, equity participation, and an annual bonus.", "zh": "我們提供具競爭力的薪資、股權參與及年度獎金。" },
-    { "en": "Benefits include comprehensive health insurance for employees and dependents.", "zh": "福利包括員工及眷屬的完整健康保險。" },
-    { "en": "Flexible working hours and a hybrid remote arrangement are available.", "zh": "我們提供彈性工時及混合遠端的工作安排。" },
-    { "en": "All engineers receive an annual learning budget of two thousand US dollars.", "zh": "所有工程師每年享有兩千美元的學習預算。" },
-    { "en": "We celebrate diversity and provide equal opportunity to all qualified applicants.", "zh": "我們珍視多元並對所有合格申請者提供平等機會。" },
-    { "en": "Interested candidates should submit a resume and a brief cover letter.", "zh": "有興趣者請繳交履歷及一份簡短的求職信。" },
-    { "en": "Optionally include a link to your GitHub profile or portfolio site.", "zh": "可選擇性附上你的 GitHub 連結或作品集網站。" },
-    { "en": "Applications will be reviewed on a rolling basis until the position is filled.", "zh": "申請將以滾動方式審查至職缺補滿為止。" },
-    { "en": "Shortlisted applicants can expect a response within ten business days.", "zh": "入圍者可預期於十個工作天內收到回覆。" },
-    { "en": "The interview process consists of four rounds spread over two weeks.", "zh": "面試流程包含四個輪次，分布於兩週內進行。" },
-    { "en": "The first round is a phone screen with a senior recruiter from our team.", "zh": "第一輪為與我方資深招募人員進行的電話初篩。" },
-    { "en": "Technical assessments cover system design, coding skills, and debugging exercises.", "zh": "技術評量涵蓋系統設計、編碼能力與除錯練習。" },
-    { "en": "Candidates meet potential team members during a virtual onsite panel.", "zh": "應徵者於虛擬團體面談中與潛在團隊成員會面。" },
-    { "en": "The final round includes a discussion with the engineering director.", "zh": "最終輪次包含與工程總監的對談。" },
-    { "en": "Reference checks are conducted before any offer is formally extended.", "zh": "於正式發出聘僱條件前將進行推薦人查核。" },
-    { "en": "Offers include relocation assistance for candidates outside the local region.", "zh": "聘僱條件包含對外地應徵者提供搬遷協助。" },
-    { "en": "New hires complete a structured onboarding program during the first month.", "zh": "新進員工於首月內完成結構化的新人訓練計畫。" },
-    { "en": "Mentorship pairings help engineers ramp up smoothly into the codebase.", "zh": "導師配對協助工程師順利熟悉程式碼庫。" },
-    { "en": "We look forward to welcoming exceptional talent to our engineering family.", "zh": "我們期盼歡迎卓越人才加入我們的工程大家庭。" },
-    { "en": "Office space includes ergonomic workstations and dedicated focus rooms for engineers.", "zh": "辦公空間提供符合人體工學的工作站與工程師專屬專注室。" },
-    { "en": "Engineering teams operate on agile two week sprints with regular retrospectives.", "zh": "工程團隊以敏捷兩週衝刺方式運作並定期進行回顧。" },
-    { "en": "Code review culture emphasizes mentorship and constructive technical dialogue.", "zh": "程式碼審查文化強調指導與建設性的技術對話。" },
-    { "en": "Production deployments occur multiple times per day through automated pipelines.", "zh": "正式環境部署每日多次透過自動化流程進行。" },
-    { "en": "On call rotations are limited to one week every two months for sustainability.", "zh": "輪值待命為兼顧永續性限制為每兩個月一週。" },
-    { "en": "Internal hackathons every quarter encourage creative experimentation and learning.", "zh": "每季的內部黑客松鼓勵創新實驗與學習。" },
-    { "en": "Conference attendance is supported with a generous annual travel budget.", "zh": "公司以慷慨的年度差旅預算支持研討會參與。" },
-    { "en": "Open source contributions during work hours are encouraged and recognized.", "zh": "工作時間內的開源貢獻獲得鼓勵與肯定。" },
-    { "en": "Internal mobility allows engineers to rotate between teams every eighteen months.", "zh": "內部輪調讓工程師每十八個月可於團隊間轉換。" },
-    { "en": "Visa sponsorship and relocation support are available for qualified international candidates.", "zh": "公司為合格國際候選人提供簽證贊助與搬遷協助。" }
+    {
+      "en": "Our growing technology team is hiring a senior software engineer in Taipei.",
+      "zh": "我們成長中的技術團隊正在台北招募一位資深軟體工程師。"
+    },
+    {
+      "en": "The position reports to the engineering manager of the platform group.",
+      "zh": "此職位向平台組的工程經理直接彙報。"
+    },
+    {
+      "en": "We are looking for someone passionate about scalable backend systems.",
+      "zh": "我們尋找對可擴展後端系統懷抱熱情的人選。"
+    },
+    {
+      "en": "The successful candidate will design, build, and maintain core services.",
+      "zh": "錄取者將負責設計、建置並維護核心服務。"
+    },
+    {
+      "en": "You will collaborate closely with product managers and designers across regions.",
+      "zh": "你將與跨區域的產品經理及設計師密切合作。"
+    },
+    {
+      "en": "Daily work includes code reviews, architecture discussions, and on-call rotations.",
+      "zh": "日常工作包含程式碼審查、架構討論及輪值待命。"
+    },
+    {
+      "en": "We require at least five years of professional development experience.",
+      "zh": "我們要求至少五年的專業開發經驗。"
+    },
+    {
+      "en": "Strong proficiency in Java, Go, or Python is considered essential.",
+      "zh": "精通 Java、Go 或 Python 被視為必要條件。"
+    },
+    {
+      "en": "Familiarity with containerization tools such as Docker and Kubernetes is preferred.",
+      "zh": "熟悉 Docker 及 Kubernetes 等容器化工具者尤佳。"
+    },
+    {
+      "en": "Experience with cloud platforms like AWS or GCP is highly desirable.",
+      "zh": "具備 AWS 或 GCP 等雲端平台經驗者極受歡迎。"
+    },
+    {
+      "en": "Knowledge of distributed databases and message queues will be a strong advantage.",
+      "zh": "具備分散式資料庫與訊息佇列知識將是強力加分。"
+    },
+    {
+      "en": "Excellent written and verbal communication in English is required for this role.",
+      "zh": "此職位要求優秀的英文書寫及口語溝通能力。"
+    },
+    {
+      "en": "We value engineers who write clean, testable, and well-documented code.",
+      "zh": "我們重視能撰寫清晰、可測試且具良好文件的工程師。"
+    },
+    {
+      "en": "A bachelor degree in computer science or a related field is preferred.",
+      "zh": "電腦科學或相關領域學士學位者尤佳。"
+    },
+    {
+      "en": "Equivalent practical experience will be considered in lieu of formal education.",
+      "zh": "等同的實務經驗可替代正式學歷。"
+    },
+    {
+      "en": "We offer a competitive salary, equity participation, and an annual bonus.",
+      "zh": "我們提供具競爭力的薪資、股權參與及年度獎金。"
+    },
+    {
+      "en": "Benefits include comprehensive health insurance for employees and dependents.",
+      "zh": "福利包括員工及眷屬的完整健康保險。"
+    },
+    {
+      "en": "Flexible working hours and a hybrid remote arrangement are available.",
+      "zh": "我們提供彈性工時及混合遠端的工作安排。"
+    },
+    {
+      "en": "All engineers receive an annual learning budget of two thousand US dollars.",
+      "zh": "所有工程師每年享有兩千美元的學習預算。"
+    },
+    {
+      "en": "We celebrate diversity and provide equal opportunity to all qualified applicants.",
+      "zh": "我們珍視多元並對所有合格申請者提供平等機會。"
+    },
+    {
+      "en": "Interested candidates should submit a resume and a brief cover letter.",
+      "zh": "有興趣者請繳交履歷及一份簡短的求職信。"
+    },
+    {
+      "en": "Optionally include a link to your GitHub profile or portfolio site.",
+      "zh": "可選擇性附上你的 GitHub 連結或作品集網站。"
+    },
+    {
+      "en": "Applications will be reviewed on a rolling basis until the position is filled.",
+      "zh": "申請將以滾動方式審查至職缺補滿為止。"
+    },
+    {
+      "en": "Shortlisted applicants can expect a response within ten business days.",
+      "zh": "入圍者可預期於十個工作天內收到回覆。"
+    },
+    {
+      "en": "The interview process consists of four rounds spread over two weeks.",
+      "zh": "面試流程包含四個輪次，分布於兩週內進行。"
+    },
+    {
+      "en": "The first round is a phone screen with a senior recruiter from our team.",
+      "zh": "第一輪為與我方資深招募人員進行的電話初篩。"
+    },
+    {
+      "en": "Technical assessments cover system design, coding skills, and debugging exercises.",
+      "zh": "技術評量涵蓋系統設計、編碼能力與除錯練習。"
+    },
+    {
+      "en": "Candidates meet potential team members during a virtual onsite panel.",
+      "zh": "應徵者於虛擬團體面談中與潛在團隊成員會面。"
+    },
+    {
+      "en": "The final round includes a discussion with the engineering director.",
+      "zh": "最終輪次包含與工程總監的對談。"
+    },
+    {
+      "en": "Reference checks are conducted before any offer is formally extended.",
+      "zh": "於正式發出聘僱條件前將進行推薦人查核。"
+    },
+    {
+      "en": "Offers include relocation assistance for candidates outside the local region.",
+      "zh": "聘僱條件包含對外地應徵者提供搬遷協助。"
+    },
+    {
+      "en": "New hires complete a structured onboarding program during the first month.",
+      "zh": "新進員工於首月內完成結構化的新人訓練計畫。"
+    },
+    {
+      "en": "Mentorship pairings help engineers ramp up smoothly into the codebase.",
+      "zh": "導師配對協助工程師順利熟悉程式碼庫。"
+    },
+    {
+      "en": "We look forward to welcoming exceptional talent to our engineering family.",
+      "zh": "我們期盼歡迎卓越人才加入我們的工程大家庭。"
+    },
+    {
+      "en": "Office space includes ergonomic workstations and dedicated focus rooms for engineers.",
+      "zh": "辦公空間提供符合人體工學的工作站與工程師專屬專注室。"
+    },
+    {
+      "en": "Engineering teams operate on agile two week sprints with regular retrospectives.",
+      "zh": "工程團隊以敏捷兩週衝刺方式運作並定期進行回顧。"
+    },
+    {
+      "en": "Code review culture emphasizes mentorship and constructive technical dialogue.",
+      "zh": "程式碼審查文化強調指導與建設性的技術對話。"
+    },
+    {
+      "en": "Production deployments occur multiple times per day through automated pipelines.",
+      "zh": "正式環境部署每日多次透過自動化流程進行。"
+    },
+    {
+      "en": "On call rotations are limited to one week every two months for sustainability.",
+      "zh": "輪值待命為兼顧永續性限制為每兩個月一週。"
+    },
+    {
+      "en": "Internal hackathons every quarter encourage creative experimentation and learning.",
+      "zh": "每季的內部黑客松鼓勵創新實驗與學習。"
+    },
+    {
+      "en": "Conference attendance is supported with a generous annual travel budget.",
+      "zh": "公司以慷慨的年度差旅預算支持研討會參與。"
+    },
+    {
+      "en": "Open source contributions during work hours are encouraged and recognized.",
+      "zh": "工作時間內的開源貢獻獲得鼓勵與肯定。"
+    },
+    {
+      "en": "Internal mobility allows engineers to rotate between teams every eighteen months.",
+      "zh": "內部輪調讓工程師每十八個月可於團隊間轉換。"
+    },
+    {
+      "en": "Visa sponsorship and relocation support are available for qualified international candidates.",
+      "zh": "公司為合格國際候選人提供簽證贊助與搬遷協助。"
+    }
   ]
 }

@@ -1,50 +1,185 @@
 {
   "title": "Company Code of Conduct Update",
   "all": [
-    { "en": "We are pleased to announce the publication of our revised Code of Conduct.", "zh": "我們很高興宣布修訂版公司行為準則的發布。" },
-    { "en": "The updated code takes effect on the first day of next month.", "zh": "更新後的準則將於下個月一日起生效。" },
-    { "en": "Every employee, contractor, and director is expected to follow its provisions.", "zh": "每位員工、承包商及董事均應遵循其條款。" },
-    { "en": "The revision builds upon feedback collected during last year company-wide survey.", "zh": "本次修訂奠基於去年全公司調查所蒐集的回饋。" },
-    { "en": "Key topics include integrity, respect, accountability, and protection of company assets.", "zh": "主要議題包括誠信、尊重、當責及公司資產的保護。" },
-    { "en": "Several new sections address modern workplace issues that have grown in importance.", "zh": "數個新章節針對重要性日增的現代職場議題提出規範。" },
-    { "en": "These include responsible use of artificial intelligence and digital tools.", "zh": "其中包括人工智慧與數位工具的負責任使用。" },
-    { "en": "Guidelines on data privacy have been clarified across global jurisdictions.", "zh": "資料隱私指引已在全球各管轄區獲得釐清。" },
-    { "en": "Expectations around social media conduct now reflect current platform realities.", "zh": "社群媒體行為的期待已反映當前各平台的實際情況。" },
-    { "en": "The anti-bribery and anti-corruption section has been strengthened in scope.", "zh": "反賄賂與反貪腐章節已在範圍上獲得強化。" },
-    { "en": "Gifts and hospitality thresholds have been updated to reflect current norms.", "zh": "禮品與招待門檻已更新以反映目前的常規。" },
-    { "en": "Conflict of interest disclosure procedures have been simplified for ease of compliance.", "zh": "利益衝突揭露程序已簡化以利合規執行。" },
-    { "en": "Workplace harassment standards align with the most recent international best practices.", "zh": "職場騷擾準則與最新國際最佳實務一致。" },
-    { "en": "We reaffirm our zero-tolerance stance toward discrimination of any form.", "zh": "我們重申對任何形式的歧視採取零容忍立場。" },
-    { "en": "A clear, confidential, and retaliation-free reporting channel remains available.", "zh": "明確、保密且不受報復的通報管道持續開放。" },
-    { "en": "Reports can be made through the ethics hotline or the secure online portal.", "zh": "可透過倫理檢舉專線或安全的線上入口進行通報。" },
-    { "en": "Investigations will be handled promptly, fairly, and with the utmost discretion.", "zh": "調查將迅速、公正並以最大審慎的方式處理。" },
-    { "en": "Managers have a heightened responsibility to model and reinforce ethical behavior.", "zh": "主管肩負更高責任以身作則並強化倫理行為。" },
-    { "en": "Annual certification of compliance will continue to be a mandatory requirement.", "zh": "年度合規承諾簽署將持續為強制要求。" },
-    { "en": "All employees will be enrolled in a refreshed online training module shortly.", "zh": "全體員工將於近期被加入更新後的線上訓練模組。" },
-    { "en": "The module takes approximately 45 minutes and must be completed within 30 days.", "zh": "該模組約需四十五分鐘，並須於三十天內完成。" },
-    { "en": "A summary version of the code is available on the corporate intranet.", "zh": "準則的摘要版本可於公司內部網路取得。" },
-    { "en": "Printed copies will be distributed to sites that need offline reference.", "zh": "需要離線參考的據點將發放紙本。" },
-    { "en": "Questions or suggestions may be sent to the office of ethics and compliance.", "zh": "如有疑問或建議，可寄至倫理與法遵辦公室。" },
-    { "en": "Together, our shared commitment to these standards defines who we are.", "zh": "我們對這些標準的共同承諾共同界定了我們是誰。" },
-    { "en": "Town hall sessions will be hosted regionally to explain key changes and answer questions.", "zh": "將在各區域舉辦員工大會以說明主要變動並回答問題。" },
-    { "en": "Senior leaders will participate personally to reinforce the importance of the new code.", "zh": "資深主管將親自參與以強化新準則的重要性。" },
-    { "en": "Team leads should incorporate ethical themes into routine staff meetings going forward.", "zh": "未來團隊主管應將倫理主題納入例行員工會議。" },
-    { "en": "Case studies will be shared each quarter to illustrate real-world ethical decision making.", "zh": "每季將分享案例研究以說明真實世界的倫理決策。" },
-    { "en": "Vendors and partners will be required to acknowledge the updated supplier conduct standards.", "zh": "供應商與合作夥伴將被要求承認更新後的供應商行為標準。" },
-    { "en": "Failure to comply with the code may result in disciplinary action up to termination.", "zh": "違反本準則可能導致最高至解僱的紀律處分。" },
-    { "en": "We trust that every team member will embrace these standards with pride and accountability.", "zh": "我們相信每位團隊成員都將以榮譽與當責的態度擁抱這些標準。" },
-    { "en": "An external advisor reviewed the revisions to ensure alignment with global best practices.", "zh": "外部顧問已審閱本次修訂以確保與全球最佳實務一致。" },
-    { "en": "We extend our appreciation to the cross-functional task force that led this initiative.", "zh": "感謝主導此計畫的跨部門專案小組。" },
-    { "en": "Building trust, day by day, remains the foundation of our long-term success.", "zh": "日復一日建立信任仍是我們長期成功的基石。" },
-    { "en": "Acknowledgment of the updated code is required from every employee within 14 days of release.", "zh": "全體員工須於準則發布後十四天內完成更新版簽署確認。" },
-    { "en": "Compliance officers will visit each office monthly during the rollout period.", "zh": "推行期間法遵主管將每月走訪各辦公室。" },
-    { "en": "Anonymous focus groups will be held to evaluate the effectiveness of the new guidelines.", "zh": "將舉辦匿名焦點團體以評估新指引的執行成效。" },
-    { "en": "Gift registers must be updated within five business days of any reportable event.", "zh": "禮品登記簿須於可申報事件發生後五個工作日內更新。" },
-    { "en": "Procurement will lead supplier briefings on the revised supplier conduct expectations.", "zh": "採購將主辦供應商簡報以說明修訂後的供應商行為要求。" },
-    { "en": "Conflict of interest disclosures will now be refreshed annually rather than every two years.", "zh": "利益衝突揭露現將改為每年更新而非每兩年。" },
-    { "en": "An updated whistleblower protection statement is included as Appendix B of the code.", "zh": "更新版吹哨者保護聲明已納入本準則附錄 B。" },
-    { "en": "Ethics champions have been nominated within each region to support local awareness.", "zh": "已於各區域提名倫理大使以協助提升在地認知。" },
-    { "en": "Compliance metrics will be reported to the audit committee on a semi-annual basis.", "zh": "法遵指標將每半年向稽核委員會報告。" },
-    { "en": "We invite every team member to share feedback that will shape the next code revision.", "zh": "我們邀請每位團隊成員提供回饋以形塑下一版準則的修訂。" }
+    {
+      "en": "We are pleased to announce the publication of our revised Code of Conduct.",
+      "zh": "我們很高興宣布修訂版公司行為準則的發布。"
+    },
+    {
+      "en": "The updated code takes effect on the first day of next month.",
+      "zh": "更新後的準則將於下個月一日起生效。"
+    },
+    {
+      "en": "Every employee, contractor, and director is expected to follow its provisions.",
+      "zh": "每位員工、承包商及董事均應遵循其條款。"
+    },
+    {
+      "en": "The revision builds upon feedback collected during last year company-wide survey.",
+      "zh": "本次修訂奠基於去年全公司調查所蒐集的回饋。"
+    },
+    {
+      "en": "Key topics include integrity, respect, accountability, and protection of company assets.",
+      "zh": "主要議題包括誠信、尊重、當責及公司資產的保護。"
+    },
+    {
+      "en": "Several new sections address modern workplace issues that have grown in importance.",
+      "zh": "數個新章節針對重要性日增的現代職場議題提出規範。"
+    },
+    {
+      "en": "These include responsible use of artificial intelligence and digital tools.",
+      "zh": "其中包括人工智慧與數位工具的負責任使用。"
+    },
+    {
+      "en": "Guidelines on data privacy have been clarified across global jurisdictions.",
+      "zh": "資料隱私指引已在全球各管轄區獲得釐清。"
+    },
+    {
+      "en": "Expectations around social media conduct now reflect current platform realities.",
+      "zh": "社群媒體行為的期待已反映當前各平台的實際情況。"
+    },
+    {
+      "en": "The anti-bribery and anti-corruption section has been strengthened in scope.",
+      "zh": "反賄賂與反貪腐章節已在範圍上獲得強化。"
+    },
+    {
+      "en": "Gifts and hospitality thresholds have been updated to reflect current norms.",
+      "zh": "禮品與招待門檻已更新以反映目前的常規。"
+    },
+    {
+      "en": "Conflict of interest disclosure procedures have been simplified for ease of compliance.",
+      "zh": "利益衝突揭露程序已簡化以利合規執行。"
+    },
+    {
+      "en": "Workplace harassment standards align with the most recent international best practices.",
+      "zh": "職場騷擾準則與最新國際最佳實務一致。"
+    },
+    {
+      "en": "We reaffirm our zero-tolerance stance toward discrimination of any form.",
+      "zh": "我們重申對任何形式的歧視採取零容忍立場。"
+    },
+    {
+      "en": "A clear, confidential, and retaliation-free reporting channel remains available.",
+      "zh": "明確、保密且不受報復的通報管道持續開放。"
+    },
+    {
+      "en": "Reports can be made through the ethics hotline or the secure online portal.",
+      "zh": "可透過倫理檢舉專線或安全的線上入口進行通報。"
+    },
+    {
+      "en": "Investigations will be handled promptly, fairly, and with the utmost discretion.",
+      "zh": "調查將迅速、公正並以最大審慎的方式處理。"
+    },
+    {
+      "en": "Managers have a heightened responsibility to model and reinforce ethical behavior.",
+      "zh": "主管肩負更高責任以身作則並強化倫理行為。"
+    },
+    {
+      "en": "Annual certification of compliance will continue to be a mandatory requirement.",
+      "zh": "年度合規承諾簽署將持續為強制要求。"
+    },
+    {
+      "en": "All employees will be enrolled in a refreshed online training module shortly.",
+      "zh": "全體員工將於近期被加入更新後的線上訓練模組。"
+    },
+    {
+      "en": "The module takes approximately 45 minutes and must be completed within 30 days.",
+      "zh": "該模組約需四十五分鐘，並須於三十天內完成。"
+    },
+    {
+      "en": "A summary version of the code is available on the corporate intranet.",
+      "zh": "準則的摘要版本可於公司內部網路取得。"
+    },
+    {
+      "en": "Printed copies will be distributed to sites that need offline reference.",
+      "zh": "需要離線參考的據點將發放紙本。"
+    },
+    {
+      "en": "Questions or suggestions may be sent to the office of ethics and compliance.",
+      "zh": "如有疑問或建議，可寄至倫理與法遵辦公室。"
+    },
+    {
+      "en": "Together, our shared commitment to these standards defines who we are.",
+      "zh": "我們對這些標準的共同承諾共同界定了我們是誰。"
+    },
+    {
+      "en": "Town hall sessions will be hosted regionally to explain key changes and answer questions.",
+      "zh": "將在各區域舉辦員工大會以說明主要變動並回答問題。"
+    },
+    {
+      "en": "Senior leaders will participate personally to reinforce the importance of the new code.",
+      "zh": "資深主管將親自參與以強化新準則的重要性。"
+    },
+    {
+      "en": "Team leads should incorporate ethical themes into routine staff meetings going forward.",
+      "zh": "未來團隊主管應將倫理主題納入例行員工會議。"
+    },
+    {
+      "en": "Case studies will be shared each quarter to illustrate real-world ethical decision making.",
+      "zh": "每季將分享案例研究以說明真實世界的倫理決策。"
+    },
+    {
+      "en": "Vendors and partners will be required to acknowledge the updated supplier conduct standards.",
+      "zh": "供應商與合作夥伴將被要求承認更新後的供應商行為標準。"
+    },
+    {
+      "en": "Failure to comply with the code may result in disciplinary action up to termination.",
+      "zh": "違反本準則可能導致最高至解僱的紀律處分。"
+    },
+    {
+      "en": "We trust that every team member will embrace these standards with pride and accountability.",
+      "zh": "我們相信每位團隊成員都將以榮譽與當責的態度擁抱這些標準。"
+    },
+    {
+      "en": "An external advisor reviewed the revisions to ensure alignment with global best practices.",
+      "zh": "外部顧問已審閱本次修訂以確保與全球最佳實務一致。"
+    },
+    {
+      "en": "We extend our appreciation to the cross-functional task force that led this initiative.",
+      "zh": "感謝主導此計畫的跨部門專案小組。"
+    },
+    {
+      "en": "Building trust, day by day, remains the foundation of our long-term success.",
+      "zh": "日復一日建立信任仍是我們長期成功的基石。"
+    },
+    {
+      "en": "Acknowledgment of the updated code is required from every employee within 14 days of release.",
+      "zh": "全體員工須於準則發布後十四天內完成更新版簽署確認。"
+    },
+    {
+      "en": "Compliance officers will visit each office monthly during the rollout period.",
+      "zh": "推行期間法遵主管將每月走訪各辦公室。"
+    },
+    {
+      "en": "Anonymous focus groups will be held to evaluate the effectiveness of the new guidelines.",
+      "zh": "將舉辦匿名焦點團體以評估新指引的執行成效。"
+    },
+    {
+      "en": "Gift registers must be updated within five business days of any reportable event.",
+      "zh": "禮品登記簿須於可申報事件發生後五個工作日內更新。"
+    },
+    {
+      "en": "Procurement will lead supplier briefings on the revised supplier conduct expectations.",
+      "zh": "採購將主辦供應商簡報以說明修訂後的供應商行為要求。"
+    },
+    {
+      "en": "Conflict of interest disclosures will now be refreshed annually rather than every two years.",
+      "zh": "利益衝突揭露現將改為每年更新而非每兩年。"
+    },
+    {
+      "en": "An updated whistleblower protection statement is included as Appendix B of the code.",
+      "zh": "更新版吹哨者保護聲明已納入本準則附錄 B。"
+    },
+    {
+      "en": "Ethics champions have been nominated within each region to support local awareness.",
+      "zh": "已於各區域提名倫理大使以協助提升在地認知。"
+    },
+    {
+      "en": "Compliance metrics will be reported to the audit committee on a semi-annual basis.",
+      "zh": "法遵指標將每半年向稽核委員會報告。"
+    },
+    {
+      "en": "We invite every team member to share feedback that will shape the next code revision.",
+      "zh": "我們邀請每位團隊成員提供回饋以形塑下一版準則的修訂。"
+    }
   ]
 }

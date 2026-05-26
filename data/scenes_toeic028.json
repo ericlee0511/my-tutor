@@ -1,49 +1,181 @@
 {
   "title": "Subscription Renewal Reminder Email",
   "all": [
-    { "en": "Dear valued subscriber, this is a friendly reminder about your account.", "zh": "親愛的訂閱者，這是關於您帳戶的友善提醒。" },
-    { "en": "Your annual subscription to Horizon Business Magazine will expire on June 15.", "zh": "您訂閱的《Horizon 商業雜誌》年度訂閱將於六月十五日到期。" },
-    { "en": "We would hate for you to miss any of our upcoming feature articles.", "zh": "我們不希望您錯過任何即將推出的專題報導。" },
-    { "en": "Renewing today ensures uninterrupted delivery of every weekly issue.", "zh": "今日續訂可確保每週刊物不間斷送達。" },
-    { "en": "You can renew online in less than two minutes through our customer portal.", "zh": "您可以透過顧客平台在兩分鐘內完成線上續訂。" },
-    { "en": "Simply log in using your registered email and current password.", "zh": "只需以您註冊的電子郵件與目前密碼登入即可。" },
-    { "en": "Under the account tab, click the orange Renew Now button.", "zh": "在帳戶頁面下，點選橘色的「立即續訂」按鈕。" },
-    { "en": "You can choose between a one-year or two-year subscription plan.", "zh": "您可以選擇一年或兩年的訂閱方案。" },
-    { "en": "The two-year option offers savings of 20 percent over the standard rate.", "zh": "兩年方案較標準價可節省百分之二十。" },
-    { "en": "As an existing subscriber, you also qualify for a loyalty discount.", "zh": "身為現有訂戶，您還可享有忠誠顧客折扣。" },
-    { "en": "Use the promo code LOYAL26 at checkout to receive an additional 10 percent off.", "zh": "結帳時輸入優惠碼 LOYAL26 可再享百分之十折扣。" },
-    { "en": "If you renew before June 1, you will receive a complimentary digital archive pass.", "zh": "若您在六月一日前續訂，將獲贈免費數位典藏通行證。" },
-    { "en": "This pass grants access to more than ten years of past issues.", "zh": "此通行證可讓您閱覽超過十年的過刊內容。" },
-    { "en": "Our subscribers consistently rank our coverage as the most insightful in the industry.", "zh": "我們的訂戶持續評價我們的報導為業界最具洞見。" },
-    { "en": "Upcoming features include exclusive interviews with leading global executives.", "zh": "即將推出的專題包含與全球頂尖高階主管的獨家專訪。" },
-    { "en": "We will also publish a special report on the future of remote work.", "zh": "我們也將發布一份關於遠距工作未來的特別報導。" },
-    { "en": "If you wish to update your delivery address, please do so before renewing.", "zh": "如需更新寄送地址，請於續訂前完成修改。" },
-    { "en": "Digital-only subscribers can manage notification settings on the same page.", "zh": "純數位訂戶可在同一頁面管理通知設定。" },
-    { "en": "Should you have any billing questions, our team is ready to assist.", "zh": "若您有任何帳務問題，我們的團隊隨時樂意協助。" },
-    { "en": "You can reach us by email at support@horizonmag.com any day of the week.", "zh": "您可隨時透過電子郵件 support@horizonmag.com 與我們聯繫。" },
-    { "en": "Phone support is also available from 9 a.m. to 6 p.m. on weekdays.", "zh": "電話客服平日上午九點至下午六點亦提供服務。" },
-    { "en": "We truly appreciate your continued readership and support over the years.", "zh": "我們衷心感謝您多年來持續訂閱與支持。" },
-    { "en": "We hope you will choose to remain part of the Horizon community.", "zh": "希望您繼續成為 Horizon 社群的一員。" },
-    { "en": "Thank you, and we look forward to serving you for another year.", "zh": "謝謝您，期待再為您服務一年。" },
-    { "en": "Auto-renewal can be enabled in your account settings to prevent any future lapses in service.", "zh": "您可在帳戶設定中啟用自動續訂，避免日後服務中斷。" },
-    { "en": "Gift subscriptions are now available, perfect for colleagues and business partners.", "zh": "禮品訂閱方案現已推出，非常適合贈送同事與商業夥伴。" },
-    { "en": "Each gift subscription includes a personalized message card delivered with the first issue.", "zh": "每份禮品訂閱皆附上個人化祝福卡片，隨首期刊物寄出。" },
-    { "en": "Our editorial team is launching a monthly podcast for premium subscribers next quarter.", "zh": "編輯團隊將於下一季為高級訂戶推出每月一集的播客節目。" },
-    { "en": "Corporate accounts qualify for bulk pricing on subscriptions of ten copies or more.", "zh": "企業帳戶訂購十份以上可享有大宗訂閱優惠價。" },
-    { "en": "Tax-deductible receipts are issued automatically for all business-related purchases.", "zh": "所有商業相關採購將自動開立可抵稅的收據。" },
-    { "en": "Premium tier subscribers gain early access to our exclusive industry conference tickets.", "zh": "高級訂戶可優先取得我們獨家產業論壇門票的購買機會。" },
-    { "en": "Please review your subscriber profile to ensure your contact information remains current.", "zh": "請檢視您的訂戶資料，確保聯絡資訊維持最新狀態。" },
-    { "en": "Loyal readers celebrating ten years with us will receive a commemorative leather portfolio.", "zh": "訂閱屆滿十年的忠實讀者將獲贈紀念版皮質文件夾。" },
-    { "en": "Warm regards from the entire team at Horizon Business Magazine.", "zh": "Horizon 商業雜誌全體同仁致上誠摯問候。" },
-    { "en": "Reader advisory panels offer engaged subscribers a chance to influence upcoming editorial themes.", "zh": "讀者顧問小組提供熱心訂戶機會，影響未來的編輯主題方向。" },
-    { "en": "Our digital archive search engine has been upgraded to deliver results in under one second.", "zh": "我們的數位典藏搜尋引擎已升級，可在一秒內呈現搜尋結果。" },
-    { "en": "Subscribers can download high-resolution charts and infographics for use in their own presentations.", "zh": "訂戶可下載高解析度圖表與資訊圖，供個人簡報使用。" },
-    { "en": "Annual contributor awards recognize industry experts who have shaped our most popular articles.", "zh": "年度撰稿人獎將表揚形塑本刊最受歡迎文章的產業專家。" },
-    { "en": "Family plans allow up to four members at the same household to share a single subscription.", "zh": "家庭方案允許同一住址的最多四位成員共用單一訂閱。" },
-    { "en": "International readers may now choose currency preferences for billing during account setup.", "zh": "國際讀者於設定帳戶時可選擇計費的幣別偏好。" },
-    { "en": "Industry whitepapers prepared by our research team will be released exclusively to active subscribers.", "zh": "本研究團隊撰寫的產業白皮書將獨家提供給有效訂戶。" },
-    { "en": "Our customer success team is available via live chat during all standard business hours weekdays.", "zh": "我們的顧客成功團隊於平日上班時間皆提供線上即時諮詢服務。" },
-    { "en": "Refer a colleague program rewards both parties with one month of complimentary premium access.", "zh": "推薦同事方案讓推薦人與被推薦人皆可獲得一個月免費高級訂閱。" },
-    { "en": "We remain committed to delivering trusted business insight directly into your inbox each week.", "zh": "我們將持續致力於每週把可信賴的商業洞察直接送進您的信箱。" }
+    {
+      "en": "Dear valued subscriber, this is a friendly reminder about your account.",
+      "zh": "親愛的訂閱者，這是關於您帳戶的友善提醒。"
+    },
+    {
+      "en": "Your annual subscription to Horizon Business Magazine will expire on June 15.",
+      "zh": "您訂閱的《Horizon 商業雜誌》年度訂閱將於六月十五日到期。"
+    },
+    {
+      "en": "We would hate for you to miss any of our upcoming feature articles.",
+      "zh": "我們不希望您錯過任何即將推出的專題報導。"
+    },
+    {
+      "en": "Renewing today ensures uninterrupted delivery of every weekly issue.",
+      "zh": "今日續訂可確保每週刊物不間斷送達。"
+    },
+    {
+      "en": "You can renew online in less than two minutes through our customer portal.",
+      "zh": "您可以透過顧客平台在兩分鐘內完成線上續訂。"
+    },
+    {
+      "en": "Simply log in using your registered email and current password.",
+      "zh": "只需以您註冊的電子郵件與目前密碼登入即可。"
+    },
+    {
+      "en": "Under the account tab, click the orange Renew Now button.",
+      "zh": "在帳戶頁面下，點選橘色的「立即續訂」按鈕。"
+    },
+    {
+      "en": "You can choose between a one-year or two-year subscription plan.",
+      "zh": "您可以選擇一年或兩年的訂閱方案。"
+    },
+    {
+      "en": "The two-year option offers savings of 20 percent over the standard rate.",
+      "zh": "兩年方案較標準價可節省百分之二十。"
+    },
+    {
+      "en": "As an existing subscriber, you also qualify for a loyalty discount.",
+      "zh": "身為現有訂戶，您還可享有忠誠顧客折扣。"
+    },
+    {
+      "en": "Use the promo code LOYAL26 at checkout to receive an additional 10 percent off.",
+      "zh": "結帳時輸入優惠碼 LOYAL26 可再享百分之十折扣。"
+    },
+    {
+      "en": "If you renew before June 1, you will receive a complimentary digital archive pass.",
+      "zh": "若您在六月一日前續訂，將獲贈免費數位典藏通行證。"
+    },
+    {
+      "en": "This pass grants access to more than ten years of past issues.",
+      "zh": "此通行證可讓您閱覽超過十年的過刊內容。"
+    },
+    {
+      "en": "Our subscribers consistently rank our coverage as the most insightful in the industry.",
+      "zh": "我們的訂戶持續評價我們的報導為業界最具洞見。"
+    },
+    {
+      "en": "Upcoming features include exclusive interviews with leading global executives.",
+      "zh": "即將推出的專題包含與全球頂尖高階主管的獨家專訪。"
+    },
+    {
+      "en": "We will also publish a special report on the future of remote work.",
+      "zh": "我們也將發布一份關於遠距工作未來的特別報導。"
+    },
+    {
+      "en": "If you wish to update your delivery address, please do so before renewing.",
+      "zh": "如需更新寄送地址，請於續訂前完成修改。"
+    },
+    {
+      "en": "Digital-only subscribers can manage notification settings on the same page.",
+      "zh": "純數位訂戶可在同一頁面管理通知設定。"
+    },
+    {
+      "en": "Should you have any billing questions, our team is ready to assist.",
+      "zh": "若您有任何帳務問題，我們的團隊隨時樂意協助。"
+    },
+    {
+      "en": "You can reach us by email at support@horizonmag.com any day of the week.",
+      "zh": "您可隨時透過電子郵件 support@horizonmag.com 與我們聯繫。"
+    },
+    {
+      "en": "Phone support is also available from 9 a.m. to 6 p.m. on weekdays.",
+      "zh": "電話客服平日上午九點至下午六點亦提供服務。"
+    },
+    {
+      "en": "We truly appreciate your continued readership and support over the years.",
+      "zh": "我們衷心感謝您多年來持續訂閱與支持。"
+    },
+    {
+      "en": "We hope you will choose to remain part of the Horizon community.",
+      "zh": "希望您繼續成為 Horizon 社群的一員。"
+    },
+    {
+      "en": "Thank you, and we look forward to serving you for another year.",
+      "zh": "謝謝您，期待再為您服務一年。"
+    },
+    {
+      "en": "Auto-renewal can be enabled in your account settings to prevent any future lapses in service.",
+      "zh": "您可在帳戶設定中啟用自動續訂，避免日後服務中斷。"
+    },
+    {
+      "en": "Gift subscriptions are now available, perfect for colleagues and business partners.",
+      "zh": "禮品訂閱方案現已推出，非常適合贈送同事與商業夥伴。"
+    },
+    {
+      "en": "Each gift subscription includes a personalized message card delivered with the first issue.",
+      "zh": "每份禮品訂閱皆附上個人化祝福卡片，隨首期刊物寄出。"
+    },
+    {
+      "en": "Our editorial team is launching a monthly podcast for premium subscribers next quarter.",
+      "zh": "編輯團隊將於下一季為高級訂戶推出每月一集的播客節目。"
+    },
+    {
+      "en": "Corporate accounts qualify for bulk pricing on subscriptions of ten copies or more.",
+      "zh": "企業帳戶訂購十份以上可享有大宗訂閱優惠價。"
+    },
+    {
+      "en": "Tax-deductible receipts are issued automatically for all business-related purchases.",
+      "zh": "所有商業相關採購將自動開立可抵稅的收據。"
+    },
+    {
+      "en": "Premium tier subscribers gain early access to our exclusive industry conference tickets.",
+      "zh": "高級訂戶可優先取得我們獨家產業論壇門票的購買機會。"
+    },
+    {
+      "en": "Please review your subscriber profile to ensure your contact information remains current.",
+      "zh": "請檢視您的訂戶資料，確保聯絡資訊維持最新狀態。"
+    },
+    {
+      "en": "Loyal readers celebrating ten years with us will receive a commemorative leather portfolio.",
+      "zh": "訂閱屆滿十年的忠實讀者將獲贈紀念版皮質文件夾。"
+    },
+    {
+      "en": "Warm regards from the entire team at Horizon Business Magazine.",
+      "zh": "Horizon 商業雜誌全體同仁致上誠摯問候。"
+    },
+    {
+      "en": "Reader advisory panels offer engaged subscribers a chance to influence upcoming editorial themes.",
+      "zh": "讀者顧問小組提供熱心訂戶機會，影響未來的編輯主題方向。"
+    },
+    {
+      "en": "Our digital archive search engine has been upgraded to deliver results in under one second.",
+      "zh": "我們的數位典藏搜尋引擎已升級，可在一秒內呈現搜尋結果。"
+    },
+    {
+      "en": "Subscribers can download high-resolution charts and infographics for use in their own presentations.",
+      "zh": "訂戶可下載高解析度圖表與資訊圖，供個人簡報使用。"
+    },
+    {
+      "en": "Annual contributor awards recognize industry experts who have shaped our most popular articles.",
+      "zh": "年度撰稿人獎將表揚形塑本刊最受歡迎文章的產業專家。"
+    },
+    {
+      "en": "Family plans allow up to four members at the same household to share a single subscription.",
+      "zh": "家庭方案允許同一住址的最多四位成員共用單一訂閱。"
+    },
+    {
+      "en": "International readers may now choose currency preferences for billing during account setup.",
+      "zh": "國際讀者於設定帳戶時可選擇計費的幣別偏好。"
+    },
+    {
+      "en": "Industry whitepapers prepared by our research team will be released exclusively to active subscribers.",
+      "zh": "本研究團隊撰寫的產業白皮書將獨家提供給有效訂戶。"
+    },
+    {
+      "en": "Our customer success team is available via live chat during all standard business hours weekdays.",
+      "zh": "我們的顧客成功團隊於平日上班時間皆提供線上即時諮詢服務。"
+    },
+    {
+      "en": "Refer a colleague program rewards both parties with one month of complimentary premium access.",
+      "zh": "推薦同事方案讓推薦人與被推薦人皆可獲得一個月免費高級訂閱。"
+    },
+    {
+      "en": "We remain committed to delivering trusted business insight directly into your inbox each week.",
+      "zh": "我們將持續致力於每週把可信賴的商業洞察直接送進您的信箱。"
+    }
   ]
 }

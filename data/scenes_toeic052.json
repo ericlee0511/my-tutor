@@ -1,49 +1,181 @@
 {
   "title": "Insurance Policy Renewal Letter",
   "all": [
-    { "en": "Dear Valued Client, thank you for choosing Northbridge Insurance over the past year.", "zh": "親愛的尊貴客戶，感謝您過去一年選擇 Northbridge 保險。" },
-    { "en": "Your commercial property and liability policy is approaching its annual renewal date.", "zh": "您的商業財產與責任保單即將屆至年度續約日。" },
-    { "en": "The current policy will expire at midnight on August 31 of this year.", "zh": "目前的保單將於今年八月三十一日午夜到期。" },
-    { "en": "We have prepared a renewal offer based on your updated risk profile.", "zh": "我們已根據您更新後的風險狀況準備好續約報價。" },
-    { "en": "Your renewed coverage maintains the existing limits of 5 million dollars per occurrence.", "zh": "您續約後的保障維持每事故五百萬美元的現有限額。" },
-    { "en": "Building coverage has been adjusted to reflect recent appraised replacement values.", "zh": "建築保額已調整以反映近期鑑定的重置價值。" },
-    { "en": "Business interruption protection has been extended from 12 to 18 months.", "zh": "營業中斷保障已由十二個月延長至十八個月。" },
-    { "en": "Equipment breakdown coverage now includes additional cloud-based business systems.", "zh": "機具故障保障現在增加涵蓋雲端商業系統。" },
-    { "en": "Cybersecurity endorsements have been enhanced at no additional cost.", "zh": "資安附加條款已加強保障，且不另收費。" },
-    { "en": "The total annual premium for the renewal period is 47,820 dollars.", "zh": "本續約期間之年度保費總額為四萬七千八百二十美元。" },
-    { "en": "This represents an increase of approximately 4 percent over your prior premium.", "zh": "此較您先前保費約增加百分之四。" },
-    { "en": "The change reflects industry-wide trends as well as your favorable claims history.", "zh": "此變動反映業界整體趨勢以及您良好的理賠紀錄。" },
-    { "en": "A 5 percent discount has been applied in recognition of your safety program.", "zh": "因您的安全計畫，已給予百分之五的折扣。" },
-    { "en": "Payment may be made annually, semi-annually, or quarterly without finance charges.", "zh": "保費可選擇年繳、半年繳或季繳，皆免收財務手續費。" },
-    { "en": "Enclosed you will find the renewal quote, schedule of forms, and policy summary.", "zh": "隨函附上續約報價、條款明細以及保單摘要。" },
-    { "en": "Please review the documents carefully and verify all coverage details.", "zh": "請仔細審閱文件並確認所有保障細節。" },
-    { "en": "Notify us promptly if any business operations or asset values have changed.", "zh": "若有任何營業內容或資產價值變動，請盡速通知我們。" },
-    { "en": "We are also happy to provide alternative coverage options upon request.", "zh": "如有需要，我們亦樂意提供其他保障方案。" },
-    { "en": "To accept this renewal, please sign and return the acceptance form by August 17.", "zh": "若同意此續約，請於八月十七日前簽署並寄回承諾書。" },
-    { "en": "Failure to respond before expiration may result in a lapse of coverage.", "zh": "若未於到期前回覆，可能導致保障中斷。" },
-    { "en": "Your dedicated account manager, Karen Bell, remains available to assist you.", "zh": "您的專屬客戶經理 Karen Bell 仍可隨時為您服務。" },
-    { "en": "She can be reached at 555-218-0944 or by email at kbell@northbridgeins.com.", "zh": "可撥打電話 555-218-0944 或透過電子郵件 kbell@northbridgeins.com 聯絡她。" },
-    { "en": "We deeply appreciate your continued trust and look forward to serving you again.", "zh": "我們由衷感謝您持續的信任，期待再次為您服務。" },
-    { "en": "Sincerely, Karen Bell, Senior Account Manager, Northbridge Insurance Group.", "zh": "謹此，Northbridge 保險集團資深客戶經理 Karen Bell 敬上。" },
-    { "en": "P.S. Please note that automatic renewal will only take effect after we receive your signed form.", "zh": "備註：自動續約僅於我們收到您簽署的承諾書後方生效。" },
-    { "en": "Should you prefer an electronic signature option, secure links can be sent by email.", "zh": "若您偏好電子簽章選項，可透過電子郵件寄送安全連結。" },
-    { "en": "A complimentary on-site risk consultation is available to all renewing clients this year.", "zh": "本年度所有續約客戶均可享免費的現場風險諮詢服務。" },
-    { "en": "Our loss control engineers can visit your premises within two weeks of your request.", "zh": "本公司損害防阻工程師可於您提出申請後兩週內至貴單位拜訪。" },
-    { "en": "We recommend scheduling this consultation prior to the upcoming hurricane season.", "zh": "我們建議於即將到來的颶風季節前安排此項諮詢。" },
-    { "en": "Northbridge has also launched a 24-hour online claims reporting service this quarter.", "zh": "Northbridge 本季亦推出二十四小時線上理賠通報服務。" },
-    { "en": "Clients can now upload supporting documentation directly through our mobile application.", "zh": "客戶現可透過我們的行動應用程式直接上傳佐證文件。" },
-    { "en": "Additional liability coverage for product recalls is available as a separate endorsement.", "zh": "產品回收相關的附加責任保障可作為獨立附加條款另行加保。" },
-    { "en": "We value transparency and welcome any questions about coverage terms or pricing.", "zh": "我們重視透明度，歡迎您就保障條款或定價提出任何問題。" },
-    { "en": "Thank you once again for placing your confidence in Northbridge Insurance Group.", "zh": "再次感謝您將信任託付給 Northbridge 保險集團。" },
-    { "en": "A new business interruption calculator is now available on the client self-service portal.", "zh": "新版營業中斷試算工具現已於客戶自助服務入口開放使用。" },
-    { "en": "Policyholders can also enroll in our quarterly risk insights newsletter at no charge.", "zh": "保戶亦可免費訂閱我們每季發行的風險洞察電子報。" },
-    { "en": "Loyalty discounts of up to 3 percent are available after five consecutive renewal cycles.", "zh": "連續五次續約後可享最高百分之三的忠誠折扣。" },
-    { "en": "Flood and earthquake riders can be added prior to the renewal effective date.", "zh": "洪水及地震附加險可於續約生效日前加保。" },
-    { "en": "Premium financing through approved third parties is supported for qualified clients.", "zh": "符合資格的客戶可透過核准的第三方辦理保費融資。" },
-    { "en": "Certificates of insurance will be issued within one business day upon written request.", "zh": "保險證明書將於書面申請後一個工作日內出具。" },
-    { "en": "Our claims advocate team is available to walk you through documentation requirements.", "zh": "本公司理賠協辦團隊可協助您逐步完成文件準備需求。" },
-    { "en": "We encourage you to schedule a brief stewardship review with your account manager.", "zh": "歡迎您與客戶經理安排簡短的服務檢視會議。" },
-    { "en": "Future correspondence may be delivered via secure email if you prefer paperless billing.", "zh": "若您偏好無紙化帳單，未來通訊可改透過安全電子郵件寄送。" },
-    { "en": "We look forward to renewing our partnership and supporting your business in the year ahead.", "zh": "我們期待續寫合作情誼，並於來年持續支持您的業務發展。" }
+    {
+      "en": "Dear Valued Client, thank you for choosing Northbridge Insurance over the past year.",
+      "zh": "親愛的尊貴客戶，感謝您過去一年選擇 Northbridge 保險。"
+    },
+    {
+      "en": "Your commercial property and liability policy is approaching its annual renewal date.",
+      "zh": "您的商業財產與責任保單即將屆至年度續約日。"
+    },
+    {
+      "en": "The current policy will expire at midnight on August 31 of this year.",
+      "zh": "目前的保單將於今年八月三十一日午夜到期。"
+    },
+    {
+      "en": "We have prepared a renewal offer based on your updated risk profile.",
+      "zh": "我們已根據您更新後的風險狀況準備好續約報價。"
+    },
+    {
+      "en": "Your renewed coverage maintains the existing limits of 5 million dollars per occurrence.",
+      "zh": "您續約後的保障維持每事故五百萬美元的現有限額。"
+    },
+    {
+      "en": "Building coverage has been adjusted to reflect recent appraised replacement values.",
+      "zh": "建築保額已調整以反映近期鑑定的重置價值。"
+    },
+    {
+      "en": "Business interruption protection has been extended from 12 to 18 months.",
+      "zh": "營業中斷保障已由十二個月延長至十八個月。"
+    },
+    {
+      "en": "Equipment breakdown coverage now includes additional cloud-based business systems.",
+      "zh": "機具故障保障現在增加涵蓋雲端商業系統。"
+    },
+    {
+      "en": "Cybersecurity endorsements have been enhanced at no additional cost.",
+      "zh": "資安附加條款已加強保障，且不另收費。"
+    },
+    {
+      "en": "The total annual premium for the renewal period is 47,820 dollars.",
+      "zh": "本續約期間之年度保費總額為四萬七千八百二十美元。"
+    },
+    {
+      "en": "This represents an increase of approximately 4 percent over your prior premium.",
+      "zh": "此較您先前保費約增加百分之四。"
+    },
+    {
+      "en": "The change reflects industry-wide trends as well as your favorable claims history.",
+      "zh": "此變動反映業界整體趨勢以及您良好的理賠紀錄。"
+    },
+    {
+      "en": "A 5 percent discount has been applied in recognition of your safety program.",
+      "zh": "因您的安全計畫，已給予百分之五的折扣。"
+    },
+    {
+      "en": "Payment may be made annually, semi-annually, or quarterly without finance charges.",
+      "zh": "保費可選擇年繳、半年繳或季繳，皆免收財務手續費。"
+    },
+    {
+      "en": "Enclosed you will find the renewal quote, schedule of forms, and policy summary.",
+      "zh": "隨函附上續約報價、條款明細以及保單摘要。"
+    },
+    {
+      "en": "Please review the documents carefully and verify all coverage details.",
+      "zh": "請仔細審閱文件並確認所有保障細節。"
+    },
+    {
+      "en": "Notify us promptly if any business operations or asset values have changed.",
+      "zh": "若有任何營業內容或資產價值變動，請盡速通知我們。"
+    },
+    {
+      "en": "We are also happy to provide alternative coverage options upon request.",
+      "zh": "如有需要，我們亦樂意提供其他保障方案。"
+    },
+    {
+      "en": "To accept this renewal, please sign and return the acceptance form by August 17.",
+      "zh": "若同意此續約，請於八月十七日前簽署並寄回承諾書。"
+    },
+    {
+      "en": "Failure to respond before expiration may result in a lapse of coverage.",
+      "zh": "若未於到期前回覆，可能導致保障中斷。"
+    },
+    {
+      "en": "Your dedicated account manager, Karen Bell, remains available to assist you.",
+      "zh": "您的專屬客戶經理 Karen Bell 仍可隨時為您服務。"
+    },
+    {
+      "en": "She can be reached at 555-218-0944 or by email at kbell@northbridgeins.com.",
+      "zh": "可撥打電話 555-218-0944 或透過電子郵件 kbell@northbridgeins.com 聯絡她。"
+    },
+    {
+      "en": "We deeply appreciate your continued trust and look forward to serving you again.",
+      "zh": "我們由衷感謝您持續的信任，期待再次為您服務。"
+    },
+    {
+      "en": "Sincerely, Karen Bell, Senior Account Manager, Northbridge Insurance Group.",
+      "zh": "謹此，Northbridge 保險集團資深客戶經理 Karen Bell 敬上。"
+    },
+    {
+      "en": "P.S. Please note that automatic renewal will only take effect after we receive your signed form.",
+      "zh": "備註：自動續約僅於我們收到您簽署的承諾書後方生效。"
+    },
+    {
+      "en": "Should you prefer an electronic signature option, secure links can be sent by email.",
+      "zh": "若您偏好電子簽章選項，可透過電子郵件寄送安全連結。"
+    },
+    {
+      "en": "A complimentary on-site risk consultation is available to all renewing clients this year.",
+      "zh": "本年度所有續約客戶均可享免費的現場風險諮詢服務。"
+    },
+    {
+      "en": "Our loss control engineers can visit your premises within two weeks of your request.",
+      "zh": "本公司損害防阻工程師可於您提出申請後兩週內至貴單位拜訪。"
+    },
+    {
+      "en": "We recommend scheduling this consultation prior to the upcoming hurricane season.",
+      "zh": "我們建議於即將到來的颶風季節前安排此項諮詢。"
+    },
+    {
+      "en": "Northbridge has also launched a 24-hour online claims reporting service this quarter.",
+      "zh": "Northbridge 本季亦推出二十四小時線上理賠通報服務。"
+    },
+    {
+      "en": "Clients can now upload supporting documentation directly through our mobile application.",
+      "zh": "客戶現可透過我們的行動應用程式直接上傳佐證文件。"
+    },
+    {
+      "en": "Additional liability coverage for product recalls is available as a separate endorsement.",
+      "zh": "產品回收相關的附加責任保障可作為獨立附加條款另行加保。"
+    },
+    {
+      "en": "We value transparency and welcome any questions about coverage terms or pricing.",
+      "zh": "我們重視透明度，歡迎您就保障條款或定價提出任何問題。"
+    },
+    {
+      "en": "Thank you once again for placing your confidence in Northbridge Insurance Group.",
+      "zh": "再次感謝您將信任託付給 Northbridge 保險集團。"
+    },
+    {
+      "en": "A new business interruption calculator is now available on the client self-service portal.",
+      "zh": "新版營業中斷試算工具現已於客戶自助服務入口開放使用。"
+    },
+    {
+      "en": "Policyholders can also enroll in our quarterly risk insights newsletter at no charge.",
+      "zh": "保戶亦可免費訂閱我們每季發行的風險洞察電子報。"
+    },
+    {
+      "en": "Loyalty discounts of up to 3 percent are available after five consecutive renewal cycles.",
+      "zh": "連續五次續約後可享最高百分之三的忠誠折扣。"
+    },
+    {
+      "en": "Flood and earthquake riders can be added prior to the renewal effective date.",
+      "zh": "洪水及地震附加險可於續約生效日前加保。"
+    },
+    {
+      "en": "Premium financing through approved third parties is supported for qualified clients.",
+      "zh": "符合資格的客戶可透過核准的第三方辦理保費融資。"
+    },
+    {
+      "en": "Certificates of insurance will be issued within one business day upon written request.",
+      "zh": "保險證明書將於書面申請後一個工作日內出具。"
+    },
+    {
+      "en": "Our claims advocate team is available to walk you through documentation requirements.",
+      "zh": "本公司理賠協辦團隊可協助您逐步完成文件準備需求。"
+    },
+    {
+      "en": "We encourage you to schedule a brief stewardship review with your account manager.",
+      "zh": "歡迎您與客戶經理安排簡短的服務檢視會議。"
+    },
+    {
+      "en": "Future correspondence may be delivered via secure email if you prefer paperless billing.",
+      "zh": "若您偏好無紙化帳單，未來通訊可改透過安全電子郵件寄送。"
+    },
+    {
+      "en": "We look forward to renewing our partnership and supporting your business in the year ahead.",
+      "zh": "我們期待續寫合作情誼，並於來年持續支持您的業務發展。"
+    }
   ]
 }

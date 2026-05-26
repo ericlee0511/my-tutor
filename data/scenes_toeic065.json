@@ -1,49 +1,181 @@
 {
   "title": "Lead Qualification Training Notes",
   "all": [
-    { "en": "This training session covers our updated lead qualification framework.", "zh": "本訓練課程介紹我們更新後的潛客分級架構。" },
-    { "en": "Lead qualification helps reps focus on the most promising opportunities.", "zh": "潛客分級幫助業務員聚焦於最有潛力的機會。" },
-    { "en": "Poor qualification wastes time on deals that never close.", "zh": "不良的分級會浪費時間在永遠無法成交的案件上。" },
-    { "en": "We use a popular framework based on five key qualification criteria.", "zh": "我們採用以五項關鍵分級標準為基礎的熱門架構。" },
-    { "en": "The first criterion is metrics, or quantifiable business outcomes.", "zh": "第一項標準為指標，即可量化的業務成果。" },
-    { "en": "Reps must understand the financial impact a customer hopes to achieve.", "zh": "業務員需了解客戶希望達成的財務影響。" },
-    { "en": "The second criterion is economic buyer identification within the account.", "zh": "第二項標準為識別客戶內部的經濟決策者。" },
-    { "en": "The economic buyer holds budget authority for the proposed solution.", "zh": "經濟決策者擁有提案解決方案的預算決定權。" },
-    { "en": "Reaching this person early accelerates the entire sales cycle.", "zh": "早期接觸此人可加速整個業務週期。" },
-    { "en": "The third criterion is decision criteria used by the buyer team.", "zh": "第三項標準為買方團隊使用的決策標準。" },
-    { "en": "Understanding these criteria allows reps to tailor their messaging.", "zh": "了解這些標準可讓業務員客製化訴求。" },
-    { "en": "The fourth criterion is decision process and approval steps required.", "zh": "第四項標準為決策流程與所需的核准步驟。" },
-    { "en": "Mapping the process avoids surprises and helps create realistic timelines.", "zh": "繪製流程可避免意外並協助建立合理時程。" },
-    { "en": "The fifth criterion is paper process for contracting and procurement.", "zh": "第五項標準為合約與採購的書面流程。" },
-    { "en": "Procurement steps can add weeks if not anticipated early.", "zh": "若未及早預期，採購步驟可能延遲數週。" },
-    { "en": "Additional factors include identified pain, champion, and competition.", "zh": "額外因素包含已識別的痛點、內部擁護者與競爭。" },
-    { "en": "A champion provides internal advocacy and access to information.", "zh": "內部擁護者提供內部支持與資訊存取。" },
-    { "en": "Without a champion, complex deals often stall indefinitely.", "zh": "若無內部擁護者，複雜案件常會無限期停滯。" },
-    { "en": "Pain identification confirms that change is genuinely needed now.", "zh": "痛點識別確認變革確實有當下的迫切需求。" },
-    { "en": "Without pain, prospects often default to inaction or delay.", "zh": "若無痛點，潛在客戶常傾向不作為或延後。" },
-    { "en": "Competitive awareness shapes how we differentiate our solution.", "zh": "競爭情報形塑我們差異化解決方案的方式。" },
-    { "en": "Reps practice qualification skills through role play exercises.", "zh": "業務員透過角色扮演練習磨練分級技巧。" },
-    { "en": "Managers coach discovery calls weekly using recorded sessions.", "zh": "經理每週使用錄音檔輔導需求探索通話。" },
-    { "en": "Strong qualification leads to higher win rates and accurate forecasts.", "zh": "良好的分級帶來更高的勝率與準確的預測。" },
-    { "en": "Discovery questions should always remain open ended and customer focused.", "zh": "需求探索問題應始終保持開放式並以客戶為中心。" },
-    { "en": "Active listening uncovers deeper motivations behind the stated requirements.", "zh": "積極傾聽能挖掘表述需求背後更深層的動機。" },
-    { "en": "Pipeline reviews scrutinize each deal against the full qualification checklist.", "zh": "管線檢討會依完整分級檢核表審視每個案件。" },
-    { "en": "Stalled opportunities are reassessed for missing qualification elements.", "zh": "停滯機會將針對缺失的分級要素重新評估。" },
-    { "en": "Disqualifying weak leads early protects valuable selling time.", "zh": "及早淘汰薄弱潛客可保護寶貴的銷售時間。" },
-    { "en": "A returned lead is properly nurtured through marketing automation workflows.", "zh": "退回的潛客透過行銷自動化流程妥善培養。" },
-    { "en": "Marketing and sales align on shared definitions for each lead stage.", "zh": "行銷與業務就每個潛客階段的共同定義達成一致。" },
-    { "en": "Service level agreements govern lead handoff timing between teams.", "zh": "服務水準協議規範團隊間潛客交接的時程。" },
-    { "en": "Win loss interviews reveal patterns that refine future qualification efforts.", "zh": "勝負分析訪談揭示有助於精進未來分級工作的模式。" },
-    { "en": "Continuous training keeps the entire team aligned on evolving best practices.", "zh": "持續訓練讓整個團隊與不斷演進的最佳實務保持一致。" },
-    { "en": "Discovery decks should be customized to reflect each prospect specific industry.", "zh": "需求探索簡報應依每位潛客所屬產業客製化。" },
-    { "en": "Mutual action plans align both teams on milestones leading to the signing day.", "zh": "雙方行動計畫讓雙方團隊就邁向簽約日的里程碑保持一致。" },
-    { "en": "Multi threaded engagement reduces risk when a single champion departs the organization.", "zh": "多線聯繫於單一擁護者離職時可降低風險。" },
-    { "en": "Executive briefings reinforce strategic alignment at the senior decision level.", "zh": "高階簡報於資深決策層面強化策略一致性。" },
-    { "en": "Proof of value engagements demonstrate measurable outcomes before contract signing.", "zh": "價值驗證合作於簽約前展示可衡量的成果。" },
-    { "en": "Reference customers can dramatically shorten the late stage decision making process.", "zh": "客戶推薦可大幅縮短後期決策流程。" },
-    { "en": "Procurement workshops help reps anticipate purchasing requirements early in the cycle.", "zh": "採購工作坊協助業務員於週期早期預期採購需求。" },
-    { "en": "Legal redlines should be addressed in parallel with technical due diligence.", "zh": "法律意見修改應與技術盡職調查並行處理。" },
-    { "en": "Win plans document the precise steps needed to close each strategic opportunity.", "zh": "致勝計畫記載結案每個策略性機會所需的精確步驟。" },
-    { "en": "Post sale handoffs ensure customer success teams understand the deal context fully.", "zh": "售後交接確保客戶成功團隊充分了解交易背景。" }
+    {
+      "en": "This training session covers our updated lead qualification framework.",
+      "zh": "本訓練課程介紹我們更新後的潛客分級架構。"
+    },
+    {
+      "en": "Lead qualification helps reps focus on the most promising opportunities.",
+      "zh": "潛客分級幫助業務員聚焦於最有潛力的機會。"
+    },
+    {
+      "en": "Poor qualification wastes time on deals that never close.",
+      "zh": "不良的分級會浪費時間在永遠無法成交的案件上。"
+    },
+    {
+      "en": "We use a popular framework based on five key qualification criteria.",
+      "zh": "我們採用以五項關鍵分級標準為基礎的熱門架構。"
+    },
+    {
+      "en": "The first criterion is metrics, or quantifiable business outcomes.",
+      "zh": "第一項標準為指標，即可量化的業務成果。"
+    },
+    {
+      "en": "Reps must understand the financial impact a customer hopes to achieve.",
+      "zh": "業務員需了解客戶希望達成的財務影響。"
+    },
+    {
+      "en": "The second criterion is economic buyer identification within the account.",
+      "zh": "第二項標準為識別客戶內部的經濟決策者。"
+    },
+    {
+      "en": "The economic buyer holds budget authority for the proposed solution.",
+      "zh": "經濟決策者擁有提案解決方案的預算決定權。"
+    },
+    {
+      "en": "Reaching this person early accelerates the entire sales cycle.",
+      "zh": "早期接觸此人可加速整個業務週期。"
+    },
+    {
+      "en": "The third criterion is decision criteria used by the buyer team.",
+      "zh": "第三項標準為買方團隊使用的決策標準。"
+    },
+    {
+      "en": "Understanding these criteria allows reps to tailor their messaging.",
+      "zh": "了解這些標準可讓業務員客製化訴求。"
+    },
+    {
+      "en": "The fourth criterion is decision process and approval steps required.",
+      "zh": "第四項標準為決策流程與所需的核准步驟。"
+    },
+    {
+      "en": "Mapping the process avoids surprises and helps create realistic timelines.",
+      "zh": "繪製流程可避免意外並協助建立合理時程。"
+    },
+    {
+      "en": "The fifth criterion is paper process for contracting and procurement.",
+      "zh": "第五項標準為合約與採購的書面流程。"
+    },
+    {
+      "en": "Procurement steps can add weeks if not anticipated early.",
+      "zh": "若未及早預期，採購步驟可能延遲數週。"
+    },
+    {
+      "en": "Additional factors include identified pain, champion, and competition.",
+      "zh": "額外因素包含已識別的痛點、內部擁護者與競爭。"
+    },
+    {
+      "en": "A champion provides internal advocacy and access to information.",
+      "zh": "內部擁護者提供內部支持與資訊存取。"
+    },
+    {
+      "en": "Without a champion, complex deals often stall indefinitely.",
+      "zh": "若無內部擁護者，複雜案件常會無限期停滯。"
+    },
+    {
+      "en": "Pain identification confirms that change is genuinely needed now.",
+      "zh": "痛點識別確認變革確實有當下的迫切需求。"
+    },
+    {
+      "en": "Without pain, prospects often default to inaction or delay.",
+      "zh": "若無痛點，潛在客戶常傾向不作為或延後。"
+    },
+    {
+      "en": "Competitive awareness shapes how we differentiate our solution.",
+      "zh": "競爭情報形塑我們差異化解決方案的方式。"
+    },
+    {
+      "en": "Reps practice qualification skills through role play exercises.",
+      "zh": "業務員透過角色扮演練習磨練分級技巧。"
+    },
+    {
+      "en": "Managers coach discovery calls weekly using recorded sessions.",
+      "zh": "經理每週使用錄音檔輔導需求探索通話。"
+    },
+    {
+      "en": "Strong qualification leads to higher win rates and accurate forecasts.",
+      "zh": "良好的分級帶來更高的勝率與準確的預測。"
+    },
+    {
+      "en": "Discovery questions should always remain open ended and customer focused.",
+      "zh": "需求探索問題應始終保持開放式並以客戶為中心。"
+    },
+    {
+      "en": "Active listening uncovers deeper motivations behind the stated requirements.",
+      "zh": "積極傾聽能挖掘表述需求背後更深層的動機。"
+    },
+    {
+      "en": "Pipeline reviews scrutinize each deal against the full qualification checklist.",
+      "zh": "管線檢討會依完整分級檢核表審視每個案件。"
+    },
+    {
+      "en": "Stalled opportunities are reassessed for missing qualification elements.",
+      "zh": "停滯機會將針對缺失的分級要素重新評估。"
+    },
+    {
+      "en": "Disqualifying weak leads early protects valuable selling time.",
+      "zh": "及早淘汰薄弱潛客可保護寶貴的銷售時間。"
+    },
+    {
+      "en": "A returned lead is properly nurtured through marketing automation workflows.",
+      "zh": "退回的潛客透過行銷自動化流程妥善培養。"
+    },
+    {
+      "en": "Marketing and sales align on shared definitions for each lead stage.",
+      "zh": "行銷與業務就每個潛客階段的共同定義達成一致。"
+    },
+    {
+      "en": "Service level agreements govern lead handoff timing between teams.",
+      "zh": "服務水準協議規範團隊間潛客交接的時程。"
+    },
+    {
+      "en": "Win loss interviews reveal patterns that refine future qualification efforts.",
+      "zh": "勝負分析訪談揭示有助於精進未來分級工作的模式。"
+    },
+    {
+      "en": "Continuous training keeps the entire team aligned on evolving best practices.",
+      "zh": "持續訓練讓整個團隊與不斷演進的最佳實務保持一致。"
+    },
+    {
+      "en": "Discovery decks should be customized to reflect each prospect specific industry.",
+      "zh": "需求探索簡報應依每位潛客所屬產業客製化。"
+    },
+    {
+      "en": "Mutual action plans align both teams on milestones leading to the signing day.",
+      "zh": "雙方行動計畫讓雙方團隊就邁向簽約日的里程碑保持一致。"
+    },
+    {
+      "en": "Multi threaded engagement reduces risk when a single champion departs the organization.",
+      "zh": "多線聯繫於單一擁護者離職時可降低風險。"
+    },
+    {
+      "en": "Executive briefings reinforce strategic alignment at the senior decision level.",
+      "zh": "高階簡報於資深決策層面強化策略一致性。"
+    },
+    {
+      "en": "Proof of value engagements demonstrate measurable outcomes before contract signing.",
+      "zh": "價值驗證合作於簽約前展示可衡量的成果。"
+    },
+    {
+      "en": "Reference customers can dramatically shorten the late stage decision making process.",
+      "zh": "客戶推薦可大幅縮短後期決策流程。"
+    },
+    {
+      "en": "Procurement workshops help reps anticipate purchasing requirements early in the cycle.",
+      "zh": "採購工作坊協助業務員於週期早期預期採購需求。"
+    },
+    {
+      "en": "Legal redlines should be addressed in parallel with technical due diligence.",
+      "zh": "法律意見修改應與技術盡職調查並行處理。"
+    },
+    {
+      "en": "Win plans document the precise steps needed to close each strategic opportunity.",
+      "zh": "致勝計畫記載結案每個策略性機會所需的精確步驟。"
+    },
+    {
+      "en": "Post sale handoffs ensure customer success teams understand the deal context fully.",
+      "zh": "售後交接確保客戶成功團隊充分了解交易背景。"
+    }
   ]
 }

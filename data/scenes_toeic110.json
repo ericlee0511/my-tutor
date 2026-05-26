@@ -1,48 +1,177 @@
 {
   "title": "New Office Equipment Purchase Request",
   "all": [
-    { "en": "To, Procurement Department; from, Hana Kim, Marketing Operations Manager.", "zh": "致：採購部；發文者：Hana Kim，行銷營運經理。" },
-    { "en": "Subject, request to purchase new office equipment for the third floor.", "zh": "主旨：申請為三樓採購新辦公設備。" },
-    { "en": "I am writing to request approval for several urgent equipment upgrades.", "zh": "本人謹此申請核准數項急迫的設備升級。" },
-    { "en": "Our team has grown from twelve members to twenty-two over the past year.", "zh": "我們團隊過去一年已從 12 人成長至 22 人。" },
-    { "en": "The current shared printer cannot handle our growing print volume.", "zh": "現有的共用印表機已無法負荷我們持續增加的列印量。" },
-    { "en": "We propose purchasing one AeroPrint X9 multifunction unit at retail price.", "zh": "我們建議以零售價購買一台 AeroPrint X9 多功能事務機。" },
-    { "en": "Estimated cost is twenty-eight hundred dollars including extended warranty.", "zh": "預估費用為 2,800 美元，含延長保固。" },
-    { "en": "We also need eight new ergonomic chairs to replace damaged ones.", "zh": "我們也需要八張新的人體工學椅，以汰換損壞的椅子。" },
-    { "en": "Several employees have complained of back pain in recent monthly surveys.", "zh": "近月調查中已有多位員工反映背部疼痛。" },
-    { "en": "The recommended model is the Steelcase Series Two task chair.", "zh": "建議型號為 Steelcase Series Two 辦公椅。" },
-    { "en": "Each chair costs around six hundred dollars after the corporate discount.", "zh": "扣除企業折扣後，每張椅子約 600 美元。" },
-    { "en": "Additionally, the meeting room speaker phone makes static during conference calls.", "zh": "此外，會議室擴音電話於會議通話時出現雜音。" },
-    { "en": "We would like to replace it with a Poly Sync 60 unit.", "zh": "我們希望以 Poly Sync 60 機種更換之。" },
-    { "en": "The replacement quote is nine hundred dollars from our approved vendor.", "zh": "更換報價來自核可供應商，金額為 900 美元。" },
-    { "en": "Including taxes, the total request comes to nine thousand six hundred dollars.", "zh": "含稅後本次申請總額為 9,600 美元。" },
-    { "en": "This amount falls within our department capital expenditure budget for Q2.", "zh": "此金額在本部門 Q2 資本支出預算範圍內。" },
-    { "en": "I have attached three competitive quotes per company procurement policy.", "zh": "我已依公司採購政策附上三家比較報價。" },
-    { "en": "Please review the attachments and let me know if anything is missing.", "zh": "請審閱附件，若有缺漏請告知。" },
-    { "en": "Once approved, vendors can deliver everything within ten business days.", "zh": "一經核准，供應商可於 10 個工作天內全數交貨。" },
-    { "en": "I would appreciate a decision by the end of next week.", "zh": "盼能於下週末前獲得決議。" },
-    { "en": "Delaying this purchase may affect our campaign launch in June.", "zh": "若延後採購，恐影響我們六月的活動上線。" },
-    { "en": "Thank you for your consideration and ongoing support of our team.", "zh": "感謝您的考量與對我們團隊的長期支持。" },
-    { "en": "Please contact me at extension 4421 with any questions or concerns.", "zh": "若有任何問題或疑慮，請撥分機 4421 聯繫我。" },
-    { "en": "I am also available to present these items in person if helpful.", "zh": "若有需要，我也可親自到場簡報這些項目。" },
-    { "en": "All proposed vendors are pre-qualified under our latest compliance review.", "zh": "所提供應商皆已通過我們最新的合規審查並具備供應資格。" },
-    { "en": "Delivery dates can be staggered to minimize disruption to ongoing work.", "zh": "交貨日期可分批安排，以將對日常工作的干擾降到最低。" },
-    { "en": "Old equipment will be cycled through our certified electronics recycler.", "zh": "汰換的舊設備將透過我們認證的電子廢棄物回收商處理。" },
-    { "en": "Asset tags will be applied immediately upon receipt of every new item.", "zh": "所有新進物品在收貨時將立即貼上資產標籤。" },
-    { "en": "The IT helpdesk has confirmed compatibility with our network configuration.", "zh": "資訊服務台已確認與本公司網路設定相容。" },
-    { "en": "Facilities will coordinate installation outside of regular business hours.", "zh": "總務部會於正常上班時間外協調安裝事宜。" },
-    { "en": "A summary report on utilization will be shared after the first quarter.", "zh": "首季結束後將分享使用率彙整報告。" },
-    { "en": "Your prompt attention to this matter is greatly appreciated as always.", "zh": "一如既往，感謝您對此事的迅速處理。" },
-    { "en": "Best regards, Hana Kim, Marketing Operations Manager, Riverside Building.", "zh": "敬祝商安，Hana Kim，行銷營運經理，Riverside 大樓。" },
-    { "en": "Postscript, our team can absorb training costs from our internal budget.", "zh": "附註：本團隊可由內部預算吸收訓練費用。" },
-    { "en": "Vendor representatives have offered free onsite setup as a courtesy service.", "zh": "供應商代表已主動提供免費到府安裝作為禮遇服務。" },
-    { "en": "All chairs come with a ten year warranty covering manufacturer defects.", "zh": "所有椅子皆附十年保固，涵蓋製造瑕疵。" },
-    { "en": "The printer model qualifies for our existing service contract terms.", "zh": "該印表機型號適用我方現行服務合約條款。" },
-    { "en": "Phone system upgrades may reduce monthly conference call charges noticeably.", "zh": "電話系統升級可顯著降低每月會議通話費用。" },
-    { "en": "I have shared this request with the finance liaison for early review.", "zh": "本人已將本申請轉交財務聯絡人進行初步審視。" },
-    { "en": "Approval routing should follow our standard four-tier signature workflow.", "zh": "核准流程應遵循標準四層級簽核作業。" },
-    { "en": "Please flag any required modifications before the formal purchase order issues.", "zh": "請於正式採購單發出前標註所有需修改事項。" },
-    { "en": "I am happy to coordinate directly with selected vendors after approval.", "zh": "核准後本人樂於直接與指定供應商協調事宜。" },
-    { "en": "Thank you once again for prioritizing our team productivity and well-being.", "zh": "再次感謝您優先考量本團隊的生產力與福祉。" }
+    {
+      "en": "To, Procurement Department; from, Hana Kim, Marketing Operations Manager.",
+      "zh": "致：採購部；發文者：Hana Kim，行銷營運經理。"
+    },
+    {
+      "en": "Subject, request to purchase new office equipment for the third floor.",
+      "zh": "主旨：申請為三樓採購新辦公設備。"
+    },
+    {
+      "en": "I am writing to request approval for several urgent equipment upgrades.",
+      "zh": "本人謹此申請核准數項急迫的設備升級。"
+    },
+    {
+      "en": "Our team has grown from twelve members to twenty-two over the past year.",
+      "zh": "我們團隊過去一年已從 12 人成長至 22 人。"
+    },
+    {
+      "en": "The current shared printer cannot handle our growing print volume.",
+      "zh": "現有的共用印表機已無法負荷我們持續增加的列印量。"
+    },
+    {
+      "en": "We propose purchasing one AeroPrint X9 multifunction unit at retail price.",
+      "zh": "我們建議以零售價購買一台 AeroPrint X9 多功能事務機。"
+    },
+    {
+      "en": "Estimated cost is twenty-eight hundred dollars including extended warranty.",
+      "zh": "預估費用為 2,800 美元，含延長保固。"
+    },
+    {
+      "en": "We also need eight new ergonomic chairs to replace damaged ones.",
+      "zh": "我們也需要八張新的人體工學椅，以汰換損壞的椅子。"
+    },
+    {
+      "en": "Several employees have complained of back pain in recent monthly surveys.",
+      "zh": "近月調查中已有多位員工反映背部疼痛。"
+    },
+    {
+      "en": "The recommended model is the Steelcase Series Two task chair.",
+      "zh": "建議型號為 Steelcase Series Two 辦公椅。"
+    },
+    {
+      "en": "Each chair costs around six hundred dollars after the corporate discount.",
+      "zh": "扣除企業折扣後，每張椅子約 600 美元。"
+    },
+    {
+      "en": "Additionally, the meeting room speaker phone makes static during conference calls.",
+      "zh": "此外，會議室擴音電話於會議通話時出現雜音。"
+    },
+    {
+      "en": "We would like to replace it with a Poly Sync 60 unit.",
+      "zh": "我們希望以 Poly Sync 60 機種更換之。"
+    },
+    {
+      "en": "The replacement quote is nine hundred dollars from our approved vendor.",
+      "zh": "更換報價來自核可供應商，金額為 900 美元。"
+    },
+    {
+      "en": "Including taxes, the total request comes to nine thousand six hundred dollars.",
+      "zh": "含稅後本次申請總額為 9,600 美元。"
+    },
+    {
+      "en": "This amount falls within our department capital expenditure budget for Q2.",
+      "zh": "此金額在本部門 Q2 資本支出預算範圍內。"
+    },
+    {
+      "en": "I have attached three competitive quotes per company procurement policy.",
+      "zh": "我已依公司採購政策附上三家比較報價。"
+    },
+    {
+      "en": "Please review the attachments and let me know if anything is missing.",
+      "zh": "請審閱附件，若有缺漏請告知。"
+    },
+    {
+      "en": "Once approved, vendors can deliver everything within ten business days.",
+      "zh": "一經核准，供應商可於 10 個工作天內全數交貨。"
+    },
+    {
+      "en": "I would appreciate a decision by the end of next week.",
+      "zh": "盼能於下週末前獲得決議。"
+    },
+    {
+      "en": "Delaying this purchase may affect our campaign launch in June.",
+      "zh": "若延後採購，恐影響我們六月的活動上線。"
+    },
+    {
+      "en": "Thank you for your consideration and ongoing support of our team.",
+      "zh": "感謝您的考量與對我們團隊的長期支持。"
+    },
+    {
+      "en": "Please contact me at extension 4421 with any questions or concerns.",
+      "zh": "若有任何問題或疑慮，請撥分機 4421 聯繫我。"
+    },
+    {
+      "en": "I am also available to present these items in person if helpful.",
+      "zh": "若有需要，我也可親自到場簡報這些項目。"
+    },
+    {
+      "en": "All proposed vendors are pre-qualified under our latest compliance review.",
+      "zh": "所提供應商皆已通過我們最新的合規審查並具備供應資格。"
+    },
+    {
+      "en": "Delivery dates can be staggered to minimize disruption to ongoing work.",
+      "zh": "交貨日期可分批安排，以將對日常工作的干擾降到最低。"
+    },
+    {
+      "en": "Old equipment will be cycled through our certified electronics recycler.",
+      "zh": "汰換的舊設備將透過我們認證的電子廢棄物回收商處理。"
+    },
+    {
+      "en": "Asset tags will be applied immediately upon receipt of every new item.",
+      "zh": "所有新進物品在收貨時將立即貼上資產標籤。"
+    },
+    {
+      "en": "The IT helpdesk has confirmed compatibility with our network configuration.",
+      "zh": "資訊服務台已確認與本公司網路設定相容。"
+    },
+    {
+      "en": "Facilities will coordinate installation outside of regular business hours.",
+      "zh": "總務部會於正常上班時間外協調安裝事宜。"
+    },
+    {
+      "en": "A summary report on utilization will be shared after the first quarter.",
+      "zh": "首季結束後將分享使用率彙整報告。"
+    },
+    {
+      "en": "Your prompt attention to this matter is greatly appreciated as always.",
+      "zh": "一如既往，感謝您對此事的迅速處理。"
+    },
+    {
+      "en": "Best regards, Hana Kim, Marketing Operations Manager, Riverside Building.",
+      "zh": "敬祝商安，Hana Kim，行銷營運經理，Riverside 大樓。"
+    },
+    {
+      "en": "Postscript, our team can absorb training costs from our internal budget.",
+      "zh": "附註：本團隊可由內部預算吸收訓練費用。"
+    },
+    {
+      "en": "Vendor representatives have offered free onsite setup as a courtesy service.",
+      "zh": "供應商代表已主動提供免費到府安裝作為禮遇服務。"
+    },
+    {
+      "en": "All chairs come with a ten year warranty covering manufacturer defects.",
+      "zh": "所有椅子皆附十年保固，涵蓋製造瑕疵。"
+    },
+    {
+      "en": "The printer model qualifies for our existing service contract terms.",
+      "zh": "該印表機型號適用我方現行服務合約條款。"
+    },
+    {
+      "en": "Phone system upgrades may reduce monthly conference call charges noticeably.",
+      "zh": "電話系統升級可顯著降低每月會議通話費用。"
+    },
+    {
+      "en": "I have shared this request with the finance liaison for early review.",
+      "zh": "本人已將本申請轉交財務聯絡人進行初步審視。"
+    },
+    {
+      "en": "Approval routing should follow our standard four-tier signature workflow.",
+      "zh": "核准流程應遵循標準四層級簽核作業。"
+    },
+    {
+      "en": "Please flag any required modifications before the formal purchase order issues.",
+      "zh": "請於正式採購單發出前標註所有需修改事項。"
+    },
+    {
+      "en": "I am happy to coordinate directly with selected vendors after approval.",
+      "zh": "核准後本人樂於直接與指定供應商協調事宜。"
+    },
+    {
+      "en": "Thank you once again for prioritizing our team productivity and well-being.",
+      "zh": "再次感謝您優先考量本團隊的生產力與福祉。"
+    }
   ]
 }

@@ -1,49 +1,181 @@
 {
   "title": "New Project Management Software Training",
   "all": [
-    { "en": "The IT Department will roll out our new project management software next month.", "zh": "資訊部將於下個月正式導入新的專案管理軟體。" },
-    { "en": "The new system, called PlanWise Pro, will replace our current platform.", "zh": "新系統名為 PlanWise Pro，將取代目前使用的平台。" },
-    { "en": "All employees who manage tasks or projects must complete the training.", "zh": "所有負責管理任務或專案的員工皆須完成本訓練。" },
-    { "en": "Training sessions will be held during the first two weeks of June.", "zh": "訓練課程將於六月的前兩週舉行。" },
-    { "en": "Each session lasts approximately ninety minutes and includes a live demonstration.", "zh": "每場課程約九十分鐘，包含現場示範。" },
-    { "en": "Sessions will be offered both in person and through video conference.", "zh": "課程將同時提供實體與視訊會議兩種方式。" },
-    { "en": "In-person training will be held in conference room B on the fourth floor.", "zh": "實體訓練將於四樓 B 會議室舉行。" },
-    { "en": "Virtual sessions can be accessed using the link in the calendar invitations.", "zh": "視訊課程可透過行事曆邀請中的連結加入。" },
-    { "en": "The training will cover dashboards, task assignments, and time tracking.", "zh": "課程內容涵蓋儀表板、任務指派與工時追蹤。" },
-    { "en": "We will also review how to generate weekly status reports.", "zh": "我們也將說明如何產出每週進度報告。" },
-    { "en": "A short hands-on exercise will be included at the end of each session.", "zh": "每場課程結尾將安排簡短的實作練習。" },
-    { "en": "Participants are encouraged to bring a laptop for the exercises.", "zh": "建議學員自備筆電以便進行實作練習。" },
-    { "en": "Login credentials will be sent to your work email two days before training.", "zh": "登入帳密將於訓練前兩天寄至您的公司信箱。" },
-    { "en": "Quick reference guides are available on the IT support page.", "zh": "快速參考手冊已上架於 IT 支援頁面。" },
-    { "en": "A help desk will be staffed during the first month after the launch.", "zh": "上線後的第一個月將設置專屬服務窗口。" },
-    { "en": "Common questions and tips will be added to the internal FAQ regularly.", "zh": "常見問題與使用秘訣將定期更新至內部 FAQ。" },
-    { "en": "Existing project data will be migrated to PlanWise Pro on May 30.", "zh": "現有專案資料將於 5 月 30 日轉移至 PlanWise Pro。" },
-    { "en": "Please ensure all open projects are updated by May 28.", "zh": "請於 5 月 28 日前確認所有進行中的專案資料已更新。" },
-    { "en": "The legacy system will remain in read-only mode for two months after migration.", "zh": "舊系統將於轉移後維持唯讀模式兩個月。" },
-    { "en": "Department managers should designate one super user from each team.", "zh": "各部門主管應指派每組一名超級使用者。" },
-    { "en": "Super users will receive additional advanced training on June 18.", "zh": "超級使用者將於 6 月 18 日接受額外的進階訓練。" },
-    { "en": "Feedback on the new system can be submitted through the IT portal.", "zh": "對新系統的意見回饋可透過 IT 入口網站提交。" },
-    { "en": "We appreciate your cooperation during this important upgrade.", "zh": "感謝各位在此次重要升級期間的配合。" },
-    { "en": "Please direct any questions to the training team at planwise@company.com.", "zh": "如有任何問題，請寄至訓練團隊：planwise@company.com。" },
-    { "en": "Mobile applications for iOS and Android will be made available after the initial rollout.", "zh": "iOS 與 Android 行動應用程式將於首階段導入後開放使用。" },
-    { "en": "Single sign-on integration ensures employees can access the system with company credentials.", "zh": "單一登入整合可讓員工以公司帳號直接存取系統。" },
-    { "en": "All existing user permissions and project roles will be carefully mapped to the new structure.", "zh": "現有的使用者權限與專案角色將仔細對應至新架構。" },
-    { "en": "Custom report templates can be created and shared across departments after launch.", "zh": "上線後可建立並跨部門共享自訂報表範本。" },
-    { "en": "Integration with our existing communication tools is scheduled for the second phase.", "zh": "與現有溝通工具的整合預計於第二階段完成。" },
-    { "en": "A dedicated change management consultant will be on site during the launch week.", "zh": "上線當週將有專屬變革管理顧問進駐現場。" },
-    { "en": "Department-specific training sessions can be requested through your local manager.", "zh": "如需部門客製化訓練，可透過所屬主管提出申請。" },
-    { "en": "Recorded training videos will remain accessible on the learning portal indefinitely.", "zh": "訓練影片錄影將永久保存於學習平台供隨時查閱。" },
-    { "en": "Monthly user group meetings will be held to share best practices and feedback.", "zh": "每月將舉行使用者社群會議，分享最佳實務與意見回饋。" },
-    { "en": "We expect this transition to significantly improve our project delivery efficiency.", "zh": "我們預期此次轉換將顯著提升專案交付效率。" },
-    { "en": "Office hours with the IT team will be available every Thursday afternoon for one month.", "zh": "上線後一個月內，IT 團隊將於每週四下午提供諮詢時段。" },
-    { "en": "Detailed user guides have been translated into five languages to support global teams.", "zh": "詳細使用手冊已翻譯成五種語言以支援全球團隊。" },
-    { "en": "Automated email notifications can be customized to match your personal preferences.", "zh": "自動電子郵件通知可依個人偏好客製化設定。" },
-    { "en": "Project archives older than three years will be exported and stored on secure servers.", "zh": "三年以上的專案歷史紀錄將匯出並存放於安全伺服器。" },
-    { "en": "A short adoption survey will be sent six weeks after the system goes live.", "zh": "系統上線六週後將發送簡短的導入調查問卷。" },
-    { "en": "Top suggestions from users will be reviewed by the system steering committee each month.", "zh": "使用者提出的優先建議將由系統指導委員會每月審議。" },
-    { "en": "Performance dashboards will help managers monitor portfolio health at a glance.", "zh": "績效儀表板將協助主管一目了然地掌握專案組合健康度。" },
-    { "en": "All temporary contractors will receive limited access during their assignment period.", "zh": "所有臨時約聘人員於任務期間將獲得受限的存取權限。" },
-    { "en": "Backup procedures have been thoroughly tested to safeguard project data continuity.", "zh": "備份程序已經過完整測試以確保專案資料的連續性。" },
-    { "en": "We thank everyone in advance for embracing this important change to our workflow.", "zh": "預先感謝各位接納這項對工作流程的重要變革。" }
+    {
+      "en": "The IT Department will roll out our new project management software next month.",
+      "zh": "資訊部將於下個月正式導入新的專案管理軟體。"
+    },
+    {
+      "en": "The new system, called PlanWise Pro, will replace our current platform.",
+      "zh": "新系統名為 PlanWise Pro，將取代目前使用的平台。"
+    },
+    {
+      "en": "All employees who manage tasks or projects must complete the training.",
+      "zh": "所有負責管理任務或專案的員工皆須完成本訓練。"
+    },
+    {
+      "en": "Training sessions will be held during the first two weeks of June.",
+      "zh": "訓練課程將於六月的前兩週舉行。"
+    },
+    {
+      "en": "Each session lasts approximately ninety minutes and includes a live demonstration.",
+      "zh": "每場課程約九十分鐘，包含現場示範。"
+    },
+    {
+      "en": "Sessions will be offered both in person and through video conference.",
+      "zh": "課程將同時提供實體與視訊會議兩種方式。"
+    },
+    {
+      "en": "In-person training will be held in conference room B on the fourth floor.",
+      "zh": "實體訓練將於四樓 B 會議室舉行。"
+    },
+    {
+      "en": "Virtual sessions can be accessed using the link in the calendar invitations.",
+      "zh": "視訊課程可透過行事曆邀請中的連結加入。"
+    },
+    {
+      "en": "The training will cover dashboards, task assignments, and time tracking.",
+      "zh": "課程內容涵蓋儀表板、任務指派與工時追蹤。"
+    },
+    {
+      "en": "We will also review how to generate weekly status reports.",
+      "zh": "我們也將說明如何產出每週進度報告。"
+    },
+    {
+      "en": "A short hands-on exercise will be included at the end of each session.",
+      "zh": "每場課程結尾將安排簡短的實作練習。"
+    },
+    {
+      "en": "Participants are encouraged to bring a laptop for the exercises.",
+      "zh": "建議學員自備筆電以便進行實作練習。"
+    },
+    {
+      "en": "Login credentials will be sent to your work email two days before training.",
+      "zh": "登入帳密將於訓練前兩天寄至您的公司信箱。"
+    },
+    {
+      "en": "Quick reference guides are available on the IT support page.",
+      "zh": "快速參考手冊已上架於 IT 支援頁面。"
+    },
+    {
+      "en": "A help desk will be staffed during the first month after the launch.",
+      "zh": "上線後的第一個月將設置專屬服務窗口。"
+    },
+    {
+      "en": "Common questions and tips will be added to the internal FAQ regularly.",
+      "zh": "常見問題與使用秘訣將定期更新至內部 FAQ。"
+    },
+    {
+      "en": "Existing project data will be migrated to PlanWise Pro on May 30.",
+      "zh": "現有專案資料將於 5 月 30 日轉移至 PlanWise Pro。"
+    },
+    {
+      "en": "Please ensure all open projects are updated by May 28.",
+      "zh": "請於 5 月 28 日前確認所有進行中的專案資料已更新。"
+    },
+    {
+      "en": "The legacy system will remain in read-only mode for two months after migration.",
+      "zh": "舊系統將於轉移後維持唯讀模式兩個月。"
+    },
+    {
+      "en": "Department managers should designate one super user from each team.",
+      "zh": "各部門主管應指派每組一名超級使用者。"
+    },
+    {
+      "en": "Super users will receive additional advanced training on June 18.",
+      "zh": "超級使用者將於 6 月 18 日接受額外的進階訓練。"
+    },
+    {
+      "en": "Feedback on the new system can be submitted through the IT portal.",
+      "zh": "對新系統的意見回饋可透過 IT 入口網站提交。"
+    },
+    {
+      "en": "We appreciate your cooperation during this important upgrade.",
+      "zh": "感謝各位在此次重要升級期間的配合。"
+    },
+    {
+      "en": "Please direct any questions to the training team at planwise@company.com.",
+      "zh": "如有任何問題，請寄至訓練團隊：planwise@company.com。"
+    },
+    {
+      "en": "Mobile applications for iOS and Android will be made available after the initial rollout.",
+      "zh": "iOS 與 Android 行動應用程式將於首階段導入後開放使用。"
+    },
+    {
+      "en": "Single sign-on integration ensures employees can access the system with company credentials.",
+      "zh": "單一登入整合可讓員工以公司帳號直接存取系統。"
+    },
+    {
+      "en": "All existing user permissions and project roles will be carefully mapped to the new structure.",
+      "zh": "現有的使用者權限與專案角色將仔細對應至新架構。"
+    },
+    {
+      "en": "Custom report templates can be created and shared across departments after launch.",
+      "zh": "上線後可建立並跨部門共享自訂報表範本。"
+    },
+    {
+      "en": "Integration with our existing communication tools is scheduled for the second phase.",
+      "zh": "與現有溝通工具的整合預計於第二階段完成。"
+    },
+    {
+      "en": "A dedicated change management consultant will be on site during the launch week.",
+      "zh": "上線當週將有專屬變革管理顧問進駐現場。"
+    },
+    {
+      "en": "Department-specific training sessions can be requested through your local manager.",
+      "zh": "如需部門客製化訓練，可透過所屬主管提出申請。"
+    },
+    {
+      "en": "Recorded training videos will remain accessible on the learning portal indefinitely.",
+      "zh": "訓練影片錄影將永久保存於學習平台供隨時查閱。"
+    },
+    {
+      "en": "Monthly user group meetings will be held to share best practices and feedback.",
+      "zh": "每月將舉行使用者社群會議，分享最佳實務與意見回饋。"
+    },
+    {
+      "en": "We expect this transition to significantly improve our project delivery efficiency.",
+      "zh": "我們預期此次轉換將顯著提升專案交付效率。"
+    },
+    {
+      "en": "Office hours with the IT team will be available every Thursday afternoon for one month.",
+      "zh": "上線後一個月內，IT 團隊將於每週四下午提供諮詢時段。"
+    },
+    {
+      "en": "Detailed user guides have been translated into five languages to support global teams.",
+      "zh": "詳細使用手冊已翻譯成五種語言以支援全球團隊。"
+    },
+    {
+      "en": "Automated email notifications can be customized to match your personal preferences.",
+      "zh": "自動電子郵件通知可依個人偏好客製化設定。"
+    },
+    {
+      "en": "Project archives older than three years will be exported and stored on secure servers.",
+      "zh": "三年以上的專案歷史紀錄將匯出並存放於安全伺服器。"
+    },
+    {
+      "en": "A short adoption survey will be sent six weeks after the system goes live.",
+      "zh": "系統上線六週後將發送簡短的導入調查問卷。"
+    },
+    {
+      "en": "Top suggestions from users will be reviewed by the system steering committee each month.",
+      "zh": "使用者提出的優先建議將由系統指導委員會每月審議。"
+    },
+    {
+      "en": "Performance dashboards will help managers monitor portfolio health at a glance.",
+      "zh": "績效儀表板將協助主管一目了然地掌握專案組合健康度。"
+    },
+    {
+      "en": "All temporary contractors will receive limited access during their assignment period.",
+      "zh": "所有臨時約聘人員於任務期間將獲得受限的存取權限。"
+    },
+    {
+      "en": "Backup procedures have been thoroughly tested to safeguard project data continuity.",
+      "zh": "備份程序已經過完整測試以確保專案資料的連續性。"
+    },
+    {
+      "en": "We thank everyone in advance for embracing this important change to our workflow.",
+      "zh": "預先感謝各位接納這項對工作流程的重要變革。"
+    }
   ]
 }

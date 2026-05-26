@@ -1,48 +1,177 @@
 {
   "title": "Anti-Harassment Training Notice",
   "all": [
-    { "en": "This notice serves as a reminder of our annual anti-harassment training.", "zh": "本通知旨在提醒各位本年度的反騷擾訓練。" },
-    { "en": "Participation is mandatory for every employee, contractor, and intern.", "zh": "所有員工、承包商及實習生皆須參加。" },
-    { "en": "The training reinforces our commitment to a safe and respectful workplace.", "zh": "本訓練再次強調我們對安全且尊重職場的承諾。" },
-    { "en": "It also ensures compliance with current employment laws and regulations.", "zh": "並確保符合現行勞動法規與規範。" },
-    { "en": "This year course has been refreshed with updated case studies and scenarios.", "zh": "今年課程已更新案例研究及情境內容。" },
-    { "en": "Topics include verbal, physical, visual, and digital forms of harassment.", "zh": "主題包括言語、肢體、視覺及數位形式的騷擾。" },
-    { "en": "Special attention is given to subtle behaviors such as microaggressions.", "zh": "特別關注如微歧視等較不明顯的行為。" },
-    { "en": "The module covers bystander intervention strategies in a variety of situations.", "zh": "模組涵蓋於各種情境中的旁觀者介入策略。" },
-    { "en": "Practical guidance is provided on how to escalate concerns appropriately.", "zh": "並提供如何適當升級通報疑慮的實用指引。" },
-    { "en": "Managers receive an additional session focused on their unique responsibilities.", "zh": "主管將另接受一場聚焦其特有責任的訓練。" },
-    { "en": "The manager session covers recognizing warning signs and supporting affected employees.", "zh": "主管場次涵蓋辨識警訊及支援受影響員工。" },
-    { "en": "Both sessions are available in English, Mandarin, Japanese, and Korean.", "zh": "兩場次均提供英文、中文、日文及韓文版本。" },
-    { "en": "Live virtual sessions are scheduled across multiple time zones for convenience.", "zh": "為方便起見，現場線上場次橫跨多個時區安排。" },
-    { "en": "A self-paced version is also available through the learning management system.", "zh": "亦可透過學習管理系統使用自學版本。" },
-    { "en": "The standard course takes approximately ninety minutes to complete.", "zh": "標準課程約需九十分鐘完成。" },
-    { "en": "Completion is required no later than the thirtieth of next month.", "zh": "完成期限不得晚於下個月三十日。" },
-    { "en": "A short knowledge check at the end confirms understanding of key concepts.", "zh": "課程末尾設有簡短知識檢核以確認對重點概念的理解。" },
-    { "en": "A passing score of eighty percent is required for course credit.", "zh": "課程學分要求通過分數需達百分之八十。" },
-    { "en": "If you wish to report a concern, please contact the ethics office.", "zh": "若您希望通報相關疑慮，請聯絡倫理辦公室。" },
-    { "en": "Multiple confidential reporting channels remain available year-round.", "zh": "多個保密通報管道全年持續開放。" },
-    { "en": "Retaliation against anyone who reports in good faith is strictly prohibited.", "zh": "對善意通報者的任何報復行為均嚴格禁止。" },
-    { "en": "Completion records are stored securely and used solely for compliance purposes.", "zh": "完成紀錄將安全保存並僅用於合規目的。" },
-    { "en": "Thank you for helping us maintain a workplace where everyone can thrive.", "zh": "感謝您協助我們維持一個讓每個人都能發展的職場。" },
-    { "en": "Completion certificates will appear automatically in your training profile upon passing.", "zh": "通過後完成證書將自動顯示於您的訓練檔案中。" },
-    { "en": "Reminder emails will be sent two weeks before the final deadline approaches.", "zh": "於最終截止日前兩週將發送提醒電子郵件。" },
-    { "en": "Non completion will be escalated to managers and may affect performance reviews.", "zh": "未完成將回報主管並可能影響績效考核。" },
-    { "en": "An anonymous question portal allows participants to submit topics for discussion.", "zh": "匿名提問入口讓參與者得以提交討論主題。" },
-    { "en": "Office hours with the ethics team are offered weekly during the training window.", "zh": "訓練期間倫理團隊每週提供諮詢時段。" },
-    { "en": "Aggregate completion data is shared with senior leadership on a monthly cadence.", "zh": "彙整完成數據每月與高階管理層分享。" },
-    { "en": "Refresher modules are available throughout the year for those seeking additional review.", "zh": "全年皆提供複習模組供需進一步檢視的同仁使用。" },
-    { "en": "New hires must complete the training within thirty days of their start date.", "zh": "新進員工須於到職日起三十日內完成訓練。" },
-    { "en": "Regional teams may add localized examples to reflect cultural and legal context.", "zh": "各區域團隊可加入本地化範例以反映文化與法律情境。" },
-    { "en": "Together we build a culture rooted in dignity, respect, and accountability daily.", "zh": "我們共同打造一個以尊嚴、尊重與當責為日常根基的文化。" },
-    { "en": "Hotline operators are trained to handle disclosures with sensitivity and care.", "zh": "熱線接線員受訓以同理與謹慎處理通報內容。" },
-    { "en": "Investigations follow documented procedures with clearly defined timelines.", "zh": "調查依書面程序進行並有明確時程規範。" },
-    { "en": "Witnesses are interviewed separately to preserve the integrity of statements.", "zh": "證人分開進行訪談以維護陳述的完整性。" },
-    { "en": "Findings are reviewed by an independent committee before any action is taken.", "zh": "調查結果於採取任何行動前須經獨立委員會審查。" },
-    { "en": "Disciplinary outcomes range from coaching to termination depending on severity.", "zh": "懲處結果視嚴重程度從輔導至終止僱用不等。" },
-    { "en": "Restorative practices are offered to repair relationships where appropriate.", "zh": "在適當情況下提供修復式作法以重建關係。" },
-    { "en": "Training completion records are audited annually for accuracy and coverage.", "zh": "訓練完成紀錄每年稽核以確保準確度與涵蓋率。" },
-    { "en": "External legal counsel reviews policies to ensure they remain fully compliant.", "zh": "外部法律顧問檢視政策以確保完全合規。" },
-    { "en": "Employee resource groups partner with the ethics team to promote awareness.", "zh": "員工資源社團與倫理團隊合作以提升相關意識。" },
-    { "en": "Open dialogue with leadership reinforces our zero tolerance position firmly.", "zh": "與領導層的公開對話堅定強化我們零容忍的立場。" }
+    {
+      "en": "This notice serves as a reminder of our annual anti-harassment training.",
+      "zh": "本通知旨在提醒各位本年度的反騷擾訓練。"
+    },
+    {
+      "en": "Participation is mandatory for every employee, contractor, and intern.",
+      "zh": "所有員工、承包商及實習生皆須參加。"
+    },
+    {
+      "en": "The training reinforces our commitment to a safe and respectful workplace.",
+      "zh": "本訓練再次強調我們對安全且尊重職場的承諾。"
+    },
+    {
+      "en": "It also ensures compliance with current employment laws and regulations.",
+      "zh": "並確保符合現行勞動法規與規範。"
+    },
+    {
+      "en": "This year course has been refreshed with updated case studies and scenarios.",
+      "zh": "今年課程已更新案例研究及情境內容。"
+    },
+    {
+      "en": "Topics include verbal, physical, visual, and digital forms of harassment.",
+      "zh": "主題包括言語、肢體、視覺及數位形式的騷擾。"
+    },
+    {
+      "en": "Special attention is given to subtle behaviors such as microaggressions.",
+      "zh": "特別關注如微歧視等較不明顯的行為。"
+    },
+    {
+      "en": "The module covers bystander intervention strategies in a variety of situations.",
+      "zh": "模組涵蓋於各種情境中的旁觀者介入策略。"
+    },
+    {
+      "en": "Practical guidance is provided on how to escalate concerns appropriately.",
+      "zh": "並提供如何適當升級通報疑慮的實用指引。"
+    },
+    {
+      "en": "Managers receive an additional session focused on their unique responsibilities.",
+      "zh": "主管將另接受一場聚焦其特有責任的訓練。"
+    },
+    {
+      "en": "The manager session covers recognizing warning signs and supporting affected employees.",
+      "zh": "主管場次涵蓋辨識警訊及支援受影響員工。"
+    },
+    {
+      "en": "Both sessions are available in English, Mandarin, Japanese, and Korean.",
+      "zh": "兩場次均提供英文、中文、日文及韓文版本。"
+    },
+    {
+      "en": "Live virtual sessions are scheduled across multiple time zones for convenience.",
+      "zh": "為方便起見，現場線上場次橫跨多個時區安排。"
+    },
+    {
+      "en": "A self-paced version is also available through the learning management system.",
+      "zh": "亦可透過學習管理系統使用自學版本。"
+    },
+    {
+      "en": "The standard course takes approximately ninety minutes to complete.",
+      "zh": "標準課程約需九十分鐘完成。"
+    },
+    {
+      "en": "Completion is required no later than the thirtieth of next month.",
+      "zh": "完成期限不得晚於下個月三十日。"
+    },
+    {
+      "en": "A short knowledge check at the end confirms understanding of key concepts.",
+      "zh": "課程末尾設有簡短知識檢核以確認對重點概念的理解。"
+    },
+    {
+      "en": "A passing score of eighty percent is required for course credit.",
+      "zh": "課程學分要求通過分數需達百分之八十。"
+    },
+    {
+      "en": "If you wish to report a concern, please contact the ethics office.",
+      "zh": "若您希望通報相關疑慮，請聯絡倫理辦公室。"
+    },
+    {
+      "en": "Multiple confidential reporting channels remain available year-round.",
+      "zh": "多個保密通報管道全年持續開放。"
+    },
+    {
+      "en": "Retaliation against anyone who reports in good faith is strictly prohibited.",
+      "zh": "對善意通報者的任何報復行為均嚴格禁止。"
+    },
+    {
+      "en": "Completion records are stored securely and used solely for compliance purposes.",
+      "zh": "完成紀錄將安全保存並僅用於合規目的。"
+    },
+    {
+      "en": "Thank you for helping us maintain a workplace where everyone can thrive.",
+      "zh": "感謝您協助我們維持一個讓每個人都能發展的職場。"
+    },
+    {
+      "en": "Completion certificates will appear automatically in your training profile upon passing.",
+      "zh": "通過後完成證書將自動顯示於您的訓練檔案中。"
+    },
+    {
+      "en": "Reminder emails will be sent two weeks before the final deadline approaches.",
+      "zh": "於最終截止日前兩週將發送提醒電子郵件。"
+    },
+    {
+      "en": "Non completion will be escalated to managers and may affect performance reviews.",
+      "zh": "未完成將回報主管並可能影響績效考核。"
+    },
+    {
+      "en": "An anonymous question portal allows participants to submit topics for discussion.",
+      "zh": "匿名提問入口讓參與者得以提交討論主題。"
+    },
+    {
+      "en": "Office hours with the ethics team are offered weekly during the training window.",
+      "zh": "訓練期間倫理團隊每週提供諮詢時段。"
+    },
+    {
+      "en": "Aggregate completion data is shared with senior leadership on a monthly cadence.",
+      "zh": "彙整完成數據每月與高階管理層分享。"
+    },
+    {
+      "en": "Refresher modules are available throughout the year for those seeking additional review.",
+      "zh": "全年皆提供複習模組供需進一步檢視的同仁使用。"
+    },
+    {
+      "en": "New hires must complete the training within thirty days of their start date.",
+      "zh": "新進員工須於到職日起三十日內完成訓練。"
+    },
+    {
+      "en": "Regional teams may add localized examples to reflect cultural and legal context.",
+      "zh": "各區域團隊可加入本地化範例以反映文化與法律情境。"
+    },
+    {
+      "en": "Together we build a culture rooted in dignity, respect, and accountability daily.",
+      "zh": "我們共同打造一個以尊嚴、尊重與當責為日常根基的文化。"
+    },
+    {
+      "en": "Hotline operators are trained to handle disclosures with sensitivity and care.",
+      "zh": "熱線接線員受訓以同理與謹慎處理通報內容。"
+    },
+    {
+      "en": "Investigations follow documented procedures with clearly defined timelines.",
+      "zh": "調查依書面程序進行並有明確時程規範。"
+    },
+    {
+      "en": "Witnesses are interviewed separately to preserve the integrity of statements.",
+      "zh": "證人分開進行訪談以維護陳述的完整性。"
+    },
+    {
+      "en": "Findings are reviewed by an independent committee before any action is taken.",
+      "zh": "調查結果於採取任何行動前須經獨立委員會審查。"
+    },
+    {
+      "en": "Disciplinary outcomes range from coaching to termination depending on severity.",
+      "zh": "懲處結果視嚴重程度從輔導至終止僱用不等。"
+    },
+    {
+      "en": "Restorative practices are offered to repair relationships where appropriate.",
+      "zh": "在適當情況下提供修復式作法以重建關係。"
+    },
+    {
+      "en": "Training completion records are audited annually for accuracy and coverage.",
+      "zh": "訓練完成紀錄每年稽核以確保準確度與涵蓋率。"
+    },
+    {
+      "en": "External legal counsel reviews policies to ensure they remain fully compliant.",
+      "zh": "外部法律顧問檢視政策以確保完全合規。"
+    },
+    {
+      "en": "Employee resource groups partner with the ethics team to promote awareness.",
+      "zh": "員工資源社團與倫理團隊合作以提升相關意識。"
+    },
+    {
+      "en": "Open dialogue with leadership reinforces our zero tolerance position firmly.",
+      "zh": "與領導層的公開對話堅定強化我們零容忍的立場。"
+    }
   ]
 }

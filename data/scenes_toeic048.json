@@ -1,49 +1,181 @@
 {
   "title": "Budget Meeting Minutes Excerpt",
   "all": [
-    { "en": "The annual budget meeting was held on Tuesday in the main conference room.", "zh": "年度預算會議於週二在主會議室召開。" },
-    { "en": "Chief Financial Officer Diana Park chaired the session beginning at nine in the morning.", "zh": "財務長 Diana Park 於上午九點主持會議。" },
-    { "en": "All department heads attended, along with two members of the audit committee.", "zh": "全體部門主管出席，並有兩位稽核委員會成員參加。" },
-    { "en": "The meeting opened with a review of last year actual versus budgeted spending.", "zh": "會議首先回顧去年實際支出與預算的對比情形。" },
-    { "en": "Overall operating expenses came in 3 percent below the approved plan.", "zh": "整體營業費用較核准計畫低百分之三。" },
-    { "en": "Marketing exceeded its allocation due to an unplanned product launch campaign.", "zh": "行銷因一場非預期的產品上市活動超出預算分配。" },
-    { "en": "Information technology underspent because of delayed hardware refresh projects.", "zh": "資訊科技因硬體更新專案延後而支出不足。" },
-    { "en": "Ms. Park then introduced the proposed budget framework for the coming fiscal year.", "zh": "Park 女士接著介紹下一個會計年度的擬議預算框架。" },
-    { "en": "Total operating budget is proposed at 218 million dollars, up 4 percent.", "zh": "提議的總營業預算為兩億一千八百萬美元，成長百分之四。" },
-    { "en": "Capital expenditure is set at 35 million dollars with a focus on automation.", "zh": "資本支出設定為三千五百萬美元，重點投入自動化。" },
-    { "en": "Each department received preliminary targets based on revenue assumptions.", "zh": "各部門依據營收假設收到初步目標。" },
-    { "en": "Operations requested an increase to fund predictive maintenance software.", "zh": "營運部門申請增加經費以資助預測性維護軟體。" },
-    { "en": "Human resources proposed a 6 percent rise to support new hiring plans.", "zh": "人資部門提議增加百分之六以支援新進人員招募計畫。" },
-    { "en": "Legal asked for additional funds to cover anticipated compliance reviews.", "zh": "法務要求額外經費以因應預期的合規審查。" },
-    { "en": "Sales presented a revised travel budget reflecting renewed customer visits.", "zh": "業務部門提出反映重啟客戶拜訪的修訂差旅預算。" },
-    { "en": "Several attendees raised concerns about rising utility and insurance costs.", "zh": "多位與會者對水電與保險成本上升表達憂慮。" },
-    { "en": "Finance committed to provide updated sensitivity analyses by next Friday.", "zh": "財務承諾下週五前提供更新後的敏感度分析。" },
-    { "en": "A contingency reserve of 4 percent was endorsed by the committee.", "zh": "委員會背書設置百分之四的應急準備金。" },
-    { "en": "Capital projects above 2 million dollars will require board approval.", "zh": "金額逾兩百萬美元的資本專案須經董事會核准。" },
-    { "en": "Department heads must submit revised templates within ten business days.", "zh": "部門主管須於十個工作天內提交修訂表單。" },
-    { "en": "Quarterly variance reports will continue to be circulated to all leaders.", "zh": "季度差異報告將持續發送給所有主管。" },
-    { "en": "The next planning checkpoint is scheduled for the first week of October.", "zh": "下一次規劃檢核點訂於十月第一週。" },
-    { "en": "Ms. Park thanked participants and adjourned the meeting at 12:15 p.m.", "zh": "Park 女士感謝與會者，並於中午十二點十五分宣布散會。" },
-    { "en": "Minutes were prepared by the finance analyst team for review and approval.", "zh": "會議紀錄由財務分析師團隊撰寫，供審閱與核准。" },
-    { "en": "Draft minutes will be circulated to all attendees within three business days.", "zh": "會議紀錄草稿將於三個工作天內發送給所有與會者。" },
-    { "en": "Any corrections or comments should be returned to the finance team by Friday.", "zh": "任何修正或意見請於週五前回覆財務團隊。" },
-    { "en": "A separate session will be arranged to discuss long-term capital allocation strategy.", "zh": "將另行安排會議討論長期資本配置策略。" },
-    { "en": "The finance team will host budget office hours every Wednesday afternoon.", "zh": "財務團隊將於每週三下午提供預算諮詢時段。" },
-    { "en": "Training on the new budgeting software will be available for all department analysts.", "zh": "全體部門分析師可參加新預算軟體的訓練。" },
-    { "en": "Zero-based budgeting principles will be piloted in two departments next quarter.", "zh": "下季將於兩個部門試行零基預算原則。" },
-    { "en": "Benchmarking data from industry peers will be shared at the next planning checkpoint.", "zh": "下一次規劃檢核點將分享同業基準比較資料。" },
-    { "en": "Currency hedging strategies for international subsidiaries are under active review.", "zh": "海外子公司的匯率避險策略正積極檢視中。" },
-    { "en": "All approved budgets will be loaded into the financial planning system by mid-November.", "zh": "所有核准的預算將於 11 月中旬前載入財務規劃系統。" },
-    { "en": "The committee thanked the finance team for their thorough preparation and analysis.", "zh": "委員會感謝財務團隊周延的籌備與分析工作。" },
-    { "en": "Forecast accuracy targets were revised upward to encourage more disciplined planning.", "zh": "預測準確度目標已上修，以鼓勵更具紀律的規劃。" },
-    { "en": "Department leaders agreed to align headcount plans with strategic project priorities.", "zh": "各部門主管同意將人力計畫與策略專案優先順序對齊。" },
-    { "en": "Travel and entertainment expenses will be reviewed monthly for compliance with new limits.", "zh": "差旅與招待費用將每月檢視，確保符合新限額規定。" },
-    { "en": "Vendor consolidation efforts are projected to deliver 1.2 million dollars in annual savings.", "zh": "供應商整合作業預計每年可節省一百二十萬美元。" },
-    { "en": "An updated chart of accounts will be released to ensure consistent reporting across regions.", "zh": "將發布更新後的會計科目表，以確保各地區報告口徑一致。" },
-    { "en": "Risk-adjusted return targets will guide all major capital allocation decisions next year.", "zh": "明年所有重大資本配置決策將依風險調整後報酬目標進行。" },
-    { "en": "Audit committee feedback will be incorporated into the final budget proposal before approval.", "zh": "稽核委員會的意見將於核准前納入最終預算提案。" },
-    { "en": "Tax planning opportunities related to recent legislation were briefly discussed by the team.", "zh": "團隊簡短討論近期立法帶來的稅務規劃機會。" },
-    { "en": "Internal control improvements will be highlighted in the upcoming quarterly board meeting.", "zh": "即將舉行的季度董事會將著重說明內部控制的改善情形。" },
-    { "en": "The committee looks forward to a financially disciplined and growth-focused fiscal year ahead.", "zh": "委員會期待迎接財務紀律嚴明且聚焦成長的新會計年度。" }
+    {
+      "en": "The annual budget meeting was held on Tuesday in the main conference room.",
+      "zh": "年度預算會議於週二在主會議室召開。"
+    },
+    {
+      "en": "Chief Financial Officer Diana Park chaired the session beginning at nine in the morning.",
+      "zh": "財務長 Diana Park 於上午九點主持會議。"
+    },
+    {
+      "en": "All department heads attended, along with two members of the audit committee.",
+      "zh": "全體部門主管出席，並有兩位稽核委員會成員參加。"
+    },
+    {
+      "en": "The meeting opened with a review of last year actual versus budgeted spending.",
+      "zh": "會議首先回顧去年實際支出與預算的對比情形。"
+    },
+    {
+      "en": "Overall operating expenses came in 3 percent below the approved plan.",
+      "zh": "整體營業費用較核准計畫低百分之三。"
+    },
+    {
+      "en": "Marketing exceeded its allocation due to an unplanned product launch campaign.",
+      "zh": "行銷因一場非預期的產品上市活動超出預算分配。"
+    },
+    {
+      "en": "Information technology underspent because of delayed hardware refresh projects.",
+      "zh": "資訊科技因硬體更新專案延後而支出不足。"
+    },
+    {
+      "en": "Ms. Park then introduced the proposed budget framework for the coming fiscal year.",
+      "zh": "Park 女士接著介紹下一個會計年度的擬議預算框架。"
+    },
+    {
+      "en": "Total operating budget is proposed at 218 million dollars, up 4 percent.",
+      "zh": "提議的總營業預算為兩億一千八百萬美元，成長百分之四。"
+    },
+    {
+      "en": "Capital expenditure is set at 35 million dollars with a focus on automation.",
+      "zh": "資本支出設定為三千五百萬美元，重點投入自動化。"
+    },
+    {
+      "en": "Each department received preliminary targets based on revenue assumptions.",
+      "zh": "各部門依據營收假設收到初步目標。"
+    },
+    {
+      "en": "Operations requested an increase to fund predictive maintenance software.",
+      "zh": "營運部門申請增加經費以資助預測性維護軟體。"
+    },
+    {
+      "en": "Human resources proposed a 6 percent rise to support new hiring plans.",
+      "zh": "人資部門提議增加百分之六以支援新進人員招募計畫。"
+    },
+    {
+      "en": "Legal asked for additional funds to cover anticipated compliance reviews.",
+      "zh": "法務要求額外經費以因應預期的合規審查。"
+    },
+    {
+      "en": "Sales presented a revised travel budget reflecting renewed customer visits.",
+      "zh": "業務部門提出反映重啟客戶拜訪的修訂差旅預算。"
+    },
+    {
+      "en": "Several attendees raised concerns about rising utility and insurance costs.",
+      "zh": "多位與會者對水電與保險成本上升表達憂慮。"
+    },
+    {
+      "en": "Finance committed to provide updated sensitivity analyses by next Friday.",
+      "zh": "財務承諾下週五前提供更新後的敏感度分析。"
+    },
+    {
+      "en": "A contingency reserve of 4 percent was endorsed by the committee.",
+      "zh": "委員會背書設置百分之四的應急準備金。"
+    },
+    {
+      "en": "Capital projects above 2 million dollars will require board approval.",
+      "zh": "金額逾兩百萬美元的資本專案須經董事會核准。"
+    },
+    {
+      "en": "Department heads must submit revised templates within ten business days.",
+      "zh": "部門主管須於十個工作天內提交修訂表單。"
+    },
+    {
+      "en": "Quarterly variance reports will continue to be circulated to all leaders.",
+      "zh": "季度差異報告將持續發送給所有主管。"
+    },
+    {
+      "en": "The next planning checkpoint is scheduled for the first week of October.",
+      "zh": "下一次規劃檢核點訂於十月第一週。"
+    },
+    {
+      "en": "Ms. Park thanked participants and adjourned the meeting at 12:15 p.m.",
+      "zh": "Park 女士感謝與會者，並於中午十二點十五分宣布散會。"
+    },
+    {
+      "en": "Minutes were prepared by the finance analyst team for review and approval.",
+      "zh": "會議紀錄由財務分析師團隊撰寫，供審閱與核准。"
+    },
+    {
+      "en": "Draft minutes will be circulated to all attendees within three business days.",
+      "zh": "會議紀錄草稿將於三個工作天內發送給所有與會者。"
+    },
+    {
+      "en": "Any corrections or comments should be returned to the finance team by Friday.",
+      "zh": "任何修正或意見請於週五前回覆財務團隊。"
+    },
+    {
+      "en": "A separate session will be arranged to discuss long-term capital allocation strategy.",
+      "zh": "將另行安排會議討論長期資本配置策略。"
+    },
+    {
+      "en": "The finance team will host budget office hours every Wednesday afternoon.",
+      "zh": "財務團隊將於每週三下午提供預算諮詢時段。"
+    },
+    {
+      "en": "Training on the new budgeting software will be available for all department analysts.",
+      "zh": "全體部門分析師可參加新預算軟體的訓練。"
+    },
+    {
+      "en": "Zero-based budgeting principles will be piloted in two departments next quarter.",
+      "zh": "下季將於兩個部門試行零基預算原則。"
+    },
+    {
+      "en": "Benchmarking data from industry peers will be shared at the next planning checkpoint.",
+      "zh": "下一次規劃檢核點將分享同業基準比較資料。"
+    },
+    {
+      "en": "Currency hedging strategies for international subsidiaries are under active review.",
+      "zh": "海外子公司的匯率避險策略正積極檢視中。"
+    },
+    {
+      "en": "All approved budgets will be loaded into the financial planning system by mid-November.",
+      "zh": "所有核准的預算將於 11 月中旬前載入財務規劃系統。"
+    },
+    {
+      "en": "The committee thanked the finance team for their thorough preparation and analysis.",
+      "zh": "委員會感謝財務團隊周延的籌備與分析工作。"
+    },
+    {
+      "en": "Forecast accuracy targets were revised upward to encourage more disciplined planning.",
+      "zh": "預測準確度目標已上修，以鼓勵更具紀律的規劃。"
+    },
+    {
+      "en": "Department leaders agreed to align headcount plans with strategic project priorities.",
+      "zh": "各部門主管同意將人力計畫與策略專案優先順序對齊。"
+    },
+    {
+      "en": "Travel and entertainment expenses will be reviewed monthly for compliance with new limits.",
+      "zh": "差旅與招待費用將每月檢視，確保符合新限額規定。"
+    },
+    {
+      "en": "Vendor consolidation efforts are projected to deliver 1.2 million dollars in annual savings.",
+      "zh": "供應商整合作業預計每年可節省一百二十萬美元。"
+    },
+    {
+      "en": "An updated chart of accounts will be released to ensure consistent reporting across regions.",
+      "zh": "將發布更新後的會計科目表，以確保各地區報告口徑一致。"
+    },
+    {
+      "en": "Risk-adjusted return targets will guide all major capital allocation decisions next year.",
+      "zh": "明年所有重大資本配置決策將依風險調整後報酬目標進行。"
+    },
+    {
+      "en": "Audit committee feedback will be incorporated into the final budget proposal before approval.",
+      "zh": "稽核委員會的意見將於核准前納入最終預算提案。"
+    },
+    {
+      "en": "Tax planning opportunities related to recent legislation were briefly discussed by the team.",
+      "zh": "團隊簡短討論近期立法帶來的稅務規劃機會。"
+    },
+    {
+      "en": "Internal control improvements will be highlighted in the upcoming quarterly board meeting.",
+      "zh": "即將舉行的季度董事會將著重說明內部控制的改善情形。"
+    },
+    {
+      "en": "The committee looks forward to a financially disciplined and growth-focused fiscal year ahead.",
+      "zh": "委員會期待迎接財務紀律嚴明且聚焦成長的新會計年度。"
+    }
   ]
 }

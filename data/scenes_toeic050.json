@@ -1,49 +1,181 @@
 {
   "title": "Vendor Evaluation Report",
   "all": [
-    { "en": "Procurement has completed the annual evaluation of strategic packaging vendors.", "zh": "採購部門已完成策略性包裝供應商的年度評估。" },
-    { "en": "The assessment covered six suppliers that together represent 84 percent of category spend.", "zh": "評估涵蓋六家供應商，合計佔該類別支出的百分之八十四。" },
-    { "en": "Each vendor was scored across quality, delivery, cost, service, and sustainability.", "zh": "每家供應商從品質、交期、成本、服務及永續性面向評分。" },
-    { "en": "Performance data was collected from receiving, quality control, and accounts payable systems.", "zh": "績效資料蒐集自收料、品管及應付帳款系統。" },
-    { "en": "Vendor A achieved the highest overall score for the second consecutive year.", "zh": "供應商 A 連續第二年獲得最高綜合分數。" },
-    { "en": "Its on-time delivery rate reached 98.6 percent across all shipment categories.", "zh": "其準時交付率在所有出貨類別中達百分之九十八點六。" },
-    { "en": "Vendor B improved significantly in quality after a corrective action plan was implemented.", "zh": "供應商 B 在實施矯正措施計畫後，品質顯著改善。" },
-    { "en": "Defect rates dropped from 1,200 to 380 parts per million within nine months.", "zh": "瑕疵率在九個月內由每百萬件一千兩百件降至三百八十件。" },
-    { "en": "Vendor C remains the most cost competitive but trails on documentation accuracy.", "zh": "供應商 C 在成本上最具競爭力，但文件正確性落後。" },
-    { "en": "Vendor D demonstrated strong technical responsiveness and engineering support capability.", "zh": "供應商 D 展現強大的技術回應與工程支援能力。" },
-    { "en": "Vendor E faced supply disruptions during the second quarter due to material shortages.", "zh": "供應商 E 因原料短缺，在第二季面臨供應中斷。" },
-    { "en": "Vendor F newly joined the panel and is still being benchmarked against incumbents.", "zh": "供應商 F 新加入合作名單，仍在與既有供應商進行比較評估。" },
-    { "en": "Average price increases across the category were limited to 2.1 percent this year.", "zh": "今年該類別整體平均價格漲幅控制在百分之二點一以內。" },
-    { "en": "Several vendors offered volume rebates that delivered 1.4 million dollars in savings.", "zh": "多家供應商提供量販回饋金，帶來一百四十萬美元的節省。" },
-    { "en": "Sustainability scores improved meaningfully thanks to recycled material adoption.", "zh": "由於採用回收料，永續性分數有實質提升。" },
-    { "en": "Three suppliers now provide carbon footprint data at the shipment level.", "zh": "三家供應商現已提供出貨層級的碳足跡資料。" },
-    { "en": "Audit findings identified opportunities to strengthen subcontractor management practices.", "zh": "稽核發現有機會強化分包商管理實務。" },
-    { "en": "Procurement recommends consolidating award volumes toward the top three performers.", "zh": "採購建議將得標數量集中至前三名表現最佳的供應商。" },
-    { "en": "A formal performance improvement plan will be issued to Vendor E next month.", "zh": "下個月將對供應商 E 發布正式績效改善計畫。" },
-    { "en": "Quarterly business reviews will continue with all retained partners.", "zh": "將持續與所有保留的合作夥伴進行季度業務檢討。" },
-    { "en": "Risk management has been requested to validate single-source exposures.", "zh": "已請風險管理單位驗證單一來源的曝險。" },
-    { "en": "A follow-up evaluation will be conducted six months from today.", "zh": "後續評估將於今日起六個月後進行。" },
-    { "en": "Detailed scorecards are available through the vendor management portal.", "zh": "詳細評分卡可透過供應商管理入口網站取得。" },
-    { "en": "Questions regarding the report should be directed to the category manager.", "zh": "如對本報告有任何疑問，請洽該類別經理。" },
-    { "en": "Procurement also plans to launch a digital portal for real-time vendor scorecard visibility.", "zh": "採購亦計畫推出一個讓供應商評分卡即時可視的數位入口網站。" },
-    { "en": "Selected vendors will be invited to participate in early supplier involvement programs.", "zh": "獲選供應商將獲邀參與供應商早期介入計畫。" },
-    { "en": "Joint innovation workshops will explore lightweight materials and packaging redesign.", "zh": "聯合創新工作坊將探討輕量化材料與包裝再設計。" },
-    { "en": "A dual-source strategy will be implemented for high-volume corrugated boxes by year-end.", "zh": "年底前將為高用量瓦楞紙箱導入雙源策略。" },
-    { "en": "Inventory consignment models will be evaluated to reduce working capital exposure.", "zh": "將評估寄售庫存模式，以降低營運資金曝險。" },
-    { "en": "Logistics consolidation with two regional vendors is expected to cut freight costs by 7 percent.", "zh": "與兩家區域供應商整合物流，預期可削減百分之七的運費成本。" },
-    { "en": "Compliance training will be mandatory for all newly onboarded suppliers next quarter.", "zh": "下季所有新引進的供應商均須接受強制性的法規遵循訓練。" },
-    { "en": "Procurement will also strengthen its data analytics capability with a new spend visualization tool.", "zh": "採購亦將透過新的支出可視化工具，強化資料分析能量。" },
-    { "en": "We appreciate the collaboration from quality, engineering, and finance teams throughout the review.", "zh": "感謝品質、工程與財務團隊在整個評估過程中的協作。" },
-    { "en": "Final approval of the recommendations will be sought from the executive procurement committee.", "zh": "本建議案將提請執行採購委員會做最後核定。" },
-    { "en": "Contract renewal negotiations will commence within the next 60 days for top performers.", "zh": "將於未來六十天內針對表現最佳供應商展開合約續約談判。" },
-    { "en": "Standard payment terms will be extended from net 30 to net 45 for retained vendors.", "zh": "保留合作的供應商標準付款條件將由三十天延長至四十五天。" },
-    { "en": "A revised service level agreement template will be issued to all category suppliers.", "zh": "將向所有類別供應商發布修訂後的服務水準協議範本。" },
-    { "en": "Vendor scorecards will now be published monthly rather than quarterly for greater visibility.", "zh": "供應商評分卡現將改為每月發布，而非每季發布，以提升可視性。" },
-    { "en": "An emergency supplier list has been formalized to cover unexpected demand surges.", "zh": "已正式建立緊急供應商名單以因應突發性需求暴增。" },
-    { "en": "Procurement intends to pilot a reverse auction for non-strategic packaging items next quarter.", "zh": "採購擬於下季針對非策略性包裝品項試行反向競標。" },
-    { "en": "Quality engineering will conduct unannounced site audits at three vendor facilities this year.", "zh": "品質工程部將於今年對三家供應商廠房進行不預警現場稽核。" },
-    { "en": "Supplier diversity targets have been raised to 18 percent of total category spend.", "zh": "供應商多元化目標已提升至該類別總支出之百分之十八。" },
-    { "en": "Cybersecurity questionnaires will be mandatory for all vendors handling sensitive product data.", "zh": "所有處理敏感產品資料的供應商均須完成資安問卷。" },
-    { "en": "We thank every reviewer who contributed insights to this comprehensive vendor evaluation cycle.", "zh": "感謝每位為本次完整供應商評估週期貢獻洞見的審查者。" }
+    {
+      "en": "Procurement has completed the annual evaluation of strategic packaging vendors.",
+      "zh": "採購部門已完成策略性包裝供應商的年度評估。"
+    },
+    {
+      "en": "The assessment covered six suppliers that together represent 84 percent of category spend.",
+      "zh": "評估涵蓋六家供應商，合計佔該類別支出的百分之八十四。"
+    },
+    {
+      "en": "Each vendor was scored across quality, delivery, cost, service, and sustainability.",
+      "zh": "每家供應商從品質、交期、成本、服務及永續性面向評分。"
+    },
+    {
+      "en": "Performance data was collected from receiving, quality control, and accounts payable systems.",
+      "zh": "績效資料蒐集自收料、品管及應付帳款系統。"
+    },
+    {
+      "en": "Vendor A achieved the highest overall score for the second consecutive year.",
+      "zh": "供應商 A 連續第二年獲得最高綜合分數。"
+    },
+    {
+      "en": "Its on-time delivery rate reached 98.6 percent across all shipment categories.",
+      "zh": "其準時交付率在所有出貨類別中達百分之九十八點六。"
+    },
+    {
+      "en": "Vendor B improved significantly in quality after a corrective action plan was implemented.",
+      "zh": "供應商 B 在實施矯正措施計畫後，品質顯著改善。"
+    },
+    {
+      "en": "Defect rates dropped from 1,200 to 380 parts per million within nine months.",
+      "zh": "瑕疵率在九個月內由每百萬件一千兩百件降至三百八十件。"
+    },
+    {
+      "en": "Vendor C remains the most cost competitive but trails on documentation accuracy.",
+      "zh": "供應商 C 在成本上最具競爭力，但文件正確性落後。"
+    },
+    {
+      "en": "Vendor D demonstrated strong technical responsiveness and engineering support capability.",
+      "zh": "供應商 D 展現強大的技術回應與工程支援能力。"
+    },
+    {
+      "en": "Vendor E faced supply disruptions during the second quarter due to material shortages.",
+      "zh": "供應商 E 因原料短缺，在第二季面臨供應中斷。"
+    },
+    {
+      "en": "Vendor F newly joined the panel and is still being benchmarked against incumbents.",
+      "zh": "供應商 F 新加入合作名單，仍在與既有供應商進行比較評估。"
+    },
+    {
+      "en": "Average price increases across the category were limited to 2.1 percent this year.",
+      "zh": "今年該類別整體平均價格漲幅控制在百分之二點一以內。"
+    },
+    {
+      "en": "Several vendors offered volume rebates that delivered 1.4 million dollars in savings.",
+      "zh": "多家供應商提供量販回饋金，帶來一百四十萬美元的節省。"
+    },
+    {
+      "en": "Sustainability scores improved meaningfully thanks to recycled material adoption.",
+      "zh": "由於採用回收料，永續性分數有實質提升。"
+    },
+    {
+      "en": "Three suppliers now provide carbon footprint data at the shipment level.",
+      "zh": "三家供應商現已提供出貨層級的碳足跡資料。"
+    },
+    {
+      "en": "Audit findings identified opportunities to strengthen subcontractor management practices.",
+      "zh": "稽核發現有機會強化分包商管理實務。"
+    },
+    {
+      "en": "Procurement recommends consolidating award volumes toward the top three performers.",
+      "zh": "採購建議將得標數量集中至前三名表現最佳的供應商。"
+    },
+    {
+      "en": "A formal performance improvement plan will be issued to Vendor E next month.",
+      "zh": "下個月將對供應商 E 發布正式績效改善計畫。"
+    },
+    {
+      "en": "Quarterly business reviews will continue with all retained partners.",
+      "zh": "將持續與所有保留的合作夥伴進行季度業務檢討。"
+    },
+    {
+      "en": "Risk management has been requested to validate single-source exposures.",
+      "zh": "已請風險管理單位驗證單一來源的曝險。"
+    },
+    {
+      "en": "A follow-up evaluation will be conducted six months from today.",
+      "zh": "後續評估將於今日起六個月後進行。"
+    },
+    {
+      "en": "Detailed scorecards are available through the vendor management portal.",
+      "zh": "詳細評分卡可透過供應商管理入口網站取得。"
+    },
+    {
+      "en": "Questions regarding the report should be directed to the category manager.",
+      "zh": "如對本報告有任何疑問，請洽該類別經理。"
+    },
+    {
+      "en": "Procurement also plans to launch a digital portal for real-time vendor scorecard visibility.",
+      "zh": "採購亦計畫推出一個讓供應商評分卡即時可視的數位入口網站。"
+    },
+    {
+      "en": "Selected vendors will be invited to participate in early supplier involvement programs.",
+      "zh": "獲選供應商將獲邀參與供應商早期介入計畫。"
+    },
+    {
+      "en": "Joint innovation workshops will explore lightweight materials and packaging redesign.",
+      "zh": "聯合創新工作坊將探討輕量化材料與包裝再設計。"
+    },
+    {
+      "en": "A dual-source strategy will be implemented for high-volume corrugated boxes by year-end.",
+      "zh": "年底前將為高用量瓦楞紙箱導入雙源策略。"
+    },
+    {
+      "en": "Inventory consignment models will be evaluated to reduce working capital exposure.",
+      "zh": "將評估寄售庫存模式，以降低營運資金曝險。"
+    },
+    {
+      "en": "Logistics consolidation with two regional vendors is expected to cut freight costs by 7 percent.",
+      "zh": "與兩家區域供應商整合物流，預期可削減百分之七的運費成本。"
+    },
+    {
+      "en": "Compliance training will be mandatory for all newly onboarded suppliers next quarter.",
+      "zh": "下季所有新引進的供應商均須接受強制性的法規遵循訓練。"
+    },
+    {
+      "en": "Procurement will also strengthen its data analytics capability with a new spend visualization tool.",
+      "zh": "採購亦將透過新的支出可視化工具，強化資料分析能量。"
+    },
+    {
+      "en": "We appreciate the collaboration from quality, engineering, and finance teams throughout the review.",
+      "zh": "感謝品質、工程與財務團隊在整個評估過程中的協作。"
+    },
+    {
+      "en": "Final approval of the recommendations will be sought from the executive procurement committee.",
+      "zh": "本建議案將提請執行採購委員會做最後核定。"
+    },
+    {
+      "en": "Contract renewal negotiations will commence within the next 60 days for top performers.",
+      "zh": "將於未來六十天內針對表現最佳供應商展開合約續約談判。"
+    },
+    {
+      "en": "Standard payment terms will be extended from net 30 to net 45 for retained vendors.",
+      "zh": "保留合作的供應商標準付款條件將由三十天延長至四十五天。"
+    },
+    {
+      "en": "A revised service level agreement template will be issued to all category suppliers.",
+      "zh": "將向所有類別供應商發布修訂後的服務水準協議範本。"
+    },
+    {
+      "en": "Vendor scorecards will now be published monthly rather than quarterly for greater visibility.",
+      "zh": "供應商評分卡現將改為每月發布，而非每季發布，以提升可視性。"
+    },
+    {
+      "en": "An emergency supplier list has been formalized to cover unexpected demand surges.",
+      "zh": "已正式建立緊急供應商名單以因應突發性需求暴增。"
+    },
+    {
+      "en": "Procurement intends to pilot a reverse auction for non-strategic packaging items next quarter.",
+      "zh": "採購擬於下季針對非策略性包裝品項試行反向競標。"
+    },
+    {
+      "en": "Quality engineering will conduct unannounced site audits at three vendor facilities this year.",
+      "zh": "品質工程部將於今年對三家供應商廠房進行不預警現場稽核。"
+    },
+    {
+      "en": "Supplier diversity targets have been raised to 18 percent of total category spend.",
+      "zh": "供應商多元化目標已提升至該類別總支出之百分之十八。"
+    },
+    {
+      "en": "Cybersecurity questionnaires will be mandatory for all vendors handling sensitive product data.",
+      "zh": "所有處理敏感產品資料的供應商均須完成資安問卷。"
+    },
+    {
+      "en": "We thank every reviewer who contributed insights to this comprehensive vendor evaluation cycle.",
+      "zh": "感謝每位為本次完整供應商評估週期貢獻洞見的審查者。"
+    }
   ]
 }

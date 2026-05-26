@@ -1,47 +1,173 @@
 {
   "title": "A B Test Results Memo",
   "all": [
-    { "en": "This memo summarizes the results of our recent landing page optimization test.", "zh": "本備忘錄彙整近期登陸頁優化測試的結果。" },
-    { "en": "Two design variants were compared against the existing control experience.", "zh": "兩個設計版本與現行對照版進行了比較測試。" },
-    { "en": "Variant A featured a simplified hero section with a single primary action.", "zh": "版本 A 採用簡化的主視覺區，僅保留單一主要行動按鈕。" },
-    { "en": "Variant B introduced testimonial blocks placed directly below the headline.", "zh": "版本 B 在標題正下方加入了客戶見證區塊。" },
-    { "en": "The test ran for fourteen consecutive days using equal traffic allocation.", "zh": "測試以平均流量分配方式連續執行十四天。" },
-    { "en": "Total visitor volume across the experiment reached just over ninety thousand.", "zh": "整個實驗的訪客總量略超過九萬人次。" },
-    { "en": "Variant A increased conversion rate by twelve percent relative to the control.", "zh": "版本 A 的轉換率較對照版提升百分之十二。" },
-    { "en": "Variant B increased conversion rate by seven percent over the same time period.", "zh": "版本 B 於同期間將轉換率提升百分之七。" },
-    { "en": "Statistical significance was confirmed at the ninety five percent confidence level.", "zh": "已在百分之九十五的信賴水準下確認統計顯著性。" },
-    { "en": "Average session duration also improved across both variants compared to control.", "zh": "兩個版本相較於對照版，平均停留時間皆有改善。" },
-    { "en": "Bounce rate decreased meaningfully on mobile devices in particular.", "zh": "尤其在行動裝置上，跳出率明顯降低。" },
-    { "en": "Desktop performance was less differentiated but still trended positively overall.", "zh": "桌機端表現差異較小，但整體仍呈正向趨勢。" },
-    { "en": "Segmentation by traffic source revealed strong gains from paid social channels.", "zh": "依流量來源細分顯示，付費社群通路有顯著提升。" },
-    { "en": "Organic search visitors responded more strongly to the simplified layout option.", "zh": "自然搜尋訪客對簡化版面選項的反應更為強烈。" },
-    { "en": "Heatmap analysis confirmed greater engagement above the page fold.", "zh": "熱區分析確認在首屏範圍內互動更為熱絡。" },
-    { "en": "Survey responses indicated that visitors found the new design easier to navigate.", "zh": "問卷回應顯示訪客覺得新設計更易於瀏覽操作。" },
-    { "en": "Based on these results, we recommend rolling out Variant A site wide next week.", "zh": "依據這些結果，建議下週於全站推出版本 A。" },
-    { "en": "Variant B elements may still inform future iterations of the homepage experience.", "zh": "版本 B 的元素仍可作為未來首頁體驗迭代的參考。" },
-    { "en": "A second round of testing will explore form length and field requirements.", "zh": "第二輪測試將探討表單長度與欄位需求。" },
-    { "en": "We will also evaluate the impact of new pricing presentation in upcoming sprints.", "zh": "未來衝刺中也將評估新版定價呈現方式的影響。" },
-    { "en": "Performance dashboards will be updated to monitor sustained improvement over time.", "zh": "績效儀表板將進行更新，以監控持續改善的成效。" },
-    { "en": "Please contact the growth team for raw data extracts or further analysis questions.", "zh": "如需原始資料匯出或更多分析問題，請聯絡成長團隊。" },
-    { "en": "Engineering will coordinate the production rollout during a low traffic window.", "zh": "工程團隊將於低流量時段協調正式上線推出。" },
-    { "en": "Quality assurance will validate the variant across all supported browsers first.", "zh": "品保人員將先在所有支援瀏覽器上驗證該版本。" },
-    { "en": "Tracking events will be reviewed to ensure analytics capture remains accurate.", "zh": "將檢視追蹤事件以確保分析資料擷取維持準確。" },
-    { "en": "Customer support has been briefed on the visual changes ahead of release.", "zh": "客服團隊已於上線前接獲視覺變更的事前說明。" },
-    { "en": "We will monitor key metrics daily for the first two weeks after launch.", "zh": "上線後的前兩週我們將每日監控關鍵指標。" },
-    { "en": "Any unexpected regressions will trigger an immediate review and rollback if needed.", "zh": "任何非預期的退步都會立即啟動檢討，必要時回退版本。" },
-    { "en": "Learnings from this test will feed into our optimization roadmap document.", "zh": "本次測試的學習成果將納入我們的優化路徑圖文件。" },
-    { "en": "We thank everyone who contributed to designing and shipping these variants.", "zh": "感謝所有參與設計與交付這些版本的同仁。" },
-    { "en": "A detailed appendix with charts and raw figures is attached to this memo.", "zh": "本備忘錄附有含圖表與原始數據的詳細附錄。" },
-    { "en": "Feel free to share this summary with relevant stakeholders in your organization.", "zh": "歡迎將本摘要分享給貴組織內相關的利害關係人。" },
-    { "en": "A guardrail metric on form abandonment will be added to our monitoring suite.", "zh": "將於監控組合中新增表單放棄率作為防護指標。" },
-    { "en": "Multi armed bandit testing will be evaluated for high traffic landing pages.", "zh": "高流量登陸頁將評估採用多臂吃角子老虎機測試法。" },
-    { "en": "We will partner with research to add qualitative insights to quantitative wins.", "zh": "我們將與研究團隊合作為量化勝果增添質化洞察。" },
-    { "en": "Test documentation standards will be updated to capture more contextual details.", "zh": "測試文件規範將更新以記錄更多情境細節。" },
-    { "en": "A monthly experimentation review will showcase wins, losses, and key learnings.", "zh": "每月將舉行實驗檢討會展示成功、失敗與關鍵學習。" },
-    { "en": "Hypothesis quality has improved since adopting the structured intake template.", "zh": "自採用結構化需求模板以來，假設品質已有所提升。" },
-    { "en": "We plan to share these learnings with the broader product organization next month.", "zh": "我們計畫於下月將這些學習成果分享給更廣的產品組織。" },
-    { "en": "Accessibility checks will be incorporated as a mandatory step before launching tests.", "zh": "無障礙檢查將納入啟動測試前的必要步驟。" },
-    { "en": "International market variants may require separate testing due to cultural nuances.", "zh": "因應文化差異，國際市場版本可能需要另行測試。" },
-    { "en": "Thank you to engineering, design, and analytics for partnering on these results.", "zh": "感謝工程、設計與分析團隊共同協作達成這些成果。" }
+    {
+      "en": "This memo summarizes the results of our recent landing page optimization test.",
+      "zh": "本備忘錄彙整近期登陸頁優化測試的結果。"
+    },
+    {
+      "en": "Two design variants were compared against the existing control experience.",
+      "zh": "兩個設計版本與現行對照版進行了比較測試。"
+    },
+    {
+      "en": "Variant A featured a simplified hero section with a single primary action.",
+      "zh": "版本 A 採用簡化的主視覺區，僅保留單一主要行動按鈕。"
+    },
+    {
+      "en": "Variant B introduced testimonial blocks placed directly below the headline.",
+      "zh": "版本 B 在標題正下方加入了客戶見證區塊。"
+    },
+    {
+      "en": "The test ran for fourteen consecutive days using equal traffic allocation.",
+      "zh": "測試以平均流量分配方式連續執行十四天。"
+    },
+    {
+      "en": "Total visitor volume across the experiment reached just over ninety thousand.",
+      "zh": "整個實驗的訪客總量略超過九萬人次。"
+    },
+    {
+      "en": "Variant A increased conversion rate by twelve percent relative to the control.",
+      "zh": "版本 A 的轉換率較對照版提升百分之十二。"
+    },
+    {
+      "en": "Variant B increased conversion rate by seven percent over the same time period.",
+      "zh": "版本 B 於同期間將轉換率提升百分之七。"
+    },
+    {
+      "en": "Statistical significance was confirmed at the ninety five percent confidence level.",
+      "zh": "已在百分之九十五的信賴水準下確認統計顯著性。"
+    },
+    {
+      "en": "Average session duration also improved across both variants compared to control.",
+      "zh": "兩個版本相較於對照版，平均停留時間皆有改善。"
+    },
+    {
+      "en": "Bounce rate decreased meaningfully on mobile devices in particular.",
+      "zh": "尤其在行動裝置上，跳出率明顯降低。"
+    },
+    {
+      "en": "Desktop performance was less differentiated but still trended positively overall.",
+      "zh": "桌機端表現差異較小，但整體仍呈正向趨勢。"
+    },
+    {
+      "en": "Segmentation by traffic source revealed strong gains from paid social channels.",
+      "zh": "依流量來源細分顯示，付費社群通路有顯著提升。"
+    },
+    {
+      "en": "Organic search visitors responded more strongly to the simplified layout option.",
+      "zh": "自然搜尋訪客對簡化版面選項的反應更為強烈。"
+    },
+    {
+      "en": "Heatmap analysis confirmed greater engagement above the page fold.",
+      "zh": "熱區分析確認在首屏範圍內互動更為熱絡。"
+    },
+    {
+      "en": "Survey responses indicated that visitors found the new design easier to navigate.",
+      "zh": "問卷回應顯示訪客覺得新設計更易於瀏覽操作。"
+    },
+    {
+      "en": "Based on these results, we recommend rolling out Variant A site wide next week.",
+      "zh": "依據這些結果，建議下週於全站推出版本 A。"
+    },
+    {
+      "en": "Variant B elements may still inform future iterations of the homepage experience.",
+      "zh": "版本 B 的元素仍可作為未來首頁體驗迭代的參考。"
+    },
+    {
+      "en": "A second round of testing will explore form length and field requirements.",
+      "zh": "第二輪測試將探討表單長度與欄位需求。"
+    },
+    {
+      "en": "We will also evaluate the impact of new pricing presentation in upcoming sprints.",
+      "zh": "未來衝刺中也將評估新版定價呈現方式的影響。"
+    },
+    {
+      "en": "Performance dashboards will be updated to monitor sustained improvement over time.",
+      "zh": "績效儀表板將進行更新，以監控持續改善的成效。"
+    },
+    {
+      "en": "Please contact the growth team for raw data extracts or further analysis questions.",
+      "zh": "如需原始資料匯出或更多分析問題，請聯絡成長團隊。"
+    },
+    {
+      "en": "Engineering will coordinate the production rollout during a low traffic window.",
+      "zh": "工程團隊將於低流量時段協調正式上線推出。"
+    },
+    {
+      "en": "Quality assurance will validate the variant across all supported browsers first.",
+      "zh": "品保人員將先在所有支援瀏覽器上驗證該版本。"
+    },
+    {
+      "en": "Tracking events will be reviewed to ensure analytics capture remains accurate.",
+      "zh": "將檢視追蹤事件以確保分析資料擷取維持準確。"
+    },
+    {
+      "en": "Customer support has been briefed on the visual changes ahead of release.",
+      "zh": "客服團隊已於上線前接獲視覺變更的事前說明。"
+    },
+    {
+      "en": "We will monitor key metrics daily for the first two weeks after launch.",
+      "zh": "上線後的前兩週我們將每日監控關鍵指標。"
+    },
+    {
+      "en": "Any unexpected regressions will trigger an immediate review and rollback if needed.",
+      "zh": "任何非預期的退步都會立即啟動檢討，必要時回退版本。"
+    },
+    {
+      "en": "Learnings from this test will feed into our optimization roadmap document.",
+      "zh": "本次測試的學習成果將納入我們的優化路徑圖文件。"
+    },
+    {
+      "en": "We thank everyone who contributed to designing and shipping these variants.",
+      "zh": "感謝所有參與設計與交付這些版本的同仁。"
+    },
+    {
+      "en": "A detailed appendix with charts and raw figures is attached to this memo.",
+      "zh": "本備忘錄附有含圖表與原始數據的詳細附錄。"
+    },
+    {
+      "en": "Feel free to share this summary with relevant stakeholders in your organization.",
+      "zh": "歡迎將本摘要分享給貴組織內相關的利害關係人。"
+    },
+    {
+      "en": "A guardrail metric on form abandonment will be added to our monitoring suite.",
+      "zh": "將於監控組合中新增表單放棄率作為防護指標。"
+    },
+    {
+      "en": "Multi armed bandit testing will be evaluated for high traffic landing pages.",
+      "zh": "高流量登陸頁將評估採用多臂吃角子老虎機測試法。"
+    },
+    {
+      "en": "We will partner with research to add qualitative insights to quantitative wins.",
+      "zh": "我們將與研究團隊合作為量化勝果增添質化洞察。"
+    },
+    {
+      "en": "Test documentation standards will be updated to capture more contextual details.",
+      "zh": "測試文件規範將更新以記錄更多情境細節。"
+    },
+    {
+      "en": "A monthly experimentation review will showcase wins, losses, and key learnings.",
+      "zh": "每月將舉行實驗檢討會展示成功、失敗與關鍵學習。"
+    },
+    {
+      "en": "Hypothesis quality has improved since adopting the structured intake template.",
+      "zh": "自採用結構化需求模板以來，假設品質已有所提升。"
+    },
+    {
+      "en": "We plan to share these learnings with the broader product organization next month.",
+      "zh": "我們計畫於下月將這些學習成果分享給更廣的產品組織。"
+    },
+    {
+      "en": "Accessibility checks will be incorporated as a mandatory step before launching tests.",
+      "zh": "無障礙檢查將納入啟動測試前的必要步驟。"
+    },
+    {
+      "en": "International market variants may require separate testing due to cultural nuances.",
+      "zh": "因應文化差異，國際市場版本可能需要另行測試。"
+    },
+    {
+      "en": "Thank you to engineering, design, and analytics for partnering on these results.",
+      "zh": "感謝工程、設計與分析團隊共同協作達成這些成果。"
+    }
   ]
 }

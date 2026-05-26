@@ -1,49 +1,181 @@
 {
   "title": "Restaurant Reservation Confirmation",
   "all": [
-    { "en": "Thank you for choosing The Copper Lantern for your upcoming dining experience.", "zh": "感謝您選擇 The Copper Lantern 作為您即將到訪的用餐地點。" },
-    { "en": "This email confirms your reservation has been successfully received.", "zh": "本封郵件確認您的訂位已成功受理。" },
-    { "en": "Your booking is scheduled for Friday, May 22, at 7:30 in the evening.", "zh": "您的訂位時間為五月二十二日（週五）晚間七點三十分。" },
-    { "en": "We have reserved a table for six guests on our upper terrace level.", "zh": "我們已為您六位賓客在二樓露台保留座位。" },
-    { "en": "The terrace offers a panoramic view of the harbor and city skyline.", "zh": "露台可俯瞰港灣與城市天際線的全景。" },
-    { "en": "Your reservation is recorded under the name of Ms. Patricia Long.", "zh": "您的訂位以 Patricia Long 女士的名義登記。" },
-    { "en": "The confirmation number is CL-2026-04578 for your reference.", "zh": "您的訂位確認編號為 CL-2026-04578，請保存以供參考。" },
-    { "en": "Our chef will be featuring a seasonal tasting menu that evening.", "zh": "當晚主廚將推出季節品嚐套餐。" },
-    { "en": "The menu highlights locally sourced seafood and spring vegetables.", "zh": "菜單以在地海鮮與春季蔬菜為主打。" },
-    { "en": "Vegetarian and gluten-free options are available upon request.", "zh": "如有需要，可提供素食與無麩質選項。" },
-    { "en": "Please inform us in advance of any food allergies among your party.", "zh": "若您的同行成員有任何食物過敏，請提前告知我們。" },
-    { "en": "We recommend arriving 10 minutes early to enjoy a welcome drink.", "zh": "建議提前十分鐘抵達，可享用迎賓飲品。" },
-    { "en": "Our dress code is smart casual; gentlemen are kindly asked to wear jackets.", "zh": "本店服裝規定為輕便正式，男士請著外套。" },
-    { "en": "Complimentary valet parking is available at the main entrance.", "zh": "正門入口提供免費代客泊車服務。" },
-    { "en": "Public parking lots are also located within a short walking distance.", "zh": "公共停車場亦位於步行可達距離。" },
-    { "en": "If you are celebrating a special occasion, please let our staff know.", "zh": "若您是為特別場合慶祝，歡迎告知我們的服務人員。" },
-    { "en": "We are happy to prepare a personalized dessert or floral arrangement.", "zh": "我們樂意為您準備客製化甜點或花藝佈置。" },
-    { "en": "Please note that tables are held for 15 minutes past the reserved time.", "zh": "請留意，訂位時間後座位將保留 15 分鐘。" },
-    { "en": "After this period, the reservation may be released to other guests.", "zh": "逾時後，訂位可能讓予其他客人。" },
-    { "en": "Should your plans change, kindly notify us at least 24 hours in advance.", "zh": "若您的行程有變，請至少提前 24 小時告知我們。" },
-    { "en": "Cancellations can be made by phone or through our online booking portal.", "zh": "取消訂位可透過電話或我們的線上訂位系統辦理。" },
-    { "en": "For groups larger than ten, please contact our events coordinator.", "zh": "十人以上的團體訂位，請聯繫我們的活動專員。" },
-    { "en": "We look forward to welcoming you and your guests on Friday evening.", "zh": "我們期待週五晚間迎接您與您的賓客。" },
-    { "en": "Warm regards, the reservations team at The Copper Lantern.", "zh": "The Copper Lantern 訂位團隊敬上。" },
-    { "en": "Our sommelier has curated a special wine pairing flight to accompany the tasting menu.", "zh": "本店侍酒師特別搭配品嚐套餐挑選了一組精選佐餐酒單。" },
-    { "en": "Live acoustic music will be performed on the terrace from eight until ten in the evening.", "zh": "晚間八點至十點，露台將有現場原音樂演出。" },
-    { "en": "A private dining room may be reserved for additional fee should your plans expand.", "zh": "如您的計畫有所調整，亦可加價預訂私人包廂。" },
-    { "en": "Photographs of our terrace setting are available on the gallery page of our website.", "zh": "本店網站的相片集頁面有露台環境的照片可供參考。" },
-    { "en": "We accept all major credit cards as well as contactless mobile payment options.", "zh": "本店接受所有主要信用卡及感應式行動支付。" },
-    { "en": "A service charge of fifteen percent will be added automatically to your final bill.", "zh": "結帳金額將自動加收百分之十五的服務費。" },
-    { "en": "Children are welcome, and our junior menu features approachable seasonal favorites.", "zh": "我們歡迎兒童光臨，並提供以當季食材製作的兒童菜單。" },
-    { "en": "Our pastry chef can prepare a custom celebration cake with three days advance notice.", "zh": "若您於三日前預訂，我們的甜點主廚可為您製作客製化慶祝蛋糕。" },
-    { "en": "Gift certificates for future visits are available for purchase at the host station tonight.", "zh": "今晚於接待櫃台亦可購買日後造訪使用的禮券。" },
-    { "en": "We sincerely appreciate your reservation and look forward to creating a memorable evening.", "zh": "我們由衷感謝您的訂位，期待為您打造難忘的夜晚。" },
-    { "en": "Our seasonal tasting menu rotates every six weeks to highlight the freshest ingredients available.", "zh": "我們的季節品嚐套餐每六週更新一次，以呈現最新鮮的食材。" },
-    { "en": "Diners may request a behind-the-scenes kitchen tour led by our executive chef on quieter evenings.", "zh": "於較不繁忙的晚間，賓客可請主廚親自帶領後場廚房導覽。" },
-    { "en": "We collaborate closely with regional farmers to source organic produce of the highest quality.", "zh": "我們與在地農戶緊密合作，採購最高品質的有機農產品。" },
-    { "en": "Our cocktail program features signature creations inspired by local botanicals and historic city landmarks.", "zh": "本店的雞尾酒主打以在地植物與城市歷史地標為靈感的招牌調酒。" },
-    { "en": "Corporate clients may inquire about hosting private banquets for up to forty seated guests.", "zh": "企業客戶可洽詢舉辦最多容納四十位賓客的私人宴會。" },
-    { "en": "Our loyalty program rewards regular guests with exclusive tasting events and chef collaboration dinners.", "zh": "本店常客忠誠方案提供獨家品酒活動及主廚聯名晚宴等獎勵。" },
-    { "en": "Reservation reminders will be sent to your mobile device twenty-four hours before your scheduled dining time.", "zh": "訂位提醒將於用餐時間二十四小時前發送至您的行動裝置。" },
-    { "en": "Should weather be unfavorable, indoor seating arrangements will be confirmed two hours before arrival.", "zh": "若天候不佳，將於您抵達前兩小時確認室內座位安排。" },
-    { "en": "We donate a portion of monthly proceeds to local charities supporting culinary education for young chefs.", "zh": "我們每月將部分營收捐贈給支持年輕廚師烹飪教育的在地慈善機構。" },
-    { "en": "Thank you for selecting our establishment, and please share any final preferences with our host team.", "zh": "感謝您選擇本店，如有任何最後需求，請隨時告知接待團隊。" }
+    {
+      "en": "Thank you for choosing The Copper Lantern for your upcoming dining experience.",
+      "zh": "感謝您選擇 The Copper Lantern 作為您即將到訪的用餐地點。"
+    },
+    {
+      "en": "This email confirms your reservation has been successfully received.",
+      "zh": "本封郵件確認您的訂位已成功受理。"
+    },
+    {
+      "en": "Your booking is scheduled for Friday, May 22, at 7:30 in the evening.",
+      "zh": "您的訂位時間為五月二十二日（週五）晚間七點三十分。"
+    },
+    {
+      "en": "We have reserved a table for six guests on our upper terrace level.",
+      "zh": "我們已為您六位賓客在二樓露台保留座位。"
+    },
+    {
+      "en": "The terrace offers a panoramic view of the harbor and city skyline.",
+      "zh": "露台可俯瞰港灣與城市天際線的全景。"
+    },
+    {
+      "en": "Your reservation is recorded under the name of Ms. Patricia Long.",
+      "zh": "您的訂位以 Patricia Long 女士的名義登記。"
+    },
+    {
+      "en": "The confirmation number is CL-2026-04578 for your reference.",
+      "zh": "您的訂位確認編號為 CL-2026-04578，請保存以供參考。"
+    },
+    {
+      "en": "Our chef will be featuring a seasonal tasting menu that evening.",
+      "zh": "當晚主廚將推出季節品嚐套餐。"
+    },
+    {
+      "en": "The menu highlights locally sourced seafood and spring vegetables.",
+      "zh": "菜單以在地海鮮與春季蔬菜為主打。"
+    },
+    {
+      "en": "Vegetarian and gluten-free options are available upon request.",
+      "zh": "如有需要，可提供素食與無麩質選項。"
+    },
+    {
+      "en": "Please inform us in advance of any food allergies among your party.",
+      "zh": "若您的同行成員有任何食物過敏，請提前告知我們。"
+    },
+    {
+      "en": "We recommend arriving 10 minutes early to enjoy a welcome drink.",
+      "zh": "建議提前十分鐘抵達，可享用迎賓飲品。"
+    },
+    {
+      "en": "Our dress code is smart casual; gentlemen are kindly asked to wear jackets.",
+      "zh": "本店服裝規定為輕便正式，男士請著外套。"
+    },
+    {
+      "en": "Complimentary valet parking is available at the main entrance.",
+      "zh": "正門入口提供免費代客泊車服務。"
+    },
+    {
+      "en": "Public parking lots are also located within a short walking distance.",
+      "zh": "公共停車場亦位於步行可達距離。"
+    },
+    {
+      "en": "If you are celebrating a special occasion, please let our staff know.",
+      "zh": "若您是為特別場合慶祝，歡迎告知我們的服務人員。"
+    },
+    {
+      "en": "We are happy to prepare a personalized dessert or floral arrangement.",
+      "zh": "我們樂意為您準備客製化甜點或花藝佈置。"
+    },
+    {
+      "en": "Please note that tables are held for 15 minutes past the reserved time.",
+      "zh": "請留意，訂位時間後座位將保留 15 分鐘。"
+    },
+    {
+      "en": "After this period, the reservation may be released to other guests.",
+      "zh": "逾時後，訂位可能讓予其他客人。"
+    },
+    {
+      "en": "Should your plans change, kindly notify us at least 24 hours in advance.",
+      "zh": "若您的行程有變，請至少提前 24 小時告知我們。"
+    },
+    {
+      "en": "Cancellations can be made by phone or through our online booking portal.",
+      "zh": "取消訂位可透過電話或我們的線上訂位系統辦理。"
+    },
+    {
+      "en": "For groups larger than ten, please contact our events coordinator.",
+      "zh": "十人以上的團體訂位，請聯繫我們的活動專員。"
+    },
+    {
+      "en": "We look forward to welcoming you and your guests on Friday evening.",
+      "zh": "我們期待週五晚間迎接您與您的賓客。"
+    },
+    {
+      "en": "Warm regards, the reservations team at The Copper Lantern.",
+      "zh": "The Copper Lantern 訂位團隊敬上。"
+    },
+    {
+      "en": "Our sommelier has curated a special wine pairing flight to accompany the tasting menu.",
+      "zh": "本店侍酒師特別搭配品嚐套餐挑選了一組精選佐餐酒單。"
+    },
+    {
+      "en": "Live acoustic music will be performed on the terrace from eight until ten in the evening.",
+      "zh": "晚間八點至十點，露台將有現場原音樂演出。"
+    },
+    {
+      "en": "A private dining room may be reserved for additional fee should your plans expand.",
+      "zh": "如您的計畫有所調整，亦可加價預訂私人包廂。"
+    },
+    {
+      "en": "Photographs of our terrace setting are available on the gallery page of our website.",
+      "zh": "本店網站的相片集頁面有露台環境的照片可供參考。"
+    },
+    {
+      "en": "We accept all major credit cards as well as contactless mobile payment options.",
+      "zh": "本店接受所有主要信用卡及感應式行動支付。"
+    },
+    {
+      "en": "A service charge of fifteen percent will be added automatically to your final bill.",
+      "zh": "結帳金額將自動加收百分之十五的服務費。"
+    },
+    {
+      "en": "Children are welcome, and our junior menu features approachable seasonal favorites.",
+      "zh": "我們歡迎兒童光臨，並提供以當季食材製作的兒童菜單。"
+    },
+    {
+      "en": "Our pastry chef can prepare a custom celebration cake with three days advance notice.",
+      "zh": "若您於三日前預訂，我們的甜點主廚可為您製作客製化慶祝蛋糕。"
+    },
+    {
+      "en": "Gift certificates for future visits are available for purchase at the host station tonight.",
+      "zh": "今晚於接待櫃台亦可購買日後造訪使用的禮券。"
+    },
+    {
+      "en": "We sincerely appreciate your reservation and look forward to creating a memorable evening.",
+      "zh": "我們由衷感謝您的訂位，期待為您打造難忘的夜晚。"
+    },
+    {
+      "en": "Our seasonal tasting menu rotates every six weeks to highlight the freshest ingredients available.",
+      "zh": "我們的季節品嚐套餐每六週更新一次，以呈現最新鮮的食材。"
+    },
+    {
+      "en": "Diners may request a behind-the-scenes kitchen tour led by our executive chef on quieter evenings.",
+      "zh": "於較不繁忙的晚間，賓客可請主廚親自帶領後場廚房導覽。"
+    },
+    {
+      "en": "We collaborate closely with regional farmers to source organic produce of the highest quality.",
+      "zh": "我們與在地農戶緊密合作，採購最高品質的有機農產品。"
+    },
+    {
+      "en": "Our cocktail program features signature creations inspired by local botanicals and historic city landmarks.",
+      "zh": "本店的雞尾酒主打以在地植物與城市歷史地標為靈感的招牌調酒。"
+    },
+    {
+      "en": "Corporate clients may inquire about hosting private banquets for up to forty seated guests.",
+      "zh": "企業客戶可洽詢舉辦最多容納四十位賓客的私人宴會。"
+    },
+    {
+      "en": "Our loyalty program rewards regular guests with exclusive tasting events and chef collaboration dinners.",
+      "zh": "本店常客忠誠方案提供獨家品酒活動及主廚聯名晚宴等獎勵。"
+    },
+    {
+      "en": "Reservation reminders will be sent to your mobile device twenty-four hours before your scheduled dining time.",
+      "zh": "訂位提醒將於用餐時間二十四小時前發送至您的行動裝置。"
+    },
+    {
+      "en": "Should weather be unfavorable, indoor seating arrangements will be confirmed two hours before arrival.",
+      "zh": "若天候不佳，將於您抵達前兩小時確認室內座位安排。"
+    },
+    {
+      "en": "We donate a portion of monthly proceeds to local charities supporting culinary education for young chefs.",
+      "zh": "我們每月將部分營收捐贈給支持年輕廚師烹飪教育的在地慈善機構。"
+    },
+    {
+      "en": "Thank you for selecting our establishment, and please share any final preferences with our host team.",
+      "zh": "感謝您選擇本店，如有任何最後需求，請隨時告知接待團隊。"
+    }
   ]
 }

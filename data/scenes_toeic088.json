@@ -1,48 +1,177 @@
 {
   "title": "Annual Financial Audit Notice",
   "all": [
-    { "en": "This notice announces the start of our annual financial audit.", "zh": "本公告宣布年度財務稽核作業即將啟動。" },
-    { "en": "The external audit firm has been engaged for the seventh consecutive year.", "zh": "外部稽核事務所已連續第七年受聘執行查核。" },
-    { "en": "Fieldwork will begin on the first Monday of next month.", "zh": "實地稽核將於下個月第一個週一展開。" },
-    { "en": "The audit period covers the fiscal year ending in December.", "zh": "稽核期間涵蓋至十二月為止之會計年度。" },
-    { "en": "All departments are expected to cooperate fully with the auditors.", "zh": "各部門均應全面配合稽核人員。" },
-    { "en": "A kickoff meeting will be held with all department heads.", "zh": "將與各部門主管召開正式啟動會議。" },
-    { "en": "Auditors will request supporting documents for sampled transactions.", "zh": "稽核員將要求抽核交易之佐證文件。" },
-    { "en": "Please respond to document requests within two business days.", "zh": "請於兩個營業日內回覆文件調閱請求。" },
-    { "en": "Original signed contracts must be available upon request.", "zh": "原始簽署合約須於申請時提供。" },
-    { "en": "Inventory observation will take place at all warehouse locations.", "zh": "存貨盤點觀察將於所有倉庫據點進行。" },
-    { "en": "Operations teams should prepare cycle counts in advance.", "zh": "營運團隊應事先安排循環盤點作業。" },
-    { "en": "Bank confirmations will be sent directly to financial institutions.", "zh": "銀行詢證函將直接寄送至各金融機構。" },
-    { "en": "Customer confirmations will go out for major accounts receivable balances.", "zh": "重大應收帳款餘額將寄發客戶函證。" },
-    { "en": "Auditors will assess internal controls over financial reporting.", "zh": "稽核員將評估財務報導之內部控制。" },
-    { "en": "Walkthroughs of key processes are scheduled for the second week.", "zh": "主要流程逐步測試排定於第二週進行。" },
-    { "en": "Findings will be communicated in regular status meetings.", "zh": "查核發現將於定期狀況會議中告知。" },
-    { "en": "Material weaknesses must be disclosed in the audit report.", "zh": "重大缺失須於稽核報告中揭露。" },
-    { "en": "Management responses to findings are due within ten days.", "zh": "對查核發現之管理層回應須於十日內提出。" },
-    { "en": "The audit committee will review preliminary results next quarter.", "zh": "稽核委員會將於下季審閱初步結果。" },
-    { "en": "Final audited statements are targeted for release in March.", "zh": "最終財務報表目標於三月對外發布。" },
-    { "en": "Confidentiality of audit communications must be strictly maintained.", "zh": "稽核相關通訊之機密性務必嚴格維護。" },
-    { "en": "Please direct procedural questions to the internal audit liaison.", "zh": "程序性疑問請洽內部稽核聯絡窗口。" },
-    { "en": "Your timely cooperation ensures a smooth and successful audit.", "zh": "您及時的配合可確保稽核順利完成。" },
-    { "en": "A secure data room has been set up for auditors to access digital files.", "zh": "已為稽核員設置安全資料室，供其調閱電子檔案。" },
-    { "en": "Information technology teams will support read only access to financial systems.", "zh": "資訊技術團隊將協助提供財務系統之唯讀存取權限。" },
-    { "en": "Subsidiary companies will undergo coordinated audits in their respective jurisdictions.", "zh": "各子公司將於所屬司法管轄區內進行同步稽核。" },
-    { "en": "Tax provision schedules require special review by the senior tax specialist.", "zh": "稅務準備明細須由資深稅務專員特別覆核。" },
-    { "en": "Lease accounting under the new standards will be examined in detail.", "zh": "依新準則之租賃會計將接受詳細查核。" },
-    { "en": "Revenue recognition testing focuses on contracts above one million dollars.", "zh": "收入認列測試聚焦於合約金額超過一百萬美元者。" },
-    { "en": "Goodwill impairment assessments must be supported by independent valuation reports.", "zh": "商譽減損評估須有獨立評價報告支持。" },
-    { "en": "Related party transactions should be fully documented with board approval records.", "zh": "關係人交易須備齊董事會核准紀錄之完整文件。" },
-    { "en": "Subsequent events through the report date receive additional scrutiny.", "zh": "至報告日止之期後事項將接受額外審查。" },
-    { "en": "Thank you for your dedication during this important annual exercise.", "zh": "感謝各位於此一年度重要工作中所展現的投入。" },
-    { "en": "Sampling methodology selections are based on risk assessments performed during planning.", "zh": "抽樣方法之選擇係依規劃階段所進行之風險評估而定。" },
-    { "en": "Journal entry testing covers both manual postings and automated system transactions.", "zh": "傳票測試涵蓋人工分錄及自動化系統交易。" },
-    { "en": "Year over year fluctuation analysis identifies accounts requiring substantive procedures.", "zh": "逐年波動分析辨識需執行實質程序之科目。" },
-    { "en": "Management representation letters must be signed before the audit opinion is issued.", "zh": "管理階層聲明書須於發布稽核意見前完成簽署。" },
-    { "en": "Going concern evaluations consider cash flow projections for the next twelve months.", "zh": "繼續經營評估需考量未來十二個月之現金流量預測。" },
-    { "en": "Pension and post retirement benefit calculations require actuarial valuation reports.", "zh": "退休金與離職後福利計算須有精算評價報告。" },
-    { "en": "Internal control deficiencies are categorized by severity using established professional standards.", "zh": "內部控制缺失依專業準則所訂之嚴重程度分類。" },
-    { "en": "Audit committee presentations highlight key risk areas and recommended remediation plans.", "zh": "稽核委員會簡報強調主要風險區域與建議改善方案。" },
-    { "en": "Engagement letters specify scope, timeline, fees, and responsibilities for both parties.", "zh": "委任書載明雙方之範圍、時程、酬金與責任。" },
-    { "en": "We welcome any questions or concerns throughout this collaborative audit process.", "zh": "本協作稽核過程中歡迎提出任何問題或疑慮。" }
+    {
+      "en": "This notice announces the start of our annual financial audit.",
+      "zh": "本公告宣布年度財務稽核作業即將啟動。"
+    },
+    {
+      "en": "The external audit firm has been engaged for the seventh consecutive year.",
+      "zh": "外部稽核事務所已連續第七年受聘執行查核。"
+    },
+    {
+      "en": "Fieldwork will begin on the first Monday of next month.",
+      "zh": "實地稽核將於下個月第一個週一展開。"
+    },
+    {
+      "en": "The audit period covers the fiscal year ending in December.",
+      "zh": "稽核期間涵蓋至十二月為止之會計年度。"
+    },
+    {
+      "en": "All departments are expected to cooperate fully with the auditors.",
+      "zh": "各部門均應全面配合稽核人員。"
+    },
+    {
+      "en": "A kickoff meeting will be held with all department heads.",
+      "zh": "將與各部門主管召開正式啟動會議。"
+    },
+    {
+      "en": "Auditors will request supporting documents for sampled transactions.",
+      "zh": "稽核員將要求抽核交易之佐證文件。"
+    },
+    {
+      "en": "Please respond to document requests within two business days.",
+      "zh": "請於兩個營業日內回覆文件調閱請求。"
+    },
+    {
+      "en": "Original signed contracts must be available upon request.",
+      "zh": "原始簽署合約須於申請時提供。"
+    },
+    {
+      "en": "Inventory observation will take place at all warehouse locations.",
+      "zh": "存貨盤點觀察將於所有倉庫據點進行。"
+    },
+    {
+      "en": "Operations teams should prepare cycle counts in advance.",
+      "zh": "營運團隊應事先安排循環盤點作業。"
+    },
+    {
+      "en": "Bank confirmations will be sent directly to financial institutions.",
+      "zh": "銀行詢證函將直接寄送至各金融機構。"
+    },
+    {
+      "en": "Customer confirmations will go out for major accounts receivable balances.",
+      "zh": "重大應收帳款餘額將寄發客戶函證。"
+    },
+    {
+      "en": "Auditors will assess internal controls over financial reporting.",
+      "zh": "稽核員將評估財務報導之內部控制。"
+    },
+    {
+      "en": "Walkthroughs of key processes are scheduled for the second week.",
+      "zh": "主要流程逐步測試排定於第二週進行。"
+    },
+    {
+      "en": "Findings will be communicated in regular status meetings.",
+      "zh": "查核發現將於定期狀況會議中告知。"
+    },
+    {
+      "en": "Material weaknesses must be disclosed in the audit report.",
+      "zh": "重大缺失須於稽核報告中揭露。"
+    },
+    {
+      "en": "Management responses to findings are due within ten days.",
+      "zh": "對查核發現之管理層回應須於十日內提出。"
+    },
+    {
+      "en": "The audit committee will review preliminary results next quarter.",
+      "zh": "稽核委員會將於下季審閱初步結果。"
+    },
+    {
+      "en": "Final audited statements are targeted for release in March.",
+      "zh": "最終財務報表目標於三月對外發布。"
+    },
+    {
+      "en": "Confidentiality of audit communications must be strictly maintained.",
+      "zh": "稽核相關通訊之機密性務必嚴格維護。"
+    },
+    {
+      "en": "Please direct procedural questions to the internal audit liaison.",
+      "zh": "程序性疑問請洽內部稽核聯絡窗口。"
+    },
+    {
+      "en": "Your timely cooperation ensures a smooth and successful audit.",
+      "zh": "您及時的配合可確保稽核順利完成。"
+    },
+    {
+      "en": "A secure data room has been set up for auditors to access digital files.",
+      "zh": "已為稽核員設置安全資料室，供其調閱電子檔案。"
+    },
+    {
+      "en": "Information technology teams will support read only access to financial systems.",
+      "zh": "資訊技術團隊將協助提供財務系統之唯讀存取權限。"
+    },
+    {
+      "en": "Subsidiary companies will undergo coordinated audits in their respective jurisdictions.",
+      "zh": "各子公司將於所屬司法管轄區內進行同步稽核。"
+    },
+    {
+      "en": "Tax provision schedules require special review by the senior tax specialist.",
+      "zh": "稅務準備明細須由資深稅務專員特別覆核。"
+    },
+    {
+      "en": "Lease accounting under the new standards will be examined in detail.",
+      "zh": "依新準則之租賃會計將接受詳細查核。"
+    },
+    {
+      "en": "Revenue recognition testing focuses on contracts above one million dollars.",
+      "zh": "收入認列測試聚焦於合約金額超過一百萬美元者。"
+    },
+    {
+      "en": "Goodwill impairment assessments must be supported by independent valuation reports.",
+      "zh": "商譽減損評估須有獨立評價報告支持。"
+    },
+    {
+      "en": "Related party transactions should be fully documented with board approval records.",
+      "zh": "關係人交易須備齊董事會核准紀錄之完整文件。"
+    },
+    {
+      "en": "Subsequent events through the report date receive additional scrutiny.",
+      "zh": "至報告日止之期後事項將接受額外審查。"
+    },
+    {
+      "en": "Thank you for your dedication during this important annual exercise.",
+      "zh": "感謝各位於此一年度重要工作中所展現的投入。"
+    },
+    {
+      "en": "Sampling methodology selections are based on risk assessments performed during planning.",
+      "zh": "抽樣方法之選擇係依規劃階段所進行之風險評估而定。"
+    },
+    {
+      "en": "Journal entry testing covers both manual postings and automated system transactions.",
+      "zh": "傳票測試涵蓋人工分錄及自動化系統交易。"
+    },
+    {
+      "en": "Year over year fluctuation analysis identifies accounts requiring substantive procedures.",
+      "zh": "逐年波動分析辨識需執行實質程序之科目。"
+    },
+    {
+      "en": "Management representation letters must be signed before the audit opinion is issued.",
+      "zh": "管理階層聲明書須於發布稽核意見前完成簽署。"
+    },
+    {
+      "en": "Going concern evaluations consider cash flow projections for the next twelve months.",
+      "zh": "繼續經營評估需考量未來十二個月之現金流量預測。"
+    },
+    {
+      "en": "Pension and post retirement benefit calculations require actuarial valuation reports.",
+      "zh": "退休金與離職後福利計算須有精算評價報告。"
+    },
+    {
+      "en": "Internal control deficiencies are categorized by severity using established professional standards.",
+      "zh": "內部控制缺失依專業準則所訂之嚴重程度分類。"
+    },
+    {
+      "en": "Audit committee presentations highlight key risk areas and recommended remediation plans.",
+      "zh": "稽核委員會簡報強調主要風險區域與建議改善方案。"
+    },
+    {
+      "en": "Engagement letters specify scope, timeline, fees, and responsibilities for both parties.",
+      "zh": "委任書載明雙方之範圍、時程、酬金與責任。"
+    },
+    {
+      "en": "We welcome any questions or concerns throughout this collaborative audit process.",
+      "zh": "本協作稽核過程中歡迎提出任何問題或疑慮。"
+    }
   ]
 }

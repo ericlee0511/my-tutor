@@ -1,48 +1,177 @@
 {
   "title": "IT Helpdesk Ticket Response",
   "all": [
-    { "en": "Dear Mr. Patel, thank you for contacting the IT helpdesk this morning.", "zh": "親愛的 Patel 先生，感謝您今天早上聯繫 IT 服務台。" },
-    { "en": "Your ticket number is HD-48721 and has been assigned to engineer Mia.", "zh": "您的工單編號為 HD-48721，已指派給工程師 Mia。" },
-    { "en": "We understand that your laptop cannot connect to the corporate VPN.", "zh": "我們了解您的筆電無法連線至公司 VPN。" },
-    { "en": "Based on the logs, the certificate on your device expired last weekend.", "zh": "根據日誌，您裝置上的憑證已於上週末到期。" },
-    { "en": "Please restart the laptop and open the Software Center application.", "zh": "請重啟筆電並開啟 Software Center 應用程式。" },
-    { "en": "Search for the package named VPN Certificate Renewal 2026.", "zh": "搜尋名稱為 VPN Certificate Renewal 2026 的套件。" },
-    { "en": "Click Install and wait until the status changes to Completed.", "zh": "點擊安裝並等候狀態變為已完成。" },
-    { "en": "After installation, sign out of Windows and sign back in once.", "zh": "安裝完成後，請登出 Windows 並重新登入一次。" },
-    { "en": "Open the VPN client and select the Asia gateway from the list.", "zh": "開啟 VPN 用戶端並從清單中選擇亞洲閘道。" },
-    { "en": "Enter your employee ID and the new password issued last Friday.", "zh": "輸入您的員工編號及上週五核發的新密碼。" },
-    { "en": "If the connection still fails, please capture a screenshot of the error.", "zh": "若連線仍失敗，請擷取錯誤訊息的螢幕截圖。" },
-    { "en": "Send the screenshot to helpdesk at acmecorp dot com.", "zh": "請將截圖寄到 helpdesk at acmecorp dot com。" },
-    { "en": "Include the time of the failure and the gateway you tried.", "zh": "請附上失敗時間以及您嘗試使用的閘道。" },
-    { "en": "Our team monitors the inbox between seven and twenty hundred hours daily.", "zh": "我們團隊每天於 07:00 至 20:00 監看信箱。" },
-    { "en": "For urgent issues, you may also call extension 8800 directly.", "zh": "如為緊急問題，您亦可直接撥打分機 8800。" },
-    { "en": "Please note that password resets require manager approval in writing.", "zh": "請注意，密碼重設需主管書面核准。" },
-    { "en": "We cannot share credentials over the phone for security reasons.", "zh": "基於安全考量，我們無法透過電話告知帳密。" },
-    { "en": "A satisfaction survey will be emailed when the ticket is closed.", "zh": "工單關閉時將寄送滿意度調查至您信箱。" },
-    { "en": "Your feedback helps us improve response time and service quality.", "zh": "您的回饋有助我們改善回應時間與服務品質。" },
-    { "en": "We aim to resolve standard tickets within one business day.", "zh": "我們的目標是於一個工作日內解決標準工單。" },
-    { "en": "Complex hardware cases may require up to three working days.", "zh": "複雜的硬體案件可能需要至多三個工作天。" },
-    { "en": "Thank you for your patience while we investigate this matter.", "zh": "感謝您耐心等候我們調查此事。" },
-    { "en": "Best regards, the Global IT Helpdesk Team at headquarters.", "zh": "敬祝順心，總部全球 IT 服務台團隊敬上。" },
-    { "en": "P S, please keep this ticket number handy when contacting us again.", "zh": "附註：再次聯繫我們時請備妥此工單編號。" },
-    { "en": "Our knowledge base contains step by step articles for common VPN issues.", "zh": "我們的知識庫收錄常見 VPN 問題的逐步解說文章。" },
-    { "en": "You may access the portal at support dot acmecorp dot com using single sign on.", "zh": "您可使用單一登入連線至 support dot acmecorp dot com 入口網站。" },
-    { "en": "Self service password reset is available there for non privileged accounts.", "zh": "該入口提供非特權帳號的自助密碼重設功能。" },
-    { "en": "If you travel internationally, please notify us at least three days in advance.", "zh": "若您將出差至海外，請至少提前三天通知我們。" },
-    { "en": "We can pre approve alternative gateways for smoother connectivity abroad.", "zh": "我們可預先核准替代閘道，以利您海外連線更順暢。" },
-    { "en": "Please also ensure your operating system patches are fully up to date.", "zh": "也請確認您的作業系統修補程式皆已更新至最新版本。" },
-    { "en": "Outdated patches can prevent the VPN client from establishing a session.", "zh": "過舊的修補程式可能導致 VPN 用戶端無法建立連線工作階段。" },
-    { "en": "We appreciate your cooperation in keeping company devices secure and current.", "zh": "感謝您配合確保公司裝置維持安全且最新狀態。" },
-    { "en": "Please reply to this email if you need further assistance from our team.", "zh": "若您需要我們團隊進一步協助，請直接回覆此封郵件。" },
-    { "en": "Remote workers can request a courier service to swap faulty hardware quickly.", "zh": "遠距工作者可申請快遞服務以迅速更換故障硬體。" },
-    { "en": "Replacement laptops are prepared with all your standard applications preinstalled.", "zh": "備用筆電已預先安裝您所有的標準應用程式。" },
-    { "en": "Data migration support is available through our endpoint management platform.", "zh": "可透過端點管理平台取得資料移轉支援。" },
-    { "en": "Please report any phishing emails to the dedicated security inbox immediately.", "zh": "請立即將任何釣魚郵件回報至專屬資安信箱。" },
-    { "en": "Mandatory security awareness training is due to be renewed every six months.", "zh": "資安認知強制訓練每六個月須更新一次。" },
-    { "en": "Multi factor authentication enrollment is required for all remote access scenarios.", "zh": "所有遠端存取情境皆須完成多因素驗證註冊。" },
-    { "en": "Approved password manager licenses are available upon request through this portal.", "zh": "可透過本入口網站申請取得已核可的密碼管理工具授權。" },
-    { "en": "Major scheduled maintenance windows will be announced two weeks in advance.", "zh": "重大排程維護時段將提前兩週公告。" },
-    { "en": "After hours emergency support is available for production critical incidents only.", "zh": "下班時段緊急支援僅限於營運關鍵事件提供。" },
-    { "en": "We appreciate your partnership in keeping our digital workplace secure and resilient.", "zh": "感謝您的合作，共同維護我們的數位職場安全與韌性。" }
+    {
+      "en": "Dear Mr. Patel, thank you for contacting the IT helpdesk this morning.",
+      "zh": "親愛的 Patel 先生，感謝您今天早上聯繫 IT 服務台。"
+    },
+    {
+      "en": "Your ticket number is HD-48721 and has been assigned to engineer Mia.",
+      "zh": "您的工單編號為 HD-48721，已指派給工程師 Mia。"
+    },
+    {
+      "en": "We understand that your laptop cannot connect to the corporate VPN.",
+      "zh": "我們了解您的筆電無法連線至公司 VPN。"
+    },
+    {
+      "en": "Based on the logs, the certificate on your device expired last weekend.",
+      "zh": "根據日誌，您裝置上的憑證已於上週末到期。"
+    },
+    {
+      "en": "Please restart the laptop and open the Software Center application.",
+      "zh": "請重啟筆電並開啟 Software Center 應用程式。"
+    },
+    {
+      "en": "Search for the package named VPN Certificate Renewal 2026.",
+      "zh": "搜尋名稱為 VPN Certificate Renewal 2026 的套件。"
+    },
+    {
+      "en": "Click Install and wait until the status changes to Completed.",
+      "zh": "點擊安裝並等候狀態變為已完成。"
+    },
+    {
+      "en": "After installation, sign out of Windows and sign back in once.",
+      "zh": "安裝完成後，請登出 Windows 並重新登入一次。"
+    },
+    {
+      "en": "Open the VPN client and select the Asia gateway from the list.",
+      "zh": "開啟 VPN 用戶端並從清單中選擇亞洲閘道。"
+    },
+    {
+      "en": "Enter your employee ID and the new password issued last Friday.",
+      "zh": "輸入您的員工編號及上週五核發的新密碼。"
+    },
+    {
+      "en": "If the connection still fails, please capture a screenshot of the error.",
+      "zh": "若連線仍失敗，請擷取錯誤訊息的螢幕截圖。"
+    },
+    {
+      "en": "Send the screenshot to helpdesk at acmecorp dot com.",
+      "zh": "請將截圖寄到 helpdesk at acmecorp dot com。"
+    },
+    {
+      "en": "Include the time of the failure and the gateway you tried.",
+      "zh": "請附上失敗時間以及您嘗試使用的閘道。"
+    },
+    {
+      "en": "Our team monitors the inbox between seven and twenty hundred hours daily.",
+      "zh": "我們團隊每天於 07:00 至 20:00 監看信箱。"
+    },
+    {
+      "en": "For urgent issues, you may also call extension 8800 directly.",
+      "zh": "如為緊急問題，您亦可直接撥打分機 8800。"
+    },
+    {
+      "en": "Please note that password resets require manager approval in writing.",
+      "zh": "請注意，密碼重設需主管書面核准。"
+    },
+    {
+      "en": "We cannot share credentials over the phone for security reasons.",
+      "zh": "基於安全考量，我們無法透過電話告知帳密。"
+    },
+    {
+      "en": "A satisfaction survey will be emailed when the ticket is closed.",
+      "zh": "工單關閉時將寄送滿意度調查至您信箱。"
+    },
+    {
+      "en": "Your feedback helps us improve response time and service quality.",
+      "zh": "您的回饋有助我們改善回應時間與服務品質。"
+    },
+    {
+      "en": "We aim to resolve standard tickets within one business day.",
+      "zh": "我們的目標是於一個工作日內解決標準工單。"
+    },
+    {
+      "en": "Complex hardware cases may require up to three working days.",
+      "zh": "複雜的硬體案件可能需要至多三個工作天。"
+    },
+    {
+      "en": "Thank you for your patience while we investigate this matter.",
+      "zh": "感謝您耐心等候我們調查此事。"
+    },
+    {
+      "en": "Best regards, the Global IT Helpdesk Team at headquarters.",
+      "zh": "敬祝順心，總部全球 IT 服務台團隊敬上。"
+    },
+    {
+      "en": "P S, please keep this ticket number handy when contacting us again.",
+      "zh": "附註：再次聯繫我們時請備妥此工單編號。"
+    },
+    {
+      "en": "Our knowledge base contains step by step articles for common VPN issues.",
+      "zh": "我們的知識庫收錄常見 VPN 問題的逐步解說文章。"
+    },
+    {
+      "en": "You may access the portal at support dot acmecorp dot com using single sign on.",
+      "zh": "您可使用單一登入連線至 support dot acmecorp dot com 入口網站。"
+    },
+    {
+      "en": "Self service password reset is available there for non privileged accounts.",
+      "zh": "該入口提供非特權帳號的自助密碼重設功能。"
+    },
+    {
+      "en": "If you travel internationally, please notify us at least three days in advance.",
+      "zh": "若您將出差至海外，請至少提前三天通知我們。"
+    },
+    {
+      "en": "We can pre approve alternative gateways for smoother connectivity abroad.",
+      "zh": "我們可預先核准替代閘道，以利您海外連線更順暢。"
+    },
+    {
+      "en": "Please also ensure your operating system patches are fully up to date.",
+      "zh": "也請確認您的作業系統修補程式皆已更新至最新版本。"
+    },
+    {
+      "en": "Outdated patches can prevent the VPN client from establishing a session.",
+      "zh": "過舊的修補程式可能導致 VPN 用戶端無法建立連線工作階段。"
+    },
+    {
+      "en": "We appreciate your cooperation in keeping company devices secure and current.",
+      "zh": "感謝您配合確保公司裝置維持安全且最新狀態。"
+    },
+    {
+      "en": "Please reply to this email if you need further assistance from our team.",
+      "zh": "若您需要我們團隊進一步協助，請直接回覆此封郵件。"
+    },
+    {
+      "en": "Remote workers can request a courier service to swap faulty hardware quickly.",
+      "zh": "遠距工作者可申請快遞服務以迅速更換故障硬體。"
+    },
+    {
+      "en": "Replacement laptops are prepared with all your standard applications preinstalled.",
+      "zh": "備用筆電已預先安裝您所有的標準應用程式。"
+    },
+    {
+      "en": "Data migration support is available through our endpoint management platform.",
+      "zh": "可透過端點管理平台取得資料移轉支援。"
+    },
+    {
+      "en": "Please report any phishing emails to the dedicated security inbox immediately.",
+      "zh": "請立即將任何釣魚郵件回報至專屬資安信箱。"
+    },
+    {
+      "en": "Mandatory security awareness training is due to be renewed every six months.",
+      "zh": "資安認知強制訓練每六個月須更新一次。"
+    },
+    {
+      "en": "Multi factor authentication enrollment is required for all remote access scenarios.",
+      "zh": "所有遠端存取情境皆須完成多因素驗證註冊。"
+    },
+    {
+      "en": "Approved password manager licenses are available upon request through this portal.",
+      "zh": "可透過本入口網站申請取得已核可的密碼管理工具授權。"
+    },
+    {
+      "en": "Major scheduled maintenance windows will be announced two weeks in advance.",
+      "zh": "重大排程維護時段將提前兩週公告。"
+    },
+    {
+      "en": "After hours emergency support is available for production critical incidents only.",
+      "zh": "下班時段緊急支援僅限於營運關鍵事件提供。"
+    },
+    {
+      "en": "We appreciate your partnership in keeping our digital workplace secure and resilient.",
+      "zh": "感謝您的合作，共同維護我們的數位職場安全與韌性。"
+    }
   ]
 }

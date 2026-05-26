@@ -1,50 +1,185 @@
 {
   "title": "Employee Wellness Program Launch Announcement",
   "all": [
-    { "en": "We are excited to announce the launch of our new employee wellness program.", "zh": "我們很高興宣布推出全新的員工健康促進計畫。" },
-    { "en": "The program, called LiveWell at Work, begins on Monday, July 1.", "zh": "本計畫名為「LiveWell at Work」，將於 7 月 1 日星期一正式啟動。" },
-    { "en": "It is designed to support the physical, mental, and financial well-being of staff.", "zh": "本計畫旨在支持員工的身心健康與財務福祉。" },
-    { "en": "All full-time and part-time employees are eligible to participate.", "zh": "所有正職與兼職員工皆可參加。" },
-    { "en": "Family members of employees may also join selected program activities.", "zh": "員工家屬亦可參加部分指定活動。" },
-    { "en": "The program offers monthly themes throughout the year.", "zh": "本計畫整年將推出每月不同的主題活動。" },
-    { "en": "July will focus on healthy habits and daily movement.", "zh": "7 月聚焦於健康習慣與每日運動。" },
-    { "en": "August will highlight stress management and mindfulness techniques.", "zh": "8 月將著重壓力管理與正念技巧。" },
-    { "en": "September will introduce financial planning workshops led by certified advisors.", "zh": "9 月將推出由合格顧問主講的財務規劃工作坊。" },
-    { "en": "Free on-site fitness classes will be held three times per week.", "zh": "公司將每週舉辦三次免費現場健身課程。" },
-    { "en": "Yoga, pilates, and high-intensity sessions will all be available.", "zh": "課程包含瑜伽、皮拉提斯及高強度訓練。" },
-    { "en": "Our partner gym will offer a forty percent discount on annual memberships.", "zh": "合作健身房將提供年度會員 60% 折扣優惠。" },
-    { "en": "An on-site nurse will be available twice a month for health consultations.", "zh": "公司每月將安排兩次駐點護理師提供健康諮詢。" },
-    { "en": "Confidential counseling services are available through our employee assistance program.", "zh": "員工協助方案亦提供保密心理諮商服務。" },
-    { "en": "All employees will receive a complimentary wellness kit at the kickoff event.", "zh": "全體員工將於啟動活動上獲贈一份健康好禮包。" },
-    { "en": "The kit includes a reusable water bottle, a journal, and a step counter.", "zh": "好禮包內含環保水壺、筆記本與計步器。" },
-    { "en": "A wellness portal will let employees track goals and join challenges.", "zh": "公司將上線健康入口網站，方便員工設定目標並參加挑戰。" },
-    { "en": "Quarterly team challenges will encourage friendly competition between departments.", "zh": "每季部門間將舉辦友善競賽以促進良性互動。" },
-    { "en": "Top participants will be recognized in our quarterly newsletter.", "zh": "表現優秀者將獲頒於每季電子報中表揚。" },
-    { "en": "Healthy snack options will be added to all break rooms next month.", "zh": "下月起所有茶水間將提供更多健康點心選擇。" },
-    { "en": "The cafeteria menu has been updated with additional vegetarian dishes.", "zh": "員工餐廳菜單亦已新增多項素食選擇。" },
-    { "en": "Standing desks can now be requested through the facilities portal.", "zh": "員工可透過設施申請入口網站申請升降式辦公桌。" },
-    { "en": "We believe that a healthy workforce is a more engaged and productive one.", "zh": "我們相信健康的員工才能更投入工作並提升生產力。" },
-    { "en": "Please join us at the kickoff celebration on July 1 at noon in the lobby.", "zh": "誠摯邀請您於 7 月 1 日中午至大廳參加啟動慶祝活動。" },
-    { "en": "For more information, please visit the LiveWell page on our intranet.", "zh": "更多資訊請瀏覽公司內網的 LiveWell 專頁。" },
-    { "en": "Annual biometric screenings will be offered free of charge starting in October.", "zh": "自 10 月起公司將免費提供年度健康檢測。" },
-    { "en": "Employees who complete five wellness activities will earn an extra paid day off.", "zh": "完成五項健康活動的員工可獲得一日額外有薪假。" },
-    { "en": "Smoking cessation support programs are available through our health insurance partner.", "zh": "本公司健保合作夥伴亦提供戒菸支援計畫。" },
-    { "en": "Ergonomic workstation assessments can be scheduled with our facilities team.", "zh": "員工可向設施團隊預約人體工學工作站評估。" },
-    { "en": "Mental health first aid training will be offered to all interested employees.", "zh": "心理健康急救訓練將開放有意願的員工報名參加。" },
-    { "en": "Quarterly health webinars feature leading specialists in their respective fields.", "zh": "每季健康講座將邀請各領域知名專家主講。" },
-    { "en": "Walking meetings are encouraged whenever weather and meeting topics allow.", "zh": "在天氣與會議主題許可下，公司鼓勵以步行方式進行會議。" },
-    { "en": "Sleep hygiene workshops will be held during November to support better rest.", "zh": "11 月將舉辦睡眠保健工作坊，協助員工獲得更好的休息。" },
-    { "en": "Family wellness days will allow employees to bring children for activities each spring.", "zh": "家庭健康日將於每年春季開放員工攜子女參加活動。" },
-    { "en": "We genuinely appreciate your commitment to building a healthier workplace community.", "zh": "我們由衷感謝您共同打造更健康的職場社群。" },
-    { "en": "Personalized nutrition consultations can be booked through the wellness portal next month.", "zh": "下月起可透過健康入口網站預約個人化營養諮詢。" },
-    { "en": "Outdoor walking groups will meet every Tuesday morning before the workday begins.", "zh": "戶外健走團將於每週二上班前的早上集合活動。" },
-    { "en": "Health insurance partners will host on-site information sessions in early September.", "zh": "健保合作夥伴將於九月初到公司舉辦現場說明會。" },
-    { "en": "Quarterly health newsletters will feature recipes and quick exercise routines for everyone.", "zh": "每季健康電子報將收錄食譜與快速運動例程供大家參考。" },
-    { "en": "Employees may nominate wellness ambassadors to represent their floor or department.", "zh": "員工可推薦健康大使，代表所屬樓層或部門。" },
-    { "en": "Standing desk converters can be requested at no cost during the program rollout period.", "zh": "計畫推行期間可免費申請桌上型升降桌轉換器。" },
-    { "en": "Quiet rooms for meditation and rest are now available on each floor of the building.", "zh": "公司大樓每層樓現皆設置可用於冥想與休息的靜室。" },
-    { "en": "Online fitness libraries are accessible from any device for employees working remotely.", "zh": "遠端工作員工可從任何裝置存取線上健身影片資料庫。" },
-    { "en": "Wellness goal tracking is fully confidential and never shared with managers or peers.", "zh": "健康目標追蹤資料完全保密，絕不與主管或同事分享。" },
-    { "en": "Together we look forward to a healthier, happier, and more productive workplace this year.", "zh": "我們期待今年共同打造更健康、更快樂且更高生產力的職場。" }
+    {
+      "en": "We are excited to announce the launch of our new employee wellness program.",
+      "zh": "我們很高興宣布推出全新的員工健康促進計畫。"
+    },
+    {
+      "en": "The program, called LiveWell at Work, begins on Monday, July 1.",
+      "zh": "本計畫名為「LiveWell at Work」，將於 7 月 1 日星期一正式啟動。"
+    },
+    {
+      "en": "It is designed to support the physical, mental, and financial well-being of staff.",
+      "zh": "本計畫旨在支持員工的身心健康與財務福祉。"
+    },
+    {
+      "en": "All full-time and part-time employees are eligible to participate.",
+      "zh": "所有正職與兼職員工皆可參加。"
+    },
+    {
+      "en": "Family members of employees may also join selected program activities.",
+      "zh": "員工家屬亦可參加部分指定活動。"
+    },
+    {
+      "en": "The program offers monthly themes throughout the year.",
+      "zh": "本計畫整年將推出每月不同的主題活動。"
+    },
+    {
+      "en": "July will focus on healthy habits and daily movement.",
+      "zh": "7 月聚焦於健康習慣與每日運動。"
+    },
+    {
+      "en": "August will highlight stress management and mindfulness techniques.",
+      "zh": "8 月將著重壓力管理與正念技巧。"
+    },
+    {
+      "en": "September will introduce financial planning workshops led by certified advisors.",
+      "zh": "9 月將推出由合格顧問主講的財務規劃工作坊。"
+    },
+    {
+      "en": "Free on-site fitness classes will be held three times per week.",
+      "zh": "公司將每週舉辦三次免費現場健身課程。"
+    },
+    {
+      "en": "Yoga, pilates, and high-intensity sessions will all be available.",
+      "zh": "課程包含瑜伽、皮拉提斯及高強度訓練。"
+    },
+    {
+      "en": "Our partner gym will offer a forty percent discount on annual memberships.",
+      "zh": "合作健身房將提供年度會員 60% 折扣優惠。"
+    },
+    {
+      "en": "An on-site nurse will be available twice a month for health consultations.",
+      "zh": "公司每月將安排兩次駐點護理師提供健康諮詢。"
+    },
+    {
+      "en": "Confidential counseling services are available through our employee assistance program.",
+      "zh": "員工協助方案亦提供保密心理諮商服務。"
+    },
+    {
+      "en": "All employees will receive a complimentary wellness kit at the kickoff event.",
+      "zh": "全體員工將於啟動活動上獲贈一份健康好禮包。"
+    },
+    {
+      "en": "The kit includes a reusable water bottle, a journal, and a step counter.",
+      "zh": "好禮包內含環保水壺、筆記本與計步器。"
+    },
+    {
+      "en": "A wellness portal will let employees track goals and join challenges.",
+      "zh": "公司將上線健康入口網站，方便員工設定目標並參加挑戰。"
+    },
+    {
+      "en": "Quarterly team challenges will encourage friendly competition between departments.",
+      "zh": "每季部門間將舉辦友善競賽以促進良性互動。"
+    },
+    {
+      "en": "Top participants will be recognized in our quarterly newsletter.",
+      "zh": "表現優秀者將獲頒於每季電子報中表揚。"
+    },
+    {
+      "en": "Healthy snack options will be added to all break rooms next month.",
+      "zh": "下月起所有茶水間將提供更多健康點心選擇。"
+    },
+    {
+      "en": "The cafeteria menu has been updated with additional vegetarian dishes.",
+      "zh": "員工餐廳菜單亦已新增多項素食選擇。"
+    },
+    {
+      "en": "Standing desks can now be requested through the facilities portal.",
+      "zh": "員工可透過設施申請入口網站申請升降式辦公桌。"
+    },
+    {
+      "en": "We believe that a healthy workforce is a more engaged and productive one.",
+      "zh": "我們相信健康的員工才能更投入工作並提升生產力。"
+    },
+    {
+      "en": "Please join us at the kickoff celebration on July 1 at noon in the lobby.",
+      "zh": "誠摯邀請您於 7 月 1 日中午至大廳參加啟動慶祝活動。"
+    },
+    {
+      "en": "For more information, please visit the LiveWell page on our intranet.",
+      "zh": "更多資訊請瀏覽公司內網的 LiveWell 專頁。"
+    },
+    {
+      "en": "Annual biometric screenings will be offered free of charge starting in October.",
+      "zh": "自 10 月起公司將免費提供年度健康檢測。"
+    },
+    {
+      "en": "Employees who complete five wellness activities will earn an extra paid day off.",
+      "zh": "完成五項健康活動的員工可獲得一日額外有薪假。"
+    },
+    {
+      "en": "Smoking cessation support programs are available through our health insurance partner.",
+      "zh": "本公司健保合作夥伴亦提供戒菸支援計畫。"
+    },
+    {
+      "en": "Ergonomic workstation assessments can be scheduled with our facilities team.",
+      "zh": "員工可向設施團隊預約人體工學工作站評估。"
+    },
+    {
+      "en": "Mental health first aid training will be offered to all interested employees.",
+      "zh": "心理健康急救訓練將開放有意願的員工報名參加。"
+    },
+    {
+      "en": "Quarterly health webinars feature leading specialists in their respective fields.",
+      "zh": "每季健康講座將邀請各領域知名專家主講。"
+    },
+    {
+      "en": "Walking meetings are encouraged whenever weather and meeting topics allow.",
+      "zh": "在天氣與會議主題許可下，公司鼓勵以步行方式進行會議。"
+    },
+    {
+      "en": "Sleep hygiene workshops will be held during November to support better rest.",
+      "zh": "11 月將舉辦睡眠保健工作坊，協助員工獲得更好的休息。"
+    },
+    {
+      "en": "Family wellness days will allow employees to bring children for activities each spring.",
+      "zh": "家庭健康日將於每年春季開放員工攜子女參加活動。"
+    },
+    {
+      "en": "We genuinely appreciate your commitment to building a healthier workplace community.",
+      "zh": "我們由衷感謝您共同打造更健康的職場社群。"
+    },
+    {
+      "en": "Personalized nutrition consultations can be booked through the wellness portal next month.",
+      "zh": "下月起可透過健康入口網站預約個人化營養諮詢。"
+    },
+    {
+      "en": "Outdoor walking groups will meet every Tuesday morning before the workday begins.",
+      "zh": "戶外健走團將於每週二上班前的早上集合活動。"
+    },
+    {
+      "en": "Health insurance partners will host on-site information sessions in early September.",
+      "zh": "健保合作夥伴將於九月初到公司舉辦現場說明會。"
+    },
+    {
+      "en": "Quarterly health newsletters will feature recipes and quick exercise routines for everyone.",
+      "zh": "每季健康電子報將收錄食譜與快速運動例程供大家參考。"
+    },
+    {
+      "en": "Employees may nominate wellness ambassadors to represent their floor or department.",
+      "zh": "員工可推薦健康大使，代表所屬樓層或部門。"
+    },
+    {
+      "en": "Standing desk converters can be requested at no cost during the program rollout period.",
+      "zh": "計畫推行期間可免費申請桌上型升降桌轉換器。"
+    },
+    {
+      "en": "Quiet rooms for meditation and rest are now available on each floor of the building.",
+      "zh": "公司大樓每層樓現皆設置可用於冥想與休息的靜室。"
+    },
+    {
+      "en": "Online fitness libraries are accessible from any device for employees working remotely.",
+      "zh": "遠端工作員工可從任何裝置存取線上健身影片資料庫。"
+    },
+    {
+      "en": "Wellness goal tracking is fully confidential and never shared with managers or peers.",
+      "zh": "健康目標追蹤資料完全保密，絕不與主管或同事分享。"
+    },
+    {
+      "en": "Together we look forward to a healthier, happier, and more productive workplace this year.",
+      "zh": "我們期待今年共同打造更健康、更快樂且更高生產力的職場。"
+    }
   ]
 }

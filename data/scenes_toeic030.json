@@ -1,49 +1,181 @@
 {
   "title": "Loyalty Program Enrollment Guide",
   "all": [
-    { "en": "Welcome to the Greenleaf Rewards loyalty program enrollment guide.", "zh": "歡迎參閱 Greenleaf Rewards 會員獎勵方案加入指南。" },
-    { "en": "Our program is designed to thank you for choosing us as your shopping destination.", "zh": "本方案旨在感謝您選擇我們作為您的購物首選。" },
-    { "en": "Membership is completely free and only takes a few minutes to set up.", "zh": "會員資格完全免費，只需幾分鐘即可完成註冊。" },
-    { "en": "You can sign up online, through our mobile app, or in any physical store.", "zh": "您可以透過網站、行動應用程式或任一實體門市註冊。" },
-    { "en": "To enroll online, visit www.greenleaf.com and click the Join Rewards link.", "zh": "若要線上註冊，請造訪 www.greenleaf.com 並點選「加入會員」連結。" },
-    { "en": "You will need to provide your name, email address, and a secure password.", "zh": "您需要提供姓名、電子郵件地址及安全密碼。" },
-    { "en": "Adding your mobile number allows you to receive exclusive text offers.", "zh": "提供手機號碼即可收到專屬簡訊優惠。" },
-    { "en": "Once registered, you will earn one point for every dollar that you spend.", "zh": "註冊完成後，每消費一美元即可獲得一點。" },
-    { "en": "Bonus point promotions are offered on selected categories every month.", "zh": "每月特定類別商品將有點數加倍活動。" },
-    { "en": "Members also enjoy early access to seasonal sales and limited collections.", "zh": "會員亦享有季節特賣及限量系列商品的優先選購權。" },
-    { "en": "Your points can be redeemed for discounts on any purchase over 20 dollars.", "zh": "您的點數可用於任何超過 20 美元消費的折抵。" },
-    { "en": "Every 200 points convert into a 10 dollar reward applied at checkout.", "zh": "每 200 點可兌換 10 美元的結帳折抵。" },
-    { "en": "Members reach Silver status after spending 500 dollars in a calendar year.", "zh": "會員於年度內消費滿 500 美元即可升級為銀卡會員。" },
-    { "en": "Silver members enjoy free shipping on all online orders without any minimum.", "zh": "銀卡會員所有線上訂單均享免運，無最低消費限制。" },
-    { "en": "Gold status is unlocked at 1,500 dollars in qualifying annual spending.", "zh": "年度合格消費滿 1,500 美元可解鎖金卡資格。" },
-    { "en": "Gold members receive birthday gifts, double point days, and personal styling.", "zh": "金卡會員可獲生日禮物、雙倍點數日及專屬造型服務。" },
-    { "en": "Your member dashboard tracks your points, rewards, and tier progress.", "zh": "您的會員儀表板可追蹤點數、獎勵及等級進度。" },
-    { "en": "You can also link your email preferences to control promotional messages.", "zh": "您也可透過電子郵件偏好設定來管理促銷訊息。" },
-    { "en": "If you forget your card, simply provide your phone number at the register.", "zh": "若忘記攜帶會員卡，只需於結帳時提供手機號碼即可。" },
-    { "en": "Points expire 24 months after the date they are earned, so use them often.", "zh": "點數自獲得日起 24 個月後失效，請多多使用。" },
-    { "en": "Throughout the year, we host members-only events at flagship locations.", "zh": "全年我們在旗艦店舉辦多場僅限會員參加的活動。" },
-    { "en": "These events feature product previews, expert talks, and refreshments.", "zh": "這些活動包含新品搶先看、專家講座及輕食招待。" },
-    { "en": "For questions about your account, please email rewards@greenleaf.com.", "zh": "如有帳戶相關問題，請來信至 rewards@greenleaf.com。" },
-    { "en": "We look forward to welcoming you into the Greenleaf Rewards family.", "zh": "我們期待歡迎您加入 Greenleaf Rewards 大家庭。" },
-    { "en": "Members can also donate accumulated points to selected environmental charity partners.", "zh": "會員亦可將累積的點數捐贈給指定的環保公益合作夥伴。" },
-    { "en": "Family members living at the same address may now combine points into a shared account.", "zh": "同住址的家庭成員現在可將點數合併至共用帳戶。" },
-    { "en": "Our mobile app sends push notifications when bonus point offers match your shopping habits.", "zh": "本公司行動應用程式會在加倍點數活動符合您的購物習慣時發送通知。" },
-    { "en": "Referring a new member earns you fifty bonus points after their first qualifying purchase.", "zh": "推薦新會員，於對方首次合格消費後，您可獲得五十點獎勵。" },
-    { "en": "Members may pause communications temporarily through the privacy settings page at any time.", "zh": "會員可隨時於隱私設定頁面暫停接收通訊。" },
-    { "en": "Partner restaurants and hotels now accept Greenleaf points for selected services.", "zh": "合作的餐廳與飯店現已接受 Greenleaf 點數兌換指定服務。" },
-    { "en": "Annual tier reviews take place each January based on your spending in the previous year.", "zh": "等級審核於每年一月進行，依據前一年的消費金額認定。" },
-    { "en": "Returns are processed quickly when you provide your member number at the service counter.", "zh": "於服務台提供會員編號可加快退貨處理流程。" },
-    { "en": "Members can opt into a digital-only card and reduce plastic waste with one simple click.", "zh": "會員只需輕點一下即可選擇純數位卡片，協助減少塑膠廢棄物。" },
-    { "en": "Thank you for shopping with us and supporting our mission of sustainable retail every day.", "zh": "感謝您每日的支持與惠顧，與我們一同實踐永續零售的使命。" },
-    { "en": "Platinum members receive complimentary alterations and tailoring services at all flagship store locations.", "zh": "白金卡會員於所有旗艦門市可享有免費修改與量身訂製服務。" },
-    { "en": "Our member portal now supports biometric login for faster and more secure account access.", "zh": "本公司會員入口網站現支援生物辨識登入，登入更快速且更安全。" },
-    { "en": "Personalized product recommendations are generated weekly based on your prior purchase history.", "zh": "每週將根據您過往的購買紀錄產生個人化的商品推薦。" },
-    { "en": "Members can request paper receipts by mail for tax reporting and expense reimbursement purposes.", "zh": "會員可申請紙本收據寄送，以利報稅及費用核銷。" },
-    { "en": "Quarterly bonus campaigns reward members who shop across multiple product categories during the period.", "zh": "季度加碼活動將獎勵活動期間跨類別消費的會員。" },
-    { "en": "Loyalty points may now be used to enter exclusive raffles for limited-edition merchandise items.", "zh": "會員點數現可用於兌換限量商品的獨家抽獎資格。" },
-    { "en": "An updated mobile wallet feature allows members to pay and earn points in a single tap.", "zh": "更新後的行動錢包功能讓會員一鍵完成付款並同步累積點數。" },
-    { "en": "Customer service representatives can answer member inquiries in five different languages worldwide.", "zh": "客服代表可使用五種不同語言回答全球會員的問題。" },
-    { "en": "Our annual member appreciation week features storewide bonus points and complimentary coffee services.", "zh": "年度會員感謝週將推出全店點數加倍與免費咖啡服務。" },
-    { "en": "Wishing you a rewarding shopping experience that grows even more valuable with every visit.", "zh": "祝您享有愉快的購物體驗，並於每次造訪中累積更多回饋。" }
+    {
+      "en": "Welcome to the Greenleaf Rewards loyalty program enrollment guide.",
+      "zh": "歡迎參閱 Greenleaf Rewards 會員獎勵方案加入指南。"
+    },
+    {
+      "en": "Our program is designed to thank you for choosing us as your shopping destination.",
+      "zh": "本方案旨在感謝您選擇我們作為您的購物首選。"
+    },
+    {
+      "en": "Membership is completely free and only takes a few minutes to set up.",
+      "zh": "會員資格完全免費，只需幾分鐘即可完成註冊。"
+    },
+    {
+      "en": "You can sign up online, through our mobile app, or in any physical store.",
+      "zh": "您可以透過網站、行動應用程式或任一實體門市註冊。"
+    },
+    {
+      "en": "To enroll online, visit www.greenleaf.com and click the Join Rewards link.",
+      "zh": "若要線上註冊，請造訪 www.greenleaf.com 並點選「加入會員」連結。"
+    },
+    {
+      "en": "You will need to provide your name, email address, and a secure password.",
+      "zh": "您需要提供姓名、電子郵件地址及安全密碼。"
+    },
+    {
+      "en": "Adding your mobile number allows you to receive exclusive text offers.",
+      "zh": "提供手機號碼即可收到專屬簡訊優惠。"
+    },
+    {
+      "en": "Once registered, you will earn one point for every dollar that you spend.",
+      "zh": "註冊完成後，每消費一美元即可獲得一點。"
+    },
+    {
+      "en": "Bonus point promotions are offered on selected categories every month.",
+      "zh": "每月特定類別商品將有點數加倍活動。"
+    },
+    {
+      "en": "Members also enjoy early access to seasonal sales and limited collections.",
+      "zh": "會員亦享有季節特賣及限量系列商品的優先選購權。"
+    },
+    {
+      "en": "Your points can be redeemed for discounts on any purchase over 20 dollars.",
+      "zh": "您的點數可用於任何超過 20 美元消費的折抵。"
+    },
+    {
+      "en": "Every 200 points convert into a 10 dollar reward applied at checkout.",
+      "zh": "每 200 點可兌換 10 美元的結帳折抵。"
+    },
+    {
+      "en": "Members reach Silver status after spending 500 dollars in a calendar year.",
+      "zh": "會員於年度內消費滿 500 美元即可升級為銀卡會員。"
+    },
+    {
+      "en": "Silver members enjoy free shipping on all online orders without any minimum.",
+      "zh": "銀卡會員所有線上訂單均享免運，無最低消費限制。"
+    },
+    {
+      "en": "Gold status is unlocked at 1,500 dollars in qualifying annual spending.",
+      "zh": "年度合格消費滿 1,500 美元可解鎖金卡資格。"
+    },
+    {
+      "en": "Gold members receive birthday gifts, double point days, and personal styling.",
+      "zh": "金卡會員可獲生日禮物、雙倍點數日及專屬造型服務。"
+    },
+    {
+      "en": "Your member dashboard tracks your points, rewards, and tier progress.",
+      "zh": "您的會員儀表板可追蹤點數、獎勵及等級進度。"
+    },
+    {
+      "en": "You can also link your email preferences to control promotional messages.",
+      "zh": "您也可透過電子郵件偏好設定來管理促銷訊息。"
+    },
+    {
+      "en": "If you forget your card, simply provide your phone number at the register.",
+      "zh": "若忘記攜帶會員卡，只需於結帳時提供手機號碼即可。"
+    },
+    {
+      "en": "Points expire 24 months after the date they are earned, so use them often.",
+      "zh": "點數自獲得日起 24 個月後失效，請多多使用。"
+    },
+    {
+      "en": "Throughout the year, we host members-only events at flagship locations.",
+      "zh": "全年我們在旗艦店舉辦多場僅限會員參加的活動。"
+    },
+    {
+      "en": "These events feature product previews, expert talks, and refreshments.",
+      "zh": "這些活動包含新品搶先看、專家講座及輕食招待。"
+    },
+    {
+      "en": "For questions about your account, please email rewards@greenleaf.com.",
+      "zh": "如有帳戶相關問題，請來信至 rewards@greenleaf.com。"
+    },
+    {
+      "en": "We look forward to welcoming you into the Greenleaf Rewards family.",
+      "zh": "我們期待歡迎您加入 Greenleaf Rewards 大家庭。"
+    },
+    {
+      "en": "Members can also donate accumulated points to selected environmental charity partners.",
+      "zh": "會員亦可將累積的點數捐贈給指定的環保公益合作夥伴。"
+    },
+    {
+      "en": "Family members living at the same address may now combine points into a shared account.",
+      "zh": "同住址的家庭成員現在可將點數合併至共用帳戶。"
+    },
+    {
+      "en": "Our mobile app sends push notifications when bonus point offers match your shopping habits.",
+      "zh": "本公司行動應用程式會在加倍點數活動符合您的購物習慣時發送通知。"
+    },
+    {
+      "en": "Referring a new member earns you fifty bonus points after their first qualifying purchase.",
+      "zh": "推薦新會員，於對方首次合格消費後，您可獲得五十點獎勵。"
+    },
+    {
+      "en": "Members may pause communications temporarily through the privacy settings page at any time.",
+      "zh": "會員可隨時於隱私設定頁面暫停接收通訊。"
+    },
+    {
+      "en": "Partner restaurants and hotels now accept Greenleaf points for selected services.",
+      "zh": "合作的餐廳與飯店現已接受 Greenleaf 點數兌換指定服務。"
+    },
+    {
+      "en": "Annual tier reviews take place each January based on your spending in the previous year.",
+      "zh": "等級審核於每年一月進行，依據前一年的消費金額認定。"
+    },
+    {
+      "en": "Returns are processed quickly when you provide your member number at the service counter.",
+      "zh": "於服務台提供會員編號可加快退貨處理流程。"
+    },
+    {
+      "en": "Members can opt into a digital-only card and reduce plastic waste with one simple click.",
+      "zh": "會員只需輕點一下即可選擇純數位卡片，協助減少塑膠廢棄物。"
+    },
+    {
+      "en": "Thank you for shopping with us and supporting our mission of sustainable retail every day.",
+      "zh": "感謝您每日的支持與惠顧，與我們一同實踐永續零售的使命。"
+    },
+    {
+      "en": "Platinum members receive complimentary alterations and tailoring services at all flagship store locations.",
+      "zh": "白金卡會員於所有旗艦門市可享有免費修改與量身訂製服務。"
+    },
+    {
+      "en": "Our member portal now supports biometric login for faster and more secure account access.",
+      "zh": "本公司會員入口網站現支援生物辨識登入，登入更快速且更安全。"
+    },
+    {
+      "en": "Personalized product recommendations are generated weekly based on your prior purchase history.",
+      "zh": "每週將根據您過往的購買紀錄產生個人化的商品推薦。"
+    },
+    {
+      "en": "Members can request paper receipts by mail for tax reporting and expense reimbursement purposes.",
+      "zh": "會員可申請紙本收據寄送，以利報稅及費用核銷。"
+    },
+    {
+      "en": "Quarterly bonus campaigns reward members who shop across multiple product categories during the period.",
+      "zh": "季度加碼活動將獎勵活動期間跨類別消費的會員。"
+    },
+    {
+      "en": "Loyalty points may now be used to enter exclusive raffles for limited-edition merchandise items.",
+      "zh": "會員點數現可用於兌換限量商品的獨家抽獎資格。"
+    },
+    {
+      "en": "An updated mobile wallet feature allows members to pay and earn points in a single tap.",
+      "zh": "更新後的行動錢包功能讓會員一鍵完成付款並同步累積點數。"
+    },
+    {
+      "en": "Customer service representatives can answer member inquiries in five different languages worldwide.",
+      "zh": "客服代表可使用五種不同語言回答全球會員的問題。"
+    },
+    {
+      "en": "Our annual member appreciation week features storewide bonus points and complimentary coffee services.",
+      "zh": "年度會員感謝週將推出全店點數加倍與免費咖啡服務。"
+    },
+    {
+      "en": "Wishing you a rewarding shopping experience that grows even more valuable with every visit.",
+      "zh": "祝您享有愉快的購物體驗，並於每次造訪中累積更多回饋。"
+    }
   ]
 }

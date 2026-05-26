@@ -1,49 +1,181 @@
 {
   "title": "Open Enrollment Benefits Guide",
   "all": [
-    { "en": "Open enrollment for the new benefits plan year begins on November first.", "zh": "新福利計畫年度的公開加保自十一月一日開始。" },
-    { "en": "All employees must review their elections before the deadline of November twentieth.", "zh": "所有員工必須在十一月二十日截止前檢視個人選擇。" },
-    { "en": "This guide explains the major options available across health and wellness plans.", "zh": "本指南說明健康與身心福祉計畫提供的主要選項。" },
-    { "en": "Medical coverage now includes three tiers with different deductible and premium levels.", "zh": "醫療保障現提供三種等級，自負額與保費各不相同。" },
-    { "en": "The basic tier offers low premiums and higher out of pocket maximums.", "zh": "基本等級保費較低，自付上限較高。" },
-    { "en": "The premium tier covers most specialist visits with very small copayments.", "zh": "尊榮等級對多數專科門診僅收取極低的部分負擔。" },
-    { "en": "Dental and vision plans remain optional and may be added independently.", "zh": "牙科與眼科計畫仍為自由選擇，可獨立加保。" },
-    { "en": "Flexible spending accounts allow pretax savings for healthcare and dependent care.", "zh": "彈性支出帳戶可將稅前金額存入，支付醫療與扶養照護。" },
-    { "en": "Annual contribution limits have been raised in line with new federal guidelines.", "zh": "年度提撥上限已依新版聯邦規範向上調整。" },
-    { "en": "Retirement savings matching has increased from four percent to five percent.", "zh": "退休儲蓄相對提撥比例已自百分之四提高至百分之五。" },
-    { "en": "Employees should review beneficiary designations during this enrollment window.", "zh": "員工應於本次加保期間檢視受益人指定資料。" },
-    { "en": "Life insurance coverage remains available at one or two times annual salary.", "zh": "壽險保障維持一倍或兩倍年薪兩種額度可選。" },
-    { "en": "Supplemental disability insurance can be purchased at group discounted rates.", "zh": "附加失能保險可依團體折扣費率投保。" },
-    { "en": "A new mental health support program has been added at no employee cost.", "zh": "新增的身心健康支持方案不向員工收取任何費用。" },
-    { "en": "Wellness rewards continue to provide gift cards for completing annual screenings.", "zh": "健康獎勵方案持續提供完成年度健檢的禮券回饋。" },
-    { "en": "Decision support tools are available on the internal benefits portal.", "zh": "內部福利入口網提供決策輔助工具供員工使用。" },
-    { "en": "Employees may compare side by side costs based on personal usage patterns.", "zh": "員工可依個人使用情境，並列比較各方案成本。" },
-    { "en": "Virtual information sessions will run every Tuesday and Thursday this month.", "zh": "線上說明會本月每週二與週四舉行。" },
-    { "en": "Recorded versions will remain available on demand for thirty days.", "zh": "錄影版本將以隨選方式保留三十天供觀看。" },
-    { "en": "Failure to complete elections will result in default coverage at last year levels.", "zh": "未完成選擇者將以去年方案作為預設保障。" },
-    { "en": "Changes outside this window require a qualifying life event to take effect.", "zh": "本期間以外的異動需具備合格生活事件方可生效。" },
-    { "en": "Human resources representatives are available for one on one consultations.", "zh": "人力資源同仁可提供一對一諮詢服務。" },
-    { "en": "Please contact the benefits team early if you require translation support.", "zh": "如需翻譯協助，請及早聯繫福利團隊。" },
-    { "en": "We encourage every employee to choose coverage that fits their personal needs.", "zh": "鼓勵每位員工選擇最符合個人需求的保障方案。" },
-    { "en": "Spousal and dependent coverage requires submission of supporting documentation.", "zh": "配偶與眷屬保障須繳交相關佐證文件。" },
-    { "en": "All documents can be uploaded securely through the benefits portal dashboard.", "zh": "所有文件均可透過福利入口網儀表板安全上傳。" },
-    { "en": "A dedicated hotline operates from eight in the morning until six in the evening.", "zh": "專屬客服專線於上午八點至下午六點開放服務。" },
-    { "en": "Frequently asked questions have been compiled into a downloadable reference sheet.", "zh": "常見問題已彙整成可下載的參考文件。" },
-    { "en": "Employees relocating overseas should consult the international benefits team.", "zh": "外派至海外的員工請洽國際福利團隊。" },
-    { "en": "Voluntary benefits such as pet insurance and legal services are also offered.", "zh": "另提供寵物保險、法律服務等自願性福利。" },
-    { "en": "Premium deductions will appear on the first paycheck of the new plan year.", "zh": "保費扣繳將於新計畫年度首張薪資單上呈現。" },
-    { "en": "Confirmation statements will be mailed to your address of record in December.", "zh": "確認通知書將於十二月寄送至您留存的地址。" },
-    { "en": "Please review the statement and report any discrepancies within fifteen days.", "zh": "請檢視通知書並於十五天內反映任何不符之處。" },
-    { "en": "Thank you for taking the time to make informed decisions about your benefits.", "zh": "感謝您撥冗為您的福利做出充分知情的選擇。" },
-    { "en": "Health savings accounts now allow contributions of up to four thousand dollars annually.", "zh": "健康儲蓄帳戶每年提撥上限現提高至四千美元。" },
-    { "en": "Telemedicine visits remain free of charge under all medical plan tiers this year.", "zh": "本年度所有醫療等級皆持續提供免費遠距醫療諮詢。" },
-    { "en": "Vision plan members receive an annual eye exam without any copayment requirement.", "zh": "眼科計畫成員可享每年一次免部分負擔的眼科檢查。" },
-    { "en": "Dental plan coverage now includes orthodontic care for dependents under nineteen.", "zh": "牙科計畫現納入十九歲以下眷屬的齒列矯正保障。" },
-    { "en": "Adoption assistance benefits provide reimbursement of up to six thousand dollars.", "zh": "收養補助福利最高可實報實銷六千美元。" },
-    { "en": "Fertility support coverage has been expanded across all metropolitan service regions.", "zh": "生育支持保障已擴及所有大都會服務區域。" },
-    { "en": "Tuition reimbursement remains capped at five thousand dollars per calendar year.", "zh": "學費補助維持每曆年上限五千美元。" },
-    { "en": "Commuter benefits allow pretax deductions for transit passes and parking fees.", "zh": "通勤福利可將大眾運輸票券與停車費以稅前金額扣繳。" },
-    { "en": "Identity theft protection enrollment closes on the same date as medical elections.", "zh": "身分盜用防護加保於醫療選擇截止同日結束受理。" },
-    { "en": "Please verify your address before enrollment closes to avoid mailing delays later.", "zh": "請於加保截止前確認地址，以免日後寄送延誤。" }
+    {
+      "en": "Open enrollment for the new benefits plan year begins on November first.",
+      "zh": "新福利計畫年度的公開加保自十一月一日開始。"
+    },
+    {
+      "en": "All employees must review their elections before the deadline of November twentieth.",
+      "zh": "所有員工必須在十一月二十日截止前檢視個人選擇。"
+    },
+    {
+      "en": "This guide explains the major options available across health and wellness plans.",
+      "zh": "本指南說明健康與身心福祉計畫提供的主要選項。"
+    },
+    {
+      "en": "Medical coverage now includes three tiers with different deductible and premium levels.",
+      "zh": "醫療保障現提供三種等級，自負額與保費各不相同。"
+    },
+    {
+      "en": "The basic tier offers low premiums and higher out of pocket maximums.",
+      "zh": "基本等級保費較低，自付上限較高。"
+    },
+    {
+      "en": "The premium tier covers most specialist visits with very small copayments.",
+      "zh": "尊榮等級對多數專科門診僅收取極低的部分負擔。"
+    },
+    {
+      "en": "Dental and vision plans remain optional and may be added independently.",
+      "zh": "牙科與眼科計畫仍為自由選擇，可獨立加保。"
+    },
+    {
+      "en": "Flexible spending accounts allow pretax savings for healthcare and dependent care.",
+      "zh": "彈性支出帳戶可將稅前金額存入，支付醫療與扶養照護。"
+    },
+    {
+      "en": "Annual contribution limits have been raised in line with new federal guidelines.",
+      "zh": "年度提撥上限已依新版聯邦規範向上調整。"
+    },
+    {
+      "en": "Retirement savings matching has increased from four percent to five percent.",
+      "zh": "退休儲蓄相對提撥比例已自百分之四提高至百分之五。"
+    },
+    {
+      "en": "Employees should review beneficiary designations during this enrollment window.",
+      "zh": "員工應於本次加保期間檢視受益人指定資料。"
+    },
+    {
+      "en": "Life insurance coverage remains available at one or two times annual salary.",
+      "zh": "壽險保障維持一倍或兩倍年薪兩種額度可選。"
+    },
+    {
+      "en": "Supplemental disability insurance can be purchased at group discounted rates.",
+      "zh": "附加失能保險可依團體折扣費率投保。"
+    },
+    {
+      "en": "A new mental health support program has been added at no employee cost.",
+      "zh": "新增的身心健康支持方案不向員工收取任何費用。"
+    },
+    {
+      "en": "Wellness rewards continue to provide gift cards for completing annual screenings.",
+      "zh": "健康獎勵方案持續提供完成年度健檢的禮券回饋。"
+    },
+    {
+      "en": "Decision support tools are available on the internal benefits portal.",
+      "zh": "內部福利入口網提供決策輔助工具供員工使用。"
+    },
+    {
+      "en": "Employees may compare side by side costs based on personal usage patterns.",
+      "zh": "員工可依個人使用情境，並列比較各方案成本。"
+    },
+    {
+      "en": "Virtual information sessions will run every Tuesday and Thursday this month.",
+      "zh": "線上說明會本月每週二與週四舉行。"
+    },
+    {
+      "en": "Recorded versions will remain available on demand for thirty days.",
+      "zh": "錄影版本將以隨選方式保留三十天供觀看。"
+    },
+    {
+      "en": "Failure to complete elections will result in default coverage at last year levels.",
+      "zh": "未完成選擇者將以去年方案作為預設保障。"
+    },
+    {
+      "en": "Changes outside this window require a qualifying life event to take effect.",
+      "zh": "本期間以外的異動需具備合格生活事件方可生效。"
+    },
+    {
+      "en": "Human resources representatives are available for one on one consultations.",
+      "zh": "人力資源同仁可提供一對一諮詢服務。"
+    },
+    {
+      "en": "Please contact the benefits team early if you require translation support.",
+      "zh": "如需翻譯協助，請及早聯繫福利團隊。"
+    },
+    {
+      "en": "We encourage every employee to choose coverage that fits their personal needs.",
+      "zh": "鼓勵每位員工選擇最符合個人需求的保障方案。"
+    },
+    {
+      "en": "Spousal and dependent coverage requires submission of supporting documentation.",
+      "zh": "配偶與眷屬保障須繳交相關佐證文件。"
+    },
+    {
+      "en": "All documents can be uploaded securely through the benefits portal dashboard.",
+      "zh": "所有文件均可透過福利入口網儀表板安全上傳。"
+    },
+    {
+      "en": "A dedicated hotline operates from eight in the morning until six in the evening.",
+      "zh": "專屬客服專線於上午八點至下午六點開放服務。"
+    },
+    {
+      "en": "Frequently asked questions have been compiled into a downloadable reference sheet.",
+      "zh": "常見問題已彙整成可下載的參考文件。"
+    },
+    {
+      "en": "Employees relocating overseas should consult the international benefits team.",
+      "zh": "外派至海外的員工請洽國際福利團隊。"
+    },
+    {
+      "en": "Voluntary benefits such as pet insurance and legal services are also offered.",
+      "zh": "另提供寵物保險、法律服務等自願性福利。"
+    },
+    {
+      "en": "Premium deductions will appear on the first paycheck of the new plan year.",
+      "zh": "保費扣繳將於新計畫年度首張薪資單上呈現。"
+    },
+    {
+      "en": "Confirmation statements will be mailed to your address of record in December.",
+      "zh": "確認通知書將於十二月寄送至您留存的地址。"
+    },
+    {
+      "en": "Please review the statement and report any discrepancies within fifteen days.",
+      "zh": "請檢視通知書並於十五天內反映任何不符之處。"
+    },
+    {
+      "en": "Thank you for taking the time to make informed decisions about your benefits.",
+      "zh": "感謝您撥冗為您的福利做出充分知情的選擇。"
+    },
+    {
+      "en": "Health savings accounts now allow contributions of up to four thousand dollars annually.",
+      "zh": "健康儲蓄帳戶每年提撥上限現提高至四千美元。"
+    },
+    {
+      "en": "Telemedicine visits remain free of charge under all medical plan tiers this year.",
+      "zh": "本年度所有醫療等級皆持續提供免費遠距醫療諮詢。"
+    },
+    {
+      "en": "Vision plan members receive an annual eye exam without any copayment requirement.",
+      "zh": "眼科計畫成員可享每年一次免部分負擔的眼科檢查。"
+    },
+    {
+      "en": "Dental plan coverage now includes orthodontic care for dependents under nineteen.",
+      "zh": "牙科計畫現納入十九歲以下眷屬的齒列矯正保障。"
+    },
+    {
+      "en": "Adoption assistance benefits provide reimbursement of up to six thousand dollars.",
+      "zh": "收養補助福利最高可實報實銷六千美元。"
+    },
+    {
+      "en": "Fertility support coverage has been expanded across all metropolitan service regions.",
+      "zh": "生育支持保障已擴及所有大都會服務區域。"
+    },
+    {
+      "en": "Tuition reimbursement remains capped at five thousand dollars per calendar year.",
+      "zh": "學費補助維持每曆年上限五千美元。"
+    },
+    {
+      "en": "Commuter benefits allow pretax deductions for transit passes and parking fees.",
+      "zh": "通勤福利可將大眾運輸票券與停車費以稅前金額扣繳。"
+    },
+    {
+      "en": "Identity theft protection enrollment closes on the same date as medical elections.",
+      "zh": "身分盜用防護加保於醫療選擇截止同日結束受理。"
+    },
+    {
+      "en": "Please verify your address before enrollment closes to avoid mailing delays later.",
+      "zh": "請於加保截止前確認地址，以免日後寄送延誤。"
+    }
   ]
 }

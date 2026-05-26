@@ -1,47 +1,173 @@
 {
   "title": "Invoice Payment Terms Reminder",
   "all": [
-    { "en": "This message is a friendly reminder regarding outstanding invoices.", "zh": "本訊息為友善提醒您仍有未結清之發票。" },
-    { "en": "Our standard payment terms are net thirty from the invoice date.", "zh": "本公司標準付款條件為發票日後三十天淨付款。" },
-    { "en": "Several invoices on your account are approaching the due date.", "zh": "您帳戶上有數張發票即將屆滿付款期。" },
-    { "en": "Invoice number A four five six two is due on Friday next week.", "zh": "發票編號A四五六二將於下週五到期。" },
-    { "en": "The outstanding balance currently totals eighteen thousand dollars.", "zh": "目前未結清餘額合計為一萬八千美元。" },
-    { "en": "Please confirm receipt of all listed invoices at your earliest convenience.", "zh": "請於方便時儘速確認已收到所列各筆發票。" },
-    { "en": "Wire transfer remains our preferred method for payment settlement.", "zh": "電匯仍為本公司偏好的結帳方式。" },
-    { "en": "Bank routing details are included in the footer of each invoice.", "zh": "銀行匯款資訊載於每張發票之頁尾。" },
-    { "en": "Please reference the invoice number when initiating any transfer.", "zh": "進行匯款時請務必註記對應之發票編號。" },
-    { "en": "Credit card payments are accepted but subject to a processing fee.", "zh": "亦可使用信用卡付款，惟須加收處理手續費。" },
-    { "en": "Late payments accrue interest at one point five percent monthly.", "zh": "逾期款項將以月息百分之一點五計息。" },
-    { "en": "Accounts past sixty days may be referred to collections review.", "zh": "逾期超過六十天之帳戶可能轉交催收程序審核。" },
-    { "en": "Repeated delays may impact your future credit terms with us.", "zh": "多次延遲可能影響日後與本公司之信用額度條件。" },
-    { "en": "If you anticipate any delay, please contact us in advance.", "zh": "若預期將有延遲，請事先與我們聯繫。" },
-    { "en": "We can discuss installment plans for unexpected cash flow issues.", "zh": "如遇突發資金狀況可商議分期付款方案。" },
-    { "en": "Statement copies can be resent upon request from your team.", "zh": "如您團隊有需要可再次寄送對帳單副本。" },
-    { "en": "Dispute resolution should be raised within seven days of invoice receipt.", "zh": "如有爭議應於收到發票後七天內提出。" },
-    { "en": "Please direct billing questions to the accounts receivable team.", "zh": "帳務疑問請洽應收帳款團隊。" },
-    { "en": "Online payment portal access remains available around the clock.", "zh": "線上付款入口全天候開放使用。" },
-    { "en": "Your prompt attention helps us maintain a smooth working relationship.", "zh": "您及時的回應有助於維持順暢的合作關係。" },
-    { "en": "Thank you for your continued partnership and timely cooperation.", "zh": "感謝您長期合作以及及時的配合。" },
-    { "en": "We look forward to receiving payment confirmation soon.", "zh": "我們期待儘快收到您的付款確認。" },
-    { "en": "Our finance team is available Monday through Friday during regular office hours.", "zh": "本公司財務團隊週一至週五辦公時間皆可受理諮詢。" },
-    { "en": "Early payments before the due date qualify for a two percent discount.", "zh": "於到期日前提早付款可享百分之二折扣優惠。" },
-    { "en": "Annual reconciliation statements will be issued at the end of each fiscal year.", "zh": "年度對帳單將於每會計年度結束時寄發。" },
-    { "en": "New customers should establish credit references before placing large orders.", "zh": "新客戶應於大額訂購前提供信用備查資料。" },
-    { "en": "Tax exempt organizations must provide certificates before invoices are issued.", "zh": "免稅機構須於開立發票前提供相關證明文件。" },
-    { "en": "Foreign currency invoices use the exchange rate locked at order confirmation.", "zh": "外幣發票採訂單確認時鎖定之匯率計算。" },
-    { "en": "Electronic invoice delivery saves both parties time and reduces administrative overhead.", "zh": "電子發票寄送可為雙方節省時間並降低行政負擔。" },
-    { "en": "Please update our records if your billing contact information has recently changed.", "zh": "若貴公司帳務聯絡資訊近期有異動，請通知我們更新紀錄。" },
-    { "en": "Year end statements will be sent during the first week of January.", "zh": "年終對帳單將於一月第一週寄出。" },
-    { "en": "We appreciate your business and remain committed to providing excellent service.", "zh": "感謝您的支持，我們將持續致力提供優質服務。" },
-    { "en": "Automated reminders are sent five days before each invoice reaches its due date.", "zh": "自動提醒於每張發票到期日前五天寄發。" },
-    { "en": "Payment confirmation emails include a transaction reference number for your records.", "zh": "付款確認電子郵件包含交易參考編號供您留存。" },
-    { "en": "Volume discounts may apply to customers who consistently pay invoices ahead of schedule.", "zh": "持續提前付款之客戶可能適用大量折扣優惠。" },
-    { "en": "Statement of account documents reflect all activity over the last twelve months.", "zh": "對帳單文件顯示過去十二個月內之所有往來活動。" },
-    { "en": "Credit notes for returned merchandise are typically issued within five business days.", "zh": "退貨之折讓單通常於五個營業日內開立。" },
-    { "en": "Our online payment portal accepts ACH transfers from all major United States banks.", "zh": "本公司線上付款入口接受美國各大主要銀行之ACH轉帳。" },
-    { "en": "International wires may take up to three business days to fully clear our account.", "zh": "國際電匯入帳本公司帳戶可能需要最多三個營業日。" },
-    { "en": "Please notify us immediately if you suspect any fraudulent charges on your invoices.", "zh": "如懷疑發票上有任何詐欺款項請立即通知本公司。" },
-    { "en": "Account managers are available to discuss customized payment arrangements upon written request.", "zh": "帳戶經理可依書面申請討論客製化付款安排。" },
-    { "en": "We value transparent communication and will keep you informed of any policy changes.", "zh": "我們重視透明溝通，將隨時通知您任何政策變動。" }
+    {
+      "en": "This message is a friendly reminder regarding outstanding invoices.",
+      "zh": "本訊息為友善提醒您仍有未結清之發票。"
+    },
+    {
+      "en": "Our standard payment terms are net thirty from the invoice date.",
+      "zh": "本公司標準付款條件為發票日後三十天淨付款。"
+    },
+    {
+      "en": "Several invoices on your account are approaching the due date.",
+      "zh": "您帳戶上有數張發票即將屆滿付款期。"
+    },
+    {
+      "en": "Invoice number A four five six two is due on Friday next week.",
+      "zh": "發票編號A四五六二將於下週五到期。"
+    },
+    {
+      "en": "The outstanding balance currently totals eighteen thousand dollars.",
+      "zh": "目前未結清餘額合計為一萬八千美元。"
+    },
+    {
+      "en": "Please confirm receipt of all listed invoices at your earliest convenience.",
+      "zh": "請於方便時儘速確認已收到所列各筆發票。"
+    },
+    {
+      "en": "Wire transfer remains our preferred method for payment settlement.",
+      "zh": "電匯仍為本公司偏好的結帳方式。"
+    },
+    {
+      "en": "Bank routing details are included in the footer of each invoice.",
+      "zh": "銀行匯款資訊載於每張發票之頁尾。"
+    },
+    {
+      "en": "Please reference the invoice number when initiating any transfer.",
+      "zh": "進行匯款時請務必註記對應之發票編號。"
+    },
+    {
+      "en": "Credit card payments are accepted but subject to a processing fee.",
+      "zh": "亦可使用信用卡付款，惟須加收處理手續費。"
+    },
+    {
+      "en": "Late payments accrue interest at one point five percent monthly.",
+      "zh": "逾期款項將以月息百分之一點五計息。"
+    },
+    {
+      "en": "Accounts past sixty days may be referred to collections review.",
+      "zh": "逾期超過六十天之帳戶可能轉交催收程序審核。"
+    },
+    {
+      "en": "Repeated delays may impact your future credit terms with us.",
+      "zh": "多次延遲可能影響日後與本公司之信用額度條件。"
+    },
+    {
+      "en": "If you anticipate any delay, please contact us in advance.",
+      "zh": "若預期將有延遲，請事先與我們聯繫。"
+    },
+    {
+      "en": "We can discuss installment plans for unexpected cash flow issues.",
+      "zh": "如遇突發資金狀況可商議分期付款方案。"
+    },
+    {
+      "en": "Statement copies can be resent upon request from your team.",
+      "zh": "如您團隊有需要可再次寄送對帳單副本。"
+    },
+    {
+      "en": "Dispute resolution should be raised within seven days of invoice receipt.",
+      "zh": "如有爭議應於收到發票後七天內提出。"
+    },
+    {
+      "en": "Please direct billing questions to the accounts receivable team.",
+      "zh": "帳務疑問請洽應收帳款團隊。"
+    },
+    {
+      "en": "Online payment portal access remains available around the clock.",
+      "zh": "線上付款入口全天候開放使用。"
+    },
+    {
+      "en": "Your prompt attention helps us maintain a smooth working relationship.",
+      "zh": "您及時的回應有助於維持順暢的合作關係。"
+    },
+    {
+      "en": "Thank you for your continued partnership and timely cooperation.",
+      "zh": "感謝您長期合作以及及時的配合。"
+    },
+    {
+      "en": "We look forward to receiving payment confirmation soon.",
+      "zh": "我們期待儘快收到您的付款確認。"
+    },
+    {
+      "en": "Our finance team is available Monday through Friday during regular office hours.",
+      "zh": "本公司財務團隊週一至週五辦公時間皆可受理諮詢。"
+    },
+    {
+      "en": "Early payments before the due date qualify for a two percent discount.",
+      "zh": "於到期日前提早付款可享百分之二折扣優惠。"
+    },
+    {
+      "en": "Annual reconciliation statements will be issued at the end of each fiscal year.",
+      "zh": "年度對帳單將於每會計年度結束時寄發。"
+    },
+    {
+      "en": "New customers should establish credit references before placing large orders.",
+      "zh": "新客戶應於大額訂購前提供信用備查資料。"
+    },
+    {
+      "en": "Tax exempt organizations must provide certificates before invoices are issued.",
+      "zh": "免稅機構須於開立發票前提供相關證明文件。"
+    },
+    {
+      "en": "Foreign currency invoices use the exchange rate locked at order confirmation.",
+      "zh": "外幣發票採訂單確認時鎖定之匯率計算。"
+    },
+    {
+      "en": "Electronic invoice delivery saves both parties time and reduces administrative overhead.",
+      "zh": "電子發票寄送可為雙方節省時間並降低行政負擔。"
+    },
+    {
+      "en": "Please update our records if your billing contact information has recently changed.",
+      "zh": "若貴公司帳務聯絡資訊近期有異動，請通知我們更新紀錄。"
+    },
+    {
+      "en": "Year end statements will be sent during the first week of January.",
+      "zh": "年終對帳單將於一月第一週寄出。"
+    },
+    {
+      "en": "We appreciate your business and remain committed to providing excellent service.",
+      "zh": "感謝您的支持，我們將持續致力提供優質服務。"
+    },
+    {
+      "en": "Automated reminders are sent five days before each invoice reaches its due date.",
+      "zh": "自動提醒於每張發票到期日前五天寄發。"
+    },
+    {
+      "en": "Payment confirmation emails include a transaction reference number for your records.",
+      "zh": "付款確認電子郵件包含交易參考編號供您留存。"
+    },
+    {
+      "en": "Volume discounts may apply to customers who consistently pay invoices ahead of schedule.",
+      "zh": "持續提前付款之客戶可能適用大量折扣優惠。"
+    },
+    {
+      "en": "Statement of account documents reflect all activity over the last twelve months.",
+      "zh": "對帳單文件顯示過去十二個月內之所有往來活動。"
+    },
+    {
+      "en": "Credit notes for returned merchandise are typically issued within five business days.",
+      "zh": "退貨之折讓單通常於五個營業日內開立。"
+    },
+    {
+      "en": "Our online payment portal accepts ACH transfers from all major United States banks.",
+      "zh": "本公司線上付款入口接受美國各大主要銀行之ACH轉帳。"
+    },
+    {
+      "en": "International wires may take up to three business days to fully clear our account.",
+      "zh": "國際電匯入帳本公司帳戶可能需要最多三個營業日。"
+    },
+    {
+      "en": "Please notify us immediately if you suspect any fraudulent charges on your invoices.",
+      "zh": "如懷疑發票上有任何詐欺款項請立即通知本公司。"
+    },
+    {
+      "en": "Account managers are available to discuss customized payment arrangements upon written request.",
+      "zh": "帳戶經理可依書面申請討論客製化付款安排。"
+    },
+    {
+      "en": "We value transparent communication and will keep you informed of any policy changes.",
+      "zh": "我們重視透明溝通，將隨時通知您任何政策變動。"
+    }
   ]
 }

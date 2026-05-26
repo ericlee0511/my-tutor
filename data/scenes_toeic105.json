@@ -1,48 +1,177 @@
 {
   "title": "Annual Marketing Budget Plan",
   "all": [
-    { "en": "This document presents the proposed marketing budget plan for the upcoming fiscal year.", "zh": "本文件呈現下一會計年度的行銷預算規劃提案。" },
-    { "en": "Total proposed spending increases by eight percent over the current year baseline.", "zh": "總提案支出較本年度基準成長百分之八。" },
-    { "en": "The increase aligns with revenue growth targets approved by senior leadership.", "zh": "增幅與高階主管核定的營收成長目標保持一致。" },
-    { "en": "Digital marketing receives the largest share at forty percent of total spend.", "zh": "數位行銷分配比重最大，占整體支出百分之四十。" },
-    { "en": "This allocation reflects continued strong returns from paid search and social media.", "zh": "此分配反映付費搜尋與社群媒體持續帶來的強勁回報。" },
-    { "en": "Content marketing and search optimization together receive twenty percent of budget.", "zh": "內容行銷與搜尋優化合計分配百分之二十的預算。" },
-    { "en": "Investment in original research reports will expand to support thought leadership.", "zh": "原創研究報告的投資將擴大，以強化思想領導地位。" },
-    { "en": "Field marketing and event sponsorships represent fifteen percent of overall spending.", "zh": "現場行銷與活動贊助占整體支出百分之十五。" },
-    { "en": "We will focus on fewer but larger flagship events with strategic customer engagement.", "zh": "我們將聚焦於較少但規模更大的旗艦活動，強化策略客戶互動。" },
-    { "en": "Brand campaigns and creative production make up ten percent of the annual plan.", "zh": "品牌活動與創意製作占年度計畫的百分之十。" },
-    { "en": "A refreshed brand visual system will roll out in the second quarter as planned.", "zh": "更新版的品牌視覺系統將依計畫於第二季推出。" },
-    { "en": "Partner marketing and channel programs represent eight percent of the proposed plan.", "zh": "夥伴行銷與通路計畫占提案計畫的百分之八。" },
-    { "en": "Customer marketing and advocacy account for the remaining seven percent allocation.", "zh": "客戶行銷與口碑推廣占剩餘的百分之七配置。" },
-    { "en": "Technology platform fees are budgeted separately under marketing operations.", "zh": "科技平台費用另列於行銷營運下單獨編列。" },
-    { "en": "Headcount investments include four new specialist roles across growth and analytics.", "zh": "人力投資包含成長與分析領域新增四個專才職位。" },
-    { "en": "External agency partnerships will be consolidated to reduce overlap and complexity.", "zh": "外部代理商合作將整併，以降低重疊與複雜度。" },
-    { "en": "Key performance indicators include pipeline contribution, brand lift, and engagement.", "zh": "關鍵績效指標包含對銷售管道貢獻、品牌提升與互動表現。" },
-    { "en": "Quarterly business reviews will track performance against forecast and budget.", "zh": "季度業務檢討將追蹤實際表現對照預測與預算。" },
-    { "en": "Contingency funds equal to five percent of total budget are reserved for opportunities.", "zh": "另保留總預算百分之五作為機會掌握的應變經費。" },
-    { "en": "Risks include economic uncertainty and potential cost increases in media inventory.", "zh": "風險包含經濟不確定性與媒體版位成本可能上揚。" },
-    { "en": "We propose scenario planning to flex spending up or down by ten percent if needed.", "zh": "建議導入情境規劃，可視需要將支出上下調整百分之十。" },
-    { "en": "Approval is requested at the next finance and strategy committee meeting.", "zh": "謹於下次財務與策略委員會會議提請核准。" },
-    { "en": "Detailed appendices include channel level forecasts and assumption documentation.", "zh": "詳細附錄包含各通路預測與假設依據文件。" },
-    { "en": "Finance partners have reviewed the proposal and confirmed alignment with planning models.", "zh": "財務夥伴已審閱本案並確認與規劃模型一致。" },
-    { "en": "Regional leadership has contributed input to ensure local market needs are represented.", "zh": "區域主管已提供意見以確保在地市場需求獲得反映。" },
-    { "en": "Procurement will renegotiate key vendor contracts to seek better volume rates.", "zh": "採購部門將重啟主要廠商合約談判以爭取更優量價。" },
-    { "en": "Measurement frameworks will be refreshed to improve cross channel attribution accuracy.", "zh": "衡量框架將進行更新，以提升跨通路歸因準確度。" },
-    { "en": "Pilot budgets are included to test emerging channels such as connected television.", "zh": "本案納入試行預算以測試聯網電視等新興通路。" },
-    { "en": "Training and development for the marketing team is funded at increased levels.", "zh": "行銷團隊的訓練與發展經費已調升至更高水準。" },
-    { "en": "Diversity, equity, and inclusion programs remain a protected line item in the plan.", "zh": "多元、平等與共融計畫於本案中為受保護的編列項目。" },
-    { "en": "Sustainability initiatives are integrated rather than treated as separate spending.", "zh": "永續倡議採整合方式納入，而非另列為獨立支出。" },
-    { "en": "Final approval will trigger detailed quarterly planning sessions with each owner.", "zh": "正式核准後，將分別與各負責人展開細部季度規劃會議。" },
-    { "en": "Questions and feedback are welcome before the committee review next Thursday.", "zh": "下週四委員會審查前，歡迎提出問題與意見回饋。" },
-    { "en": "Spending traceability will be improved through monthly reconciliation against forecasts.", "zh": "支出可追溯性將透過每月對照預測的對帳工作加以改善。" },
-    { "en": "A new chargeback model will fairly allocate shared costs to business units.", "zh": "新版攤提模型將公平分配共用成本至各事業單位。" },
-    { "en": "Marketing technology consolidation should yield savings starting in the second half.", "zh": "行銷科技整併預期將自下半年起開始帶來節省效益。" },
-    { "en": "Vendor performance reviews will be held twice a year to ensure value delivery.", "zh": "廠商績效檢討每年舉行兩次以確保價值交付。" },
-    { "en": "Investments in customer data platforms support more efficient targeting at scale.", "zh": "客戶資料平台的投資支援更大規模且更高效率的目標投放。" },
-    { "en": "Awareness campaign measurement will leverage marketing mix modeling improvements.", "zh": "知名度活動衡量將運用行銷組合模型的改進成果。" },
-    { "en": "Pilot programs require defined exit criteria before further funding is approved.", "zh": "試行計畫須具備明確退場標準後方能核可進一步資金。" },
-    { "en": "Annual employee engagement scores will track team health across all functions.", "zh": "年度員工敬業度分數將追蹤各職能團隊的健康狀況。" },
-    { "en": "We will publish quarterly progress updates to keep stakeholders informed in time.", "zh": "我們將每季發布進度更新以即時告知利害關係人。" },
-    { "en": "Thank you to the planning team for assembling such a comprehensive proposal.", "zh": "感謝規劃團隊彙整出如此完整的提案。" }
+    {
+      "en": "This document presents the proposed marketing budget plan for the upcoming fiscal year.",
+      "zh": "本文件呈現下一會計年度的行銷預算規劃提案。"
+    },
+    {
+      "en": "Total proposed spending increases by eight percent over the current year baseline.",
+      "zh": "總提案支出較本年度基準成長百分之八。"
+    },
+    {
+      "en": "The increase aligns with revenue growth targets approved by senior leadership.",
+      "zh": "增幅與高階主管核定的營收成長目標保持一致。"
+    },
+    {
+      "en": "Digital marketing receives the largest share at forty percent of total spend.",
+      "zh": "數位行銷分配比重最大，占整體支出百分之四十。"
+    },
+    {
+      "en": "This allocation reflects continued strong returns from paid search and social media.",
+      "zh": "此分配反映付費搜尋與社群媒體持續帶來的強勁回報。"
+    },
+    {
+      "en": "Content marketing and search optimization together receive twenty percent of budget.",
+      "zh": "內容行銷與搜尋優化合計分配百分之二十的預算。"
+    },
+    {
+      "en": "Investment in original research reports will expand to support thought leadership.",
+      "zh": "原創研究報告的投資將擴大，以強化思想領導地位。"
+    },
+    {
+      "en": "Field marketing and event sponsorships represent fifteen percent of overall spending.",
+      "zh": "現場行銷與活動贊助占整體支出百分之十五。"
+    },
+    {
+      "en": "We will focus on fewer but larger flagship events with strategic customer engagement.",
+      "zh": "我們將聚焦於較少但規模更大的旗艦活動，強化策略客戶互動。"
+    },
+    {
+      "en": "Brand campaigns and creative production make up ten percent of the annual plan.",
+      "zh": "品牌活動與創意製作占年度計畫的百分之十。"
+    },
+    {
+      "en": "A refreshed brand visual system will roll out in the second quarter as planned.",
+      "zh": "更新版的品牌視覺系統將依計畫於第二季推出。"
+    },
+    {
+      "en": "Partner marketing and channel programs represent eight percent of the proposed plan.",
+      "zh": "夥伴行銷與通路計畫占提案計畫的百分之八。"
+    },
+    {
+      "en": "Customer marketing and advocacy account for the remaining seven percent allocation.",
+      "zh": "客戶行銷與口碑推廣占剩餘的百分之七配置。"
+    },
+    {
+      "en": "Technology platform fees are budgeted separately under marketing operations.",
+      "zh": "科技平台費用另列於行銷營運下單獨編列。"
+    },
+    {
+      "en": "Headcount investments include four new specialist roles across growth and analytics.",
+      "zh": "人力投資包含成長與分析領域新增四個專才職位。"
+    },
+    {
+      "en": "External agency partnerships will be consolidated to reduce overlap and complexity.",
+      "zh": "外部代理商合作將整併，以降低重疊與複雜度。"
+    },
+    {
+      "en": "Key performance indicators include pipeline contribution, brand lift, and engagement.",
+      "zh": "關鍵績效指標包含對銷售管道貢獻、品牌提升與互動表現。"
+    },
+    {
+      "en": "Quarterly business reviews will track performance against forecast and budget.",
+      "zh": "季度業務檢討將追蹤實際表現對照預測與預算。"
+    },
+    {
+      "en": "Contingency funds equal to five percent of total budget are reserved for opportunities.",
+      "zh": "另保留總預算百分之五作為機會掌握的應變經費。"
+    },
+    {
+      "en": "Risks include economic uncertainty and potential cost increases in media inventory.",
+      "zh": "風險包含經濟不確定性與媒體版位成本可能上揚。"
+    },
+    {
+      "en": "We propose scenario planning to flex spending up or down by ten percent if needed.",
+      "zh": "建議導入情境規劃，可視需要將支出上下調整百分之十。"
+    },
+    {
+      "en": "Approval is requested at the next finance and strategy committee meeting.",
+      "zh": "謹於下次財務與策略委員會會議提請核准。"
+    },
+    {
+      "en": "Detailed appendices include channel level forecasts and assumption documentation.",
+      "zh": "詳細附錄包含各通路預測與假設依據文件。"
+    },
+    {
+      "en": "Finance partners have reviewed the proposal and confirmed alignment with planning models.",
+      "zh": "財務夥伴已審閱本案並確認與規劃模型一致。"
+    },
+    {
+      "en": "Regional leadership has contributed input to ensure local market needs are represented.",
+      "zh": "區域主管已提供意見以確保在地市場需求獲得反映。"
+    },
+    {
+      "en": "Procurement will renegotiate key vendor contracts to seek better volume rates.",
+      "zh": "採購部門將重啟主要廠商合約談判以爭取更優量價。"
+    },
+    {
+      "en": "Measurement frameworks will be refreshed to improve cross channel attribution accuracy.",
+      "zh": "衡量框架將進行更新，以提升跨通路歸因準確度。"
+    },
+    {
+      "en": "Pilot budgets are included to test emerging channels such as connected television.",
+      "zh": "本案納入試行預算以測試聯網電視等新興通路。"
+    },
+    {
+      "en": "Training and development for the marketing team is funded at increased levels.",
+      "zh": "行銷團隊的訓練與發展經費已調升至更高水準。"
+    },
+    {
+      "en": "Diversity, equity, and inclusion programs remain a protected line item in the plan.",
+      "zh": "多元、平等與共融計畫於本案中為受保護的編列項目。"
+    },
+    {
+      "en": "Sustainability initiatives are integrated rather than treated as separate spending.",
+      "zh": "永續倡議採整合方式納入，而非另列為獨立支出。"
+    },
+    {
+      "en": "Final approval will trigger detailed quarterly planning sessions with each owner.",
+      "zh": "正式核准後，將分別與各負責人展開細部季度規劃會議。"
+    },
+    {
+      "en": "Questions and feedback are welcome before the committee review next Thursday.",
+      "zh": "下週四委員會審查前，歡迎提出問題與意見回饋。"
+    },
+    {
+      "en": "Spending traceability will be improved through monthly reconciliation against forecasts.",
+      "zh": "支出可追溯性將透過每月對照預測的對帳工作加以改善。"
+    },
+    {
+      "en": "A new chargeback model will fairly allocate shared costs to business units.",
+      "zh": "新版攤提模型將公平分配共用成本至各事業單位。"
+    },
+    {
+      "en": "Marketing technology consolidation should yield savings starting in the second half.",
+      "zh": "行銷科技整併預期將自下半年起開始帶來節省效益。"
+    },
+    {
+      "en": "Vendor performance reviews will be held twice a year to ensure value delivery.",
+      "zh": "廠商績效檢討每年舉行兩次以確保價值交付。"
+    },
+    {
+      "en": "Investments in customer data platforms support more efficient targeting at scale.",
+      "zh": "客戶資料平台的投資支援更大規模且更高效率的目標投放。"
+    },
+    {
+      "en": "Awareness campaign measurement will leverage marketing mix modeling improvements.",
+      "zh": "知名度活動衡量將運用行銷組合模型的改進成果。"
+    },
+    {
+      "en": "Pilot programs require defined exit criteria before further funding is approved.",
+      "zh": "試行計畫須具備明確退場標準後方能核可進一步資金。"
+    },
+    {
+      "en": "Annual employee engagement scores will track team health across all functions.",
+      "zh": "年度員工敬業度分數將追蹤各職能團隊的健康狀況。"
+    },
+    {
+      "en": "We will publish quarterly progress updates to keep stakeholders informed in time.",
+      "zh": "我們將每季發布進度更新以即時告知利害關係人。"
+    },
+    {
+      "en": "Thank you to the planning team for assembling such a comprehensive proposal.",
+      "zh": "感謝規劃團隊彙整出如此完整的提案。"
+    }
   ]
 }

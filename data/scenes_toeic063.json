@@ -1,49 +1,181 @@
 {
   "title": "New Client Onboarding Plan",
   "all": [
-    { "en": "Welcome aboard, and thank you for choosing our platform as your partner.", "zh": "歡迎加入，感謝您選擇我們的平台作為合作夥伴。" },
-    { "en": "This onboarding plan outlines the first ninety days of our engagement.", "zh": "本導入計畫概述我們合作的前九十天。" },
-    { "en": "A dedicated implementation manager will guide you through the journey.", "zh": "專屬導入經理將引導您完成整個流程。" },
-    { "en": "The kickoff meeting is scheduled for the first week of next month.", "zh": "啟動會議排定於下個月的第一週。" },
-    { "en": "During kickoff, we align on goals, timelines, and key stakeholders.", "zh": "啟動會議中，我們確認目標、時程與關鍵利害關係人。" },
-    { "en": "Days one through fourteen focus on environment provisioning and access.", "zh": "第一至十四天聚焦於環境建置與權限開通。" },
-    { "en": "Our technical team configures your tenant and security baseline.", "zh": "我方技術團隊將設定您的租戶與安全基準。" },
-    { "en": "Single sign on integration is typically completed in the second week.", "zh": "單一登入整合通常於第二週完成。" },
-    { "en": "Data migration planning begins during the first sprint of the project.", "zh": "資料移轉規劃於專案首個衝刺期間開始。" },
-    { "en": "Source systems and field mappings are validated by both teams.", "zh": "雙方團隊將驗證來源系統與欄位對應。" },
-    { "en": "Training sessions are scheduled for administrators and end users.", "zh": "訓練課程為管理員與終端使用者排定。" },
-    { "en": "Administrator training takes place in week three of the program.", "zh": "管理員訓練於計畫第三週進行。" },
-    { "en": "End user training is rolled out in cohorts during weeks four and five.", "zh": "終端使用者訓練於第四與第五週分批推行。" },
-    { "en": "A user acceptance testing phase follows immediately after training.", "zh": "使用者驗收測試階段於訓練後立即展開。" },
-    { "en": "Test scripts cover the most common business workflows in detail.", "zh": "測試腳本詳細涵蓋最常見的業務工作流程。" },
-    { "en": "Issues identified during testing are tracked and resolved promptly.", "zh": "測試期間發現的問題均追蹤並迅速解決。" },
-    { "en": "Go live readiness is reviewed in a formal checkpoint meeting.", "zh": "上線就緒度於正式檢核會議中審視。" },
-    { "en": "Production cutover typically occurs during a weekend maintenance window.", "zh": "正式環境切換通常於週末維護時段進行。" },
-    { "en": "Hypercare support is provided for two weeks following go live.", "zh": "上線後將提供兩週的密集支援。" },
-    { "en": "A dedicated chat channel offers rapid response during hypercare.", "zh": "密集支援期間有專屬聊天頻道提供快速回應。" },
-    { "en": "Adoption metrics are reviewed in a thirty day business review.", "zh": "採用指標於三十天業務檢討會中審視。" },
-    { "en": "Customer success transitions ownership at the ninety day milestone.", "zh": "客戶成功團隊於九十天里程碑接手後續關係。" },
-    { "en": "Ongoing reviews ensure continuous value and adoption growth.", "zh": "持續性檢討確保價值延續與採用率提升。" },
-    { "en": "We are committed to making your launch smooth and successful.", "zh": "我們致力於讓您的上線順暢且成功。" },
-    { "en": "Executive sponsors meet quarterly to review strategic alignment and roadmap.", "zh": "高階主管贊助者每季開會檢視策略一致性與藍圖。" },
-    { "en": "A success plan documents shared objectives and measurable outcomes.", "zh": "成功計畫記載共同目標與可衡量的成果。" },
-    { "en": "Knowledge base articles are curated to address frequent administrator questions.", "zh": "知識庫文章經精選以回應管理員常見問題。" },
-    { "en": "Feature adoption dashboards highlight underutilized modules for follow up.", "zh": "功能採用儀表板凸顯利用率不足的模組以利追蹤。" },
-    { "en": "Health scores combine usage, sentiment, and support ticket trends.", "zh": "健康分數結合使用率、滿意度與支援單趨勢。" },
-    { "en": "Renewal conversations begin no later than ninety days before contract expiry.", "zh": "續約對話於合約到期前九十天內展開。" },
-    { "en": "Expansion opportunities surface through structured business value workshops.", "zh": "擴展機會透過結構化的商業價值工作坊浮現。" },
-    { "en": "Customer advisory board invitations recognize highly engaged accounts.", "zh": "客戶顧問委員會的邀請是對高參與度客戶的肯定。" },
-    { "en": "Reference programs offer marketing benefits in exchange for case studies.", "zh": "推薦計畫以行銷利益換取客戶案例分享。" },
-    { "en": "Annual partnership reviews celebrate milestones and set the next year priorities.", "zh": "年度合作檢討慶祝里程碑並設定來年的優先事項。" },
-    { "en": "Stakeholder mapping identifies champions, decision makers, and potential blockers.", "zh": "利害關係人地圖識別擁護者、決策者與潛在阻礙者。" },
-    { "en": "A communication plan defines update cadence and preferred contact channels.", "zh": "溝通計畫定義更新頻率與偏好的聯繫管道。" },
-    { "en": "Risk registers track issues with severity ratings and mitigation owners.", "zh": "風險登錄表追蹤問題並標註嚴重度與處置負責人。" },
-    { "en": "Configuration workshops translate business requirements into platform settings.", "zh": "設定工作坊將業務需求轉換為平台組態。" },
-    { "en": "Integration testing validates data flow between source systems and our platform.", "zh": "整合測試驗證來源系統與我方平台間的資料流。" },
-    { "en": "Performance benchmarks are captured prior to migration for accurate comparison.", "zh": "效能基準於移轉前擷取以便準確比較。" },
-    { "en": "Rollback procedures are rehearsed before cutover weekend to ensure confidence.", "zh": "切換當週前演練回復程序以確保信心。" },
-    { "en": "Post go live surveys capture user sentiment and identify pain points quickly.", "zh": "上線後問卷蒐集使用者感受並迅速找出痛點。" },
-    { "en": "Continuous improvement initiatives are prioritized using customer outcome metrics.", "zh": "持續改善方案以客戶成果指標排定優先順序。" },
-    { "en": "Success criteria are revisited quarterly to ensure ongoing alignment with goals.", "zh": "每季重新檢視成功標準以確保持續與目標一致。" }
+    {
+      "en": "Welcome aboard, and thank you for choosing our platform as your partner.",
+      "zh": "歡迎加入，感謝您選擇我們的平台作為合作夥伴。"
+    },
+    {
+      "en": "This onboarding plan outlines the first ninety days of our engagement.",
+      "zh": "本導入計畫概述我們合作的前九十天。"
+    },
+    {
+      "en": "A dedicated implementation manager will guide you through the journey.",
+      "zh": "專屬導入經理將引導您完成整個流程。"
+    },
+    {
+      "en": "The kickoff meeting is scheduled for the first week of next month.",
+      "zh": "啟動會議排定於下個月的第一週。"
+    },
+    {
+      "en": "During kickoff, we align on goals, timelines, and key stakeholders.",
+      "zh": "啟動會議中，我們確認目標、時程與關鍵利害關係人。"
+    },
+    {
+      "en": "Days one through fourteen focus on environment provisioning and access.",
+      "zh": "第一至十四天聚焦於環境建置與權限開通。"
+    },
+    {
+      "en": "Our technical team configures your tenant and security baseline.",
+      "zh": "我方技術團隊將設定您的租戶與安全基準。"
+    },
+    {
+      "en": "Single sign on integration is typically completed in the second week.",
+      "zh": "單一登入整合通常於第二週完成。"
+    },
+    {
+      "en": "Data migration planning begins during the first sprint of the project.",
+      "zh": "資料移轉規劃於專案首個衝刺期間開始。"
+    },
+    {
+      "en": "Source systems and field mappings are validated by both teams.",
+      "zh": "雙方團隊將驗證來源系統與欄位對應。"
+    },
+    {
+      "en": "Training sessions are scheduled for administrators and end users.",
+      "zh": "訓練課程為管理員與終端使用者排定。"
+    },
+    {
+      "en": "Administrator training takes place in week three of the program.",
+      "zh": "管理員訓練於計畫第三週進行。"
+    },
+    {
+      "en": "End user training is rolled out in cohorts during weeks four and five.",
+      "zh": "終端使用者訓練於第四與第五週分批推行。"
+    },
+    {
+      "en": "A user acceptance testing phase follows immediately after training.",
+      "zh": "使用者驗收測試階段於訓練後立即展開。"
+    },
+    {
+      "en": "Test scripts cover the most common business workflows in detail.",
+      "zh": "測試腳本詳細涵蓋最常見的業務工作流程。"
+    },
+    {
+      "en": "Issues identified during testing are tracked and resolved promptly.",
+      "zh": "測試期間發現的問題均追蹤並迅速解決。"
+    },
+    {
+      "en": "Go live readiness is reviewed in a formal checkpoint meeting.",
+      "zh": "上線就緒度於正式檢核會議中審視。"
+    },
+    {
+      "en": "Production cutover typically occurs during a weekend maintenance window.",
+      "zh": "正式環境切換通常於週末維護時段進行。"
+    },
+    {
+      "en": "Hypercare support is provided for two weeks following go live.",
+      "zh": "上線後將提供兩週的密集支援。"
+    },
+    {
+      "en": "A dedicated chat channel offers rapid response during hypercare.",
+      "zh": "密集支援期間有專屬聊天頻道提供快速回應。"
+    },
+    {
+      "en": "Adoption metrics are reviewed in a thirty day business review.",
+      "zh": "採用指標於三十天業務檢討會中審視。"
+    },
+    {
+      "en": "Customer success transitions ownership at the ninety day milestone.",
+      "zh": "客戶成功團隊於九十天里程碑接手後續關係。"
+    },
+    {
+      "en": "Ongoing reviews ensure continuous value and adoption growth.",
+      "zh": "持續性檢討確保價值延續與採用率提升。"
+    },
+    {
+      "en": "We are committed to making your launch smooth and successful.",
+      "zh": "我們致力於讓您的上線順暢且成功。"
+    },
+    {
+      "en": "Executive sponsors meet quarterly to review strategic alignment and roadmap.",
+      "zh": "高階主管贊助者每季開會檢視策略一致性與藍圖。"
+    },
+    {
+      "en": "A success plan documents shared objectives and measurable outcomes.",
+      "zh": "成功計畫記載共同目標與可衡量的成果。"
+    },
+    {
+      "en": "Knowledge base articles are curated to address frequent administrator questions.",
+      "zh": "知識庫文章經精選以回應管理員常見問題。"
+    },
+    {
+      "en": "Feature adoption dashboards highlight underutilized modules for follow up.",
+      "zh": "功能採用儀表板凸顯利用率不足的模組以利追蹤。"
+    },
+    {
+      "en": "Health scores combine usage, sentiment, and support ticket trends.",
+      "zh": "健康分數結合使用率、滿意度與支援單趨勢。"
+    },
+    {
+      "en": "Renewal conversations begin no later than ninety days before contract expiry.",
+      "zh": "續約對話於合約到期前九十天內展開。"
+    },
+    {
+      "en": "Expansion opportunities surface through structured business value workshops.",
+      "zh": "擴展機會透過結構化的商業價值工作坊浮現。"
+    },
+    {
+      "en": "Customer advisory board invitations recognize highly engaged accounts.",
+      "zh": "客戶顧問委員會的邀請是對高參與度客戶的肯定。"
+    },
+    {
+      "en": "Reference programs offer marketing benefits in exchange for case studies.",
+      "zh": "推薦計畫以行銷利益換取客戶案例分享。"
+    },
+    {
+      "en": "Annual partnership reviews celebrate milestones and set the next year priorities.",
+      "zh": "年度合作檢討慶祝里程碑並設定來年的優先事項。"
+    },
+    {
+      "en": "Stakeholder mapping identifies champions, decision makers, and potential blockers.",
+      "zh": "利害關係人地圖識別擁護者、決策者與潛在阻礙者。"
+    },
+    {
+      "en": "A communication plan defines update cadence and preferred contact channels.",
+      "zh": "溝通計畫定義更新頻率與偏好的聯繫管道。"
+    },
+    {
+      "en": "Risk registers track issues with severity ratings and mitigation owners.",
+      "zh": "風險登錄表追蹤問題並標註嚴重度與處置負責人。"
+    },
+    {
+      "en": "Configuration workshops translate business requirements into platform settings.",
+      "zh": "設定工作坊將業務需求轉換為平台組態。"
+    },
+    {
+      "en": "Integration testing validates data flow between source systems and our platform.",
+      "zh": "整合測試驗證來源系統與我方平台間的資料流。"
+    },
+    {
+      "en": "Performance benchmarks are captured prior to migration for accurate comparison.",
+      "zh": "效能基準於移轉前擷取以便準確比較。"
+    },
+    {
+      "en": "Rollback procedures are rehearsed before cutover weekend to ensure confidence.",
+      "zh": "切換當週前演練回復程序以確保信心。"
+    },
+    {
+      "en": "Post go live surveys capture user sentiment and identify pain points quickly.",
+      "zh": "上線後問卷蒐集使用者感受並迅速找出痛點。"
+    },
+    {
+      "en": "Continuous improvement initiatives are prioritized using customer outcome metrics.",
+      "zh": "持續改善方案以客戶成果指標排定優先順序。"
+    },
+    {
+      "en": "Success criteria are revisited quarterly to ensure ongoing alignment with goals.",
+      "zh": "每季重新檢視成功標準以確保持續與目標一致。"
+    }
   ]
 }

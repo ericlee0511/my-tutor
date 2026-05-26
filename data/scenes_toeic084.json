@@ -1,49 +1,181 @@
 {
   "title": "Production Capacity Expansion Proposal",
   "all": [
-    { "en": "This proposal outlines a plan to expand production capacity at the northern plant.", "zh": "本提案說明擴充北區工廠產能的計畫。" },
-    { "en": "Recent demand forecasts indicate sustained growth across three product families.", "zh": "近期需求預測顯示三大產品線維持成長態勢。" },
-    { "en": "Existing lines are operating at ninety percent utilization on average each month.", "zh": "現有產線每月平均稼動率達百分之九十。" },
-    { "en": "Order backlog has lengthened from two weeks to nearly six weeks since last quarter.", "zh": "訂單待出貨已自兩週延長為自上一季近六週。" },
-    { "en": "Without additional capacity, we risk losing strategic customers to competitors.", "zh": "若不擴充產能，恐將流失策略客戶至競爭對手。" },
-    { "en": "The proposed expansion adds two assembly lines and one packaging station.", "zh": "提案的擴充包含新增兩條組裝線與一座包裝工作站。" },
-    { "en": "Equipment lead times range between sixteen and twenty four weeks from suppliers.", "zh": "供應商設備交期介於十六至二十四週。" },
-    { "en": "Layout drawings have been prepared and reviewed by the engineering committee.", "zh": "佈置圖已完成並經工程委員會審查。" },
-    { "en": "Utilities such as power and compressed air require modest upgrades to support load.", "zh": "電力與壓縮空氣等公用設施需小幅升級以承載負載。" },
-    { "en": "Estimated capital expenditure totals approximately four million dollars overall.", "zh": "預估資本支出總計約四百萬美元。" },
-    { "en": "Annual incremental revenue is projected at six to seven million dollars.", "zh": "預估每年增加營收約六百至七百萬美元。" },
-    { "en": "Payback period is calculated at roughly twenty months under base case assumptions.", "zh": "基準情境下投資回收期約為二十個月。" },
-    { "en": "Twenty five new operator positions and three supervisor roles will be created.", "zh": "將新增二十五個操作員職缺與三個領班職位。" },
-    { "en": "Training for new staff will run parallel with equipment installation activities.", "zh": "新進員工訓練將與設備安裝作業同步進行。" },
-    { "en": "Safety reviews will be conducted before any commissioning begins on the new lines.", "zh": "新產線進入試車前將先完成安全審查。" },
-    { "en": "Environmental impact assessments confirm no significant changes to emissions.", "zh": "環境影響評估確認排放無顯著變動。" },
-    { "en": "Permits required from local authorities are already in the application process.", "zh": "向地方主管機關申請的許可已在受理中。" },
-    { "en": "Risks include longer than expected supplier lead times for specialized components.", "zh": "風險包含特殊零件供應商交期可能較預期更長。" },
-    { "en": "Mitigation strategies include dual sourcing critical parts and phased commissioning.", "zh": "因應策略包含關鍵零件雙源並進行分階段試車。" },
-    { "en": "Cross functional governance will track milestones through a weekly steering meeting.", "zh": "跨部門治理機制將透過每週指導會議追蹤里程碑。" },
-    { "en": "Project completion is targeted for the end of the third quarter next year.", "zh": "專案目標於明年第三季底完成。" },
-    { "en": "Pilot production should begin two months before full ramp up activities.", "zh": "試生產應於全面量產前兩個月開始。" },
-    { "en": "Executive approval is requested by the end of this month to maintain schedule.", "zh": "為維持時程，謹請於本月底前核准。" },
-    { "en": "Detailed financial models and risk registers are attached for committee review.", "zh": "詳細財務模型與風險登錄表已附上供委員會審閱。" },
-    { "en": "Sensitivity analysis tests the proposal against a ten percent demand downside scenario.", "zh": "敏感度分析以需求下修百分之十的情境檢驗本提案。" },
-    { "en": "Even in that scenario, payback remains under thirty months with positive returns.", "zh": "即便於該情境下，回收期仍於三十個月內並維持正報酬。" },
-    { "en": "Construction will be phased to minimize disruption to current production operations.", "zh": "施工將分階段進行，以將對現有生產的干擾降至最低。" },
-    { "en": "Noise and dust controls will be enforced throughout the installation period.", "zh": "安裝期間將全程實施噪音與粉塵管控。" },
-    { "en": "Communications with neighboring tenants will be coordinated through the property office.", "zh": "與鄰近租戶的溝通將透過物業辦公室統一協調。" },
-    { "en": "Existing employees will be offered first priority for supervisor promotion opportunities.", "zh": "現職員工將優先獲得領班晉升機會。" },
-    { "en": "A community hiring fair is planned to fill operator vacancies from local talent pools.", "zh": "計畫舉辦社區徵才博覽會，自在地人才填補操作員職缺。" },
-    { "en": "Vendor selection has been completed for two of the three major equipment categories.", "zh": "三大設備類別中已完成兩項的供應商選定。" },
-    { "en": "Contingency reserves of fifteen percent are included within the overall budget.", "zh": "整體預算中已含百分之十五的應變準備金。" },
-    { "en": "We respectfully request the executive committee endorse this proposal at the next session.", "zh": "謹請執行委員會於下次會議中支持核可本提案。" },
-    { "en": "Detailed milestone reviews will be presented to the board at every quarterly briefing.", "zh": "詳細里程碑檢視將於每季簡報中向董事會報告。" },
-    { "en": "External engineering consultants will validate the layout designs before procurement.", "zh": "外部工程顧問將於採購前驗證佈置設計。" },
-    { "en": "Energy efficiency targets aim to keep utility costs below current per unit benchmarks.", "zh": "能源效率目標旨在使公用設施成本維持於目前單位基準之下。" },
-    { "en": "Operator training will leverage virtual reality modules for safe early skill building.", "zh": "操作員訓練將運用虛擬實境模組以安全方式提早建立技能。" },
-    { "en": "Insurance providers have been consulted regarding additional coverage requirements.", "zh": "已就附加保險需求與保險業者進行諮詢。" },
-    { "en": "Logistics partners will support phased equipment delivery to manage on site storage.", "zh": "物流夥伴將支援設備分階段交付以管理現場儲存。" },
-    { "en": "Material handling improvements are bundled into the same overall capital request.", "zh": "物料搬運改善併入同一整體資本申請案中。" },
-    { "en": "Productivity gains from new automation are estimated at fifteen percent above baseline.", "zh": "新自動化帶來的生產力提升估計較基準高出百分之十五。" },
-    { "en": "Customer demand visibility is shared monthly to refine ramp up planning assumptions.", "zh": "客戶需求可見度每月分享以精修量產規劃假設。" },
-    { "en": "Approval of this proposal will position the company well for sustained growth ahead.", "zh": "本提案獲准將使公司在未來持續成長的道路上佔據有利位置。" }
+    {
+      "en": "This proposal outlines a plan to expand production capacity at the northern plant.",
+      "zh": "本提案說明擴充北區工廠產能的計畫。"
+    },
+    {
+      "en": "Recent demand forecasts indicate sustained growth across three product families.",
+      "zh": "近期需求預測顯示三大產品線維持成長態勢。"
+    },
+    {
+      "en": "Existing lines are operating at ninety percent utilization on average each month.",
+      "zh": "現有產線每月平均稼動率達百分之九十。"
+    },
+    {
+      "en": "Order backlog has lengthened from two weeks to nearly six weeks since last quarter.",
+      "zh": "訂單待出貨已自兩週延長為自上一季近六週。"
+    },
+    {
+      "en": "Without additional capacity, we risk losing strategic customers to competitors.",
+      "zh": "若不擴充產能，恐將流失策略客戶至競爭對手。"
+    },
+    {
+      "en": "The proposed expansion adds two assembly lines and one packaging station.",
+      "zh": "提案的擴充包含新增兩條組裝線與一座包裝工作站。"
+    },
+    {
+      "en": "Equipment lead times range between sixteen and twenty four weeks from suppliers.",
+      "zh": "供應商設備交期介於十六至二十四週。"
+    },
+    {
+      "en": "Layout drawings have been prepared and reviewed by the engineering committee.",
+      "zh": "佈置圖已完成並經工程委員會審查。"
+    },
+    {
+      "en": "Utilities such as power and compressed air require modest upgrades to support load.",
+      "zh": "電力與壓縮空氣等公用設施需小幅升級以承載負載。"
+    },
+    {
+      "en": "Estimated capital expenditure totals approximately four million dollars overall.",
+      "zh": "預估資本支出總計約四百萬美元。"
+    },
+    {
+      "en": "Annual incremental revenue is projected at six to seven million dollars.",
+      "zh": "預估每年增加營收約六百至七百萬美元。"
+    },
+    {
+      "en": "Payback period is calculated at roughly twenty months under base case assumptions.",
+      "zh": "基準情境下投資回收期約為二十個月。"
+    },
+    {
+      "en": "Twenty five new operator positions and three supervisor roles will be created.",
+      "zh": "將新增二十五個操作員職缺與三個領班職位。"
+    },
+    {
+      "en": "Training for new staff will run parallel with equipment installation activities.",
+      "zh": "新進員工訓練將與設備安裝作業同步進行。"
+    },
+    {
+      "en": "Safety reviews will be conducted before any commissioning begins on the new lines.",
+      "zh": "新產線進入試車前將先完成安全審查。"
+    },
+    {
+      "en": "Environmental impact assessments confirm no significant changes to emissions.",
+      "zh": "環境影響評估確認排放無顯著變動。"
+    },
+    {
+      "en": "Permits required from local authorities are already in the application process.",
+      "zh": "向地方主管機關申請的許可已在受理中。"
+    },
+    {
+      "en": "Risks include longer than expected supplier lead times for specialized components.",
+      "zh": "風險包含特殊零件供應商交期可能較預期更長。"
+    },
+    {
+      "en": "Mitigation strategies include dual sourcing critical parts and phased commissioning.",
+      "zh": "因應策略包含關鍵零件雙源並進行分階段試車。"
+    },
+    {
+      "en": "Cross functional governance will track milestones through a weekly steering meeting.",
+      "zh": "跨部門治理機制將透過每週指導會議追蹤里程碑。"
+    },
+    {
+      "en": "Project completion is targeted for the end of the third quarter next year.",
+      "zh": "專案目標於明年第三季底完成。"
+    },
+    {
+      "en": "Pilot production should begin two months before full ramp up activities.",
+      "zh": "試生產應於全面量產前兩個月開始。"
+    },
+    {
+      "en": "Executive approval is requested by the end of this month to maintain schedule.",
+      "zh": "為維持時程，謹請於本月底前核准。"
+    },
+    {
+      "en": "Detailed financial models and risk registers are attached for committee review.",
+      "zh": "詳細財務模型與風險登錄表已附上供委員會審閱。"
+    },
+    {
+      "en": "Sensitivity analysis tests the proposal against a ten percent demand downside scenario.",
+      "zh": "敏感度分析以需求下修百分之十的情境檢驗本提案。"
+    },
+    {
+      "en": "Even in that scenario, payback remains under thirty months with positive returns.",
+      "zh": "即便於該情境下，回收期仍於三十個月內並維持正報酬。"
+    },
+    {
+      "en": "Construction will be phased to minimize disruption to current production operations.",
+      "zh": "施工將分階段進行，以將對現有生產的干擾降至最低。"
+    },
+    {
+      "en": "Noise and dust controls will be enforced throughout the installation period.",
+      "zh": "安裝期間將全程實施噪音與粉塵管控。"
+    },
+    {
+      "en": "Communications with neighboring tenants will be coordinated through the property office.",
+      "zh": "與鄰近租戶的溝通將透過物業辦公室統一協調。"
+    },
+    {
+      "en": "Existing employees will be offered first priority for supervisor promotion opportunities.",
+      "zh": "現職員工將優先獲得領班晉升機會。"
+    },
+    {
+      "en": "A community hiring fair is planned to fill operator vacancies from local talent pools.",
+      "zh": "計畫舉辦社區徵才博覽會，自在地人才填補操作員職缺。"
+    },
+    {
+      "en": "Vendor selection has been completed for two of the three major equipment categories.",
+      "zh": "三大設備類別中已完成兩項的供應商選定。"
+    },
+    {
+      "en": "Contingency reserves of fifteen percent are included within the overall budget.",
+      "zh": "整體預算中已含百分之十五的應變準備金。"
+    },
+    {
+      "en": "We respectfully request the executive committee endorse this proposal at the next session.",
+      "zh": "謹請執行委員會於下次會議中支持核可本提案。"
+    },
+    {
+      "en": "Detailed milestone reviews will be presented to the board at every quarterly briefing.",
+      "zh": "詳細里程碑檢視將於每季簡報中向董事會報告。"
+    },
+    {
+      "en": "External engineering consultants will validate the layout designs before procurement.",
+      "zh": "外部工程顧問將於採購前驗證佈置設計。"
+    },
+    {
+      "en": "Energy efficiency targets aim to keep utility costs below current per unit benchmarks.",
+      "zh": "能源效率目標旨在使公用設施成本維持於目前單位基準之下。"
+    },
+    {
+      "en": "Operator training will leverage virtual reality modules for safe early skill building.",
+      "zh": "操作員訓練將運用虛擬實境模組以安全方式提早建立技能。"
+    },
+    {
+      "en": "Insurance providers have been consulted regarding additional coverage requirements.",
+      "zh": "已就附加保險需求與保險業者進行諮詢。"
+    },
+    {
+      "en": "Logistics partners will support phased equipment delivery to manage on site storage.",
+      "zh": "物流夥伴將支援設備分階段交付以管理現場儲存。"
+    },
+    {
+      "en": "Material handling improvements are bundled into the same overall capital request.",
+      "zh": "物料搬運改善併入同一整體資本申請案中。"
+    },
+    {
+      "en": "Productivity gains from new automation are estimated at fifteen percent above baseline.",
+      "zh": "新自動化帶來的生產力提升估計較基準高出百分之十五。"
+    },
+    {
+      "en": "Customer demand visibility is shared monthly to refine ramp up planning assumptions.",
+      "zh": "客戶需求可見度每月分享以精修量產規劃假設。"
+    },
+    {
+      "en": "Approval of this proposal will position the company well for sustained growth ahead.",
+      "zh": "本提案獲准將使公司在未來持續成長的道路上佔據有利位置。"
+    }
   ]
 }

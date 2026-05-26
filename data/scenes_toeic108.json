@@ -1,49 +1,181 @@
 {
   "title": "Service Center Workflow Guide",
   "all": [
-    { "en": "This guide outlines the standard workflow for all service center agents.", "zh": "本指引列出所有客服中心專員的標準作業流程。" },
-    { "en": "Please review each step before taking calls on the live floor.", "zh": "請於上線接聽電話前詳閱每個步驟。" },
-    { "en": "Step one, log into the Genesys console using your employee ID.", "zh": "步驟一，使用您的員工編號登入 Genesys 系統。" },
-    { "en": "Confirm that your headset microphone is working and the volume is balanced.", "zh": "確認您的耳麥麥克風運作正常，音量也已平衡。" },
-    { "en": "Set your status to Available only when you finish reading the daily memo.", "zh": "讀完每日備忘錄後再將狀態設為可服務。" },
-    { "en": "Step two, greet the caller with the approved welcome script.", "zh": "步驟二，使用核准的歡迎話術問候來電者。" },
-    { "en": "State your name, the department, and ask how you can help.", "zh": "報出您的姓名、部門，並詢問如何協助對方。" },
-    { "en": "Step three, verify the customer identity using two security questions.", "zh": "步驟三，以兩個安全問題驗證客戶身份。" },
-    { "en": "Do not share any account details before identity is confirmed.", "zh": "在身份確認前，不得提供任何帳戶資訊。" },
-    { "en": "Step four, listen actively and summarize the issue back to the customer.", "zh": "步驟四，主動聆聽並將問題複述給客戶確認。" },
-    { "en": "Take notes in the CRM ticket as the conversation progresses.", "zh": "對話進行時，請在 CRM 工單中即時記錄。" },
-    { "en": "Step five, search the knowledge base for the recommended solution.", "zh": "步驟五，於知識庫中搜尋建議的解決方案。" },
-    { "en": "Use the article reference number when documenting your response.", "zh": "記錄回覆時請註明該文章參考編號。" },
-    { "en": "Step six, if the issue requires engineering, escalate via Tier Two queue.", "zh": "步驟六，若需工程協助，請透過 Tier Two 佇列升級。" },
-    { "en": "Include the device model, error code, and any screenshots received.", "zh": "請附上裝置型號、錯誤代碼及收到的截圖。" },
-    { "en": "Step seven, set a clear callback time and stick to it.", "zh": "步驟七，明確訂出回電時間並準時履行。" },
-    { "en": "Customers value reliability more than the speed of the first answer.", "zh": "客戶重視可靠度更勝於首次回覆的速度。" },
-    { "en": "Step eight, close the ticket only after the customer confirms resolution.", "zh": "步驟八，客戶確認問題已解決後方可關閉工單。" },
-    { "en": "Select the correct disposition code from the dropdown list.", "zh": "從下拉選單中選擇正確的處理代碼。" },
-    { "en": "Step nine, take a two-minute break to reset before the next call.", "zh": "步驟九，於下通來電前休息兩分鐘調整狀態。" },
-    { "en": "Stretch your shoulders and drink water to stay alert.", "zh": "請伸展肩膀並補充水分，以保持專注。" },
-    { "en": "Step ten, log all coaching feedback in the agent journal at shift end.", "zh": "步驟十，下班前於專員日誌中記錄所有教練回饋。" },
-    { "en": "Supervisors will review entries during the weekly huddle on Friday.", "zh": "主管將於週五的週會中檢視這些紀錄。" },
-    { "en": "Following these steps ensures consistent quality across every customer interaction.", "zh": "遵循這些步驟可確保每次客戶互動的一致品質。" },
-    { "en": "New hires must complete a buddy shadowing period of at least two weeks.", "zh": "新進人員須完成至少兩週的學伴跟班期。" },
-    { "en": "Quality assurance will sample five calls per agent each week for review.", "zh": "品保人員每週將抽樣每位專員五通通話進行檢視。" },
-    { "en": "Scoring rubrics cover empathy, accuracy, compliance, and time management.", "zh": "評分量表涵蓋同理心、準確度、法遵與時間管理。" },
-    { "en": "Top performers are eligible for the quarterly customer hero recognition program.", "zh": "績優人員具備參加季度客戶英雄表揚計畫的資格。" },
-    { "en": "If you encounter an abusive caller, follow the de escalation protocol immediately.", "zh": "若遇到言語不當的來電者，請立即依降溫流程處理。" },
-    { "en": "You have full authority to end calls that breach our respectful conduct policy.", "zh": "若來電違反我方互敬準則，您有完整權限結束通話。" },
-    { "en": "Report any data privacy concerns to your team lead before the shift ends.", "zh": "如有任何資料隱私疑慮，請於下班前向組長回報。" },
-    { "en": "Regularly check the announcements channel for system outages and known issues.", "zh": "請定期查看公告頻道掌握系統異常與已知問題。" },
-    { "en": "Workflow updates are released on the first Monday of every month.", "zh": "流程更新將於每月第一個週一發布。" },
-    { "en": "Thank you for delivering exceptional service to our customers every single day.", "zh": "感謝您每天為我們的客戶提供卓越的服務。" },
-    { "en": "Agents should rotate through three workstations during longer training sessions.", "zh": "進行較長的訓練課程時，專員應輪換使用三個工作站。" },
-    { "en": "Headset hygiene supplies are restocked every Monday morning by facilities staff.", "zh": "耳麥清潔耗材每週一早上由總務人員補貨。" },
-    { "en": "Schedule changes must be submitted seventy two hours before the start of a shift.", "zh": "班表變更須於上班前七十二小時提出申請。" },
-    { "en": "Time off requests are reviewed every Wednesday afternoon by workforce planning.", "zh": "請假申請由人力規劃部門於每週三下午審核。" },
-    { "en": "Real time speech analytics flag potential compliance gaps during live conversations.", "zh": "即時語音分析會在通話中標示潛在的法遵缺口。" },
-    { "en": "Coaching dashboards display individual progress against quarterly development goals.", "zh": "輔導儀表板顯示個人對照季度發展目標的進度。" },
-    { "en": "Peer learning circles meet monthly to discuss challenging customer scenarios.", "zh": "同儕學習圈每月聚會討論具挑戰性的客戶情境。" },
-    { "en": "Mental health resources include confidential counseling and meditation app access.", "zh": "心理健康資源包含保密諮商服務與冥想應用程式使用權限。" },
-    { "en": "Career pathways outline opportunities to grow into team lead or specialist roles.", "zh": "職涯路徑說明可發展為團隊組長或專才職位的機會。" },
-    { "en": "Together we build a service center culture rooted in care and excellence.", "zh": "我們共同打造以關懷與卓越為根基的客服中心文化。" }
+    {
+      "en": "This guide outlines the standard workflow for all service center agents.",
+      "zh": "本指引列出所有客服中心專員的標準作業流程。"
+    },
+    {
+      "en": "Please review each step before taking calls on the live floor.",
+      "zh": "請於上線接聽電話前詳閱每個步驟。"
+    },
+    {
+      "en": "Step one, log into the Genesys console using your employee ID.",
+      "zh": "步驟一，使用您的員工編號登入 Genesys 系統。"
+    },
+    {
+      "en": "Confirm that your headset microphone is working and the volume is balanced.",
+      "zh": "確認您的耳麥麥克風運作正常，音量也已平衡。"
+    },
+    {
+      "en": "Set your status to Available only when you finish reading the daily memo.",
+      "zh": "讀完每日備忘錄後再將狀態設為可服務。"
+    },
+    {
+      "en": "Step two, greet the caller with the approved welcome script.",
+      "zh": "步驟二，使用核准的歡迎話術問候來電者。"
+    },
+    {
+      "en": "State your name, the department, and ask how you can help.",
+      "zh": "報出您的姓名、部門，並詢問如何協助對方。"
+    },
+    {
+      "en": "Step three, verify the customer identity using two security questions.",
+      "zh": "步驟三，以兩個安全問題驗證客戶身份。"
+    },
+    {
+      "en": "Do not share any account details before identity is confirmed.",
+      "zh": "在身份確認前，不得提供任何帳戶資訊。"
+    },
+    {
+      "en": "Step four, listen actively and summarize the issue back to the customer.",
+      "zh": "步驟四，主動聆聽並將問題複述給客戶確認。"
+    },
+    {
+      "en": "Take notes in the CRM ticket as the conversation progresses.",
+      "zh": "對話進行時，請在 CRM 工單中即時記錄。"
+    },
+    {
+      "en": "Step five, search the knowledge base for the recommended solution.",
+      "zh": "步驟五，於知識庫中搜尋建議的解決方案。"
+    },
+    {
+      "en": "Use the article reference number when documenting your response.",
+      "zh": "記錄回覆時請註明該文章參考編號。"
+    },
+    {
+      "en": "Step six, if the issue requires engineering, escalate via Tier Two queue.",
+      "zh": "步驟六，若需工程協助，請透過 Tier Two 佇列升級。"
+    },
+    {
+      "en": "Include the device model, error code, and any screenshots received.",
+      "zh": "請附上裝置型號、錯誤代碼及收到的截圖。"
+    },
+    {
+      "en": "Step seven, set a clear callback time and stick to it.",
+      "zh": "步驟七，明確訂出回電時間並準時履行。"
+    },
+    {
+      "en": "Customers value reliability more than the speed of the first answer.",
+      "zh": "客戶重視可靠度更勝於首次回覆的速度。"
+    },
+    {
+      "en": "Step eight, close the ticket only after the customer confirms resolution.",
+      "zh": "步驟八，客戶確認問題已解決後方可關閉工單。"
+    },
+    {
+      "en": "Select the correct disposition code from the dropdown list.",
+      "zh": "從下拉選單中選擇正確的處理代碼。"
+    },
+    {
+      "en": "Step nine, take a two-minute break to reset before the next call.",
+      "zh": "步驟九，於下通來電前休息兩分鐘調整狀態。"
+    },
+    {
+      "en": "Stretch your shoulders and drink water to stay alert.",
+      "zh": "請伸展肩膀並補充水分，以保持專注。"
+    },
+    {
+      "en": "Step ten, log all coaching feedback in the agent journal at shift end.",
+      "zh": "步驟十，下班前於專員日誌中記錄所有教練回饋。"
+    },
+    {
+      "en": "Supervisors will review entries during the weekly huddle on Friday.",
+      "zh": "主管將於週五的週會中檢視這些紀錄。"
+    },
+    {
+      "en": "Following these steps ensures consistent quality across every customer interaction.",
+      "zh": "遵循這些步驟可確保每次客戶互動的一致品質。"
+    },
+    {
+      "en": "New hires must complete a buddy shadowing period of at least two weeks.",
+      "zh": "新進人員須完成至少兩週的學伴跟班期。"
+    },
+    {
+      "en": "Quality assurance will sample five calls per agent each week for review.",
+      "zh": "品保人員每週將抽樣每位專員五通通話進行檢視。"
+    },
+    {
+      "en": "Scoring rubrics cover empathy, accuracy, compliance, and time management.",
+      "zh": "評分量表涵蓋同理心、準確度、法遵與時間管理。"
+    },
+    {
+      "en": "Top performers are eligible for the quarterly customer hero recognition program.",
+      "zh": "績優人員具備參加季度客戶英雄表揚計畫的資格。"
+    },
+    {
+      "en": "If you encounter an abusive caller, follow the de escalation protocol immediately.",
+      "zh": "若遇到言語不當的來電者，請立即依降溫流程處理。"
+    },
+    {
+      "en": "You have full authority to end calls that breach our respectful conduct policy.",
+      "zh": "若來電違反我方互敬準則，您有完整權限結束通話。"
+    },
+    {
+      "en": "Report any data privacy concerns to your team lead before the shift ends.",
+      "zh": "如有任何資料隱私疑慮，請於下班前向組長回報。"
+    },
+    {
+      "en": "Regularly check the announcements channel for system outages and known issues.",
+      "zh": "請定期查看公告頻道掌握系統異常與已知問題。"
+    },
+    {
+      "en": "Workflow updates are released on the first Monday of every month.",
+      "zh": "流程更新將於每月第一個週一發布。"
+    },
+    {
+      "en": "Thank you for delivering exceptional service to our customers every single day.",
+      "zh": "感謝您每天為我們的客戶提供卓越的服務。"
+    },
+    {
+      "en": "Agents should rotate through three workstations during longer training sessions.",
+      "zh": "進行較長的訓練課程時，專員應輪換使用三個工作站。"
+    },
+    {
+      "en": "Headset hygiene supplies are restocked every Monday morning by facilities staff.",
+      "zh": "耳麥清潔耗材每週一早上由總務人員補貨。"
+    },
+    {
+      "en": "Schedule changes must be submitted seventy two hours before the start of a shift.",
+      "zh": "班表變更須於上班前七十二小時提出申請。"
+    },
+    {
+      "en": "Time off requests are reviewed every Wednesday afternoon by workforce planning.",
+      "zh": "請假申請由人力規劃部門於每週三下午審核。"
+    },
+    {
+      "en": "Real time speech analytics flag potential compliance gaps during live conversations.",
+      "zh": "即時語音分析會在通話中標示潛在的法遵缺口。"
+    },
+    {
+      "en": "Coaching dashboards display individual progress against quarterly development goals.",
+      "zh": "輔導儀表板顯示個人對照季度發展目標的進度。"
+    },
+    {
+      "en": "Peer learning circles meet monthly to discuss challenging customer scenarios.",
+      "zh": "同儕學習圈每月聚會討論具挑戰性的客戶情境。"
+    },
+    {
+      "en": "Mental health resources include confidential counseling and meditation app access.",
+      "zh": "心理健康資源包含保密諮商服務與冥想應用程式使用權限。"
+    },
+    {
+      "en": "Career pathways outline opportunities to grow into team lead or specialist roles.",
+      "zh": "職涯路徑說明可發展為團隊組長或專才職位的機會。"
+    },
+    {
+      "en": "Together we build a service center culture rooted in care and excellence.",
+      "zh": "我們共同打造以關懷與卓越為根基的客服中心文化。"
+    }
   ]
 }

@@ -1,50 +1,185 @@
 {
   "title": "Warehouse Safety Inspection Report",
   "all": [
-    { "en": "This report documents the quarterly safety inspection of our main warehouse.", "zh": "本報告記錄了我們主倉庫的季度安全檢查。" },
-    { "en": "The inspection was conducted by an external occupational safety consultant.", "zh": "本次檢查由外部職業安全顧問執行。" },
-    { "en": "All twelve loading docks were assessed for compliance with regulations.", "zh": "全部十二個裝卸碼頭均針對法規遵循進行評估。" },
-    { "en": "Forklift operators were observed during a full eight hour shift.", "zh": "堆高機操作員接受了完整八小時班次的觀察。" },
-    { "en": "Emergency exits remained clearly marked and free of obstructions.", "zh": "緊急出口維持清楚標示且未受阻擋。" },
-    { "en": "Fire extinguishers were serviced within the last six months as required.", "zh": "依規定，滅火器於過去六個月內已完成保養。" },
-    { "en": "However, three sprinkler heads on aisle nine were partially blocked by pallets.", "zh": "然而第九走道有三個灑水頭被棧板部分阻擋。" },
-    { "en": "Two workers were not wearing high visibility vests in the receiving area.", "zh": "收貨區有兩名工人未穿著高能見度背心。" },
-    { "en": "One eye wash station near the chemical storage area was non functional.", "zh": "化學品儲存區附近的一座洗眼器無法運作。" },
-    { "en": "Pallet racking on bay seven showed signs of impact damage at the base.", "zh": "第七貨架區的棧板架基座出現撞擊損傷跡象。" },
-    { "en": "Lighting in the cold storage section measured below the required lux level.", "zh": "冷藏區照明測得的勒克斯值低於規定標準。" },
-    { "en": "Battery charging stations lacked adequate ventilation during peak use.", "zh": "電池充電站在尖峰使用時段缺乏足夠通風。" },
-    { "en": "The first aid kit on the second floor was missing several essential items.", "zh": "二樓的急救箱缺少數項必要物品。" },
-    { "en": "Training records for new hires were complete and properly signed off.", "zh": "新進員工的訓練紀錄完整且已正式簽核。" },
-    { "en": "Monthly safety drills have been conducted without any missed sessions.", "zh": "每月安全演習均依時舉行未有缺席。" },
-    { "en": "Spill response kits were fully stocked at all designated locations.", "zh": "防漏應變組於各指定地點均備品完整。" },
-    { "en": "The consultant rated overall safety performance at seventy eight out of one hundred.", "zh": "顧問將整體安全表現評為一百分中的七十八分。" },
-    { "en": "Five findings were classified as high priority requiring immediate action.", "zh": "五項發現被列為需立即處置的高優先項目。" },
-    { "en": "Eight medium priority items must be resolved within thirty days.", "zh": "八項中優先項目須於三十日內完成改善。" },
-    { "en": "The facility manager will own the corrective action plan going forward.", "zh": "場館經理將後續負責矯正措施計畫。" },
-    { "en": "A follow up inspection is scheduled for the second week of next month.", "zh": "後續檢查訂於下月第二週進行。" },
-    { "en": "All findings have been logged in our safety management system.", "zh": "所有發現均已記錄於我們的安全管理系統中。" },
-    { "en": "Affected employees will receive refresher training before the follow up visit.", "zh": "受影響員工將於後續訪查前接受複訓。" },
-    { "en": "The full inspection checklist is attached as appendix A to this report.", "zh": "完整檢查清單作為附件 A 附於本報告之後。" },
-    { "en": "Continued vigilance from every team member remains essential to our safety culture.", "zh": "每位團隊成員的持續警覺對我們的安全文化至關重要。" },
-    { "en": "Safety committee meetings will now occur monthly rather than quarterly going forward.", "zh": "安全委員會今後將由每季改為每月召開。" },
-    { "en": "A reward program will recognize teams that report near miss incidents promptly.", "zh": "獎勵方案將表揚迅速通報近未遂事件的團隊。" },
-    { "en": "Updated signage in multiple languages will be installed across all main aisles.", "zh": "多語版標示將更新並設置於所有主要走道。" },
-    { "en": "Forklift speed limiters will be calibrated to a maximum of eight kilometers per hour.", "zh": "堆高機限速器將校準至每小時最高八公里。" },
-    { "en": "An external auditor will conduct a surprise visit within the next ninety days.", "zh": "外部稽核員將於未來九十天內進行突擊訪查。" },
-    { "en": "Personal protective equipment will be restocked weekly at all entry points.", "zh": "個人防護裝備將於各出入口每週補充。" },
-    { "en": "Workers may anonymously report hazards through a new mobile reporting application.", "zh": "員工可透過新版行動通報應用程式匿名回報危害。" },
-    { "en": "Leadership will review safety metrics in every weekly operations meeting.", "zh": "領導層將於每週營運會議檢視安全指標。" },
-    { "en": "Capital budget has been approved for upgraded smoke detection across the facility.", "zh": "資本預算已核准用於升級全廠區的煙霧偵測系統。" },
-    { "en": "Together these measures aim to bring our score above ninety within two quarters.", "zh": "上述措施旨在於兩季內讓評分提升至九十分以上。" },
-    { "en": "Behavioral safety observations will now be logged daily by frontline supervisors.", "zh": "行為安全觀察今後將由第一線主管每日登錄。" },
-    { "en": "Each shift begins with a brief safety huddle covering top hazards for the day.", "zh": "每班開始前皆會召開簡短安全會議，說明當日主要危害。" },
-    { "en": "Visitor orientation videos must be viewed before entering any operational zone.", "zh": "進入任何作業區前訪客須先觀看入廠導覽影片。" },
-    { "en": "Contractors are now required to attend a quarterly safety alignment workshop.", "zh": "承包商現須每季出席安全共識工作坊。" },
-    { "en": "Lockout tagout audits will be performed unannounced at least twice each month.", "zh": "上鎖掛牌稽核每月將至少進行兩次不預警查核。" },
-    { "en": "Forklift refresher certification is mandatory for all licensed operators yearly.", "zh": "所有合格堆高機操作員每年須完成複訓認證。" },
-    { "en": "Slip and fall incidents have decreased by thirty percent since the floor recoating.", "zh": "自地面重新塗布以來，滑跌事件減少了百分之三十。" },
-    { "en": "Heat stress monitoring will be activated automatically when temperatures exceed thresholds.", "zh": "溫度超過門檻時將自動啟動熱壓力監測。" },
-    { "en": "Hydration stations have been added at every major intersection inside the building.", "zh": "建築內各主要交叉點皆已設置補水站。" },
-    { "en": "Recognition for safety milestones will be celebrated at every all hands meeting.", "zh": "安全里程碑將於每場全體會議中接受表揚。" }
+    {
+      "en": "This report documents the quarterly safety inspection of our main warehouse.",
+      "zh": "本報告記錄了我們主倉庫的季度安全檢查。"
+    },
+    {
+      "en": "The inspection was conducted by an external occupational safety consultant.",
+      "zh": "本次檢查由外部職業安全顧問執行。"
+    },
+    {
+      "en": "All twelve loading docks were assessed for compliance with regulations.",
+      "zh": "全部十二個裝卸碼頭均針對法規遵循進行評估。"
+    },
+    {
+      "en": "Forklift operators were observed during a full eight hour shift.",
+      "zh": "堆高機操作員接受了完整八小時班次的觀察。"
+    },
+    {
+      "en": "Emergency exits remained clearly marked and free of obstructions.",
+      "zh": "緊急出口維持清楚標示且未受阻擋。"
+    },
+    {
+      "en": "Fire extinguishers were serviced within the last six months as required.",
+      "zh": "依規定，滅火器於過去六個月內已完成保養。"
+    },
+    {
+      "en": "However, three sprinkler heads on aisle nine were partially blocked by pallets.",
+      "zh": "然而第九走道有三個灑水頭被棧板部分阻擋。"
+    },
+    {
+      "en": "Two workers were not wearing high visibility vests in the receiving area.",
+      "zh": "收貨區有兩名工人未穿著高能見度背心。"
+    },
+    {
+      "en": "One eye wash station near the chemical storage area was non functional.",
+      "zh": "化學品儲存區附近的一座洗眼器無法運作。"
+    },
+    {
+      "en": "Pallet racking on bay seven showed signs of impact damage at the base.",
+      "zh": "第七貨架區的棧板架基座出現撞擊損傷跡象。"
+    },
+    {
+      "en": "Lighting in the cold storage section measured below the required lux level.",
+      "zh": "冷藏區照明測得的勒克斯值低於規定標準。"
+    },
+    {
+      "en": "Battery charging stations lacked adequate ventilation during peak use.",
+      "zh": "電池充電站在尖峰使用時段缺乏足夠通風。"
+    },
+    {
+      "en": "The first aid kit on the second floor was missing several essential items.",
+      "zh": "二樓的急救箱缺少數項必要物品。"
+    },
+    {
+      "en": "Training records for new hires were complete and properly signed off.",
+      "zh": "新進員工的訓練紀錄完整且已正式簽核。"
+    },
+    {
+      "en": "Monthly safety drills have been conducted without any missed sessions.",
+      "zh": "每月安全演習均依時舉行未有缺席。"
+    },
+    {
+      "en": "Spill response kits were fully stocked at all designated locations.",
+      "zh": "防漏應變組於各指定地點均備品完整。"
+    },
+    {
+      "en": "The consultant rated overall safety performance at seventy eight out of one hundred.",
+      "zh": "顧問將整體安全表現評為一百分中的七十八分。"
+    },
+    {
+      "en": "Five findings were classified as high priority requiring immediate action.",
+      "zh": "五項發現被列為需立即處置的高優先項目。"
+    },
+    {
+      "en": "Eight medium priority items must be resolved within thirty days.",
+      "zh": "八項中優先項目須於三十日內完成改善。"
+    },
+    {
+      "en": "The facility manager will own the corrective action plan going forward.",
+      "zh": "場館經理將後續負責矯正措施計畫。"
+    },
+    {
+      "en": "A follow up inspection is scheduled for the second week of next month.",
+      "zh": "後續檢查訂於下月第二週進行。"
+    },
+    {
+      "en": "All findings have been logged in our safety management system.",
+      "zh": "所有發現均已記錄於我們的安全管理系統中。"
+    },
+    {
+      "en": "Affected employees will receive refresher training before the follow up visit.",
+      "zh": "受影響員工將於後續訪查前接受複訓。"
+    },
+    {
+      "en": "The full inspection checklist is attached as appendix A to this report.",
+      "zh": "完整檢查清單作為附件 A 附於本報告之後。"
+    },
+    {
+      "en": "Continued vigilance from every team member remains essential to our safety culture.",
+      "zh": "每位團隊成員的持續警覺對我們的安全文化至關重要。"
+    },
+    {
+      "en": "Safety committee meetings will now occur monthly rather than quarterly going forward.",
+      "zh": "安全委員會今後將由每季改為每月召開。"
+    },
+    {
+      "en": "A reward program will recognize teams that report near miss incidents promptly.",
+      "zh": "獎勵方案將表揚迅速通報近未遂事件的團隊。"
+    },
+    {
+      "en": "Updated signage in multiple languages will be installed across all main aisles.",
+      "zh": "多語版標示將更新並設置於所有主要走道。"
+    },
+    {
+      "en": "Forklift speed limiters will be calibrated to a maximum of eight kilometers per hour.",
+      "zh": "堆高機限速器將校準至每小時最高八公里。"
+    },
+    {
+      "en": "An external auditor will conduct a surprise visit within the next ninety days.",
+      "zh": "外部稽核員將於未來九十天內進行突擊訪查。"
+    },
+    {
+      "en": "Personal protective equipment will be restocked weekly at all entry points.",
+      "zh": "個人防護裝備將於各出入口每週補充。"
+    },
+    {
+      "en": "Workers may anonymously report hazards through a new mobile reporting application.",
+      "zh": "員工可透過新版行動通報應用程式匿名回報危害。"
+    },
+    {
+      "en": "Leadership will review safety metrics in every weekly operations meeting.",
+      "zh": "領導層將於每週營運會議檢視安全指標。"
+    },
+    {
+      "en": "Capital budget has been approved for upgraded smoke detection across the facility.",
+      "zh": "資本預算已核准用於升級全廠區的煙霧偵測系統。"
+    },
+    {
+      "en": "Together these measures aim to bring our score above ninety within two quarters.",
+      "zh": "上述措施旨在於兩季內讓評分提升至九十分以上。"
+    },
+    {
+      "en": "Behavioral safety observations will now be logged daily by frontline supervisors.",
+      "zh": "行為安全觀察今後將由第一線主管每日登錄。"
+    },
+    {
+      "en": "Each shift begins with a brief safety huddle covering top hazards for the day.",
+      "zh": "每班開始前皆會召開簡短安全會議，說明當日主要危害。"
+    },
+    {
+      "en": "Visitor orientation videos must be viewed before entering any operational zone.",
+      "zh": "進入任何作業區前訪客須先觀看入廠導覽影片。"
+    },
+    {
+      "en": "Contractors are now required to attend a quarterly safety alignment workshop.",
+      "zh": "承包商現須每季出席安全共識工作坊。"
+    },
+    {
+      "en": "Lockout tagout audits will be performed unannounced at least twice each month.",
+      "zh": "上鎖掛牌稽核每月將至少進行兩次不預警查核。"
+    },
+    {
+      "en": "Forklift refresher certification is mandatory for all licensed operators yearly.",
+      "zh": "所有合格堆高機操作員每年須完成複訓認證。"
+    },
+    {
+      "en": "Slip and fall incidents have decreased by thirty percent since the floor recoating.",
+      "zh": "自地面重新塗布以來，滑跌事件減少了百分之三十。"
+    },
+    {
+      "en": "Heat stress monitoring will be activated automatically when temperatures exceed thresholds.",
+      "zh": "溫度超過門檻時將自動啟動熱壓力監測。"
+    },
+    {
+      "en": "Hydration stations have been added at every major intersection inside the building.",
+      "zh": "建築內各主要交叉點皆已設置補水站。"
+    },
+    {
+      "en": "Recognition for safety milestones will be celebrated at every all hands meeting.",
+      "zh": "安全里程碑將於每場全體會議中接受表揚。"
+    }
   ]
 }

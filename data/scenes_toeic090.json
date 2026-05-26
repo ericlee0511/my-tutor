@@ -1,47 +1,173 @@
 {
   "title": "Loan Application Status Update",
   "all": [
-    { "en": "Thank you for submitting your business loan application last week.", "zh": "感謝您上週提交企業貸款申請。" },
-    { "en": "We are writing to provide an update on the review progress.", "zh": "我們在此告知您本案審核進度更新。" },
-    { "en": "Your application reference number is L K nine eight seven six.", "zh": "您的申請參考編號為L K九八七六。" },
-    { "en": "The requested loan amount is two hundred fifty thousand dollars.", "zh": "申請貸款金額為二十五萬美元。" },
-    { "en": "The intended use of funds is equipment expansion and working capital.", "zh": "資金用途為設備擴充與營運週轉。" },
-    { "en": "Our credit team has completed the initial document review stage.", "zh": "本行授信團隊已完成初步文件審查階段。" },
-    { "en": "All required financial statements were received in good order.", "zh": "所有必要財務報表均已完整收齊。" },
-    { "en": "Tax returns for the past three years have been verified.", "zh": "過去三年之稅務申報資料已驗證完畢。" },
-    { "en": "Personal guarantees from listed signatories have been validated.", "zh": "所列簽署人之個人保證已驗證完成。" },
-    { "en": "The collateral appraisal is currently being conducted by an external partner.", "zh": "擔保品估價現由外部夥伴執行中。" },
-    { "en": "We expect appraisal results to be available within ten business days.", "zh": "估價結果預期於十個營業日內出爐。" },
-    { "en": "Additional documentation may be requested after appraisal review.", "zh": "估價審閱後可能要求補件。" },
-    { "en": "Preliminary indications support a favorable credit decision.", "zh": "初步跡象顯示授信決定傾向核准。" },
-    { "en": "Final approval still depends on appraisal and committee sign off.", "zh": "最終核准仍取決於估價與委員會簽核。" },
-    { "en": "Proposed interest rates are subject to current market conditions.", "zh": "建議利率將依當前市場狀況調整。" },
-    { "en": "The term sheet will outline rate, term, and covenants in detail.", "zh": "授信條件書將詳述利率、期限與限制條款。" },
-    { "en": "Closing costs and origination fees will be disclosed before signing.", "zh": "成交費用與開辦費將於簽約前揭露。" },
-    { "en": "Funds disbursement typically occurs within five days of execution.", "zh": "撥款通常於簽約後五日內辦理。" },
-    { "en": "Please keep your contact information current for timely updates.", "zh": "請維持聯絡資訊更新以便即時通知。" },
-    { "en": "Your dedicated relationship manager remains available for questions.", "zh": "專屬關係經理可隨時回應您的疑問。" },
-    { "en": "We will issue another status update by the end of next week.", "zh": "我們將於下週週末前再次發送進度通知。" },
-    { "en": "Thank you for choosing our institution for your financing needs.", "zh": "感謝您選擇本行作為您融資需求之合作夥伴。" },
-    { "en": "Quarterly reporting requirements will commence once the loan agreement is finalized.", "zh": "貸款合約簽訂後將開始執行每季報告之要求。" },
-    { "en": "Insurance coverage on financed equipment must list our bank as loss payee.", "zh": "融資設備之保險須將本行列為受益人。" },
-    { "en": "Prepayment of principal is permitted without penalty after the first year.", "zh": "本金提前還款於第一年期滿後可免收違約金。" },
-    { "en": "Interest rate adjustments follow the benchmark plus a fixed spread arrangement.", "zh": "利率調整依基準利率加固定利差之方式辦理。" },
-    { "en": "Borrowers must maintain minimum debt service coverage ratios throughout the loan term.", "zh": "借款人於貸款期間須維持最低償債備付比率。" },
-    { "en": "Annual reviews assess compliance with all financial and operational covenants.", "zh": "年度檢視將評估各項財務與營運限制條款之遵循狀況。" },
-    { "en": "Online loan servicing tools allow you to view balances and schedule payments.", "zh": "線上貸款服務工具讓您查看餘額並排定還款。" },
-    { "en": "Refinancing options become available after the third anniversary of disbursement.", "zh": "撥款滿三週年後即可選擇再融資方案。" },
-    { "en": "Our commercial banking team welcomes referrals from satisfied existing clients.", "zh": "本行企業金融團隊歡迎滿意之既有客戶介紹新客戶。" },
-    { "en": "We look forward to supporting your continued growth in the coming years.", "zh": "我們期待於未來數年持續支持貴公司穩健成長。" },
-    { "en": "Loan proceeds may not be used for purposes outside the approved business plan.", "zh": "貸款款項不得用於核准營運計畫範圍以外之用途。" },
-    { "en": "Quarterly financial statements are required within forty five days of period end.", "zh": "季度財務報表須於期末後四十五日內提交。" },
-    { "en": "Material changes in ownership require prior written consent from the bank.", "zh": "重大股權變動須事先取得本行書面同意。" },
-    { "en": "Site visits by our credit team will be scheduled at least once annually.", "zh": "本行授信團隊將於每年至少安排一次實地拜訪。" },
-    { "en": "Late payment penalties begin to accrue after the standard fifteen day grace period.", "zh": "逾期付款違約金於標準十五天寬限期後開始計收。" },
-    { "en": "Loan modifications may be considered if business circumstances change significantly.", "zh": "如營運狀況發生重大變化可考慮辦理貸款條件變更。" },
-    { "en": "Default events trigger immediate review and potential acceleration of outstanding balances.", "zh": "違約事件將觸發即時審查並可能加速到期未償餘額。" },
-    { "en": "Borrower covenants include restrictions on additional indebtedness without prior approval.", "zh": "借款人限制條款包含未經事前核准不得增加負債之規定。" },
-    { "en": "Loan closing typically takes place at our regional commercial banking office.", "zh": "貸款簽約通常於本行區域企業金融分行辦理。" },
-    { "en": "Customer satisfaction surveys are sent following each major milestone in the relationship.", "zh": "客戶滿意度調查將於合作關係之每項重要里程碑後寄發。" }
+    {
+      "en": "Thank you for submitting your business loan application last week.",
+      "zh": "感謝您上週提交企業貸款申請。"
+    },
+    {
+      "en": "We are writing to provide an update on the review progress.",
+      "zh": "我們在此告知您本案審核進度更新。"
+    },
+    {
+      "en": "Your application reference number is L K nine eight seven six.",
+      "zh": "您的申請參考編號為L K九八七六。"
+    },
+    {
+      "en": "The requested loan amount is two hundred fifty thousand dollars.",
+      "zh": "申請貸款金額為二十五萬美元。"
+    },
+    {
+      "en": "The intended use of funds is equipment expansion and working capital.",
+      "zh": "資金用途為設備擴充與營運週轉。"
+    },
+    {
+      "en": "Our credit team has completed the initial document review stage.",
+      "zh": "本行授信團隊已完成初步文件審查階段。"
+    },
+    {
+      "en": "All required financial statements were received in good order.",
+      "zh": "所有必要財務報表均已完整收齊。"
+    },
+    {
+      "en": "Tax returns for the past three years have been verified.",
+      "zh": "過去三年之稅務申報資料已驗證完畢。"
+    },
+    {
+      "en": "Personal guarantees from listed signatories have been validated.",
+      "zh": "所列簽署人之個人保證已驗證完成。"
+    },
+    {
+      "en": "The collateral appraisal is currently being conducted by an external partner.",
+      "zh": "擔保品估價現由外部夥伴執行中。"
+    },
+    {
+      "en": "We expect appraisal results to be available within ten business days.",
+      "zh": "估價結果預期於十個營業日內出爐。"
+    },
+    {
+      "en": "Additional documentation may be requested after appraisal review.",
+      "zh": "估價審閱後可能要求補件。"
+    },
+    {
+      "en": "Preliminary indications support a favorable credit decision.",
+      "zh": "初步跡象顯示授信決定傾向核准。"
+    },
+    {
+      "en": "Final approval still depends on appraisal and committee sign off.",
+      "zh": "最終核准仍取決於估價與委員會簽核。"
+    },
+    {
+      "en": "Proposed interest rates are subject to current market conditions.",
+      "zh": "建議利率將依當前市場狀況調整。"
+    },
+    {
+      "en": "The term sheet will outline rate, term, and covenants in detail.",
+      "zh": "授信條件書將詳述利率、期限與限制條款。"
+    },
+    {
+      "en": "Closing costs and origination fees will be disclosed before signing.",
+      "zh": "成交費用與開辦費將於簽約前揭露。"
+    },
+    {
+      "en": "Funds disbursement typically occurs within five days of execution.",
+      "zh": "撥款通常於簽約後五日內辦理。"
+    },
+    {
+      "en": "Please keep your contact information current for timely updates.",
+      "zh": "請維持聯絡資訊更新以便即時通知。"
+    },
+    {
+      "en": "Your dedicated relationship manager remains available for questions.",
+      "zh": "專屬關係經理可隨時回應您的疑問。"
+    },
+    {
+      "en": "We will issue another status update by the end of next week.",
+      "zh": "我們將於下週週末前再次發送進度通知。"
+    },
+    {
+      "en": "Thank you for choosing our institution for your financing needs.",
+      "zh": "感謝您選擇本行作為您融資需求之合作夥伴。"
+    },
+    {
+      "en": "Quarterly reporting requirements will commence once the loan agreement is finalized.",
+      "zh": "貸款合約簽訂後將開始執行每季報告之要求。"
+    },
+    {
+      "en": "Insurance coverage on financed equipment must list our bank as loss payee.",
+      "zh": "融資設備之保險須將本行列為受益人。"
+    },
+    {
+      "en": "Prepayment of principal is permitted without penalty after the first year.",
+      "zh": "本金提前還款於第一年期滿後可免收違約金。"
+    },
+    {
+      "en": "Interest rate adjustments follow the benchmark plus a fixed spread arrangement.",
+      "zh": "利率調整依基準利率加固定利差之方式辦理。"
+    },
+    {
+      "en": "Borrowers must maintain minimum debt service coverage ratios throughout the loan term.",
+      "zh": "借款人於貸款期間須維持最低償債備付比率。"
+    },
+    {
+      "en": "Annual reviews assess compliance with all financial and operational covenants.",
+      "zh": "年度檢視將評估各項財務與營運限制條款之遵循狀況。"
+    },
+    {
+      "en": "Online loan servicing tools allow you to view balances and schedule payments.",
+      "zh": "線上貸款服務工具讓您查看餘額並排定還款。"
+    },
+    {
+      "en": "Refinancing options become available after the third anniversary of disbursement.",
+      "zh": "撥款滿三週年後即可選擇再融資方案。"
+    },
+    {
+      "en": "Our commercial banking team welcomes referrals from satisfied existing clients.",
+      "zh": "本行企業金融團隊歡迎滿意之既有客戶介紹新客戶。"
+    },
+    {
+      "en": "We look forward to supporting your continued growth in the coming years.",
+      "zh": "我們期待於未來數年持續支持貴公司穩健成長。"
+    },
+    {
+      "en": "Loan proceeds may not be used for purposes outside the approved business plan.",
+      "zh": "貸款款項不得用於核准營運計畫範圍以外之用途。"
+    },
+    {
+      "en": "Quarterly financial statements are required within forty five days of period end.",
+      "zh": "季度財務報表須於期末後四十五日內提交。"
+    },
+    {
+      "en": "Material changes in ownership require prior written consent from the bank.",
+      "zh": "重大股權變動須事先取得本行書面同意。"
+    },
+    {
+      "en": "Site visits by our credit team will be scheduled at least once annually.",
+      "zh": "本行授信團隊將於每年至少安排一次實地拜訪。"
+    },
+    {
+      "en": "Late payment penalties begin to accrue after the standard fifteen day grace period.",
+      "zh": "逾期付款違約金於標準十五天寬限期後開始計收。"
+    },
+    {
+      "en": "Loan modifications may be considered if business circumstances change significantly.",
+      "zh": "如營運狀況發生重大變化可考慮辦理貸款條件變更。"
+    },
+    {
+      "en": "Default events trigger immediate review and potential acceleration of outstanding balances.",
+      "zh": "違約事件將觸發即時審查並可能加速到期未償餘額。"
+    },
+    {
+      "en": "Borrower covenants include restrictions on additional indebtedness without prior approval.",
+      "zh": "借款人限制條款包含未經事前核准不得增加負債之規定。"
+    },
+    {
+      "en": "Loan closing typically takes place at our regional commercial banking office.",
+      "zh": "貸款簽約通常於本行區域企業金融分行辦理。"
+    },
+    {
+      "en": "Customer satisfaction surveys are sent following each major milestone in the relationship.",
+      "zh": "客戶滿意度調查將於合作關係之每項重要里程碑後寄發。"
+    }
   ]
 }

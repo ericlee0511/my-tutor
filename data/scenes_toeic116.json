@@ -1,49 +1,181 @@
 {
   "title": "Travel Reimbursement Claim Form Notes",
   "all": [
-    { "en": "Please read these notes carefully before submitting your travel reimbursement claim.", "zh": "提交差旅費報銷申請前，請仔細閱讀以下說明。" },
-    { "en": "All claims must be filed within thirty days after the trip ends.", "zh": "所有申請須於行程結束後 30 天內提出。" },
-    { "en": "Late submissions require written approval from your department director.", "zh": "逾期提交須取得所屬部門主管書面核准。" },
-    { "en": "Use the official online portal located under the Finance tab.", "zh": "請使用財務頁籤下的官方線上入口提交。" },
-    { "en": "Paper forms are no longer accepted at any regional office.", "zh": "任何區域辦公室皆不再接受紙本表單。" },
-    { "en": "Each expense line item must reference a valid project or cost center.", "zh": "每筆費用項目須對應有效專案或成本中心。" },
-    { "en": "Receipts should be uploaded as clear PDF or JPEG files.", "zh": "收據應以清晰之 PDF 或 JPEG 檔案上傳。" },
-    { "en": "Images must show the merchant name, date, items, and total amount.", "zh": "影像須呈現店家名稱、日期、品項及總金額。" },
-    { "en": "Credit card statements alone do not count as valid proof of purchase.", "zh": "僅信用卡帳單無法視為有效消費憑證。" },
-    { "en": "Airfare must be booked through our corporate travel agent CarlsonGo.", "zh": "機票須透過我們的企業差旅代理 CarlsonGo 訂購。" },
-    { "en": "Bookings made outside the platform require pre-trip exception approval.", "zh": "於平台外訂購之機票須事先取得例外核可。" },
-    { "en": "Economy class is mandatory for flights under six hours in duration.", "zh": "六小時以內航班規定須搭乘經濟艙。" },
-    { "en": "Business class is allowed for flights longer than six hours.", "zh": "六小時以上航班可搭乘商務艙。" },
-    { "en": "Hotel rates should not exceed the city cap listed in the policy.", "zh": "飯店房價不得超過政策中所列城市上限。" },
-    { "en": "Meals are reimbursed at the daily per diem rate of the destination.", "zh": "餐費依目的地每日定額補助標準報銷。" },
-    { "en": "Alcohol purchased during meals is not reimbursable under any circumstance.", "zh": "用餐時購買之酒類在任何情況下皆不予報銷。" },
-    { "en": "Tips up to twenty percent of the meal cost are acceptable.", "zh": "餐費 20% 以內之小費可被接受。" },
-    { "en": "Ground transportation includes taxis, ride share, and public transit.", "zh": "地面交通包含計程車、共乘服務與大眾運輸。" },
-    { "en": "Rental cars require justification when public options are available.", "zh": "如有大眾運輸選項時，租車須附說明理由。" },
-    { "en": "Foreign currency expenses are converted using the rate on the receipt date.", "zh": "外幣費用依收據日期之匯率換算。" },
-    { "en": "Personal expenses mixed into a business receipt must be excluded.", "zh": "若商業收據中混入個人消費，須予以扣除。" },
-    { "en": "Approved claims are reimbursed within ten business days via direct deposit.", "zh": "核准之申請於 10 個工作天內以匯款方式撥付。" },
-    { "en": "Contact the finance shared service desk for any urgent questions.", "zh": "如有緊急問題，請聯絡財務共享服務台。" },
-    { "en": "Thank you for following these guidelines and helping us close books promptly.", "zh": "感謝您遵循本指引並協助我們及時結帳。" },
-    { "en": "Audit samples are pulled monthly to verify compliance with these rules.", "zh": "每月將抽樣稽核以確認符合上述規範。" },
-    { "en": "Repeat policy violations may result in claims being denied without notice.", "zh": "屢次違反政策可能導致申請逕予否決而不另行通知。" },
-    { "en": "Frequent travelers can request a corporate credit card after manager approval.", "zh": "經常出差者可於主管核准後申請公司信用卡。" },
-    { "en": "Card statements feed automatically into the reimbursement portal for review.", "zh": "信用卡帳單會自動匯入報銷入口供審核。" },
-    { "en": "Travelers must still upload itemized receipts even when using corporate cards.", "zh": "縱使使用公司卡，差旅人員仍須上傳逐項收據。" },
-    { "en": "Lost receipts under twenty-five dollars may be declared via affidavit form.", "zh": "遺失之 25 美元以下收據可透過聲明書表單申報。" },
-    { "en": "Save your boarding passes when claiming international airfare reimbursement.", "zh": "申請國際機票報銷時，請保留登機證以備查。" },
-    { "en": "Travel insurance arranged through CarlsonGo is included in the base fare.", "zh": "透過 CarlsonGo 安排之差旅保險已含於基本票價。" },
-    { "en": "Please share feedback on the portal experience with our process improvement team.", "zh": "請將入口網站使用體驗的建議回饋至流程改善團隊。" },
-    { "en": "Have a safe and productive trip on behalf of the entire finance team.", "zh": "謹代表整個財務團隊，祝您旅途平安、收穫豐碩。" },
-    { "en": "Itinerary changes should be reported within twenty-four hours via the portal.", "zh": "行程變動須於 24 小時內透過入口網站回報。" },
-    { "en": "Emergency travel funds can be wired through our duty manager hotline.", "zh": "緊急差旅款項可透過值班主管熱線匯款處理。" },
-    { "en": "Travelers must complete a security briefing before visiting high-risk locations.", "zh": "前往高風險地點前，差旅人員須完成安全簡報。" },
-    { "en": "Vaccinations recommended for certain destinations are reimbursable with prior approval.", "zh": "前往特定目的地建議施打之疫苗，經事先核准後可報銷。" },
-    { "en": "Visa application fees should be submitted under category nine on the form.", "zh": "簽證申請費應於表單第九類項目下提交。" },
-    { "en": "Group travel of three or more requires advance approval from operations.", "zh": "三人以上之團體差旅須先取得營運單位核准。" },
-    { "en": "Spousal travel is not reimbursable except for approved relocation assignments.", "zh": "除核准之外派任務外，配偶差旅不予報銷。" },
-    { "en": "Loyalty program points belong to the traveler unless policy specifies otherwise.", "zh": "除政策另有規定外，會員獎勵點數歸差旅人員所有。" },
-    { "en": "Always notify your manager when departing for international business travel.", "zh": "出發前往國際商務出差前，請務必通知您的主管。" },
-    { "en": "Travel safely and represent our company values with professionalism abroad.", "zh": "請平安出行，並於海外以專業展現本公司價值。" }
+    {
+      "en": "Please read these notes carefully before submitting your travel reimbursement claim.",
+      "zh": "提交差旅費報銷申請前，請仔細閱讀以下說明。"
+    },
+    {
+      "en": "All claims must be filed within thirty days after the trip ends.",
+      "zh": "所有申請須於行程結束後 30 天內提出。"
+    },
+    {
+      "en": "Late submissions require written approval from your department director.",
+      "zh": "逾期提交須取得所屬部門主管書面核准。"
+    },
+    {
+      "en": "Use the official online portal located under the Finance tab.",
+      "zh": "請使用財務頁籤下的官方線上入口提交。"
+    },
+    {
+      "en": "Paper forms are no longer accepted at any regional office.",
+      "zh": "任何區域辦公室皆不再接受紙本表單。"
+    },
+    {
+      "en": "Each expense line item must reference a valid project or cost center.",
+      "zh": "每筆費用項目須對應有效專案或成本中心。"
+    },
+    {
+      "en": "Receipts should be uploaded as clear PDF or JPEG files.",
+      "zh": "收據應以清晰之 PDF 或 JPEG 檔案上傳。"
+    },
+    {
+      "en": "Images must show the merchant name, date, items, and total amount.",
+      "zh": "影像須呈現店家名稱、日期、品項及總金額。"
+    },
+    {
+      "en": "Credit card statements alone do not count as valid proof of purchase.",
+      "zh": "僅信用卡帳單無法視為有效消費憑證。"
+    },
+    {
+      "en": "Airfare must be booked through our corporate travel agent CarlsonGo.",
+      "zh": "機票須透過我們的企業差旅代理 CarlsonGo 訂購。"
+    },
+    {
+      "en": "Bookings made outside the platform require pre-trip exception approval.",
+      "zh": "於平台外訂購之機票須事先取得例外核可。"
+    },
+    {
+      "en": "Economy class is mandatory for flights under six hours in duration.",
+      "zh": "六小時以內航班規定須搭乘經濟艙。"
+    },
+    {
+      "en": "Business class is allowed for flights longer than six hours.",
+      "zh": "六小時以上航班可搭乘商務艙。"
+    },
+    {
+      "en": "Hotel rates should not exceed the city cap listed in the policy.",
+      "zh": "飯店房價不得超過政策中所列城市上限。"
+    },
+    {
+      "en": "Meals are reimbursed at the daily per diem rate of the destination.",
+      "zh": "餐費依目的地每日定額補助標準報銷。"
+    },
+    {
+      "en": "Alcohol purchased during meals is not reimbursable under any circumstance.",
+      "zh": "用餐時購買之酒類在任何情況下皆不予報銷。"
+    },
+    {
+      "en": "Tips up to twenty percent of the meal cost are acceptable.",
+      "zh": "餐費 20% 以內之小費可被接受。"
+    },
+    {
+      "en": "Ground transportation includes taxis, ride share, and public transit.",
+      "zh": "地面交通包含計程車、共乘服務與大眾運輸。"
+    },
+    {
+      "en": "Rental cars require justification when public options are available.",
+      "zh": "如有大眾運輸選項時，租車須附說明理由。"
+    },
+    {
+      "en": "Foreign currency expenses are converted using the rate on the receipt date.",
+      "zh": "外幣費用依收據日期之匯率換算。"
+    },
+    {
+      "en": "Personal expenses mixed into a business receipt must be excluded.",
+      "zh": "若商業收據中混入個人消費，須予以扣除。"
+    },
+    {
+      "en": "Approved claims are reimbursed within ten business days via direct deposit.",
+      "zh": "核准之申請於 10 個工作天內以匯款方式撥付。"
+    },
+    {
+      "en": "Contact the finance shared service desk for any urgent questions.",
+      "zh": "如有緊急問題，請聯絡財務共享服務台。"
+    },
+    {
+      "en": "Thank you for following these guidelines and helping us close books promptly.",
+      "zh": "感謝您遵循本指引並協助我們及時結帳。"
+    },
+    {
+      "en": "Audit samples are pulled monthly to verify compliance with these rules.",
+      "zh": "每月將抽樣稽核以確認符合上述規範。"
+    },
+    {
+      "en": "Repeat policy violations may result in claims being denied without notice.",
+      "zh": "屢次違反政策可能導致申請逕予否決而不另行通知。"
+    },
+    {
+      "en": "Frequent travelers can request a corporate credit card after manager approval.",
+      "zh": "經常出差者可於主管核准後申請公司信用卡。"
+    },
+    {
+      "en": "Card statements feed automatically into the reimbursement portal for review.",
+      "zh": "信用卡帳單會自動匯入報銷入口供審核。"
+    },
+    {
+      "en": "Travelers must still upload itemized receipts even when using corporate cards.",
+      "zh": "縱使使用公司卡，差旅人員仍須上傳逐項收據。"
+    },
+    {
+      "en": "Lost receipts under twenty-five dollars may be declared via affidavit form.",
+      "zh": "遺失之 25 美元以下收據可透過聲明書表單申報。"
+    },
+    {
+      "en": "Save your boarding passes when claiming international airfare reimbursement.",
+      "zh": "申請國際機票報銷時，請保留登機證以備查。"
+    },
+    {
+      "en": "Travel insurance arranged through CarlsonGo is included in the base fare.",
+      "zh": "透過 CarlsonGo 安排之差旅保險已含於基本票價。"
+    },
+    {
+      "en": "Please share feedback on the portal experience with our process improvement team.",
+      "zh": "請將入口網站使用體驗的建議回饋至流程改善團隊。"
+    },
+    {
+      "en": "Have a safe and productive trip on behalf of the entire finance team.",
+      "zh": "謹代表整個財務團隊，祝您旅途平安、收穫豐碩。"
+    },
+    {
+      "en": "Itinerary changes should be reported within twenty-four hours via the portal.",
+      "zh": "行程變動須於 24 小時內透過入口網站回報。"
+    },
+    {
+      "en": "Emergency travel funds can be wired through our duty manager hotline.",
+      "zh": "緊急差旅款項可透過值班主管熱線匯款處理。"
+    },
+    {
+      "en": "Travelers must complete a security briefing before visiting high-risk locations.",
+      "zh": "前往高風險地點前，差旅人員須完成安全簡報。"
+    },
+    {
+      "en": "Vaccinations recommended for certain destinations are reimbursable with prior approval.",
+      "zh": "前往特定目的地建議施打之疫苗，經事先核准後可報銷。"
+    },
+    {
+      "en": "Visa application fees should be submitted under category nine on the form.",
+      "zh": "簽證申請費應於表單第九類項目下提交。"
+    },
+    {
+      "en": "Group travel of three or more requires advance approval from operations.",
+      "zh": "三人以上之團體差旅須先取得營運單位核准。"
+    },
+    {
+      "en": "Spousal travel is not reimbursable except for approved relocation assignments.",
+      "zh": "除核准之外派任務外，配偶差旅不予報銷。"
+    },
+    {
+      "en": "Loyalty program points belong to the traveler unless policy specifies otherwise.",
+      "zh": "除政策另有規定外，會員獎勵點數歸差旅人員所有。"
+    },
+    {
+      "en": "Always notify your manager when departing for international business travel.",
+      "zh": "出發前往國際商務出差前，請務必通知您的主管。"
+    },
+    {
+      "en": "Travel safely and represent our company values with professionalism abroad.",
+      "zh": "請平安出行，並於海外以專業展現本公司價值。"
+    }
   ]
 }

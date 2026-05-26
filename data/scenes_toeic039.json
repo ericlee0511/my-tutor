@@ -1,50 +1,185 @@
 {
   "title": "Emerging Leaders Seminar Program Overview",
   "all": [
-    { "en": "Welcome to the Emerging Leaders Seminar hosted by Crestwood Business Institute.", "zh": "歡迎參加由 Crestwood 商業學院主辦的新興領導者研習營。" },
-    { "en": "This five-day program is designed for mid-level managers across all industries.", "zh": "本五天課程專為各產業的中階主管設計。" },
-    { "en": "The seminar will run from Monday, May 11, through Friday, May 15.", "zh": "研習營將自 5 月 11 日星期一至 5 月 15 日星期五舉行。" },
-    { "en": "All sessions will be conducted at the Crestwood Executive Conference Center.", "zh": "所有課程將於 Crestwood 高階經理人會議中心舉行。" },
-    { "en": "Our curriculum combines classroom instruction with experiential learning activities.", "zh": "課程結合課堂教學與體驗式學習活動。" },
-    { "en": "Participants will be placed into cohorts of twelve for group discussions.", "zh": "學員將分配至十二人一組進行小組討論。" },
-    { "en": "Each cohort is guided by an executive coach with corporate leadership experience.", "zh": "每組均由具備企業領導經驗的高階教練輔導。" },
-    { "en": "Monday focuses on personal leadership style and emotional intelligence.", "zh": "週一聚焦於個人領導風格與情緒智商。" },
-    { "en": "Tuesday explores effective communication and conflict resolution techniques.", "zh": "週二探討有效溝通與衝突化解技巧。" },
-    { "en": "Wednesday covers strategic thinking, planning, and decision-making frameworks.", "zh": "週三涵蓋策略思考、規劃及決策框架。" },
-    { "en": "Thursday includes a half-day simulation on managing organizational change.", "zh": "週四包括半天的組織變革管理模擬演練。" },
-    { "en": "Friday concludes with a capstone presentation to a panel of senior executives.", "zh": "週五以對資深主管小組進行總結報告作為結業。" },
-    { "en": "Breakfast and lunch are provided daily in the dining hall.", "zh": "每日於餐廳供應早餐與午餐。" },
-    { "en": "An optional networking dinner is scheduled for Wednesday evening.", "zh": "週三晚間另有自由參加的交流晚宴。" },
-    { "en": "Participants will receive a printed workbook and access to digital resources.", "zh": "學員將獲得實體講義並可使用數位學習資源。" },
-    { "en": "Pre-reading materials must be completed before the first day of the program.", "zh": "課前閱讀資料須於開課首日前完成。" },
-    { "en": "A 360-degree feedback report will be reviewed during one-on-one coaching.", "zh": "一對一輔導時將檢視 360 度回饋報告。" },
-    { "en": "Dress code is business casual for all classroom sessions.", "zh": "所有課堂活動服裝規範為商務休閒。" },
-    { "en": "Tuition includes program fees, materials, and on-site catering.", "zh": "學費涵蓋課程、教材與現場餐飲。" },
-    { "en": "Accommodation can be arranged at our partner hotel for a discounted rate.", "zh": "可協助安排合作飯店並享優惠房價。" },
-    { "en": "Upon successful completion, participants will receive a certificate of achievement.", "zh": "圓滿結業者將獲頒結業證書。" },
-    { "en": "Alumni are invited to join our online network of more than three thousand graduates.", "zh": "結業學員將獲邀加入逾三千名校友的線上人脈網絡。" },
-    { "en": "Spaces are limited to forty-eight participants per cohort intake.", "zh": "每梯次名額限額四十八人。" },
-    { "en": "Please register at least three weeks before the program start date.", "zh": "請於開課前至少三週完成報名。" },
-    { "en": "We look forward to supporting your growth as an emerging business leader.", "zh": "我們期待陪伴您在新興商業領導之路上持續成長。" },
-    { "en": "Corporate sponsors may nominate up to three high-potential employees per cohort.", "zh": "企業贊助單位每梯次最多可推薦三名高潛力員工參加。" },
-    { "en": "Group discounts of fifteen percent apply when four or more colleagues enroll together.", "zh": "四人以上同公司同梯次報名可享 85 折團體優惠。" },
-    { "en": "Each participant is paired with a senior mentor for the six months following graduation.", "zh": "每位學員結業後將獲安排資深導師輔導六個月。" },
-    { "en": "Mentorship sessions are conducted monthly via video conference or in person.", "zh": "輔導會議每月以視訊或實體方式進行一次。" },
-    { "en": "A digital portfolio of leadership artifacts will be developed throughout the week.", "zh": "整週課程中將協助學員建立領導力數位作品集。" },
-    { "en": "Guest speakers from leading multinational corporations will join on Thursday afternoon.", "zh": "週四下午將邀請知名跨國企業的客座講者蒞臨分享。" },
-    { "en": "Our admissions team conducts a brief interview to confirm program suitability.", "zh": "招生團隊將進行簡短面談以確認課程適切性。" },
-    { "en": "Financial assistance is available for nonprofit and public-sector applicants.", "zh": "非營利及公部門申請者可申請學費補助。" },
-    { "en": "Past participants report significant improvements in team performance within six months.", "zh": "過往學員回報，團隊績效於六個月內出現顯著提升。" },
-    { "en": "For detailed program information, please contact our admissions office directly.", "zh": "如需詳細課程資訊，請直接聯絡招生辦公室。" },
-    { "en": "Each cohort completes a community impact project before the closing graduation event.", "zh": "每梯次於結業典禮前須完成一項社區影響專案。" },
-    { "en": "Past projects have improved local employment programs and youth mentoring initiatives.", "zh": "過往專案曾改善地方就業計畫與青年輔導行動。" },
-    { "en": "Outstanding capstone presentations are published in our annual leadership journal.", "zh": "優秀的結業總結報告將刊登於本院年度領導者期刊。" },
-    { "en": "All program facilities are wheelchair accessible and equipped with hearing assistance.", "zh": "所有課程場地皆具備無障礙通道並提供聽力輔助設備。" },
-    { "en": "Participants are encouraged to share personal goals during the orientation evening.", "zh": "歡迎學員於迎新晚會分享個人目標。" },
-    { "en": "A welcome reception will be hosted by the institute president on Sunday evening.", "zh": "週日晚間將由學院院長主持迎新酒會。" },
-    { "en": "Translation services are available for international participants upon prior request.", "zh": "國際學員如有需要可預先申請翻譯服務。" },
-    { "en": "Detailed travel and parking information will be sent two weeks before the program begins.", "zh": "詳細交通與停車資訊將於開課前兩週寄送。" },
-    { "en": "Past graduates report stronger executive presence and improved decision-making confidence.", "zh": "結業學員回報展現更強的高階領導風範並提升決策信心。" },
-    { "en": "We look forward to welcoming the next cohort of inspiring future business leaders.", "zh": "我們期待迎接下一梯次令人振奮的未來商業領導者。" }
+    {
+      "en": "Welcome to the Emerging Leaders Seminar hosted by Crestwood Business Institute.",
+      "zh": "歡迎參加由 Crestwood 商業學院主辦的新興領導者研習營。"
+    },
+    {
+      "en": "This five-day program is designed for mid-level managers across all industries.",
+      "zh": "本五天課程專為各產業的中階主管設計。"
+    },
+    {
+      "en": "The seminar will run from Monday, May 11, through Friday, May 15.",
+      "zh": "研習營將自 5 月 11 日星期一至 5 月 15 日星期五舉行。"
+    },
+    {
+      "en": "All sessions will be conducted at the Crestwood Executive Conference Center.",
+      "zh": "所有課程將於 Crestwood 高階經理人會議中心舉行。"
+    },
+    {
+      "en": "Our curriculum combines classroom instruction with experiential learning activities.",
+      "zh": "課程結合課堂教學與體驗式學習活動。"
+    },
+    {
+      "en": "Participants will be placed into cohorts of twelve for group discussions.",
+      "zh": "學員將分配至十二人一組進行小組討論。"
+    },
+    {
+      "en": "Each cohort is guided by an executive coach with corporate leadership experience.",
+      "zh": "每組均由具備企業領導經驗的高階教練輔導。"
+    },
+    {
+      "en": "Monday focuses on personal leadership style and emotional intelligence.",
+      "zh": "週一聚焦於個人領導風格與情緒智商。"
+    },
+    {
+      "en": "Tuesday explores effective communication and conflict resolution techniques.",
+      "zh": "週二探討有效溝通與衝突化解技巧。"
+    },
+    {
+      "en": "Wednesday covers strategic thinking, planning, and decision-making frameworks.",
+      "zh": "週三涵蓋策略思考、規劃及決策框架。"
+    },
+    {
+      "en": "Thursday includes a half-day simulation on managing organizational change.",
+      "zh": "週四包括半天的組織變革管理模擬演練。"
+    },
+    {
+      "en": "Friday concludes with a capstone presentation to a panel of senior executives.",
+      "zh": "週五以對資深主管小組進行總結報告作為結業。"
+    },
+    {
+      "en": "Breakfast and lunch are provided daily in the dining hall.",
+      "zh": "每日於餐廳供應早餐與午餐。"
+    },
+    {
+      "en": "An optional networking dinner is scheduled for Wednesday evening.",
+      "zh": "週三晚間另有自由參加的交流晚宴。"
+    },
+    {
+      "en": "Participants will receive a printed workbook and access to digital resources.",
+      "zh": "學員將獲得實體講義並可使用數位學習資源。"
+    },
+    {
+      "en": "Pre-reading materials must be completed before the first day of the program.",
+      "zh": "課前閱讀資料須於開課首日前完成。"
+    },
+    {
+      "en": "A 360-degree feedback report will be reviewed during one-on-one coaching.",
+      "zh": "一對一輔導時將檢視 360 度回饋報告。"
+    },
+    {
+      "en": "Dress code is business casual for all classroom sessions.",
+      "zh": "所有課堂活動服裝規範為商務休閒。"
+    },
+    {
+      "en": "Tuition includes program fees, materials, and on-site catering.",
+      "zh": "學費涵蓋課程、教材與現場餐飲。"
+    },
+    {
+      "en": "Accommodation can be arranged at our partner hotel for a discounted rate.",
+      "zh": "可協助安排合作飯店並享優惠房價。"
+    },
+    {
+      "en": "Upon successful completion, participants will receive a certificate of achievement.",
+      "zh": "圓滿結業者將獲頒結業證書。"
+    },
+    {
+      "en": "Alumni are invited to join our online network of more than three thousand graduates.",
+      "zh": "結業學員將獲邀加入逾三千名校友的線上人脈網絡。"
+    },
+    {
+      "en": "Spaces are limited to forty-eight participants per cohort intake.",
+      "zh": "每梯次名額限額四十八人。"
+    },
+    {
+      "en": "Please register at least three weeks before the program start date.",
+      "zh": "請於開課前至少三週完成報名。"
+    },
+    {
+      "en": "We look forward to supporting your growth as an emerging business leader.",
+      "zh": "我們期待陪伴您在新興商業領導之路上持續成長。"
+    },
+    {
+      "en": "Corporate sponsors may nominate up to three high-potential employees per cohort.",
+      "zh": "企業贊助單位每梯次最多可推薦三名高潛力員工參加。"
+    },
+    {
+      "en": "Group discounts of fifteen percent apply when four or more colleagues enroll together.",
+      "zh": "四人以上同公司同梯次報名可享 85 折團體優惠。"
+    },
+    {
+      "en": "Each participant is paired with a senior mentor for the six months following graduation.",
+      "zh": "每位學員結業後將獲安排資深導師輔導六個月。"
+    },
+    {
+      "en": "Mentorship sessions are conducted monthly via video conference or in person.",
+      "zh": "輔導會議每月以視訊或實體方式進行一次。"
+    },
+    {
+      "en": "A digital portfolio of leadership artifacts will be developed throughout the week.",
+      "zh": "整週課程中將協助學員建立領導力數位作品集。"
+    },
+    {
+      "en": "Guest speakers from leading multinational corporations will join on Thursday afternoon.",
+      "zh": "週四下午將邀請知名跨國企業的客座講者蒞臨分享。"
+    },
+    {
+      "en": "Our admissions team conducts a brief interview to confirm program suitability.",
+      "zh": "招生團隊將進行簡短面談以確認課程適切性。"
+    },
+    {
+      "en": "Financial assistance is available for nonprofit and public-sector applicants.",
+      "zh": "非營利及公部門申請者可申請學費補助。"
+    },
+    {
+      "en": "Past participants report significant improvements in team performance within six months.",
+      "zh": "過往學員回報，團隊績效於六個月內出現顯著提升。"
+    },
+    {
+      "en": "For detailed program information, please contact our admissions office directly.",
+      "zh": "如需詳細課程資訊，請直接聯絡招生辦公室。"
+    },
+    {
+      "en": "Each cohort completes a community impact project before the closing graduation event.",
+      "zh": "每梯次於結業典禮前須完成一項社區影響專案。"
+    },
+    {
+      "en": "Past projects have improved local employment programs and youth mentoring initiatives.",
+      "zh": "過往專案曾改善地方就業計畫與青年輔導行動。"
+    },
+    {
+      "en": "Outstanding capstone presentations are published in our annual leadership journal.",
+      "zh": "優秀的結業總結報告將刊登於本院年度領導者期刊。"
+    },
+    {
+      "en": "All program facilities are wheelchair accessible and equipped with hearing assistance.",
+      "zh": "所有課程場地皆具備無障礙通道並提供聽力輔助設備。"
+    },
+    {
+      "en": "Participants are encouraged to share personal goals during the orientation evening.",
+      "zh": "歡迎學員於迎新晚會分享個人目標。"
+    },
+    {
+      "en": "A welcome reception will be hosted by the institute president on Sunday evening.",
+      "zh": "週日晚間將由學院院長主持迎新酒會。"
+    },
+    {
+      "en": "Translation services are available for international participants upon prior request.",
+      "zh": "國際學員如有需要可預先申請翻譯服務。"
+    },
+    {
+      "en": "Detailed travel and parking information will be sent two weeks before the program begins.",
+      "zh": "詳細交通與停車資訊將於開課前兩週寄送。"
+    },
+    {
+      "en": "Past graduates report stronger executive presence and improved decision-making confidence.",
+      "zh": "結業學員回報展現更強的高階領導風範並提升決策信心。"
+    },
+    {
+      "en": "We look forward to welcoming the next cohort of inspiring future business leaders.",
+      "zh": "我們期待迎接下一梯次令人振奮的未來商業領導者。"
+    }
   ]
 }

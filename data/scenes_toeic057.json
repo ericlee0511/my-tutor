@@ -1,49 +1,181 @@
 {
   "title": "Contract Negotiation Meeting Summary",
   "all": [
-    { "en": "Both parties met on Tuesday to negotiate the master service agreement.", "zh": "雙方於週二會面協商主服務合約。" },
-    { "en": "The meeting was attended by legal counsel and procurement leaders.", "zh": "會議由法務顧問與採購主管出席。" },
-    { "en": "Our team was represented by the regional director and account manager.", "zh": "我方由區域總監與客戶經理代表出席。" },
-    { "en": "Discussions focused on pricing, payment terms, and liability clauses.", "zh": "討論聚焦於定價、付款條件與責任條款。" },
-    { "en": "The client requested a five percent discount on the annual subscription.", "zh": "客戶要求年度訂閱費五個百分點的折扣。" },
-    { "en": "We offered three percent in exchange for a three year commitment.", "zh": "我方提出三個百分點，以換取三年承諾。" },
-    { "en": "Net forty five payment terms were proposed instead of net thirty.", "zh": "客戶提出四十五天淨付款條件以取代三十天淨付款。" },
-    { "en": "Our finance team approved net forty as a reasonable compromise.", "zh": "我方財務團隊核准四十天淨付款作為合理折衷。" },
-    { "en": "The limitation of liability cap was a major point of debate.", "zh": "責任上限條款是主要的爭論焦點。" },
-    { "en": "The client wanted unlimited liability for data breach incidents.", "zh": "客戶希望資料外洩事件採無限責任。" },
-    { "en": "We countered with a cap equal to twelve months of fees.", "zh": "我方反提以十二個月費用為上限。" },
-    { "en": "Indemnification language will be redrafted by both legal teams.", "zh": "賠償條款語言將由雙方法務團隊重新草擬。" },
-    { "en": "Service level commitments were agreed at ninety nine point five percent uptime.", "zh": "服務水準承諾協議為百分之九十九點五的可用率。" },
-    { "en": "Service credits will apply when monthly uptime falls below target.", "zh": "當月度可用率低於目標時將適用服務點數補償。" },
-    { "en": "Data residency requirements call for storage within the European Union.", "zh": "資料駐留要求需將資料儲存於歐盟境內。" },
-    { "en": "We confirmed our regional data center supports this requirement.", "zh": "我方確認區域資料中心可支援此項要求。" },
-    { "en": "Termination for convenience requires ninety days written notice.", "zh": "便利終止需提前九十天書面通知。" },
-    { "en": "Auto renewal will trigger unless either party objects in writing.", "zh": "除非任一方以書面拒絕，否則合約將自動續約。" },
-    { "en": "Confidentiality obligations survive for five years after termination.", "zh": "保密義務於合約終止後仍延續五年。" },
-    { "en": "Open issues will be documented in a tracker shared between teams.", "zh": "未決事項將記錄於雙方共享的追蹤表中。" },
-    { "en": "The next negotiation session is scheduled for next Thursday afternoon.", "zh": "下次協商會議排定於下週四下午。" },
-    { "en": "We aim to complete signature by the end of the month.", "zh": "我們目標於月底前完成簽署。" },
-    { "en": "Overall, the meeting was constructive and forward looking.", "zh": "整體而言，會議具建設性且具前瞻性。" },
-    { "en": "Both sides expressed strong interest in finalizing the partnership.", "zh": "雙方皆表達儘速完成合作的強烈意願。" },
-    { "en": "Following the meeting, action items were distributed to all attendees within two hours.", "zh": "會議結束後，行動事項於兩小時內分發予所有與會者。" },
-    { "en": "Our procurement lead will circulate a clean redline draft by Friday afternoon.", "zh": "我方採購主管將於週五下午提供乾淨的紅線修訂版草稿。" },
-    { "en": "The client legal team committed to reviewing the indemnification revisions over the weekend.", "zh": "客戶法務團隊承諾於週末審閱賠償條款的修訂。" },
-    { "en": "An information security questionnaire will be exchanged before the next session.", "zh": "下次會議前雙方將交換資安問卷。" },
-    { "en": "We agreed to align on a transition plan covering implementation, onboarding, and training.", "zh": "雙方同意就涵蓋導入、上線及訓練的轉換計畫達成共識。" },
-    { "en": "The client expressed interest in a pilot deployment to two of its operating subsidiaries.", "zh": "客戶表達有意先於兩家營運子公司進行先導部署。" },
-    { "en": "Pilot success metrics will include adoption rate, ticket volume, and user satisfaction.", "zh": "先導案的成功指標將包括採用率、工單量及使用者滿意度。" },
-    { "en": "Executive sponsors from both companies will meet to formally endorse the agreement.", "zh": "雙方公司之執行贊助者將會晤以正式背書本協議。" },
-    { "en": "A joint press release may be considered upon mutually agreed timing after signing.", "zh": "簽約後可在雙方議定時點考量發布聯合新聞稿。" },
-    { "en": "We look forward to a long-lasting and mutually beneficial business relationship.", "zh": "我們期待長久且互惠的商務關係。" },
-    { "en": "Outstanding commercial points include intellectual property ownership of jointly developed work.", "zh": "尚待處理的商業議題包含共同開發成果的智慧財產所有權歸屬。" },
-    { "en": "Audit rights for the customer will be granted on an annual basis with prior notice.", "zh": "客戶之稽核權利將以事先通知後每年一次的方式授予。" },
-    { "en": "Both sides agreed to align change control procedures with their respective governance frameworks.", "zh": "雙方同意使變更控制程序與各自治理架構保持一致。" },
-    { "en": "A data processing addendum will be finalized in parallel with the master agreement.", "zh": "資料處理附約將與主合約同步定稿。" },
-    { "en": "Subcontracting will require prior written consent on a case-by-case basis.", "zh": "分包行為須個案取得事先書面同意。" },
-    { "en": "Insurance coverage requirements were reviewed and confirmed as compliant with policy minimums.", "zh": "保險保障要求已審查並確認符合保單最低標準。" },
-    { "en": "Force majeure language will be expanded to address public health emergencies explicitly.", "zh": "不可抗力條款文字將擴大以明確處理公共衛生緊急事件。" },
-    { "en": "A joint steering committee will meet quarterly to oversee partnership health.", "zh": "聯合指導委員會將每季開會以監督合作夥伴關係的健康度。" },
-    { "en": "Both teams agreed to conduct a 12-month relationship review after the go-live date.", "zh": "雙方團隊同意於上線後十二個月進行一次關係檢討。" },
-    { "en": "We appreciate the client team for their thorough preparation and pragmatic approach throughout.", "zh": "感謝客戶團隊全程縝密的準備與務實的態度。" }
+    {
+      "en": "Both parties met on Tuesday to negotiate the master service agreement.",
+      "zh": "雙方於週二會面協商主服務合約。"
+    },
+    {
+      "en": "The meeting was attended by legal counsel and procurement leaders.",
+      "zh": "會議由法務顧問與採購主管出席。"
+    },
+    {
+      "en": "Our team was represented by the regional director and account manager.",
+      "zh": "我方由區域總監與客戶經理代表出席。"
+    },
+    {
+      "en": "Discussions focused on pricing, payment terms, and liability clauses.",
+      "zh": "討論聚焦於定價、付款條件與責任條款。"
+    },
+    {
+      "en": "The client requested a five percent discount on the annual subscription.",
+      "zh": "客戶要求年度訂閱費五個百分點的折扣。"
+    },
+    {
+      "en": "We offered three percent in exchange for a three year commitment.",
+      "zh": "我方提出三個百分點，以換取三年承諾。"
+    },
+    {
+      "en": "Net forty five payment terms were proposed instead of net thirty.",
+      "zh": "客戶提出四十五天淨付款條件以取代三十天淨付款。"
+    },
+    {
+      "en": "Our finance team approved net forty as a reasonable compromise.",
+      "zh": "我方財務團隊核准四十天淨付款作為合理折衷。"
+    },
+    {
+      "en": "The limitation of liability cap was a major point of debate.",
+      "zh": "責任上限條款是主要的爭論焦點。"
+    },
+    {
+      "en": "The client wanted unlimited liability for data breach incidents.",
+      "zh": "客戶希望資料外洩事件採無限責任。"
+    },
+    {
+      "en": "We countered with a cap equal to twelve months of fees.",
+      "zh": "我方反提以十二個月費用為上限。"
+    },
+    {
+      "en": "Indemnification language will be redrafted by both legal teams.",
+      "zh": "賠償條款語言將由雙方法務團隊重新草擬。"
+    },
+    {
+      "en": "Service level commitments were agreed at ninety nine point five percent uptime.",
+      "zh": "服務水準承諾協議為百分之九十九點五的可用率。"
+    },
+    {
+      "en": "Service credits will apply when monthly uptime falls below target.",
+      "zh": "當月度可用率低於目標時將適用服務點數補償。"
+    },
+    {
+      "en": "Data residency requirements call for storage within the European Union.",
+      "zh": "資料駐留要求需將資料儲存於歐盟境內。"
+    },
+    {
+      "en": "We confirmed our regional data center supports this requirement.",
+      "zh": "我方確認區域資料中心可支援此項要求。"
+    },
+    {
+      "en": "Termination for convenience requires ninety days written notice.",
+      "zh": "便利終止需提前九十天書面通知。"
+    },
+    {
+      "en": "Auto renewal will trigger unless either party objects in writing.",
+      "zh": "除非任一方以書面拒絕，否則合約將自動續約。"
+    },
+    {
+      "en": "Confidentiality obligations survive for five years after termination.",
+      "zh": "保密義務於合約終止後仍延續五年。"
+    },
+    {
+      "en": "Open issues will be documented in a tracker shared between teams.",
+      "zh": "未決事項將記錄於雙方共享的追蹤表中。"
+    },
+    {
+      "en": "The next negotiation session is scheduled for next Thursday afternoon.",
+      "zh": "下次協商會議排定於下週四下午。"
+    },
+    {
+      "en": "We aim to complete signature by the end of the month.",
+      "zh": "我們目標於月底前完成簽署。"
+    },
+    {
+      "en": "Overall, the meeting was constructive and forward looking.",
+      "zh": "整體而言，會議具建設性且具前瞻性。"
+    },
+    {
+      "en": "Both sides expressed strong interest in finalizing the partnership.",
+      "zh": "雙方皆表達儘速完成合作的強烈意願。"
+    },
+    {
+      "en": "Following the meeting, action items were distributed to all attendees within two hours.",
+      "zh": "會議結束後，行動事項於兩小時內分發予所有與會者。"
+    },
+    {
+      "en": "Our procurement lead will circulate a clean redline draft by Friday afternoon.",
+      "zh": "我方採購主管將於週五下午提供乾淨的紅線修訂版草稿。"
+    },
+    {
+      "en": "The client legal team committed to reviewing the indemnification revisions over the weekend.",
+      "zh": "客戶法務團隊承諾於週末審閱賠償條款的修訂。"
+    },
+    {
+      "en": "An information security questionnaire will be exchanged before the next session.",
+      "zh": "下次會議前雙方將交換資安問卷。"
+    },
+    {
+      "en": "We agreed to align on a transition plan covering implementation, onboarding, and training.",
+      "zh": "雙方同意就涵蓋導入、上線及訓練的轉換計畫達成共識。"
+    },
+    {
+      "en": "The client expressed interest in a pilot deployment to two of its operating subsidiaries.",
+      "zh": "客戶表達有意先於兩家營運子公司進行先導部署。"
+    },
+    {
+      "en": "Pilot success metrics will include adoption rate, ticket volume, and user satisfaction.",
+      "zh": "先導案的成功指標將包括採用率、工單量及使用者滿意度。"
+    },
+    {
+      "en": "Executive sponsors from both companies will meet to formally endorse the agreement.",
+      "zh": "雙方公司之執行贊助者將會晤以正式背書本協議。"
+    },
+    {
+      "en": "A joint press release may be considered upon mutually agreed timing after signing.",
+      "zh": "簽約後可在雙方議定時點考量發布聯合新聞稿。"
+    },
+    {
+      "en": "We look forward to a long-lasting and mutually beneficial business relationship.",
+      "zh": "我們期待長久且互惠的商務關係。"
+    },
+    {
+      "en": "Outstanding commercial points include intellectual property ownership of jointly developed work.",
+      "zh": "尚待處理的商業議題包含共同開發成果的智慧財產所有權歸屬。"
+    },
+    {
+      "en": "Audit rights for the customer will be granted on an annual basis with prior notice.",
+      "zh": "客戶之稽核權利將以事先通知後每年一次的方式授予。"
+    },
+    {
+      "en": "Both sides agreed to align change control procedures with their respective governance frameworks.",
+      "zh": "雙方同意使變更控制程序與各自治理架構保持一致。"
+    },
+    {
+      "en": "A data processing addendum will be finalized in parallel with the master agreement.",
+      "zh": "資料處理附約將與主合約同步定稿。"
+    },
+    {
+      "en": "Subcontracting will require prior written consent on a case-by-case basis.",
+      "zh": "分包行為須個案取得事先書面同意。"
+    },
+    {
+      "en": "Insurance coverage requirements were reviewed and confirmed as compliant with policy minimums.",
+      "zh": "保險保障要求已審查並確認符合保單最低標準。"
+    },
+    {
+      "en": "Force majeure language will be expanded to address public health emergencies explicitly.",
+      "zh": "不可抗力條款文字將擴大以明確處理公共衛生緊急事件。"
+    },
+    {
+      "en": "A joint steering committee will meet quarterly to oversee partnership health.",
+      "zh": "聯合指導委員會將每季開會以監督合作夥伴關係的健康度。"
+    },
+    {
+      "en": "Both teams agreed to conduct a 12-month relationship review after the go-live date.",
+      "zh": "雙方團隊同意於上線後十二個月進行一次關係檢討。"
+    },
+    {
+      "en": "We appreciate the client team for their thorough preparation and pragmatic approach throughout.",
+      "zh": "感謝客戶團隊全程縝密的準備與務實的態度。"
+    }
   ]
 }

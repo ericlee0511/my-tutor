@@ -1,48 +1,177 @@
 {
   "title": "Salary Adjustment Letter",
   "all": [
-    { "en": "Dear Ms. Chen, we are pleased to share important news about your compensation.", "zh": "親愛的陳女士，我們很高興與您分享有關您薪酬的重要訊息。" },
-    { "en": "Following our annual review cycle, your base salary will be adjusted upward.", "zh": "經年度檢視後，您的底薪將獲得向上調整。" },
-    { "en": "This adjustment reflects your strong contributions over the past year.", "zh": "此次調整反映您過去一年的卓越貢獻。" },
-    { "en": "Your new annual base salary will be one million two hundred thousand NTD.", "zh": "您新的年度底薪為新台幣一百二十萬元。" },
-    { "en": "This represents an increase of approximately seven percent over your prior rate.", "zh": "此金額較您先前薪資增加約百分之七。" },
-    { "en": "The adjusted rate will take effect on the first day of next month.", "zh": "調整後的薪資將自下個月一日起生效。" },
-    { "en": "It will be reflected in the payroll deposit at the end of that month.", "zh": "並將於該月月底的薪資撥款中反映。" },
-    { "en": "In addition, your performance bonus for the year totals eighty thousand NTD.", "zh": "此外，您的年度績效獎金合計新台幣八萬元。" },
-    { "en": "The bonus payment will be issued together with next month standard payroll.", "zh": "獎金將與下個月的常規薪資一同發放。" },
-    { "en": "Your equity grant will also be refreshed under the standard four-year schedule.", "zh": "您的股權授予也將依標準四年期程獲得續發。" },
-    { "en": "Specific equity details will be sent through the stock plan administrator portal.", "zh": "詳細股權資訊將透過股票計畫管理入口寄出。" },
-    { "en": "Your benefits package remains unchanged at the current premium tier.", "zh": "您的福利方案維持現行最高等級不變。" },
-    { "en": "This decision was made based on multiple performance and market factors.", "zh": "本決定係依據多項績效及市場因素做出。" },
-    { "en": "We considered your individual results, peer benchmarks, and external salary surveys.", "zh": "我們參考了您的個人成果、同儕基準及外部薪資調查。" },
-    { "en": "Your willingness to mentor junior colleagues stood out in this review cycle.", "zh": "您願意指導資淺同仁的表現於本次檢視中尤其突出。" },
-    { "en": "Your leadership during last quarter product launch was particularly impressive.", "zh": "您於上一季產品上市期間的領導表現尤其令人印象深刻。" },
-    { "en": "We hope this adjustment reflects how much we value your continued commitment.", "zh": "我們希望此調整能反映我們對您持續投入的高度重視。" },
-    { "en": "Please remember that compensation information is strictly confidential.", "zh": "請切記薪酬資訊屬於嚴格機密。" },
-    { "en": "Share these details only with your direct family or financial advisor.", "zh": "請僅與直系親屬或財務顧問分享相關細節。" },
-    { "en": "Should you have any questions, please contact the human resources business partner.", "zh": "若有任何疑問，請聯絡您的人資業務夥伴。" },
-    { "en": "Please acknowledge receipt by signing the electronic letter within seven days.", "zh": "請於七日內簽署電子信函以確認收到。" },
-    { "en": "Thank you for the dedication and integrity you bring to our organization.", "zh": "感謝您為本組織帶來的投入與誠信。" },
-    { "en": "We look forward to your continued growth in the coming year.", "zh": "我們期待您於來年持續成長。" },
-    { "en": "Your manager will discuss expanded responsibilities during the next one on one meeting.", "zh": "您的主管將於下次一對一會議中討論擴大的職責範圍。" },
-    { "en": "We have nominated you for our cross regional leadership development program.", "zh": "我們已提名您參與跨區域領導力發展計畫。" },
-    { "en": "The program runs for six months and includes mentorship from senior executives.", "zh": "該計畫為期六個月，並包含資深主管的指導。" },
-    { "en": "A new title aligned with your scope will appear in the internal directory shortly.", "zh": "與您職責範圍相符的新職稱不久後將於內部目錄中顯示。" },
-    { "en": "Updated job description and goals will be uploaded to the performance system.", "zh": "更新後的職務說明書與目標將上傳至績效系統。" },
-    { "en": "Please confirm your acceptance by signing the attached acknowledgment form.", "zh": "請簽署所附確認表單以確認您的接受。" },
-    { "en": "Tax implications of the increase should be reviewed with your personal advisor.", "zh": "調薪的稅務影響建議與您的個人顧問討論。" },
-    { "en": "Direct deposit details will remain the same unless you submit a change request.", "zh": "除非您提出變更申請，否則直接匯款資訊將維持不變。" },
-    { "en": "Year end statements will summarize total compensation across all categories.", "zh": "年終報表將彙整所有類別的總薪酬。" },
-    { "en": "Once again, congratulations on this well deserved recognition of your work.", "zh": "再次恭喜您獲得對工作表現實至名歸的肯定。" },
-    { "en": "Retirement contribution matching will increase in line with your new base salary.", "zh": "退休金提撥配比將隨您的新底薪同步調升。" },
-    { "en": "Your eligibility for long term incentive grants has been formally elevated.", "zh": "您獲取長期激勵授予的資格已正式提升。" },
-    { "en": "A revised confidentiality reminder is included as part of this acknowledgment package.", "zh": "本確認文件中包含更新版的保密提醒。" },
-    { "en": "Internal mobility options remain open should you wish to explore future roles.", "zh": "若您日後希望探索新角色，內部輪調選項仍持續開放。" },
-    { "en": "Annual recognition events will feature your contributions to the leadership cohort.", "zh": "年度表揚活動將彰顯您對領導梯隊的貢獻。" },
-    { "en": "Coaching sessions with external executive coaches are available upon request.", "zh": "可依需求申請外部高階教練的輔導課程。" },
-    { "en": "Travel budget allocations for client visits will be expanded in the coming quarter.", "zh": "下一季用於客戶拜訪的差旅預算將擴大。" },
-    { "en": "Updated emergency contact details should be verified through the employee portal.", "zh": "更新後的緊急聯絡資料請透過員工入口網站確認。" },
-    { "en": "Sabbatical eligibility now applies after every five years of continuous service.", "zh": "每連續服務滿五年後即可申請進修假。" },
-    { "en": "We celebrate your milestone with sincere appreciation and high expectations ahead.", "zh": "我們以誠摯感謝慶祝您的里程碑，並對未來抱有高度期待。" }
+    {
+      "en": "Dear Ms. Chen, we are pleased to share important news about your compensation.",
+      "zh": "親愛的陳女士，我們很高興與您分享有關您薪酬的重要訊息。"
+    },
+    {
+      "en": "Following our annual review cycle, your base salary will be adjusted upward.",
+      "zh": "經年度檢視後，您的底薪將獲得向上調整。"
+    },
+    {
+      "en": "This adjustment reflects your strong contributions over the past year.",
+      "zh": "此次調整反映您過去一年的卓越貢獻。"
+    },
+    {
+      "en": "Your new annual base salary will be one million two hundred thousand NTD.",
+      "zh": "您新的年度底薪為新台幣一百二十萬元。"
+    },
+    {
+      "en": "This represents an increase of approximately seven percent over your prior rate.",
+      "zh": "此金額較您先前薪資增加約百分之七。"
+    },
+    {
+      "en": "The adjusted rate will take effect on the first day of next month.",
+      "zh": "調整後的薪資將自下個月一日起生效。"
+    },
+    {
+      "en": "It will be reflected in the payroll deposit at the end of that month.",
+      "zh": "並將於該月月底的薪資撥款中反映。"
+    },
+    {
+      "en": "In addition, your performance bonus for the year totals eighty thousand NTD.",
+      "zh": "此外，您的年度績效獎金合計新台幣八萬元。"
+    },
+    {
+      "en": "The bonus payment will be issued together with next month standard payroll.",
+      "zh": "獎金將與下個月的常規薪資一同發放。"
+    },
+    {
+      "en": "Your equity grant will also be refreshed under the standard four-year schedule.",
+      "zh": "您的股權授予也將依標準四年期程獲得續發。"
+    },
+    {
+      "en": "Specific equity details will be sent through the stock plan administrator portal.",
+      "zh": "詳細股權資訊將透過股票計畫管理入口寄出。"
+    },
+    {
+      "en": "Your benefits package remains unchanged at the current premium tier.",
+      "zh": "您的福利方案維持現行最高等級不變。"
+    },
+    {
+      "en": "This decision was made based on multiple performance and market factors.",
+      "zh": "本決定係依據多項績效及市場因素做出。"
+    },
+    {
+      "en": "We considered your individual results, peer benchmarks, and external salary surveys.",
+      "zh": "我們參考了您的個人成果、同儕基準及外部薪資調查。"
+    },
+    {
+      "en": "Your willingness to mentor junior colleagues stood out in this review cycle.",
+      "zh": "您願意指導資淺同仁的表現於本次檢視中尤其突出。"
+    },
+    {
+      "en": "Your leadership during last quarter product launch was particularly impressive.",
+      "zh": "您於上一季產品上市期間的領導表現尤其令人印象深刻。"
+    },
+    {
+      "en": "We hope this adjustment reflects how much we value your continued commitment.",
+      "zh": "我們希望此調整能反映我們對您持續投入的高度重視。"
+    },
+    {
+      "en": "Please remember that compensation information is strictly confidential.",
+      "zh": "請切記薪酬資訊屬於嚴格機密。"
+    },
+    {
+      "en": "Share these details only with your direct family or financial advisor.",
+      "zh": "請僅與直系親屬或財務顧問分享相關細節。"
+    },
+    {
+      "en": "Should you have any questions, please contact the human resources business partner.",
+      "zh": "若有任何疑問，請聯絡您的人資業務夥伴。"
+    },
+    {
+      "en": "Please acknowledge receipt by signing the electronic letter within seven days.",
+      "zh": "請於七日內簽署電子信函以確認收到。"
+    },
+    {
+      "en": "Thank you for the dedication and integrity you bring to our organization.",
+      "zh": "感謝您為本組織帶來的投入與誠信。"
+    },
+    {
+      "en": "We look forward to your continued growth in the coming year.",
+      "zh": "我們期待您於來年持續成長。"
+    },
+    {
+      "en": "Your manager will discuss expanded responsibilities during the next one on one meeting.",
+      "zh": "您的主管將於下次一對一會議中討論擴大的職責範圍。"
+    },
+    {
+      "en": "We have nominated you for our cross regional leadership development program.",
+      "zh": "我們已提名您參與跨區域領導力發展計畫。"
+    },
+    {
+      "en": "The program runs for six months and includes mentorship from senior executives.",
+      "zh": "該計畫為期六個月，並包含資深主管的指導。"
+    },
+    {
+      "en": "A new title aligned with your scope will appear in the internal directory shortly.",
+      "zh": "與您職責範圍相符的新職稱不久後將於內部目錄中顯示。"
+    },
+    {
+      "en": "Updated job description and goals will be uploaded to the performance system.",
+      "zh": "更新後的職務說明書與目標將上傳至績效系統。"
+    },
+    {
+      "en": "Please confirm your acceptance by signing the attached acknowledgment form.",
+      "zh": "請簽署所附確認表單以確認您的接受。"
+    },
+    {
+      "en": "Tax implications of the increase should be reviewed with your personal advisor.",
+      "zh": "調薪的稅務影響建議與您的個人顧問討論。"
+    },
+    {
+      "en": "Direct deposit details will remain the same unless you submit a change request.",
+      "zh": "除非您提出變更申請，否則直接匯款資訊將維持不變。"
+    },
+    {
+      "en": "Year end statements will summarize total compensation across all categories.",
+      "zh": "年終報表將彙整所有類別的總薪酬。"
+    },
+    {
+      "en": "Once again, congratulations on this well deserved recognition of your work.",
+      "zh": "再次恭喜您獲得對工作表現實至名歸的肯定。"
+    },
+    {
+      "en": "Retirement contribution matching will increase in line with your new base salary.",
+      "zh": "退休金提撥配比將隨您的新底薪同步調升。"
+    },
+    {
+      "en": "Your eligibility for long term incentive grants has been formally elevated.",
+      "zh": "您獲取長期激勵授予的資格已正式提升。"
+    },
+    {
+      "en": "A revised confidentiality reminder is included as part of this acknowledgment package.",
+      "zh": "本確認文件中包含更新版的保密提醒。"
+    },
+    {
+      "en": "Internal mobility options remain open should you wish to explore future roles.",
+      "zh": "若您日後希望探索新角色，內部輪調選項仍持續開放。"
+    },
+    {
+      "en": "Annual recognition events will feature your contributions to the leadership cohort.",
+      "zh": "年度表揚活動將彰顯您對領導梯隊的貢獻。"
+    },
+    {
+      "en": "Coaching sessions with external executive coaches are available upon request.",
+      "zh": "可依需求申請外部高階教練的輔導課程。"
+    },
+    {
+      "en": "Travel budget allocations for client visits will be expanded in the coming quarter.",
+      "zh": "下一季用於客戶拜訪的差旅預算將擴大。"
+    },
+    {
+      "en": "Updated emergency contact details should be verified through the employee portal.",
+      "zh": "更新後的緊急聯絡資料請透過員工入口網站確認。"
+    },
+    {
+      "en": "Sabbatical eligibility now applies after every five years of continuous service.",
+      "zh": "每連續服務滿五年後即可申請進修假。"
+    },
+    {
+      "en": "We celebrate your milestone with sincere appreciation and high expectations ahead.",
+      "zh": "我們以誠摯感謝慶祝您的里程碑，並對未來抱有高度期待。"
+    }
   ]
 }

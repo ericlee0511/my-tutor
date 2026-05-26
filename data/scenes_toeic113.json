@@ -1,49 +1,181 @@
 {
   "title": "International Office Video Conference Brief",
   "all": [
-    { "en": "Good morning, good afternoon, and good evening to everyone joining today.", "zh": "向今日所有與會者問早安、午安、晚安。" },
-    { "en": "Welcome to the monthly bridge call between our six regional offices.", "zh": "歡迎參加六個區域辦公室的月度連線會議。" },
-    { "en": "We have colleagues dialing in from London, Frankfurt, Dubai, and Mumbai.", "zh": "今日有來自倫敦、法蘭克福、杜拜及孟買的同仁連線。" },
-    { "en": "Singapore and Tokyo teams are also present despite the late local hour.", "zh": "新加坡與東京團隊雖時間已晚仍出席參與。" },
-    { "en": "Please keep your microphone muted unless you are speaking.", "zh": "未發言時請務必將麥克風靜音。" },
-    { "en": "Background noise reduces audio quality for participants on mobile networks.", "zh": "背景噪音會降低行動網路使用者的音質。" },
-    { "en": "Use the raise hand feature if you wish to ask a question.", "zh": "若想提問請使用舉手功能。" },
-    { "en": "Today, the agenda covers four main topics in forty-five minutes.", "zh": "今日議程於 45 分鐘內涵蓋四大主題。" },
-    { "en": "First, a quick summary of last quarter regional sales performance.", "zh": "首先，簡要回顧上一季度各區銷售表現。" },
-    { "en": "Second, an update from the unified pricing project working group.", "zh": "其次，統一定價專案工作小組的進度更新。" },
-    { "en": "Third, a status report on the global brand refresh initiative.", "zh": "第三，全球品牌煥新計畫的狀態報告。" },
-    { "en": "Fourth, open discussion on shared challenges and best practices.", "zh": "第四，針對共同挑戰與最佳實務進行公開討論。" },
-    { "en": "Slides are available in the chat window for offline reference.", "zh": "投影片已放於聊天視窗以供離線參考。" },
-    { "en": "Live captions can be turned on through the accessibility menu.", "zh": "可於協助工具選單開啟即時字幕。" },
-    { "en": "We strongly encourage everyone to keep cameras on during discussion.", "zh": "我們強烈建議討論時所有人開啟視訊鏡頭。" },
-    { "en": "Visual cues help us understand each other across language barriers.", "zh": "視覺線索有助於跨越語言隔閡相互理解。" },
-    { "en": "Please remember that the recording is shared only within the company.", "zh": "請記得本次錄影僅於公司內部分享。" },
-    { "en": "Do not redistribute slides or screenshots outside our official channels.", "zh": "請勿將投影片或截圖透過非官方管道散布。" },
-    { "en": "Action items will be summarized and emailed within twenty-four hours.", "zh": "行動項目將於 24 小時內彙整後以電子郵件寄發。" },
-    { "en": "Each owner should confirm receipt and update progress in the tracker.", "zh": "各負責人應確認收到並於追蹤表更新進度。" },
-    { "en": "Our next call is scheduled for the second Tuesday of next month.", "zh": "下次會議訂於下個月第二個週二。" },
-    { "en": "If your region observes a public holiday, please notify the chair.", "zh": "若您所在區域當日適逢國定假日，請告知主席。" },
-    { "en": "Thank you for adjusting your schedules to make this meeting possible.", "zh": "感謝各位調整行程，讓本次會議得以舉行。" },
-    { "en": "Let us now hand over to Kenji in Tokyo for the sales update.", "zh": "現在請東京的 Kenji 為我們報告銷售更新。" },
-    { "en": "Kenji reports a twelve percent revenue lift in the Tokyo metropolitan region.", "zh": "Kenji 報告東京都會區營收成長了 12%。" },
-    { "en": "Mumbai followed with strong renewal rates among enterprise software clients.", "zh": "孟買緊隨在後，企業軟體客戶的續約率表現強勁。" },
-    { "en": "London noted softer demand from financial services due to market volatility.", "zh": "倫敦則指出金融服務業因市場波動而需求疲弱。" },
-    { "en": "Frankfurt highlighted a successful joint promotion with our Austrian partner.", "zh": "法蘭克福特別強調與奧地利夥伴聯合推廣的成功案例。" },
-    { "en": "Dubai shared early wins from the new logistics hub in Jebel Ali.", "zh": "杜拜分享了 Jebel Ali 新物流樞紐的初期成果。" },
-    { "en": "Singapore proposed aligning regional invoicing templates by the end of June.", "zh": "新加坡提議於六月底前統一各區發票範本。" },
-    { "en": "The pricing working group requested input on currency hedging assumptions.", "zh": "定價工作小組請各方就匯率避險假設提供意見。" },
-    { "en": "Brand refresh launch dates remain on track across all six regions.", "zh": "品牌煥新上線日期於六個區域皆按進度進行。" },
-    { "en": "Several teams asked about onboarding support for the new design system.", "zh": "多個團隊詢問新設計系統的導入支援事宜。" },
-    { "en": "We will close today's call with a quick round of closing remarks.", "zh": "今日會議將以簡短的結語進行收尾。" },
-    { "en": "Kenji thanked his team for sustaining momentum despite a tight talent market.", "zh": "Kenji 感謝其團隊在人才市場緊縮下仍維持衝勁。" },
-    { "en": "Mumbai requested additional sales engineering resources for the next quarter.", "zh": "孟買請求下季增派業務工程資源。" },
-    { "en": "London promised to share their key account playbook with all regions.", "zh": "倫敦承諾將其重點客戶手冊分享給各區域。" },
-    { "en": "Frankfurt invited everyone to a virtual launch event in early September.", "zh": "法蘭克福邀請所有人參加 9 月上旬的線上發表活動。" },
-    { "en": "Dubai proposed quarterly logistics summits between operations leads worldwide.", "zh": "杜拜提議由全球營運主管每季舉辦物流高峰會。" },
-    { "en": "Singapore confirmed invoice template updates will be deployed by June 28.", "zh": "新加坡確認發票範本更新將於 6 月 28 日前部署完成。" },
-    { "en": "The pricing group will circulate revised assumptions by next Wednesday morning.", "zh": "定價小組將於下週三上午前傳閱修訂後之假設。" },
-    { "en": "Brand assets are accessible through the global design library effective today.", "zh": "品牌素材自今日起可透過全球設計資料庫取得。" },
-    { "en": "Onboarding sessions for the new design system run weekly throughout June.", "zh": "新設計系統導入課程於六月每週舉行。" },
-    { "en": "Thanks to all participants for their candid contributions and good humor today.", "zh": "感謝所有與會者今日的坦率分享與良好氛圍。" }
+    {
+      "en": "Good morning, good afternoon, and good evening to everyone joining today.",
+      "zh": "向今日所有與會者問早安、午安、晚安。"
+    },
+    {
+      "en": "Welcome to the monthly bridge call between our six regional offices.",
+      "zh": "歡迎參加六個區域辦公室的月度連線會議。"
+    },
+    {
+      "en": "We have colleagues dialing in from London, Frankfurt, Dubai, and Mumbai.",
+      "zh": "今日有來自倫敦、法蘭克福、杜拜及孟買的同仁連線。"
+    },
+    {
+      "en": "Singapore and Tokyo teams are also present despite the late local hour.",
+      "zh": "新加坡與東京團隊雖時間已晚仍出席參與。"
+    },
+    {
+      "en": "Please keep your microphone muted unless you are speaking.",
+      "zh": "未發言時請務必將麥克風靜音。"
+    },
+    {
+      "en": "Background noise reduces audio quality for participants on mobile networks.",
+      "zh": "背景噪音會降低行動網路使用者的音質。"
+    },
+    {
+      "en": "Use the raise hand feature if you wish to ask a question.",
+      "zh": "若想提問請使用舉手功能。"
+    },
+    {
+      "en": "Today, the agenda covers four main topics in forty-five minutes.",
+      "zh": "今日議程於 45 分鐘內涵蓋四大主題。"
+    },
+    {
+      "en": "First, a quick summary of last quarter regional sales performance.",
+      "zh": "首先，簡要回顧上一季度各區銷售表現。"
+    },
+    {
+      "en": "Second, an update from the unified pricing project working group.",
+      "zh": "其次，統一定價專案工作小組的進度更新。"
+    },
+    {
+      "en": "Third, a status report on the global brand refresh initiative.",
+      "zh": "第三，全球品牌煥新計畫的狀態報告。"
+    },
+    {
+      "en": "Fourth, open discussion on shared challenges and best practices.",
+      "zh": "第四，針對共同挑戰與最佳實務進行公開討論。"
+    },
+    {
+      "en": "Slides are available in the chat window for offline reference.",
+      "zh": "投影片已放於聊天視窗以供離線參考。"
+    },
+    {
+      "en": "Live captions can be turned on through the accessibility menu.",
+      "zh": "可於協助工具選單開啟即時字幕。"
+    },
+    {
+      "en": "We strongly encourage everyone to keep cameras on during discussion.",
+      "zh": "我們強烈建議討論時所有人開啟視訊鏡頭。"
+    },
+    {
+      "en": "Visual cues help us understand each other across language barriers.",
+      "zh": "視覺線索有助於跨越語言隔閡相互理解。"
+    },
+    {
+      "en": "Please remember that the recording is shared only within the company.",
+      "zh": "請記得本次錄影僅於公司內部分享。"
+    },
+    {
+      "en": "Do not redistribute slides or screenshots outside our official channels.",
+      "zh": "請勿將投影片或截圖透過非官方管道散布。"
+    },
+    {
+      "en": "Action items will be summarized and emailed within twenty-four hours.",
+      "zh": "行動項目將於 24 小時內彙整後以電子郵件寄發。"
+    },
+    {
+      "en": "Each owner should confirm receipt and update progress in the tracker.",
+      "zh": "各負責人應確認收到並於追蹤表更新進度。"
+    },
+    {
+      "en": "Our next call is scheduled for the second Tuesday of next month.",
+      "zh": "下次會議訂於下個月第二個週二。"
+    },
+    {
+      "en": "If your region observes a public holiday, please notify the chair.",
+      "zh": "若您所在區域當日適逢國定假日，請告知主席。"
+    },
+    {
+      "en": "Thank you for adjusting your schedules to make this meeting possible.",
+      "zh": "感謝各位調整行程，讓本次會議得以舉行。"
+    },
+    {
+      "en": "Let us now hand over to Kenji in Tokyo for the sales update.",
+      "zh": "現在請東京的 Kenji 為我們報告銷售更新。"
+    },
+    {
+      "en": "Kenji reports a twelve percent revenue lift in the Tokyo metropolitan region.",
+      "zh": "Kenji 報告東京都會區營收成長了 12%。"
+    },
+    {
+      "en": "Mumbai followed with strong renewal rates among enterprise software clients.",
+      "zh": "孟買緊隨在後，企業軟體客戶的續約率表現強勁。"
+    },
+    {
+      "en": "London noted softer demand from financial services due to market volatility.",
+      "zh": "倫敦則指出金融服務業因市場波動而需求疲弱。"
+    },
+    {
+      "en": "Frankfurt highlighted a successful joint promotion with our Austrian partner.",
+      "zh": "法蘭克福特別強調與奧地利夥伴聯合推廣的成功案例。"
+    },
+    {
+      "en": "Dubai shared early wins from the new logistics hub in Jebel Ali.",
+      "zh": "杜拜分享了 Jebel Ali 新物流樞紐的初期成果。"
+    },
+    {
+      "en": "Singapore proposed aligning regional invoicing templates by the end of June.",
+      "zh": "新加坡提議於六月底前統一各區發票範本。"
+    },
+    {
+      "en": "The pricing working group requested input on currency hedging assumptions.",
+      "zh": "定價工作小組請各方就匯率避險假設提供意見。"
+    },
+    {
+      "en": "Brand refresh launch dates remain on track across all six regions.",
+      "zh": "品牌煥新上線日期於六個區域皆按進度進行。"
+    },
+    {
+      "en": "Several teams asked about onboarding support for the new design system.",
+      "zh": "多個團隊詢問新設計系統的導入支援事宜。"
+    },
+    {
+      "en": "We will close today's call with a quick round of closing remarks.",
+      "zh": "今日會議將以簡短的結語進行收尾。"
+    },
+    {
+      "en": "Kenji thanked his team for sustaining momentum despite a tight talent market.",
+      "zh": "Kenji 感謝其團隊在人才市場緊縮下仍維持衝勁。"
+    },
+    {
+      "en": "Mumbai requested additional sales engineering resources for the next quarter.",
+      "zh": "孟買請求下季增派業務工程資源。"
+    },
+    {
+      "en": "London promised to share their key account playbook with all regions.",
+      "zh": "倫敦承諾將其重點客戶手冊分享給各區域。"
+    },
+    {
+      "en": "Frankfurt invited everyone to a virtual launch event in early September.",
+      "zh": "法蘭克福邀請所有人參加 9 月上旬的線上發表活動。"
+    },
+    {
+      "en": "Dubai proposed quarterly logistics summits between operations leads worldwide.",
+      "zh": "杜拜提議由全球營運主管每季舉辦物流高峰會。"
+    },
+    {
+      "en": "Singapore confirmed invoice template updates will be deployed by June 28.",
+      "zh": "新加坡確認發票範本更新將於 6 月 28 日前部署完成。"
+    },
+    {
+      "en": "The pricing group will circulate revised assumptions by next Wednesday morning.",
+      "zh": "定價小組將於下週三上午前傳閱修訂後之假設。"
+    },
+    {
+      "en": "Brand assets are accessible through the global design library effective today.",
+      "zh": "品牌素材自今日起可透過全球設計資料庫取得。"
+    },
+    {
+      "en": "Onboarding sessions for the new design system run weekly throughout June.",
+      "zh": "新設計系統導入課程於六月每週舉行。"
+    },
+    {
+      "en": "Thanks to all participants for their candid contributions and good humor today.",
+      "zh": "感謝所有與會者今日的坦率分享與良好氛圍。"
+    }
   ]
 }

@@ -1,47 +1,173 @@
 {
   "title": "Tax Deduction Guide for Employees",
   "all": [
-    { "en": "This guide explains common tax deductions available to employees.", "zh": "本指南說明員工常見可申報之節稅項目。" },
-    { "en": "Tax planning is an important part of personal financial wellness.", "zh": "稅務規劃為個人理財健康之重要環節。" },
-    { "en": "Retirement contributions remain one of the most powerful deductions.", "zh": "退休帳戶提撥仍是最具效益的扣除項目之一。" },
-    { "en": "Traditional retirement accounts may lower taxable income immediately.", "zh": "傳統退休帳戶可即時降低應稅所得。" },
-    { "en": "Roth contributions grow tax free but do not reduce current taxes.", "zh": "羅斯帳戶提撥免稅成長但不降低當期稅負。" },
-    { "en": "Health savings account deposits offer triple tax advantages.", "zh": "健康儲蓄帳戶存款具有三重稅務優勢。" },
-    { "en": "Flexible spending account funds must be used within the plan year.", "zh": "彈性消費帳戶資金須於方案年度內使用。" },
-    { "en": "Dependent care contributions can reduce taxable income meaningfully.", "zh": "受扶養者照護提撥可有效降低應稅所得。" },
-    { "en": "Charitable donations are deductible when properly documented.", "zh": "慈善捐款於妥善存證後可列舉扣除。" },
-    { "en": "Cash donations require written acknowledgement from the charity.", "zh": "現金捐款須取得慈善機構出具之書面證明。" },
-    { "en": "Donated goods should be valued at fair market estimates.", "zh": "捐贈物品應以公允市價估算。" },
-    { "en": "Mortgage interest on a primary residence may be deductible.", "zh": "自用住宅之房貸利息可能可列扣除。" },
-    { "en": "State and local tax deductions are subject to current statutory caps.", "zh": "州與地方稅扣除受現行法定上限限制。" },
-    { "en": "Student loan interest payments may qualify for an above the line deduction.", "zh": "學貸利息支出可能符合上線扣除資格。" },
-    { "en": "Educator expenses up to a defined limit are also deductible.", "zh": "教育工作者支出於額度內亦可扣除。" },
-    { "en": "Home office deductions apply when space is used exclusively for work.", "zh": "居家辦公室扣除適用於專用於工作之空間。" },
-    { "en": "Unreimbursed work expenses are generally not deductible for employees.", "zh": "員工未獲補助之工作支出一般不可扣除。" },
-    { "en": "Keep receipts and digital records organized throughout the year.", "zh": "請全年整理保存收據與電子紀錄。" },
-    { "en": "A tax professional can help identify situation specific opportunities.", "zh": "稅務專業人員可協助發掘個別情況之節稅機會。" },
-    { "en": "Avoid relying on rumors or social media tax advice.", "zh": "請勿依賴傳言或社群媒體上的稅務建議。" },
-    { "en": "Filing deadlines should be tracked carefully to avoid penalties.", "zh": "申報期限應妥善追蹤以避免罰款。" },
-    { "en": "Use this guide as a starting point for your annual tax planning.", "zh": "請以本指南作為年度稅務規劃之起點。" },
-    { "en": "Estimated tax payments help self employed contractors avoid year end balance surprises.", "zh": "預估稅款繳納有助於自雇承包人員避免年底稅負突增。" },
-    { "en": "Capital gains realized on long held investments receive preferential tax treatment.", "zh": "長期持有投資所實現之資本利得享有優惠稅率。" },
-    { "en": "Wash sale rules can disallow loss recognition on quickly repurchased securities.", "zh": "洗售規則可能否定迅速回購之證券所實現之虧損。" },
-    { "en": "Adoption credits may offset qualified expenses up to the annual cap.", "zh": "領養抵減可於年度上限內抵銷合格支出。" },
-    { "en": "Energy efficiency upgrades to your home may unlock additional federal credits.", "zh": "住宅節能升級可能取得額外之聯邦抵減。" },
-    { "en": "Foreign earned income exclusions apply to qualifying expatriate work arrangements.", "zh": "外國勞務所得排除適用於符合資格之外派工作安排。" },
-    { "en": "Underpayment penalties accrue when withholding falls below safe harbor thresholds.", "zh": "扣繳金額低於安全港門檻時將累計補繳罰款。" },
-    { "en": "Records of business mileage should be logged contemporaneously throughout the year.", "zh": "業務里程紀錄應於全年同步即時登錄。" },
-    { "en": "Review prior year returns to identify deductions that may have been overlooked.", "zh": "檢視往年申報資料以辨識可能遺漏之扣除項目。" },
-    { "en": "Consult with a qualified advisor before implementing significant tax strategies.", "zh": "執行重大稅務策略前請先諮詢合格顧問。" },
-    { "en": "Quarterly estimated payments help self employed individuals avoid year end balance surprises.", "zh": "季度預估繳稅有助於自雇者避免年底稅負突增。" },
-    { "en": "Standard deduction amounts are adjusted annually for inflation by federal authorities.", "zh": "標準扣除額由聯邦主管機關每年依通膨調整。" },
-    { "en": "Itemized deductions become beneficial when total qualifying expenses exceed standard thresholds.", "zh": "當合格支出總額超過標準扣除門檻時，列舉扣除將更為有利。" },
-    { "en": "Health flexible spending account elections cannot be changed mid year without qualifying events.", "zh": "健康彈性消費帳戶之選擇若無符合資格之事件不得於年中變更。" },
-    { "en": "Dependent care credits offer additional savings for working parents with young children.", "zh": "受扶養者照護抵減為有幼兒之在職父母提供額外節稅優惠。" },
-    { "en": "Real estate tax payments made before year end may accelerate available deductions.", "zh": "年底前繳納之不動產稅可使可用扣除提前實現。" },
-    { "en": "Documentation requirements include dates, amounts, and business purposes for each transaction.", "zh": "文件要求包含每筆交易之日期、金額與商業目的。" },
-    { "en": "Electronic filing typically results in faster refund processing than paper submissions.", "zh": "電子申報通常較紙本申報能更快取得退稅。" },
-    { "en": "Identity protection personal identification numbers reduce risks of fraudulent tax filings.", "zh": "身分保護個人識別碼可降低詐騙性稅務申報之風險。" },
-    { "en": "Tax planning conversations should begin early rather than just before filing deadlines.", "zh": "稅務規劃對話應提早展開而非僅於申報期限前進行。" }
+    {
+      "en": "This guide explains common tax deductions available to employees.",
+      "zh": "本指南說明員工常見可申報之節稅項目。"
+    },
+    {
+      "en": "Tax planning is an important part of personal financial wellness.",
+      "zh": "稅務規劃為個人理財健康之重要環節。"
+    },
+    {
+      "en": "Retirement contributions remain one of the most powerful deductions.",
+      "zh": "退休帳戶提撥仍是最具效益的扣除項目之一。"
+    },
+    {
+      "en": "Traditional retirement accounts may lower taxable income immediately.",
+      "zh": "傳統退休帳戶可即時降低應稅所得。"
+    },
+    {
+      "en": "Roth contributions grow tax free but do not reduce current taxes.",
+      "zh": "羅斯帳戶提撥免稅成長但不降低當期稅負。"
+    },
+    {
+      "en": "Health savings account deposits offer triple tax advantages.",
+      "zh": "健康儲蓄帳戶存款具有三重稅務優勢。"
+    },
+    {
+      "en": "Flexible spending account funds must be used within the plan year.",
+      "zh": "彈性消費帳戶資金須於方案年度內使用。"
+    },
+    {
+      "en": "Dependent care contributions can reduce taxable income meaningfully.",
+      "zh": "受扶養者照護提撥可有效降低應稅所得。"
+    },
+    {
+      "en": "Charitable donations are deductible when properly documented.",
+      "zh": "慈善捐款於妥善存證後可列舉扣除。"
+    },
+    {
+      "en": "Cash donations require written acknowledgement from the charity.",
+      "zh": "現金捐款須取得慈善機構出具之書面證明。"
+    },
+    {
+      "en": "Donated goods should be valued at fair market estimates.",
+      "zh": "捐贈物品應以公允市價估算。"
+    },
+    {
+      "en": "Mortgage interest on a primary residence may be deductible.",
+      "zh": "自用住宅之房貸利息可能可列扣除。"
+    },
+    {
+      "en": "State and local tax deductions are subject to current statutory caps.",
+      "zh": "州與地方稅扣除受現行法定上限限制。"
+    },
+    {
+      "en": "Student loan interest payments may qualify for an above the line deduction.",
+      "zh": "學貸利息支出可能符合上線扣除資格。"
+    },
+    {
+      "en": "Educator expenses up to a defined limit are also deductible.",
+      "zh": "教育工作者支出於額度內亦可扣除。"
+    },
+    {
+      "en": "Home office deductions apply when space is used exclusively for work.",
+      "zh": "居家辦公室扣除適用於專用於工作之空間。"
+    },
+    {
+      "en": "Unreimbursed work expenses are generally not deductible for employees.",
+      "zh": "員工未獲補助之工作支出一般不可扣除。"
+    },
+    {
+      "en": "Keep receipts and digital records organized throughout the year.",
+      "zh": "請全年整理保存收據與電子紀錄。"
+    },
+    {
+      "en": "A tax professional can help identify situation specific opportunities.",
+      "zh": "稅務專業人員可協助發掘個別情況之節稅機會。"
+    },
+    {
+      "en": "Avoid relying on rumors or social media tax advice.",
+      "zh": "請勿依賴傳言或社群媒體上的稅務建議。"
+    },
+    {
+      "en": "Filing deadlines should be tracked carefully to avoid penalties.",
+      "zh": "申報期限應妥善追蹤以避免罰款。"
+    },
+    {
+      "en": "Use this guide as a starting point for your annual tax planning.",
+      "zh": "請以本指南作為年度稅務規劃之起點。"
+    },
+    {
+      "en": "Estimated tax payments help self employed contractors avoid year end balance surprises.",
+      "zh": "預估稅款繳納有助於自雇承包人員避免年底稅負突增。"
+    },
+    {
+      "en": "Capital gains realized on long held investments receive preferential tax treatment.",
+      "zh": "長期持有投資所實現之資本利得享有優惠稅率。"
+    },
+    {
+      "en": "Wash sale rules can disallow loss recognition on quickly repurchased securities.",
+      "zh": "洗售規則可能否定迅速回購之證券所實現之虧損。"
+    },
+    {
+      "en": "Adoption credits may offset qualified expenses up to the annual cap.",
+      "zh": "領養抵減可於年度上限內抵銷合格支出。"
+    },
+    {
+      "en": "Energy efficiency upgrades to your home may unlock additional federal credits.",
+      "zh": "住宅節能升級可能取得額外之聯邦抵減。"
+    },
+    {
+      "en": "Foreign earned income exclusions apply to qualifying expatriate work arrangements.",
+      "zh": "外國勞務所得排除適用於符合資格之外派工作安排。"
+    },
+    {
+      "en": "Underpayment penalties accrue when withholding falls below safe harbor thresholds.",
+      "zh": "扣繳金額低於安全港門檻時將累計補繳罰款。"
+    },
+    {
+      "en": "Records of business mileage should be logged contemporaneously throughout the year.",
+      "zh": "業務里程紀錄應於全年同步即時登錄。"
+    },
+    {
+      "en": "Review prior year returns to identify deductions that may have been overlooked.",
+      "zh": "檢視往年申報資料以辨識可能遺漏之扣除項目。"
+    },
+    {
+      "en": "Consult with a qualified advisor before implementing significant tax strategies.",
+      "zh": "執行重大稅務策略前請先諮詢合格顧問。"
+    },
+    {
+      "en": "Quarterly estimated payments help self employed individuals avoid year end balance surprises.",
+      "zh": "季度預估繳稅有助於自雇者避免年底稅負突增。"
+    },
+    {
+      "en": "Standard deduction amounts are adjusted annually for inflation by federal authorities.",
+      "zh": "標準扣除額由聯邦主管機關每年依通膨調整。"
+    },
+    {
+      "en": "Itemized deductions become beneficial when total qualifying expenses exceed standard thresholds.",
+      "zh": "當合格支出總額超過標準扣除門檻時，列舉扣除將更為有利。"
+    },
+    {
+      "en": "Health flexible spending account elections cannot be changed mid year without qualifying events.",
+      "zh": "健康彈性消費帳戶之選擇若無符合資格之事件不得於年中變更。"
+    },
+    {
+      "en": "Dependent care credits offer additional savings for working parents with young children.",
+      "zh": "受扶養者照護抵減為有幼兒之在職父母提供額外節稅優惠。"
+    },
+    {
+      "en": "Real estate tax payments made before year end may accelerate available deductions.",
+      "zh": "年底前繳納之不動產稅可使可用扣除提前實現。"
+    },
+    {
+      "en": "Documentation requirements include dates, amounts, and business purposes for each transaction.",
+      "zh": "文件要求包含每筆交易之日期、金額與商業目的。"
+    },
+    {
+      "en": "Electronic filing typically results in faster refund processing than paper submissions.",
+      "zh": "電子申報通常較紙本申報能更快取得退稅。"
+    },
+    {
+      "en": "Identity protection personal identification numbers reduce risks of fraudulent tax filings.",
+      "zh": "身分保護個人識別碼可降低詐騙性稅務申報之風險。"
+    },
+    {
+      "en": "Tax planning conversations should begin early rather than just before filing deadlines.",
+      "zh": "稅務規劃對話應提早展開而非僅於申報期限前進行。"
+    }
   ]
 }

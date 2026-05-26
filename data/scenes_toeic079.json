@@ -1,50 +1,185 @@
 {
   "title": "Supplier Code of Conduct",
   "all": [
-    { "en": "This code of conduct sets the minimum expectations for all approved suppliers.", "zh": "本行為準則訂定所有核准供應商須遵循的最低期望。" },
-    { "en": "It applies to every tier of our global supply chain without exception.", "zh": "本準則無例外適用於全球供應鏈的每一層級。" },
-    { "en": "Suppliers must comply with all applicable laws in the countries where they operate.", "zh": "供應商須遵守其營運所在地的所有適用法律。" },
-    { "en": "Where this code exceeds local law, the higher standard shall apply.", "zh": "本準則高於當地法律之處，應適用較嚴格的標準。" },
-    { "en": "Forced or involuntary labor of any kind is strictly prohibited.", "zh": "任何形式的強迫或非自願勞動均嚴格禁止。" },
-    { "en": "The minimum working age must meet or exceed local regulations.", "zh": "最低工作年齡須達到或超越當地法規規定。" },
-    { "en": "Working hours and rest days must follow national labor standards.", "zh": "工作時數與休假日須遵循國家勞動標準。" },
-    { "en": "Wages and benefits must be paid accurately and on time every cycle.", "zh": "薪資與福利每期須準確且按時發放。" },
-    { "en": "Suppliers shall provide a safe and healthy work environment for all employees.", "zh": "供應商應為所有員工提供安全與健康的工作環境。" },
-    { "en": "Personal protective equipment must be supplied free of charge where required.", "zh": "凡屬必要之個人防護裝備須免費提供。" },
-    { "en": "Discrimination based on race, gender, religion, or age is not tolerated.", "zh": "基於種族、性別、宗教或年齡的歧視一律不容忍。" },
-    { "en": "Freedom of association and collective bargaining must be respected.", "zh": "結社自由與集體協商權利必須受到尊重。" },
-    { "en": "Bribery, kickbacks, and any form of corruption are strictly forbidden.", "zh": "賄賂、回扣及任何形式的貪腐均嚴格禁止。" },
-    { "en": "Gifts to our employees must not exceed reasonable business courtesy levels.", "zh": "贈予本公司員工的禮品不得超出合理商務禮儀範圍。" },
-    { "en": "Confidential information shared with suppliers must be protected at all times.", "zh": "與供應商分享的機密資訊須隨時受到保護。" },
-    { "en": "Intellectual property rights of all parties must be fully respected.", "zh": "所有相關方的智慧財產權須受到完整尊重。" },
-    { "en": "Suppliers must implement environmental management aligned with ISO fourteen thousand one.", "zh": "供應商須依據 ISO 14001 推行環境管理。" },
-    { "en": "Greenhouse gas emissions should be measured and reduced wherever feasible.", "zh": "溫室氣體排放應於可行範圍內進行量測與減量。" },
-    { "en": "Conflict minerals must be sourced through fully traceable channels.", "zh": "衝突礦產須透過完全可追溯的管道採購。" },
-    { "en": "Subcontractors and lower tier suppliers must adhere to equivalent standards.", "zh": "次承包商及下游供應商須遵循同等標準。" },
-    { "en": "Suppliers must allow audits with reasonable advance notice.", "zh": "供應商須於合理事前通知下接受稽核。" },
-    { "en": "Identified gaps shall be addressed through agreed corrective action plans.", "zh": "已識別之落差應透過議定的矯正措施計畫處理。" },
-    { "en": "Suspected violations may be reported anonymously through our ethics hotline.", "zh": "疑似違反事項可透過倫理專線匿名通報。" },
-    { "en": "Non compliance may result in suspension or termination of the supplier relationship.", "zh": "不符規定可能導致暫停或終止供應商合作關係。" },
-    { "en": "Acceptance of this code is required before any purchase order may be issued.", "zh": "於核發任何採購訂單前須先接受本準則。" },
-    { "en": "Annual self assessments must be submitted by each supplier before the end of June.", "zh": "各供應商須於六月底前提交年度自評。" },
-    { "en": "Site visits will be coordinated jointly with regional procurement managers.", "zh": "現場訪查將與區域採購經理共同協調安排。" },
-    { "en": "Capacity building support is offered to suppliers willing to improve their practices.", "zh": "對願意改善作為的供應商提供能力建構支援。" },
-    { "en": "Recognition is given to suppliers that consistently exceed the required standards.", "zh": "持續超越要求標準的供應商將獲表揚。" },
-    { "en": "All audit findings are tracked in a centralized supplier governance platform.", "zh": "所有稽核發現均於集中式供應商治理平台追蹤。" },
-    { "en": "Continuous improvement is expected rather than mere baseline compliance.", "zh": "我們期望的是持續改善，而非僅止於最低合規。" },
-    { "en": "Training materials in multiple languages are available on our supplier portal.", "zh": "供應商入口網站提供多語訓練教材。" },
-    { "en": "Suppliers are encouraged to share innovative ideas for joint sustainability projects.", "zh": "鼓勵供應商分享共同永續專案的創新構想。" },
-    { "en": "This code will be reviewed every two years to reflect evolving best practices.", "zh": "本準則每兩年檢討一次，以反映演進的最佳實務。" },
-    { "en": "We value long term partnerships built on mutual trust and shared accountability.", "zh": "我們珍視奠基於互信與共同責任的長期合作關係。" },
-    { "en": "Annual supplier summits provide a forum for sharing innovation and best practices.", "zh": "年度供應商高峰會提供分享創新與最佳實務的平台。" },
-    { "en": "Top performing suppliers may join our preferred partner tier with extended benefits.", "zh": "績優供應商可加入優先夥伴層級並享延伸權益。" },
-    { "en": "Joint product development opportunities are reserved for suppliers in this tier.", "zh": "共同產品開發機會優先保留予此一層級的供應商。" },
-    { "en": "Carbon disclosure reports must be submitted to our procurement portal each March.", "zh": "碳排放揭露報告須於每年三月提交至本公司採購入口網。" },
-    { "en": "Water consumption metrics are required for suppliers operating in stressed regions.", "zh": "位於水資源緊張地區的供應商須提供用水量指標。" },
-    { "en": "Diversity and inclusion progress is reviewed during annual relationship meetings.", "zh": "多元共融進展於年度合作會議中接受檢視。" },
-    { "en": "Cyber security questionnaires must be completed for any digital data exchange.", "zh": "任何數位資料交換前須完成資安問卷。" },
-    { "en": "Business continuity plans must be tested at least once each calendar year.", "zh": "業務持續運作計畫每曆年至少須測試一次。" },
-    { "en": "Suppliers found in repeated violation may be added to a restricted vendor list.", "zh": "經查屢次違反規定者，可能被列入受限供應商名單。" },
-    { "en": "Reinstatement requires independent verification of sustained corrective improvements.", "zh": "復權須經獨立查核確認矯正改善已持續落實。" }
+    {
+      "en": "This code of conduct sets the minimum expectations for all approved suppliers.",
+      "zh": "本行為準則訂定所有核准供應商須遵循的最低期望。"
+    },
+    {
+      "en": "It applies to every tier of our global supply chain without exception.",
+      "zh": "本準則無例外適用於全球供應鏈的每一層級。"
+    },
+    {
+      "en": "Suppliers must comply with all applicable laws in the countries where they operate.",
+      "zh": "供應商須遵守其營運所在地的所有適用法律。"
+    },
+    {
+      "en": "Where this code exceeds local law, the higher standard shall apply.",
+      "zh": "本準則高於當地法律之處，應適用較嚴格的標準。"
+    },
+    {
+      "en": "Forced or involuntary labor of any kind is strictly prohibited.",
+      "zh": "任何形式的強迫或非自願勞動均嚴格禁止。"
+    },
+    {
+      "en": "The minimum working age must meet or exceed local regulations.",
+      "zh": "最低工作年齡須達到或超越當地法規規定。"
+    },
+    {
+      "en": "Working hours and rest days must follow national labor standards.",
+      "zh": "工作時數與休假日須遵循國家勞動標準。"
+    },
+    {
+      "en": "Wages and benefits must be paid accurately and on time every cycle.",
+      "zh": "薪資與福利每期須準確且按時發放。"
+    },
+    {
+      "en": "Suppliers shall provide a safe and healthy work environment for all employees.",
+      "zh": "供應商應為所有員工提供安全與健康的工作環境。"
+    },
+    {
+      "en": "Personal protective equipment must be supplied free of charge where required.",
+      "zh": "凡屬必要之個人防護裝備須免費提供。"
+    },
+    {
+      "en": "Discrimination based on race, gender, religion, or age is not tolerated.",
+      "zh": "基於種族、性別、宗教或年齡的歧視一律不容忍。"
+    },
+    {
+      "en": "Freedom of association and collective bargaining must be respected.",
+      "zh": "結社自由與集體協商權利必須受到尊重。"
+    },
+    {
+      "en": "Bribery, kickbacks, and any form of corruption are strictly forbidden.",
+      "zh": "賄賂、回扣及任何形式的貪腐均嚴格禁止。"
+    },
+    {
+      "en": "Gifts to our employees must not exceed reasonable business courtesy levels.",
+      "zh": "贈予本公司員工的禮品不得超出合理商務禮儀範圍。"
+    },
+    {
+      "en": "Confidential information shared with suppliers must be protected at all times.",
+      "zh": "與供應商分享的機密資訊須隨時受到保護。"
+    },
+    {
+      "en": "Intellectual property rights of all parties must be fully respected.",
+      "zh": "所有相關方的智慧財產權須受到完整尊重。"
+    },
+    {
+      "en": "Suppliers must implement environmental management aligned with ISO fourteen thousand one.",
+      "zh": "供應商須依據 ISO 14001 推行環境管理。"
+    },
+    {
+      "en": "Greenhouse gas emissions should be measured and reduced wherever feasible.",
+      "zh": "溫室氣體排放應於可行範圍內進行量測與減量。"
+    },
+    {
+      "en": "Conflict minerals must be sourced through fully traceable channels.",
+      "zh": "衝突礦產須透過完全可追溯的管道採購。"
+    },
+    {
+      "en": "Subcontractors and lower tier suppliers must adhere to equivalent standards.",
+      "zh": "次承包商及下游供應商須遵循同等標準。"
+    },
+    {
+      "en": "Suppliers must allow audits with reasonable advance notice.",
+      "zh": "供應商須於合理事前通知下接受稽核。"
+    },
+    {
+      "en": "Identified gaps shall be addressed through agreed corrective action plans.",
+      "zh": "已識別之落差應透過議定的矯正措施計畫處理。"
+    },
+    {
+      "en": "Suspected violations may be reported anonymously through our ethics hotline.",
+      "zh": "疑似違反事項可透過倫理專線匿名通報。"
+    },
+    {
+      "en": "Non compliance may result in suspension or termination of the supplier relationship.",
+      "zh": "不符規定可能導致暫停或終止供應商合作關係。"
+    },
+    {
+      "en": "Acceptance of this code is required before any purchase order may be issued.",
+      "zh": "於核發任何採購訂單前須先接受本準則。"
+    },
+    {
+      "en": "Annual self assessments must be submitted by each supplier before the end of June.",
+      "zh": "各供應商須於六月底前提交年度自評。"
+    },
+    {
+      "en": "Site visits will be coordinated jointly with regional procurement managers.",
+      "zh": "現場訪查將與區域採購經理共同協調安排。"
+    },
+    {
+      "en": "Capacity building support is offered to suppliers willing to improve their practices.",
+      "zh": "對願意改善作為的供應商提供能力建構支援。"
+    },
+    {
+      "en": "Recognition is given to suppliers that consistently exceed the required standards.",
+      "zh": "持續超越要求標準的供應商將獲表揚。"
+    },
+    {
+      "en": "All audit findings are tracked in a centralized supplier governance platform.",
+      "zh": "所有稽核發現均於集中式供應商治理平台追蹤。"
+    },
+    {
+      "en": "Continuous improvement is expected rather than mere baseline compliance.",
+      "zh": "我們期望的是持續改善，而非僅止於最低合規。"
+    },
+    {
+      "en": "Training materials in multiple languages are available on our supplier portal.",
+      "zh": "供應商入口網站提供多語訓練教材。"
+    },
+    {
+      "en": "Suppliers are encouraged to share innovative ideas for joint sustainability projects.",
+      "zh": "鼓勵供應商分享共同永續專案的創新構想。"
+    },
+    {
+      "en": "This code will be reviewed every two years to reflect evolving best practices.",
+      "zh": "本準則每兩年檢討一次，以反映演進的最佳實務。"
+    },
+    {
+      "en": "We value long term partnerships built on mutual trust and shared accountability.",
+      "zh": "我們珍視奠基於互信與共同責任的長期合作關係。"
+    },
+    {
+      "en": "Annual supplier summits provide a forum for sharing innovation and best practices.",
+      "zh": "年度供應商高峰會提供分享創新與最佳實務的平台。"
+    },
+    {
+      "en": "Top performing suppliers may join our preferred partner tier with extended benefits.",
+      "zh": "績優供應商可加入優先夥伴層級並享延伸權益。"
+    },
+    {
+      "en": "Joint product development opportunities are reserved for suppliers in this tier.",
+      "zh": "共同產品開發機會優先保留予此一層級的供應商。"
+    },
+    {
+      "en": "Carbon disclosure reports must be submitted to our procurement portal each March.",
+      "zh": "碳排放揭露報告須於每年三月提交至本公司採購入口網。"
+    },
+    {
+      "en": "Water consumption metrics are required for suppliers operating in stressed regions.",
+      "zh": "位於水資源緊張地區的供應商須提供用水量指標。"
+    },
+    {
+      "en": "Diversity and inclusion progress is reviewed during annual relationship meetings.",
+      "zh": "多元共融進展於年度合作會議中接受檢視。"
+    },
+    {
+      "en": "Cyber security questionnaires must be completed for any digital data exchange.",
+      "zh": "任何數位資料交換前須完成資安問卷。"
+    },
+    {
+      "en": "Business continuity plans must be tested at least once each calendar year.",
+      "zh": "業務持續運作計畫每曆年至少須測試一次。"
+    },
+    {
+      "en": "Suppliers found in repeated violation may be added to a restricted vendor list.",
+      "zh": "經查屢次違反規定者，可能被列入受限供應商名單。"
+    },
+    {
+      "en": "Reinstatement requires independent verification of sustained corrective improvements.",
+      "zh": "復權須經獨立查核確認矯正改善已持續落實。"
+    }
   ]
 }

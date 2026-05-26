@@ -1,49 +1,181 @@
 {
   "title": "After-Sale Service Training Manual Excerpt",
   "all": [
-    { "en": "This chapter introduces the foundations of effective after-sale service.", "zh": "本章介紹有效售後服務的基礎原則。" },
-    { "en": "After-sale service starts the moment the customer signs the contract.", "zh": "售後服務自客戶簽訂合約那一刻起便已開始。" },
-    { "en": "It continues throughout the entire product lifecycle, often for many years.", "zh": "並持續整個產品生命週期，通常長達數年。" },
-    { "en": "Loyal customers generate more revenue than newly acquired ones do.", "zh": "忠誠客戶帶來的收益比新獲取的客戶更多。" },
-    { "en": "A satisfied customer also refers others through word of mouth.", "zh": "滿意的客戶亦會以口碑介紹他人。" },
-    { "en": "Each service interaction should follow the same four-step framework.", "zh": "每次服務互動應遵循相同的四步驟架構。" },
-    { "en": "Step one, greet the customer with warmth and confirm their request.", "zh": "步驟一，熱情問候客戶並確認其需求。" },
-    { "en": "Use the customer name at least twice during the conversation.", "zh": "對話中至少使用客戶姓名兩次。" },
-    { "en": "Step two, investigate the issue thoroughly before suggesting a solution.", "zh": "步驟二，在提出解決方案前徹底了解問題。" },
-    { "en": "Ask open questions that begin with what, when, or how.", "zh": "提出以「什麼」、「何時」或「如何」起頭的開放式問題。" },
-    { "en": "Step three, present a solution and explain why it fits the situation.", "zh": "步驟三，提出方案並說明為何適合該情況。" },
-    { "en": "Confirm the customer agreement before scheduling any field service.", "zh": "安排任何現場服務前須確認客戶同意。" },
-    { "en": "Step four, follow up within seventy-two hours to verify satisfaction.", "zh": "步驟四，於 72 小時內追蹤以確認客戶滿意度。" },
-    { "en": "Document the entire interaction in the service log promptly.", "zh": "請及時於服務日誌中記錄整個互動過程。" },
-    { "en": "Handling difficult conversations requires both empathy and professional boundaries.", "zh": "處理棘手對話須兼具同理心與專業分寸。" },
-    { "en": "Acknowledge the customer feelings without admitting fault prematurely.", "zh": "肯認客戶感受，但勿過早承認責任歸屬。" },
-    { "en": "Use phrases such as I understand this has been frustrating for you.", "zh": "可使用如「我了解這對您而言令人挫折」等語句。" },
-    { "en": "Offer concrete next steps rather than vague promises of follow-up.", "zh": "提供具體後續步驟，而非含糊的追蹤承諾。" },
-    { "en": "Escalate to a senior agent when the request falls outside policy.", "zh": "若需求超出政策範圍，請升級至資深專員處理。" },
-    { "en": "Never argue with customers, even when their statements appear inaccurate.", "zh": "即便客戶陳述似有不實，也不得與其爭辯。" },
-    { "en": "Protect customer data by verifying identity before sharing account details.", "zh": "分享帳戶資訊前先驗證身份，以保護客戶資料。" },
-    { "en": "Record any commitments you make and ensure your team can honor them.", "zh": "記錄您所做之承諾，並確保團隊能夠兌現。" },
-    { "en": "Continuous learning is essential because products and policies change frequently.", "zh": "持續學習至關重要，因產品與政策時常變動。" },
-    { "en": "Complete monthly refresher modules to maintain your service certification.", "zh": "請完成每月複訓模組以維持服務認證資格。" },
-    { "en": "Peer shadowing each quarter exposes you to alternative resolution techniques.", "zh": "每季同儕跟隨見習可讓您接觸不同的處理技巧。" },
-    { "en": "Service supervisors hold weekly calibration sessions every Thursday afternoon.", "zh": "服務主管於每週四下午舉行校準會議。" },
-    { "en": "Use the knowledge base before asking colleagues to save shared time.", "zh": "詢問同事前請先查閱知識庫，以節省彼此時間。" },
-    { "en": "Submit suggested articles through the content improvement form on the portal.", "zh": "可透過入口網站的內容改善表單提交建議文章。" },
-    { "en": "Customer satisfaction scores feed directly into your annual performance review.", "zh": "客戶滿意度分數將直接納入您的年度績效考核。" },
-    { "en": "High performers may qualify for the quarterly service excellence award.", "zh": "績效優異者可獲提名季度服務卓越獎。" },
-    { "en": "Award recipients receive a bonus and recognition at the all-hands meeting.", "zh": "得獎者將獲得獎金並於全體員工大會中受表揚。" },
-    { "en": "Remember that every call shapes our brand reputation in the marketplace.", "zh": "請謹記每通電話皆形塑我們於市場上的品牌聲譽。" },
-    { "en": "Thank you for the care and pride you bring to your work daily.", "zh": "感謝您每日以用心與自豪投入工作。" },
-    { "en": "Please proceed to the practice exercises located at the end of this chapter.", "zh": "請接續完成本章末的實作練習。" },
-    { "en": "Exercise one presents a sample call requiring application of all four steps.", "zh": "練習一提供一通示範通話，須運用所有四個步驟回應。" },
-    { "en": "Review the transcript carefully before drafting your response notes.", "zh": "請仔細審閱通話紀錄再撰寫您的回應筆記。" },
-    { "en": "Exercise two pairs you with a colleague for live role-play practice.", "zh": "練習二安排您與同事配對進行現場角色扮演演練。" },
-    { "en": "Rotate roles every fifteen minutes to experience both customer and agent perspectives.", "zh": "每 15 分鐘輪換角色，以體會客戶與專員兩種視角。" },
-    { "en": "Exercise three asks you to analyze a recorded escalation case from last year.", "zh": "練習三請您分析一段去年錄製的升級處理案例。" },
-    { "en": "Identify three things the agent did well and two areas for improvement.", "zh": "請指出該專員做得好的三件事及兩項可改進之處。" },
-    { "en": "Submit your written analysis through the training portal before next Monday.", "zh": "請於下週一前透過訓練平台繳交您的書面分析。" },
-    { "en": "Your facilitator will provide written feedback within five business days.", "zh": "您的引導者將於 5 個工作天內提供書面回饋。" },
-    { "en": "Group debrief sessions are scheduled for the following Friday afternoon.", "zh": "團體檢討會議排定於隔週週五下午舉行。" },
-    { "en": "Welcome questions during the debrief and bring concrete examples to discuss.", "zh": "歡迎於檢討時提問，並請攜帶具體案例供討論。" }
+    {
+      "en": "This chapter introduces the foundations of effective after-sale service.",
+      "zh": "本章介紹有效售後服務的基礎原則。"
+    },
+    {
+      "en": "After-sale service starts the moment the customer signs the contract.",
+      "zh": "售後服務自客戶簽訂合約那一刻起便已開始。"
+    },
+    {
+      "en": "It continues throughout the entire product lifecycle, often for many years.",
+      "zh": "並持續整個產品生命週期，通常長達數年。"
+    },
+    {
+      "en": "Loyal customers generate more revenue than newly acquired ones do.",
+      "zh": "忠誠客戶帶來的收益比新獲取的客戶更多。"
+    },
+    {
+      "en": "A satisfied customer also refers others through word of mouth.",
+      "zh": "滿意的客戶亦會以口碑介紹他人。"
+    },
+    {
+      "en": "Each service interaction should follow the same four-step framework.",
+      "zh": "每次服務互動應遵循相同的四步驟架構。"
+    },
+    {
+      "en": "Step one, greet the customer with warmth and confirm their request.",
+      "zh": "步驟一，熱情問候客戶並確認其需求。"
+    },
+    {
+      "en": "Use the customer name at least twice during the conversation.",
+      "zh": "對話中至少使用客戶姓名兩次。"
+    },
+    {
+      "en": "Step two, investigate the issue thoroughly before suggesting a solution.",
+      "zh": "步驟二，在提出解決方案前徹底了解問題。"
+    },
+    {
+      "en": "Ask open questions that begin with what, when, or how.",
+      "zh": "提出以「什麼」、「何時」或「如何」起頭的開放式問題。"
+    },
+    {
+      "en": "Step three, present a solution and explain why it fits the situation.",
+      "zh": "步驟三，提出方案並說明為何適合該情況。"
+    },
+    {
+      "en": "Confirm the customer agreement before scheduling any field service.",
+      "zh": "安排任何現場服務前須確認客戶同意。"
+    },
+    {
+      "en": "Step four, follow up within seventy-two hours to verify satisfaction.",
+      "zh": "步驟四，於 72 小時內追蹤以確認客戶滿意度。"
+    },
+    {
+      "en": "Document the entire interaction in the service log promptly.",
+      "zh": "請及時於服務日誌中記錄整個互動過程。"
+    },
+    {
+      "en": "Handling difficult conversations requires both empathy and professional boundaries.",
+      "zh": "處理棘手對話須兼具同理心與專業分寸。"
+    },
+    {
+      "en": "Acknowledge the customer feelings without admitting fault prematurely.",
+      "zh": "肯認客戶感受，但勿過早承認責任歸屬。"
+    },
+    {
+      "en": "Use phrases such as I understand this has been frustrating for you.",
+      "zh": "可使用如「我了解這對您而言令人挫折」等語句。"
+    },
+    {
+      "en": "Offer concrete next steps rather than vague promises of follow-up.",
+      "zh": "提供具體後續步驟，而非含糊的追蹤承諾。"
+    },
+    {
+      "en": "Escalate to a senior agent when the request falls outside policy.",
+      "zh": "若需求超出政策範圍，請升級至資深專員處理。"
+    },
+    {
+      "en": "Never argue with customers, even when their statements appear inaccurate.",
+      "zh": "即便客戶陳述似有不實，也不得與其爭辯。"
+    },
+    {
+      "en": "Protect customer data by verifying identity before sharing account details.",
+      "zh": "分享帳戶資訊前先驗證身份，以保護客戶資料。"
+    },
+    {
+      "en": "Record any commitments you make and ensure your team can honor them.",
+      "zh": "記錄您所做之承諾，並確保團隊能夠兌現。"
+    },
+    {
+      "en": "Continuous learning is essential because products and policies change frequently.",
+      "zh": "持續學習至關重要，因產品與政策時常變動。"
+    },
+    {
+      "en": "Complete monthly refresher modules to maintain your service certification.",
+      "zh": "請完成每月複訓模組以維持服務認證資格。"
+    },
+    {
+      "en": "Peer shadowing each quarter exposes you to alternative resolution techniques.",
+      "zh": "每季同儕跟隨見習可讓您接觸不同的處理技巧。"
+    },
+    {
+      "en": "Service supervisors hold weekly calibration sessions every Thursday afternoon.",
+      "zh": "服務主管於每週四下午舉行校準會議。"
+    },
+    {
+      "en": "Use the knowledge base before asking colleagues to save shared time.",
+      "zh": "詢問同事前請先查閱知識庫，以節省彼此時間。"
+    },
+    {
+      "en": "Submit suggested articles through the content improvement form on the portal.",
+      "zh": "可透過入口網站的內容改善表單提交建議文章。"
+    },
+    {
+      "en": "Customer satisfaction scores feed directly into your annual performance review.",
+      "zh": "客戶滿意度分數將直接納入您的年度績效考核。"
+    },
+    {
+      "en": "High performers may qualify for the quarterly service excellence award.",
+      "zh": "績效優異者可獲提名季度服務卓越獎。"
+    },
+    {
+      "en": "Award recipients receive a bonus and recognition at the all-hands meeting.",
+      "zh": "得獎者將獲得獎金並於全體員工大會中受表揚。"
+    },
+    {
+      "en": "Remember that every call shapes our brand reputation in the marketplace.",
+      "zh": "請謹記每通電話皆形塑我們於市場上的品牌聲譽。"
+    },
+    {
+      "en": "Thank you for the care and pride you bring to your work daily.",
+      "zh": "感謝您每日以用心與自豪投入工作。"
+    },
+    {
+      "en": "Please proceed to the practice exercises located at the end of this chapter.",
+      "zh": "請接續完成本章末的實作練習。"
+    },
+    {
+      "en": "Exercise one presents a sample call requiring application of all four steps.",
+      "zh": "練習一提供一通示範通話，須運用所有四個步驟回應。"
+    },
+    {
+      "en": "Review the transcript carefully before drafting your response notes.",
+      "zh": "請仔細審閱通話紀錄再撰寫您的回應筆記。"
+    },
+    {
+      "en": "Exercise two pairs you with a colleague for live role-play practice.",
+      "zh": "練習二安排您與同事配對進行現場角色扮演演練。"
+    },
+    {
+      "en": "Rotate roles every fifteen minutes to experience both customer and agent perspectives.",
+      "zh": "每 15 分鐘輪換角色，以體會客戶與專員兩種視角。"
+    },
+    {
+      "en": "Exercise three asks you to analyze a recorded escalation case from last year.",
+      "zh": "練習三請您分析一段去年錄製的升級處理案例。"
+    },
+    {
+      "en": "Identify three things the agent did well and two areas for improvement.",
+      "zh": "請指出該專員做得好的三件事及兩項可改進之處。"
+    },
+    {
+      "en": "Submit your written analysis through the training portal before next Monday.",
+      "zh": "請於下週一前透過訓練平台繳交您的書面分析。"
+    },
+    {
+      "en": "Your facilitator will provide written feedback within five business days.",
+      "zh": "您的引導者將於 5 個工作天內提供書面回饋。"
+    },
+    {
+      "en": "Group debrief sessions are scheduled for the following Friday afternoon.",
+      "zh": "團體檢討會議排定於隔週週五下午舉行。"
+    },
+    {
+      "en": "Welcome questions during the debrief and bring concrete examples to discuss.",
+      "zh": "歡迎於檢討時提問，並請攜帶具體案例供討論。"
+    }
   ]
 }

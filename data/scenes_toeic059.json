@@ -1,49 +1,181 @@
 {
   "title": "Price Quotation Request",
   "all": [
-    { "en": "Dear Ms. Chen, thank you for your interest in our enterprise platform.", "zh": "親愛的陳小姐，感謝您對我們企業平台的關注。" },
-    { "en": "We received your request for a formal price quotation last Friday.", "zh": "我們上週五收到您正式的報價請求。" },
-    { "en": "Based on the requirements you shared, we have prepared a tailored proposal.", "zh": "根據您提供的需求，我們已準備一份客製化提案。" },
-    { "en": "The quotation covers two hundred user licenses for the standard edition.", "zh": "報價涵蓋標準版兩百個使用者授權。" },
-    { "en": "The annual subscription is priced at one hundred eighty thousand dollars.", "zh": "年度訂閱定價為十八萬美元。" },
-    { "en": "This figure includes unlimited technical support during business hours.", "zh": "此金額包含上班時間內的無限制技術支援。" },
-    { "en": "Premium support with twenty four seven coverage is available as an add on.", "zh": "全天候的高級支援可作為加購選項。" },
-    { "en": "Onboarding services are quoted separately at twenty five thousand dollars.", "zh": "導入服務另行報價為兩萬五千美元。" },
-    { "en": "Implementation typically takes between six and eight weeks.", "zh": "導入通常需六至八週時間。" },
-    { "en": "A dedicated success manager will be assigned throughout the engagement.", "zh": "整個合作期間將指派專屬客戶成功經理。" },
-    { "en": "Volume discounts apply for orders exceeding three hundred licenses.", "zh": "訂購超過三百個授權可享有量大折扣。" },
-    { "en": "Multi year commitments unlock additional savings of up to fifteen percent.", "zh": "多年承諾可解鎖最高百分之十五的額外節省。" },
-    { "en": "Payment terms are net thirty days from invoice date.", "zh": "付款條件為發票日後三十天內付清。" },
-    { "en": "Prices quoted are valid for thirty days from the date of this letter.", "zh": "本報價自函件日期起三十天內有效。" },
-    { "en": "All figures exclude applicable taxes and any local regulatory fees.", "zh": "所有金額皆未含適用稅金與任何在地法規費用。" },
-    { "en": "A standard master service agreement will govern the engagement.", "zh": "標準主服務合約將規範本次合作。" },
-    { "en": "Custom legal terms can be reviewed by our contracts team upon request.", "zh": "客製化法律條款可依請求由我方合約團隊審閱。" },
-    { "en": "We are pleased to offer a free thirty day evaluation environment.", "zh": "我們很樂意提供三十天免費評估環境。" },
-    { "en": "Reference calls with similar customers can be arranged on request.", "zh": "可依需求安排與類似客戶的參考訪談。" },
-    { "en": "A detailed feature comparison sheet is enclosed for your reference.", "zh": "詳細功能比較表附上供您參考。" },
-    { "en": "Please let us know if any items require further clarification.", "zh": "若有任何項目需要進一步釐清，請告知我們。" },
-    { "en": "We would be happy to schedule a follow up call this week.", "zh": "我們很樂意於本週安排後續通話。" },
-    { "en": "Thank you again for considering our solution for your organization.", "zh": "再次感謝您考慮我們的解決方案。" },
-    { "en": "We look forward to building a long and successful partnership.", "zh": "我們期待與您建立長久成功的合作關係。" },
-    { "en": "Should you wish to proceed, kindly return the signed acceptance page via secure portal.", "zh": "如欲進一步推進，敬請透過安全入口寄回簽妥的接受頁。" },
-    { "en": "Our procurement onboarding team can assist with vendor registration in your systems.", "zh": "我方採購對接團隊可協助於貴公司系統中完成供應商登錄。" },
-    { "en": "We can also accommodate purchase order requirements unique to your accounting workflow.", "zh": "我們亦可配合貴公司會計流程的特定採購單要求。" },
-    { "en": "If a phased rollout is preferable, we are open to a tiered licensing schedule.", "zh": "若分階段上線較為合適，我們也願意採分層授權時程安排。" },
-    { "en": "Quarterly business reviews will be hosted by your assigned customer success manager.", "zh": "季度業務檢討將由您專屬的客戶成功經理主持。" },
-    { "en": "Product training credits totaling forty hours are included at no additional cost.", "zh": "免費附贈合計四十小時的產品訓練點數。" },
-    { "en": "Your team will gain access to our private user community and quarterly roadmap previews.", "zh": "貴團隊將獲得我方私人使用者社群及季度路線圖預覽的存取權限。" },
-    { "en": "Please feel free to share this proposal with any additional stakeholders for review.", "zh": "歡迎將本提案分享予其他相關利害關係人進行審閱。" },
-    { "en": "We are committed to providing prompt responses to any technical or commercial inquiries.", "zh": "我們承諾針對任何技術或商務詢問均迅速回覆。" },
-    { "en": "Warm regards, Daniel Park, Senior Enterprise Account Director.", "zh": "謹致，資深企業客戶總監 Daniel Park。" },
-    { "en": "Optional professional services packages can be combined to fit your organizational needs.", "zh": "選配的專業服務組合可彈性搭配以符合貴組織需求。" },
-    { "en": "Custom integration with your existing identity provider is included at no extra charge.", "zh": "與貴公司既有身分驗證提供者的客製化整合包含於報價內，不另收費。" },
-    { "en": "Sandbox environments are available for testing prior to the production rollout.", "zh": "正式上線前可使用沙箱環境進行測試。" },
-    { "en": "Our security team can present compliance certifications during a dedicated review session.", "zh": "本公司資安團隊可於專屬審查會議中說明合規認證。" },
-    { "en": "A solution architect will be assigned to validate any custom workflow requirements.", "zh": "將指派一位解決方案架構師協助驗證任何客製化流程需求。" },
-    { "en": "Annual price adjustments are capped at 4 percent during the multi year term.", "zh": "於多年合約期間，年度價格調整上限為百分之四。" },
-    { "en": "Procurement contacts may request copies of our standard W-9 and banking details directly.", "zh": "採購聯絡人可直接索取本公司標準 W-9 表單及銀行資訊副本。" },
-    { "en": "Account executives are available for live walkthroughs of the pricing components.", "zh": "客戶經理可安排即時逐項說明各項定價組成。" },
-    { "en": "We are happy to revise this quotation should your scope or timeline evolve.", "zh": "若貴公司範疇或時程有變動，我們亦樂意調整本報價。" },
-    { "en": "Please contact our office at any time should you require additional information.", "zh": "如需任何進一步資訊，敬請隨時與本辦公室聯繫。" }
+    {
+      "en": "Dear Ms. Chen, thank you for your interest in our enterprise platform.",
+      "zh": "親愛的陳小姐，感謝您對我們企業平台的關注。"
+    },
+    {
+      "en": "We received your request for a formal price quotation last Friday.",
+      "zh": "我們上週五收到您正式的報價請求。"
+    },
+    {
+      "en": "Based on the requirements you shared, we have prepared a tailored proposal.",
+      "zh": "根據您提供的需求，我們已準備一份客製化提案。"
+    },
+    {
+      "en": "The quotation covers two hundred user licenses for the standard edition.",
+      "zh": "報價涵蓋標準版兩百個使用者授權。"
+    },
+    {
+      "en": "The annual subscription is priced at one hundred eighty thousand dollars.",
+      "zh": "年度訂閱定價為十八萬美元。"
+    },
+    {
+      "en": "This figure includes unlimited technical support during business hours.",
+      "zh": "此金額包含上班時間內的無限制技術支援。"
+    },
+    {
+      "en": "Premium support with twenty four seven coverage is available as an add on.",
+      "zh": "全天候的高級支援可作為加購選項。"
+    },
+    {
+      "en": "Onboarding services are quoted separately at twenty five thousand dollars.",
+      "zh": "導入服務另行報價為兩萬五千美元。"
+    },
+    {
+      "en": "Implementation typically takes between six and eight weeks.",
+      "zh": "導入通常需六至八週時間。"
+    },
+    {
+      "en": "A dedicated success manager will be assigned throughout the engagement.",
+      "zh": "整個合作期間將指派專屬客戶成功經理。"
+    },
+    {
+      "en": "Volume discounts apply for orders exceeding three hundred licenses.",
+      "zh": "訂購超過三百個授權可享有量大折扣。"
+    },
+    {
+      "en": "Multi year commitments unlock additional savings of up to fifteen percent.",
+      "zh": "多年承諾可解鎖最高百分之十五的額外節省。"
+    },
+    {
+      "en": "Payment terms are net thirty days from invoice date.",
+      "zh": "付款條件為發票日後三十天內付清。"
+    },
+    {
+      "en": "Prices quoted are valid for thirty days from the date of this letter.",
+      "zh": "本報價自函件日期起三十天內有效。"
+    },
+    {
+      "en": "All figures exclude applicable taxes and any local regulatory fees.",
+      "zh": "所有金額皆未含適用稅金與任何在地法規費用。"
+    },
+    {
+      "en": "A standard master service agreement will govern the engagement.",
+      "zh": "標準主服務合約將規範本次合作。"
+    },
+    {
+      "en": "Custom legal terms can be reviewed by our contracts team upon request.",
+      "zh": "客製化法律條款可依請求由我方合約團隊審閱。"
+    },
+    {
+      "en": "We are pleased to offer a free thirty day evaluation environment.",
+      "zh": "我們很樂意提供三十天免費評估環境。"
+    },
+    {
+      "en": "Reference calls with similar customers can be arranged on request.",
+      "zh": "可依需求安排與類似客戶的參考訪談。"
+    },
+    {
+      "en": "A detailed feature comparison sheet is enclosed for your reference.",
+      "zh": "詳細功能比較表附上供您參考。"
+    },
+    {
+      "en": "Please let us know if any items require further clarification.",
+      "zh": "若有任何項目需要進一步釐清，請告知我們。"
+    },
+    {
+      "en": "We would be happy to schedule a follow up call this week.",
+      "zh": "我們很樂意於本週安排後續通話。"
+    },
+    {
+      "en": "Thank you again for considering our solution for your organization.",
+      "zh": "再次感謝您考慮我們的解決方案。"
+    },
+    {
+      "en": "We look forward to building a long and successful partnership.",
+      "zh": "我們期待與您建立長久成功的合作關係。"
+    },
+    {
+      "en": "Should you wish to proceed, kindly return the signed acceptance page via secure portal.",
+      "zh": "如欲進一步推進，敬請透過安全入口寄回簽妥的接受頁。"
+    },
+    {
+      "en": "Our procurement onboarding team can assist with vendor registration in your systems.",
+      "zh": "我方採購對接團隊可協助於貴公司系統中完成供應商登錄。"
+    },
+    {
+      "en": "We can also accommodate purchase order requirements unique to your accounting workflow.",
+      "zh": "我們亦可配合貴公司會計流程的特定採購單要求。"
+    },
+    {
+      "en": "If a phased rollout is preferable, we are open to a tiered licensing schedule.",
+      "zh": "若分階段上線較為合適，我們也願意採分層授權時程安排。"
+    },
+    {
+      "en": "Quarterly business reviews will be hosted by your assigned customer success manager.",
+      "zh": "季度業務檢討將由您專屬的客戶成功經理主持。"
+    },
+    {
+      "en": "Product training credits totaling forty hours are included at no additional cost.",
+      "zh": "免費附贈合計四十小時的產品訓練點數。"
+    },
+    {
+      "en": "Your team will gain access to our private user community and quarterly roadmap previews.",
+      "zh": "貴團隊將獲得我方私人使用者社群及季度路線圖預覽的存取權限。"
+    },
+    {
+      "en": "Please feel free to share this proposal with any additional stakeholders for review.",
+      "zh": "歡迎將本提案分享予其他相關利害關係人進行審閱。"
+    },
+    {
+      "en": "We are committed to providing prompt responses to any technical or commercial inquiries.",
+      "zh": "我們承諾針對任何技術或商務詢問均迅速回覆。"
+    },
+    {
+      "en": "Warm regards, Daniel Park, Senior Enterprise Account Director.",
+      "zh": "謹致，資深企業客戶總監 Daniel Park。"
+    },
+    {
+      "en": "Optional professional services packages can be combined to fit your organizational needs.",
+      "zh": "選配的專業服務組合可彈性搭配以符合貴組織需求。"
+    },
+    {
+      "en": "Custom integration with your existing identity provider is included at no extra charge.",
+      "zh": "與貴公司既有身分驗證提供者的客製化整合包含於報價內，不另收費。"
+    },
+    {
+      "en": "Sandbox environments are available for testing prior to the production rollout.",
+      "zh": "正式上線前可使用沙箱環境進行測試。"
+    },
+    {
+      "en": "Our security team can present compliance certifications during a dedicated review session.",
+      "zh": "本公司資安團隊可於專屬審查會議中說明合規認證。"
+    },
+    {
+      "en": "A solution architect will be assigned to validate any custom workflow requirements.",
+      "zh": "將指派一位解決方案架構師協助驗證任何客製化流程需求。"
+    },
+    {
+      "en": "Annual price adjustments are capped at 4 percent during the multi year term.",
+      "zh": "於多年合約期間，年度價格調整上限為百分之四。"
+    },
+    {
+      "en": "Procurement contacts may request copies of our standard W-9 and banking details directly.",
+      "zh": "採購聯絡人可直接索取本公司標準 W-9 表單及銀行資訊副本。"
+    },
+    {
+      "en": "Account executives are available for live walkthroughs of the pricing components.",
+      "zh": "客戶經理可安排即時逐項說明各項定價組成。"
+    },
+    {
+      "en": "We are happy to revise this quotation should your scope or timeline evolve.",
+      "zh": "若貴公司範疇或時程有變動，我們亦樂意調整本報價。"
+    },
+    {
+      "en": "Please contact our office at any time should you require additional information.",
+      "zh": "如需任何進一步資訊，敬請隨時與本辦公室聯繫。"
+    }
   ]
 }

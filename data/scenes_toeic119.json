@@ -1,49 +1,181 @@
 {
   "title": "Vendor Invoice Dispute Letter",
   "all": [
-    { "en": "Dear Accounts Receivable team at Brightline Logistics Services.", "zh": "親愛的 Brightline Logistics Services 應收帳款團隊。" },
-    { "en": "I am writing to formally dispute invoice number BL-2026-04832.", "zh": "本人謹此正式對發票編號 BL-2026-04832 提出爭議。" },
-    { "en": "The invoice is dated April 28 and totals seventeen thousand euros.", "zh": "該發票日期為 4 月 28 日，總金額為 17,000 歐元。" },
-    { "en": "Our review found three discrepancies that require your attention.", "zh": "我們審查後發現三項待您處理的差異。" },
-    { "en": "First, fuel surcharges were billed at five percent above contract rate.", "zh": "第一，燃油附加費較合約費率超收 5%。" },
-    { "en": "Our master agreement, section four, caps surcharges at three percent.", "zh": "我方主合約第四節已將附加費上限訂為 3%。" },
-    { "en": "Second, the invoice lists fifteen shipments to the Lyon warehouse.", "zh": "第二，發票列出 15 批前往 Lyon 倉庫之貨運。" },
-    { "en": "Our records confirm only thirteen shipments were received and signed for.", "zh": "我方紀錄僅確認收到並簽收 13 批。" },
-    { "en": "We have attached copies of signed delivery notes for verification.", "zh": "已附上已簽收之送貨單影本供查證。" },
-    { "en": "Third, the invoice charges weekend handling for Monday deliveries.", "zh": "第三，發票就週一交貨案件收取週末處理費。" },
-    { "en": "Per appendix B, weekend rates apply only to Saturday and Sunday work.", "zh": "依附錄 B，週末費率僅適用於週六與週日作業。" },
-    { "en": "These three issues total an overcharge of three thousand two hundred euros.", "zh": "上述三項問題共溢收 3,200 歐元。" },
-    { "en": "Please issue a credit note for the disputed amount within fifteen days.", "zh": "請於 15 天內就爭議金額開立貸項通知書。" },
-    { "en": "We will process payment of the undisputed balance once the credit is received.", "zh": "收到貸項通知後，我方將支付無爭議部分之餘款。" },
-    { "en": "Until then, the full invoice is placed on hold in our system.", "zh": "在此之前，整張發票將於我方系統內暫予擱置。" },
-    { "en": "We value our long-standing partnership and prefer a quick resolution.", "zh": "我方珍視長期合作關係，希望盡快解決此事。" },
-    { "en": "Please contact me directly to discuss the supporting evidence.", "zh": "請直接與我聯繫以討論相關佐證資料。" },
-    { "en": "I can be reached at extension 6210 between nine and five.", "zh": "我於 9 點至 17 點可透過分機 6210 聯繫。" },
-    { "en": "Alternatively, you may reply to this email with revised documents.", "zh": "或您亦可回覆本郵件並附上修正後文件。" },
-    { "en": "We also request a brief root cause analysis to prevent repeat errors.", "zh": "我方亦請提供簡要根本原因分析以防再發生。" },
-    { "en": "Our finance review committee meets every Wednesday afternoon.", "zh": "我方財務審查委員會每週三下午召開會議。" },
-    { "en": "Your prompt response will help us close the matter before month end.", "zh": "您的迅速回應將有助我們在月底前結案。" },
-    { "en": "Thank you for your cooperation and continued service to our company.", "zh": "感謝您的配合及對本公司之持續服務。" },
-    { "en": "Sincerely, Pavel Rodriguez, Senior Procurement Manager at Halcyon Trading.", "zh": "敬上，Halcyon Trading 資深採購經理 Pavel Rodriguez。" },
-    { "en": "Copy to, Marcus Field, internal audit lead, and Rita Chao, controller.", "zh": "副本：內部稽核主管 Marcus Field 及財務長 Rita Chao。" },
-    { "en": "Attachment A contains the signed delivery notes mentioned above in detail.", "zh": "附件 A 為上述提及之已簽收送貨單詳細內容。" },
-    { "en": "Attachment B includes the relevant contract clauses highlighted for clarity.", "zh": "附件 B 為相關合約條款，已加註標示以利對照。" },
-    { "en": "Attachment C summarizes the calculation behind the disputed amount.", "zh": "附件 C 彙整爭議金額之計算依據。" },
-    { "en": "We are prepared to escalate this to mediation if resolution stalls.", "zh": "倘解決過程停滯，我方準備將本案提交調解。" },
-    { "en": "However, we firmly believe a constructive dialogue will resolve everything quickly.", "zh": "惟我方堅信透過建設性對話可迅速解決所有問題。" },
-    { "en": "Future invoices should be sent directly to our shared services mailbox.", "zh": "後續發票請直接寄送至我方共享服務信箱。" },
-    { "en": "This change avoids delays caused by individual mailbox forwarding rules.", "zh": "此調整可避免因個人信箱轉寄規則導致的延誤。" },
-    { "en": "We trust this matter receives the priority that our partnership deserves.", "zh": "相信本案將獲得符合雙方合作關係之優先處理。" },
-    { "en": "We look forward to receiving your formal response by next Friday.", "zh": "期待於下週五前收到貴方正式回覆。" },
-    { "en": "Our legal team has been briefed on the contractual provisions involved.", "zh": "我方法務團隊已就所涉合約條款獲得簡報。" },
-    { "en": "Both parties retain the right to invoke the dispute resolution clause.", "zh": "雙方皆保留援引爭議解決條款之權利。" },
-    { "en": "Pending resolution, future deliveries should continue without operational interruption.", "zh": "在解決前，後續貨運應持續進行，不致中斷營運。" },
-    { "en": "Our procurement records system has flagged this invoice for special review.", "zh": "我方採購紀錄系統已就此發票標註特別審查。" },
-    { "en": "Please ensure your accounts receivable manager receives a copy of this letter.", "zh": "請確保貴方應收帳款經理收到本函副本。" },
-    { "en": "Documentation supporting your original invoice calculation would also be helpful.", "zh": "支持貴方原始發票計算之文件亦將有所助益。" },
-    { "en": "We propose a joint conference call to walk through each disputed line.", "zh": "我方建議召開聯合電話會議，逐項討論爭議項目。" },
-    { "en": "Tuesday or Wednesday next week would suit our calendar reasonably well.", "zh": "下週二或週三大致符合我方行程安排。" },
-    { "en": "Resolving this matter promptly preserves the trust built over many years.", "zh": "迅速解決本事項可維繫多年來建立的信任。" },
-    { "en": "Sincerely once more, Pavel Rodriguez, on behalf of the procurement office.", "zh": "再次致上敬意，Pavel Rodriguez 謹代表採購辦公室。" }
+    {
+      "en": "Dear Accounts Receivable team at Brightline Logistics Services.",
+      "zh": "親愛的 Brightline Logistics Services 應收帳款團隊。"
+    },
+    {
+      "en": "I am writing to formally dispute invoice number BL-2026-04832.",
+      "zh": "本人謹此正式對發票編號 BL-2026-04832 提出爭議。"
+    },
+    {
+      "en": "The invoice is dated April 28 and totals seventeen thousand euros.",
+      "zh": "該發票日期為 4 月 28 日，總金額為 17,000 歐元。"
+    },
+    {
+      "en": "Our review found three discrepancies that require your attention.",
+      "zh": "我們審查後發現三項待您處理的差異。"
+    },
+    {
+      "en": "First, fuel surcharges were billed at five percent above contract rate.",
+      "zh": "第一，燃油附加費較合約費率超收 5%。"
+    },
+    {
+      "en": "Our master agreement, section four, caps surcharges at three percent.",
+      "zh": "我方主合約第四節已將附加費上限訂為 3%。"
+    },
+    {
+      "en": "Second, the invoice lists fifteen shipments to the Lyon warehouse.",
+      "zh": "第二，發票列出 15 批前往 Lyon 倉庫之貨運。"
+    },
+    {
+      "en": "Our records confirm only thirteen shipments were received and signed for.",
+      "zh": "我方紀錄僅確認收到並簽收 13 批。"
+    },
+    {
+      "en": "We have attached copies of signed delivery notes for verification.",
+      "zh": "已附上已簽收之送貨單影本供查證。"
+    },
+    {
+      "en": "Third, the invoice charges weekend handling for Monday deliveries.",
+      "zh": "第三，發票就週一交貨案件收取週末處理費。"
+    },
+    {
+      "en": "Per appendix B, weekend rates apply only to Saturday and Sunday work.",
+      "zh": "依附錄 B，週末費率僅適用於週六與週日作業。"
+    },
+    {
+      "en": "These three issues total an overcharge of three thousand two hundred euros.",
+      "zh": "上述三項問題共溢收 3,200 歐元。"
+    },
+    {
+      "en": "Please issue a credit note for the disputed amount within fifteen days.",
+      "zh": "請於 15 天內就爭議金額開立貸項通知書。"
+    },
+    {
+      "en": "We will process payment of the undisputed balance once the credit is received.",
+      "zh": "收到貸項通知後，我方將支付無爭議部分之餘款。"
+    },
+    {
+      "en": "Until then, the full invoice is placed on hold in our system.",
+      "zh": "在此之前，整張發票將於我方系統內暫予擱置。"
+    },
+    {
+      "en": "We value our long-standing partnership and prefer a quick resolution.",
+      "zh": "我方珍視長期合作關係，希望盡快解決此事。"
+    },
+    {
+      "en": "Please contact me directly to discuss the supporting evidence.",
+      "zh": "請直接與我聯繫以討論相關佐證資料。"
+    },
+    {
+      "en": "I can be reached at extension 6210 between nine and five.",
+      "zh": "我於 9 點至 17 點可透過分機 6210 聯繫。"
+    },
+    {
+      "en": "Alternatively, you may reply to this email with revised documents.",
+      "zh": "或您亦可回覆本郵件並附上修正後文件。"
+    },
+    {
+      "en": "We also request a brief root cause analysis to prevent repeat errors.",
+      "zh": "我方亦請提供簡要根本原因分析以防再發生。"
+    },
+    {
+      "en": "Our finance review committee meets every Wednesday afternoon.",
+      "zh": "我方財務審查委員會每週三下午召開會議。"
+    },
+    {
+      "en": "Your prompt response will help us close the matter before month end.",
+      "zh": "您的迅速回應將有助我們在月底前結案。"
+    },
+    {
+      "en": "Thank you for your cooperation and continued service to our company.",
+      "zh": "感謝您的配合及對本公司之持續服務。"
+    },
+    {
+      "en": "Sincerely, Pavel Rodriguez, Senior Procurement Manager at Halcyon Trading.",
+      "zh": "敬上，Halcyon Trading 資深採購經理 Pavel Rodriguez。"
+    },
+    {
+      "en": "Copy to, Marcus Field, internal audit lead, and Rita Chao, controller.",
+      "zh": "副本：內部稽核主管 Marcus Field 及財務長 Rita Chao。"
+    },
+    {
+      "en": "Attachment A contains the signed delivery notes mentioned above in detail.",
+      "zh": "附件 A 為上述提及之已簽收送貨單詳細內容。"
+    },
+    {
+      "en": "Attachment B includes the relevant contract clauses highlighted for clarity.",
+      "zh": "附件 B 為相關合約條款，已加註標示以利對照。"
+    },
+    {
+      "en": "Attachment C summarizes the calculation behind the disputed amount.",
+      "zh": "附件 C 彙整爭議金額之計算依據。"
+    },
+    {
+      "en": "We are prepared to escalate this to mediation if resolution stalls.",
+      "zh": "倘解決過程停滯，我方準備將本案提交調解。"
+    },
+    {
+      "en": "However, we firmly believe a constructive dialogue will resolve everything quickly.",
+      "zh": "惟我方堅信透過建設性對話可迅速解決所有問題。"
+    },
+    {
+      "en": "Future invoices should be sent directly to our shared services mailbox.",
+      "zh": "後續發票請直接寄送至我方共享服務信箱。"
+    },
+    {
+      "en": "This change avoids delays caused by individual mailbox forwarding rules.",
+      "zh": "此調整可避免因個人信箱轉寄規則導致的延誤。"
+    },
+    {
+      "en": "We trust this matter receives the priority that our partnership deserves.",
+      "zh": "相信本案將獲得符合雙方合作關係之優先處理。"
+    },
+    {
+      "en": "We look forward to receiving your formal response by next Friday.",
+      "zh": "期待於下週五前收到貴方正式回覆。"
+    },
+    {
+      "en": "Our legal team has been briefed on the contractual provisions involved.",
+      "zh": "我方法務團隊已就所涉合約條款獲得簡報。"
+    },
+    {
+      "en": "Both parties retain the right to invoke the dispute resolution clause.",
+      "zh": "雙方皆保留援引爭議解決條款之權利。"
+    },
+    {
+      "en": "Pending resolution, future deliveries should continue without operational interruption.",
+      "zh": "在解決前，後續貨運應持續進行，不致中斷營運。"
+    },
+    {
+      "en": "Our procurement records system has flagged this invoice for special review.",
+      "zh": "我方採購紀錄系統已就此發票標註特別審查。"
+    },
+    {
+      "en": "Please ensure your accounts receivable manager receives a copy of this letter.",
+      "zh": "請確保貴方應收帳款經理收到本函副本。"
+    },
+    {
+      "en": "Documentation supporting your original invoice calculation would also be helpful.",
+      "zh": "支持貴方原始發票計算之文件亦將有所助益。"
+    },
+    {
+      "en": "We propose a joint conference call to walk through each disputed line.",
+      "zh": "我方建議召開聯合電話會議，逐項討論爭議項目。"
+    },
+    {
+      "en": "Tuesday or Wednesday next week would suit our calendar reasonably well.",
+      "zh": "下週二或週三大致符合我方行程安排。"
+    },
+    {
+      "en": "Resolving this matter promptly preserves the trust built over many years.",
+      "zh": "迅速解決本事項可維繫多年來建立的信任。"
+    },
+    {
+      "en": "Sincerely once more, Pavel Rodriguez, on behalf of the procurement office.",
+      "zh": "再次致上敬意，Pavel Rodriguez 謹代表採購辦公室。"
+    }
   ]
 }

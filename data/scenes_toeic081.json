@@ -1,50 +1,185 @@
 {
   "title": "Logistics Carrier Comparison",
   "all": [
-    { "en": "This analysis compares three logistics carriers for our domestic distribution needs.", "zh": "本分析比較三家物流業者以滿足國內配送需求。" },
-    { "en": "The candidates are Pacific Express, Northern Freight, and Summit Logistics.", "zh": "候選業者為太平洋速遞、北方貨運與峰頂物流。" },
-    { "en": "Each carrier was evaluated against six weighted criteria.", "zh": "每家業者均依六項加權標準進行評估。" },
-    { "en": "Price accounted for thirty percent of the total scoring weight.", "zh": "價格佔總評分權重的百分之三十。" },
-    { "en": "On time delivery performance carried an equal thirty percent weight.", "zh": "準時送達績效同樣佔百分之三十權重。" },
-    { "en": "Damage and loss rates contributed fifteen percent to the evaluation.", "zh": "損壞與遺失率對評估貢獻百分之十五。" },
-    { "en": "Geographic coverage was weighted at ten percent of the total score.", "zh": "地理涵蓋範圍於總分中佔百分之十權重。" },
-    { "en": "Technology integration capability also carried a ten percent weight.", "zh": "技術整合能力同樣佔百分之十權重。" },
-    { "en": "Sustainability performance accounted for the remaining five percent.", "zh": "永續績效佔餘下的百分之五。" },
-    { "en": "Pacific Express offered the lowest blended rate per shipment.", "zh": "太平洋速遞提供最低的每筆貨運綜合費率。" },
-    { "en": "However, their on time performance trailed the other two carriers.", "zh": "然而其準時績效落後於另外兩家業者。" },
-    { "en": "Northern Freight delivered the highest on time rate at ninety seven percent.", "zh": "北方貨運交出最高百分之九十七的準時率。" },
-    { "en": "Their damage rate was also the lowest at zero point three percent.", "zh": "其損壞率亦為最低，僅百分之零點三。" },
-    { "en": "Summit Logistics provided the broadest coverage to remote areas.", "zh": "峰頂物流對偏遠地區提供最廣泛的涵蓋。" },
-    { "en": "Their pricing, however, was roughly twelve percent above the benchmark.", "zh": "然而其定價約較基準高出百分之十二。" },
-    { "en": "All three carriers offer real time tracking through standard interfaces.", "zh": "三家業者皆透過標準介面提供即時追蹤。" },
-    { "en": "Only Northern Freight supports our preferred shipping label format directly.", "zh": "僅北方貨運直接支援本公司偏好的運送標籤格式。" },
-    { "en": "On sustainability, Summit Logistics leads with a fully electric urban fleet.", "zh": "在永續方面，峰頂物流以全電動都會車隊領先。" },
-    { "en": "Reference checks were completed with two existing customers per carrier.", "zh": "每家業者均完成兩家現有客戶的諮詢查證。" },
-    { "en": "Feedback was consistently positive for all three providers overall.", "zh": "三家業者整體獲得一致正面的回饋。" },
-    { "en": "Northern Freight scored highest with eighty seven points out of one hundred.", "zh": "北方貨運以一百分中的八十七分獲得最高分。" },
-    { "en": "Pacific Express finished second at eighty one points overall.", "zh": "太平洋速遞以八十一分位居整體第二。" },
-    { "en": "Summit Logistics rounded out the evaluation at seventy nine points.", "zh": "峰頂物流以七十九分結束評估。" },
-    { "en": "The recommendation is to award the primary contract to Northern Freight.", "zh": "建議將主要合約授予北方貨運。" },
-    { "en": "Pacific Express will be retained as a backup carrier for surge periods.", "zh": "太平洋速遞將留任為尖峰期間的備援業者。" },
-    { "en": "Summit Logistics may still serve specific remote routes under a separate agreement.", "zh": "峰頂物流仍可依另立合約承運特定偏遠路線。" },
-    { "en": "Initial contract term is proposed at three years with annual performance reviews.", "zh": "建議首期合約為三年，並設年度績效檢視。" },
-    { "en": "Volume discounts will be negotiated based on quarterly shipment milestones.", "zh": "量價折讓將依季度貨量里程碑進行協商。" },
-    { "en": "Service level commitments include penalty clauses for repeated late deliveries.", "zh": "服務水準承諾包含對重複延遲交付的罰則條款。" },
-    { "en": "An onboarding plan will integrate carrier systems with our order management platform.", "zh": "導入計畫將把業者系統整合至本公司訂單管理平台。" },
-    { "en": "Pilot shipments will run for sixty days before full migration is confirmed.", "zh": "試運貨將進行六十天，再正式確認全面轉換。" },
-    { "en": "Customer impact during the transition is expected to be minimal and unnoticeable.", "zh": "轉換期間對客戶影響預期極小且不易察覺。" },
-    { "en": "Joint quarterly business reviews will track service quality and continuous improvement.", "zh": "雙方季度業務檢討會議將追蹤服務品質與持續改善。" },
-    { "en": "Final approval from the procurement steering committee is requested at next meeting.", "zh": "請於下次會議提請採購指導委員會給予最終核准。" },
-    { "en": "Implementation can begin within two weeks once the agreement is signed.", "zh": "合約簽署後可於兩週內展開導入作業。" },
-    { "en": "Carrier scorecards will be issued each month to track service performance trends.", "zh": "業者計分卡將每月發布以追蹤服務績效趨勢。" },
-    { "en": "Penalty triggers include three consecutive months of below ninety five percent on time.", "zh": "罰則觸發包含連續三個月準時率低於百分之九十五。" },
-    { "en": "Volume rebates reward sustained partnership growth across all shipping lanes.", "zh": "量價回饋獎勵跨所有運輸路線的持續合作成長。" },
-    { "en": "Fuel surcharge formulas are documented as appendix three of the master agreement.", "zh": "燃油附加費公式記載於主合約附件三。" },
-    { "en": "Both parties commit to quarterly innovation workshops to refine joint service design.", "zh": "雙方承諾每季舉行創新工作坊以精進共同服務設計。" },
-    { "en": "Sustainability reporting will be jointly published in line with global frameworks.", "zh": "永續報告將依據全球框架共同發布。" },
-    { "en": "A shared change management governance ensures alignment on any major route updates.", "zh": "共同的變更管理治理機制確保重大路線更新獲得一致共識。" },
-    { "en": "Insurance certificates will be renewed and stored in the secure vendor management portal.", "zh": "保險證明將更新並保存於安全的廠商管理入口網。" },
-    { "en": "Service recovery procedures must restore visibility within thirty minutes of any disruption.", "zh": "服務復原程序須於任何中斷後三十分鐘內恢復可見度。" },
-    { "en": "We look forward to building a reliable long term partnership with the winning carrier.", "zh": "期待與最終勝出業者共同建立可靠的長期合作關係。" }
+    {
+      "en": "This analysis compares three logistics carriers for our domestic distribution needs.",
+      "zh": "本分析比較三家物流業者以滿足國內配送需求。"
+    },
+    {
+      "en": "The candidates are Pacific Express, Northern Freight, and Summit Logistics.",
+      "zh": "候選業者為太平洋速遞、北方貨運與峰頂物流。"
+    },
+    {
+      "en": "Each carrier was evaluated against six weighted criteria.",
+      "zh": "每家業者均依六項加權標準進行評估。"
+    },
+    {
+      "en": "Price accounted for thirty percent of the total scoring weight.",
+      "zh": "價格佔總評分權重的百分之三十。"
+    },
+    {
+      "en": "On time delivery performance carried an equal thirty percent weight.",
+      "zh": "準時送達績效同樣佔百分之三十權重。"
+    },
+    {
+      "en": "Damage and loss rates contributed fifteen percent to the evaluation.",
+      "zh": "損壞與遺失率對評估貢獻百分之十五。"
+    },
+    {
+      "en": "Geographic coverage was weighted at ten percent of the total score.",
+      "zh": "地理涵蓋範圍於總分中佔百分之十權重。"
+    },
+    {
+      "en": "Technology integration capability also carried a ten percent weight.",
+      "zh": "技術整合能力同樣佔百分之十權重。"
+    },
+    {
+      "en": "Sustainability performance accounted for the remaining five percent.",
+      "zh": "永續績效佔餘下的百分之五。"
+    },
+    {
+      "en": "Pacific Express offered the lowest blended rate per shipment.",
+      "zh": "太平洋速遞提供最低的每筆貨運綜合費率。"
+    },
+    {
+      "en": "However, their on time performance trailed the other two carriers.",
+      "zh": "然而其準時績效落後於另外兩家業者。"
+    },
+    {
+      "en": "Northern Freight delivered the highest on time rate at ninety seven percent.",
+      "zh": "北方貨運交出最高百分之九十七的準時率。"
+    },
+    {
+      "en": "Their damage rate was also the lowest at zero point three percent.",
+      "zh": "其損壞率亦為最低，僅百分之零點三。"
+    },
+    {
+      "en": "Summit Logistics provided the broadest coverage to remote areas.",
+      "zh": "峰頂物流對偏遠地區提供最廣泛的涵蓋。"
+    },
+    {
+      "en": "Their pricing, however, was roughly twelve percent above the benchmark.",
+      "zh": "然而其定價約較基準高出百分之十二。"
+    },
+    {
+      "en": "All three carriers offer real time tracking through standard interfaces.",
+      "zh": "三家業者皆透過標準介面提供即時追蹤。"
+    },
+    {
+      "en": "Only Northern Freight supports our preferred shipping label format directly.",
+      "zh": "僅北方貨運直接支援本公司偏好的運送標籤格式。"
+    },
+    {
+      "en": "On sustainability, Summit Logistics leads with a fully electric urban fleet.",
+      "zh": "在永續方面，峰頂物流以全電動都會車隊領先。"
+    },
+    {
+      "en": "Reference checks were completed with two existing customers per carrier.",
+      "zh": "每家業者均完成兩家現有客戶的諮詢查證。"
+    },
+    {
+      "en": "Feedback was consistently positive for all three providers overall.",
+      "zh": "三家業者整體獲得一致正面的回饋。"
+    },
+    {
+      "en": "Northern Freight scored highest with eighty seven points out of one hundred.",
+      "zh": "北方貨運以一百分中的八十七分獲得最高分。"
+    },
+    {
+      "en": "Pacific Express finished second at eighty one points overall.",
+      "zh": "太平洋速遞以八十一分位居整體第二。"
+    },
+    {
+      "en": "Summit Logistics rounded out the evaluation at seventy nine points.",
+      "zh": "峰頂物流以七十九分結束評估。"
+    },
+    {
+      "en": "The recommendation is to award the primary contract to Northern Freight.",
+      "zh": "建議將主要合約授予北方貨運。"
+    },
+    {
+      "en": "Pacific Express will be retained as a backup carrier for surge periods.",
+      "zh": "太平洋速遞將留任為尖峰期間的備援業者。"
+    },
+    {
+      "en": "Summit Logistics may still serve specific remote routes under a separate agreement.",
+      "zh": "峰頂物流仍可依另立合約承運特定偏遠路線。"
+    },
+    {
+      "en": "Initial contract term is proposed at three years with annual performance reviews.",
+      "zh": "建議首期合約為三年，並設年度績效檢視。"
+    },
+    {
+      "en": "Volume discounts will be negotiated based on quarterly shipment milestones.",
+      "zh": "量價折讓將依季度貨量里程碑進行協商。"
+    },
+    {
+      "en": "Service level commitments include penalty clauses for repeated late deliveries.",
+      "zh": "服務水準承諾包含對重複延遲交付的罰則條款。"
+    },
+    {
+      "en": "An onboarding plan will integrate carrier systems with our order management platform.",
+      "zh": "導入計畫將把業者系統整合至本公司訂單管理平台。"
+    },
+    {
+      "en": "Pilot shipments will run for sixty days before full migration is confirmed.",
+      "zh": "試運貨將進行六十天，再正式確認全面轉換。"
+    },
+    {
+      "en": "Customer impact during the transition is expected to be minimal and unnoticeable.",
+      "zh": "轉換期間對客戶影響預期極小且不易察覺。"
+    },
+    {
+      "en": "Joint quarterly business reviews will track service quality and continuous improvement.",
+      "zh": "雙方季度業務檢討會議將追蹤服務品質與持續改善。"
+    },
+    {
+      "en": "Final approval from the procurement steering committee is requested at next meeting.",
+      "zh": "請於下次會議提請採購指導委員會給予最終核准。"
+    },
+    {
+      "en": "Implementation can begin within two weeks once the agreement is signed.",
+      "zh": "合約簽署後可於兩週內展開導入作業。"
+    },
+    {
+      "en": "Carrier scorecards will be issued each month to track service performance trends.",
+      "zh": "業者計分卡將每月發布以追蹤服務績效趨勢。"
+    },
+    {
+      "en": "Penalty triggers include three consecutive months of below ninety five percent on time.",
+      "zh": "罰則觸發包含連續三個月準時率低於百分之九十五。"
+    },
+    {
+      "en": "Volume rebates reward sustained partnership growth across all shipping lanes.",
+      "zh": "量價回饋獎勵跨所有運輸路線的持續合作成長。"
+    },
+    {
+      "en": "Fuel surcharge formulas are documented as appendix three of the master agreement.",
+      "zh": "燃油附加費公式記載於主合約附件三。"
+    },
+    {
+      "en": "Both parties commit to quarterly innovation workshops to refine joint service design.",
+      "zh": "雙方承諾每季舉行創新工作坊以精進共同服務設計。"
+    },
+    {
+      "en": "Sustainability reporting will be jointly published in line with global frameworks.",
+      "zh": "永續報告將依據全球框架共同發布。"
+    },
+    {
+      "en": "A shared change management governance ensures alignment on any major route updates.",
+      "zh": "共同的變更管理治理機制確保重大路線更新獲得一致共識。"
+    },
+    {
+      "en": "Insurance certificates will be renewed and stored in the secure vendor management portal.",
+      "zh": "保險證明將更新並保存於安全的廠商管理入口網。"
+    },
+    {
+      "en": "Service recovery procedures must restore visibility within thirty minutes of any disruption.",
+      "zh": "服務復原程序須於任何中斷後三十分鐘內恢復可見度。"
+    },
+    {
+      "en": "We look forward to building a reliable long term partnership with the winning carrier.",
+      "zh": "期待與最終勝出業者共同建立可靠的長期合作關係。"
+    }
   ]
 }

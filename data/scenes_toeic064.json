@@ -1,49 +1,181 @@
 {
   "title": "Customer Retention Strategy",
   "all": [
-    { "en": "Customer retention is one of the most important growth levers we have.", "zh": "客戶留存是我們最重要的成長槓桿之一。" },
-    { "en": "Retaining existing customers is far cheaper than acquiring new ones.", "zh": "留住既有客戶比獲取新客戶便宜許多。" },
-    { "en": "A small lift in retention can dramatically improve lifetime value.", "zh": "留存率小幅提升可大幅改善客戶終身價值。" },
-    { "en": "Our retention strategy is built on four core pillars this year.", "zh": "我們今年的留存策略建立於四大核心支柱之上。" },
-    { "en": "The first pillar is proactive customer success engagement.", "zh": "第一支柱為主動的客戶成功互動。" },
-    { "en": "Success managers conduct quarterly business reviews with each account.", "zh": "客戶成功經理與每個客戶進行季度業務檢討。" },
-    { "en": "These reviews highlight adoption progress and unrealized value.", "zh": "檢討會凸顯採用進展與尚未實現的價值。" },
-    { "en": "The second pillar focuses on product adoption and feature usage.", "zh": "第二支柱聚焦於產品採用與功能使用。" },
-    { "en": "Usage telemetry helps identify accounts at risk of churn early.", "zh": "使用數據協助及早識別有流失風險的客戶。" },
-    { "en": "Low engagement triggers automated outreach from success teams.", "zh": "低度參與將觸發成功團隊的自動化聯繫。" },
-    { "en": "The third pillar emphasizes executive sponsorship at strategic accounts.", "zh": "第三支柱強調策略客戶的高層贊助。" },
-    { "en": "Executive sponsors meet customer leaders at least twice per year.", "zh": "高層贊助人每年至少與客戶領導者會面兩次。" },
-    { "en": "These meetings strengthen relationships and surface emerging needs.", "zh": "這些會議鞏固關係並浮現新興需求。" },
-    { "en": "The fourth pillar covers continuous education and community programs.", "zh": "第四支柱涵蓋持續教育與社群計畫。" },
-    { "en": "Webinars, certifications, and user groups deepen customer skills.", "zh": "網路研討會、認證與使用者社群深化客戶技能。" },
-    { "en": "Engaged users typically renew at much higher rates than passive ones.", "zh": "積極參與的使用者通常以遠高於被動使用者的比率續約。" },
-    { "en": "Our renewals team forecasts every account ninety days in advance.", "zh": "我們的續約團隊提前九十天預測每個客戶。" },
-    { "en": "Risk accounts are flagged red and assigned a save plan owner.", "zh": "風險客戶標記為紅色並指派挽救計畫負責人。" },
-    { "en": "Save plans include tailored offers, training, and executive outreach.", "zh": "挽救計畫包含客製化優惠、訓練與高層聯繫。" },
-    { "en": "Voice of customer surveys are sent after major service interactions.", "zh": "客戶心聲調查於重大服務互動後寄送。" },
-    { "en": "Net promoter score is reviewed monthly by senior leadership.", "zh": "淨推薦分數每月由高階管理層檢視。" },
-    { "en": "Detractor feedback feeds directly into product and operations planning.", "zh": "貶低者回饋直接導入產品與營運規劃。" },
-    { "en": "Our target this year is gross retention above ninety four percent.", "zh": "我們今年目標為毛留存率高於百分之九十四。" },
-    { "en": "Achieving that goal will require coordinated effort across every team.", "zh": "達成該目標需各團隊協調合作。" },
-    { "en": "Cross functional retention reviews are scheduled every month with all leaders.", "zh": "跨職能留存檢討會每月與所有領導者進行。" },
-    { "en": "Marketing supports retention through targeted lifecycle communication campaigns.", "zh": "行銷透過目標式生命週期傳播活動支援留存。" },
-    { "en": "Support response time is closely tied to customer perception of value.", "zh": "支援回應時間與顧客對價值的感受密切相關。" },
-    { "en": "First contact resolution metrics are reviewed alongside satisfaction scores.", "zh": "首次接觸解決率指標與滿意度分數一同檢視。" },
-    { "en": "Loyalty programs reward long tenure customers with exclusive benefits.", "zh": "忠誠計畫以獨家權益回饋長期客戶。" },
-    { "en": "Win back campaigns target recently churned accounts within six months.", "zh": "回流活動針對六個月內流失的客戶展開。" },
-    { "en": "Pricing flexibility on renewals helps preserve relationships with budget constrained clients.", "zh": "續約時的彈性定價有助保留預算受限的客戶關係。" },
-    { "en": "Product roadmap previews give customers confidence in our long term direction.", "zh": "產品藍圖預覽讓客戶對我們的長期方向更具信心。" },
-    { "en": "Customer advocacy programs convert satisfied users into vocal references.", "zh": "客戶倡導計畫將滿意的使用者轉化為主動推薦者。" },
-    { "en": "Retention is ultimately the result of consistently delivering on every promise.", "zh": "留存最終是持續兌現每一項承諾的結果。" },
-    { "en": "Onboarding quality during the first ninety days strongly predicts long term retention.", "zh": "前九十天的導入品質對長期留存具高度預測力。" },
-    { "en": "Time to first value is tracked closely and benchmarked across customer segments.", "zh": "首次價值實現時間被密切追蹤並於各客群間對標。" },
-    { "en": "Quarterly health reviews surface accounts requiring immediate executive attention.", "zh": "季度健康檢視浮現需要高層立即關注的客戶。" },
-    { "en": "Multi year contract penetration improves retention by reducing renewal friction.", "zh": "多年合約滲透率因降低續約阻力而提升留存。" },
-    { "en": "Product feedback loops feed customer requests into the engineering backlog.", "zh": "產品回饋迴路將客戶需求導入工程待辦清單。" },
-    { "en": "Account expansion targets are set alongside renewal goals each fiscal quarter.", "zh": "客戶擴展目標於每個會計季度與續約目標一同設定。" },
-    { "en": "Customer education investments correlate strongly with reduced churn risk.", "zh": "客戶教育投資與流失風險降低具高度相關性。" },
-    { "en": "Renewal automation streamlines administrative tasks and improves response time.", "zh": "續約自動化簡化行政工作並縮短回應時間。" },
-    { "en": "Predictive churn models flag at risk accounts sixty days before contract end.", "zh": "預測流失模型於合約到期前六十天標示風險客戶。" },
-    { "en": "A unified customer view across teams ensures consistent retention execution.", "zh": "各團隊間統一的客戶視角確保留存執行的一致性。" }
+    {
+      "en": "Customer retention is one of the most important growth levers we have.",
+      "zh": "客戶留存是我們最重要的成長槓桿之一。"
+    },
+    {
+      "en": "Retaining existing customers is far cheaper than acquiring new ones.",
+      "zh": "留住既有客戶比獲取新客戶便宜許多。"
+    },
+    {
+      "en": "A small lift in retention can dramatically improve lifetime value.",
+      "zh": "留存率小幅提升可大幅改善客戶終身價值。"
+    },
+    {
+      "en": "Our retention strategy is built on four core pillars this year.",
+      "zh": "我們今年的留存策略建立於四大核心支柱之上。"
+    },
+    {
+      "en": "The first pillar is proactive customer success engagement.",
+      "zh": "第一支柱為主動的客戶成功互動。"
+    },
+    {
+      "en": "Success managers conduct quarterly business reviews with each account.",
+      "zh": "客戶成功經理與每個客戶進行季度業務檢討。"
+    },
+    {
+      "en": "These reviews highlight adoption progress and unrealized value.",
+      "zh": "檢討會凸顯採用進展與尚未實現的價值。"
+    },
+    {
+      "en": "The second pillar focuses on product adoption and feature usage.",
+      "zh": "第二支柱聚焦於產品採用與功能使用。"
+    },
+    {
+      "en": "Usage telemetry helps identify accounts at risk of churn early.",
+      "zh": "使用數據協助及早識別有流失風險的客戶。"
+    },
+    {
+      "en": "Low engagement triggers automated outreach from success teams.",
+      "zh": "低度參與將觸發成功團隊的自動化聯繫。"
+    },
+    {
+      "en": "The third pillar emphasizes executive sponsorship at strategic accounts.",
+      "zh": "第三支柱強調策略客戶的高層贊助。"
+    },
+    {
+      "en": "Executive sponsors meet customer leaders at least twice per year.",
+      "zh": "高層贊助人每年至少與客戶領導者會面兩次。"
+    },
+    {
+      "en": "These meetings strengthen relationships and surface emerging needs.",
+      "zh": "這些會議鞏固關係並浮現新興需求。"
+    },
+    {
+      "en": "The fourth pillar covers continuous education and community programs.",
+      "zh": "第四支柱涵蓋持續教育與社群計畫。"
+    },
+    {
+      "en": "Webinars, certifications, and user groups deepen customer skills.",
+      "zh": "網路研討會、認證與使用者社群深化客戶技能。"
+    },
+    {
+      "en": "Engaged users typically renew at much higher rates than passive ones.",
+      "zh": "積極參與的使用者通常以遠高於被動使用者的比率續約。"
+    },
+    {
+      "en": "Our renewals team forecasts every account ninety days in advance.",
+      "zh": "我們的續約團隊提前九十天預測每個客戶。"
+    },
+    {
+      "en": "Risk accounts are flagged red and assigned a save plan owner.",
+      "zh": "風險客戶標記為紅色並指派挽救計畫負責人。"
+    },
+    {
+      "en": "Save plans include tailored offers, training, and executive outreach.",
+      "zh": "挽救計畫包含客製化優惠、訓練與高層聯繫。"
+    },
+    {
+      "en": "Voice of customer surveys are sent after major service interactions.",
+      "zh": "客戶心聲調查於重大服務互動後寄送。"
+    },
+    {
+      "en": "Net promoter score is reviewed monthly by senior leadership.",
+      "zh": "淨推薦分數每月由高階管理層檢視。"
+    },
+    {
+      "en": "Detractor feedback feeds directly into product and operations planning.",
+      "zh": "貶低者回饋直接導入產品與營運規劃。"
+    },
+    {
+      "en": "Our target this year is gross retention above ninety four percent.",
+      "zh": "我們今年目標為毛留存率高於百分之九十四。"
+    },
+    {
+      "en": "Achieving that goal will require coordinated effort across every team.",
+      "zh": "達成該目標需各團隊協調合作。"
+    },
+    {
+      "en": "Cross functional retention reviews are scheduled every month with all leaders.",
+      "zh": "跨職能留存檢討會每月與所有領導者進行。"
+    },
+    {
+      "en": "Marketing supports retention through targeted lifecycle communication campaigns.",
+      "zh": "行銷透過目標式生命週期傳播活動支援留存。"
+    },
+    {
+      "en": "Support response time is closely tied to customer perception of value.",
+      "zh": "支援回應時間與顧客對價值的感受密切相關。"
+    },
+    {
+      "en": "First contact resolution metrics are reviewed alongside satisfaction scores.",
+      "zh": "首次接觸解決率指標與滿意度分數一同檢視。"
+    },
+    {
+      "en": "Loyalty programs reward long tenure customers with exclusive benefits.",
+      "zh": "忠誠計畫以獨家權益回饋長期客戶。"
+    },
+    {
+      "en": "Win back campaigns target recently churned accounts within six months.",
+      "zh": "回流活動針對六個月內流失的客戶展開。"
+    },
+    {
+      "en": "Pricing flexibility on renewals helps preserve relationships with budget constrained clients.",
+      "zh": "續約時的彈性定價有助保留預算受限的客戶關係。"
+    },
+    {
+      "en": "Product roadmap previews give customers confidence in our long term direction.",
+      "zh": "產品藍圖預覽讓客戶對我們的長期方向更具信心。"
+    },
+    {
+      "en": "Customer advocacy programs convert satisfied users into vocal references.",
+      "zh": "客戶倡導計畫將滿意的使用者轉化為主動推薦者。"
+    },
+    {
+      "en": "Retention is ultimately the result of consistently delivering on every promise.",
+      "zh": "留存最終是持續兌現每一項承諾的結果。"
+    },
+    {
+      "en": "Onboarding quality during the first ninety days strongly predicts long term retention.",
+      "zh": "前九十天的導入品質對長期留存具高度預測力。"
+    },
+    {
+      "en": "Time to first value is tracked closely and benchmarked across customer segments.",
+      "zh": "首次價值實現時間被密切追蹤並於各客群間對標。"
+    },
+    {
+      "en": "Quarterly health reviews surface accounts requiring immediate executive attention.",
+      "zh": "季度健康檢視浮現需要高層立即關注的客戶。"
+    },
+    {
+      "en": "Multi year contract penetration improves retention by reducing renewal friction.",
+      "zh": "多年合約滲透率因降低續約阻力而提升留存。"
+    },
+    {
+      "en": "Product feedback loops feed customer requests into the engineering backlog.",
+      "zh": "產品回饋迴路將客戶需求導入工程待辦清單。"
+    },
+    {
+      "en": "Account expansion targets are set alongside renewal goals each fiscal quarter.",
+      "zh": "客戶擴展目標於每個會計季度與續約目標一同設定。"
+    },
+    {
+      "en": "Customer education investments correlate strongly with reduced churn risk.",
+      "zh": "客戶教育投資與流失風險降低具高度相關性。"
+    },
+    {
+      "en": "Renewal automation streamlines administrative tasks and improves response time.",
+      "zh": "續約自動化簡化行政工作並縮短回應時間。"
+    },
+    {
+      "en": "Predictive churn models flag at risk accounts sixty days before contract end.",
+      "zh": "預測流失模型於合約到期前六十天標示風險客戶。"
+    },
+    {
+      "en": "A unified customer view across teams ensures consistent retention execution.",
+      "zh": "各團隊間統一的客戶視角確保留存執行的一致性。"
+    }
   ]
 }

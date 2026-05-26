@@ -1,49 +1,181 @@
 {
   "title": "Customer Satisfaction Survey Introduction",
   "all": [
-    { "en": "Thank you for choosing Brightway Communications as your service provider.", "zh": "感謝您選擇 Brightway Communications 作為您的服務供應商。" },
-    { "en": "We are constantly looking for ways to improve the quality of our offerings.", "zh": "我們持續尋求提升服務品質的方法。" },
-    { "en": "Your honest feedback plays a critical role in helping us achieve this goal.", "zh": "您誠實的意見回饋對我們達成目標至關重要。" },
-    { "en": "We invite you to participate in our annual customer satisfaction survey.", "zh": "我們誠摯邀請您參與年度顧客滿意度調查。" },
-    { "en": "The survey contains approximately 20 questions and takes about eight minutes.", "zh": "問卷共約 20 題，作答時間約八分鐘。" },
-    { "en": "All responses will be kept strictly confidential and used only for internal analysis.", "zh": "所有回覆將嚴格保密，僅作為內部分析之用。" },
-    { "en": "Topics covered include product quality, customer service, and overall experience.", "zh": "問卷主題包含產品品質、客戶服務與整體體驗。" },
-    { "en": "You will also be asked about your most recent interaction with our team.", "zh": "您也會被問及最近一次與我們團隊的互動經驗。" },
-    { "en": "There are no right or wrong answers, so please share your true opinions.", "zh": "問卷沒有對錯答案，請真實分享您的看法。" },
-    { "en": "If a question does not apply to you, simply select the not applicable option.", "zh": "若題目與您無關，請直接選擇「不適用」選項。" },
-    { "en": "At the end of the survey, you may add open comments and suggestions.", "zh": "在問卷最後，您可以留下開放式意見與建議。" },
-    { "en": "Our management team personally reviews every comment we receive.", "zh": "我們的管理團隊會親自審閱每一則收到的意見。" },
-    { "en": "As a token of appreciation, all participants will receive a 15 percent coupon.", "zh": "為表達感謝，所有參與者將獲得九折優惠券。" },
-    { "en": "The coupon is valid for 90 days and can be used on any service plan.", "zh": "優惠券有效期 90 天，可用於任何服務方案。" },
-    { "en": "Ten respondents will also be randomly selected to win a premium gift basket.", "zh": "我們也將隨機抽出十位填寫者贈送精選禮籃。" },
-    { "en": "Winners will be notified by email within two weeks of survey closure.", "zh": "得獎者將於問卷結束兩週內以電子郵件通知。" },
-    { "en": "The survey link is available at the bottom of this email message.", "zh": "問卷連結位於此電子郵件下方。" },
-    { "en": "Please complete the survey before May 30 to be eligible for the prize draw.", "zh": "請於五月三十日前完成問卷以符合抽獎資格。" },
-    { "en": "If you experience any issues accessing the survey, contact our help desk.", "zh": "若您在開啟問卷時遇到任何問題，請聯絡我們的服務台。" },
-    { "en": "You can also call our toll-free line at 1-800-555-0142 for assistance.", "zh": "您也可以撥打免付費專線 1-800-555-0142 取得協助。" },
-    { "en": "Your input has guided many of our recent service improvements.", "zh": "您的意見已促成我們近期多項服務改善。" },
-    { "en": "Last year, customer comments led to faster billing and new payment options.", "zh": "去年顧客的回饋促成更快的帳單流程與新增的付款方式。" },
-    { "en": "We deeply value the time you take to share your experience with us.", "zh": "我們由衷感謝您撥冗分享您的體驗。" },
-    { "en": "Thank you again for being a loyal customer of Brightway Communications.", "zh": "再次感謝您成為 Brightway Communications 的忠實顧客。" },
-    { "en": "Survey results from previous years are summarized on the transparency page of our website.", "zh": "歷年問卷結果摘要公佈於本公司網站的透明度專區。" },
-    { "en": "We benchmark our customer scores against industry averages to identify areas for growth.", "zh": "我們會將顧客評分與業界平均比較，以找出可成長的領域。" },
-    { "en": "A summary of this year's findings will be published in our quarterly newsletter.", "zh": "本年度問卷結果摘要將刊登於本公司的季度電子報。" },
-    { "en": "Customers who prefer paper forms may request a printed version from any branch office.", "zh": "偏好紙本問卷的顧客可至任何分公司索取列印版本。" },
-    { "en": "The questionnaire is available in English, traditional Chinese, Japanese, and Korean.", "zh": "問卷提供英文、繁體中文、日文與韓文等版本。" },
-    { "en": "Please save your progress periodically if you need to step away from your computer.", "zh": "若您需要暫時離開電腦，請定時儲存作答進度。" },
-    { "en": "We have streamlined the layout this year to make navigation easier on mobile devices.", "zh": "今年我們已優化版面，方便您在行動裝置上瀏覽作答。" },
-    { "en": "Frontline staff will undergo additional training based on your most frequent suggestions.", "zh": "前線同仁將依據您最常提出的建議接受額外訓練。" },
-    { "en": "Senior leadership commits to publishing an action plan within sixty days of survey closure.", "zh": "公司高層承諾於問卷結束六十天內公布行動方案。" },
-    { "en": "Your continued partnership enables us to deliver better products and reliable service every day.", "zh": "您持續的支持讓我們得以每日提供更優質的產品與穩定的服務。" },
-    { "en": "Focus group sessions are scheduled in major cities for customers who wish to share deeper insights.", "zh": "我們將在主要城市舉辦焦點訪談，邀請願意分享深入觀點的顧客參加。" },
-    { "en": "Participants in focus groups receive a fifty dollar service credit applied to their account.", "zh": "焦點訪談參與者將獲得五十美元的服務抵用金存入帳戶。" },
-    { "en": "An accessibility-friendly version of the survey supports screen readers and high-contrast viewing.", "zh": "問卷亦提供無障礙版本，支援螢幕閱讀器與高對比檢視。" },
-    { "en": "Honest negative feedback is just as valuable to us as positive comments and praise.", "zh": "誠實的負面回饋對我們而言與正面評價同等重要。" },
-    { "en": "All personal data submitted through the survey is protected by industry-standard encryption protocols.", "zh": "問卷所提交的個人資料皆受業界標準的加密機制保護。" },
-    { "en": "A dedicated analytics team will compile responses and identify the top three priority improvement areas.", "zh": "專屬分析團隊將彙整回覆並找出前三大優先改善領域。" },
-    { "en": "Customers may opt to be notified personally when their suggested improvements are implemented.", "zh": "顧客可選擇於其建議獲得採納實施時收到個別通知。" },
-    { "en": "Community town hall meetings will be hosted virtually to discuss the survey findings in depth.", "zh": "我們將舉辦線上市民會議，深入討論本次問卷調查的結果。" },
-    { "en": "Our service quality scorecard will be updated quarterly and shared with all participating customers.", "zh": "服務品質計分表將每季更新，並寄送給所有參與問卷的顧客。" },
-    { "en": "Together, we can shape the future direction of Brightway Communications for years to come.", "zh": "讓我們攜手共同形塑 Brightway Communications 未來多年的發展方向。" }
+    {
+      "en": "Thank you for choosing Brightway Communications as your service provider.",
+      "zh": "感謝您選擇 Brightway Communications 作為您的服務供應商。"
+    },
+    {
+      "en": "We are constantly looking for ways to improve the quality of our offerings.",
+      "zh": "我們持續尋求提升服務品質的方法。"
+    },
+    {
+      "en": "Your honest feedback plays a critical role in helping us achieve this goal.",
+      "zh": "您誠實的意見回饋對我們達成目標至關重要。"
+    },
+    {
+      "en": "We invite you to participate in our annual customer satisfaction survey.",
+      "zh": "我們誠摯邀請您參與年度顧客滿意度調查。"
+    },
+    {
+      "en": "The survey contains approximately 20 questions and takes about eight minutes.",
+      "zh": "問卷共約 20 題，作答時間約八分鐘。"
+    },
+    {
+      "en": "All responses will be kept strictly confidential and used only for internal analysis.",
+      "zh": "所有回覆將嚴格保密，僅作為內部分析之用。"
+    },
+    {
+      "en": "Topics covered include product quality, customer service, and overall experience.",
+      "zh": "問卷主題包含產品品質、客戶服務與整體體驗。"
+    },
+    {
+      "en": "You will also be asked about your most recent interaction with our team.",
+      "zh": "您也會被問及最近一次與我們團隊的互動經驗。"
+    },
+    {
+      "en": "There are no right or wrong answers, so please share your true opinions.",
+      "zh": "問卷沒有對錯答案，請真實分享您的看法。"
+    },
+    {
+      "en": "If a question does not apply to you, simply select the not applicable option.",
+      "zh": "若題目與您無關，請直接選擇「不適用」選項。"
+    },
+    {
+      "en": "At the end of the survey, you may add open comments and suggestions.",
+      "zh": "在問卷最後，您可以留下開放式意見與建議。"
+    },
+    {
+      "en": "Our management team personally reviews every comment we receive.",
+      "zh": "我們的管理團隊會親自審閱每一則收到的意見。"
+    },
+    {
+      "en": "As a token of appreciation, all participants will receive a 15 percent coupon.",
+      "zh": "為表達感謝，所有參與者將獲得九折優惠券。"
+    },
+    {
+      "en": "The coupon is valid for 90 days and can be used on any service plan.",
+      "zh": "優惠券有效期 90 天，可用於任何服務方案。"
+    },
+    {
+      "en": "Ten respondents will also be randomly selected to win a premium gift basket.",
+      "zh": "我們也將隨機抽出十位填寫者贈送精選禮籃。"
+    },
+    {
+      "en": "Winners will be notified by email within two weeks of survey closure.",
+      "zh": "得獎者將於問卷結束兩週內以電子郵件通知。"
+    },
+    {
+      "en": "The survey link is available at the bottom of this email message.",
+      "zh": "問卷連結位於此電子郵件下方。"
+    },
+    {
+      "en": "Please complete the survey before May 30 to be eligible for the prize draw.",
+      "zh": "請於五月三十日前完成問卷以符合抽獎資格。"
+    },
+    {
+      "en": "If you experience any issues accessing the survey, contact our help desk.",
+      "zh": "若您在開啟問卷時遇到任何問題，請聯絡我們的服務台。"
+    },
+    {
+      "en": "You can also call our toll-free line at 1-800-555-0142 for assistance.",
+      "zh": "您也可以撥打免付費專線 1-800-555-0142 取得協助。"
+    },
+    {
+      "en": "Your input has guided many of our recent service improvements.",
+      "zh": "您的意見已促成我們近期多項服務改善。"
+    },
+    {
+      "en": "Last year, customer comments led to faster billing and new payment options.",
+      "zh": "去年顧客的回饋促成更快的帳單流程與新增的付款方式。"
+    },
+    {
+      "en": "We deeply value the time you take to share your experience with us.",
+      "zh": "我們由衷感謝您撥冗分享您的體驗。"
+    },
+    {
+      "en": "Thank you again for being a loyal customer of Brightway Communications.",
+      "zh": "再次感謝您成為 Brightway Communications 的忠實顧客。"
+    },
+    {
+      "en": "Survey results from previous years are summarized on the transparency page of our website.",
+      "zh": "歷年問卷結果摘要公佈於本公司網站的透明度專區。"
+    },
+    {
+      "en": "We benchmark our customer scores against industry averages to identify areas for growth.",
+      "zh": "我們會將顧客評分與業界平均比較，以找出可成長的領域。"
+    },
+    {
+      "en": "A summary of this year's findings will be published in our quarterly newsletter.",
+      "zh": "本年度問卷結果摘要將刊登於本公司的季度電子報。"
+    },
+    {
+      "en": "Customers who prefer paper forms may request a printed version from any branch office.",
+      "zh": "偏好紙本問卷的顧客可至任何分公司索取列印版本。"
+    },
+    {
+      "en": "The questionnaire is available in English, traditional Chinese, Japanese, and Korean.",
+      "zh": "問卷提供英文、繁體中文、日文與韓文等版本。"
+    },
+    {
+      "en": "Please save your progress periodically if you need to step away from your computer.",
+      "zh": "若您需要暫時離開電腦，請定時儲存作答進度。"
+    },
+    {
+      "en": "We have streamlined the layout this year to make navigation easier on mobile devices.",
+      "zh": "今年我們已優化版面，方便您在行動裝置上瀏覽作答。"
+    },
+    {
+      "en": "Frontline staff will undergo additional training based on your most frequent suggestions.",
+      "zh": "前線同仁將依據您最常提出的建議接受額外訓練。"
+    },
+    {
+      "en": "Senior leadership commits to publishing an action plan within sixty days of survey closure.",
+      "zh": "公司高層承諾於問卷結束六十天內公布行動方案。"
+    },
+    {
+      "en": "Your continued partnership enables us to deliver better products and reliable service every day.",
+      "zh": "您持續的支持讓我們得以每日提供更優質的產品與穩定的服務。"
+    },
+    {
+      "en": "Focus group sessions are scheduled in major cities for customers who wish to share deeper insights.",
+      "zh": "我們將在主要城市舉辦焦點訪談，邀請願意分享深入觀點的顧客參加。"
+    },
+    {
+      "en": "Participants in focus groups receive a fifty dollar service credit applied to their account.",
+      "zh": "焦點訪談參與者將獲得五十美元的服務抵用金存入帳戶。"
+    },
+    {
+      "en": "An accessibility-friendly version of the survey supports screen readers and high-contrast viewing.",
+      "zh": "問卷亦提供無障礙版本，支援螢幕閱讀器與高對比檢視。"
+    },
+    {
+      "en": "Honest negative feedback is just as valuable to us as positive comments and praise.",
+      "zh": "誠實的負面回饋對我們而言與正面評價同等重要。"
+    },
+    {
+      "en": "All personal data submitted through the survey is protected by industry-standard encryption protocols.",
+      "zh": "問卷所提交的個人資料皆受業界標準的加密機制保護。"
+    },
+    {
+      "en": "A dedicated analytics team will compile responses and identify the top three priority improvement areas.",
+      "zh": "專屬分析團隊將彙整回覆並找出前三大優先改善領域。"
+    },
+    {
+      "en": "Customers may opt to be notified personally when their suggested improvements are implemented.",
+      "zh": "顧客可選擇於其建議獲得採納實施時收到個別通知。"
+    },
+    {
+      "en": "Community town hall meetings will be hosted virtually to discuss the survey findings in depth.",
+      "zh": "我們將舉辦線上市民會議，深入討論本次問卷調查的結果。"
+    },
+    {
+      "en": "Our service quality scorecard will be updated quarterly and shared with all participating customers.",
+      "zh": "服務品質計分表將每季更新，並寄送給所有參與問卷的顧客。"
+    },
+    {
+      "en": "Together, we can shape the future direction of Brightway Communications for years to come.",
+      "zh": "讓我們攜手共同形塑 Brightway Communications 未來多年的發展方向。"
+    }
   ]
 }

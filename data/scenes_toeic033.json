@@ -1,49 +1,181 @@
 {
   "title": "Online Order Shipping Update",
   "all": [
-    { "en": "Hello Mr. Carter, we have great news regarding your recent online order.", "zh": "Carter 先生您好，關於您近期的線上訂單，我們有好消息要通知您。" },
-    { "en": "Your order number SH-783291 has now been packed and is ready for shipment.", "zh": "您的訂單編號 SH-783291 已完成包裝，準備出貨。" },
-    { "en": "The package was handed over to our delivery partner earlier this morning.", "zh": "包裹已於今天稍早交給我們的物流合作夥伴。" },
-    { "en": "It is being shipped via FastTrack Express with a tracking number provided.", "zh": "包裹將透過 FastTrack Express 寄送，並附有追蹤編號。" },
-    { "en": "You can track your shipment using the reference number FT9923847501.", "zh": "您可使用追蹤編號 FT9923847501 查詢出貨狀態。" },
-    { "en": "Tracking information is available at www.fasttrack-express.com.", "zh": "追蹤資訊請至 www.fasttrack-express.com 查詢。" },
-    { "en": "Based on current routing, delivery is expected within two to three business days.", "zh": "依目前運送路徑，預計兩至三個工作天內送達。" },
-    { "en": "The package will be delivered to the address listed at checkout.", "zh": "包裹將寄送至您結帳時所登記的地址。" },
-    { "en": "Please ensure that someone is available to receive the parcel.", "zh": "請確保有人在場簽收包裹。" },
-    { "en": "A signature will be required upon delivery due to the order value.", "zh": "因訂單金額較高，送達時需要簽名確認。" },
-    { "en": "If no one is home, the driver will leave a notice with rescheduling options.", "zh": "若無人在家，司機將留下通知單並提供改期選項。" },
-    { "en": "You may reschedule delivery for up to seven days at no additional charge.", "zh": "您可免費改期最多七天。" },
-    { "en": "Your order includes one laptop stand and two USB-C docking adapters.", "zh": "您的訂單包含一個筆電支架及兩個 USB-C 擴充座。" },
-    { "en": "All items were inspected and tested before being placed in the package.", "zh": "所有商品於包裝前皆經過檢查與測試。" },
-    { "en": "Original packaging and a printed invoice are included inside the box.", "zh": "盒內附有原廠包裝及紙本發票。" },
-    { "en": "If you ordered as a gift, you will also find a complimentary gift card.", "zh": "若您是作為禮品訂購，盒內也會附上免費禮品卡。" },
-    { "en": "Please inspect the contents upon arrival and report any damage immediately.", "zh": "請於收件後立即檢查內容，並盡速回報任何損壞。" },
-    { "en": "Damage claims must be submitted within 48 hours of delivery.", "zh": "損壞申訴須於送達後 48 小時內提出。" },
-    { "en": "Returns are accepted within 30 days using our prepaid return label.", "zh": "退貨請於 30 天內透過我們的預付退貨標籤辦理。" },
-    { "en": "The return label can be downloaded from your customer account page.", "zh": "退貨標籤可於您的顧客帳戶頁面下載。" },
-    { "en": "We hope you will be completely satisfied with your purchase.", "zh": "我們希望您對此次購物完全滿意。" },
-    { "en": "Your feedback helps us continue to improve our products and services.", "zh": "您的回饋有助於我們持續改善產品與服務。" },
-    { "en": "For any questions, please contact our support team at help@shopline.com.", "zh": "如有任何疑問，請來信至 help@shopline.com 聯繫客服團隊。" },
-    { "en": "Thank you for shopping with us, and we appreciate your continued trust.", "zh": "感謝您於本站購物，並感謝您持續的信任。" },
-    { "en": "Real-time delivery alerts can be received via text message after enabling SMS notifications.", "zh": "啟用簡訊通知後，您可即時收到送貨進度提醒。" },
-    { "en": "Our customer dashboard also displays a live map showing your driver's current location.", "zh": "本公司顧客儀表板同樣會顯示司機目前位置的即時地圖。" },
-    { "en": "Eco-friendly packaging has been used to minimize plastic and reduce environmental waste.", "zh": "本次包裝採用環保材質，以減少塑膠用量並降低環境負擔。" },
-    { "en": "If you require a separate business invoice, please reply to this email by tomorrow.", "zh": "若您需要另開立企業發票，請於明日前回覆本封郵件。" },
-    { "en": "Loyalty points have been credited to your account for this completed transaction.", "zh": "本筆完成交易的會員點數已存入您的帳戶。" },
-    { "en": "Future orders over fifty dollars qualify for our free express shipping promotion.", "zh": "未來消費滿五十美元的訂單可享免費快捷運送優惠。" },
-    { "en": "Please consider rating your purchased items once they have arrived and been tested.", "zh": "收到並試用商品後，歡迎您為購買的商品評分。" },
-    { "en": "Photo reviews earn an additional twenty bonus points credited to your member account.", "zh": "附上照片的評論可額外獲得二十點會員獎勵點數。" },
-    { "en": "Our holiday gift wrapping service will become available beginning the first week of November.", "zh": "本公司節慶禮品包裝服務將於十一月第一週起開放預訂。" },
-    { "en": "Wishing you a smooth delivery and a positive experience with every item you receive.", "zh": "祝您收件順暢，並對所收到的每一件商品都有愉快的使用體驗。" },
-    { "en": "Same-day delivery is now available for customers located within twenty miles of our regional warehouses.", "zh": "距離本公司區域倉儲二十英里內的顧客現可享有當日送達服務。" },
-    { "en": "An optional installation service can be added to your order for an additional twenty-five dollar fee.", "zh": "您可加購安裝服務，僅需額外二十五美元費用。" },
-    { "en": "Returns processed through our automated kiosks are usually refunded within three business days.", "zh": "透過自動退貨服務站處理的退貨通常於三個工作天內完成退款。" },
-    { "en": "Our subscribe and save program offers fifteen percent off on regular recurring household purchases.", "zh": "本公司「訂購省」方案為定期家庭用品提供百分之十五的折扣。" },
-    { "en": "Gift recipients can exchange items without seeing the original purchase price or receipt details.", "zh": "禮品收件人可進行商品兌換，且無需查看原購價格或收據明細。" },
-    { "en": "Carbon offsets are automatically purchased for every shipment to reduce our overall environmental footprint.", "zh": "每筆運送皆自動購買碳補償，以降低我們的整體環境足跡。" },
-    { "en": "Our mobile application allows you to schedule package pickup directly from your front door.", "zh": "本公司行動應用程式可讓您直接安排於家門口收取包裹。" },
-    { "en": "Business buyers may request consolidated monthly invoicing for streamlined accounting and reconciliation processes.", "zh": "企業買家可申請每月合併計帳，以簡化會計與對帳流程。" },
-    { "en": "Customer service is available through live chat, telephone, and email seven days each week.", "zh": "客戶服務全週每日皆透過線上即時聊天、電話與電子郵件提供協助。" },
-    { "en": "Thank you for being a valued customer, and please reach out anytime you need our help.", "zh": "感謝您成為我們的重要顧客，如需任何協助請隨時與我們聯繫。" }
+    {
+      "en": "Hello Mr. Carter, we have great news regarding your recent online order.",
+      "zh": "Carter 先生您好，關於您近期的線上訂單，我們有好消息要通知您。"
+    },
+    {
+      "en": "Your order number SH-783291 has now been packed and is ready for shipment.",
+      "zh": "您的訂單編號 SH-783291 已完成包裝，準備出貨。"
+    },
+    {
+      "en": "The package was handed over to our delivery partner earlier this morning.",
+      "zh": "包裹已於今天稍早交給我們的物流合作夥伴。"
+    },
+    {
+      "en": "It is being shipped via FastTrack Express with a tracking number provided.",
+      "zh": "包裹將透過 FastTrack Express 寄送，並附有追蹤編號。"
+    },
+    {
+      "en": "You can track your shipment using the reference number FT9923847501.",
+      "zh": "您可使用追蹤編號 FT9923847501 查詢出貨狀態。"
+    },
+    {
+      "en": "Tracking information is available at www.fasttrack-express.com.",
+      "zh": "追蹤資訊請至 www.fasttrack-express.com 查詢。"
+    },
+    {
+      "en": "Based on current routing, delivery is expected within two to three business days.",
+      "zh": "依目前運送路徑，預計兩至三個工作天內送達。"
+    },
+    {
+      "en": "The package will be delivered to the address listed at checkout.",
+      "zh": "包裹將寄送至您結帳時所登記的地址。"
+    },
+    {
+      "en": "Please ensure that someone is available to receive the parcel.",
+      "zh": "請確保有人在場簽收包裹。"
+    },
+    {
+      "en": "A signature will be required upon delivery due to the order value.",
+      "zh": "因訂單金額較高，送達時需要簽名確認。"
+    },
+    {
+      "en": "If no one is home, the driver will leave a notice with rescheduling options.",
+      "zh": "若無人在家，司機將留下通知單並提供改期選項。"
+    },
+    {
+      "en": "You may reschedule delivery for up to seven days at no additional charge.",
+      "zh": "您可免費改期最多七天。"
+    },
+    {
+      "en": "Your order includes one laptop stand and two USB-C docking adapters.",
+      "zh": "您的訂單包含一個筆電支架及兩個 USB-C 擴充座。"
+    },
+    {
+      "en": "All items were inspected and tested before being placed in the package.",
+      "zh": "所有商品於包裝前皆經過檢查與測試。"
+    },
+    {
+      "en": "Original packaging and a printed invoice are included inside the box.",
+      "zh": "盒內附有原廠包裝及紙本發票。"
+    },
+    {
+      "en": "If you ordered as a gift, you will also find a complimentary gift card.",
+      "zh": "若您是作為禮品訂購，盒內也會附上免費禮品卡。"
+    },
+    {
+      "en": "Please inspect the contents upon arrival and report any damage immediately.",
+      "zh": "請於收件後立即檢查內容，並盡速回報任何損壞。"
+    },
+    {
+      "en": "Damage claims must be submitted within 48 hours of delivery.",
+      "zh": "損壞申訴須於送達後 48 小時內提出。"
+    },
+    {
+      "en": "Returns are accepted within 30 days using our prepaid return label.",
+      "zh": "退貨請於 30 天內透過我們的預付退貨標籤辦理。"
+    },
+    {
+      "en": "The return label can be downloaded from your customer account page.",
+      "zh": "退貨標籤可於您的顧客帳戶頁面下載。"
+    },
+    {
+      "en": "We hope you will be completely satisfied with your purchase.",
+      "zh": "我們希望您對此次購物完全滿意。"
+    },
+    {
+      "en": "Your feedback helps us continue to improve our products and services.",
+      "zh": "您的回饋有助於我們持續改善產品與服務。"
+    },
+    {
+      "en": "For any questions, please contact our support team at help@shopline.com.",
+      "zh": "如有任何疑問，請來信至 help@shopline.com 聯繫客服團隊。"
+    },
+    {
+      "en": "Thank you for shopping with us, and we appreciate your continued trust.",
+      "zh": "感謝您於本站購物，並感謝您持續的信任。"
+    },
+    {
+      "en": "Real-time delivery alerts can be received via text message after enabling SMS notifications.",
+      "zh": "啟用簡訊通知後，您可即時收到送貨進度提醒。"
+    },
+    {
+      "en": "Our customer dashboard also displays a live map showing your driver's current location.",
+      "zh": "本公司顧客儀表板同樣會顯示司機目前位置的即時地圖。"
+    },
+    {
+      "en": "Eco-friendly packaging has been used to minimize plastic and reduce environmental waste.",
+      "zh": "本次包裝採用環保材質，以減少塑膠用量並降低環境負擔。"
+    },
+    {
+      "en": "If you require a separate business invoice, please reply to this email by tomorrow.",
+      "zh": "若您需要另開立企業發票，請於明日前回覆本封郵件。"
+    },
+    {
+      "en": "Loyalty points have been credited to your account for this completed transaction.",
+      "zh": "本筆完成交易的會員點數已存入您的帳戶。"
+    },
+    {
+      "en": "Future orders over fifty dollars qualify for our free express shipping promotion.",
+      "zh": "未來消費滿五十美元的訂單可享免費快捷運送優惠。"
+    },
+    {
+      "en": "Please consider rating your purchased items once they have arrived and been tested.",
+      "zh": "收到並試用商品後，歡迎您為購買的商品評分。"
+    },
+    {
+      "en": "Photo reviews earn an additional twenty bonus points credited to your member account.",
+      "zh": "附上照片的評論可額外獲得二十點會員獎勵點數。"
+    },
+    {
+      "en": "Our holiday gift wrapping service will become available beginning the first week of November.",
+      "zh": "本公司節慶禮品包裝服務將於十一月第一週起開放預訂。"
+    },
+    {
+      "en": "Wishing you a smooth delivery and a positive experience with every item you receive.",
+      "zh": "祝您收件順暢，並對所收到的每一件商品都有愉快的使用體驗。"
+    },
+    {
+      "en": "Same-day delivery is now available for customers located within twenty miles of our regional warehouses.",
+      "zh": "距離本公司區域倉儲二十英里內的顧客現可享有當日送達服務。"
+    },
+    {
+      "en": "An optional installation service can be added to your order for an additional twenty-five dollar fee.",
+      "zh": "您可加購安裝服務，僅需額外二十五美元費用。"
+    },
+    {
+      "en": "Returns processed through our automated kiosks are usually refunded within three business days.",
+      "zh": "透過自動退貨服務站處理的退貨通常於三個工作天內完成退款。"
+    },
+    {
+      "en": "Our subscribe and save program offers fifteen percent off on regular recurring household purchases.",
+      "zh": "本公司「訂購省」方案為定期家庭用品提供百分之十五的折扣。"
+    },
+    {
+      "en": "Gift recipients can exchange items without seeing the original purchase price or receipt details.",
+      "zh": "禮品收件人可進行商品兌換，且無需查看原購價格或收據明細。"
+    },
+    {
+      "en": "Carbon offsets are automatically purchased for every shipment to reduce our overall environmental footprint.",
+      "zh": "每筆運送皆自動購買碳補償，以降低我們的整體環境足跡。"
+    },
+    {
+      "en": "Our mobile application allows you to schedule package pickup directly from your front door.",
+      "zh": "本公司行動應用程式可讓您直接安排於家門口收取包裹。"
+    },
+    {
+      "en": "Business buyers may request consolidated monthly invoicing for streamlined accounting and reconciliation processes.",
+      "zh": "企業買家可申請每月合併計帳，以簡化會計與對帳流程。"
+    },
+    {
+      "en": "Customer service is available through live chat, telephone, and email seven days each week.",
+      "zh": "客戶服務全週每日皆透過線上即時聊天、電話與電子郵件提供協助。"
+    },
+    {
+      "en": "Thank you for being a valued customer, and please reach out anytime you need our help.",
+      "zh": "感謝您成為我們的重要顧客，如需任何協助請隨時與我們聯繫。"
+    }
   ]
 }

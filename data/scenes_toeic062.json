@@ -1,49 +1,181 @@
 {
   "title": "Sales Commission Structure",
   "all": [
-    { "en": "Our sales commission plan rewards both effort and measurable outcomes.", "zh": "我們的業務佣金辦法獎勵努力與可衡量的成果。" },
-    { "en": "The plan year aligns with our fiscal year starting in February.", "zh": "計畫年度與我們自二月開始的會計年度一致。" },
-    { "en": "Each account executive receives an individual annual quota target.", "zh": "每位客戶經理皆獲得個人年度配額目標。" },
-    { "en": "Quota is divided evenly across four quarterly performance periods.", "zh": "配額平均分配於四個季度績效期間。" },
-    { "en": "Base salary covers fifty percent of the total target compensation.", "zh": "底薪佔目標總薪酬的百分之五十。" },
-    { "en": "Variable commission covers the remaining fifty percent at quota.", "zh": "達標時，變動佣金佔剩餘的百分之五十。" },
-    { "en": "Commission accelerators apply once a rep exceeds one hundred percent.", "zh": "業務員超越百分之百後可適用加速佣金。" },
-    { "en": "Above one hundred percent, commission rates double for new business.", "zh": "達成超過百分之百後，新業務佣金率加倍。" },
-    { "en": "Renewal business is paid at a lower base rate of two percent.", "zh": "續約業務以較低的百分之二基本佣金率支付。" },
-    { "en": "New logo deals carry a higher rate of eight percent of contract value.", "zh": "新客戶案件佣金率較高，為合約金額的百分之八。" },
-    { "en": "Multi year contracts include a one time bonus on year one value.", "zh": "多年合約包含對第一年金額的一次性獎金。" },
-    { "en": "Strategic accounts receive additional spiff bonuses upon closing.", "zh": "策略客戶於結案時可獲得額外的特別獎金。" },
-    { "en": "Spiffs are announced quarterly to focus team attention.", "zh": "特別獎金每季公告，以引導團隊聚焦。" },
-    { "en": "Commission payments are processed monthly following deal closure.", "zh": "佣金於案件結案後每月發放。" },
-    { "en": "Payments require fully executed contracts and finance approval.", "zh": "發放需有完整簽署的合約與財務核准。" },
-    { "en": "Clawback provisions apply if customers cancel within ninety days.", "zh": "若客戶於九十天內取消，將適用佣金追回條款。" },
-    { "en": "Reps may earn presidents club recognition for exceptional performance.", "zh": "業務員可因卓越表現獲得總裁俱樂部表揚。" },
-    { "en": "Qualification requires achieving one hundred twenty percent of annual quota.", "zh": "資格要求為達成年度配額的百分之一百二十。" },
-    { "en": "Winners enjoy an all expenses paid trip with their guest.", "zh": "得獎者可享有偕同賓客的全額招待旅程。" },
-    { "en": "Plan changes are communicated at the start of each fiscal year.", "zh": "計畫變更於每個會計年度開始時公告。" },
-    { "en": "Disputes are reviewed by the sales operations and finance committee.", "zh": "爭議由業務營運與財務委員會審核。" },
-    { "en": "The plan is documented in detail in the official commission handbook.", "zh": "完整辦法詳細記載於官方佣金手冊中。" },
-    { "en": "Reps must sign acknowledgment before participating in the plan.", "zh": "業務員需於參與計畫前簽署確認書。" },
-    { "en": "Our goal is to motivate top performance while rewarding teamwork.", "zh": "我們的目標是激勵卓越表現並獎勵團隊合作。" },
-    { "en": "Team based bonuses reward collaborative wins involving multiple departments.", "zh": "團隊型獎金獎勵跨部門合作達成的成果。" },
-    { "en": "Sales engineers earn split credit on technically complex transactions.", "zh": "業務工程師於技術複雜的交易中可獲分潤。" },
-    { "en": "Channel partner deals include a referral fee for the originating rep.", "zh": "通路夥伴案件包含原始業務員的推薦費。" },
-    { "en": "Managers receive an override based on the aggregate team attainment.", "zh": "經理依團隊總達成率取得管理佣金。" },
-    { "en": "Ramp periods provide guaranteed minimum commissions for new hires.", "zh": "爬坡期間為新進人員提供保證最低佣金。" },
-    { "en": "Territory transfers preserve commission earnings for ongoing opportunities.", "zh": "區域轉換時保留正在進行中商機的佣金收入。" },
-    { "en": "Annual kickoff meetings reveal updated quotas and incentive programs.", "zh": "年度啟動會議公告更新後的配額與獎勵方案。" },
-    { "en": "Compensation statements are accessible through the internal sales portal.", "zh": "薪酬報表可透過內部業務入口網站取得。" },
-    { "en": "Tax withholding follows the standard payroll process for bonus income.", "zh": "稅務代扣依獎金所得的標準薪資流程辦理。" },
-    { "en": "Plan feedback is collected each year to refine the structure further.", "zh": "每年蒐集計畫意見以進一步優化結構。" },
-    { "en": "Mid year adjustments may be applied if market conditions change significantly.", "zh": "若市場狀況顯著變化，可於年中進行調整。" },
-    { "en": "Pipeline coverage requirements are set at three times the quarterly quota.", "zh": "管線覆蓋率要求設定為季度配額的三倍。" },
-    { "en": "Forecast accuracy is measured weekly and influences territory assignments.", "zh": "預測準確度每週衡量並影響區域分配。" },
-    { "en": "Stretch goals beyond two hundred percent unlock special recognition rewards.", "zh": "超越百分之兩百的延伸目標可解鎖特別表揚獎勵。" },
-    { "en": "Deal registration prevents commission disputes among multiple sales representatives.", "zh": "商機登錄可避免多位業務員之間的佣金爭議。" },
-    { "en": "Customer references contributed during the cycle earn nominal bonus points.", "zh": "週期內貢獻的客戶推薦可賺取象徵性獎勵積分。" },
-    { "en": "Quarterly true ups reconcile commission earnings against actual closed revenue.", "zh": "季度結算將佣金收入與實際結案營收進行對帳。" },
-    { "en": "Reps on performance improvement plans remain eligible for variable compensation.", "zh": "處於績效改善計畫中的業務員仍具變動薪酬資格。" },
-    { "en": "Voluntary departures forfeit unpaid commissions on deals not yet invoiced.", "zh": "自願離職者放棄尚未開立發票案件的未支付佣金。" },
-    { "en": "Plan documents are reviewed and approved by the compensation committee yearly.", "zh": "計畫文件每年經薪酬委員會審查與核准。" }
+    {
+      "en": "Our sales commission plan rewards both effort and measurable outcomes.",
+      "zh": "我們的業務佣金辦法獎勵努力與可衡量的成果。"
+    },
+    {
+      "en": "The plan year aligns with our fiscal year starting in February.",
+      "zh": "計畫年度與我們自二月開始的會計年度一致。"
+    },
+    {
+      "en": "Each account executive receives an individual annual quota target.",
+      "zh": "每位客戶經理皆獲得個人年度配額目標。"
+    },
+    {
+      "en": "Quota is divided evenly across four quarterly performance periods.",
+      "zh": "配額平均分配於四個季度績效期間。"
+    },
+    {
+      "en": "Base salary covers fifty percent of the total target compensation.",
+      "zh": "底薪佔目標總薪酬的百分之五十。"
+    },
+    {
+      "en": "Variable commission covers the remaining fifty percent at quota.",
+      "zh": "達標時，變動佣金佔剩餘的百分之五十。"
+    },
+    {
+      "en": "Commission accelerators apply once a rep exceeds one hundred percent.",
+      "zh": "業務員超越百分之百後可適用加速佣金。"
+    },
+    {
+      "en": "Above one hundred percent, commission rates double for new business.",
+      "zh": "達成超過百分之百後，新業務佣金率加倍。"
+    },
+    {
+      "en": "Renewal business is paid at a lower base rate of two percent.",
+      "zh": "續約業務以較低的百分之二基本佣金率支付。"
+    },
+    {
+      "en": "New logo deals carry a higher rate of eight percent of contract value.",
+      "zh": "新客戶案件佣金率較高，為合約金額的百分之八。"
+    },
+    {
+      "en": "Multi year contracts include a one time bonus on year one value.",
+      "zh": "多年合約包含對第一年金額的一次性獎金。"
+    },
+    {
+      "en": "Strategic accounts receive additional spiff bonuses upon closing.",
+      "zh": "策略客戶於結案時可獲得額外的特別獎金。"
+    },
+    {
+      "en": "Spiffs are announced quarterly to focus team attention.",
+      "zh": "特別獎金每季公告，以引導團隊聚焦。"
+    },
+    {
+      "en": "Commission payments are processed monthly following deal closure.",
+      "zh": "佣金於案件結案後每月發放。"
+    },
+    {
+      "en": "Payments require fully executed contracts and finance approval.",
+      "zh": "發放需有完整簽署的合約與財務核准。"
+    },
+    {
+      "en": "Clawback provisions apply if customers cancel within ninety days.",
+      "zh": "若客戶於九十天內取消，將適用佣金追回條款。"
+    },
+    {
+      "en": "Reps may earn presidents club recognition for exceptional performance.",
+      "zh": "業務員可因卓越表現獲得總裁俱樂部表揚。"
+    },
+    {
+      "en": "Qualification requires achieving one hundred twenty percent of annual quota.",
+      "zh": "資格要求為達成年度配額的百分之一百二十。"
+    },
+    {
+      "en": "Winners enjoy an all expenses paid trip with their guest.",
+      "zh": "得獎者可享有偕同賓客的全額招待旅程。"
+    },
+    {
+      "en": "Plan changes are communicated at the start of each fiscal year.",
+      "zh": "計畫變更於每個會計年度開始時公告。"
+    },
+    {
+      "en": "Disputes are reviewed by the sales operations and finance committee.",
+      "zh": "爭議由業務營運與財務委員會審核。"
+    },
+    {
+      "en": "The plan is documented in detail in the official commission handbook.",
+      "zh": "完整辦法詳細記載於官方佣金手冊中。"
+    },
+    {
+      "en": "Reps must sign acknowledgment before participating in the plan.",
+      "zh": "業務員需於參與計畫前簽署確認書。"
+    },
+    {
+      "en": "Our goal is to motivate top performance while rewarding teamwork.",
+      "zh": "我們的目標是激勵卓越表現並獎勵團隊合作。"
+    },
+    {
+      "en": "Team based bonuses reward collaborative wins involving multiple departments.",
+      "zh": "團隊型獎金獎勵跨部門合作達成的成果。"
+    },
+    {
+      "en": "Sales engineers earn split credit on technically complex transactions.",
+      "zh": "業務工程師於技術複雜的交易中可獲分潤。"
+    },
+    {
+      "en": "Channel partner deals include a referral fee for the originating rep.",
+      "zh": "通路夥伴案件包含原始業務員的推薦費。"
+    },
+    {
+      "en": "Managers receive an override based on the aggregate team attainment.",
+      "zh": "經理依團隊總達成率取得管理佣金。"
+    },
+    {
+      "en": "Ramp periods provide guaranteed minimum commissions for new hires.",
+      "zh": "爬坡期間為新進人員提供保證最低佣金。"
+    },
+    {
+      "en": "Territory transfers preserve commission earnings for ongoing opportunities.",
+      "zh": "區域轉換時保留正在進行中商機的佣金收入。"
+    },
+    {
+      "en": "Annual kickoff meetings reveal updated quotas and incentive programs.",
+      "zh": "年度啟動會議公告更新後的配額與獎勵方案。"
+    },
+    {
+      "en": "Compensation statements are accessible through the internal sales portal.",
+      "zh": "薪酬報表可透過內部業務入口網站取得。"
+    },
+    {
+      "en": "Tax withholding follows the standard payroll process for bonus income.",
+      "zh": "稅務代扣依獎金所得的標準薪資流程辦理。"
+    },
+    {
+      "en": "Plan feedback is collected each year to refine the structure further.",
+      "zh": "每年蒐集計畫意見以進一步優化結構。"
+    },
+    {
+      "en": "Mid year adjustments may be applied if market conditions change significantly.",
+      "zh": "若市場狀況顯著變化，可於年中進行調整。"
+    },
+    {
+      "en": "Pipeline coverage requirements are set at three times the quarterly quota.",
+      "zh": "管線覆蓋率要求設定為季度配額的三倍。"
+    },
+    {
+      "en": "Forecast accuracy is measured weekly and influences territory assignments.",
+      "zh": "預測準確度每週衡量並影響區域分配。"
+    },
+    {
+      "en": "Stretch goals beyond two hundred percent unlock special recognition rewards.",
+      "zh": "超越百分之兩百的延伸目標可解鎖特別表揚獎勵。"
+    },
+    {
+      "en": "Deal registration prevents commission disputes among multiple sales representatives.",
+      "zh": "商機登錄可避免多位業務員之間的佣金爭議。"
+    },
+    {
+      "en": "Customer references contributed during the cycle earn nominal bonus points.",
+      "zh": "週期內貢獻的客戶推薦可賺取象徵性獎勵積分。"
+    },
+    {
+      "en": "Quarterly true ups reconcile commission earnings against actual closed revenue.",
+      "zh": "季度結算將佣金收入與實際結案營收進行對帳。"
+    },
+    {
+      "en": "Reps on performance improvement plans remain eligible for variable compensation.",
+      "zh": "處於績效改善計畫中的業務員仍具變動薪酬資格。"
+    },
+    {
+      "en": "Voluntary departures forfeit unpaid commissions on deals not yet invoiced.",
+      "zh": "自願離職者放棄尚未開立發票案件的未支付佣金。"
+    },
+    {
+      "en": "Plan documents are reviewed and approved by the compensation committee yearly.",
+      "zh": "計畫文件每年經薪酬委員會審查與核准。"
+    }
   ]
 }

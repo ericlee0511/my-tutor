@@ -1,49 +1,181 @@
 {
   "title": "Distributor Agreement Summary",
   "all": [
-    { "en": "This summary outlines the distributor agreement between the manufacturer and the partner.", "zh": "本摘要概述製造商與經銷商之間的經銷協議。" },
-    { "en": "The agreement grants exclusive distribution rights within a defined territory.", "zh": "本協議授予於指定區域內的獨家經銷權。" },
-    { "en": "The territory covers Southeast Asia, excluding Singapore and Malaysia.", "zh": "該區域涵蓋東南亞，但不含新加坡與馬來西亞。" },
-    { "en": "The initial term of the agreement is set at three years.", "zh": "協議初始期限訂為三年。" },
-    { "en": "Renewal is automatic for additional two year periods unless terminated.", "zh": "除非終止，否則每兩年自動續約。" },
-    { "en": "Either party may terminate with one hundred twenty days written notice.", "zh": "任一方均可提前一百二十天以書面通知終止合約。" },
-    { "en": "The distributor agrees to meet annual minimum purchase commitments.", "zh": "經銷商同意達成年度最低採購承諾。" },
-    { "en": "Year one commitment is set at two million dollars in net sales.", "zh": "第一年承諾為淨銷售額兩百萬美元。" },
-    { "en": "Commitments grow by twenty percent each subsequent year.", "zh": "承諾金額於後續每年成長百分之二十。" },
-    { "en": "Pricing is provided through a published wholesale price list.", "zh": "定價透過公佈的批發價目表提供。" },
-    { "en": "Volume discounts apply once quarterly thresholds are exceeded.", "zh": "達成季度門檻後可適用量大折扣。" },
-    { "en": "The distributor is responsible for local marketing and promotional activities.", "zh": "經銷商負責當地的行銷與促銷活動。" },
-    { "en": "Co marketing funds are available based on quarterly performance.", "zh": "共同行銷基金依季度表現提供。" },
-    { "en": "Brand guidelines must be followed in all marketing materials.", "zh": "所有行銷素材均需遵循品牌準則。" },
-    { "en": "Use of the manufacturer trademarks requires prior written approval.", "zh": "使用製造商商標需事先取得書面同意。" },
-    { "en": "The distributor must maintain certified technical staff at all times.", "zh": "經銷商需隨時維持具認證的技術人員。" },
-    { "en": "Training programs are offered twice per year at the regional office.", "zh": "訓練課程每年於區域辦公室舉辦兩次。" },
-    { "en": "Warranty claims are processed through the manufacturer support portal.", "zh": "保固索賠透過製造商支援入口網站處理。" },
-    { "en": "Confidential information must be protected during and after the term.", "zh": "保密資訊於合約期間及之後均須受保護。" },
-    { "en": "Dispute resolution begins with good faith negotiation between leaders.", "zh": "爭議解決自雙方領導者之間的誠信協商開始。" },
-    { "en": "Unresolved disputes proceed to arbitration in a neutral jurisdiction.", "zh": "未解決的爭議將提交中立法域進行仲裁。" },
-    { "en": "Termination clauses cover material breach and insolvency events.", "zh": "終止條款涵蓋重大違約與破產事件。" },
-    { "en": "Inventory buyback terms apply if the agreement is terminated for cause.", "zh": "若協議因故終止，將適用庫存回購條款。" },
-    { "en": "Both parties will review performance annually and adjust as needed.", "zh": "雙方將每年檢視表現並依需要調整。" },
-    { "en": "Quarterly business reviews track sales pipeline progress and forecast accuracy.", "zh": "季度業務檢討追蹤銷售管線進度與預測準確度。" },
-    { "en": "Performance metrics include sell through rates, market share, and customer satisfaction.", "zh": "績效指標包含售出率、市佔率與顧客滿意度。" },
-    { "en": "The manufacturer reserves the right to audit distributor records once per year.", "zh": "製造商保留每年稽核經銷商紀錄一次的權利。" },
-    { "en": "Audit findings must be addressed within sixty days of the report issuance.", "zh": "稽核發現須於報告發布後六十天內處理。" },
-    { "en": "The distributor agrees not to represent competing product lines in the territory.", "zh": "經銷商同意不於該區域代理競爭產品線。" },
-    { "en": "Any change of control requires prior consent from the manufacturer headquarters.", "zh": "任何控制權變更須先取得製造商總部同意。" },
-    { "en": "Force majeure events allow for temporary suspension of purchase commitments.", "zh": "不可抗力事件允許暫時中止採購承諾。" },
-    { "en": "Insurance coverage minimums apply to product liability and general business risks.", "zh": "產品責任與一般營運風險均適用保險最低額度。" },
-    { "en": "Both parties commit to compliance with anti corruption and export control laws.", "zh": "雙方承諾遵守反貪腐與出口管制相關法律。" },
-    { "en": "The agreement supersedes all prior understandings between the parties.", "zh": "本協議取代雙方先前所有的協議與理解。" },
-    { "en": "Sub distributors may be appointed only with prior written approval from headquarters.", "zh": "次經銷商之委任須事先取得總部書面同意。" },
-    { "en": "Product warranties extend to end customers for twelve months from delivery date.", "zh": "產品保固自交貨日起延伸予終端客戶十二個月。" },
-    { "en": "Spare parts inventory levels must remain sufficient for thirty days of demand.", "zh": "備品庫存水位須維持足以支應三十天的需求。" },
-    { "en": "Quarterly forecast submissions are due fifteen days before the next quarter begins.", "zh": "季度預測須於下一季開始前十五天提交。" },
-    { "en": "Late payment of invoices triggers interest charges at one and a half percent monthly.", "zh": "逾期付款將每月按百分之一點五計收利息。" },
-    { "en": "Marketing development funds accrue at three percent of net qualifying purchases.", "zh": "行銷發展基金按合格淨採購額的百分之三累積。" },
-    { "en": "Trademark usage rights terminate immediately upon expiration of the agreement.", "zh": "商標使用權於協議到期時立即終止。" },
-    { "en": "Returns are accepted only for defective products within the warranty window.", "zh": "僅瑕疵產品於保固期內可受理退貨。" },
-    { "en": "Both parties commit to environmental compliance throughout the supply chain.", "zh": "雙方承諾於整體供應鏈中遵守環保規範。" },
-    { "en": "The governing law of this agreement is the jurisdiction of the manufacturer headquarters.", "zh": "本協議之準據法為製造商總部所在地法律。" }
+    {
+      "en": "This summary outlines the distributor agreement between the manufacturer and the partner.",
+      "zh": "本摘要概述製造商與經銷商之間的經銷協議。"
+    },
+    {
+      "en": "The agreement grants exclusive distribution rights within a defined territory.",
+      "zh": "本協議授予於指定區域內的獨家經銷權。"
+    },
+    {
+      "en": "The territory covers Southeast Asia, excluding Singapore and Malaysia.",
+      "zh": "該區域涵蓋東南亞，但不含新加坡與馬來西亞。"
+    },
+    {
+      "en": "The initial term of the agreement is set at three years.",
+      "zh": "協議初始期限訂為三年。"
+    },
+    {
+      "en": "Renewal is automatic for additional two year periods unless terminated.",
+      "zh": "除非終止，否則每兩年自動續約。"
+    },
+    {
+      "en": "Either party may terminate with one hundred twenty days written notice.",
+      "zh": "任一方均可提前一百二十天以書面通知終止合約。"
+    },
+    {
+      "en": "The distributor agrees to meet annual minimum purchase commitments.",
+      "zh": "經銷商同意達成年度最低採購承諾。"
+    },
+    {
+      "en": "Year one commitment is set at two million dollars in net sales.",
+      "zh": "第一年承諾為淨銷售額兩百萬美元。"
+    },
+    {
+      "en": "Commitments grow by twenty percent each subsequent year.",
+      "zh": "承諾金額於後續每年成長百分之二十。"
+    },
+    {
+      "en": "Pricing is provided through a published wholesale price list.",
+      "zh": "定價透過公佈的批發價目表提供。"
+    },
+    {
+      "en": "Volume discounts apply once quarterly thresholds are exceeded.",
+      "zh": "達成季度門檻後可適用量大折扣。"
+    },
+    {
+      "en": "The distributor is responsible for local marketing and promotional activities.",
+      "zh": "經銷商負責當地的行銷與促銷活動。"
+    },
+    {
+      "en": "Co marketing funds are available based on quarterly performance.",
+      "zh": "共同行銷基金依季度表現提供。"
+    },
+    {
+      "en": "Brand guidelines must be followed in all marketing materials.",
+      "zh": "所有行銷素材均需遵循品牌準則。"
+    },
+    {
+      "en": "Use of the manufacturer trademarks requires prior written approval.",
+      "zh": "使用製造商商標需事先取得書面同意。"
+    },
+    {
+      "en": "The distributor must maintain certified technical staff at all times.",
+      "zh": "經銷商需隨時維持具認證的技術人員。"
+    },
+    {
+      "en": "Training programs are offered twice per year at the regional office.",
+      "zh": "訓練課程每年於區域辦公室舉辦兩次。"
+    },
+    {
+      "en": "Warranty claims are processed through the manufacturer support portal.",
+      "zh": "保固索賠透過製造商支援入口網站處理。"
+    },
+    {
+      "en": "Confidential information must be protected during and after the term.",
+      "zh": "保密資訊於合約期間及之後均須受保護。"
+    },
+    {
+      "en": "Dispute resolution begins with good faith negotiation between leaders.",
+      "zh": "爭議解決自雙方領導者之間的誠信協商開始。"
+    },
+    {
+      "en": "Unresolved disputes proceed to arbitration in a neutral jurisdiction.",
+      "zh": "未解決的爭議將提交中立法域進行仲裁。"
+    },
+    {
+      "en": "Termination clauses cover material breach and insolvency events.",
+      "zh": "終止條款涵蓋重大違約與破產事件。"
+    },
+    {
+      "en": "Inventory buyback terms apply if the agreement is terminated for cause.",
+      "zh": "若協議因故終止，將適用庫存回購條款。"
+    },
+    {
+      "en": "Both parties will review performance annually and adjust as needed.",
+      "zh": "雙方將每年檢視表現並依需要調整。"
+    },
+    {
+      "en": "Quarterly business reviews track sales pipeline progress and forecast accuracy.",
+      "zh": "季度業務檢討追蹤銷售管線進度與預測準確度。"
+    },
+    {
+      "en": "Performance metrics include sell through rates, market share, and customer satisfaction.",
+      "zh": "績效指標包含售出率、市佔率與顧客滿意度。"
+    },
+    {
+      "en": "The manufacturer reserves the right to audit distributor records once per year.",
+      "zh": "製造商保留每年稽核經銷商紀錄一次的權利。"
+    },
+    {
+      "en": "Audit findings must be addressed within sixty days of the report issuance.",
+      "zh": "稽核發現須於報告發布後六十天內處理。"
+    },
+    {
+      "en": "The distributor agrees not to represent competing product lines in the territory.",
+      "zh": "經銷商同意不於該區域代理競爭產品線。"
+    },
+    {
+      "en": "Any change of control requires prior consent from the manufacturer headquarters.",
+      "zh": "任何控制權變更須先取得製造商總部同意。"
+    },
+    {
+      "en": "Force majeure events allow for temporary suspension of purchase commitments.",
+      "zh": "不可抗力事件允許暫時中止採購承諾。"
+    },
+    {
+      "en": "Insurance coverage minimums apply to product liability and general business risks.",
+      "zh": "產品責任與一般營運風險均適用保險最低額度。"
+    },
+    {
+      "en": "Both parties commit to compliance with anti corruption and export control laws.",
+      "zh": "雙方承諾遵守反貪腐與出口管制相關法律。"
+    },
+    {
+      "en": "The agreement supersedes all prior understandings between the parties.",
+      "zh": "本協議取代雙方先前所有的協議與理解。"
+    },
+    {
+      "en": "Sub distributors may be appointed only with prior written approval from headquarters.",
+      "zh": "次經銷商之委任須事先取得總部書面同意。"
+    },
+    {
+      "en": "Product warranties extend to end customers for twelve months from delivery date.",
+      "zh": "產品保固自交貨日起延伸予終端客戶十二個月。"
+    },
+    {
+      "en": "Spare parts inventory levels must remain sufficient for thirty days of demand.",
+      "zh": "備品庫存水位須維持足以支應三十天的需求。"
+    },
+    {
+      "en": "Quarterly forecast submissions are due fifteen days before the next quarter begins.",
+      "zh": "季度預測須於下一季開始前十五天提交。"
+    },
+    {
+      "en": "Late payment of invoices triggers interest charges at one and a half percent monthly.",
+      "zh": "逾期付款將每月按百分之一點五計收利息。"
+    },
+    {
+      "en": "Marketing development funds accrue at three percent of net qualifying purchases.",
+      "zh": "行銷發展基金按合格淨採購額的百分之三累積。"
+    },
+    {
+      "en": "Trademark usage rights terminate immediately upon expiration of the agreement.",
+      "zh": "商標使用權於協議到期時立即終止。"
+    },
+    {
+      "en": "Returns are accepted only for defective products within the warranty window.",
+      "zh": "僅瑕疵產品於保固期內可受理退貨。"
+    },
+    {
+      "en": "Both parties commit to environmental compliance throughout the supply chain.",
+      "zh": "雙方承諾於整體供應鏈中遵守環保規範。"
+    },
+    {
+      "en": "The governing law of this agreement is the jurisdiction of the manufacturer headquarters.",
+      "zh": "本協議之準據法為製造商總部所在地法律。"
+    }
   ]
 }

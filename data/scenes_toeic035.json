@@ -1,49 +1,181 @@
 {
   "title": "Hotel Booking Confirmation Email",
   "all": [
-    { "en": "Dear Ms. Anderson, thank you for choosing the Riverside Grand Hotel.", "zh": "Anderson 女士您好，感謝您選擇 Riverside Grand Hotel。" },
-    { "en": "We are pleased to confirm your reservation for your upcoming stay.", "zh": "我們很高興為您確認即將到來的住宿訂房。" },
-    { "en": "Your confirmation number is RGH-58271, valid for all future correspondence.", "zh": "您的訂房確認編號為 RGH-58271，後續聯絡均適用。" },
-    { "en": "Check-in is scheduled for Monday, June 9, from 3:00 p.m. onward.", "zh": "入住時間為六月九日（週一）下午三點起。" },
-    { "en": "Check-out time is 11:00 a.m. on Thursday, June 12.", "zh": "退房時間為六月十二日（週四）上午十一點。" },
-    { "en": "You have booked a Deluxe King Room with a river-facing view.", "zh": "您已預訂一間面河景觀的豪華大床房。" },
-    { "en": "The room includes a private balcony, work desk, and complimentary high-speed internet.", "zh": "客房內備有私人陽台、辦公桌及免費高速網路。" },
-    { "en": "Daily breakfast for two guests is also included in your booking.", "zh": "您的訂房亦包含每日兩人份早餐。" },
-    { "en": "Breakfast is served at the Aurora Restaurant from 6:30 to 10:30 a.m.", "zh": "早餐於 Aurora 餐廳供應，時間為上午六點三十分至十點三十分。" },
-    { "en": "The total cost for three nights is 786 US dollars, including all taxes.", "zh": "三晚住宿總費用為 786 美元，含所有稅金。" },
-    { "en": "A credit card guarantee has been received and no charge has been processed yet.", "zh": "我們已收到信用卡擔保資訊，目前尚未實際扣款。" },
-    { "en": "Full payment will be settled upon check-out at the front desk.", "zh": "全額費用將於退房時於櫃台結清。" },
-    { "en": "Cancellations are accepted free of charge until 6:00 p.m. on June 7.", "zh": "六月七日下午六點前皆可免費取消訂房。" },
-    { "en": "After this deadline, the first night will be charged to your credit card.", "zh": "逾期後將自您信用卡收取首晚房費。" },
-    { "en": "Our hotel offers complimentary access to the rooftop pool and fitness center.", "zh": "本飯店提供頂樓泳池與健身中心的免費使用權。" },
-    { "en": "Spa services and in-room massages can be booked through guest services.", "zh": "Spa 服務及客房按摩可透過賓客服務預約。" },
-    { "en": "If you need airport transportation, please contact us at least 12 hours ahead.", "zh": "如需機場接送服務，請至少提前 12 小時與我們聯繫。" },
-    { "en": "Our private car service is available at a flat rate of 65 dollars.", "zh": "本飯店的專車服務採固定價格 65 美元收費。" },
-    { "en": "Early check-in or late check-out is subject to availability on the day.", "zh": "提前入住或延後退房需視當日房況而定。" },
-    { "en": "Please notify us in advance if you wish to request either service.", "zh": "若您希望申請其中任一服務，請提前告知我們。" },
-    { "en": "Should you have specific requests, kindly reply to this email at your convenience.", "zh": "若您有任何特殊需求，請隨時回覆此封郵件。" },
-    { "en": "Our concierge team is available 24 hours a day to assist with local recommendations.", "zh": "我們的禮賓團隊每日 24 小時提供當地推薦的協助。" },
-    { "en": "We are committed to making your stay both comfortable and memorable.", "zh": "我們致力於讓您的住宿既舒適又難忘。" },
-    { "en": "Once again, thank you for your reservation, and we look forward to welcoming you.", "zh": "再次感謝您的訂房，期待屆時歡迎您的蒞臨。" },
-    { "en": "Loyalty members earn double points on every weekday stay throughout the current quarter.", "zh": "會員於本季平日入住可獲得雙倍點數。" },
-    { "en": "Our business center provides free printing, scanning, and meeting room booking services.", "zh": "本飯店商務中心提供免費列印、掃描及會議室預約服務。" },
-    { "en": "Complimentary bottled water and a welcome fruit basket will be placed in your room.", "zh": "客房內將為您備妥免費瓶裝水及迎賓水果籃。" },
-    { "en": "Pet-friendly accommodations are available upon request with a small daily cleaning fee.", "zh": "可應要求安排寵物友善客房，每日酌收少額清潔費用。" },
-    { "en": "Our executive lounge offers evening cocktails for guests staying on the upper floors.", "zh": "本飯店行政貴賓廳於晚間為高樓層住客提供雞尾酒款待。" },
-    { "en": "Self-parking is included with your booking, while valet service incurs an additional charge.", "zh": "您的訂房包含自助停車服務，代客泊車則另行收費。" },
-    { "en": "Local tours and theatre tickets can be arranged through our concierge desk in the lobby.", "zh": "當地觀光行程與劇院門票可透過大廳禮賓櫃台代為安排。" },
-    { "en": "A printed itinerary of nearby restaurants will be left in your room upon arrival.", "zh": "您抵達時，客房內將備有鄰近餐廳的紙本介紹資訊。" },
-    { "en": "Sustainable housekeeping programs are available for guests who wish to reuse linens daily.", "zh": "希望每日重複使用備品的旅客可參與我們的永續客房整理計畫。" },
-    { "en": "Warm regards from the reservations team at the Riverside Grand Hotel.", "zh": "Riverside Grand Hotel 訂房團隊敬上。" },
-    { "en": "Mobile check-in becomes available through our hotel application starting twenty-four hours before arrival.", "zh": "您可於抵達前二十四小時起透過本飯店行動應用程式辦理行動入住。" },
-    { "en": "Our digital room key feature allows guests to access their rooms directly using their smartphone.", "zh": "本飯店數位房卡功能讓賓客可直接使用手機進入客房。" },
-    { "en": "Conference and banquet facilities accommodate corporate groups of up to two hundred delegates on site.", "zh": "本飯店會議與宴會設施可容納最多兩百名企業團體與會代表。" },
-    { "en": "Guests staying three or more nights receive a complimentary in-room dining credit during their visit.", "zh": "連續住宿三晚以上的賓客可享有住宿期間的免費客房餐飲抵用金。" },
-    { "en": "Our resident pianist performs live music in the lobby lounge every evening from seven o'clock.", "zh": "本飯店駐館鋼琴家每晚七點起於大廳酒廊現場演奏。" },
-    { "en": "Twenty-four hour room service offers a thoughtfully curated late-night menu for guests dining privately.", "zh": "全日客房服務提供精心規劃的深夜菜單，供賓客在房內用餐。" },
-    { "en": "Children under twelve years of age stay free when sharing existing bedding with accompanying parents.", "zh": "十二歲以下兒童與父母同床住宿可享免費入住。" },
-    { "en": "An on-site florist can arrange custom bouquets to be delivered to your room upon request.", "zh": "本飯店駐館花藝師可依需求製作客製花束送至客房。" },
-    { "en": "Our environmental program has eliminated single-use plastic toiletries throughout all guest accommodations.", "zh": "本飯店環保計畫已全面取消客房內的一次性塑膠盥洗用品。" },
-    { "en": "Thank you for choosing us, and please contact our concierge team for any further assistance.", "zh": "感謝您的選擇，如需任何進一步協助請聯繫我們的禮賓團隊。" }
+    {
+      "en": "Dear Ms. Anderson, thank you for choosing the Riverside Grand Hotel.",
+      "zh": "Anderson 女士您好，感謝您選擇 Riverside Grand Hotel。"
+    },
+    {
+      "en": "We are pleased to confirm your reservation for your upcoming stay.",
+      "zh": "我們很高興為您確認即將到來的住宿訂房。"
+    },
+    {
+      "en": "Your confirmation number is RGH-58271, valid for all future correspondence.",
+      "zh": "您的訂房確認編號為 RGH-58271，後續聯絡均適用。"
+    },
+    {
+      "en": "Check-in is scheduled for Monday, June 9, from 3:00 p.m. onward.",
+      "zh": "入住時間為六月九日（週一）下午三點起。"
+    },
+    {
+      "en": "Check-out time is 11:00 a.m. on Thursday, June 12.",
+      "zh": "退房時間為六月十二日（週四）上午十一點。"
+    },
+    {
+      "en": "You have booked a Deluxe King Room with a river-facing view.",
+      "zh": "您已預訂一間面河景觀的豪華大床房。"
+    },
+    {
+      "en": "The room includes a private balcony, work desk, and complimentary high-speed internet.",
+      "zh": "客房內備有私人陽台、辦公桌及免費高速網路。"
+    },
+    {
+      "en": "Daily breakfast for two guests is also included in your booking.",
+      "zh": "您的訂房亦包含每日兩人份早餐。"
+    },
+    {
+      "en": "Breakfast is served at the Aurora Restaurant from 6:30 to 10:30 a.m.",
+      "zh": "早餐於 Aurora 餐廳供應，時間為上午六點三十分至十點三十分。"
+    },
+    {
+      "en": "The total cost for three nights is 786 US dollars, including all taxes.",
+      "zh": "三晚住宿總費用為 786 美元，含所有稅金。"
+    },
+    {
+      "en": "A credit card guarantee has been received and no charge has been processed yet.",
+      "zh": "我們已收到信用卡擔保資訊，目前尚未實際扣款。"
+    },
+    {
+      "en": "Full payment will be settled upon check-out at the front desk.",
+      "zh": "全額費用將於退房時於櫃台結清。"
+    },
+    {
+      "en": "Cancellations are accepted free of charge until 6:00 p.m. on June 7.",
+      "zh": "六月七日下午六點前皆可免費取消訂房。"
+    },
+    {
+      "en": "After this deadline, the first night will be charged to your credit card.",
+      "zh": "逾期後將自您信用卡收取首晚房費。"
+    },
+    {
+      "en": "Our hotel offers complimentary access to the rooftop pool and fitness center.",
+      "zh": "本飯店提供頂樓泳池與健身中心的免費使用權。"
+    },
+    {
+      "en": "Spa services and in-room massages can be booked through guest services.",
+      "zh": "Spa 服務及客房按摩可透過賓客服務預約。"
+    },
+    {
+      "en": "If you need airport transportation, please contact us at least 12 hours ahead.",
+      "zh": "如需機場接送服務，請至少提前 12 小時與我們聯繫。"
+    },
+    {
+      "en": "Our private car service is available at a flat rate of 65 dollars.",
+      "zh": "本飯店的專車服務採固定價格 65 美元收費。"
+    },
+    {
+      "en": "Early check-in or late check-out is subject to availability on the day.",
+      "zh": "提前入住或延後退房需視當日房況而定。"
+    },
+    {
+      "en": "Please notify us in advance if you wish to request either service.",
+      "zh": "若您希望申請其中任一服務，請提前告知我們。"
+    },
+    {
+      "en": "Should you have specific requests, kindly reply to this email at your convenience.",
+      "zh": "若您有任何特殊需求，請隨時回覆此封郵件。"
+    },
+    {
+      "en": "Our concierge team is available 24 hours a day to assist with local recommendations.",
+      "zh": "我們的禮賓團隊每日 24 小時提供當地推薦的協助。"
+    },
+    {
+      "en": "We are committed to making your stay both comfortable and memorable.",
+      "zh": "我們致力於讓您的住宿既舒適又難忘。"
+    },
+    {
+      "en": "Once again, thank you for your reservation, and we look forward to welcoming you.",
+      "zh": "再次感謝您的訂房，期待屆時歡迎您的蒞臨。"
+    },
+    {
+      "en": "Loyalty members earn double points on every weekday stay throughout the current quarter.",
+      "zh": "會員於本季平日入住可獲得雙倍點數。"
+    },
+    {
+      "en": "Our business center provides free printing, scanning, and meeting room booking services.",
+      "zh": "本飯店商務中心提供免費列印、掃描及會議室預約服務。"
+    },
+    {
+      "en": "Complimentary bottled water and a welcome fruit basket will be placed in your room.",
+      "zh": "客房內將為您備妥免費瓶裝水及迎賓水果籃。"
+    },
+    {
+      "en": "Pet-friendly accommodations are available upon request with a small daily cleaning fee.",
+      "zh": "可應要求安排寵物友善客房，每日酌收少額清潔費用。"
+    },
+    {
+      "en": "Our executive lounge offers evening cocktails for guests staying on the upper floors.",
+      "zh": "本飯店行政貴賓廳於晚間為高樓層住客提供雞尾酒款待。"
+    },
+    {
+      "en": "Self-parking is included with your booking, while valet service incurs an additional charge.",
+      "zh": "您的訂房包含自助停車服務，代客泊車則另行收費。"
+    },
+    {
+      "en": "Local tours and theatre tickets can be arranged through our concierge desk in the lobby.",
+      "zh": "當地觀光行程與劇院門票可透過大廳禮賓櫃台代為安排。"
+    },
+    {
+      "en": "A printed itinerary of nearby restaurants will be left in your room upon arrival.",
+      "zh": "您抵達時，客房內將備有鄰近餐廳的紙本介紹資訊。"
+    },
+    {
+      "en": "Sustainable housekeeping programs are available for guests who wish to reuse linens daily.",
+      "zh": "希望每日重複使用備品的旅客可參與我們的永續客房整理計畫。"
+    },
+    {
+      "en": "Warm regards from the reservations team at the Riverside Grand Hotel.",
+      "zh": "Riverside Grand Hotel 訂房團隊敬上。"
+    },
+    {
+      "en": "Mobile check-in becomes available through our hotel application starting twenty-four hours before arrival.",
+      "zh": "您可於抵達前二十四小時起透過本飯店行動應用程式辦理行動入住。"
+    },
+    {
+      "en": "Our digital room key feature allows guests to access their rooms directly using their smartphone.",
+      "zh": "本飯店數位房卡功能讓賓客可直接使用手機進入客房。"
+    },
+    {
+      "en": "Conference and banquet facilities accommodate corporate groups of up to two hundred delegates on site.",
+      "zh": "本飯店會議與宴會設施可容納最多兩百名企業團體與會代表。"
+    },
+    {
+      "en": "Guests staying three or more nights receive a complimentary in-room dining credit during their visit.",
+      "zh": "連續住宿三晚以上的賓客可享有住宿期間的免費客房餐飲抵用金。"
+    },
+    {
+      "en": "Our resident pianist performs live music in the lobby lounge every evening from seven o'clock.",
+      "zh": "本飯店駐館鋼琴家每晚七點起於大廳酒廊現場演奏。"
+    },
+    {
+      "en": "Twenty-four hour room service offers a thoughtfully curated late-night menu for guests dining privately.",
+      "zh": "全日客房服務提供精心規劃的深夜菜單，供賓客在房內用餐。"
+    },
+    {
+      "en": "Children under twelve years of age stay free when sharing existing bedding with accompanying parents.",
+      "zh": "十二歲以下兒童與父母同床住宿可享免費入住。"
+    },
+    {
+      "en": "An on-site florist can arrange custom bouquets to be delivered to your room upon request.",
+      "zh": "本飯店駐館花藝師可依需求製作客製花束送至客房。"
+    },
+    {
+      "en": "Our environmental program has eliminated single-use plastic toiletries throughout all guest accommodations.",
+      "zh": "本飯店環保計畫已全面取消客房內的一次性塑膠盥洗用品。"
+    },
+    {
+      "en": "Thank you for choosing us, and please contact our concierge team for any further assistance.",
+      "zh": "感謝您的選擇，如需任何進一步協助請聯繫我們的禮賓團隊。"
+    }
   ]
 }

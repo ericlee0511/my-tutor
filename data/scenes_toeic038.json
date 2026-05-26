@@ -1,48 +1,177 @@
 {
   "title": "Webinar Registration Confirmation",
   "all": [
-    { "en": "Thank you for registering for our upcoming webinar on digital marketing trends.", "zh": "感謝您報名參加我們即將舉行的數位行銷趨勢線上研討會。" },
-    { "en": "This message confirms that your registration has been successfully processed.", "zh": "本訊息確認您的報名已成功完成。" },
-    { "en": "The session will be held on Thursday, April 22, from 2:00 to 3:30 p.m. EST.", "zh": "本場研討會將於 4 月 22 日星期四美東時間下午 2 點至 3 點半舉行。" },
-    { "en": "The title of the webinar is The Future of Customer Engagement in 2026.", "zh": "本次研討會主題為「2026 顧客互動的未來」。" },
-    { "en": "Our featured speaker is Ms. Angela Park, founder of BrightPath Analytics.", "zh": "本次主講人為 BrightPath Analytics 創辦人 Angela Park 女士。" },
-    { "en": "She has over fifteen years of experience advising global consumer brands.", "zh": "她擁有十五年以上為全球消費品牌提供顧問服務的經驗。" },
-    { "en": "The unique access link is included in the calendar invitation below.", "zh": "專屬參加連結附於下方的行事曆邀請中。" },
-    { "en": "Please do not share this link, as it is tied to your individual registration.", "zh": "請勿分享此連結，因為它已綁定您的個人報名資料。" },
-    { "en": "We recommend joining the session at least ten minutes before the start time.", "zh": "建議您於開始前至少十分鐘進入會議室。" },
-    { "en": "A stable internet connection of at least five megabits is suggested.", "zh": "建議使用至少 5 Mbps 的穩定網路連線。" },
-    { "en": "You may test your audio and video using the link in our help center.", "zh": "您可透過協助中心的連結測試音訊與視訊。" },
-    { "en": "The first thirty minutes will cover key industry research findings.", "zh": "前三十分鐘將分享重要的產業研究成果。" },
-    { "en": "The next forty-five minutes will explore case studies from three sectors.", "zh": "接下來四十五分鐘將深入三個產業的案例研究。" },
-    { "en": "A live question and answer session will close the program.", "zh": "活動將以現場問答時間作為結尾。" },
-    { "en": "Attendees may submit questions through the on-screen chat feature.", "zh": "與會者可透過畫面中的聊天功能提問。" },
-    { "en": "A downloadable copy of the slide deck will be available after the event.", "zh": "活動結束後將提供可下載的簡報檔。" },
-    { "en": "Registered participants will also receive a recording within 48 hours.", "zh": "已報名者亦將於 48 小時內收到錄影檔。" },
-    { "en": "Continuing education credits are available for marketing professionals.", "zh": "本場研討會可供行銷專業人士申請繼續教育學分。" },
-    { "en": "To request your certificate, complete the survey sent after the webinar.", "zh": "如需申請證書，請填寫研討會後寄送的問卷。" },
-    { "en": "If you are unable to attend, you may cancel up to 24 hours in advance.", "zh": "如無法出席，您可於開始前 24 小時內取消報名。" },
-    { "en": "Please contact our support team if you do not receive your access link.", "zh": "若您未收到參加連結，請聯絡我們的客服團隊。" },
-    { "en": "Our team is available by email at events@brightpath.io.", "zh": "我們的團隊提供電子郵件服務：events@brightpath.io。" },
-    { "en": "We look forward to seeing you at the live session next Thursday.", "zh": "期待下週四在線上研討會與您相見。" },
-    { "en": "Please make sure your registered email address is correctly entered in our system.", "zh": "請確認您的報名電子郵件地址已正確填入我們的系統。" },
-    { "en": "Reminder emails will be automatically sent one day and one hour before the event.", "zh": "提醒郵件將於活動前一天及一小時自動寄出。" },
-    { "en": "The webinar platform supports both desktop browsers and mobile devices.", "zh": "本研討會平台同時支援桌機瀏覽器與行動裝置。" },
-    { "en": "Closed captions in English will be available throughout the entire session.", "zh": "整場活動將全程提供英文字幕。" },
-    { "en": "Polls and quick surveys will appear during the presentation to enhance engagement.", "zh": "簡報期間將不時出現投票與快速問卷以提升互動性。" },
-    { "en": "Group registrations of five or more participants qualify for a complimentary report.", "zh": "團體報名滿五人即可獲贈一份免費研究報告。" },
-    { "en": "If you experience technical issues during the event, please use the help chat icon.", "zh": "如活動期間遇到技術問題，請使用協助聊天圖示。" },
-    { "en": "Our next webinar in this series will focus on data-driven customer retention.", "zh": "本系列下一場研討會將聚焦於以數據驅動的顧客留存。" },
-    { "en": "Subscribers to our newsletter receive early access to all upcoming webinar invitations.", "zh": "電子報訂閱者可優先收到所有未來研討會的邀請。" },
-    { "en": "Thank you again for your interest, and we appreciate your continued support.", "zh": "再次感謝您的關注，並感激您一貫的支持。" },
-    { "en": "An optional pre-event reading list will be emailed to registrants this Friday afternoon.", "zh": "選讀資料清單將於本週五下午寄送給已報名者。" },
-    { "en": "Speakers will reference these materials briefly during the opening segment of the webinar.", "zh": "講者將於研討會開場簡短引用這些參考資料。" },
-    { "en": "Live captions can be translated into eight major languages using the platform settings.", "zh": "即時字幕可透過平台設定翻譯成八種主要語言。" },
-    { "en": "Networking breakout rooms will open for fifteen minutes immediately after the main session.", "zh": "主議程結束後將立即開放十五分鐘的分組交流室。" },
-    { "en": "Attendees who share key takeaways on social media may win a complimentary research package.", "zh": "於社群媒體分享重點心得的與會者，有機會獲得一份免費研究資料包。" },
-    { "en": "Our customer support team will monitor the help chat throughout the entire event.", "zh": "我們的客服團隊將全程於協助聊天室待命。" },
-    { "en": "Premium subscribers will gain access to extended Q and A clips after the broadcast ends.", "zh": "高級訂閱者於直播結束後可取得延伸版問答片段。" },
-    { "en": "A short feedback form will appear automatically when the session concludes for all attendees.", "zh": "會議結束時將為所有與會者自動跳出簡短的意見回饋表。" },
-    { "en": "Group viewing parties are encouraged for teams that want to discuss insights afterward.", "zh": "鼓勵希望會後共同討論心得的團隊舉辦團體觀看活動。" },
-    { "en": "We sincerely hope this webinar delivers practical value to your marketing strategy.", "zh": "我們誠摯希望本次研討會能為您的行銷策略帶來實用價值。" }
+    {
+      "en": "Thank you for registering for our upcoming webinar on digital marketing trends.",
+      "zh": "感謝您報名參加我們即將舉行的數位行銷趨勢線上研討會。"
+    },
+    {
+      "en": "This message confirms that your registration has been successfully processed.",
+      "zh": "本訊息確認您的報名已成功完成。"
+    },
+    {
+      "en": "The session will be held on Thursday, April 22, from 2:00 to 3:30 p.m. EST.",
+      "zh": "本場研討會將於 4 月 22 日星期四美東時間下午 2 點至 3 點半舉行。"
+    },
+    {
+      "en": "The title of the webinar is The Future of Customer Engagement in 2026.",
+      "zh": "本次研討會主題為「2026 顧客互動的未來」。"
+    },
+    {
+      "en": "Our featured speaker is Ms. Angela Park, founder of BrightPath Analytics.",
+      "zh": "本次主講人為 BrightPath Analytics 創辦人 Angela Park 女士。"
+    },
+    {
+      "en": "She has over fifteen years of experience advising global consumer brands.",
+      "zh": "她擁有十五年以上為全球消費品牌提供顧問服務的經驗。"
+    },
+    {
+      "en": "The unique access link is included in the calendar invitation below.",
+      "zh": "專屬參加連結附於下方的行事曆邀請中。"
+    },
+    {
+      "en": "Please do not share this link, as it is tied to your individual registration.",
+      "zh": "請勿分享此連結，因為它已綁定您的個人報名資料。"
+    },
+    {
+      "en": "We recommend joining the session at least ten minutes before the start time.",
+      "zh": "建議您於開始前至少十分鐘進入會議室。"
+    },
+    {
+      "en": "A stable internet connection of at least five megabits is suggested.",
+      "zh": "建議使用至少 5 Mbps 的穩定網路連線。"
+    },
+    {
+      "en": "You may test your audio and video using the link in our help center.",
+      "zh": "您可透過協助中心的連結測試音訊與視訊。"
+    },
+    {
+      "en": "The first thirty minutes will cover key industry research findings.",
+      "zh": "前三十分鐘將分享重要的產業研究成果。"
+    },
+    {
+      "en": "The next forty-five minutes will explore case studies from three sectors.",
+      "zh": "接下來四十五分鐘將深入三個產業的案例研究。"
+    },
+    {
+      "en": "A live question and answer session will close the program.",
+      "zh": "活動將以現場問答時間作為結尾。"
+    },
+    {
+      "en": "Attendees may submit questions through the on-screen chat feature.",
+      "zh": "與會者可透過畫面中的聊天功能提問。"
+    },
+    {
+      "en": "A downloadable copy of the slide deck will be available after the event.",
+      "zh": "活動結束後將提供可下載的簡報檔。"
+    },
+    {
+      "en": "Registered participants will also receive a recording within 48 hours.",
+      "zh": "已報名者亦將於 48 小時內收到錄影檔。"
+    },
+    {
+      "en": "Continuing education credits are available for marketing professionals.",
+      "zh": "本場研討會可供行銷專業人士申請繼續教育學分。"
+    },
+    {
+      "en": "To request your certificate, complete the survey sent after the webinar.",
+      "zh": "如需申請證書，請填寫研討會後寄送的問卷。"
+    },
+    {
+      "en": "If you are unable to attend, you may cancel up to 24 hours in advance.",
+      "zh": "如無法出席，您可於開始前 24 小時內取消報名。"
+    },
+    {
+      "en": "Please contact our support team if you do not receive your access link.",
+      "zh": "若您未收到參加連結，請聯絡我們的客服團隊。"
+    },
+    {
+      "en": "Our team is available by email at events@brightpath.io.",
+      "zh": "我們的團隊提供電子郵件服務：events@brightpath.io。"
+    },
+    {
+      "en": "We look forward to seeing you at the live session next Thursday.",
+      "zh": "期待下週四在線上研討會與您相見。"
+    },
+    {
+      "en": "Please make sure your registered email address is correctly entered in our system.",
+      "zh": "請確認您的報名電子郵件地址已正確填入我們的系統。"
+    },
+    {
+      "en": "Reminder emails will be automatically sent one day and one hour before the event.",
+      "zh": "提醒郵件將於活動前一天及一小時自動寄出。"
+    },
+    {
+      "en": "The webinar platform supports both desktop browsers and mobile devices.",
+      "zh": "本研討會平台同時支援桌機瀏覽器與行動裝置。"
+    },
+    {
+      "en": "Closed captions in English will be available throughout the entire session.",
+      "zh": "整場活動將全程提供英文字幕。"
+    },
+    {
+      "en": "Polls and quick surveys will appear during the presentation to enhance engagement.",
+      "zh": "簡報期間將不時出現投票與快速問卷以提升互動性。"
+    },
+    {
+      "en": "Group registrations of five or more participants qualify for a complimentary report.",
+      "zh": "團體報名滿五人即可獲贈一份免費研究報告。"
+    },
+    {
+      "en": "If you experience technical issues during the event, please use the help chat icon.",
+      "zh": "如活動期間遇到技術問題，請使用協助聊天圖示。"
+    },
+    {
+      "en": "Our next webinar in this series will focus on data-driven customer retention.",
+      "zh": "本系列下一場研討會將聚焦於以數據驅動的顧客留存。"
+    },
+    {
+      "en": "Subscribers to our newsletter receive early access to all upcoming webinar invitations.",
+      "zh": "電子報訂閱者可優先收到所有未來研討會的邀請。"
+    },
+    {
+      "en": "Thank you again for your interest, and we appreciate your continued support.",
+      "zh": "再次感謝您的關注，並感激您一貫的支持。"
+    },
+    {
+      "en": "An optional pre-event reading list will be emailed to registrants this Friday afternoon.",
+      "zh": "選讀資料清單將於本週五下午寄送給已報名者。"
+    },
+    {
+      "en": "Speakers will reference these materials briefly during the opening segment of the webinar.",
+      "zh": "講者將於研討會開場簡短引用這些參考資料。"
+    },
+    {
+      "en": "Live captions can be translated into eight major languages using the platform settings.",
+      "zh": "即時字幕可透過平台設定翻譯成八種主要語言。"
+    },
+    {
+      "en": "Networking breakout rooms will open for fifteen minutes immediately after the main session.",
+      "zh": "主議程結束後將立即開放十五分鐘的分組交流室。"
+    },
+    {
+      "en": "Attendees who share key takeaways on social media may win a complimentary research package.",
+      "zh": "於社群媒體分享重點心得的與會者，有機會獲得一份免費研究資料包。"
+    },
+    {
+      "en": "Our customer support team will monitor the help chat throughout the entire event.",
+      "zh": "我們的客服團隊將全程於協助聊天室待命。"
+    },
+    {
+      "en": "Premium subscribers will gain access to extended Q and A clips after the broadcast ends.",
+      "zh": "高級訂閱者於直播結束後可取得延伸版問答片段。"
+    },
+    {
+      "en": "A short feedback form will appear automatically when the session concludes for all attendees.",
+      "zh": "會議結束時將為所有與會者自動跳出簡短的意見回饋表。"
+    },
+    {
+      "en": "Group viewing parties are encouraged for teams that want to discuss insights afterward.",
+      "zh": "鼓勵希望會後共同討論心得的團隊舉辦團體觀看活動。"
+    },
+    {
+      "en": "We sincerely hope this webinar delivers practical value to your marketing strategy.",
+      "zh": "我們誠摯希望本次研討會能為您的行銷策略帶來實用價值。"
+    }
   ]
 }

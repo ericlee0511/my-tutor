@@ -1,47 +1,173 @@
 {
   "title": "Investment Portfolio Review",
   "all": [
-    { "en": "This document summarizes your quarterly investment portfolio review.", "zh": "本文件整理您本季投資組合檢視結果。" },
-    { "en": "Your portfolio value at quarter end was eight hundred sixty thousand dollars.", "zh": "您於季底之組合價值為八十六萬美元。" },
-    { "en": "This represents a four percent increase over the previous quarter.", "zh": "較上季成長百分之四。" },
-    { "en": "Year to date performance currently stands at seven point two percent.", "zh": "本年度迄今績效為百分之七點二。" },
-    { "en": "Your portfolio remains aligned with the moderate growth profile.", "zh": "您的組合仍與穩健成長型風險屬性一致。" },
-    { "en": "Equity holdings make up roughly sixty percent of total assets.", "zh": "股票部位約占總資產百分之六十。" },
-    { "en": "Fixed income holdings account for thirty percent of allocation.", "zh": "固定收益部位占配置百分之三十。" },
-    { "en": "The remaining ten percent is held in cash and money market funds.", "zh": "其餘百分之十持有現金與貨幣市場基金。" },
-    { "en": "Domestic equity exposure outperformed international peers this quarter.", "zh": "本季國內股票表現優於國際同類資產。" },
-    { "en": "Technology and healthcare sectors led the strongest quarterly returns.", "zh": "科技與醫療類股本季帶動最佳報酬。" },
-    { "en": "Energy holdings lagged due to softer commodity prices.", "zh": "能源持股因商品價格疲軟而落後。" },
-    { "en": "The bond portfolio benefited from a slight decline in interest rates.", "zh": "債券組合受惠於利率小幅下滑。" },
-    { "en": "Duration risk remains modest relative to your risk tolerance.", "zh": "相對於您的風險承受度，存續期風險仍屬適度。" },
-    { "en": "We recommend a small rebalancing trade to restore target weights.", "zh": "建議執行小幅再平衡交易以回復目標權重。" },
-    { "en": "Tax loss harvesting opportunities have been identified for review.", "zh": "已辨識可供檢視之稅損實現機會。" },
-    { "en": "Required minimum distributions will apply starting next calendar year.", "zh": "強制最低提領將自下年度起適用。" },
-    { "en": "Beneficiary designations should be reviewed at least annually.", "zh": "受益人指定應至少每年檢視一次。" },
-    { "en": "Estate planning documents on file appear to remain current.", "zh": "本行存檔之遺產規劃文件目前似仍有效。" },
-    { "en": "Please confirm any major life changes that affect financial plans.", "zh": "請告知任何影響財務規劃之重大生活變動。" },
-    { "en": "Your next portfolio review is scheduled for early August.", "zh": "您下次組合檢視排定於八月初。" },
-    { "en": "We will send an agenda one week before the meeting date.", "zh": "我們將於會議前一週寄發議程。" },
-    { "en": "Thank you for your continued trust in our advisory services.", "zh": "感謝您持續信任本公司之顧問服務。" },
-    { "en": "Emerging market allocations remain modest pending greater geopolitical clarity ahead.", "zh": "在地緣政治情勢明朗之前，新興市場配置維持適度水準。" },
-    { "en": "Dividend yields on the core equity sleeve averaged just over two percent.", "zh": "核心股票部位之股利殖利率平均略高於百分之二。" },
-    { "en": "Alternative investments such as private credit may complement traditional fixed income holdings.", "zh": "私募信用等另類投資可作為傳統固定收益部位之補充。" },
-    { "en": "Retirement income projections show on track progress toward your stated goals.", "zh": "退休所得試算顯示朝您既定目標穩健前進。" },
-    { "en": "Education savings accounts for grandchildren have grown substantially this quarter.", "zh": "為孫輩設立之教育儲蓄帳戶本季顯著成長。" },
-    { "en": "Charitable giving strategies can deliver meaningful tax benefits before year end.", "zh": "慈善捐贈策略可於年底前帶來顯著節稅效益。" },
-    { "en": "Our research team maintains a neutral outlook on developed market equities.", "zh": "本公司研究團隊對已開發市場股票維持中立看法。" },
-    { "en": "Cybersecurity protections on your accounts were reviewed and confirmed up to date.", "zh": "您帳戶之資安防護已檢視並確認為最新狀態。" },
-    { "en": "Quarterly fee statements are available through the secure client portal anytime.", "zh": "季度費用明細可透過安全客戶平台隨時查閱。" },
-    { "en": "Please reach out should you wish to schedule an interim discussion soon.", "zh": "如希望儘早安排期中會議，歡迎隨時聯繫我們。" },
-    { "en": "Sector rotation strategies are reviewed monthly based on prevailing economic indicators.", "zh": "類股輪動策略每月依當前經濟指標進行檢視。" },
-    { "en": "Concentration limits prevent any single position from exceeding five percent of total holdings.", "zh": "集中度上限防止任一單一部位超過總持有之百分之五。" },
-    { "en": "Tax efficient fund placements optimize after tax returns across taxable and retirement accounts.", "zh": "稅務效率基金配置可最佳化應稅與退休帳戶之稅後報酬。" },
-    { "en": "Currency hedging on international positions is reviewed in response to forecast volatility.", "zh": "國際部位之匯率避險依預期波動進行檢視。" },
-    { "en": "Dollar cost averaging strategies remain active through scheduled monthly contributions.", "zh": "定期定額策略透過每月排定之投入持續執行。" },
-    { "en": "Liquidity reserves maintain three to six months of household expenses at all times.", "zh": "流動性準備金隨時維持三至六個月之家庭支出水準。" },
-    { "en": "Risk profiling questionnaires are updated whenever life circumstances change significantly.", "zh": "風險屬性問卷於生活狀況發生重大變化時即予更新。" },
-    { "en": "Trust and estate planning conversations include both legal and tax considerations carefully.", "zh": "信託與遺產規劃討論審慎涵蓋法律與稅務考量。" },
-    { "en": "Annual investment policy statements document objectives, constraints, and asset allocation targets.", "zh": "年度投資政策說明書載明目標、限制與資產配置目標。" },
-    { "en": "Thank you for the opportunity to serve as your trusted financial advisor.", "zh": "感謝您讓我們有機會擔任您信賴的財務顧問。" }
+    {
+      "en": "This document summarizes your quarterly investment portfolio review.",
+      "zh": "本文件整理您本季投資組合檢視結果。"
+    },
+    {
+      "en": "Your portfolio value at quarter end was eight hundred sixty thousand dollars.",
+      "zh": "您於季底之組合價值為八十六萬美元。"
+    },
+    {
+      "en": "This represents a four percent increase over the previous quarter.",
+      "zh": "較上季成長百分之四。"
+    },
+    {
+      "en": "Year to date performance currently stands at seven point two percent.",
+      "zh": "本年度迄今績效為百分之七點二。"
+    },
+    {
+      "en": "Your portfolio remains aligned with the moderate growth profile.",
+      "zh": "您的組合仍與穩健成長型風險屬性一致。"
+    },
+    {
+      "en": "Equity holdings make up roughly sixty percent of total assets.",
+      "zh": "股票部位約占總資產百分之六十。"
+    },
+    {
+      "en": "Fixed income holdings account for thirty percent of allocation.",
+      "zh": "固定收益部位占配置百分之三十。"
+    },
+    {
+      "en": "The remaining ten percent is held in cash and money market funds.",
+      "zh": "其餘百分之十持有現金與貨幣市場基金。"
+    },
+    {
+      "en": "Domestic equity exposure outperformed international peers this quarter.",
+      "zh": "本季國內股票表現優於國際同類資產。"
+    },
+    {
+      "en": "Technology and healthcare sectors led the strongest quarterly returns.",
+      "zh": "科技與醫療類股本季帶動最佳報酬。"
+    },
+    {
+      "en": "Energy holdings lagged due to softer commodity prices.",
+      "zh": "能源持股因商品價格疲軟而落後。"
+    },
+    {
+      "en": "The bond portfolio benefited from a slight decline in interest rates.",
+      "zh": "債券組合受惠於利率小幅下滑。"
+    },
+    {
+      "en": "Duration risk remains modest relative to your risk tolerance.",
+      "zh": "相對於您的風險承受度，存續期風險仍屬適度。"
+    },
+    {
+      "en": "We recommend a small rebalancing trade to restore target weights.",
+      "zh": "建議執行小幅再平衡交易以回復目標權重。"
+    },
+    {
+      "en": "Tax loss harvesting opportunities have been identified for review.",
+      "zh": "已辨識可供檢視之稅損實現機會。"
+    },
+    {
+      "en": "Required minimum distributions will apply starting next calendar year.",
+      "zh": "強制最低提領將自下年度起適用。"
+    },
+    {
+      "en": "Beneficiary designations should be reviewed at least annually.",
+      "zh": "受益人指定應至少每年檢視一次。"
+    },
+    {
+      "en": "Estate planning documents on file appear to remain current.",
+      "zh": "本行存檔之遺產規劃文件目前似仍有效。"
+    },
+    {
+      "en": "Please confirm any major life changes that affect financial plans.",
+      "zh": "請告知任何影響財務規劃之重大生活變動。"
+    },
+    {
+      "en": "Your next portfolio review is scheduled for early August.",
+      "zh": "您下次組合檢視排定於八月初。"
+    },
+    {
+      "en": "We will send an agenda one week before the meeting date.",
+      "zh": "我們將於會議前一週寄發議程。"
+    },
+    {
+      "en": "Thank you for your continued trust in our advisory services.",
+      "zh": "感謝您持續信任本公司之顧問服務。"
+    },
+    {
+      "en": "Emerging market allocations remain modest pending greater geopolitical clarity ahead.",
+      "zh": "在地緣政治情勢明朗之前，新興市場配置維持適度水準。"
+    },
+    {
+      "en": "Dividend yields on the core equity sleeve averaged just over two percent.",
+      "zh": "核心股票部位之股利殖利率平均略高於百分之二。"
+    },
+    {
+      "en": "Alternative investments such as private credit may complement traditional fixed income holdings.",
+      "zh": "私募信用等另類投資可作為傳統固定收益部位之補充。"
+    },
+    {
+      "en": "Retirement income projections show on track progress toward your stated goals.",
+      "zh": "退休所得試算顯示朝您既定目標穩健前進。"
+    },
+    {
+      "en": "Education savings accounts for grandchildren have grown substantially this quarter.",
+      "zh": "為孫輩設立之教育儲蓄帳戶本季顯著成長。"
+    },
+    {
+      "en": "Charitable giving strategies can deliver meaningful tax benefits before year end.",
+      "zh": "慈善捐贈策略可於年底前帶來顯著節稅效益。"
+    },
+    {
+      "en": "Our research team maintains a neutral outlook on developed market equities.",
+      "zh": "本公司研究團隊對已開發市場股票維持中立看法。"
+    },
+    {
+      "en": "Cybersecurity protections on your accounts were reviewed and confirmed up to date.",
+      "zh": "您帳戶之資安防護已檢視並確認為最新狀態。"
+    },
+    {
+      "en": "Quarterly fee statements are available through the secure client portal anytime.",
+      "zh": "季度費用明細可透過安全客戶平台隨時查閱。"
+    },
+    {
+      "en": "Please reach out should you wish to schedule an interim discussion soon.",
+      "zh": "如希望儘早安排期中會議，歡迎隨時聯繫我們。"
+    },
+    {
+      "en": "Sector rotation strategies are reviewed monthly based on prevailing economic indicators.",
+      "zh": "類股輪動策略每月依當前經濟指標進行檢視。"
+    },
+    {
+      "en": "Concentration limits prevent any single position from exceeding five percent of total holdings.",
+      "zh": "集中度上限防止任一單一部位超過總持有之百分之五。"
+    },
+    {
+      "en": "Tax efficient fund placements optimize after tax returns across taxable and retirement accounts.",
+      "zh": "稅務效率基金配置可最佳化應稅與退休帳戶之稅後報酬。"
+    },
+    {
+      "en": "Currency hedging on international positions is reviewed in response to forecast volatility.",
+      "zh": "國際部位之匯率避險依預期波動進行檢視。"
+    },
+    {
+      "en": "Dollar cost averaging strategies remain active through scheduled monthly contributions.",
+      "zh": "定期定額策略透過每月排定之投入持續執行。"
+    },
+    {
+      "en": "Liquidity reserves maintain three to six months of household expenses at all times.",
+      "zh": "流動性準備金隨時維持三至六個月之家庭支出水準。"
+    },
+    {
+      "en": "Risk profiling questionnaires are updated whenever life circumstances change significantly.",
+      "zh": "風險屬性問卷於生活狀況發生重大變化時即予更新。"
+    },
+    {
+      "en": "Trust and estate planning conversations include both legal and tax considerations carefully.",
+      "zh": "信託與遺產規劃討論審慎涵蓋法律與稅務考量。"
+    },
+    {
+      "en": "Annual investment policy statements document objectives, constraints, and asset allocation targets.",
+      "zh": "年度投資政策說明書載明目標、限制與資產配置目標。"
+    },
+    {
+      "en": "Thank you for the opportunity to serve as your trusted financial advisor.",
+      "zh": "感謝您讓我們有機會擔任您信賴的財務顧問。"
+    }
   ]
 }

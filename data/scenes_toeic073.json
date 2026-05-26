@@ -1,49 +1,181 @@
 {
   "title": "Employee Handbook Excerpt",
   "all": [
-    { "en": "Welcome to our company and congratulations on becoming a valued team member.", "zh": "歡迎加入本公司，並恭喜您成為珍貴的團隊一員。" },
-    { "en": "This handbook outlines the policies and expectations that guide our workplace.", "zh": "本手冊概述指引本職場運作的政策與期待。" },
-    { "en": "Please read it carefully and refer back to it as your tenure continues.", "zh": "請仔細閱讀並於任職期間隨時參考。" },
-    { "en": "Our standard work week consists of forty hours over five business days.", "zh": "標準工作週為五個工作日合計四十小時。" },
-    { "en": "Core working hours are between ten in the morning and four in the afternoon.", "zh": "核心工作時段為上午十點至下午四點。" },
-    { "en": "Outside core hours, schedules may be adjusted with manager approval.", "zh": "核心時段以外，可於主管核可後調整時程。" },
-    { "en": "Hybrid arrangements typically include two on-site days per week.", "zh": "混合工作模式一般包含每週兩天到辦公室。" },
-    { "en": "Employees accrue fifteen days of paid annual leave each calendar year.", "zh": "員工每曆年累積十五天有薪特休假。" },
-    { "en": "An additional five sick days are provided separately from annual leave.", "zh": "另額外提供五天病假，與特休假分開計算。" },
-    { "en": "Public holidays follow the official government calendar each year.", "zh": "國定假日依當年政府公告的官方行事曆。" },
-    { "en": "Personal days may be requested for unforeseen matters with advance notice.", "zh": "如遇突發事項，可預先告知後申請個人事假。" },
-    { "en": "Compensation reviews are conducted formally once each calendar year.", "zh": "薪酬檢視每曆年正式進行一次。" },
-    { "en": "Performance evaluations occur at six-month intervals throughout the year.", "zh": "績效評估於每年以六個月為週期進行。" },
-    { "en": "Professional development funds are available for courses and conferences.", "zh": "課程與研討會可申請專業發展經費。" },
-    { "en": "Each employee may use up to two thousand US dollars annually for learning.", "zh": "每位員工每年最多可動支兩千美元用於學習。" },
-    { "en": "All employees must complete mandatory compliance training each year.", "zh": "所有員工每年須完成強制性的法遵訓練。" },
-    { "en": "Use of company equipment must comply with our acceptable use policy.", "zh": "使用公司設備須符合本公司的可接受使用政策。" },
-    { "en": "Confidential information should never be shared outside authorized channels.", "zh": "機密資訊絕不可透過未經授權管道外洩。" },
-    { "en": "Dress is business casual on most days and smart business for client meetings.", "zh": "大多數日子為商務休閒裝，客戶會議則為正式商務裝。" },
-    { "en": "Pets are not permitted in the office except for service animals.", "zh": "辦公室內不得攜帶寵物，但服務型動物不在此限。" },
-    { "en": "Suggestions for handbook improvements are welcomed at any time.", "zh": "歡迎隨時提出改善手冊的建議。" },
-    { "en": "Updates will be published quarterly and notified through internal email.", "zh": "更新將每季發布並透過內部電子郵件通知。" },
-    { "en": "Acknowledgment of receipt is required within thirty days of your start date.", "zh": "請於到職日起三十天內簽署收到確認。" },
-    { "en": "Please direct any questions to your manager or the people operations team.", "zh": "如有疑問，請洽您的主管或人員營運團隊。" },
-    { "en": "New hires also receive a thirty-day onboarding plan tailored to their role.", "zh": "新進人員另會收到依職務量身打造的三十天到職計畫。" },
-    { "en": "Mentors are assigned to assist with cultural and procedural questions.", "zh": "公司會指派導師協助文化與流程相關疑問。" },
-    { "en": "Health insurance enrollment must be completed within the first two weeks.", "zh": "健康保險投保須於到職前兩週內完成。" },
-    { "en": "Retirement plan contributions begin on the first of the following month.", "zh": "退休金提撥自次月一日起開始。" },
-    { "en": "Employees may participate in the stock purchase program after six months.", "zh": "員工於任職滿六個月後可參加員工認股方案。" },
-    { "en": "Internal job postings are circulated weekly through the talent portal.", "zh": "內部職缺每週透過人才入口網站公告。" },
-    { "en": "Transfers between departments require approval from both reporting managers.", "zh": "跨部門調動須取得雙方主管核可。" },
-    { "en": "Grievances should be raised through the formal channels outlined in section twelve.", "zh": "申訴事項應依第十二章所列正式管道提出。" },
-    { "en": "Exit interviews are scheduled to gather feedback when employment concludes.", "zh": "離職面談於結束聘僱時安排，以蒐集回饋意見。" },
-    { "en": "Thank you for taking the time to understand our shared standards and values.", "zh": "感謝您撥冗了解我們共同遵循的標準與價值。" },
-    { "en": "Remote work setup stipends are reimbursed up to four hundred dollars per year.", "zh": "遠端辦公設置津貼每年最高可實報實銷四百美元。" },
-    { "en": "Reimbursement requires submission of itemized receipts through the expense portal.", "zh": "申請補助須透過費用入口網提交分項收據。" },
-    { "en": "Parental leave extends up to twelve weeks of fully paid time off for new parents.", "zh": "育嬰假提供新手父母最長十二週的全薪休假。" },
-    { "en": "Bereavement leave allows up to five days following the loss of an immediate family member.", "zh": "喪假於直系親屬過世後可請最多五天。" },
-    { "en": "Volunteer days encourage staff to spend two paid days each year on community work.", "zh": "志工日鼓勵同仁每年以兩天有薪假期投入社區服務。" },
-    { "en": "Conflict of interest disclosures must be submitted annually and whenever changes occur.", "zh": "利益衝突申報須每年提交，並於情況變動時隨時更新。" },
-    { "en": "Social media usage referencing the company must follow our brand voice guidelines.", "zh": "提及公司的社群媒體發文須遵循我方品牌語調規範。" },
-    { "en": "Reporting workplace harassment can be done anonymously through the ethics hotline.", "zh": "職場騷擾舉報可透過倫理專線匿名提出。" },
-    { "en": "Workplace investigations are handled confidentially within fifteen business days.", "zh": "職場調查以保密方式於十五個營業日內處理完畢。" },
-    { "en": "Annual employee surveys help leadership refine policies and culture initiatives.", "zh": "年度員工調查協助領導層精進政策與文化措施。" }
+    {
+      "en": "Welcome to our company and congratulations on becoming a valued team member.",
+      "zh": "歡迎加入本公司，並恭喜您成為珍貴的團隊一員。"
+    },
+    {
+      "en": "This handbook outlines the policies and expectations that guide our workplace.",
+      "zh": "本手冊概述指引本職場運作的政策與期待。"
+    },
+    {
+      "en": "Please read it carefully and refer back to it as your tenure continues.",
+      "zh": "請仔細閱讀並於任職期間隨時參考。"
+    },
+    {
+      "en": "Our standard work week consists of forty hours over five business days.",
+      "zh": "標準工作週為五個工作日合計四十小時。"
+    },
+    {
+      "en": "Core working hours are between ten in the morning and four in the afternoon.",
+      "zh": "核心工作時段為上午十點至下午四點。"
+    },
+    {
+      "en": "Outside core hours, schedules may be adjusted with manager approval.",
+      "zh": "核心時段以外，可於主管核可後調整時程。"
+    },
+    {
+      "en": "Hybrid arrangements typically include two on-site days per week.",
+      "zh": "混合工作模式一般包含每週兩天到辦公室。"
+    },
+    {
+      "en": "Employees accrue fifteen days of paid annual leave each calendar year.",
+      "zh": "員工每曆年累積十五天有薪特休假。"
+    },
+    {
+      "en": "An additional five sick days are provided separately from annual leave.",
+      "zh": "另額外提供五天病假，與特休假分開計算。"
+    },
+    {
+      "en": "Public holidays follow the official government calendar each year.",
+      "zh": "國定假日依當年政府公告的官方行事曆。"
+    },
+    {
+      "en": "Personal days may be requested for unforeseen matters with advance notice.",
+      "zh": "如遇突發事項，可預先告知後申請個人事假。"
+    },
+    {
+      "en": "Compensation reviews are conducted formally once each calendar year.",
+      "zh": "薪酬檢視每曆年正式進行一次。"
+    },
+    {
+      "en": "Performance evaluations occur at six-month intervals throughout the year.",
+      "zh": "績效評估於每年以六個月為週期進行。"
+    },
+    {
+      "en": "Professional development funds are available for courses and conferences.",
+      "zh": "課程與研討會可申請專業發展經費。"
+    },
+    {
+      "en": "Each employee may use up to two thousand US dollars annually for learning.",
+      "zh": "每位員工每年最多可動支兩千美元用於學習。"
+    },
+    {
+      "en": "All employees must complete mandatory compliance training each year.",
+      "zh": "所有員工每年須完成強制性的法遵訓練。"
+    },
+    {
+      "en": "Use of company equipment must comply with our acceptable use policy.",
+      "zh": "使用公司設備須符合本公司的可接受使用政策。"
+    },
+    {
+      "en": "Confidential information should never be shared outside authorized channels.",
+      "zh": "機密資訊絕不可透過未經授權管道外洩。"
+    },
+    {
+      "en": "Dress is business casual on most days and smart business for client meetings.",
+      "zh": "大多數日子為商務休閒裝，客戶會議則為正式商務裝。"
+    },
+    {
+      "en": "Pets are not permitted in the office except for service animals.",
+      "zh": "辦公室內不得攜帶寵物，但服務型動物不在此限。"
+    },
+    {
+      "en": "Suggestions for handbook improvements are welcomed at any time.",
+      "zh": "歡迎隨時提出改善手冊的建議。"
+    },
+    {
+      "en": "Updates will be published quarterly and notified through internal email.",
+      "zh": "更新將每季發布並透過內部電子郵件通知。"
+    },
+    {
+      "en": "Acknowledgment of receipt is required within thirty days of your start date.",
+      "zh": "請於到職日起三十天內簽署收到確認。"
+    },
+    {
+      "en": "Please direct any questions to your manager or the people operations team.",
+      "zh": "如有疑問，請洽您的主管或人員營運團隊。"
+    },
+    {
+      "en": "New hires also receive a thirty-day onboarding plan tailored to their role.",
+      "zh": "新進人員另會收到依職務量身打造的三十天到職計畫。"
+    },
+    {
+      "en": "Mentors are assigned to assist with cultural and procedural questions.",
+      "zh": "公司會指派導師協助文化與流程相關疑問。"
+    },
+    {
+      "en": "Health insurance enrollment must be completed within the first two weeks.",
+      "zh": "健康保險投保須於到職前兩週內完成。"
+    },
+    {
+      "en": "Retirement plan contributions begin on the first of the following month.",
+      "zh": "退休金提撥自次月一日起開始。"
+    },
+    {
+      "en": "Employees may participate in the stock purchase program after six months.",
+      "zh": "員工於任職滿六個月後可參加員工認股方案。"
+    },
+    {
+      "en": "Internal job postings are circulated weekly through the talent portal.",
+      "zh": "內部職缺每週透過人才入口網站公告。"
+    },
+    {
+      "en": "Transfers between departments require approval from both reporting managers.",
+      "zh": "跨部門調動須取得雙方主管核可。"
+    },
+    {
+      "en": "Grievances should be raised through the formal channels outlined in section twelve.",
+      "zh": "申訴事項應依第十二章所列正式管道提出。"
+    },
+    {
+      "en": "Exit interviews are scheduled to gather feedback when employment concludes.",
+      "zh": "離職面談於結束聘僱時安排，以蒐集回饋意見。"
+    },
+    {
+      "en": "Thank you for taking the time to understand our shared standards and values.",
+      "zh": "感謝您撥冗了解我們共同遵循的標準與價值。"
+    },
+    {
+      "en": "Remote work setup stipends are reimbursed up to four hundred dollars per year.",
+      "zh": "遠端辦公設置津貼每年最高可實報實銷四百美元。"
+    },
+    {
+      "en": "Reimbursement requires submission of itemized receipts through the expense portal.",
+      "zh": "申請補助須透過費用入口網提交分項收據。"
+    },
+    {
+      "en": "Parental leave extends up to twelve weeks of fully paid time off for new parents.",
+      "zh": "育嬰假提供新手父母最長十二週的全薪休假。"
+    },
+    {
+      "en": "Bereavement leave allows up to five days following the loss of an immediate family member.",
+      "zh": "喪假於直系親屬過世後可請最多五天。"
+    },
+    {
+      "en": "Volunteer days encourage staff to spend two paid days each year on community work.",
+      "zh": "志工日鼓勵同仁每年以兩天有薪假期投入社區服務。"
+    },
+    {
+      "en": "Conflict of interest disclosures must be submitted annually and whenever changes occur.",
+      "zh": "利益衝突申報須每年提交，並於情況變動時隨時更新。"
+    },
+    {
+      "en": "Social media usage referencing the company must follow our brand voice guidelines.",
+      "zh": "提及公司的社群媒體發文須遵循我方品牌語調規範。"
+    },
+    {
+      "en": "Reporting workplace harassment can be done anonymously through the ethics hotline.",
+      "zh": "職場騷擾舉報可透過倫理專線匿名提出。"
+    },
+    {
+      "en": "Workplace investigations are handled confidentially within fifteen business days.",
+      "zh": "職場調查以保密方式於十五個營業日內處理完畢。"
+    },
+    {
+      "en": "Annual employee surveys help leadership refine policies and culture initiatives.",
+      "zh": "年度員工調查協助領導層精進政策與文化措施。"
+    }
   ]
 }

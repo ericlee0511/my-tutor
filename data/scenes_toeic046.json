@@ -1,49 +1,181 @@
 {
   "title": "Quarterly Earnings Report Summary",
   "all": [
-    { "en": "Nexford Industries today released its earnings report for the third fiscal quarter.", "zh": "Nexford 工業今日發布第三財季的財報。" },
-    { "en": "Total revenue reached 842 million dollars, up 11 percent year over year.", "zh": "總營收達到八億四千兩百萬美元，年增百分之十一。" },
-    { "en": "Operating income climbed to 128 million dollars, slightly exceeding analyst expectations.", "zh": "營業利益攀升至一億兩千八百萬美元，略微超出分析師預期。" },
-    { "en": "Gross margin expanded by 80 basis points compared with the same period last year.", "zh": "毛利率較去年同期擴大八十個基點。" },
-    { "en": "The consumer electronics division remained the largest contributor to top-line growth.", "zh": "消費性電子部門仍是營收成長的最大貢獻者。" },
-    { "en": "Sales in the Asia Pacific region grew by 18 percent during the quarter.", "zh": "本季亞太區銷售成長百分之十八。" },
-    { "en": "European markets showed modest improvement after several quarters of weakness.", "zh": "歐洲市場在連續數季疲弱後出現溫和改善。" },
-    { "en": "North American demand was steady, supported by strong enterprise software renewals.", "zh": "北美需求穩定，受惠於企業軟體續約強勁。" },
-    { "en": "Research and development spending rose to 64 million dollars this quarter.", "zh": "本季研發支出增至六千四百萬美元。" },
-    { "en": "The company opened two new distribution centers in Vietnam and Mexico.", "zh": "公司在越南和墨西哥新開設兩個配銷中心。" },
-    { "en": "Inventory levels remained well controlled despite ongoing supply chain volatility.", "zh": "儘管供應鏈持續波動，存貨水準仍維持良好控管。" },
-    { "en": "Free cash flow for the quarter totaled 95 million dollars.", "zh": "本季自由現金流總計九千五百萬美元。" },
-    { "en": "Long-term debt was reduced by 40 million dollars through scheduled repayments.", "zh": "透過排定的償還，長期負債減少四千萬美元。" },
-    { "en": "The board approved a quarterly dividend of 0.32 dollars per share.", "zh": "董事會核准每股零點三二美元的季度股利。" },
-    { "en": "Share buybacks during the quarter amounted to 50 million dollars.", "zh": "本季股票回購金額達五千萬美元。" },
-    { "en": "Diluted earnings per share came in at 1.14 dollars, beating consensus.", "zh": "稀釋後每股盈餘為一點一四美元，優於市場共識。" },
-    { "en": "Management cited disciplined pricing and product mix as key margin drivers.", "zh": "管理層指出嚴謹的定價與產品組合為毛利的主要推手。" },
-    { "en": "Foreign exchange headwinds reduced reported revenue by an estimated 1.5 percent.", "zh": "匯率逆風估計使帳列營收減少百分之一點五。" },
-    { "en": "The company recorded a one-time restructuring charge of 12 million dollars.", "zh": "公司認列一筆一千兩百萬美元的一次性重組費用。" },
-    { "en": "Forward guidance for the fourth quarter was raised across all key metrics.", "zh": "對第四季的前瞻財測在所有關鍵指標上均上調。" },
-    { "en": "Full-year revenue is now expected to land between 3.4 and 3.5 billion dollars.", "zh": "全年營收預期現落在三十四億至三十五億美元之間。" },
-    { "en": "The executive team will host an analyst day in November.", "zh": "經營團隊將於十一月舉辦分析師日。" },
-    { "en": "Investors responded positively, sending shares up nearly 6 percent after hours.", "zh": "投資人反應正面，盤後股價上漲近百分之六。" },
-    { "en": "Detailed financial statements are available on the investor relations website.", "zh": "詳細財務報表已公布於投資人關係網站。" },
-    { "en": "The earnings conference call is scheduled for tomorrow at 9:00 a.m. Eastern Time.", "zh": "法說會訂於明日東部時間上午 9 點召開。" },
-    { "en": "A live webcast will be accessible to all interested investors and analysts.", "zh": "有意參與的投資人與分析師皆可收看現場網路直播。" },
-    { "en": "The Chief Financial Officer will provide additional color on segment performance.", "zh": "財務長將針對各事業部表現提供進一步說明。" },
-    { "en": "Capital expenditures for the quarter focused on automation and warehouse expansion.", "zh": "本季資本支出聚焦於自動化與倉儲擴建。" },
-    { "en": "The company has reaffirmed its commitment to returning value to shareholders.", "zh": "公司重申致力於回饋股東價值的承諾。" },
-    { "en": "Employee headcount grew by approximately three percent during the quarter.", "zh": "本季員工人數約成長百分之三。" },
-    { "en": "Sustainability initiatives helped reduce manufacturing energy consumption by seven percent.", "zh": "永續行動方案協助生產能源消耗降低百分之七。" },
-    { "en": "Several new product launches are planned across multiple regions for next quarter.", "zh": "下一季多個地區將推出多項新產品。" },
-    { "en": "Credit rating agencies have maintained the company's investment-grade rating.", "zh": "信評機構維持本公司的投資等級評等。" },
-    { "en": "The full annual report will be filed with regulators by the end of next month.", "zh": "完整年度報告將於下月底前向主管機關提交。" },
-    { "en": "The enterprise software segment posted record bookings driven by multi-year contracts.", "zh": "企業軟體事業部受惠於多年期合約簽訂，預訂金額創新高。" },
-    { "en": "Inventory turnover improved by 9 percent compared with the prior quarter.", "zh": "存貨週轉率較上一季提升百分之九。" },
-    { "en": "Working capital management initiatives generated 22 million dollars in cash savings.", "zh": "營運資金管理行動方案帶來兩千兩百萬美元的現金節省。" },
-    { "en": "Selling, general, and administrative expenses declined as a percentage of revenue this quarter.", "zh": "本季銷管費用占營收比例下降。" },
-    { "en": "Tax rates remained consistent with prior guidance at around 21 percent overall.", "zh": "整體稅率維持與先前指引一致，約為百分之二十一。" },
-    { "en": "Strategic partnerships in the cloud computing space continued to expand customer reach.", "zh": "雲端運算領域的策略夥伴關係持續拓展客戶觸及範圍。" },
-    { "en": "Acquisition integration costs are tracking below the original budget for the year.", "zh": "併購整合費用低於本年度原定預算。" },
-    { "en": "Currency hedging strategies helped mitigate the impact of recent global market volatility.", "zh": "匯率避險策略協助緩解近期全球市場波動的影響。" },
-    { "en": "Pension obligations remain fully funded under current actuarial assumptions.", "zh": "在目前精算假設下退休金義務維持完全提撥。" },
-    { "en": "Management expressed confidence in delivering another strong performance next quarter.", "zh": "管理層對下一季再次交出強勁表現深具信心。" }
+    {
+      "en": "Nexford Industries today released its earnings report for the third fiscal quarter.",
+      "zh": "Nexford 工業今日發布第三財季的財報。"
+    },
+    {
+      "en": "Total revenue reached 842 million dollars, up 11 percent year over year.",
+      "zh": "總營收達到八億四千兩百萬美元，年增百分之十一。"
+    },
+    {
+      "en": "Operating income climbed to 128 million dollars, slightly exceeding analyst expectations.",
+      "zh": "營業利益攀升至一億兩千八百萬美元，略微超出分析師預期。"
+    },
+    {
+      "en": "Gross margin expanded by 80 basis points compared with the same period last year.",
+      "zh": "毛利率較去年同期擴大八十個基點。"
+    },
+    {
+      "en": "The consumer electronics division remained the largest contributor to top-line growth.",
+      "zh": "消費性電子部門仍是營收成長的最大貢獻者。"
+    },
+    {
+      "en": "Sales in the Asia Pacific region grew by 18 percent during the quarter.",
+      "zh": "本季亞太區銷售成長百分之十八。"
+    },
+    {
+      "en": "European markets showed modest improvement after several quarters of weakness.",
+      "zh": "歐洲市場在連續數季疲弱後出現溫和改善。"
+    },
+    {
+      "en": "North American demand was steady, supported by strong enterprise software renewals.",
+      "zh": "北美需求穩定，受惠於企業軟體續約強勁。"
+    },
+    {
+      "en": "Research and development spending rose to 64 million dollars this quarter.",
+      "zh": "本季研發支出增至六千四百萬美元。"
+    },
+    {
+      "en": "The company opened two new distribution centers in Vietnam and Mexico.",
+      "zh": "公司在越南和墨西哥新開設兩個配銷中心。"
+    },
+    {
+      "en": "Inventory levels remained well controlled despite ongoing supply chain volatility.",
+      "zh": "儘管供應鏈持續波動，存貨水準仍維持良好控管。"
+    },
+    {
+      "en": "Free cash flow for the quarter totaled 95 million dollars.",
+      "zh": "本季自由現金流總計九千五百萬美元。"
+    },
+    {
+      "en": "Long-term debt was reduced by 40 million dollars through scheduled repayments.",
+      "zh": "透過排定的償還，長期負債減少四千萬美元。"
+    },
+    {
+      "en": "The board approved a quarterly dividend of 0.32 dollars per share.",
+      "zh": "董事會核准每股零點三二美元的季度股利。"
+    },
+    {
+      "en": "Share buybacks during the quarter amounted to 50 million dollars.",
+      "zh": "本季股票回購金額達五千萬美元。"
+    },
+    {
+      "en": "Diluted earnings per share came in at 1.14 dollars, beating consensus.",
+      "zh": "稀釋後每股盈餘為一點一四美元，優於市場共識。"
+    },
+    {
+      "en": "Management cited disciplined pricing and product mix as key margin drivers.",
+      "zh": "管理層指出嚴謹的定價與產品組合為毛利的主要推手。"
+    },
+    {
+      "en": "Foreign exchange headwinds reduced reported revenue by an estimated 1.5 percent.",
+      "zh": "匯率逆風估計使帳列營收減少百分之一點五。"
+    },
+    {
+      "en": "The company recorded a one-time restructuring charge of 12 million dollars.",
+      "zh": "公司認列一筆一千兩百萬美元的一次性重組費用。"
+    },
+    {
+      "en": "Forward guidance for the fourth quarter was raised across all key metrics.",
+      "zh": "對第四季的前瞻財測在所有關鍵指標上均上調。"
+    },
+    {
+      "en": "Full-year revenue is now expected to land between 3.4 and 3.5 billion dollars.",
+      "zh": "全年營收預期現落在三十四億至三十五億美元之間。"
+    },
+    {
+      "en": "The executive team will host an analyst day in November.",
+      "zh": "經營團隊將於十一月舉辦分析師日。"
+    },
+    {
+      "en": "Investors responded positively, sending shares up nearly 6 percent after hours.",
+      "zh": "投資人反應正面，盤後股價上漲近百分之六。"
+    },
+    {
+      "en": "Detailed financial statements are available on the investor relations website.",
+      "zh": "詳細財務報表已公布於投資人關係網站。"
+    },
+    {
+      "en": "The earnings conference call is scheduled for tomorrow at 9:00 a.m. Eastern Time.",
+      "zh": "法說會訂於明日東部時間上午 9 點召開。"
+    },
+    {
+      "en": "A live webcast will be accessible to all interested investors and analysts.",
+      "zh": "有意參與的投資人與分析師皆可收看現場網路直播。"
+    },
+    {
+      "en": "The Chief Financial Officer will provide additional color on segment performance.",
+      "zh": "財務長將針對各事業部表現提供進一步說明。"
+    },
+    {
+      "en": "Capital expenditures for the quarter focused on automation and warehouse expansion.",
+      "zh": "本季資本支出聚焦於自動化與倉儲擴建。"
+    },
+    {
+      "en": "The company has reaffirmed its commitment to returning value to shareholders.",
+      "zh": "公司重申致力於回饋股東價值的承諾。"
+    },
+    {
+      "en": "Employee headcount grew by approximately three percent during the quarter.",
+      "zh": "本季員工人數約成長百分之三。"
+    },
+    {
+      "en": "Sustainability initiatives helped reduce manufacturing energy consumption by seven percent.",
+      "zh": "永續行動方案協助生產能源消耗降低百分之七。"
+    },
+    {
+      "en": "Several new product launches are planned across multiple regions for next quarter.",
+      "zh": "下一季多個地區將推出多項新產品。"
+    },
+    {
+      "en": "Credit rating agencies have maintained the company's investment-grade rating.",
+      "zh": "信評機構維持本公司的投資等級評等。"
+    },
+    {
+      "en": "The full annual report will be filed with regulators by the end of next month.",
+      "zh": "完整年度報告將於下月底前向主管機關提交。"
+    },
+    {
+      "en": "The enterprise software segment posted record bookings driven by multi-year contracts.",
+      "zh": "企業軟體事業部受惠於多年期合約簽訂，預訂金額創新高。"
+    },
+    {
+      "en": "Inventory turnover improved by 9 percent compared with the prior quarter.",
+      "zh": "存貨週轉率較上一季提升百分之九。"
+    },
+    {
+      "en": "Working capital management initiatives generated 22 million dollars in cash savings.",
+      "zh": "營運資金管理行動方案帶來兩千兩百萬美元的現金節省。"
+    },
+    {
+      "en": "Selling, general, and administrative expenses declined as a percentage of revenue this quarter.",
+      "zh": "本季銷管費用占營收比例下降。"
+    },
+    {
+      "en": "Tax rates remained consistent with prior guidance at around 21 percent overall.",
+      "zh": "整體稅率維持與先前指引一致，約為百分之二十一。"
+    },
+    {
+      "en": "Strategic partnerships in the cloud computing space continued to expand customer reach.",
+      "zh": "雲端運算領域的策略夥伴關係持續拓展客戶觸及範圍。"
+    },
+    {
+      "en": "Acquisition integration costs are tracking below the original budget for the year.",
+      "zh": "併購整合費用低於本年度原定預算。"
+    },
+    {
+      "en": "Currency hedging strategies helped mitigate the impact of recent global market volatility.",
+      "zh": "匯率避險策略協助緩解近期全球市場波動的影響。"
+    },
+    {
+      "en": "Pension obligations remain fully funded under current actuarial assumptions.",
+      "zh": "在目前精算假設下退休金義務維持完全提撥。"
+    },
+    {
+      "en": "Management expressed confidence in delivering another strong performance next quarter.",
+      "zh": "管理層對下一季再次交出強勁表現深具信心。"
+    }
   ]
 }

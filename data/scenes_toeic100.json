@@ -1,49 +1,181 @@
 {
   "title": "Brand Style Guide Excerpt",
   "all": [
-    { "en": "This excerpt covers the core visual and verbal elements of our brand identity.", "zh": "本摘錄涵蓋我們品牌識別的核心視覺與語言元素。" },
-    { "en": "Consistent application of these standards builds recognition and trust over time.", "zh": "一致地套用這些標準能隨時間建立辨識度與信任感。" },
-    { "en": "The primary logo must always appear with sufficient clear space around it.", "zh": "主標誌必須一律保留充足的周邊留白空間。" },
-    { "en": "Minimum logo size on print materials is twenty millimeters in width.", "zh": "印刷物上的最小標誌尺寸為寬二十毫米。" },
-    { "en": "Digital placement requires a minimum width of eighty pixels for clarity.", "zh": "數位露出為求清晰度需至少八十像素寬。" },
-    { "en": "Never stretch, rotate, or change the color of the official logo.", "zh": "切勿拉伸、旋轉或變更官方標誌的顏色。" },
-    { "en": "Our primary brand color is deep teal with the hex code zero zero five seven six six.", "zh": "我們的主要品牌色為深青色，色碼為零零五七六六。" },
-    { "en": "The secondary palette includes warm coral, soft cream, and charcoal gray.", "zh": "次要色盤包含暖珊瑚色、柔奶油色與炭灰色。" },
-    { "en": "Accent colors should be used sparingly to highlight key information.", "zh": "點綴色應節制使用以凸顯關鍵資訊。" },
-    { "en": "Our heading typeface is Modern Serif Pro used in bold weight.", "zh": "我們的標題字體為 Modern Serif Pro 並使用粗體字重。" },
-    { "en": "Body copy should always be set in Open Sans regular at fourteen point.", "zh": "內文文字應一律使用 Open Sans Regular 十四點字級。" },
-    { "en": "Line height should be one point five times the font size for readability.", "zh": "行高應為字級的一點五倍以提升可讀性。" },
-    { "en": "Our brand voice is warm, knowledgeable, and quietly confident.", "zh": "我們的品牌語調溫暖、博學且沉穩自信。" },
-    { "en": "Avoid jargon and write at an eighth grade reading level where possible.", "zh": "避免行話且儘可能以八年級閱讀程度撰寫。" },
-    { "en": "Headlines should be short, active, and benefit oriented for the reader.", "zh": "標題應簡短、主動且以對讀者的好處為導向。" },
-    { "en": "Photography style favors natural light and authentic candid moments.", "zh": "攝影風格偏好自然光與真實不擺拍的瞬間。" },
-    { "en": "Avoid heavily staged stock images that feel generic or impersonal.", "zh": "避免過度擺拍且感覺通用或冷漠的素材庫照片。" },
-    { "en": "Iconography uses a consistent two pixel stroke with rounded corners.", "zh": "圖示系統使用一致的兩像素線條搭配圓角。" },
-    { "en": "All icons should be available in solid and outline variants.", "zh": "所有圖示皆應提供實心與線框兩種版本。" },
-    { "en": "Maintain at least an eight pixel grid for spacing in digital layouts.", "zh": "數位版面間距至少維持八像素的網格。" },
-    { "en": "Accessibility requires a minimum color contrast ratio of four point five to one.", "zh": "無障礙要求顏色對比度至少達四點五比一。" },
-    { "en": "Always include descriptive alt text for every meaningful image asset.", "zh": "務必為每張有意義的圖像素材附上描述性替代文字。" },
-    { "en": "Questions about brand application should be directed to the design operations team.", "zh": "有關品牌應用的問題請洽詢設計營運團隊。" },
-    { "en": "The full style guide is available on the internal brand portal at any time.", "zh": "完整風格指南隨時可於內部品牌入口網站取得。" },
-    { "en": "Quarterly reviews ensure the guidelines remain current with evolving market trends.", "zh": "季度檢視確保準則能持續契合不斷演變的市場趨勢。" },
-    { "en": "Vendors and freelancers must sign an agreement to follow these standards.", "zh": "外部廠商與自由工作者必須簽署協議以遵循這些標準。" },
-    { "en": "A downloadable asset kit contains logos, color swatches, and font files.", "zh": "可下載的素材套件包含標誌、色票與字型檔案。" },
-    { "en": "Templates for common materials are available to speed up routine production.", "zh": "常用素材的範本已備妥以加速日常製作流程。" },
-    { "en": "Any deviation from these standards requires written approval from brand leadership.", "zh": "任何偏離這些標準的情況皆須取得品牌主管的書面核准。" },
-    { "en": "Onboarding sessions for new hires include a brand fundamentals workshop.", "zh": "新進人員的到職訓練包含一場品牌基礎工作坊。" },
-    { "en": "Annual training keeps long tenured staff aligned with the latest updates.", "zh": "年度訓練讓資深員工持續對齊最新更新。" },
-    { "en": "Feedback channels are open for suggestions that could strengthen the guidelines.", "zh": "意見回饋管道開放接受可強化準則的建議。" },
-    { "en": "Trademark counsel reviews any new visual element before official adoption.", "zh": "商標法律顧問會在任何新視覺元素正式採用前進行審查。" },
-    { "en": "Together these standards protect the value we have built in our brand.", "zh": "這些標準共同守護我們在品牌上所累積的價值。" },
-    { "en": "Internal champions will help promote consistent adoption across departments.", "zh": "內部推廣大使將協助於各部門推動一致的採用率。" },
-    { "en": "A digital asset library is maintained on the cloud for easy global access.", "zh": "雲端維護有數位素材庫以便全球便利存取。" },
-    { "en": "Naming conventions ensure that every file is easy to locate and reuse.", "zh": "命名規範確保每個檔案皆易於尋找並重複使用。" },
-    { "en": "Sub brands must request approval before introducing visual variations.", "zh": "子品牌於引入視覺變化前必須提出申請取得核准。" },
-    { "en": "Campaign extensions should layer on top of, not replace, the master identity.", "zh": "活動延伸應加疊於主識別之上，而非取代主識別。" },
-    { "en": "Co branded materials require dual approval from both parties brand teams.", "zh": "聯名素材需取得雙方品牌團隊的雙重核准。" },
-    { "en": "Annual brand audits measure consistency across markets and touchpoints.", "zh": "年度品牌稽核衡量跨市場與接觸點的一致性。" },
-    { "en": "Inclusive language guidance is updated regularly to reflect best practices.", "zh": "包容性語言指引定期更新以反映最佳實務。" },
-    { "en": "Sound design and motion principles are documented in a supplementary guide.", "zh": "聲音設計與動態原則記錄於補充版指引中。" },
-    { "en": "Questions and improvement ideas can be submitted through the brand inbox.", "zh": "問題與改善建議可透過品牌信箱提交。" }
+    {
+      "en": "This excerpt covers the core visual and verbal elements of our brand identity.",
+      "zh": "本摘錄涵蓋我們品牌識別的核心視覺與語言元素。"
+    },
+    {
+      "en": "Consistent application of these standards builds recognition and trust over time.",
+      "zh": "一致地套用這些標準能隨時間建立辨識度與信任感。"
+    },
+    {
+      "en": "The primary logo must always appear with sufficient clear space around it.",
+      "zh": "主標誌必須一律保留充足的周邊留白空間。"
+    },
+    {
+      "en": "Minimum logo size on print materials is twenty millimeters in width.",
+      "zh": "印刷物上的最小標誌尺寸為寬二十毫米。"
+    },
+    {
+      "en": "Digital placement requires a minimum width of eighty pixels for clarity.",
+      "zh": "數位露出為求清晰度需至少八十像素寬。"
+    },
+    {
+      "en": "Never stretch, rotate, or change the color of the official logo.",
+      "zh": "切勿拉伸、旋轉或變更官方標誌的顏色。"
+    },
+    {
+      "en": "Our primary brand color is deep teal with the hex code zero zero five seven six six.",
+      "zh": "我們的主要品牌色為深青色，色碼為零零五七六六。"
+    },
+    {
+      "en": "The secondary palette includes warm coral, soft cream, and charcoal gray.",
+      "zh": "次要色盤包含暖珊瑚色、柔奶油色與炭灰色。"
+    },
+    {
+      "en": "Accent colors should be used sparingly to highlight key information.",
+      "zh": "點綴色應節制使用以凸顯關鍵資訊。"
+    },
+    {
+      "en": "Our heading typeface is Modern Serif Pro used in bold weight.",
+      "zh": "我們的標題字體為 Modern Serif Pro 並使用粗體字重。"
+    },
+    {
+      "en": "Body copy should always be set in Open Sans regular at fourteen point.",
+      "zh": "內文文字應一律使用 Open Sans Regular 十四點字級。"
+    },
+    {
+      "en": "Line height should be one point five times the font size for readability.",
+      "zh": "行高應為字級的一點五倍以提升可讀性。"
+    },
+    {
+      "en": "Our brand voice is warm, knowledgeable, and quietly confident.",
+      "zh": "我們的品牌語調溫暖、博學且沉穩自信。"
+    },
+    {
+      "en": "Avoid jargon and write at an eighth grade reading level where possible.",
+      "zh": "避免行話且儘可能以八年級閱讀程度撰寫。"
+    },
+    {
+      "en": "Headlines should be short, active, and benefit oriented for the reader.",
+      "zh": "標題應簡短、主動且以對讀者的好處為導向。"
+    },
+    {
+      "en": "Photography style favors natural light and authentic candid moments.",
+      "zh": "攝影風格偏好自然光與真實不擺拍的瞬間。"
+    },
+    {
+      "en": "Avoid heavily staged stock images that feel generic or impersonal.",
+      "zh": "避免過度擺拍且感覺通用或冷漠的素材庫照片。"
+    },
+    {
+      "en": "Iconography uses a consistent two pixel stroke with rounded corners.",
+      "zh": "圖示系統使用一致的兩像素線條搭配圓角。"
+    },
+    {
+      "en": "All icons should be available in solid and outline variants.",
+      "zh": "所有圖示皆應提供實心與線框兩種版本。"
+    },
+    {
+      "en": "Maintain at least an eight pixel grid for spacing in digital layouts.",
+      "zh": "數位版面間距至少維持八像素的網格。"
+    },
+    {
+      "en": "Accessibility requires a minimum color contrast ratio of four point five to one.",
+      "zh": "無障礙要求顏色對比度至少達四點五比一。"
+    },
+    {
+      "en": "Always include descriptive alt text for every meaningful image asset.",
+      "zh": "務必為每張有意義的圖像素材附上描述性替代文字。"
+    },
+    {
+      "en": "Questions about brand application should be directed to the design operations team.",
+      "zh": "有關品牌應用的問題請洽詢設計營運團隊。"
+    },
+    {
+      "en": "The full style guide is available on the internal brand portal at any time.",
+      "zh": "完整風格指南隨時可於內部品牌入口網站取得。"
+    },
+    {
+      "en": "Quarterly reviews ensure the guidelines remain current with evolving market trends.",
+      "zh": "季度檢視確保準則能持續契合不斷演變的市場趨勢。"
+    },
+    {
+      "en": "Vendors and freelancers must sign an agreement to follow these standards.",
+      "zh": "外部廠商與自由工作者必須簽署協議以遵循這些標準。"
+    },
+    {
+      "en": "A downloadable asset kit contains logos, color swatches, and font files.",
+      "zh": "可下載的素材套件包含標誌、色票與字型檔案。"
+    },
+    {
+      "en": "Templates for common materials are available to speed up routine production.",
+      "zh": "常用素材的範本已備妥以加速日常製作流程。"
+    },
+    {
+      "en": "Any deviation from these standards requires written approval from brand leadership.",
+      "zh": "任何偏離這些標準的情況皆須取得品牌主管的書面核准。"
+    },
+    {
+      "en": "Onboarding sessions for new hires include a brand fundamentals workshop.",
+      "zh": "新進人員的到職訓練包含一場品牌基礎工作坊。"
+    },
+    {
+      "en": "Annual training keeps long tenured staff aligned with the latest updates.",
+      "zh": "年度訓練讓資深員工持續對齊最新更新。"
+    },
+    {
+      "en": "Feedback channels are open for suggestions that could strengthen the guidelines.",
+      "zh": "意見回饋管道開放接受可強化準則的建議。"
+    },
+    {
+      "en": "Trademark counsel reviews any new visual element before official adoption.",
+      "zh": "商標法律顧問會在任何新視覺元素正式採用前進行審查。"
+    },
+    {
+      "en": "Together these standards protect the value we have built in our brand.",
+      "zh": "這些標準共同守護我們在品牌上所累積的價值。"
+    },
+    {
+      "en": "Internal champions will help promote consistent adoption across departments.",
+      "zh": "內部推廣大使將協助於各部門推動一致的採用率。"
+    },
+    {
+      "en": "A digital asset library is maintained on the cloud for easy global access.",
+      "zh": "雲端維護有數位素材庫以便全球便利存取。"
+    },
+    {
+      "en": "Naming conventions ensure that every file is easy to locate and reuse.",
+      "zh": "命名規範確保每個檔案皆易於尋找並重複使用。"
+    },
+    {
+      "en": "Sub brands must request approval before introducing visual variations.",
+      "zh": "子品牌於引入視覺變化前必須提出申請取得核准。"
+    },
+    {
+      "en": "Campaign extensions should layer on top of, not replace, the master identity.",
+      "zh": "活動延伸應加疊於主識別之上，而非取代主識別。"
+    },
+    {
+      "en": "Co branded materials require dual approval from both parties brand teams.",
+      "zh": "聯名素材需取得雙方品牌團隊的雙重核准。"
+    },
+    {
+      "en": "Annual brand audits measure consistency across markets and touchpoints.",
+      "zh": "年度品牌稽核衡量跨市場與接觸點的一致性。"
+    },
+    {
+      "en": "Inclusive language guidance is updated regularly to reflect best practices.",
+      "zh": "包容性語言指引定期更新以反映最佳實務。"
+    },
+    {
+      "en": "Sound design and motion principles are documented in a supplementary guide.",
+      "zh": "聲音設計與動態原則記錄於補充版指引中。"
+    },
+    {
+      "en": "Questions and improvement ideas can be submitted through the brand inbox.",
+      "zh": "問題與改善建議可透過品牌信箱提交。"
+    }
   ]
 }

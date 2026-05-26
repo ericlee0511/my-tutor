@@ -1,49 +1,181 @@
 {
   "title": "Flight Delay Notification",
   "all": [
-    { "en": "Dear passenger, this is an important update regarding your upcoming flight.", "zh": "親愛的旅客，這是關於您即將搭乘航班的重要通知。" },
-    { "en": "Your flight, Skyline Airlines 442, has been delayed by approximately 90 minutes.", "zh": "您的 Skyline 航空 442 班機已延誤約 90 分鐘。" },
-    { "en": "The new estimated departure time is 4:15 in the afternoon today.", "zh": "新的預計起飛時間為今日下午四點十五分。" },
-    { "en": "The flight will still depart from gate B12 at the international terminal.", "zh": "航班仍將自國際航廈 B12 登機門起飛。" },
-    { "en": "We sincerely apologize for the inconvenience that this delay may cause.", "zh": "對此延誤可能造成的不便，我們深表歉意。" },
-    { "en": "The cause of the delay is severe weather conditions at the departure airport.", "zh": "延誤原因為出發機場的惡劣天氣。" },
-    { "en": "Air traffic control has issued a temporary ground hold for safety reasons.", "zh": "航管基於安全考量已發布臨時地面停飛指示。" },
-    { "en": "Passenger safety remains our highest priority during all flight operations.", "zh": "旅客安全在所有航班作業中始終是我們的首要考量。" },
-    { "en": "Boarding is now scheduled to begin at 3:30 in the afternoon.", "zh": "登機時間現訂於下午三點三十分開始。" },
-    { "en": "Please remain near gate B12 and listen for further announcements.", "zh": "請於 B12 登機門附近候機，並注意後續廣播。" },
-    { "en": "If you require any assistance, our gate agents are happy to help.", "zh": "如需任何協助，我們的登機門服務人員樂意為您效勞。" },
-    { "en": "Complimentary refreshments are available at the gate area starting at 2 p.m.", "zh": "登機門區自下午兩點起提供免費茶點。" },
-    { "en": "Premium cabin passengers may use the Skyline Lounge in concourse B.", "zh": "頭等與商務艙旅客可使用 B 候機廳的 Skyline 貴賓室。" },
-    { "en": "Passengers with tight connections should speak with our rebooking desk.", "zh": "轉機時間緊湊的旅客請至改票櫃台洽詢。" },
-    { "en": "Our team can assist with alternate flight arrangements when available.", "zh": "我們的團隊將協助安排替代航班（視艙位狀況）。" },
-    { "en": "Hotel vouchers will be provided if your connection cannot be made tonight.", "zh": "若今晚無法接駁轉機，將提供住宿券。" },
-    { "en": "Please retain your boarding pass for any service or compensation requests.", "zh": "請保留您的登機證，以利申請相關服務或補償。" },
-    { "en": "Mobile boarding passes will be updated automatically with the new time.", "zh": "電子登機證將自動更新為新的登機時間。" },
-    { "en": "Checked baggage will be transferred to the same flight after the delay.", "zh": "延誤後託運行李仍將轉至同一班機。" },
-    { "en": "You may track real-time flight status on the Skyline mobile application.", "zh": "您可透過 Skyline 行動應用程式查詢即時航班狀態。" },
-    { "en": "Our customer care line is available 24 hours a day for further questions.", "zh": "我們的客服專線每日 24 小時提供進一步諮詢。" },
-    { "en": "Thank you very much for your patience and understanding today.", "zh": "非常感謝您今日的耐心與體諒。" },
-    { "en": "We will keep you informed of any further changes to your flight.", "zh": "若您的航班有任何進一步變動，我們將持續通知。" },
-    { "en": "We look forward to welcoming you on board very soon.", "zh": "我們期待很快在機上歡迎您。" },
-    { "en": "Elite frequent flyers may automatically receive bonus miles as compensation for this delay.", "zh": "高階常旅客會員將自動獲得補償里程，以彌補此次延誤。" },
-    { "en": "Travel insurance holders should keep all receipts for meals and incidental expenses incurred.", "zh": "持有旅遊保險的旅客請保留所有餐飲與雜支收據。" },
-    { "en": "Free high-speed Wi-Fi is available throughout the terminal building for all waiting passengers.", "zh": "航廈內全區提供免費高速 Wi-Fi 供候機旅客使用。" },
-    { "en": "Charging stations are conveniently located near every gate for your electronic devices.", "zh": "每個登機門附近均設有充電站，便於旅客為電子裝置充電。" },
-    { "en": "Families traveling with young children may use our priority seating area near gate B10.", "zh": "攜帶幼童的家庭旅客可使用 B10 登機門旁的優先候機區。" },
-    { "en": "Special meal requests have been confirmed and will be served once the flight is airborne.", "zh": "特殊餐點需求已確認，航班起飛後將供應。" },
-    { "en": "Pet owners with cabin animals should report to the gate counter before boarding begins.", "zh": "攜帶機艙寵物的旅客請於登機前至登機門櫃台辦理。" },
-    { "en": "Reduced-mobility passengers will receive priority boarding assistance from our cabin crew.", "zh": "行動不便旅客將獲得空服員的優先登機協助。" },
-    { "en": "Our gate agent will release any unclaimed upgrade seats fifteen minutes before departure.", "zh": "登機門服務人員將於起飛前十五分鐘釋出未認領的升等座位。" },
-    { "en": "Once again, we appreciate your cooperation and wish you a comfortable journey ahead.", "zh": "再次感謝您的配合，並祝您旅途舒適愉快。" },
-    { "en": "Voluntary rebooking onto tomorrow morning's flight may also include hotel and meal accommodations tonight.", "zh": "自願改搭明日上午航班的旅客亦可獲得今晚住宿及餐食安排。" },
-    { "en": "Standby seats on a partner airline departing within the hour may be available to qualifying passengers.", "zh": "合作航空公司一小時內出發班次的候補座位可能開放符合資格的旅客使用。" },
-    { "en": "Updated departure information will be displayed on terminal monitors and our public address system promptly.", "zh": "最新起飛資訊將即時顯示於航廈螢幕並透過廣播系統公告。" },
-    { "en": "Boarding will commence with priority passengers, followed by zones one through five as usual.", "zh": "登機將從優先旅客開始，依序為第一至第五登機區。" },
-    { "en": "If you require translation support, multilingual staff members are available at the customer service desk.", "zh": "如需語言翻譯協助，客服櫃台備有多語人員提供服務。" },
-    { "en": "Children traveling alone will be personally escorted through every step of the delayed boarding process.", "zh": "獨自旅行的兒童將獲得專人陪同完成延誤後的登機流程。" },
-    { "en": "Travelers may receive automatic delay notifications by enrolling in our flight alert messaging service.", "zh": "旅客可註冊本公司航班警示通知服務，自動接收延誤訊息。" },
-    { "en": "Connecting passengers should approach gate agents immediately for proactive rebooking on alternative routes.", "zh": "轉機旅客請立即聯繫登機門人員，主動辦理替代航線改票事宜。" },
-    { "en": "Compensation processing for eligible travelers begins automatically once the flight has completed its journey.", "zh": "符合資格旅客的補償作業將於航班完成飛行後自動展開。" },
-    { "en": "On behalf of the entire flight crew, we thank you again for choosing Skyline Airlines today.", "zh": "謹代表全體機組人員，再次感謝您今日選擇 Skyline 航空。" }
+    {
+      "en": "Dear passenger, this is an important update regarding your upcoming flight.",
+      "zh": "親愛的旅客，這是關於您即將搭乘航班的重要通知。"
+    },
+    {
+      "en": "Your flight, Skyline Airlines 442, has been delayed by approximately 90 minutes.",
+      "zh": "您的 Skyline 航空 442 班機已延誤約 90 分鐘。"
+    },
+    {
+      "en": "The new estimated departure time is 4:15 in the afternoon today.",
+      "zh": "新的預計起飛時間為今日下午四點十五分。"
+    },
+    {
+      "en": "The flight will still depart from gate B12 at the international terminal.",
+      "zh": "航班仍將自國際航廈 B12 登機門起飛。"
+    },
+    {
+      "en": "We sincerely apologize for the inconvenience that this delay may cause.",
+      "zh": "對此延誤可能造成的不便，我們深表歉意。"
+    },
+    {
+      "en": "The cause of the delay is severe weather conditions at the departure airport.",
+      "zh": "延誤原因為出發機場的惡劣天氣。"
+    },
+    {
+      "en": "Air traffic control has issued a temporary ground hold for safety reasons.",
+      "zh": "航管基於安全考量已發布臨時地面停飛指示。"
+    },
+    {
+      "en": "Passenger safety remains our highest priority during all flight operations.",
+      "zh": "旅客安全在所有航班作業中始終是我們的首要考量。"
+    },
+    {
+      "en": "Boarding is now scheduled to begin at 3:30 in the afternoon.",
+      "zh": "登機時間現訂於下午三點三十分開始。"
+    },
+    {
+      "en": "Please remain near gate B12 and listen for further announcements.",
+      "zh": "請於 B12 登機門附近候機，並注意後續廣播。"
+    },
+    {
+      "en": "If you require any assistance, our gate agents are happy to help.",
+      "zh": "如需任何協助，我們的登機門服務人員樂意為您效勞。"
+    },
+    {
+      "en": "Complimentary refreshments are available at the gate area starting at 2 p.m.",
+      "zh": "登機門區自下午兩點起提供免費茶點。"
+    },
+    {
+      "en": "Premium cabin passengers may use the Skyline Lounge in concourse B.",
+      "zh": "頭等與商務艙旅客可使用 B 候機廳的 Skyline 貴賓室。"
+    },
+    {
+      "en": "Passengers with tight connections should speak with our rebooking desk.",
+      "zh": "轉機時間緊湊的旅客請至改票櫃台洽詢。"
+    },
+    {
+      "en": "Our team can assist with alternate flight arrangements when available.",
+      "zh": "我們的團隊將協助安排替代航班（視艙位狀況）。"
+    },
+    {
+      "en": "Hotel vouchers will be provided if your connection cannot be made tonight.",
+      "zh": "若今晚無法接駁轉機，將提供住宿券。"
+    },
+    {
+      "en": "Please retain your boarding pass for any service or compensation requests.",
+      "zh": "請保留您的登機證，以利申請相關服務或補償。"
+    },
+    {
+      "en": "Mobile boarding passes will be updated automatically with the new time.",
+      "zh": "電子登機證將自動更新為新的登機時間。"
+    },
+    {
+      "en": "Checked baggage will be transferred to the same flight after the delay.",
+      "zh": "延誤後託運行李仍將轉至同一班機。"
+    },
+    {
+      "en": "You may track real-time flight status on the Skyline mobile application.",
+      "zh": "您可透過 Skyline 行動應用程式查詢即時航班狀態。"
+    },
+    {
+      "en": "Our customer care line is available 24 hours a day for further questions.",
+      "zh": "我們的客服專線每日 24 小時提供進一步諮詢。"
+    },
+    {
+      "en": "Thank you very much for your patience and understanding today.",
+      "zh": "非常感謝您今日的耐心與體諒。"
+    },
+    {
+      "en": "We will keep you informed of any further changes to your flight.",
+      "zh": "若您的航班有任何進一步變動，我們將持續通知。"
+    },
+    {
+      "en": "We look forward to welcoming you on board very soon.",
+      "zh": "我們期待很快在機上歡迎您。"
+    },
+    {
+      "en": "Elite frequent flyers may automatically receive bonus miles as compensation for this delay.",
+      "zh": "高階常旅客會員將自動獲得補償里程，以彌補此次延誤。"
+    },
+    {
+      "en": "Travel insurance holders should keep all receipts for meals and incidental expenses incurred.",
+      "zh": "持有旅遊保險的旅客請保留所有餐飲與雜支收據。"
+    },
+    {
+      "en": "Free high-speed Wi-Fi is available throughout the terminal building for all waiting passengers.",
+      "zh": "航廈內全區提供免費高速 Wi-Fi 供候機旅客使用。"
+    },
+    {
+      "en": "Charging stations are conveniently located near every gate for your electronic devices.",
+      "zh": "每個登機門附近均設有充電站，便於旅客為電子裝置充電。"
+    },
+    {
+      "en": "Families traveling with young children may use our priority seating area near gate B10.",
+      "zh": "攜帶幼童的家庭旅客可使用 B10 登機門旁的優先候機區。"
+    },
+    {
+      "en": "Special meal requests have been confirmed and will be served once the flight is airborne.",
+      "zh": "特殊餐點需求已確認，航班起飛後將供應。"
+    },
+    {
+      "en": "Pet owners with cabin animals should report to the gate counter before boarding begins.",
+      "zh": "攜帶機艙寵物的旅客請於登機前至登機門櫃台辦理。"
+    },
+    {
+      "en": "Reduced-mobility passengers will receive priority boarding assistance from our cabin crew.",
+      "zh": "行動不便旅客將獲得空服員的優先登機協助。"
+    },
+    {
+      "en": "Our gate agent will release any unclaimed upgrade seats fifteen minutes before departure.",
+      "zh": "登機門服務人員將於起飛前十五分鐘釋出未認領的升等座位。"
+    },
+    {
+      "en": "Once again, we appreciate your cooperation and wish you a comfortable journey ahead.",
+      "zh": "再次感謝您的配合，並祝您旅途舒適愉快。"
+    },
+    {
+      "en": "Voluntary rebooking onto tomorrow morning's flight may also include hotel and meal accommodations tonight.",
+      "zh": "自願改搭明日上午航班的旅客亦可獲得今晚住宿及餐食安排。"
+    },
+    {
+      "en": "Standby seats on a partner airline departing within the hour may be available to qualifying passengers.",
+      "zh": "合作航空公司一小時內出發班次的候補座位可能開放符合資格的旅客使用。"
+    },
+    {
+      "en": "Updated departure information will be displayed on terminal monitors and our public address system promptly.",
+      "zh": "最新起飛資訊將即時顯示於航廈螢幕並透過廣播系統公告。"
+    },
+    {
+      "en": "Boarding will commence with priority passengers, followed by zones one through five as usual.",
+      "zh": "登機將從優先旅客開始，依序為第一至第五登機區。"
+    },
+    {
+      "en": "If you require translation support, multilingual staff members are available at the customer service desk.",
+      "zh": "如需語言翻譯協助，客服櫃台備有多語人員提供服務。"
+    },
+    {
+      "en": "Children traveling alone will be personally escorted through every step of the delayed boarding process.",
+      "zh": "獨自旅行的兒童將獲得專人陪同完成延誤後的登機流程。"
+    },
+    {
+      "en": "Travelers may receive automatic delay notifications by enrolling in our flight alert messaging service.",
+      "zh": "旅客可註冊本公司航班警示通知服務，自動接收延誤訊息。"
+    },
+    {
+      "en": "Connecting passengers should approach gate agents immediately for proactive rebooking on alternative routes.",
+      "zh": "轉機旅客請立即聯繫登機門人員，主動辦理替代航線改票事宜。"
+    },
+    {
+      "en": "Compensation processing for eligible travelers begins automatically once the flight has completed its journey.",
+      "zh": "符合資格旅客的補償作業將於航班完成飛行後自動展開。"
+    },
+    {
+      "en": "On behalf of the entire flight crew, we thank you again for choosing Skyline Airlines today.",
+      "zh": "謹代表全體機組人員，再次感謝您今日選擇 Skyline 航空。"
+    }
   ]
 }

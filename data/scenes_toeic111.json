@@ -1,49 +1,181 @@
 {
   "title": "Health and Safety Drill Announcement",
   "all": [
-    { "en": "Attention all employees, contractors, and visitors at the Hudson Tower complex.", "zh": "Hudson Tower 大樓內所有員工、承包商與訪客請注意。" },
-    { "en": "Our annual fire and emergency response drill takes place next Wednesday.", "zh": "本年度消防與緊急應變演練將於下週三舉行。" },
-    { "en": "The drill will begin promptly at ten in the morning.", "zh": "演練將於上午 10 點準時開始。" },
-    { "en": "When the alarm sounds, please stop all work immediately and remain calm.", "zh": "警報響起時，請立即停止所有工作並保持冷靜。" },
-    { "en": "Do not use the elevators under any circumstances during the drill.", "zh": "演練期間，無論何種情況均不得使用電梯。" },
-    { "en": "Proceed to the nearest emergency stairwell marked with green exit signs.", "zh": "請依綠色出口指示牌前往最近的緊急樓梯間。" },
-    { "en": "Walk in single file and keep the right side of the staircase open.", "zh": "請成單列前進，並保持樓梯右側淨空。" },
-    { "en": "Floor wardens wearing yellow vests will guide you to the exits.", "zh": "穿黃色背心的樓層管理員將引導您前往出口。" },
-    { "en": "Please follow their instructions without arguing or stopping along the way.", "zh": "請聽從其指示，途中切勿爭論或停留。" },
-    { "en": "Once outside, gather at the assembly point in Riverview Plaza.", "zh": "抵達戶外後，請於 Riverview Plaza 集合點集合。" },
-    { "en": "Locate your team leader and confirm that all colleagues are accounted for.", "zh": "找到您的團隊領導，確認所有同仁均已到齊。" },
-    { "en": "If someone is missing, notify the chief warden immediately.", "zh": "若有人員失蹤，請立即通報總指揮。" },
-    { "en": "Do not attempt to return to the building to collect personal items.", "zh": "切勿嘗試返回大樓拿取個人物品。" },
-    { "en": "Visitors should remain with their host throughout the entire drill.", "zh": "訪客應全程跟隨接待人員。" },
-    { "en": "Employees with mobility needs should use the designated refuge areas.", "zh": "行動不便的員工應使用指定避難區域。" },
-    { "en": "Trained responders will assist them in evacuation once the area is clear.", "zh": "受訓救援人員將於區域淨空後協助其撤離。" },
-    { "en": "The all-clear signal will consist of three short bell rings.", "zh": "解除警報訊號為三聲短鈴聲。" },
-    { "en": "Please wait for the signal before returning to your workstation.", "zh": "請等待訊號後再返回您的工作崗位。" },
-    { "en": "The total drill duration should not exceed forty-five minutes.", "zh": "整場演練時間不應超過 45 分鐘。" },
-    { "en": "A short debrief will follow in the main auditorium at noon.", "zh": "中午將於大禮堂進行簡短的檢討會。" },
-    { "en": "Your feedback helps us refine our evacuation procedures every year.", "zh": "您的回饋有助我們每年精進撤離程序。" },
-    { "en": "Participation is mandatory unless you are on approved customer-facing calls.", "zh": "除核准的客戶通話外，全員均須參與。" },
-    { "en": "Thank you for taking workplace safety seriously and supporting this exercise.", "zh": "感謝您重視職場安全並支持本次演練。" },
-    { "en": "For questions, please contact the Facilities Safety Office at extension 5500.", "zh": "如有問題，請洽設施安全室分機 5500。" },
-    { "en": "Remote workers should review the home emergency checklist on the intranet.", "zh": "遠端工作者請至內網查閱居家緊急檢查清單。" },
-    { "en": "Department heads must verify their team roster before submitting attendance logs.", "zh": "部門主管須於繳交出席紀錄前確認團隊名冊。" },
-    { "en": "First aid kits on every floor were inspected and restocked last week.", "zh": "各樓層急救箱已於上週完成檢查與補充。" },
-    { "en": "Defibrillator locations are marked on the new wall maps near elevators.", "zh": "電擊器位置已標示於電梯附近的新版牆面地圖。" },
-    { "en": "If you smell smoke before the alarm sounds, dial security at 5511.", "zh": "若警報響起前聞到煙味，請撥保全分機 5511。" },
-    { "en": "Vehicles parked in the loading zone must be moved before nine thirty.", "zh": "停放於裝卸區的車輛須於 9 點 30 分前駛離。" },
-    { "en": "Service animals are welcome and should remain leashed during the exercise.", "zh": "歡迎攜帶服務犬，演練期間請繫好牽繩。" },
-    { "en": "The cafeteria will reopen for lunch service immediately after the debrief.", "zh": "員工餐廳將於檢討會結束後立即恢復午餐供應。" },
-    { "en": "We appreciate your cooperation in helping us maintain a safe workplace.", "zh": "感謝您的配合，協助我們維護安全的工作環境。" },
-    { "en": "Sincerely, the Hudson Tower Emergency Preparedness Committee, May edition.", "zh": "敬上，Hudson Tower 緊急應變委員會，五月版。" },
-    { "en": "All exit routes have been re-mapped after the recent lobby renovation.", "zh": "近期大廳整修後，所有逃生路線已重新繪製。" },
-    { "en": "New emergency lighting was installed across every stairwell last quarter.", "zh": "上一季已於各樓梯間安裝新式緊急照明設備。" },
-    { "en": "Floor wardens will conduct a final walkthrough the day before the drill.", "zh": "樓層管理員將於演練前一日進行最終巡查。" },
-    { "en": "External agencies including the local fire department will observe the exercise.", "zh": "包括當地消防局在內的外部單位將觀摩此次演練。" },
-    { "en": "Tenants of adjacent buildings have been informed of potential noise levels.", "zh": "鄰近大樓住戶已收到可能噪音程度的事前通知。" },
-    { "en": "Practice scenarios this year include simulated power failure on level seven.", "zh": "今年練習情境包含七樓模擬斷電狀況。" },
-    { "en": "Backup generators will be tested during the same maintenance window.", "zh": "備用發電機將於同一維護時段內進行測試。" },
-    { "en": "Photographs from previous drills are posted on the safety bulletin board.", "zh": "歷次演練照片已張貼於安全公佈欄。" },
-    { "en": "Feedback forms must be returned to the security desk by Friday afternoon.", "zh": "回饋表單須於週五下午前送回保全櫃台。" },
-    { "en": "We thank our entire community for prioritizing preparedness this important week.", "zh": "於此重要週次，感謝全體成員以準備為先。" }
+    {
+      "en": "Attention all employees, contractors, and visitors at the Hudson Tower complex.",
+      "zh": "Hudson Tower 大樓內所有員工、承包商與訪客請注意。"
+    },
+    {
+      "en": "Our annual fire and emergency response drill takes place next Wednesday.",
+      "zh": "本年度消防與緊急應變演練將於下週三舉行。"
+    },
+    {
+      "en": "The drill will begin promptly at ten in the morning.",
+      "zh": "演練將於上午 10 點準時開始。"
+    },
+    {
+      "en": "When the alarm sounds, please stop all work immediately and remain calm.",
+      "zh": "警報響起時，請立即停止所有工作並保持冷靜。"
+    },
+    {
+      "en": "Do not use the elevators under any circumstances during the drill.",
+      "zh": "演練期間，無論何種情況均不得使用電梯。"
+    },
+    {
+      "en": "Proceed to the nearest emergency stairwell marked with green exit signs.",
+      "zh": "請依綠色出口指示牌前往最近的緊急樓梯間。"
+    },
+    {
+      "en": "Walk in single file and keep the right side of the staircase open.",
+      "zh": "請成單列前進，並保持樓梯右側淨空。"
+    },
+    {
+      "en": "Floor wardens wearing yellow vests will guide you to the exits.",
+      "zh": "穿黃色背心的樓層管理員將引導您前往出口。"
+    },
+    {
+      "en": "Please follow their instructions without arguing or stopping along the way.",
+      "zh": "請聽從其指示，途中切勿爭論或停留。"
+    },
+    {
+      "en": "Once outside, gather at the assembly point in Riverview Plaza.",
+      "zh": "抵達戶外後，請於 Riverview Plaza 集合點集合。"
+    },
+    {
+      "en": "Locate your team leader and confirm that all colleagues are accounted for.",
+      "zh": "找到您的團隊領導，確認所有同仁均已到齊。"
+    },
+    {
+      "en": "If someone is missing, notify the chief warden immediately.",
+      "zh": "若有人員失蹤，請立即通報總指揮。"
+    },
+    {
+      "en": "Do not attempt to return to the building to collect personal items.",
+      "zh": "切勿嘗試返回大樓拿取個人物品。"
+    },
+    {
+      "en": "Visitors should remain with their host throughout the entire drill.",
+      "zh": "訪客應全程跟隨接待人員。"
+    },
+    {
+      "en": "Employees with mobility needs should use the designated refuge areas.",
+      "zh": "行動不便的員工應使用指定避難區域。"
+    },
+    {
+      "en": "Trained responders will assist them in evacuation once the area is clear.",
+      "zh": "受訓救援人員將於區域淨空後協助其撤離。"
+    },
+    {
+      "en": "The all-clear signal will consist of three short bell rings.",
+      "zh": "解除警報訊號為三聲短鈴聲。"
+    },
+    {
+      "en": "Please wait for the signal before returning to your workstation.",
+      "zh": "請等待訊號後再返回您的工作崗位。"
+    },
+    {
+      "en": "The total drill duration should not exceed forty-five minutes.",
+      "zh": "整場演練時間不應超過 45 分鐘。"
+    },
+    {
+      "en": "A short debrief will follow in the main auditorium at noon.",
+      "zh": "中午將於大禮堂進行簡短的檢討會。"
+    },
+    {
+      "en": "Your feedback helps us refine our evacuation procedures every year.",
+      "zh": "您的回饋有助我們每年精進撤離程序。"
+    },
+    {
+      "en": "Participation is mandatory unless you are on approved customer-facing calls.",
+      "zh": "除核准的客戶通話外，全員均須參與。"
+    },
+    {
+      "en": "Thank you for taking workplace safety seriously and supporting this exercise.",
+      "zh": "感謝您重視職場安全並支持本次演練。"
+    },
+    {
+      "en": "For questions, please contact the Facilities Safety Office at extension 5500.",
+      "zh": "如有問題，請洽設施安全室分機 5500。"
+    },
+    {
+      "en": "Remote workers should review the home emergency checklist on the intranet.",
+      "zh": "遠端工作者請至內網查閱居家緊急檢查清單。"
+    },
+    {
+      "en": "Department heads must verify their team roster before submitting attendance logs.",
+      "zh": "部門主管須於繳交出席紀錄前確認團隊名冊。"
+    },
+    {
+      "en": "First aid kits on every floor were inspected and restocked last week.",
+      "zh": "各樓層急救箱已於上週完成檢查與補充。"
+    },
+    {
+      "en": "Defibrillator locations are marked on the new wall maps near elevators.",
+      "zh": "電擊器位置已標示於電梯附近的新版牆面地圖。"
+    },
+    {
+      "en": "If you smell smoke before the alarm sounds, dial security at 5511.",
+      "zh": "若警報響起前聞到煙味，請撥保全分機 5511。"
+    },
+    {
+      "en": "Vehicles parked in the loading zone must be moved before nine thirty.",
+      "zh": "停放於裝卸區的車輛須於 9 點 30 分前駛離。"
+    },
+    {
+      "en": "Service animals are welcome and should remain leashed during the exercise.",
+      "zh": "歡迎攜帶服務犬，演練期間請繫好牽繩。"
+    },
+    {
+      "en": "The cafeteria will reopen for lunch service immediately after the debrief.",
+      "zh": "員工餐廳將於檢討會結束後立即恢復午餐供應。"
+    },
+    {
+      "en": "We appreciate your cooperation in helping us maintain a safe workplace.",
+      "zh": "感謝您的配合，協助我們維護安全的工作環境。"
+    },
+    {
+      "en": "Sincerely, the Hudson Tower Emergency Preparedness Committee, May edition.",
+      "zh": "敬上，Hudson Tower 緊急應變委員會，五月版。"
+    },
+    {
+      "en": "All exit routes have been re-mapped after the recent lobby renovation.",
+      "zh": "近期大廳整修後，所有逃生路線已重新繪製。"
+    },
+    {
+      "en": "New emergency lighting was installed across every stairwell last quarter.",
+      "zh": "上一季已於各樓梯間安裝新式緊急照明設備。"
+    },
+    {
+      "en": "Floor wardens will conduct a final walkthrough the day before the drill.",
+      "zh": "樓層管理員將於演練前一日進行最終巡查。"
+    },
+    {
+      "en": "External agencies including the local fire department will observe the exercise.",
+      "zh": "包括當地消防局在內的外部單位將觀摩此次演練。"
+    },
+    {
+      "en": "Tenants of adjacent buildings have been informed of potential noise levels.",
+      "zh": "鄰近大樓住戶已收到可能噪音程度的事前通知。"
+    },
+    {
+      "en": "Practice scenarios this year include simulated power failure on level seven.",
+      "zh": "今年練習情境包含七樓模擬斷電狀況。"
+    },
+    {
+      "en": "Backup generators will be tested during the same maintenance window.",
+      "zh": "備用發電機將於同一維護時段內進行測試。"
+    },
+    {
+      "en": "Photographs from previous drills are posted on the safety bulletin board.",
+      "zh": "歷次演練照片已張貼於安全公佈欄。"
+    },
+    {
+      "en": "Feedback forms must be returned to the security desk by Friday afternoon.",
+      "zh": "回饋表單須於週五下午前送回保全櫃台。"
+    },
+    {
+      "en": "We thank our entire community for prioritizing preparedness this important week.",
+      "zh": "於此重要週次，感謝全體成員以準備為先。"
+    }
   ]
 }
