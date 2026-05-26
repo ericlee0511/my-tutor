@@ -221,6 +221,7 @@ const STORIES = [
   { key: "jap056", title: "浦和探偵 ジン" },
   { key: "jap057", title: "理科室のスミレ ～七星先生の最後の授業～" },
   { key: "jap058", title: "深海から見える灯" },
+  { key: "jap059", title: "余命半年の小笠原先輩は、いつも笑顔なんです" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
