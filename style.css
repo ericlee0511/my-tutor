@@ -45,11 +45,17 @@ body {
 
 header {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 6px;
   padding: 12px 16px;
   border-bottom: 1px solid var(--border);
   background: var(--card);
+}
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
 }
 header h1 {
   margin: 0;
@@ -57,6 +63,104 @@ header h1 {
   font-weight: 600;
 }
 .settings { display: flex; gap: 6px; }
+
+.streak-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+#streak-fire {
+  background: none;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px 6px;
+  cursor: pointer;
+  font-family: inherit;
+  border-radius: 4px;
+}
+#streak-fire.streak-active {
+  color: var(--accent);
+}
+#streak-fire.streak-dim {
+  color: var(--muted);
+  opacity: 0.55;
+}
+#streak-fire:active { transform: scale(0.95); }
+.streak-bar {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+.streak-bar-track {
+  flex: 1;
+  height: 6px;
+  background: var(--accent-soft);
+  border-radius: 3px;
+  overflow: hidden;
+}
+#streak-bar-fill {
+  height: 100%;
+  width: 0%;
+  background: var(--accent);
+  border-radius: 3px;
+  transition: width 0.3s;
+}
+#streak-bar-text {
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+#streak-heatmap {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 3px;
+  margin: 12px 0;
+}
+.hm-cell {
+  aspect-ratio: 1;
+  border-radius: 3px;
+  background: var(--accent-soft);
+  position: relative;
+}
+.hm-cell.hm-1 { background: rgba(99, 102, 241, 0.25); }
+.hm-cell.hm-2 { background: rgba(99, 102, 241, 0.55); }
+.hm-cell.hm-3 { background: var(--accent); }
+.hm-cell.hm-empty { background: transparent; }
+.hm-month-label {
+  grid-column: 1 / -1;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-top: 8px;
+}
+.streak-backup-row {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 16px;
+}
+.streak-backup-row .chip {
+  font-size: 14px;
+}
+.streak-note {
+  font-size: 12px;
+  color: var(--muted);
+  text-align: center;
+  margin: 12px 0 0;
+  line-height: 1.5;
+}
+#streak-summary {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 8px;
+  color: var(--text);
+}
+#streak-summary strong { color: var(--accent); font-size: 20px; }
 .chip {
   border: 1px solid var(--border);
   background: var(--accent-soft);

@@ -577,7 +577,14 @@ let state = {
   history: {},
   timeline: [],
   timelinePos: -1,
+  streak: {
+    count: 0,        // consecutive days INCLUDING today (if today studied)
+    lastDay: null,   // "YYYY-MM-DD" local; last day with ≥1 reveal
+    todayCount: 0,   // reveals on lastDay (used for daily-goal bar)
+    history: {},     // { "YYYY-MM-DD": revealsCount } for heatmap
+  },
 };
+const DAILY_GOAL = 30;
 const MAX_TIMELINE = 50;
 
 function loadState() {
@@ -586,6 +593,7 @@ function loadState() {
     Object.assign(state, saved);
   } catch {}
   state.history = state.history || {};
+  state.streak = Object.assign({ count: 0, lastDay: null, todayCount: 0, history: {} }, state.streak || {});
   // Migrate: if a previous build stored g1-g5 as the main level, fold back to "gept"
   if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
   // Migrate legacy gept sub-level keys (g1-g5) → Chinese labels
@@ -595,6 +603,155 @@ function loadState() {
 }
 function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+// ===== Streak tracking =====
+function dateKey(d) {
+  const dt = d || new Date();
+  const y = dt.getFullYear();
+  const m = String(dt.getMonth() + 1).padStart(2, "0");
+  const day = String(dt.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+function todayKey() { return dateKey(); }
+function yesterdayKey() {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return dateKey(d);
+}
+
+function recordReveal() {
+  const s = state.streak;
+  const today = todayKey();
+  s.history[today] = (s.history[today] || 0) + 1;
+  if (s.lastDay === today) {
+    s.todayCount = (s.todayCount || 0) + 1;
+  } else if (s.lastDay === yesterdayKey()) {
+    s.count = (s.count || 0) + 1;
+    s.lastDay = today;
+    s.todayCount = 1;
+  } else {
+    s.count = 1;
+    s.lastDay = today;
+    s.todayCount = 1;
+  }
+  saveState();
+  updateStreakUI();
+}
+
+function effectiveStreak() {
+  const s = state.streak;
+  const today = todayKey();
+  if (s.lastDay === today) return { n: s.count, active: true };
+  if (s.lastDay === yesterdayKey()) return { n: s.count, active: false };
+  return { n: 0, active: false };
+}
+
+function updateStreakUI() {
+  const fire = document.getElementById("streak-fire");
+  const bar = document.getElementById("streak-bar-fill");
+  const txt = document.getElementById("streak-bar-text");
+  if (!fire) return;
+  const { n, active } = effectiveStreak();
+  fire.textContent = `🔥 ${n}`;
+  fire.classList.toggle("streak-active", active);
+  fire.classList.toggle("streak-dim", !active);
+  const todayCount = state.streak.lastDay === todayKey() ? (state.streak.todayCount || 0) : 0;
+  const pct = Math.min(100, Math.round((todayCount / DAILY_GOAL) * 100));
+  if (bar) bar.style.width = pct + "%";
+  if (txt) txt.textContent = `${todayCount} / ${DAILY_GOAL}`;
+}
+
+function heatmapTier(n) {
+  if (!n) return "hm-0";
+  if (n <= 10) return "hm-1";
+  if (n <= 30) return "hm-2";
+  return "hm-3";
+}
+
+function renderHeatmap() {
+  const root = document.getElementById("streak-heatmap");
+  const summary = document.getElementById("streak-summary");
+  if (!root) return;
+  const hist = state.streak.history || {};
+  const today = new Date();
+  // Last 90 days, aligned by week (Sunday start)
+  const days = [];
+  for (let i = 89; i >= 0; i--) {
+    const d = new Date(today);
+    d.setDate(d.getDate() - i);
+    days.push({ date: d, key: dateKey(d) });
+  }
+  // Pad start so it aligns to Sunday column
+  const firstDow = days[0].date.getDay(); // 0=Sun
+  const padBefore = firstDow;
+  const cells = [];
+  for (let i = 0; i < padBefore; i++) cells.push(`<div class="hm-cell hm-empty"></div>`);
+  for (const { date, key } of days) {
+    const cnt = hist[key] || 0;
+    const tier = heatmapTier(cnt);
+    const label = `${key} · ${cnt} 張`;
+    cells.push(`<div class="hm-cell ${tier}" title="${label}"></div>`);
+  }
+  // Day-of-week header
+  const dayHeader = ["日","一","二","三","四","五","六"]
+    .map(d => `<div class="hm-cell hm-empty" style="background:none;color:var(--muted);font-size:11px;text-align:center;line-height:1.2;">${d}</div>`).join("");
+  root.innerHTML = dayHeader + cells.join("");
+
+  // Summary line: total cards + total days
+  const allKeys = Object.keys(hist);
+  const totalCards = allKeys.reduce((s, k) => s + (hist[k] || 0), 0);
+  const totalDays = allKeys.filter(k => (hist[k] || 0) > 0).length;
+  const { n, active } = effectiveStreak();
+  if (summary) {
+    summary.innerHTML =
+      `連續打卡 <strong>${n}</strong> 天 ${active ? "（今日已完成）" : "（今日尚未打卡）"}<br>` +
+      `累計學習 <strong>${totalDays}</strong> 天，共翻牌 <strong>${totalCards}</strong> 張`;
+  }
+}
+
+function openStreakPicker() {
+  const ov = document.getElementById("streak-picker");
+  if (!ov) return;
+  renderHeatmap();
+  ov.hidden = false;
+}
+function closeStreakPicker() {
+  const ov = document.getElementById("streak-picker");
+  if (ov) ov.hidden = true;
+}
+
+function exportBackup() {
+  const data = JSON.stringify(state, null, 2);
+  const blob = new Blob([data], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "tutor_backup.json";
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 100);
+}
+
+function importBackup(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const imported = JSON.parse(reader.result);
+      if (!imported || typeof imported !== "object") throw new Error("Invalid format");
+      if (!confirm("匯入備份會覆蓋目前本機資料，確定繼續嗎？")) return;
+      Object.assign(state, imported);
+      state.streak = Object.assign({ count: 0, lastDay: null, todayCount: 0, history: {} }, state.streak || {});
+      saveState();
+      updateStreakUI();
+      renderHeatmap();
+      alert("匯入成功！");
+    } catch (e) {
+      alert("匯入失敗：" + e.message);
+    }
+  };
+  reader.readAsText(file);
 }
 
 async function loadData() {
@@ -1756,6 +1913,23 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
   document.getElementById("lookup-btn").addEventListener("click", toggleLookup);
   updateLookupBtn();
+
+  // Streak UI wiring
+  document.getElementById("streak-fire")?.addEventListener("click", openStreakPicker);
+  document.getElementById("streak-close")?.addEventListener("click", closeStreakPicker);
+  document.getElementById("streak-picker")?.addEventListener("click", e => {
+    if (e.target.id === "streak-picker") closeStreakPicker();
+  });
+  document.getElementById("export-btn")?.addEventListener("click", exportBackup);
+  document.getElementById("import-btn")?.addEventListener("click", () => {
+    document.getElementById("import-file")?.click();
+  });
+  document.getElementById("import-file")?.addEventListener("change", e => {
+    const f = e.target.files?.[0];
+    if (f) importBackup(f);
+    e.target.value = "";
+  });
+  updateStreakUI();
   const geptSubBtn = document.getElementById("gept-sub-btn");
   if (geptSubBtn) geptSubBtn.addEventListener("click", openGeptSubPicker);
   const geptSubPicker = document.getElementById("gept-sub-picker");
@@ -1788,7 +1962,9 @@ window.addEventListener("DOMContentLoaded", async () => {
   }
   document.addEventListener("keydown", e => {
     if (e.key !== "Escape") return;
-    if (!statsOverlay.hidden) closeStatsPicker();
+    const streakOverlay = document.getElementById("streak-picker");
+    if (streakOverlay && !streakOverlay.hidden) closeStreakPicker();
+    else if (!statsOverlay.hidden) closeStatsPicker();
     else if (geptSubPicker && !geptSubPicker.hidden) closeGeptSubPicker();
     else if (toeicSubPicker && !toeicSubPicker.hidden) closeToeicSubPicker();
     else if (!document.getElementById("level-picker").hidden) closeLevelPicker();
@@ -1798,6 +1974,12 @@ window.addEventListener("DOMContentLoaded", async () => {
   );
 
   document.addEventListener("click", e => {
+    // Spoiler first-reveal counter — only count when opening (not closing)
+    const sp = e.target.closest(".spoiler");
+    if (sp && !sp.classList.contains("revealed-counted") && sp.classList.contains("revealed")) {
+      sp.classList.add("revealed-counted");
+      recordReveal();
+    }
     const w = e.target.closest(".lookup-word");
     if (w) { e.stopPropagation(); showLookupPopup(w); return; }
     if (!e.target.closest("#lookup-popup")) hideLookupPopup();
