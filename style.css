@@ -83,9 +83,6 @@ header h1 {
   gap: 4px;
 }
 #streak-num {
-  display: inline-block;
-  min-width: 28px;
-  text-align: left;
   font-variant-numeric: tabular-nums;
 }
 #streak-fire.streak-active {
