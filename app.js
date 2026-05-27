@@ -675,6 +675,7 @@ function renderHeatmap() {
   if (!root) return;
   const hist = state.streak.history || {};
   const today = new Date();
+  const todayK = todayKey();
   // Last 90 days, aligned by week (Sunday start)
   const days = [];
   for (let i = 89; i >= 0; i--) {
@@ -682,21 +683,31 @@ function renderHeatmap() {
     d.setDate(d.getDate() - i);
     days.push({ date: d, key: dateKey(d) });
   }
-  // Pad start so it aligns to Sunday column
-  const firstDow = days[0].date.getDay(); // 0=Sun
+  const firstDow = days[0].date.getDay();
   const padBefore = firstDow;
   const cells = [];
   for (let i = 0; i < padBefore; i++) cells.push(`<div class="hm-cell hm-empty"></div>`);
   for (const { date, key } of days) {
     const cnt = hist[key] || 0;
     const tier = heatmapTier(cnt);
+    const isToday = key === todayK ? " hm-today" : "";
     const label = `${key} · ${cnt} 張`;
-    cells.push(`<div class="hm-cell ${tier}" title="${label}"></div>`);
+    cells.push(`<div class="hm-cell ${tier}${isToday}" title="${label}"></div>`);
   }
-  // Day-of-week header
   const dayHeader = ["日","一","二","三","四","五","六"]
-    .map(d => `<div class="hm-cell hm-empty" style="background:none;color:var(--muted);font-size:11px;text-align:center;line-height:1.2;">${d}</div>`).join("");
-  root.innerHTML = dayHeader + cells.join("");
+    .map(d => `<div class="hm-dow">${d}</div>`).join("");
+  const intro = `<div class="hm-intro">最近 90 天，每格代表一天，顏色越深表示那天翻越多張卡。今天用粗框標示。</div>`;
+  const legend =
+    `<div class="hm-legend">` +
+      `<span>少</span>` +
+      `<span class="hm-cell hm-0"></span>` +
+      `<span class="hm-cell hm-1"></span>` +
+      `<span class="hm-cell hm-2"></span>` +
+      `<span class="hm-cell hm-3"></span>` +
+      `<span>多</span>` +
+      `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span>` +
+    `</div>`;
+  root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + cells.join("") + `</div>` + legend;
 
   // Summary line: total cards + total days
   const allKeys = Object.keys(hist);
