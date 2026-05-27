@@ -675,28 +675,34 @@ function renderHeatmap() {
   if (!root) return;
   const hist = state.streak.history || {};
   const today = new Date();
+  today.setHours(0, 0, 0, 0);
   const todayK = todayKey();
-  // Last 90 days, aligned by week (Sunday start)
-  const days = [];
-  for (let i = 89; i >= 0; i--) {
-    const d = new Date(today);
-    d.setDate(d.getDate() - i);
-    days.push({ date: d, key: dateKey(d) });
-  }
-  const firstDow = days[0].date.getDay();
-  const padBefore = firstDow;
-  const cells = [];
-  for (let i = 0; i < padBefore; i++) cells.push(`<div class="hm-cell hm-empty"></div>`);
-  for (const { date, key } of days) {
-    const cnt = hist[key] || 0;
-    const tier = heatmapTier(cnt);
-    const isToday = key === todayK ? " hm-today" : "";
-    const label = `${key} · ${cnt} 張`;
-    cells.push(`<div class="hm-cell ${tier}${isToday}" title="${label}"></div>`);
+  // First row = current week (Sunday → today), future days blank.
+  // Subsequent rows = older weeks. Show ~13 weeks back (≈ 91 days).
+  const currentSunday = new Date(today);
+  currentSunday.setDate(today.getDate() - today.getDay());
+  const weeks = 13;
+  const rows = [];
+  for (let w = 0; w < weeks; w++) {
+    const weekStart = new Date(currentSunday);
+    weekStart.setDate(currentSunday.getDate() - 7 * w);
+    for (let d = 0; d < 7; d++) {
+      const day = new Date(weekStart);
+      day.setDate(weekStart.getDate() + d);
+      if (day > today) {
+        rows.push(`<div class="hm-cell hm-empty"></div>`);
+      } else {
+        const key = dateKey(day);
+        const cnt = hist[key] || 0;
+        const tier = heatmapTier(cnt);
+        const isToday = key === todayK ? " hm-today" : "";
+        rows.push(`<div class="hm-cell ${tier}${isToday}" title="${key} · ${cnt} 張"></div>`);
+      }
+    }
   }
   const dayHeader = ["日","一","二","三","四","五","六"]
     .map(d => `<div class="hm-dow">${d}</div>`).join("");
-  const intro = `<div class="hm-intro">最近 90 天，每格代表一天，顏色越深表示那天翻越多張卡。今天用粗框標示。</div>`;
+  const intro = `<div class="hm-intro">最近 90 天，每格代表一天，顏色越深表示那天翻越多張卡。<br>今天用粗框標示。</div>`;
   const legend =
     `<div class="hm-legend">` +
       `<span>少</span>` +
@@ -707,7 +713,7 @@ function renderHeatmap() {
       `<span>多</span>` +
       `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span>` +
     `</div>`;
-  root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + cells.join("") + `</div>` + legend;
+  root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + rows.join("") + `</div>` + legend;
 
   // Summary line: total cards + total days
   const allKeys = Object.keys(hist);
