@@ -1162,8 +1162,7 @@ function showLookupPopup(spanEl) {
     popup.id = "lookup-popup";
     document.body.appendChild(popup);
   }
-  let inner = entries.map(e => lookupEntryHtml(e, lang)).join("");
-  popup.innerHTML = `<button class="lookup-close" aria-label="close">×</button>${inner}`;
+  popup.innerHTML = entries.map(e => lookupEntryHtml(e, lang)).join("");
   popup.hidden = false;
   // Position below the clicked span if room; else above
   const rect = spanEl.getBoundingClientRect();
@@ -1185,7 +1184,6 @@ function showLookupPopup(spanEl) {
   popup.style.left = left + "px";
   popup.style.top = top + "px";
   popup.style.visibility = "visible";
-  popup.querySelector(".lookup-close")?.addEventListener("click", hideLookupPopup);
 }
 
 function hideLookupPopup() {
@@ -2002,7 +2000,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     }
     const w = e.target.closest(".lookup-word");
     if (w) { e.stopPropagation(); showLookupPopup(w); return; }
-    if (!e.target.closest("#lookup-popup")) hideLookupPopup();
+    hideLookupPopup();
   });
   document.addEventListener("keydown", e => {
     if (e.key === "Escape") hideLookupPopup();
