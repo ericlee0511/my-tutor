@@ -67,7 +67,7 @@ header h1 {
 .streak-row {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
 }
 #streak-fire {
   background: none;
@@ -79,7 +79,7 @@ header h1 {
   font-family: inherit;
   border-radius: 4px;
   min-width: 64px;
-  text-align: left;
+  text-align: right;
   font-variant-numeric: tabular-nums;
 }
 #streak-fire.streak-active {
