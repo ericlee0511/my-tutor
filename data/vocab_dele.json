@@ -51499,6 +51499,1806 @@
       "meaning_zh": "(名) 事件；意外",
       "example_es": "El incidente diplomático provocó la convocatoria urgente de los embajadores en ambos países.",
       "example_zh": "這起外交事件促使兩國緊急召見大使。"
+    },
+    {
+      "word": "esencia conceptual",
+      "meaning_zh": "(n.f.) 概念本質、核心要義",
+      "example_es": "El autor sostuvo que, si los críticos hubieran captado la esencia conceptual de su obra, no la habrían tachado de superficial.",
+      "example_zh": "作者主張，倘若評論家當初掌握了其作品的概念本質，就不會將其貶為膚淺之作。"
+    },
+    {
+      "word": "paradigma",
+      "meaning_zh": "(n.m.) 範式、典範模型",
+      "example_es": "Aunque el viejo paradigma se hubiese mantenido vigente, los nuevos hallazgos lo habrían vuelto insostenible.",
+      "example_zh": "縱使舊有範式仍維持有效，新的研究發現也會令其難以為繼。"
+    },
+    {
+      "word": "dimensión simbólica",
+      "meaning_zh": "(n.f.) 象徵維度、符號層面",
+      "example_es": "La dimensión simbólica del relato no se aprehende a no ser que el lector posea ciertos referentes culturales.",
+      "example_zh": "除非讀者具備某些文化參照，否則無從領會該敘事的象徵維度。"
+    },
+    {
+      "word": "ámbito discursivo",
+      "meaning_zh": "(n.m.) 論述場域、話語空間",
+      "example_es": "Dentro del ámbito discursivo académico, conviene que las afirmaciones se sustenten en evidencia empírica.",
+      "example_zh": "在學術論述場域內，主張宜以實證證據為依託。"
+    },
+    {
+      "word": "postulado",
+      "meaning_zh": "(n.m.) 公設、假設前提",
+      "example_es": "El investigador refutó el postulado central de la teoría aduciendo datos longitudinales recientes.",
+      "example_zh": "研究者援引近期的縱貫資料反駁了該理論的核心公設。"
+    },
+    {
+      "word": "axioma",
+      "meaning_zh": "(n.m.) 公理、自明之理",
+      "example_es": "Que la libertad presupone responsabilidad es un axioma sobre el que se vertebra todo su pensamiento ético.",
+      "example_zh": "「自由以責任為前提」是貫穿其倫理思想的公理。"
+    },
+    {
+      "word": "presupuesto teórico",
+      "meaning_zh": "(n.m.) 理論前提、預設立場",
+      "example_es": "Habría sido aconsejable que los autores explicitaran los presupuestos teóricos de su análisis desde el principio.",
+      "example_zh": "若作者能在開篇即闡明其分析的理論前提，本應更為妥當。"
+    },
+    {
+      "word": "marco teórico",
+      "meaning_zh": "(n.m.) 理論框架",
+      "example_es": "El marco teórico fue revisado a la luz de las críticas formuladas por los evaluadores externos.",
+      "example_zh": "鑑於外部審查人提出的批評，理論框架經過了修訂。"
+    },
+    {
+      "word": "constructo",
+      "meaning_zh": "(n.m.) 構念、理論建構",
+      "example_es": "La identidad nacional, lejos de ser un dato natural, se considera hoy un constructo histórico.",
+      "example_zh": "民族認同遠非自然既定的事實，如今被視為一種歷史建構。"
+    },
+    {
+      "word": "epistemología",
+      "meaning_zh": "(n.f.) 知識論、認識論",
+      "example_es": "La epistemología feminista cuestiona la pretensión de neutralidad del sujeto cognoscente clásico.",
+      "example_zh": "女性主義知識論質疑古典認知主體所宣稱的中立性。"
+    },
+    {
+      "word": "ontología",
+      "meaning_zh": "(n.f.) 本體論、存有論",
+      "example_es": "Su ensayo aborda la ontología del lenguaje desde una perspectiva heideggeriana.",
+      "example_zh": "其論文自海德格觀點探討語言的存有論。"
+    },
+    {
+      "word": "praxis",
+      "meaning_zh": "(n.f.) 實踐、行動實作",
+      "example_es": "Sin que medie una praxis transformadora, la teoría corre el riesgo de quedar reducida a mera retórica.",
+      "example_zh": "若無變革性實踐居間，理論便有淪為純然修辭之虞。"
+    },
+    {
+      "word": "doxa",
+      "meaning_zh": "(n.f.) 俗見、流行成見",
+      "example_es": "La filósofa se propuso desmontar la doxa imperante en torno a la noción de progreso.",
+      "example_zh": "該哲學家著手拆解圍繞「進步」概念的主流俗見。"
+    },
+    {
+      "word": "telos",
+      "meaning_zh": "(n.m.) 終極目的、目的因",
+      "example_es": "Para Aristóteles, el telos de la vida humana no podía disociarse del cultivo de la virtud.",
+      "example_zh": "對亞里斯多德而言，人之生命的終極目的無法與德性陶冶相分離。"
+    },
+    {
+      "word": "logos",
+      "meaning_zh": "(n.m.) 理性原則、邏各斯",
+      "example_es": "El logos griego articula razón, palabra y orden cósmico en un mismo concepto.",
+      "example_zh": "希臘的邏各斯將理性、話語與宇宙秩序統合於同一概念。"
+    },
+    {
+      "word": "ethos",
+      "meaning_zh": "(n.m.) 倫理風尚、品格氣質",
+      "example_es": "El ethos profesional del periodista exige que se contrasten siempre las fuentes antes de publicar.",
+      "example_zh": "新聞工作者的職業倫理風尚要求發稿前必須核實消息來源。"
+    },
+    {
+      "word": "pathos",
+      "meaning_zh": "(n.m.) 情感訴求、悲憫之情",
+      "example_es": "El orador recurrió al pathos para conmover a un auditorio reticente a sus tesis.",
+      "example_zh": "講者訴諸情感力量，以打動對其論點抱持保留態度的聽眾。"
+    },
+    {
+      "word": "kairós",
+      "meaning_zh": "(n.m.) 適切時機、契機時刻",
+      "example_es": "Captar el kairós del discurso es indispensable para que la argumentación resulte persuasiva.",
+      "example_zh": "把握話語的適切時機，是使論證具說服力不可或缺的條件。"
+    },
+    {
+      "word": "aporía",
+      "meaning_zh": "(n.f.) 困境、無解難題",
+      "example_es": "El texto culmina en una aporía que el autor, lejos de resolver, decide problematizar.",
+      "example_zh": "該文本以一種無解的困境收尾，作者非但不予解決，反而選擇加以問題化。"
+    },
+    {
+      "word": "dialéctica",
+      "meaning_zh": "(n.f.) 辯證法、辯證關係",
+      "example_es": "Hegel concibió la historia como una dialéctica en la que cada tesis suscita su contrario.",
+      "example_zh": "黑格爾將歷史構想為一種辯證過程，其中每一命題皆引發其反命題。"
+    },
+    {
+      "word": "hermenéutica",
+      "meaning_zh": "(n.f.) 詮釋學",
+      "example_es": "Una hermenéutica rigurosa exige que el intérprete reconozca sus propios prejuicios.",
+      "example_zh": "嚴謹的詮釋學要求詮釋者承認自身既有的成見。"
+    },
+    {
+      "word": "fenomenología",
+      "meaning_zh": "(n.f.) 現象學",
+      "example_es": "La fenomenología husserliana invitaba a suspender los juicios para volver a las cosas mismas.",
+      "example_zh": "胡塞爾的現象學主張懸置判斷，以回返事物本身。"
+    },
+    {
+      "word": "teleología",
+      "meaning_zh": "(n.f.) 目的論",
+      "example_es": "Cualquier teleología de la historia ha sido cuestionada por el pensamiento posmoderno.",
+      "example_zh": "任何歷史目的論皆已遭後現代思想的質疑。"
+    },
+    {
+      "word": "deontología",
+      "meaning_zh": "(n.f.) 義務倫理學、職業道德學",
+      "example_es": "La deontología periodística prohíbe que se revele la identidad de las fuentes confidenciales.",
+      "example_zh": "新聞職業倫理學禁止透露機密消息來源的身分。"
+    },
+    {
+      "word": "materialismo histórico",
+      "meaning_zh": "(n.m.) 歷史唯物論",
+      "example_es": "El materialismo histórico postula que las condiciones materiales determinan la conciencia social.",
+      "example_zh": "歷史唯物論主張物質條件決定社會意識。"
+    },
+    {
+      "word": "idealismo trascendental",
+      "meaning_zh": "(n.m.) 先驗觀念論",
+      "example_es": "Kant elaboró un idealismo trascendental que sentaba las bases del conocimiento posible.",
+      "example_zh": "康德建構了先驗觀念論，奠定可能知識的基礎。"
+    },
+    {
+      "word": "pragmatismo crítico",
+      "meaning_zh": "(n.m.) 批判實用主義",
+      "example_es": "El pragmatismo crítico sostiene que las ideas se validen únicamente en función de sus consecuencias prácticas.",
+      "example_zh": "批判實用主義主張，觀念僅依其實際後果獲得檢驗。"
+    },
+    {
+      "word": "estructuralismo",
+      "meaning_zh": "(n.m.) 結構主義",
+      "example_es": "El estructuralismo francés analizó los mitos como sistemas de oposiciones binarias.",
+      "example_zh": "法國結構主義將神話分析為二元對立的系統。"
+    },
+    {
+      "word": "posestructuralismo",
+      "meaning_zh": "(n.m.) 後結構主義",
+      "example_es": "El posestructuralismo cuestionó que existiera un significado estable detrás de los signos.",
+      "example_zh": "後結構主義質疑符號背後存在穩定意義的觀念。"
+    },
+    {
+      "word": "deconstrucción",
+      "meaning_zh": "(n.f.) 解構",
+      "example_es": "Derrida propuso una deconstrucción del logocentrismo occidental que sigue suscitando debates.",
+      "example_zh": "德希達提出對西方邏各斯中心主義的解構，至今仍引發爭論。"
+    },
+    {
+      "word": "no obstante lo cual",
+      "meaning_zh": "(loc. conj.) 儘管如此",
+      "example_es": "Los datos eran preliminares; no obstante lo cual, el comité decidió que se publicaran de inmediato.",
+      "example_zh": "資料雖屬初步性質；儘管如此，委員會仍決定立即予以公布。"
+    },
+    {
+      "word": "habida cuenta de",
+      "meaning_zh": "(loc. prep.) 鑑於、考慮到",
+      "example_es": "Habida cuenta de las objeciones planteadas, conviene que el informe sea reformulado.",
+      "example_zh": "鑑於所提出的反對意見，該報告宜重新撰寫。"
+    },
+    {
+      "word": "dado que",
+      "meaning_zh": "(loc. conj.) 既然、由於",
+      "example_es": "Dado que las premisas son discutibles, la conclusión no puede tenerse por irrefutable.",
+      "example_zh": "既然前提本身可議，結論便不可視為無懈可擊。"
+    },
+    {
+      "word": "a la luz de",
+      "meaning_zh": "(loc. prep.) 鑑於、依照…來看",
+      "example_es": "A la luz de los nuevos hallazgos, la hipótesis inicial habría de ser revisada en profundidad.",
+      "example_zh": "鑑於新近的研究發現，初始假設應當被深入修訂。"
+    },
+    {
+      "word": "por consiguiente",
+      "meaning_zh": "(loc. conj.) 因此、所以",
+      "example_es": "El experimento no fue replicable; por consiguiente, las conclusiones perdieron toda solidez.",
+      "example_zh": "該實驗無法被複製；因此，其結論喪失了所有的可靠性。"
+    },
+    {
+      "word": "por ende",
+      "meaning_zh": "(loc. conj.) 因而、故而",
+      "example_es": "Los presupuestos fueron recortados y, por ende, el proyecto hubo de ser pospuesto.",
+      "example_zh": "預算遭到刪減，故而該計畫不得不延期。"
+    },
+    {
+      "word": "asimismo",
+      "meaning_zh": "(adv.) 同樣地、此外",
+      "example_es": "El autor reseña la obra de Borges; asimismo, examina la influencia de Onetti en la narrativa rioplatense.",
+      "example_zh": "作者評介波赫士的作品，同時亦考察奧內蒂對拉布拉他河文學的影響。"
+    },
+    {
+      "word": "en lo concerniente a",
+      "meaning_zh": "(loc. prep.) 就…而言",
+      "example_es": "En lo concerniente a la metodología, los revisores exigieron que se ampliara la muestra.",
+      "example_zh": "就方法論而言，審查人要求擴大樣本規模。"
+    },
+    {
+      "word": "en última instancia",
+      "meaning_zh": "(loc. adv.) 歸根究柢、最終",
+      "example_es": "En última instancia, lo que se ventila no es un problema técnico, sino una cuestión ética.",
+      "example_zh": "歸根究柢，所討論的並非技術問題，而是一項倫理議題。"
+    },
+    {
+      "word": "en términos generales",
+      "meaning_zh": "(loc. adv.) 概略而言",
+      "example_es": "En términos generales, la crítica acogió favorablemente la novela, aunque hubo voces discrepantes.",
+      "example_zh": "概略而言，評論界對該小說反應良好，雖也不乏異議之聲。"
+    },
+    {
+      "word": "a este respecto",
+      "meaning_zh": "(loc. adv.) 就此而論",
+      "example_es": "A este respecto, conviene precisar que el autor jamás abrazó las tesis que se le atribuyen.",
+      "example_zh": "就此而論，應當指出該作者從未認同被歸於其身的論點。"
+    },
+    {
+      "word": "de ahí que",
+      "meaning_zh": "(loc. conj.) 因此、故而（接虛擬式）",
+      "example_es": "Las pruebas resultaron concluyentes; de ahí que el tribunal dictara una sentencia condenatoria.",
+      "example_zh": "證據結論明確，因此法庭做出有罪判決。"
+    },
+    {
+      "word": "antes bien",
+      "meaning_zh": "(loc. adv.) 反而、相反地",
+      "example_es": "El crítico no condenó al autor; antes bien, lo defendió con argumentos sólidos.",
+      "example_zh": "評論者並未譴責該作家，反而以紮實的論據為他辯護。"
+    },
+    {
+      "word": "siquiera",
+      "meaning_zh": "(conj./adv.) 即使、至少",
+      "example_es": "Aunque siquiera se hubiese aludido al precedente, la sentencia habría sido más coherente.",
+      "example_zh": "倘若至少曾援引該判例，判決也會更具一致性。"
+    },
+    {
+      "word": "toda vez que",
+      "meaning_zh": "(loc. conj.) 由於、既然",
+      "example_es": "Toda vez que se demostró la falsedad de los datos, el artículo fue retirado de la revista.",
+      "example_zh": "既然資料造假已獲證實，該篇論文便遭期刊撤稿。"
+    },
+    {
+      "word": "a fortiori",
+      "meaning_zh": "(loc. adv.) 更何況、依更強理由",
+      "example_es": "Si el experto erró en lo elemental, a fortiori cabría dudar de sus conclusiones más complejas.",
+      "example_zh": "倘若專家連基本事項都判斷失誤，更何況其更為複雜的結論亦難免令人懷疑。"
+    },
+    {
+      "word": "grosso modo",
+      "meaning_zh": "(loc. adv.) 粗略而言",
+      "example_es": "Grosso modo, la teoría puede dividirse en tres etapas claramente diferenciadas.",
+      "example_zh": "粗略而言，該理論可區分為三個明顯不同的階段。"
+    },
+    {
+      "word": "ad hoc",
+      "meaning_zh": "(loc. adj.) 特設的、專為此目的的",
+      "example_es": "Se creó una comisión ad hoc para que dirimiera el conflicto entre departamentos.",
+      "example_zh": "為調解部門間的衝突，遂成立了一個專案委員會。"
+    },
+    {
+      "word": "stricto sensu",
+      "meaning_zh": "(loc. adv.) 嚴格意義上",
+      "example_es": "Stricto sensu, el documento no constituye un tratado, sino una mera declaración de intenciones.",
+      "example_zh": "嚴格而言，該文件並非條約，僅為意向聲明。"
+    },
+    {
+      "word": "ipso facto",
+      "meaning_zh": "(loc. adv.) 立即地、依事實本身",
+      "example_es": "Si se aprobara la enmienda, las disposiciones anteriores quedarían ipso facto derogadas.",
+      "example_zh": "倘若修正案獲得通過，先前條款將立即被廢止。"
+    },
+    {
+      "word": "metonimia",
+      "meaning_zh": "(n.f.) 轉喻、借代",
+      "example_es": "Decir «leer a Cervantes» es una metonimia que sustituye al autor por su obra.",
+      "example_zh": "說「閱讀塞萬提斯」是以作者代其作品的轉喻。"
+    },
+    {
+      "word": "sinécdoque",
+      "meaning_zh": "(n.f.) 提喻、舉隅法",
+      "example_es": "Hablar de «velas» para referirse a barcos es una sinécdoque clásica de la poesía épica.",
+      "example_zh": "以「帆」指代船隻，是史詩中典型的提喻手法。"
+    },
+    {
+      "word": "antítesis",
+      "meaning_zh": "(n.f.) 對立、對偶法",
+      "example_es": "El poeta recurrió a la antítesis entre luz y sombra para subrayar el dramatismo del verso.",
+      "example_zh": "詩人運用光明與陰影的對立，以突顯詩句的戲劇張力。"
+    },
+    {
+      "word": "hipérbaton",
+      "meaning_zh": "(n.m.) 倒裝法",
+      "example_es": "Góngora abusaba del hipérbaton hasta el punto de que sus versos resultan, a ratos, ininteligibles.",
+      "example_zh": "貢戈拉過度運用倒裝法，以致他的詩句有時令人費解。"
+    },
+    {
+      "word": "anáfora",
+      "meaning_zh": "(n.f.) 首語重複法",
+      "example_es": "La anáfora insistente del verbo «caminar» imprime ritmo y obsesión al poema.",
+      "example_zh": "動詞「行走」反覆出現的首語重複法，賦予詩作節奏與執念。"
+    },
+    {
+      "word": "epífora",
+      "meaning_zh": "(n.f.) 結尾重複法",
+      "example_es": "El uso de la epífora al cierre de cada estrofa produce un eco persistente en el oyente.",
+      "example_zh": "每節結尾的重複用法在聽者心中產生持續的迴響。"
+    },
+    {
+      "word": "polisíndeton",
+      "meaning_zh": "(n.m.) 連詞疊用法",
+      "example_es": "El polisíndeton («y... y... y...») confiere al pasaje un tono solemne y bíblico.",
+      "example_zh": "連詞疊用（「並…並…並…」）賦予該段落莊嚴而具聖經風格的語調。"
+    },
+    {
+      "word": "asíndeton",
+      "meaning_zh": "(n.m.) 連詞省略法",
+      "example_es": "Mediante el asíndeton, César resumió su campaña: «Vine, vi, vencí».",
+      "example_zh": "凱撒透過連詞省略法概括了戰役：「我來，我見，我征服」。"
+    },
+    {
+      "word": "prolepsis",
+      "meaning_zh": "(n.f.) 預敘、敘事預示",
+      "example_es": "La prolepsis al inicio de la novela anticipa el desenlace y crea suspense narrativo.",
+      "example_zh": "小說開篇的預敘預示了結局，並營造敘事懸念。"
+    },
+    {
+      "word": "analepsis",
+      "meaning_zh": "(n.f.) 倒敘、追溯敘事",
+      "example_es": "Mediante una analepsis, el narrador reconstruye la infancia del protagonista.",
+      "example_zh": "敘事者透過倒敘手法重構了主角的童年。"
+    },
+    {
+      "word": "lítote",
+      "meaning_zh": "(n.f.) 婉曲法、低調陳述",
+      "example_es": "Decir «no está mal» como lítote para significar que algo es excelente es un recurso frecuente.",
+      "example_zh": "用「還不錯」這種婉曲法來表示某事極佳，是常見的修辭策略。"
+    },
+    {
+      "word": "perífrasis",
+      "meaning_zh": "(n.f.) 迂迴語、贅敘法",
+      "example_es": "La perífrasis «la ciudad eterna» se emplea con frecuencia para aludir a Roma.",
+      "example_zh": "「永恆之城」這一迂迴說法常被用來指稱羅馬。"
+    },
+    {
+      "word": "antonomasia",
+      "meaning_zh": "(n.f.) 借代典型、雅稱法",
+      "example_es": "Cervantes es, por antonomasia, el novelista de la lengua española.",
+      "example_zh": "塞萬提斯堪稱西班牙語小說家的典型代表。"
+    },
+    {
+      "word": "quiasmo",
+      "meaning_zh": "(n.m.) 交錯配列法",
+      "example_es": "El quiasmo «vivir para escribir, escribir para vivir» imprime al verso una simetría notable.",
+      "example_zh": "「為寫作而生，為生活而寫」的交錯配列法，使詩句獲得顯著的對稱性。"
+    },
+    {
+      "word": "paronomasia",
+      "meaning_zh": "(n.f.) 諧音雙關",
+      "example_es": "La paronomasia entre «hombre» y «hambre» refuerza el contenido social del verso.",
+      "example_zh": "「人」與「飢餓」之間的諧音雙關強化了詩句的社會內涵。"
+    },
+    {
+      "word": "ironía socrática",
+      "meaning_zh": "(n.f.) 蘇格拉底式反諷",
+      "example_es": "Sócrates ejercía la ironía socrática fingiendo ignorancia ante sus interlocutores.",
+      "example_zh": "蘇格拉底以假裝無知的方式對其對話者運用蘇格拉底式反諷。"
+    },
+    {
+      "word": "sarcasmo",
+      "meaning_zh": "(n.m.) 諷刺、挖苦",
+      "example_es": "El crítico revistió su reseña de un sarcasmo difícil de soslayar.",
+      "example_zh": "評論者在其評介中注入了一種難以忽視的諷刺。"
+    },
+    {
+      "word": "alegoría",
+      "meaning_zh": "(n.f.) 寓言、託寓",
+      "example_es": "La novela puede leerse como una alegoría del régimen autoritario que la inspiró.",
+      "example_zh": "該小說可解讀為對其所反映之威權政體的寓言。"
+    },
+    {
+      "word": "símil",
+      "meaning_zh": "(n.m.) 明喻",
+      "example_es": "El símil entre el corazón y un volcán dormido recorre toda la composición lírica.",
+      "example_zh": "心臟與沉睡火山之間的明喻貫穿整首抒情作品。"
+    },
+    {
+      "word": "leitmotiv",
+      "meaning_zh": "(n.m.) 主導母題、反覆主題",
+      "example_es": "La soledad funciona como leitmotiv que vertebra los tres volúmenes de la trilogía.",
+      "example_zh": "孤獨作為主導母題貫穿了該三部曲的三卷。"
+    },
+    {
+      "word": "corpus",
+      "meaning_zh": "(n.m.) 語料庫、文獻集",
+      "example_es": "Se compiló un corpus de textos jurídicos para que se analizara el léxico especializado.",
+      "example_zh": "為分析專業詞彙，編纂了一個法律文本的語料庫。"
+    },
+    {
+      "word": "muestreo",
+      "meaning_zh": "(n.m.) 抽樣、取樣",
+      "example_es": "El muestreo aleatorio aseguró que los resultados fueran extrapolables a la población general.",
+      "example_zh": "隨機抽樣確保了結果能推廣至整體母群體。"
+    },
+    {
+      "word": "sesgo metodológico",
+      "meaning_zh": "(n.m.) 方法學偏差",
+      "example_es": "Un sesgo metodológico no detectado a tiempo pudo haber comprometido la validez del estudio.",
+      "example_zh": "未能及時察覺的方法學偏差，本可能使該研究的效度受損。"
+    },
+    {
+      "word": "contraste empírico",
+      "meaning_zh": "(n.m.) 實證對照、經驗驗證",
+      "example_es": "Toda hipótesis ha de someterse a un contraste empírico riguroso antes de aceptarse.",
+      "example_zh": "任何假設在被接受前，都須經過嚴謹的實證驗證。"
+    },
+    {
+      "word": "validez interna",
+      "meaning_zh": "(n.f.) 內在效度",
+      "example_es": "Los revisores cuestionaron la validez interna del experimento por la escasa muestra utilizada.",
+      "example_zh": "由於樣本過小，審查者質疑該實驗的內在效度。"
+    },
+    {
+      "word": "validez externa",
+      "meaning_zh": "(n.f.) 外在效度、外推效度",
+      "example_es": "La validez externa de las conclusiones se ve mermada cuando el estudio se circunscribe a un solo país.",
+      "example_zh": "若研究僅侷限於單一國家，結論的外在效度便會受到削弱。"
+    },
+    {
+      "word": "replicabilidad",
+      "meaning_zh": "(n.f.) 可重複性、再現性",
+      "example_es": "La crisis de replicabilidad ha obligado a que se revisen los estándares de publicación científica.",
+      "example_zh": "再現性危機已迫使學界檢討科學發表的標準。"
+    },
+    {
+      "word": "revisión por pares",
+      "meaning_zh": "(n.f.) 同儕審查、同行評議",
+      "example_es": "El artículo fue rechazado tras una exigente revisión por pares.",
+      "example_zh": "經過嚴格的同儕審查後，該論文遭到退稿。"
+    },
+    {
+      "word": "falsabilidad",
+      "meaning_zh": "(n.f.) 可證偽性",
+      "example_es": "Para Popper, la falsabilidad es el criterio que distingue a la ciencia de la pseudociencia.",
+      "example_zh": "對波柏而言，可證偽性是區分科學與偽科學的判準。"
+    },
+    {
+      "word": "operacionalización",
+      "meaning_zh": "(n.f.) 操作化、可操作定義",
+      "example_es": "La operacionalización del concepto de bienestar resultó más ardua de lo previsto.",
+      "example_zh": "「福祉」概念的操作化比預期更為棘手。"
+    },
+    {
+      "word": "variable dependiente",
+      "meaning_zh": "(n.f.) 依變項",
+      "example_es": "Se midió la variable dependiente al concluir cada intervención experimental.",
+      "example_zh": "於每次實驗介入結束時測量依變項。"
+    },
+    {
+      "word": "variable independiente",
+      "meaning_zh": "(n.f.) 自變項",
+      "example_es": "El investigador manipuló la variable independiente para que se observara su efecto.",
+      "example_zh": "研究者操弄自變項以觀察其效應。"
+    },
+    {
+      "word": "metaanálisis",
+      "meaning_zh": "(n.m.) 統合分析、後設分析",
+      "example_es": "Un metaanálisis reciente cuestionó la eficacia del tratamiento que se venía recomendando.",
+      "example_zh": "近期的一項統合分析質疑了長期以來被推薦之治療的成效。"
+    },
+    {
+      "word": "estudio longitudinal",
+      "meaning_zh": "(n.m.) 縱貫研究",
+      "example_es": "El estudio longitudinal siguió a los participantes durante dos décadas.",
+      "example_zh": "該縱貫研究追蹤受試者長達二十年。"
+    },
+    {
+      "word": "estudio transversal",
+      "meaning_zh": "(n.m.) 橫斷研究",
+      "example_es": "El estudio transversal arrojó datos provisionales que aún habrán de ser corroborados.",
+      "example_zh": "橫斷研究提供了初步資料，仍有待後續證實。"
+    },
+    {
+      "word": "marco muestral",
+      "meaning_zh": "(n.m.) 抽樣框架",
+      "example_es": "Un marco muestral mal definido habría comprometido la representatividad de los resultados.",
+      "example_zh": "若抽樣框架定義不當，將會危及結果的代表性。"
+    },
+    {
+      "word": "triangulación",
+      "meaning_zh": "(n.f.) 三角驗證、多元交叉檢證",
+      "example_es": "Mediante la triangulación de fuentes se logró que el análisis ganara en consistencia.",
+      "example_zh": "透過資料來源的三角驗證，使分析在一致性上獲得提升。"
+    },
+    {
+      "word": "estado del arte",
+      "meaning_zh": "(n.m.) 研究現況、發展概況",
+      "example_es": "El primer capítulo de la tesis se dedica al estado del arte sobre el tema.",
+      "example_zh": "論文首章專門探討該主題的研究現況。"
+    },
+    {
+      "word": "heurística",
+      "meaning_zh": "(n.f.) 啟發法、捷思",
+      "example_es": "Las heurísticas, aunque útiles, propician sesgos cognitivos que distorsionan el juicio.",
+      "example_zh": "啟發法雖實用，卻容易促成扭曲判斷的認知偏誤。"
+    },
+    {
+      "word": "sesgo de anclaje",
+      "meaning_zh": "(n.m.) 錨定偏誤",
+      "example_es": "El sesgo de anclaje hace que el primer dato recibido condicione todas las estimaciones posteriores.",
+      "example_zh": "錨定偏誤使最先收到的資訊左右後續的所有估計。"
+    },
+    {
+      "word": "efecto halo",
+      "meaning_zh": "(n.m.) 月暈效應、光環效應",
+      "example_es": "El efecto halo provoca que se atribuyan virtudes adicionales a quien posee una sola cualidad sobresaliente.",
+      "example_zh": "月暈效應使人因某人具備某項突出特質，便額外賦予其更多優點。"
+    },
+    {
+      "word": "profecía autocumplida",
+      "meaning_zh": "(n.f.) 自我應驗預言",
+      "example_es": "La profecía autocumplida explica cómo una creencia infundada puede acabar materializándose.",
+      "example_zh": "自我應驗預言解釋了毫無根據的信念如何最終得以成真。"
+    },
+    {
+      "word": "resiliencia psicológica",
+      "meaning_zh": "(n.f.) 心理韌性、復原力",
+      "example_es": "La resiliencia psicológica permite que las personas se sobrepongan a la adversidad.",
+      "example_zh": "心理韌性使人得以克服逆境。"
+    },
+    {
+      "word": "autoeficacia",
+      "meaning_zh": "(n.f.) 自我效能感",
+      "example_es": "Bandura sostuvo que la autoeficacia incide directamente en el desempeño académico.",
+      "example_zh": "班杜拉主張自我效能感直接影響學業表現。"
+    },
+    {
+      "word": "locus de control",
+      "meaning_zh": "(n.m.) 控制信念點、控制源",
+      "example_es": "Quienes presentan un locus de control interno suelen mostrar mayor perseverancia.",
+      "example_zh": "具內在控制信念點者通常展現更高的毅力。"
+    },
+    {
+      "word": "neuroplasticidad",
+      "meaning_zh": "(n.f.) 神經可塑性",
+      "example_es": "La neuroplasticidad permite que el cerebro adulto siga reorganizándose tras una lesión.",
+      "example_zh": "神經可塑性使成人大腦在受傷後仍能持續重組。"
+    },
+    {
+      "word": "afecto embotado",
+      "meaning_zh": "(n.m.) 情感淡漠、情緒鈍化",
+      "example_es": "El paciente presentaba un afecto embotado que dificultaba la entrevista clínica.",
+      "example_zh": "病患表現出情感淡漠，使臨床訪談難以進行。"
+    },
+    {
+      "word": "alexitimia",
+      "meaning_zh": "(n.f.) 述情障礙、情感失讀症",
+      "example_es": "La alexitimia se caracteriza por una notable dificultad para identificar las propias emociones.",
+      "example_zh": "述情障礙的特徵是難以辨識自身情緒。"
+    },
+    {
+      "word": "anhedonia",
+      "meaning_zh": "(n.f.) 快感缺失",
+      "example_es": "La anhedonia es uno de los síntomas nucleares de los cuadros depresivos.",
+      "example_zh": "快感缺失是憂鬱症的核心症狀之一。"
+    },
+    {
+      "word": "rumiación",
+      "meaning_zh": "(n.f.) 反芻思考",
+      "example_es": "La rumiación prolongada agrava los síntomas ansioso-depresivos.",
+      "example_zh": "持續的反芻思考加劇焦慮憂鬱症狀。"
+    },
+    {
+      "word": "metacognitivo",
+      "meaning_zh": "(adj.) 後設認知的",
+      "example_es": "Se aplicó un programa metacognitivo para que los alumnos regularan su propio aprendizaje.",
+      "example_zh": "實施一項後設認知方案，以使學生能自我調控學習。"
+    },
+    {
+      "word": "imperativo categórico",
+      "meaning_zh": "(n.m.) 定言令式、絕對命令",
+      "example_es": "El imperativo categórico kantiano obliga a obrar como si la máxima fuera ley universal.",
+      "example_zh": "康德的定言令式要求人依如同普遍法則的準則行事。"
+    },
+    {
+      "word": "principio de doble efecto",
+      "meaning_zh": "(n.m.) 雙重效應原則",
+      "example_es": "El principio de doble efecto justifica ciertas acciones cuyo daño colateral no es buscado.",
+      "example_zh": "雙重效應原則為某些並非有意造成附帶傷害的行為提供正當性。"
+    },
+    {
+      "word": "eutanasia activa",
+      "meaning_zh": "(n.f.) 主動安樂死",
+      "example_es": "La eutanasia activa sigue siendo objeto de un debate ético sumamente polémico.",
+      "example_zh": "主動安樂死至今仍是高度爭議的倫理議題。"
+    },
+    {
+      "word": "dilema del tranvía",
+      "meaning_zh": "(n.m.) 電車難題",
+      "example_es": "El dilema del tranvía se ha convertido en un experimento mental ineludible en bioética.",
+      "example_zh": "電車難題已成為生命倫理學中無可迴避的思想實驗。"
+    },
+    {
+      "word": "principio de precaución",
+      "meaning_zh": "(n.m.) 預警原則",
+      "example_es": "El principio de precaución exige que se eviten acciones cuyos riesgos no estén plenamente acotados.",
+      "example_zh": "預警原則要求避免採取風險未被充分界定的行動。"
+    },
+    {
+      "word": "intuicionismo moral",
+      "meaning_zh": "(n.m.) 道德直覺主義",
+      "example_es": "El intuicionismo moral sostiene que existen verdades éticas captadas sin necesidad de razonamiento.",
+      "example_zh": "道德直覺主義主張存在無需推理即可把握的倫理真理。"
+    },
+    {
+      "word": "relativismo ético",
+      "meaning_zh": "(n.m.) 倫理相對主義",
+      "example_es": "El relativismo ético niega que existan principios morales válidos para toda cultura.",
+      "example_zh": "倫理相對主義否認存在普遍適用於所有文化的道德原則。"
+    },
+    {
+      "word": "utilitarismo",
+      "meaning_zh": "(n.m.) 功利主義",
+      "example_es": "El utilitarismo evalúa los actos según el mayor bienestar agregado que produzcan.",
+      "example_zh": "功利主義依行為所產生的最大集體福祉加以評價。"
+    },
+    {
+      "word": "consecuencialismo",
+      "meaning_zh": "(n.m.) 後果主義",
+      "example_es": "El consecuencialismo subordina la corrección moral a los resultados que de ella se sigan.",
+      "example_zh": "後果主義將道德正當性繫於行為所導致的結果。"
+    },
+    {
+      "word": "casuística",
+      "meaning_zh": "(n.f.) 案例倫理學、決疑論",
+      "example_es": "La casuística médica analiza cada situación clínica como un caso éticamente singular.",
+      "example_zh": "醫學案例倫理學將每一臨床情境視為倫理上獨特的個案。"
+    },
+    {
+      "word": "objeción de conciencia",
+      "meaning_zh": "(n.f.) 良心反對權",
+      "example_es": "Algunos facultativos invocaron la objeción de conciencia para que no se les obligara a practicar el procedimiento.",
+      "example_zh": "部分醫師援引良心反對權，以免被強制執行該醫療程序。"
+    },
+    {
+      "word": "bioética",
+      "meaning_zh": "(n.f.) 生命倫理學",
+      "example_es": "La bioética se ocupa de los dilemas que la biotecnología plantea a la sociedad contemporánea.",
+      "example_zh": "生命倫理學處理生物科技對當代社會所提出的倫理難題。"
+    },
+    {
+      "word": "consentimiento informado",
+      "meaning_zh": "(n.m.) 知情同意",
+      "example_es": "Sin que medie un consentimiento informado, ninguna intervención clínica resulta lícita.",
+      "example_zh": "若無知情同意居間，任何臨床介入皆不具合法性。"
+    },
+    {
+      "word": "manifiesto fundacional",
+      "meaning_zh": "(n.m.) 創立宣言",
+      "example_es": "El manifiesto fundacional del movimiento sentaba unas bases programáticas que pronto serían desbordadas.",
+      "example_zh": "該運動的創立宣言奠定了綱領基礎，但很快被現實所超越。"
+    },
+    {
+      "word": "palmariamente",
+      "meaning_zh": "(adv.) 顯而易見地",
+      "example_es": "Palmariamente, los datos confirmaban la hipótesis que el ponente venía defendiendo.",
+      "example_zh": "顯而易見地，數據證實了報告人所持的假設。"
+    },
+    {
+      "word": "palpablemente",
+      "meaning_zh": "(adv.) 明顯地、可觸知地",
+      "example_es": "El malestar entre los socios resultaba palpablemente perceptible durante la reunión.",
+      "example_zh": "會議期間，成員間的不滿明顯可感。"
+    },
+    {
+      "word": "inusitado",
+      "meaning_zh": "(adj.) 罕見的、非比尋常的",
+      "example_es": "El tribunal mostró un rigor inusitado al evaluar las pruebas presentadas.",
+      "example_zh": "法庭以非比尋常的嚴謹度審視所呈證據。"
+    },
+    {
+      "word": "exiguo",
+      "meaning_zh": "(adj.) 微薄的、稀少的",
+      "example_es": "Los recursos asignados fueron tan exiguos que el proyecto hubo de redimensionarse.",
+      "example_zh": "所撥資源如此微薄，致使該計畫不得不縮小規模。"
+    },
+    {
+      "word": "gratuito infundado",
+      "meaning_zh": "(adj.) 毫無根據的、無理由的",
+      "example_es": "La crítica resultó gratuita e infundada, pues no se sustentaba en argumento alguno.",
+      "example_zh": "該批評毫無根據，因其並未建立於任何論據之上。"
+    },
+    {
+      "word": "insostenible",
+      "meaning_zh": "(adj.) 無法維繫的、站不住腳的",
+      "example_es": "Las tesis del autor se han vuelto insostenibles a la luz de los descubrimientos recientes.",
+      "example_zh": "鑑於近期的研究發現，作者的論點已變得難以維繫。"
+    },
+    {
+      "word": "fehaciente",
+      "meaning_zh": "(adj.) 確鑿的、可信的",
+      "example_es": "La defensa presentó pruebas fehacientes que rebatieron la acusación inicial.",
+      "example_zh": "辯護方提出確鑿證據，駁斥了最初的指控。"
+    },
+    {
+      "word": "concomitante",
+      "meaning_zh": "(adj.) 伴隨的、同時發生的",
+      "example_es": "La crisis económica generó efectos concomitantes en el ámbito sociopolítico.",
+      "example_zh": "經濟危機在社會政治領域引發了伴隨效應。"
+    },
+    {
+      "word": "circunstancial",
+      "meaning_zh": "(adj.) 情境性的、偶然的",
+      "example_es": "El éxito resultó meramente circunstancial y no respondió a una estrategia sólida.",
+      "example_zh": "其成功僅為偶然，並非源自穩固的策略。"
+    },
+    {
+      "word": "endémico",
+      "meaning_zh": "(adj.) 地方性的、長期存在的",
+      "example_es": "La corrupción endémica del sistema dificulta cualquier reforma profunda.",
+      "example_zh": "體制中根深柢固的腐敗，使任何深層改革皆難以推動。"
+    },
+    {
+      "word": "estructural",
+      "meaning_zh": "(adj.) 結構性的",
+      "example_es": "Las desigualdades estructurales no se subsanan con medidas meramente cosméticas.",
+      "example_zh": "結構性的不平等無法以僅具表象的措施加以解決。"
+    },
+    {
+      "word": "sistémico",
+      "meaning_zh": "(adj.) 系統性的",
+      "example_es": "La crisis se ha revelado sistémica y no atribuible a un único factor.",
+      "example_zh": "該危機已顯示為系統性問題，無法歸咎於單一因素。"
+    },
+    {
+      "word": "idiosincrásico",
+      "meaning_zh": "(adj.) 獨特的、特有的",
+      "example_es": "El estilo idiosincrásico del autor desafía toda clasificación genérica.",
+      "example_zh": "該作者獨特的風格抗拒任何文類分類。"
+    },
+    {
+      "word": "polisémico",
+      "meaning_zh": "(adj.) 多義的、多重意義的",
+      "example_es": "El término «libertad» es polisémico y se presta a múltiples interpretaciones filosóficas.",
+      "example_zh": "「自由」一詞具多義性，可衍生多種哲學詮釋。"
+    },
+    {
+      "word": "performativo",
+      "meaning_zh": "(adj.) 表演性的、施為的",
+      "example_es": "El lenguaje performativo realiza la acción que enuncia, como afirmaba Austin.",
+      "example_zh": "正如奧斯汀所述，施為語言實現其所述說的行為。"
+    },
+    {
+      "word": "discursivo",
+      "meaning_zh": "(adj.) 話語的、論述的",
+      "example_es": "El nivel discursivo del ensayo requiere que el lector cuente con sólida formación filosófica.",
+      "example_zh": "該論文的論述層次要求讀者具備紮實的哲學素養。"
+    },
+    {
+      "word": "dilucidar",
+      "meaning_zh": "(v.) 闡明、釐清",
+      "example_es": "Era preciso que se dilucidaran los conceptos antes de avanzar en la argumentación.",
+      "example_zh": "必須先釐清各項概念，方能推進論證。"
+    },
+    {
+      "word": "sustanciar",
+      "meaning_zh": "(v.) 實質審理、確立論據",
+      "example_es": "El juez sustanció la causa sin que se permitiera ningún aplazamiento.",
+      "example_zh": "法官對該案進行了實質審理，未允許任何延宕。"
+    },
+    {
+      "word": "propiciar",
+      "meaning_zh": "(v.) 促成、有助於",
+      "example_es": "La medida propició que se reactivaran las inversiones extranjeras.",
+      "example_zh": "該措施促成了外國投資的再度活絡。"
+    },
+    {
+      "word": "esgrimir argumentos",
+      "meaning_zh": "(v.) 援引論點、揮舞論據",
+      "example_es": "Los detractores esgrimieron argumentos que el ponente no logró refutar.",
+      "example_zh": "反對者提出的論點，是報告人未能反駁的。"
+    },
+    {
+      "word": "incardinar",
+      "meaning_zh": "(v.) 納入體系、編入",
+      "example_es": "La reforma incardinó el nuevo departamento dentro de la facultad de humanidades.",
+      "example_zh": "該改革將新設部門編入人文學院之中。"
+    },
+    {
+      "word": "circunscribir",
+      "meaning_zh": "(v.) 限定、侷限",
+      "example_es": "Conviene que el análisis se circunscriba al periodo objeto de estudio.",
+      "example_zh": "宜將分析限定於研究所對應的時段內。"
+    },
+    {
+      "word": "extrapolar conclusiones",
+      "meaning_zh": "(v.) 外推結論",
+      "example_es": "No conviene extrapolar conclusiones generales a partir de una muestra tan reducida.",
+      "example_zh": "不宜由如此小規模的樣本外推出普遍性結論。"
+    },
+    {
+      "word": "polemizar",
+      "meaning_zh": "(v.) 進行論戰、爭辯",
+      "example_es": "El crítico polemizó con varios autores reconocidos en las páginas del suplemento cultural.",
+      "example_zh": "該評論者在文化副刊版面上與多位知名作家展開了論戰。"
+    },
+    {
+      "word": "rebatir",
+      "meaning_zh": "(v.) 反駁、駁斥",
+      "example_es": "El estudiante rebatió punto por punto las objeciones planteadas por el tribunal.",
+      "example_zh": "該學生逐點駁斥了答辯委員會提出的反對意見。"
+    },
+    {
+      "word": "impugnar tesis",
+      "meaning_zh": "(v.) 質疑論點、提出異議",
+      "example_es": "Varios académicos impugnaron las tesis del libro mediante reseñas razonadas.",
+      "example_zh": "多位學者透過詳盡的書評對該書的論點提出質疑。"
+    },
+    {
+      "word": "deslindar",
+      "meaning_zh": "(v.) 劃分、釐清界限",
+      "example_es": "El ensayista deslindó cuidadosamente lo que pertenece al mito y lo que cabe a la historia.",
+      "example_zh": "該散文家謹慎地劃分了屬於神話與屬於歷史的範疇。"
+    },
+    {
+      "word": "deslindarse",
+      "meaning_zh": "(v.) 撇清、與…劃清界線",
+      "example_es": "El intelectual se deslindó de las interpretaciones más radicales de su obra.",
+      "example_zh": "該知識分子與其作品中最激進的詮釋劃清界線。"
+    },
+    {
+      "word": "discernir",
+      "meaning_zh": "(v.) 辨別、區辨",
+      "example_es": "Hay que discernir entre lo accesorio y lo verdaderamente sustantivo del problema.",
+      "example_zh": "須區辨問題中次要部分與真正核心之內容。"
+    },
+    {
+      "word": "concitar",
+      "meaning_zh": "(v.) 引發、聚集",
+      "example_es": "La propuesta concitó un amplio apoyo entre los miembros del comité.",
+      "example_zh": "該提案在委員會成員間引發了廣泛支持。"
+    },
+    {
+      "word": "fraguar consenso",
+      "meaning_zh": "(v.) 形成共識、促成共識",
+      "example_es": "Costó meses fraguar un consenso aceptable para todas las partes implicadas.",
+      "example_zh": "歷時數月，方為各相關方促成可接受的共識。"
+    },
+    {
+      "word": "decantar",
+      "meaning_zh": "(v.) 沉澱、使澄清成型",
+      "example_es": "Con el tiempo, las ideas se decantan y adquieren una forma más nítida.",
+      "example_zh": "隨時間推移，思想逐漸沉澱，呈現更為清晰的樣貌。"
+    },
+    {
+      "word": "encarrilarse",
+      "meaning_zh": "(v.) 步入正軌",
+      "example_es": "Tras la crisis inicial, el proyecto se encarriló y alcanzó sus objetivos.",
+      "example_zh": "在最初的危機之後，該計畫步入正軌並達成目標。"
+    },
+    {
+      "word": "diseccionar",
+      "meaning_zh": "(v.) 剖析、細究",
+      "example_es": "El crítico diseccionó la novela hasta exponer sus mecanismos narrativos más sutiles.",
+      "example_zh": "評論者剖析該小說，揭示其最細膩的敘事機制。"
+    },
+    {
+      "word": "glosar texto",
+      "meaning_zh": "(v.) 評註文本、註解作品",
+      "example_es": "El profesor glosó el texto verso a verso ante un auditorio absorto.",
+      "example_zh": "教授在聚精會神的聽眾面前逐句評註該文本。"
+    },
+    {
+      "word": "esclarecer",
+      "meaning_zh": "(v.) 闡明、釐清",
+      "example_es": "La nueva edición esclarece pasajes que durante años habían suscitado controversia.",
+      "example_zh": "新版本闡明了多年來引發爭議的段落。"
+    },
+    {
+      "word": "verbalizar",
+      "meaning_zh": "(v.) 言語表達、語言化",
+      "example_es": "El terapeuta animó al paciente a que verbalizara emociones largamente reprimidas.",
+      "example_zh": "治療師鼓勵病患將長期壓抑的情緒以言語表達出來。"
+    },
+    {
+      "word": "racionalizar",
+      "meaning_zh": "(v.) 合理化、加以理性化",
+      "example_es": "El sujeto tendía a racionalizar sus fallos atribuyéndolos a causas externas.",
+      "example_zh": "該主體傾向將自身失敗歸因於外部因素，藉此加以合理化。"
+    },
+    {
+      "word": "redimensionar",
+      "meaning_zh": "(v.) 重新調整規模、重新評價",
+      "example_es": "La crítica ha redimensionado la importancia de autoras hasta hace poco soslayadas.",
+      "example_zh": "評論界重新評價了直至近期仍被忽視的女性作家之重要性。"
+    },
+    {
+      "word": "tematizar",
+      "meaning_zh": "(v.) 主題化、將…作為主題",
+      "example_es": "La narradora tematiza la memoria a lo largo de toda su producción literaria.",
+      "example_zh": "該女作家在其整個文學創作中皆以記憶為主題。"
+    },
+    {
+      "word": "problematizar",
+      "meaning_zh": "(v.) 問題化、加以質問",
+      "example_es": "El ensayo problematiza la noción tradicional de autor que la modernidad había canonizado.",
+      "example_zh": "該論文質問了現代性所確立的傳統作者概念。"
+    },
+    {
+      "word": "abordar críticamente",
+      "meaning_zh": "(v.) 批判性處理、批判性探討",
+      "example_es": "Conviene abordar críticamente las fuentes antes de incorporarlas al análisis.",
+      "example_zh": "宜先批判性地檢視史料，再將其納入分析。"
+    },
+    {
+      "word": "verter críticas",
+      "meaning_zh": "(v.) 提出批評、發表批評",
+      "example_es": "Los académicos vertieron críticas severas sobre la metodología empleada.",
+      "example_zh": "學者們對所採用的方法論提出嚴厲批評。"
+    },
+    {
+      "word": "trascender",
+      "meaning_zh": "(v.) 超越、超出",
+      "example_es": "La obra trasciende el contexto histórico que la vio nacer.",
+      "example_zh": "該作品超越了孕育它的歷史脈絡。"
+    },
+    {
+      "word": "matizar afirmaciones",
+      "meaning_zh": "(v.) 細化陳述、加以限定",
+      "example_es": "El autor matizó sus afirmaciones para que no se prestaran a malentendidos.",
+      "example_zh": "作者對其陳述加以細化，以免引發誤解。"
+    },
+    {
+      "word": "contextualizar críticamente",
+      "meaning_zh": "(v.) 批判性脈絡化",
+      "example_es": "Es necesario contextualizar críticamente las fuentes coloniales antes de citarlas.",
+      "example_zh": "在引用殖民時期史料之前，須先進行批判性的脈絡化。"
+    },
+    {
+      "word": "fundamentar",
+      "meaning_zh": "(v.) 奠基、提供依據",
+      "example_es": "El autor fundamentó sus tesis en una documentación de archivo exhaustivamente cotejada.",
+      "example_zh": "作者以詳盡比對的檔案資料為其論點奠定基礎。"
+    },
+    {
+      "word": "argüir",
+      "meaning_zh": "(v.) 辯稱、論證",
+      "example_es": "El abogado arguyó que las pruebas habían sido obtenidas de forma irregular.",
+      "example_zh": "律師辯稱證據係以不合規程的方式取得。"
+    },
+    {
+      "word": "desentrañar significados",
+      "meaning_zh": "(v.) 揭示意涵、剖析意義",
+      "example_es": "La hermenéutica busca desentrañar significados ocultos en los textos canónicos.",
+      "example_zh": "詮釋學旨在揭示經典文本中隱藏的意涵。"
+    },
+    {
+      "word": "esquematizar argumentos",
+      "meaning_zh": "(v.) 將論證圖式化",
+      "example_es": "Para que la conferencia fuera comprensible, el ponente esquematizó sus argumentos en una diapositiva.",
+      "example_zh": "為使演講易於理解，主講人將其論點以投影片圖式化呈現。"
+    },
+    {
+      "word": "modular el discurso",
+      "meaning_zh": "(v.) 調整話語語體",
+      "example_es": "El orador supo modular el discurso según las sensibilidades del auditorio.",
+      "example_zh": "演講者能依聽眾的觀感調整話語語體。"
+    },
+    {
+      "word": "pormenorizadamente",
+      "meaning_zh": "(adv.) 詳細地、鉅細靡遺地",
+      "example_es": "El informe analizaba pormenorizadamente cada uno de los apartados presupuestarios.",
+      "example_zh": "該報告鉅細靡遺地分析了每一項預算項目。"
+    },
+    {
+      "word": "subrayar relevancia",
+      "meaning_zh": "(v.) 強調重要性",
+      "example_es": "Conviene subrayar la relevancia que estas conclusiones tienen para futuras investigaciones.",
+      "example_zh": "宜強調這些結論對未來研究所具有的重要性。"
+    },
+    {
+      "word": "soliloquio",
+      "meaning_zh": "(n.m.) 獨白、自言自語",
+      "example_es": "El soliloquio de Hamlet sigue siendo uno de los pasajes más analizados de la dramaturgia universal.",
+      "example_zh": "哈姆雷特的獨白至今仍是世界戲劇中最常被分析的段落之一。"
+    },
+    {
+      "word": "verosimilitud",
+      "meaning_zh": "(n.f.) 逼真性、可信性",
+      "example_es": "La verosimilitud de la novela depende de que los personajes obren conforme a su carácter.",
+      "example_zh": "小說的逼真性取決於角色行為是否符合其性格。"
+    },
+    {
+      "word": "jurisprudencia",
+      "meaning_zh": "(f.) 判例法；法理學",
+      "example_es": "La jurisprudencia del Tribunal Supremo ha consolidado el criterio de que la prueba ilícita carece de validez procesal.",
+      "example_zh": "最高法院的判例已確立非法取得的證據不具訴訟效力的見解。"
+    },
+    {
+      "word": "doctrina jurídica",
+      "meaning_zh": "(f.) 法學學說",
+      "example_es": "La doctrina jurídica mayoritaria sostiene que el principio de proporcionalidad debe regir toda restricción de derechos fundamentales.",
+      "example_zh": "主流法學學說主張，比例原則應規範一切對基本權利的限制。"
+    },
+    {
+      "word": "sentencia firme",
+      "meaning_zh": "(f.) 確定判決",
+      "example_es": "Una vez dictada sentencia firme, las partes carecen de margen para reabrir el procedimiento mediante recursos ordinarios.",
+      "example_zh": "確定判決一旦下達，當事人即無法透過普通救濟程序重啟訴訟。"
+    },
+    {
+      "word": "recurso de casación",
+      "meaning_zh": "(m.) 廢棄上訴；最高法院上訴",
+      "example_es": "El letrado interpuso recurso de casación alegando infracción de ley en la valoración de la prueba documental.",
+      "example_zh": "律師以對書證評價違反法律為由提起廢棄上訴。"
+    },
+    {
+      "word": "prescripción",
+      "meaning_zh": "(f.) 時效消滅",
+      "example_es": "El delito ha quedado impune por prescripción al haber transcurrido más de quince años desde su comisión.",
+      "example_zh": "由於犯罪行為發生至今已超過十五年，該罪因時效消滅而未受追訴。"
+    },
+    {
+      "word": "usufructo",
+      "meaning_zh": "(m.) 用益權",
+      "example_es": "La testadora dejó la nuda propiedad a sus hijos y el usufructo vitalicio al cónyuge supérstite.",
+      "example_zh": "立遺囑人將虛有權留給子女，將終身用益權留給未亡配偶。"
+    },
+    {
+      "word": "fideicomiso",
+      "meaning_zh": "(m.) 信託",
+      "example_es": "El patrimonio familiar fue transferido a un fideicomiso irrevocable con fines de protección sucesoria.",
+      "example_zh": "家族資產為了繼承保護目的被轉入不可撤銷信託。"
+    },
+    {
+      "word": "comparecencia",
+      "meaning_zh": "(f.) 出庭",
+      "example_es": "La comparecencia del imputado se celebró sin la presencia de su abogado defensor por causas debidamente justificadas.",
+      "example_zh": "被告的出庭因正當事由在無辯護律師到場的情況下進行。"
+    },
+    {
+      "word": "requerimiento judicial",
+      "meaning_zh": "(m.) 司法傳喚／命令",
+      "example_es": "La administración recibió un requerimiento judicial para aportar la documentación relativa al expediente urbanístico.",
+      "example_zh": "該行政機關收到司法命令，須提出與都市計畫卷宗相關的文件。"
+    },
+    {
+      "word": "allanamiento",
+      "meaning_zh": "(m.) 認諾；非法侵入",
+      "example_es": "El demandado optó por el allanamiento parcial reconociendo la deuda principal pero impugnando los intereses.",
+      "example_zh": "被告選擇部分認諾，承認本金債務但對利息部分提出抗辯。"
+    },
+    {
+      "word": "recusación",
+      "meaning_zh": "(f.) 聲請迴避",
+      "example_es": "La defensa formalizó la recusación del magistrado por considerar acreditada su falta de imparcialidad.",
+      "example_zh": "辯護方正式聲請該法官迴避，認定其缺乏公正性已獲證實。"
+    },
+    {
+      "word": "contencioso-administrativo",
+      "meaning_zh": "(adj./m.) 行政訴訟的；行政訴訟",
+      "example_es": "El acto fue impugnado en sede contencioso-administrativa por vulnerar el principio de legalidad.",
+      "example_zh": "該行政行為因違反法律保留原則而在行政訴訟程序中遭受異議。"
+    },
+    {
+      "word": "auto judicial",
+      "meaning_zh": "(m.) 法院裁定書",
+      "example_es": "El auto judicial decretó el sobreseimiento provisional por insuficiencia de indicios incriminatorios.",
+      "example_zh": "該裁定書因不足以構成入罪事證而裁定暫時不起訴。"
+    },
+    {
+      "word": "diligencias previas",
+      "meaning_zh": "(f. pl.) 先行偵查程序",
+      "example_es": "Las diligencias previas se incoaron tras la denuncia presentada por presunto delito de prevaricación.",
+      "example_zh": "在針對被告涉嫌枉法判決提出告訴後，先行偵查程序隨即啟動。"
+    },
+    {
+      "word": "cosa juzgada",
+      "meaning_zh": "(f.) 既判力",
+      "example_es": "El tribunal desestimó la pretensión por entender que existía cosa juzgada material respecto del mismo objeto litigioso.",
+      "example_zh": "法院因認定就同一訴訟標的存在實質既判力而駁回該訴求。"
+    },
+    {
+      "word": "imputado",
+      "meaning_zh": "(m.) 被告（偵查階段）",
+      "example_es": "El imputado se acogió a su derecho a no declarar durante la fase de instrucción.",
+      "example_zh": "被告在偵查階段援用其保持緘默的權利。"
+    },
+    {
+      "word": "tipicidad",
+      "meaning_zh": "(f.) 構成要件該當性",
+      "example_es": "La sala apreció la concurrencia de tipicidad, antijuridicidad y culpabilidad en la conducta enjuiciada.",
+      "example_zh": "合議庭認定受審行為同時具備構成要件該當性、違法性與有責性。"
+    },
+    {
+      "word": "dolo eventual",
+      "meaning_zh": "(m.) 未必故意",
+      "example_es": "El tribunal calificó los hechos como homicidio con dolo eventual al constatarse la asunción consciente del riesgo.",
+      "example_zh": "法院認定行為人已明知並接受風險，將案件認定為未必故意的殺人罪。"
+    },
+    {
+      "word": "agravante",
+      "meaning_zh": "(f.) 加重事由",
+      "example_es": "La sentencia aplicó la agravante de abuso de superioridad en atención a la diferencia física entre las partes.",
+      "example_zh": "判決基於雙方體力差異適用了濫用優勢地位的加重事由。"
+    },
+    {
+      "word": "apalancamiento",
+      "meaning_zh": "(m.) 槓桿操作",
+      "example_es": "El elevado apalancamiento financiero de la entidad agravó su exposición ante el desplome bursátil.",
+      "example_zh": "該機構過高的財務槓桿加劇了其在股市崩盤中的曝險程度。"
+    },
+    {
+      "word": "liquidez",
+      "meaning_zh": "(f.) 流動性",
+      "example_es": "La banca central inyectó liquidez extraordinaria para evitar un colapso del mercado interbancario.",
+      "example_zh": "央行注入特別流動性以避免銀行同業市場崩潰。"
+    },
+    {
+      "word": "solvencia",
+      "meaning_zh": "(f.) 償債能力",
+      "example_es": "Las pruebas de resistencia confirmaron la solvencia de las principales entidades financieras europeas.",
+      "example_zh": "壓力測試證實了歐洲主要金融機構的償債能力。"
+    },
+    {
+      "word": "riesgo sistémico",
+      "meaning_zh": "(m.) 系統性風險",
+      "example_es": "El supervisor advirtió del riesgo sistémico derivado de la elevada interconexión entre intermediarios financieros.",
+      "example_zh": "監管機關警告金融中介機構之間高度相互關聯所衍生的系統性風險。"
+    },
+    {
+      "word": "déficit estructural",
+      "meaning_zh": "(m.) 結構性赤字",
+      "example_es": "El déficit estructural del Estado requiere reformas tributarias de calado y no meros ajustes coyunturales.",
+      "example_zh": "國家結構性赤字需要深度租稅改革，而非僅僅是短期調整。"
+    },
+    {
+      "word": "política monetaria",
+      "meaning_zh": "(f.) 貨幣政策",
+      "example_es": "La política monetaria restrictiva contuvo la espiral inflacionaria a costa de un menor crecimiento.",
+      "example_zh": "緊縮的貨幣政策抑制了通膨螺旋，但代價是經濟成長放緩。"
+    },
+    {
+      "word": "expansión cuantitativa",
+      "meaning_zh": "(f.) 量化寬鬆",
+      "example_es": "El programa de expansión cuantitativa supuso la compra masiva de deuda soberana en mercados secundarios.",
+      "example_zh": "量化寬鬆方案意味著在次級市場大規模收購主權債務。"
+    },
+    {
+      "word": "prima de riesgo soberana",
+      "meaning_zh": "(f.) 主權風險溢酬",
+      "example_es": "La prima de riesgo soberana se disparó tras la rebaja de la calificación crediticia del país.",
+      "example_zh": "主權風險溢酬在該國信用評等遭調降後飆升。"
+    },
+    {
+      "word": "permuta financiera",
+      "meaning_zh": "(f.) 金融交換交易（SWAP）",
+      "example_es": "La empresa suscribió una permuta financiera de tipos de interés para cubrirse frente a la volatilidad.",
+      "example_zh": "該公司簽訂了利率交換合約以對沖波動風險。"
+    },
+    {
+      "word": "fondo de cobertura",
+      "meaning_zh": "(m.) 避險基金",
+      "example_es": "Un fondo de cobertura adquirió una participación significativa con el propósito de forzar una reestructuración corporativa.",
+      "example_zh": "一家避險基金取得了大量股份，意圖迫使公司重整。"
+    },
+    {
+      "word": "titulización",
+      "meaning_zh": "(f.) 證券化",
+      "example_es": "La titulización de hipotecas de baja calidad estuvo en el origen de la crisis financiera global.",
+      "example_zh": "低品質房貸的證券化是全球金融危機的源頭之一。"
+    },
+    {
+      "word": "especulación bursátil",
+      "meaning_zh": "(f.) 證券市場投機",
+      "example_es": "Las autoridades han endurecido el control sobre la especulación bursátil mediante restricciones a las ventas en corto.",
+      "example_zh": "當局透過限制放空交易加強了對證券市場投機的管控。"
+    },
+    {
+      "word": "rescate financiero",
+      "meaning_zh": "(m.) 金融紓困",
+      "example_es": "El rescate financiero condicionó la asistencia a la adopción de severas medidas de austeridad fiscal.",
+      "example_zh": "金融紓困將援助條件設定為採取嚴厲的財政撙節措施。"
+    },
+    {
+      "word": "morosidad",
+      "meaning_zh": "(f.) 逾期放款率；拖欠率",
+      "example_es": "La morosidad bancaria repuntó tras la finalización de las moratorias hipotecarias pospandemia.",
+      "example_zh": "在疫情後的房貸暫緩措施結束後，銀行逾期放款率出現反彈。"
+    },
+    {
+      "word": "balance contable",
+      "meaning_zh": "(m.) 資產負債表；會計帳冊",
+      "example_es": "El balance contable refleja un significativo deterioro patrimonial en el último ejercicio fiscal.",
+      "example_zh": "資產負債表反映出最近一個會計年度資產顯著惡化。"
+    },
+    {
+      "word": "estado de flujos de efectivo",
+      "meaning_zh": "(m.) 現金流量表",
+      "example_es": "El estado de flujos de efectivo evidencia tensiones de tesorería pese a los beneficios contables declarados.",
+      "example_zh": "現金流量表顯示，儘管帳面有獲利，公司仍存在資金週轉壓力。"
+    },
+    {
+      "word": "auditoría externa",
+      "meaning_zh": "(f.) 外部審計",
+      "example_es": "La auditoría externa formuló salvedades significativas sobre la valoración de determinados activos intangibles.",
+      "example_zh": "外部審計就部分無形資產的評價提出了重大保留意見。"
+    },
+    {
+      "word": "evasión fiscal",
+      "meaning_zh": "(f.) 逃漏稅",
+      "example_es": "Los acuerdos internacionales contra la evasión fiscal han impulsado el intercambio automático de información tributaria.",
+      "example_zh": "打擊逃漏稅的國際協定推動了稅務資訊的自動交換。"
+    },
+    {
+      "word": "paraíso fiscal",
+      "meaning_zh": "(m.) 避稅天堂",
+      "example_es": "La canalización de beneficios hacia paraísos fiscales ha sido objeto de creciente escrutinio público.",
+      "example_zh": "將獲利移轉至避稅天堂的做法日益受到公眾檢視。"
+    },
+    {
+      "word": "armonización tributaria",
+      "meaning_zh": "(f.) 稅制協調",
+      "example_es": "La armonización tributaria en el ámbito europeo enfrenta resistencias de los Estados con regímenes fiscales más laxos.",
+      "example_zh": "歐洲層級的稅制協調遭到稅制較寬鬆國家的抵制。"
+    },
+    {
+      "word": "multilateralismo",
+      "meaning_zh": "(m.) 多邊主義",
+      "example_es": "La crisis de gobernanza global ha puesto en entredicho los fundamentos del multilateralismo de posguerra.",
+      "example_zh": "全球治理危機已使戰後多邊主義的根基受到質疑。"
+    },
+    {
+      "word": "geopolítica",
+      "meaning_zh": "(f.) 地緣政治",
+      "example_es": "La geopolítica energética redefine las alianzas estratégicas entre productores y consumidores de hidrocarburos.",
+      "example_zh": "能源地緣政治重新定義了油氣生產國與消費國之間的戰略聯盟。"
+    },
+    {
+      "word": "poder blando",
+      "meaning_zh": "(m.) 軟實力",
+      "example_es": "El poder blando se ejerce mediante la diplomacia cultural y la atracción de los valores nacionales.",
+      "example_zh": "軟實力是透過文化外交與國家價值的吸引力來行使的。"
+    },
+    {
+      "word": "no injerencia",
+      "meaning_zh": "(f.) 不干涉原則",
+      "example_es": "El gobierno reiteró su adhesión al principio de no injerencia en los asuntos internos de terceros Estados.",
+      "example_zh": "該政府重申其堅守不干涉他國內政的原則。"
+    },
+    {
+      "word": "contención estratégica",
+      "meaning_zh": "(f.) 戰略圍堵",
+      "example_es": "La doctrina de contención estratégica condicionó las relaciones internacionales durante toda la Guerra Fría.",
+      "example_zh": "戰略圍堵理論主導了整個冷戰時期的國際關係。"
+    },
+    {
+      "word": "hegemonía regional",
+      "meaning_zh": "(f.) 區域霸權",
+      "example_es": "La pugna por la hegemonía regional ha intensificado los despliegues militares en el Indo-Pacífico.",
+      "example_zh": "區域霸權之爭已加劇印太地區的軍事部署。"
+    },
+    {
+      "word": "esfera de influencia",
+      "meaning_zh": "(f.) 勢力範圍",
+      "example_es": "Las potencias emergentes reivindican una esfera de influencia acorde con su nuevo peso económico.",
+      "example_zh": "新興強權主張享有與其新經濟份量相稱的勢力範圍。"
+    },
+    {
+      "word": "declaración conjunta",
+      "meaning_zh": "(f.) 共同聲明",
+      "example_es": "Ambos mandatarios suscribieron una declaración conjunta de condena a las violaciones del derecho humanitario.",
+      "example_zh": "兩國領導人共同簽署聲明，譴責對人道法的違反行為。"
+    },
+    {
+      "word": "comunicado oficial",
+      "meaning_zh": "(m.) 官方公報",
+      "example_es": "El comunicado oficial del ministerio rechazó categóricamente las acusaciones vertidas por la cancillería extranjera.",
+      "example_zh": "該部官方公報斷然駁斥了外國外交部所作的指控。"
+    },
+    {
+      "word": "memorando de entendimiento",
+      "meaning_zh": "(m.) 諒解備忘錄",
+      "example_es": "Los dos gobiernos rubricaron un memorando de entendimiento sobre cooperación en materia de ciberseguridad.",
+      "example_zh": "兩國政府簽署了一份關於網路安全合作的諒解備忘錄。"
+    },
+    {
+      "word": "carrera armamentística",
+      "meaning_zh": "(f.) 軍備競賽",
+      "example_es": "La carrera armamentística en el ámbito hipersónico amenaza con desestabilizar el equilibrio estratégico vigente.",
+      "example_zh": "高超音速領域的軍備競賽有可能破壞現行的戰略平衡。"
+    },
+    {
+      "word": "disuasión nuclear",
+      "meaning_zh": "(f.) 核威懾",
+      "example_es": "La disuasión nuclear sigue siendo un pilar de la doctrina defensiva de las potencias atómicas declaradas.",
+      "example_zh": "核威懾仍是公開擁核強權國防學說的支柱。"
+    },
+    {
+      "word": "salvaguardia internacional",
+      "meaning_zh": "(f.) 國際保障措施",
+      "example_es": "El régimen de salvaguardia internacional pretende impedir la proliferación de materiales fisibles para usos militares.",
+      "example_zh": "國際保障措施機制旨在防止可裂變物質擴散至軍事用途。"
+    },
+    {
+      "word": "embargo comercial",
+      "meaning_zh": "(m.) 貿易禁運",
+      "example_es": "El embargo comercial impuesto al país generó una profunda contracción de su sector exportador.",
+      "example_zh": "對該國實施的貿易禁運導致其出口部門大幅萎縮。"
+    },
+    {
+      "word": "sanción secundaria",
+      "meaning_zh": "(f.) 次級制裁",
+      "example_es": "Las empresas europeas redujeron sus operaciones por temor a las sanciones secundarias impuestas por terceros países.",
+      "example_zh": "歐洲企業因擔憂第三國實施的次級制裁而縮減了業務。"
+    },
+    {
+      "word": "tratado bilateral",
+      "meaning_zh": "(m.) 雙邊條約",
+      "example_es": "El tratado bilateral de inversión incorpora cláusulas modernas de resolución de controversias entre inversor y Estado.",
+      "example_zh": "該雙邊投資條約納入了關於投資人與地主國爭端解決的新式條款。"
+    },
+    {
+      "word": "derecho consuetudinario internacional",
+      "meaning_zh": "(m.) 國際習慣法",
+      "example_es": "El principio de no devolución forma parte del derecho consuetudinario internacional vinculante para todos los Estados.",
+      "example_zh": "不遣返原則屬於對所有國家均具拘束力的國際習慣法。"
+    },
+    {
+      "word": "jurisdicción universal",
+      "meaning_zh": "(f.) 普遍管轄權",
+      "example_es": "La jurisdicción universal permite enjuiciar crímenes de lesa humanidad con independencia del lugar de su comisión.",
+      "example_zh": "普遍管轄權允許不論犯罪發生地，皆可審判反人道罪行。"
+    },
+    {
+      "word": "asilo diplomático",
+      "meaning_zh": "(m.) 外交庇護",
+      "example_es": "El asilo diplomático fue concedido en la sede consular con base en el riesgo cierto de persecución política.",
+      "example_zh": "基於明確的政治迫害風險，當事人於領事館內獲得外交庇護。"
+    },
+    {
+      "word": "rendición de cuentas",
+      "meaning_zh": "(f.) 課責",
+      "example_es": "El ejercicio de la rendición de cuentas exige mecanismos institucionales sólidos y acceso efectivo a la información pública.",
+      "example_zh": "課責的落實有賴堅實的制度機制與公眾對資訊的有效近用。"
+    },
+    {
+      "word": "transparencia gubernamental",
+      "meaning_zh": "(f.) 政府透明度",
+      "example_es": "La transparencia gubernamental se ha convertido en un indicador clave de la calidad democrática.",
+      "example_zh": "政府透明度已成為衡量民主品質的關鍵指標。"
+    },
+    {
+      "word": "responsabilidad pública",
+      "meaning_zh": "(f.) 公共責任",
+      "example_es": "La asunción de responsabilidad pública por parte del cargo dimisionario sentó un precedente institucional inédito.",
+      "example_zh": "辭職官員主動承擔公共責任，樹立了前所未見的制度先例。"
+    },
+    {
+      "word": "gobernanza",
+      "meaning_zh": "(f.) 治理；公共治理",
+      "example_es": "Una gobernanza eficaz requiere coordinación interinstitucional y participación efectiva de los actores sociales.",
+      "example_zh": "有效治理需要跨機關協調以及社會行為者的實質參與。"
+    },
+    {
+      "word": "gobierno abierto",
+      "meaning_zh": "(m.) 開放政府",
+      "example_es": "El paradigma del gobierno abierto promueve la apertura de datos públicos y la colaboración cívica.",
+      "example_zh": "開放政府的典範倡導公共資料的開放與公民協作。"
+    },
+    {
+      "word": "agenda pública",
+      "meaning_zh": "(f.) 公共議程",
+      "example_es": "Los movimientos sociales lograron incorporar la cuestión climática en el centro de la agenda pública.",
+      "example_zh": "社會運動成功將氣候議題納入公共議程的核心。"
+    },
+    {
+      "word": "sociedad civil organizada",
+      "meaning_zh": "(f.) 組織化公民社會",
+      "example_es": "La sociedad civil organizada actuó como contrapeso frente a las medidas restrictivas adoptadas por el ejecutivo.",
+      "example_zh": "組織化公民社會對行政部門所採取的限制性措施發揮了制衡作用。"
+    },
+    {
+      "word": "lobby parlamentario",
+      "meaning_zh": "(m.) 國會遊說",
+      "example_es": "El lobby parlamentario presionó para introducir enmiendas favorables al sector energético tradicional.",
+      "example_zh": "國會遊說團體施壓，意圖加入有利於傳統能源產業的修正條款。"
+    },
+    {
+      "word": "tecnocracia",
+      "meaning_zh": "(f.) 技術官僚體制",
+      "example_es": "La creciente tecnocracia en la toma de decisiones públicas suscita debates sobre el déficit democrático.",
+      "example_zh": "公共決策中日益增長的技術官僚化引發了關於民主赤字的辯論。"
+    },
+    {
+      "word": "populismo",
+      "meaning_zh": "(m.) 民粹主義",
+      "example_es": "El populismo contemporáneo se nutre del descontento ciudadano frente a las élites tradicionales.",
+      "example_zh": "當代民粹主義仰賴於民眾對傳統菁英階層的不滿。"
+    },
+    {
+      "word": "clientelismo político",
+      "meaning_zh": "(m.) 政治分贓主義",
+      "example_es": "El clientelismo político erosiona la imparcialidad de la administración y debilita la confianza institucional.",
+      "example_zh": "政治分贓主義腐蝕了行政的公正性並削弱制度信任。"
+    },
+    {
+      "word": "corrupción estructural",
+      "meaning_zh": "(f.) 結構性貪腐",
+      "example_es": "La corrupción estructural exige reformas integrales que trasciendan la mera persecución penal de casos aislados.",
+      "example_zh": "結構性貪腐需要超越單一案件刑事追訴的全面改革。"
+    },
+    {
+      "word": "captura del Estado",
+      "meaning_zh": "(f.) 國家俘獲",
+      "example_es": "La captura del Estado por intereses particulares compromete la formulación imparcial de políticas públicas.",
+      "example_zh": "特定利益對國家的俘獲，損害了公共政策制定的公正性。"
+    },
+    {
+      "word": "evaluación de impacto regulatorio",
+      "meaning_zh": "(f.) 法規影響評估",
+      "example_es": "Toda nueva norma de calado deberá someterse a una evaluación de impacto regulatorio previa a su aprobación.",
+      "example_zh": "任何重大新法規在核准前皆須先進行法規影響評估。"
+    },
+    {
+      "word": "consulta pública",
+      "meaning_zh": "(f.) 公眾諮詢",
+      "example_es": "El anteproyecto fue sometido a consulta pública para recabar aportaciones de los sectores afectados.",
+      "example_zh": "該法律草案經公眾諮詢程序，以蒐集受影響各方的意見。"
+    },
+    {
+      "word": "presupuesto participativo",
+      "meaning_zh": "(m.) 參與式預算",
+      "example_es": "El presupuesto participativo permite a la ciudadanía decidir directamente sobre una fracción del gasto municipal.",
+      "example_zh": "參與式預算讓市民得以直接決定市府支出的一部分。"
+    },
+    {
+      "word": "descentralización administrativa",
+      "meaning_zh": "(f.) 行政分權",
+      "example_es": "La descentralización administrativa transfirió competencias sustanciales a las entidades subnacionales.",
+      "example_zh": "行政分權將實質權限移轉給地方政府。"
+    },
+    {
+      "word": "metodología cuantitativa",
+      "meaning_zh": "(f.) 量化研究方法",
+      "example_es": "La metodología cuantitativa permite contrastar hipótesis mediante el tratamiento estadístico de grandes muestras.",
+      "example_zh": "量化研究方法可透過大樣本的統計處理來檢驗假設。"
+    },
+    {
+      "word": "metodología cualitativa",
+      "meaning_zh": "(f.) 質性研究方法",
+      "example_es": "La metodología cualitativa se centra en la comprensión profunda de fenómenos a partir de relatos y observaciones.",
+      "example_zh": "質性研究方法著重於透過敘事與觀察深入理解現象。"
+    },
+    {
+      "word": "cohorte",
+      "meaning_zh": "(f.) 世代；隊列",
+      "example_es": "La cohorte analizada presentó una incidencia notablemente superior de patologías cardiovasculares.",
+      "example_zh": "受分析世代呈現出明顯較高的心血管疾病發生率。"
+    },
+    {
+      "word": "intervalo de confianza",
+      "meaning_zh": "(m.) 信賴區間",
+      "example_es": "El intervalo de confianza del noventa y cinco por ciento incluyó el valor nulo, por lo que el efecto no resultó significativo.",
+      "example_zh": "百分之九十五信賴區間涵蓋虛無值，因此效應未達顯著。"
+    },
+    {
+      "word": "error sistemático",
+      "meaning_zh": "(m.) 系統性偏差",
+      "example_es": "El protocolo identificó un error sistemático en la calibración del instrumento de medición.",
+      "example_zh": "研究流程發現測量儀器校準存在系統性偏差。"
+    },
+    {
+      "word": "regresión múltiple",
+      "meaning_zh": "(f.) 多元迴歸",
+      "example_es": "El modelo de regresión múltiple controló por edad, sexo, nivel educativo y comorbilidades preexistentes.",
+      "example_zh": "多元迴歸模型已就年齡、性別、教育程度與既存共病加以控制。"
+    },
+    {
+      "word": "análisis factorial",
+      "meaning_zh": "(m.) 因素分析",
+      "example_es": "El análisis factorial confirmatorio validó la estructura tridimensional del instrumento psicométrico.",
+      "example_zh": "驗證性因素分析驗證了該心理計量工具的三維結構。"
+    },
+    {
+      "word": "sesgo de publicación",
+      "meaning_zh": "(m.) 發表偏誤",
+      "example_es": "El sesgo de publicación distorsiona la evidencia acumulada al favorecer la difusión de resultados positivos.",
+      "example_zh": "發表偏誤偏好正向結果的散布，因而扭曲了累積的證據。"
+    },
+    {
+      "word": "reproducibilidad científica",
+      "meaning_zh": "(f.) 科學可重現性",
+      "example_es": "La crisis de reproducibilidad científica ha obligado a revisar las prácticas estadísticas y de publicación.",
+      "example_zh": "科學可重現性危機迫使學界重新檢視統計與發表慣例。"
+    },
+    {
+      "word": "preimpresión",
+      "meaning_zh": "(f.) 預印本",
+      "example_es": "La preimpresión circuló ampliamente antes de superar el filtro editorial de la revista científica.",
+      "example_zh": "該預印本在通過期刊編輯審查之前即已廣為流傳。"
+    },
+    {
+      "word": "diagnóstico diferencial",
+      "meaning_zh": "(m.) 鑑別診斷",
+      "example_es": "El diagnóstico diferencial obliga a descartar otras patologías compatibles con el cuadro clínico observado.",
+      "example_zh": "鑑別診斷要求排除其他與臨床表現相符的疾病。"
+    },
+    {
+      "word": "comorbilidad",
+      "meaning_zh": "(f.) 共病",
+      "example_es": "La comorbilidad entre depresión y enfermedad cardiovascular agrava el pronóstico vital del paciente.",
+      "example_zh": "憂鬱症與心血管疾病的共病現象惡化了病人的生命預後。"
+    },
+    {
+      "word": "etiología",
+      "meaning_zh": "(f.) 病因學",
+      "example_es": "La etiología del trastorno permanece parcialmente desconocida pese a los avances en neuroimagen.",
+      "example_zh": "儘管神經影像學有所進展，該疾患的病因學仍部分未明。"
+    },
+    {
+      "word": "pronóstico reservado",
+      "meaning_zh": "(m.) 預後保留（病情堪慮）",
+      "example_es": "El facultativo emitió un pronóstico reservado debido a la afectación multiorgánica del paciente.",
+      "example_zh": "由於患者多重器官受損，主治醫師發布病情堪慮的醫療公告。"
+    },
+    {
+      "word": "anamnesis",
+      "meaning_zh": "(f.) 病史詢問",
+      "example_es": "Una anamnesis minuciosa orientó al clínico hacia el origen ocupacional de la patología respiratoria.",
+      "example_zh": "詳盡的病史詢問引導臨床醫師查明該呼吸系統疾病源自職業因素。"
+    },
+    {
+      "word": "sintomatología",
+      "meaning_zh": "(f.) 症狀學",
+      "example_es": "La sintomatología inespecífica del cuadro retrasó significativamente la identificación del agente patógeno.",
+      "example_zh": "該病症狀缺乏特異性，使病原體的辨識顯著延後。"
+    },
+    {
+      "word": "profilaxis",
+      "meaning_zh": "(f.) 預防（醫學）",
+      "example_es": "Se recomendó profilaxis antibiótica preoperatoria conforme a los protocolos hospitalarios vigentes.",
+      "example_zh": "依現行醫院規範，建議於術前實施抗生素預防性投藥。"
+    },
+    {
+      "word": "contraindicación",
+      "meaning_zh": "(f.) 禁忌症",
+      "example_es": "La insuficiencia renal grave constituye una contraindicación absoluta para la administración del fármaco.",
+      "example_zh": "嚴重腎功能不全為投與該藥物的絕對禁忌症。"
+    },
+    {
+      "word": "posología",
+      "meaning_zh": "(f.) 給藥劑量學",
+      "example_es": "La posología se ajustará en función del peso corporal y del aclaramiento de creatinina del paciente.",
+      "example_zh": "給藥劑量將依患者體重與肌酸酐清除率進行調整。"
+    },
+    {
+      "word": "farmacovigilancia",
+      "meaning_zh": "(f.) 藥物安全監視",
+      "example_es": "La farmacovigilancia detectó reacciones adversas hepáticas no descritas en los ensayos clínicos previos.",
+      "example_zh": "藥物安全監視發現了先前臨床試驗未曾描述的肝臟不良反應。"
+    },
+    {
+      "word": "ensayo clínico aleatorizado",
+      "meaning_zh": "(m.) 隨機對照臨床試驗",
+      "example_es": "El ensayo clínico aleatorizado doble ciego demostró la superioridad del nuevo tratamiento frente al estándar.",
+      "example_zh": "該雙盲隨機對照臨床試驗證實新療法優於現行標準療法。"
+    },
+    {
+      "word": "grupo placebo controlado",
+      "meaning_zh": "(m.) 安慰劑對照組",
+      "example_es": "El diseño del estudio incluyó un grupo placebo controlado para minimizar el sesgo del observador.",
+      "example_zh": "研究設計納入安慰劑對照組以將觀察者偏誤降至最低。"
+    },
+    {
+      "word": "incidencia epidemiológica",
+      "meaning_zh": "(f.) 流行病學發生率",
+      "example_es": "La incidencia epidemiológica de la enfermedad se ha duplicado en la última década en zonas urbanas.",
+      "example_zh": "過去十年來，該疾病在都市地區的流行病學發生率已倍增。"
+    },
+    {
+      "word": "umbral epidémico",
+      "meaning_zh": "(m.) 流行門檻",
+      "example_es": "La autoridad sanitaria declaró el umbral epidémico tras detectarse un incremento sostenido de casos confirmados.",
+      "example_zh": "在確診病例持續上升後，衛生主管機關宣告達到流行門檻。"
+    },
+    {
+      "word": "secuela neurológica",
+      "meaning_zh": "(f.) 神經系統後遺症",
+      "example_es": "El paciente presentó una secuela neurológica persistente pese al tratamiento rehabilitador intensivo.",
+      "example_zh": "儘管接受密集復健治療，該患者仍出現持續性的神經系統後遺症。"
+    },
+    {
+      "word": "fusión por absorción",
+      "meaning_zh": "(f.) 吸收合併",
+      "example_es": "La fusión por absorción supuso la extinción de la sociedad absorbida y la transmisión universal de su patrimonio.",
+      "example_zh": "吸收合併導致被合併公司消滅，其財產概括移轉於存續公司。"
+    },
+    {
+      "word": "escisión empresarial",
+      "meaning_zh": "(f.) 公司分割",
+      "example_es": "La escisión empresarial separó la división tecnológica del resto del grupo industrial.",
+      "example_zh": "該公司分割將科技部門與其他工業集團業務切分開來。"
+    },
+    {
+      "word": "reestructuración financiera",
+      "meaning_zh": "(f.) 財務重整",
+      "example_es": "La reestructuración financiera contempló una quita parcial y la conversión de deuda en capital.",
+      "example_zh": "財務重整方案包含部分債務免除以及以債轉股的安排。"
+    },
+    {
+      "word": "debida diligencia",
+      "meaning_zh": "(f.) 盡職調查",
+      "example_es": "La debida diligencia previa a la operación reveló pasivos contingentes de magnitud considerable.",
+      "example_zh": "交易前的盡職調查揭露了規模可觀的或有負債。"
+    },
+    {
+      "word": "oferta pública de adquisición",
+      "meaning_zh": "(f.) 公開收購",
+      "example_es": "La oferta pública de adquisición hostil fue rechazada por el consejo de administración de la sociedad cotizada.",
+      "example_zh": "該敵意公開收購遭上市公司董事會否決。"
+    },
+    {
+      "word": "blindaje accionarial",
+      "meaning_zh": "(m.) 反收購條款；股權防衛",
+      "example_es": "Las cláusulas de blindaje accionarial dificultan los intentos de cambio de control no consentidos por la dirección.",
+      "example_zh": "股權防衛條款使未經管理階層同意的經營權變動嘗試更為困難。"
+    },
+    {
+      "word": "gobierno corporativo",
+      "meaning_zh": "(m.) 公司治理",
+      "example_es": "Las recomendaciones de buen gobierno corporativo refuerzan la independencia de los consejeros externos.",
+      "example_zh": "良好公司治理的建議強化了外部董事的獨立性。"
+    },
+    {
+      "word": "comité de auditoría",
+      "meaning_zh": "(m.) 審計委員會",
+      "example_es": "El comité de auditoría supervisa la integridad de la información financiera y la efectividad del control interno.",
+      "example_zh": "審計委員會負責監督財務資訊的完整性與內部控制的有效性。"
+    },
+    {
+      "word": "junta general extraordinaria",
+      "meaning_zh": "(f.) 股東臨時會",
+      "example_es": "La junta general extraordinaria fue convocada para deliberar sobre la ampliación de capital propuesta.",
+      "example_zh": "為審議所提之增資案，公司召開股東臨時會。"
+    },
+    {
+      "word": "pacto de socios",
+      "meaning_zh": "(m.) 股東協議",
+      "example_es": "El pacto de socios regulaba los derechos de arrastre y de acompañamiento ante una eventual venta.",
+      "example_zh": "股東協議就未來可能發生的出售行為，明定共售權與隨售權。"
+    },
+    {
+      "word": "cláusula de no competencia",
+      "meaning_zh": "(f.) 競業禁止條款",
+      "example_es": "La cláusula de no competencia se reputó nula por imponer restricciones desproporcionadas al directivo cesado.",
+      "example_zh": "該競業禁止條款因對離職主管施加不相稱限制而被認定無效。"
+    },
+    {
+      "word": "indemnización por cese",
+      "meaning_zh": "(f.) 離職補償金",
+      "example_es": "La indemnización por cese se calculó conforme a los parámetros pactados en el contrato de alta dirección.",
+      "example_zh": "離職補償金依高階管理人員契約所約定的標準計算。"
+    },
+    {
+      "word": "responsabilidad concursal",
+      "meaning_zh": "(f.) 破產責任",
+      "example_es": "Los administradores podrían incurrir en responsabilidad concursal si se acreditase la calificación culpable del concurso.",
+      "example_zh": "若破產被認定屬有過失，公司管理人可能須承擔破產責任。"
+    },
+    {
+      "word": "concurso de acreedores",
+      "meaning_zh": "(m.) 債權人破產程序",
+      "example_es": "La empresa solicitó el concurso de acreedores ante la imposibilidad manifiesta de atender sus obligaciones corrientes.",
+      "example_zh": "公司因明顯無力履行其經常性債務而聲請債權人破產程序。"
+    },
+    {
+      "word": "expediente administrativo",
+      "meaning_zh": "(m.) 行政卷宗",
+      "example_es": "El expediente administrativo reflejaba defectos formales que vulneraban el derecho de defensa del interesado.",
+      "example_zh": "該行政卷宗存在程序瑕疵，侵害了當事人之答辯權。"
+    },
+    {
+      "word": "instancia oficial",
+      "meaning_zh": "(f.) 官方申請書",
+      "example_es": "El recurrente presentó la oportuna instancia oficial dentro del plazo legalmente establecido.",
+      "example_zh": "申請人於法定期限內提出了適當的官方申請書。"
+    },
+    {
+      "word": "requerimiento previo",
+      "meaning_zh": "(m.) 事前催告",
+      "example_es": "El requerimiento previo a la vía judicial es trámite preceptivo en este tipo de procedimientos.",
+      "example_zh": "進入司法途徑前的事前催告係該類程序中必經的步驟。"
+    },
+    {
+      "word": "recurso de alzada",
+      "meaning_zh": "(m.) 訴願；行政申訴",
+      "example_es": "El recurso de alzada se dirige al superior jerárquico del órgano que dictó el acto impugnado.",
+      "example_zh": "訴願係向作成受爭議行政行為機關之上級機關提起。"
+    },
+    {
+      "word": "silencio administrativo positivo",
+      "meaning_zh": "(m.) 行政默示同意",
+      "example_es": "Transcurrido el plazo sin resolución expresa, opera el silencio administrativo positivo a favor del solicitante.",
+      "example_zh": "期限屆滿仍無明示裁決時，即發生對申請人有利之行政默示同意。"
+    },
+    {
+      "word": "vía gubernativa",
+      "meaning_zh": "(f.) 行政救濟途徑",
+      "example_es": "Es preceptivo agotar la vía gubernativa antes de acudir a la jurisdicción contencioso-administrativa.",
+      "example_zh": "在訴諸行政訴訟前，須先用盡行政救濟途徑。"
+    },
+    {
+      "word": "contratación pública",
+      "meaning_zh": "(f.) 公共採購",
+      "example_es": "La normativa de contratación pública persigue garantizar la concurrencia, la transparencia y la igualdad de trato.",
+      "example_zh": "公共採購法規旨在確保競爭、透明與平等對待。"
+    },
+    {
+      "word": "licitación abierta",
+      "meaning_zh": "(f.) 公開招標",
+      "example_es": "La licitación abierta permite la concurrencia de cualquier operador económico que cumpla los requisitos exigidos.",
+      "example_zh": "公開招標允許任何符合所要求條件的經濟主體參與競標。"
+    },
+    {
+      "word": "adjudicación directa",
+      "meaning_zh": "(f.) 直接決標；不經招標之發包",
+      "example_es": "La adjudicación directa solo procede en supuestos excepcionales tasados por la ley.",
+      "example_zh": "直接決標僅在法律所明定的例外情形下方得進行。"
+    },
+    {
+      "word": "mesa de contratación",
+      "meaning_zh": "(f.) 評選委員會（公共採購）",
+      "example_es": "La mesa de contratación valoró las ofertas con arreglo a los criterios objetivos previamente publicados.",
+      "example_zh": "評選委員會依事前公布之客觀標準評估各項投標方案。"
+    },
+    {
+      "word": "pliego de condiciones",
+      "meaning_zh": "(m.) 招標規範書",
+      "example_es": "El pliego de condiciones detallaba las prescripciones técnicas y los criterios de adjudicación aplicables.",
+      "example_zh": "招標規範書詳細列出適用之技術規範與決標標準。"
+    },
+    {
+      "word": "fiscalización presupuestaria",
+      "meaning_zh": "(f.) 預算審計",
+      "example_es": "La fiscalización presupuestaria por el órgano de control evidenció irregularidades reiteradas en la ejecución del gasto.",
+      "example_zh": "監督機關進行的預算審計揭露支出執行上反覆發生的違規情事。"
+    },
+    {
+      "word": "intervención general",
+      "meaning_zh": "(f.) 國家審計總局；總審計機關",
+      "example_es": "La intervención general formuló reparos suspensivos a la tramitación del expediente de gasto.",
+      "example_zh": "國家審計總局對該筆支出案件的辦理提出停止性異議。"
+    },
+    {
+      "word": "potestad sancionadora",
+      "meaning_zh": "(f.) 行政裁罰權",
+      "example_es": "La potestad sancionadora de la administración debe ejercerse con respeto a los principios de legalidad y tipicidad.",
+      "example_zh": "行政機關之裁罰權必須依法律保留與構成要件明確性原則行使。"
+    },
+    {
+      "word": "huella de carbono ampliada",
+      "meaning_zh": "(f.) 廣義碳足跡（含範疇三）",
+      "example_es": "El informe corporativo incorpora la huella de carbono ampliada que abarca también las emisiones de la cadena de valor.",
+      "example_zh": "該企業報告納入涵蓋價值鏈排放的廣義碳足跡。"
+    },
+    {
+      "word": "mercado de derechos de emisión",
+      "meaning_zh": "(m.) 排放權交易市場",
+      "example_es": "El mercado de derechos de emisión asigna un precio a la tonelada de dióxido de carbono liberada a la atmósfera.",
+      "example_zh": "排放權交易市場為釋放到大氣中的每公噸二氧化碳訂定價格。"
     }
   ],
   "dc2": [
