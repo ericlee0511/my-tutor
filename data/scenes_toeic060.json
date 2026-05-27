@@ -176,6 +176,46 @@
     {
       "en": "Both parties acknowledge this agreement supersedes prior service level commitments in writing.",
       "zh": "雙方確認本協議優先於先前以書面訂立的服務水準承諾。"
+    },
+    {
+      "en": "Honestly, the engineer who paged me at 3 AM last weekend still apologized when we finally went back to bed at 5.",
+      "zh": "說真的，上週末凌晨三點 call 我的那位工程師，我們五點重新睡下時他還在跟我道歉。"
+    },
+    {
+      "en": "Our on-call lead keeps a thermos of strong coffee ready every Sunday evening just in case.",
+      "zh": "我們的待命主管每週日傍晚都會泡一壺濃咖啡備著，以防萬一。"
+    },
+    {
+      "en": "A customer once thanked us for a midnight call because his team had been bracing for far worse news.",
+      "zh": "曾有客戶在午夜接到我們的通話時致謝，因為他團隊原本以為會聽到更糟的消息。"
+    },
+    {
+      "en": "I personally find that admitting an outage early earns more trust than crafting the perfect status page later.",
+      "zh": "我個人發現，及早承認故障比之後再精心撰寫狀態頁面更能贏得信任。"
+    },
+    {
+      "en": "Last summer's heatwave actually triggered a cooling failover that the SLA team had rehearsed only on paper.",
+      "zh": "去年夏天的熱浪意外觸發了一次冷卻容錯切換，那是 SLA 團隊先前只在紙上演練過的情境。"
+    },
+    {
+      "en": "My favorite postmortem from this year included a hand-drawn diagram that everyone in the room actually understood.",
+      "zh": "今年我最喜歡的事件檢討報告，附上了一張會議室裡每個人都看得懂的手繪圖。"
+    },
+    {
+      "en": "Honestly, the smaller customers often ask the sharpest questions during quarterly business reviews.",
+      "zh": "說真的，季度業務檢討時，最尖銳的問題常常來自規模較小的客戶。"
+    },
+    {
+      "en": "We send a thank-you card to customers who patiently work with us through major incidents each year.",
+      "zh": "對於每年陪我們耐心度過重大事件的客戶，我們會寄一張感謝卡。"
+    },
+    {
+      "en": "Looking back, the toughest outage of the year also taught the team the most about real partnership.",
+      "zh": "回頭看，這一年最嚴重的一次故障，也是團隊學到「真正合作關係」最多的一次。"
+    },
+    {
+      "en": "Tonight I plan to leave my laptop closed during dinner; the pager rotation is finally not mine this week.",
+      "zh": "今晚我打算吃飯時把筆電蓋上，這週的待命終於不是我了。"
     }
   ]
 }
