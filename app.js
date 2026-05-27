@@ -679,9 +679,12 @@ function renderHeatmap() {
   const todayK = todayKey();
   // First row = current week (Sunday → today), future days blank.
   // Subsequent rows = older weeks. Show ~13 weeks back (≈ 91 days).
+  const earliest = new Date(today);
+  earliest.setDate(today.getDate() - 29);
+  const earliestK = dateKey(earliest);
   const currentSunday = new Date(today);
   currentSunday.setDate(today.getDate() - today.getDay());
-  const weeks = 13;
+  const weeks = 5;
   const rows = [];
   for (let w = 0; w < weeks; w++) {
     const weekStart = new Date(currentSunday);
@@ -689,10 +692,10 @@ function renderHeatmap() {
     for (let d = 0; d < 7; d++) {
       const day = new Date(weekStart);
       day.setDate(weekStart.getDate() + d);
-      if (day > today) {
+      const key = dateKey(day);
+      if (day > today || key < earliestK) {
         rows.push(`<div class="hm-cell hm-empty"></div>`);
       } else {
-        const key = dateKey(day);
         const cnt = hist[key] || 0;
         const tier = heatmapTier(cnt);
         const isToday = key === todayK ? " hm-today" : "";
@@ -702,7 +705,7 @@ function renderHeatmap() {
   }
   const dayHeader = ["日","一","二","三","四","五","六"]
     .map(d => `<div class="hm-dow">${d}</div>`).join("");
-  const intro = `<div class="hm-intro">最近 90 天，每格代表一天，顏色越深表示那天翻越多張卡。<br>今天用粗框標示。</div>`;
+  const intro = `<div class="hm-intro">最近 30 天學習記錄，顏色越深表示那天翻越多張卡。</div>`;
   const legend =
     `<div class="hm-legend">` +
       `<span>少</span>` +
@@ -722,7 +725,7 @@ function renderHeatmap() {
   const { n, active } = effectiveStreak();
   if (summary) {
     summary.innerHTML =
-      `連續打卡 <strong>${n}</strong> 天 ${active ? "（今日已完成）" : "（今日尚未打卡）"}<br>` +
+      `連續打卡 <strong>${n}</strong> 天 ${active ? "(今日已完成)" : "(今日尚未打卡)"}<br>` +
       `累計學習 <strong>${totalDays}</strong> 天，共翻牌 <strong>${totalCards}</strong> 張`;
   }
 }
