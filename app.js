@@ -738,6 +738,111 @@ function lookupSceneLang() {
   return "ja";
 }
 
+// ===== Korean conjugation generator (heuristic, regular conjugation patterns) =====
+// Vowel/batchim indices in Hangul syllable composition (lead*588 + vowel*28 + tail + 0xAC00).
+const KO_BATCHIM_B = 17;  // ㅂ
+const KO_BATCHIM_SS = 20; // ㅆ
+const KO_VOWEL_A = 0;     // ㅏ
+const KO_VOWEL_EO = 4;    // ㅓ
+const KO_VOWEL_YEO = 6;   // ㅕ
+const KO_VOWEL_O = 8;     // ㅗ
+const KO_VOWEL_WA = 9;    // ㅘ
+const KO_VOWEL_U = 13;    // ㅜ
+const KO_VOWEL_WO = 14;   // ㅝ
+const KO_VOWEL_I = 20;    // ㅣ
+
+function koDecompose(ch) {
+  const code = ch.charCodeAt(0);
+  if (code < 0xAC00 || code > 0xD7A3) return null;
+  const syl = code - 0xAC00;
+  return { lead: Math.floor(syl / 588), vowel: Math.floor((syl % 588) / 28), tail: syl % 28 };
+}
+function koCompose(lead, vowel, tail) {
+  return String.fromCharCode(0xAC00 + lead * 588 + vowel * 28 + tail);
+}
+function koAddBatchim(syl, b) {
+  const d = koDecompose(syl);
+  if (!d || d.tail !== 0) return null;
+  return koCompose(d.lead, d.vowel, b);
+}
+function koChangeVowel(syl, v) {
+  const d = koDecompose(syl);
+  if (!d || d.tail !== 0) return null;
+  return koCompose(d.lead, v, d.tail);
+}
+
+// Given dictionary verb/adjective stem (form minus trailing 다), enumerate common
+// surface forms found in actual sentences. Covers regular conjugation + 하 contraction
+// + ㅗ→ㅘ / ㅜ→ㅝ / ㅣ→ㅕ vowel coalescence. Does NOT cover ㄷ→ㄹ / 으-drop / 르
+// irregulars, ㅂ→우 etc. — those still match only as dictionary form.
+function generateKoVerbForms(stem) {
+  const out = new Set();
+  if (!stem) return out;
+  out.add(stem + "다");
+  // Suffixes that attach without a linking vowel for ALL stems:
+  ["고", "지만", "게", "기", "다가"].forEach(s => out.add(stem + s));
+
+  const lastChar = stem.slice(-1);
+  const rest = stem.slice(0, -1);
+
+  // 하 family: 하 + 여 → 해, 하 + ㅂ니다 → 합니다
+  if (lastChar === "하") {
+    ["해", "해요", "해서", "해도", "했어", "했어요", "했다"].forEach(s => out.add(rest + s));
+    // 면/며/면서 attaches directly (vowel-ending stem)
+    ["면", "며", "면서"].forEach(s => out.add(stem + s));
+    const hap = koAddBatchim("하", KO_BATCHIM_B);
+    if (hap) { out.add(rest + hap + "니다"); out.add(rest + hap + "니까"); }
+    return out;
+  }
+
+  const d = koDecompose(lastChar);
+  if (!d) return out;
+
+  if (d.tail !== 0) {
+    // Consonant-ending stem: needs linking vowel 으 before -면/-며/-니까/-세요/-신
+    const yang = d.vowel === KO_VOWEL_A || d.vowel === KO_VOWEL_O;
+    const baseV = yang ? "아" : "어";
+    const pastV = yang ? "았" : "었";
+    [baseV, baseV + "요", baseV + "서", baseV + "도", baseV + "야"].forEach(s => out.add(stem + s));
+    [pastV, pastV + "다", pastV + "어", pastV + "어요"].forEach(s => out.add(stem + s));
+    ["으면", "으며", "으면서", "으니까", "으세요", "으셨어요"].forEach(s => out.add(stem + s));
+    ["습니다", "습니까"].forEach(s => out.add(stem + s));
+    return out;
+  }
+
+  // Vowel-ending stem: 면/며/면서/니까/세요 attach directly
+  ["면", "며", "면서", "니까"].forEach(s => out.add(stem + s));
+  const bSyl = koAddBatchim(lastChar, KO_BATCHIM_B);
+  if (bSyl) { out.add(rest + bSyl + "니다"); out.add(rest + bSyl + "니까"); }
+  out.add(stem + "세요");
+
+  const addContractedPlus = (newVowel) => {
+    const v = koChangeVowel(lastChar, newVowel);
+    if (!v) return;
+    out.add(rest + v);
+    out.add(rest + v + "요");
+    out.add(rest + v + "서");
+    const vSs = koAddBatchim(v, KO_BATCHIM_SS);
+    if (vSs) { out.add(rest + vSs + "다"); out.add(rest + vSs + "어요"); out.add(rest + vSs + "어"); }
+  };
+
+  if (d.vowel === KO_VOWEL_A || d.vowel === KO_VOWEL_EO) {
+    // ㅏ / ㅓ + 어 → ㅏ / ㅓ (no change); past = stem + ㅆ batchim
+    out.add(stem + "요"); out.add(stem + "서"); out.add(stem + "도");
+    const ss = koAddBatchim(lastChar, KO_BATCHIM_SS);
+    if (ss) { out.add(rest + ss + "다"); out.add(rest + ss + "어요"); out.add(rest + ss + "어"); }
+  } else if (d.vowel === KO_VOWEL_O) {
+    addContractedPlus(KO_VOWEL_WA); // 오/보 → 와/봐
+  } else if (d.vowel === KO_VOWEL_U) {
+    addContractedPlus(KO_VOWEL_WO); // 주/배우 → 줘/배워
+  } else if (d.vowel === KO_VOWEL_I) {
+    addContractedPlus(KO_VOWEL_YEO); // 마시/가르치 → 마셔/가르쳐
+  } else {
+    out.add(stem + "요"); out.add(stem + "서");
+  }
+  return out;
+}
+
 function buildLookupIndex() {
   if (lookup.built) return;
   const collect = (poolByLevel, getSurface) => {
@@ -756,7 +861,29 @@ function buildLookupIndex() {
     return idx;
   };
   lookup.index.ja       = collect(DATA.vocab,       it => it && it.kanji);
-  lookup.index.ko       = collect(DATA.vocab_ko,    it => it && it.word);
+  // Korean: also register heuristic conjugated forms for verb/adjective entries
+  // ending in 다, so 가요 / 먹었어요 / 공부합니다 etc. map back to dict entry.
+  const koMap = new Map();
+  if (DATA.vocab_ko) {
+    Object.values(DATA.vocab_ko).forEach(arr => {
+      if (!Array.isArray(arr)) return;
+      arr.forEach(item => {
+        const word = item && item.word;
+        if (!word) return;
+        const addKey = k => {
+          const list = koMap.get(k);
+          if (list) { if (!list.includes(item)) list.push(item); }
+          else koMap.set(k, [item]);
+        };
+        addKey(word);
+        if (word.length >= 2 && word.endsWith("다")) {
+          const stem = word.slice(0, -1);
+          if (stem) generateKoVerbForms(stem).forEach(addKey);
+        }
+      });
+    });
+  }
+  lookup.index.ko = koMap;
   lookup.index.en_toeic = collect(DATA.vocab_toeic, it => it && it.word ? it.word.toLowerCase() : "");
   lookup.index.en_gept  = collect(DATA.vocab_gept,  it => it && it.word ? it.word.toLowerCase() : "");
   lookup.index.es       = collect(DATA.vocab_dele,  it => it && it.word ? it.word.toLowerCase() : "");
