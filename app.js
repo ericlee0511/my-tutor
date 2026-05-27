@@ -649,11 +649,13 @@ function effectiveStreak() {
 
 function updateStreakUI() {
   const fire = document.getElementById("streak-fire");
+  const num = document.getElementById("streak-num");
   const bar = document.getElementById("streak-bar-fill");
   const txt = document.getElementById("streak-bar-text");
   if (!fire) return;
   const { n, active } = effectiveStreak();
-  fire.textContent = `🔥 ${n}`;
+  if (num) num.textContent = String(n);
+  else fire.textContent = `🔥 ${n}`;
   fire.classList.toggle("streak-active", active);
   fire.classList.toggle("streak-dim", !active);
   const todayCount = state.streak.lastDay === todayKey() ? (state.streak.todayCount || 0) : 0;

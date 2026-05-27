@@ -78,8 +78,14 @@ header h1 {
   cursor: pointer;
   font-family: inherit;
   border-radius: 4px;
-  min-width: 64px;
-  text-align: right;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+#streak-num {
+  display: inline-block;
+  min-width: 28px;
+  text-align: left;
   font-variant-numeric: tabular-nums;
 }
 #streak-fire.streak-active {
