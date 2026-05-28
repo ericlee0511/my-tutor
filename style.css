@@ -152,8 +152,7 @@ header h1 {
 .hm-cell.hm-3 { background: var(--accent); }
 .hm-cell.hm-empty { background: transparent; }
 .hm-cell.hm-today {
-  box-shadow: 0 0 0 2px #9ca3af; /* fallback for no color-mix support */
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--muted) 75%, white);
+  box-shadow: 0 0 0 2px #9ca3af;
 }
 .hm-legend {
   display: flex;
