@@ -152,7 +152,7 @@ header h1 {
 .hm-cell.hm-3 { background: var(--accent); }
 .hm-cell.hm-empty { background: transparent; }
 .hm-cell.hm-today {
-  box-shadow: 0 0 0 2px #f59e0b;
+  box-shadow: 0 0 0 2px var(--muted);
 }
 .hm-legend {
   display: flex;
