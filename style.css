@@ -721,11 +721,13 @@ footer {
 }
 .stats-close:active { background: var(--accent-soft); }
 
-/* Streak popup header: title left · avatar centered · close right */
-.streak-header .stats-title { flex: 1; text-align: left; }
-.streak-header .stats-close { flex: 1; display: flex; justify-content: flex-end; }
+/* Streak popup header: title left · avatar absolutely centered · close right */
+.streak-header { position: relative; }
 .streak-avatar {
-  flex: 0 0 auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   font-size: 28px;
   line-height: 1;
 }
