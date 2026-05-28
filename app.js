@@ -2065,6 +2065,10 @@ window.addEventListener("DOMContentLoaded", async () => {
     return;
   }
 
+  // Restore last viewed card (timeline + position are persisted in localStorage)
+  const lastEntry = state.timeline[state.timelinePos];
+  if (lastEntry) displayEntry(lastEntry);
+
   if ("serviceWorker" in navigator) {
     let reloading = false;
     navigator.serviceWorker.addEventListener("controllerchange", () => {
