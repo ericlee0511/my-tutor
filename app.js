@@ -671,6 +671,14 @@ function heatmapTier(n) {
   return "hm-3";
 }
 
+// Milestone symbol overlaid on a day cell, based on multiples of the daily goal (30).
+function heatmapSymbol(n) {
+  if (n >= DAILY_GOAL * 3) return "👑"; // 爆發 90+
+  if (n >= DAILY_GOAL * 2) return "🔥"; // 雙倍 60+
+  if (n >= DAILY_GOAL) return "⭐";      // 達標 30+
+  return "";
+}
+
 function renderHeatmap() {
   const root = document.getElementById("streak-heatmap");
   const summary = document.getElementById("streak-summary");
@@ -701,7 +709,9 @@ function renderHeatmap() {
         const cnt = hist[key] || 0;
         const tier = heatmapTier(cnt);
         const isToday = key === todayK ? " hm-today" : "";
-        rows.push(`<div class="hm-cell ${tier}${isToday}" title="${key} · ${cnt} 張"></div>`);
+        const sym = heatmapSymbol(cnt);
+        const symHtml = sym ? `<span class="hm-sym">${sym}</span>` : "";
+        rows.push(`<div class="hm-cell ${tier}${isToday}" title="${key} · ${cnt} 張">${symHtml}</div>`);
       }
     }
   }
@@ -718,7 +728,13 @@ function renderHeatmap() {
       `<span>多</span>` +
       `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span>` +
     `</div>`;
-  root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + rows.join("") + `</div>` + legend;
+  const symLegend =
+    `<div class="hm-legend hm-sym-legend">` +
+      `<span>⭐ 達標 30</span>` +
+      `<span>🔥 雙倍 60</span>` +
+      `<span>👑 爆發 90</span>` +
+    `</div>`;
+  root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + rows.join("") + `</div>` + legend + symLegend;
 
   // Summary line: total cards + total days
   const allKeys = Object.keys(hist);
