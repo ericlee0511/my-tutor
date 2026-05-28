@@ -736,6 +736,18 @@ function renderHeatmap() {
     `</div>`;
   root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + rows.join("") + `</div>` + legend + symLegend;
 
+  // Milestone badge tallies (mutually exclusive, all-time) → header badge row
+  const badges = document.getElementById("streak-badges");
+  if (badges) {
+    let star = 0, fire = 0, crown = 0;
+    Object.values(hist).forEach(n => {
+      if (n >= DAILY_GOAL * 3) crown++;
+      else if (n >= DAILY_GOAL * 2) fire++;
+      else if (n >= DAILY_GOAL) star++;
+    });
+    badges.innerHTML = `<span>⭐ ${star}</span><span>🔥 ${fire}</span><span>👑 ${crown}</span>`;
+  }
+
   // Summary line: total cards + total days
   const allKeys = Object.keys(hist);
   const totalCards = allKeys.reduce((s, k) => s + (hist[k] || 0), 0);
