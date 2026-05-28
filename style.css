@@ -733,7 +733,8 @@ footer {
   display: flex;
   justify-content: center;
   gap: 18px;
-  padding: 2px 16px 8px;
+  padding: 2px 16px 4px;
+  line-height: 1;
   font-size: 15px;
   font-weight: 600;
   color: var(--text);
