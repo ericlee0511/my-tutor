@@ -1310,7 +1310,7 @@ function fmtSceneKo(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.ko)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.ko)}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.ko, "ko")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1358,7 +1358,7 @@ function fmtSceneToeic(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.en)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.en)}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_toeic")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1406,7 +1406,7 @@ function fmtSceneGept(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.en)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.en)}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_gept")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1454,7 +1454,7 @@ function fmtSceneDele(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.es)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.es)}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.es, "es")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1474,7 +1474,7 @@ function fmtScene(item, num, title) {
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   } else {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    let inner = `🎭${tts}${escapeHTML(item.ja)}`;
+    let inner = `<span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.ja)}`;
     if (item.kana) inner += `<br>かな: ${escapeHTML(item.kana)}`;
     html += `<div><span class="spoiler scene-spoiler">` +
       `<span class="scene-foreign">${inner}</span></span></div>`;
@@ -2027,13 +2027,14 @@ window.addEventListener("DOMContentLoaded", async () => {
     if (w) { e.stopPropagation(); showLookupPopup(w); return; }
 
     // Scene spoiler (中→他語 foreign sentence): custom reveal/hide.
-    // First tap reveals; once revealed, tapping the foreign content (🎭/text/🔊)
-    // does NOT re-hide, but tapping the surrounding spoiler area does.
+    // First tap reveals; once revealed, tapping 🎭 (.scene-noflip) or 🔊 does NOT
+    // re-hide (guards against mis-tapping near 🔊), but tapping the foreign text or
+    // surrounding area does re-hide.
     const sceneSp = e.target.closest(".scene-spoiler");
     if (sceneSp) {
       if (!sceneSp.classList.contains("revealed")) {
         sceneSp.classList.add("revealed");
-      } else if (!e.target.closest(".scene-foreign")) {
+      } else if (!e.target.closest(".scene-noflip")) {
         sceneSp.classList.remove("revealed");
       }
       if (sceneSp.classList.contains("revealed") && !sceneSp.classList.contains("revealed-counted")) {
