@@ -733,12 +733,14 @@ footer {
   display: flex;
   justify-content: center;
   gap: 18px;
-  padding: 2px 16px 10px;
+  padding: 2px 16px 8px;
   font-size: 15px;
   font-weight: 600;
   color: var(--text);
   font-variant-numeric: tabular-nums;
 }
+/* Tighten gap between badge row and summary (streak popup only) */
+#streak-picker .stats-body { padding-top: 0; }
 .stats-body {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
