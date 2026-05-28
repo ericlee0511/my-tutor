@@ -887,6 +887,25 @@ function escapeHTML(s) {
   }[c]));
 }
 
+// ===== Text-to-speech (browser SpeechSynthesis) =====
+function speak(text, langCode) {
+  if (!text || typeof window.speechSynthesis === "undefined") return;
+  try {
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = langCode;
+    const voices = window.speechSynthesis.getVoices() || [];
+    const prefix = (langCode || "").slice(0, 2);
+    const v = voices.find(x => x.lang === langCode) ||
+              voices.find(x => x.lang && x.lang.slice(0, 2) === prefix);
+    if (v) u.voice = v;
+    window.speechSynthesis.speak(u);
+  } catch (e) { /* speech unavailable — ignore */ }
+}
+function ttsBtn(text, langCode) {
+  return `<button class="tts-btn" data-tts="${encodeURIComponent(text)}" data-ttslang="${langCode}" aria-label="播放發音" title="播放發音">🔊</button>`;
+}
+
 // ========== Lookup engine (kuromoji for ja, substring + longest-match for others) ==========
 const lookup = {
   built: false,
@@ -1199,7 +1218,7 @@ function fmtWord(item) {
   const meaningExtra = lang === "ja" && item.meaning_zh
     ? `<br>${escapeHTML(item.meaning_zh)}` : "";
   const trans = lang === "ja" ? (item.example_kana || item.example_en) : item.example_en;
-  return `<div class="headword">📖 ${escapeHTML(item.kanji)}</div>` +
+  return `<div class="headword">📖${ttsBtn(item.kanji, "ja-JP")}${escapeHTML(item.kanji)}</div>` +
     `<div class="kana">かな: ${escapeHTML(item.kana)}</div>` +
     `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_ja)}<br>` +
@@ -1239,7 +1258,7 @@ function fmtQuiz(item) {
 }
 
 function fmtWordKo(item) {
-  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  let html = `<div class="headword">📖${ttsBtn(item.word, "ko-KR")}${escapeHTML(item.word)}</div>`;
   if (item.romanization) html += `<div class="kana">羅馬拼音: ${escapeHTML(item.romanization)}</div>`;
   if (item.hanja && item.hanja !== "" && item.hanja !== "—") {
     html += `<div><span class="label">漢字:</span><span class="label-text">${escapeHTML(item.hanja)}</span></div>`;
@@ -1287,12 +1306,13 @@ function fmtStoryBanner(num, title) {
 function fmtSceneKo(item, num, title) {
   const reversed = state.dir === "zh";
   let html = fmtStoryBanner(num, title);
+  const tts = ttsBtn(item.ko, "ko-KR");
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-      `🎭 ${escapeHTML(item.ko)}</span></div>`;
+    html += `<div><span class="spoiler scene-spoiler">` +
+      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.ko)}</span></span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${highlightSentence(item.ko, "ko")}</div>`;
+    html += `<div class="headword">🎭${tts}${highlightSentence(item.ko, "ko")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -1300,7 +1320,7 @@ function fmtSceneKo(item, num, title) {
 }
 
 function fmtWordToeic(item) {
-  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  let html = `<div class="headword">📖${ttsBtn(item.word, "en-US")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
@@ -1334,12 +1354,13 @@ function fmtQuizToeic(item) {
 function fmtSceneToeic(item, num, title) {
   const reversed = state.dir === "zh";
   let html = fmtStoryBanner(num, title);
+  const tts = ttsBtn(item.en, "en-US");
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-      `🎭 ${escapeHTML(item.en)}</span></div>`;
+    html += `<div><span class="spoiler scene-spoiler">` +
+      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.en)}</span></span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${highlightSentence(item.en, "en_toeic")}</div>`;
+    html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_toeic")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -1347,7 +1368,7 @@ function fmtSceneToeic(item, num, title) {
 }
 
 function fmtWordGept(item) {
-  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  let html = `<div class="headword">📖${ttsBtn(item.word, "en-US")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
@@ -1381,12 +1402,13 @@ function fmtQuizGept(item) {
 function fmtSceneGept(item, num, title) {
   const reversed = state.dir === "zh";
   let html = fmtStoryBanner(num, title);
+  const tts = ttsBtn(item.en, "en-US");
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-      `🎭 ${escapeHTML(item.en)}</span></div>`;
+    html += `<div><span class="spoiler scene-spoiler">` +
+      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.en)}</span></span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${highlightSentence(item.en, "en_gept")}</div>`;
+    html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_gept")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -1394,7 +1416,7 @@ function fmtSceneGept(item, num, title) {
 }
 
 function fmtWordDele(item) {
-  let html = `<div class="headword">📖 ${escapeHTML(item.word)}</div>`;
+  let html = `<div class="headword">📖${ttsBtn(item.word, "es-ES")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_es)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
@@ -1428,12 +1450,13 @@ function fmtQuizDele(item) {
 function fmtSceneDele(item, num, title) {
   const reversed = state.dir === "zh";
   let html = fmtStoryBanner(num, title);
+  const tts = ttsBtn(item.es, "es-ES");
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-      `🎭 ${escapeHTML(item.es)}</span></div>`;
+    html += `<div><span class="spoiler scene-spoiler">` +
+      `<span class="scene-foreign">🎭${tts}${escapeHTML(item.es)}</span></span></div>`;
   } else {
-    html += `<div class="headword">🎭 ${highlightSentence(item.es, "es")}</div>`;
+    html += `<div class="headword">🎭${tts}${highlightSentence(item.es, "es")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   }
@@ -1443,17 +1466,18 @@ function fmtSceneDele(item, num, title) {
 function fmtScene(item, num, title) {
   const dir = state.dir === "zh" ? "zh" : "ja";
   let html = fmtStoryBanner(num, title);
+  const tts = ttsBtn(item.ja, "ja-JP");
   if (dir === "ja") {
-    html += `<div class="headword">🎭 ${highlightSentence(item.ja, "ja")}</div>`;
+    html += `<div class="headword">🎭${tts}${highlightSentence(item.ja, "ja")}</div>`;
     if (item.kana) html += `<div class="kana">かな: ${escapeHTML(item.kana)}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   } else {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    let hidden = `🎭 ${escapeHTML(item.ja)}`;
-    if (item.kana) hidden += `<br>かな: ${escapeHTML(item.kana)}`;
-    html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
-      hidden + `</span></div>`;
+    let inner = `🎭${tts}${escapeHTML(item.ja)}`;
+    if (item.kana) inner += `<br>かな: ${escapeHTML(item.kana)}`;
+    html += `<div><span class="spoiler scene-spoiler">` +
+      `<span class="scene-foreign">${inner}</span></span></div>`;
   }
   return html;
 }
@@ -1994,14 +2018,38 @@ window.addEventListener("DOMContentLoaded", async () => {
   );
 
   document.addEventListener("click", e => {
-    // Spoiler first-reveal counter — only count when opening (not closing)
+    // 🔊 TTS button — play audio only; never toggle/flip anything
+    const tts = e.target.closest(".tts-btn");
+    if (tts) { speak(decodeURIComponent(tts.dataset.tts || ""), tts.dataset.ttslang || ""); return; }
+
+    // Lookup word → open popup
+    const w = e.target.closest(".lookup-word");
+    if (w) { e.stopPropagation(); showLookupPopup(w); return; }
+
+    // Scene spoiler (中→他語 foreign sentence): custom reveal/hide.
+    // First tap reveals; once revealed, tapping the foreign content (🎭/text/🔊)
+    // does NOT re-hide, but tapping the surrounding spoiler area does.
+    const sceneSp = e.target.closest(".scene-spoiler");
+    if (sceneSp) {
+      if (!sceneSp.classList.contains("revealed")) {
+        sceneSp.classList.add("revealed");
+      } else if (!e.target.closest(".scene-foreign")) {
+        sceneSp.classList.remove("revealed");
+      }
+      if (sceneSp.classList.contains("revealed") && !sceneSp.classList.contains("revealed-counted")) {
+        sceneSp.classList.add("revealed-counted");
+        recordReveal();
+      }
+      return;
+    }
+
+    // Normal spoiler (inline onclick already toggled) — count first reveal
     const sp = e.target.closest(".spoiler");
     if (sp && !sp.classList.contains("revealed-counted") && sp.classList.contains("revealed")) {
       sp.classList.add("revealed-counted");
       recordReveal();
     }
-    const w = e.target.closest(".lookup-word");
-    if (w) { e.stopPropagation(); showLookupPopup(w); return; }
+
     hideLookupPopup();
   });
   document.addEventListener("keydown", e => {
