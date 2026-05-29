@@ -167,6 +167,7 @@ header h1 {
 .hm-sym-legend {
   gap: 14px;
   margin-top: 4px;
+  line-height: 1;
 }
 .hm-legend {
   display: flex;
