@@ -687,8 +687,8 @@ function renderHeatmap() {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const todayK = todayKey();
-  // First row = current week (Sunday → today), future days blank.
-  // Subsequent rows = older weeks. Show ~13 weeks back (≈ 91 days).
+  // Last row = current week (Sunday → today), future days blank.
+  // Rows above = older weeks; oldest at top. Show ~30 days back.
   const earliest = new Date(today);
   earliest.setDate(today.getDate() - 29);
   const earliestK = dateKey(earliest);
@@ -696,7 +696,7 @@ function renderHeatmap() {
   currentSunday.setDate(today.getDate() - today.getDay());
   const weeks = 5;
   const rows = [];
-  for (let w = 0; w < weeks; w++) {
+  for (let w = weeks - 1; w >= 0; w--) {
     const weekStart = new Date(currentSunday);
     weekStart.setDate(currentSunday.getDate() - 7 * w);
     for (let d = 0; d < 7; d++) {
