@@ -997,6 +997,75 @@ function koChangeVowel(syl, v) {
   return koCompose(d.lead, v, d.tail);
 }
 
+// === Korean noun-particle attachment ===
+// Real Korean is agglutinative: nouns attach particles (조사) directly with no space
+// inside the eojeol (어절). To find 책 inside 책에서 without falsely matching 책 inside
+// 책상, we pre-register noun+particle combinations as lookup keys and match by WHOLE
+// EOJEOL. 책상 only matches if 책상 itself is registered (it is — as its own noun).
+// 자연스럽게 only matches if 자연스럽다 conjugation form 자연스럽게 is registered (i.e. only
+// when 자연스럽다 itself is in vocab) — never falls through to single-char 게.
+const KO_PARTICLES_SINGLE = [
+  "은", "는", "이", "가", "을", "를", "의",
+  "에", "에서", "에게", "에게서", "한테", "한테서", "께", "께서",
+  "으로", "로", "으로서", "로서", "으로써", "로써",
+  "와", "과", "하고", "랑", "이랑",
+  "보다", "처럼", "만큼", "같이",
+  "도", "만", "마저", "조차", "까지", "부터", "마다",
+  "이나", "나", "이든", "든", "이라도", "라도",
+  "이라", "라", "이라고", "라고", "이라는", "라는", "이라며", "라며",
+];
+const KO_PARTICLE_COMBOS = [
+  "에는", "에도", "에서는", "에서도", "에게는", "에게도", "에게서는", "에게서도",
+  "으로는", "으로도", "로는", "로도",
+  "와는", "와도", "과는", "과도", "하고는", "하고도",
+  "보다는", "보다도", "만은", "만이", "만을", "만의",
+  "까지는", "까지도", "부터는", "부터도",
+  "들", "들이", "들은", "들을", "들의", "들에", "들에서", "들도", "들만", "들까지",
+];
+const KO_TAIL_RIEUL = 8; // ㄹ batchim index
+
+function koHasBatchim(syl) {
+  const d = koDecompose(syl);
+  return !!(d && d.tail !== 0);
+}
+function koTailIsRieul(syl) {
+  const d = koDecompose(syl);
+  return !!(d && d.tail === KO_TAIL_RIEUL);
+}
+
+// Allomorph-aware: only generate forms whose particle actually attaches to this noun's
+// final-syllable batchim profile (e.g. 책이 not 책가; 사람이 not 사람가; 로 only after
+// no-batchim OR ㄹ batchim).
+function generateKoNounForms(word) {
+  const out = new Set();
+  if (!word) return out;
+  out.add(word);
+  const last = word.slice(-1);
+  const hasB = koHasBatchim(last);
+  const isRieul = koTailIsRieul(last);
+  // Particles whose allomorph requires batchim:
+  const NEEDS_BATCHIM = new Set([
+    "이", "은", "을", "으로", "으로서", "으로써",
+    "이나", "이든", "이라도", "이라", "이라고", "이라는", "이라며", "이랑",
+  ]);
+  // Particles whose allomorph requires NO batchim:
+  const NEEDS_NO_BATCHIM = new Set([
+    "가", "는", "를",
+    "나", "든", "라도", "라", "라고", "라는", "라며", "랑",
+  ]);
+  for (const p of KO_PARTICLES_SINGLE) {
+    if (NEEDS_BATCHIM.has(p) && !hasB) continue;
+    if (NEEDS_NO_BATCHIM.has(p) && hasB) continue;
+    // 로/로서/로써: after no-batchim OR ㄹ batchim only
+    if ((p === "로" || p === "로서" || p === "로써") && hasB && !isRieul) continue;
+    out.add(word + p);
+  }
+  for (const p of KO_PARTICLE_COMBOS) {
+    out.add(word + p);
+  }
+  return out;
+}
+
 // Given dictionary verb/adjective stem (form minus trailing 다), enumerate common
 // surface forms found in actual sentences. Covers regular conjugation + 하 contraction
 // + ㅗ→ㅘ / ㅜ→ㅝ / ㅣ→ㅕ vowel coalescence. Does NOT cover ㄷ→ㄹ / 으-drop / 르
@@ -1087,8 +1156,11 @@ function buildLookupIndex() {
     return idx;
   };
   lookup.index.ja       = collect(DATA.vocab,       it => it && it.kanji);
-  // Korean: also register heuristic conjugated forms for verb/adjective entries
-  // ending in 다, so 가요 / 먹었어요 / 공부합니다 etc. map back to dict entry.
+  // Korean: build eojeol-level lookup map. For each entry, register:
+  //   - bare word + all common noun-particle forms (책, 책이, 책을, 책에서, 책들이…)
+  //   - if 다-ending: conjugation forms via generateKoVerbForms (갔어요, 합니다…)
+  // Highlight then matches WHOLE eojeols only — no substring scan. This kills the
+  // 게/말/이 false positives (자연스럽게 → no match; 말씀하셨다 → no match; 사람이 → 사람).
   const koMap = new Map();
   if (DATA.vocab_ko) {
     Object.values(DATA.vocab_ko).forEach(arr => {
@@ -1101,7 +1173,7 @@ function buildLookupIndex() {
           if (list) { if (!list.includes(item)) list.push(item); }
           else koMap.set(k, [item]);
         };
-        addKey(word);
+        generateKoNounForms(word).forEach(addKey);
         if (word.length >= 2 && word.endsWith("다")) {
           const stem = word.slice(0, -1);
           if (stem) generateKoVerbForms(stem).forEach(addKey);
@@ -1114,6 +1186,10 @@ function buildLookupIndex() {
   lookup.index.en_gept  = collect(DATA.vocab_gept,  it => it && it.word ? it.word.toLowerCase() : "");
   lookup.index.es       = collect(DATA.vocab_dele,  it => it && it.word ? it.word.toLowerCase() : "");
   Object.keys(lookup.index).forEach(lang => {
+    // Korean uses whole-eojeol Map lookup (highlightKoBySplit) — regex would either
+    // explode (~250k alternatives) or reintroduce the substring false-positives we
+    // just fixed. Skip regex build entirely for ko.
+    if (lang === "ko") { lookup.regex[lang] = null; return; }
     const isLatin = lang.startsWith("en") || lang === "es";
     const terms = Array.from(lookup.index[lang].keys())
       .filter(t => t && t.length > 0)
@@ -1135,6 +1211,7 @@ function buildLookupIndex() {
 function highlightSentence(text, lang) {
   if (!state.lookup) return escapeHTML(text);
   if (lang === "ja" && jaTokenizer) return highlightJaWithTokenizer(text);
+  if (lang === "ko" && lookup.index.ko) return highlightKoBySplit(text);
   if (!lookup.regex[lang]) return escapeHTML(text);
   const isLatin = lang.startsWith("en") || lang === "es";
   const re = lookup.regex[lang];
@@ -1151,6 +1228,38 @@ function highlightSentence(text, lang) {
     if (m.index === re.lastIndex) re.lastIndex++;
   }
   out += escapeHTML(text.slice(cursor));
+  return out;
+}
+
+// Korean: split sentence by whitespace into eojeols (어절), strip surrounding
+// punctuation/quotes, then look up each eojeol as a WHOLE KEY in the augmented map
+// (which already contains every noun+particle combination and verb conjugation).
+// Whole-eojeol match means: 책상 only matches "책상" key (the desk noun), never falls
+// through to "책"; 자연스럽게 only matches if 자연스럽다 was registered (else no highlight,
+// never the wrong 게=crab); 사람이 matches the 사람 entry via the pre-registered form.
+function highlightKoBySplit(text) {
+  const koMap = lookup.index.ko;
+  if (!koMap) return escapeHTML(text);
+  const parts = text.split(/(\s+)/);
+  const LEAD_RE  = /^([「『（(\[【“”‘’"'\-——]+)/;
+  const TRAIL_RE = /([」』）)\]】“”‘’"'.,!?。;:…\-——]+)$/;
+  let out = "";
+  for (const part of parts) {
+    if (!part) continue;
+    if (/^\s+$/.test(part)) { out += escapeHTML(part); continue; }
+    let lead = "", core = part, trail = "";
+    const ml = core.match(LEAD_RE);
+    if (ml) { lead = ml[1]; core = core.slice(lead.length); }
+    const mt = core.match(TRAIL_RE);
+    if (mt) { trail = mt[1]; core = core.slice(0, core.length - trail.length); }
+    if (core && koMap.has(core)) {
+      out += escapeHTML(lead);
+      out += `<span class="lookup-word" data-lang="ko" data-w="${encodeURIComponent(core)}">${escapeHTML(core)}</span>`;
+      out += escapeHTML(trail);
+    } else {
+      out += escapeHTML(part);
+    }
+  }
   return out;
 }
 

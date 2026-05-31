@@ -1,6 +1,6 @@
 # e-learning 內容統計
 
-> generated: 2026-05-30 (auto by scripts/recount_stats.js)
+> generated: 2026-05-31 (auto by scripts/recount_stats.js)
 
 ## 西文 (DELE A1 ~ C2)
 
