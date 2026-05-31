@@ -7703,6 +7703,294 @@
       "meaning_zh": "是的、好（回應）",
       "example_ko": "네, 알겠습니다.",
       "example_zh": "好的，我知道了。"
+    },
+    {
+      "word": "스무",
+      "hanja": "",
+      "romanization": "seumu",
+      "meaning_zh": "二十（量詞前修飾語）",
+      "example_ko": "스무 명이 같이 모였어요.",
+      "example_zh": "二十個人一起聚集了。"
+    },
+    {
+      "word": "마리",
+      "hanja": "",
+      "romanization": "mari",
+      "meaning_zh": "隻（動物量詞）",
+      "example_ko": "강아지 두 마리를 키워요.",
+      "example_zh": "養兩隻小狗。"
+    },
+    {
+      "word": "개월",
+      "hanja": "個月",
+      "romanization": "gaewol",
+      "meaning_zh": "個月（期間量詞）",
+      "example_ko": "한국에서 육 개월 살았어요.",
+      "example_zh": "在韓國住了六個月。"
+    },
+    {
+      "word": "참",
+      "hanja": "",
+      "romanization": "cham",
+      "meaning_zh": "真、實在、真是",
+      "example_ko": "오늘 날씨가 참 좋네요.",
+      "example_zh": "今天天氣真好啊。"
+    },
+    {
+      "word": "그냥",
+      "hanja": "",
+      "romanization": "geunyang",
+      "meaning_zh": "就那樣、只是、單純地",
+      "example_ko": "그냥 한번 물어봤어요.",
+      "example_zh": "只是隨便問問。"
+    },
+    {
+      "word": "못",
+      "hanja": "",
+      "romanization": "mot",
+      "meaning_zh": "不能、無法",
+      "example_ko": "오늘은 못 가요.",
+      "example_zh": "今天不能去。"
+    },
+    {
+      "word": "함께",
+      "hanja": "",
+      "romanization": "hamkke",
+      "meaning_zh": "一起、共同",
+      "example_ko": "친구와 함께 점심을 먹었어요.",
+      "example_zh": "和朋友一起吃了午餐。"
+    },
+    {
+      "word": "쪽",
+      "hanja": "",
+      "romanization": "jjok",
+      "meaning_zh": "邊、方面、方向",
+      "example_ko": "왼쪽으로 가세요.",
+      "example_zh": "請往左邊走。"
+    },
+    {
+      "word": "저",
+      "hanja": "",
+      "romanization": "jeo",
+      "meaning_zh": "那、那個（遠指修飾語）",
+      "example_ko": "저 건물이 우리 회사예요.",
+      "example_zh": "那棟建築物是我們公司。"
+    },
+    {
+      "word": "이",
+      "hanja": "",
+      "romanization": "i",
+      "meaning_zh": "這、這個（近指修飾語）",
+      "example_ko": "이 책이 정말 재미있어요.",
+      "example_zh": "這本書真的很有趣。"
+    },
+    {
+      "word": "그",
+      "hanja": "",
+      "romanization": "geu",
+      "meaning_zh": "那、那個（中指修飾語）",
+      "example_ko": "그 사람을 어디서 만났어요?",
+      "example_zh": "你在哪裡見過那個人？"
+    },
+    {
+      "word": "어느",
+      "hanja": "",
+      "romanization": "eoneu",
+      "meaning_zh": "哪、哪個",
+      "example_ko": "어느 나라에서 오셨어요?",
+      "example_zh": "您是從哪個國家來的？"
+    },
+    {
+      "word": "무슨",
+      "hanja": "",
+      "romanization": "museun",
+      "meaning_zh": "什麼、何種",
+      "example_ko": "무슨 일 있어요?",
+      "example_zh": "有什麼事嗎？"
+    },
+    {
+      "word": "다른",
+      "hanja": "",
+      "romanization": "dareun",
+      "meaning_zh": "別的、其他的、不同的",
+      "example_ko": "다른 색깔도 있어요?",
+      "example_zh": "有別的顏色嗎？"
+    },
+    {
+      "word": "다섯",
+      "hanja": "",
+      "romanization": "daseot",
+      "meaning_zh": "五",
+      "example_ko": "다섯 시에 시작해요.",
+      "example_zh": "五點開始。"
+    },
+    {
+      "word": "여섯",
+      "hanja": "",
+      "romanization": "yeoseot",
+      "meaning_zh": "六",
+      "example_ko": "여섯 명이 모였어요.",
+      "example_zh": "聚集了六個人。"
+    },
+    {
+      "word": "일곱",
+      "hanja": "",
+      "romanization": "ilgop",
+      "meaning_zh": "七",
+      "example_ko": "일곱 시까지 가야 해요.",
+      "example_zh": "必須在七點之前去。"
+    },
+    {
+      "word": "여덟",
+      "hanja": "",
+      "romanization": "yeodeol",
+      "meaning_zh": "八",
+      "example_ko": "여덟 살 때 한국에 왔어요.",
+      "example_zh": "八歲時來到韓國。"
+    },
+    {
+      "word": "아홉",
+      "hanja": "",
+      "romanization": "ahop",
+      "meaning_zh": "九",
+      "example_ko": "아홉 시에 출근해요.",
+      "example_zh": "九點上班。"
+    },
+    {
+      "word": "열",
+      "hanja": "",
+      "romanization": "yeol",
+      "meaning_zh": "十",
+      "example_ko": "열 명 중에 다섯 명이 찬성했어요.",
+      "example_zh": "十人中有五人贊成。"
+    },
+    {
+      "word": "분",
+      "hanja": "",
+      "romanization": "bun",
+      "meaning_zh": "位（人的敬稱量詞）",
+      "example_ko": "손님 몇 분이세요?",
+      "example_zh": "請問幾位客人？"
+    },
+    {
+      "word": "또",
+      "hanja": "",
+      "romanization": "tto",
+      "meaning_zh": "又、再",
+      "example_ko": "또 만나요.",
+      "example_zh": "再見面吧。"
+    },
+    {
+      "word": "다시",
+      "hanja": "",
+      "romanization": "dasi",
+      "meaning_zh": "再次、重新",
+      "example_ko": "다시 한 번 말씀해 주세요.",
+      "example_zh": "請再說一次。"
+    },
+    {
+      "word": "잠깐",
+      "hanja": "",
+      "romanization": "jamkkan",
+      "meaning_zh": "一下、一會兒",
+      "example_ko": "잠깐만 기다려 주세요.",
+      "example_zh": "請稍等一下。"
+    },
+    {
+      "word": "오래",
+      "hanja": "",
+      "romanization": "orae",
+      "meaning_zh": "很久、長時間",
+      "example_ko": "오래 기다리셨죠?",
+      "example_zh": "您等很久了吧？"
+    },
+    {
+      "word": "천천히",
+      "hanja": "",
+      "romanization": "cheoncheonhi",
+      "meaning_zh": "慢慢地、緩緩地",
+      "example_ko": "천천히 말씀해 주세요.",
+      "example_zh": "請慢慢說。"
+    },
+    {
+      "word": "빨리",
+      "hanja": "",
+      "romanization": "ppalli",
+      "meaning_zh": "快、快點",
+      "example_ko": "빨리 와 주세요.",
+      "example_zh": "請快點來。"
+    },
+    {
+      "word": "자주",
+      "hanja": "",
+      "romanization": "jaju",
+      "meaning_zh": "經常、常常",
+      "example_ko": "자주 연락해요.",
+      "example_zh": "經常聯絡吧。"
+    },
+    {
+      "word": "가끔",
+      "hanja": "",
+      "romanization": "gakkeum",
+      "meaning_zh": "偶爾、有時",
+      "example_ko": "가끔 영화를 봐요.",
+      "example_zh": "偶爾看電影。"
+    },
+    {
+      "word": "그래서",
+      "hanja": "",
+      "romanization": "geuraeseo",
+      "meaning_zh": "所以、因此",
+      "example_ko": "피곤해서 그래서 일찍 잤어요.",
+      "example_zh": "因為累了所以早睡了。"
+    },
+    {
+      "word": "그런데",
+      "hanja": "",
+      "romanization": "geureonde",
+      "meaning_zh": "可是、不過、話說",
+      "example_ko": "그런데 그게 무슨 뜻이에요?",
+      "example_zh": "話說那是什麼意思？"
+    },
+    {
+      "word": "하지만",
+      "hanja": "",
+      "romanization": "hajiman",
+      "meaning_zh": "但是、可是",
+      "example_ko": "비싸요. 하지만 살 만해요.",
+      "example_zh": "雖然貴，但是值得買。"
+    },
+    {
+      "word": "그리고",
+      "hanja": "",
+      "romanization": "geurigo",
+      "meaning_zh": "然後、而且、和",
+      "example_ko": "밥을 먹고 그리고 산책했어요.",
+      "example_zh": "吃了飯然後去散步。"
+    },
+    {
+      "word": "이제",
+      "hanja": "",
+      "romanization": "ije",
+      "meaning_zh": "現在、如今、到了…時候",
+      "example_ko": "이제 가야 해요.",
+      "example_zh": "現在必須走了。"
+    },
+    {
+      "word": "나중에",
+      "hanja": "",
+      "romanization": "najunge",
+      "meaning_zh": "之後、以後",
+      "example_ko": "나중에 다시 전화할게요.",
+      "example_zh": "稍後再打電話給你。"
+    },
+    {
+      "word": "끝",
+      "hanja": "",
+      "romanization": "kkeut",
+      "meaning_zh": "結束、盡頭、最後",
+      "example_ko": "오늘 일은 이제 끝이에요.",
+      "example_zh": "今天的事到此結束。"
     }
   ],
   "t2": [
@@ -23705,6 +23993,310 @@
       "meaning_zh": "歲（年齡單位）",
       "example_ko": "우리 아들은 다섯 세예요.",
       "example_zh": "我兒子五歲。"
+    },
+    {
+      "word": "같은",
+      "hanja": "",
+      "romanization": "gateun",
+      "meaning_zh": "相同的、一樣的",
+      "example_ko": "저도 같은 생각이에요.",
+      "example_zh": "我也是相同的想法。"
+    },
+    {
+      "word": "그런",
+      "hanja": "",
+      "romanization": "geureon",
+      "meaning_zh": "那樣的、那種",
+      "example_ko": "그런 사람은 처음 봤어요.",
+      "example_zh": "那樣的人我是第一次見。"
+    },
+    {
+      "word": "저런",
+      "hanja": "",
+      "romanization": "jeoreon",
+      "meaning_zh": "那樣的（遠）、那種",
+      "example_ko": "저런 옷은 어디서 사요?",
+      "example_zh": "那樣的衣服在哪裡買？"
+    },
+    {
+      "word": "지난",
+      "hanja": "",
+      "romanization": "jinan",
+      "meaning_zh": "過去的、上一個",
+      "example_ko": "지난 주말에 영화를 봤어요.",
+      "example_zh": "上週末看了電影。"
+    },
+    {
+      "word": "아무",
+      "hanja": "",
+      "romanization": "amu",
+      "meaning_zh": "任何、隨便哪個",
+      "example_ko": "아무 말도 하지 마세요.",
+      "example_zh": "什麼話都不要說。"
+    },
+    {
+      "word": "자기",
+      "hanja": "自己",
+      "romanization": "jagi",
+      "meaning_zh": "自己、本人",
+      "example_ko": "자기 일은 자기가 해야죠.",
+      "example_zh": "自己的事要自己做。"
+    },
+    {
+      "word": "대",
+      "hanja": "臺",
+      "romanization": "dae",
+      "meaning_zh": "輛、台（機械量詞）",
+      "example_ko": "차 한 대를 새로 샀어요.",
+      "example_zh": "新買了一輛車。"
+    },
+    {
+      "word": "덜",
+      "hanja": "",
+      "romanization": "deol",
+      "meaning_zh": "較少、不太、欠缺",
+      "example_ko": "오늘은 덜 추워요.",
+      "example_zh": "今天比較不冷。"
+    },
+    {
+      "word": "언제나",
+      "hanja": "",
+      "romanization": "eonjena",
+      "meaning_zh": "總是、隨時",
+      "example_ko": "그녀는 언제나 웃고 있어요.",
+      "example_zh": "她總是在笑。"
+    },
+    {
+      "word": "별로",
+      "hanja": "別로",
+      "romanization": "byeollo",
+      "meaning_zh": "並不、不太（後接否定）",
+      "example_ko": "이 음식은 별로 맛없어요.",
+      "example_zh": "這道菜不太好吃。"
+    },
+    {
+      "word": "정말로",
+      "hanja": "正말로",
+      "romanization": "jeongmallo",
+      "meaning_zh": "真的、實在",
+      "example_ko": "정말로 고맙습니다.",
+      "example_zh": "真的非常感謝。"
+    },
+    {
+      "word": "그러니까",
+      "hanja": "",
+      "romanization": "geureonikka",
+      "meaning_zh": "所以說、因此",
+      "example_ko": "그러니까 조심하라고 했잖아요.",
+      "example_zh": "所以說了叫你小心嘛。"
+    },
+    {
+      "word": "그렇지만",
+      "hanja": "",
+      "romanization": "geureochiman",
+      "meaning_zh": "但是、不過",
+      "example_ko": "비싸요. 그렇지만 품질은 좋아요.",
+      "example_zh": "雖然貴，但是品質好。"
+    },
+    {
+      "word": "예를 들어",
+      "hanja": "例를",
+      "romanization": "yereul deureo",
+      "meaning_zh": "例如、舉例來說",
+      "example_ko": "예를 들어, 사과나 바나나 같은 과일이요.",
+      "example_zh": "例如蘋果或香蕉之類的水果。"
+    },
+    {
+      "word": "동안",
+      "hanja": "",
+      "romanization": "dongan",
+      "meaning_zh": "期間、…的時候",
+      "example_ko": "방학 동안 여행을 갔어요.",
+      "example_zh": "放假期間去旅行了。"
+    },
+    {
+      "word": "쯤",
+      "hanja": "",
+      "romanization": "jjeum",
+      "meaning_zh": "左右、大約",
+      "example_ko": "여섯 시쯤 만나요.",
+      "example_zh": "六點左右見面。"
+    },
+    {
+      "word": "아마",
+      "hanja": "",
+      "romanization": "ama",
+      "meaning_zh": "大概、可能",
+      "example_ko": "아마 그 사람이 맞을 거예요.",
+      "example_zh": "大概是那個人沒錯。"
+    },
+    {
+      "word": "아마도",
+      "hanja": "",
+      "romanization": "amado",
+      "meaning_zh": "大概、也許（比 아마更不確定）",
+      "example_ko": "아마도 오늘 안에 끝날 거예요.",
+      "example_zh": "大概今天之內會結束吧。"
+    },
+    {
+      "word": "편",
+      "hanja": "便",
+      "romanization": "pyeon",
+      "meaning_zh": "方面、一邊、傾向",
+      "example_ko": "저는 매운 음식을 잘 먹는 편이에요.",
+      "example_zh": "我算是滿能吃辣的。"
+    },
+    {
+      "word": "데",
+      "hanja": "",
+      "romanization": "de",
+      "meaning_zh": "地方、處、情況",
+      "example_ko": "아픈 데가 있어요?",
+      "example_zh": "有哪裡不舒服嗎？"
+    },
+    {
+      "word": "전",
+      "hanja": "全",
+      "romanization": "jeon",
+      "meaning_zh": "全部、整個、前的",
+      "example_ko": "전 세계 사람들이 알고 있어요.",
+      "example_zh": "全世界的人都知道。"
+    },
+    {
+      "word": "벌",
+      "hanja": "",
+      "romanization": "beol",
+      "meaning_zh": "套、件（衣物量詞）",
+      "example_ko": "양복 한 벌을 새로 맞췄어요.",
+      "example_zh": "新訂做了一套西裝。"
+    },
+    {
+      "word": "여러",
+      "hanja": "",
+      "romanization": "yeoreo",
+      "meaning_zh": "好幾、許多",
+      "example_ko": "여러 번 와 본 적이 있어요.",
+      "example_zh": "來過好幾次了。"
+    },
+    {
+      "word": "그릇",
+      "hanja": "",
+      "romanization": "geureut",
+      "meaning_zh": "碗（碗裝量詞）、器皿",
+      "example_ko": "밥 두 그릇을 먹었어요.",
+      "example_zh": "吃了兩碗飯。"
+    },
+    {
+      "word": "조각",
+      "hanja": "",
+      "romanization": "jogak",
+      "meaning_zh": "塊、片（片狀量詞）",
+      "example_ko": "케이크 한 조각 드세요.",
+      "example_zh": "請吃一塊蛋糕。"
+    },
+    {
+      "word": "끼",
+      "hanja": "",
+      "romanization": "kki",
+      "meaning_zh": "餐（用餐量詞）",
+      "example_ko": "하루 세 끼를 꼭 챙겨 먹어요.",
+      "example_zh": "一天三餐一定要好好吃。"
+    },
+    {
+      "word": "벌써",
+      "hanja": "",
+      "romanization": "beolsseo",
+      "meaning_zh": "已經、早就",
+      "example_ko": "벌써 다섯 시예요?",
+      "example_zh": "已經五點了嗎？"
+    },
+    {
+      "word": "곧",
+      "hanja": "",
+      "romanization": "got",
+      "meaning_zh": "馬上、即將",
+      "example_ko": "곧 출발할게요.",
+      "example_zh": "馬上就出發。"
+    },
+    {
+      "word": "갑자기",
+      "hanja": "",
+      "romanization": "gapjagi",
+      "meaning_zh": "突然、忽然",
+      "example_ko": "갑자기 비가 쏟아졌어요.",
+      "example_zh": "突然下起傾盆大雨。"
+    },
+    {
+      "word": "전혀",
+      "hanja": "全혀",
+      "romanization": "jeonhyeo",
+      "meaning_zh": "完全、絲毫（後接否定）",
+      "example_ko": "전혀 몰랐어요.",
+      "example_zh": "完全不知道。"
+    },
+    {
+      "word": "물론",
+      "hanja": "勿論",
+      "romanization": "mullon",
+      "meaning_zh": "當然",
+      "example_ko": "물론 도와드릴게요.",
+      "example_zh": "當然會幫您。"
+    },
+    {
+      "word": "또는",
+      "hanja": "",
+      "romanization": "ttoneun",
+      "meaning_zh": "或者、或",
+      "example_ko": "커피 또는 차 중에 골라요.",
+      "example_zh": "從咖啡或茶中選擇。"
+    },
+    {
+      "word": "만약",
+      "hanja": "萬若",
+      "romanization": "manyak",
+      "meaning_zh": "如果、假如",
+      "example_ko": "만약 시간이 있으면 같이 가요.",
+      "example_zh": "如果有時間就一起去。"
+    },
+    {
+      "word": "끝까지",
+      "hanja": "",
+      "romanization": "kkeutkkaji",
+      "meaning_zh": "到最後、到底",
+      "example_ko": "끝까지 포기하지 마세요.",
+      "example_zh": "請堅持到最後別放棄。"
+    },
+    {
+      "word": "이하",
+      "hanja": "以下",
+      "romanization": "iha",
+      "meaning_zh": "以下、不到",
+      "example_ko": "초등학생 이하는 무료예요.",
+      "example_zh": "小學生以下免費。"
+    },
+    {
+      "word": "약",
+      "hanja": "約",
+      "romanization": "yak",
+      "meaning_zh": "大約、約",
+      "example_ko": "약 삼십 명이 참가했어요.",
+      "example_zh": "大約三十人參加了。"
+    },
+    {
+      "word": "마음대로",
+      "hanja": "",
+      "romanization": "maeumdaero",
+      "meaning_zh": "隨意、隨心所欲",
+      "example_ko": "마음대로 하세요.",
+      "example_zh": "請隨意。"
+    },
+    {
+      "word": "서로",
+      "hanja": "",
+      "romanization": "seoro",
+      "meaning_zh": "互相、彼此",
+      "example_ko": "서로 도와야 해요.",
+      "example_zh": "必須互相幫助。"
     }
   ],
   "t3": [
@@ -45803,6 +46395,142 @@
       "meaning_zh": "限、限度",
       "example_ko": "그것은 그 사람 한에서 가능하다.",
       "example_zh": "那只在那個人的範圍內可行。"
+    },
+    {
+      "word": "온",
+      "hanja": "",
+      "romanization": "on",
+      "meaning_zh": "整個、全部的",
+      "example_ko": "온 세상이 하얗게 변했어요.",
+      "example_zh": "整個世界都變白了。"
+    },
+    {
+      "word": "그루",
+      "hanja": "",
+      "romanization": "geuru",
+      "meaning_zh": "棵（樹木量詞）",
+      "example_ko": "마당에 나무 세 그루가 있어요.",
+      "example_zh": "院子裡有三棵樹。"
+    },
+    {
+      "word": "채",
+      "hanja": "",
+      "romanization": "chae",
+      "meaning_zh": "棟、間（房屋量詞）",
+      "example_ko": "이 마을에 집이 다섯 채 있어요.",
+      "example_zh": "這個村莊有五棟房子。"
+    },
+    {
+      "word": "켤레",
+      "hanja": "",
+      "romanization": "kyeolle",
+      "meaning_zh": "雙（鞋襪量詞）",
+      "example_ko": "양말 두 켤레를 샀어요.",
+      "example_zh": "買了兩雙襪子。"
+    },
+    {
+      "word": "송이",
+      "hanja": "",
+      "romanization": "songi",
+      "meaning_zh": "朵、串（花果量詞）",
+      "example_ko": "장미 한 송이를 받았어요.",
+      "example_zh": "收到了一朵玫瑰。"
+    },
+    {
+      "word": "겨우",
+      "hanja": "",
+      "romanization": "gyeou",
+      "meaning_zh": "好不容易、僅僅、只",
+      "example_ko": "겨우 시험에 합격했어요.",
+      "example_zh": "好不容易考試合格了。"
+    },
+    {
+      "word": "어차피",
+      "hanja": "於此彼",
+      "romanization": "eochapi",
+      "meaning_zh": "反正、橫豎",
+      "example_ko": "어차피 갈 거면 빨리 가요.",
+      "example_zh": "反正要去的話就快點去。"
+    },
+    {
+      "word": "아무튼",
+      "hanja": "",
+      "romanization": "amuteun",
+      "meaning_zh": "總之、不管怎樣",
+      "example_ko": "아무튼 결과가 좋아서 다행이에요.",
+      "example_zh": "總之結果好就太好了。"
+    },
+    {
+      "word": "어쨌든",
+      "hanja": "",
+      "romanization": "eojjaetdeun",
+      "meaning_zh": "無論如何、不管怎樣",
+      "example_ko": "어쨌든 한번 해 봐요.",
+      "example_zh": "無論如何試一次看看。"
+    },
+    {
+      "word": "그러므로",
+      "hanja": "",
+      "romanization": "geureomeuro",
+      "meaning_zh": "因此、所以（書面）",
+      "example_ko": "비가 와요. 그러므로 우산이 필요해요.",
+      "example_zh": "下雨了，因此需要雨傘。"
+    },
+    {
+      "word": "반면에",
+      "hanja": "反面에",
+      "romanization": "banmyeone",
+      "meaning_zh": "相反地、另一方面",
+      "example_ko": "형은 부지런한 반면에 동생은 게을러요.",
+      "example_zh": "哥哥勤勞，相反地弟弟很懶。"
+    },
+    {
+      "word": "그 외",
+      "hanja": "外",
+      "romanization": "geu oe",
+      "meaning_zh": "此外、除此之外",
+      "example_ko": "그 외에 더 필요한 건 없어요?",
+      "example_zh": "此外還需要什麼嗎？"
+    },
+    {
+      "word": "어쩌면",
+      "hanja": "",
+      "romanization": "eojjeomyeon",
+      "meaning_zh": "也許、說不定",
+      "example_ko": "어쩌면 내일 비가 올지도 몰라요.",
+      "example_zh": "也許明天會下雨。"
+    },
+    {
+      "word": "쪽지",
+      "hanja": "紙",
+      "romanization": "jjokji",
+      "meaning_zh": "紙條、便條",
+      "example_ko": "책상 위에 쪽지를 남겨 두었어요.",
+      "example_zh": "在桌上留了一張紙條。"
+    },
+    {
+      "word": "갑",
+      "hanja": "匣",
+      "romanization": "gap",
+      "meaning_zh": "盒（盒裝量詞）",
+      "example_ko": "담배 한 갑을 샀어요.",
+      "example_zh": "買了一盒香煙。"
+    },
+    {
+      "word": "결코",
+      "hanja": "決코",
+      "romanization": "gyeolko",
+      "meaning_zh": "絕對、決不（後接否定）",
+      "example_ko": "결코 잊지 않을게요.",
+      "example_zh": "絕對不會忘記。"
+    },
+    {
+      "word": "함부로",
+      "hanja": "",
+      "romanization": "hamburo",
+      "meaning_zh": "隨便、任意（負面）",
+      "example_ko": "함부로 들어가면 안 돼요.",
+      "example_zh": "不可以隨便進去。"
     }
   ],
   "t4": [
@@ -61485,6 +62213,30 @@
       "meaning_zh": "酸、酸性",
       "example_ko": "위산이 너무 많이 나와요.",
       "example_zh": "胃酸分泌過多。"
+    },
+    {
+      "word": "포기",
+      "hanja": "",
+      "romanization": "pogi",
+      "meaning_zh": "棵、株（蔬菜量詞）",
+      "example_ko": "배추 두 포기로 김치를 담가요.",
+      "example_zh": "用兩棵白菜醃泡菜。"
+    },
+    {
+      "word": "도무지",
+      "hanja": "",
+      "romanization": "domuji",
+      "meaning_zh": "怎麼也、完全（後接否定）",
+      "example_ko": "도무지 이해가 안 돼요.",
+      "example_zh": "怎麼也無法理解。"
+    },
+    {
+      "word": "오로지",
+      "hanja": "",
+      "romanization": "oroji",
+      "meaning_zh": "只有、唯獨",
+      "example_ko": "오로지 너만 생각해요.",
+      "example_zh": "只想著你一個人。"
     }
   ],
   "t5": [
@@ -74327,6 +75079,14 @@
       "meaning_zh": "狹義",
       "example_ko": "협의의 의미로 해석하면 다릅니다.",
       "example_zh": "從狹義的意義來解釋就不同了。"
+    },
+    {
+      "word": "더욱이",
+      "hanja": "",
+      "romanization": "deouki",
+      "meaning_zh": "再加上、而且",
+      "example_ko": "비가 오는데 더욱이 바람까지 불어요.",
+      "example_zh": "下雨而且還颳風。"
     }
   ],
   "t6": [
@@ -90169,6 +90929,14 @@
       "meaning_zh": "立像、雕像",
       "example_ko": "광장에 위인의 입상이 세워져 있어요.",
       "example_zh": "廣場上立著偉人的雕像。"
+    },
+    {
+      "word": "하물며",
+      "hanja": "",
+      "romanization": "hamulmyeo",
+      "meaning_zh": "何況、況且",
+      "example_ko": "어른도 어려운데 하물며 아이는 어때요?",
+      "example_zh": "大人都難了，何況小孩呢？"
     }
   ]
 }
