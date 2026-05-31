@@ -7431,6 +7431,62 @@
       "meaning_zh": "五十",
       "example_ko": "오십 명 정도 모였다.",
       "example_zh": "聚集了大約五十人。"
+    },
+    {
+      "word": "차",
+      "hanja": "車",
+      "romanization": "cha",
+      "meaning_zh": "車、汽車",
+      "example_ko": "차로 회사에 가요.",
+      "example_zh": "我開車去公司。"
+    },
+    {
+      "word": "말",
+      "hanja": "",
+      "romanization": "mal",
+      "meaning_zh": "話、言語",
+      "example_ko": "말을 천천히 해 주세요.",
+      "example_zh": "請慢慢說。"
+    },
+    {
+      "word": "일",
+      "hanja": "日",
+      "romanization": "il",
+      "meaning_zh": "日、天",
+      "example_ko": "일 주일에 다섯 번 운동해요.",
+      "example_zh": "我一週運動五次。"
+    },
+    {
+      "word": "일",
+      "hanja": "",
+      "romanization": "il",
+      "meaning_zh": "事情、工作",
+      "example_ko": "오늘은 일이 많아요.",
+      "example_zh": "今天工作很多。"
+    },
+    {
+      "word": "배",
+      "hanja": "",
+      "romanization": "bae",
+      "meaning_zh": "船",
+      "example_ko": "배를 타고 제주도에 갔어요.",
+      "example_zh": "我搭船去濟州島。"
+    },
+    {
+      "word": "병",
+      "hanja": "病",
+      "romanization": "byeong",
+      "meaning_zh": "病、疾病",
+      "example_ko": "할아버지께서 병에 걸리셨어요.",
+      "example_zh": "爺爺生病了。"
+    },
+    {
+      "word": "병",
+      "hanja": "瓶",
+      "romanization": "byeong",
+      "meaning_zh": "瓶子",
+      "example_ko": "우유 한 병 사 왔어요.",
+      "example_zh": "我買了一瓶牛奶來。"
     }
   ],
   "t2": [
@@ -23041,6 +23097,14 @@
       "meaning_zh": "接下來、然後",
       "example_ko": "그다음 무엇을 했어요?",
       "example_zh": "接下來做了什麼？"
+    },
+    {
+      "word": "배",
+      "hanja": "",
+      "romanization": "bae",
+      "meaning_zh": "梨、梨子",
+      "example_ko": "가을에 배가 맛있어요.",
+      "example_zh": "秋天的梨很好吃。"
     }
   ],
   "t3": [
@@ -44571,6 +44635,14 @@
       "meaning_zh": "背景",
       "example_ko": "사진의 배경이 예쁘다.",
       "example_zh": "照片的背景很漂亮。"
+    },
+    {
+      "word": "독",
+      "hanja": "毒",
+      "romanization": "dok",
+      "meaning_zh": "毒、毒性",
+      "example_ko": "그 식물에는 독이 있어요.",
+      "example_zh": "那種植物有毒。"
     }
   ],
   "t4": [
