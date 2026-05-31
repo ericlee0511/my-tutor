@@ -1365,15 +1365,18 @@ function displayMeaning(s) {
   return s.replace(/^[（(][^）)]*(?:粒子|助詞|格助)[^）)]*[）)]\s*/, "");
 }
 
-// Group popup entries by "sense" (word + hanja + cleaned meaning) and dedup
-// entries that are completely identical within a group (same example pair).
-// Returns array of groups, each group is array of unique entries.
+// Group popup entries by "sense" (word + normalized hanja + cleaned meaning) and
+// dedup entries that are completely identical within a group (same example pair).
+// vocab_ko hanja field has inconsistent formatting across batches: "親切하다",
+// "親切-", "親切" all refer to the same root. Strip trailing hangul / hyphens /
+// whitespace from hanja before keying so they group together.
 function groupAndDedupEntries(entries) {
-  const groups = new Map();   // groupKey -> { exMap: Map(exampleKey -> entry) }
+  const groups = new Map();   // groupKey -> Map(exampleKey -> entry)
   const order = [];
+  const normalizeHanja = s => (s || "").replace(/[가-힣\-—\s]+$/u, "").trim();
   for (const e of entries) {
     const word = e.word || e.kanji || "";
-    const hanja = e.hanja || "";
+    const hanja = normalizeHanja(e.hanja);
     const meaning = displayMeaning(e.meaning_zh || "").trim();
     const groupKey = `${word}|${hanja}|${meaning}`;
     const exampleKey = `${e.example_ko || e.example_ja || e.example_en || e.example_es || ""}|${e.example_zh || ""}`;
