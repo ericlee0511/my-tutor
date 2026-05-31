@@ -916,10 +916,33 @@ function escapeHTML(s) {
 }
 
 // ===== Text-to-speech (browser SpeechSynthesis) =====
-function speak(text, langCode) {
+// Toggleable button: 🔊 → play; clicking again or another 🔊 cancels current.
+// Active button shows ⏹ until utterance ends (or is cancelled).
+let activeTtsBtn = null;
+
+function resetTtsBtn(btn) {
+  if (!btn) return;
+  btn.textContent = "🔊";
+  btn.setAttribute("aria-label", "播放發音");
+  btn.setAttribute("title", "播放發音");
+}
+
+function stopTts() {
+  // Cancel speech + reset whichever button was showing ⏹
+  try { window.speechSynthesis.cancel(); } catch (e) { /* ignore */ }
+  if (activeTtsBtn) {
+    resetTtsBtn(activeTtsBtn);
+    activeTtsBtn = null;
+  }
+}
+
+function speak(text, langCode, btn) {
   if (!text || typeof window.speechSynthesis === "undefined") return;
   try {
-    window.speechSynthesis.cancel();
+    // Cancel any in-flight speech and reset its button visually (onend may not
+    // always fire in some browsers when cancel() is called).
+    stopTts();
+
     const u = new SpeechSynthesisUtterance(text);
     u.lang = langCode;
     const voices = window.speechSynthesis.getVoices() || [];
@@ -927,6 +950,19 @@ function speak(text, langCode) {
     const v = voices.find(x => x.lang === langCode) ||
               voices.find(x => x.lang && x.lang.slice(0, 2) === prefix);
     if (v) u.voice = v;
+
+    if (btn) {
+      btn.textContent = "⏹";
+      btn.setAttribute("aria-label", "停止發音");
+      btn.setAttribute("title", "停止發音");
+      activeTtsBtn = btn;
+      const cleanup = () => {
+        if (activeTtsBtn === btn) activeTtsBtn = null;
+        resetTtsBtn(btn);
+      };
+      u.onend = cleanup;
+      u.onerror = cleanup;
+    }
     window.speechSynthesis.speak(u);
   } catch (e) { /* speech unavailable — ignore */ }
 }
@@ -2155,9 +2191,13 @@ window.addEventListener("DOMContentLoaded", async () => {
   );
 
   document.addEventListener("click", e => {
-    // 🔊 TTS button — play audio only; never toggle/flip anything
+    // 🔊 TTS button — toggle: click to speak, click again (or the ⏹ icon) to stop
     const tts = e.target.closest(".tts-btn");
-    if (tts) { speak(decodeURIComponent(tts.dataset.tts || ""), tts.dataset.ttslang || ""); return; }
+    if (tts) {
+      if (tts === activeTtsBtn) { stopTts(); return; }
+      speak(decodeURIComponent(tts.dataset.tts || ""), tts.dataset.ttslang || "", tts);
+      return;
+    }
 
     // Lookup word → open popup
     const w = e.target.closest(".lookup-word");
