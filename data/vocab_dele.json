@@ -6335,6 +6335,444 @@
       "meaning_zh": "(名詞) 生活、人生",
       "example_es": "La vida en Madrid es muy interesante.",
       "example_zh": "馬德里的生活很有趣。"
+    },
+    {
+      "word": "más",
+      "meaning_zh": "(副詞) 更多、更",
+      "example_es": "Necesito más tiempo para terminar el informe.",
+      "example_zh": "我需要更多時間來完成報告。"
+    },
+    {
+      "word": "si",
+      "meaning_zh": "(連接詞) 如果",
+      "example_es": "Si llueve mañana, no iremos al parque.",
+      "example_zh": "如果明天下雨，我們就不去公園。"
+    },
+    {
+      "word": "sin",
+      "meaning_zh": "(介系詞) 沒有、不",
+      "example_es": "Prefiero el café sin azúcar.",
+      "example_zh": "我喜歡不加糖的咖啡。"
+    },
+    {
+      "word": "como",
+      "meaning_zh": "(連接詞) 像、如同、作為",
+      "example_es": "Habla como su padre.",
+      "example_zh": "他說話像他父親。"
+    },
+    {
+      "word": "pero",
+      "meaning_zh": "(連接詞) 但是",
+      "example_es": "Quiero ir, pero no tengo tiempo.",
+      "example_zh": "我想去，但是沒時間。"
+    },
+    {
+      "word": "bien",
+      "meaning_zh": "(副詞) 好、好地",
+      "example_es": "Habla muy bien español.",
+      "example_zh": "他西班牙語說得很好。"
+    },
+    {
+      "word": "haber",
+      "meaning_zh": "(動詞) 有（存在/助動詞）",
+      "example_es": "Hay muchos libros en la mesa.",
+      "example_zh": "桌上有很多書。"
+    },
+    {
+      "word": "eso",
+      "meaning_zh": "(代名詞) 那個、那件事",
+      "example_es": "Eso no es importante.",
+      "example_zh": "那不重要。"
+    },
+    {
+      "word": "así",
+      "meaning_zh": "(副詞) 這樣、如此",
+      "example_es": "No me hables así.",
+      "example_zh": "別這樣跟我說話。"
+    },
+    {
+      "word": "algo",
+      "meaning_zh": "(代名詞) 某個東西、某事",
+      "example_es": "¿Quieres comer algo?",
+      "example_zh": "你想吃點什麼嗎？"
+    },
+    {
+      "word": "cada",
+      "meaning_zh": "(形容詞) 每一個",
+      "example_es": "Cada día estudio español.",
+      "example_zh": "我每天學西班牙語。"
+    },
+    {
+      "word": "cuando",
+      "meaning_zh": "(連接詞) 當...的時候",
+      "example_es": "Cuando llegues, llámame.",
+      "example_zh": "你到的時候打給我。"
+    },
+    {
+      "word": "mucho",
+      "meaning_zh": "(副詞/形容詞) 很多",
+      "example_es": "Te quiero mucho.",
+      "example_zh": "我非常愛你。"
+    },
+    {
+      "word": "mejor",
+      "meaning_zh": "(形容詞/副詞) 更好的、最好的",
+      "example_es": "Este restaurante es el mejor de la ciudad.",
+      "example_zh": "這家餐廳是城裡最好的。"
+    },
+    {
+      "word": "hasta",
+      "meaning_zh": "(介系詞) 直到、甚至",
+      "example_es": "Trabajo hasta las seis.",
+      "example_zh": "我工作到六點。"
+    },
+    {
+      "word": "poco",
+      "meaning_zh": "(副詞/形容詞) 一點、少",
+      "example_es": "Hablo un poco de español.",
+      "example_zh": "我會說一點西班牙語。"
+    },
+    {
+      "word": "otro",
+      "meaning_zh": "(形容詞/代名詞) 其他的、另一個",
+      "example_es": "Quiero otro café, por favor.",
+      "example_zh": "請再給我一杯咖啡。"
+    },
+    {
+      "word": "hacer",
+      "meaning_zh": "(動詞) 做、製作",
+      "example_es": "Hago la tarea por la tarde.",
+      "example_zh": "我下午做作業。"
+    },
+    {
+      "word": "favor",
+      "meaning_zh": "(名詞) 恩惠、幫忙",
+      "example_es": "¿Me puedes hacer un favor?",
+      "example_zh": "你可以幫我一個忙嗎？"
+    },
+    {
+      "word": "poder",
+      "meaning_zh": "(動詞) 能夠、可以",
+      "example_es": "No puedo ir al cine esta noche.",
+      "example_zh": "今晚我不能去看電影。"
+    },
+    {
+      "word": "euro",
+      "meaning_zh": "(名詞) 歐元",
+      "example_es": "El libro cuesta diez euros.",
+      "example_zh": "這本書十歐元。"
+    },
+    {
+      "word": "nada",
+      "meaning_zh": "(代名詞) 沒什麼、無",
+      "example_es": "No tengo nada que decir.",
+      "example_zh": "我沒什麼好說的。"
+    },
+    {
+      "word": "menos",
+      "meaning_zh": "(副詞) 較少、更少",
+      "example_es": "Hoy hace menos frío que ayer.",
+      "example_zh": "今天比昨天沒那麼冷。"
+    },
+    {
+      "word": "pasar",
+      "meaning_zh": "(動詞) 經過、發生、度過",
+      "example_es": "¿Qué te pasa hoy?",
+      "example_zh": "你今天怎麼了？"
+    },
+    {
+      "word": "donde",
+      "meaning_zh": "(副詞) 在哪裡、何處",
+      "example_es": "Esta es la casa donde nací.",
+      "example_zh": "這是我出生的房子。"
+    },
+    {
+      "word": "ver",
+      "meaning_zh": "(動詞) 看、看見",
+      "example_es": "Veo una película todas las noches.",
+      "example_zh": "我每晚看一部電影。"
+    },
+    {
+      "word": "porque",
+      "meaning_zh": "(連接詞) 因為",
+      "example_es": "No voy porque estoy enfermo.",
+      "example_zh": "我不去因為我生病了。"
+    },
+    {
+      "word": "esto",
+      "meaning_zh": "(代名詞) 這個",
+      "example_es": "Esto es muy importante para mí.",
+      "example_zh": "這對我很重要。"
+    },
+    {
+      "word": "cosa",
+      "meaning_zh": "(名詞) 東西、事情",
+      "example_es": "Tengo muchas cosas que hacer.",
+      "example_zh": "我有很多事要做。"
+    },
+    {
+      "word": "lado",
+      "meaning_zh": "(名詞) 邊、旁邊",
+      "example_es": "Siéntate a mi lado.",
+      "example_zh": "坐在我旁邊。"
+    },
+    {
+      "word": "primer",
+      "meaning_zh": "(形容詞) 第一的",
+      "example_es": "Es mi primer día de trabajo.",
+      "example_zh": "今天是我上班的第一天。"
+    },
+    {
+      "word": "decir",
+      "meaning_zh": "(動詞) 說",
+      "example_es": "No sé qué decir ahora.",
+      "example_zh": "我現在不知道該說什麼。"
+    },
+    {
+      "word": "mal",
+      "meaning_zh": "(副詞) 不好、糟糕",
+      "example_es": "Me siento mal hoy.",
+      "example_zh": "我今天感覺不舒服。"
+    },
+    {
+      "word": "todos",
+      "meaning_zh": "(代名詞/形容詞) 所有、每個",
+      "example_es": "Todos los días salgo a correr.",
+      "example_zh": "我每天都出去跑步。"
+    },
+    {
+      "word": "usted",
+      "meaning_zh": "(代名詞) 您（敬稱）",
+      "example_es": "¿Cómo está usted hoy?",
+      "example_zh": "您今天好嗎？"
+    },
+    {
+      "word": "interesante",
+      "meaning_zh": "(形容詞) 有趣的",
+      "example_es": "El libro es muy interesante.",
+      "example_zh": "這本書很有趣。"
+    },
+    {
+      "word": "aquel",
+      "meaning_zh": "(代名詞) 那個（遠指）",
+      "example_es": "Pensé que jamás olvidaría aquel instante.",
+      "example_zh": "我以為我永遠不會忘記那一刻。"
+    },
+    {
+      "word": "gusto",
+      "meaning_zh": "(名詞) 喜好、品味、樂趣",
+      "example_es": "Lo hacemos con mucho gusto.",
+      "example_zh": "我們很樂意做這件事。"
+    },
+    {
+      "word": "oír",
+      "meaning_zh": "(動詞) 聽見",
+      "example_es": "No se oye ruido en el piso.",
+      "example_zh": "公寓裡聽不到噪音。"
+    },
+    {
+      "word": "papá",
+      "meaning_zh": "(名詞) 爸爸",
+      "example_es": "Papá llega del trabajo a las dos.",
+      "example_zh": "爸爸下午兩點下班回家。"
+    },
+    {
+      "word": "pasado",
+      "meaning_zh": "(形容詞) 過去的；(名詞) 過去",
+      "example_es": "La semana pasada elegí la canción para la actuación.",
+      "example_zh": "我上週為演出選了曲子。"
+    },
+    {
+      "word": "especial",
+      "meaning_zh": "(形容詞) 特別的",
+      "example_es": "¿Tienen menú especial para niños?",
+      "example_zh": "你們有兒童特餐嗎？"
+    },
+    {
+      "word": "encantar",
+      "meaning_zh": "(動詞) 非常喜歡",
+      "example_es": "Le encanta venir aquí, es clienta fiel.",
+      "example_zh": "她非常喜歡來這裡，是忠實顧客。"
+    },
+    {
+      "word": "doctor",
+      "meaning_zh": "(名詞) 醫生、博士",
+      "example_es": "Quería pedir una cita con el doctor Ramírez.",
+      "example_zh": "我想預約拉米雷茲醫生的看診。"
+    },
+    {
+      "word": "poder hacer",
+      "meaning_zh": "(動詞) 能夠做",
+      "example_es": "¿En serio puedes hacerme ese precio?",
+      "example_zh": "你真的能給我這個價格嗎？"
+    },
+    {
+      "word": "estudiante",
+      "meaning_zh": "(名詞) 學生",
+      "example_es": "En clase había estudiantes de seis países.",
+      "example_zh": "班上有來自六個國家的學生。"
+    },
+    {
+      "word": "curso",
+      "meaning_zh": "(名詞) 課程、學期、進程",
+      "example_es": "Este curso va a ser una experiencia maravillosa.",
+      "example_zh": "這門課程將會是一段美好的經驗。"
+    },
+    {
+      "word": "mundo",
+      "meaning_zh": "(名詞) 世界",
+      "example_es": "El doliente no rechaza el mundo: lo reescribe.",
+      "example_zh": "哀悼者並未排斥世界，而是改寫它。"
+    },
+    {
+      "word": "película",
+      "meaning_zh": "(名詞) 電影",
+      "example_es": "En esos días veo una película.",
+      "example_zh": "那幾天我會看一部電影。"
+    },
+    {
+      "word": "hablar de",
+      "meaning_zh": "(動詞) 談論",
+      "example_es": "Hablemos de comida, ¿qué desayunas normalmente?",
+      "example_zh": "我們聊聊吃的吧，你早餐通常吃什麼？"
+    },
+    {
+      "word": "dinero",
+      "meaning_zh": "(名詞) 錢、金錢",
+      "example_es": "La comisión por sacar dinero es alta.",
+      "example_zh": "領錢的手續費很高。"
+    },
+    {
+      "word": "coger",
+      "meaning_zh": "(動詞) 拿、抓、搭乘",
+      "example_es": "Mi hermana coge dos botellas de leche.",
+      "example_zh": "我妹妹拿了兩瓶牛奶。"
+    },
+    {
+      "word": "paella",
+      "meaning_zh": "(名詞) 西班牙海鮮飯",
+      "example_es": "La paella de mariscos es nuestra especialidad.",
+      "example_zh": "海鮮飯是我們的招牌菜。"
+    },
+    {
+      "word": "ustedes",
+      "meaning_zh": "(代名詞) 您們(複數正式)",
+      "example_es": "Son ustedes muy amables.",
+      "example_zh": "您們非常親切。"
+    },
+    {
+      "word": "llamarse",
+      "meaning_zh": "(動詞) 名叫、被稱為",
+      "example_es": "Me llamo Lucía Fernández Torres.",
+      "example_zh": "我叫露西亞·費南德茲·托雷斯。"
+    },
+    {
+      "word": "ah",
+      "meaning_zh": "(感嘆) 啊（表驚訝/恍然）",
+      "example_es": "Ah, no sabía nada, ¿y cómo es el chico?",
+      "example_zh": "啊，我都不知道，那男生怎麼樣？"
+    },
+    {
+      "word": "norte",
+      "meaning_zh": "(名詞) 北方、北部",
+      "example_es": "En la sierra norte, a una hora de Madrid.",
+      "example_zh": "在馬德里以北一小時的山區。"
+    },
+    {
+      "word": "contigo",
+      "meaning_zh": "(代名詞) 和你一起",
+      "example_es": "Duerme tranquilo, yo estoy aquí contigo.",
+      "example_zh": "安心睡，我在這裡陪你。"
+    },
+    {
+      "word": "llover",
+      "meaning_zh": "(動詞) 下雨",
+      "example_es": "Si llueve, te llamaré para cambiar los planes.",
+      "example_zh": "如果下雨，我會打給你改計畫。"
+    },
+    {
+      "word": "hambre",
+      "meaning_zh": "(名詞) 飢餓",
+      "example_es": "Tengo hambre. ¿Hay una cafetería cerca?",
+      "example_zh": "我餓了，附近有咖啡廳嗎？"
+    },
+    {
+      "word": "colegio",
+      "meaning_zh": "(名詞) 學校、學院",
+      "example_es": "Lo había estudiado en el colegio.",
+      "example_zh": "我以前在學校學過。"
+    },
+    {
+      "word": "cuerpo",
+      "meaning_zh": "(名詞) 身體",
+      "example_es": "El cuerpo recuerda cada aniversario.",
+      "example_zh": "身體記得每個周年。"
+    },
+    {
+      "word": "serie",
+      "meaning_zh": "(名詞) 影集、系列",
+      "example_es": "Quiero ver una serie nueva en la tele.",
+      "example_zh": "我想在電視上看一部新影集。"
+    },
+    {
+      "word": "tipo",
+      "meaning_zh": "(名詞) 類型；種類",
+      "example_es": "¿Algún tipo de vino que prefiera?",
+      "example_zh": "您偏好哪一類葡萄酒？"
+    },
+    {
+      "word": "mandar",
+      "meaning_zh": "(動詞) 寄；命令",
+      "example_es": "Mándame una foto cuando llegues.",
+      "example_zh": "你到的時候傳張照片給我。"
+    },
+    {
+      "word": "trescientos",
+      "meaning_zh": "(形容詞) 三百",
+      "example_es": "Son trescientos veinte euros en total.",
+      "example_zh": "總共是 320 歐元。"
+    },
+    {
+      "word": "poquito",
+      "meaning_zh": "(名詞/副詞) 一點點",
+      "example_es": "Tengo un poquito de fruta.",
+      "example_zh": "我有一點水果。"
+    },
+    {
+      "word": "chino",
+      "meaning_zh": "(形容詞/名詞) 中國的；中文",
+      "example_es": "Anna quiere aprender chino.",
+      "example_zh": "Anna 想學中文。"
+    },
+    {
+      "word": "dieciocho",
+      "meaning_zh": "(形容詞) 十八",
+      "example_es": "Para los próximos dieciocho meses.",
+      "example_zh": "未來十八個月內。"
+    },
+    {
+      "word": "quedarse",
+      "meaning_zh": "(動詞) 留下；待在",
+      "example_es": "Voy a quedarme en cama todo el día.",
+      "example_zh": "我今天要整天待在床上。"
+    },
+    {
+      "word": "alguno",
+      "meaning_zh": "(代名詞/形容詞) 某個；任何一個",
+      "example_es": "¿Conoces alguno tranquilo?",
+      "example_zh": "你認識哪個安靜的嗎？"
+    },
+    {
+      "word": "italiano",
+      "meaning_zh": "(形容詞/名詞) 義大利的；義大利語",
+      "example_es": "Conozco un restaurante italiano muy bueno.",
+      "example_zh": "我知道一家很好的義大利餐廳。"
+    },
+    {
+      "word": "tener que",
+      "meaning_zh": "(動詞片語) 必須",
+      "example_es": "Tuve que aceptar el error.",
+      "example_zh": "我必須接受這個錯誤。"
     }
   ],
   "da2": [
@@ -13153,6 +13591,828 @@
       "meaning_zh": "(動詞) 嘗試、試圖",
       "example_es": "Voy a intentar aprender a cocinar este verano.",
       "example_zh": "今年夏天我要試著學做菜。"
+    },
+    {
+      "word": "perfecto",
+      "meaning_zh": "(形容詞) 完美的",
+      "example_es": "Tu español es perfecto.",
+      "example_zh": "你的西班牙語很完美。"
+    },
+    {
+      "word": "entre",
+      "meaning_zh": "(介系詞) 在...之間",
+      "example_es": "La tienda está entre el banco y la farmacia.",
+      "example_zh": "商店在銀行和藥局之間。"
+    },
+    {
+      "word": "pues",
+      "meaning_zh": "(連接詞) 那麼、因為",
+      "example_es": "Pues yo creo que tienes razón.",
+      "example_zh": "那麼我覺得你說得對。"
+    },
+    {
+      "word": "tanto",
+      "meaning_zh": "(副詞/形容詞) 那麼多、如此",
+      "example_es": "No comas tanto chocolate.",
+      "example_zh": "別吃那麼多巧克力。"
+    },
+    {
+      "word": "desde",
+      "meaning_zh": "(介系詞) 從、自從",
+      "example_es": "Vivo aquí desde 2010.",
+      "example_zh": "我從 2010 年起住在這裡。"
+    },
+    {
+      "word": "parte",
+      "meaning_zh": "(名詞) 部分",
+      "example_es": "Una parte del libro es muy interesante.",
+      "example_zh": "書的一部分非常有趣。"
+    },
+    {
+      "word": "durante",
+      "meaning_zh": "(介系詞) 在...期間",
+      "example_es": "Estudié durante tres horas.",
+      "example_zh": "我念了三小時的書。"
+    },
+    {
+      "word": "tan",
+      "meaning_zh": "(副詞) 如此、那麼",
+      "example_es": "Eres tan amable conmigo.",
+      "example_zh": "你對我這麼好。"
+    },
+    {
+      "word": "genial",
+      "meaning_zh": "(形容詞) 很棒的、太好了",
+      "example_es": "¡Qué idea tan genial!",
+      "example_zh": "多麼棒的點子！"
+    },
+    {
+      "word": "verdad",
+      "meaning_zh": "(名詞) 真相、真實",
+      "example_es": "Dime la verdad, por favor.",
+      "example_zh": "請告訴我真相。"
+    },
+    {
+      "word": "entonces",
+      "meaning_zh": "(副詞) 那麼、然後",
+      "example_es": "Entonces, ¿qué hacemos ahora?",
+      "example_zh": "那麼我們現在怎麼辦？"
+    },
+    {
+      "word": "algunos",
+      "meaning_zh": "(形容詞/代名詞) 一些",
+      "example_es": "Algunos estudiantes no vinieron a clase.",
+      "example_zh": "有些學生沒來上課。"
+    },
+    {
+      "word": "justo",
+      "meaning_zh": "(副詞/形容詞) 剛好、正好、公正的",
+      "example_es": "Llegaste justo a tiempo.",
+      "example_zh": "你來得剛剛好。"
+    },
+    {
+      "word": "aún",
+      "meaning_zh": "(副詞) 仍然、還",
+      "example_es": "Aún no he terminado el trabajo.",
+      "example_zh": "我還沒完成工作。"
+    },
+    {
+      "word": "seguro",
+      "meaning_zh": "(形容詞/名詞) 確定的、保險",
+      "example_es": "Estoy seguro de que va a llover.",
+      "example_zh": "我確定會下雨。"
+    },
+    {
+      "word": "fin",
+      "meaning_zh": "(名詞) 結束、目的",
+      "example_es": "Al fin de la película todos lloraron.",
+      "example_zh": "電影結尾大家都哭了。"
+    },
+    {
+      "word": "buenas",
+      "meaning_zh": "(感嘆) 您好（簡短問候）",
+      "example_es": "Buenas, ¿está abierto?",
+      "example_zh": "您好，有營業嗎？"
+    },
+    {
+      "word": "ciento",
+      "meaning_zh": "(名詞) 百、百分之",
+      "example_es": "El precio subió un diez por ciento.",
+      "example_zh": "價格上漲了百分之十。"
+    },
+    {
+      "word": "paso",
+      "meaning_zh": "(名詞) 腳步、步驟",
+      "example_es": "Da un paso adelante.",
+      "example_zh": "向前邁一步。"
+    },
+    {
+      "word": "mayor",
+      "meaning_zh": "(形容詞) 較大的、年長的",
+      "example_es": "Mi hermano mayor vive en Madrid.",
+      "example_zh": "我哥哥住在馬德里。"
+    },
+    {
+      "word": "punto",
+      "meaning_zh": "(名詞) 點、地點",
+      "example_es": "Este es el punto más importante.",
+      "example_zh": "這是最重要的一點。"
+    },
+    {
+      "word": "todavía",
+      "meaning_zh": "(副詞) 仍然、還",
+      "example_es": "Todavía no he comido nada.",
+      "example_zh": "我還沒吃任何東西。"
+    },
+    {
+      "word": "atención",
+      "meaning_zh": "(名詞) 注意、關注",
+      "example_es": "Presta atención a la profesora.",
+      "example_zh": "注意聽老師講。"
+    },
+    {
+      "word": "sentir",
+      "meaning_zh": "(動詞) 感覺、感到遺憾",
+      "example_es": "Lo siento mucho por tu pérdida.",
+      "example_zh": "對你的損失我深感遺憾。"
+    },
+    {
+      "word": "completo",
+      "meaning_zh": "(形容詞) 完整的、完全的",
+      "example_es": "El hotel está completo este fin de semana.",
+      "example_zh": "這個週末旅館客滿。"
+    },
+    {
+      "word": "siguiente",
+      "meaning_zh": "(形容詞) 下一個的、接下來的",
+      "example_es": "La siguiente parada es el museo.",
+      "example_zh": "下一站是博物館。"
+    },
+    {
+      "word": "manera",
+      "meaning_zh": "(名詞) 方式、方法",
+      "example_es": "No me gusta su manera de hablar.",
+      "example_zh": "我不喜歡他講話的方式。"
+    },
+    {
+      "word": "vaya",
+      "meaning_zh": "(感嘆) 哎呀、真是",
+      "example_es": "¡Vaya sorpresa verte aquí!",
+      "example_zh": "在這裡見到你真是驚喜！"
+    },
+    {
+      "word": "dejar",
+      "meaning_zh": "(動詞) 留下、讓、停止",
+      "example_es": "Deja las llaves en la mesa.",
+      "example_zh": "把鑰匙放在桌上。"
+    },
+    {
+      "word": "zona",
+      "meaning_zh": "(名詞) 區域、地區",
+      "example_es": "Vivo en una zona tranquila.",
+      "example_zh": "我住在一個安靜的地區。"
+    },
+    {
+      "word": "ni",
+      "meaning_zh": "(連接詞) 也不、既不",
+      "example_es": "No tengo ni tiempo ni dinero.",
+      "example_zh": "我既沒時間也沒錢。"
+    },
+    {
+      "word": "próximo",
+      "meaning_zh": "(形容詞) 下一個的、接下來的",
+      "example_es": "El próximo año visitaré España.",
+      "example_zh": "明年我要去西班牙。"
+    },
+    {
+      "word": "junto",
+      "meaning_zh": "(副詞/形容詞) 一起、在旁邊",
+      "example_es": "Vivimos juntos desde hace cinco años.",
+      "example_zh": "我們在一起住了五年。"
+    },
+    {
+      "word": "sala",
+      "meaning_zh": "(名詞) 廳、房間",
+      "example_es": "Te espero en la sala de reuniones.",
+      "example_zh": "我在會議室等你。"
+    },
+    {
+      "word": "fondo",
+      "meaning_zh": "(名詞) 底部、深處",
+      "example_es": "El baño está al fondo del pasillo.",
+      "example_zh": "洗手間在走廊盡頭。"
+    },
+    {
+      "word": "suerte",
+      "meaning_zh": "(名詞) 運氣、好運",
+      "example_es": "¡Buena suerte en el examen!",
+      "example_zh": "考試好運！"
+    },
+    {
+      "word": "sólo",
+      "meaning_zh": "(副詞) 只、僅僅",
+      "example_es": "Sólo tengo cinco minutos.",
+      "example_zh": "我只有五分鐘。"
+    },
+    {
+      "word": "visita",
+      "meaning_zh": "(名詞) 拜訪、參觀",
+      "example_es": "Mañana tengo una visita al médico.",
+      "example_zh": "明天我要看醫生。"
+    },
+    {
+      "word": "cuidado",
+      "meaning_zh": "(名詞) 小心、注意",
+      "example_es": "Ten cuidado al cruzar la calle.",
+      "example_zh": "過馬路要小心。"
+    },
+    {
+      "word": "ningún",
+      "meaning_zh": "(形容詞) 沒有任何一個",
+      "example_es": "No tengo ningún problema con eso.",
+      "example_zh": "我對那件事沒有任何問題。"
+    },
+    {
+      "word": "pasta",
+      "meaning_zh": "(名詞) 麵食、麵團",
+      "example_es": "Hoy cenamos pasta con tomate.",
+      "example_zh": "今晚我們吃番茄義大利麵。"
+    },
+    {
+      "word": "forma",
+      "meaning_zh": "(名詞) 形狀、方式",
+      "example_es": "No me gusta su forma de hablar.",
+      "example_zh": "我不喜歡他講話的方式。"
+    },
+    {
+      "word": "tortilla",
+      "meaning_zh": "(名詞) 西班牙烘蛋、玉米餅",
+      "example_es": "Aprendí a hacer tortilla española.",
+      "example_zh": "我學會做西班牙烘蛋。"
+    },
+    {
+      "word": "caso",
+      "meaning_zh": "(名詞) 情況、案例",
+      "example_es": "En cualquier caso, llámame mañana.",
+      "example_zh": "無論如何，明天打電話給我。"
+    },
+    {
+      "word": "alguien",
+      "meaning_zh": "(代名詞) 某人、有人",
+      "example_es": "¿Hay alguien en la sala?",
+      "example_zh": "房間裡有人嗎？"
+    },
+    {
+      "word": "deja",
+      "meaning_zh": "(動詞) 留下、讓（dejar 的活用）",
+      "example_es": "Déjame en paz, por favor.",
+      "example_zh": "拜託讓我安靜一下。"
+    },
+    {
+      "word": "dirección",
+      "meaning_zh": "(名詞) 地址、方向",
+      "example_es": "¿Cuál es tu dirección actual?",
+      "example_zh": "你現在的地址是什麼？"
+    },
+    {
+      "word": "plan",
+      "meaning_zh": "(名詞) 計畫",
+      "example_es": "¿Qué planes tienes para el fin de semana?",
+      "example_zh": "你週末有什麼計畫？"
+    },
+    {
+      "word": "allá",
+      "meaning_zh": "(副詞) 那邊、那裡",
+      "example_es": "Vamos más allá del centro.",
+      "example_zh": "我們走到市中心更遠的地方。"
+    },
+    {
+      "word": "posible",
+      "meaning_zh": "(形容詞) 可能的",
+      "example_es": "Es posible que llegue tarde.",
+      "example_zh": "我可能會遲到。"
+    },
+    {
+      "word": "muchísimo",
+      "meaning_zh": "(副詞) 非常多、極為",
+      "example_es": "Me gusta muchísimo este lugar.",
+      "example_zh": "我超喜歡這個地方。"
+    },
+    {
+      "word": "arte",
+      "meaning_zh": "(名詞) 藝術",
+      "example_es": "Estudia historia del arte en la universidad.",
+      "example_zh": "他在大學讀藝術史。"
+    },
+    {
+      "word": "conmigo",
+      "meaning_zh": "(代名詞) 和我一起",
+      "example_es": "¿Vienes conmigo a la fiesta?",
+      "example_zh": "你要跟我一起去派對嗎？"
+    },
+    {
+      "word": "gustaría",
+      "meaning_zh": "(動詞) 想要（gustar 條件式，禮貌請求）",
+      "example_es": "Me gustaría viajar a Japón.",
+      "example_zh": "我想去日本旅行。"
+    },
+    {
+      "word": "normal",
+      "meaning_zh": "(形容詞) 正常的、普通的",
+      "example_es": "Es normal sentirse nervioso antes de un examen.",
+      "example_zh": "考試前感到緊張是正常的。"
+    },
+    {
+      "word": "espacio",
+      "meaning_zh": "(名詞) 空間、地方",
+      "example_es": "Necesito más espacio en mi habitación.",
+      "example_zh": "我房間需要更多空間。"
+    },
+    {
+      "word": "cultura",
+      "meaning_zh": "(名詞) 文化",
+      "example_es": "Aprender una lengua implica empaparse de su cultura.",
+      "example_zh": "學習一種語言意味著沉浸於其文化中。"
+    },
+    {
+      "word": "valor",
+      "meaning_zh": "(名詞) 價值、勇氣",
+      "example_es": "Las habilidades de comunicación han adquirido un valor inusitado.",
+      "example_zh": "溝通能力已獲得前所未有的價值。"
+    },
+    {
+      "word": "texto",
+      "meaning_zh": "(名詞) 文本、文字",
+      "example_es": "Pretender que un texto se baste a sí mismo sería ignorar al lector.",
+      "example_zh": "認為文本能自給自足就是忽視讀者的存在。"
+    },
+    {
+      "word": "real",
+      "meaning_zh": "(形容詞) 真實的、實際的",
+      "example_es": "Lo real desborda cualquier signo disponible.",
+      "example_zh": "真實超越了任何可用的符號。"
+    },
+    {
+      "word": "prisa",
+      "meaning_zh": "(名詞) 匆忙、急迫",
+      "example_es": "Conviene reivindicar una soledad frente a la prisa común.",
+      "example_zh": "面對共同的匆忙，應主張一種孤獨。"
+    },
+    {
+      "word": "entero",
+      "meaning_zh": "(形容詞) 完整的、整個的",
+      "example_es": "Pasé un curso entero en Salamanca.",
+      "example_zh": "我在薩拉曼卡度過了一整個學年。"
+    },
+    {
+      "word": "encima",
+      "meaning_zh": "(副詞) 上面、上方",
+      "example_es": "Me la pongo encima de los vaqueros nuevos.",
+      "example_zh": "我把它穿在新牛仔褲外面。"
+    },
+    {
+      "word": "total",
+      "meaning_zh": "(名詞) 總計；(形容詞) 總的",
+      "example_es": "En total son ciento ochenta y cinco euros.",
+      "example_zh": "總共是一百八十五歐元。"
+    },
+    {
+      "word": "estudio",
+      "meaning_zh": "(名詞) 研究、學習",
+      "example_es": "Diversos estudios han concluido que el estrés baja.",
+      "example_zh": "多項研究指出壓力會下降。"
+    },
+    {
+      "word": "internacional",
+      "meaning_zh": "(形容詞) 國際的",
+      "example_es": "Se abordó el lanzamiento internacional del producto.",
+      "example_zh": "他們討論了產品的國際發表。"
+    },
+    {
+      "word": "atrás",
+      "meaning_zh": "(副詞) 在後面、向後",
+      "example_es": "Educar en la memoria no es mirar atrás con nostalgia.",
+      "example_zh": "在記憶中受教育並非帶著鄉愁回望過去。"
+    },
+    {
+      "word": "estado",
+      "meaning_zh": "(名詞) 狀態、國家",
+      "example_es": "Los productos están en buen estado.",
+      "example_zh": "這些產品處於良好的狀態。"
+    },
+    {
+      "word": "línea",
+      "meaning_zh": "(名詞) 線、路線、線上",
+      "example_es": "Habilitaremos una línea de atención específica.",
+      "example_zh": "我們將開通一條專屬的客服熱線。"
+    },
+    {
+      "word": "peso",
+      "meaning_zh": "(名詞) 重量、比索、份量",
+      "example_es": "Sin formación específica ningún docente puede asumir solo el peso.",
+      "example_zh": "沒有特定培訓，沒有教師能獨自承擔這份重擔。"
+    },
+    {
+      "word": "nivel",
+      "meaning_zh": "(名詞) 程度、層級",
+      "example_es": "Es perfecta para mi nivel actual.",
+      "example_zh": "它對我目前的程度很合適。"
+    },
+    {
+      "word": "tampoco",
+      "meaning_zh": "(副詞) 也不",
+      "example_es": "Tampoco se ha presentado un calendario actualizado.",
+      "example_zh": "也沒有提出更新版的行程表。"
+    },
+    {
+      "word": "ninguno",
+      "meaning_zh": "(代名詞) 沒有任何一個",
+      "example_es": "Ninguna máquina puede completar el silencio por nosotros.",
+      "example_zh": "沒有任何機器能替我們完成沉默。"
+    },
+    {
+      "word": "hacer una lista",
+      "meaning_zh": "(動詞) 列清單",
+      "example_es": "Hagamos una lista con todo lo que decidimos hoy.",
+      "example_zh": "我們把今天決定的所有事情列成清單吧。"
+    },
+    {
+      "word": "código",
+      "meaning_zh": "(名詞) 代碼、密碼",
+      "example_es": "Le envío el código del cupón por email.",
+      "example_zh": "我用電子郵件把優惠券代碼寄給您。"
+    },
+    {
+      "word": "incluso",
+      "meaning_zh": "(副詞) 甚至",
+      "example_es": "Andrés llegó incluso antes que yo.",
+      "example_zh": "安德烈斯甚至比我更早到。"
+    },
+    {
+      "word": "nadie",
+      "meaning_zh": "(代名詞) 沒有人",
+      "example_es": "Edward Hopper supo pintarlas mejor que nadie.",
+      "example_zh": "愛德華霍普比任何人都更懂得畫它們。"
+    },
+    {
+      "word": "tradicional",
+      "meaning_zh": "(形容詞) 傳統的",
+      "example_es": "Aprendimos a preparar una tortilla española tradicional.",
+      "example_zh": "我們學會做傳統西班牙馬鈴薯蛋餅。"
+    },
+    {
+      "word": "deber tomar",
+      "meaning_zh": "(動詞) 必須服用",
+      "example_es": "¿Cómo debo tomar las pastillas?",
+      "example_zh": "我該怎麼服用這些藥？"
+    },
+    {
+      "word": "necesario",
+      "meaning_zh": "(形容詞) 必要的",
+      "example_es": "No será necesario en esta consulta.",
+      "example_zh": "這次看診不需要。"
+    },
+    {
+      "word": "esperar que",
+      "meaning_zh": "(動詞) 希望、期待",
+      "example_es": "Esperemos que haga buen tiempo.",
+      "example_zh": "希望天氣放晴。"
+    },
+    {
+      "word": "distinto",
+      "meaning_zh": "(形容詞) 不同的",
+      "example_es": "Había estudiantes de seis países distintos.",
+      "example_zh": "有來自六個不同國家的學生。"
+    },
+    {
+      "word": "asado",
+      "meaning_zh": "(名詞/形容詞) 烤肉；烤的",
+      "example_es": "Quiero una ensalada y pollo asado.",
+      "example_zh": "我想要一份沙拉和烤雞。"
+    },
+    {
+      "word": "sacar",
+      "meaning_zh": "(動詞) 取出、領取、拿出",
+      "example_es": "¿Tengo que sacar mi ordenador?",
+      "example_zh": "我需要把電腦拿出來嗎？"
+    },
+    {
+      "word": "profesional",
+      "meaning_zh": "(名詞/形容詞) 專業人士；專業的",
+      "example_es": "Muchos profesionales lamentan la falta de un marco fiscal claro.",
+      "example_zh": "許多專業人士感嘆缺乏明確的稅務框架。"
+    },
+    {
+      "word": "programa",
+      "meaning_zh": "(名詞) 計畫、節目、程式",
+      "example_es": "Han lanzado programas para subvencionar la fibra óptica.",
+      "example_zh": "他們推出補助光纖的計畫。"
+    },
+    {
+      "word": "control",
+      "meaning_zh": "(名詞) 控制、檢查",
+      "example_es": "¿Dónde está el control de seguridad?",
+      "example_zh": "安檢在哪裡？"
+    },
+    {
+      "word": "tamaño",
+      "meaning_zh": "(名詞) 大小、尺寸",
+      "example_es": "Depende del tamaño, pero ronda entre sesenta y noventa euros.",
+      "example_zh": "視大小而定，大約六十到九十歐元。"
+    },
+    {
+      "word": "comenzar",
+      "meaning_zh": "(動詞) 開始",
+      "example_es": "Han comenzado a publicar guías.",
+      "example_zh": "他們開始出版指南。"
+    },
+    {
+      "word": "importar",
+      "meaning_zh": "(動詞) 重要、在意；進口",
+      "example_es": "Me lo llevo si no os importa.",
+      "example_zh": "如果你們不介意，我帶走它。"
+    },
+    {
+      "word": "dni",
+      "meaning_zh": "(名詞) 西班牙身分證(縮寫)",
+      "example_es": "Necesito su DNI para el formulario.",
+      "example_zh": "我需要您的身分證來填表。"
+    },
+    {
+      "word": "alrededor",
+      "meaning_zh": "(副詞/介系詞) 周圍、大約",
+      "example_es": "Alrededor de litro y medio, repartido entre las comidas.",
+      "example_zh": "大約一公升半，分配在各餐之間。"
+    },
+    {
+      "word": "correcto",
+      "meaning_zh": "(形容詞) 正確的、得體的",
+      "example_es": "Todo correcto, aquí tienes la firma.",
+      "example_zh": "一切正確，這是簽名。"
+    },
+    {
+      "word": "confirmar",
+      "meaning_zh": "(動詞) 確認、證實",
+      "example_es": "Ya está confirmado.",
+      "example_zh": "已經確認了。"
+    },
+    {
+      "word": "estupendo",
+      "meaning_zh": "(形容詞) 極好的、太棒了",
+      "example_es": "Estupendo, así esperamos al resto del grupo allí.",
+      "example_zh": "太好了，我們就在那裡等其他人。"
+    },
+    {
+      "word": "aparecer",
+      "meaning_zh": "(動詞) 出現、顯現",
+      "example_es": "Si aparece sarpullido, vaya a urgencias.",
+      "example_zh": "如果出現疹子，請去急診。"
+    },
+    {
+      "word": "verbo",
+      "meaning_zh": "(名詞) 動詞",
+      "example_es": "Hoy hemos estudiado los verbos en presente.",
+      "example_zh": "今天我們學了現在式動詞。"
+    },
+    {
+      "word": "irse",
+      "meaning_zh": "(動詞) 離開",
+      "example_es": "Antes de irme, le pedí su número.",
+      "example_zh": "離開前我跟他要了電話。"
+    },
+    {
+      "word": "transporte",
+      "meaning_zh": "(名詞) 交通、運輸",
+      "example_es": "Depende de la articulación con el transporte público.",
+      "example_zh": "取決於與公共運輸的接駁。"
+    },
+    {
+      "word": "orden",
+      "meaning_zh": "(名詞) 順序、命令、秩序",
+      "example_es": "Aquí tiene las dos, espero que esté todo en orden.",
+      "example_zh": "兩份在這裡，希望一切都正確。"
+    },
+    {
+      "word": "adulto",
+      "meaning_zh": "(名詞/形容詞) 成人；成年的",
+      "example_es": "Seremos seis adultos y dos niños.",
+      "example_zh": "我們將有六位大人和兩位小孩。"
+    },
+    {
+      "word": "antiguo",
+      "meaning_zh": "(形容詞) 古老的、舊的",
+      "example_es": "Los antiguos edificios industriales han sido rehabilitados.",
+      "example_zh": "舊工業建築已被改建。"
+    },
+    {
+      "word": "descubrir",
+      "meaning_zh": "(動詞) 發現",
+      "example_es": "Descubrimos varias láminas de los cuadros.",
+      "example_zh": "我們發現了好幾張畫作的圖版。"
+    },
+    {
+      "word": "faltar",
+      "meaning_zh": "(動詞) 缺少、缺席",
+      "example_es": "Hoy nos faltan dos personas.",
+      "example_zh": "今天我們少了兩個人。"
+    },
+    {
+      "word": "tinto",
+      "meaning_zh": "(形容詞/名詞) 紅酒；紅色的",
+      "example_es": "Para mí, una copa de vino tinto.",
+      "example_zh": "我要一杯紅酒。"
+    },
+    {
+      "word": "buenísimo",
+      "meaning_zh": "(形容詞) 非常好的、超棒的",
+      "example_es": "El flan está buenísimo.",
+      "example_zh": "焦糖布丁非常好吃。"
+    },
+    {
+      "word": "adelante",
+      "meaning_zh": "(副詞) 向前、之後",
+      "example_es": "Más adelante surgieron momentos de tensión.",
+      "example_zh": "後來出現了一些緊張時刻。"
+    },
+    {
+      "word": "japonés",
+      "meaning_zh": "(名詞/形容詞) 日語；日本的",
+      "example_es": "El japonés me obligó a replantearme la gramática.",
+      "example_zh": "日語讓我重新思考文法。"
+    },
+    {
+      "word": "turno",
+      "meaning_zh": "(名詞) 輪班；輪流；順序",
+      "example_es": "Cuando termino mi turno del sábado, vuelvo andando a casa.",
+      "example_zh": "我週六輪班結束後，會走路回家。"
+    },
+    {
+      "word": "europeo",
+      "meaning_zh": "(形容詞/名詞) 歐洲的；歐洲人",
+      "example_es": "Algunos países europeos debaten esta ley.",
+      "example_zh": "一些歐洲國家正在討論這項法律。"
+    },
+    {
+      "word": "fuerza",
+      "meaning_zh": "(名詞) 力量；力氣",
+      "example_es": "Ese símbolo adquiere una fuerza política.",
+      "example_zh": "那個符號獲得了一種政治力量。"
+    },
+    {
+      "word": "aspecto",
+      "meaning_zh": "(名詞) 方面；外表",
+      "example_es": "Otro aspecto que merece atención es la ecología.",
+      "example_zh": "另一個值得注意的方面是生態問題。"
+    },
+    {
+      "word": "máquina",
+      "meaning_zh": "(名詞) 機器",
+      "example_es": "Limpia la máquina después de usarla.",
+      "example_zh": "使用後請清潔機器。"
+    },
+    {
+      "word": "oro",
+      "meaning_zh": "(名詞) 金；黃金",
+      "example_es": "Una guía local vale oro.",
+      "example_zh": "一位當地嚮導非常珍貴。"
+    },
+    {
+      "word": "gana",
+      "meaning_zh": "(名詞) 想要；意願；食慾",
+      "example_es": "No tengo ganas de cocinar hoy.",
+      "example_zh": "我今天不想做飯。"
+    },
+    {
+      "word": "meter",
+      "meaning_zh": "(動詞) 放入；裝入",
+      "example_es": "Te meto todo en dos bolsas.",
+      "example_zh": "我幫你全部裝進兩個袋子裡。"
+    },
+    {
+      "word": "ideal",
+      "meaning_zh": "(形容詞) 理想的；完美的",
+      "example_es": "Suena ideal para lo que necesito.",
+      "example_zh": "聽起來非常符合我的需要。"
+    },
+    {
+      "word": "pasillo",
+      "meaning_zh": "(名詞) 走廊；通道",
+      "example_es": "Apago la luz del pasillo.",
+      "example_zh": "我關掉走廊的燈。"
+    },
+    {
+      "word": "sobrar",
+      "meaning_zh": "(動詞) 剩下；多餘",
+      "example_es": "Tienes tiempo de sobra.",
+      "example_zh": "你時間綽綽有餘。"
+    },
+    {
+      "word": "finde",
+      "meaning_zh": "(名詞) 週末（口語）",
+      "example_es": "Nos vemos el lunes, buen finde.",
+      "example_zh": "週一見，週末愉快。"
+    },
+    {
+      "word": "email",
+      "meaning_zh": "(名詞) 電子郵件",
+      "example_es": "Le envío el código por email.",
+      "example_zh": "我用電子郵件把代碼寄給您。"
+    },
+    {
+      "word": "saludo",
+      "meaning_zh": "(名詞) 問候；致意",
+      "example_es": "Un saludo cordial.",
+      "example_zh": "致上誠摯的問候。"
+    },
+    {
+      "word": "carné",
+      "meaning_zh": "(名詞) 證件；卡片",
+      "example_es": "Su carné es internacional.",
+      "example_zh": "您的駕照是國際駕照。"
+    },
+    {
+      "word": "gramática",
+      "meaning_zh": "(名詞) 文法；語法",
+      "example_es": "Mañana tenemos clase de gramática.",
+      "example_zh": "明天我們有文法課。"
+    },
+    {
+      "word": "planeado",
+      "meaning_zh": "(形容詞) 計劃好的",
+      "example_es": "No tengo planeado salir del país.",
+      "example_zh": "我沒計劃要出國。"
+    },
+    {
+      "word": "olor",
+      "meaning_zh": "(名詞) 氣味；味道",
+      "example_es": "Me encanta el olor a libros antiguos.",
+      "example_zh": "我喜歡舊書的味道。"
+    },
+    {
+      "word": "universitario",
+      "meaning_zh": "(形容詞/名詞) 大學的；大學生",
+      "example_es": "Yo soy estudiante universitario.",
+      "example_zh": "我是大學生。"
+    },
+    {
+      "word": "simple",
+      "meaning_zh": "(形容詞) 簡單的；單純的",
+      "example_es": "Un simple comunicado no basta.",
+      "example_zh": "光是一份簡單的聲明還不夠。"
+    },
+    {
+      "word": "dedicar",
+      "meaning_zh": "(動詞) 投入；獻給",
+      "example_es": "Solo puedo dedicarle veinte minutos.",
+      "example_zh": "我只能花二十分鐘給它。"
+    },
+    {
+      "word": "través",
+      "meaning_zh": "(名詞) 透過（搭配 a través de）",
+      "example_es": "Aprendo idiomas a través de pódcast.",
+      "example_zh": "我透過 Podcast 學語言。"
+    },
+    {
+      "word": "útil",
+      "meaning_zh": "(形容詞) 有用的；實用的",
+      "example_es": "Si hubiera sabido que era tan útil...",
+      "example_zh": "如果我早知道這麼有用就好了…"
+    },
+    {
+      "word": "ocurrir",
+      "meaning_zh": "(動詞) 發生；想到",
+      "example_es": "No se me ocurre nada.",
+      "example_zh": "我什麼都想不到。"
+    },
+    {
+      "word": "cucharada",
+      "meaning_zh": "(名詞) 一湯匙",
+      "example_es": "Una cucharada por la mañana.",
+      "example_zh": "早上一湯匙。"
+    },
+    {
+      "word": "lana",
+      "meaning_zh": "(名詞) 羊毛",
+      "example_es": "Esta de lana es muy abrigada.",
+      "example_zh": "這件羊毛的很保暖。"
+    },
+    {
+      "word": "parking",
+      "meaning_zh": "(名詞) 停車場",
+      "example_es": "Tenemos un parking propio en el sótano.",
+      "example_zh": "我們在地下室有自己的停車場。"
+    },
+    {
+      "word": "online",
+      "meaning_zh": "(形容詞) 線上的",
+      "example_es": "Las clases son online.",
+      "example_zh": "課程是線上進行的。"
+    },
+    {
+      "word": "tráfico",
+      "meaning_zh": "(名詞) 交通；流量",
+      "example_es": "Había mucho tráfico.",
+      "example_zh": "塞車很嚴重。"
     }
   ],
   "db1": [
@@ -30297,6 +31557,1560 @@
       "meaning_zh": "(片語) 隨機應變、邊做邊看",
       "example_es": "No hay plan, lo decidiremos sobre la marcha.",
       "example_zh": "沒有計畫，我們邊做邊決定。"
+    },
+    {
+      "word": "sino",
+      "meaning_zh": "(連接詞) 而是",
+      "example_es": "No es rojo, sino azul.",
+      "example_zh": "不是紅色，而是藍色。"
+    },
+    {
+      "word": "tal",
+      "meaning_zh": "(形容詞/代名詞) 這樣的、如此的",
+      "example_es": "Nunca dije tal cosa.",
+      "example_zh": "我從未說過這樣的話。"
+    },
+    {
+      "word": "cualquier",
+      "meaning_zh": "(形容詞) 任何的",
+      "example_es": "Puedes venir cualquier día.",
+      "example_zh": "你任何一天都可以來。"
+    },
+    {
+      "word": "sería",
+      "meaning_zh": "(動詞) 將會是（ser 的條件式）",
+      "example_es": "Sería ideal terminar antes del viernes.",
+      "example_zh": "在週五前完成會是最理想的。"
+    },
+    {
+      "word": "falta",
+      "meaning_zh": "(名詞) 缺少、缺乏",
+      "example_es": "Hay falta de personal en la empresa.",
+      "example_zh": "公司缺乏人手。"
+    },
+    {
+      "word": "silencio",
+      "meaning_zh": "(名詞) 寂靜、沉默",
+      "example_es": "Por favor, guarden silencio.",
+      "example_zh": "請保持安靜。"
+    },
+    {
+      "word": "apuntar",
+      "meaning_zh": "(動詞) 記下、登記",
+      "example_es": "Voy a apuntar tu número de teléfono.",
+      "example_zh": "我要記下你的電話號碼。"
+    },
+    {
+      "word": "ante",
+      "meaning_zh": "(介系詞) 在...之前、面對",
+      "example_es": "Ante este problema, debemos actuar rápido.",
+      "example_zh": "面對這個問題，我們必須迅速行動。"
+    },
+    {
+      "word": "resultar",
+      "meaning_zh": "(動詞) 結果為、變成",
+      "example_es": "El examen resultó muy difícil.",
+      "example_zh": "考試結果非常難。"
+    },
+    {
+      "word": "cierto",
+      "meaning_zh": "(形容詞) 確定的、某個",
+      "example_es": "Es cierto lo que dices.",
+      "example_zh": "你說的是真的。"
+    },
+    {
+      "word": "digital",
+      "meaning_zh": "(形容詞) 數位的",
+      "example_es": "Prefiero leer libros en formato digital.",
+      "example_zh": "我比較喜歡讀數位格式的書。"
+    },
+    {
+      "word": "quizá",
+      "meaning_zh": "(副詞) 也許、或許",
+      "example_es": "Quizá venga mañana a verte.",
+      "example_zh": "也許我明天會來看你。"
+    },
+    {
+      "word": "sonar",
+      "meaning_zh": "(動詞) 聽起來、響",
+      "example_es": "Suena el teléfono, contesta tú.",
+      "example_zh": "電話響了，你接吧。"
+    },
+    {
+      "word": "sentido",
+      "meaning_zh": "(名詞) 意義、感覺",
+      "example_es": "Esta frase no tiene sentido.",
+      "example_zh": "這句話沒有意義。"
+    },
+    {
+      "word": "sistema",
+      "meaning_zh": "(名詞) 系統、制度",
+      "example_es": "El sistema operativo se actualizó ayer.",
+      "example_zh": "作業系統昨天更新了。"
+    },
+    {
+      "word": "menudo",
+      "meaning_zh": "(片語) a menudo 經常、時常",
+      "example_es": "A menudo voy al cine los sábados.",
+      "example_zh": "我週六常常去看電影。"
+    },
+    {
+      "word": "pago",
+      "meaning_zh": "(名詞) 付款、支付",
+      "example_es": "El pago se realizará en efectivo.",
+      "example_zh": "付款將以現金支付。"
+    },
+    {
+      "word": "igualmente",
+      "meaning_zh": "(副詞) 同樣地、彼此彼此",
+      "example_es": "Encantado de conocerte. Igualmente.",
+      "example_zh": "很高興認識你。彼此彼此。"
+    },
+    {
+      "word": "futuro",
+      "meaning_zh": "(名詞) 未來",
+      "example_es": "Pienso mucho en el futuro de mis hijos.",
+      "example_zh": "我常常想著孩子們的未來。"
+    },
+    {
+      "word": "sector",
+      "meaning_zh": "(名詞) 部門、行業",
+      "example_es": "Trabaja en el sector tecnológico.",
+      "example_zh": "他在科技業工作。"
+    },
+    {
+      "word": "ello",
+      "meaning_zh": "(代名詞) 它、那件事（中性代詞）",
+      "example_es": "Por ello, debemos tomar precauciones.",
+      "example_zh": "因此，我們必須採取預防措施。"
+    },
+    {
+      "word": "hacia",
+      "meaning_zh": "(介系詞) 朝向、往",
+      "example_es": "Caminamos hacia el centro de la ciudad.",
+      "example_zh": "我們朝市中心走去。"
+    },
+    {
+      "word": "capacidad",
+      "meaning_zh": "(名詞) 能力、容量",
+      "example_es": "Tiene una gran capacidad para los idiomas.",
+      "example_zh": "他在語言方面有很大的能力。"
+    },
+    {
+      "word": "posibilidad",
+      "meaning_zh": "(名詞) 可能性、機會",
+      "example_es": "Existe la posibilidad de cambiar la fecha.",
+      "example_zh": "有改變日期的可能。"
+    },
+    {
+      "word": "paciencia",
+      "meaning_zh": "(名詞) 耐心",
+      "example_es": "Hay que tener mucha paciencia con los niños.",
+      "example_zh": "對小孩需要很有耐心。"
+    },
+    {
+      "word": "modo",
+      "meaning_zh": "(名詞) 方式、模式",
+      "example_es": "De este modo es más fácil.",
+      "example_zh": "用這種方式比較容易。"
+    },
+    {
+      "word": "lenguaje",
+      "meaning_zh": "(名詞) 語言、用語",
+      "example_es": "Usa un lenguaje muy formal.",
+      "example_zh": "他用很正式的語言。"
+    },
+    {
+      "word": "detalle",
+      "meaning_zh": "(名詞) 細節",
+      "example_es": "Cuéntame todos los detalles.",
+      "example_zh": "把所有細節都告訴我。"
+    },
+    {
+      "word": "social",
+      "meaning_zh": "(形容詞) 社會的、社交的",
+      "example_es": "Tiene mucha vida social.",
+      "example_zh": "他社交生活很豐富。"
+    },
+    {
+      "word": "técnico",
+      "meaning_zh": "(形容詞/名詞) 技術的、技術人員",
+      "example_es": "Necesito ayuda técnica con el ordenador.",
+      "example_zh": "我電腦需要技術協助。"
+    },
+    {
+      "word": "quisiera",
+      "meaning_zh": "(動詞) 我想要（querer 的禮貌虛擬式）",
+      "example_es": "Quisiera reservar una mesa para dos.",
+      "example_zh": "我想訂兩人桌。"
+    },
+    {
+      "word": "cultural",
+      "meaning_zh": "(形容詞) 文化的",
+      "example_es": "Hay muchas actividades culturales este mes.",
+      "example_zh": "這個月有很多文化活動。"
+    },
+    {
+      "word": "situación",
+      "meaning_zh": "(名詞) 情況、處境",
+      "example_es": "La situación económica es complicada.",
+      "example_zh": "經濟情況很複雜。"
+    },
+    {
+      "word": "seguridad",
+      "meaning_zh": "(名詞) 安全、保障",
+      "example_es": "La seguridad del aeropuerto es estricta.",
+      "example_zh": "機場的安檢很嚴格。"
+    },
+    {
+      "word": "material",
+      "meaning_zh": "(名詞) 材料、物質",
+      "example_es": "Necesitamos más materiales para el proyecto.",
+      "example_zh": "我們需要更多材料給專案。"
+    },
+    {
+      "word": "propio",
+      "meaning_zh": "(形容詞) 自己的、本身的",
+      "example_es": "Tengo mi propio coche.",
+      "example_zh": "我有自己的車。"
+    },
+    {
+      "word": "necesidad",
+      "meaning_zh": "(名詞) 必要、需要",
+      "example_es": "No hay necesidad de preocuparse.",
+      "example_zh": "沒必要擔心。"
+    },
+    {
+      "word": "fenómeno",
+      "meaning_zh": "(名詞) 現象",
+      "example_es": "Este fenómeno ha reactivado la economía local.",
+      "example_zh": "這個現象重新活絡了當地經濟。"
+    },
+    {
+      "word": "laboral",
+      "meaning_zh": "(形容詞) 工作的、勞動的",
+      "example_es": "Es necesario conciliar la vida laboral y familiar.",
+      "example_zh": "需要平衡工作與家庭生活。"
+    },
+    {
+      "word": "tras",
+      "meaning_zh": "(介系詞) 在...之後",
+      "example_es": "Tras un debate extenso, se acordó constituir un grupo de trabajo.",
+      "example_zh": "經過冗長的辯論後，他們同意成立一個工作小組。"
+    },
+    {
+      "word": "enorme",
+      "meaning_zh": "(形容詞) 巨大的、龐大的",
+      "example_es": "Mi abuela me esperaba con una sonrisa enorme.",
+      "example_zh": "我奶奶帶著燦爛的笑容等著我。"
+    },
+    {
+      "word": "extra",
+      "meaning_zh": "(形容詞) 額外的、特級的",
+      "example_es": "Una botella grande del aceite virgen extra.",
+      "example_zh": "一大瓶特級初榨橄欖油。"
+    },
+    {
+      "word": "reconocer",
+      "meaning_zh": "(動詞) 承認、辨認",
+      "example_es": "Hay que reconocer que muchos padres se sienten desbordados.",
+      "example_zh": "必須承認許多家長感到不堪負荷。"
+    },
+    {
+      "word": "decisión",
+      "meaning_zh": "(名詞) 決定、決策",
+      "example_es": "Cualquier decisión deberá tener en cuenta el bienestar.",
+      "example_zh": "任何決定都必須考量福祉。"
+    },
+    {
+      "word": "diverso",
+      "meaning_zh": "(形容詞) 各種各樣的、多元的",
+      "example_es": "Diversos estudios han concluido lo mismo.",
+      "example_zh": "多項研究都得出了相同的結論。"
+    },
+    {
+      "word": "definitivo",
+      "meaning_zh": "(形容詞) 最終的、確定的",
+      "example_es": "Quedó fijada la hoja de ruta definitiva.",
+      "example_zh": "最終路線圖已確定。"
+    },
+    {
+      "word": "jamás",
+      "meaning_zh": "(副詞) 從不、絕不",
+      "example_es": "El idioma jamás se deja domesticar del todo.",
+      "example_zh": "語言從來不會被完全馴服。"
+    },
+    {
+      "word": "época",
+      "meaning_zh": "(名詞) 時代、時期",
+      "example_es": "Frente al ruido incesante de la época, la pausa es subversiva.",
+      "example_zh": "面對這個時代不停的噪音，停頓本身就具顛覆性。"
+    },
+    {
+      "word": "producir",
+      "meaning_zh": "(動詞) 生產、製造",
+      "example_es": "Reciclan el aceite usado para producir biocombustible.",
+      "example_zh": "他們回收廢油來生產生質燃料。"
+    },
+    {
+      "word": "medida",
+      "meaning_zh": "(名詞) 措施、尺寸",
+      "example_es": "Procederemos a votar las medidas propuestas.",
+      "example_zh": "我們將對提出的措施進行投票。"
+    },
+    {
+      "word": "personal",
+      "meaning_zh": "(名詞) 員工；(形容詞) 個人的",
+      "example_es": "Se refuerza la formación de todo el personal.",
+      "example_zh": "全體員工的訓練都得到加強。"
+    },
+    {
+      "word": "económico",
+      "meaning_zh": "(形容詞) 經濟的、便宜的",
+      "example_es": "Algunas propuestas suponen una carga económica.",
+      "example_zh": "某些提案構成經濟負擔。"
+    },
+    {
+      "word": "actual",
+      "meaning_zh": "(形容詞) 目前的、當前的",
+      "example_es": "Es perfecta para mi nivel actual.",
+      "example_zh": "它對我目前的程度而言很合適。"
+    },
+    {
+      "word": "consistir",
+      "meaning_zh": "(動詞) 在於、由...組成",
+      "example_es": "El reto consiste en mantener el equilibrio.",
+      "example_zh": "挑戰在於維持平衡。"
+    },
+    {
+      "word": "razonable",
+      "meaning_zh": "(形容詞) 合理的",
+      "example_es": "Es razonable suponer que se exigirán estos sellos.",
+      "example_zh": "可以合理推測這些認證將被要求。"
+    },
+    {
+      "word": "relación",
+      "meaning_zh": "(名詞) 關係、關聯",
+      "example_es": "En relación con lo anterior, conviene precisar el informe.",
+      "example_zh": "關於前面提到的，有必要釐清報告內容。"
+    },
+    {
+      "word": "conocimiento",
+      "meaning_zh": "(名詞) 知識、認識",
+      "example_es": "Lo importante no era el conocimiento sobre el continente.",
+      "example_zh": "重要的不是對該大陸的知識。"
+    },
+    {
+      "word": "experto",
+      "meaning_zh": "(名詞) 專家；(形容詞) 內行的",
+      "example_es": "Algunos expertos sugieren adaptar las oficinas.",
+      "example_zh": "一些專家建議改造辦公室。"
+    },
+    {
+      "word": "mantener",
+      "meaning_zh": "(動詞) 維持、保養",
+      "example_es": "Es imprescindible mantener dos días presenciales.",
+      "example_zh": "保留兩天進辦公室是不可或缺的。"
+    },
+    {
+      "word": "raro",
+      "meaning_zh": "(形容詞) 罕見的、奇怪的",
+      "example_es": "Rara vez el lector se equivoca al discernirlo.",
+      "example_zh": "讀者很少在辨別這件事時出錯。"
+    },
+    {
+      "word": "acceso",
+      "meaning_zh": "(名詞) 進入、存取",
+      "example_es": "Quedan al margen por falta de acceso a teléfonos inteligentes.",
+      "example_zh": "他們因為缺乏智慧型手機的取得管道而被邊緣化。"
+    },
+    {
+      "word": "acompañar",
+      "meaning_zh": "(動詞) 陪伴",
+      "example_es": "Siempre soñé con poder acompañar a mis amigos.",
+      "example_zh": "我一直夢想能陪伴我的朋友。"
+    },
+    {
+      "word": "coste",
+      "meaning_zh": "(名詞) 成本、代價",
+      "example_es": "La inacción supondría un coste reputacional muy superior.",
+      "example_zh": "不作為將帶來更高的聲譽成本。"
+    },
+    {
+      "word": "único",
+      "meaning_zh": "(形容詞) 唯一的、獨特的",
+      "example_es": "La única conclusión que destacamos fue la importancia de escuchar.",
+      "example_zh": "我們強調的唯一結論就是傾聽的重要性。"
+    },
+    {
+      "word": "especialmente",
+      "meaning_zh": "(副詞) 特別地、尤其",
+      "example_es": "Se ha extendido, especialmente entre el público joven.",
+      "example_zh": "它已普及，尤其在年輕族群中。"
+    },
+    {
+      "word": "clave",
+      "meaning_zh": "(名詞) 關鍵；(形容詞) 關鍵的",
+      "example_es": "Es una pieza clave del nuevo mapa laboral.",
+      "example_zh": "這是新就業版圖的關鍵元素。"
+    },
+    {
+      "word": "anterior",
+      "meaning_zh": "(形容詞) 之前的、前面的",
+      "example_es": "En relación con lo anterior, conviene precisar.",
+      "example_zh": "關於前面所述，有必要釐清。"
+    },
+    {
+      "word": "cual",
+      "meaning_zh": "(代名詞) 哪個、那個（關係詞）",
+      "example_es": "Un pacto mediante el cual la pérdida se transforma.",
+      "example_zh": "一種讓失落得以轉化的契約。"
+    },
+    {
+      "word": "realidad",
+      "meaning_zh": "(名詞) 現實、真實",
+      "example_es": "Es una realidad cultural que merece tomarse en serio.",
+      "example_zh": "這是值得認真看待的文化現實。"
+    },
+    {
+      "word": "dato",
+      "meaning_zh": "(名詞) 資料、數據",
+      "example_es": "Este dato ha llevado a varias marcas a diseñar campañas.",
+      "example_zh": "這項數據促使多家品牌設計宣傳活動。"
+    },
+    {
+      "word": "responsabilidad",
+      "meaning_zh": "(名詞) 責任",
+      "example_es": "La universidad pública tiene una responsabilidad insoslayable.",
+      "example_zh": "公立大學負有無可推卸的責任。"
+    },
+    {
+      "word": "efecto",
+      "meaning_zh": "(名詞) 效果、影響",
+      "example_es": "Los analgésicos no me han hecho mucho efecto.",
+      "example_zh": "止痛藥對我效果不大。"
+    },
+    {
+      "word": "resto",
+      "meaning_zh": "(名詞) 剩下的部分、其餘",
+      "example_es": "Esperábamos a que llegara el resto del equipo.",
+      "example_zh": "我們等著其他組員到達。"
+    },
+    {
+      "word": "recién",
+      "meaning_zh": "(副詞) 剛剛、新近",
+      "example_es": "¿Puede traernos uno recién hecho?",
+      "example_zh": "可以幫我們換一份剛做好的嗎？"
+    },
+    {
+      "word": "precisamente",
+      "meaning_zh": "(副詞) 恰恰、正是",
+      "example_es": "Esa era precisamente la razón por la que las visitas eran irreemplazables.",
+      "example_zh": "這正是面對面拜訪不可取代的原因。"
+    },
+    {
+      "word": "uso",
+      "meaning_zh": "(名詞) 使用",
+      "example_es": "Su uso intensivo a edades tempranas conlleva consecuencias.",
+      "example_zh": "在年幼時密集使用會帶來後果。"
+    },
+    {
+      "word": "significar",
+      "meaning_zh": "(動詞) 意味、表示",
+      "example_es": "Esto no significa que el camino esté libre de obstáculos.",
+      "example_zh": "這不意味道路上沒有障礙。"
+    },
+    {
+      "word": "creación",
+      "meaning_zh": "(名詞) 創造、創作",
+      "example_es": "Otro hito fue la creación de un banco de semillas.",
+      "example_zh": "另一個里程碑是種子庫的建立。"
+    },
+    {
+      "word": "urgente",
+      "meaning_zh": "(形容詞) 緊急的",
+      "example_es": "Cualquier cosa urgente, no dude en venir antes.",
+      "example_zh": "任何緊急狀況，請別猶豫提早過來。"
+    },
+    {
+      "word": "incluir",
+      "meaning_zh": "(動詞) 包含、納入",
+      "example_es": "La opción más barata incluye una escala.",
+      "example_zh": "最便宜的選項包含一次轉機。"
+    },
+    {
+      "word": "directamente",
+      "meaning_zh": "(副詞) 直接地",
+      "example_es": "Sofía prefiere pagar más para llegar directamente.",
+      "example_zh": "蘇菲亞寧可多付一點直接抵達。"
+    },
+    {
+      "word": "propietario",
+      "meaning_zh": "(名詞) 業主、屋主",
+      "example_es": "Muchos propietarios han reconvertido edificios enteros.",
+      "example_zh": "許多屋主已將整棟建築改造。"
+    },
+    {
+      "word": "general",
+      "meaning_zh": "(形容詞) 一般的、總的",
+      "example_es": "La directora general solicitó un análisis comparado.",
+      "example_zh": "總經理要求一份比較分析。"
+    },
+    {
+      "word": "interno",
+      "meaning_zh": "(形容詞) 內部的",
+      "example_es": "La comunicación interna debe ser transparente.",
+      "example_zh": "內部溝通必須透明。"
+    },
+    {
+      "word": "innovación",
+      "meaning_zh": "(名詞) 創新",
+      "example_es": "El jefe defendió la integración de inteligencia artificial.",
+      "example_zh": "主管支持整合人工智慧。"
+    },
+    {
+      "word": "fase",
+      "meaning_zh": "(名詞) 階段",
+      "example_es": "El cumplimiento debe abordarse desde la fase inicial.",
+      "example_zh": "法規遵循必須從初期階段就開始處理。"
+    },
+    {
+      "word": "presencia",
+      "meaning_zh": "(名詞) 存在、出席",
+      "example_es": "Se acordó reforzar la presencia institucional en ferias.",
+      "example_zh": "他們同意加強在展會的機構曝光度。"
+    },
+    {
+      "word": "disponible",
+      "meaning_zh": "(形容詞) 可用的、有空的",
+      "example_es": "Lo real desborda cualquier signo disponible.",
+      "example_zh": "真實超越任何可用的符號。"
+    },
+    {
+      "word": "aun",
+      "meaning_zh": "(副詞) 即使、仍然",
+      "example_es": "Aun así, salí con la sensación de haberlo intentado.",
+      "example_zh": "儘管如此，我帶著嘗試過的感覺離開。"
+    },
+    {
+      "word": "bastar",
+      "meaning_zh": "(動詞) 足夠",
+      "example_es": "Basta con asomarse a la avenida para comprobarlo.",
+      "example_zh": "只要走到大道上一看就能證實。"
+    },
+    {
+      "word": "cantidad",
+      "meaning_zh": "(名詞) 數量、份量",
+      "example_es": "Comprobamos la cantidad de usuarios del servicio.",
+      "example_zh": "我們確認了該服務的使用者數量。"
+    },
+    {
+      "word": "pieza",
+      "meaning_zh": "(名詞) 一件、零件、樂曲",
+      "example_es": "Es una pieza sencilla pero llena de emoción.",
+      "example_zh": "這是一首簡單卻充滿情感的樂曲。"
+    },
+    {
+      "word": "terreno",
+      "meaning_zh": "(名詞) 土地、領域",
+      "example_es": "En el terreno medioambiental el balance es favorable.",
+      "example_zh": "在環境領域整體評估有利。"
+    },
+    {
+      "word": "independiente",
+      "meaning_zh": "(形容詞) 獨立的",
+      "example_es": "Piden auditorías independientes sobre la huella de carbono.",
+      "example_zh": "他們要求對碳足跡進行獨立稽核。"
+    },
+    {
+      "word": "aviso",
+      "meaning_zh": "(名詞) 通知、提醒",
+      "example_es": "Gracias por el aviso, lo apunto ahora mismo.",
+      "example_zh": "謝謝提醒，我現在就記下來。"
+    },
+    {
+      "word": "revisión",
+      "meaning_zh": "(名詞) 複查、修訂、回診",
+      "example_es": "¿Tengo que volver para revisión?",
+      "example_zh": "我需要回來複診嗎？"
+    },
+    {
+      "word": "común",
+      "meaning_zh": "(形容詞) 共同的、普通的",
+      "example_es": "Parece un resfriado común.",
+      "example_zh": "看起來是普通感冒。"
+    },
+    {
+      "word": "habitante",
+      "meaning_zh": "(名詞) 居民",
+      "example_es": "La ciudad dicta a sus habitantes el ritmo de la vida.",
+      "example_zh": "城市為居民訂下生活的節奏。"
+    },
+    {
+      "word": "local",
+      "meaning_zh": "(形容詞) 當地的；(名詞) 場所",
+      "example_es": "Las administraciones locales exigen transparencia.",
+      "example_zh": "地方政府要求透明化。"
+    },
+    {
+      "word": "evitar",
+      "meaning_zh": "(動詞) 避免",
+      "example_es": "Pasé varios días aclimatándome para evitar el soroche.",
+      "example_zh": "我花了好幾天適應以避免高山症。"
+    },
+    {
+      "word": "territorio",
+      "meaning_zh": "(名詞) 領土、領域",
+      "example_es": "Es el único territorio en el que podemos caminar.",
+      "example_zh": "這是我們能夠行走的唯一領域。"
+    },
+    {
+      "word": "formal",
+      "meaning_zh": "(形容詞) 正式的、形式上的",
+      "example_es": "Formulamos una reclamación formal.",
+      "example_zh": "我們提出了正式的申訴。"
+    },
+    {
+      "word": "mínimo",
+      "meaning_zh": "(形容詞) 最少的；(名詞) 最少",
+      "example_es": "Mantener un contacto mínimo evita olvidar el idioma.",
+      "example_zh": "保持最低限度的接觸能避免遺忘語言。"
+    },
+    {
+      "word": "contra",
+      "meaning_zh": "(介系詞) 反對、相反於",
+      "example_es": "El duelo, contra lo que suele afirmarse, transcurre en el espacio.",
+      "example_zh": "與一般說法相反，哀悼是在空間中進行的。"
+    },
+    {
+      "word": "convertirse",
+      "meaning_zh": "(動詞) 變成、轉化為",
+      "example_es": "Ha dejado de ser una promesa para convertirse en realidad.",
+      "example_zh": "它不再只是承諾，而成為了現實。"
+    },
+    {
+      "word": "hueco",
+      "meaning_zh": "(名詞) 空缺、空檔",
+      "example_es": "El doctor tiene un hueco el jueves por la tarde.",
+      "example_zh": "醫生週四下午有空檔。"
+    },
+    {
+      "word": "opción",
+      "meaning_zh": "(名詞) 選項、選擇",
+      "example_es": "Tenemos varias opciones para los más pequeños.",
+      "example_zh": "我們為小朋友準備了多種選擇。"
+    },
+    {
+      "word": "origen",
+      "meaning_zh": "(名詞) 起源、來源",
+      "example_es": "Exigen información clara sobre el origen de los ingredientes.",
+      "example_zh": "他們要求清楚說明食材來源。"
+    },
+    {
+      "word": "herramienta",
+      "meaning_zh": "(名詞) 工具",
+      "example_es": "Las redes son una herramienta laboral incipiente.",
+      "example_zh": "社群網路是一種剛起步的工作工具。"
+    },
+    {
+      "word": "identidad",
+      "meaning_zh": "(名詞) 身分、認同",
+      "example_es": "Se construye una identidad pública desde edades tempranas.",
+      "example_zh": "公共形象從很小的年紀就開始形塑。"
+    },
+    {
+      "word": "error",
+      "meaning_zh": "(名詞) 錯誤",
+      "example_es": "Sería un error histórico posponer las decisiones.",
+      "example_zh": "推遲這些決定將是歷史性的錯誤。"
+    },
+    {
+      "word": "figura",
+      "meaning_zh": "(名詞) 人物、形象、圖形",
+      "example_es": "Algunos juristas han propuesto la figura de un tutor.",
+      "example_zh": "一些法學家提出了監護人這個角色。"
+    },
+    {
+      "word": "increíble",
+      "meaning_zh": "(形容詞) 難以置信的、了不起的",
+      "example_es": "Sube las bolsas, que huele increíble.",
+      "example_zh": "把袋子拿上來，香得不得了。"
+    },
+    {
+      "word": "toque",
+      "meaning_zh": "(名詞) 觸碰、提示、點綴",
+      "example_es": "Denle un toque ahora.",
+      "example_zh": "請現在處理一下。"
+    },
+    {
+      "word": "corte",
+      "meaning_zh": "(名詞) 切口、剪裁、宮廷",
+      "example_es": "El corte no te favorece tanto.",
+      "example_zh": "這個剪裁對你不那麼合適。"
+    },
+    {
+      "word": "cinta",
+      "meaning_zh": "(名詞) 帶子、跑步機、錄影帶",
+      "example_es": "Calentamos diez minutos en la cinta.",
+      "example_zh": "我們在跑步機上熱身十分鐘。"
+    },
+    {
+      "word": "reciente",
+      "meaning_zh": "(形容詞) 最近的、近期的",
+      "example_es": "Según un estudio reciente, dos de cada tres empleados prefieren un modelo híbrido.",
+      "example_zh": "根據一項最近的研究，三分之二的員工偏好混合模式。"
+    },
+    {
+      "word": "cadena",
+      "meaning_zh": "(名詞) 鏈條、連鎖、頻道",
+      "example_es": "La cadena de suministro aún arrastra desequilibrios.",
+      "example_zh": "供應鏈仍存在不平衡。"
+    },
+    {
+      "word": "inmediato",
+      "meaning_zh": "(形容詞) 立即的、即刻的",
+      "example_es": "Defendió la integración inmediata de la nueva tecnología.",
+      "example_zh": "他主張立即整合新技術。"
+    },
+    {
+      "word": "escritor",
+      "meaning_zh": "(名詞) 作家",
+      "example_es": "El escritor invoca al idioma con paciencia.",
+      "example_zh": "作家耐心地召喚語言。"
+    },
+    {
+      "word": "pausa",
+      "meaning_zh": "(名詞) 暫停、停頓",
+      "example_es": "Hagamos una pausa breve para hidratarnos.",
+      "example_zh": "我們稍微休息一下喝點水。"
+    },
+    {
+      "word": "detenerse",
+      "meaning_zh": "(動詞) 停下來、駐足",
+      "example_es": "Es un refugio donde el tiempo parece detenerse.",
+      "example_zh": "這是一個時間彷彿停止的避難所。"
+    },
+    {
+      "word": "breve",
+      "meaning_zh": "(形容詞) 簡短的、短暫的",
+      "example_es": "Decidí enviar un mensaje breve para agradecer.",
+      "example_zh": "我決定發一則簡短訊息表達感謝。"
+    },
+    {
+      "word": "municipal",
+      "meaning_zh": "(形容詞) 市政的",
+      "example_es": "Las administraciones municipales defendieron el sistema.",
+      "example_zh": "市政部門捍衛這個系統。"
+    },
+    {
+      "word": "circunstancia",
+      "meaning_zh": "(名詞) 情況、情境",
+      "example_es": "Dadas las circunstancias, la inacción supondría un coste alto.",
+      "example_zh": "鑒於情況，不作為將代價高昂。"
+    },
+    {
+      "word": "pensamiento",
+      "meaning_zh": "(名詞) 思想、想法",
+      "example_es": "Negar la soledad sería negar el pensamiento.",
+      "example_zh": "否認孤獨就是否認思想本身。"
+    },
+    {
+      "word": "probable",
+      "meaning_zh": "(形容詞) 可能的、有可能的",
+      "example_es": "Es probable que el debate se intensifique.",
+      "example_zh": "辯論可能會加劇。"
+    },
+    {
+      "word": "portal",
+      "meaning_zh": "(名詞) 門口、入口、入口網站",
+      "example_es": "Bajo a recibirlo al portal.",
+      "example_zh": "我下樓到門口接他。"
+    },
+    {
+      "word": "construir",
+      "meaning_zh": "(動詞) 建造、構築",
+      "example_es": "Hay quien construye comunidades en línea.",
+      "example_zh": "有人在線上建立社群。"
+    },
+    {
+      "word": "cumplir",
+      "meaning_zh": "(動詞) 履行、達成、年滿",
+      "example_es": "Quería aprender piano antes de cumplir treinta años.",
+      "example_zh": "我想在三十歲前學會鋼琴。"
+    },
+    {
+      "word": "recuperar",
+      "meaning_zh": "(動詞) 恢復、收復、找回",
+      "example_es": "La reconversión ha permitido recuperar barrios.",
+      "example_zh": "改造讓街區得以復甦。"
+    },
+    {
+      "word": "decisivo",
+      "meaning_zh": "(形容詞) 決定性的、關鍵的",
+      "example_es": "Es un factor decisivo a la hora de elegir.",
+      "example_zh": "這在選擇時是決定性因素。"
+    },
+    {
+      "word": "mirada",
+      "meaning_zh": "(名詞) 目光、眼神",
+      "example_es": "Intercambiamos una mirada cómplice.",
+      "example_zh": "我們交換了一個會心的眼神。"
+    },
+    {
+      "word": "dificultad",
+      "meaning_zh": "(名詞) 困難、難度",
+      "example_es": "La dificultad para monetizar episodios es real.",
+      "example_zh": "將節目集變現的難度確實存在。"
+    },
+    {
+      "word": "desconectar",
+      "meaning_zh": "(動詞) 斷開、放鬆、暫離",
+      "example_es": "Necesito desconectar diez minutos del ordenador.",
+      "example_zh": "我需要離開電腦十分鐘放鬆一下。"
+    },
+    {
+      "word": "ocasión",
+      "meaning_zh": "(名詞) 場合、機會",
+      "example_es": "Aprovechamos la ocasión para saludarle.",
+      "example_zh": "我們藉此機會向您問候。"
+    },
+    {
+      "word": "proceso",
+      "meaning_zh": "(名詞) 過程、流程",
+      "example_es": "Equivocarse formaba parte del proceso.",
+      "example_zh": "犯錯是過程的一部分。"
+    },
+    {
+      "word": "concreto",
+      "meaning_zh": "(形容詞) 具體的、明確的",
+      "example_es": "Menciona el caso de una librería de Granada.",
+      "example_zh": "他舉了格拉納達一家書店的具體例子。"
+    },
+    {
+      "word": "básico",
+      "meaning_zh": "(形容詞) 基本的、基礎的",
+      "example_es": "Me explicó las normas básicas el primer día.",
+      "example_zh": "她第一天向我說明基本規則。"
+    },
+    {
+      "word": "concepto",
+      "meaning_zh": "(名詞) 概念、觀念",
+      "example_es": "El concepto de cocina sostenible se ha extendido.",
+      "example_zh": "永續料理的概念已經普及。"
+    },
+    {
+      "word": "infantil",
+      "meaning_zh": "(形容詞) 兒童的、幼稚的",
+      "example_es": "Repercute negativamente en el desarrollo emocional infantil.",
+      "example_zh": "對兒童情感發展有負面影響。"
+    },
+    {
+      "word": "ambos",
+      "meaning_zh": "(代名詞/形容詞) 兩者、兩個",
+      "example_es": "Entre ambos extremos existen múltiples vías intermedias.",
+      "example_zh": "在兩個極端之間存在多種中間道路。"
+    },
+    {
+      "word": "existir",
+      "meaning_zh": "(動詞) 存在",
+      "example_es": "Existen razones para confiar.",
+      "example_zh": "有理由相信。"
+    },
+    {
+      "word": "adolescente",
+      "meaning_zh": "(名詞) 青少年",
+      "example_es": "Crecen los adolescentes actuales en contextos diversos.",
+      "example_zh": "當今青少年在多樣化背景中成長。"
+    },
+    {
+      "word": "daño",
+      "meaning_zh": "(名詞) 損害、傷害",
+      "example_es": "Los daños ecosistémicos continúan acumulándose.",
+      "example_zh": "生態損害持續累積。"
+    },
+    {
+      "word": "elección",
+      "meaning_zh": "(名詞) 選擇、選舉",
+      "example_es": "Las consecuencias de cada elección serán distintas.",
+      "example_zh": "每個選擇的後果都會不同。"
+    },
+    {
+      "word": "individual",
+      "meaning_zh": "(形容詞) 個人的、個別的",
+      "example_es": "La conveniencia individual ha tenido un coste colectivo.",
+      "example_zh": "個人便利付出了集體代價。"
+    },
+    {
+      "word": "categoría",
+      "meaning_zh": "(名詞) 類別、等級",
+      "example_es": "Los ordena en tres categorías.",
+      "example_zh": "他把它們分為三類。"
+    },
+    {
+      "word": "imagen",
+      "meaning_zh": "(名詞) 影像、形象",
+      "example_es": "Permítanme cerrar con una imagen.",
+      "example_zh": "請容我以一個畫面作結。"
+    },
+    {
+      "word": "perfectamente",
+      "meaning_zh": "(副詞) 完美地、完全地",
+      "example_es": "Lo entiendo perfectamente.",
+      "example_zh": "我完全理解。"
+    },
+    {
+      "word": "maravilla",
+      "meaning_zh": "(名詞) 奇蹟、絕妙之物",
+      "example_es": "Huele de maravilla, ¿qué hay para comer?",
+      "example_zh": "聞起來很棒，午餐吃什麼？"
+    },
+    {
+      "word": "montón",
+      "meaning_zh": "(名詞) 一堆、許多",
+      "example_es": "Hay un montón de aperitivos.",
+      "example_zh": "有一大堆開胃菜。"
+    },
+    {
+      "word": "firme",
+      "meaning_zh": "(形容詞) 堅定的、穩固的",
+      "example_es": "Tu voz salió firme y el ritmo fue muy correcto.",
+      "example_zh": "你的聲音很穩，節奏很準。"
+    },
+    {
+      "word": "seguimiento",
+      "meaning_zh": "(名詞) 追蹤、後續跟進",
+      "example_es": "Tengo que escribir un email de seguimiento.",
+      "example_zh": "我得寫一封追蹤信。"
+    },
+    {
+      "word": "recorrer",
+      "meaning_zh": "(動詞) 走遍、巡行",
+      "example_es": "Decidí recorrer Sudamérica durante tres meses.",
+      "example_zh": "我決定花三個月遊歷南美洲。"
+    },
+    {
+      "word": "continuar",
+      "meaning_zh": "(動詞) 繼續",
+      "example_es": "El sector continúa siendo el más permisivo.",
+      "example_zh": "該行業仍是最寬容的。"
+    },
+    {
+      "word": "contrario",
+      "meaning_zh": "(形容詞/名詞) 相反的；反面",
+      "example_es": "Por el contrario, la banca volvió al modelo presencial.",
+      "example_zh": "相反地，銀行業恢復了實體模式。"
+    },
+    {
+      "word": "menor",
+      "meaning_zh": "(形容詞) 較小的、未成年",
+      "example_es": "Presentan menores niveles de estrés.",
+      "example_zh": "他們表現出較低的壓力水平。"
+    },
+    {
+      "word": "coincidir",
+      "meaning_zh": "(動詞) 一致、同時發生",
+      "example_es": "Los expertos coinciden en que la formación digital es básica.",
+      "example_zh": "專家一致認為數位培訓是基本要求。"
+    },
+    {
+      "word": "entorno",
+      "meaning_zh": "(名詞) 環境、周遭",
+      "example_es": "Un entorno laboral en permanente transformación.",
+      "example_zh": "一個不斷轉型的工作環境。"
+    },
+    {
+      "word": "permanente",
+      "meaning_zh": "(形容詞) 持續的、永久的",
+      "example_es": "La conexión permanente genera parloteo.",
+      "example_zh": "持續連線製造出喧囂。"
+    },
+    {
+      "word": "global",
+      "meaning_zh": "(形容詞) 全球的、整體的",
+      "example_es": "Pilotar el producto antes de extenderlo a escala global.",
+      "example_zh": "在全球推廣前先試點該產品。"
+    },
+    {
+      "word": "tecnología",
+      "meaning_zh": "(名詞) 科技、技術",
+      "example_es": "Defendió la integración inmediata de la tecnología.",
+      "example_zh": "他主張立即整合該技術。"
+    },
+    {
+      "word": "inteligencia",
+      "meaning_zh": "(名詞) 智能、智慧",
+      "example_es": "La inteligencia artificial transforma el sector.",
+      "example_zh": "人工智慧正改變該行業。"
+    },
+    {
+      "word": "inicial",
+      "meaning_zh": "(形容詞) 最初的、開始的",
+      "example_es": "El cumplimiento debe abordarse desde la fase inicial.",
+      "example_zh": "合規應從初始階段處理。"
+    },
+    {
+      "word": "encuentro",
+      "meaning_zh": "(名詞) 會面、聚會",
+      "example_es": "El próximo encuentro definirá los compromisos.",
+      "example_zh": "下次會面將確定承諾。"
+    },
+    {
+      "word": "atento",
+      "meaning_zh": "(形容詞) 專注的、留心的",
+      "example_es": "Atento desde el principio hasta el final.",
+      "example_zh": "從頭到尾都很專注。"
+    },
+    {
+      "word": "ofrecer",
+      "meaning_zh": "(動詞) 提供、奉獻",
+      "example_es": "El paisaje ofrece oportunidades a voces marginadas.",
+      "example_zh": "新的景觀為被邊緣化的聲音提供機會。"
+    },
+    {
+      "word": "estilo",
+      "meaning_zh": "(名詞) 風格、樣式",
+      "example_es": "En la tachadura germina el verdadero estilo.",
+      "example_zh": "在劃掉之處萌生真正的風格。"
+    },
+    {
+      "word": "sensación",
+      "meaning_zh": "(名詞) 感覺、感受",
+      "example_es": "Salí con la sensación de haberlo intentado de verdad.",
+      "example_zh": "我帶著真正嘗試過的感覺離開。"
+    },
+    {
+      "word": "analista",
+      "meaning_zh": "(名詞) 分析師",
+      "example_es": "Los analistas piden auditorías independientes.",
+      "example_zh": "分析師要求進行獨立審計。"
+    },
+    {
+      "word": "máximo",
+      "meaning_zh": "(形容詞/名詞) 最大的；極限",
+      "example_es": "Solo cuando lo necesite, máximo dos comprimidos al día.",
+      "example_zh": "只在需要時，每天最多兩顆藥片。"
+    },
+    {
+      "word": "confianza",
+      "meaning_zh": "(名詞) 信任、信心",
+      "example_es": "Ya he perdido la confianza en esta marca.",
+      "example_zh": "我已對這個品牌失去信心。"
+    },
+    {
+      "word": "compañía",
+      "meaning_zh": "(名詞) 公司、陪伴",
+      "example_es": "La compañía cubre gastos básicos del primer día.",
+      "example_zh": "公司支付第一天的基本費用。"
+    },
+    {
+      "word": "instante",
+      "meaning_zh": "(名詞) 瞬間、片刻",
+      "example_es": "Recuerdo aquel instante como mágico.",
+      "example_zh": "我記得那一刻很魔幻。"
+    },
+    {
+      "word": "hogar",
+      "meaning_zh": "(名詞) 家、家庭",
+      "example_es": "Hay muchos hogares unipersonales hoy.",
+      "example_zh": "如今有許多單人家庭。"
+    },
+    {
+      "word": "interior",
+      "meaning_zh": "(形容詞/名詞) 內部的；內部",
+      "example_es": "¿Tiene preferencia de mesa, interior o terraza?",
+      "example_zh": "您對座位有偏好嗎，室內或露臺？"
+    },
+    {
+      "word": "político",
+      "meaning_zh": "(形容詞/名詞) 政治的；政治人物",
+      "example_es": "El hombre es un animal político.",
+      "example_zh": "人是政治的動物。"
+    },
+    {
+      "word": "confundir",
+      "meaning_zh": "(動詞) 混淆、弄錯",
+      "example_es": "Sería un error confundir teletrabajo con conciliación.",
+      "example_zh": "把遠距工作和家庭協調混為一談是錯誤。"
+    },
+    {
+      "word": "velocidad",
+      "meaning_zh": "(名詞) 速度",
+      "example_es": "¿Hay alguna promoción para subir velocidad?",
+      "example_zh": "有提升網速的優惠嗎？"
+    },
+    {
+      "word": "civil",
+      "meaning_zh": "(形容詞) 民事的、平民的",
+      "example_es": "Casarnos por lo civil en el ayuntamiento.",
+      "example_zh": "在市政廳辦理民事結婚。"
+    },
+    {
+      "word": "principal",
+      "meaning_zh": "(形容詞) 主要的",
+      "example_es": "El reto principal es el equilibrio económico-social.",
+      "example_zh": "主要挑戰是經濟與社會平衡。"
+    },
+    {
+      "word": "hábil",
+      "meaning_zh": "(形容詞) 工作日；靈巧的",
+      "example_es": "El reembolso vuelve en cinco días hábiles.",
+      "example_zh": "退款五個工作日內退回。"
+    },
+    {
+      "word": "encargado",
+      "meaning_zh": "(名詞/形容詞) 負責人；負責的",
+      "example_es": "Voy a hablar con el encargado.",
+      "example_zh": "我去跟負責人談一下。"
+    },
+    {
+      "word": "entrega",
+      "meaning_zh": "(名詞) 交付、配送",
+      "example_es": "El tiempo estimado de entrega es de cuarenta minutos.",
+      "example_zh": "預計送達時間為四十分鐘。"
+    },
+    {
+      "word": "castellano",
+      "meaning_zh": "(名詞) 西班牙語",
+      "example_es": "Hablamos de «ausencia» en castellano.",
+      "example_zh": "我們在西班牙語中說「缺席」。"
+    },
+    {
+      "word": "emocional",
+      "meaning_zh": "(形容詞) 情感的、情緒的",
+      "example_es": "Atraviesa una crisis emocional.",
+      "example_zh": "他正經歷情緒危機。"
+    },
+    {
+      "word": "duración",
+      "meaning_zh": "(名詞) 持續時間、長度",
+      "example_es": "Diseñan campañas para episodios de corta duración.",
+      "example_zh": "他們為短片設計廣告活動。"
+    },
+    {
+      "word": "revisar",
+      "meaning_zh": "(動詞) 檢查、審視",
+      "example_es": "Déjeme revisar la agenda un momento.",
+      "example_zh": "讓我看一下行程。"
+    },
+    {
+      "word": "sueño",
+      "meaning_zh": "(名詞) 夢、夢想、睡意",
+      "example_es": "Decidí cumplir un sueño desde la adolescencia.",
+      "example_zh": "我決定實現少年時代的夢想。"
+    },
+    {
+      "word": "altura",
+      "meaning_zh": "(名詞) 高度、海拔",
+      "example_es": "Espero estar a la altura del nuevo reto.",
+      "example_zh": "我希望能勝任新挑戰。"
+    },
+    {
+      "word": "mezcla",
+      "meaning_zh": "(名詞) 混合、混合物",
+      "example_es": "Hablamos en una mezcla de idiomas.",
+      "example_zh": "我們用混合的語言交談。"
+    },
+    {
+      "word": "partir",
+      "meaning_zh": "(動詞) 出發、分開；(片語)a partir de=從…起",
+      "example_es": "Antes de partir leí muchas crónicas.",
+      "example_zh": "出發前我讀了許多紀實。"
+    },
+    {
+      "word": "silencioso",
+      "meaning_zh": "(形容詞) 寂靜的、沉默的",
+      "example_es": "Es una forma silenciosa de respeto.",
+      "example_zh": "這是一種沉默的尊重方式。"
+    },
+    {
+      "word": "completamente",
+      "meaning_zh": "(副詞) 完全地",
+      "example_es": "Su lógica era completamente distinta.",
+      "example_zh": "它的邏輯完全不同。"
+    },
+    {
+      "word": "capaz",
+      "meaning_zh": "(形容詞) 有能力的、能夠",
+      "example_es": "Eran capaces de pasar una tarde frente al cuadro.",
+      "example_zh": "他們能在一幅畫前度過整個下午。"
+    },
+    {
+      "word": "tratar",
+      "meaning_zh": "(動詞) 對待、處理、討論",
+      "example_es": "Lo importante era tratar a cada usuario con dignidad.",
+      "example_zh": "重要的是以尊嚴對待每位用戶。"
+    },
+    {
+      "word": "urgencia",
+      "meaning_zh": "(名詞) 緊急；急診",
+      "example_es": "La radiografía está incluida en la urgencia.",
+      "example_zh": "X 光檢查包含在急診費用中。"
+    },
+    {
+      "word": "incluido",
+      "meaning_zh": "(形容詞) 包含的；包括在內的",
+      "example_es": "Todo IVA incluido, no hay extras escondidos.",
+      "example_zh": "全部含增值稅，沒有額外隱藏費用。"
+    },
+    {
+      "word": "convertir",
+      "meaning_zh": "(動詞) 轉變；轉換；變成",
+      "example_es": "El terreno se ha convertido en un espacio verde.",
+      "example_zh": "那塊地已經變成綠地空間。"
+    },
+    {
+      "word": "amenaza",
+      "meaning_zh": "(名詞) 威脅",
+      "example_es": "La IA no debería ser una amenaza para los empleos.",
+      "example_zh": "人工智慧不應該成為對工作的威脅。"
+    },
+    {
+      "word": "reflexión",
+      "meaning_zh": "(名詞) 反思；思考",
+      "example_es": "Necesitamos una reflexión sobre el modelo de ciudad.",
+      "example_zh": "我們需要對城市模式進行反思。"
+    },
+    {
+      "word": "complejidad",
+      "meaning_zh": "(名詞) 複雜性",
+      "example_es": "El problema tiene una complejidad real.",
+      "example_zh": "這個問題具有實際的複雜性。"
+    },
+    {
+      "word": "realista",
+      "meaning_zh": "(形容詞) 實際的；現實的；寫實的",
+      "example_es": "Buen objetivo, pero realista, sin prisa.",
+      "example_zh": "目標很好，但要實際，不要急。"
+    },
+    {
+      "word": "surgir",
+      "meaning_zh": "(動詞) 出現；冒出",
+      "example_es": "Si surge un imprevisto, llámame.",
+      "example_zh": "如果出現意外狀況，打電話給我。"
+    },
+    {
+      "word": "espectacular",
+      "meaning_zh": "(形容詞) 壯觀的；驚人的",
+      "example_es": "La tortilla te ha salido espectacular.",
+      "example_zh": "你做的西班牙蛋餅非常出色。"
+    },
+    {
+      "word": "marchar",
+      "meaning_zh": "(動詞) 走；上菜；進行",
+      "example_es": "Marchando dos helados pequeños.",
+      "example_zh": "馬上送兩支小冰淇淋。"
+    },
+    {
+      "word": "mixto",
+      "meaning_zh": "(形容詞) 混合的；混和式的",
+      "example_es": "¿Es habitación mixta o solo de chicas?",
+      "example_zh": "這是混合宿舍還是僅限女性的？"
+    },
+    {
+      "word": "adicional",
+      "meaning_zh": "(形容詞) 額外的；附加的",
+      "example_es": "¿Hay algún descuento adicional?",
+      "example_zh": "有額外的折扣嗎？"
+    },
+    {
+      "word": "lío",
+      "meaning_zh": "(名詞) 麻煩；混亂",
+      "example_es": "No me quiero hacer un lío.",
+      "example_zh": "我不想搞混。"
+    },
+    {
+      "word": "protector",
+      "meaning_zh": "(名詞) 保護劑；保護者",
+      "example_es": "Aquí está el protector de estómago.",
+      "example_zh": "這是胃部保護劑。"
+    },
+    {
+      "word": "planear",
+      "meaning_zh": "(動詞) 規劃；籌劃；滑翔",
+      "example_es": "Llevamos meses planeando un viaje.",
+      "example_zh": "我們已經規劃旅行好幾個月了。"
+    },
+    {
+      "word": "regreso",
+      "meaning_zh": "(名詞) 回程；返回",
+      "example_es": "El vuelo de regreso es el domingo.",
+      "example_zh": "回程的班機是週日。"
+    },
+    {
+      "word": "flexible",
+      "meaning_zh": "(形容詞) 彈性的；靈活的",
+      "example_es": "Somos flexibles con la vida personal.",
+      "example_zh": "我們對個人生活有彈性。"
+    },
+    {
+      "word": "temer",
+      "meaning_zh": "(動詞) 害怕；擔心",
+      "example_es": "Las corporaciones temen perder cultura corporativa.",
+      "example_zh": "企業擔心失去企業文化。"
+    },
+    {
+      "word": "área",
+      "meaning_zh": "(名詞) 區域；領域",
+      "example_es": "Las áreas rurales están menos conectadas.",
+      "example_zh": "鄉村地區網路連結較少。"
+    },
+    {
+      "word": "rural",
+      "meaning_zh": "(形容詞) 鄉村的；農村的",
+      "example_es": "La brecha digital persiste en zonas rurales.",
+      "example_zh": "數位落差在鄉村地區依然存在。"
+    },
+    {
+      "word": "específico",
+      "meaning_zh": "(形容詞) 特定的；具體的",
+      "example_es": "Reclaman formación específica para gestionar equipos.",
+      "example_zh": "他們要求管理團隊的專業培訓。"
+    },
+    {
+      "word": "miembro",
+      "meaning_zh": "(名詞) 成員；會員",
+      "example_es": "Algunos miembros discreparon del calendario.",
+      "example_zh": "一些成員對行程有不同意見。"
+    },
+    {
+      "word": "restricción",
+      "meaning_zh": "(名詞) 限制；制約",
+      "example_es": "Expuso las restricciones logísticas.",
+      "example_zh": "她說明了物流上的限制。"
+    },
+    {
+      "word": "artificial",
+      "meaning_zh": "(形容詞) 人工的；人造的",
+      "example_es": "Defendió la integración de inteligencia artificial.",
+      "example_zh": "他捍衛人工智慧的整合。"
+    },
+    {
+      "word": "entusiasmo",
+      "meaning_zh": "(名詞) 熱情；熱忱",
+      "example_es": "La idea generó entusiasmo en el equipo.",
+      "example_zh": "這個想法在團隊中引起了熱情。"
+    },
+    {
+      "word": "etapa",
+      "meaning_zh": "(名詞) 階段；時期",
+      "example_es": "Ha sido una etapa maravillosa.",
+      "example_zh": "這是一段很棒的時期。"
+    },
+    {
+      "word": "adquirir",
+      "meaning_zh": "(動詞) 獲得；購入",
+      "example_es": "El símbolo adquiere una fuerza política.",
+      "example_zh": "這個符號獲得了政治力量。"
+    },
+    {
+      "word": "sorprender",
+      "meaning_zh": "(動詞) 使驚訝",
+      "example_es": "La respuesta del barrio nos sorprendió.",
+      "example_zh": "社區的回應讓我們很驚訝。"
+    },
+    {
+      "word": "mente",
+      "meaning_zh": "(名詞) 心智；頭腦",
+      "example_es": "Fuimos a despejar la mente.",
+      "example_zh": "我們去散心。"
+    },
+    {
+      "word": "incorporar",
+      "meaning_zh": "(動詞) 納入；加入",
+      "example_es": "Han incorporado funciones de geolocalización.",
+      "example_zh": "他們納入了地理定位功能。"
+    },
+    {
+      "word": "tecnológico",
+      "meaning_zh": "(形容詞) 科技的；技術的",
+      "example_es": "La innovación tecnológica avanza rápido.",
+      "example_zh": "科技創新進展迅速。"
+    },
+    {
+      "word": "habitual",
+      "meaning_zh": "(形容詞) 習慣的；常見的",
+      "example_es": "Los usuarios habituales presentan menos estrés.",
+      "example_zh": "常用使用者的壓力較少。"
+    },
+    {
+      "word": "juzgar",
+      "meaning_zh": "(動詞) 判斷；評斷；審判",
+      "example_es": "Escuchar antes de juzgar es esencial.",
+      "example_zh": "在評斷之前先聆聽是必要的。"
+    },
+    {
+      "word": "histórico",
+      "meaning_zh": "(形容詞) 歷史的；歷史性的",
+      "example_es": "Hay que tener en cuenta el contexto histórico.",
+      "example_zh": "必須考慮歷史背景。"
+    },
+    {
+      "word": "obligar",
+      "meaning_zh": "(動詞) 迫使；強迫",
+      "example_es": "Nos hemos visto obligados a convocarles.",
+      "example_zh": "我們不得不召集他們。"
+    },
+    {
+      "word": "legal",
+      "meaning_zh": "(形容詞) 法律的；合法的",
+      "example_es": "Antes de iniciar acciones legales, hablemos.",
+      "example_zh": "在採取法律行動前，我們先談談。"
+    },
+    {
+      "word": "cierre",
+      "meaning_zh": "(名詞) 關閉；結束",
+      "example_es": "Celebramos el cierre de la semana.",
+      "example_zh": "我們慶祝這週的結束。"
+    },
+    {
+      "word": "activo",
+      "meaning_zh": "(名詞/形容詞) 資產；活躍的",
+      "example_es": "La confianza es nuestro activo más valioso.",
+      "example_zh": "信任是我們最有價值的資產。"
+    },
+    {
+      "word": "requerir",
+      "meaning_zh": "(動詞) 需要；要求",
+      "example_es": "La audioguía requiere un depósito.",
+      "example_zh": "語音導覽需要押金。"
+    },
+    {
+      "word": "límite",
+      "meaning_zh": "(名詞) 限制；界線",
+      "example_es": "Hay que aceptar los propios límites.",
+      "example_zh": "必須接受自己的極限。"
+    },
+    {
+      "word": "principiante",
+      "meaning_zh": "(名詞) 初學者",
+      "example_es": "Hay clases para adultos principiantes.",
+      "example_zh": "有為成人初學者開設的課程。"
+    },
+    {
+      "word": "motor",
+      "meaning_zh": "(名詞) 馬達；動力來源",
+      "example_es": "Es un motor de revitalización económica.",
+      "example_zh": "這是經濟復興的動力。"
+    },
+    {
+      "word": "familiar",
+      "meaning_zh": "(形容詞/名詞) 家庭的；家人；熟悉的",
+      "example_es": "Trataríamos a cada usuario como a un familiar.",
+      "example_zh": "我們對待每位使用者就像對待家人。"
+    },
+    {
+      "word": "generar",
+      "meaning_zh": "(動詞) 產生；生成",
+      "example_es": "Cada puesto genera dos empleos indirectos.",
+      "example_zh": "每個職位產生兩個間接工作機會。"
+    },
+    {
+      "word": "crecimiento",
+      "meaning_zh": "(名詞) 增長；成長",
+      "example_es": "Ha experimentado un crecimiento notable.",
+      "example_zh": "已經出現顯著的成長。"
+    },
+    {
+      "word": "frenar",
+      "meaning_zh": "(動詞) 煞車；阻止",
+      "example_es": "Hace un ruido raro al frenar.",
+      "example_zh": "煞車時有奇怪的聲音。"
+    },
+    {
+      "word": "avance",
+      "meaning_zh": "(名詞) 進步；進展",
+      "example_es": "Presentamos los avances del proyecto.",
+      "example_zh": "我們展示了專案的進展。"
+    },
+    {
+      "word": "pendiente",
+      "meaning_zh": "(形容詞/名詞) 待辦的；未決的；耳環",
+      "example_es": "Tenemos tres propuestas pendientes.",
+      "example_zh": "我們有三個提案待處理。"
+    },
+    {
+      "word": "verdaderamente",
+      "meaning_zh": "(副詞) 真正地；確實",
+      "example_es": "Lo verdaderamente útil es escuchar.",
+      "example_zh": "真正有用的是傾聽。"
+    },
+    {
+      "word": "justificar",
+      "meaning_zh": "(動詞) 證明合理；辯解",
+      "example_es": "Lo importante es justificar la fecha.",
+      "example_zh": "重要的是說明日期的合理性。"
+    },
+    {
+      "word": "irregular",
+      "meaning_zh": "(形容詞) 不規則的；不規律的",
+      "example_es": "Practicamos los verbos irregulares.",
+      "example_zh": "我們練習不規則動詞。"
+    },
+    {
+      "word": "bibliotecario",
+      "meaning_zh": "(名詞) 圖書館員",
+      "example_es": "La bibliotecaria nos prestó auriculares.",
+      "example_zh": "圖書館員借給我們耳機。"
+    },
+    {
+      "word": "oyente",
+      "meaning_zh": "(名詞) 聽眾",
+      "example_es": "La mitad de los oyentes escucha cada semana.",
+      "example_zh": "一半的聽眾每週都會收聽。"
+    },
+    {
+      "word": "industria",
+      "meaning_zh": "(名詞) 工業；產業",
+      "example_es": "Es una industria con voz propia.",
+      "example_zh": "這是一個有自己聲音的產業。"
+    },
+    {
+      "word": "formato",
+      "meaning_zh": "(名詞) 格式；形式",
+      "example_es": "Surgen formatos cada vez más breves.",
+      "example_zh": "出現越來越短的形式。"
+    },
+    {
+      "word": "rapidez",
+      "meaning_zh": "(名詞) 速度；迅速",
+      "example_es": "Gracias por la rapidez.",
+      "example_zh": "謝謝您的快速處理。"
+    },
+    {
+      "word": "bodega",
+      "meaning_zh": "(名詞) 酒窖；地下儲藏室",
+      "example_es": "Visité varias bodegas familiares.",
+      "example_zh": "我參觀了幾家家族酒莊。"
+    },
+    {
+      "word": "placer",
+      "meaning_zh": "(名詞) 樂趣；榮幸",
+      "example_es": "Ha sido un placer atenderles.",
+      "example_zh": "為您服務是我的榮幸。"
+    },
+    {
+      "word": "importancia",
+      "meaning_zh": "(名詞) 重要性",
+      "example_es": "Destacamos la importancia de escuchar.",
+      "example_zh": "我們強調了傾聽的重要性。"
+    },
+    {
+      "word": "absoluto",
+      "meaning_zh": "(形容詞) 絕對的；完全的",
+      "example_es": "Silencio absoluto en la sala.",
+      "example_zh": "大廳裡絕對安靜。"
+    },
+    {
+      "word": "secreto",
+      "meaning_zh": "(形容詞/名詞) 秘密的；秘密",
+      "example_es": "Lo preparamos en secreto.",
+      "example_zh": "我們秘密地準備這件事。"
+    },
+    {
+      "word": "exterior",
+      "meaning_zh": "(形容詞/名詞) 外部的；外面",
+      "example_es": "Paseamos por el jardín exterior.",
+      "example_zh": "我們在外面的花園散步。"
     }
   ],
   "db2": [
@@ -43967,6 +46781,486 @@
       "meaning_zh": "(名詞) 意外、小事故",
       "example_es": "Por suerte, el viaje terminó sin ningún percance.",
       "example_zh": "幸運的是，這趟旅程沒有發生任何意外。"
+    },
+    {
+      "word": "obstante",
+      "meaning_zh": "(副詞) no obstante 然而、儘管如此",
+      "example_es": "Estaba cansado; no obstante, terminó el trabajo.",
+      "example_zh": "他很累，然而他還是完成了工作。"
+    },
+    {
+      "word": "acaso",
+      "meaning_zh": "(副詞) 也許、難道",
+      "example_es": "¿Acaso no me crees?",
+      "example_zh": "難道你不相信我？"
+    },
+    {
+      "word": "dimensión",
+      "meaning_zh": "(名詞) 規模、層面",
+      "example_es": "El problema tiene una dimensión social.",
+      "example_zh": "這個問題具有社會層面。"
+    },
+    {
+      "word": "caber",
+      "meaning_zh": "(動詞) 容納得下、有可能",
+      "example_es": "No cabe duda de que tienes razón.",
+      "example_zh": "毫無疑問你是對的。"
+    },
+    {
+      "word": "constituir",
+      "meaning_zh": "(動詞) 構成、組成",
+      "example_es": "Estos elementos constituyen el problema principal.",
+      "example_zh": "這些因素構成了主要問題。"
+    },
+    {
+      "word": "cuya",
+      "meaning_zh": "(代名詞/形容詞) 其...的（關係代詞）",
+      "example_es": "Es una mujer cuya hija estudia medicina.",
+      "example_zh": "她是一個女兒讀醫學的女人。"
+    },
+    {
+      "word": "llegado",
+      "meaning_zh": "(形容詞/分詞) 已到達的；llegado el caso 必要時",
+      "example_es": "Llegado el momento, tomaremos una decisión.",
+      "example_zh": "到時候我們會做決定。"
+    },
+    {
+      "word": "desarrollar",
+      "meaning_zh": "(動詞) 發展、開發",
+      "example_es": "La empresa desarrolla nuevos productos.",
+      "example_zh": "公司開發新產品。"
+    },
+    {
+      "word": "característica",
+      "meaning_zh": "(名詞) 特徵、特性",
+      "example_es": "Cada cultura tiene sus características.",
+      "example_zh": "每個文化都有自己的特色。"
+    },
+    {
+      "word": "pérdida",
+      "meaning_zh": "(名詞) 損失、流失",
+      "example_es": "Advierten de la pérdida de cohesión en los equipos.",
+      "example_zh": "他們警告團隊凝聚力的流失。"
+    },
+    {
+      "word": "equivaler",
+      "meaning_zh": "(動詞) 等同於、相當於",
+      "example_es": "Aplazar este debate equivale a abandonar a una generación.",
+      "example_zh": "推遲這場辯論就等於拋棄整整一代人。"
+    },
+    {
+      "word": "junta",
+      "meaning_zh": "(名詞) 委員會、會議、接合處",
+      "example_es": "La Junta de la Comunidad se dirige a su empresa.",
+      "example_zh": "社區管委會向貴公司提出申訴。"
+    },
+    {
+      "word": "gesto",
+      "meaning_zh": "(名詞) 動作、姿態、表情",
+      "example_es": "Aquel gesto me hizo entender la solidaridad de los vecinos.",
+      "example_zh": "那個動作讓我明白了鄰居之間的團結。"
+    },
+    {
+      "word": "urbano",
+      "meaning_zh": "(形容詞) 都市的、城市的",
+      "example_es": "Han invitado a los voluntarios a foros sobre regeneración urbana.",
+      "example_zh": "他們邀請志工參加關於都市再生的論壇。"
+    },
+    {
+      "word": "comité",
+      "meaning_zh": "(名詞) 委員會",
+      "example_es": "El comité estratégico se reunió a primera hora.",
+      "example_zh": "策略委員會一大早就開會了。"
+    },
+    {
+      "word": "mediante",
+      "meaning_zh": "(介系詞) 透過、藉由",
+      "example_es": "Se fomenta el ecosistema mediante becas y residencias.",
+      "example_zh": "他們透過獎學金與駐村計畫扶植生態系。"
+    },
+    {
+      "word": "colectivo",
+      "meaning_zh": "(形容詞) 集體的；(名詞) 群體",
+      "example_es": "La identidad colectiva se articula mediante la nostalgia.",
+      "example_zh": "集體認同透過鄉愁被建構起來。"
+    },
+    {
+      "word": "sostener",
+      "meaning_zh": "(動詞) 支撐、主張、維持",
+      "example_es": "Sostiene que los propietarios no deben copiar el modelo.",
+      "example_zh": "他主張業主不該複製這種模式。"
+    },
+    {
+      "word": "discurso",
+      "meaning_zh": "(名詞) 演說、論述",
+      "example_es": "Se corre el riesgo de que el discurso se vacíe de contenido.",
+      "example_zh": "論述有失去內涵的風險。"
+    },
+    {
+      "word": "coworking",
+      "meaning_zh": "(名詞) 共同工作空間",
+      "example_es": "Espacios de coworking proliferan en la ciudad.",
+      "example_zh": "共同工作空間在城市中蓬勃發展。"
+    },
+    {
+      "word": "dicho",
+      "meaning_zh": "(形容詞) 上述的、所提到的",
+      "example_es": "Dicha partida se destinará a campañas digitales.",
+      "example_zh": "該筆預算將用於數位行銷活動。"
+    },
+    {
+      "word": "difícilmente",
+      "meaning_zh": "(副詞) 困難地、難以",
+      "example_es": "Difícilmente volverá a presentarse esta ocasión.",
+      "example_zh": "這樣的機會很難再次出現。"
+    },
+    {
+      "word": "deseable",
+      "meaning_zh": "(形容詞) 值得期待的、可取的",
+      "example_es": "Sería deseable que los operadores implantaran sistemas alternativos.",
+      "example_zh": "業者實施替代系統是可取的。"
+    },
+    {
+      "word": "consciente",
+      "meaning_zh": "(形容詞) 有意識的、清楚的",
+      "example_es": "Soy consciente de que la propuesta supone una carga.",
+      "example_zh": "我清楚這項提案構成負擔。"
+    },
+    {
+      "word": "poseer",
+      "meaning_zh": "(動詞) 擁有、佔有",
+      "example_es": "El duelo posee mapas y fronteras invisibles.",
+      "example_zh": "哀悼擁有自己的地圖與看不見的邊界。"
+    },
+    {
+      "word": "término",
+      "meaning_zh": "(名詞) 期限、術語、結尾",
+      "example_es": "En último término, negar la soledad es negar el pensamiento.",
+      "example_zh": "歸根究底，否定孤獨就是否定思考。"
+    },
+    {
+      "word": "habitar",
+      "meaning_zh": "(動詞) 居住、棲息",
+      "example_es": "Hay que aprender a habitar el camino.",
+      "example_zh": "必須學會棲居於旅途之中。"
+    },
+    {
+      "word": "juicio",
+      "meaning_zh": "(名詞) 判斷、審判",
+      "example_es": "A su juicio, los comercios deben tener presencia en línea.",
+      "example_zh": "依他之見，商家必須有線上存在感。"
+    },
+    {
+      "word": "oficio",
+      "meaning_zh": "(名詞) 行業、職業、手藝",
+      "example_es": "El oficio del narrador consiste en orquestar las elipsis.",
+      "example_zh": "敘事者的手藝在於編排省略。"
+    },
+    {
+      "word": "noción",
+      "meaning_zh": "(名詞) 概念、觀念",
+      "example_es": "Esto pone en jaque la noción de paciente autónomo.",
+      "example_zh": "這挑戰了自主病患的概念。"
+    },
+    {
+      "word": "protocolo",
+      "meaning_zh": "(名詞) 協議、規程、禮節",
+      "example_es": "Audita nuestros protocolos de respuesta.",
+      "example_zh": "他審查我們的應對協議。"
+    },
+    {
+      "word": "pleno",
+      "meaning_zh": "(形容詞) 完全的、處於…之中的",
+      "example_es": "Recupera oficios olvidados en pleno entorno urbano.",
+      "example_zh": "在都市環境中恢復被遺忘的手藝。"
+    },
+    {
+      "word": "lentitud",
+      "meaning_zh": "(名詞) 緩慢、遲緩",
+      "example_es": "Me reconcilió con una lentitud que había olvidado.",
+      "example_zh": "它讓我重新親近我已遺忘的緩慢。"
+    },
+    {
+      "word": "señalar",
+      "meaning_zh": "(動詞) 指出、指明",
+      "example_es": "Conviene señalar que la huerta funciona sin subvenciones.",
+      "example_zh": "值得指出的是，菜園不靠補助運作。"
+    },
+    {
+      "word": "consiguiente",
+      "meaning_zh": "(形容詞) 隨之而來的；(片語) por consiguiente=因此",
+      "example_es": "Por consiguiente, propuso diversificar los proveedores.",
+      "example_zh": "因此，他提議分散供應商。"
+    },
+    {
+      "word": "institucional",
+      "meaning_zh": "(形容詞) 機構的、制度的",
+      "example_es": "Reforzar la presencia institucional en ferias.",
+      "example_zh": "加強在展會中的機構曝光。"
+    },
+    {
+      "word": "conveniencia",
+      "meaning_zh": "(名詞) 方便、合宜",
+      "example_es": "Se discutió la conveniencia de un portavoz externo.",
+      "example_zh": "他們討論了外聘發言人是否合宜。"
+    },
+    {
+      "word": "callar",
+      "meaning_zh": "(動詞) 沉默、不說",
+      "example_es": "No se trata de callar por pudor.",
+      "example_zh": "這不是因羞愧而沉默。"
+    },
+    {
+      "word": "ignorar",
+      "meaning_zh": "(動詞) 忽視、不知道",
+      "example_es": "Sería imprudente ignorar las señales.",
+      "example_zh": "忽視這些訊號是不智的。"
+    },
+    {
+      "word": "madurez",
+      "meaning_zh": "(名詞) 成熟",
+      "example_es": "El ecosistema atraviesa una fase de madurez.",
+      "example_zh": "該生態系統正進入成熟期。"
+    },
+    {
+      "word": "pese",
+      "meaning_zh": "(連接詞) 儘管(pese a)",
+      "example_es": "Pese a estos avances, faltan recursos.",
+      "example_zh": "儘管有這些進展，資源仍不足。"
+    },
+    {
+      "word": "apertura",
+      "meaning_zh": "(名詞) 開放、開幕",
+      "example_es": "Antes de la apertura del lunes.",
+      "example_zh": "在星期一開盤之前。"
+    },
+    {
+      "word": "previo",
+      "meaning_zh": "(形容詞) 先前的、預先的",
+      "example_es": "Con esa lectura previa, todo cobró sentido.",
+      "example_zh": "有了先前的閱讀，一切都有了意義。"
+    },
+    {
+      "word": "antelación",
+      "meaning_zh": "(名詞) 提前、預先",
+      "example_es": "Avise con al menos un día de antelación.",
+      "example_zh": "請至少提前一天通知。"
+    },
+    {
+      "word": "olvido",
+      "meaning_zh": "(名詞) 遺忘",
+      "example_es": "No se trata de olvido, sino de un pacto sutil.",
+      "example_zh": "這不是遺忘，而是一種細膩的協議。"
+    },
+    {
+      "word": "cuyo",
+      "meaning_zh": "(關係代名詞) 其、誰的",
+      "example_es": "Un país cuyo idioma estoy aprendiendo.",
+      "example_zh": "一個我正在學其語言的國家。"
+    },
+    {
+      "word": "numeroso",
+      "meaning_zh": "(形容詞) 眾多的；許多的",
+      "example_es": "Numerosos autores han escrito sobre el tema.",
+      "example_zh": "許多作者寫過這個主題。"
+    },
+    {
+      "word": "profundamente",
+      "meaning_zh": "(副詞) 深深地；深刻地",
+      "example_es": "Comer hoy es un acto profundamente político.",
+      "example_zh": "今天進食是一種深刻的政治行為。"
+    },
+    {
+      "word": "horizonte",
+      "meaning_zh": "(名詞) 地平線；前景；展望",
+      "example_es": "La cocina sostenible es un horizonte hacia el que avanzar.",
+      "example_zh": "永續料理是我們要努力前進的方向。"
+    },
+    {
+      "word": "extraer",
+      "meaning_zh": "(動詞) 提取；抽出；得出（結論）",
+      "example_es": "Todavía es pronto para extraer conclusiones.",
+      "example_zh": "現在還太早得出結論。"
+    },
+    {
+      "word": "residir",
+      "meaning_zh": "(動詞) 居住；在於",
+      "example_es": "El valor reside en la experiencia del cliente.",
+      "example_zh": "價值在於顧客的體驗。"
+    },
+    {
+      "word": "estético",
+      "meaning_zh": "(形容詞) 美學的；審美的",
+      "example_es": "Recordar no es un ejercicio estético.",
+      "example_zh": "回憶並不是一種審美練習。"
+    },
+    {
+      "word": "genético",
+      "meaning_zh": "(形容詞) 基因的；遺傳的",
+      "example_es": "La edición genética plantea dilemas éticos.",
+      "example_zh": "基因編輯帶來倫理上的兩難。"
+    },
+    {
+      "word": "sensibilidad",
+      "meaning_zh": "(名詞) 敏感性；感受力",
+      "example_es": "La pedagogía debe combinar rigor y sensibilidad.",
+      "example_zh": "教育應該結合嚴謹與感受力。"
+    },
+    {
+      "word": "líquido",
+      "meaning_zh": "(形容詞/名詞) 液態的；液體",
+      "example_es": "El sujeto líquido acepta someterse al algoritmo.",
+      "example_zh": "液態的主體接受臣服於演算法。"
+    },
+    {
+      "word": "apostar",
+      "meaning_zh": "(動詞) 押注；支持",
+      "example_es": "Algunos directivos apuestan por la flexibilidad.",
+      "example_zh": "一些主管支持彈性制度。"
+    },
+    {
+      "word": "desplazamiento",
+      "meaning_zh": "(名詞) 移動；通勤",
+      "example_es": "Se ahorra tiempo en los desplazamientos.",
+      "example_zh": "通勤可以節省時間。"
+    },
+    {
+      "word": "notablemente",
+      "meaning_zh": "(副詞) 顯著地；明顯地",
+      "example_es": "El alquiler ha caído notablemente.",
+      "example_zh": "租金明顯下降。"
+    },
+    {
+      "word": "reforzar",
+      "meaning_zh": "(動詞) 加強；強化",
+      "example_es": "Se acordó reforzar la presencia institucional.",
+      "example_zh": "決議要加強機構的存在感。"
+    },
+    {
+      "word": "financiero",
+      "meaning_zh": "(形容詞) 金融的；財務的",
+      "example_es": "El director financiero advirtió de los retrasos.",
+      "example_zh": "財務總監警告延遲問題。"
+    },
+    {
+      "word": "arrastrar",
+      "meaning_zh": "(動詞) 拖；拖拉；拖累",
+      "example_es": "La cadena de suministro arrastra desequilibrios.",
+      "example_zh": "供應鏈拖著失衡的問題。"
+    },
+    {
+      "word": "revelar",
+      "meaning_zh": "(動詞) 揭示；揭露；顯影",
+      "example_es": "Toda página oculta tanto como revela.",
+      "example_zh": "每一頁所隱藏的和所揭露的一樣多。"
+    },
+    {
+      "word": "pretender",
+      "meaning_zh": "(動詞) 試圖；意圖；自稱",
+      "example_es": "Pretender que un texto se baste a sí mismo sería ingenuo.",
+      "example_zh": "認為一個文本能自給自足是天真的。"
+    },
+    {
+      "word": "examinar",
+      "meaning_zh": "(動詞) 檢查；檢視",
+      "example_es": "Conviene examinar el papel de las apps.",
+      "example_zh": "有必要檢視應用程式的角色。"
+    },
+    {
+      "word": "reducción",
+      "meaning_zh": "(名詞) 減少；削減",
+      "example_es": "Hubo una reducción significativa del sedentarismo.",
+      "example_zh": "久坐不動的情況明顯減少。"
+    },
+    {
+      "word": "plenamente",
+      "meaning_zh": "(副詞) 完全地；充分地",
+      "example_es": "Soy plenamente consciente del problema.",
+      "example_zh": "我完全意識到這個問題。"
+    },
+    {
+      "word": "conforme",
+      "meaning_zh": "(介系詞/形容詞) 根據；符合",
+      "example_es": "Conforme al reglamento interno.",
+      "example_zh": "根據內部規定。"
+    },
+    {
+      "word": "previsto",
+      "meaning_zh": "(形容詞) 預定的；預期的",
+      "example_es": "El impacto previsto en la cotización es grande.",
+      "example_zh": "對股價的預期影響很大。"
+    },
+    {
+      "word": "precisar",
+      "meaning_zh": "(動詞) 需要；精確指出",
+      "example_es": "Conviene precisar el alcance del informe.",
+      "example_zh": "需要明確說明報告的範圍。"
+    },
+    {
+      "word": "mensajería",
+      "meaning_zh": "(名詞) 快遞服務；簡訊",
+      "example_es": "Se la enviamos por mensajería.",
+      "example_zh": "我們用快遞寄給您。"
+    },
+    {
+      "word": "contribuir",
+      "meaning_zh": "(動詞) 貢獻；促成",
+      "example_es": "Han contribuido a frenar la fuga de talento.",
+      "example_zh": "他們促成了人才外流的減緩。"
+    },
+    {
+      "word": "exclusivamente",
+      "meaning_zh": "(副詞) 專門地；僅僅",
+      "example_es": "Se canalizará exclusivamente por escrito.",
+      "example_zh": "將僅透過書面方式進行。"
+    },
+    {
+      "word": "sede",
+      "meaning_zh": "(名詞) 總部；所在地",
+      "example_es": "Las productoras tienen sede en Madrid.",
+      "example_zh": "製作公司的總部在馬德里。"
+    },
+    {
+      "word": "casual",
+      "meaning_zh": "(形容詞) 偶然的；隨意的",
+      "example_es": "No es casual que coincidan.",
+      "example_zh": "他們同時出現絕非偶然。"
+    },
+    {
+      "word": "nombrar",
+      "meaning_zh": "(動詞) 命名；提名",
+      "example_es": "No hay palabras para nombrar este dolor.",
+      "example_zh": "沒有詞語能命名這種痛苦。"
+    },
+    {
+      "word": "absurdo",
+      "meaning_zh": "(形容詞) 荒謬的；可笑的",
+      "example_es": "Es absurdo generalizar sobre las personas.",
+      "example_zh": "對人們妄加概括是很荒謬的。"
+    },
+    {
+      "word": "funcional",
+      "meaning_zh": "(形容詞) 功能性的；實用的",
+      "example_es": "Es un intercambio funcional sin emoción.",
+      "example_zh": "這是沒有情感的功能性交換。"
+    },
+    {
+      "word": "experimentar",
+      "meaning_zh": "(動詞) 體驗；經歷",
+      "example_es": "Ha experimentado un crecimiento notable.",
+      "example_zh": "它經歷了顯著的成長。"
+    },
+    {
+      "word": "franja",
+      "meaning_zh": "(名詞) 時段；條帶",
+      "example_es": "Le doy cita en franja de mañana.",
+      "example_zh": "我幫您約上午的時段。"
+    },
+    {
+      "word": "persistir",
+      "meaning_zh": "(動詞) 持續；堅持",
+      "example_es": "Persiste el riesgo de exclusión.",
+      "example_zh": "排除的風險依然存在。"
     }
   ],
   "dc1": [
@@ -53299,6 +56593,138 @@
       "meaning_zh": "(m.) 排放權交易市場",
       "example_es": "El mercado de derechos de emisión asigna un precio a la tonelada de dióxido de carbono liberada a la atmósfera.",
       "example_zh": "排放權交易市場為釋放到大氣中的每公噸二氧化碳訂定價格。"
+    },
+    {
+      "word": "mero",
+      "meaning_zh": "(形容詞) 純粹的、僅僅的",
+      "example_es": "Fue un mero accidente.",
+      "example_zh": "那只是個單純的意外。"
+    },
+    {
+      "word": "cabría",
+      "meaning_zh": "(動詞) 有可能（caber 的條件式，常用於正式語）",
+      "example_es": "Cabría preguntarse cuáles son las causas reales.",
+      "example_zh": "或可探問真正的原因為何。"
+    },
+    {
+      "word": "fortalecer",
+      "meaning_zh": "(動詞) 加強、鞏固",
+      "example_es": "Hay que fortalecer las relaciones laborales.",
+      "example_zh": "必須加強勞資關係。"
+    },
+    {
+      "word": "instancia",
+      "meaning_zh": "(名詞) 層級、實例、申請書",
+      "example_es": "Su éxito depende en última instancia de la ciudadanía.",
+      "example_zh": "其成功最終取決於公民。"
+    },
+    {
+      "word": "paradójicamente",
+      "meaning_zh": "(副詞) 矛盾地、弔詭地",
+      "example_es": "Paradójicamente, ha hallado su refugio más fecundo en la ciudad.",
+      "example_zh": "弔詭的是，它在城市中找到了最豐沃的庇護所。"
+    },
+    {
+      "word": "sujeto",
+      "meaning_zh": "(名詞) 主體、個體；(形容詞) 受...制約的",
+      "example_es": "El sujeto recompone su biografía mediante imágenes del ayer.",
+      "example_zh": "主體透過昔日的影像重組自己的生平。"
+    },
+    {
+      "word": "cohesión",
+      "meaning_zh": "(名詞) 凝聚力、連貫性",
+      "example_es": "Advierten de la pérdida de cohesión en los equipos.",
+      "example_zh": "他們警告團隊凝聚力的喪失。"
+    },
+    {
+      "word": "circularidad",
+      "meaning_zh": "(名詞) 循環性",
+      "example_es": "La tasa global de circularidad apenas alcanza el ocho por ciento.",
+      "example_zh": "全球循環率僅達到百分之八。"
+    },
+    {
+      "word": "detenimiento",
+      "meaning_zh": "(名詞) 仔細、深入",
+      "example_es": "Revisaran el argumentario con detenimiento.",
+      "example_zh": "他們應仔細審視這份論點。"
+    },
+    {
+      "word": "urbe",
+      "meaning_zh": "(名詞) 大都市",
+      "example_es": "La urbe degenera en un mero engranaje.",
+      "example_zh": "都市退化為純粹的齒輪。"
+    },
+    {
+      "word": "deriva",
+      "meaning_zh": "(名詞) 漂移、走向",
+      "example_es": "Asistimos a una deriva silenciosa del lenguaje.",
+      "example_zh": "我們正目睹語言的無聲漂移。"
+    },
+    {
+      "word": "íntegramente",
+      "meaning_zh": "(副詞) 完整地、全部地",
+      "example_es": "Contenidos producidos íntegramente en castellano.",
+      "example_zh": "完全以西班牙語製作的內容。"
+    },
+    {
+      "word": "algorítmico",
+      "meaning_zh": "(形容詞) 演算法的",
+      "example_es": "Se exige mayor transparencia algorítmica.",
+      "example_zh": "人們要求更高的演算法透明度。"
+    },
+    {
+      "word": "concepción",
+      "meaning_zh": "(名詞) 觀念；構想；受孕",
+      "example_es": "Detrás se esconde una concepción normativa.",
+      "example_zh": "背後隱藏著一種規範性的觀念。"
+    },
+    {
+      "word": "propiamente",
+      "meaning_zh": "(副詞) 嚴格地說；恰當地",
+      "example_es": "Es una dimensión propiamente política.",
+      "example_zh": "這嚴格來說是政治層面的問題。"
+    },
+    {
+      "word": "cauteloso",
+      "meaning_zh": "(形容詞) 謹慎的",
+      "example_es": "Abogaron por un despliegue más cauteloso.",
+      "example_zh": "他們主張更謹慎的部署。"
+    },
+    {
+      "word": "densidad",
+      "meaning_zh": "(名詞) 密度；濃密",
+      "example_es": "Un texto puede callar por densidad.",
+      "example_zh": "文本可能因為內容濃密而沉默。"
+    },
+    {
+      "word": "trazado",
+      "meaning_zh": "(名詞) 路線；佈局",
+      "example_es": "Han trazado una genealogía del silencio.",
+      "example_zh": "他們描繪出沉默的譜系。"
+    },
+    {
+      "word": "oportuno",
+      "meaning_zh": "(形容詞) 適時的；恰當的",
+      "example_es": "Sería oportuno informar al regulador.",
+      "example_zh": "通知監管機構會是恰當的。"
+    },
+    {
+      "word": "demora",
+      "meaning_zh": "(名詞) 延遲；耽擱",
+      "example_es": "Hay penalizaciones por cada semana de demora.",
+      "example_zh": "每延遲一週都有罰款。"
+    },
+    {
+      "word": "cívico",
+      "meaning_zh": "(形容詞) 公民的；市民的",
+      "example_es": "Es un valor cívico fundamental.",
+      "example_zh": "這是一項基本的公民價值。"
+    },
+    {
+      "word": "prolongar",
+      "meaning_zh": "(動詞) 延長；拉長",
+      "example_es": "Queríamos prolongar la sensación de calma.",
+      "example_zh": "我們想延長那份平靜的感覺。"
     }
   ],
   "dc2": [
@@ -63153,6 +66579,180 @@
       "meaning_zh": "(f.) 公正轉型",
       "example_es": "La transición justa pretende mitigar el impacto laboral del cierre de las cuencas mineras.",
       "example_zh": "公正轉型旨在緩解礦區關閉對勞動市場的衝擊。"
+    },
+    {
+      "word": "cartografía",
+      "meaning_zh": "(名詞) 地圖學、地圖繪製",
+      "example_es": "Toda biografía del luto es una cartografía.",
+      "example_zh": "所有哀悼的傳記都是一張地圖。"
+    },
+    {
+      "word": "prosa",
+      "meaning_zh": "(名詞) 散文",
+      "example_es": "Hay en la prosa contemporánea un silencio singular.",
+      "example_zh": "當代散文中有一種獨特的沉默。"
+    },
+    {
+      "word": "eclipsar",
+      "meaning_zh": "(動詞) 使黯然失色；遮蔽",
+      "example_es": "La inversión pública se ha visto eclipsada.",
+      "example_zh": "公共投資已被掩蓋。"
+    },
+    {
+      "word": "entrañar",
+      "meaning_zh": "(動詞) 蘊含、含有",
+      "example_es": "Tal empresa entraña riesgos que conviene no menospreciar.",
+      "example_zh": "如此事業蘊含著不應低估的風險。"
+    },
+    {
+      "word": "deferir",
+      "meaning_zh": "(動詞) 讓予、遵從（他人意見）",
+      "example_es": "El juez defirió la causa al tribunal de instancia superior.",
+      "example_zh": "法官將案件移交給上級法院審理。"
+    },
+    {
+      "word": "abstenerse",
+      "meaning_zh": "(動詞) 棄權、戒除",
+      "example_es": "Varios diputados se abstuvieron en la votación por motivos de conciencia.",
+      "example_zh": "數名議員出於良知考量於表決中棄權。"
+    },
+    {
+      "word": "abdicar",
+      "meaning_zh": "(動詞) 退位、放棄（權力）",
+      "example_es": "El soberano abdicó la corona en favor de su primogénito.",
+      "example_zh": "君主將王位讓予其長子。"
+    },
+    {
+      "word": "dilatar",
+      "meaning_zh": "(動詞) 拖延、擴張",
+      "example_es": "El gabinete no puede dilatar por más tiempo la adopción de medidas urgentes.",
+      "example_zh": "內閣無法再拖延採取緊急措施。"
+    },
+    {
+      "word": "escolasticismo",
+      "meaning_zh": "(名詞) 經院哲學",
+      "example_es": "El escolasticismo dominó el pensamiento europeo durante toda la Baja Edad Media.",
+      "example_zh": "經院哲學主導了整個中世紀晚期的歐洲思想。"
+    },
+    {
+      "word": "hermeticidad",
+      "meaning_zh": "(名詞) 晦澀、密閉性",
+      "example_es": "La hermeticidad de su prosa exige al lector un esfuerzo notable.",
+      "example_zh": "其文章的晦澀要求讀者付出極大努力。"
+    },
+    {
+      "word": "plenipotenciario",
+      "meaning_zh": "(名詞) 全權代表、特命大使",
+      "example_es": "El embajador plenipotenciario rubricó el acuerdo en nombre de su gobierno.",
+      "example_zh": "全權大使代表其政府簽署了該協議。"
+    },
+    {
+      "word": "depositario",
+      "meaning_zh": "(名詞) 受託人、保管人",
+      "example_es": "La academia es depositaria del legado documental del insigne escritor.",
+      "example_zh": "學院是該傑出作家文獻遺產的保管者。"
+    },
+    {
+      "word": "coadyuvante",
+      "meaning_zh": "(形容詞) 協助的、輔助訴訟的",
+      "example_es": "La asociación se personó en la causa en calidad de parte coadyuvante.",
+      "example_zh": "該協會以輔助訴訟方身分參與案件。"
+    },
+    {
+      "word": "mancomunado",
+      "meaning_zh": "(形容詞) 共同的、連帶的",
+      "example_es": "Los avalistas responden de la deuda de forma mancomunada.",
+      "example_zh": "擔保人對該債務負連帶責任。"
+    },
+    {
+      "word": "lesivo",
+      "meaning_zh": "(形容詞) 損害的、有害的",
+      "example_es": "La cláusula resultó manifiestamente lesiva para los intereses del consumidor.",
+      "example_zh": "該條款明顯損害消費者的利益。"
+    },
+    {
+      "word": "dirimente",
+      "meaning_zh": "(形容詞) 決定性的、能解決爭端的",
+      "example_es": "El árbitro emitió un laudo dirimente que zanjó la controversia.",
+      "example_zh": "仲裁人作出決定性裁決，終結了爭議。"
+    },
+    {
+      "word": "subsidiario",
+      "meaning_zh": "(形容詞) 從屬的、補充性的",
+      "example_es": "La responsabilidad del fiador es subsidiaria de la del deudor principal.",
+      "example_zh": "保證人的責任從屬於主債務人的責任。"
+    },
+    {
+      "word": "supletorio",
+      "meaning_zh": "(形容詞) 補充適用的",
+      "example_es": "En lo no previsto, regirá con carácter supletorio el código civil.",
+      "example_zh": "未規定者，民法典具補充適用之效力。"
+    },
+    {
+      "word": "antífrasis",
+      "meaning_zh": "(名詞) 反語法",
+      "example_es": "La antífrasis emplea un término en sentido contrario al literal.",
+      "example_zh": "反語法以詞彙的相反意義來表達原意。"
+    },
+    {
+      "word": "pleonasmo",
+      "meaning_zh": "(名詞) 重複贅述法",
+      "example_es": "El pleonasmo, lejos de ser vicio, puede emplearse con fines enfáticos.",
+      "example_zh": "重複贅述非但不必然是弊病，亦可用於強調。"
+    },
+    {
+      "word": "meticulosamente",
+      "meaning_zh": "(副詞) 一絲不苟地",
+      "example_es": "El catedrático revisó meticulosamente cada nota a pie de página.",
+      "example_zh": "教授一絲不苟地核對每一條腳註。"
+    },
+    {
+      "word": "encarecidamente",
+      "meaning_zh": "(副詞) 懇切地、再三地",
+      "example_es": "Le rogamos encarecidamente que reconsidere su dimisión.",
+      "example_zh": "我們懇切請求您重新考慮辭職一事。"
+    },
+    {
+      "word": "soterradamente",
+      "meaning_zh": "(副詞) 暗中地、隱蔽地",
+      "example_es": "El descontento crecía soterradamente entre las filas del partido.",
+      "example_zh": "不滿情緒在黨內暗中滋長。"
+    },
+    {
+      "word": "sosegadamente",
+      "meaning_zh": "(副詞) 從容鎮定地",
+      "example_es": "Expuso sosegadamente sus argumentos pese al acalorado ambiente del debate.",
+      "example_zh": "他在激烈的辯論氛圍中仍從容地陳述其論點。"
+    },
+    {
+      "word": "atinadamente",
+      "meaning_zh": "(副詞) 妥當地、貼切地",
+      "example_es": "El ensayista observa atinadamente las contradicciones del discurso oficial.",
+      "example_zh": "散文家妥切地指出官方論述的矛盾。"
+    },
+    {
+      "word": "recóndito",
+      "meaning_zh": "(形容詞) 隱密的、深奧的",
+      "example_es": "El símbolo encierra un significado recóndito accesible solo a iniciados.",
+      "example_zh": "該符號蘊含深奧之意，唯入門者可解。"
+    },
+    {
+      "word": "estulto",
+      "meaning_zh": "(形容詞) 愚蠢的",
+      "example_es": "Sería estulto desestimar las advertencias de los expertos.",
+      "example_zh": "輕忽專家的警告將是愚蠢之舉。"
+    },
+    {
+      "word": "ímprobo",
+      "meaning_zh": "(形容詞) 艱鉅的、不誠的",
+      "example_es": "Acometió la empresa con ímprobo esfuerzo y notable abnegación.",
+      "example_zh": "他以艱鉅的努力與顯著的犧牲投入此事業。"
+    },
+    {
+      "word": "ineluctable",
+      "meaning_zh": "(形容詞) 不可避免的",
+      "example_es": "El paso del tiempo y sus efectos resultan ineluctables.",
+      "example_zh": "時間的流逝及其影響不可避免。"
     }
   ]
 }
