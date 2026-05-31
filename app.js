@@ -952,7 +952,7 @@ function speak(text, langCode, btn) {
     if (v) u.voice = v;
 
     if (btn) {
-      btn.textContent = "⏹";
+      btn.textContent = "🔇";
       btn.setAttribute("aria-label", "停止發音");
       btn.setAttribute("title", "停止發音");
       activeTtsBtn = btn;
