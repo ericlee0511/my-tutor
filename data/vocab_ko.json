@@ -7991,6 +7991,182 @@
       "meaning_zh": "結束、盡頭、最後",
       "example_ko": "오늘 일은 이제 끝이에요.",
       "example_zh": "今天的事到此結束。"
+    },
+    {
+      "word": "은",
+      "hanja": "",
+      "romanization": "eun",
+      "meaning_zh": "（粒子/助詞）主題標誌（接尾音時）",
+      "example_ko": "사람은 가야 해요.",
+      "example_zh": "人是必須去的。"
+    },
+    {
+      "word": "는",
+      "hanja": "",
+      "romanization": "neun",
+      "meaning_zh": "（粒子/助詞）主題標誌（無尾音時）",
+      "example_ko": "저는 학생이에요.",
+      "example_zh": "我是學生。"
+    },
+    {
+      "word": "이",
+      "hanja": "",
+      "romanization": "i",
+      "meaning_zh": "（粒子/助詞）主語標誌（接尾音時）",
+      "example_ko": "친구가 책이 있어요.",
+      "example_zh": "朋友有書。"
+    },
+    {
+      "word": "가",
+      "hanja": "",
+      "romanization": "ga",
+      "meaning_zh": "（粒子/助詞）主語標誌（無尾音時）",
+      "example_ko": "친구가 와요.",
+      "example_zh": "朋友來了。"
+    },
+    {
+      "word": "을",
+      "hanja": "",
+      "romanization": "eul",
+      "meaning_zh": "（粒子/助詞）受詞標誌（接尾音時）",
+      "example_ko": "책을 읽어요.",
+      "example_zh": "我讀書。"
+    },
+    {
+      "word": "를",
+      "hanja": "",
+      "romanization": "reul",
+      "meaning_zh": "（粒子/助詞）受詞標誌（無尾音時）",
+      "example_ko": "커피를 마셔요.",
+      "example_zh": "我喝咖啡。"
+    },
+    {
+      "word": "의",
+      "hanja": "",
+      "romanization": "ui",
+      "meaning_zh": "（粒子/助詞）的（所有格）",
+      "example_ko": "친구의 책이에요.",
+      "example_zh": "是朋友的書。"
+    },
+    {
+      "word": "에",
+      "hanja": "",
+      "romanization": "e",
+      "meaning_zh": "（粒子/助詞）在、到（地點/時間）",
+      "example_ko": "학교에 가요.",
+      "example_zh": "去學校。"
+    },
+    {
+      "word": "에서",
+      "hanja": "",
+      "romanization": "eseo",
+      "meaning_zh": "（粒子/助詞）在、從（動作發生地）",
+      "example_ko": "집에서 공부해요.",
+      "example_zh": "在家裡讀書。"
+    },
+    {
+      "word": "에게",
+      "hanja": "",
+      "romanization": "ege",
+      "meaning_zh": "（粒子/助詞）給、向（人/動物）",
+      "example_ko": "친구에게 선물을 줬어요.",
+      "example_zh": "我送禮物給朋友。"
+    },
+    {
+      "word": "한테",
+      "hanja": "",
+      "romanization": "hante",
+      "meaning_zh": "（粒子/助詞）給、向（口語）",
+      "example_ko": "동생한테 말했어요.",
+      "example_zh": "我跟弟弟說了。"
+    },
+    {
+      "word": "도",
+      "hanja": "",
+      "romanization": "do",
+      "meaning_zh": "（粒子/助詞）也、也是",
+      "example_ko": "저도 가요.",
+      "example_zh": "我也去。"
+    },
+    {
+      "word": "만",
+      "hanja": "",
+      "romanization": "man",
+      "meaning_zh": "（粒子/助詞）只、只有",
+      "example_ko": "물만 마셔요.",
+      "example_zh": "我只喝水。"
+    },
+    {
+      "word": "부터",
+      "hanja": "",
+      "romanization": "buteo",
+      "meaning_zh": "（粒子/助詞）從…起（起點）",
+      "example_ko": "아침부터 비가 왔어요.",
+      "example_zh": "從早上就下雨了。"
+    },
+    {
+      "word": "까지",
+      "hanja": "",
+      "romanization": "kkaji",
+      "meaning_zh": "（粒子/助詞）到…為止（終點）",
+      "example_ko": "밤까지 일했어요.",
+      "example_zh": "工作到晚上。"
+    },
+    {
+      "word": "와",
+      "hanja": "",
+      "romanization": "wa",
+      "meaning_zh": "（粒子/助詞）和、與（無尾音時）",
+      "example_ko": "친구와 같이 가요.",
+      "example_zh": "和朋友一起去。"
+    },
+    {
+      "word": "과",
+      "hanja": "",
+      "romanization": "gwa",
+      "meaning_zh": "（粒子/助詞）和、與（接尾音時）",
+      "example_ko": "책과 펜이 있어요.",
+      "example_zh": "有書和筆。"
+    },
+    {
+      "word": "하고",
+      "hanja": "",
+      "romanization": "hago",
+      "meaning_zh": "（粒子/助詞）和、與（口語）",
+      "example_ko": "엄마하고 시장에 가요.",
+      "example_zh": "和媽媽去市場。"
+    },
+    {
+      "word": "보다",
+      "hanja": "",
+      "romanization": "boda",
+      "meaning_zh": "（粒子/助詞）比…（比較）",
+      "example_ko": "언니보다 키가 커요.",
+      "example_zh": "我比姐姐高。"
+    },
+    {
+      "word": "처럼",
+      "hanja": "",
+      "romanization": "cheoreom",
+      "meaning_zh": "（粒子/助詞）像…一樣",
+      "example_ko": "아이처럼 웃어요.",
+      "example_zh": "像小孩一樣笑。"
+    },
+    {
+      "word": "으로",
+      "hanja": "",
+      "romanization": "euro",
+      "meaning_zh": "（粒子/助詞）用、以、往（接尾音時，ㄹ除外）",
+      "example_ko": "젓가락으로 먹어요.",
+      "example_zh": "用筷子吃。"
+    },
+    {
+      "word": "로",
+      "hanja": "",
+      "romanization": "ro",
+      "meaning_zh": "（粒子/助詞）用、以、往（無尾音或ㄹ）",
+      "example_ko": "차로 갈게요.",
+      "example_zh": "我搭車去。"
     }
   ],
   "t2": [

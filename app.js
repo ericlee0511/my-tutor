@@ -1198,21 +1198,53 @@ function buildLookupIndex() {
   // Highlight then matches WHOLE eojeols only — no substring scan. This kills the
   // 게/말/이 false positives (자연스럽게 → no match; 말씀하셨다 → no match; 사람이 → 사람).
   const koMap = new Map();
+  // Pass 1: collect particle entries (e.g. 도 = "也", 에서 = "在/從"). A particle
+  // entry is identified by its word matching the particle string AND meaning_zh
+  // mentioning 粒子/助詞. We then attach particle entries to every noun+particle
+  // eojeol so e.g. 내일도 popup shows both 내일 (tomorrow) and 도 (also/too).
+  const PARTICLE_SET = new Set([
+    ...KO_PARTICLES_SINGLE,
+    ...KO_PARTICLE_COMBOS,
+  ]);
+  const particleEntries = new Map();  // particle string -> [entry, ...]
+  if (DATA.vocab_ko) {
+    Object.values(DATA.vocab_ko).forEach(arr => {
+      if (!Array.isArray(arr)) return;
+      arr.forEach(item => {
+        const word = item && item.word;
+        if (!word || !PARTICLE_SET.has(word)) return;
+        if (!/粒子|助詞|格助/.test(item.meaning_zh || "")) return;
+        const list = particleEntries.get(word) || [];
+        list.push(item);
+        particleEntries.set(word, list);
+      });
+    });
+  }
+
+  // Pass 2: register all keys. For each noun entry's generated forms (noun +
+  // particle), also point the form's key list at the matching particle entry.
+  function addKeyTo(map, k, item) {
+    const list = map.get(k);
+    if (list) { if (!list.includes(item)) list.push(item); }
+    else map.set(k, [item]);
+  }
   if (DATA.vocab_ko) {
     Object.values(DATA.vocab_ko).forEach(arr => {
       if (!Array.isArray(arr)) return;
       arr.forEach(item => {
         const word = item && item.word;
         if (!word) return;
-        const addKey = k => {
-          const list = koMap.get(k);
-          if (list) { if (!list.includes(item)) list.push(item); }
-          else koMap.set(k, [item]);
-        };
-        generateKoNounForms(word).forEach(addKey);
+        for (const form of generateKoNounForms(word)) {
+          addKeyTo(koMap, form, item);
+          if (form !== word) {
+            const suffix = form.slice(word.length);
+            const ps = particleEntries.get(suffix);
+            if (ps) ps.forEach(pe => addKeyTo(koMap, form, pe));
+          }
+        }
         if (word.length >= 2 && word.endsWith("다")) {
           const stem = word.slice(0, -1);
-          if (stem) generateKoVerbForms(stem).forEach(addKey);
+          if (stem) generateKoVerbForms(stem).forEach(f => addKeyTo(koMap, f, item));
         }
       });
     });
