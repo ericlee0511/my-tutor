@@ -1357,6 +1357,14 @@ function highlightJaWithTokenizer(text) {
   return out;
 }
 
+// Strip the "（粒子/助詞）" tag that the data uses to flag KO particle entries
+// (so buildLookupIndex can spot them). It's a machine-readable hint, not for
+// human eyes — clean it off before rendering meaning_zh anywhere.
+function displayMeaning(s) {
+  if (!s) return "";
+  return s.replace(/^[（(][^）)]*(?:粒子|助詞|格助)[^）)]*[）)]\s*/, "");
+}
+
 function lookupEntryHtml(entry, lang) {
   let reading = "";
   if (lang === "ja" && entry.kana) reading = entry.kana;
@@ -1367,7 +1375,7 @@ function lookupEntryHtml(entry, lang) {
   let html = `<div class="lookup-entry"><div class="lookup-head"><strong>${escapeHTML(headWord || "")}</strong>`;
   if (reading) html += `<span class="lookup-reading">[${escapeHTML(reading)}]</span>`;
   html += `</div>`;
-  if (entry.meaning_zh) html += `<div class="lookup-meaning">${escapeHTML(entry.meaning_zh)}</div>`;
+  if (entry.meaning_zh) html += `<div class="lookup-meaning">${escapeHTML(displayMeaning(entry.meaning_zh))}</div>`;
   if (exampleSrc) {
     html += `<div class="lookup-example">${escapeHTML(exampleSrc)}`;
     if (exampleZh) html += `<br>→ ${escapeHTML(exampleZh)}`;
@@ -1495,7 +1503,7 @@ function fmtWordKo(item) {
   if (item.hanja && item.hanja !== "" && item.hanja !== "—") {
     html += `<div><span class="label">漢字:</span><span class="label-text">${escapeHTML(item.hanja)}</span></div>`;
   }
-  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
+  html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(displayMeaning(item.meaning_zh))}</span></div>` +
     `<div class="ex">例: ${escapeHTML(item.example_ko)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
