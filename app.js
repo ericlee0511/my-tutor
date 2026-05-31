@@ -1368,13 +1368,17 @@ function showLookupPopup(spanEl) {
   const rect = spanEl.getBoundingClientRect();
   const popupRect = popup.getBoundingClientRect();
   const viewW = document.documentElement.clientWidth;
-  // Bound = top of footer (so popup never overlaps "已載入 N 項" stats line).
-  // Fallback to viewport bottom if footer not found.
+  // Bound = bottom of the #content card (the framed box above the footer), so
+  // popup never crosses below that card's visual edge. Fall back to footer top,
+  // then to viewport bottom.
+  const contentEl = document.getElementById("content");
   const footerEl = document.querySelector("footer");
-  const footerTop = footerEl ? footerEl.getBoundingClientRect().top : document.documentElement.clientHeight;
+  const bottomBound = contentEl
+    ? contentEl.getBoundingClientRect().bottom
+    : (footerEl ? footerEl.getBoundingClientRect().top : document.documentElement.clientHeight);
   const MARGIN = 8;
   const naturalH = popupRect.height;
-  const spaceBelow = Math.max(0, footerTop - rect.bottom - MARGIN);
+  const spaceBelow = Math.max(0, bottomBound - rect.bottom - MARGIN);
   const spaceAbove = Math.max(0, rect.top - MARGIN);
 
   // Horizontal placement (unchanged)
