@@ -7663,6 +7663,46 @@
       "meaning_zh": "化妝",
       "example_ko": "출근 전에 가볍게 화장을 해요.",
       "example_zh": "上班前我會化淡妝。"
+    },
+    {
+      "word": "한",
+      "hanja": "",
+      "romanization": "han",
+      "meaning_zh": "一（量詞前修飾語）",
+      "example_ko": "한 시간쯤 지났어요.",
+      "example_zh": "大約過了一個小時。"
+    },
+    {
+      "word": "두",
+      "hanja": "",
+      "romanization": "du",
+      "meaning_zh": "二（量詞前修飾語）",
+      "example_ko": "두 사람이 함께 왔어요.",
+      "example_zh": "兩個人一起來了。"
+    },
+    {
+      "word": "세",
+      "hanja": "",
+      "romanization": "se",
+      "meaning_zh": "三（量詞前修飾語）",
+      "example_ko": "세 명이 같이 점심을 먹었어요.",
+      "example_zh": "三個人一起吃了午餐。"
+    },
+    {
+      "word": "네",
+      "hanja": "",
+      "romanization": "ne",
+      "meaning_zh": "四（量詞前修飾語）",
+      "example_ko": "네 명이 카페에 갔어요.",
+      "example_zh": "四個人去了咖啡店。"
+    },
+    {
+      "word": "네",
+      "hanja": "",
+      "romanization": "ne",
+      "meaning_zh": "是的、好（回應）",
+      "example_ko": "네, 알겠습니다.",
+      "example_zh": "好的，我知道了。"
     }
   ],
   "t2": [
@@ -23641,6 +23681,30 @@
       "meaning_zh": "市、城市",
       "example_ko": "서울시 강남구에 살아요.",
       "example_zh": "我住在首爾市江南區。"
+    },
+    {
+      "word": "한",
+      "hanja": "韓",
+      "romanization": "han",
+      "meaning_zh": "韓（國名簡稱）",
+      "example_ko": "한미 양국이 회담을 했다.",
+      "example_zh": "韓美兩國舉行了會談。"
+    },
+    {
+      "word": "한",
+      "hanja": "",
+      "romanization": "han",
+      "meaning_zh": "大約、約莫",
+      "example_ko": "한 두 명 정도가 더 올 거예요.",
+      "example_zh": "大概還會再來一兩位。"
+    },
+    {
+      "word": "세",
+      "hanja": "歲",
+      "romanization": "se",
+      "meaning_zh": "歲（年齡單位）",
+      "example_ko": "우리 아들은 다섯 세예요.",
+      "example_zh": "我兒子五歲。"
     }
   ],
   "t3": [
@@ -45723,6 +45787,22 @@
       "meaning_zh": "位、名次",
       "example_ko": "그는 시험에서 1위를 했어요.",
       "example_zh": "他在考試中拿了第一名。"
+    },
+    {
+      "word": "한",
+      "hanja": "",
+      "romanization": "han",
+      "meaning_zh": "大、正中（前綴）",
+      "example_ko": "한길 한복판에 서 있었다.",
+      "example_zh": "站在大路正中央。"
+    },
+    {
+      "word": "한",
+      "hanja": "限",
+      "romanization": "han",
+      "meaning_zh": "限、限度",
+      "example_ko": "그것은 그 사람 한에서 가능하다.",
+      "example_zh": "那只在那個人的範圍內可行。"
     }
   ],
   "t4": [
