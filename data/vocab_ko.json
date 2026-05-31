@@ -7487,6 +7487,182 @@
       "meaning_zh": "瓶子",
       "example_ko": "우유 한 병 사 왔어요.",
       "example_zh": "我買了一瓶牛奶來。"
+    },
+    {
+      "word": "개",
+      "hanja": "",
+      "romanization": "gae",
+      "meaning_zh": "狗",
+      "example_ko": "우리 집 개가 너무 귀여워요.",
+      "example_zh": "我家的狗超可愛。"
+    },
+    {
+      "word": "게",
+      "hanja": "",
+      "romanization": "ge",
+      "meaning_zh": "事情（것이的縮約）",
+      "example_ko": "할 게 너무 많아요.",
+      "example_zh": "要做的事情太多了。"
+    },
+    {
+      "word": "그",
+      "hanja": "",
+      "romanization": "geu",
+      "meaning_zh": "那（指示詞）",
+      "example_ko": "그 책 좀 빌려주세요.",
+      "example_zh": "請借我那本書。"
+    },
+    {
+      "word": "김",
+      "hanja": "金",
+      "romanization": "gim",
+      "meaning_zh": "金（韓國姓氏）",
+      "example_ko": "김 선생님은 어디 계세요?",
+      "example_zh": "金老師在哪裡呢？"
+    },
+    {
+      "word": "달",
+      "hanja": "",
+      "romanization": "dal",
+      "meaning_zh": "月（時間單位）",
+      "example_ko": "이번 달은 정말 바빠요.",
+      "example_zh": "這個月真的很忙。"
+    },
+    {
+      "word": "들",
+      "hanja": "",
+      "romanization": "deul",
+      "meaning_zh": "們（複數接尾）",
+      "example_ko": "학생들이 모두 모였어요.",
+      "example_zh": "學生們都聚在一起了。"
+    },
+    {
+      "word": "목",
+      "hanja": "木",
+      "romanization": "mok",
+      "meaning_zh": "木、木曜（星期四詞根）",
+      "example_ko": "목요일에 만나요.",
+      "example_zh": "星期四見。"
+    },
+    {
+      "word": "분",
+      "hanja": "分",
+      "romanization": "bun",
+      "meaning_zh": "分鐘",
+      "example_ko": "10분만 기다려 주세요.",
+      "example_zh": "請等10分鐘。"
+    },
+    {
+      "word": "새",
+      "hanja": "",
+      "romanization": "sae",
+      "meaning_zh": "新的（冠形詞）",
+      "example_ko": "새 옷을 샀어요.",
+      "example_zh": "我買了新衣服。"
+    },
+    {
+      "word": "수",
+      "hanja": "水",
+      "romanization": "su",
+      "meaning_zh": "水曜（星期三詞根）",
+      "example_ko": "수요일에 시험이 있어요.",
+      "example_zh": "星期三有考試。"
+    },
+    {
+      "word": "안",
+      "hanja": "",
+      "romanization": "an",
+      "meaning_zh": "不（否定副詞）",
+      "example_ko": "오늘은 안 가요.",
+      "example_zh": "今天不去。"
+    },
+    {
+      "word": "예",
+      "hanja": "",
+      "romanization": "ye",
+      "meaning_zh": "是、好（應答語）",
+      "example_ko": "예, 알겠습니다.",
+      "example_zh": "是的，知道了。"
+    },
+    {
+      "word": "이",
+      "hanja": "二",
+      "romanization": "i",
+      "meaning_zh": "二（漢字數字）",
+      "example_ko": "이 더하기 이는 사예요.",
+      "example_zh": "二加二是四。"
+    },
+    {
+      "word": "이",
+      "hanja": "",
+      "romanization": "i",
+      "meaning_zh": "這（指示詞）",
+      "example_ko": "이 사람이 누구예요?",
+      "example_zh": "這個人是誰？"
+    },
+    {
+      "word": "이",
+      "hanja": "李",
+      "romanization": "i",
+      "meaning_zh": "李（韓國姓氏）",
+      "example_ko": "이 사장님은 정말 친절하세요.",
+      "example_zh": "李社長真的很親切。"
+    },
+    {
+      "word": "잔",
+      "hanja": "",
+      "romanization": "jan",
+      "meaning_zh": "杯（量詞）",
+      "example_ko": "커피 한 잔 주세요.",
+      "example_zh": "請給我一杯咖啡。"
+    },
+    {
+      "word": "팔",
+      "hanja": "八",
+      "romanization": "pal",
+      "meaning_zh": "八（漢字數字）",
+      "example_ko": "팔월에 휴가를 가요.",
+      "example_zh": "八月去度假。"
+    },
+    {
+      "word": "해",
+      "hanja": "",
+      "romanization": "hae",
+      "meaning_zh": "年（時間單位）",
+      "example_ko": "올해는 정말 빨리 갔어요.",
+      "example_zh": "今年過得真快。"
+    },
+    {
+      "word": "노트",
+      "hanja": "",
+      "romanization": "noteu",
+      "meaning_zh": "筆記本",
+      "example_ko": "노트에 적어 두세요.",
+      "example_zh": "請記在筆記本上。"
+    },
+    {
+      "word": "이사",
+      "hanja": "移徙",
+      "romanization": "isa",
+      "meaning_zh": "搬家、搬遷",
+      "example_ko": "다음 달에 새 집으로 이사를 가요.",
+      "example_zh": "下個月要搬到新家。"
+    },
+    {
+      "word": "이상",
+      "hanja": "以上",
+      "romanization": "isang",
+      "meaning_zh": "以上",
+      "example_ko": "스무 살 이상만 입장할 수 있어요.",
+      "example_zh": "二十歲以上才能入場。"
+    },
+    {
+      "word": "화장",
+      "hanja": "化粧",
+      "romanization": "hwajang",
+      "meaning_zh": "化妝",
+      "example_ko": "출근 전에 가볍게 화장을 해요.",
+      "example_zh": "上班前我會化淡妝。"
     }
   ],
   "t2": [
@@ -23105,6 +23281,366 @@
       "meaning_zh": "梨、梨子",
       "example_ko": "가을에 배가 맛있어요.",
       "example_zh": "秋天的梨很好吃。"
+    },
+    {
+      "word": "공",
+      "hanja": "空",
+      "romanization": "gong",
+      "meaning_zh": "零、空",
+      "example_ko": "비밀번호는 공공일이에요.",
+      "example_zh": "密碼是零零一。"
+    },
+    {
+      "word": "국",
+      "hanja": "國",
+      "romanization": "guk",
+      "meaning_zh": "國（國家詞根）",
+      "example_ko": "한국과 중국은 이웃 나라예요.",
+      "example_zh": "韓國和中國是鄰國。"
+    },
+    {
+      "word": "막",
+      "hanja": "",
+      "romanization": "mak",
+      "meaning_zh": "剛、剛剛（副詞）",
+      "example_ko": "막 도착했어요.",
+      "example_zh": "我剛剛到。"
+    },
+    {
+      "word": "물",
+      "hanja": "物",
+      "romanization": "mul",
+      "meaning_zh": "物、東西（詞根）",
+      "example_ko": "이 물건은 어디서 샀어요?",
+      "example_zh": "這個東西是在哪裡買的？"
+    },
+    {
+      "word": "별",
+      "hanja": "別",
+      "romanization": "byeol",
+      "meaning_zh": "特別、特殊（用在否定）",
+      "example_ko": "별 문제 없어요.",
+      "example_zh": "沒什麼大問題。"
+    },
+    {
+      "word": "비",
+      "hanja": "費",
+      "romanization": "bi",
+      "meaning_zh": "費用（詞根）",
+      "example_ko": "교통비가 많이 들어요.",
+      "example_zh": "交通費花很多。"
+    },
+    {
+      "word": "살",
+      "hanja": "",
+      "romanization": "sal",
+      "meaning_zh": "肉、肌肉",
+      "example_ko": "요즘 살이 많이 쪘어요.",
+      "example_zh": "最近長了很多肉（變胖了）。"
+    },
+    {
+      "word": "소",
+      "hanja": "小",
+      "romanization": "so",
+      "meaning_zh": "小（尺寸詞根）",
+      "example_ko": "소 사이즈로 주세요.",
+      "example_zh": "請給我小份的。"
+    },
+    {
+      "word": "수",
+      "hanja": "數",
+      "romanization": "su",
+      "meaning_zh": "數、數量",
+      "example_ko": "참가자 수가 많아요.",
+      "example_zh": "參加者人數很多。"
+    },
+    {
+      "word": "양",
+      "hanja": "量",
+      "romanization": "yang",
+      "meaning_zh": "量、份量",
+      "example_ko": "양이 너무 많아요.",
+      "example_zh": "份量太多了。"
+    },
+    {
+      "word": "원",
+      "hanja": "員",
+      "romanization": "won",
+      "meaning_zh": "員（人員詞根）",
+      "example_ko": "회사원으로 일해요.",
+      "example_zh": "我在當公司職員。"
+    },
+    {
+      "word": "원",
+      "hanja": "院",
+      "romanization": "won",
+      "meaning_zh": "院（機構詞根）",
+      "example_ko": "병원에 다녀왔어요.",
+      "example_zh": "去了一趟醫院。"
+    },
+    {
+      "word": "장",
+      "hanja": "場",
+      "romanization": "jang",
+      "meaning_zh": "場、市場（詞根）",
+      "example_ko": "주말에 장을 봤어요.",
+      "example_zh": "週末去買菜了。"
+    },
+    {
+      "word": "장",
+      "hanja": "長",
+      "romanization": "jang",
+      "meaning_zh": "長、首長（詞根）",
+      "example_ko": "그분이 사장이세요.",
+      "example_zh": "那位是社長。"
+    },
+    {
+      "word": "장",
+      "hanja": "章",
+      "romanization": "jang",
+      "meaning_zh": "章（書本章節）",
+      "example_ko": "이 책은 총 10장으로 되어 있어요.",
+      "example_zh": "這本書共有10章。"
+    },
+    {
+      "word": "점",
+      "hanja": "店",
+      "romanization": "jeom",
+      "meaning_zh": "店（店鋪詞根）",
+      "example_ko": "음식점이 많아요.",
+      "example_zh": "餐廳很多。"
+    },
+    {
+      "word": "주",
+      "hanja": "主",
+      "romanization": "ju",
+      "meaning_zh": "主、主要（詞根）",
+      "example_ko": "주 메뉴가 뭐예요?",
+      "example_zh": "主要的菜單是什麼？"
+    },
+    {
+      "word": "줄",
+      "hanja": "",
+      "romanization": "jul",
+      "meaning_zh": "繩子、線",
+      "example_ko": "줄로 묶어 주세요.",
+      "example_zh": "請用繩子綁起來。"
+    },
+    {
+      "word": "초",
+      "hanja": "醋",
+      "romanization": "cho",
+      "meaning_zh": "醋",
+      "example_ko": "초를 조금 넣어 주세요.",
+      "example_zh": "請加一點醋。"
+    },
+    {
+      "word": "초",
+      "hanja": "初",
+      "romanization": "cho",
+      "meaning_zh": "初、初期（詞根）",
+      "example_ko": "내년 초에 결혼해요.",
+      "example_zh": "明年初結婚。"
+    },
+    {
+      "word": "초",
+      "hanja": "",
+      "romanization": "cho",
+      "meaning_zh": "蠟燭",
+      "example_ko": "생일 케이크에 초를 꽂았어요.",
+      "example_zh": "在生日蛋糕上插了蠟燭。"
+    },
+    {
+      "word": "통",
+      "hanja": "通",
+      "romanization": "tong",
+      "meaning_zh": "通、通（信件量詞）",
+      "example_ko": "편지 한 통이 왔어요.",
+      "example_zh": "來了一封信。"
+    },
+    {
+      "word": "팬",
+      "hanja": "",
+      "romanization": "paen",
+      "meaning_zh": "平底鍋",
+      "example_ko": "팬에 기름을 두르세요.",
+      "example_zh": "請在平底鍋裡倒油。"
+    },
+    {
+      "word": "풀",
+      "hanja": "",
+      "romanization": "pul",
+      "meaning_zh": "漿糊、膠水",
+      "example_ko": "풀로 종이를 붙여요.",
+      "example_zh": "用漿糊把紙黏起來。"
+    },
+    {
+      "word": "피",
+      "hanja": "皮",
+      "romanization": "pi",
+      "meaning_zh": "皮（詞根，皮膚/外殼）",
+      "example_ko": "피부가 건조해요.",
+      "example_zh": "皮膚很乾燥。"
+    },
+    {
+      "word": "가사",
+      "hanja": "歌詞",
+      "romanization": "gasa",
+      "meaning_zh": "歌詞",
+      "example_ko": "이 노래의 가사가 정말 좋아요.",
+      "example_zh": "這首歌的歌詞真的很好。"
+    },
+    {
+      "word": "가정",
+      "hanja": "家庭",
+      "romanization": "gajeong",
+      "meaning_zh": "家庭",
+      "example_ko": "행복한 가정을 꾸리고 싶어요.",
+      "example_zh": "想組成一個幸福的家庭。"
+    },
+    {
+      "word": "경기",
+      "hanja": "競技",
+      "romanization": "gyeonggi",
+      "meaning_zh": "比賽、競技",
+      "example_ko": "축구 경기를 보러 갔어요.",
+      "example_zh": "去看了足球比賽。"
+    },
+    {
+      "word": "공기",
+      "hanja": "-",
+      "romanization": "gonggi",
+      "meaning_zh": "飯碗、碗",
+      "example_ko": "공기 하나 더 주세요.",
+      "example_zh": "請再給我一碗（飯）。"
+    },
+    {
+      "word": "라면",
+      "hanja": "",
+      "romanization": "ramyeon",
+      "meaning_zh": "如果說、要是",
+      "example_ko": "내일 비가 온다라면 안 갈게요.",
+      "example_zh": "如果明天下雨我就不去。"
+    },
+    {
+      "word": "매장",
+      "hanja": "賣場",
+      "romanization": "maejang",
+      "meaning_zh": "賣場、店面",
+      "example_ko": "백화점 일층 매장에서 만나요.",
+      "example_zh": "在百貨公司一樓賣場見。"
+    },
+    {
+      "word": "부장",
+      "hanja": "",
+      "romanization": "bujang",
+      "meaning_zh": "部長(電視劇/職位俗稱)、頭頭",
+      "example_ko": "부장님께 보고드렸어요.",
+      "example_zh": "向部長報告了。"
+    },
+    {
+      "word": "인도",
+      "hanja": "印度",
+      "romanization": "indo",
+      "meaning_zh": "印度",
+      "example_ko": "인도는 인구가 매우 많아요.",
+      "example_zh": "印度人口非常多。"
+    },
+    {
+      "word": "자세",
+      "hanja": "仔細",
+      "romanization": "jase",
+      "meaning_zh": "仔細、詳細",
+      "example_ko": "자세한 내용을 알려 주세요.",
+      "example_zh": "請告訴我詳細內容。"
+    },
+    {
+      "word": "정상",
+      "hanja": "正常",
+      "romanization": "jeongsang",
+      "meaning_zh": "正常",
+      "example_ko": "검사 결과가 정상으로 나왔어요.",
+      "example_zh": "檢查結果顯示正常。"
+    },
+    {
+      "word": "주식",
+      "hanja": "主食",
+      "romanization": "jusik",
+      "meaning_zh": "主食",
+      "example_ko": "한국인의 주식은 쌀밥이에요.",
+      "example_zh": "韓國人的主食是米飯。"
+    },
+    {
+      "word": "지방",
+      "hanja": "地方",
+      "romanization": "jibang",
+      "meaning_zh": "地方、地區",
+      "example_ko": "저는 지방에서 올라왔어요.",
+      "example_zh": "我從地方（外地）上來的。"
+    },
+    {
+      "word": "지원",
+      "hanja": "志願",
+      "romanization": "jiwon",
+      "meaning_zh": "志願、應徵",
+      "example_ko": "이 회사에 지원하고 싶어요.",
+      "example_zh": "我想應徵這家公司。"
+    },
+    {
+      "word": "차례",
+      "hanja": "次例",
+      "romanization": "charye",
+      "meaning_zh": "順序、輪到",
+      "example_ko": "이제 제 차례예요.",
+      "example_zh": "現在輪到我了。"
+    },
+    {
+      "word": "초록",
+      "hanja": "草綠",
+      "romanization": "chorok",
+      "meaning_zh": "草綠色、綠色",
+      "example_ko": "신호등이 초록으로 바뀌었어요.",
+      "example_zh": "紅綠燈變成綠燈了。"
+    },
+    {
+      "word": "화병",
+      "hanja": "花瓶",
+      "romanization": "hwabyeong",
+      "meaning_zh": "花瓶",
+      "example_ko": "화병에 장미를 꽂았어요.",
+      "example_zh": "我把玫瑰插在花瓶裡。"
+    },
+    {
+      "word": "회화",
+      "hanja": "會話",
+      "romanization": "hoehwa",
+      "meaning_zh": "會話、對話",
+      "example_ko": "영어 회화 학원에 다녀요.",
+      "example_zh": "我在上英語會話補習班。"
+    },
+    {
+      "word": "회",
+      "hanja": "回",
+      "romanization": "hoe",
+      "meaning_zh": "回、次（量詞）",
+      "example_ko": "이 드라마는 총 16회로 끝나요.",
+      "example_zh": "這部劇總共 16 集就結束。"
+    },
+    {
+      "word": "회",
+      "hanja": "會",
+      "romanization": "hoe",
+      "meaning_zh": "會、聚會",
+      "example_ko": "오늘 동창회가 있어요.",
+      "example_zh": "今天有同學會。"
+    },
+    {
+      "word": "시",
+      "hanja": "市",
+      "romanization": "si",
+      "meaning_zh": "市、城市",
+      "example_ko": "서울시 강남구에 살아요.",
+      "example_zh": "我住在首爾市江南區。"
     }
   ],
   "t3": [
@@ -44643,6 +45179,550 @@
       "meaning_zh": "毒、毒性",
       "example_ko": "그 식물에는 독이 있어요.",
       "example_zh": "那種植物有毒。"
+    },
+    {
+      "word": "감",
+      "hanja": "感",
+      "romanization": "gam",
+      "meaning_zh": "感、感覺",
+      "example_ko": "그 사람한테는 좋은 감이 안 와요.",
+      "example_zh": "我對那個人沒什麼好感覺。"
+    },
+    {
+      "word": "국",
+      "hanja": "局",
+      "romanization": "guk",
+      "meaning_zh": "局、處（機關）",
+      "example_ko": "방송국에서 일해요.",
+      "example_zh": "我在電視台工作。"
+    },
+    {
+      "word": "권",
+      "hanja": "權",
+      "romanization": "gwon",
+      "meaning_zh": "權、權利",
+      "example_ko": "투표권은 18세부터예요.",
+      "example_zh": "投票權從18歲開始。"
+    },
+    {
+      "word": "날",
+      "hanja": "",
+      "romanization": "nal",
+      "meaning_zh": "刀刃、刃口",
+      "example_ko": "칼날이 무뎌졌어요.",
+      "example_zh": "刀刃變鈍了。"
+    },
+    {
+      "word": "명",
+      "hanja": "命",
+      "romanization": "myeong",
+      "meaning_zh": "命、性命",
+      "example_ko": "그는 가까스로 목숨을 건졌다.",
+      "example_zh": "他勉強保住了一命。"
+    },
+    {
+      "word": "밀",
+      "hanja": "密",
+      "romanization": "mil",
+      "meaning_zh": "密、緊密（詞根）",
+      "example_ko": "비밀을 지켜 주세요.",
+      "example_zh": "請保守秘密。"
+    },
+    {
+      "word": "발",
+      "hanja": "發",
+      "romanization": "bal",
+      "meaning_zh": "出發、發（量詞）",
+      "example_ko": "총 한 발이 발사됐어요.",
+      "example_zh": "發射了一發子彈。"
+    },
+    {
+      "word": "백",
+      "hanja": "",
+      "romanization": "baek",
+      "meaning_zh": "包包（口語，俗稱白）",
+      "example_ko": "이 백 정말 예쁘다.",
+      "example_zh": "這個包包真的好漂亮。"
+    },
+    {
+      "word": "북",
+      "hanja": "北",
+      "romanization": "buk",
+      "meaning_zh": "北、北方（詞根，常指北韓）",
+      "example_ko": "북에서 온 손님이에요.",
+      "example_zh": "是從北邊（北韓）來的客人。"
+    },
+    {
+      "word": "비",
+      "hanja": "比",
+      "romanization": "bi",
+      "meaning_zh": "比、比例",
+      "example_ko": "남녀 비가 비슷해요.",
+      "example_zh": "男女比例差不多。"
+    },
+    {
+      "word": "사",
+      "hanja": "社",
+      "romanization": "sa",
+      "meaning_zh": "公司、社（詞根）",
+      "example_ko": "본사가 서울에 있어요.",
+      "example_zh": "總公司在首爾。"
+    },
+    {
+      "word": "술",
+      "hanja": "術",
+      "romanization": "sul",
+      "meaning_zh": "術、技術（詞根）",
+      "example_ko": "수술이 잘 끝났어요.",
+      "example_zh": "手術順利結束了。"
+    },
+    {
+      "word": "안",
+      "hanja": "案",
+      "romanization": "an",
+      "meaning_zh": "方案、提案",
+      "example_ko": "새로운 안을 제출했어요.",
+      "example_zh": "提交了新的方案。"
+    },
+    {
+      "word": "양",
+      "hanja": "兩",
+      "romanization": "yang",
+      "meaning_zh": "兩（兩者、兩方詞根）",
+      "example_ko": "양국 관계가 좋아졌어요.",
+      "example_zh": "兩國關係變好了。"
+    },
+    {
+      "word": "오",
+      "hanja": "誤",
+      "romanization": "o",
+      "meaning_zh": "誤、錯誤（詞根）",
+      "example_ko": "오타가 너무 많아요.",
+      "example_zh": "錯字太多了。"
+    },
+    {
+      "word": "왕",
+      "hanja": "",
+      "romanization": "wang",
+      "meaning_zh": "超、非常（口語前綴）",
+      "example_ko": "이거 왕 맛있어요.",
+      "example_zh": "這個超好吃。"
+    },
+    {
+      "word": "장",
+      "hanja": "",
+      "romanization": "jang",
+      "meaning_zh": "醬、醬料",
+      "example_ko": "장을 담그는 법을 배웠어요.",
+      "example_zh": "我學了做醬料的方法。"
+    },
+    {
+      "word": "주",
+      "hanja": "株",
+      "romanization": "ju",
+      "meaning_zh": "股票、股份",
+      "example_ko": "주식 투자를 시작했어요.",
+      "example_zh": "我開始投資股票了。"
+    },
+    {
+      "word": "중",
+      "hanja": "",
+      "romanization": "jung",
+      "meaning_zh": "和尚、僧人",
+      "example_ko": "절에 중이 살고 있어요.",
+      "example_zh": "寺廟裡住著和尚。"
+    },
+    {
+      "word": "해",
+      "hanja": "害",
+      "romanization": "hae",
+      "meaning_zh": "害、害處（詞根）",
+      "example_ko": "건강에 해로워요.",
+      "example_zh": "對健康有害。"
+    },
+    {
+      "word": "가사",
+      "hanja": "家事",
+      "romanization": "gasa",
+      "meaning_zh": "家事、家務",
+      "example_ko": "가사 분담을 잘해요.",
+      "example_zh": "我們家家務分擔得很好。"
+    },
+    {
+      "word": "강도",
+      "hanja": "強度",
+      "romanization": "gangdo",
+      "meaning_zh": "強度、力度",
+      "example_ko": "운동 강도를 높였어요.",
+      "example_zh": "提高了運動強度。"
+    },
+    {
+      "word": "개발",
+      "hanja": "啓發",
+      "romanization": "gaebal",
+      "meaning_zh": "啟發",
+      "example_ko": "자기 개발에 힘쓰고 있어요.",
+      "example_zh": "正努力於自我啟發。"
+    },
+    {
+      "word": "경기",
+      "hanja": "京畿",
+      "romanization": "gyeonggi",
+      "meaning_zh": "京畿（道，首爾周邊）",
+      "example_ko": "경기도에 살고 있어요.",
+      "example_zh": "我住在京畿道。"
+    },
+    {
+      "word": "경비",
+      "hanja": "警備",
+      "romanization": "gyeongbi",
+      "meaning_zh": "警衛、保全",
+      "example_ko": "건물 입구에 경비가 있어요.",
+      "example_zh": "建築物入口有警衛。"
+    },
+    {
+      "word": "고도",
+      "hanja": "高度",
+      "romanization": "godo",
+      "meaning_zh": "高度、海拔",
+      "example_ko": "비행기가 고도를 낮추고 있어요.",
+      "example_zh": "飛機正在降低高度。"
+    },
+    {
+      "word": "고려",
+      "hanja": "考慮",
+      "romanization": "goryeo",
+      "meaning_zh": "考慮、斟酌",
+      "example_ko": "신중하게 고려해 주세요.",
+      "example_zh": "請慎重考慮。"
+    },
+    {
+      "word": "구조",
+      "hanja": "救助",
+      "romanization": "gujo",
+      "meaning_zh": "救援、救助",
+      "example_ko": "구조대가 빨리 도착했어요.",
+      "example_zh": "救援隊很快就到了。"
+    },
+    {
+      "word": "기상",
+      "hanja": "起床",
+      "romanization": "gisang",
+      "meaning_zh": "起床",
+      "example_ko": "매일 6시에 기상해요.",
+      "example_zh": "每天6點起床。"
+    },
+    {
+      "word": "단지",
+      "hanja": "但只",
+      "romanization": "danji",
+      "meaning_zh": "只是、不過",
+      "example_ko": "단지 농담이었어요.",
+      "example_zh": "只是個玩笑而已。"
+    },
+    {
+      "word": "대사",
+      "hanja": "臺詞",
+      "romanization": "daesa",
+      "meaning_zh": "台詞",
+      "example_ko": "이 영화의 대사가 인상적이에요.",
+      "example_zh": "這部電影的台詞很令人印象深刻。"
+    },
+    {
+      "word": "대상",
+      "hanja": "大賞",
+      "romanization": "daesang",
+      "meaning_zh": "大獎、首獎",
+      "example_ko": "그가 올해의 대상을 받았어요.",
+      "example_zh": "他得了今年的大獎。"
+    },
+    {
+      "word": "대장",
+      "hanja": "隊長",
+      "romanization": "daejang",
+      "meaning_zh": "隊長",
+      "example_ko": "그는 우리 팀의 대장이에요.",
+      "example_zh": "他是我們隊的隊長。"
+    },
+    {
+      "word": "도장",
+      "hanja": "道場",
+      "romanization": "dojang",
+      "meaning_zh": "道場、武術館",
+      "example_ko": "어릴 때 태권도 도장에 다녔어요.",
+      "example_zh": "小時候上過跆拳道道場。"
+    },
+    {
+      "word": "동요",
+      "hanja": "童謠",
+      "romanization": "dongyo",
+      "meaning_zh": "童謠、兒歌",
+      "example_ko": "아이가 동요를 따라 부른다.",
+      "example_zh": "孩子跟著唱兒歌。"
+    },
+    {
+      "word": "동창",
+      "hanja": "同窗",
+      "romanization": "dongchang",
+      "meaning_zh": "同窗會",
+      "example_ko": "다음 주에 고등학교 동창 모임이 있어요.",
+      "example_zh": "下週有高中同學會。"
+    },
+    {
+      "word": "모금",
+      "hanja": "募金",
+      "romanization": "mogeum",
+      "meaning_zh": "募捐、募款",
+      "example_ko": "수재민을 위한 모금 활동을 한다.",
+      "example_zh": "為災民舉辦募款活動。"
+    },
+    {
+      "word": "문서",
+      "hanja": "",
+      "romanization": "munseo",
+      "meaning_zh": "電子文檔（電腦檔案）",
+      "example_ko": "워드 문서를 첨부해 보냈어요.",
+      "example_zh": "我附上 Word 檔寄出。"
+    },
+    {
+      "word": "방문",
+      "hanja": "房門",
+      "romanization": "bangmun",
+      "meaning_zh": "房門",
+      "example_ko": "방문을 살짝 열어 두세요.",
+      "example_zh": "請把房門稍微留條縫。"
+    },
+    {
+      "word": "부인",
+      "hanja": "否認",
+      "romanization": "buin",
+      "meaning_zh": "否認",
+      "example_ko": "그는 혐의를 강하게 부인했다.",
+      "example_zh": "他強烈否認指控。"
+    },
+    {
+      "word": "부자",
+      "hanja": "父子",
+      "romanization": "buja",
+      "meaning_zh": "父子",
+      "example_ko": "두 사람은 부자 사이예요.",
+      "example_zh": "兩人是父子關係。"
+    },
+    {
+      "word": "상장",
+      "hanja": "賞狀",
+      "romanization": "sangjang",
+      "meaning_zh": "獎狀",
+      "example_ko": "교장 선생님께 상장을 받았다.",
+      "example_zh": "從校長手中領到獎狀。"
+    },
+    {
+      "word": "상해",
+      "hanja": "上海",
+      "romanization": "sanghae",
+      "meaning_zh": "上海（地名）",
+      "example_ko": "이번 출장은 상해로 가요.",
+      "example_zh": "這次出差是去上海。"
+    },
+    {
+      "word": "시각",
+      "hanja": "時刻",
+      "romanization": "sigak",
+      "meaning_zh": "時刻、時間點",
+      "example_ko": "출발 시각이 다가오고 있어요.",
+      "example_zh": "出發時刻就快到了。"
+    },
+    {
+      "word": "시점",
+      "hanja": "時點",
+      "romanization": "sijeom",
+      "meaning_zh": "時點、時機",
+      "example_ko": "이 시점에서 결정을 내려야 해요.",
+      "example_zh": "在這個時點必須做出決定。"
+    },
+    {
+      "word": "시청",
+      "hanja": "視聽",
+      "romanization": "sicheong",
+      "meaning_zh": "收看、觀看",
+      "example_ko": "주말 드라마 시청률이 높아요.",
+      "example_zh": "週末劇的收視率很高。"
+    },
+    {
+      "word": "신부",
+      "hanja": "神父",
+      "romanization": "sinbu",
+      "meaning_zh": "神父",
+      "example_ko": "신부님께서 미사를 집전하셨어요.",
+      "example_zh": "神父主持了彌撒。"
+    },
+    {
+      "word": "오만",
+      "hanja": "五萬",
+      "romanization": "oman",
+      "meaning_zh": "五萬；許多、無數",
+      "example_ko": "오만 가지 생각이 다 들었어요.",
+      "example_zh": "腦中浮現了千頭萬緒。"
+    },
+    {
+      "word": "음성",
+      "hanja": "陰性",
+      "romanization": "eumseong",
+      "meaning_zh": "陰性（檢測結果）",
+      "example_ko": "코로나 검사 결과가 음성으로 나왔어요.",
+      "example_zh": "新冠檢測結果是陰性。"
+    },
+    {
+      "word": "이상",
+      "hanja": "異常",
+      "romanization": "isang",
+      "meaning_zh": "異常、不正常",
+      "example_ko": "기계에 이상이 발견되었어요.",
+      "example_zh": "機器發現了異常。"
+    },
+    {
+      "word": "인도",
+      "hanja": "人道",
+      "romanization": "indo",
+      "meaning_zh": "人行道；人道",
+      "example_ko": "인도로 다녀야 안전해요.",
+      "example_zh": "走人行道才安全。"
+    },
+    {
+      "word": "일정",
+      "hanja": "一定",
+      "romanization": "iljeong",
+      "meaning_zh": "一定的、固定的",
+      "example_ko": "일정 금액 이상은 할인이 돼요.",
+      "example_zh": "達到一定金額以上有折扣。"
+    },
+    {
+      "word": "장인",
+      "hanja": "丈人",
+      "romanization": "jangin",
+      "meaning_zh": "岳父",
+      "example_ko": "장인어른께 인사를 드렸어요.",
+      "example_zh": "向岳父大人問安了。"
+    },
+    {
+      "word": "접수",
+      "hanja": "接收",
+      "romanization": "jeopsu",
+      "meaning_zh": "接收、收下",
+      "example_ko": "신청서가 정상적으로 접수되었어요.",
+      "example_zh": "申請書已正常受理。"
+    },
+    {
+      "word": "조사",
+      "hanja": "助詞",
+      "romanization": "josa",
+      "meaning_zh": "助詞（文法）",
+      "example_ko": "한국어는 조사가 매우 발달했어요.",
+      "example_zh": "韓語的助詞非常發達。"
+    },
+    {
+      "word": "조수",
+      "hanja": "助手",
+      "romanization": "josu",
+      "meaning_zh": "助手、助理",
+      "example_ko": "교수님의 조수로 일하고 있어요.",
+      "example_zh": "我擔任教授的助手。"
+    },
+    {
+      "word": "주장",
+      "hanja": "主將",
+      "romanization": "jujang",
+      "meaning_zh": "隊長、主將",
+      "example_ko": "그는 축구팀의 주장입니다.",
+      "example_zh": "他是足球隊的隊長。"
+    },
+    {
+      "word": "지점",
+      "hanja": "地點",
+      "romanization": "jijeom",
+      "meaning_zh": "地點、地方",
+      "example_ko": "사고가 난 지점이 어디예요?",
+      "example_zh": "事故發生的地點在哪裡？"
+    },
+    {
+      "word": "진정",
+      "hanja": "眞正",
+      "romanization": "jinjeong",
+      "meaning_zh": "真正、真心",
+      "example_ko": "진정한 친구는 찾기 어려워요.",
+      "example_zh": "真正的朋友很難找。"
+    },
+    {
+      "word": "진정",
+      "hanja": "鎭靜",
+      "romanization": "jinjeong",
+      "meaning_zh": "鎮靜、冷靜",
+      "example_ko": "흥분하지 말고 진정하세요.",
+      "example_zh": "別激動，請冷靜下來。"
+    },
+    {
+      "word": "코트",
+      "hanja": "-",
+      "romanization": "koteu",
+      "meaning_zh": "球場",
+      "example_ko": "테니스 코트를 예약했어요.",
+      "example_zh": "我預約了網球場。"
+    },
+    {
+      "word": "통상",
+      "hanja": "通常",
+      "romanization": "tongsang",
+      "meaning_zh": "通常、平常",
+      "example_ko": "통상 9시까지 출근해요.",
+      "example_zh": "通常九點前要上班。"
+    },
+    {
+      "word": "통풍",
+      "hanja": "通風",
+      "romanization": "tongpung",
+      "meaning_zh": "通風",
+      "example_ko": "이 방은 통풍이 잘돼요.",
+      "example_zh": "這間房通風很好。"
+    },
+    {
+      "word": "포기",
+      "hanja": "-",
+      "romanization": "pogi",
+      "meaning_zh": "棵（蔬菜量詞）",
+      "example_ko": "배추 한 포기를 샀어요.",
+      "example_zh": "我買了一棵白菜。"
+    },
+    {
+      "word": "풍속",
+      "hanja": "風俗",
+      "romanization": "pungsok",
+      "meaning_zh": "風俗、習俗",
+      "example_ko": "각 지역마다 풍속이 달라요.",
+      "example_zh": "每個地區的風俗都不同。"
+    },
+    {
+      "word": "화제",
+      "hanja": "火災",
+      "romanization": "hwajae",
+      "meaning_zh": "火災",
+      "example_ko": "건물에 화재가 발생했어요.",
+      "example_zh": "建築物發生了火災。"
+    },
+    {
+      "word": "중고",
+      "hanja": "中高",
+      "romanization": "junggo",
+      "meaning_zh": "國高中（合稱）",
+      "example_ko": "중고등학교 동창들과 만났어요.",
+      "example_zh": "我和國高中的同學見了面。"
+    },
+    {
+      "word": "위",
+      "hanja": "位",
+      "romanization": "wi",
+      "meaning_zh": "位、名次",
+      "example_ko": "그는 시험에서 1위를 했어요.",
+      "example_zh": "他在考試中拿了第一名。"
     }
   ],
   "t4": [
@@ -59821,6 +60901,510 @@
       "meaning_zh": "指紋",
       "example_ko": "지문을 등록했다.",
       "example_zh": "登錄了指紋。"
+    },
+    {
+      "word": "독",
+      "hanja": "",
+      "romanization": "dok",
+      "meaning_zh": "陶缸、大瓦罐",
+      "example_ko": "장독에 김치를 담아요.",
+      "example_zh": "把泡菜裝進醬缸裡。"
+    },
+    {
+      "word": "막",
+      "hanja": "膜",
+      "romanization": "mak",
+      "meaning_zh": "膜",
+      "example_ko": "각막에 상처가 났어요.",
+      "example_zh": "角膜受傷了。"
+    },
+    {
+      "word": "선",
+      "hanja": "先",
+      "romanization": "seon",
+      "meaning_zh": "相親（선보다 用法）",
+      "example_ko": "주말에 선을 봤어요.",
+      "example_zh": "週末去相親了。"
+    },
+    {
+      "word": "후",
+      "hanja": "",
+      "romanization": "hu",
+      "meaning_zh": "呼（吹氣聲）",
+      "example_ko": "촛불을 후 불어 껐어요.",
+      "example_zh": "呼地一吹把蠟燭吹熄了。"
+    },
+    {
+      "word": "감기",
+      "hanja": "",
+      "romanization": "gamgi",
+      "meaning_zh": "捲、繞（감다的名詞形）",
+      "example_ko": "붕대 감기가 어렵네요.",
+      "example_zh": "繃帶纏繞起來很難。"
+    },
+    {
+      "word": "개성",
+      "hanja": "開城",
+      "romanization": "gaeseong",
+      "meaning_zh": "開城（北韓地名）",
+      "example_ko": "개성은 고려의 수도였어요.",
+      "example_zh": "開城曾是高麗的首都。"
+    },
+    {
+      "word": "관용",
+      "hanja": "慣用",
+      "romanization": "gwanyong",
+      "meaning_zh": "慣用、習慣用法",
+      "example_ko": "관용 표현을 외워야 해요.",
+      "example_zh": "必須背慣用語。"
+    },
+    {
+      "word": "기계",
+      "hanja": "器械",
+      "romanization": "gigye",
+      "meaning_zh": "器械、儀器",
+      "example_ko": "운동 기계를 샀어요.",
+      "example_zh": "買了運動器材。"
+    },
+    {
+      "word": "기수",
+      "hanja": "騎手",
+      "romanization": "gisu",
+      "meaning_zh": "騎師",
+      "example_ko": "경마 기수가 멋있어요.",
+      "example_zh": "賽馬騎師很帥。"
+    },
+    {
+      "word": "기술",
+      "hanja": "記述",
+      "romanization": "gisul",
+      "meaning_zh": "記述、敘述",
+      "example_ko": "사건을 자세히 기술했어요.",
+      "example_zh": "詳細記述了事件。"
+    },
+    {
+      "word": "단지",
+      "hanja": "",
+      "romanization": "danji",
+      "meaning_zh": "罐子、罈子",
+      "example_ko": "꿀단지를 열었어요.",
+      "example_zh": "打開了蜂蜜罐。"
+    },
+    {
+      "word": "대사",
+      "hanja": "代謝",
+      "romanization": "daesa",
+      "meaning_zh": "代謝、新陳代謝",
+      "example_ko": "신진대사가 빠르네요.",
+      "example_zh": "新陳代謝很快。"
+    },
+    {
+      "word": "동경",
+      "hanja": "東京",
+      "romanization": "donggyeong",
+      "meaning_zh": "東京（漢字音讀）",
+      "example_ko": "동경 대학에서 유학했어요.",
+      "example_zh": "他在東京大學留過學。"
+    },
+    {
+      "word": "동지",
+      "hanja": "同志",
+      "romanization": "dongji",
+      "meaning_zh": "同志、夥伴",
+      "example_ko": "그는 평생의 동지였다.",
+      "example_zh": "他是一生的同志。"
+    },
+    {
+      "word": "보도",
+      "hanja": "步道",
+      "romanization": "bodo",
+      "meaning_zh": "人行道",
+      "example_ko": "보도로 걸어가세요.",
+      "example_zh": "請走人行道。"
+    },
+    {
+      "word": "보수",
+      "hanja": "報酬",
+      "romanization": "bosu",
+      "meaning_zh": "報酬、酬勞",
+      "example_ko": "일에 대한 보수를 받았어요.",
+      "example_zh": "獲得了工作的報酬。"
+    },
+    {
+      "word": "보수",
+      "hanja": "補修",
+      "romanization": "bosu",
+      "meaning_zh": "維修、修補",
+      "example_ko": "도로 보수 공사가 진행 중이다.",
+      "example_zh": "道路維修工程進行中。"
+    },
+    {
+      "word": "복구",
+      "hanja": "復仇",
+      "romanization": "bokgu",
+      "meaning_zh": "復仇",
+      "example_ko": "그는 복수를 다짐했다.",
+      "example_zh": "他發誓要復仇。"
+    },
+    {
+      "word": "본부",
+      "hanja": "",
+      "romanization": "bonbu",
+      "meaning_zh": "司令部、總指揮",
+      "example_ko": "구조 본부가 현장에 설치됐다.",
+      "example_zh": "救援指揮部設在現場。"
+    },
+    {
+      "word": "비유",
+      "hanja": "譬喩",
+      "romanization": "biyu",
+      "meaning_zh": "比方、打比方",
+      "example_ko": "쉽게 비유해서 설명할게요.",
+      "example_zh": "我用比方淺白地說明。"
+    },
+    {
+      "word": "사례",
+      "hanja": "謝禮",
+      "romanization": "sarye",
+      "meaning_zh": "謝禮、酬謝",
+      "example_ko": "도와주신 분께 사례를 드렸어요.",
+      "example_zh": "向幫忙的人致上謝禮。"
+    },
+    {
+      "word": "사상",
+      "hanja": "史上",
+      "romanization": "sasang",
+      "meaning_zh": "史上、有史以來",
+      "example_ko": "사상 최대 규모의 행사였다.",
+      "example_zh": "是有史以來最大規模的活動。"
+    },
+    {
+      "word": "사양",
+      "hanja": "辭讓",
+      "romanization": "sayang",
+      "meaning_zh": "辭謝、婉拒",
+      "example_ko": "선물을 정중히 사양했어요.",
+      "example_zh": "委婉地謝絕了禮物。"
+    },
+    {
+      "word": "사원",
+      "hanja": "寺院",
+      "romanization": "sawon",
+      "meaning_zh": "寺廟、寺院",
+      "example_ko": "오래된 사원을 방문했다.",
+      "example_zh": "參觀了古老的寺院。"
+    },
+    {
+      "word": "사인",
+      "hanja": "死因",
+      "romanization": "sain",
+      "meaning_zh": "死因",
+      "example_ko": "정확한 사인은 부검 후 밝혀진다.",
+      "example_zh": "確切死因將在驗屍後查明。"
+    },
+    {
+      "word": "상가",
+      "hanja": "喪家",
+      "romanization": "sangga",
+      "meaning_zh": "喪家、治喪人家",
+      "example_ko": "상가에 가서 조문했어요.",
+      "example_zh": "去喪家弔唁。"
+    },
+    {
+      "word": "상영",
+      "hanja": "上演",
+      "romanization": "sangyeong",
+      "meaning_zh": "上演",
+      "example_ko": "그 연극은 다음 달부터 상연된다.",
+      "example_zh": "那齣戲下個月開始上演。"
+    },
+    {
+      "word": "세대",
+      "hanja": "世帶",
+      "romanization": "sedae",
+      "meaning_zh": "戶、家庭單位",
+      "example_ko": "이 아파트는 총 500세대가 거주한다.",
+      "example_zh": "這棟公寓共住有五百戶。"
+    },
+    {
+      "word": "소화",
+      "hanja": "消火",
+      "romanization": "sohwa",
+      "meaning_zh": "消防、滅火",
+      "example_ko": "건물에 소화 설비가 잘 갖춰져 있다.",
+      "example_zh": "建築物的消防設備齊全。"
+    },
+    {
+      "word": "수상",
+      "hanja": "首相",
+      "romanization": "susang",
+      "meaning_zh": "首相",
+      "example_ko": "일본 수상이 한국을 방문했다.",
+      "example_zh": "日本首相訪問了韓國。"
+    },
+    {
+      "word": "수상",
+      "hanja": "水上",
+      "romanization": "susang",
+      "meaning_zh": "水上",
+      "example_ko": "수상 스키를 배우고 싶어요.",
+      "example_zh": "我想學水上滑水。"
+    },
+    {
+      "word": "수상",
+      "hanja": "殊常",
+      "romanization": "susang",
+      "meaning_zh": "可疑、不尋常",
+      "example_ko": "행동이 수상해서 신고했어요.",
+      "example_zh": "因為行為可疑就報案了。"
+    },
+    {
+      "word": "시각",
+      "hanja": "視覺",
+      "romanization": "sigak",
+      "meaning_zh": "視覺",
+      "example_ko": "시각 효과가 매우 인상적이에요.",
+      "example_zh": "視覺效果非常令人印象深刻。"
+    },
+    {
+      "word": "시인",
+      "hanja": "是認",
+      "romanization": "siin",
+      "meaning_zh": "承認、認可",
+      "example_ko": "그는 자신의 잘못을 시인했어요.",
+      "example_zh": "他承認了自己的錯誤。"
+    },
+    {
+      "word": "신상",
+      "hanja": "身上",
+      "romanization": "sinsang",
+      "meaning_zh": "個人資料、身世",
+      "example_ko": "개인 신상 정보를 보호해야 해요.",
+      "example_zh": "必須保護個人身分資料。"
+    },
+    {
+      "word": "실명",
+      "hanja": "失明",
+      "romanization": "silmyeong",
+      "meaning_zh": "失明",
+      "example_ko": "사고로 한쪽 눈이 실명되었어요.",
+      "example_zh": "因事故導致一隻眼睛失明。"
+    },
+    {
+      "word": "역학",
+      "hanja": "力學",
+      "romanization": "yeokhak",
+      "meaning_zh": "力學",
+      "example_ko": "물리학에서 역학을 공부해요.",
+      "example_zh": "物理學中學習力學。"
+    },
+    {
+      "word": "연수",
+      "hanja": "年數",
+      "romanization": "yeonsu",
+      "meaning_zh": "年數、年限",
+      "example_ko": "근무 연수에 따라 연차가 늘어나요.",
+      "example_zh": "依工作年資增加年假。"
+    },
+    {
+      "word": "영감",
+      "hanja": "令監",
+      "romanization": "yeonggam",
+      "meaning_zh": "老頭子、老爺爺",
+      "example_ko": "옆집 영감님이 친절하세요.",
+      "example_zh": "隔壁的老爺爺很親切。"
+    },
+    {
+      "word": "외상",
+      "hanja": "-",
+      "romanization": "oesang",
+      "meaning_zh": "賒帳、賒欠",
+      "example_ko": "가게에서 외상으로 물건을 샀어요.",
+      "example_zh": "在店裡賒帳買了東西。"
+    },
+    {
+      "word": "이내",
+      "hanja": "-",
+      "romanization": "inae",
+      "meaning_zh": "馬上、隨即（副詞）",
+      "example_ko": "그는 이내 자리를 떠났어요.",
+      "example_zh": "他隨即就離開了座位。"
+    },
+    {
+      "word": "이유",
+      "hanja": "離乳",
+      "romanization": "iyu",
+      "meaning_zh": "斷奶、離乳",
+      "example_ko": "아기 이유식을 만들어요.",
+      "example_zh": "做寶寶的副食品。"
+    },
+    {
+      "word": "인정",
+      "hanja": "人情",
+      "romanization": "injeong",
+      "meaning_zh": "人情、人情味",
+      "example_ko": "시골에는 아직 인정이 남아 있어요.",
+      "example_zh": "鄉下還留有人情味。"
+    },
+    {
+      "word": "자만",
+      "hanja": "自滿",
+      "romanization": "jaman",
+      "meaning_zh": "自滿、自大",
+      "example_ko": "성공에 자만하지 마세요.",
+      "example_zh": "不要因成功而自滿。"
+    },
+    {
+      "word": "장관",
+      "hanja": "壯觀",
+      "romanization": "janggwan",
+      "meaning_zh": "壯觀",
+      "example_ko": "노을이 정말 장관이에요.",
+      "example_zh": "晚霞真是壯觀。"
+    },
+    {
+      "word": "전과",
+      "hanja": "轉科",
+      "romanization": "jeongwa",
+      "meaning_zh": "轉系",
+      "example_ko": "경영학과로 전과를 했어요.",
+      "example_zh": "轉系到了經營學系。"
+    },
+    {
+      "word": "전사",
+      "hanja": "戰士",
+      "romanization": "jeonsa",
+      "meaning_zh": "戰士",
+      "example_ko": "용감한 전사가 전투에 나섰어요.",
+      "example_zh": "勇敢的戰士上戰場了。"
+    },
+    {
+      "word": "전적",
+      "hanja": "戰績",
+      "romanization": "jeonjeok",
+      "meaning_zh": "戰績、成績",
+      "example_ko": "올해 전적이 매우 좋아요.",
+      "example_zh": "今年戰績非常好。"
+    },
+    {
+      "word": "전적",
+      "hanja": "全的",
+      "romanization": "jeonjeok",
+      "meaning_zh": "全面的、完全的",
+      "example_ko": "전적인 지지를 보냅니다.",
+      "example_zh": "致以全面的支持。"
+    },
+    {
+      "word": "조류",
+      "hanja": "潮流",
+      "romanization": "joryu",
+      "meaning_zh": "潮流、洋流",
+      "example_ko": "이 바다는 조류가 빠르기로 유명해요.",
+      "example_zh": "這片海以洋流湍急聞名。"
+    },
+    {
+      "word": "조리",
+      "hanja": "條理",
+      "romanization": "jori",
+      "meaning_zh": "條理、邏輯",
+      "example_ko": "그는 조리 있게 설명을 잘해요.",
+      "example_zh": "他能有條理地說明事情。"
+    },
+    {
+      "word": "조선",
+      "hanja": "造船",
+      "romanization": "joseon",
+      "meaning_zh": "造船、船舶製造",
+      "example_ko": "한국은 조선 산업이 강합니다.",
+      "example_zh": "韓國的造船產業很強。"
+    },
+    {
+      "word": "조화",
+      "hanja": "造花",
+      "romanization": "johwa",
+      "meaning_zh": "人造花、假花",
+      "example_ko": "장례식장에 조화를 보냈어요.",
+      "example_zh": "我送了花圈到喪禮會場。"
+    },
+    {
+      "word": "주관",
+      "hanja": "主管",
+      "romanization": "jugwan",
+      "meaning_zh": "主管、主辦",
+      "example_ko": "이 행사는 시청이 주관합니다.",
+      "example_zh": "這個活動由市政府主辦。"
+    },
+    {
+      "word": "중계",
+      "hanja": "仲介",
+      "romanization": "junggye",
+      "meaning_zh": "仲介、中介",
+      "example_ko": "부동산 중계 수수료가 비싸요.",
+      "example_zh": "房屋仲介手續費很貴。"
+    },
+    {
+      "word": "청주",
+      "hanja": "淸州",
+      "romanization": "cheongju",
+      "meaning_zh": "清州（地名）",
+      "example_ko": "청주는 충청북도의 도청 소재지예요.",
+      "example_zh": "清州是忠清北道的道廳所在地。"
+    },
+    {
+      "word": "포크",
+      "hanja": "-",
+      "romanization": "pokeu",
+      "meaning_zh": "民謠、Folk",
+      "example_ko": "포크 음악을 좋아해요.",
+      "example_zh": "我喜歡民謠音樂。"
+    },
+    {
+      "word": "한시",
+      "hanja": "限時",
+      "romanization": "hansi",
+      "meaning_zh": "限時、暫時",
+      "example_ko": "한시도 쉴 틈이 없어요.",
+      "example_zh": "連片刻都沒辦法休息。"
+    },
+    {
+      "word": "하수",
+      "hanja": "下手",
+      "romanization": "hasu",
+      "meaning_zh": "技術差的人、菜鳥",
+      "example_ko": "저는 바둑에서 아직 하수예요.",
+      "example_zh": "我下圍棋還是個菜鳥。"
+    },
+    {
+      "word": "화분",
+      "hanja": "花粉",
+      "romanization": "hwabun",
+      "meaning_zh": "花粉",
+      "example_ko": "봄에는 화분 알레르기가 심해요.",
+      "example_zh": "春天花粉過敏很嚴重。"
+    },
+    {
+      "word": "환기",
+      "hanja": "喚起",
+      "romanization": "hwan-gi",
+      "meaning_zh": "喚起、引起注意",
+      "example_ko": "그 사건은 사회의 관심을 환기했어요.",
+      "example_zh": "那起事件喚起了社會的關注。"
+    },
+    {
+      "word": "회복",
+      "hanja": "回覆",
+      "romanization": "hoebok",
+      "meaning_zh": "回覆、回復",
+      "example_ko": "메시지에 회복이 없어요.",
+      "example_zh": "訊息沒有回覆。"
+    },
+    {
+      "word": "산",
+      "hanja": "酸",
+      "romanization": "san",
+      "meaning_zh": "酸、酸性",
+      "example_ko": "위산이 너무 많이 나와요.",
+      "example_zh": "胃酸分泌過多。"
     }
   ],
   "t5": [
@@ -72247,6 +73831,422 @@
       "meaning_zh": "障礙、壁壘",
       "example_ko": "언어의 장벽이 높다.",
       "example_zh": "語言的障礙很高。"
+    },
+    {
+      "word": "방",
+      "hanja": "榜",
+      "romanization": "bang",
+      "meaning_zh": "榜、告示（合格者名單）",
+      "example_ko": "방이 붙었는지 확인해 보세요.",
+      "example_zh": "確認一下榜單貼出來了沒。"
+    },
+    {
+      "word": "가계",
+      "hanja": "家系",
+      "romanization": "gagye",
+      "meaning_zh": "家系、家譜",
+      "example_ko": "우리 집안 가계를 조사했어요.",
+      "example_zh": "我調查了我們家族的家譜。"
+    },
+    {
+      "word": "강사",
+      "hanja": "強士",
+      "romanization": "gangsa",
+      "meaning_zh": "強者（口語，多指強壯之人）",
+      "example_ko": "그 사람은 진짜 강사예요.",
+      "example_zh": "那個人真的是強者。"
+    },
+    {
+      "word": "건조",
+      "hanja": "建造",
+      "romanization": "geonjo",
+      "meaning_zh": "建造、建設",
+      "example_ko": "새 배를 건조하고 있어요.",
+      "example_zh": "正在建造新的船。"
+    },
+    {
+      "word": "공약",
+      "hanja": "空約",
+      "romanization": "gongyak",
+      "meaning_zh": "空頭支票、空話",
+      "example_ko": "정치인의 공약은 공약이 되기 쉬워요.",
+      "example_zh": "政治人物的競選承諾容易變成空話。"
+    },
+    {
+      "word": "공작",
+      "hanja": "工作",
+      "romanization": "gongjak",
+      "meaning_zh": "工作（特指策劃/暗中行動）",
+      "example_ko": "비밀 공작을 진행했어요.",
+      "example_zh": "進行了秘密工作。"
+    },
+    {
+      "word": "공주",
+      "hanja": "公州",
+      "romanization": "gongju",
+      "meaning_zh": "公州（韓國地名）",
+      "example_ko": "공주는 백제의 옛 도읍이에요.",
+      "example_zh": "公州是百濟的古都。"
+    },
+    {
+      "word": "교사",
+      "hanja": "校舍",
+      "romanization": "gyosa",
+      "meaning_zh": "校舍",
+      "example_ko": "낡은 교사를 새로 지었어요.",
+      "example_zh": "把舊的校舍重新蓋了。"
+    },
+    {
+      "word": "기도",
+      "hanja": "氣道",
+      "romanization": "gido",
+      "meaning_zh": "氣道、呼吸道",
+      "example_ko": "기도가 막혀서 위험해요.",
+      "example_zh": "氣道阻塞很危險。"
+    },
+    {
+      "word": "단상",
+      "hanja": "斷想",
+      "romanization": "dansang",
+      "meaning_zh": "隨想、片段感想",
+      "example_ko": "여행 단상을 글로 남겼어요.",
+      "example_zh": "把旅行的隨想寫成了文章。"
+    },
+    {
+      "word": "대장",
+      "hanja": "大將",
+      "romanization": "daejang",
+      "meaning_zh": "大將、上將",
+      "example_ko": "그는 육군 대장으로 승진했다.",
+      "example_zh": "他晉升為陸軍上將。"
+    },
+    {
+      "word": "동의",
+      "hanja": "同義",
+      "romanization": "dongui",
+      "meaning_zh": "同義（詞）",
+      "example_ko": "이 두 단어는 동의 관계예요.",
+      "example_zh": "這兩個單字是同義關係。"
+    },
+    {
+      "word": "마루",
+      "hanja": "",
+      "romanization": "maru",
+      "meaning_zh": "山脊、頂端",
+      "example_ko": "산마루에 올라 경치를 즐겼다.",
+      "example_zh": "登上山脊欣賞風景。"
+    },
+    {
+      "word": "매수",
+      "hanja": "枚數",
+      "romanization": "maesu",
+      "meaning_zh": "張數、頁數",
+      "example_ko": "원고 매수를 확인해 주세요.",
+      "example_zh": "請確認稿件張數。"
+    },
+    {
+      "word": "반기",
+      "hanja": "反旗",
+      "romanization": "bangi",
+      "meaning_zh": "造反旗幟、反對",
+      "example_ko": "그는 정책에 반기를 들었다.",
+      "example_zh": "他公開反對該政策。"
+    },
+    {
+      "word": "반전",
+      "hanja": "反戰",
+      "romanization": "banjeon",
+      "meaning_zh": "反戰",
+      "example_ko": "그는 반전 운동에 참여했다.",
+      "example_zh": "他參與了反戰運動。"
+    },
+    {
+      "word": "변경",
+      "hanja": "邊境",
+      "romanization": "byeongyeong",
+      "meaning_zh": "邊境",
+      "example_ko": "변경 지대에 군인이 배치됐다.",
+      "example_zh": "邊境地帶部署了軍人。"
+    },
+    {
+      "word": "본사",
+      "hanja": "本事",
+      "romanization": "bonsa",
+      "meaning_zh": "本則新聞、本報導",
+      "example_ko": "본사 기자가 단독 취재했다.",
+      "example_zh": "本報記者獨家採訪。"
+    },
+    {
+      "word": "분기",
+      "hanja": "分岐",
+      "romanization": "bungi",
+      "meaning_zh": "分歧、岔路",
+      "example_ko": "여기서 길이 분기된다.",
+      "example_zh": "路在這裡分岔。"
+    },
+    {
+      "word": "분사",
+      "hanja": "噴射",
+      "romanization": "bunsa",
+      "meaning_zh": "噴射",
+      "example_ko": "엔진에서 연료가 분사된다.",
+      "example_zh": "燃料從引擎噴射出來。"
+    },
+    {
+      "word": "사수",
+      "hanja": "死守",
+      "romanization": "sasu",
+      "meaning_zh": "死守、堅守",
+      "example_ko": "끝까지 자리를 사수했다.",
+      "example_zh": "堅守崗位到最後。"
+    },
+    {
+      "word": "사자",
+      "hanja": "使者",
+      "romanization": "saja",
+      "meaning_zh": "使者、使臣",
+      "example_ko": "왕이 사자를 보냈다.",
+      "example_zh": "國王派出使者。"
+    },
+    {
+      "word": "산정",
+      "hanja": "算定",
+      "romanization": "sanjeong",
+      "meaning_zh": "計算、推算",
+      "example_ko": "보험금 산정 방식이 바뀌었다.",
+      "example_zh": "保險金的計算方式變了。"
+    },
+    {
+      "word": "선전",
+      "hanja": "善戰",
+      "romanization": "seonjeon",
+      "meaning_zh": "奮戰、表現出色",
+      "example_ko": "우리 팀이 끝까지 선전했다.",
+      "example_zh": "我們隊伍奮戰到最後。"
+    },
+    {
+      "word": "성화",
+      "hanja": "成火",
+      "romanization": "seonghwa",
+      "meaning_zh": "催促、急切糾纏",
+      "example_ko": "아이가 사 달라고 성화예요.",
+      "example_zh": "孩子一直纏著要買。"
+    },
+    {
+      "word": "세수",
+      "hanja": "稅收",
+      "romanization": "sesu",
+      "meaning_zh": "稅收",
+      "example_ko": "정부의 세수가 감소했다.",
+      "example_zh": "政府稅收減少了。"
+    },
+    {
+      "word": "소원",
+      "hanja": "疏遠",
+      "romanization": "sowon",
+      "meaning_zh": "疏遠",
+      "example_ko": "친구와 사이가 소원해졌어요.",
+      "example_zh": "與朋友的關係變疏遠了。"
+    },
+    {
+      "word": "수양",
+      "hanja": "收養",
+      "romanization": "suyang",
+      "meaning_zh": "認養、收養",
+      "example_ko": "그들은 아이를 수양했다.",
+      "example_zh": "他們收養了孩子。"
+    },
+    {
+      "word": "수작",
+      "hanja": "酬酌",
+      "romanization": "sujak",
+      "meaning_zh": "勾當、把戲（負面）",
+      "example_ko": "또 무슨 수작을 부리는 거야?",
+      "example_zh": "你又在搞什麼把戲？"
+    },
+    {
+      "word": "숙주",
+      "hanja": "宿主",
+      "romanization": "sukju",
+      "meaning_zh": "宿主（寄生）",
+      "example_ko": "바이러스는 숙주 세포 안에서 증식한다.",
+      "example_zh": "病毒在宿主細胞內增殖。"
+    },
+    {
+      "word": "시사",
+      "hanja": "試寫",
+      "romanization": "sisa",
+      "meaning_zh": "試映",
+      "example_ko": "내일 영화 시사회가 열려요.",
+      "example_zh": "明天舉行電影試映會。"
+    },
+    {
+      "word": "시사",
+      "hanja": "示唆",
+      "romanization": "sisa",
+      "meaning_zh": "暗示、提示",
+      "example_ko": "그의 발언은 사퇴 가능성을 시사했다.",
+      "example_zh": "他的發言暗示了辭職的可能性。"
+    },
+    {
+      "word": "실수",
+      "hanja": "實數",
+      "romanization": "silsu",
+      "meaning_zh": "實數（數學）",
+      "example_ko": "수학에서 실수와 허수를 배워요.",
+      "example_zh": "數學上學實數和虛數。"
+    },
+    {
+      "word": "심사",
+      "hanja": "心思",
+      "romanization": "simsa",
+      "meaning_zh": "心思、心情",
+      "example_ko": "오늘은 심사가 좀 복잡해요.",
+      "example_zh": "今天心情有點複雜。"
+    },
+    {
+      "word": "악수",
+      "hanja": "惡手",
+      "romanization": "aksu",
+      "meaning_zh": "壞棋、失策（圍棋/象棋）",
+      "example_ko": "그 결정은 명백한 악수였다.",
+      "example_zh": "那個決定明顯是個敗筆。"
+    },
+    {
+      "word": "역사",
+      "hanja": "驛舍",
+      "romanization": "yeoksa",
+      "meaning_zh": "車站建築",
+      "example_ko": "서울역 역사가 새로 지어졌어요.",
+      "example_zh": "首爾車站的站房新建了。"
+    },
+    {
+      "word": "영장",
+      "hanja": "靈長",
+      "romanization": "yeongjang",
+      "meaning_zh": "靈長（萬物之靈）",
+      "example_ko": "인간은 만물의 영장이라고 해요.",
+      "example_zh": "人類被稱為萬物之靈。"
+    },
+    {
+      "word": "유선",
+      "hanja": "乳腺",
+      "romanization": "yuseon",
+      "meaning_zh": "乳腺",
+      "example_ko": "유선 검사를 정기적으로 받아요.",
+      "example_zh": "定期接受乳腺檢查。"
+    },
+    {
+      "word": "인수",
+      "hanja": "因數",
+      "romanization": "insu",
+      "meaning_zh": "因數（數學）",
+      "example_ko": "수학 시간에 인수분해를 배웠어요.",
+      "example_zh": "數學課學了因式分解。"
+    },
+    {
+      "word": "전과",
+      "hanja": "全科",
+      "romanization": "jeongwa",
+      "meaning_zh": "全科參考書",
+      "example_ko": "초등학생용 전과를 샀어요.",
+      "example_zh": "買了小學生用的全科參考書。"
+    },
+    {
+      "word": "전무",
+      "hanja": "全無",
+      "romanization": "jeonmu",
+      "meaning_zh": "毫無、完全沒有",
+      "example_ko": "관련 경험이 전무한 상태예요.",
+      "example_zh": "處於毫無相關經驗的狀態。"
+    },
+    {
+      "word": "전사",
+      "hanja": "戰死",
+      "romanization": "jeonsa",
+      "meaning_zh": "戰死、陣亡",
+      "example_ko": "그는 전쟁에서 전사했어요.",
+      "example_zh": "他在戰爭中陣亡了。"
+    },
+    {
+      "word": "전세",
+      "hanja": "戰勢",
+      "romanization": "jeonse",
+      "meaning_zh": "戰況、戰局",
+      "example_ko": "전세가 불리하게 돌아가고 있어요.",
+      "example_zh": "戰況轉為不利。"
+    },
+    {
+      "word": "전수",
+      "hanja": "全數",
+      "romanization": "jeonsu",
+      "meaning_zh": "全數、全部",
+      "example_ko": "전수 조사를 실시했어요.",
+      "example_zh": "進行了全數調查。"
+    },
+    {
+      "word": "절도",
+      "hanja": "節度",
+      "romanization": "jeoldo",
+      "meaning_zh": "節制、分寸",
+      "example_ko": "절도 있는 생활을 해야 해요.",
+      "example_zh": "要過有節制的生活。"
+    },
+    {
+      "word": "정도",
+      "hanja": "正道",
+      "romanization": "jeongdo",
+      "meaning_zh": "正道、正途",
+      "example_ko": "정도를 걷는 것이 가장 어렵습니다.",
+      "example_zh": "走在正道上是最難的。"
+    },
+    {
+      "word": "제도",
+      "hanja": "製圖",
+      "romanization": "jedo",
+      "meaning_zh": "製圖、繪圖",
+      "example_ko": "건축 제도 수업을 듣고 있어요.",
+      "example_zh": "我正在上建築製圖課。"
+    },
+    {
+      "word": "직장",
+      "hanja": "直腸",
+      "romanization": "jikjang",
+      "meaning_zh": "直腸",
+      "example_ko": "직장암 검사를 받았어요.",
+      "example_zh": "我做了直腸癌檢查。"
+    },
+    {
+      "word": "차관",
+      "hanja": "借款",
+      "romanization": "chagwan",
+      "meaning_zh": "借款（國際間）",
+      "example_ko": "정부가 외국으로부터 차관을 도입했어요.",
+      "example_zh": "政府從國外引進借款。"
+    },
+    {
+      "word": "출전",
+      "hanja": "出典",
+      "romanization": "chuljeon",
+      "meaning_zh": "出處、典故",
+      "example_ko": "이 구절의 출전이 어디입니까?",
+      "example_zh": "這段文字的出處在哪？"
+    },
+    {
+      "word": "투사",
+      "hanja": "鬪士",
+      "romanization": "tusa",
+      "meaning_zh": "鬥士、戰士",
+      "example_ko": "그는 민주화 투사로 알려져 있어요.",
+      "example_zh": "他被視為民主化的鬥士。"
+    },
+    {
+      "word": "협의",
+      "hanja": "狹義",
+      "romanization": "hyeobui",
+      "meaning_zh": "狹義",
+      "example_ko": "협의의 의미로 해석하면 다릅니다.",
+      "example_zh": "從狹義的意義來解釋就不同了。"
     }
   ],
   "t6": [
@@ -87977,6 +89977,118 @@
       "meaning_zh": "悠久",
       "example_ko": "유구한 역사를 자랑한다.",
       "example_zh": "以悠久的歷史自豪。"
+    },
+    {
+      "word": "구도",
+      "hanja": "求道",
+      "romanization": "gudo",
+      "meaning_zh": "求道、修行",
+      "example_ko": "그는 평생 구도의 길을 걸었어요.",
+      "example_zh": "他一生走在求道之路上。"
+    },
+    {
+      "word": "당구",
+      "hanja": "堂狗",
+      "romanization": "danggu",
+      "meaning_zh": "書堂的狗（諺語用）",
+      "example_ko": "서당 개 삼 년이면 풍월을 읊는다.",
+      "example_zh": "書堂的狗三年也能吟詩（耳濡目染）。"
+    },
+    {
+      "word": "대선",
+      "hanja": "大船",
+      "romanization": "daeseon",
+      "meaning_zh": "大船",
+      "example_ko": "항구에 대선이 들어왔어요.",
+      "example_zh": "港口進來了一艘大船。"
+    },
+    {
+      "word": "박수",
+      "hanja": "博士",
+      "romanization": "baksu",
+      "meaning_zh": "男巫師",
+      "example_ko": "박수가 굿을 진행했다.",
+      "example_zh": "男巫師主持了跳神儀式。"
+    },
+    {
+      "word": "본방",
+      "hanja": "本房",
+      "romanization": "bonbang",
+      "meaning_zh": "正房、主臥",
+      "example_ko": "본방에 어른들이 모여 앉으셨다.",
+      "example_zh": "正房裡長輩們圍坐著。"
+    },
+    {
+      "word": "부고",
+      "hanja": "部庫",
+      "romanization": "bugo",
+      "meaning_zh": "副本、備份(口語)",
+      "example_ko": "그 자료는 부고로 따로 저장했어요.",
+      "example_zh": "那份資料另外備份了。"
+    },
+    {
+      "word": "서원",
+      "hanja": "誓願",
+      "romanization": "seowon",
+      "meaning_zh": "誓願、立誓",
+      "example_ko": "그는 평화를 위한 서원을 세웠다.",
+      "example_zh": "他立下了和平的誓願。"
+    },
+    {
+      "word": "성당",
+      "hanja": "盛唐",
+      "romanization": "seongdang",
+      "meaning_zh": "盛唐（時期）",
+      "example_ko": "성당 시기의 시문학을 연구한다.",
+      "example_zh": "研究盛唐時期的詩歌文學。"
+    },
+    {
+      "word": "성장",
+      "hanja": "盛裝",
+      "romanization": "seongjang",
+      "meaning_zh": "盛裝、盛裝打扮",
+      "example_ko": "그녀는 성장을 하고 파티에 나타났다.",
+      "example_zh": "她盛裝打扮出席派對。"
+    },
+    {
+      "word": "세계",
+      "hanja": "世系",
+      "romanization": "segye",
+      "meaning_zh": "世系、家系",
+      "example_ko": "왕가의 세계를 정리한 책이다.",
+      "example_zh": "整理王室世系的書。"
+    },
+    {
+      "word": "수장",
+      "hanja": "水葬",
+      "romanization": "sujang",
+      "meaning_zh": "水葬、葬身水中",
+      "example_ko": "배가 침몰해 선원들이 수장됐다.",
+      "example_zh": "船隻沉沒，船員葬身海中。"
+    },
+    {
+      "word": "역도",
+      "hanja": "逆徒",
+      "romanization": "yeokdo",
+      "meaning_zh": "逆賊、叛徒",
+      "example_ko": "역사 속 역도들의 이야기가 전해져요.",
+      "example_zh": "歷史中叛徒的故事流傳下來。"
+    },
+    {
+      "word": "예방",
+      "hanja": "禮訪",
+      "romanization": "yebang",
+      "meaning_zh": "禮節性訪問、拜會",
+      "example_ko": "대통령을 예방하기로 했어요.",
+      "example_zh": "決定禮節性拜會總統。"
+    },
+    {
+      "word": "입상",
+      "hanja": "立像",
+      "romanization": "ipsang",
+      "meaning_zh": "立像、雕像",
+      "example_ko": "광장에 위인의 입상이 세워져 있어요.",
+      "example_zh": "廣場上立著偉人的雕像。"
     }
   ]
 }
