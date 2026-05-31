@@ -605,7 +605,20 @@ main {
   border-top: 1px solid var(--border);
   padding-top: 6px;
 }
-#lookup-popup .lookup-entry + .lookup-entry {
+/* Within a group (same sense, different examples): subtle dashed divider. */
+#lookup-popup .lookup-group .lookup-entry + .lookup-entry {
+  margin-top: 10px;
+  border-top: 1px dashed var(--border);
+  padding-top: 8px;
+}
+/* Between groups (different senses, e.g. 차=茶 vs 차=車): bolder divider. */
+#lookup-popup .lookup-group + .lookup-group {
+  margin-top: 14px;
+  border-top: 2px solid var(--accent-soft);
+  padding-top: 12px;
+}
+/* Back-compat selector when entries render outside any .lookup-group wrapper. */
+#lookup-popup > .lookup-entry + .lookup-entry {
   margin-top: 10px;
   border-top: 1px dashed var(--border);
   padding-top: 8px;

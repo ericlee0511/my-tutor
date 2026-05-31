@@ -1365,6 +1365,28 @@ function displayMeaning(s) {
   return s.replace(/^[（(][^）)]*(?:粒子|助詞|格助)[^）)]*[）)]\s*/, "");
 }
 
+// Group popup entries by "sense" (word + hanja + cleaned meaning) and dedup
+// entries that are completely identical within a group (same example pair).
+// Returns array of groups, each group is array of unique entries.
+function groupAndDedupEntries(entries) {
+  const groups = new Map();   // groupKey -> { exMap: Map(exampleKey -> entry) }
+  const order = [];
+  for (const e of entries) {
+    const word = e.word || e.kanji || "";
+    const hanja = e.hanja || "";
+    const meaning = displayMeaning(e.meaning_zh || "").trim();
+    const groupKey = `${word}|${hanja}|${meaning}`;
+    const exampleKey = `${e.example_ko || e.example_ja || e.example_en || e.example_es || ""}|${e.example_zh || ""}`;
+    if (!groups.has(groupKey)) {
+      groups.set(groupKey, new Map());
+      order.push(groupKey);
+    }
+    const exMap = groups.get(groupKey);
+    if (!exMap.has(exampleKey)) exMap.set(exampleKey, e);
+  }
+  return order.map(k => Array.from(groups.get(k).values()));
+}
+
 function lookupEntryHtml(entry, lang) {
   let reading = "";
   if (lang === "ja" && entry.kana) reading = entry.kana;
@@ -1396,7 +1418,10 @@ function showLookupPopup(spanEl) {
     popup.id = "lookup-popup";
     document.body.appendChild(popup);
   }
-  popup.innerHTML = entries.map(e => lookupEntryHtml(e, lang)).join("");
+  const groups = groupAndDedupEntries(entries);
+  popup.innerHTML = groups.map(group =>
+    `<div class="lookup-group">${group.map(e => lookupEntryHtml(e, lang)).join("")}</div>`
+  ).join("");
   popup.hidden = false;
   // Reset constraints so natural size can be measured before re-applying.
   popup.style.maxHeight = "";
