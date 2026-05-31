@@ -1358,25 +1358,48 @@ function showLookupPopup(spanEl) {
   }
   popup.innerHTML = entries.map(e => lookupEntryHtml(e, lang)).join("");
   popup.hidden = false;
-  // Position below the clicked span if room; else above
-  const rect = spanEl.getBoundingClientRect();
+  // Reset constraints so natural size can be measured before re-applying.
+  popup.style.maxHeight = "";
+  popup.style.overflowY = "";
   popup.style.visibility = "hidden";
   popup.style.left = "0px";
   popup.style.top = "0px";
+
+  const rect = spanEl.getBoundingClientRect();
   const popupRect = popup.getBoundingClientRect();
   const viewW = document.documentElement.clientWidth;
-  const viewH = document.documentElement.clientHeight;
+  // Bound = top of footer (so popup never overlaps "已載入 N 項" stats line).
+  // Fallback to viewport bottom if footer not found.
+  const footerEl = document.querySelector("footer");
+  const footerTop = footerEl ? footerEl.getBoundingClientRect().top : document.documentElement.clientHeight;
+  const MARGIN = 8;
+  const naturalH = popupRect.height;
+  const spaceBelow = Math.max(0, footerTop - rect.bottom - MARGIN);
+  const spaceAbove = Math.max(0, rect.top - MARGIN);
+
+  // Horizontal placement (unchanged)
   let left = rect.left + window.scrollX;
   if (left + popupRect.width > viewW + window.scrollX - 8) {
     left = Math.max(8 + window.scrollX, viewW + window.scrollX - popupRect.width - 8);
   }
-  let top = rect.bottom + window.scrollY + 4;
-  if (rect.bottom + popupRect.height + 8 > viewH) {
-    top = rect.top + window.scrollY - popupRect.height - 4;
+
+  // Vertical: prefer below if room (or at least more than above); cap height to
+  // available space and let inner content scroll.
+  let top, maxH;
+  if (spaceBelow >= naturalH || spaceBelow >= spaceAbove) {
+    maxH = Math.max(120, spaceBelow);
+    top = rect.bottom + window.scrollY + 4;
+  } else {
+    maxH = Math.max(120, spaceAbove);
+    const useH = Math.min(naturalH, maxH);
+    top = rect.top + window.scrollY - useH - 4;
     if (top < window.scrollY + 8) top = window.scrollY + 8;
   }
+
   popup.style.left = left + "px";
   popup.style.top = top + "px";
+  popup.style.maxHeight = maxH + "px";
+  popup.style.overflowY = "auto";
   popup.style.visibility = "visible";
 }
 

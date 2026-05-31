@@ -556,6 +556,9 @@ main {
   max-width: 320px;
   font-size: 14px;
   line-height: 1.5;
+  /* max-height + overflow-y set inline by showLookupPopup() based on footer position.
+     overscroll-behavior contains touch scroll within the popup. */
+  overscroll-behavior: contain;
 }
 #lookup-popup .lookup-head {
   display: flex;
