@@ -234,6 +234,7 @@ const STORIES = [
   { key: "jap069", title: "鳥居坂署の御堂さん" },
   { key: "jap070", title: "フレンチトーストには笑顔" },
   { key: "jap071", title: "星空は100年後" },
+  { key: "jap072", title: "無職のススメ、元社畜の挑戦日記" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
