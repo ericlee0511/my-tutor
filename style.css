@@ -611,10 +611,12 @@ main {
   border-top: 1px dashed var(--border);
   padding-top: 8px;
 }
-/* Between groups (different senses, e.g. 차=茶 vs 차=車): bolder divider. */
+/* Between groups (different senses, e.g. 차=茶 vs 차=車): bolder divider.
+   Mix 20% accent into accent-soft for a subtle darkening that still tracks
+   light/dark theme. */
 #lookup-popup .lookup-group + .lookup-group {
   margin-top: 14px;
-  border-top: 2px solid var(--accent-soft);
+  border-top: 2px solid color-mix(in srgb, var(--accent-soft) 80%, var(--accent) 20%);
   padding-top: 12px;
 }
 /* Back-compat selector when entries render outside any .lookup-group wrapper. */
