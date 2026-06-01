@@ -228,13 +228,13 @@ const STORIES = [
   { key: "jap063", title: "アイドルは旬が命" },
   { key: "jap064", title: "奈良まち はじまり 朝ごはん" },
   { key: "jap065", title: "青春テロリズム" },
-  { key: "jap066", title: "こころ食堂のおもいで御飯〜あったかお鍋は幸せの味〜" },
+  { key: "jap066", title: "無職のススメ、元社畜の挑戦日記" },
   { key: "jap067", title: "ご懐妊‼ 1" },
   { key: "jap068", title: "ご懐妊‼ 2 ～俺様上司は育メン愛妻家になりました～" },
   { key: "jap069", title: "鳥居坂署の御堂さん" },
   { key: "jap070", title: "フレンチトーストには笑顔" },
   { key: "jap071", title: "星空は100年後" },
-  { key: "jap072", title: "無職のススメ、元社畜の挑戦日記" },
+  { key: "jap072", title: "こころ食堂のおもいで御飯〜あったかお鍋は幸せの味〜" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
