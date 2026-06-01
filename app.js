@@ -239,6 +239,7 @@ const STORIES = [
   { key: "jap074", title: "こころ食堂のおもいで御飯 ～前に進むための肉じゃが定食～" },
   { key: "jap075", title: "最後のヒーロー" },
   { key: "jap076", title: "終学旅行" },
+  { key: "jap077", title: "古物時計店の「時ほぐし」" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
