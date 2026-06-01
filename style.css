@@ -251,15 +251,18 @@ header h1 {
   justify-content: center;
   box-sizing: border-box;
 }
-/* In disabled state (whatever the cause — direction = 中→他國語 OR not on a scene),
-   make the circular outline visible using the same colour that other chips
-   (中→日 / N1 …) use as their background tone. !important guards against any
-   inline / higher-specificity rule that might creep in via dir-state changes.
-   Everything else (opacity, width, padding) inherited from .chip[disabled] stays
-   unchanged. */
+/* The lookup button can only toggle enable/disable when on a scene under
+   他國語→中 direction. Every other state is "permanently disabled". User wants
+   all those permanently-disabled looks to match the visual of the toggleable
+   button in its OFF state — which is the plain .chip look (no fade, gray
+   border). Override the inherited .chip[disabled] opacity:0.4 + the previous
+   accent-soft border, restoring the regular chip appearance. The button is
+   still functionally disabled (disabled attr + click guard in JS); only the
+   visual fade is removed. */
 #lookup-btn[disabled],
 #lookup-btn.disabled {
-  border-color: var(--accent-soft) !important;
+  opacity: 1 !important;
+  border-color: var(--border) !important;
 }
 #level-btn {
   width: 86px;
