@@ -223,6 +223,9 @@ const STORIES = [
   { key: "jap058", title: "深海から見える灯" },
   { key: "jap059", title: "余命半年の小笠原先輩は、いつも笑顔なんです" },
   { key: "jap060", title: "優しい音を奏でて…" },
+  { key: "jap061", title: "青信号は変わらない" },
+  { key: "jap062", title: "今年も残り7日" },
+  { key: "jap063", title: "アイドルは旬が命" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
