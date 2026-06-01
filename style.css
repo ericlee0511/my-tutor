@@ -251,12 +251,15 @@ header h1 {
   justify-content: center;
   box-sizing: border-box;
 }
-/* In disabled state, make the circular outline visible using the same colour
-   that other chips (中→日 / N1 …) use as their background tone. Everything else
-   (opacity, width, padding) inherited from .chip[disabled] stays unchanged. */
+/* In disabled state (whatever the cause — direction = 中→他國語 OR not on a scene),
+   make the circular outline visible using the same colour that other chips
+   (中→日 / N1 …) use as their background tone. !important guards against any
+   inline / higher-specificity rule that might creep in via dir-state changes.
+   Everything else (opacity, width, padding) inherited from .chip[disabled] stays
+   unchanged. */
 #lookup-btn[disabled],
 #lookup-btn.disabled {
-  border-color: var(--accent-soft);
+  border-color: var(--accent-soft) !important;
 }
 #level-btn {
   width: 86px;
