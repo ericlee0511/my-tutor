@@ -242,6 +242,7 @@ const STORIES = [
   { key: "jap077", title: "古物時計店の「時ほぐし」" },
   { key: "jap078", title: "蜘蛛の終末" },
   { key: "jap079", title: "愚者の園" },
+  { key: "jap080", title: "今日も世界に赤錆色の雨が降る" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
