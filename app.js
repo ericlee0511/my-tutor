@@ -252,6 +252,7 @@ const STORIES = [
   { key: "jap087", title: "事故物件研究会は怪異を信じない" },
   { key: "jap088", title: "一瞬の永遠を、きみと" },
   { key: "jap089", title: "春となりを待つきみへ" },
+  { key: "jap090", title: "初恋の答えは、約束の海で" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
