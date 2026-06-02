@@ -260,6 +260,7 @@ const STORIES = [
   { key: "jap095", title: "背面黒板の向こう側に、もう一つ教室があることは、僕と彼しか知らない" },
   { key: "jap096", title: "ある公園にまつわる幸せ家族の真相" },
   { key: "jap097", title: "大学は甘くない 〜女子校上がりの私、先輩の「特別」になりたかった〜" },
+  { key: "jap098", title: "未だ青い僕たちは" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
