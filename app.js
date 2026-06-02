@@ -254,6 +254,7 @@ const STORIES = [
   { key: "jap089", title: "春となりを待つきみへ" },
   { key: "jap090", title: "初恋の答えは、約束の海で" },
   { key: "jap091", title: "それでは、お先にごきげんよう" },
+  { key: "jap092", title: "時間を超えた卒業式" },
 ].sort((a, b) => a.title.localeCompare(b.title, "ja"));
 
 const TOEIC_STORIES = [
