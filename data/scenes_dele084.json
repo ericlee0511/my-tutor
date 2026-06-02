@@ -1,55 +1,245 @@
 {
   "title": "Cuidando al sobrino una tarde",
   "all": [
-    {"es": "Hola, campeón, ¿qué tal estás esta tarde?", "zh": "嗨小冠軍，今天下午過得如何啊？"},
-    {"es": "Bien, tita, ¿vamos a jugar mucho hoy?", "zh": "很好阿姨，我們今天會玩很久嗎？"},
-    {"es": "Claro que sí, pero primero merendamos algo, ¿vale?", "zh": "當然，但先吃個點心好嗎？"},
-    {"es": "¿Qué hay para merendar? Tengo hambre.", "zh": "點心有什麼？我餓了。"},
-    {"es": "Tengo pan con chocolate y un poquito de fruta.", "zh": "我有巧克力麵包跟一點水果。"},
-    {"es": "¡Pan con chocolate, mi favorito de todos!", "zh": "巧克力麵包！我最最最愛的！"},
-    {"es": "Lávate las manos primero, anda, ve al baño.", "zh": "先洗手，去廁所吧。"},
-    {"es": "Ya voy, pero no me pongas mucha fruta, por favor.", "zh": "我去，但水果不要給太多拜託。"},
-    {"es": "Solo unos trocitos de manzana, no seas exagerado.", "zh": "只是幾塊蘋果而已，別這麼誇張。"},
-    {"es": "Vale, pero después jugamos a las construcciones, ¿sí?", "zh": "好，但之後我們玩積木好不好？"},
-    {"es": "Trato hecho, las sacamos en cuanto terminemos de merendar.", "zh": "說定了，吃完點心就拿出來。"},
-    {"es": "Tita, ¿me cuentas cómo era papá cuando era pequeño?", "zh": "阿姨，你跟我說爸爸小時候怎樣？"},
-    {"es": "Era muy travieso, igual o más que tú, créeme.", "zh": "他超頑皮，跟你一樣或更兇，相信我。"},
-    {"es": "¿En serio? ¡No me lo puedo creer!", "zh": "真的喔？我才不相信！"},
-    {"es": "Un día se subió a un árbol y no podía bajar.", "zh": "有一次他爬到樹上下不來。"},
-    {"es": "¡Jajaja! ¿Y quién lo bajó al final?", "zh": "哈哈！最後誰把他弄下來的？"},
-    {"es": "El abuelo, con una escalera muy larga del vecino.", "zh": "爺爺，用鄰居一個很長的梯子。"},
-    {"es": "Qué historia más graciosa, cuéntame más cosas.", "zh": "好好笑喔，再講更多。"},
-    {"es": "Luego te cuento otra, ahora vamos a montar el castillo.", "zh": "等下再講，現在去蓋城堡。"},
-    {"es": "¡Vamos! Yo hago la torre más alta de todas.", "zh": "走！我要蓋最高的塔。"},
-    {"es": "Vale, yo te ayudo con la base para que no se caiga.", "zh": "好，我幫你弄底座，這樣才不會倒。"},
-    {"es": "¡Cuidado, tita, no me pongas esa pieza ahí!", "zh": "小心阿姨，那塊別放那裡！"},
-    {"es": "Perdón, jefe, tú mandas en este castillo.", "zh": "抱歉老闆，城堡你說了算。"},
-    {"es": "Eso es, soy el rey y tú la princesa que ayuda.", "zh": "對，我是國王，你是幫忙的公主。"},
-    {"es": "Vaya honor, gracias por dejarme ser tu princesa.", "zh": "好榮幸喔，謝謝你讓我當公主。"},
-    {"es": "¿Podemos pintar después de jugar con esto?", "zh": "玩完這個之後可以畫畫嗎？"},
-    {"es": "Claro, traigo las pinturas y un par de hojas.", "zh": "當然，我去拿顏料跟幾張紙。"},
-    {"es": "Voy a dibujar a toda la familia, ya verás.", "zh": "我要畫全家人，你等著瞧。"},
-    {"es": "Qué buena idea, seguro que les encanta verlo.", "zh": "好棒的點子，他們看到一定很喜歡。"},
-    {"es": "Tita, ¿por qué tienes los ojos un poco rojos?", "zh": "阿姨，你眼睛怎麼有點紅？"},
-    {"es": "Es que ayer dormí poco, no te preocupes.", "zh": "因為我昨天睡很少，別擔心。"},
-    {"es": "Si quieres, puedes echarte la siesta conmigo después.", "zh": "你要的話等下可以跟我一起睡午覺。"},
-    {"es": "Eres un sol, igual te tomo la palabra.", "zh": "你真是小天使，我可能真的會接受耶。"},
-    {"es": "¡Mira, terminé el dibujo, este eres tú!", "zh": "你看，我畫好了，這個是你！"},
-    {"es": "¡Qué guapa me has pintado, gracias, cielo!", "zh": "你把我畫得好美喔，謝謝寶貝！"},
-    {"es": "¿Lo colgamos en la nevera cuando lleguen mis padres?", "zh": "爸媽回來時我們把它貼冰箱上好嗎？"},
-    {"es": "Por supuesto, ahí lo van a ver todos los días.", "zh": "當然，這樣他們每天都看得到。"},
-    {"es": "Ahora estoy un poquito cansado, tita.", "zh": "阿姨，我現在有點累了。"},
-    {"es": "Pues hacemos la siesta en el sofá, ven aquí.", "zh": "那我們在沙發上睡午覺，過來。"},
-    {"es": "Tápame con la manta y cuéntame un cuento bajito.", "zh": "幫我蓋毯子，小聲講個故事給我聽。"},
-    {"es": "Érase una vez un niño valiente que vivía en un castillo.", "zh": "從前從前有個勇敢的小男孩住在城堡裡。"},
-    {"es": "¿Y tenía un dragón amigo, como el de los dibujos?", "zh": "他有沒有龍朋友，像卡通裡那樣？"},
-    {"es": "Sí, un dragón verde que le ayudaba a cuidar el bosque.", "zh": "有，一隻綠色的龍幫他守護森林。"},
-    {"es": "Mmm, qué bonito... casi me duermo, tita.", "zh": "嗯⋯⋯好棒⋯⋯阿姨，我快睡著了。"},
-    {"es": "Duerme tranquilo, yo estoy aquí contigo.", "zh": "安心睡，我在你身邊。"},
-    {"es": "Te quiero mucho, tita, vienes más veces, ¿eh?", "zh": "我超愛你阿姨，你要常常來喔。"},
-    {"es": "Yo también te quiero, vendré todas las que pueda.", "zh": "我也很愛你，能來的話一定都來。"},
-    {"es": "Cuando te despiertes, nos comemos unas galletas, ¿vale?", "zh": "你醒來後我們吃些餅乾好嗎？"},
-    {"es": "Vale... gracias por cuidarme esta tarde.", "zh": "好⋯⋯謝謝你今天下午照顧我。"},
-    {"es": "Para mí ha sido un regalo, descansa, mi vida.", "zh": "對我來說是個禮物，好好休息，我的寶貝。"}
+    {
+      "es": "Hola, campeón, ¿qué tal estás esta tarde?",
+      "zh": "嗨小冠軍，今天下午過得如何啊？"
+    },
+    {
+      "es": "Bien, tita, ¿vamos a jugar mucho hoy?",
+      "zh": "很好阿姨，我們今天會玩很久嗎？"
+    },
+    {
+      "es": "Claro que sí, pero primero merendamos algo, ¿vale?",
+      "zh": "當然，但先吃個點心好嗎？"
+    },
+    {
+      "es": "¿Qué hay para merendar? Tengo hambre.",
+      "zh": "點心有什麼？我餓了。"
+    },
+    {
+      "es": "Tengo pan con chocolate y un poquito de fruta.",
+      "zh": "我有巧克力麵包跟一點水果。"
+    },
+    {
+      "es": "¡Pan con chocolate, mi favorito de todos!",
+      "zh": "巧克力麵包！我最最最愛的！"
+    },
+    {
+      "es": "Lávate las manos primero, anda, ve al baño.",
+      "zh": "先洗手，去廁所吧。"
+    },
+    {
+      "es": "Ya voy, pero no me pongas mucha fruta, por favor.",
+      "zh": "我去，但水果不要給太多拜託。"
+    },
+    {
+      "es": "Solo unos trocitos de manzana, no seas exagerado.",
+      "zh": "只是幾塊蘋果而已，別這麼誇張。"
+    },
+    {
+      "es": "Vale, pero después jugamos a las construcciones, ¿sí?",
+      "zh": "好，但之後我們玩積木好不好？"
+    },
+    {
+      "es": "Trato hecho, las sacamos en cuanto terminemos de merendar.",
+      "zh": "說定了，吃完點心就拿出來。"
+    },
+    {
+      "es": "Tita, ¿me cuentas cómo era papá cuando era pequeño?",
+      "zh": "阿姨，你跟我說爸爸小時候怎樣？"
+    },
+    {
+      "es": "Era muy travieso, igual o más que tú, créeme.",
+      "zh": "他超頑皮，跟你一樣或更兇，相信我。"
+    },
+    {
+      "es": "¿En serio? ¡No me lo puedo creer!",
+      "zh": "真的喔？我才不相信！"
+    },
+    {
+      "es": "Un día se subió a un árbol y no podía bajar.",
+      "zh": "有一次他爬到樹上下不來。"
+    },
+    {
+      "es": "¡Jajaja! ¿Y quién lo bajó al final?",
+      "zh": "哈哈！最後誰把他弄下來的？"
+    },
+    {
+      "es": "El abuelo, con una escalera muy larga del vecino.",
+      "zh": "爺爺，用鄰居一個很長的梯子。"
+    },
+    {
+      "es": "Qué historia más graciosa, cuéntame más cosas.",
+      "zh": "好好笑喔，再講更多。"
+    },
+    {
+      "es": "Luego te cuento otra, ahora vamos a montar el castillo.",
+      "zh": "等下再講，現在去蓋城堡。"
+    },
+    {
+      "es": "¡Vamos! Yo hago la torre más alta de todas.",
+      "zh": "走！我要蓋最高的塔。"
+    },
+    {
+      "es": "Vale, yo te ayudo con la base para que no se caiga.",
+      "zh": "好，我幫你弄底座，這樣才不會倒。"
+    },
+    {
+      "es": "¡Cuidado, tita, no me pongas esa pieza ahí!",
+      "zh": "小心阿姨，那塊別放那裡！"
+    },
+    {
+      "es": "Perdón, jefe, tú mandas en este castillo.",
+      "zh": "抱歉老闆，城堡你說了算。"
+    },
+    {
+      "es": "Eso es, soy el rey y tú la princesa que ayuda.",
+      "zh": "對，我是國王，你是幫忙的公主。"
+    },
+    {
+      "es": "Vaya honor, gracias por dejarme ser tu princesa.",
+      "zh": "好榮幸喔，謝謝你讓我當公主。"
+    },
+    {
+      "es": "¿Podemos pintar después de jugar con esto?",
+      "zh": "玩完這個之後可以畫畫嗎？"
+    },
+    {
+      "es": "Claro, traigo las pinturas y un par de hojas.",
+      "zh": "當然，我去拿顏料跟幾張紙。"
+    },
+    {
+      "es": "Voy a dibujar a toda la familia, ya verás.",
+      "zh": "我要畫全家人，你等著瞧。"
+    },
+    {
+      "es": "Qué buena idea, seguro que les encanta verlo.",
+      "zh": "好棒的點子，他們看到一定很喜歡。"
+    },
+    {
+      "es": "Tita, ¿por qué tienes los ojos un poco rojos?",
+      "zh": "阿姨，你眼睛怎麼有點紅？"
+    },
+    {
+      "es": "Es que ayer dormí poco, no te preocupes.",
+      "zh": "因為我昨天睡很少，別擔心。"
+    },
+    {
+      "es": "Si quieres, puedes echarte la siesta conmigo después.",
+      "zh": "你要的話等下可以跟我一起睡午覺。"
+    },
+    {
+      "es": "Eres un sol, igual te tomo la palabra.",
+      "zh": "你真是小天使，我可能真的會接受耶。"
+    },
+    {
+      "es": "¡Mira, terminé el dibujo, este eres tú!",
+      "zh": "你看，我畫好了，這個是你！"
+    },
+    {
+      "es": "¡Qué guapa me has pintado, gracias, cielo!",
+      "zh": "你把我畫得好美喔，謝謝寶貝！"
+    },
+    {
+      "es": "¿Lo colgamos en la nevera cuando lleguen mis padres?",
+      "zh": "爸媽回來時我們把它貼冰箱上好嗎？"
+    },
+    {
+      "es": "Por supuesto, ahí lo van a ver todos los días.",
+      "zh": "當然，這樣他們每天都看得到。"
+    },
+    {
+      "es": "Ahora estoy un poquito cansado, tita.",
+      "zh": "阿姨，我現在有點累了。"
+    },
+    {
+      "es": "Pues hacemos la siesta en el sofá, ven aquí.",
+      "zh": "那我們在沙發上睡午覺，過來。"
+    },
+    {
+      "es": "Tápame con la manta y cuéntame un cuento bajito.",
+      "zh": "幫我蓋毯子，小聲講個故事給我聽。"
+    },
+    {
+      "es": "Érase una vez un niño valiente que vivía en un castillo.",
+      "zh": "從前從前有個勇敢的小男孩住在城堡裡。"
+    },
+    {
+      "es": "¿Y tenía un dragón amigo, como el de los dibujos?",
+      "zh": "他有沒有龍朋友，像卡通裡那樣？"
+    },
+    {
+      "es": "Sí, un dragón verde que le ayudaba a cuidar el bosque.",
+      "zh": "有，一隻綠色的龍幫他守護森林。"
+    },
+    {
+      "es": "Mmm, qué bonito... casi me duermo, tita.",
+      "zh": "嗯⋯⋯好棒⋯⋯阿姨，我快睡著了。"
+    },
+    {
+      "es": "Duerme tranquilo, yo estoy aquí contigo.",
+      "zh": "安心睡，我在你身邊。"
+    },
+    {
+      "es": "Te quiero mucho, tita, vienes más veces, ¿eh?",
+      "zh": "我超愛你阿姨，你要常常來喔。"
+    },
+    {
+      "es": "Yo también te quiero, vendré todas las que pueda.",
+      "zh": "我也很愛你，能來的話一定都來。"
+    },
+    {
+      "es": "Cuando te despiertes, nos comemos unas galletas, ¿vale?",
+      "zh": "你醒來後我們吃些餅乾好嗎？"
+    },
+    {
+      "es": "Vale... gracias por cuidarme esta tarde.",
+      "zh": "好⋯⋯謝謝你今天下午照顧我。"
+    },
+    {
+      "es": "Para mí ha sido un regalo, descansa, mi vida.",
+      "zh": "對我來說是個禮物，好好休息，我的寶貝。"
+    },
+    {
+      "es": "Lávate las manos antes de coger la galleta, que vienes del parque.",
+      "zh": "拿餅乾之前先洗手，你剛從公園回來。"
+    },
+    {
+      "es": "Si te portas bien, luego vemos juntos tus dibujos favoritos.",
+      "zh": "如果你乖乖的，等一下我們一起看你最愛的卡通。"
+    },
+    {
+      "es": "Cuidado con la esquina de la mesa, agáchate un poquito.",
+      "zh": "小心桌角，稍微低個頭。"
+    },
+    {
+      "es": "¿Quieres que montemos el puzle de los dinosaurios en la alfombra?",
+      "zh": "你想不想我們在地毯上拼恐龍拼圖？"
+    },
+    {
+      "es": "Tu mamá vendrá a buscarte después de cenar, no te preocupes.",
+      "zh": "你媽媽晚餐後會來接你，別擔心。"
+    },
+    {
+      "es": "Recogemos los juguetes entre los dos antes de que se haga tarde.",
+      "zh": "在天色變晚前，我們兩個一起把玩具收好。"
+    },
+    {
+      "es": "No te subas al respaldo del sillón, que te puedes caer.",
+      "zh": "別爬上扶手椅的椅背，你會摔下來的。"
+    },
+    {
+      "es": "Te leo un cuento corto y luego echamos la siesta, ¿trato hecho?",
+      "zh": "我念個短篇故事給你聽，然後我們睡午覺，說定囉？"
+    },
+    {
+      "es": "Has dibujado un sol precioso, lo colgamos en la nevera.",
+      "zh": "你畫了一個好漂亮的太陽，我們把它貼在冰箱上。"
+    },
+    {
+      "es": "Termínate el zumo y nos vamos al columpio un ratito.",
+      "zh": "把果汁喝完，我們去盪一下鞦韆。"
+    }
   ]
 }

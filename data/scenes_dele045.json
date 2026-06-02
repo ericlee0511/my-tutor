@@ -1,45 +1,205 @@
 {
   "title": "Discurso: la memoria histórica en la educación",
   "all": [
-    { "es": "Comparezco hoy ante ustedes para defender la incorporación rigurosa de la memoria histórica en los currículos escolares.", "zh": "本人今日在此向各位陳詞，主張將歷史記憶嚴謹地納入學校課程之中。" },
-    { "es": "Una sociedad que escamotea a sus jóvenes el conocimiento de su pasado conflictivo se condena a repetir, tarde o temprano, sus errores.", "zh": "一個對年輕世代隱匿其衝突過往的社會，終將難免重蹈昔日的錯誤。" },
-    { "es": "No se trata de imponer una versión única, sino de proporcionar herramientas críticas para que cada alumno construya su propio juicio.", "zh": "此非意在強加單一版本，而是提供批判性工具，讓每位學生得以建立自身判斷。" },
-    { "es": "Quien teme la enseñanza de la historia reciente revela, en realidad, su falta de fe en la madurez de las nuevas generaciones.", "zh": "畏懼教授近代史者，實則暴露了自己對新世代成熟度的信心不足。" },
-    { "es": "Las heridas históricas no se cierran ocultándolas; se cierran nombrándolas y comprendiéndolas en toda su complejidad.", "zh": "歷史創傷不會因被掩蓋而癒合，唯有被命名並理解其全部複雜性後，方能真正癒合。" },
-    { "es": "Sostengo, por tanto, que la pedagogía de la memoria debe combinar el rigor documental con la sensibilidad ética.", "zh": "故本人主張，記憶教育應結合史料嚴謹性與倫理敏感度。" },
-    { "es": "El testimonio de los supervivientes, cuando aún es posible recogerlo, constituye un recurso de un valor incalculable.", "zh": "倖存者的證言，在仍能蒐集之時，是無可估量的珍貴資源。" },
-    { "es": "Una vez se extingan esas voces, la responsabilidad recaerá íntegramente sobre los archivos y sobre quienes sepan interrogarlos.", "zh": "一旦那些聲音消逝，責任將完全落於檔案，以及懂得向其發問的人身上。" },
-    { "es": "Conviene advertir que la memoria no equivale a la historia, aunque ambas mantengan un diálogo necesario y a veces tenso.", "zh": "我們須警覺，記憶不等同於歷史，儘管兩者間維持著必要、有時亦緊張的對話。" },
-    { "es": "Mientras la historia aspira a la verificación, la memoria conserva la dimensión afectiva que la historiografía suele depurar.", "zh": "歷史志在求證，記憶則保留歷史書寫往往加以淨化的情感層面。" },
-    { "es": "Por ello, la escuela ha de enseñar a habitar esa tensión, sin renunciar ni al rigor ni a la empatía.", "zh": "因此，學校應教導學生如何安處於此種張力之中，既不放棄嚴謹，亦不捨棄同理。" },
-    { "es": "Permítanme insistir en que silenciar a las víctimas en nombre de una falsa reconciliación es prolongar la violencia simbólicamente.", "zh": "請容本人再三強調，以虛假和解之名沉默受害者，等同於象徵性地延長暴力。" },
-    { "es": "La verdadera convivencia se edifica sobre el reconocimiento, no sobre el olvido pactado entre quienes ostentan el poder narrativo.", "zh": "真正的共存建立於承認之上，而非建立於掌握敘事權者所協議的遺忘之上。" },
-    { "es": "Quisiera referirme también al papel del profesorado, demasiado a menudo abandonado a su suerte ante temas espinosos.", "zh": "本人亦欲提及教師的角色，他們在面對棘手議題時，常被孤立無援地拋下。" },
-    { "es": "Sin formación específica ni respaldo institucional, ningún docente puede asumir solo el peso de estas conversaciones.", "zh": "若缺乏專業培訓與機構支援，沒有任何教師能獨自承擔此類對話之重。" },
-    { "es": "Reclamo, en consecuencia, una inversión sostenida en programas de capacitación que aborden la didáctica de los pasados violentos.", "zh": "因此，本人呼籲對處理暴力過往教學法之培訓方案進行持續性投資。" },
-    { "es": "Asimismo, los materiales didácticos han de elaborarse con la participación de historiadores, educadores y representantes de las comunidades afectadas.", "zh": "教材的編製亦應由歷史學家、教育者及受影響社群代表共同參與。" },
-    { "es": "Cualquier intento de uniformizar el relato desde un único centro de poder resulta, además de injusto, pedagógicamente contraproducente.", "zh": "任何企圖由單一權力中心統一敘事的作為，既不公正，在教學上亦適得其反。" },
-    { "es": "Confío en que este parlamento sabrá legislar atendiendo no a las urgencias electorales, sino a las necesidades formativas de largo aliento.", "zh": "本人深信本議會將以長遠的教育養成需求，而非選舉的急切考量，作為立法依據。" },
-    { "es": "Termino recordándoles que educar en la memoria no es mirar atrás con nostalgia, sino preparar un futuro menos ciego a sus propios espejismos.", "zh": "本人最後謹此提醒諸位：記憶教育並非懷舊地回望過去，而是為一個對自身幻象更不盲目的未來做準備。" },
-    { "es": "Antes de ceder la palabra, permítanme detenerme en algunas objeciones que con frecuencia se esgrimen contra esta propuesta.", "zh": "於交出發言權之前，請容本人停留於若干常被舉以反駁此提案的異議。" },
-    { "es": "Se aduce, en primer lugar, que estos temas dividen a la sociedad y que la escuela debería preservar la cohesión social.", "zh": "首先有人主張，此類議題撕裂社會，學校應維護社會凝聚力。" },
-    { "es": "Respondo que una cohesión fundada sobre el silencio es una cohesión frágil, condenada a quebrarse a la primera tensión seria.", "zh": "本人回應道，建立於沉默之上的凝聚力是脆弱的，一遇嚴肅張力即難免崩裂。" },
-    { "es": "La cohesión verdadera nace de la deliberación compartida, no de la complicidad en la amnesia.", "zh": "真正的凝聚力出自共同審議，而非對遺忘的合謀。" },
-    { "es": "Se objeta también que los alumnos son demasiado jóvenes para procesar contenidos tan duros.", "zh": "亦有反駁稱學生過於年輕，無法消化如此沉重之內容。" },
-    { "es": "Tal argumento subestima sistemáticamente la capacidad infantil de comprender la injusticia, evidente en cualquier patio de recreo.", "zh": "此論點系統性低估了兒童理解不公正之能力，此能力於任何校園遊樂場皆顯而易見。" },
-    { "es": "Lo que sí debe adecuarse es el lenguaje y el ritmo de la exposición, no la verdad de los hechos.", "zh": "確需斟酌者，乃陳述之語言與節奏，而非事實之真相。" },
-    { "es": "Una tercera objeción apela a la supuesta neutralidad que la escuela debería mantener en asuntos polémicos.", "zh": "第三項異議訴諸學校於爭議性議題上所應維持之所謂中立。" },
-    { "es": "Conviene recordar que la neutralidad ante el sufrimiento no es neutralidad: es complicidad disfrazada de prudencia.", "zh": "我們應記得，面對苦難之中立並非中立，而是偽裝為審慎之共謀。" },
-    { "es": "Ningún educador serio enseñaría con neutralidad la esclavitud, el genocidio o la tortura: hay umbrales éticos irreductibles.", "zh": "無嚴肅教育者會以中立方式教授奴隸制、種族滅絕或酷刑，存在不可化約之倫理門檻。" },
-    { "es": "Existe, finalmente, el temor a una instrumentalización política de la memoria, temor en parte legítimo.", "zh": "最後存在對記憶政治工具化之畏懼，此畏懼於部分意義上具有正當性。" },
-    { "es": "La respuesta adecuada no es renunciar a la memoria, sino dotarla de protocolos rigurosos que la protejan de manipulaciones.", "zh": "適切之回應並非放棄記憶，而是賦予其嚴謹規範以避免操弄。" },
-    { "es": "Tales protocolos incluyen la pluralidad de fuentes, el contraste documental y la apertura permanente a la revisión.", "zh": "此類規範包含多元史料、文獻對照與恆常開放修正之態度。" },
-    { "es": "Permítanme cerrar con una imagen que ilustra cuanto he tratado de transmitir esta tarde.", "zh": "請容本人以一意象為今日所欲傳達之一切作結。" },
-    { "es": "Imaginen un país donde los abuelos pudieron, por fin, contar lo que vivieron sin temor a que la escuela contradiga su testimonio.", "zh": "請想像一國度，其中祖輩終得娓娓道出自身所經歷者，且無須畏懼學校將否認其證言。" },
-    { "es": "Imaginen aulas donde la incomodidad inicial deja paso a un compromiso ciudadano que ningún manual cívico podría inculcar mejor.", "zh": "請想像那些教室，其中初始之不適讓位於一種任何公民教科書皆無法更佳灌輸之公民承擔。" },
-    { "es": "Esa es la apuesta: no formar súbditos que olvidan a conveniencia, sino ciudadanos que recuerdan con discernimiento.", "zh": "此即我們之所選：非培育依便利而遺忘之臣民，而是養成具洞察力地記憶之公民。" },
-    { "es": "Les invito, señoras y señores diputados, a estar a la altura de la responsabilidad que la historia coloca en nuestras manos.", "zh": "本人邀請諸位議員女士先生，無愧於歷史置於我等手中之責任。" },
-    { "es": "Sus votos hoy no decidirán solo un currículo, sino el grado de honestidad con que nuestra nación se mirará al espejo.", "zh": "諸位今日之表決，不僅將決定一份課程，更將決定我國家照鏡時所秉持之誠實程度。" },
-    { "es": "Muchas gracias por su atención, y confío en que sabrán votar pensando en quienes aún no pueden votar por sí mismos.", "zh": "感謝諸位之傾聽，本人深信諸位將為那些尚不能為自己投票之人著想而投下此票。" }
+    {
+      "es": "Comparezco hoy ante ustedes para defender la incorporación rigurosa de la memoria histórica en los currículos escolares.",
+      "zh": "本人今日在此向各位陳詞，主張將歷史記憶嚴謹地納入學校課程之中。"
+    },
+    {
+      "es": "Una sociedad que escamotea a sus jóvenes el conocimiento de su pasado conflictivo se condena a repetir, tarde o temprano, sus errores.",
+      "zh": "一個對年輕世代隱匿其衝突過往的社會，終將難免重蹈昔日的錯誤。"
+    },
+    {
+      "es": "No se trata de imponer una versión única, sino de proporcionar herramientas críticas para que cada alumno construya su propio juicio.",
+      "zh": "此非意在強加單一版本，而是提供批判性工具，讓每位學生得以建立自身判斷。"
+    },
+    {
+      "es": "Quien teme la enseñanza de la historia reciente revela, en realidad, su falta de fe en la madurez de las nuevas generaciones.",
+      "zh": "畏懼教授近代史者，實則暴露了自己對新世代成熟度的信心不足。"
+    },
+    {
+      "es": "Las heridas históricas no se cierran ocultándolas; se cierran nombrándolas y comprendiéndolas en toda su complejidad.",
+      "zh": "歷史創傷不會因被掩蓋而癒合，唯有被命名並理解其全部複雜性後，方能真正癒合。"
+    },
+    {
+      "es": "Sostengo, por tanto, que la pedagogía de la memoria debe combinar el rigor documental con la sensibilidad ética.",
+      "zh": "故本人主張，記憶教育應結合史料嚴謹性與倫理敏感度。"
+    },
+    {
+      "es": "El testimonio de los supervivientes, cuando aún es posible recogerlo, constituye un recurso de un valor incalculable.",
+      "zh": "倖存者的證言，在仍能蒐集之時，是無可估量的珍貴資源。"
+    },
+    {
+      "es": "Una vez se extingan esas voces, la responsabilidad recaerá íntegramente sobre los archivos y sobre quienes sepan interrogarlos.",
+      "zh": "一旦那些聲音消逝，責任將完全落於檔案，以及懂得向其發問的人身上。"
+    },
+    {
+      "es": "Conviene advertir que la memoria no equivale a la historia, aunque ambas mantengan un diálogo necesario y a veces tenso.",
+      "zh": "我們須警覺，記憶不等同於歷史，儘管兩者間維持著必要、有時亦緊張的對話。"
+    },
+    {
+      "es": "Mientras la historia aspira a la verificación, la memoria conserva la dimensión afectiva que la historiografía suele depurar.",
+      "zh": "歷史志在求證，記憶則保留歷史書寫往往加以淨化的情感層面。"
+    },
+    {
+      "es": "Por ello, la escuela ha de enseñar a habitar esa tensión, sin renunciar ni al rigor ni a la empatía.",
+      "zh": "因此，學校應教導學生如何安處於此種張力之中，既不放棄嚴謹，亦不捨棄同理。"
+    },
+    {
+      "es": "Permítanme insistir en que silenciar a las víctimas en nombre de una falsa reconciliación es prolongar la violencia simbólicamente.",
+      "zh": "請容本人再三強調，以虛假和解之名沉默受害者，等同於象徵性地延長暴力。"
+    },
+    {
+      "es": "La verdadera convivencia se edifica sobre el reconocimiento, no sobre el olvido pactado entre quienes ostentan el poder narrativo.",
+      "zh": "真正的共存建立於承認之上，而非建立於掌握敘事權者所協議的遺忘之上。"
+    },
+    {
+      "es": "Quisiera referirme también al papel del profesorado, demasiado a menudo abandonado a su suerte ante temas espinosos.",
+      "zh": "本人亦欲提及教師的角色，他們在面對棘手議題時，常被孤立無援地拋下。"
+    },
+    {
+      "es": "Sin formación específica ni respaldo institucional, ningún docente puede asumir solo el peso de estas conversaciones.",
+      "zh": "若缺乏專業培訓與機構支援，沒有任何教師能獨自承擔此類對話之重。"
+    },
+    {
+      "es": "Reclamo, en consecuencia, una inversión sostenida en programas de capacitación que aborden la didáctica de los pasados violentos.",
+      "zh": "因此，本人呼籲對處理暴力過往教學法之培訓方案進行持續性投資。"
+    },
+    {
+      "es": "Asimismo, los materiales didácticos han de elaborarse con la participación de historiadores, educadores y representantes de las comunidades afectadas.",
+      "zh": "教材的編製亦應由歷史學家、教育者及受影響社群代表共同參與。"
+    },
+    {
+      "es": "Cualquier intento de uniformizar el relato desde un único centro de poder resulta, además de injusto, pedagógicamente contraproducente.",
+      "zh": "任何企圖由單一權力中心統一敘事的作為，既不公正，在教學上亦適得其反。"
+    },
+    {
+      "es": "Confío en que este parlamento sabrá legislar atendiendo no a las urgencias electorales, sino a las necesidades formativas de largo aliento.",
+      "zh": "本人深信本議會將以長遠的教育養成需求，而非選舉的急切考量，作為立法依據。"
+    },
+    {
+      "es": "Termino recordándoles que educar en la memoria no es mirar atrás con nostalgia, sino preparar un futuro menos ciego a sus propios espejismos.",
+      "zh": "本人最後謹此提醒諸位：記憶教育並非懷舊地回望過去，而是為一個對自身幻象更不盲目的未來做準備。"
+    },
+    {
+      "es": "Antes de ceder la palabra, permítanme detenerme en algunas objeciones que con frecuencia se esgrimen contra esta propuesta.",
+      "zh": "於交出發言權之前，請容本人停留於若干常被舉以反駁此提案的異議。"
+    },
+    {
+      "es": "Se aduce, en primer lugar, que estos temas dividen a la sociedad y que la escuela debería preservar la cohesión social.",
+      "zh": "首先有人主張，此類議題撕裂社會，學校應維護社會凝聚力。"
+    },
+    {
+      "es": "Respondo que una cohesión fundada sobre el silencio es una cohesión frágil, condenada a quebrarse a la primera tensión seria.",
+      "zh": "本人回應道，建立於沉默之上的凝聚力是脆弱的，一遇嚴肅張力即難免崩裂。"
+    },
+    {
+      "es": "La cohesión verdadera nace de la deliberación compartida, no de la complicidad en la amnesia.",
+      "zh": "真正的凝聚力出自共同審議，而非對遺忘的合謀。"
+    },
+    {
+      "es": "Se objeta también que los alumnos son demasiado jóvenes para procesar contenidos tan duros.",
+      "zh": "亦有反駁稱學生過於年輕，無法消化如此沉重之內容。"
+    },
+    {
+      "es": "Tal argumento subestima sistemáticamente la capacidad infantil de comprender la injusticia, evidente en cualquier patio de recreo.",
+      "zh": "此論點系統性低估了兒童理解不公正之能力，此能力於任何校園遊樂場皆顯而易見。"
+    },
+    {
+      "es": "Lo que sí debe adecuarse es el lenguaje y el ritmo de la exposición, no la verdad de los hechos.",
+      "zh": "確需斟酌者，乃陳述之語言與節奏，而非事實之真相。"
+    },
+    {
+      "es": "Una tercera objeción apela a la supuesta neutralidad que la escuela debería mantener en asuntos polémicos.",
+      "zh": "第三項異議訴諸學校於爭議性議題上所應維持之所謂中立。"
+    },
+    {
+      "es": "Conviene recordar que la neutralidad ante el sufrimiento no es neutralidad: es complicidad disfrazada de prudencia.",
+      "zh": "我們應記得，面對苦難之中立並非中立，而是偽裝為審慎之共謀。"
+    },
+    {
+      "es": "Ningún educador serio enseñaría con neutralidad la esclavitud, el genocidio o la tortura: hay umbrales éticos irreductibles.",
+      "zh": "無嚴肅教育者會以中立方式教授奴隸制、種族滅絕或酷刑，存在不可化約之倫理門檻。"
+    },
+    {
+      "es": "Existe, finalmente, el temor a una instrumentalización política de la memoria, temor en parte legítimo.",
+      "zh": "最後存在對記憶政治工具化之畏懼，此畏懼於部分意義上具有正當性。"
+    },
+    {
+      "es": "La respuesta adecuada no es renunciar a la memoria, sino dotarla de protocolos rigurosos que la protejan de manipulaciones.",
+      "zh": "適切之回應並非放棄記憶，而是賦予其嚴謹規範以避免操弄。"
+    },
+    {
+      "es": "Tales protocolos incluyen la pluralidad de fuentes, el contraste documental y la apertura permanente a la revisión.",
+      "zh": "此類規範包含多元史料、文獻對照與恆常開放修正之態度。"
+    },
+    {
+      "es": "Permítanme cerrar con una imagen que ilustra cuanto he tratado de transmitir esta tarde.",
+      "zh": "請容本人以一意象為今日所欲傳達之一切作結。"
+    },
+    {
+      "es": "Imaginen un país donde los abuelos pudieron, por fin, contar lo que vivieron sin temor a que la escuela contradiga su testimonio.",
+      "zh": "請想像一國度，其中祖輩終得娓娓道出自身所經歷者，且無須畏懼學校將否認其證言。"
+    },
+    {
+      "es": "Imaginen aulas donde la incomodidad inicial deja paso a un compromiso ciudadano que ningún manual cívico podría inculcar mejor.",
+      "zh": "請想像那些教室，其中初始之不適讓位於一種任何公民教科書皆無法更佳灌輸之公民承擔。"
+    },
+    {
+      "es": "Esa es la apuesta: no formar súbditos que olvidan a conveniencia, sino ciudadanos que recuerdan con discernimiento.",
+      "zh": "此即我們之所選：非培育依便利而遺忘之臣民，而是養成具洞察力地記憶之公民。"
+    },
+    {
+      "es": "Les invito, señoras y señores diputados, a estar a la altura de la responsabilidad que la historia coloca en nuestras manos.",
+      "zh": "本人邀請諸位議員女士先生，無愧於歷史置於我等手中之責任。"
+    },
+    {
+      "es": "Sus votos hoy no decidirán solo un currículo, sino el grado de honestidad con que nuestra nación se mirará al espejo.",
+      "zh": "諸位今日之表決，不僅將決定一份課程，更將決定我國家照鏡時所秉持之誠實程度。"
+    },
+    {
+      "es": "Muchas gracias por su atención, y confío en que sabrán votar pensando en quienes aún no pueden votar por sí mismos.",
+      "zh": "感謝諸位之傾聽，本人深信諸位將為那些尚不能為自己投票之人著想而投下此票。"
+    },
+    {
+      "es": "Silenciar los episodios más oscuros del pasado no los borra: tan solo los condena a regresar deformados.",
+      "zh": "對過去最黑暗篇章的緘默並不能將其抹除，只會將它判處以扭曲的面貌捲土重來。"
+    },
+    {
+      "es": "Los testimonios de los supervivientes constituyen una fuente insustituible que el aula no puede ignorar.",
+      "zh": "倖存者的證言構成一種無可替代的資源，課堂無法對其視而不見。"
+    },
+    {
+      "es": "Enseñar a contrastar fuentes inmuniza a los jóvenes frente a las manipulaciones de la propaganda.",
+      "zh": "教導學生對照不同史料，能使年輕人對宣傳的操弄產生免疫力。"
+    },
+    {
+      "es": "Conmemorar a las víctimas sin examinar las causas estructurales convierte el recuerdo en un ritual hueco.",
+      "zh": "若只紀念受害者而不檢視結構性成因，便會讓記憶淪為空洞的儀式。"
+    },
+    {
+      "es": "Cada comunidad guarda silencios incómodos que la escuela tiene el deber de ayudar a verbalizar.",
+      "zh": "每個社群都藏有令人不安的緘默，而學校有責任協助將其訴諸言語。"
+    },
+    {
+      "es": "Un currículo valiente no rehúye la controversia, sino que la convierte en ocasión de pensamiento riguroso.",
+      "zh": "勇敢的課綱不迴避爭議，反而將其轉化為嚴謹思考的契機。"
+    },
+    {
+      "es": "La transmisión generacional del dolor exige tacto pedagógico, jamás la frialdad de un dato más.",
+      "zh": "痛苦的代際傳遞需要教學上的細膩，絕不能是又一筆數據般的冷漠。"
+    },
+    {
+      "es": "Quienes reclaman pasar página suelen ser, no por casualidad, los herederos de quienes escribieron las páginas más infames.",
+      "zh": "那些要求翻篇的人，往往並非偶然，正是書寫了最不堪篇章者的繼承人。"
+    },
+    {
+      "es": "Reconocer los errores propios fortalece a una nación, en lugar de debilitarla como temen los timoratos.",
+      "zh": "承認自身的過錯能使一個民族更為強健，而非如膽怯者所懼怕的那般削弱它。"
+    },
+    {
+      "es": "El objetivo último no es inculcar culpa, sino cultivar una ciudadanía vigilante y compasiva.",
+      "zh": "最終的目標不在於灌輸罪咎感，而在於培養一種警醒而富有同理心的公民。"
+    }
   ]
 }

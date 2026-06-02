@@ -1,55 +1,245 @@
 {
   "title": "Reunión de equipo semanal",
   "all": [
-    {"es": "Buenos días a todos, vamos a empezar la reunión semanal.", "zh": "大家早安，我們開始本週的週會。"},
-    {"es": "Hoy nos faltan dos personas, así que iremos rápido.", "zh": "今天有兩個人不在，所以我們快點進行。"},
-    {"es": "Primero, ¿cómo va el proyecto del cliente francés?", "zh": "首先，法國客戶的案子進度如何？"},
-    {"es": "Vamos bien, hemos terminado la primera fase ayer por la tarde.", "zh": "進度不錯，第一階段昨天下午完成了。"},
-    {"es": "Genial, ¿el cliente ya ha dado el visto bueno?", "zh": "太好了，客戶確認 OK 了嗎？"},
-    {"es": "Aún no, esperamos su respuesta antes del viernes.", "zh": "還沒，我們等他週五前回覆。"},
-    {"es": "Si no responde, escríbele un recordatorio amable.", "zh": "如果沒回，發封禮貌的提醒信給他。"},
-    {"es": "Entendido, lo preparo mañana por la mañana.", "zh": "了解，我明天早上就準備。"},
-    {"es": "Ahora vamos con el equipo de diseño, ¿qué tal vais?", "zh": "接著換設計團隊，你們進度怎麼樣？"},
-    {"es": "Hemos avanzado, pero estamos atascados con un detalle técnico.", "zh": "有進度，但卡在一個技術細節上。"},
-    {"es": "¿Qué problema hay exactamente, podéis explicarlo?", "zh": "確切的問題是什麼，可以說明一下嗎？"},
-    {"es": "La paleta de colores no se ve bien en pantallas oscuras.", "zh": "配色在深色螢幕上顯示不太好。"},
-    {"es": "¿Habéis hablado con desarrollo para buscar una solución?", "zh": "你們有跟開發部討論找解法嗎？"},
-    {"es": "Todavía no, pensábamos resolverlo internamente primero.", "zh": "還沒，我們想先內部處理看看。"},
-    {"es": "Mejor habla con ellos hoy, no perdamos más tiempo.", "zh": "今天就找他們談，別再拖時間了。"},
-    {"es": "Tienes razón, escribo a Javier después de esta reunión.", "zh": "你說得對，會後我就找哈維爾。"},
-    {"es": "Perfecto, así avanzamos más rápido todos juntos.", "zh": "太好了，這樣大家一起前進會比較快。"},
-    {"es": "Pasamos al equipo de ventas, ¿cómo cerramos el mes?", "zh": "換業務團隊，這個月收尾如何？"},
-    {"es": "Vamos a un noventa por ciento del objetivo trimestral.", "zh": "我們達到本季目標的百分之九十。"},
-    {"es": "Está bien, pero necesitamos un último empujón esta semana.", "zh": "還不錯，但這週需要最後衝刺一下。"},
-    {"es": "Tenemos tres propuestas grandes pendientes de firma.", "zh": "我們還有三份大型提案在等對方簽。"},
-    {"es": "Si firmamos dos, llegamos al objetivo sin problema.", "zh": "簽到兩份，目標就達標了。"},
-    {"es": "¿Quién va a hacer seguimiento de esas propuestas?", "zh": "誰負責追蹤這些提案？"},
-    {"es": "Yo me encargo de dos y Marta de la tercera.", "zh": "我負責兩份，瑪塔負責第三份。"},
-    {"es": "Genial, contad conmigo si necesitáis apoyo en las llamadas.", "zh": "好，需要我幫忙打電話就講。"},
-    {"es": "Gracias, jefe, eso siempre ayuda con clientes difíciles.", "zh": "謝謝老闆，這對難搞的客戶很有幫助。"},
-    {"es": "Hablemos ahora de las vacaciones de agosto, por favor.", "zh": "現在來討論一下八月的休假。"},
-    {"es": "Necesito que me digáis vuestras fechas antes del lunes.", "zh": "請大家在週一前告訴我休假日期。"},
-    {"es": "Recordad que solo dos personas pueden faltar a la vez.", "zh": "提醒一下，同時間最多只能兩個人請假。"},
-    {"es": "Coordinadlo entre vosotros para que no haya conflictos.", "zh": "你們自己協調好，避免衝突。"},
-    {"es": "Yo ya tengo billetes para la primera quincena.", "zh": "我前半個月的機票已經買了。"},
-    {"es": "Pues marca tus fechas en el calendario compartido hoy.", "zh": "那今天就在共用日曆標上你的日期。"},
-    {"es": "Hay otro tema importante, la nueva herramienta de gestión.", "zh": "還有一個重要議題，新的專案管理工具。"},
-    {"es": "Empezamos a usarla la semana que viene oficialmente.", "zh": "下週正式開始使用。"},
-    {"es": "Habrá una formación de dos horas el martes por la mañana.", "zh": "週二上午會有兩小時的訓練。"},
-    {"es": "¿Es obligatoria o voluntaria para todo el equipo?", "zh": "全員必參加還是自由參加？"},
-    {"es": "Obligatoria, por favor, todos debéis saber usarla.", "zh": "必參加，拜託，每個人都要會用。"},
-    {"es": "Vale, lo apunto en la agenda ahora mismo.", "zh": "好，我現在就記在行事曆。"},
-    {"es": "Una cosa más, recordad rellenar las horas semanales.", "zh": "還有一件事，記得填每週工時表。"},
-    {"es": "Algunos no las habéis metido las dos últimas semanas.", "zh": "有些人最近兩週都沒填。"},
-    {"es": "Lo siento, se me olvidó por completo, lo hago hoy.", "zh": "抱歉，我完全忘了，今天就補。"},
-    {"es": "Sin problema, pero intentemos cogerlo como rutina.", "zh": "沒關係，但希望大家養成習慣。"},
-    {"es": "¿Algún tema más que queráis comentar antes de cerrar?", "zh": "結束前還有什麼想討論的嗎？"},
-    {"es": "Yo quería proponer cambiar la hora de esta reunión.", "zh": "我想提議改一下週會的時間。"},
-    {"es": "¿A qué hora te vendría mejor en general?", "zh": "你整體覺得幾點比較好？"},
-    {"es": "Quizá los martes a las diez, en vez de los lunes.", "zh": "也許改成週二十點，不要週一。"},
-    {"es": "Lo pensamos y os digo algo por correo mañana.", "zh": "我考慮一下，明天用 email 回大家。"},
-    {"es": "Si no hay más asuntos, cerramos por hoy.", "zh": "沒有其他事的話，今天就到這。"},
-    {"es": "Gracias a todos por vuestro trabajo esta semana.", "zh": "謝謝大家這週的努力。"},
-    {"es": "Nos vemos el lunes con energías renovadas, buen finde.", "zh": "週一見，重新充滿能量，週末愉快。"}
+    {
+      "es": "Buenos días a todos, vamos a empezar la reunión semanal.",
+      "zh": "大家早安，我們開始本週的週會。"
+    },
+    {
+      "es": "Hoy nos faltan dos personas, así que iremos rápido.",
+      "zh": "今天有兩個人不在，所以我們快點進行。"
+    },
+    {
+      "es": "Primero, ¿cómo va el proyecto del cliente francés?",
+      "zh": "首先，法國客戶的案子進度如何？"
+    },
+    {
+      "es": "Vamos bien, hemos terminado la primera fase ayer por la tarde.",
+      "zh": "進度不錯，第一階段昨天下午完成了。"
+    },
+    {
+      "es": "Genial, ¿el cliente ya ha dado el visto bueno?",
+      "zh": "太好了，客戶確認 OK 了嗎？"
+    },
+    {
+      "es": "Aún no, esperamos su respuesta antes del viernes.",
+      "zh": "還沒，我們等他週五前回覆。"
+    },
+    {
+      "es": "Si no responde, escríbele un recordatorio amable.",
+      "zh": "如果沒回，發封禮貌的提醒信給他。"
+    },
+    {
+      "es": "Entendido, lo preparo mañana por la mañana.",
+      "zh": "了解，我明天早上就準備。"
+    },
+    {
+      "es": "Ahora vamos con el equipo de diseño, ¿qué tal vais?",
+      "zh": "接著換設計團隊，你們進度怎麼樣？"
+    },
+    {
+      "es": "Hemos avanzado, pero estamos atascados con un detalle técnico.",
+      "zh": "有進度，但卡在一個技術細節上。"
+    },
+    {
+      "es": "¿Qué problema hay exactamente, podéis explicarlo?",
+      "zh": "確切的問題是什麼，可以說明一下嗎？"
+    },
+    {
+      "es": "La paleta de colores no se ve bien en pantallas oscuras.",
+      "zh": "配色在深色螢幕上顯示不太好。"
+    },
+    {
+      "es": "¿Habéis hablado con desarrollo para buscar una solución?",
+      "zh": "你們有跟開發部討論找解法嗎？"
+    },
+    {
+      "es": "Todavía no, pensábamos resolverlo internamente primero.",
+      "zh": "還沒，我們想先內部處理看看。"
+    },
+    {
+      "es": "Mejor habla con ellos hoy, no perdamos más tiempo.",
+      "zh": "今天就找他們談，別再拖時間了。"
+    },
+    {
+      "es": "Tienes razón, escribo a Javier después de esta reunión.",
+      "zh": "你說得對，會後我就找哈維爾。"
+    },
+    {
+      "es": "Perfecto, así avanzamos más rápido todos juntos.",
+      "zh": "太好了，這樣大家一起前進會比較快。"
+    },
+    {
+      "es": "Pasamos al equipo de ventas, ¿cómo cerramos el mes?",
+      "zh": "換業務團隊，這個月收尾如何？"
+    },
+    {
+      "es": "Vamos a un noventa por ciento del objetivo trimestral.",
+      "zh": "我們達到本季目標的百分之九十。"
+    },
+    {
+      "es": "Está bien, pero necesitamos un último empujón esta semana.",
+      "zh": "還不錯，但這週需要最後衝刺一下。"
+    },
+    {
+      "es": "Tenemos tres propuestas grandes pendientes de firma.",
+      "zh": "我們還有三份大型提案在等對方簽。"
+    },
+    {
+      "es": "Si firmamos dos, llegamos al objetivo sin problema.",
+      "zh": "簽到兩份，目標就達標了。"
+    },
+    {
+      "es": "¿Quién va a hacer seguimiento de esas propuestas?",
+      "zh": "誰負責追蹤這些提案？"
+    },
+    {
+      "es": "Yo me encargo de dos y Marta de la tercera.",
+      "zh": "我負責兩份，瑪塔負責第三份。"
+    },
+    {
+      "es": "Genial, contad conmigo si necesitáis apoyo en las llamadas.",
+      "zh": "好，需要我幫忙打電話就講。"
+    },
+    {
+      "es": "Gracias, jefe, eso siempre ayuda con clientes difíciles.",
+      "zh": "謝謝老闆，這對難搞的客戶很有幫助。"
+    },
+    {
+      "es": "Hablemos ahora de las vacaciones de agosto, por favor.",
+      "zh": "現在來討論一下八月的休假。"
+    },
+    {
+      "es": "Necesito que me digáis vuestras fechas antes del lunes.",
+      "zh": "請大家在週一前告訴我休假日期。"
+    },
+    {
+      "es": "Recordad que solo dos personas pueden faltar a la vez.",
+      "zh": "提醒一下，同時間最多只能兩個人請假。"
+    },
+    {
+      "es": "Coordinadlo entre vosotros para que no haya conflictos.",
+      "zh": "你們自己協調好，避免衝突。"
+    },
+    {
+      "es": "Yo ya tengo billetes para la primera quincena.",
+      "zh": "我前半個月的機票已經買了。"
+    },
+    {
+      "es": "Pues marca tus fechas en el calendario compartido hoy.",
+      "zh": "那今天就在共用日曆標上你的日期。"
+    },
+    {
+      "es": "Hay otro tema importante, la nueva herramienta de gestión.",
+      "zh": "還有一個重要議題，新的專案管理工具。"
+    },
+    {
+      "es": "Empezamos a usarla la semana que viene oficialmente.",
+      "zh": "下週正式開始使用。"
+    },
+    {
+      "es": "Habrá una formación de dos horas el martes por la mañana.",
+      "zh": "週二上午會有兩小時的訓練。"
+    },
+    {
+      "es": "¿Es obligatoria o voluntaria para todo el equipo?",
+      "zh": "全員必參加還是自由參加？"
+    },
+    {
+      "es": "Obligatoria, por favor, todos debéis saber usarla.",
+      "zh": "必參加，拜託，每個人都要會用。"
+    },
+    {
+      "es": "Vale, lo apunto en la agenda ahora mismo.",
+      "zh": "好，我現在就記在行事曆。"
+    },
+    {
+      "es": "Una cosa más, recordad rellenar las horas semanales.",
+      "zh": "還有一件事，記得填每週工時表。"
+    },
+    {
+      "es": "Algunos no las habéis metido las dos últimas semanas.",
+      "zh": "有些人最近兩週都沒填。"
+    },
+    {
+      "es": "Lo siento, se me olvidó por completo, lo hago hoy.",
+      "zh": "抱歉，我完全忘了，今天就補。"
+    },
+    {
+      "es": "Sin problema, pero intentemos cogerlo como rutina.",
+      "zh": "沒關係，但希望大家養成習慣。"
+    },
+    {
+      "es": "¿Algún tema más que queráis comentar antes de cerrar?",
+      "zh": "結束前還有什麼想討論的嗎？"
+    },
+    {
+      "es": "Yo quería proponer cambiar la hora de esta reunión.",
+      "zh": "我想提議改一下週會的時間。"
+    },
+    {
+      "es": "¿A qué hora te vendría mejor en general?",
+      "zh": "你整體覺得幾點比較好？"
+    },
+    {
+      "es": "Quizá los martes a las diez, en vez de los lunes.",
+      "zh": "也許改成週二十點，不要週一。"
+    },
+    {
+      "es": "Lo pensamos y os digo algo por correo mañana.",
+      "zh": "我考慮一下，明天用 email 回大家。"
+    },
+    {
+      "es": "Si no hay más asuntos, cerramos por hoy.",
+      "zh": "沒有其他事的話，今天就到這。"
+    },
+    {
+      "es": "Gracias a todos por vuestro trabajo esta semana.",
+      "zh": "謝謝大家這週的努力。"
+    },
+    {
+      "es": "Nos vemos el lunes con energías renovadas, buen finde.",
+      "zh": "週一見，重新充滿能量，週末愉快。"
+    },
+    {
+      "es": "Repasemos primero las tareas pendientes de la semana pasada.",
+      "zh": "我們先回顧上週還沒完成的工作。"
+    },
+    {
+      "es": "El departamento de ventas superó el objetivo mensual.",
+      "zh": "業務部門超越了當月的目標。"
+    },
+    {
+      "es": "Necesitamos decidir quién se encarga del nuevo informe.",
+      "zh": "我們需要決定由誰負責新的報告。"
+    },
+    {
+      "es": "Propongo adelantar la entrega al viernes por la mañana.",
+      "zh": "我提議把交件時間提前到週五早上。"
+    },
+    {
+      "es": "¿Alguien tiene alguna objeción sobre este calendario?",
+      "zh": "有人對這個時程安排有意見嗎？"
+    },
+    {
+      "es": "Apuntaré todos los acuerdos en el acta de la reunión.",
+      "zh": "我會把所有決議記錄在會議紀錄裡。"
+    },
+    {
+      "es": "El presupuesto del trimestre se ha ajustado a la baja.",
+      "zh": "本季的預算已經往下調整了。"
+    },
+    {
+      "es": "Dejemos los temas menos urgentes para la próxima sesión.",
+      "zh": "比較不急的議題就留到下次會議再談。"
+    },
+    {
+      "es": "Quiero felicitar al grupo por el esfuerzo de estos días.",
+      "zh": "我想表揚大家這幾天的付出。"
+    },
+    {
+      "es": "Si no hay más comentarios, damos por cerrada la reunión.",
+      "zh": "如果沒有其他意見，會議就到此結束。"
+    }
   ]
 }

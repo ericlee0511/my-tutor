@@ -1,45 +1,205 @@
 {
   "title": "En la farmacia",
   "all": [
-    { "es": "Buenos días, ¿en qué puedo ayudarle?", "zh": "早安，請問需要什麼幫忙？" },
-    { "es": "Hola, no me siento muy bien hoy.", "zh": "你好，我今天覺得不太舒服。" },
-    { "es": "¿Qué le pasa exactamente?", "zh": "你具體有什麼症狀？" },
-    { "es": "Me duele mucho la cabeza.", "zh": "我的頭很痛。" },
-    { "es": "¿Tiene también fiebre?", "zh": "你有發燒嗎？" },
-    { "es": "Sí, un poco. Y también me duele la garganta.", "zh": "有一點。喉嚨也痛。" },
-    { "es": "Parece un resfriado común.", "zh": "聽起來像是普通感冒。" },
-    { "es": "Le recomiendo este jarabe y estas pastillas.", "zh": "我建議你用這個糖漿和這些藥片。" },
-    { "es": "¿Cómo debo tomar las pastillas?", "zh": "這些藥片要怎麼吃？" },
-    { "es": "Una pastilla cada ocho horas, después de comer.", "zh": "每八小時一顆，飯後服用。" },
-    { "es": "¿Y el jarabe?", "zh": "那糖漿呢？" },
-    { "es": "Una cucharada por la mañana y otra por la noche.", "zh": "早上一匙，晚上一匙。" },
-    { "es": "¿Necesito una receta médica?", "zh": "我需要醫生處方嗎？" },
-    { "es": "No, son medicamentos sin receta.", "zh": "不用，這些是不需處方的藥。" },
-    { "es": "¿Cuánto cuesta todo?", "zh": "全部多少錢？" },
-    { "es": "Son doce euros con cincuenta.", "zh": "十二點五歐元。" },
-    { "es": "Aquí tiene. ¿Algo más?", "zh": "在這裡。還需要別的嗎？" },
-    { "es": "También necesito unas tiritas.", "zh": "我還需要一些 OK 繃。" },
-    { "es": "Aquí están. Que se mejore pronto.", "zh": "在這裡。祝你早日康復。" },
-    { "es": "Muchas gracias, adiós.", "zh": "非常感謝，再見。" },
-    { "es": "Disculpe, una cosa más.", "zh": "不好意思，還有一件事。" },
-    { "es": "¿Tiene algo para la tos?", "zh": "你們有止咳的藥嗎？" },
-    { "es": "Sí, este jarabe es muy bueno para la tos seca.", "zh": "有，這個糖漿對乾咳很有效。" },
-    { "es": "¿Puedo tomarlo con las otras pastillas?", "zh": "可以跟其他藥片一起吃嗎？" },
-    { "es": "Sí, no hay problema.", "zh": "可以，沒問題。" },
-    { "es": "¿También venden mascarillas?", "zh": "你們也賣口罩嗎？" },
-    { "es": "Sí, tenemos paquetes de diez y de veinte.", "zh": "有，我們有十入裝和二十入裝。" },
-    { "es": "Quiero un paquete de diez, por favor.", "zh": "我要一包十入的，麻煩你。" },
-    { "es": "¿Necesita un termómetro también?", "zh": "你也需要溫度計嗎？" },
-    { "es": "No, en casa ya tengo uno.", "zh": "不用，我家裡已經有一支了。" },
-    { "es": "Recuerde beber mucha agua y descansar.", "zh": "記得多喝水、多休息。" },
-    { "es": "Sí, voy a quedarme en cama todo el día.", "zh": "好，我今天會一整天躺在床上。" },
-    { "es": "Si no mejora en tres días, vaya al médico.", "zh": "三天內如果沒好轉，請去看醫生。" },
-    { "es": "De acuerdo, gracias por el consejo.", "zh": "好的，謝謝你的建議。" },
-    { "es": "¿Acepta tarjeta o paga en efectivo?", "zh": "你刷卡還是付現？" },
-    { "es": "Pago con tarjeta, por favor.", "zh": "我刷卡，麻煩你。" },
-    { "es": "Aquí tiene el recibo.", "zh": "這是您的收據。" },
-    { "es": "¿La farmacia abre los domingos?", "zh": "藥局星期天有開嗎？" },
-    { "es": "Solo por la mañana, hasta las dos.", "zh": "只開上午，到兩點。" },
-    { "es": "Perfecto, muchas gracias por todo.", "zh": "好極了，非常感謝你的一切。" }
+    {
+      "es": "Buenos días, ¿en qué puedo ayudarle?",
+      "zh": "早安，請問需要什麼幫忙？"
+    },
+    {
+      "es": "Hola, no me siento muy bien hoy.",
+      "zh": "你好，我今天覺得不太舒服。"
+    },
+    {
+      "es": "¿Qué le pasa exactamente?",
+      "zh": "你具體有什麼症狀？"
+    },
+    {
+      "es": "Me duele mucho la cabeza.",
+      "zh": "我的頭很痛。"
+    },
+    {
+      "es": "¿Tiene también fiebre?",
+      "zh": "你有發燒嗎？"
+    },
+    {
+      "es": "Sí, un poco. Y también me duele la garganta.",
+      "zh": "有一點。喉嚨也痛。"
+    },
+    {
+      "es": "Parece un resfriado común.",
+      "zh": "聽起來像是普通感冒。"
+    },
+    {
+      "es": "Le recomiendo este jarabe y estas pastillas.",
+      "zh": "我建議你用這個糖漿和這些藥片。"
+    },
+    {
+      "es": "¿Cómo debo tomar las pastillas?",
+      "zh": "這些藥片要怎麼吃？"
+    },
+    {
+      "es": "Una pastilla cada ocho horas, después de comer.",
+      "zh": "每八小時一顆，飯後服用。"
+    },
+    {
+      "es": "¿Y el jarabe?",
+      "zh": "那糖漿呢？"
+    },
+    {
+      "es": "Una cucharada por la mañana y otra por la noche.",
+      "zh": "早上一匙，晚上一匙。"
+    },
+    {
+      "es": "¿Necesito una receta médica?",
+      "zh": "我需要醫生處方嗎？"
+    },
+    {
+      "es": "No, son medicamentos sin receta.",
+      "zh": "不用，這些是不需處方的藥。"
+    },
+    {
+      "es": "¿Cuánto cuesta todo?",
+      "zh": "全部多少錢？"
+    },
+    {
+      "es": "Son doce euros con cincuenta.",
+      "zh": "十二點五歐元。"
+    },
+    {
+      "es": "Aquí tiene. ¿Algo más?",
+      "zh": "在這裡。還需要別的嗎？"
+    },
+    {
+      "es": "También necesito unas tiritas.",
+      "zh": "我還需要一些 OK 繃。"
+    },
+    {
+      "es": "Aquí están. Que se mejore pronto.",
+      "zh": "在這裡。祝你早日康復。"
+    },
+    {
+      "es": "Muchas gracias, adiós.",
+      "zh": "非常感謝，再見。"
+    },
+    {
+      "es": "Disculpe, una cosa más.",
+      "zh": "不好意思，還有一件事。"
+    },
+    {
+      "es": "¿Tiene algo para la tos?",
+      "zh": "你們有止咳的藥嗎？"
+    },
+    {
+      "es": "Sí, este jarabe es muy bueno para la tos seca.",
+      "zh": "有，這個糖漿對乾咳很有效。"
+    },
+    {
+      "es": "¿Puedo tomarlo con las otras pastillas?",
+      "zh": "可以跟其他藥片一起吃嗎？"
+    },
+    {
+      "es": "Sí, no hay problema.",
+      "zh": "可以，沒問題。"
+    },
+    {
+      "es": "¿También venden mascarillas?",
+      "zh": "你們也賣口罩嗎？"
+    },
+    {
+      "es": "Sí, tenemos paquetes de diez y de veinte.",
+      "zh": "有，我們有十入裝和二十入裝。"
+    },
+    {
+      "es": "Quiero un paquete de diez, por favor.",
+      "zh": "我要一包十入的，麻煩你。"
+    },
+    {
+      "es": "¿Necesita un termómetro también?",
+      "zh": "你也需要溫度計嗎？"
+    },
+    {
+      "es": "No, en casa ya tengo uno.",
+      "zh": "不用，我家裡已經有一支了。"
+    },
+    {
+      "es": "Recuerde beber mucha agua y descansar.",
+      "zh": "記得多喝水、多休息。"
+    },
+    {
+      "es": "Sí, voy a quedarme en cama todo el día.",
+      "zh": "好，我今天會一整天躺在床上。"
+    },
+    {
+      "es": "Si no mejora en tres días, vaya al médico.",
+      "zh": "三天內如果沒好轉，請去看醫生。"
+    },
+    {
+      "es": "De acuerdo, gracias por el consejo.",
+      "zh": "好的，謝謝你的建議。"
+    },
+    {
+      "es": "¿Acepta tarjeta o paga en efectivo?",
+      "zh": "你刷卡還是付現？"
+    },
+    {
+      "es": "Pago con tarjeta, por favor.",
+      "zh": "我刷卡，麻煩你。"
+    },
+    {
+      "es": "Aquí tiene el recibo.",
+      "zh": "這是您的收據。"
+    },
+    {
+      "es": "¿La farmacia abre los domingos?",
+      "zh": "藥局星期天有開嗎？"
+    },
+    {
+      "es": "Solo por la mañana, hasta las dos.",
+      "zh": "只開上午，到兩點。"
+    },
+    {
+      "es": "Perfecto, muchas gracias por todo.",
+      "zh": "好極了，非常感謝你的一切。"
+    },
+    {
+      "es": "¿Tiene algo para el dolor de garganta sin receta?",
+      "zh": "有沒有不用處方就能買的喉嚨痛藥？"
+    },
+    {
+      "es": "Llevo tres días con fiebre y mucha tos.",
+      "zh": "我已經發燒並咳得很厲害三天了。"
+    },
+    {
+      "es": "¿Cuántas pastillas debo tomar al día?",
+      "zh": "我一天該吃幾顆藥丸？"
+    },
+    {
+      "es": "¿Este jarabe produce somnolencia?",
+      "zh": "這個糖漿會讓人想睡嗎？"
+    },
+    {
+      "es": "Necesito una crema para las picaduras de mosquito.",
+      "zh": "我需要一條治蚊子叮咬的藥膏。"
+    },
+    {
+      "es": "¿Me puede tomar la tensión aquí mismo?",
+      "zh": "可以在這裡幫我量血壓嗎？"
+    },
+    {
+      "es": "Quisiera comprar un termómetro digital.",
+      "zh": "我想買一支電子體溫計。"
+    },
+    {
+      "es": "¿Tiene vitaminas para reforzar las defensas?",
+      "zh": "有沒有增強免疫力的維他命？"
+    },
+    {
+      "es": "¿Debo tomar este medicamento antes o después de comer?",
+      "zh": "這個藥我該飯前還是飯後服用？"
+    },
+    {
+      "es": "¿Hasta qué hora está abierta la farmacia de guardia?",
+      "zh": "值班藥局開到幾點？"
+    }
   ]
 }

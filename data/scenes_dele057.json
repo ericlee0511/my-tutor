@@ -1,55 +1,245 @@
 {
   "title": "Buscando un café para trabajar",
   "all": [
-    {"es": "Necesito un sitio tranquilo para acabar el informe esta tarde.", "zh": "我下午需要一個安靜的地方完成報告。"},
-    {"es": "¿Por qué no pruebas la cafetería nueva que abrieron en la calle Goya?", "zh": "你怎麼不試試 Goya 街新開那家咖啡店？"},
-    {"es": "¿Tienen wifi decente, sabes si va bien?", "zh": "他們 wifi 還可以嗎，你知道穩不穩？"},
-    {"es": "Mi compañera estuvo allí ayer y dice que volaba.", "zh": "我同事昨天去，說超快。"},
-    {"es": "Pues voy para allá, ¿enchufes había suficientes?", "zh": "那我過去，插座夠多嗎？"},
-    {"es": "Eso ya no estoy seguro, pregunta cuando entres.", "zh": "這我不太確定，進去問問看。"},
-    {"es": "Vale, te cuento cuando vuelva, gracias por el dato.", "zh": "好，回來再告訴你，謝謝告知。"},
-    {"es": "Hola buenas, ¿una mesa para uno con enchufe cerca?", "zh": "您好，一位有靠近插座的桌子嗎？"},
-    {"es": "Justo te queda la del rincón, junto a la ventana.", "zh": "正好剩窗邊角落那張。"},
-    {"es": "Perfecta, esa misma me viene de maravilla.", "zh": "完美，這張對我來說再好不過。"},
-    {"es": "¿Vas a tomar algo o solo trabajar?", "zh": "你要點東西還是只工作？"},
-    {"es": "Para empezar un café con leche grande, y luego ya iré pidiendo.", "zh": "先來杯大杯拿鐵，之後再陸續點。"},
-    {"es": "¿Algo para acompañar, un cruasán o tostada?", "zh": "要搭點什麼嗎，可頌或烤吐司？"},
-    {"es": "Una tostada de tomate, gracias.", "zh": "一份番茄烤吐司，謝謝。"},
-    {"es": "Marchando, te lo llevo a la mesa en unos minutos.", "zh": "馬上來，幾分鐘後送過去。"},
-    {"es": "Por cierto, ¿la contraseña del wifi cuál es?", "zh": "對了，wifi 密碼是什麼？"},
-    {"es": "Está apuntada en el ticket de la consumición, abajo.", "zh": "寫在消費單下方。"},
-    {"es": "Genial, voy abriendo el portátil mientras lo traen.", "zh": "讚，等送來的時候我先開筆電。"},
-    {"es": "La conexión va muy rápida, esto me sirve.", "zh": "網速很快，這裡可用。"},
-    {"es": "El ambiente es agradable, música suave de fondo.", "zh": "氛圍很舒服，背景音樂很輕。"},
-    {"es": "Aquí tienes el café y la tostada, que aproveche.", "zh": "咖啡跟吐司給你，請慢用。"},
-    {"es": "Huele genial, ¿el café es de tueste natural?", "zh": "好香，咖啡是天然烘焙的嗎？"},
-    {"es": "Sí, lo torramos nosotros mismos cada semana.", "zh": "對，我們每週自己烘。"},
-    {"es": "Se nota la diferencia, está muy bueno.", "zh": "差別很明顯，真的很好喝。"},
-    {"es": "Si necesitas algo, levanta la mano y vengo enseguida.", "zh": "需要什麼舉手，我馬上來。"},
-    {"es": "¿Hasta qué hora tenéis abierto hoy?", "zh": "你們今天開到幾點？"},
-    {"es": "Hasta las nueve, así que tienes tiempo de sobra.", "zh": "到九點，所以你時間綽綽有餘。"},
-    {"es": "Perfecto, así no tengo que ir mirando el reloj.", "zh": "完美，這樣我就不用一直看錶。"},
-    {"es": "Disculpa, ¿esta mesa de al lado está libre, puedo sentarme?", "zh": "不好意思，旁邊這桌空著嗎，可以坐嗎？"},
-    {"es": "Sí, claro, siéntate tranquilamente.", "zh": "可以啊，請坐。"},
-    {"es": "¿También vienes a trabajar?", "zh": "你也是來工作的嗎？"},
-    {"es": "Sí, soy diseñadora freelance y odio trabajar sola en casa.", "zh": "對，我是自由接案設計師，最討厭一個人在家工作。"},
-    {"es": "Te entiendo, en casa me distraigo con cualquier cosa.", "zh": "我懂，在家什麼都會分心。"},
-    {"es": "Y la cafetera de casa no hace café como este.", "zh": "家裡咖啡機也煮不出這種咖啡。"},
-    {"es": "Cierto, además aquí oír murmullo de gente me concentra.", "zh": "真的，而且這裡有人聲背景反而讓我專心。"},
-    {"es": "¿Vienes mucho por aquí?", "zh": "你常來嗎？"},
-    {"es": "Es la primera vez, me lo recomendó una compañera.", "zh": "第一次來，同事推薦的。"},
-    {"es": "Llevan abiertos apenas un mes y ya tienen clientela fija.", "zh": "他們才開一個月就有固定客了。"},
-    {"es": "Se nota que cuidan los detalles, mira hasta las tazas.", "zh": "看得出他們很注重細節，連杯子都講究。"},
-    {"es": "Y los dueños son una pareja jovencísima muy maja.", "zh": "老闆是一對非常和善的小情侶。"},
-    {"es": "Voy a pedir otro café, ¿quieres que te traiga algo?", "zh": "我要再點一杯咖啡，要不要幫你帶什麼？"},
-    {"es": "Si vas, tráeme un té verde, te lo agradezco.", "zh": "如果你要去，幫我帶杯綠茶，謝謝。"},
-    {"es": "Marchando, te dejo dinero o te lo paso luego al final.", "zh": "馬上去，我先給你錢還是結束一起算？"},
-    {"es": "Al final lo arreglamos, no te preocupes.", "zh": "結束再算就好，別擔心。"},
-    {"es": "Me ha cundido un montón esta tarde aquí.", "zh": "今天下午在這裡進度超多。"},
-    {"es": "Ya casi he terminado yo también el proyecto que tenía.", "zh": "我手上的案子也快做完了。"},
-    {"es": "Habrá que volver mañana, esto se ha convertido en mi oficina.", "zh": "明天還要再來，這裡變我辦公室了。"},
-    {"es": "Yo igual, además si seguimos coincidiendo, podemos charlar.", "zh": "我也是，如果我們繼續遇到，還能聊天。"},
-    {"es": "Pues hasta mañana entonces, te apunto en mi agenda.", "zh": "那明天見囉，我記行事曆。"},
-    {"es": "Hasta mañana, suerte con lo que te queda por acabar.", "zh": "明天見，剩下的工作加油。"}
+    {
+      "es": "Necesito un sitio tranquilo para acabar el informe esta tarde.",
+      "zh": "我下午需要一個安靜的地方完成報告。"
+    },
+    {
+      "es": "¿Por qué no pruebas la cafetería nueva que abrieron en la calle Goya?",
+      "zh": "你怎麼不試試 Goya 街新開那家咖啡店？"
+    },
+    {
+      "es": "¿Tienen wifi decente, sabes si va bien?",
+      "zh": "他們 wifi 還可以嗎，你知道穩不穩？"
+    },
+    {
+      "es": "Mi compañera estuvo allí ayer y dice que volaba.",
+      "zh": "我同事昨天去，說超快。"
+    },
+    {
+      "es": "Pues voy para allá, ¿enchufes había suficientes?",
+      "zh": "那我過去，插座夠多嗎？"
+    },
+    {
+      "es": "Eso ya no estoy seguro, pregunta cuando entres.",
+      "zh": "這我不太確定，進去問問看。"
+    },
+    {
+      "es": "Vale, te cuento cuando vuelva, gracias por el dato.",
+      "zh": "好，回來再告訴你，謝謝告知。"
+    },
+    {
+      "es": "Hola buenas, ¿una mesa para uno con enchufe cerca?",
+      "zh": "您好，一位有靠近插座的桌子嗎？"
+    },
+    {
+      "es": "Justo te queda la del rincón, junto a la ventana.",
+      "zh": "正好剩窗邊角落那張。"
+    },
+    {
+      "es": "Perfecta, esa misma me viene de maravilla.",
+      "zh": "完美，這張對我來說再好不過。"
+    },
+    {
+      "es": "¿Vas a tomar algo o solo trabajar?",
+      "zh": "你要點東西還是只工作？"
+    },
+    {
+      "es": "Para empezar un café con leche grande, y luego ya iré pidiendo.",
+      "zh": "先來杯大杯拿鐵，之後再陸續點。"
+    },
+    {
+      "es": "¿Algo para acompañar, un cruasán o tostada?",
+      "zh": "要搭點什麼嗎，可頌或烤吐司？"
+    },
+    {
+      "es": "Una tostada de tomate, gracias.",
+      "zh": "一份番茄烤吐司，謝謝。"
+    },
+    {
+      "es": "Marchando, te lo llevo a la mesa en unos minutos.",
+      "zh": "馬上來，幾分鐘後送過去。"
+    },
+    {
+      "es": "Por cierto, ¿la contraseña del wifi cuál es?",
+      "zh": "對了，wifi 密碼是什麼？"
+    },
+    {
+      "es": "Está apuntada en el ticket de la consumición, abajo.",
+      "zh": "寫在消費單下方。"
+    },
+    {
+      "es": "Genial, voy abriendo el portátil mientras lo traen.",
+      "zh": "讚，等送來的時候我先開筆電。"
+    },
+    {
+      "es": "La conexión va muy rápida, esto me sirve.",
+      "zh": "網速很快，這裡可用。"
+    },
+    {
+      "es": "El ambiente es agradable, música suave de fondo.",
+      "zh": "氛圍很舒服，背景音樂很輕。"
+    },
+    {
+      "es": "Aquí tienes el café y la tostada, que aproveche.",
+      "zh": "咖啡跟吐司給你，請慢用。"
+    },
+    {
+      "es": "Huele genial, ¿el café es de tueste natural?",
+      "zh": "好香，咖啡是天然烘焙的嗎？"
+    },
+    {
+      "es": "Sí, lo torramos nosotros mismos cada semana.",
+      "zh": "對，我們每週自己烘。"
+    },
+    {
+      "es": "Se nota la diferencia, está muy bueno.",
+      "zh": "差別很明顯，真的很好喝。"
+    },
+    {
+      "es": "Si necesitas algo, levanta la mano y vengo enseguida.",
+      "zh": "需要什麼舉手，我馬上來。"
+    },
+    {
+      "es": "¿Hasta qué hora tenéis abierto hoy?",
+      "zh": "你們今天開到幾點？"
+    },
+    {
+      "es": "Hasta las nueve, así que tienes tiempo de sobra.",
+      "zh": "到九點，所以你時間綽綽有餘。"
+    },
+    {
+      "es": "Perfecto, así no tengo que ir mirando el reloj.",
+      "zh": "完美，這樣我就不用一直看錶。"
+    },
+    {
+      "es": "Disculpa, ¿esta mesa de al lado está libre, puedo sentarme?",
+      "zh": "不好意思，旁邊這桌空著嗎，可以坐嗎？"
+    },
+    {
+      "es": "Sí, claro, siéntate tranquilamente.",
+      "zh": "可以啊，請坐。"
+    },
+    {
+      "es": "¿También vienes a trabajar?",
+      "zh": "你也是來工作的嗎？"
+    },
+    {
+      "es": "Sí, soy diseñadora freelance y odio trabajar sola en casa.",
+      "zh": "對，我是自由接案設計師，最討厭一個人在家工作。"
+    },
+    {
+      "es": "Te entiendo, en casa me distraigo con cualquier cosa.",
+      "zh": "我懂，在家什麼都會分心。"
+    },
+    {
+      "es": "Y la cafetera de casa no hace café como este.",
+      "zh": "家裡咖啡機也煮不出這種咖啡。"
+    },
+    {
+      "es": "Cierto, además aquí oír murmullo de gente me concentra.",
+      "zh": "真的，而且這裡有人聲背景反而讓我專心。"
+    },
+    {
+      "es": "¿Vienes mucho por aquí?",
+      "zh": "你常來嗎？"
+    },
+    {
+      "es": "Es la primera vez, me lo recomendó una compañera.",
+      "zh": "第一次來，同事推薦的。"
+    },
+    {
+      "es": "Llevan abiertos apenas un mes y ya tienen clientela fija.",
+      "zh": "他們才開一個月就有固定客了。"
+    },
+    {
+      "es": "Se nota que cuidan los detalles, mira hasta las tazas.",
+      "zh": "看得出他們很注重細節，連杯子都講究。"
+    },
+    {
+      "es": "Y los dueños son una pareja jovencísima muy maja.",
+      "zh": "老闆是一對非常和善的小情侶。"
+    },
+    {
+      "es": "Voy a pedir otro café, ¿quieres que te traiga algo?",
+      "zh": "我要再點一杯咖啡，要不要幫你帶什麼？"
+    },
+    {
+      "es": "Si vas, tráeme un té verde, te lo agradezco.",
+      "zh": "如果你要去，幫我帶杯綠茶，謝謝。"
+    },
+    {
+      "es": "Marchando, te dejo dinero o te lo paso luego al final.",
+      "zh": "馬上去，我先給你錢還是結束一起算？"
+    },
+    {
+      "es": "Al final lo arreglamos, no te preocupes.",
+      "zh": "結束再算就好，別擔心。"
+    },
+    {
+      "es": "Me ha cundido un montón esta tarde aquí.",
+      "zh": "今天下午在這裡進度超多。"
+    },
+    {
+      "es": "Ya casi he terminado yo también el proyecto que tenía.",
+      "zh": "我手上的案子也快做完了。"
+    },
+    {
+      "es": "Habrá que volver mañana, esto se ha convertido en mi oficina.",
+      "zh": "明天還要再來，這裡變我辦公室了。"
+    },
+    {
+      "es": "Yo igual, además si seguimos coincidiendo, podemos charlar.",
+      "zh": "我也是，如果我們繼續遇到，還能聊天。"
+    },
+    {
+      "es": "Pues hasta mañana entonces, te apunto en mi agenda.",
+      "zh": "那明天見囉，我記行事曆。"
+    },
+    {
+      "es": "Hasta mañana, suerte con lo que te queda por acabar.",
+      "zh": "明天見，剩下的工作加油。"
+    },
+    {
+      "es": "Busco una mesa cerca de un enchufe para cargar el portátil.",
+      "zh": "我要找一張靠近插座的桌子，好幫筆電充電。"
+    },
+    {
+      "es": "Si pones música clásica de fondo te concentras mucho mejor.",
+      "zh": "如果你放古典樂當背景音樂，會更容易專心。"
+    },
+    {
+      "es": "Allí la luz natural entra por la mañana y se trabaja a gusto.",
+      "zh": "那裡早上有自然光照進來，工作起來很舒服。"
+    },
+    {
+      "es": "Pide algo de vez en cuando para que no te miren mal.",
+      "zh": "偶爾點點東西，免得被人家白眼。"
+    },
+    {
+      "es": "Llévate los auriculares por si la sala se llena de gente.",
+      "zh": "帶上耳機，以免店裡擠滿了人。"
+    },
+    {
+      "es": "El rincón del fondo suele quedar libre a media tarde.",
+      "zh": "後面那個角落通常下午過半時會空出來。"
+    },
+    {
+      "es": "Reservan una zona de estudio para los que vienen a teletrabajar.",
+      "zh": "他們保留了一個讀書區給來遠端工作的人。"
+    },
+    {
+      "es": "Aquí cobran por horas, pero el café entra en el precio.",
+      "zh": "這裡按小時收費，不過咖啡含在價格裡。"
+    },
+    {
+      "es": "Apaga las notificaciones del teléfono para rendir de verdad.",
+      "zh": "把手機通知關掉，才能真正有效率。"
+    },
+    {
+      "es": "En cuanto entregue el informe, me premio con un buen trozo de bizcocho.",
+      "zh": "等我把報告交出去，就用一大塊蛋糕犒賞自己。"
+    }
   ]
 }

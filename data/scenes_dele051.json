@@ -1,55 +1,245 @@
 {
   "title": "Cena en familia un domingo",
   "all": [
-    {"es": "Mamá, ¿a qué hora vienen los abuelos hoy a casa?", "zh": "媽，外公外婆今天幾點到家裡？"},
-    {"es": "Sobre las dos, así que tenemos tiempo de poner la mesa con calma.", "zh": "兩點左右，所以我們可以從容地擺桌。"},
-    {"es": "Vale, voy bajando los platos buenos del armario de arriba.", "zh": "好，我去把上面櫃子裡的好瓷盤拿下來。"},
-    {"es": "Ten cuidado con la sopera, que es la que se rompió tu hermano la última vez.", "zh": "小心那個湯碗，上次是你弟弟打破的那個。"},
-    {"es": "Tranquila, ya lo sé, voy con mucho cuidado esta vez.", "zh": "放心啦，我知道，這次我會很小心。"},
-    {"es": "¿Y al final qué vas a hacer de segundo, cordero o pollo?", "zh": "你第二道菜最後決定做什麼，羊肉還是雞肉？"},
-    {"es": "Cordero al horno con patatas, como le gusta a tu padre.", "zh": "烤羊肉配馬鈴薯，你爸喜歡的那道。"},
-    {"es": "Qué bien, hace siglos que no lo comemos en casa.", "zh": "太好了，我們在家好久沒吃了。"},
-    {"es": "Pon también unas servilletas de tela, que hoy es un día especial.", "zh": "也放幾條布餐巾吧，今天是特別的日子。"},
-    {"es": "¿Especial por qué, hay algo que no me has contado?", "zh": "為什麼特別，有什麼你沒告訴我嗎？"},
-    {"es": "Tu prima Marta viene con su novio nuevo, y queremos conocerlo.", "zh": "你表姐瑪塔帶新男友來，我們想認識他。"},
-    {"es": "Ah, no sabía nada, ¿y cómo es el chico?", "zh": "啊，我都不知道，那男生怎麼樣？"},
-    {"es": "Por lo visto trabaja en un banco y es muy educado, según tu tía.", "zh": "聽你阿姨說，他在銀行上班，很有禮貌。"},
-    {"es": "Esperemos que no sea tan aburrido como el anterior.", "zh": "希望別像上一個那麼無聊。"},
-    {"es": "No empieces, anda, y abre la botella de vino para que respire.", "zh": "別又開始了，去把酒打開讓它醒一下。"},
-    {"es": "¿El tinto de la Rioja que trajo papá la semana pasada?", "zh": "爸上週帶回來的那瓶里奧哈紅酒嗎？"},
-    {"es": "Ese mismo, está en el mueble del salón, junto a las copas.", "zh": "就那瓶，在客廳的櫃子裡，杯子旁邊。"},
-    {"es": "Suena el timbre, deben de ser ellos ya.", "zh": "門鈴響了，應該是他們到了。"},
-    {"es": "¡Hola, abuela, qué guapa vienes hoy!", "zh": "哈囉外婆，妳今天好漂亮！"},
-    {"es": "Gracias, mi vida, te he traído esos bombones que tanto te gustan.", "zh": "謝謝你乖孫，我帶了你最愛吃的那種巧克力。"},
-    {"es": "No tenías que molestarte, abuela, pasa, pasa.", "zh": "外婆妳不用這麼客氣，進來進來。"},
-    {"es": "Abuelo, deja el abrigo en el perchero de la entrada.", "zh": "外公，外套掛在門口的衣架上。"},
-    {"es": "¿Y Marta, no venía con vosotros desde casa?", "zh": "瑪塔不是跟你們一起從家裡來嗎？"},
-    {"es": "Vienen en su coche, llegarán en cinco minutos como mucho.", "zh": "他們開自己的車，最多五分鐘就到。"},
-    {"es": "Mientras tanto, ¿queréis picar algo, unas aceitunas o jamón?", "zh": "等的時候要不要先吃點橄欖或火腿？"},
-    {"es": "Una cervecita fría me vendría de maravilla, hija.", "zh": "來杯冰啤酒最好不過了，女兒。"},
-    {"es": "Ahora mismo te la saco, abuelo, siéntate ahí cómodo.", "zh": "外公我馬上拿給你，你坐那邊舒服一點。"},
-    {"es": "¡Ya estamos aquí, perdón por el retraso, había mucho tráfico!", "zh": "我們到了，抱歉遲到，路上很塞！"},
-    {"es": "No pasa nada, Marta, preséntanos a tu chico.", "zh": "沒關係瑪塔，介紹一下你男友。"},
-    {"es": "Él es Javier, y trabaja conmigo en el centro de Madrid.", "zh": "他是哈維爾，跟我一起在馬德里市中心上班。"},
-    {"es": "Encantado de conoceros, muchas gracias por la invitación.", "zh": "很高興認識大家，謝謝你們的邀請。"},
-    {"es": "El gusto es nuestro, ponte cómodo y siéntate donde quieras.", "zh": "我們才該說榮幸，請坐，想坐哪裡都行。"},
-    {"es": "Huele de maravilla, ¿qué hay para comer hoy?", "zh": "好香喔，今天有什麼菜？"},
-    {"es": "De primero ensalada y sopa, y luego cordero al horno.", "zh": "前菜有沙拉跟湯，主菜烤羊肉。"},
-    {"es": "Madre mía, qué banquete, voy a tener que aflojarme el cinturón.", "zh": "天啊好豐盛，我等等褲帶得鬆一格。"},
-    {"es": "Pues hay tarta de manzana de postre, así que ve haciendo hueco.", "zh": "甜點還有蘋果派，先留位置吧。"},
-    {"es": "Brindemos antes de empezar, por la familia y por los nuevos amigos.", "zh": "開動前先乾杯吧，敬家人，也敬新朋友。"},
-    {"es": "¡Por la familia y por Javier, que sea bienvenido a la casa!", "zh": "敬家人，也敬哈維爾，歡迎你來我們家！"},
-    {"es": "Javier, ¿de qué parte de España eres tú originalmente?", "zh": "哈維爾，你原本是西班牙哪裡人？"},
-    {"es": "Soy de un pueblo pequeño cerca de Salamanca, pero vivo en Madrid hace años.", "zh": "我是薩拉曼卡附近一個小鎮的，但已經在馬德里住很多年了。"},
-    {"es": "¡Salamanca, qué ciudad tan bonita, fuimos hace dos veranos!", "zh": "薩拉曼卡那座城好美，我們兩年前夏天去過！"},
-    {"es": "Sí, la Plaza Mayor de noche no tiene nada que envidiar a ninguna.", "zh": "對，主廣場晚上的景，誰也比不上。"},
-    {"es": "Pásame el pan, por favor, que la sopa está buenísima.", "zh": "麻煩遞個麵包，這湯真的太好喝了。"},
-    {"es": "Hija, has cocinado divinamente, dale la receta a tu prima.", "zh": "女兒妳廚藝超棒，把食譜給你表姐吧。"},
-    {"es": "Yo cocinar no se me da nada bien, soy un desastre en la cocina.", "zh": "我廚藝完全不行，在廚房就是一團糟。"},
-    {"es": "No te preocupes, Marta, ya te enseñaré yo cuando vengas un día.", "zh": "別擔心瑪塔，等你哪天來我再教你。"},
-    {"es": "¿Alguien repite cordero, que queda bastante en la fuente?", "zh": "誰要再來一份羊肉？盤裡還剩不少。"},
-    {"es": "Yo no puedo más, pero me lo llevo en un táper si no os importa.", "zh": "我吃不下了，如果可以的話我打包帶走。"},
-    {"es": "Claro que sí, te preparo uno ahora mismo para los dos.", "zh": "當然好，我馬上幫你們兩個裝。"},
-    {"es": "Ha sido una tarde preciosa, gracias por recibirnos así.", "zh": "今天下午很美好，謝謝你們這樣招待我們。"}
+    {
+      "es": "Mamá, ¿a qué hora vienen los abuelos hoy a casa?",
+      "zh": "媽，外公外婆今天幾點到家裡？"
+    },
+    {
+      "es": "Sobre las dos, así que tenemos tiempo de poner la mesa con calma.",
+      "zh": "兩點左右，所以我們可以從容地擺桌。"
+    },
+    {
+      "es": "Vale, voy bajando los platos buenos del armario de arriba.",
+      "zh": "好，我去把上面櫃子裡的好瓷盤拿下來。"
+    },
+    {
+      "es": "Ten cuidado con la sopera, que es la que se rompió tu hermano la última vez.",
+      "zh": "小心那個湯碗，上次是你弟弟打破的那個。"
+    },
+    {
+      "es": "Tranquila, ya lo sé, voy con mucho cuidado esta vez.",
+      "zh": "放心啦，我知道，這次我會很小心。"
+    },
+    {
+      "es": "¿Y al final qué vas a hacer de segundo, cordero o pollo?",
+      "zh": "你第二道菜最後決定做什麼，羊肉還是雞肉？"
+    },
+    {
+      "es": "Cordero al horno con patatas, como le gusta a tu padre.",
+      "zh": "烤羊肉配馬鈴薯，你爸喜歡的那道。"
+    },
+    {
+      "es": "Qué bien, hace siglos que no lo comemos en casa.",
+      "zh": "太好了，我們在家好久沒吃了。"
+    },
+    {
+      "es": "Pon también unas servilletas de tela, que hoy es un día especial.",
+      "zh": "也放幾條布餐巾吧，今天是特別的日子。"
+    },
+    {
+      "es": "¿Especial por qué, hay algo que no me has contado?",
+      "zh": "為什麼特別，有什麼你沒告訴我嗎？"
+    },
+    {
+      "es": "Tu prima Marta viene con su novio nuevo, y queremos conocerlo.",
+      "zh": "你表姐瑪塔帶新男友來，我們想認識他。"
+    },
+    {
+      "es": "Ah, no sabía nada, ¿y cómo es el chico?",
+      "zh": "啊，我都不知道，那男生怎麼樣？"
+    },
+    {
+      "es": "Por lo visto trabaja en un banco y es muy educado, según tu tía.",
+      "zh": "聽你阿姨說，他在銀行上班，很有禮貌。"
+    },
+    {
+      "es": "Esperemos que no sea tan aburrido como el anterior.",
+      "zh": "希望別像上一個那麼無聊。"
+    },
+    {
+      "es": "No empieces, anda, y abre la botella de vino para que respire.",
+      "zh": "別又開始了，去把酒打開讓它醒一下。"
+    },
+    {
+      "es": "¿El tinto de la Rioja que trajo papá la semana pasada?",
+      "zh": "爸上週帶回來的那瓶里奧哈紅酒嗎？"
+    },
+    {
+      "es": "Ese mismo, está en el mueble del salón, junto a las copas.",
+      "zh": "就那瓶，在客廳的櫃子裡，杯子旁邊。"
+    },
+    {
+      "es": "Suena el timbre, deben de ser ellos ya.",
+      "zh": "門鈴響了，應該是他們到了。"
+    },
+    {
+      "es": "¡Hola, abuela, qué guapa vienes hoy!",
+      "zh": "哈囉外婆，妳今天好漂亮！"
+    },
+    {
+      "es": "Gracias, mi vida, te he traído esos bombones que tanto te gustan.",
+      "zh": "謝謝你乖孫，我帶了你最愛吃的那種巧克力。"
+    },
+    {
+      "es": "No tenías que molestarte, abuela, pasa, pasa.",
+      "zh": "外婆妳不用這麼客氣，進來進來。"
+    },
+    {
+      "es": "Abuelo, deja el abrigo en el perchero de la entrada.",
+      "zh": "外公，外套掛在門口的衣架上。"
+    },
+    {
+      "es": "¿Y Marta, no venía con vosotros desde casa?",
+      "zh": "瑪塔不是跟你們一起從家裡來嗎？"
+    },
+    {
+      "es": "Vienen en su coche, llegarán en cinco minutos como mucho.",
+      "zh": "他們開自己的車，最多五分鐘就到。"
+    },
+    {
+      "es": "Mientras tanto, ¿queréis picar algo, unas aceitunas o jamón?",
+      "zh": "等的時候要不要先吃點橄欖或火腿？"
+    },
+    {
+      "es": "Una cervecita fría me vendría de maravilla, hija.",
+      "zh": "來杯冰啤酒最好不過了，女兒。"
+    },
+    {
+      "es": "Ahora mismo te la saco, abuelo, siéntate ahí cómodo.",
+      "zh": "外公我馬上拿給你，你坐那邊舒服一點。"
+    },
+    {
+      "es": "¡Ya estamos aquí, perdón por el retraso, había mucho tráfico!",
+      "zh": "我們到了，抱歉遲到，路上很塞！"
+    },
+    {
+      "es": "No pasa nada, Marta, preséntanos a tu chico.",
+      "zh": "沒關係瑪塔，介紹一下你男友。"
+    },
+    {
+      "es": "Él es Javier, y trabaja conmigo en el centro de Madrid.",
+      "zh": "他是哈維爾，跟我一起在馬德里市中心上班。"
+    },
+    {
+      "es": "Encantado de conoceros, muchas gracias por la invitación.",
+      "zh": "很高興認識大家，謝謝你們的邀請。"
+    },
+    {
+      "es": "El gusto es nuestro, ponte cómodo y siéntate donde quieras.",
+      "zh": "我們才該說榮幸，請坐，想坐哪裡都行。"
+    },
+    {
+      "es": "Huele de maravilla, ¿qué hay para comer hoy?",
+      "zh": "好香喔，今天有什麼菜？"
+    },
+    {
+      "es": "De primero ensalada y sopa, y luego cordero al horno.",
+      "zh": "前菜有沙拉跟湯，主菜烤羊肉。"
+    },
+    {
+      "es": "Madre mía, qué banquete, voy a tener que aflojarme el cinturón.",
+      "zh": "天啊好豐盛，我等等褲帶得鬆一格。"
+    },
+    {
+      "es": "Pues hay tarta de manzana de postre, así que ve haciendo hueco.",
+      "zh": "甜點還有蘋果派，先留位置吧。"
+    },
+    {
+      "es": "Brindemos antes de empezar, por la familia y por los nuevos amigos.",
+      "zh": "開動前先乾杯吧，敬家人，也敬新朋友。"
+    },
+    {
+      "es": "¡Por la familia y por Javier, que sea bienvenido a la casa!",
+      "zh": "敬家人，也敬哈維爾，歡迎你來我們家！"
+    },
+    {
+      "es": "Javier, ¿de qué parte de España eres tú originalmente?",
+      "zh": "哈維爾，你原本是西班牙哪裡人？"
+    },
+    {
+      "es": "Soy de un pueblo pequeño cerca de Salamanca, pero vivo en Madrid hace años.",
+      "zh": "我是薩拉曼卡附近一個小鎮的，但已經在馬德里住很多年了。"
+    },
+    {
+      "es": "¡Salamanca, qué ciudad tan bonita, fuimos hace dos veranos!",
+      "zh": "薩拉曼卡那座城好美，我們兩年前夏天去過！"
+    },
+    {
+      "es": "Sí, la Plaza Mayor de noche no tiene nada que envidiar a ninguna.",
+      "zh": "對，主廣場晚上的景，誰也比不上。"
+    },
+    {
+      "es": "Pásame el pan, por favor, que la sopa está buenísima.",
+      "zh": "麻煩遞個麵包，這湯真的太好喝了。"
+    },
+    {
+      "es": "Hija, has cocinado divinamente, dale la receta a tu prima.",
+      "zh": "女兒妳廚藝超棒，把食譜給你表姐吧。"
+    },
+    {
+      "es": "Yo cocinar no se me da nada bien, soy un desastre en la cocina.",
+      "zh": "我廚藝完全不行，在廚房就是一團糟。"
+    },
+    {
+      "es": "No te preocupes, Marta, ya te enseñaré yo cuando vengas un día.",
+      "zh": "別擔心瑪塔，等你哪天來我再教你。"
+    },
+    {
+      "es": "¿Alguien repite cordero, que queda bastante en la fuente?",
+      "zh": "誰要再來一份羊肉？盤裡還剩不少。"
+    },
+    {
+      "es": "Yo no puedo más, pero me lo llevo en un táper si no os importa.",
+      "zh": "我吃不下了，如果可以的話我打包帶走。"
+    },
+    {
+      "es": "Claro que sí, te preparo uno ahora mismo para los dos.",
+      "zh": "當然好，我馬上幫你們兩個裝。"
+    },
+    {
+      "es": "Ha sido una tarde preciosa, gracias por recibirnos así.",
+      "zh": "今天下午很美好，謝謝你們這樣招待我們。"
+    },
+    {
+      "es": "Tu tía traerá una tarta casera de postre, como cada año.",
+      "zh": "你阿姨會像每年一樣帶一個自製蛋糕當甜點。"
+    },
+    {
+      "es": "Pon una silla más, que este domingo somos uno de más.",
+      "zh": "多放一張椅子，這個星期天我們多了一個人。"
+    },
+    {
+      "es": "El asado lleva tres horas al horno y huele de maravilla.",
+      "zh": "烤肉已經在烤箱裡三個小時了，香味四溢。"
+    },
+    {
+      "es": "Acuérdate de descorchar el vino tinto antes de que lleguen.",
+      "zh": "記得在大家到之前先把紅酒開瓶。"
+    },
+    {
+      "es": "Los niños se sientan en aquella punta para no molestar.",
+      "zh": "小孩子坐在那一頭，免得吵到大人。"
+    },
+    {
+      "es": "Después de comer siempre echamos una partida de cartas.",
+      "zh": "吃完飯我們總是會玩一局紙牌。"
+    },
+    {
+      "es": "El abuelo cuenta otra vez la misma anécdota de su juventud.",
+      "zh": "爺爺又一次講起他年輕時的同一段往事。"
+    },
+    {
+      "es": "Reparte las servilletas mientras yo termino la ensalada.",
+      "zh": "你發餐巾紙，我把沙拉做完。"
+    },
+    {
+      "es": "Sobró muchísima comida, llevaos un táper cada uno a casa.",
+      "zh": "剩了好多菜，你們每人帶一個保鮮盒回家吧。"
+    },
+    {
+      "es": "Qué pena que se acabe el día, estas sobremesas son lo mejor.",
+      "zh": "真可惜這一天要結束了，飯後這樣聊天是最棒的。"
+    }
   ]
 }

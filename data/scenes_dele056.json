@@ -1,55 +1,245 @@
 {
   "title": "Quejándose por un plato frío en el restaurante",
   "all": [
-    {"es": "Disculpe, camarero, ¿puede venir un momento a la mesa?", "zh": "不好意思服務生，可以過來一下嗎？"},
-    {"es": "Por supuesto, ¿en qué puedo ayudarles?", "zh": "當然，請問有什麼能為您服務？"},
-    {"es": "Verá, este plato que nos han traído está completamente frío.", "zh": "是這樣，這道菜上來時是完全冷的。"},
-    {"es": "Lo siento muchísimo, ¿me deja que lo compruebe yo?", "zh": "非常抱歉，可以讓我試一下嗎？"},
-    {"es": "Toque el borde con cuidado, parece sacado de la nevera.", "zh": "小心碰碰盤緣，像剛從冰箱拿出來。"},
-    {"es": "Tiene toda la razón, está helado, esto no debería haber salido.", "zh": "您說得完全對，是冰的，這不該上桌的。"},
-    {"es": "Llevamos ya media hora esperando este segundo plato.", "zh": "我們已經等這道主菜半小時了。"},
-    {"es": "De verdad, les pido mil disculpas en nombre del restaurante.", "zh": "我代表餐廳由衷向您致歉。"},
-    {"es": "¿Puede llevárselo y traernos uno recién hecho, por favor?", "zh": "可以麻煩您退回去，重新做一份嗎？"},
-    {"es": "Ahora mismo lo retiro y hablo con el cocinero personalmente.", "zh": "我馬上撤下來，並親自跟廚師說。"},
-    {"es": "Gracias, pero tampoco queremos esperar otra media hora más.", "zh": "謝謝，但我們也不想再等半小時。"},
-    {"es": "Voy a hablar también con el encargado para que vea cómo solucionarlo.", "zh": "我也會跟經理說，看怎麼處理。"},
-    {"es": "Sería lo más justo, además los niños ya están cansados.", "zh": "這樣最公道，何況小孩都累了。"},
-    {"es": "Cariño, no te enfades, seguro que lo arreglan rápido.", "zh": "親愛的，別生氣，他們一定會趕快處理。"},
-    {"es": "No estoy enfadado, pero por el precio que cobran no es normal.", "zh": "我沒生氣，但以他們的價錢這樣不正常。"},
-    {"es": "Buenas noches, soy el encargado, ¿qué ha pasado?", "zh": "晚安，我是經理，發生什麼事？"},
-    {"es": "Nos han traído el solomillo absolutamente frío, mire la otra ración.", "zh": "他們送來的菲力牛排完全是冷的，您看另一份。"},
-    {"es": "Es verdad, esto es inadmisible, lo siento muchísimo.", "zh": "確實，這完全不能接受，非常抱歉。"},
-    {"es": "Además llevamos esperando este plato más de treinta minutos.", "zh": "而且我們等這道菜超過三十分鐘了。"},
-    {"es": "Lo entiendo perfectamente, déjenme arreglarlo de la mejor manera.", "zh": "我完全理解，讓我用最好的方式來補救。"},
-    {"es": "¿Y cuál sería esa manera, si se puede saber?", "zh": "請問是怎麼樣的方式呢？"},
-    {"es": "Les preparo dos solomillos nuevos al momento, como prioridad absoluta.", "zh": "我馬上幫您做兩份新的菲力，最優先處理。"},
-    {"es": "Vale, pero por favor que no tarden, los pequeños están agotados.", "zh": "好，但請別拖太久，小孩都累壞了。"},
-    {"es": "En quince minutos los tienen en la mesa, palabra.", "zh": "十五分鐘內上桌，我保證。"},
-    {"es": "Y la cuenta, ¿cómo van a contemplar esta situación?", "zh": "那帳單呢，這狀況要怎麼處理？"},
-    {"es": "Por descontado, los segundos platos corren por cuenta de la casa.", "zh": "當然，主菜由本店招待。"},
-    {"es": "Eso me parece razonable, gracias por la solución.", "zh": "這樣合理，謝謝您的處理。"},
-    {"es": "Además les invito a unos postres con cafés para terminar.", "zh": "我還招待你們甜點跟咖啡作為收尾。"},
-    {"es": "No hace falta tanto, con los segundos ya es suficiente.", "zh": "不用這麼多啦，主菜免費就夠了。"},
-    {"es": "Insisto, es lo mínimo después de hacerles esperar así.", "zh": "請務必接受，讓你們這樣等是最起碼的。"},
-    {"es": "Está bien, se lo agradecemos de verdad.", "zh": "好，真的很感謝。"},
-    {"es": "¿Mientras tanto les traigo otra copita de vino de la casa?", "zh": "等的時候我先給您再倒一杯本店的酒？"},
-    {"es": "Vale, una para cada uno y así esperamos más a gusto.", "zh": "好，一人一杯這樣等比較舒服。"},
-    {"es": "¿Y para los niños algo dulce mientras esperan también?", "zh": "小朋友等的時候要不要先吃點甜的？"},
-    {"es": "Si tiene un poco de helado de vainilla les viene genial.", "zh": "如果有香草冰淇淋就太好了。"},
-    {"es": "Marchando dos helados pequeños ahora mismo para los peques.", "zh": "兩小杯冰淇淋馬上來給小朋友。"},
-    {"es": "Mira, los niños ya están más contentos así.", "zh": "你看，小孩這樣就比較開心了。"},
-    {"es": "Y nosotros también, parece que se lo han tomado en serio.", "zh": "我們也是，看來他們有認真處理。"},
-    {"es": "Ya viene el camarero con los platos calientes, mira.", "zh": "服務生帶熱菜過來了你看。"},
-    {"es": "Aquí tienen, solomillo recién hecho, denle un toque ahora.", "zh": "請用，剛做好的菲力，現在碰碰看。"},
-    {"es": "Está ardiendo, así sí da gusto, gracias mil.", "zh": "燙手，這樣才對嘛，超感謝。"},
-    {"es": "Prueben y díganme si está al punto que pidieron.", "zh": "嚐嚐看，跟您點的熟度一樣嗎？"},
-    {"es": "Tres cuartos perfectos, jugoso por dentro, está delicioso.", "zh": "七分熟剛好，裡面多汁，超好吃。"},
-    {"es": "Me alegro mucho de que ahora sí estén disfrutando.", "zh": "很高興你們現在能享用了。"},
-    {"es": "La verdad es que la carne es de muy buena calidad.", "zh": "說真的肉品質很好。"},
-    {"es": "Si la hubieran traído así desde el principio no habríamos protestado.", "zh": "如果一開始就這樣端來我們就不會抱怨了。"},
-    {"es": "Aprenderemos de esto, gracias por su paciencia esta noche.", "zh": "我們會從這次學到教訓，謝謝您今晚的耐心。"},
-    {"es": "Volveremos seguro, pero esperamos que no se repita.", "zh": "我們一定會再來，但希望別再發生。"},
-    {"es": "Tienen mi palabra, y aquí tienen mi tarjeta personal.", "zh": "我向您保證，這是我的個人名片。"},
-    {"es": "Pues vamos a por los postres, ¡hoy es noche de barra libre!", "zh": "那就來吃甜點，今晚招待到底！"}
+    {
+      "es": "Disculpe, camarero, ¿puede venir un momento a la mesa?",
+      "zh": "不好意思服務生，可以過來一下嗎？"
+    },
+    {
+      "es": "Por supuesto, ¿en qué puedo ayudarles?",
+      "zh": "當然，請問有什麼能為您服務？"
+    },
+    {
+      "es": "Verá, este plato que nos han traído está completamente frío.",
+      "zh": "是這樣，這道菜上來時是完全冷的。"
+    },
+    {
+      "es": "Lo siento muchísimo, ¿me deja que lo compruebe yo?",
+      "zh": "非常抱歉，可以讓我試一下嗎？"
+    },
+    {
+      "es": "Toque el borde con cuidado, parece sacado de la nevera.",
+      "zh": "小心碰碰盤緣，像剛從冰箱拿出來。"
+    },
+    {
+      "es": "Tiene toda la razón, está helado, esto no debería haber salido.",
+      "zh": "您說得完全對，是冰的，這不該上桌的。"
+    },
+    {
+      "es": "Llevamos ya media hora esperando este segundo plato.",
+      "zh": "我們已經等這道主菜半小時了。"
+    },
+    {
+      "es": "De verdad, les pido mil disculpas en nombre del restaurante.",
+      "zh": "我代表餐廳由衷向您致歉。"
+    },
+    {
+      "es": "¿Puede llevárselo y traernos uno recién hecho, por favor?",
+      "zh": "可以麻煩您退回去，重新做一份嗎？"
+    },
+    {
+      "es": "Ahora mismo lo retiro y hablo con el cocinero personalmente.",
+      "zh": "我馬上撤下來，並親自跟廚師說。"
+    },
+    {
+      "es": "Gracias, pero tampoco queremos esperar otra media hora más.",
+      "zh": "謝謝，但我們也不想再等半小時。"
+    },
+    {
+      "es": "Voy a hablar también con el encargado para que vea cómo solucionarlo.",
+      "zh": "我也會跟經理說，看怎麼處理。"
+    },
+    {
+      "es": "Sería lo más justo, además los niños ya están cansados.",
+      "zh": "這樣最公道，何況小孩都累了。"
+    },
+    {
+      "es": "Cariño, no te enfades, seguro que lo arreglan rápido.",
+      "zh": "親愛的，別生氣，他們一定會趕快處理。"
+    },
+    {
+      "es": "No estoy enfadado, pero por el precio que cobran no es normal.",
+      "zh": "我沒生氣，但以他們的價錢這樣不正常。"
+    },
+    {
+      "es": "Buenas noches, soy el encargado, ¿qué ha pasado?",
+      "zh": "晚安，我是經理，發生什麼事？"
+    },
+    {
+      "es": "Nos han traído el solomillo absolutamente frío, mire la otra ración.",
+      "zh": "他們送來的菲力牛排完全是冷的，您看另一份。"
+    },
+    {
+      "es": "Es verdad, esto es inadmisible, lo siento muchísimo.",
+      "zh": "確實，這完全不能接受，非常抱歉。"
+    },
+    {
+      "es": "Además llevamos esperando este plato más de treinta minutos.",
+      "zh": "而且我們等這道菜超過三十分鐘了。"
+    },
+    {
+      "es": "Lo entiendo perfectamente, déjenme arreglarlo de la mejor manera.",
+      "zh": "我完全理解，讓我用最好的方式來補救。"
+    },
+    {
+      "es": "¿Y cuál sería esa manera, si se puede saber?",
+      "zh": "請問是怎麼樣的方式呢？"
+    },
+    {
+      "es": "Les preparo dos solomillos nuevos al momento, como prioridad absoluta.",
+      "zh": "我馬上幫您做兩份新的菲力，最優先處理。"
+    },
+    {
+      "es": "Vale, pero por favor que no tarden, los pequeños están agotados.",
+      "zh": "好，但請別拖太久，小孩都累壞了。"
+    },
+    {
+      "es": "En quince minutos los tienen en la mesa, palabra.",
+      "zh": "十五分鐘內上桌，我保證。"
+    },
+    {
+      "es": "Y la cuenta, ¿cómo van a contemplar esta situación?",
+      "zh": "那帳單呢，這狀況要怎麼處理？"
+    },
+    {
+      "es": "Por descontado, los segundos platos corren por cuenta de la casa.",
+      "zh": "當然，主菜由本店招待。"
+    },
+    {
+      "es": "Eso me parece razonable, gracias por la solución.",
+      "zh": "這樣合理，謝謝您的處理。"
+    },
+    {
+      "es": "Además les invito a unos postres con cafés para terminar.",
+      "zh": "我還招待你們甜點跟咖啡作為收尾。"
+    },
+    {
+      "es": "No hace falta tanto, con los segundos ya es suficiente.",
+      "zh": "不用這麼多啦，主菜免費就夠了。"
+    },
+    {
+      "es": "Insisto, es lo mínimo después de hacerles esperar así.",
+      "zh": "請務必接受，讓你們這樣等是最起碼的。"
+    },
+    {
+      "es": "Está bien, se lo agradecemos de verdad.",
+      "zh": "好，真的很感謝。"
+    },
+    {
+      "es": "¿Mientras tanto les traigo otra copita de vino de la casa?",
+      "zh": "等的時候我先給您再倒一杯本店的酒？"
+    },
+    {
+      "es": "Vale, una para cada uno y así esperamos más a gusto.",
+      "zh": "好，一人一杯這樣等比較舒服。"
+    },
+    {
+      "es": "¿Y para los niños algo dulce mientras esperan también?",
+      "zh": "小朋友等的時候要不要先吃點甜的？"
+    },
+    {
+      "es": "Si tiene un poco de helado de vainilla les viene genial.",
+      "zh": "如果有香草冰淇淋就太好了。"
+    },
+    {
+      "es": "Marchando dos helados pequeños ahora mismo para los peques.",
+      "zh": "兩小杯冰淇淋馬上來給小朋友。"
+    },
+    {
+      "es": "Mira, los niños ya están más contentos así.",
+      "zh": "你看，小孩這樣就比較開心了。"
+    },
+    {
+      "es": "Y nosotros también, parece que se lo han tomado en serio.",
+      "zh": "我們也是，看來他們有認真處理。"
+    },
+    {
+      "es": "Ya viene el camarero con los platos calientes, mira.",
+      "zh": "服務生帶熱菜過來了你看。"
+    },
+    {
+      "es": "Aquí tienen, solomillo recién hecho, denle un toque ahora.",
+      "zh": "請用，剛做好的菲力，現在碰碰看。"
+    },
+    {
+      "es": "Está ardiendo, así sí da gusto, gracias mil.",
+      "zh": "燙手，這樣才對嘛，超感謝。"
+    },
+    {
+      "es": "Prueben y díganme si está al punto que pidieron.",
+      "zh": "嚐嚐看，跟您點的熟度一樣嗎？"
+    },
+    {
+      "es": "Tres cuartos perfectos, jugoso por dentro, está delicioso.",
+      "zh": "七分熟剛好，裡面多汁，超好吃。"
+    },
+    {
+      "es": "Me alegro mucho de que ahora sí estén disfrutando.",
+      "zh": "很高興你們現在能享用了。"
+    },
+    {
+      "es": "La verdad es que la carne es de muy buena calidad.",
+      "zh": "說真的肉品質很好。"
+    },
+    {
+      "es": "Si la hubieran traído así desde el principio no habríamos protestado.",
+      "zh": "如果一開始就這樣端來我們就不會抱怨了。"
+    },
+    {
+      "es": "Aprenderemos de esto, gracias por su paciencia esta noche.",
+      "zh": "我們會從這次學到教訓，謝謝您今晚的耐心。"
+    },
+    {
+      "es": "Volveremos seguro, pero esperamos que no se repita.",
+      "zh": "我們一定會再來，但希望別再發生。"
+    },
+    {
+      "es": "Tienen mi palabra, y aquí tienen mi tarjeta personal.",
+      "zh": "我向您保證，這是我的個人名片。"
+    },
+    {
+      "es": "Pues vamos a por los postres, ¡hoy es noche de barra libre!",
+      "zh": "那就來吃甜點，今晚招待到底！"
+    },
+    {
+      "es": "Además, llevamos esperando este segundo plato casi media hora.",
+      "zh": "而且，我們等這道主菜已經快半小時了。"
+    },
+    {
+      "es": "El filete me lo pedí poco hecho y me lo han traído pasadísimo.",
+      "zh": "我這塊牛排點的是三分熟，結果端來時全熟過頭了。"
+    },
+    {
+      "es": "Hay un pelo en la guarnición, no pienso probarla así.",
+      "zh": "配菜裡有一根頭髮，這樣我不會去吃。"
+    },
+    {
+      "es": "¿Les importa cambiárnoslo por uno recién hecho, por favor?",
+      "zh": "麻煩你們能不能幫我們換一份剛做好的？"
+    },
+    {
+      "es": "Avise al encargado, porque esto ya nos ha pasado otra vez.",
+      "zh": "請通知一下負責人，因為這已經不是第一次了。"
+    },
+    {
+      "es": "Entendemos que hay mucho lío, pero la comida tiene que llegar caliente.",
+      "zh": "我們知道你們很忙，但餐點端上來總得是熱的。"
+    },
+    {
+      "es": "Si no pueden solucionarlo, retiren ese plato de la cuenta.",
+      "zh": "如果你們沒辦法處理，就把那道菜從帳單上扣掉。"
+    },
+    {
+      "es": "Le agradezco la disculpa, pero preferimos no esperar más.",
+      "zh": "謝謝你道歉，不過我們不想再等下去了。"
+    },
+    {
+      "es": "Nos invitan a un postre por las molestias, qué detalle.",
+      "zh": "他們因為造成不便請我們吃甜點，真是貼心。"
+    },
+    {
+      "es": "Al final lo arreglaron rápido y nos fuimos satisfechos.",
+      "zh": "最後他們很快就解決了，我們也滿意地離開。"
+    }
   ]
 }

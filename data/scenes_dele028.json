@@ -1,45 +1,205 @@
 {
   "title": "Mi rutina diaria de lunes a viernes",
   "all": [
-    { "es": "De lunes a viernes mi vida sigue siempre el mismo ritmo.", "zh": "週一到週五，我的生活總是維持同樣的節奏。" },
-    { "es": "Me despierto a las siete menos cuarto de la mañana.", "zh": "我早上六點四十五分起床。" },
-    { "es": "Lo primero que hago es ducharme con agua tibia.", "zh": "我做的第一件事是用溫水洗澡。" },
-    { "es": "Después preparo un café con leche y unas tostadas.", "zh": "之後我泡一杯咖啡牛奶，烤幾片吐司。" },
-    { "es": "A las ocho salgo de casa hacia la oficina.", "zh": "八點鐘我從家裡出發去公司。" },
-    { "es": "Suelo ir en metro porque es más rápido que el coche.", "zh": "我通常搭地鐵，因為比開車快。" },
-    { "es": "Trabajo desde las nueve hasta las dos en una empresa de marketing.", "zh": "我在一家行銷公司從九點工作到兩點。" },
-    { "es": "A mediodía como un sándwich con mis compañeros.", "zh": "中午我和同事們一起吃三明治。" },
-    { "es": "Por la tarde tenemos reuniones con clientes.", "zh": "下午我們和客戶開會。" },
-    { "es": "Salgo del trabajo sobre las seis de la tarde.", "zh": "我大約晚上六點下班。" },
-    { "es": "Antes de volver a casa, voy al gimnasio tres días a la semana.", "zh": "回家前，我一個星期去三天健身房。" },
-    { "es": "Allí hago una hora de ejercicio para mantenerme en forma.", "zh": "在那裡我運動一小時，保持身材。" },
-    { "es": "Cuando llego a casa, ceno algo ligero.", "zh": "回到家後，我吃簡單的晚餐。" },
-    { "es": "Normalmente preparo una ensalada o una sopa.", "zh": "我通常做沙拉或湯。" },
-    { "es": "Después de cenar veo una serie en la televisión.", "zh": "晚餐後我看電視影集。" },
-    { "es": "También me gusta leer un poco antes de dormir.", "zh": "我也喜歡睡前讀一點書。" },
-    { "es": "Los miércoles llamo a mis padres por videollamada.", "zh": "每個星期三我用視訊跟父母通話。" },
-    { "es": "Hablamos durante media hora sobre nuestras semanas.", "zh": "我們聊半小時，分享一週的生活。" },
-    { "es": "A las once me voy a la cama porque madrugo mucho.", "zh": "我十一點上床，因為我起得很早。" },
-    { "es": "Aunque es una rutina sencilla, me siento muy a gusto con ella.", "zh": "雖然是簡單的日常，但我覺得很自在。" },
-    { "es": "Los lunes suelen ser los días más difíciles para mí.", "zh": "星期一對我來說通常是最辛苦的一天。" },
-    { "es": "Tengo una reunión larga con todo el equipo a primera hora.", "zh": "一早就要和全組開很長的會。" },
-    { "es": "El martes la oficina está más tranquila y puedo concentrarme.", "zh": "星期二辦公室比較安靜，我可以專心。" },
-    { "es": "Los jueves quedo con una amiga para tomar un café después del trabajo.", "zh": "星期四我下班後會和一個朋友喝咖啡。" },
-    { "es": "Hablamos de todo un poco y me ayuda a desconectar.", "zh": "我們什麼都聊一點，讓我可以放鬆。" },
-    { "es": "Los viernes la jornada es más corta y salgo a las tres.", "zh": "星期五工時較短，我三點就下班。" },
-    { "es": "Suelo aprovechar la tarde para hacer la compra de la semana.", "zh": "我通常利用下午採買整週的東西。" },
-    { "es": "Voy al supermercado del barrio porque tiene buena fruta.", "zh": "我去社區的超市，因為水果很好。" },
-    { "es": "Si tengo tiempo, también paso por la panadería.", "zh": "如果有時間，我也會去麵包店。" },
-    { "es": "El año pasado empecé a estudiar inglés por las noches.", "zh": "去年我開始晚上學英文。" },
-    { "es": "Tengo clase dos días a la semana, lunes y miércoles.", "zh": "我一週上兩天課，星期一和星期三。" },
-    { "es": "Las clases son online, así que las hago desde el salón de casa.", "zh": "課程是線上的，所以我在家裡的客廳上課。" },
-    { "es": "Si hace buen tiempo, los viernes salgo a correr al parque.", "zh": "如果天氣好，星期五我會去公園跑步。" },
-    { "es": "Correr por la tarde me relaja después de la semana de trabajo.", "zh": "下午跑步讓我在一週工作後得以放鬆。" },
-    { "es": "A veces, si estoy muy cansado, prefiero quedarme en casa.", "zh": "有時候如果太累，我寧願待在家。" },
-    { "es": "En esos días me preparo una cena especial y veo una película.", "zh": "那些日子我會做頓特別的晚餐，看一部電影。" },
-    { "es": "Antes no era tan organizado como ahora.", "zh": "我以前沒有現在這麼有條理。" },
-    { "es": "Pero he aprendido que la rutina me ayuda a vivir mejor.", "zh": "但我發現規律的生活讓我活得更好。" },
-    { "es": "El próximo año me gustaría cambiar de trabajo si encuentro algo mejor.", "zh": "明年如果找到更好的工作，我想換跑道。" },
-    { "es": "Sea como sea, espero seguir disfrutando de mis pequeñas costumbres.", "zh": "不管怎樣，我希望能繼續享受這些小小的習慣。" }
+    {
+      "es": "De lunes a viernes mi vida sigue siempre el mismo ritmo.",
+      "zh": "週一到週五，我的生活總是維持同樣的節奏。"
+    },
+    {
+      "es": "Me despierto a las siete menos cuarto de la mañana.",
+      "zh": "我早上六點四十五分起床。"
+    },
+    {
+      "es": "Lo primero que hago es ducharme con agua tibia.",
+      "zh": "我做的第一件事是用溫水洗澡。"
+    },
+    {
+      "es": "Después preparo un café con leche y unas tostadas.",
+      "zh": "之後我泡一杯咖啡牛奶，烤幾片吐司。"
+    },
+    {
+      "es": "A las ocho salgo de casa hacia la oficina.",
+      "zh": "八點鐘我從家裡出發去公司。"
+    },
+    {
+      "es": "Suelo ir en metro porque es más rápido que el coche.",
+      "zh": "我通常搭地鐵，因為比開車快。"
+    },
+    {
+      "es": "Trabajo desde las nueve hasta las dos en una empresa de marketing.",
+      "zh": "我在一家行銷公司從九點工作到兩點。"
+    },
+    {
+      "es": "A mediodía como un sándwich con mis compañeros.",
+      "zh": "中午我和同事們一起吃三明治。"
+    },
+    {
+      "es": "Por la tarde tenemos reuniones con clientes.",
+      "zh": "下午我們和客戶開會。"
+    },
+    {
+      "es": "Salgo del trabajo sobre las seis de la tarde.",
+      "zh": "我大約晚上六點下班。"
+    },
+    {
+      "es": "Antes de volver a casa, voy al gimnasio tres días a la semana.",
+      "zh": "回家前，我一個星期去三天健身房。"
+    },
+    {
+      "es": "Allí hago una hora de ejercicio para mantenerme en forma.",
+      "zh": "在那裡我運動一小時，保持身材。"
+    },
+    {
+      "es": "Cuando llego a casa, ceno algo ligero.",
+      "zh": "回到家後，我吃簡單的晚餐。"
+    },
+    {
+      "es": "Normalmente preparo una ensalada o una sopa.",
+      "zh": "我通常做沙拉或湯。"
+    },
+    {
+      "es": "Después de cenar veo una serie en la televisión.",
+      "zh": "晚餐後我看電視影集。"
+    },
+    {
+      "es": "También me gusta leer un poco antes de dormir.",
+      "zh": "我也喜歡睡前讀一點書。"
+    },
+    {
+      "es": "Los miércoles llamo a mis padres por videollamada.",
+      "zh": "每個星期三我用視訊跟父母通話。"
+    },
+    {
+      "es": "Hablamos durante media hora sobre nuestras semanas.",
+      "zh": "我們聊半小時，分享一週的生活。"
+    },
+    {
+      "es": "A las once me voy a la cama porque madrugo mucho.",
+      "zh": "我十一點上床，因為我起得很早。"
+    },
+    {
+      "es": "Aunque es una rutina sencilla, me siento muy a gusto con ella.",
+      "zh": "雖然是簡單的日常，但我覺得很自在。"
+    },
+    {
+      "es": "Los lunes suelen ser los días más difíciles para mí.",
+      "zh": "星期一對我來說通常是最辛苦的一天。"
+    },
+    {
+      "es": "Tengo una reunión larga con todo el equipo a primera hora.",
+      "zh": "一早就要和全組開很長的會。"
+    },
+    {
+      "es": "El martes la oficina está más tranquila y puedo concentrarme.",
+      "zh": "星期二辦公室比較安靜，我可以專心。"
+    },
+    {
+      "es": "Los jueves quedo con una amiga para tomar un café después del trabajo.",
+      "zh": "星期四我下班後會和一個朋友喝咖啡。"
+    },
+    {
+      "es": "Hablamos de todo un poco y me ayuda a desconectar.",
+      "zh": "我們什麼都聊一點，讓我可以放鬆。"
+    },
+    {
+      "es": "Los viernes la jornada es más corta y salgo a las tres.",
+      "zh": "星期五工時較短，我三點就下班。"
+    },
+    {
+      "es": "Suelo aprovechar la tarde para hacer la compra de la semana.",
+      "zh": "我通常利用下午採買整週的東西。"
+    },
+    {
+      "es": "Voy al supermercado del barrio porque tiene buena fruta.",
+      "zh": "我去社區的超市，因為水果很好。"
+    },
+    {
+      "es": "Si tengo tiempo, también paso por la panadería.",
+      "zh": "如果有時間，我也會去麵包店。"
+    },
+    {
+      "es": "El año pasado empecé a estudiar inglés por las noches.",
+      "zh": "去年我開始晚上學英文。"
+    },
+    {
+      "es": "Tengo clase dos días a la semana, lunes y miércoles.",
+      "zh": "我一週上兩天課，星期一和星期三。"
+    },
+    {
+      "es": "Las clases son online, así que las hago desde el salón de casa.",
+      "zh": "課程是線上的，所以我在家裡的客廳上課。"
+    },
+    {
+      "es": "Si hace buen tiempo, los viernes salgo a correr al parque.",
+      "zh": "如果天氣好，星期五我會去公園跑步。"
+    },
+    {
+      "es": "Correr por la tarde me relaja después de la semana de trabajo.",
+      "zh": "下午跑步讓我在一週工作後得以放鬆。"
+    },
+    {
+      "es": "A veces, si estoy muy cansado, prefiero quedarme en casa.",
+      "zh": "有時候如果太累，我寧願待在家。"
+    },
+    {
+      "es": "En esos días me preparo una cena especial y veo una película.",
+      "zh": "那些日子我會做頓特別的晚餐，看一部電影。"
+    },
+    {
+      "es": "Antes no era tan organizado como ahora.",
+      "zh": "我以前沒有現在這麼有條理。"
+    },
+    {
+      "es": "Pero he aprendido que la rutina me ayuda a vivir mejor.",
+      "zh": "但我發現規律的生活讓我活得更好。"
+    },
+    {
+      "es": "El próximo año me gustaría cambiar de trabajo si encuentro algo mejor.",
+      "zh": "明年如果找到更好的工作，我想換跑道。"
+    },
+    {
+      "es": "Sea como sea, espero seguir disfrutando de mis pequeñas costumbres.",
+      "zh": "不管怎樣，我希望能繼續享受這些小小的習慣。"
+    },
+    {
+      "es": "Salgo de casa a las ocho para no llegar tarde al trabajo.",
+      "zh": "我八點出門，才不會上班遲到。"
+    },
+    {
+      "es": "Suelo ir a la oficina en transporte público.",
+      "zh": "我通常搭大眾運輸去辦公室。"
+    },
+    {
+      "es": "A media mañana hago una pausa para tomar un café.",
+      "zh": "上午中段我會休息一下喝杯咖啡。"
+    },
+    {
+      "es": "Como algo ligero en el comedor de la empresa.",
+      "zh": "我在公司餐廳吃點清淡的東西。"
+    },
+    {
+      "es": "Por la tarde reviso los correos pendientes.",
+      "zh": "下午我會處理待回的電子郵件。"
+    },
+    {
+      "es": "Al volver, doy un paseo rápido por el parque.",
+      "zh": "回家後，我會去公園快走一下。"
+    },
+    {
+      "es": "Tres veces por semana voy al gimnasio después de cenar.",
+      "zh": "我一週三次在晚餐後去健身房。"
+    },
+    {
+      "es": "Antes de dormir leo unas páginas de una novela.",
+      "zh": "睡覺前我會讀小說幾頁。"
+    },
+    {
+      "es": "Pongo el despertador para el día siguiente.",
+      "zh": "我設好隔天的鬧鐘。"
+    },
+    {
+      "es": "Apenas me queda tiempo libre entre semana.",
+      "zh": "平日我幾乎沒有什麼空閒時間。"
+    }
   ]
 }

@@ -1,55 +1,245 @@
 {
   "title": "Reservando mesa para una cena especial",
   "all": [
-    {"es": "Restaurante La Bodega, buenas tardes, ¿en qué puedo ayudarle?", "zh": "酒窖餐廳午安，請問有什麼能幫您？"},
-    {"es": "Hola, quería reservar una mesa para el sábado que viene.", "zh": "您好，我想訂下週六的位子。"},
-    {"es": "Por supuesto, ¿para cuántas personas será la reserva?", "zh": "當然，請問訂幾位？"},
-    {"es": "Seremos seis adultos y dos niños pequeños.", "zh": "六個大人加兩個小朋友。"},
-    {"es": "Perfecto, ¿a qué hora les gustaría venir?", "zh": "好的，您希望幾點到？"},
-    {"es": "Sobre las nueve de la noche, si tienen disponibilidad.", "zh": "晚上九點左右，如果還有位的話。"},
-    {"es": "Déjeme comprobar en el sistema un momento, por favor.", "zh": "請稍等，我查一下系統。"},
-    {"es": "Sin prisa, espero todo lo que haga falta.", "zh": "不急，我等就好。"},
-    {"es": "A las nueve está completo, pero podría ofrecerle a las nueve y media.", "zh": "九點滿了，但九點半可以。"},
-    {"es": "Las nueve y media nos va perfecto, mejor aún.", "zh": "九點半超好，反而更好。"},
-    {"es": "¿Tiene alguna preferencia de mesa, interior o terraza?", "zh": "您有偏好的座位嗎，室內或露台？"},
-    {"es": "En la terraza, si es posible, que la noche estará buena.", "zh": "如果可以的話露台，那晚天氣應該不錯。"},
-    {"es": "Apuntado, mesa en la terraza para ocho a las nueve y media.", "zh": "記下了，露台八人桌，九點半。"},
-    {"es": "Una cosa más, vamos a celebrar el cumpleaños de mi madre.", "zh": "還有一件事，我們要幫我媽慶生。"},
-    {"es": "¡Cuánto me alegro, dígame si quiere algo especial!", "zh": "真為您開心，要不要安排什麼特別的？"},
-    {"es": "¿Podrían sacar al final una tartita con vela y velita?", "zh": "結尾可不可以上一個小蛋糕插蠟燭？"},
-    {"es": "Sin problema, ¿prefiere de chocolate, queso o tarta de la abuela?", "zh": "沒問題，您想要巧克力、起司，還是奶奶蛋糕？"},
-    {"es": "La de queso le encanta a mi madre, esa sería ideal.", "zh": "我媽最愛起司蛋糕，那個最理想。"},
-    {"es": "Anotado, ¿quiere que le pongamos algún mensaje encima?", "zh": "記下了，要在上面寫訊息嗎？"},
-    {"es": "Sí, por favor, ponga 'Felicidades, mamá' en letras grandes.", "zh": "好啊，請寫『生日快樂，媽媽』大字。"},
-    {"es": "Perfecto, ¿hay alguna alergia o intolerancia en el grupo?", "zh": "好的，桌上有人過敏或不耐受嗎？"},
-    {"es": "Mi cuñada es celíaca, así que necesitaría pan sin gluten.", "zh": "我嫂子有麩質不耐，所以需要無麩質麵包。"},
-    {"es": "Tomamos nota, tenemos varias opciones sin gluten en la carta.", "zh": "記下了，菜單有幾道無麩質選項。"},
-    {"es": "Genial, ¿y para los niños tienen menú especial?", "zh": "讚，小朋友有兒童菜單嗎？"},
-    {"es": "Sí, hay menú infantil con pasta o hamburguesa y postre.", "zh": "有，兒童套餐有義大利麵或漢堡加甜點。"},
-    {"es": "Eso va a ser perfecto, los peques se ponen contentos.", "zh": "太完美了，小朋友會很高興。"},
-    {"es": "¿Algún tipo de vino que quiera que le tengamos preparado?", "zh": "有想要我們先準備的酒嗎？"},
-    {"es": "¿Pueden recomendarme un Ribera del Duero bueno?", "zh": "可以推薦一支不錯的杜羅河岸酒嗎？"},
-    {"es": "Tenemos uno de reserva del año dos mil dieciocho que está espectacular.", "zh": "我們有一支二零一八年的珍藏，非常出色。"},
-    {"es": "Perfecto, déjenos dos botellas listas para abrir.", "zh": "完美，幫我們備兩瓶，準備開瓶。"},
-    {"es": "Marcado en el sistema, ¿algún otro detalle más?", "zh": "系統記下了，還有其他細節嗎？"},
-    {"es": "Me gustaría sentarme yo cerca de mi madre, en cabecera.", "zh": "我想坐在我媽旁邊，桌頭位置。"},
-    {"es": "Sin problema, dejaremos los sitios preparados como nos indique.", "zh": "沒問題，會按您交代的安排座位。"},
-    {"es": "Otra cosa, ¿podemos llegar quince minutos antes para tomar algo?", "zh": "還有，可以提早十五分鐘到先喝一杯嗎？"},
-    {"es": "Claro, tenemos una barra muy agradable junto a la terraza.", "zh": "當然，露台旁有個很舒服的吧台。"},
-    {"es": "Estupendo, así esperamos al resto del grupo allí.", "zh": "太好了，我們可以在那邊等其他人。"},
-    {"es": "¿Me puede dar un nombre y un teléfono para la reserva?", "zh": "可以給我訂位姓名和電話嗎？"},
-    {"es": "El nombre es Carmen García, teléfono seis cinco cinco.", "zh": "姓名卡門·加西亞，電話六五五。"},
-    {"es": "Cuatro tres dos uno nueve, perfecto, ya está confirmado.", "zh": "四三二一九，完美，已經確認了。"},
-    {"es": "¿Necesitan que les envíe un correo de confirmación?", "zh": "需要寄一封確認信給您嗎？"},
-    {"es": "Sí, por favor, así me quedo más tranquila.", "zh": "好的麻煩您，這樣我比較安心。"},
-    {"es": "Ahora mismo se lo mando a la dirección que me indique.", "zh": "我馬上寄到您給我的信箱。"},
-    {"es": "Es carmen.garcia arroba correo punto es.", "zh": "是 carmen.garcia 小老鼠 correo 點 es。"},
-    {"es": "Enviado, le acabará de llegar en uno o dos minutos.", "zh": "寄出了，一兩分鐘內會到。"},
-    {"es": "Muchísimas gracias por todas las atenciones que han tenido.", "zh": "非常感謝您這麼用心的安排。"},
-    {"es": "Para nosotros es un placer, será una velada inolvidable.", "zh": "是我們的榮幸，那會是個難忘的夜晚。"},
-    {"es": "Si surge algún imprevisto, ¿les puedo llamar a este número?", "zh": "如果有突發狀況，可以打這支電話給你們嗎？"},
-    {"es": "Sí, estamos de doce a doce todos los días para lo que necesite.", "zh": "可以，我們每天十二點到十二點都有人。"},
-    {"es": "Pues nos vemos el sábado, muchísimas gracias de nuevo.", "zh": "那週六見，再次非常感謝。"},
-    {"es": "Hasta el sábado, y felicite a su madre de nuestra parte.", "zh": "週六見，請代我們向令堂道賀。"}
+    {
+      "es": "Restaurante La Bodega, buenas tardes, ¿en qué puedo ayudarle?",
+      "zh": "酒窖餐廳午安，請問有什麼能幫您？"
+    },
+    {
+      "es": "Hola, quería reservar una mesa para el sábado que viene.",
+      "zh": "您好，我想訂下週六的位子。"
+    },
+    {
+      "es": "Por supuesto, ¿para cuántas personas será la reserva?",
+      "zh": "當然，請問訂幾位？"
+    },
+    {
+      "es": "Seremos seis adultos y dos niños pequeños.",
+      "zh": "六個大人加兩個小朋友。"
+    },
+    {
+      "es": "Perfecto, ¿a qué hora les gustaría venir?",
+      "zh": "好的，您希望幾點到？"
+    },
+    {
+      "es": "Sobre las nueve de la noche, si tienen disponibilidad.",
+      "zh": "晚上九點左右，如果還有位的話。"
+    },
+    {
+      "es": "Déjeme comprobar en el sistema un momento, por favor.",
+      "zh": "請稍等，我查一下系統。"
+    },
+    {
+      "es": "Sin prisa, espero todo lo que haga falta.",
+      "zh": "不急，我等就好。"
+    },
+    {
+      "es": "A las nueve está completo, pero podría ofrecerle a las nueve y media.",
+      "zh": "九點滿了，但九點半可以。"
+    },
+    {
+      "es": "Las nueve y media nos va perfecto, mejor aún.",
+      "zh": "九點半超好，反而更好。"
+    },
+    {
+      "es": "¿Tiene alguna preferencia de mesa, interior o terraza?",
+      "zh": "您有偏好的座位嗎，室內或露台？"
+    },
+    {
+      "es": "En la terraza, si es posible, que la noche estará buena.",
+      "zh": "如果可以的話露台，那晚天氣應該不錯。"
+    },
+    {
+      "es": "Apuntado, mesa en la terraza para ocho a las nueve y media.",
+      "zh": "記下了，露台八人桌，九點半。"
+    },
+    {
+      "es": "Una cosa más, vamos a celebrar el cumpleaños de mi madre.",
+      "zh": "還有一件事，我們要幫我媽慶生。"
+    },
+    {
+      "es": "¡Cuánto me alegro, dígame si quiere algo especial!",
+      "zh": "真為您開心，要不要安排什麼特別的？"
+    },
+    {
+      "es": "¿Podrían sacar al final una tartita con vela y velita?",
+      "zh": "結尾可不可以上一個小蛋糕插蠟燭？"
+    },
+    {
+      "es": "Sin problema, ¿prefiere de chocolate, queso o tarta de la abuela?",
+      "zh": "沒問題，您想要巧克力、起司，還是奶奶蛋糕？"
+    },
+    {
+      "es": "La de queso le encanta a mi madre, esa sería ideal.",
+      "zh": "我媽最愛起司蛋糕，那個最理想。"
+    },
+    {
+      "es": "Anotado, ¿quiere que le pongamos algún mensaje encima?",
+      "zh": "記下了，要在上面寫訊息嗎？"
+    },
+    {
+      "es": "Sí, por favor, ponga 'Felicidades, mamá' en letras grandes.",
+      "zh": "好啊，請寫『生日快樂，媽媽』大字。"
+    },
+    {
+      "es": "Perfecto, ¿hay alguna alergia o intolerancia en el grupo?",
+      "zh": "好的，桌上有人過敏或不耐受嗎？"
+    },
+    {
+      "es": "Mi cuñada es celíaca, así que necesitaría pan sin gluten.",
+      "zh": "我嫂子有麩質不耐，所以需要無麩質麵包。"
+    },
+    {
+      "es": "Tomamos nota, tenemos varias opciones sin gluten en la carta.",
+      "zh": "記下了，菜單有幾道無麩質選項。"
+    },
+    {
+      "es": "Genial, ¿y para los niños tienen menú especial?",
+      "zh": "讚，小朋友有兒童菜單嗎？"
+    },
+    {
+      "es": "Sí, hay menú infantil con pasta o hamburguesa y postre.",
+      "zh": "有，兒童套餐有義大利麵或漢堡加甜點。"
+    },
+    {
+      "es": "Eso va a ser perfecto, los peques se ponen contentos.",
+      "zh": "太完美了，小朋友會很高興。"
+    },
+    {
+      "es": "¿Algún tipo de vino que quiera que le tengamos preparado?",
+      "zh": "有想要我們先準備的酒嗎？"
+    },
+    {
+      "es": "¿Pueden recomendarme un Ribera del Duero bueno?",
+      "zh": "可以推薦一支不錯的杜羅河岸酒嗎？"
+    },
+    {
+      "es": "Tenemos uno de reserva del año dos mil dieciocho que está espectacular.",
+      "zh": "我們有一支二零一八年的珍藏，非常出色。"
+    },
+    {
+      "es": "Perfecto, déjenos dos botellas listas para abrir.",
+      "zh": "完美，幫我們備兩瓶，準備開瓶。"
+    },
+    {
+      "es": "Marcado en el sistema, ¿algún otro detalle más?",
+      "zh": "系統記下了，還有其他細節嗎？"
+    },
+    {
+      "es": "Me gustaría sentarme yo cerca de mi madre, en cabecera.",
+      "zh": "我想坐在我媽旁邊，桌頭位置。"
+    },
+    {
+      "es": "Sin problema, dejaremos los sitios preparados como nos indique.",
+      "zh": "沒問題，會按您交代的安排座位。"
+    },
+    {
+      "es": "Otra cosa, ¿podemos llegar quince minutos antes para tomar algo?",
+      "zh": "還有，可以提早十五分鐘到先喝一杯嗎？"
+    },
+    {
+      "es": "Claro, tenemos una barra muy agradable junto a la terraza.",
+      "zh": "當然，露台旁有個很舒服的吧台。"
+    },
+    {
+      "es": "Estupendo, así esperamos al resto del grupo allí.",
+      "zh": "太好了，我們可以在那邊等其他人。"
+    },
+    {
+      "es": "¿Me puede dar un nombre y un teléfono para la reserva?",
+      "zh": "可以給我訂位姓名和電話嗎？"
+    },
+    {
+      "es": "El nombre es Carmen García, teléfono seis cinco cinco.",
+      "zh": "姓名卡門·加西亞，電話六五五。"
+    },
+    {
+      "es": "Cuatro tres dos uno nueve, perfecto, ya está confirmado.",
+      "zh": "四三二一九，完美，已經確認了。"
+    },
+    {
+      "es": "¿Necesitan que les envíe un correo de confirmación?",
+      "zh": "需要寄一封確認信給您嗎？"
+    },
+    {
+      "es": "Sí, por favor, así me quedo más tranquila.",
+      "zh": "好的麻煩您，這樣我比較安心。"
+    },
+    {
+      "es": "Ahora mismo se lo mando a la dirección que me indique.",
+      "zh": "我馬上寄到您給我的信箱。"
+    },
+    {
+      "es": "Es carmen.garcia arroba correo punto es.",
+      "zh": "是 carmen.garcia 小老鼠 correo 點 es。"
+    },
+    {
+      "es": "Enviado, le acabará de llegar en uno o dos minutos.",
+      "zh": "寄出了，一兩分鐘內會到。"
+    },
+    {
+      "es": "Muchísimas gracias por todas las atenciones que han tenido.",
+      "zh": "非常感謝您這麼用心的安排。"
+    },
+    {
+      "es": "Para nosotros es un placer, será una velada inolvidable.",
+      "zh": "是我們的榮幸，那會是個難忘的夜晚。"
+    },
+    {
+      "es": "Si surge algún imprevisto, ¿les puedo llamar a este número?",
+      "zh": "如果有突發狀況，可以打這支電話給你們嗎？"
+    },
+    {
+      "es": "Sí, estamos de doce a doce todos los días para lo que necesite.",
+      "zh": "可以，我們每天十二點到十二點都有人。"
+    },
+    {
+      "es": "Pues nos vemos el sábado, muchísimas gracias de nuevo.",
+      "zh": "那週六見，再次非常感謝。"
+    },
+    {
+      "es": "Hasta el sábado, y felicite a su madre de nuestra parte.",
+      "zh": "週六見，請代我們向令堂道賀。"
+    },
+    {
+      "es": "Celebramos el aniversario de boda de mis padres esa noche.",
+      "zh": "那天晚上我們要慶祝我父母的結婚週年。"
+    },
+    {
+      "es": "¿Disponen de una mesa apartada y tranquila junto a la ventana?",
+      "zh": "你們有靠窗安靜一點的位子嗎？"
+    },
+    {
+      "es": "Uno de los comensales es alérgico a los frutos secos.",
+      "zh": "用餐的其中一位對堅果過敏。"
+    },
+    {
+      "es": "¿Sería posible decorar la mesa con un pequeño ramo de flores?",
+      "zh": "可以在桌上擺一小束花裝飾嗎？"
+    },
+    {
+      "es": "Preferimos el primer turno, sobre las ocho y media de la tarde.",
+      "zh": "我們比較想要第一輪，大約晚上八點半。"
+    },
+    {
+      "es": "Le dejo mi número de móvil por si surge cualquier cambio.",
+      "zh": "我留個手機號碼給你，萬一有任何變動好聯絡。"
+    },
+    {
+      "es": "Traeremos nosotros la tarta, ¿hay algún recargo por descorche?",
+      "zh": "蛋糕我們自己帶，請問有開瓶費之類的費用嗎？"
+    },
+    {
+      "es": "Confírmeme, por favor, hasta qué hora guardan la reserva.",
+      "zh": "麻煩跟我確認一下，訂位保留到幾點。"
+    },
+    {
+      "es": "¿Aparcar cerca es complicado un sábado por la noche?",
+      "zh": "星期六晚上在附近停車會很難嗎？"
+    },
+    {
+      "es": "Muchísimas gracias, entonces queda todo apuntado a mi nombre.",
+      "zh": "非常感謝，那就全部登記在我的名下了。"
+    }
   ]
 }

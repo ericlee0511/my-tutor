@@ -1,45 +1,205 @@
 {
   "title": "Pidiendo direcciones por la calle",
   "all": [
-    { "es": "Disculpe, ¿puede ayudarme?", "zh": "不好意思，可以幫我一下嗎？" },
-    { "es": "Claro, dígame.", "zh": "當然，請說。" },
-    { "es": "¿Sabe dónde está la Plaza Mayor?", "zh": "你知道主廣場在哪裡嗎？" },
-    { "es": "Sí, no está muy lejos de aquí.", "zh": "知道，離這裡不遠。" },
-    { "es": "¿Puedo ir caminando?", "zh": "我可以走路過去嗎？" },
-    { "es": "Sí, son unos diez minutos a pie.", "zh": "可以，走路大約十分鐘。" },
-    { "es": "¿Cómo llego allí?", "zh": "我要怎麼到那裡？" },
-    { "es": "Siga todo recto por esta calle.", "zh": "沿著這條街一直往前走。" },
-    { "es": "¿Y después?", "zh": "然後呢？" },
-    { "es": "En el segundo semáforo, gire a la derecha.", "zh": "在第二個紅綠燈右轉。" },
-    { "es": "¿A la derecha?", "zh": "右轉嗎？" },
-    { "es": "Sí, a la derecha. Después camine dos calles más.", "zh": "對，右轉。再走兩條街。" },
-    { "es": "¿La plaza está a la izquierda o a la derecha?", "zh": "廣場在左邊還是右邊？" },
-    { "es": "Está a la izquierda, frente a una iglesia grande.", "zh": "在左邊，正對著一座大教堂。" },
-    { "es": "¿Hay un banco cerca de la plaza?", "zh": "廣場附近有銀行嗎？" },
-    { "es": "Sí, hay uno en la esquina.", "zh": "有，街角有一家。" },
-    { "es": "Perfecto. ¿Y un cajero automático?", "zh": "太好了。那有自動提款機嗎？" },
-    { "es": "También, justo al lado del banco.", "zh": "也有，就在銀行旁邊。" },
-    { "es": "Muchas gracias por su ayuda.", "zh": "非常感謝你的幫忙。" },
-    { "es": "De nada, que tenga un buen día.", "zh": "不客氣，祝你有美好的一天。" },
-    { "es": "Una pregunta más, ¿hay una parada de autobús cerca?", "zh": "再請問一下，附近有公車站嗎？" },
-    { "es": "Sí, en la próxima esquina, a la izquierda.", "zh": "有，下一個街角左邊。" },
-    { "es": "¿Qué autobús va al centro?", "zh": "哪一班公車到市中心？" },
-    { "es": "El número quince y el veintidós también.", "zh": "十五號，二十二號也可以。" },
-    { "es": "¿Pasan a menudo?", "zh": "車子常來嗎？" },
-    { "es": "Sí, cada diez o quince minutos.", "zh": "有，大概每十到十五分鐘一班。" },
-    { "es": "¿Cuánto cuesta el billete?", "zh": "車票多少錢？" },
-    { "es": "Un euro con cincuenta el sencillo.", "zh": "單程一點五歐元。" },
-    { "es": "¿Y dónde compro el billete?", "zh": "車票要在哪裡買？" },
-    { "es": "Directamente en el autobús, al conductor.", "zh": "直接在公車上跟司機買。" },
-    { "es": "¿También hay metro por aquí?", "zh": "這附近也有地鐵嗎？" },
-    { "es": "Sí, la estación está al otro lado de la plaza.", "zh": "有，車站在廣場的另一邊。" },
-    { "es": "¿Y un taxi? ¿Dónde puedo coger uno?", "zh": "那計程車呢？我要在哪裡攔？" },
-    { "es": "Hay una parada de taxis justo enfrente del banco.", "zh": "銀行對面就有一個計程車招呼站。" },
-    { "es": "¿Es seguro caminar por la noche por aquí?", "zh": "晚上在這附近走路安全嗎？" },
-    { "es": "Sí, es una zona muy tranquila.", "zh": "安全，這一帶很安靜。" },
-    { "es": "Es usted muy amable, muchas gracias.", "zh": "你真的很親切，非常感謝。" },
-    { "es": "No hay de qué, suerte con su paseo.", "zh": "不客氣，祝你散步愉快。" },
-    { "es": "Adiós, que tenga buena tarde.", "zh": "再見，祝你下午愉快。" },
-    { "es": "Igualmente, hasta luego.", "zh": "你也是，再見。" }
+    {
+      "es": "Disculpe, ¿puede ayudarme?",
+      "zh": "不好意思，可以幫我一下嗎？"
+    },
+    {
+      "es": "Claro, dígame.",
+      "zh": "當然，請說。"
+    },
+    {
+      "es": "¿Sabe dónde está la Plaza Mayor?",
+      "zh": "你知道主廣場在哪裡嗎？"
+    },
+    {
+      "es": "Sí, no está muy lejos de aquí.",
+      "zh": "知道，離這裡不遠。"
+    },
+    {
+      "es": "¿Puedo ir caminando?",
+      "zh": "我可以走路過去嗎？"
+    },
+    {
+      "es": "Sí, son unos diez minutos a pie.",
+      "zh": "可以，走路大約十分鐘。"
+    },
+    {
+      "es": "¿Cómo llego allí?",
+      "zh": "我要怎麼到那裡？"
+    },
+    {
+      "es": "Siga todo recto por esta calle.",
+      "zh": "沿著這條街一直往前走。"
+    },
+    {
+      "es": "¿Y después?",
+      "zh": "然後呢？"
+    },
+    {
+      "es": "En el segundo semáforo, gire a la derecha.",
+      "zh": "在第二個紅綠燈右轉。"
+    },
+    {
+      "es": "¿A la derecha?",
+      "zh": "右轉嗎？"
+    },
+    {
+      "es": "Sí, a la derecha. Después camine dos calles más.",
+      "zh": "對，右轉。再走兩條街。"
+    },
+    {
+      "es": "¿La plaza está a la izquierda o a la derecha?",
+      "zh": "廣場在左邊還是右邊？"
+    },
+    {
+      "es": "Está a la izquierda, frente a una iglesia grande.",
+      "zh": "在左邊，正對著一座大教堂。"
+    },
+    {
+      "es": "¿Hay un banco cerca de la plaza?",
+      "zh": "廣場附近有銀行嗎？"
+    },
+    {
+      "es": "Sí, hay uno en la esquina.",
+      "zh": "有，街角有一家。"
+    },
+    {
+      "es": "Perfecto. ¿Y un cajero automático?",
+      "zh": "太好了。那有自動提款機嗎？"
+    },
+    {
+      "es": "También, justo al lado del banco.",
+      "zh": "也有，就在銀行旁邊。"
+    },
+    {
+      "es": "Muchas gracias por su ayuda.",
+      "zh": "非常感謝你的幫忙。"
+    },
+    {
+      "es": "De nada, que tenga un buen día.",
+      "zh": "不客氣，祝你有美好的一天。"
+    },
+    {
+      "es": "Una pregunta más, ¿hay una parada de autobús cerca?",
+      "zh": "再請問一下，附近有公車站嗎？"
+    },
+    {
+      "es": "Sí, en la próxima esquina, a la izquierda.",
+      "zh": "有，下一個街角左邊。"
+    },
+    {
+      "es": "¿Qué autobús va al centro?",
+      "zh": "哪一班公車到市中心？"
+    },
+    {
+      "es": "El número quince y el veintidós también.",
+      "zh": "十五號，二十二號也可以。"
+    },
+    {
+      "es": "¿Pasan a menudo?",
+      "zh": "車子常來嗎？"
+    },
+    {
+      "es": "Sí, cada diez o quince minutos.",
+      "zh": "有，大概每十到十五分鐘一班。"
+    },
+    {
+      "es": "¿Cuánto cuesta el billete?",
+      "zh": "車票多少錢？"
+    },
+    {
+      "es": "Un euro con cincuenta el sencillo.",
+      "zh": "單程一點五歐元。"
+    },
+    {
+      "es": "¿Y dónde compro el billete?",
+      "zh": "車票要在哪裡買？"
+    },
+    {
+      "es": "Directamente en el autobús, al conductor.",
+      "zh": "直接在公車上跟司機買。"
+    },
+    {
+      "es": "¿También hay metro por aquí?",
+      "zh": "這附近也有地鐵嗎？"
+    },
+    {
+      "es": "Sí, la estación está al otro lado de la plaza.",
+      "zh": "有，車站在廣場的另一邊。"
+    },
+    {
+      "es": "¿Y un taxi? ¿Dónde puedo coger uno?",
+      "zh": "那計程車呢？我要在哪裡攔？"
+    },
+    {
+      "es": "Hay una parada de taxis justo enfrente del banco.",
+      "zh": "銀行對面就有一個計程車招呼站。"
+    },
+    {
+      "es": "¿Es seguro caminar por la noche por aquí?",
+      "zh": "晚上在這附近走路安全嗎？"
+    },
+    {
+      "es": "Sí, es una zona muy tranquila.",
+      "zh": "安全，這一帶很安靜。"
+    },
+    {
+      "es": "Es usted muy amable, muchas gracias.",
+      "zh": "你真的很親切，非常感謝。"
+    },
+    {
+      "es": "No hay de qué, suerte con su paseo.",
+      "zh": "不客氣，祝你散步愉快。"
+    },
+    {
+      "es": "Adiós, que tenga buena tarde.",
+      "zh": "再見，祝你下午愉快。"
+    },
+    {
+      "es": "Igualmente, hasta luego.",
+      "zh": "你也是，再見。"
+    },
+    {
+      "es": "¿Está muy lejos la estación de metro más cercana?",
+      "zh": "最近的地鐵站離這裡很遠嗎？"
+    },
+    {
+      "es": "Siga todo recto hasta el segundo semáforo.",
+      "zh": "一直直走到第二個紅綠燈。"
+    },
+    {
+      "es": "Después gire a la izquierda en la esquina.",
+      "zh": "然後在轉角處左轉。"
+    },
+    {
+      "es": "El museo queda justo enfrente del parque.",
+      "zh": "博物館就在公園的正對面。"
+    },
+    {
+      "es": "¿Puedo ir andando o es mejor coger el autobús?",
+      "zh": "我可以走路去還是搭公車比較好？"
+    },
+    {
+      "es": "Tiene que cruzar el puente y luego subir la cuesta.",
+      "zh": "你得過橋，然後爬上那個坡。"
+    },
+    {
+      "es": "Perdone, ¿este camino lleva al centro histórico?",
+      "zh": "請問這條路通往歷史古城區嗎？"
+    },
+    {
+      "es": "Está a unos diez minutos a pie desde aquí.",
+      "zh": "從這裡走路大約十分鐘就到。"
+    },
+    {
+      "es": "Me he perdido y no encuentro mi hotel.",
+      "zh": "我迷路了，找不到我的飯店。"
+    },
+    {
+      "es": "Gracias por su ayuda, ha sido muy amable.",
+      "zh": "謝謝你的幫忙，你人真好。"
+    }
   ]
 }

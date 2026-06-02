@@ -1,55 +1,245 @@
 {
   "title": "Pidiendo comida a domicilio",
   "all": [
-    {"es": "Estoy muerto de hambre, ¿pedimos algo a domicilio esta noche?", "zh": "我快餓死了，今晚我們叫外送好不好？"},
-    {"es": "Por mí perfecto, no tengo ningunas ganas de cocinar hoy.", "zh": "我超贊成，今天完全不想下廚。"},
-    {"es": "¿Qué te apetece, pizza, sushi, o probamos el tailandés nuevo?", "zh": "你想吃什麼，披薩、壽司，還是試試那間新的泰式？"},
-    {"es": "El tailandés me llama la atención, abre la app a ver qué tienen.", "zh": "泰式吸引我，打開 app 看看他們有什麼。"},
-    {"es": "Mira, tienen pad thai, curry verde y unos rollitos de primavera.", "zh": "你看，他們有泰式炒河粉、青咖哩和春捲。"},
-    {"es": "Pide curry verde con pollo, y una ración de arroz jazmín extra.", "zh": "點青咖哩雞，再加一份茉莉香米飯。"},
-    {"es": "¿Pollo o ternera para el segundo plato?", "zh": "第二道菜要雞肉還是牛肉？"},
-    {"es": "Mejor ternera, que la del otro día estaba muy tierna.", "zh": "牛肉好了，上次那道很嫩。"},
-    {"es": "También unos rollitos, ¿cuántos pongo, cuatro o seis?", "zh": "再加春捲，要點幾個，四個還是六個？"},
-    {"es": "Seis, que si sobran me los como yo mañana fríos.", "zh": "六個吧，剩下的我明天冷的也吃。"},
-    {"es": "Pone aquí que el tiempo estimado de entrega es de cuarenta minutos.", "zh": "這裡寫預計送達時間四十分鐘。"},
-    {"es": "Vaya, qué tarde, ¿no hay otra opción más rápida?", "zh": "哇好久，沒有更快的選項嗎？"},
-    {"es": "Es viernes por la noche, todos los restaurantes están saturados.", "zh": "週五晚上，所有餐廳都爆滿。"},
-    {"es": "Vale, dale a confirmar antes de que tarden aún más.", "zh": "好，趕快按確認，不然會更久。"},
-    {"es": "¿Pago con tarjeta o con efectivo al repartidor?", "zh": "用卡付還是給外送員現金？"},
-    {"es": "Con tarjeta, así no tenemos que buscar cambio.", "zh": "刷卡吧，免得還要找零錢。"},
-    {"es": "Listo, pedido confirmado, número siete cuatro tres.", "zh": "好了，訂單確認，編號七四三。"},
-    {"es": "Mientras esperamos, ¿pongo una serie en la tele?", "zh": "等的時候我開個劇來看好不好？"},
-    {"es": "Sí, pero algo cortito, que no quiero engancharme antes de cenar.", "zh": "好，但選短一點的，不想吃飯前就追下去。"},
-    {"es": "Mira, ya están preparando el pedido en la cocina.", "zh": "你看，廚房已經在準備餐點了。"},
-    {"es": "Qué bien, esta app te avisa de cada paso, es muy cómoda.", "zh": "真好，這 app 每個步驟都通知，很方便。"},
-    {"es": "Espera, me ha llegado un mensaje del restaurante.", "zh": "等等，餐廳傳訊息給我。"},
-    {"es": "Dicen que se les ha acabado la ternera, ¿cambio el plato?", "zh": "他們說牛肉賣完了，要換菜嗎？"},
-    {"es": "Vaya hombre, pues que lo cambien por pollo entonces.", "zh": "真衰，那就換成雞肉吧。"},
-    {"es": "Voy a contestarles por el chat ahora mismo.", "zh": "我馬上在聊天視窗回他們。"},
-    {"es": "Hola, sin problema, cámbienlo por pollo, gracias por avisar.", "zh": "你好，沒問題，換成雞肉就好，謝謝告知。"},
-    {"es": "Genial, ya lo han confirmado, dicen que sale en diez minutos.", "zh": "讚，他們確認了，說十分鐘後出餐。"},
-    {"es": "Aprovecho para sacar los platos y poner la mesa.", "zh": "我趁機拿盤子來擺桌。"},
-    {"es": "Saca también la salsa picante de la nevera, por favor.", "zh": "順便從冰箱拿辣醬出來，麻煩你。"},
-    {"es": "El repartidor ya está en camino, según el mapa.", "zh": "地圖顯示外送員已經在路上。"},
-    {"es": "¿Cuánto le pongo de propina, dos euros está bien?", "zh": "小費給多少，兩歐元可以嗎？"},
-    {"es": "Yo le daría tres, que está lloviendo y vienen de lejos.", "zh": "我會給三歐，下著雨而且他們從很遠來。"},
-    {"es": "Tienes razón, pobre hombre con esta tormenta.", "zh": "你說得對，這暴雨天好可憐。"},
-    {"es": "Mira, ya está a dos calles de aquí.", "zh": "你看，他已經到兩條街外了。"},
-    {"es": "Bajo a recibirlo al portal para que no se moje más.", "zh": "我下樓到大門口接他，免得他淋更濕。"},
-    {"es": "Vale, yo voy calentando los platos en el microondas.", "zh": "好，我先用微波爐把盤子熱一下。"},
-    {"es": "¡Buenas, traigo el pedido para el tercero B!", "zh": "你好，我送三樓 B 的餐點！"},
-    {"es": "Soy yo, muchas gracias por venir con la que está cayendo.", "zh": "是我，謝謝你這種天氣還來。"},
-    {"es": "Aquí tiene todo, dos bolsas, una de comida y otra de bebida.", "zh": "這給您，兩袋，一袋餐點一袋飲料。"},
-    {"es": "Tome la propina, y cuídese mucho ahí fuera.", "zh": "小費給你，外面路上多保重。"},
-    {"es": "Muchísimas gracias, que aprovechen la cena.", "zh": "非常感謝，祝你們用餐愉快。"},
-    {"es": "Sube las bolsas, que huele increíble desde aquí.", "zh": "袋子拿上來，從這裡就聞到香味了。"},
-    {"es": "Mira qué cantidad, no nos lo vamos a poder acabar todo.", "zh": "你看這麼多，我們吃不完。"},
-    {"es": "Mejor, así me llevo lo que sobre al trabajo mañana.", "zh": "更好，這樣我明天帶剩下的去公司吃。"},
-    {"es": "Prueba el curry, está en su punto justo de picante.", "zh": "嚐嚐咖哩，辣度剛剛好。"},
-    {"es": "¡Está buenísimo, este sitio se ha ganado un cliente fijo!", "zh": "超好吃，這家從此變我們愛店了！"},
-    {"es": "Acuérdate de valorarles cinco estrellas en la aplicación.", "zh": "記得在 app 上給他們五顆星。"},
-    {"es": "Lo hago ahora mismo, y dejo un comentario bonito también.", "zh": "我現在就打分，順便留個好評。"},
-    {"es": "Después de cenar nos quedamos hechos polvo en el sofá.", "zh": "吃完飯我們會癱在沙發上動不了。"},
-    {"es": "Pues ya está decidido, viernes de comida a domicilio fijo.", "zh": "那就決定了，從此週五固定叫外送。"}
+    {
+      "es": "Estoy muerto de hambre, ¿pedimos algo a domicilio esta noche?",
+      "zh": "我快餓死了，今晚我們叫外送好不好？"
+    },
+    {
+      "es": "Por mí perfecto, no tengo ningunas ganas de cocinar hoy.",
+      "zh": "我超贊成，今天完全不想下廚。"
+    },
+    {
+      "es": "¿Qué te apetece, pizza, sushi, o probamos el tailandés nuevo?",
+      "zh": "你想吃什麼，披薩、壽司，還是試試那間新的泰式？"
+    },
+    {
+      "es": "El tailandés me llama la atención, abre la app a ver qué tienen.",
+      "zh": "泰式吸引我，打開 app 看看他們有什麼。"
+    },
+    {
+      "es": "Mira, tienen pad thai, curry verde y unos rollitos de primavera.",
+      "zh": "你看，他們有泰式炒河粉、青咖哩和春捲。"
+    },
+    {
+      "es": "Pide curry verde con pollo, y una ración de arroz jazmín extra.",
+      "zh": "點青咖哩雞，再加一份茉莉香米飯。"
+    },
+    {
+      "es": "¿Pollo o ternera para el segundo plato?",
+      "zh": "第二道菜要雞肉還是牛肉？"
+    },
+    {
+      "es": "Mejor ternera, que la del otro día estaba muy tierna.",
+      "zh": "牛肉好了，上次那道很嫩。"
+    },
+    {
+      "es": "También unos rollitos, ¿cuántos pongo, cuatro o seis?",
+      "zh": "再加春捲，要點幾個，四個還是六個？"
+    },
+    {
+      "es": "Seis, que si sobran me los como yo mañana fríos.",
+      "zh": "六個吧，剩下的我明天冷的也吃。"
+    },
+    {
+      "es": "Pone aquí que el tiempo estimado de entrega es de cuarenta minutos.",
+      "zh": "這裡寫預計送達時間四十分鐘。"
+    },
+    {
+      "es": "Vaya, qué tarde, ¿no hay otra opción más rápida?",
+      "zh": "哇好久，沒有更快的選項嗎？"
+    },
+    {
+      "es": "Es viernes por la noche, todos los restaurantes están saturados.",
+      "zh": "週五晚上，所有餐廳都爆滿。"
+    },
+    {
+      "es": "Vale, dale a confirmar antes de que tarden aún más.",
+      "zh": "好，趕快按確認，不然會更久。"
+    },
+    {
+      "es": "¿Pago con tarjeta o con efectivo al repartidor?",
+      "zh": "用卡付還是給外送員現金？"
+    },
+    {
+      "es": "Con tarjeta, así no tenemos que buscar cambio.",
+      "zh": "刷卡吧，免得還要找零錢。"
+    },
+    {
+      "es": "Listo, pedido confirmado, número siete cuatro tres.",
+      "zh": "好了，訂單確認，編號七四三。"
+    },
+    {
+      "es": "Mientras esperamos, ¿pongo una serie en la tele?",
+      "zh": "等的時候我開個劇來看好不好？"
+    },
+    {
+      "es": "Sí, pero algo cortito, que no quiero engancharme antes de cenar.",
+      "zh": "好，但選短一點的，不想吃飯前就追下去。"
+    },
+    {
+      "es": "Mira, ya están preparando el pedido en la cocina.",
+      "zh": "你看，廚房已經在準備餐點了。"
+    },
+    {
+      "es": "Qué bien, esta app te avisa de cada paso, es muy cómoda.",
+      "zh": "真好，這 app 每個步驟都通知，很方便。"
+    },
+    {
+      "es": "Espera, me ha llegado un mensaje del restaurante.",
+      "zh": "等等，餐廳傳訊息給我。"
+    },
+    {
+      "es": "Dicen que se les ha acabado la ternera, ¿cambio el plato?",
+      "zh": "他們說牛肉賣完了，要換菜嗎？"
+    },
+    {
+      "es": "Vaya hombre, pues que lo cambien por pollo entonces.",
+      "zh": "真衰，那就換成雞肉吧。"
+    },
+    {
+      "es": "Voy a contestarles por el chat ahora mismo.",
+      "zh": "我馬上在聊天視窗回他們。"
+    },
+    {
+      "es": "Hola, sin problema, cámbienlo por pollo, gracias por avisar.",
+      "zh": "你好，沒問題，換成雞肉就好，謝謝告知。"
+    },
+    {
+      "es": "Genial, ya lo han confirmado, dicen que sale en diez minutos.",
+      "zh": "讚，他們確認了，說十分鐘後出餐。"
+    },
+    {
+      "es": "Aprovecho para sacar los platos y poner la mesa.",
+      "zh": "我趁機拿盤子來擺桌。"
+    },
+    {
+      "es": "Saca también la salsa picante de la nevera, por favor.",
+      "zh": "順便從冰箱拿辣醬出來，麻煩你。"
+    },
+    {
+      "es": "El repartidor ya está en camino, según el mapa.",
+      "zh": "地圖顯示外送員已經在路上。"
+    },
+    {
+      "es": "¿Cuánto le pongo de propina, dos euros está bien?",
+      "zh": "小費給多少，兩歐元可以嗎？"
+    },
+    {
+      "es": "Yo le daría tres, que está lloviendo y vienen de lejos.",
+      "zh": "我會給三歐，下著雨而且他們從很遠來。"
+    },
+    {
+      "es": "Tienes razón, pobre hombre con esta tormenta.",
+      "zh": "你說得對，這暴雨天好可憐。"
+    },
+    {
+      "es": "Mira, ya está a dos calles de aquí.",
+      "zh": "你看，他已經到兩條街外了。"
+    },
+    {
+      "es": "Bajo a recibirlo al portal para que no se moje más.",
+      "zh": "我下樓到大門口接他，免得他淋更濕。"
+    },
+    {
+      "es": "Vale, yo voy calentando los platos en el microondas.",
+      "zh": "好，我先用微波爐把盤子熱一下。"
+    },
+    {
+      "es": "¡Buenas, traigo el pedido para el tercero B!",
+      "zh": "你好，我送三樓 B 的餐點！"
+    },
+    {
+      "es": "Soy yo, muchas gracias por venir con la que está cayendo.",
+      "zh": "是我，謝謝你這種天氣還來。"
+    },
+    {
+      "es": "Aquí tiene todo, dos bolsas, una de comida y otra de bebida.",
+      "zh": "這給您，兩袋，一袋餐點一袋飲料。"
+    },
+    {
+      "es": "Tome la propina, y cuídese mucho ahí fuera.",
+      "zh": "小費給你，外面路上多保重。"
+    },
+    {
+      "es": "Muchísimas gracias, que aprovechen la cena.",
+      "zh": "非常感謝，祝你們用餐愉快。"
+    },
+    {
+      "es": "Sube las bolsas, que huele increíble desde aquí.",
+      "zh": "袋子拿上來，從這裡就聞到香味了。"
+    },
+    {
+      "es": "Mira qué cantidad, no nos lo vamos a poder acabar todo.",
+      "zh": "你看這麼多，我們吃不完。"
+    },
+    {
+      "es": "Mejor, así me llevo lo que sobre al trabajo mañana.",
+      "zh": "更好，這樣我明天帶剩下的去公司吃。"
+    },
+    {
+      "es": "Prueba el curry, está en su punto justo de picante.",
+      "zh": "嚐嚐咖哩，辣度剛剛好。"
+    },
+    {
+      "es": "¡Está buenísimo, este sitio se ha ganado un cliente fijo!",
+      "zh": "超好吃，這家從此變我們愛店了！"
+    },
+    {
+      "es": "Acuérdate de valorarles cinco estrellas en la aplicación.",
+      "zh": "記得在 app 上給他們五顆星。"
+    },
+    {
+      "es": "Lo hago ahora mismo, y dejo un comentario bonito también.",
+      "zh": "我現在就打分，順便留個好評。"
+    },
+    {
+      "es": "Después de cenar nos quedamos hechos polvo en el sofá.",
+      "zh": "吃完飯我們會癱在沙發上動不了。"
+    },
+    {
+      "es": "Pues ya está decidido, viernes de comida a domicilio fijo.",
+      "zh": "那就決定了，從此週五固定叫外送。"
+    },
+    {
+      "es": "El repartidor dice que tardará unos cuarenta minutos en llegar.",
+      "zh": "外送員說大約四十分鐘後會到。"
+    },
+    {
+      "es": "Añade unos rollitos de primavera, que con uno no nos llega.",
+      "zh": "再加幾份春捲，只點一份不夠我們吃。"
+    },
+    {
+      "es": "Paga tú con la tarjeta y luego ya nos repartimos la cuenta.",
+      "zh": "你先用卡付，之後我們再分攤帳單。"
+    },
+    {
+      "es": "Acuérdate de poner el código del portal en las observaciones.",
+      "zh": "記得把大門密碼寫在備註欄裡。"
+    },
+    {
+      "es": "Han mandado un cupón de descuento por ser nuestro primer pedido.",
+      "zh": "因為是我們第一次點，他們送了一張折價券。"
+    },
+    {
+      "es": "Pon unos platos en la mesa baja, comemos viendo la serie.",
+      "zh": "在矮桌上擺幾個盤子，我們邊看影集邊吃。"
+    },
+    {
+      "es": "El curri picante venía sin avisar y casi me arde la lengua.",
+      "zh": "那份咖哩沒先說會辣，差點把我舌頭辣到了。"
+    },
+    {
+      "es": "Deja una buena propina, que ha venido bajo la lluvia.",
+      "zh": "給個不錯的小費吧，他冒著雨送來的。"
+    },
+    {
+      "es": "Guarda las sobras en la nevera para mañana al mediodía.",
+      "zh": "把剩菜放進冰箱，留到明天中午吃。"
+    },
+    {
+      "es": "Valora el pedido en la aplicación para que repitan la calidad.",
+      "zh": "在應用程式上給這次訂單評價，讓他們維持品質。"
+    }
   ]
 }

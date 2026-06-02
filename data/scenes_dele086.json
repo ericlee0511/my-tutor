@@ -1,55 +1,245 @@
 {
   "title": "Primera cita por una aplicación",
   "all": [
-    {"es": "Hola, ¿eres Daniel, verdad? Te he reconocido por la foto.", "zh": "嗨，你是 Daniel 對吧？我從照片認出你了。"},
-    {"es": "Sí, soy yo, encantado de conocerte en persona.", "zh": "對，是我，很高興本人見到你。"},
-    {"es": "Lo mismo digo, perdona si llego un poco tarde.", "zh": "我也是，抱歉我有點遲到。"},
-    {"es": "Tranquila, acabo de llegar yo también, sin problema.", "zh": "別擔心，我也剛到而已，沒事。"},
-    {"es": "¿Entramos? La terraza estará llena con este sol.", "zh": "我們進去吧？這種太陽外面位子應該滿了。"},
-    {"es": "Mejor dentro, hablamos más tranquilos sin ruido.", "zh": "裡面比較好，不會吵，可以聊得舒服。"},
-    {"es": "Esta cafetería me la recomendó una amiga, ¿la conocías?", "zh": "這家咖啡店是朋友推薦的，你來過嗎？"},
-    {"es": "Había pasado por delante, pero nunca había entrado.", "zh": "我有經過，但從沒進來過。"},
-    {"es": "Pues los cafés están buenísimos, vas a ver.", "zh": "他們的咖啡超好喝，你等下就知道。"},
-    {"es": "Me fío de tu criterio, pide tú por los dos.", "zh": "我相信你的眼光，你幫兩個人都點。"},
-    {"es": "Bueno, cuéntame, ¿a qué te dedicas exactamente?", "zh": "好，跟我說說，你到底是做什麼的？"},
-    {"es": "Trabajo en una empresa de diseño gráfico, hago carteles.", "zh": "我在一家平面設計公司，做海報。"},
-    {"es": "Qué interesante, suena mucho más creativo que lo mío.", "zh": "好有趣，聽起來比我工作有創意多了。"},
-    {"es": "¿Y tú? En el perfil no ponía mucho, la verdad.", "zh": "你呢？老實說你個人檔上寫得不多。"},
-    {"es": "Soy profesora de instituto, doy clases de historia.", "zh": "我是高中老師，教歷史。"},
-    {"es": "Vaya, mi asignatura favorita en el colegio, en serio.", "zh": "哇，我中學最愛的科目，真的。"},
-    {"es": "Pues somos pocos los que decimos eso, no te creas.", "zh": "這樣說的人沒幾個，不要騙我。"},
-    {"es": "Te lo juro, me encantaba todo lo de Roma y Grecia.", "zh": "我發誓，羅馬希臘那些我都超愛。"},
-    {"es": "Entonces nos vamos a entender bien, eso lo veo.", "zh": "那我們應該很合得來，我看得出來。"},
-    {"es": "Oye, ¿qué te gusta hacer en tu tiempo libre?", "zh": "欸，你空閒時間喜歡做什麼？"},
-    {"es": "Salir a correr, leer un poco, ver series, lo típico.", "zh": "跑步、讀點書、看劇，很普通。"},
-    {"es": "Yo también corro, los domingos por el parque del río.", "zh": "我也跑步，週日在河邊公園跑。"},
-    {"es": "¡Qué casualidad, yo voy por la misma zona!", "zh": "好巧，我也去同個地方！"},
-    {"es": "A lo mejor nos hemos cruzado sin saberlo, quién sabe.", "zh": "搞不好我們擦身而過都不知道。"},
-    {"es": "Lo dudo, recordaría una cara como la tuya.", "zh": "我不信，像你這樣的臉我會記得。"},
-    {"es": "Eres un poco lanzado, ¿lo sabías?", "zh": "你還挺會講話的耶，知道嗎？"},
-    {"es": "Solo digo lo que pienso, no te asustes.", "zh": "我只是說實話，別嚇到。"},
-    {"es": "No me asusto fácil, tranquilo.", "zh": "我不容易被嚇到，放心。"},
-    {"es": "¿Y de viajes? ¿Tienes algún sitio favorito?", "zh": "旅行呢？有沒有什麼最愛的地方？"},
-    {"es": "Italia me robó el corazón hace un par de veranos.", "zh": "前年夏天義大利讓我著迷。"},
-    {"es": "A mí me pasó lo mismo con Portugal el año pasado.", "zh": "去年葡萄牙也讓我有同樣感覺。"},
-    {"es": "Lisboa o Oporto, ¿con cuál te quedas?", "zh": "里斯本還是波多，你選哪個？"},
-    {"es": "Oporto, sin dudarlo, mucho más auténtico.", "zh": "波多，毫不猶豫，更道地。"},
-    {"es": "Coincidimos otra vez, qué cosas.", "zh": "又一樣，太巧了。"},
-    {"es": "Empiezo a pensar que esta app sabe lo que hace.", "zh": "我開始覺得這個 app 還挺會配的。"},
-    {"es": "No te emociones tanto, todavía no me has visto comer.", "zh": "別高興太早，你還沒看過我吃東西的樣子。"},
-    {"es": "Jajaja, ¿tan mal comes? Cuéntame.", "zh": "哈哈，你吃相有那麼糟嗎？說來聽聽。"},
-    {"es": "Hablo con la boca llena, mi madre se rinde conmigo.", "zh": "我會嘴巴塞滿邊講話，我媽拿我沒辦法。"},
-    {"es": "Eso lo arreglo yo en la próxima cita.", "zh": "這個下次約會我來糾正。"},
-    {"es": "¿Ya estás planeando la próxima? Qué rapidez.", "zh": "已經在計畫下一次了？動作好快。"},
-    {"es": "Es que me lo estoy pasando muy bien contigo.", "zh": "因為我跟你聊得很開心。"},
-    {"es": "Mira, voy a ser sincera, yo también, mucho.", "zh": "我跟你說實話，我也是，非常開心。"},
-    {"es": "¿Entonces qué te parece si quedamos el sábado?", "zh": "那週六見一次怎樣？"},
-    {"es": "Por la tarde mejor, por la mañana tengo cosas.", "zh": "下午比較好，早上有事。"},
-    {"es": "Perfecto, podemos ir a una exposición que me apetece ver.", "zh": "完美，我們可以去一個我想看的展覽。"},
-    {"es": "Me apunto, hace siglos que no voy a una.", "zh": "我加入，我超久沒去看展了。"},
-    {"es": "Te mando los detalles por mensaje esta noche.", "zh": "今晚我傳細節給你。"},
-    {"es": "Vale, voy pidiendo la cuenta antes de que se haga tarde.", "zh": "好，趁還沒太晚我來叫帳單。"},
-    {"es": "Esta la pago yo, la próxima invitas tú, ¿trato?", "zh": "這頓我付，下次你請，說定了？"},
-    {"es": "Trato hecho, hasta el sábado, ha sido genial.", "zh": "說定了，週六見，今天真的很棒。"}
+    {
+      "es": "Hola, ¿eres Daniel, verdad? Te he reconocido por la foto.",
+      "zh": "嗨，你是 Daniel 對吧？我從照片認出你了。"
+    },
+    {
+      "es": "Sí, soy yo, encantado de conocerte en persona.",
+      "zh": "對，是我，很高興本人見到你。"
+    },
+    {
+      "es": "Lo mismo digo, perdona si llego un poco tarde.",
+      "zh": "我也是，抱歉我有點遲到。"
+    },
+    {
+      "es": "Tranquila, acabo de llegar yo también, sin problema.",
+      "zh": "別擔心，我也剛到而已，沒事。"
+    },
+    {
+      "es": "¿Entramos? La terraza estará llena con este sol.",
+      "zh": "我們進去吧？這種太陽外面位子應該滿了。"
+    },
+    {
+      "es": "Mejor dentro, hablamos más tranquilos sin ruido.",
+      "zh": "裡面比較好，不會吵，可以聊得舒服。"
+    },
+    {
+      "es": "Esta cafetería me la recomendó una amiga, ¿la conocías?",
+      "zh": "這家咖啡店是朋友推薦的，你來過嗎？"
+    },
+    {
+      "es": "Había pasado por delante, pero nunca había entrado.",
+      "zh": "我有經過，但從沒進來過。"
+    },
+    {
+      "es": "Pues los cafés están buenísimos, vas a ver.",
+      "zh": "他們的咖啡超好喝，你等下就知道。"
+    },
+    {
+      "es": "Me fío de tu criterio, pide tú por los dos.",
+      "zh": "我相信你的眼光，你幫兩個人都點。"
+    },
+    {
+      "es": "Bueno, cuéntame, ¿a qué te dedicas exactamente?",
+      "zh": "好，跟我說說，你到底是做什麼的？"
+    },
+    {
+      "es": "Trabajo en una empresa de diseño gráfico, hago carteles.",
+      "zh": "我在一家平面設計公司，做海報。"
+    },
+    {
+      "es": "Qué interesante, suena mucho más creativo que lo mío.",
+      "zh": "好有趣，聽起來比我工作有創意多了。"
+    },
+    {
+      "es": "¿Y tú? En el perfil no ponía mucho, la verdad.",
+      "zh": "你呢？老實說你個人檔上寫得不多。"
+    },
+    {
+      "es": "Soy profesora de instituto, doy clases de historia.",
+      "zh": "我是高中老師，教歷史。"
+    },
+    {
+      "es": "Vaya, mi asignatura favorita en el colegio, en serio.",
+      "zh": "哇，我中學最愛的科目，真的。"
+    },
+    {
+      "es": "Pues somos pocos los que decimos eso, no te creas.",
+      "zh": "這樣說的人沒幾個，不要騙我。"
+    },
+    {
+      "es": "Te lo juro, me encantaba todo lo de Roma y Grecia.",
+      "zh": "我發誓，羅馬希臘那些我都超愛。"
+    },
+    {
+      "es": "Entonces nos vamos a entender bien, eso lo veo.",
+      "zh": "那我們應該很合得來，我看得出來。"
+    },
+    {
+      "es": "Oye, ¿qué te gusta hacer en tu tiempo libre?",
+      "zh": "欸，你空閒時間喜歡做什麼？"
+    },
+    {
+      "es": "Salir a correr, leer un poco, ver series, lo típico.",
+      "zh": "跑步、讀點書、看劇，很普通。"
+    },
+    {
+      "es": "Yo también corro, los domingos por el parque del río.",
+      "zh": "我也跑步，週日在河邊公園跑。"
+    },
+    {
+      "es": "¡Qué casualidad, yo voy por la misma zona!",
+      "zh": "好巧，我也去同個地方！"
+    },
+    {
+      "es": "A lo mejor nos hemos cruzado sin saberlo, quién sabe.",
+      "zh": "搞不好我們擦身而過都不知道。"
+    },
+    {
+      "es": "Lo dudo, recordaría una cara como la tuya.",
+      "zh": "我不信，像你這樣的臉我會記得。"
+    },
+    {
+      "es": "Eres un poco lanzado, ¿lo sabías?",
+      "zh": "你還挺會講話的耶，知道嗎？"
+    },
+    {
+      "es": "Solo digo lo que pienso, no te asustes.",
+      "zh": "我只是說實話，別嚇到。"
+    },
+    {
+      "es": "No me asusto fácil, tranquilo.",
+      "zh": "我不容易被嚇到，放心。"
+    },
+    {
+      "es": "¿Y de viajes? ¿Tienes algún sitio favorito?",
+      "zh": "旅行呢？有沒有什麼最愛的地方？"
+    },
+    {
+      "es": "Italia me robó el corazón hace un par de veranos.",
+      "zh": "前年夏天義大利讓我著迷。"
+    },
+    {
+      "es": "A mí me pasó lo mismo con Portugal el año pasado.",
+      "zh": "去年葡萄牙也讓我有同樣感覺。"
+    },
+    {
+      "es": "Lisboa o Oporto, ¿con cuál te quedas?",
+      "zh": "里斯本還是波多，你選哪個？"
+    },
+    {
+      "es": "Oporto, sin dudarlo, mucho más auténtico.",
+      "zh": "波多，毫不猶豫，更道地。"
+    },
+    {
+      "es": "Coincidimos otra vez, qué cosas.",
+      "zh": "又一樣，太巧了。"
+    },
+    {
+      "es": "Empiezo a pensar que esta app sabe lo que hace.",
+      "zh": "我開始覺得這個 app 還挺會配的。"
+    },
+    {
+      "es": "No te emociones tanto, todavía no me has visto comer.",
+      "zh": "別高興太早，你還沒看過我吃東西的樣子。"
+    },
+    {
+      "es": "Jajaja, ¿tan mal comes? Cuéntame.",
+      "zh": "哈哈，你吃相有那麼糟嗎？說來聽聽。"
+    },
+    {
+      "es": "Hablo con la boca llena, mi madre se rinde conmigo.",
+      "zh": "我會嘴巴塞滿邊講話，我媽拿我沒辦法。"
+    },
+    {
+      "es": "Eso lo arreglo yo en la próxima cita.",
+      "zh": "這個下次約會我來糾正。"
+    },
+    {
+      "es": "¿Ya estás planeando la próxima? Qué rapidez.",
+      "zh": "已經在計畫下一次了？動作好快。"
+    },
+    {
+      "es": "Es que me lo estoy pasando muy bien contigo.",
+      "zh": "因為我跟你聊得很開心。"
+    },
+    {
+      "es": "Mira, voy a ser sincera, yo también, mucho.",
+      "zh": "我跟你說實話，我也是，非常開心。"
+    },
+    {
+      "es": "¿Entonces qué te parece si quedamos el sábado?",
+      "zh": "那週六見一次怎樣？"
+    },
+    {
+      "es": "Por la tarde mejor, por la mañana tengo cosas.",
+      "zh": "下午比較好，早上有事。"
+    },
+    {
+      "es": "Perfecto, podemos ir a una exposición que me apetece ver.",
+      "zh": "完美，我們可以去一個我想看的展覽。"
+    },
+    {
+      "es": "Me apunto, hace siglos que no voy a una.",
+      "zh": "我加入，我超久沒去看展了。"
+    },
+    {
+      "es": "Te mando los detalles por mensaje esta noche.",
+      "zh": "今晚我傳細節給你。"
+    },
+    {
+      "es": "Vale, voy pidiendo la cuenta antes de que se haga tarde.",
+      "zh": "好，趁還沒太晚我來叫帳單。"
+    },
+    {
+      "es": "Esta la pago yo, la próxima invitas tú, ¿trato?",
+      "zh": "這頓我付，下次你請，說定了？"
+    },
+    {
+      "es": "Trato hecho, hasta el sábado, ha sido genial.",
+      "zh": "說定了，週六見，今天真的很棒。"
+    },
+    {
+      "es": "Había reservado mesa en este sitio porque dicen que se cena muy bien.",
+      "zh": "我訂了這家的位子，因為聽說這裡晚餐很不錯。"
+    },
+    {
+      "es": "Y dime, ¿a qué te dedicas cuando no estás trabajando?",
+      "zh": "跟我說說，你不工作的時候都做些什麼？"
+    },
+    {
+      "es": "Me encanta viajar, el año pasado estuve recorriendo Portugal.",
+      "zh": "我超愛旅行，去年我環遊了葡萄牙。"
+    },
+    {
+      "es": "¿Pedimos algo para compartir o prefieres tu propio plato?",
+      "zh": "我們點些東西一起分，還是你比較想點自己的？"
+    },
+    {
+      "es": "La verdad es que en las fotos sales más serio de lo que eres.",
+      "zh": "說真的，你照片上看起來比本人嚴肅多了。"
+    },
+    {
+      "es": "Me da un poco de vergüenza, casi nunca quedo con desconocidos.",
+      "zh": "我有點不好意思，我幾乎不跟陌生人約見面。"
+    },
+    {
+      "es": "¿Te gusta más el cine o eres más de planes al aire libre?",
+      "zh": "你比較喜歡看電影，還是偏好戶外活動？"
+    },
+    {
+      "es": "Esta conversación se me está pasando volando, qué a gusto estoy.",
+      "zh": "這場對話過得好快，我覺得好自在。"
+    },
+    {
+      "es": "Si te apetece, podríamos repetir otro día sin tanta prisa.",
+      "zh": "如果你願意，我們改天可以再約，不用這麼趕。"
+    },
+    {
+      "es": "Te paso mi número y así no dependemos solo de la aplicación.",
+      "zh": "我把電話給你，這樣我們就不用只靠那個交友軟體。"
+    }
   ]
 }

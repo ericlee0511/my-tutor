@@ -1,45 +1,205 @@
 {
   "title": "Columna: las redes sociales y la juventud",
   "all": [
-    { "es": "Resulta difícil hablar hoy de adolescencia sin que la conversación derive, antes o después, hacia el papel que desempeñan las redes sociales en la vida cotidiana de los jóvenes.", "zh": "如今談論青少年議題，遲早都會將話題導向社群媒體在年輕人日常生活中所扮演的角色。" },
-    { "es": "Quienes nos dedicamos a la docencia llevamos años observando cómo estas plataformas han modificado, para bien y para mal, los hábitos de lectura, de sueño y de socialización.", "zh": "我們從事教學工作的人這幾年持續觀察到，這些平台無論在好壞兩方面都改變了學生的閱讀、睡眠與社交習慣。" },
-    { "es": "No se trata, conviene aclararlo, de demonizar la tecnología, sino de reconocer que su uso intensivo a edades tempranas conlleva consecuencias que apenas empezamos a entender.", "zh": "在此必須先說明，我們並非要將科技妖魔化，而是要承認在年幼時期大量使用其後果至今我們才剛開始理解。" },
-    { "es": "Los estudios más recientes en neurociencia sugieren que el bombardeo constante de notificaciones afecta a la capacidad de mantener la atención sostenida en tareas complejas.", "zh": "最新的神經科學研究指出，源源不斷的通知轟炸會削弱在複雜任務上維持專注的能力。" },
-    { "es": "Si bien la correlación no implica causalidad directa, sería imprudente ignorar las señales que se acumulan en las consultas de psicología infantil.", "zh": "雖然相關不等於直接因果，但若忽視兒童心理諮商室中不斷累積的警訊，未免太過輕率。" },
-    { "es": "Cabría preguntarse hasta qué punto las propias plataformas, conscientes de su impacto, han actuado con la diligencia debida para proteger a los menores.", "zh": "我們也應追問，這些平台明知其影響，究竟在保護未成年人方面是否盡到了應有的審慎義務。" },
-    { "es": "Los algoritmos de recomendación, diseñados para maximizar el tiempo de permanencia, no distinguen entre un adulto que busca entretenerse y un adolescente que atraviesa una crisis emocional.", "zh": "為最大化停留時間而設計的推薦演算法，並不會區分尋求娛樂的成年人與正陷入情緒危機的青少年。" },
-    { "es": "Frente a ello, algunos países europeos han comenzado a debatir la prohibición de ciertas funciones para menores de dieciséis años, con resultados desiguales.", "zh": "對此，部分歐洲國家已開始討論禁止十六歲以下使用某些功能，但成效不一。" },
-    { "es": "Convendría, sin embargo, evitar que el debate se reduzca a una pugna entre prohibir o permitir, pues entre ambos extremos existen múltiples vías intermedias dignas de exploración.", "zh": "不過我們也應避免讓討論淪為禁止與放任的二元對立，因為兩極之間還有許多值得探索的中間路線。" },
-    { "es": "Una de esas vías pasa por una educación digital impartida con seriedad desde la escuela primaria, no como un complemento opcional, sino como un eje vertebrador del currículo.", "zh": "其中一條路線是從小學起就認真推行數位素養教育，將其視為課綱的核心軸線而非可有可無的補充。" },
-    { "es": "Hay que reconocer que muchos padres se sienten desbordados, conscientes de que sus propios hábitos digitales son a menudo tan problemáticos como los de sus hijos.", "zh": "我們必須承認許多家長都感到無能為力，他們也清楚自己的數位使用習慣有時和孩子一樣令人擔憂。" },
-    { "es": "Por ello, las campañas de sensibilización deberían dirigirse al conjunto de la familia, sin culpabilizar a un grupo concreto ni infantilizar a los adolescentes.", "zh": "正因如此，宣導活動應該針對整個家庭，不應將責任推給某一族群，也不應把青少年當成幼童看待。" },
-    { "es": "Algunas iniciativas comunitarias han demostrado que basta con espacios de conversación honesta para que los jóvenes reflexionen, por sí mismos, sobre el uso que hacen del móvil.", "zh": "一些社區行動已證明，只要提供誠實對話的空間，青少年便能自行反思他們使用手機的方式。" },
-    { "es": "Asimismo, las propias redes pueden ser aliadas si se utilizan con propósitos creativos: hay quien aprende idiomas, descubre vocaciones o construye comunidades de apoyo a través de ellas.", "zh": "同樣地，如果以創造性的方式運用，社群媒體也能成為盟友：有人透過它們學語言、發掘職涯志趣或建立互助社群。" },
-    { "es": "El reto, por tanto, no consiste en eliminar la tecnología de la vida juvenil, sino en proporcionar herramientas críticas para que los propios usuarios decidan qué desean consumir.", "zh": "因此挑戰並不是把科技從青年生活中剔除，而是賦予使用者批判工具，讓他們自己決定要接收什麼內容。" },
-    { "es": "Si pretendiéramos imponer una solución única, ignoraríamos la enorme diversidad de contextos socioeconómicos en los que crecen los adolescentes actuales.", "zh": "若我們企圖強加單一解方，便會忽視當代青少年成長環境在社會經濟層面上的巨大差異。" },
-    { "es": "Una chica de un barrio rural no consume contenidos de la misma manera que un adolescente de una gran metrópoli, aunque utilicen la misma aplicación.", "zh": "鄉村女孩消費內容的方式，與大都會青少年截然不同，即便他們使用的是同一款應用程式。" },
-    { "es": "Reconocer esa diversidad obliga a las administraciones a diseñar políticas flexibles, evaluadas periódicamente y modificadas a la luz de los resultados obtenidos.", "zh": "認知到這種多樣性，便要求行政部門設計靈活的政策，並依據實際成果定期評估、調整。" },
-    { "es": "Aplazar este debate, con la excusa de que la sociedad ya se adaptará, equivale a abandonar a una generación entera al criterio exclusivo de unas empresas privadas.", "zh": "若以社會自會適應為由將這場辯論一再推遲，無異於把整個世代託付給少數私人企業任其擺布。" },
-    { "es": "La pregunta que deberíamos hacernos no es si actuar, sino con qué urgencia y bajo qué principios estamos dispuestos a hacerlo.", "zh": "我們真正該問的不是是否該行動，而是要以何等急迫的速度、依循何種原則來行動。" },
-    { "es": "Otra dimensión que rara vez se aborda con seriedad es la del aislamiento que muchos jóvenes experimentan a pesar de tener miles de seguidores.", "zh": "另一個鮮少被認真探討的面向，是許多青少年儘管擁有上千粉絲，卻仍感到深刻的孤立。" },
-    { "es": "Las relaciones mediadas por una pantalla pueden multiplicar los contactos, pero no siempre satisfacen la necesidad humana de vínculos profundos.", "zh": "由螢幕中介的關係或許能成倍增加人際接觸，卻未必能滿足人類對深度連結的基本需求。" },
-    { "es": "Quizá sería oportuno que las escuelas reservaran espacios sin dispositivos donde los alumnos pudieran reaprender el arte de conversar sin interrupciones.", "zh": "或許學校應規劃出無電子設備的空間，讓學生在不被打斷的情況下重新學習對話的藝術。" },
-    { "es": "Algunos centros pioneros han comprobado que basta con una hora diaria de aula desconectada para que los estudiantes recuperen una atención que parecía perdida.", "zh": "部分先驅學校已驗證，每日只需一小時的「離線課堂」，學生似乎流失的專注力便能逐漸回復。" },
-    { "es": "Es preciso señalar, además, que no todos los jóvenes recurren a las redes de la misma manera ni con las mismas expectativas.", "zh": "我們也必須指出，並非所有年輕人都以相同方式、抱持相同期待使用社群媒體。" },
-    { "es": "Para algunos, son una herramienta laboral incipiente; para otros, un escaparate en el que se construye una identidad pública desde edades tempranas.", "zh": "對某些人而言，社群媒體是初出茅廬的工作工具；對另一些人而言，則是從小開始展示公開身分的舞台。" },
-    { "es": "Esta segunda función, especialmente, plantea dilemas éticos sobre los que urge reflexionar antes de que se conviertan en daños irreparables.", "zh": "尤其後者引發的倫理難題，必須在演變為無法挽回的傷害之前儘速反思。" },
-    { "es": "Conviene recordar que la huella digital es prácticamente eterna y que decisiones tomadas a los catorce años pueden seguir condicionando a alguien a los treinta.", "zh": "我們應提醒自己：數位足跡幾乎是永恆的，十四歲時的決定可能持續左右這個人三十歲時的生活。" },
-    { "es": "Ante esta realidad, ciertos países nórdicos han incluido en sus currículos asignaturas específicas dedicadas a la gestión de la propia identidad en línea.", "zh": "面對此現實，部分北歐國家已在課綱中加入專門探討個人線上身分管理的科目。" },
-    { "es": "Los primeros datos disponibles sobre dichos programas muestran resultados alentadores, aunque todavía sea pronto para extraer conclusiones definitivas.", "zh": "目前對這些課程的初步資料顯示成效令人鼓舞，雖然要下定論仍言之過早。" },
-    { "es": "Asimismo, sería deseable que los medios de comunicación dejaran de tratar el tema de manera alarmista, optando por análisis más matizados.", "zh": "同樣值得期待的，是傳媒能停止以煽動恐慌的方式處理此議題，改採更具細膩度的分析。" },
-    { "es": "Los titulares catastrofistas no solo no ayudan a las familias, sino que generan en los propios jóvenes una percepción de fatalismo paralizante.", "zh": "災難式的標題不僅無助於家庭，反而讓年輕人本身產生一種令人動彈不得的宿命感。" },
-    { "es": "Frente a ese fatalismo, resulta más útil divulgar historias concretas en las que adolescentes hayan logrado reformular su relación con las plataformas.", "zh": "對抗這種宿命感更有效的做法，是傳播青少年成功重塑自身與平台關係的具體故事。" },
-    { "es": "Estas narrativas, en lugar de moralizar, ofrecen modelos posibles que otros chicos y chicas pueden adaptar a sus propias circunstancias.", "zh": "這些敘事不訴諸道德說教，而是提供其他年輕人能依自身處境加以調整的可行範例。" },
-    { "es": "Cabría exigir, finalmente, una mayor transparencia algorítmica que permitiera a investigadores independientes auditar el funcionamiento real de estas plataformas.", "zh": "我們最終也應要求更高的演算法透明度，讓獨立研究者得以稽核這些平台的實際運作機制。" },
-    { "es": "Mientras esa auditoría no exista, seguiremos legislando a ciegas sobre un fenómeno cuya magnitud, paradójicamente, ni siquiera podemos medir con rigor.", "zh": "在這類稽核出現之前，我們將繼續對一個甚至無法被嚴謹衡量的現象進行盲目立法。" },
-    { "es": "La paradoja resulta especialmente preocupante si consideramos que se trata de la primera generación criada íntegramente bajo este ecosistema digital.", "zh": "若考慮到這是第一個完全在這套數位生態系下長大的世代，這項弔詭格外令人憂心。" },
-    { "es": "Sería un error histórico, por tanto, posponer indefinidamente las decisiones que les conciernen a la espera de evidencias inatacables.", "zh": "因此若以等待無懈可擊的證據為由無限期延後與他們相關的決策，將是歷史性的錯誤。" },
-    { "es": "Como sociedad, podemos elegir entre acompañar a la juventud o limitarnos a juzgarla, pero las consecuencias de cada elección serán distintas.", "zh": "作為社會，我們可以選擇陪伴年輕人，或僅止於評斷他們，但兩種選擇所帶來的後果截然不同。" },
-    { "es": "Si dentro de diez años queremos seguir hablándoles a estos adolescentes, será imprescindible que ellos también nos reconozcan como interlocutores legítimos hoy.", "zh": "如果十年後我們仍希望能與這些青少年對話，便必須讓他們此時此刻也將我們視為值得信賴的對話對象。" }
+    {
+      "es": "Resulta difícil hablar hoy de adolescencia sin que la conversación derive, antes o después, hacia el papel que desempeñan las redes sociales en la vida cotidiana de los jóvenes.",
+      "zh": "如今談論青少年議題，遲早都會將話題導向社群媒體在年輕人日常生活中所扮演的角色。"
+    },
+    {
+      "es": "Quienes nos dedicamos a la docencia llevamos años observando cómo estas plataformas han modificado, para bien y para mal, los hábitos de lectura, de sueño y de socialización.",
+      "zh": "我們從事教學工作的人這幾年持續觀察到，這些平台無論在好壞兩方面都改變了學生的閱讀、睡眠與社交習慣。"
+    },
+    {
+      "es": "No se trata, conviene aclararlo, de demonizar la tecnología, sino de reconocer que su uso intensivo a edades tempranas conlleva consecuencias que apenas empezamos a entender.",
+      "zh": "在此必須先說明，我們並非要將科技妖魔化，而是要承認在年幼時期大量使用其後果至今我們才剛開始理解。"
+    },
+    {
+      "es": "Los estudios más recientes en neurociencia sugieren que el bombardeo constante de notificaciones afecta a la capacidad de mantener la atención sostenida en tareas complejas.",
+      "zh": "最新的神經科學研究指出，源源不斷的通知轟炸會削弱在複雜任務上維持專注的能力。"
+    },
+    {
+      "es": "Si bien la correlación no implica causalidad directa, sería imprudente ignorar las señales que se acumulan en las consultas de psicología infantil.",
+      "zh": "雖然相關不等於直接因果，但若忽視兒童心理諮商室中不斷累積的警訊，未免太過輕率。"
+    },
+    {
+      "es": "Cabría preguntarse hasta qué punto las propias plataformas, conscientes de su impacto, han actuado con la diligencia debida para proteger a los menores.",
+      "zh": "我們也應追問，這些平台明知其影響，究竟在保護未成年人方面是否盡到了應有的審慎義務。"
+    },
+    {
+      "es": "Los algoritmos de recomendación, diseñados para maximizar el tiempo de permanencia, no distinguen entre un adulto que busca entretenerse y un adolescente que atraviesa una crisis emocional.",
+      "zh": "為最大化停留時間而設計的推薦演算法，並不會區分尋求娛樂的成年人與正陷入情緒危機的青少年。"
+    },
+    {
+      "es": "Frente a ello, algunos países europeos han comenzado a debatir la prohibición de ciertas funciones para menores de dieciséis años, con resultados desiguales.",
+      "zh": "對此，部分歐洲國家已開始討論禁止十六歲以下使用某些功能，但成效不一。"
+    },
+    {
+      "es": "Convendría, sin embargo, evitar que el debate se reduzca a una pugna entre prohibir o permitir, pues entre ambos extremos existen múltiples vías intermedias dignas de exploración.",
+      "zh": "不過我們也應避免讓討論淪為禁止與放任的二元對立，因為兩極之間還有許多值得探索的中間路線。"
+    },
+    {
+      "es": "Una de esas vías pasa por una educación digital impartida con seriedad desde la escuela primaria, no como un complemento opcional, sino como un eje vertebrador del currículo.",
+      "zh": "其中一條路線是從小學起就認真推行數位素養教育，將其視為課綱的核心軸線而非可有可無的補充。"
+    },
+    {
+      "es": "Hay que reconocer que muchos padres se sienten desbordados, conscientes de que sus propios hábitos digitales son a menudo tan problemáticos como los de sus hijos.",
+      "zh": "我們必須承認許多家長都感到無能為力，他們也清楚自己的數位使用習慣有時和孩子一樣令人擔憂。"
+    },
+    {
+      "es": "Por ello, las campañas de sensibilización deberían dirigirse al conjunto de la familia, sin culpabilizar a un grupo concreto ni infantilizar a los adolescentes.",
+      "zh": "正因如此，宣導活動應該針對整個家庭，不應將責任推給某一族群，也不應把青少年當成幼童看待。"
+    },
+    {
+      "es": "Algunas iniciativas comunitarias han demostrado que basta con espacios de conversación honesta para que los jóvenes reflexionen, por sí mismos, sobre el uso que hacen del móvil.",
+      "zh": "一些社區行動已證明，只要提供誠實對話的空間，青少年便能自行反思他們使用手機的方式。"
+    },
+    {
+      "es": "Asimismo, las propias redes pueden ser aliadas si se utilizan con propósitos creativos: hay quien aprende idiomas, descubre vocaciones o construye comunidades de apoyo a través de ellas.",
+      "zh": "同樣地，如果以創造性的方式運用，社群媒體也能成為盟友：有人透過它們學語言、發掘職涯志趣或建立互助社群。"
+    },
+    {
+      "es": "El reto, por tanto, no consiste en eliminar la tecnología de la vida juvenil, sino en proporcionar herramientas críticas para que los propios usuarios decidan qué desean consumir.",
+      "zh": "因此挑戰並不是把科技從青年生活中剔除，而是賦予使用者批判工具，讓他們自己決定要接收什麼內容。"
+    },
+    {
+      "es": "Si pretendiéramos imponer una solución única, ignoraríamos la enorme diversidad de contextos socioeconómicos en los que crecen los adolescentes actuales.",
+      "zh": "若我們企圖強加單一解方，便會忽視當代青少年成長環境在社會經濟層面上的巨大差異。"
+    },
+    {
+      "es": "Una chica de un barrio rural no consume contenidos de la misma manera que un adolescente de una gran metrópoli, aunque utilicen la misma aplicación.",
+      "zh": "鄉村女孩消費內容的方式，與大都會青少年截然不同，即便他們使用的是同一款應用程式。"
+    },
+    {
+      "es": "Reconocer esa diversidad obliga a las administraciones a diseñar políticas flexibles, evaluadas periódicamente y modificadas a la luz de los resultados obtenidos.",
+      "zh": "認知到這種多樣性，便要求行政部門設計靈活的政策，並依據實際成果定期評估、調整。"
+    },
+    {
+      "es": "Aplazar este debate, con la excusa de que la sociedad ya se adaptará, equivale a abandonar a una generación entera al criterio exclusivo de unas empresas privadas.",
+      "zh": "若以社會自會適應為由將這場辯論一再推遲，無異於把整個世代託付給少數私人企業任其擺布。"
+    },
+    {
+      "es": "La pregunta que deberíamos hacernos no es si actuar, sino con qué urgencia y bajo qué principios estamos dispuestos a hacerlo.",
+      "zh": "我們真正該問的不是是否該行動，而是要以何等急迫的速度、依循何種原則來行動。"
+    },
+    {
+      "es": "Otra dimensión que rara vez se aborda con seriedad es la del aislamiento que muchos jóvenes experimentan a pesar de tener miles de seguidores.",
+      "zh": "另一個鮮少被認真探討的面向，是許多青少年儘管擁有上千粉絲，卻仍感到深刻的孤立。"
+    },
+    {
+      "es": "Las relaciones mediadas por una pantalla pueden multiplicar los contactos, pero no siempre satisfacen la necesidad humana de vínculos profundos.",
+      "zh": "由螢幕中介的關係或許能成倍增加人際接觸，卻未必能滿足人類對深度連結的基本需求。"
+    },
+    {
+      "es": "Quizá sería oportuno que las escuelas reservaran espacios sin dispositivos donde los alumnos pudieran reaprender el arte de conversar sin interrupciones.",
+      "zh": "或許學校應規劃出無電子設備的空間，讓學生在不被打斷的情況下重新學習對話的藝術。"
+    },
+    {
+      "es": "Algunos centros pioneros han comprobado que basta con una hora diaria de aula desconectada para que los estudiantes recuperen una atención que parecía perdida.",
+      "zh": "部分先驅學校已驗證，每日只需一小時的「離線課堂」，學生似乎流失的專注力便能逐漸回復。"
+    },
+    {
+      "es": "Es preciso señalar, además, que no todos los jóvenes recurren a las redes de la misma manera ni con las mismas expectativas.",
+      "zh": "我們也必須指出，並非所有年輕人都以相同方式、抱持相同期待使用社群媒體。"
+    },
+    {
+      "es": "Para algunos, son una herramienta laboral incipiente; para otros, un escaparate en el que se construye una identidad pública desde edades tempranas.",
+      "zh": "對某些人而言，社群媒體是初出茅廬的工作工具；對另一些人而言，則是從小開始展示公開身分的舞台。"
+    },
+    {
+      "es": "Esta segunda función, especialmente, plantea dilemas éticos sobre los que urge reflexionar antes de que se conviertan en daños irreparables.",
+      "zh": "尤其後者引發的倫理難題，必須在演變為無法挽回的傷害之前儘速反思。"
+    },
+    {
+      "es": "Conviene recordar que la huella digital es prácticamente eterna y que decisiones tomadas a los catorce años pueden seguir condicionando a alguien a los treinta.",
+      "zh": "我們應提醒自己：數位足跡幾乎是永恆的，十四歲時的決定可能持續左右這個人三十歲時的生活。"
+    },
+    {
+      "es": "Ante esta realidad, ciertos países nórdicos han incluido en sus currículos asignaturas específicas dedicadas a la gestión de la propia identidad en línea.",
+      "zh": "面對此現實，部分北歐國家已在課綱中加入專門探討個人線上身分管理的科目。"
+    },
+    {
+      "es": "Los primeros datos disponibles sobre dichos programas muestran resultados alentadores, aunque todavía sea pronto para extraer conclusiones definitivas.",
+      "zh": "目前對這些課程的初步資料顯示成效令人鼓舞，雖然要下定論仍言之過早。"
+    },
+    {
+      "es": "Asimismo, sería deseable que los medios de comunicación dejaran de tratar el tema de manera alarmista, optando por análisis más matizados.",
+      "zh": "同樣值得期待的，是傳媒能停止以煽動恐慌的方式處理此議題，改採更具細膩度的分析。"
+    },
+    {
+      "es": "Los titulares catastrofistas no solo no ayudan a las familias, sino que generan en los propios jóvenes una percepción de fatalismo paralizante.",
+      "zh": "災難式的標題不僅無助於家庭，反而讓年輕人本身產生一種令人動彈不得的宿命感。"
+    },
+    {
+      "es": "Frente a ese fatalismo, resulta más útil divulgar historias concretas en las que adolescentes hayan logrado reformular su relación con las plataformas.",
+      "zh": "對抗這種宿命感更有效的做法，是傳播青少年成功重塑自身與平台關係的具體故事。"
+    },
+    {
+      "es": "Estas narrativas, en lugar de moralizar, ofrecen modelos posibles que otros chicos y chicas pueden adaptar a sus propias circunstancias.",
+      "zh": "這些敘事不訴諸道德說教，而是提供其他年輕人能依自身處境加以調整的可行範例。"
+    },
+    {
+      "es": "Cabría exigir, finalmente, una mayor transparencia algorítmica que permitiera a investigadores independientes auditar el funcionamiento real de estas plataformas.",
+      "zh": "我們最終也應要求更高的演算法透明度，讓獨立研究者得以稽核這些平台的實際運作機制。"
+    },
+    {
+      "es": "Mientras esa auditoría no exista, seguiremos legislando a ciegas sobre un fenómeno cuya magnitud, paradójicamente, ni siquiera podemos medir con rigor.",
+      "zh": "在這類稽核出現之前，我們將繼續對一個甚至無法被嚴謹衡量的現象進行盲目立法。"
+    },
+    {
+      "es": "La paradoja resulta especialmente preocupante si consideramos que se trata de la primera generación criada íntegramente bajo este ecosistema digital.",
+      "zh": "若考慮到這是第一個完全在這套數位生態系下長大的世代，這項弔詭格外令人憂心。"
+    },
+    {
+      "es": "Sería un error histórico, por tanto, posponer indefinidamente las decisiones que les conciernen a la espera de evidencias inatacables.",
+      "zh": "因此若以等待無懈可擊的證據為由無限期延後與他們相關的決策，將是歷史性的錯誤。"
+    },
+    {
+      "es": "Como sociedad, podemos elegir entre acompañar a la juventud o limitarnos a juzgarla, pero las consecuencias de cada elección serán distintas.",
+      "zh": "作為社會，我們可以選擇陪伴年輕人，或僅止於評斷他們，但兩種選擇所帶來的後果截然不同。"
+    },
+    {
+      "es": "Si dentro de diez años queremos seguir hablándoles a estos adolescentes, será imprescindible que ellos también nos reconozcan como interlocutores legítimos hoy.",
+      "zh": "如果十年後我們仍希望能與這些青少年對話，便必須讓他們此時此刻也將我們視為值得信賴的對話對象。"
+    },
+    {
+      "es": "Resulta llamativo cómo la comparación constante con vidas idealizadas mina la autoestima de muchos adolescentes.",
+      "zh": "令人注意的是，與被理想化的人生不斷比較，正侵蝕著許多青少年的自尊。"
+    },
+    {
+      "es": "Conviene preguntarse si la familia y la escuela están preparadas para acompañar este nuevo escenario.",
+      "zh": "值得我們自問，家庭與學校是否準備好陪伴這個全新的局面。"
+    },
+    {
+      "es": "Algunos especialistas reclaman una educación mediática que enseñe a discernir lo verdadero de lo falso.",
+      "zh": "部分專家呼籲推行媒體素養教育，教導年輕人辨別真偽。"
+    },
+    {
+      "es": "El anonimato facilita en ocasiones conductas de acoso que dejan secuelas profundas en las víctimas.",
+      "zh": "匿名有時助長了霸凌行為，給受害者留下深刻的創傷。"
+    },
+    {
+      "es": "No todo es negativo: estas herramientas también permiten organizar movilizaciones solidarias con notable rapidez.",
+      "zh": "並非全然負面：這些工具也能讓人以驚人的速度發起互助動員。"
+    },
+    {
+      "es": "Los algoritmos están diseñados para maximizar el tiempo de permanencia, no el bienestar del usuario.",
+      "zh": "演算法的設計是為了將停留時間最大化，而非使用者的福祉。"
+    },
+    {
+      "es": "Imponer prohibiciones tajantes suele resultar contraproducente y empuja a los menores a ocultarse.",
+      "zh": "施加斷然的禁令往往適得其反，反而促使未成年人隱藏行蹤。"
+    },
+    {
+      "es": "Fomentar el diálogo abierto en el hogar protege más que cualquier control férreo de las pantallas.",
+      "zh": "在家中促進坦誠的對話，比任何對螢幕的嚴密管控都更具保護力。"
+    },
+    {
+      "es": "La presión por exhibir una imagen perfecta genera una ansiedad difícil de reconocer a esas edades.",
+      "zh": "展現完美形象的壓力，在那個年紀會引發一種難以察覺的焦慮。"
+    },
+    {
+      "es": "Tal vez la clave no esté en desconectar del todo, sino en aprender a habitar este mundo con criterio.",
+      "zh": "或許關鍵不在於完全斷線，而在於學會帶著判斷力在這個世界中生活。"
+    }
   ]
 }

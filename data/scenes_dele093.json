@@ -1,55 +1,245 @@
 {
   "title": "Conversación con el taxista en Buenos Aires",
   "all": [
-    {"es": "Buenas, ¿me lleva al barrio de San Telmo, por favor?", "zh": "您好，可以載我去聖泰爾莫區嗎？"},
-    {"es": "Dale, subí nomás, ¿con valija o sin valija?", "zh": "好啦，上來吧，有行李還是沒行李？"},
-    {"es": "Llevo una mochila chica, no hace falta abrir el baúl.", "zh": "我帶一個小背包，不用開後車廂。"},
-    {"es": "Bárbaro, entonces arrancamos ya mismo, che.", "zh": "讚，那我們現在就出發，老兄。"},
-    {"es": "¿Tomamos la nueve de julio o por dónde nos conviene?", "zh": "我們走七月九日大道還是哪條比較順？"},
-    {"es": "A esta hora hay un quilombo terrible por la avenida.", "zh": "這個時間那條大道塞到爆。"},
-    {"es": "Mejor te llevo por calles internas, llegamos antes seguro.", "zh": "我帶你走內側小路，絕對比較快到。"},
-    {"es": "Confío en vos, sos vos el que conoce la ciudad.", "zh": "我信你，城市是你熟。"},
-    {"es": "¿Es la primera vez que venís a Buenos Aires?", "zh": "你第一次來布宜諾斯艾利斯嗎？"},
-    {"es": "Sí, llegué anoche desde Madrid, todavía estoy medio dormido.", "zh": "對，昨晚從馬德里到的，現在還有點昏。"},
-    {"es": "Uh, es un viaje largo, ¿no? Doce horas o así.", "zh": "哇，是滿長的吧？大概十二小時。"},
-    {"es": "Trece con la escala, pero dormí un buen rato en el avión.", "zh": "含轉機十三小時，但飛機上睡了一陣子。"},
-    {"es": "Mirá, este barrio que estamos cruzando es Monserrat.", "zh": "你看，我們現在穿過的這區是蒙塞拉特。"},
-    {"es": "Tiene edificios re antiguos, te van a encantar las fachadas.", "zh": "建築超古老，你會愛上那些外牆。"},
-    {"es": "¿Y de qué parte de España sos, si se puede saber?", "zh": "請問你是西班牙哪裡人？"},
-    {"es": "De Valencia, allá comemos paella y vos comés asado.", "zh": "瓦倫西亞的，我們吃西班牙海鮮飯，你們吃烤肉。"},
-    {"es": "¡Ja! Cada uno con lo suyo, pero el asado nuestro no tiene rival.", "zh": "哈！各有所好，不過我們的烤肉無敵啦。"},
-    {"es": "Me han recomendado una parrilla en San Telmo, ¿la conocés?", "zh": "有人推薦聖泰爾莫的一家烤肉店，你知道嗎？"},
-    {"es": "Si vas a una parrilla, pedite ojo de bife con papas a caballo.", "zh": "如果你去烤肉店，點肋眼牛排配薯條加雙蛋。"},
-    {"es": "Lo apunto en el celu, suena increíble.", "zh": "我記到手機裡，聽起來超讚。"},
-    {"es": "Y de tomar, un Malbec mendocino, no te equivocás nunca.", "zh": "喝的話來杯門多薩馬爾貝克紅酒，絕對不會錯。"},
-    {"es": "¿Vos tomás vino mientras manejás, así medio en broma?", "zh": "你開車時也喝酒嗎，我是說開玩笑。"},
-    {"es": "No, qué va, solo mate, y bien amargo encima.", "zh": "才不，只喝瑪黛茶，而且要喝苦的。"},
-    {"es": "Tengo el termo acá al lado, todo el día tomando.", "zh": "保溫瓶就在旁邊，一整天喝個不停。"},
-    {"es": "¿Y de fútbol? Me imagino que tenés tu equipo.", "zh": "那足球呢？我猜你有支持的球隊。"},
-    {"es": "Boca de toda la vida, mi viejo me llevó a la Bombonera con cinco años.", "zh": "從小就是博卡迷，我老爸五歲時就帶我去糖果盒球場。"},
-    {"es": "El clásico contra River debe ser una locura tremenda.", "zh": "對河床的德比一定瘋到不行。"},
-    {"es": "Mirá, los días de clásico no salgo a manejar, hay quilombo.", "zh": "聽好，德比那天我不出車，太亂了。"},
-    {"es": "¿Vale la pena ir a ver un partido en cancha?", "zh": "親自去球場看比賽值得嗎？"},
-    {"es": "Si te animás, es una experiencia que no te vas a olvidar jamás.", "zh": "如果你敢去，那是輩子都忘不了的體驗。"},
-    {"es": "Sacate la entrada con tiempo, que se agotan rapidísimo.", "zh": "票要提早買，賣超快。"},
-    {"es": "Otra cosa, ¿qué barrios me recomendás para caminar?", "zh": "另外，你推薦哪幾區散步？"},
-    {"es": "Palermo para los bares, Recoleta para los museos, La Boca para las fotos.", "zh": "巴勒摩看酒吧，雷科萊塔看博物館，博卡區拍照。"},
-    {"es": "En La Boca cuidá la cámara, por las dudas no más.", "zh": "在博卡區小心相機，以防萬一。"},
-    {"es": "¿Es peligroso eso, en serio?", "zh": "真的有那麼危險嗎？"},
-    {"es": "Más que peligroso, hay que andar atento, como en cualquier ciudad grande.", "zh": "與其說危險，是要保持警覺，跟大都市一樣。"},
-    {"es": "¿Llegamos a San Telmo en cuánto tiempo más o menos?", "zh": "我們大概還多久到聖泰爾莫？"},
-    {"es": "Diez minutos si seguimos así, ya estamos cerquita.", "zh": "這樣繼續開十分鐘，已經很近了。"},
-    {"es": "El domingo hay feria en la Plaza Dorrego, no te la pierdas.", "zh": "週日多雷戈廣場有市集，別錯過。"},
-    {"es": "Hay tango en la calle, antigüedades y comida rica.", "zh": "街上有探戈、骨董跟好吃的食物。"},
-    {"es": "¿Y de hospedaje? Voy a un hostal por la calle Defensa.", "zh": "住宿呢？我住防衛街上的一家青年旅館。"},
-    {"es": "Conozco la zona, es segura de día y bastante animada de noche.", "zh": "我熟那一帶，白天安全，晚上滿熱鬧的。"},
-    {"es": "Pasame la dirección exacta, así te dejo en la puerta.", "zh": "給我準確地址，我直接放你到門口。"},
-    {"es": "Defensa mil doscientos cincuenta, cerca de una panadería.", "zh": "防衛街一二五○號，旁邊有間麵包店。"},
-    {"es": "Listo, ahí es, mirá el cartel verde.", "zh": "到啦，就是那邊，看到綠色招牌沒。"},
-    {"es": "¿Cuánto te debo por el viaje?", "zh": "車費多少？"},
-    {"es": "Son siete mil pesos, te dejo el redondeo de seis mil quinientos.", "zh": "七千披索，算你六千五就好。"},
-    {"es": "Gracias por la charla, la pasé bárbaro, che.", "zh": "謝謝你聊天，超開心的，老兄。"},
-    {"es": "De nada, disfrutá Buenos Aires y comé mucho asado.", "zh": "不客氣，好好享受布宜諾斯艾利斯，多吃烤肉。"},
-    {"es": "Si necesitás taxi para el aeropuerto, te paso el número.", "zh": "如果要叫車去機場，我電話給你。"}
+    {
+      "es": "Buenas, ¿me lleva al barrio de San Telmo, por favor?",
+      "zh": "您好，可以載我去聖泰爾莫區嗎？"
+    },
+    {
+      "es": "Dale, subí nomás, ¿con valija o sin valija?",
+      "zh": "好啦，上來吧，有行李還是沒行李？"
+    },
+    {
+      "es": "Llevo una mochila chica, no hace falta abrir el baúl.",
+      "zh": "我帶一個小背包，不用開後車廂。"
+    },
+    {
+      "es": "Bárbaro, entonces arrancamos ya mismo, che.",
+      "zh": "讚，那我們現在就出發，老兄。"
+    },
+    {
+      "es": "¿Tomamos la nueve de julio o por dónde nos conviene?",
+      "zh": "我們走七月九日大道還是哪條比較順？"
+    },
+    {
+      "es": "A esta hora hay un quilombo terrible por la avenida.",
+      "zh": "這個時間那條大道塞到爆。"
+    },
+    {
+      "es": "Mejor te llevo por calles internas, llegamos antes seguro.",
+      "zh": "我帶你走內側小路，絕對比較快到。"
+    },
+    {
+      "es": "Confío en vos, sos vos el que conoce la ciudad.",
+      "zh": "我信你，城市是你熟。"
+    },
+    {
+      "es": "¿Es la primera vez que venís a Buenos Aires?",
+      "zh": "你第一次來布宜諾斯艾利斯嗎？"
+    },
+    {
+      "es": "Sí, llegué anoche desde Madrid, todavía estoy medio dormido.",
+      "zh": "對，昨晚從馬德里到的，現在還有點昏。"
+    },
+    {
+      "es": "Uh, es un viaje largo, ¿no? Doce horas o así.",
+      "zh": "哇，是滿長的吧？大概十二小時。"
+    },
+    {
+      "es": "Trece con la escala, pero dormí un buen rato en el avión.",
+      "zh": "含轉機十三小時，但飛機上睡了一陣子。"
+    },
+    {
+      "es": "Mirá, este barrio que estamos cruzando es Monserrat.",
+      "zh": "你看，我們現在穿過的這區是蒙塞拉特。"
+    },
+    {
+      "es": "Tiene edificios re antiguos, te van a encantar las fachadas.",
+      "zh": "建築超古老，你會愛上那些外牆。"
+    },
+    {
+      "es": "¿Y de qué parte de España sos, si se puede saber?",
+      "zh": "請問你是西班牙哪裡人？"
+    },
+    {
+      "es": "De Valencia, allá comemos paella y vos comés asado.",
+      "zh": "瓦倫西亞的，我們吃西班牙海鮮飯，你們吃烤肉。"
+    },
+    {
+      "es": "¡Ja! Cada uno con lo suyo, pero el asado nuestro no tiene rival.",
+      "zh": "哈！各有所好，不過我們的烤肉無敵啦。"
+    },
+    {
+      "es": "Me han recomendado una parrilla en San Telmo, ¿la conocés?",
+      "zh": "有人推薦聖泰爾莫的一家烤肉店，你知道嗎？"
+    },
+    {
+      "es": "Si vas a una parrilla, pedite ojo de bife con papas a caballo.",
+      "zh": "如果你去烤肉店，點肋眼牛排配薯條加雙蛋。"
+    },
+    {
+      "es": "Lo apunto en el celu, suena increíble.",
+      "zh": "我記到手機裡，聽起來超讚。"
+    },
+    {
+      "es": "Y de tomar, un Malbec mendocino, no te equivocás nunca.",
+      "zh": "喝的話來杯門多薩馬爾貝克紅酒，絕對不會錯。"
+    },
+    {
+      "es": "¿Vos tomás vino mientras manejás, así medio en broma?",
+      "zh": "你開車時也喝酒嗎，我是說開玩笑。"
+    },
+    {
+      "es": "No, qué va, solo mate, y bien amargo encima.",
+      "zh": "才不，只喝瑪黛茶，而且要喝苦的。"
+    },
+    {
+      "es": "Tengo el termo acá al lado, todo el día tomando.",
+      "zh": "保溫瓶就在旁邊，一整天喝個不停。"
+    },
+    {
+      "es": "¿Y de fútbol? Me imagino que tenés tu equipo.",
+      "zh": "那足球呢？我猜你有支持的球隊。"
+    },
+    {
+      "es": "Boca de toda la vida, mi viejo me llevó a la Bombonera con cinco años.",
+      "zh": "從小就是博卡迷，我老爸五歲時就帶我去糖果盒球場。"
+    },
+    {
+      "es": "El clásico contra River debe ser una locura tremenda.",
+      "zh": "對河床的德比一定瘋到不行。"
+    },
+    {
+      "es": "Mirá, los días de clásico no salgo a manejar, hay quilombo.",
+      "zh": "聽好，德比那天我不出車，太亂了。"
+    },
+    {
+      "es": "¿Vale la pena ir a ver un partido en cancha?",
+      "zh": "親自去球場看比賽值得嗎？"
+    },
+    {
+      "es": "Si te animás, es una experiencia que no te vas a olvidar jamás.",
+      "zh": "如果你敢去，那是輩子都忘不了的體驗。"
+    },
+    {
+      "es": "Sacate la entrada con tiempo, que se agotan rapidísimo.",
+      "zh": "票要提早買，賣超快。"
+    },
+    {
+      "es": "Otra cosa, ¿qué barrios me recomendás para caminar?",
+      "zh": "另外，你推薦哪幾區散步？"
+    },
+    {
+      "es": "Palermo para los bares, Recoleta para los museos, La Boca para las fotos.",
+      "zh": "巴勒摩看酒吧，雷科萊塔看博物館，博卡區拍照。"
+    },
+    {
+      "es": "En La Boca cuidá la cámara, por las dudas no más.",
+      "zh": "在博卡區小心相機，以防萬一。"
+    },
+    {
+      "es": "¿Es peligroso eso, en serio?",
+      "zh": "真的有那麼危險嗎？"
+    },
+    {
+      "es": "Más que peligroso, hay que andar atento, como en cualquier ciudad grande.",
+      "zh": "與其說危險，是要保持警覺，跟大都市一樣。"
+    },
+    {
+      "es": "¿Llegamos a San Telmo en cuánto tiempo más o menos?",
+      "zh": "我們大概還多久到聖泰爾莫？"
+    },
+    {
+      "es": "Diez minutos si seguimos así, ya estamos cerquita.",
+      "zh": "這樣繼續開十分鐘，已經很近了。"
+    },
+    {
+      "es": "El domingo hay feria en la Plaza Dorrego, no te la pierdas.",
+      "zh": "週日多雷戈廣場有市集，別錯過。"
+    },
+    {
+      "es": "Hay tango en la calle, antigüedades y comida rica.",
+      "zh": "街上有探戈、骨董跟好吃的食物。"
+    },
+    {
+      "es": "¿Y de hospedaje? Voy a un hostal por la calle Defensa.",
+      "zh": "住宿呢？我住防衛街上的一家青年旅館。"
+    },
+    {
+      "es": "Conozco la zona, es segura de día y bastante animada de noche.",
+      "zh": "我熟那一帶，白天安全，晚上滿熱鬧的。"
+    },
+    {
+      "es": "Pasame la dirección exacta, así te dejo en la puerta.",
+      "zh": "給我準確地址，我直接放你到門口。"
+    },
+    {
+      "es": "Defensa mil doscientos cincuenta, cerca de una panadería.",
+      "zh": "防衛街一二五○號，旁邊有間麵包店。"
+    },
+    {
+      "es": "Listo, ahí es, mirá el cartel verde.",
+      "zh": "到啦，就是那邊，看到綠色招牌沒。"
+    },
+    {
+      "es": "¿Cuánto te debo por el viaje?",
+      "zh": "車費多少？"
+    },
+    {
+      "es": "Son siete mil pesos, te dejo el redondeo de seis mil quinientos.",
+      "zh": "七千披索，算你六千五就好。"
+    },
+    {
+      "es": "Gracias por la charla, la pasé bárbaro, che.",
+      "zh": "謝謝你聊天，超開心的，老兄。"
+    },
+    {
+      "es": "De nada, disfrutá Buenos Aires y comé mucho asado.",
+      "zh": "不客氣，好好享受布宜諾斯艾利斯，多吃烤肉。"
+    },
+    {
+      "es": "Si necesitás taxi para el aeropuerto, te paso el número.",
+      "zh": "如果要叫車去機場，我電話給你。"
+    },
+    {
+      "es": "¿Cuánto me saldría más o menos hasta la avenida principal?",
+      "zh": "到大馬路大概要多少錢？"
+    },
+    {
+      "es": "Pará en la esquina del semáforo, que ahí me bajo nomás.",
+      "zh": "在紅綠燈的轉角停一下，我就在那裡下車。"
+    },
+    {
+      "es": "¿Te molesta si bajo un poco la ventanilla? Hace calor.",
+      "zh": "我把窗戶稍微搖下來你介意嗎？好熱。"
+    },
+    {
+      "es": "Conviene evitar la autopista a esta hora, está todo congestionado.",
+      "zh": "這個時間最好避開高速公路，全都塞住了。"
+    },
+    {
+      "es": "¿Aceptás tarjeta o tengo que pagarte en efectivo?",
+      "zh": "你收卡嗎，還是我得付你現金？"
+    },
+    {
+      "es": "Mirá, ese edificio de allá es uno de los más viejos de la ciudad.",
+      "zh": "你看，那邊那棟建築是城裡最古老的之一。"
+    },
+    {
+      "es": "Si querés, te llevo por una calle más tranquila y llegamos antes.",
+      "zh": "你想的話，我帶你走一條比較安靜的路，會更快到。"
+    },
+    {
+      "es": "Quedate tranquilo, conozco el camino como la palma de la mano.",
+      "zh": "你放心，這條路我熟得像自己的手掌一樣。"
+    },
+    {
+      "es": "Dejame el vuelto, redondeá nomás y listo.",
+      "zh": "找的零錢留著吧，湊個整數就好。"
+    },
+    {
+      "es": "Gracias por la charla, fue un viaje muy ameno.",
+      "zh": "謝謝你的聊天，這趟車程很愉快。"
+    }
   ]
 }

@@ -1,55 +1,245 @@
 {
   "title": "Compras semanales en el supermercado",
   "all": [
-    {"es": "¿Llevas la lista de la compra que dejé pegada en la nevera?", "zh": "你有帶我貼在冰箱上的購物清單嗎？"},
-    {"es": "La tengo aquí en el móvil, le hice una foto antes de salir.", "zh": "在我手機上，出門前我拍了照。"},
-    {"es": "Genial, agarra un carro grande, que vamos a llenarlo seguro.", "zh": "讚，拿大推車，我們鐵定會裝滿。"},
-    {"es": "¿Empezamos por la fruta y verdura como siempre?", "zh": "照慣例從蔬果區開始嗎？"},
-    {"es": "Sí, vamos directos allí antes de que se llene de gente.", "zh": "對，趁人潮還沒擠進去趕快過去。"},
-    {"es": "Coge esa bolsa de patatas grande, está de oferta hoy.", "zh": "拿那袋大馬鈴薯，今天特價。"},
-    {"es": "Mira, los tomates están a un euro el kilo, qué precio.", "zh": "你看，番茄一公斤一歐，好便宜。"},
-    {"es": "Llévate dos kilos, hacemos salsa para congelar el domingo.", "zh": "拿兩公斤，週日做醬冷凍起來。"},
-    {"es": "Manzanas también, las rojas que le gustan a los niños.", "zh": "也拿蘋果，小孩愛吃的紅蘋果。"},
-    {"es": "Pero pocas, que la última vez se nos pasaron sin comer.", "zh": "但少一點，上次都放到爛沒吃完。"},
-    {"es": "Vale, una bolsa de seis y vamos a la sección de carnes.", "zh": "好，一袋六顆就好，去肉品區吧。"},
-    {"es": "Necesitamos pollo, ¿pechugas o muslos esta semana?", "zh": "我們要雞肉，這週要雞胸還是雞腿？"},
-    {"es": "Mejor muslos, que tienen más sabor para guisar.", "zh": "雞腿好，燉起來比較香。"},
-    {"es": "Apunta también carne picada para las albóndigas del miércoles.", "zh": "也記下絞肉，週三做肉丸用。"},
-    {"es": "¿Mixta o solo de ternera?", "zh": "混合絞肉還是純牛？"},
-    {"es": "Mixta, sale más jugosa al final.", "zh": "混合的，做出來比較多汁。"},
-    {"es": "¿Y pescado, hace tiempo que no cocinamos pescado en casa?", "zh": "魚呢，我們家好久沒煮魚了。"},
-    {"es": "Tienes razón, mira qué merluza más fresca tienen hoy.", "zh": "你說得對，看今天的鱈魚多新鮮。"},
-    {"es": "Que nos limpien dos rodajas para hacerlas al horno.", "zh": "請他們處理兩片，要烤的。"},
-    {"es": "Mientras tanto voy a por leche y yogures.", "zh": "我趁機去拿牛奶跟優格。"},
-    {"es": "Trae también el queso de oveja que le gusta a tu padre.", "zh": "順便拿你爸喜歡的羊奶起司。"},
-    {"es": "¿Y mantequilla, queda en casa?", "zh": "奶油家裡還有嗎？"},
-    {"es": "Casi nada, mejor coge una nueva, la sin sal.", "zh": "幾乎沒了，拿新的吧，要無鹽的。"},
-    {"es": "Pasamos por el pasillo de la pasta y el arroz.", "zh": "我們經過義大利麵跟米的走道。"},
-    {"es": "Dos paquetes de espaguetis y uno de macarrones.", "zh": "兩包義大利麵跟一包通心粉。"},
-    {"es": "Arroz también, que se nos está acabando el bote.", "zh": "米也買，罐裡快用完了。"},
-    {"es": "Coge uno bueno para paella, marca La Fallera.", "zh": "拿個做西班牙海鮮飯用的好的，La Fallera 牌。"},
-    {"es": "¿Aceite de oliva, queda media botella en casa?", "zh": "橄欖油呢，家裡還剩半瓶嗎？"},
-    {"es": "Sí, pero mejor cogemos otra, que sube de precio cada semana.", "zh": "有，但再買一瓶吧，價格每週都漲。"},
-    {"es": "Una botella grande del virgen extra entonces.", "zh": "那就買一大瓶特級初榨的。"},
-    {"es": "Necesitamos huevos también, una docena al menos.", "zh": "雞蛋也要，至少一打。"},
-    {"es": "¿De los camperos o de los baratos?", "zh": "放養雞蛋還是便宜的？"},
-    {"es": "Los camperos, que están más buenos para tortilla.", "zh": "放養的，做西班牙烘蛋比較好吃。"},
-    {"es": "Pan no se nos olvide, una barra integral.", "zh": "別忘了麵包，一條全麥的。"},
-    {"es": "Y unas magdalenas para los desayunos de los niños.", "zh": "再拿幾個瑪德蓮給小孩當早餐。"},
-    {"es": "Mira el cartel, papel higiénico al cincuenta por ciento.", "zh": "你看告示，衛生紙打五折。"},
-    {"es": "Llévate dos paquetes grandes, esos siempre hacen falta.", "zh": "拿兩大包，這個永遠都需要。"},
-    {"es": "Detergente para la lavadora también, casi se acaba.", "zh": "洗衣精也要，快用完了。"},
-    {"es": "El líquido o el de cápsulas, ¿cuál prefieres tú?", "zh": "液體還是膠囊的，你喜歡哪種？"},
-    {"es": "El de cápsulas es más cómodo, aunque sale algo más caro.", "zh": "膠囊方便，雖然有點貴。"},
-    {"es": "Vale, cápsulas entonces, ¿algo más en la lista?", "zh": "好，那就膠囊，清單上還有什麼？"},
-    {"es": "Champú, suavizante y pasta de dientes.", "zh": "洗髮精、潤絲精跟牙膏。"},
-    {"es": "Pasillo seis, ahí está todo eso junto.", "zh": "六號走道，那些都在一起。"},
-    {"es": "Creo que ya tenemos prácticamente todo, vamos a la caja.", "zh": "我看差不多都齊了，去結帳吧。"},
-    {"es": "Hay una cola enorme en todas las cajas, qué barbaridad.", "zh": "每個收銀台都大排長龍，誇張。"},
-    {"es": "Probemos la de autoservicio, suele ir más rápido.", "zh": "試試自助結帳，通常比較快。"},
-    {"es": "Vale, vete pasando tú mientras yo busco la tarjeta del club.", "zh": "好，你先掃，我找會員卡。"},
-    {"es": "Han salido ciento veintitrés euros, no está mal.", "zh": "總共一百二十三歐，還好啦。"},
-    {"es": "Pues toma las bolsas y vamos al coche antes de que llueva.", "zh": "袋子拿著，趕快去車上免得下雨。"},
-    {"es": "Esta semana cocinamos en casa los siete días seguro.", "zh": "這禮拜七天保證都在家煮。"}
+    {
+      "es": "¿Llevas la lista de la compra que dejé pegada en la nevera?",
+      "zh": "你有帶我貼在冰箱上的購物清單嗎？"
+    },
+    {
+      "es": "La tengo aquí en el móvil, le hice una foto antes de salir.",
+      "zh": "在我手機上，出門前我拍了照。"
+    },
+    {
+      "es": "Genial, agarra un carro grande, que vamos a llenarlo seguro.",
+      "zh": "讚，拿大推車，我們鐵定會裝滿。"
+    },
+    {
+      "es": "¿Empezamos por la fruta y verdura como siempre?",
+      "zh": "照慣例從蔬果區開始嗎？"
+    },
+    {
+      "es": "Sí, vamos directos allí antes de que se llene de gente.",
+      "zh": "對，趁人潮還沒擠進去趕快過去。"
+    },
+    {
+      "es": "Coge esa bolsa de patatas grande, está de oferta hoy.",
+      "zh": "拿那袋大馬鈴薯，今天特價。"
+    },
+    {
+      "es": "Mira, los tomates están a un euro el kilo, qué precio.",
+      "zh": "你看，番茄一公斤一歐，好便宜。"
+    },
+    {
+      "es": "Llévate dos kilos, hacemos salsa para congelar el domingo.",
+      "zh": "拿兩公斤，週日做醬冷凍起來。"
+    },
+    {
+      "es": "Manzanas también, las rojas que le gustan a los niños.",
+      "zh": "也拿蘋果，小孩愛吃的紅蘋果。"
+    },
+    {
+      "es": "Pero pocas, que la última vez se nos pasaron sin comer.",
+      "zh": "但少一點，上次都放到爛沒吃完。"
+    },
+    {
+      "es": "Vale, una bolsa de seis y vamos a la sección de carnes.",
+      "zh": "好，一袋六顆就好，去肉品區吧。"
+    },
+    {
+      "es": "Necesitamos pollo, ¿pechugas o muslos esta semana?",
+      "zh": "我們要雞肉，這週要雞胸還是雞腿？"
+    },
+    {
+      "es": "Mejor muslos, que tienen más sabor para guisar.",
+      "zh": "雞腿好，燉起來比較香。"
+    },
+    {
+      "es": "Apunta también carne picada para las albóndigas del miércoles.",
+      "zh": "也記下絞肉，週三做肉丸用。"
+    },
+    {
+      "es": "¿Mixta o solo de ternera?",
+      "zh": "混合絞肉還是純牛？"
+    },
+    {
+      "es": "Mixta, sale más jugosa al final.",
+      "zh": "混合的，做出來比較多汁。"
+    },
+    {
+      "es": "¿Y pescado, hace tiempo que no cocinamos pescado en casa?",
+      "zh": "魚呢，我們家好久沒煮魚了。"
+    },
+    {
+      "es": "Tienes razón, mira qué merluza más fresca tienen hoy.",
+      "zh": "你說得對，看今天的鱈魚多新鮮。"
+    },
+    {
+      "es": "Que nos limpien dos rodajas para hacerlas al horno.",
+      "zh": "請他們處理兩片，要烤的。"
+    },
+    {
+      "es": "Mientras tanto voy a por leche y yogures.",
+      "zh": "我趁機去拿牛奶跟優格。"
+    },
+    {
+      "es": "Trae también el queso de oveja que le gusta a tu padre.",
+      "zh": "順便拿你爸喜歡的羊奶起司。"
+    },
+    {
+      "es": "¿Y mantequilla, queda en casa?",
+      "zh": "奶油家裡還有嗎？"
+    },
+    {
+      "es": "Casi nada, mejor coge una nueva, la sin sal.",
+      "zh": "幾乎沒了，拿新的吧，要無鹽的。"
+    },
+    {
+      "es": "Pasamos por el pasillo de la pasta y el arroz.",
+      "zh": "我們經過義大利麵跟米的走道。"
+    },
+    {
+      "es": "Dos paquetes de espaguetis y uno de macarrones.",
+      "zh": "兩包義大利麵跟一包通心粉。"
+    },
+    {
+      "es": "Arroz también, que se nos está acabando el bote.",
+      "zh": "米也買，罐裡快用完了。"
+    },
+    {
+      "es": "Coge uno bueno para paella, marca La Fallera.",
+      "zh": "拿個做西班牙海鮮飯用的好的，La Fallera 牌。"
+    },
+    {
+      "es": "¿Aceite de oliva, queda media botella en casa?",
+      "zh": "橄欖油呢，家裡還剩半瓶嗎？"
+    },
+    {
+      "es": "Sí, pero mejor cogemos otra, que sube de precio cada semana.",
+      "zh": "有，但再買一瓶吧，價格每週都漲。"
+    },
+    {
+      "es": "Una botella grande del virgen extra entonces.",
+      "zh": "那就買一大瓶特級初榨的。"
+    },
+    {
+      "es": "Necesitamos huevos también, una docena al menos.",
+      "zh": "雞蛋也要，至少一打。"
+    },
+    {
+      "es": "¿De los camperos o de los baratos?",
+      "zh": "放養雞蛋還是便宜的？"
+    },
+    {
+      "es": "Los camperos, que están más buenos para tortilla.",
+      "zh": "放養的，做西班牙烘蛋比較好吃。"
+    },
+    {
+      "es": "Pan no se nos olvide, una barra integral.",
+      "zh": "別忘了麵包，一條全麥的。"
+    },
+    {
+      "es": "Y unas magdalenas para los desayunos de los niños.",
+      "zh": "再拿幾個瑪德蓮給小孩當早餐。"
+    },
+    {
+      "es": "Mira el cartel, papel higiénico al cincuenta por ciento.",
+      "zh": "你看告示，衛生紙打五折。"
+    },
+    {
+      "es": "Llévate dos paquetes grandes, esos siempre hacen falta.",
+      "zh": "拿兩大包，這個永遠都需要。"
+    },
+    {
+      "es": "Detergente para la lavadora también, casi se acaba.",
+      "zh": "洗衣精也要，快用完了。"
+    },
+    {
+      "es": "El líquido o el de cápsulas, ¿cuál prefieres tú?",
+      "zh": "液體還是膠囊的，你喜歡哪種？"
+    },
+    {
+      "es": "El de cápsulas es más cómodo, aunque sale algo más caro.",
+      "zh": "膠囊方便，雖然有點貴。"
+    },
+    {
+      "es": "Vale, cápsulas entonces, ¿algo más en la lista?",
+      "zh": "好，那就膠囊，清單上還有什麼？"
+    },
+    {
+      "es": "Champú, suavizante y pasta de dientes.",
+      "zh": "洗髮精、潤絲精跟牙膏。"
+    },
+    {
+      "es": "Pasillo seis, ahí está todo eso junto.",
+      "zh": "六號走道，那些都在一起。"
+    },
+    {
+      "es": "Creo que ya tenemos prácticamente todo, vamos a la caja.",
+      "zh": "我看差不多都齊了，去結帳吧。"
+    },
+    {
+      "es": "Hay una cola enorme en todas las cajas, qué barbaridad.",
+      "zh": "每個收銀台都大排長龍，誇張。"
+    },
+    {
+      "es": "Probemos la de autoservicio, suele ir más rápido.",
+      "zh": "試試自助結帳，通常比較快。"
+    },
+    {
+      "es": "Vale, vete pasando tú mientras yo busco la tarjeta del club.",
+      "zh": "好，你先掃，我找會員卡。"
+    },
+    {
+      "es": "Han salido ciento veintitrés euros, no está mal.",
+      "zh": "總共一百二十三歐，還好啦。"
+    },
+    {
+      "es": "Pues toma las bolsas y vamos al coche antes de que llueva.",
+      "zh": "袋子拿著，趕快去車上免得下雨。"
+    },
+    {
+      "es": "Esta semana cocinamos en casa los siete días seguro.",
+      "zh": "這禮拜七天保證都在家煮。"
+    },
+    {
+      "es": "Las ofertas de hoy están en los pasillos del fondo a la derecha.",
+      "zh": "今天的特價品在最後面右邊的走道。"
+    },
+    {
+      "es": "Coge dos cartones de leche, que se nos acabaron en casa.",
+      "zh": "拿兩盒牛奶，家裡的喝完了。"
+    },
+    {
+      "es": "Mira la fecha de caducidad antes de echar el yogur al carro.",
+      "zh": "把優格放進推車前先看一下保存期限。"
+    },
+    {
+      "es": "No olvides el papel higiénico, está casi en la última esquina.",
+      "zh": "別忘了衛生紙，它放在最後面那個角落。"
+    },
+    {
+      "es": "Pesa tú las patatas mientras yo busco el detergente.",
+      "zh": "你去秤馬鈴薯，我去找洗衣精。"
+    },
+    {
+      "es": "Este queso lo tienen más barato en la marca del propio super.",
+      "zh": "這種起司用超市自有品牌的會比較便宜。"
+    },
+    {
+      "es": "Pasamos por congelados al final para que no se descongele nada.",
+      "zh": "我們最後再去冷凍區，這樣東西才不會解凍。"
+    },
+    {
+      "es": "Saca las bolsas reutilizables del bolso antes de la caja.",
+      "zh": "到收銀台前先把環保袋從包包裡拿出來。"
+    },
+    {
+      "es": "Hay cola en todas las cajas menos en la del autocobro.",
+      "zh": "每個收銀台都在排隊，只有自助結帳那邊沒人。"
+    },
+    {
+      "es": "Repasemos el tique en el coche, creo que nos han cobrado algo de más.",
+      "zh": "我們在車上對一下發票，我覺得有東西被多收了。"
+    }
   ]
 }

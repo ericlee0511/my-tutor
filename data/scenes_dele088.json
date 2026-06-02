@@ -1,55 +1,245 @@
 {
   "title": "Ayudando a mi padre con el móvil",
   "all": [
-    {"es": "Papá, ven, que te enseño cómo usar bien el móvil.", "zh": "爸，過來，我教你怎麼好好用手機。"},
-    {"es": "A ver si esta vez lo aprendo, hija, que soy un desastre.", "zh": "希望這次我學得會，女兒，我真是無藥可救。"},
-    {"es": "No eres un desastre, solo necesitas un poco de paciencia.", "zh": "你才不無藥可救，只是需要一點耐心。"},
-    {"es": "Empieza por lo más fácil, que me pierdo enseguida.", "zh": "從最簡單的開始，我很快就會迷路。"},
-    {"es": "Vale, primero quiero que mandes un mensaje a la abuela.", "zh": "好，第一個我要你傳訊息給奶奶。"},
-    {"es": "¿Y cómo abro eso del WhatsApp ese?", "zh": "WhatsApp 那個要怎麼打開？"},
-    {"es": "Toca el icono verde con el teléfono blanco dentro.", "zh": "點那個綠色裡面有白色電話的圖示。"},
-    {"es": "¿Este de aquí? Lo aprieto un poco fuerte.", "zh": "這個嗎？我用點力按。"},
-    {"es": "No hace falta apretar, solo un toque suave.", "zh": "不用用力，輕輕一點就好。"},
-    {"es": "Ah, mira, ya se abrió, qué cosa tan rara.", "zh": "啊看，打開了，好奇怪的東西。"},
-    {"es": "Ahora busca el nombre de la abuela en la lista.", "zh": "現在在清單裡找奶奶的名字。"},
-    {"es": "No la veo, ¿dónde está? Hay un montón de gente.", "zh": "我看不到，在哪？這裡好多人。"},
-    {"es": "Arrastra el dedo hacia abajo para ir bajando.", "zh": "手指往下滑就會往下找。"},
-    {"es": "Se me va solo, lo arrastra demasiado.", "zh": "它自己跑掉了，滑太多。"},
-    {"es": "Más despacio, papá, no hace falta tanta fuerza.", "zh": "慢一點爸，不需要那麼用力。"},
-    {"es": "Vale, ya la he encontrado, abuela mía pone.", "zh": "好，我找到了，寫著「我親愛的奶奶」。"},
-    {"es": "Pínchale encima y luego escribe en la barra de abajo.", "zh": "點下去，然後在下面那條輸入。"},
-    {"es": "¿Y las letras son tan pequeñas o son mis ojos?", "zh": "這些字真的這麼小還是我眼花？"},
-    {"es": "Te voy a poner el texto más grande, espera un segundo.", "zh": "我幫你把字弄大一點，等一下。"},
-    {"es": "Ya está, mira, ahora sí se ve mejor.", "zh": "好了，看，這樣比較清楚了。"},
-    {"es": "Mucho mejor, ahora sí que puedo, gracias hija.", "zh": "好多了，這樣我可以了，謝謝女兒。"},
-    {"es": "Escríbele algo bonito, no le tienes que poner un libro.", "zh": "寫點窩心的話，不用寫一整本書。"},
-    {"es": "Hola mamá, ¿cómo estás? ¿algo así está bien?", "zh": "嗨媽你好嗎？這樣寫可以嗎？"},
-    {"es": "Perfecto, ahora dale a la flechita azul para enviar.", "zh": "完美，現在按那個藍色小箭頭發送。"},
-    {"es": "¿Esta de aquí? Ya está, ¿ya se ha ido?", "zh": "這個嗎？好了，是不是已經寄出去了？"},
-    {"es": "Sí, mira, abajo aparecen dos rayitas grises.", "zh": "對，看，下面出現兩個灰色的小勾。"},
-    {"es": "Cuando se ponen azules es que lo ha leído.", "zh": "變成藍色就代表她已讀了。"},
-    {"es": "Vaya invento, las cosas que se hacen ahora.", "zh": "真是奇蹟，現在科技什麼都辦得到。"},
-    {"es": "Ahora te enseño a mandar una foto, presta atención.", "zh": "現在我教你傳照片，認真聽。"},
-    {"es": "Eso ya me lo enseñaste el mes pasado, no me acuerdo.", "zh": "上個月你教過了，我不記得了。"},
-    {"es": "Tranquilo, lo repetimos las veces que haga falta.", "zh": "別緊張，需要幾次都重來。"},
-    {"es": "Pulsa el clip que hay al lado del texto.", "zh": "按文字旁邊那個迴紋針。"},
-    {"es": "Aquí salen un montón de cuadritos, ¿cuál elijo?", "zh": "這裡跑出一堆小方塊，要選哪個？"},
-    {"es": "El que pone galería, ahí están todas tus fotos.", "zh": "寫「相簿」的那個，你所有照片都在裡面。"},
-    {"es": "Pero yo no he hecho ninguna foto en mi vida.", "zh": "可是我這輩子沒拍過半張照片。"},
-    {"es": "Sí que tienes, mira, esta del cumpleaños de tu nieto.", "zh": "你有啦，看，這張你孫子的生日。"},
-    {"es": "Ah, claro, esa la hice yo, mírala qué guapa salió.", "zh": "啊對，是我拍的，看拍得多漂亮。"},
-    {"es": "Vamos a editarla un poco, le quitamos esa sombra.", "zh": "我們稍微修一下，把那個陰影去掉。"},
-    {"es": "¿Editar? ¿Eso es como retocar como las revistas?", "zh": "修圖？那是不是像雜誌那種修法？"},
-    {"es": "Algo así, pero solo para que se vea más natural.", "zh": "差不多，但我們只讓它看起來更自然。"},
-    {"es": "Toca el lápiz que sale arriba a la derecha.", "zh": "點右上角那個鉛筆。"},
-    {"es": "Ya, ¿y ahora qué hago con todas estas barritas?", "zh": "好，這些長條條我現在要做什麼？"},
-    {"es": "Mueve la del brillo solo un poquito hacia la derecha.", "zh": "亮度的那條稍微往右拉一點點。"},
-    {"es": "¡Mira qué bien se ve ahora, parece otra foto!", "zh": "看現在多漂亮，根本像另一張照片！"},
-    {"es": "Guarda los cambios y se la mandas a la abuela.", "zh": "存檔，然後傳給奶奶。"},
-    {"es": "Hija, me siento como si hubiera aprendido un idioma nuevo.", "zh": "女兒，我覺得自己好像學了一種新語言。"},
-    {"es": "Lo estás haciendo genial, papá, mucho mejor que antes.", "zh": "你做得超棒爸，比以前好很多。"},
-    {"es": "Es por tu paciencia, no te enfadas nunca conmigo.", "zh": "都因為你有耐心，從來不對我發火。"},
-    {"es": "Cómo me voy a enfadar contigo, anda, no digas tonterías.", "zh": "我怎麼可能對你發火，別說傻話。"},
-    {"es": "Eres la mejor profesora, ahora vamos a tomar algo.", "zh": "你是最棒的老師，現在我們去喝點東西。"}
+    {
+      "es": "Papá, ven, que te enseño cómo usar bien el móvil.",
+      "zh": "爸，過來，我教你怎麼好好用手機。"
+    },
+    {
+      "es": "A ver si esta vez lo aprendo, hija, que soy un desastre.",
+      "zh": "希望這次我學得會，女兒，我真是無藥可救。"
+    },
+    {
+      "es": "No eres un desastre, solo necesitas un poco de paciencia.",
+      "zh": "你才不無藥可救，只是需要一點耐心。"
+    },
+    {
+      "es": "Empieza por lo más fácil, que me pierdo enseguida.",
+      "zh": "從最簡單的開始，我很快就會迷路。"
+    },
+    {
+      "es": "Vale, primero quiero que mandes un mensaje a la abuela.",
+      "zh": "好，第一個我要你傳訊息給奶奶。"
+    },
+    {
+      "es": "¿Y cómo abro eso del WhatsApp ese?",
+      "zh": "WhatsApp 那個要怎麼打開？"
+    },
+    {
+      "es": "Toca el icono verde con el teléfono blanco dentro.",
+      "zh": "點那個綠色裡面有白色電話的圖示。"
+    },
+    {
+      "es": "¿Este de aquí? Lo aprieto un poco fuerte.",
+      "zh": "這個嗎？我用點力按。"
+    },
+    {
+      "es": "No hace falta apretar, solo un toque suave.",
+      "zh": "不用用力，輕輕一點就好。"
+    },
+    {
+      "es": "Ah, mira, ya se abrió, qué cosa tan rara.",
+      "zh": "啊看，打開了，好奇怪的東西。"
+    },
+    {
+      "es": "Ahora busca el nombre de la abuela en la lista.",
+      "zh": "現在在清單裡找奶奶的名字。"
+    },
+    {
+      "es": "No la veo, ¿dónde está? Hay un montón de gente.",
+      "zh": "我看不到，在哪？這裡好多人。"
+    },
+    {
+      "es": "Arrastra el dedo hacia abajo para ir bajando.",
+      "zh": "手指往下滑就會往下找。"
+    },
+    {
+      "es": "Se me va solo, lo arrastra demasiado.",
+      "zh": "它自己跑掉了，滑太多。"
+    },
+    {
+      "es": "Más despacio, papá, no hace falta tanta fuerza.",
+      "zh": "慢一點爸，不需要那麼用力。"
+    },
+    {
+      "es": "Vale, ya la he encontrado, abuela mía pone.",
+      "zh": "好，我找到了，寫著「我親愛的奶奶」。"
+    },
+    {
+      "es": "Pínchale encima y luego escribe en la barra de abajo.",
+      "zh": "點下去，然後在下面那條輸入。"
+    },
+    {
+      "es": "¿Y las letras son tan pequeñas o son mis ojos?",
+      "zh": "這些字真的這麼小還是我眼花？"
+    },
+    {
+      "es": "Te voy a poner el texto más grande, espera un segundo.",
+      "zh": "我幫你把字弄大一點，等一下。"
+    },
+    {
+      "es": "Ya está, mira, ahora sí se ve mejor.",
+      "zh": "好了，看，這樣比較清楚了。"
+    },
+    {
+      "es": "Mucho mejor, ahora sí que puedo, gracias hija.",
+      "zh": "好多了，這樣我可以了，謝謝女兒。"
+    },
+    {
+      "es": "Escríbele algo bonito, no le tienes que poner un libro.",
+      "zh": "寫點窩心的話，不用寫一整本書。"
+    },
+    {
+      "es": "Hola mamá, ¿cómo estás? ¿algo así está bien?",
+      "zh": "嗨媽你好嗎？這樣寫可以嗎？"
+    },
+    {
+      "es": "Perfecto, ahora dale a la flechita azul para enviar.",
+      "zh": "完美，現在按那個藍色小箭頭發送。"
+    },
+    {
+      "es": "¿Esta de aquí? Ya está, ¿ya se ha ido?",
+      "zh": "這個嗎？好了，是不是已經寄出去了？"
+    },
+    {
+      "es": "Sí, mira, abajo aparecen dos rayitas grises.",
+      "zh": "對，看，下面出現兩個灰色的小勾。"
+    },
+    {
+      "es": "Cuando se ponen azules es que lo ha leído.",
+      "zh": "變成藍色就代表她已讀了。"
+    },
+    {
+      "es": "Vaya invento, las cosas que se hacen ahora.",
+      "zh": "真是奇蹟，現在科技什麼都辦得到。"
+    },
+    {
+      "es": "Ahora te enseño a mandar una foto, presta atención.",
+      "zh": "現在我教你傳照片，認真聽。"
+    },
+    {
+      "es": "Eso ya me lo enseñaste el mes pasado, no me acuerdo.",
+      "zh": "上個月你教過了，我不記得了。"
+    },
+    {
+      "es": "Tranquilo, lo repetimos las veces que haga falta.",
+      "zh": "別緊張，需要幾次都重來。"
+    },
+    {
+      "es": "Pulsa el clip que hay al lado del texto.",
+      "zh": "按文字旁邊那個迴紋針。"
+    },
+    {
+      "es": "Aquí salen un montón de cuadritos, ¿cuál elijo?",
+      "zh": "這裡跑出一堆小方塊，要選哪個？"
+    },
+    {
+      "es": "El que pone galería, ahí están todas tus fotos.",
+      "zh": "寫「相簿」的那個，你所有照片都在裡面。"
+    },
+    {
+      "es": "Pero yo no he hecho ninguna foto en mi vida.",
+      "zh": "可是我這輩子沒拍過半張照片。"
+    },
+    {
+      "es": "Sí que tienes, mira, esta del cumpleaños de tu nieto.",
+      "zh": "你有啦，看，這張你孫子的生日。"
+    },
+    {
+      "es": "Ah, claro, esa la hice yo, mírala qué guapa salió.",
+      "zh": "啊對，是我拍的，看拍得多漂亮。"
+    },
+    {
+      "es": "Vamos a editarla un poco, le quitamos esa sombra.",
+      "zh": "我們稍微修一下，把那個陰影去掉。"
+    },
+    {
+      "es": "¿Editar? ¿Eso es como retocar como las revistas?",
+      "zh": "修圖？那是不是像雜誌那種修法？"
+    },
+    {
+      "es": "Algo así, pero solo para que se vea más natural.",
+      "zh": "差不多，但我們只讓它看起來更自然。"
+    },
+    {
+      "es": "Toca el lápiz que sale arriba a la derecha.",
+      "zh": "點右上角那個鉛筆。"
+    },
+    {
+      "es": "Ya, ¿y ahora qué hago con todas estas barritas?",
+      "zh": "好，這些長條條我現在要做什麼？"
+    },
+    {
+      "es": "Mueve la del brillo solo un poquito hacia la derecha.",
+      "zh": "亮度的那條稍微往右拉一點點。"
+    },
+    {
+      "es": "¡Mira qué bien se ve ahora, parece otra foto!",
+      "zh": "看現在多漂亮，根本像另一張照片！"
+    },
+    {
+      "es": "Guarda los cambios y se la mandas a la abuela.",
+      "zh": "存檔，然後傳給奶奶。"
+    },
+    {
+      "es": "Hija, me siento como si hubiera aprendido un idioma nuevo.",
+      "zh": "女兒，我覺得自己好像學了一種新語言。"
+    },
+    {
+      "es": "Lo estás haciendo genial, papá, mucho mejor que antes.",
+      "zh": "你做得超棒爸，比以前好很多。"
+    },
+    {
+      "es": "Es por tu paciencia, no te enfadas nunca conmigo.",
+      "zh": "都因為你有耐心，從來不對我發火。"
+    },
+    {
+      "es": "Cómo me voy a enfadar contigo, anda, no digas tonterías.",
+      "zh": "我怎麼可能對你發火，別說傻話。"
+    },
+    {
+      "es": "Eres la mejor profesora, ahora vamos a tomar algo.",
+      "zh": "你是最棒的老師，現在我們去喝點東西。"
+    },
+    {
+      "es": "Para hacer una foto, pulsa este círculo grande del centro.",
+      "zh": "要拍照的話，按中間這個大圓圈。"
+    },
+    {
+      "es": "Si te sale una ventana que no entiendes, dale a cancelar y ya está.",
+      "zh": "如果跳出你看不懂的視窗，按取消就好。"
+    },
+    {
+      "es": "Mira, así guardas el número de la farmacia en los contactos.",
+      "zh": "看，這樣就能把藥局的號碼存進聯絡人裡。"
+    },
+    {
+      "es": "Para subir el volumen, usa este botón del lateral derecho.",
+      "zh": "要調高音量，用右側這個按鈕。"
+    },
+    {
+      "es": "No descargues aplicaciones que no conozcas, pueden ser un timo.",
+      "zh": "別下載你不認識的應用程式，可能是詐騙。"
+    },
+    {
+      "es": "Cuando llame tu nieto por vídeo, deslizas el verde hacia arriba.",
+      "zh": "你孫子打視訊來時，把綠色的往上滑。"
+    },
+    {
+      "es": "Te pongo la letra más grande para que leas sin las gafas.",
+      "zh": "我幫你把字體調大，這樣你不戴眼鏡也能看。"
+    },
+    {
+      "es": "Conéctalo a cargar por la noche y por la mañana estará lleno.",
+      "zh": "晚上把它接上充電，早上就充滿了。"
+    },
+    {
+      "es": "Si tocas sin querer algo, no pasa nada, no se rompe.",
+      "zh": "如果你不小心碰到什麼，沒關係，弄不壞的。"
+    },
+    {
+      "es": "Practica tú solo mandándome un mensaje cuando yo me vaya.",
+      "zh": "等我走了之後，你自己練習傳訊息給我。"
+    }
   ]
 }

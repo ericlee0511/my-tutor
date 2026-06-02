@@ -1,55 +1,245 @@
 {
   "title": "Reservando un vuelo barato online",
   "all": [
-    {"es": "Mira, en esta web hay un vuelo a Lisboa por noventa euros ida y vuelta.", "zh": "你看，這個網站有里斯本九十歐元的來回機票。"},
-    {"es": "¿En serio? Déjame ver las fechas, porque no podemos viajar entre semana.", "zh": "真的？讓我看看日期，我們平日不能出門。"},
-    {"es": "Sale el viernes por la noche y vuelve el domingo bastante tarde.", "zh": "週五晚上出發，週日很晚才回來。"},
-    {"es": "Eso nos vendría perfecto, así no perdemos días de trabajo.", "zh": "這樣超剛好，這樣就不會少上班。"},
-    {"es": "Pero ojo, esa tarifa no incluye equipaje facturado, solo una mochila pequeña.", "zh": "但是注意，這個價格不包含託運行李，只有一個小背包。"},
-    {"es": "Con dos noches creo que con la mochila nos sobra de todo.", "zh": "兩個晚上我覺得一個背包就綽綽有餘了。"},
-    {"es": "Vale, voy a meter los datos: nombres tal y como aparecen en el pasaporte.", "zh": "好，我來輸入資料：名字要跟護照上一模一樣。"},
-    {"es": "Apellido primero, luego el nombre, no te equivoques con el orden.", "zh": "姓在前，名字在後，順序別搞錯。"},
-    {"es": "Fecha de nacimiento, nacionalidad española y número de DNI.", "zh": "出生日期、西班牙國籍，還有身分證號碼。"},
-    {"es": "Ahora me pide elegir asiento, ¿prefieres ventanilla o pasillo?", "zh": "現在要選位子，你要靠窗還是走道？"},
-    {"es": "Ventanilla siempre, me gusta ver las nubes al despegar.", "zh": "永遠選靠窗，我喜歡起飛時看雲。"},
-    {"es": "El asiento con espacio extra cuesta doce euros más por trayecto.", "zh": "比較寬的位子每段要多十二歐元。"},
-    {"es": "Para un vuelo de dos horas no merece la pena, déjalo normal.", "zh": "兩小時的航程不值得，就普通位就好。"},
-    {"es": "Atento, te están intentando colar un seguro de cancelación.", "zh": "小心，他們想偷塞給你取消保險。"},
-    {"es": "Sí, lo he visto, voy a quitar la casilla antes de seguir.", "zh": "對，我看到了，繼續之前要把勾選拿掉。"},
-    {"es": "También viene marcado un alquiler de coche que no necesitamos.", "zh": "還有預設一個我們不需要的租車選項。"},
-    {"es": "Estos truquitos son típicos de las aerolíneas baratas.", "zh": "這些小手段廉航最會用了。"},
-    {"es": "Ya estamos en el resumen, comprueba que todo cuadra antes de pagar.", "zh": "已經到結帳頁面了，付款前確認所有資料都對。"},
-    {"es": "Los nombres están bien, las fechas también, el total son ciento ochenta y cinco euros.", "zh": "名字沒問題，日期也沒問題，總共一百八十五歐元。"},
-    {"es": "¿Pagamos con tu tarjeta y luego me pasas mi parte por Bizum?", "zh": "用你的卡刷然後我再用 Bizum 把我那份轉給你？"},
-    {"es": "Perfecto, así acumulo puntos en mi cuenta del banco.", "zh": "好，這樣我銀行帳戶可以累積點數。"},
-    {"es": "Me ha llegado el código de seguridad por SMS, espera que lo meta.", "zh": "簡訊驗證碼寄來了，等我輸入一下。"},
-    {"es": "¡Confirmado! Acabamos de comprar nuestro fin de semana en Lisboa.", "zh": "確認！我們剛買下了里斯本週末行。"},
-    {"es": "Mándame los billetes al correo, también los quiero guardar yo.", "zh": "把機票寄一份到我信箱，我也想留一份。"},
-    {"es": "Voy a hacer captura por si acaso el aeropuerto no tiene buen wifi.", "zh": "我截圖一下，怕機場 wifi 不好。"},
-    {"es": "Ahora toca buscar alojamiento, ¿hotel céntrico o apartamento?", "zh": "現在來找住的，市中心飯店還是公寓？"},
-    {"es": "Apartamento, así desayunamos en casa y ahorramos un poco.", "zh": "公寓吧，這樣在家吃早餐，省一點。"},
-    {"es": "Cerca del barrio de Alfama estaría genial para movernos a pie.", "zh": "在阿法瑪區附近會很棒，可以走路逛。"},
-    {"es": "Mira este loft con vistas al Tajo, sesenta euros la noche.", "zh": "你看這個 loft 可以看到塔霍河，一晚六十歐元。"},
-    {"es": "Las reseñas son buenísimas y el check-in es automático con código.", "zh": "評價超好，而且是自助入住輸密碼。"},
-    {"es": "Reserva, reserva, antes de que suba el precio o se llene.", "zh": "訂吧訂吧，趁還沒漲價或滿房。"},
-    {"es": "¿Sabes si Lisboa pide algún impuesto turístico por noche?", "zh": "你知道里斯本每晚要收觀光稅嗎？"},
-    {"es": "Creo que son dos euros por persona, se pagan en mano al llegar.", "zh": "好像是每人兩歐元，到了現場付。"},
-    {"es": "Vale, lo apunto en el presupuesto del viaje para no descuadrarnos.", "zh": "好，我記到旅行預算裡，免得超支。"},
-    {"es": "Solo nos falta mirar cómo ir del aeropuerto al centro.", "zh": "只剩查機場到市中心怎麼去了。"},
-    {"es": "Hay un metro directo bastante barato, sale más a cuenta que el taxi.", "zh": "有直達地鐵滿便宜，比計程車划算。"},
-    {"es": "Yo prefiero el metro, además así empezamos a movernos como locales.", "zh": "我比較想搭地鐵，順便像當地人一樣移動。"},
-    {"es": "¿Quieres que te diga la ropa que llevaría para esos días?", "zh": "要我跟你說那幾天我會帶什麼衣服嗎？"},
-    {"es": "Mejor mañana, ahora estoy agotada de tanto mirar pantalla.", "zh": "明天再說啦，現在盯螢幕盯到累爆。"},
-    {"es": "Por cierto, descárgate la app de la aerolínea para la tarjeta de embarque.", "zh": "對了，下載一下航空公司的 app 拿登機證。"},
-    {"es": "Y activa las notificaciones por si cambian la puerta de embarque.", "zh": "也開啟通知，怕他們換登機門。"},
-    {"es": "¿Pongo una alarma para hacer el check-in a las cuarenta y ocho horas?", "zh": "我設個四十八小時前 check-in 的鬧鐘好嗎？"},
-    {"es": "Sí, si no nos cobran por elegir asiento en el mostrador.", "zh": "好，不然在櫃台選位子他們會收費。"},
-    {"es": "Avisemos también al banco de que vamos a usar la tarjeta fuera.", "zh": "也通知一下銀行我們要在國外刷卡。"},
-    {"es": "Buena idea, el otro día me bloquearon la tarjeta en Italia.", "zh": "好主意，前幾天我在義大利卡被鎖。"},
-    {"es": "Pues ya está, oficialmente tenemos plan para el puente.", "zh": "好啦，連假行程正式敲定。"},
-    {"es": "Quedamos en el aeropuerto a las siete, no se te ocurra dormirte.", "zh": "七點機場見，你給我別睡過頭。"},
-    {"es": "Tranquila, pondré tres alarmas y dejaré la maleta hecha la víspera.", "zh": "放心，我會設三個鬧鐘，前一晚就打包好。"},
-    {"es": "Voy a guardar todos los justificantes en una carpeta del móvil.", "zh": "我把所有訂購證明存到手機資料夾裡。"},
-    {"es": "Perfecto, ya solo queda esperar y soñar con los pasteles de nata.", "zh": "完美，剩下的就是等待，還有夢想著葡式蛋塔。"}
+    {
+      "es": "Mira, en esta web hay un vuelo a Lisboa por noventa euros ida y vuelta.",
+      "zh": "你看，這個網站有里斯本九十歐元的來回機票。"
+    },
+    {
+      "es": "¿En serio? Déjame ver las fechas, porque no podemos viajar entre semana.",
+      "zh": "真的？讓我看看日期，我們平日不能出門。"
+    },
+    {
+      "es": "Sale el viernes por la noche y vuelve el domingo bastante tarde.",
+      "zh": "週五晚上出發，週日很晚才回來。"
+    },
+    {
+      "es": "Eso nos vendría perfecto, así no perdemos días de trabajo.",
+      "zh": "這樣超剛好，這樣就不會少上班。"
+    },
+    {
+      "es": "Pero ojo, esa tarifa no incluye equipaje facturado, solo una mochila pequeña.",
+      "zh": "但是注意，這個價格不包含託運行李，只有一個小背包。"
+    },
+    {
+      "es": "Con dos noches creo que con la mochila nos sobra de todo.",
+      "zh": "兩個晚上我覺得一個背包就綽綽有餘了。"
+    },
+    {
+      "es": "Vale, voy a meter los datos: nombres tal y como aparecen en el pasaporte.",
+      "zh": "好，我來輸入資料：名字要跟護照上一模一樣。"
+    },
+    {
+      "es": "Apellido primero, luego el nombre, no te equivoques con el orden.",
+      "zh": "姓在前，名字在後，順序別搞錯。"
+    },
+    {
+      "es": "Fecha de nacimiento, nacionalidad española y número de DNI.",
+      "zh": "出生日期、西班牙國籍，還有身分證號碼。"
+    },
+    {
+      "es": "Ahora me pide elegir asiento, ¿prefieres ventanilla o pasillo?",
+      "zh": "現在要選位子，你要靠窗還是走道？"
+    },
+    {
+      "es": "Ventanilla siempre, me gusta ver las nubes al despegar.",
+      "zh": "永遠選靠窗，我喜歡起飛時看雲。"
+    },
+    {
+      "es": "El asiento con espacio extra cuesta doce euros más por trayecto.",
+      "zh": "比較寬的位子每段要多十二歐元。"
+    },
+    {
+      "es": "Para un vuelo de dos horas no merece la pena, déjalo normal.",
+      "zh": "兩小時的航程不值得，就普通位就好。"
+    },
+    {
+      "es": "Atento, te están intentando colar un seguro de cancelación.",
+      "zh": "小心，他們想偷塞給你取消保險。"
+    },
+    {
+      "es": "Sí, lo he visto, voy a quitar la casilla antes de seguir.",
+      "zh": "對，我看到了，繼續之前要把勾選拿掉。"
+    },
+    {
+      "es": "También viene marcado un alquiler de coche que no necesitamos.",
+      "zh": "還有預設一個我們不需要的租車選項。"
+    },
+    {
+      "es": "Estos truquitos son típicos de las aerolíneas baratas.",
+      "zh": "這些小手段廉航最會用了。"
+    },
+    {
+      "es": "Ya estamos en el resumen, comprueba que todo cuadra antes de pagar.",
+      "zh": "已經到結帳頁面了，付款前確認所有資料都對。"
+    },
+    {
+      "es": "Los nombres están bien, las fechas también, el total son ciento ochenta y cinco euros.",
+      "zh": "名字沒問題，日期也沒問題，總共一百八十五歐元。"
+    },
+    {
+      "es": "¿Pagamos con tu tarjeta y luego me pasas mi parte por Bizum?",
+      "zh": "用你的卡刷然後我再用 Bizum 把我那份轉給你？"
+    },
+    {
+      "es": "Perfecto, así acumulo puntos en mi cuenta del banco.",
+      "zh": "好，這樣我銀行帳戶可以累積點數。"
+    },
+    {
+      "es": "Me ha llegado el código de seguridad por SMS, espera que lo meta.",
+      "zh": "簡訊驗證碼寄來了，等我輸入一下。"
+    },
+    {
+      "es": "¡Confirmado! Acabamos de comprar nuestro fin de semana en Lisboa.",
+      "zh": "確認！我們剛買下了里斯本週末行。"
+    },
+    {
+      "es": "Mándame los billetes al correo, también los quiero guardar yo.",
+      "zh": "把機票寄一份到我信箱，我也想留一份。"
+    },
+    {
+      "es": "Voy a hacer captura por si acaso el aeropuerto no tiene buen wifi.",
+      "zh": "我截圖一下，怕機場 wifi 不好。"
+    },
+    {
+      "es": "Ahora toca buscar alojamiento, ¿hotel céntrico o apartamento?",
+      "zh": "現在來找住的，市中心飯店還是公寓？"
+    },
+    {
+      "es": "Apartamento, así desayunamos en casa y ahorramos un poco.",
+      "zh": "公寓吧，這樣在家吃早餐，省一點。"
+    },
+    {
+      "es": "Cerca del barrio de Alfama estaría genial para movernos a pie.",
+      "zh": "在阿法瑪區附近會很棒，可以走路逛。"
+    },
+    {
+      "es": "Mira este loft con vistas al Tajo, sesenta euros la noche.",
+      "zh": "你看這個 loft 可以看到塔霍河，一晚六十歐元。"
+    },
+    {
+      "es": "Las reseñas son buenísimas y el check-in es automático con código.",
+      "zh": "評價超好，而且是自助入住輸密碼。"
+    },
+    {
+      "es": "Reserva, reserva, antes de que suba el precio o se llene.",
+      "zh": "訂吧訂吧，趁還沒漲價或滿房。"
+    },
+    {
+      "es": "¿Sabes si Lisboa pide algún impuesto turístico por noche?",
+      "zh": "你知道里斯本每晚要收觀光稅嗎？"
+    },
+    {
+      "es": "Creo que son dos euros por persona, se pagan en mano al llegar.",
+      "zh": "好像是每人兩歐元，到了現場付。"
+    },
+    {
+      "es": "Vale, lo apunto en el presupuesto del viaje para no descuadrarnos.",
+      "zh": "好，我記到旅行預算裡，免得超支。"
+    },
+    {
+      "es": "Solo nos falta mirar cómo ir del aeropuerto al centro.",
+      "zh": "只剩查機場到市中心怎麼去了。"
+    },
+    {
+      "es": "Hay un metro directo bastante barato, sale más a cuenta que el taxi.",
+      "zh": "有直達地鐵滿便宜，比計程車划算。"
+    },
+    {
+      "es": "Yo prefiero el metro, además así empezamos a movernos como locales.",
+      "zh": "我比較想搭地鐵，順便像當地人一樣移動。"
+    },
+    {
+      "es": "¿Quieres que te diga la ropa que llevaría para esos días?",
+      "zh": "要我跟你說那幾天我會帶什麼衣服嗎？"
+    },
+    {
+      "es": "Mejor mañana, ahora estoy agotada de tanto mirar pantalla.",
+      "zh": "明天再說啦，現在盯螢幕盯到累爆。"
+    },
+    {
+      "es": "Por cierto, descárgate la app de la aerolínea para la tarjeta de embarque.",
+      "zh": "對了，下載一下航空公司的 app 拿登機證。"
+    },
+    {
+      "es": "Y activa las notificaciones por si cambian la puerta de embarque.",
+      "zh": "也開啟通知，怕他們換登機門。"
+    },
+    {
+      "es": "¿Pongo una alarma para hacer el check-in a las cuarenta y ocho horas?",
+      "zh": "我設個四十八小時前 check-in 的鬧鐘好嗎？"
+    },
+    {
+      "es": "Sí, si no nos cobran por elegir asiento en el mostrador.",
+      "zh": "好，不然在櫃台選位子他們會收費。"
+    },
+    {
+      "es": "Avisemos también al banco de que vamos a usar la tarjeta fuera.",
+      "zh": "也通知一下銀行我們要在國外刷卡。"
+    },
+    {
+      "es": "Buena idea, el otro día me bloquearon la tarjeta en Italia.",
+      "zh": "好主意，前幾天我在義大利卡被鎖。"
+    },
+    {
+      "es": "Pues ya está, oficialmente tenemos plan para el puente.",
+      "zh": "好啦，連假行程正式敲定。"
+    },
+    {
+      "es": "Quedamos en el aeropuerto a las siete, no se te ocurra dormirte.",
+      "zh": "七點機場見，你給我別睡過頭。"
+    },
+    {
+      "es": "Tranquila, pondré tres alarmas y dejaré la maleta hecha la víspera.",
+      "zh": "放心，我會設三個鬧鐘，前一晚就打包好。"
+    },
+    {
+      "es": "Voy a guardar todos los justificantes en una carpeta del móvil.",
+      "zh": "我把所有訂購證明存到手機資料夾裡。"
+    },
+    {
+      "es": "Perfecto, ya solo queda esperar y soñar con los pasteles de nata.",
+      "zh": "完美，剩下的就是等待，還有夢想著葡式蛋塔。"
+    },
+    {
+      "es": "Si reservamos hoy mismo, el precio incluye una maleta pequeña de cabina.",
+      "zh": "如果我們今天就訂，價格包含一個小型登機箱。"
+    },
+    {
+      "es": "Cuidado, esa aerolínea cobra aparte por elegir el asiento.",
+      "zh": "小心，那家航空公司另外收選位的費用。"
+    },
+    {
+      "es": "Compara el coste total antes de pagar, que a veces las tasas suben mucho.",
+      "zh": "付款前先比較總費用，因為稅金有時會漲很多。"
+    },
+    {
+      "es": "Conviene meter el correo de confirmación en una carpeta para no perderlo.",
+      "zh": "最好把確認信放進一個資料夾裡，以免弄丟。"
+    },
+    {
+      "es": "Pongamos una alerta de tarifas para que nos avise cuando bajen.",
+      "zh": "我們設個票價提醒吧，降價時就會通知我們。"
+    },
+    {
+      "es": "El equipaje de mano permitido pesa como mucho ocho kilos, según pone aquí.",
+      "zh": "根據這裡寫的，允許的手提行李最多八公斤。"
+    },
+    {
+      "es": "Recuerda hacer la tarjeta de embarque desde casa para ahorrar tiempo.",
+      "zh": "記得在家先辦登機證以節省時間。"
+    },
+    {
+      "es": "El aeropuerto de destino está lejísimos del centro, hay que sumar el transporte.",
+      "zh": "目的地機場離市中心非常遠，得把交通費也算進去。"
+    },
+    {
+      "es": "Paguemos con la tarjeta que no añade comisión por divisa extranjera.",
+      "zh": "我們用不收外幣手續費的那張卡付款吧。"
+    },
+    {
+      "es": "Si cancelamos, solo nos devuelven una parte, así que pensémoslo bien.",
+      "zh": "如果取消的話，他們只退一部分，所以我們要好好考慮。"
+    }
   ]
 }

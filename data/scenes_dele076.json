@@ -1,55 +1,245 @@
 {
   "title": "Trabajando desde casa con problemas técnicos",
   "all": [
-    {"es": "Buenos días, hoy trabajo desde casa, voy a encender el portátil.", "zh": "早安，今天在家工作，我來開筆電。"},
-    {"es": "La VPN no conecta, qué raro, ayer funcionaba bien.", "zh": "VPN 連不上，好怪，昨天還好好的。"},
-    {"es": "Voy a reiniciar el router por si acaso.", "zh": "我先重開路由器看看。"},
-    {"es": "Tampoco funciona, esto es un desastre desde primera hora.", "zh": "還是不行，一大早就出包真慘。"},
-    {"es": "Voy a llamar al servicio técnico de la empresa.", "zh": "我打給公司的技術支援。"},
-    {"es": "Soporte informático, buenos días, ¿en qué puedo ayudarle?", "zh": "資訊支援，早安，請問需要什麼協助？"},
-    {"es": "Hola, soy Lorena de marketing, mi VPN no funciona.", "zh": "嗨，我是行銷部的羅蕾娜，我的 VPN 不通。"},
-    {"es": "Vamos a comprobarlo paso a paso, ¿de acuerdo?", "zh": "我們一步一步檢查好嗎？"},
-    {"es": "Perfecto, dime qué hago primero, por favor.", "zh": "好，請告訴我先做什麼。"},
-    {"es": "¿Estás conectada por wifi o por cable de red?", "zh": "妳是用 Wi-Fi 還是網路線？"},
-    {"es": "Por wifi, no tengo cable en casa, lo siento.", "zh": "Wi-Fi，家裡沒網路線，抱歉。"},
-    {"es": "No pasa nada, vamos a probar otras cosas primero.", "zh": "沒關係，我們先試其他方法。"},
-    {"es": "¿Qué mensaje exacto te aparece en la pantalla?", "zh": "螢幕上出現什麼訊息？"},
-    {"es": "Error noventa y uno, conexión rechazada por el servidor.", "zh": "錯誤 91，伺服器拒絕連線。"},
-    {"es": "Vale, ese error suele ser de credenciales caducadas.", "zh": "好，這個錯誤通常是憑證過期。"},
-    {"es": "¿Has cambiado la contraseña en los últimos noventa días?", "zh": "妳最近九十天有換過密碼嗎？"},
-    {"es": "Pues no, ahora que lo dices, hace meses que no.", "zh": "沒有耶，妳一說我才想到，好幾個月沒換了。"},
-    {"es": "Ese es el problema, te ha caducado el acceso.", "zh": "問題就在這，妳的密碼過期了。"},
-    {"es": "Vaya, ¿y cómo lo soluciono ahora desde casa?", "zh": "唉，那我現在在家怎麼解決？"},
-    {"es": "Voy a enviarte un enlace al móvil para resetearla.", "zh": "我傳一個重設連結到妳手機。"},
-    {"es": "Lo acabo de recibir, qué rápido has sido.", "zh": "我收到了，妳動作真快。"},
-    {"es": "Abre el enlace y crea una contraseña nueva fuerte.", "zh": "打開連結，設一組新的強密碼。"},
-    {"es": "Hecho, ya tengo la contraseña nueva guardada.", "zh": "好了，新密碼已經存下來。"},
-    {"es": "Ahora cierra la VPN y vuelve a conectar despacio.", "zh": "現在關掉 VPN，慢慢重新連一次。"},
-    {"es": "Vale, estoy escribiendo el usuario y la contraseña.", "zh": "好，我正在輸入帳號和密碼。"},
-    {"es": "Está conectando, qué nervios, espero que funcione.", "zh": "在連線中，好緊張，希望成功。"},
-    {"es": "Veo aquí en mi sistema que ya estás dentro.", "zh": "我這邊系統顯示妳連上了。"},
-    {"es": "Sí, ya tengo acceso a todo, qué alivio.", "zh": "對，我可以存取所有東西了，鬆一口氣。"},
-    {"es": "Aprovecha y abre los correos importantes ahora.", "zh": "趁現在趕快開重要的信件。"},
-    {"es": "Espera, ahora el correo va lentísimo, no entiendo.", "zh": "等等，現在信箱超慢，我不懂。"},
-    {"es": "¿Tienes muchas pestañas abiertas en el navegador?", "zh": "妳瀏覽器開很多分頁嗎？"},
-    {"es": "Sí, tengo veinte o así abiertas desde ayer.", "zh": "有，從昨天就開了二十幾個。"},
-    {"es": "Ahí está el problema, cierra todas y reinicia.", "zh": "問題在那，全部關掉再重啟。"},
-    {"es": "Tienes razón, lo cierro y te cuento en un minuto.", "zh": "妳說得對，我關掉一分鐘後跟妳說。"},
-    {"es": "Reiniciado, ahora va mucho más rápido, increíble.", "zh": "重啟好了，現在快多了，太神奇。"},
-    {"es": "Es de manual, las pestañas consumen mucha memoria.", "zh": "這是基本款，分頁很吃記憶體。"},
-    {"es": "Lo recordaré para futuras ocasiones, prometido.", "zh": "下次我會記得的，保證。"},
-    {"es": "¿Algo más en lo que te pueda ayudar hoy?", "zh": "今天還有什麼需要協助的嗎？"},
-    {"es": "Sí, la impresora de casa no me imprime tampoco.", "zh": "有，我家的印表機也印不出來。"},
-    {"es": "Esa no la gestionamos nosotros, lo siento mucho.", "zh": "那台不歸我們管，真抱歉。"},
-    {"es": "Las impresoras personales no entran en nuestro soporte.", "zh": "個人印表機不在我們的支援範圍。"},
-    {"es": "Vale, lo entiendo, llamaré al fabricante directamente.", "zh": "好，我懂，我直接打給原廠。"},
-    {"es": "Buena idea, suelen tener un chat veinticuatro horas.", "zh": "好主意，他們通常有二十四小時客服。"},
-    {"es": "Muchas gracias por la paciencia, has sido genial.", "zh": "非常感謝妳的耐心，妳超棒的。"},
-    {"es": "De nada, para eso estamos, que tengas buen día.", "zh": "不客氣，這就是我們的工作，祝妳今天順利。"},
-    {"es": "Voy a tomar un café antes de seguir trabajando.", "zh": "我去喝杯咖啡再繼續工作。"},
-    {"es": "Después llamaré a mi jefa para informar del retraso.", "zh": "之後再打給主管告知進度延遲。"},
-    {"es": "Por culpa de la VPN he perdido casi dos horas.", "zh": "VPN 害我損失將近兩小時。"},
-    {"es": "Mañana iré a la oficina, mejor evitar más sustos.", "zh": "明天我去辦公室，免得再嚇一跳。"},
-    {"es": "Trabajar desde casa tiene ventajas, pero también riesgos técnicos.", "zh": "在家工作有優點，但也有技術上的風險。"}
+    {
+      "es": "Buenos días, hoy trabajo desde casa, voy a encender el portátil.",
+      "zh": "早安，今天在家工作，我來開筆電。"
+    },
+    {
+      "es": "La VPN no conecta, qué raro, ayer funcionaba bien.",
+      "zh": "VPN 連不上，好怪，昨天還好好的。"
+    },
+    {
+      "es": "Voy a reiniciar el router por si acaso.",
+      "zh": "我先重開路由器看看。"
+    },
+    {
+      "es": "Tampoco funciona, esto es un desastre desde primera hora.",
+      "zh": "還是不行，一大早就出包真慘。"
+    },
+    {
+      "es": "Voy a llamar al servicio técnico de la empresa.",
+      "zh": "我打給公司的技術支援。"
+    },
+    {
+      "es": "Soporte informático, buenos días, ¿en qué puedo ayudarle?",
+      "zh": "資訊支援，早安，請問需要什麼協助？"
+    },
+    {
+      "es": "Hola, soy Lorena de marketing, mi VPN no funciona.",
+      "zh": "嗨，我是行銷部的羅蕾娜，我的 VPN 不通。"
+    },
+    {
+      "es": "Vamos a comprobarlo paso a paso, ¿de acuerdo?",
+      "zh": "我們一步一步檢查好嗎？"
+    },
+    {
+      "es": "Perfecto, dime qué hago primero, por favor.",
+      "zh": "好，請告訴我先做什麼。"
+    },
+    {
+      "es": "¿Estás conectada por wifi o por cable de red?",
+      "zh": "妳是用 Wi-Fi 還是網路線？"
+    },
+    {
+      "es": "Por wifi, no tengo cable en casa, lo siento.",
+      "zh": "Wi-Fi，家裡沒網路線，抱歉。"
+    },
+    {
+      "es": "No pasa nada, vamos a probar otras cosas primero.",
+      "zh": "沒關係，我們先試其他方法。"
+    },
+    {
+      "es": "¿Qué mensaje exacto te aparece en la pantalla?",
+      "zh": "螢幕上出現什麼訊息？"
+    },
+    {
+      "es": "Error noventa y uno, conexión rechazada por el servidor.",
+      "zh": "錯誤 91，伺服器拒絕連線。"
+    },
+    {
+      "es": "Vale, ese error suele ser de credenciales caducadas.",
+      "zh": "好，這個錯誤通常是憑證過期。"
+    },
+    {
+      "es": "¿Has cambiado la contraseña en los últimos noventa días?",
+      "zh": "妳最近九十天有換過密碼嗎？"
+    },
+    {
+      "es": "Pues no, ahora que lo dices, hace meses que no.",
+      "zh": "沒有耶，妳一說我才想到，好幾個月沒換了。"
+    },
+    {
+      "es": "Ese es el problema, te ha caducado el acceso.",
+      "zh": "問題就在這，妳的密碼過期了。"
+    },
+    {
+      "es": "Vaya, ¿y cómo lo soluciono ahora desde casa?",
+      "zh": "唉，那我現在在家怎麼解決？"
+    },
+    {
+      "es": "Voy a enviarte un enlace al móvil para resetearla.",
+      "zh": "我傳一個重設連結到妳手機。"
+    },
+    {
+      "es": "Lo acabo de recibir, qué rápido has sido.",
+      "zh": "我收到了，妳動作真快。"
+    },
+    {
+      "es": "Abre el enlace y crea una contraseña nueva fuerte.",
+      "zh": "打開連結，設一組新的強密碼。"
+    },
+    {
+      "es": "Hecho, ya tengo la contraseña nueva guardada.",
+      "zh": "好了，新密碼已經存下來。"
+    },
+    {
+      "es": "Ahora cierra la VPN y vuelve a conectar despacio.",
+      "zh": "現在關掉 VPN，慢慢重新連一次。"
+    },
+    {
+      "es": "Vale, estoy escribiendo el usuario y la contraseña.",
+      "zh": "好，我正在輸入帳號和密碼。"
+    },
+    {
+      "es": "Está conectando, qué nervios, espero que funcione.",
+      "zh": "在連線中，好緊張，希望成功。"
+    },
+    {
+      "es": "Veo aquí en mi sistema que ya estás dentro.",
+      "zh": "我這邊系統顯示妳連上了。"
+    },
+    {
+      "es": "Sí, ya tengo acceso a todo, qué alivio.",
+      "zh": "對，我可以存取所有東西了，鬆一口氣。"
+    },
+    {
+      "es": "Aprovecha y abre los correos importantes ahora.",
+      "zh": "趁現在趕快開重要的信件。"
+    },
+    {
+      "es": "Espera, ahora el correo va lentísimo, no entiendo.",
+      "zh": "等等，現在信箱超慢，我不懂。"
+    },
+    {
+      "es": "¿Tienes muchas pestañas abiertas en el navegador?",
+      "zh": "妳瀏覽器開很多分頁嗎？"
+    },
+    {
+      "es": "Sí, tengo veinte o así abiertas desde ayer.",
+      "zh": "有，從昨天就開了二十幾個。"
+    },
+    {
+      "es": "Ahí está el problema, cierra todas y reinicia.",
+      "zh": "問題在那，全部關掉再重啟。"
+    },
+    {
+      "es": "Tienes razón, lo cierro y te cuento en un minuto.",
+      "zh": "妳說得對，我關掉一分鐘後跟妳說。"
+    },
+    {
+      "es": "Reiniciado, ahora va mucho más rápido, increíble.",
+      "zh": "重啟好了，現在快多了，太神奇。"
+    },
+    {
+      "es": "Es de manual, las pestañas consumen mucha memoria.",
+      "zh": "這是基本款，分頁很吃記憶體。"
+    },
+    {
+      "es": "Lo recordaré para futuras ocasiones, prometido.",
+      "zh": "下次我會記得的，保證。"
+    },
+    {
+      "es": "¿Algo más en lo que te pueda ayudar hoy?",
+      "zh": "今天還有什麼需要協助的嗎？"
+    },
+    {
+      "es": "Sí, la impresora de casa no me imprime tampoco.",
+      "zh": "有，我家的印表機也印不出來。"
+    },
+    {
+      "es": "Esa no la gestionamos nosotros, lo siento mucho.",
+      "zh": "那台不歸我們管，真抱歉。"
+    },
+    {
+      "es": "Las impresoras personales no entran en nuestro soporte.",
+      "zh": "個人印表機不在我們的支援範圍。"
+    },
+    {
+      "es": "Vale, lo entiendo, llamaré al fabricante directamente.",
+      "zh": "好，我懂，我直接打給原廠。"
+    },
+    {
+      "es": "Buena idea, suelen tener un chat veinticuatro horas.",
+      "zh": "好主意，他們通常有二十四小時客服。"
+    },
+    {
+      "es": "Muchas gracias por la paciencia, has sido genial.",
+      "zh": "非常感謝妳的耐心，妳超棒的。"
+    },
+    {
+      "es": "De nada, para eso estamos, que tengas buen día.",
+      "zh": "不客氣，這就是我們的工作，祝妳今天順利。"
+    },
+    {
+      "es": "Voy a tomar un café antes de seguir trabajando.",
+      "zh": "我去喝杯咖啡再繼續工作。"
+    },
+    {
+      "es": "Después llamaré a mi jefa para informar del retraso.",
+      "zh": "之後再打給主管告知進度延遲。"
+    },
+    {
+      "es": "Por culpa de la VPN he perdido casi dos horas.",
+      "zh": "VPN 害我損失將近兩小時。"
+    },
+    {
+      "es": "Mañana iré a la oficina, mejor evitar más sustos.",
+      "zh": "明天我去辦公室，免得再嚇一跳。"
+    },
+    {
+      "es": "Trabajar desde casa tiene ventajas, pero también riesgos técnicos.",
+      "zh": "在家工作有優點，但也有技術上的風險。"
+    },
+    {
+      "es": "La conexión a internet va lentísima esta mañana.",
+      "zh": "今天早上網路慢得要命。"
+    },
+    {
+      "es": "He probado a desconectar y volver a conectar el cable.",
+      "zh": "我試過把網路線拔掉再插回去。"
+    },
+    {
+      "es": "El micrófono no se oye en la videollamada del equipo.",
+      "zh": "在團隊視訊通話裡，我的麥克風沒有聲音。"
+    },
+    {
+      "es": "Voy a llamar al soporte técnico para que me ayuden.",
+      "zh": "我要打電話給技術支援請他們協助。"
+    },
+    {
+      "es": "Mientras tanto, usaré el móvil para enviar los archivos.",
+      "zh": "在這同時，我先用手機把檔案傳出去。"
+    },
+    {
+      "es": "La pantalla se ha congelado justo en mitad de la presentación.",
+      "zh": "螢幕剛好在簡報進行到一半時當掉了。"
+    },
+    {
+      "es": "Por suerte, había guardado el documento hace un rato.",
+      "zh": "還好，我剛剛有把文件存檔。"
+    },
+    {
+      "es": "El programa pide una actualización que tarda media hora.",
+      "zh": "這個軟體要求更新，而且要花半個小時。"
+    },
+    {
+      "es": "Avisaré a mi jefa de que llegaré tarde a la llamada.",
+      "zh": "我會通知主管，我會晚一點才能上線通話。"
+    },
+    {
+      "es": "Si nada funciona, iré a la oficina por la tarde.",
+      "zh": "如果都沒辦法，我下午就進辦公室。"
+    }
   ]
 }

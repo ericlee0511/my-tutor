@@ -1,55 +1,245 @@
 {
   "title": "Charla entre vecinos en el ascensor",
   "all": [
-    {"es": "Buenos días, Manuela, qué madrugadora hoy.", "zh": "早安 Manuela，今天起得真早。"},
-    {"es": "Buenos días, hijo, es que tenía cita en el médico.", "zh": "早安孩子，我有醫生預約。"},
-    {"es": "¿Va todo bien? No será nada serio, espero.", "zh": "一切都好吧？希望不是什麼嚴重的事。"},
-    {"es": "Solo una revisión, lo de siempre a mi edad.", "zh": "只是定期檢查，我這年紀的常規。"},
-    {"es": "Me alegro, mejor prevenir que curar, como dicen.", "zh": "太好了，預防勝於治療嘛。"},
-    {"es": "Y tú, ¿qué tal? Hace días que no te veía por aquí.", "zh": "你呢？好幾天沒在這看到你了。"},
-    {"es": "He estado fuera por trabajo, acabo de volver ayer.", "zh": "我因公出差，昨天才回來。"},
-    {"es": "Qué buena vida llevan los jóvenes hoy en día.", "zh": "現在年輕人日子過得真好。"},
-    {"es": "No crea, viajar por trabajo cansa mucho la verdad.", "zh": "別這麼說，因公出差其實很累的。"},
-    {"es": "Será cansado, pero al menos ves mundo, hijo.", "zh": "累歸累，至少能見見世面嘛。"},
-    {"es": "Eso sí, eso no se lo voy a discutir, Manuela.", "zh": "這倒是，這點我不跟您爭 Manuela。"},
-    {"es": "Vaya frío hace hoy en la calle, ¿verdad?", "zh": "今天外面好冷對吧？"},
-    {"es": "Tremendo, no recuerdo un febrero tan helado.", "zh": "超冷，我不記得有哪個二月這麼凍。"},
-    {"es": "Yo tengo que abrigar más a la pequeña al salir.", "zh": "我得幫小女兒出門時多穿一點。"},
-    {"es": "¿Cuántos años tiene ya la niña? Crece muy rápido.", "zh": "小女孩多大了？長好快。"},
-    {"es": "Cumple cuatro en abril, no se nota nada, ¿eh?", "zh": "四月就四歲了，根本看不出來吧？"},
-    {"es": "Parece que fue ayer cuando os mudasteis aquí.", "zh": "感覺你們昨天才搬進來似的。"},
-    {"es": "Si ya van tres años, cómo pasa el tiempo.", "zh": "已經三年了，時間過得真快。"},
-    {"es": "Cuéntemelo a mí, que llevo en el bloque desde el ochenta.", "zh": "你還跟我說，我從八零年就住這棟了。"},
-    {"es": "Madre mía, eso sí que es ser un vecino veterano.", "zh": "天啊，這才叫真正的老住戶。"},
-    {"es": "He visto pasar a muchísima gente por este portal.", "zh": "我見過好多人在這棟進進出出。"},
-    {"es": "Por cierto, ¿se ha enterado de lo de la junta del jueves?", "zh": "對了，您知道週四要開管委會嗎？"},
-    {"es": "Algo me dijeron, ¿es por lo del ascensor otra vez?", "zh": "有人跟我提了一下，是電梯的事嗎？"},
-    {"es": "Sí, parece que hay que cambiar algo y no es barato.", "zh": "對，好像有東西要換，不便宜。"},
-    {"es": "Yo iré, pero ya sabes que no decido nada importante.", "zh": "我會去，但你知道重要的事我不會做主。"},
-    {"es": "Su voto cuenta igual que el de todos, Manuela.", "zh": "您的票跟大家一樣有份量 Manuela。"},
-    {"es": "Eso dicen, pero los de arriba nunca escuchan a los mayores.", "zh": "嘴上這麼說啦，可上面那些人從不聽老人家的。"},
-    {"es": "Si quiere, paso a buscarla y bajamos juntos a la reunión.", "zh": "您想的話我去接您，一起下去開會。"},
-    {"es": "Qué amable, así no tengo que ir sola por la noche.", "zh": "你真貼心，這樣晚上就不用一個人去了。"},
-    {"es": "Para eso estamos los vecinos, faltaría más.", "zh": "鄰居就是要互相嘛，這是應該的。"},
-    {"es": "Oye, ¿tu mujer sigue con el negocio aquel de los dulces?", "zh": "欸，你太太還在做那個甜點生意嗎？"},
-    {"es": "Sí, le va muy bien, no para de recibir pedidos.", "zh": "對，做得很好，訂單接不完。"},
-    {"es": "Pues a ver si me trae una caja un día de estos.", "zh": "那哪天讓她帶一盒給我嚐嚐吧。"},
-    {"es": "Cuente con ello, esta misma semana le subo unos.", "zh": "沒問題，這禮拜我就送一些上來。"},
-    {"es": "Mira que eres bueno, no como otros del edificio.", "zh": "你真好，不像這棟某些人。"},
-    {"es": "No diga eso, todos tenemos nuestros días malos.", "zh": "別這麼說，大家都有不好的時候。"},
-    {"es": "Tú, desde luego, eres de los pocos que saluda siempre.", "zh": "你的話，是少數每次都打招呼的人。"},
-    {"es": "Mi madre me enseñó así, y se lo agradezco mucho.", "zh": "我媽就這樣教我的，我很感謝她。"},
-    {"es": "Pues tu madre hizo un trabajo estupendo, díselo.", "zh": "那你媽真把你教得好，要告訴她喔。"},
-    {"es": "Se lo digo esta noche cuando la llame, seguro.", "zh": "我今晚打給她時一定會講。"},
-    {"es": "Ay, ya estamos en mi planta, qué rápido se pasa contigo.", "zh": "唉，到我這層了，跟你聊真快。"},
-    {"es": "Le aguanto la puerta, vaya con cuidado, Manuela.", "zh": "我幫您按住門，小心走 Manuela。"},
-    {"es": "Gracias, hijo, dale recuerdos a la familia.", "zh": "謝謝孩子，代我向你家人問好。"},
-    {"es": "Se los doy, y usted que se mejore lo del médico.", "zh": "我會轉達，您看醫生那邊也要早點好起來。"},
-    {"es": "Pasa una buena mañana, y abriga a la niña.", "zh": "祝你早上愉快，記得幫女兒穿暖。"},
-    {"es": "Lo haré, hasta luego, nos vemos el jueves seguro.", "zh": "我會的，再見，週四一定見。"},
-    {"es": "Allí estaré, con mis preguntas preparadas.", "zh": "我會到，問題都先準備好。"},
-    {"es": "Eso espero, le hace falta caña a esa junta.", "zh": "希望如此，那個管委會得有人盯著。"},
-    {"es": "Hasta luego, Manuela, cuídese mucho hoy.", "zh": "再見 Manuela，今天好好保重。"},
-    {"es": "Adiós, guapo, que tengas un día tranquilo.", "zh": "再見帥哥，祝你今天平靜順利。"}
+    {
+      "es": "Buenos días, Manuela, qué madrugadora hoy.",
+      "zh": "早安 Manuela，今天起得真早。"
+    },
+    {
+      "es": "Buenos días, hijo, es que tenía cita en el médico.",
+      "zh": "早安孩子，我有醫生預約。"
+    },
+    {
+      "es": "¿Va todo bien? No será nada serio, espero.",
+      "zh": "一切都好吧？希望不是什麼嚴重的事。"
+    },
+    {
+      "es": "Solo una revisión, lo de siempre a mi edad.",
+      "zh": "只是定期檢查，我這年紀的常規。"
+    },
+    {
+      "es": "Me alegro, mejor prevenir que curar, como dicen.",
+      "zh": "太好了，預防勝於治療嘛。"
+    },
+    {
+      "es": "Y tú, ¿qué tal? Hace días que no te veía por aquí.",
+      "zh": "你呢？好幾天沒在這看到你了。"
+    },
+    {
+      "es": "He estado fuera por trabajo, acabo de volver ayer.",
+      "zh": "我因公出差，昨天才回來。"
+    },
+    {
+      "es": "Qué buena vida llevan los jóvenes hoy en día.",
+      "zh": "現在年輕人日子過得真好。"
+    },
+    {
+      "es": "No crea, viajar por trabajo cansa mucho la verdad.",
+      "zh": "別這麼說，因公出差其實很累的。"
+    },
+    {
+      "es": "Será cansado, pero al menos ves mundo, hijo.",
+      "zh": "累歸累，至少能見見世面嘛。"
+    },
+    {
+      "es": "Eso sí, eso no se lo voy a discutir, Manuela.",
+      "zh": "這倒是，這點我不跟您爭 Manuela。"
+    },
+    {
+      "es": "Vaya frío hace hoy en la calle, ¿verdad?",
+      "zh": "今天外面好冷對吧？"
+    },
+    {
+      "es": "Tremendo, no recuerdo un febrero tan helado.",
+      "zh": "超冷，我不記得有哪個二月這麼凍。"
+    },
+    {
+      "es": "Yo tengo que abrigar más a la pequeña al salir.",
+      "zh": "我得幫小女兒出門時多穿一點。"
+    },
+    {
+      "es": "¿Cuántos años tiene ya la niña? Crece muy rápido.",
+      "zh": "小女孩多大了？長好快。"
+    },
+    {
+      "es": "Cumple cuatro en abril, no se nota nada, ¿eh?",
+      "zh": "四月就四歲了，根本看不出來吧？"
+    },
+    {
+      "es": "Parece que fue ayer cuando os mudasteis aquí.",
+      "zh": "感覺你們昨天才搬進來似的。"
+    },
+    {
+      "es": "Si ya van tres años, cómo pasa el tiempo.",
+      "zh": "已經三年了，時間過得真快。"
+    },
+    {
+      "es": "Cuéntemelo a mí, que llevo en el bloque desde el ochenta.",
+      "zh": "你還跟我說，我從八零年就住這棟了。"
+    },
+    {
+      "es": "Madre mía, eso sí que es ser un vecino veterano.",
+      "zh": "天啊，這才叫真正的老住戶。"
+    },
+    {
+      "es": "He visto pasar a muchísima gente por este portal.",
+      "zh": "我見過好多人在這棟進進出出。"
+    },
+    {
+      "es": "Por cierto, ¿se ha enterado de lo de la junta del jueves?",
+      "zh": "對了，您知道週四要開管委會嗎？"
+    },
+    {
+      "es": "Algo me dijeron, ¿es por lo del ascensor otra vez?",
+      "zh": "有人跟我提了一下，是電梯的事嗎？"
+    },
+    {
+      "es": "Sí, parece que hay que cambiar algo y no es barato.",
+      "zh": "對，好像有東西要換，不便宜。"
+    },
+    {
+      "es": "Yo iré, pero ya sabes que no decido nada importante.",
+      "zh": "我會去，但你知道重要的事我不會做主。"
+    },
+    {
+      "es": "Su voto cuenta igual que el de todos, Manuela.",
+      "zh": "您的票跟大家一樣有份量 Manuela。"
+    },
+    {
+      "es": "Eso dicen, pero los de arriba nunca escuchan a los mayores.",
+      "zh": "嘴上這麼說啦，可上面那些人從不聽老人家的。"
+    },
+    {
+      "es": "Si quiere, paso a buscarla y bajamos juntos a la reunión.",
+      "zh": "您想的話我去接您，一起下去開會。"
+    },
+    {
+      "es": "Qué amable, así no tengo que ir sola por la noche.",
+      "zh": "你真貼心，這樣晚上就不用一個人去了。"
+    },
+    {
+      "es": "Para eso estamos los vecinos, faltaría más.",
+      "zh": "鄰居就是要互相嘛，這是應該的。"
+    },
+    {
+      "es": "Oye, ¿tu mujer sigue con el negocio aquel de los dulces?",
+      "zh": "欸，你太太還在做那個甜點生意嗎？"
+    },
+    {
+      "es": "Sí, le va muy bien, no para de recibir pedidos.",
+      "zh": "對，做得很好，訂單接不完。"
+    },
+    {
+      "es": "Pues a ver si me trae una caja un día de estos.",
+      "zh": "那哪天讓她帶一盒給我嚐嚐吧。"
+    },
+    {
+      "es": "Cuente con ello, esta misma semana le subo unos.",
+      "zh": "沒問題，這禮拜我就送一些上來。"
+    },
+    {
+      "es": "Mira que eres bueno, no como otros del edificio.",
+      "zh": "你真好，不像這棟某些人。"
+    },
+    {
+      "es": "No diga eso, todos tenemos nuestros días malos.",
+      "zh": "別這麼說，大家都有不好的時候。"
+    },
+    {
+      "es": "Tú, desde luego, eres de los pocos que saluda siempre.",
+      "zh": "你的話，是少數每次都打招呼的人。"
+    },
+    {
+      "es": "Mi madre me enseñó así, y se lo agradezco mucho.",
+      "zh": "我媽就這樣教我的，我很感謝她。"
+    },
+    {
+      "es": "Pues tu madre hizo un trabajo estupendo, díselo.",
+      "zh": "那你媽真把你教得好，要告訴她喔。"
+    },
+    {
+      "es": "Se lo digo esta noche cuando la llame, seguro.",
+      "zh": "我今晚打給她時一定會講。"
+    },
+    {
+      "es": "Ay, ya estamos en mi planta, qué rápido se pasa contigo.",
+      "zh": "唉，到我這層了，跟你聊真快。"
+    },
+    {
+      "es": "Le aguanto la puerta, vaya con cuidado, Manuela.",
+      "zh": "我幫您按住門，小心走 Manuela。"
+    },
+    {
+      "es": "Gracias, hijo, dale recuerdos a la familia.",
+      "zh": "謝謝孩子，代我向你家人問好。"
+    },
+    {
+      "es": "Se los doy, y usted que se mejore lo del médico.",
+      "zh": "我會轉達，您看醫生那邊也要早點好起來。"
+    },
+    {
+      "es": "Pasa una buena mañana, y abriga a la niña.",
+      "zh": "祝你早上愉快，記得幫女兒穿暖。"
+    },
+    {
+      "es": "Lo haré, hasta luego, nos vemos el jueves seguro.",
+      "zh": "我會的，再見，週四一定見。"
+    },
+    {
+      "es": "Allí estaré, con mis preguntas preparadas.",
+      "zh": "我會到，問題都先準備好。"
+    },
+    {
+      "es": "Eso espero, le hace falta caña a esa junta.",
+      "zh": "希望如此，那個管委會得有人盯著。"
+    },
+    {
+      "es": "Hasta luego, Manuela, cuídese mucho hoy.",
+      "zh": "再見 Manuela，今天好好保重。"
+    },
+    {
+      "es": "Adiós, guapo, que tengas un día tranquilo.",
+      "zh": "再見帥哥，祝你今天平靜順利。"
+    },
+    {
+      "es": "¿Sabe si por fin van a arreglar el portal que lleva semanas roto?",
+      "zh": "您知道大門到底要不要修嗎？已經壞了好幾週了。"
+    },
+    {
+      "es": "He visto que han dejado bolsas de basura fuera del contenedor otra vez.",
+      "zh": "我看到又有人把垃圾袋丟在垃圾桶外面了。"
+    },
+    {
+      "es": "Si necesita que le suba la compra alguna vez, no dude en avisarme.",
+      "zh": "如果您哪天需要我幫忙把買的東西提上來，儘管跟我說。"
+    },
+    {
+      "es": "El ruido de las obras del tercero no me deja dormir la siesta.",
+      "zh": "三樓裝修的噪音吵得我午覺都睡不成。"
+    },
+    {
+      "es": "En la reunión de vecinos hablaremos de la derrama del tejado.",
+      "zh": "在住戶大會上我們會討論屋頂的分攤費用。"
+    },
+    {
+      "es": "Qué calor hace ya en el rellano, y eso que aún no es verano.",
+      "zh": "樓梯間已經這麼熱了，何況都還沒到夏天。"
+    },
+    {
+      "es": "Felicite a su hija de mi parte, me han dicho que se gradúa.",
+      "zh": "請代我向您女兒道賀，聽說她要畢業了。"
+    },
+    {
+      "es": "El gato del segundo se ha vuelto a colar en mi terraza.",
+      "zh": "二樓那隻貓又溜到我的陽台上了。"
+    },
+    {
+      "es": "¿Le importa pulsar el cuatro? Voy cargada y no llego al botón.",
+      "zh": "可以麻煩您按四樓嗎？我手上提滿東西按不到。"
+    },
+    {
+      "es": "Que pase un buen día y recuerdos a su marido.",
+      "zh": "祝您有美好的一天，幫我向您先生問好。"
+    }
   ]
 }

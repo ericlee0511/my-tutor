@@ -1,55 +1,245 @@
 {
   "title": "Charla del café entre compañeros",
   "all": [
-    {"es": "Hola Nuria, ¿bajas a por un café conmigo?", "zh": "嗨努利亞，跟我下去買杯咖啡嗎？"},
-    {"es": "Sí, me viene genial, llevo dos horas con el informe.", "zh": "好啊，正需要，我已經做兩小時報告了。"},
-    {"es": "Yo igual, necesito desconectar diez minutos del ordenador.", "zh": "我也是，需要離開電腦十分鐘。"},
-    {"es": "Qué frío hace hoy, ¿has visto cómo llovía esta mañana?", "zh": "今天好冷，妳有看到早上下多大的雨嗎？"},
-    {"es": "Sí, llegué empapado, el paraguas se me dio la vuelta.", "zh": "有，我到的時候全濕了，雨傘還被吹翻。"},
-    {"es": "Yo cogí el metro, así me ahorré el chaparrón.", "zh": "我搭地鐵，省得淋雨。"},
-    {"es": "Buena idea, mañana también dicen que va a llover.", "zh": "好主意，明天聽說也會下雨。"},
-    {"es": "Qué pereza, este invierno está siendo eterno.", "zh": "好懶得動，這個冬天感覺沒完沒了。"},
-    {"es": "Y eso que ya estamos casi en marzo.", "zh": "都快三月了還這樣。"},
-    {"es": "¿Qué planes tienes para el finde, vas a desconectar?", "zh": "週末有什麼計畫，要好好放鬆嗎？"},
-    {"es": "Sí, me voy con mi pareja a un hotel rural.", "zh": "對，我跟另一半要去鄉間飯店。"},
-    {"es": "Qué envidia, ¿dónde está exactamente ese sitio?", "zh": "好羨慕，那地方在哪裡？"},
-    {"es": "En la sierra norte, a una hora de Madrid.", "zh": "北部山區，離馬德里一小時車程。"},
-    {"es": "Suena ideal para desconectar del trabajo de verdad.", "zh": "聽起來超適合真的逃離工作。"},
-    {"es": "Tiene chimenea y desayuno casero incluido.", "zh": "有壁爐，還包家常早餐。"},
-    {"es": "Es justo lo que necesito ahora mismo, sin duda.", "zh": "正是我現在最需要的，毫無疑問。"},
-    {"es": "Yo me quedo en casa con la familia tranquila.", "zh": "我跟家人安靜待在家。"},
-    {"es": "También tiene su encanto, sobre todo si llueve.", "zh": "這樣也很棒，特別是下雨天。"},
-    {"es": "Quiero ver una serie nueva en la tele.", "zh": "我想看一部新影集。"},
-    {"es": "¿Cuál, la del crimen sueco que recomendó Marta?", "zh": "哪一部，瑪塔推薦的瑞典犯罪劇嗎？"},
-    {"es": "Esa misma, dice que es adictiva desde el primer capítulo.", "zh": "就是那部，她說從第一集就讓人上癮。"},
-    {"es": "Pues luego me cuentas si vale la pena.", "zh": "看完跟我說值不值得。"},
-    {"es": "Por cierto, ¿te has enterado de lo de Jorge?", "zh": "對了，妳聽說霍爾赫的事了嗎？"},
-    {"es": "No, cuéntame, no he oído nada nuevo.", "zh": "沒，妳說，我沒聽到什麼新消息。"},
-    {"es": "Lo han ascendido a director del departamento internacional.", "zh": "他被升為國際部主任。"},
-    {"es": "¡Anda, qué bien por él, se lo merecía mucho!", "zh": "哇，太好了，他絕對值得！"},
-    {"es": "Sí, lleva mucho tiempo dejándose la piel aquí.", "zh": "對，他在這裡拼命很久了。"},
-    {"es": "¿Y quién ocupará su puesto antiguo entonces?", "zh": "那他原本的位置誰接？"},
-    {"es": "Aún no lo sé, dicen que sacarán una vacante interna.", "zh": "還不知道，聽說會開放內部競爭。"},
-    {"es": "Interesante, ¿tú te presentarías por curiosidad?", "zh": "有意思，妳會去爭取嗎？"},
-    {"es": "Lo dudo, no me veo aún con esa responsabilidad.", "zh": "應該不會，我覺得自己還沒準備好擔那個責任。"},
-    {"es": "Yo creo que serías genial, eres muy organizada.", "zh": "我覺得妳會很棒，妳很有條理。"},
-    {"es": "Gracias, pero prefiero aprender un par de años más.", "zh": "謝謝，但我想再多學個兩年。"},
-    {"es": "Tiene su lógica, sin prisa pero sin pausa.", "zh": "有道理，不急但也別停。"},
-    {"es": "¿Has probado el café nuevo de la máquina, por cierto?", "zh": "對了，妳試過咖啡機新的咖啡嗎？"},
-    {"es": "No, ¿han cambiado las cápsulas otra vez?", "zh": "沒有，又換膠囊了嗎？"},
-    {"es": "Sí, ahora son de comercio justo y más fuertes.", "zh": "對，現在是公平貿易的，比較濃。"},
-    {"es": "Voy a probarlo, a ver si me gusta más.", "zh": "我來試試，看看會不會比較喜歡。"},
-    {"es": "A mí me parece mejor que el anterior, sinceramente.", "zh": "老實說我覺得比之前的好。"},
-    {"es": "Mira quién viene, Andrés con cara de pocos amigos.", "zh": "妳看誰來了，安德雷斯，一臉臭臉。"},
-    {"es": "Habrá tenido reunión con su jefa otra vez.", "zh": "應該又跟他主管開會了。"},
-    {"es": "Pobre, dicen que ella es muy exigente con todo.", "zh": "可憐，聽說她要求超嚴格。"},
-    {"es": "Mejor no metemos, no quiero rumores raros.", "zh": "我們別插嘴，不想惹是非。"},
-    {"es": "Tienes razón, en la oficina vuelan los chismes.", "zh": "妳說得對，辦公室的八卦傳得超快。"},
-    {"es": "Bueno, deberíamos subir, llevamos quince minutos aquí.", "zh": "好啦，該上去了，我們在這十五分鐘了。"},
-    {"es": "Sí, mejor, antes de que alguien se dé cuenta.", "zh": "對，趁還沒人發現之前。"},
-    {"es": "Que tengas buena tarde, Nuria, hablamos luego.", "zh": "下午愉快，努利亞，等等再聊。"},
-    {"es": "Igualmente, suerte con el informe de la tarde.", "zh": "妳也是，下午報告加油。"},
-    {"es": "Si lo termino pronto, te invito a otro café.", "zh": "我提早寫完，再請妳喝一杯。"},
-    {"es": "¡Trato hecho, te tomo la palabra!", "zh": "成交，我可記住妳這句話囉！"}
+    {
+      "es": "Hola Nuria, ¿bajas a por un café conmigo?",
+      "zh": "嗨努利亞，跟我下去買杯咖啡嗎？"
+    },
+    {
+      "es": "Sí, me viene genial, llevo dos horas con el informe.",
+      "zh": "好啊，正需要，我已經做兩小時報告了。"
+    },
+    {
+      "es": "Yo igual, necesito desconectar diez minutos del ordenador.",
+      "zh": "我也是，需要離開電腦十分鐘。"
+    },
+    {
+      "es": "Qué frío hace hoy, ¿has visto cómo llovía esta mañana?",
+      "zh": "今天好冷，妳有看到早上下多大的雨嗎？"
+    },
+    {
+      "es": "Sí, llegué empapado, el paraguas se me dio la vuelta.",
+      "zh": "有，我到的時候全濕了，雨傘還被吹翻。"
+    },
+    {
+      "es": "Yo cogí el metro, así me ahorré el chaparrón.",
+      "zh": "我搭地鐵，省得淋雨。"
+    },
+    {
+      "es": "Buena idea, mañana también dicen que va a llover.",
+      "zh": "好主意，明天聽說也會下雨。"
+    },
+    {
+      "es": "Qué pereza, este invierno está siendo eterno.",
+      "zh": "好懶得動，這個冬天感覺沒完沒了。"
+    },
+    {
+      "es": "Y eso que ya estamos casi en marzo.",
+      "zh": "都快三月了還這樣。"
+    },
+    {
+      "es": "¿Qué planes tienes para el finde, vas a desconectar?",
+      "zh": "週末有什麼計畫，要好好放鬆嗎？"
+    },
+    {
+      "es": "Sí, me voy con mi pareja a un hotel rural.",
+      "zh": "對，我跟另一半要去鄉間飯店。"
+    },
+    {
+      "es": "Qué envidia, ¿dónde está exactamente ese sitio?",
+      "zh": "好羨慕，那地方在哪裡？"
+    },
+    {
+      "es": "En la sierra norte, a una hora de Madrid.",
+      "zh": "北部山區，離馬德里一小時車程。"
+    },
+    {
+      "es": "Suena ideal para desconectar del trabajo de verdad.",
+      "zh": "聽起來超適合真的逃離工作。"
+    },
+    {
+      "es": "Tiene chimenea y desayuno casero incluido.",
+      "zh": "有壁爐，還包家常早餐。"
+    },
+    {
+      "es": "Es justo lo que necesito ahora mismo, sin duda.",
+      "zh": "正是我現在最需要的，毫無疑問。"
+    },
+    {
+      "es": "Yo me quedo en casa con la familia tranquila.",
+      "zh": "我跟家人安靜待在家。"
+    },
+    {
+      "es": "También tiene su encanto, sobre todo si llueve.",
+      "zh": "這樣也很棒，特別是下雨天。"
+    },
+    {
+      "es": "Quiero ver una serie nueva en la tele.",
+      "zh": "我想看一部新影集。"
+    },
+    {
+      "es": "¿Cuál, la del crimen sueco que recomendó Marta?",
+      "zh": "哪一部，瑪塔推薦的瑞典犯罪劇嗎？"
+    },
+    {
+      "es": "Esa misma, dice que es adictiva desde el primer capítulo.",
+      "zh": "就是那部，她說從第一集就讓人上癮。"
+    },
+    {
+      "es": "Pues luego me cuentas si vale la pena.",
+      "zh": "看完跟我說值不值得。"
+    },
+    {
+      "es": "Por cierto, ¿te has enterado de lo de Jorge?",
+      "zh": "對了，妳聽說霍爾赫的事了嗎？"
+    },
+    {
+      "es": "No, cuéntame, no he oído nada nuevo.",
+      "zh": "沒，妳說，我沒聽到什麼新消息。"
+    },
+    {
+      "es": "Lo han ascendido a director del departamento internacional.",
+      "zh": "他被升為國際部主任。"
+    },
+    {
+      "es": "¡Anda, qué bien por él, se lo merecía mucho!",
+      "zh": "哇，太好了，他絕對值得！"
+    },
+    {
+      "es": "Sí, lleva mucho tiempo dejándose la piel aquí.",
+      "zh": "對，他在這裡拼命很久了。"
+    },
+    {
+      "es": "¿Y quién ocupará su puesto antiguo entonces?",
+      "zh": "那他原本的位置誰接？"
+    },
+    {
+      "es": "Aún no lo sé, dicen que sacarán una vacante interna.",
+      "zh": "還不知道，聽說會開放內部競爭。"
+    },
+    {
+      "es": "Interesante, ¿tú te presentarías por curiosidad?",
+      "zh": "有意思，妳會去爭取嗎？"
+    },
+    {
+      "es": "Lo dudo, no me veo aún con esa responsabilidad.",
+      "zh": "應該不會，我覺得自己還沒準備好擔那個責任。"
+    },
+    {
+      "es": "Yo creo que serías genial, eres muy organizada.",
+      "zh": "我覺得妳會很棒，妳很有條理。"
+    },
+    {
+      "es": "Gracias, pero prefiero aprender un par de años más.",
+      "zh": "謝謝，但我想再多學個兩年。"
+    },
+    {
+      "es": "Tiene su lógica, sin prisa pero sin pausa.",
+      "zh": "有道理，不急但也別停。"
+    },
+    {
+      "es": "¿Has probado el café nuevo de la máquina, por cierto?",
+      "zh": "對了，妳試過咖啡機新的咖啡嗎？"
+    },
+    {
+      "es": "No, ¿han cambiado las cápsulas otra vez?",
+      "zh": "沒有，又換膠囊了嗎？"
+    },
+    {
+      "es": "Sí, ahora son de comercio justo y más fuertes.",
+      "zh": "對，現在是公平貿易的，比較濃。"
+    },
+    {
+      "es": "Voy a probarlo, a ver si me gusta más.",
+      "zh": "我來試試，看看會不會比較喜歡。"
+    },
+    {
+      "es": "A mí me parece mejor que el anterior, sinceramente.",
+      "zh": "老實說我覺得比之前的好。"
+    },
+    {
+      "es": "Mira quién viene, Andrés con cara de pocos amigos.",
+      "zh": "妳看誰來了，安德雷斯，一臉臭臉。"
+    },
+    {
+      "es": "Habrá tenido reunión con su jefa otra vez.",
+      "zh": "應該又跟他主管開會了。"
+    },
+    {
+      "es": "Pobre, dicen que ella es muy exigente con todo.",
+      "zh": "可憐，聽說她要求超嚴格。"
+    },
+    {
+      "es": "Mejor no metemos, no quiero rumores raros.",
+      "zh": "我們別插嘴，不想惹是非。"
+    },
+    {
+      "es": "Tienes razón, en la oficina vuelan los chismes.",
+      "zh": "妳說得對，辦公室的八卦傳得超快。"
+    },
+    {
+      "es": "Bueno, deberíamos subir, llevamos quince minutos aquí.",
+      "zh": "好啦，該上去了，我們在這十五分鐘了。"
+    },
+    {
+      "es": "Sí, mejor, antes de que alguien se dé cuenta.",
+      "zh": "對，趁還沒人發現之前。"
+    },
+    {
+      "es": "Que tengas buena tarde, Nuria, hablamos luego.",
+      "zh": "下午愉快，努利亞，等等再聊。"
+    },
+    {
+      "es": "Igualmente, suerte con el informe de la tarde.",
+      "zh": "妳也是，下午報告加油。"
+    },
+    {
+      "es": "Si lo termino pronto, te invito a otro café.",
+      "zh": "我提早寫完，再請妳喝一杯。"
+    },
+    {
+      "es": "¡Trato hecho, te tomo la palabra!",
+      "zh": "成交，我可記住妳這句話囉！"
+    },
+    {
+      "es": "¿Viste el partido de anoche? Fue increíble.",
+      "zh": "你看了昨晚的比賽嗎？精彩極了。"
+    },
+    {
+      "es": "Este fin de semana me voy a la montaña a caminar.",
+      "zh": "這個週末我要去山上健行。"
+    },
+    {
+      "es": "Estoy agotada, apenas he dormido por culpa del ruido.",
+      "zh": "我累壞了，因為噪音幾乎沒睡。"
+    },
+    {
+      "es": "Probé un restaurante nuevo y la comida estaba riquísima.",
+      "zh": "我試了一家新餐廳，食物超級好吃。"
+    },
+    {
+      "es": "Mi vecino se acaba de comprar un perro adorable.",
+      "zh": "我的鄰居剛買了一隻超可愛的狗。"
+    },
+    {
+      "es": "Llevo toda la semana sin parar de estornudar.",
+      "zh": "我整個禮拜打噴嚏打個不停。"
+    },
+    {
+      "es": "¿Sabes si van a cambiar la máquina de la cocina?",
+      "zh": "你知道茶水間的機器會不會換新的嗎？"
+    },
+    {
+      "es": "Mañana es festivo, así que tendremos puente.",
+      "zh": "明天是假日，所以我們會有連假。"
+    },
+    {
+      "es": "Me encantaría aprender a tocar la guitarra algún día.",
+      "zh": "有一天我很想學會彈吉他。"
+    },
+    {
+      "es": "Venga, subamos ya, que se nos acaba la pausa.",
+      "zh": "好啦，我們上去吧，休息時間快用完了。"
+    }
   ]
 }

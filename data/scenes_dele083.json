@@ -1,55 +1,245 @@
 {
   "title": "Discutiendo planes de boda",
   "all": [
-    {"es": "Cariño, tenemos que sentarnos a hablar de la boda en serio.", "zh": "親愛的，我們得認真坐下來談婚禮了。"},
-    {"es": "Lo sé, llevamos un mes posponiéndolo, no podemos más.", "zh": "我知道，我們拖了一個月，不能再拖了。"},
-    {"es": "Vale, empecemos por la fecha, ¿septiembre o mayo?", "zh": "好，從日期開始，九月還是五月？"},
-    {"es": "A mí septiembre me gusta más, hace menos calor para el banquete.", "zh": "我比較喜歡九月，宴會時天氣沒那麼熱。"},
-    {"es": "Pero mayo es más bonito, todo el campo florido.", "zh": "可是五月比較美，整個鄉間都開花。"},
-    {"es": "Sí, pero acuérdate de que llueve más en esta zona.", "zh": "對，但別忘了這一帶五月比較常下雨。"},
-    {"es": "Tienes razón, mejor septiembre, así no jugamos con el tiempo.", "zh": "你說得對，九月好了，免得賭天氣。"},
-    {"es": "Perfecto, ahora hablemos del lugar de la ceremonia.", "zh": "完美，現在來談儀式地點。"},
-    {"es": "¿Te apetece más algo en el campo o una iglesia del pueblo?", "zh": "你比較想在鄉間辦還是村裡的教堂？"},
-    {"es": "Una finca con jardín me parecería precioso, la verdad.", "zh": "老實說有花園的莊園我覺得超美。"},
-    {"es": "A mi madre le va a dar algo si no es por la iglesia.", "zh": "如果不是教堂，我媽會崩潰。"},
-    {"es": "Lo sé, pero también es nuestro día, no solo el suyo.", "zh": "我知道，但這也是我們的日子，不只是她的。"},
-    {"es": "Podemos hacer una ceremonia simbólica en la finca.", "zh": "我們可以在莊園辦象徵性儀式。"},
-    {"es": "Y casarnos por lo civil en el ayuntamiento antes.", "zh": "然後事先到市政廳辦民事登記。"},
-    {"es": "Me parece una solución estupenda, contenta tu madre y nosotros.", "zh": "我覺得這方法超棒，你媽開心，我們也開心。"},
-    {"es": "Ahora la lista de invitados, que es lo más delicado.", "zh": "現在輪到賓客名單，這是最棘手的。"},
-    {"es": "He hecho una primera versión, salen unos ciento cincuenta.", "zh": "我做了初版，大約一百五十人。"},
-    {"es": "Madre mía, eso se nos va de presupuesto enseguida.", "zh": "天啊，這樣預算馬上爆。"},
-    {"es": "Habrá que recortar, pero no sé por dónde empezar.", "zh": "得砍人，但我不知道從哪開始。"},
-    {"es": "Por los compañeros de trabajo a los que casi no ves.", "zh": "從那些你幾乎不見面的同事砍起。"},
-    {"es": "Vale, ahí pueden caer al menos quince personas.", "zh": "好，這樣至少能砍十五個。"},
-    {"es": "Y los primos lejanos que no vienen a las navidades.", "zh": "還有過年都不來的遠房表親。"},
-    {"es": "Mi madre se va a enfadar si no invito a la tía Pilar.", "zh": "如果不請 Pilar 阿姨，我媽會生氣。"},
-    {"es": "A la tía Pilar la invitamos, no nos compliquemos.", "zh": "Pilar 阿姨還是請吧，別自找麻煩。"},
-    {"es": "Hablemos del presupuesto total que tenemos para todo.", "zh": "我們來談談總預算到底有多少。"},
-    {"es": "Entre lo nuestro y lo que aportan nuestros padres, unos veinte mil.", "zh": "我們的加上爸媽出的，大約兩萬歐。"},
-    {"es": "Con cien invitados y banquete, va a estar muy justo.", "zh": "一百人加宴會，會非常吃緊。"},
-    {"es": "El catering es lo que más se lleva, sin duda.", "zh": "餐飲絕對是最花錢的部分。"},
-    {"es": "Podemos buscar uno que no sea de los más caros.", "zh": "可以找一家不是最貴的。"},
-    {"es": "Una amiga me recomendó uno buenísimo y razonable.", "zh": "我有個朋友推薦一家很棒又合理的。"},
-    {"es": "Pídele el contacto y los llamamos esta semana.", "zh": "跟她要聯絡方式，這週打給他們。"},
-    {"es": "¿Y la música? ¿Grupo en directo o DJ?", "zh": "音樂呢？現場樂團還是 DJ？"},
-    {"es": "Un DJ sale mucho más barato y la gente se anima igual.", "zh": "DJ 便宜很多，大家照樣會嗨。"},
-    {"es": "Pero un grupo en directo da otro rollo a la cena.", "zh": "但現場樂團讓晚餐感覺完全不一樣。"},
-    {"es": "Que toque un grupo durante la cena y luego entra el DJ.", "zh": "晚餐時請樂團演奏，之後換 DJ。"},
-    {"es": "Genial, así combinamos lo mejor de las dos cosas.", "zh": "讚，這樣兩邊的優點都有。"},
-    {"es": "El vestido y el traje, ¿cuándo nos los probamos?", "zh": "婚紗跟西裝什麼時候去試？"},
-    {"es": "Yo el sábado tengo cita en la tienda del centro.", "zh": "我週六在市中心那家店有預約。"},
-    {"es": "Te acompaño si quieres, aunque no pueda ver el vestido.", "zh": "你想的話我陪你去，雖然不能看婚紗。"},
-    {"es": "Vente, esperas fuera y luego comemos por la zona.", "zh": "來吧，你在外面等，之後一起在附近吃飯。"},
-    {"es": "¿Has pensado en el viaje de novios o lo dejamos para después?", "zh": "你想過蜜月旅行了嗎？還是之後再說？"},
-    {"es": "Me encantaría ir a Japón, pero a lo mejor no llegamos.", "zh": "我超想去日本，但可能來不及存錢。"},
-    {"es": "Podemos hacer una luna de miel cortita y un viaje grande al año siguiente.", "zh": "我們可以辦個短蜜月，明年再辦大旅行。"},
-    {"es": "Me parece bien, así no estresamos la cuenta.", "zh": "我同意，這樣帳戶也不會崩。"},
-    {"es": "Lo más importante es que vamos a estar juntos.", "zh": "最重要的是我們會在一起。"},
-    {"es": "Eso es lo que de verdad me importa de todo esto.", "zh": "這才是我真正在意的部分。"},
-    {"es": "A mí también, lo demás son detalles que se solucionan.", "zh": "我也是，其他都是可以解決的細節。"},
-    {"es": "Venga, hagamos una lista con todo lo que decidimos hoy.", "zh": "來，把今天決定的全列成清單。"},
-    {"es": "Y mañana empezamos a llamar a proveedores, paso a paso.", "zh": "明天開始一步一步打電話給廠商。"},
-    {"es": "Te quiero, y va a ser la mejor boda del mundo.", "zh": "我愛你，這會是世界上最棒的婚禮。"}
+    {
+      "es": "Cariño, tenemos que sentarnos a hablar de la boda en serio.",
+      "zh": "親愛的，我們得認真坐下來談婚禮了。"
+    },
+    {
+      "es": "Lo sé, llevamos un mes posponiéndolo, no podemos más.",
+      "zh": "我知道，我們拖了一個月，不能再拖了。"
+    },
+    {
+      "es": "Vale, empecemos por la fecha, ¿septiembre o mayo?",
+      "zh": "好，從日期開始，九月還是五月？"
+    },
+    {
+      "es": "A mí septiembre me gusta más, hace menos calor para el banquete.",
+      "zh": "我比較喜歡九月，宴會時天氣沒那麼熱。"
+    },
+    {
+      "es": "Pero mayo es más bonito, todo el campo florido.",
+      "zh": "可是五月比較美，整個鄉間都開花。"
+    },
+    {
+      "es": "Sí, pero acuérdate de que llueve más en esta zona.",
+      "zh": "對，但別忘了這一帶五月比較常下雨。"
+    },
+    {
+      "es": "Tienes razón, mejor septiembre, así no jugamos con el tiempo.",
+      "zh": "你說得對，九月好了，免得賭天氣。"
+    },
+    {
+      "es": "Perfecto, ahora hablemos del lugar de la ceremonia.",
+      "zh": "完美，現在來談儀式地點。"
+    },
+    {
+      "es": "¿Te apetece más algo en el campo o una iglesia del pueblo?",
+      "zh": "你比較想在鄉間辦還是村裡的教堂？"
+    },
+    {
+      "es": "Una finca con jardín me parecería precioso, la verdad.",
+      "zh": "老實說有花園的莊園我覺得超美。"
+    },
+    {
+      "es": "A mi madre le va a dar algo si no es por la iglesia.",
+      "zh": "如果不是教堂，我媽會崩潰。"
+    },
+    {
+      "es": "Lo sé, pero también es nuestro día, no solo el suyo.",
+      "zh": "我知道，但這也是我們的日子，不只是她的。"
+    },
+    {
+      "es": "Podemos hacer una ceremonia simbólica en la finca.",
+      "zh": "我們可以在莊園辦象徵性儀式。"
+    },
+    {
+      "es": "Y casarnos por lo civil en el ayuntamiento antes.",
+      "zh": "然後事先到市政廳辦民事登記。"
+    },
+    {
+      "es": "Me parece una solución estupenda, contenta tu madre y nosotros.",
+      "zh": "我覺得這方法超棒，你媽開心，我們也開心。"
+    },
+    {
+      "es": "Ahora la lista de invitados, que es lo más delicado.",
+      "zh": "現在輪到賓客名單，這是最棘手的。"
+    },
+    {
+      "es": "He hecho una primera versión, salen unos ciento cincuenta.",
+      "zh": "我做了初版，大約一百五十人。"
+    },
+    {
+      "es": "Madre mía, eso se nos va de presupuesto enseguida.",
+      "zh": "天啊，這樣預算馬上爆。"
+    },
+    {
+      "es": "Habrá que recortar, pero no sé por dónde empezar.",
+      "zh": "得砍人，但我不知道從哪開始。"
+    },
+    {
+      "es": "Por los compañeros de trabajo a los que casi no ves.",
+      "zh": "從那些你幾乎不見面的同事砍起。"
+    },
+    {
+      "es": "Vale, ahí pueden caer al menos quince personas.",
+      "zh": "好，這樣至少能砍十五個。"
+    },
+    {
+      "es": "Y los primos lejanos que no vienen a las navidades.",
+      "zh": "還有過年都不來的遠房表親。"
+    },
+    {
+      "es": "Mi madre se va a enfadar si no invito a la tía Pilar.",
+      "zh": "如果不請 Pilar 阿姨，我媽會生氣。"
+    },
+    {
+      "es": "A la tía Pilar la invitamos, no nos compliquemos.",
+      "zh": "Pilar 阿姨還是請吧，別自找麻煩。"
+    },
+    {
+      "es": "Hablemos del presupuesto total que tenemos para todo.",
+      "zh": "我們來談談總預算到底有多少。"
+    },
+    {
+      "es": "Entre lo nuestro y lo que aportan nuestros padres, unos veinte mil.",
+      "zh": "我們的加上爸媽出的，大約兩萬歐。"
+    },
+    {
+      "es": "Con cien invitados y banquete, va a estar muy justo.",
+      "zh": "一百人加宴會，會非常吃緊。"
+    },
+    {
+      "es": "El catering es lo que más se lleva, sin duda.",
+      "zh": "餐飲絕對是最花錢的部分。"
+    },
+    {
+      "es": "Podemos buscar uno que no sea de los más caros.",
+      "zh": "可以找一家不是最貴的。"
+    },
+    {
+      "es": "Una amiga me recomendó uno buenísimo y razonable.",
+      "zh": "我有個朋友推薦一家很棒又合理的。"
+    },
+    {
+      "es": "Pídele el contacto y los llamamos esta semana.",
+      "zh": "跟她要聯絡方式，這週打給他們。"
+    },
+    {
+      "es": "¿Y la música? ¿Grupo en directo o DJ?",
+      "zh": "音樂呢？現場樂團還是 DJ？"
+    },
+    {
+      "es": "Un DJ sale mucho más barato y la gente se anima igual.",
+      "zh": "DJ 便宜很多，大家照樣會嗨。"
+    },
+    {
+      "es": "Pero un grupo en directo da otro rollo a la cena.",
+      "zh": "但現場樂團讓晚餐感覺完全不一樣。"
+    },
+    {
+      "es": "Que toque un grupo durante la cena y luego entra el DJ.",
+      "zh": "晚餐時請樂團演奏，之後換 DJ。"
+    },
+    {
+      "es": "Genial, así combinamos lo mejor de las dos cosas.",
+      "zh": "讚，這樣兩邊的優點都有。"
+    },
+    {
+      "es": "El vestido y el traje, ¿cuándo nos los probamos?",
+      "zh": "婚紗跟西裝什麼時候去試？"
+    },
+    {
+      "es": "Yo el sábado tengo cita en la tienda del centro.",
+      "zh": "我週六在市中心那家店有預約。"
+    },
+    {
+      "es": "Te acompaño si quieres, aunque no pueda ver el vestido.",
+      "zh": "你想的話我陪你去，雖然不能看婚紗。"
+    },
+    {
+      "es": "Vente, esperas fuera y luego comemos por la zona.",
+      "zh": "來吧，你在外面等，之後一起在附近吃飯。"
+    },
+    {
+      "es": "¿Has pensado en el viaje de novios o lo dejamos para después?",
+      "zh": "你想過蜜月旅行了嗎？還是之後再說？"
+    },
+    {
+      "es": "Me encantaría ir a Japón, pero a lo mejor no llegamos.",
+      "zh": "我超想去日本，但可能來不及存錢。"
+    },
+    {
+      "es": "Podemos hacer una luna de miel cortita y un viaje grande al año siguiente.",
+      "zh": "我們可以辦個短蜜月，明年再辦大旅行。"
+    },
+    {
+      "es": "Me parece bien, así no estresamos la cuenta.",
+      "zh": "我同意，這樣帳戶也不會崩。"
+    },
+    {
+      "es": "Lo más importante es que vamos a estar juntos.",
+      "zh": "最重要的是我們會在一起。"
+    },
+    {
+      "es": "Eso es lo que de verdad me importa de todo esto.",
+      "zh": "這才是我真正在意的部分。"
+    },
+    {
+      "es": "A mí también, lo demás son detalles que se solucionan.",
+      "zh": "我也是，其他都是可以解決的細節。"
+    },
+    {
+      "es": "Venga, hagamos una lista con todo lo que decidimos hoy.",
+      "zh": "來，把今天決定的全列成清單。"
+    },
+    {
+      "es": "Y mañana empezamos a llamar a proveedores, paso a paso.",
+      "zh": "明天開始一步一步打電話給廠商。"
+    },
+    {
+      "es": "Te quiero, y va a ser la mejor boda del mundo.",
+      "zh": "我愛你，這會是世界上最棒的婚禮。"
+    },
+    {
+      "es": "El salón de bodas que vimos cobra una fortuna por el descorche.",
+      "zh": "我們看的那家婚宴會館開瓶費收得超貴。"
+    },
+    {
+      "es": "Tendríamos que ir cerrando la lista de invitados antes de fin de mes.",
+      "zh": "我們應該在月底前把賓客名單敲定。"
+    },
+    {
+      "es": "¿Prefieres una ceremonia civil o por la iglesia, como tus padres?",
+      "zh": "妳偏好公證結婚，還是像妳父母那樣在教堂辦？"
+    },
+    {
+      "es": "El presupuesto se nos está disparando con tanto detalle.",
+      "zh": "搞了這麼多細節，我們的預算快爆了。"
+    },
+    {
+      "es": "Mi hermana se ofrece a encargarse del ramo y los centros de mesa.",
+      "zh": "我姐姐自願負責捧花和餐桌上的花飾。"
+    },
+    {
+      "es": "Habrá que probar el menú antes de contratar al catering.",
+      "zh": "簽外燴之前得先試菜。"
+    },
+    {
+      "es": "No quiero una luna de miel cara, prefiero algo tranquilo en la playa.",
+      "zh": "我不想要昂貴的蜜月，我比較想在海邊輕鬆度過。"
+    },
+    {
+      "es": "Las invitaciones podemos enviarlas digitales y ahorrar en imprenta.",
+      "zh": "請帖我們可以用電子版寄，省下印刷費。"
+    },
+    {
+      "es": "¿Has pensado quién nos hará las fotos y el vídeo del enlace?",
+      "zh": "妳想過婚禮的攝影和錄影要找誰嗎？"
+    },
+    {
+      "es": "Reservemos la orquesta cuanto antes, que en verano vuelan las fechas.",
+      "zh": "我們盡快訂樂團吧，夏天的檔期一下就沒了。"
+    }
   ]
 }

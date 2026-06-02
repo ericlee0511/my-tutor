@@ -1,45 +1,205 @@
 {
   "title": "Ponencia: epistemología del trabajo creativo",
   "all": [
-    { "es": "Esta ponencia se propone interrogar los fundamentos epistémicos sobre los que descansa, las más de las veces sin examen, nuestra noción de trabajo creativo.", "zh": "本場報告旨在追問支撐我們「創造性勞動」概念的知識論基礎，此一概念多半未經審視。" },
-    { "es": "Asumimos con extraordinaria ligereza que crear consiste en producir algo nuevo, sin reparar en la complejidad ontológica que el término novedad encierra.", "zh": "我們以驚人的輕率假定創造即是生產新事物，卻未察覺「新」一詞所蘊含的本體論複雜性。" },
-    { "es": "Toda creación, examinada con detenimiento, se revela como reconfiguración de materiales preexistentes que el creador ni eligió ni produjo enteramente.", "zh": "凡創造若經審慎檢視，皆顯露為對先在材料的重組，而這些材料既非創作者所選擇，亦非由其完全產出。" },
-    { "es": "El mito romántico del artista ex nihilo persiste en discursos contemporáneos, particularmente en los que celebran la figura del emprendedor disruptivo.", "zh": "「無中生有」的浪漫藝術家神話仍盤踞於當代論述，尤以頌揚顛覆性創業者的論述為然。" },
-    { "es": "Tal mito oblitera la cadena infinita de mediaciones que hace posible cualquier gesto que llamamos original.", "zh": "此神話遮蔽了使任何被稱為原創之舉成為可能的無窮中介鏈。" },
-    { "es": "Conviene, en consecuencia, redefinir el trabajo creativo como una práctica situada, deudora siempre de una tradición que la antecede y la sostiene.", "zh": "因此，我們應將創造性勞動重新定義為一種處境化的實踐，永遠承襲並仰賴於先於其、亦支撐其的傳統。" },
-    { "es": "Esta redefinición no rebaja la dignidad de la obra; al contrario, la inscribe en una red de filiaciones que enriquece su densidad simbólica.", "zh": "此一重新界定並未貶損作品之尊嚴，反而將其銘刻入一張承繼關係之網，豐富其象徵密度。" },
-    { "es": "Distintos epistemólogos han subrayado que el conocimiento tácito desempeña un papel decisivo en los procesos creativos, aunque resista toda formalización.", "zh": "眾多知識論者指出，默會知識在創造過程中扮演決定性角色，儘管其抵抗一切形式化。" },
-    { "es": "Polanyi sostuvo, con razón, que sabemos siempre más de lo que somos capaces de articular discursivamente.", "zh": "波蘭尼有理地主張，我們所知者，恆多於我們能以論述加以闡明者。" },
-    { "es": "Aplicado al ámbito creativo, este principio significa que buena parte del oficio se transmite en una zona refractaria al manual y a la explicitación.", "zh": "套用於創造領域，此原則意味著工藝之相當部分傳承於一片抵抗手冊與明示化的區域。" },
-    { "es": "Surge entonces la pregunta crucial: ¿cómo puede una pedagogía formal hacerse cargo de lo que, por definición, escapa a su lenguaje?", "zh": "於是浮現一關鍵問題：正規教育學要如何處理那依其定義即逃離其語言之物？" },
-    { "es": "La respuesta, a mi entender, no pasa por intentar formalizar lo informalizable, sino por instituir espacios de aprendizaje por convivencia.", "zh": "依本人之見，答案不在於試圖將不可形式化者形式化，而在於建立共處式的學習空間。" },
-    { "es": "El taller, el estudio, el laboratorio: he aquí formas pedagógicas insustituibles que ninguna plataforma virtual puede emular plenamente.", "zh": "工作坊、工作室、實驗室：此皆為任何虛擬平台無法完全模擬的不可替代教學形式。" },
-    { "es": "Otro aspecto descuidado es la temporalidad propia del trabajo creativo, irreductible a las métricas productivistas del calendario industrial.", "zh": "另一被忽略之面向，為創造性勞動所特有之時間性，無法化約為產業日曆的生產主義量度。" },
-    { "es": "Una idea puede gestarse durante años de aparente inactividad, en una latencia que la contabilidad empresarial calificaría de tiempo perdido.", "zh": "一個觀念可能於數年看似停滯之中孕育，於一種企業會計將其判定為「虛擲時光」之潛伏狀態中蘊釀。" },
-    { "es": "Nada empobrece tanto a una cultura como su incapacidad para honrar esos tiempos morosos, esos barbechos cognitivos sin los cuales no hay cosecha digna.", "zh": "莫有何物比無能尊崇此類遲緩時光更使文化貧瘠者，無此等認知休耕，便無值得稱道之收穫。" },
-    { "es": "Conviene asimismo reflexionar sobre la dimensión colectiva de toda creación, persistentemente eclipsada por la firma individual que la signa.", "zh": "我們同樣應反思一切創造之集體面向，此面向恆受到簽署其上之個人署名所遮掩。" },
-    { "es": "Detrás de cada obra aclamada se extiende una constelación de colaboradores, predecesores y condiciones materiales sin los cuales esta no existiría.", "zh": "每一受讚譽作品之後，皆延展著協作者、先行者與物質條件之星座，缺此則作品無從存在。" },
-    { "es": "Reconocer esa constelación no es desmerecer el talento individual, sino devolverlo a su lugar propio dentro de un tejido más vasto.", "zh": "承認此星座非為貶抑個人才華，而是將其歸還於更廣闊織體中所屬之位置。" },
-    { "es": "Sólo desde una epistemología así renovada podremos elaborar políticas culturales que sostengan, sin caricaturizarlas, las condiciones reales de la creación.", "zh": "唯有自此種更新後的知識論出發，我們方能擬定文化政策，以不淪為漫畫式的方式支持創造的真實條件。" },
-    { "es": "Permítanme ahora extender estas reflexiones hacia un terreno todavía poco transitado por la teoría de la creación.", "zh": "請容本人現將上述省思延伸至一塊創造理論尚少涉足之領地。" },
-    { "es": "Me refiero a la dimensión corporal del trabajo creativo, sistemáticamente excluida por epistemologías de raíz cartesiana.", "zh": "本人所指為創造性勞動之身體面向，此面向長期遭笛卡兒系譜之知識論所系統性排除。" },
-    { "es": "El cuerpo del creador no es un mero soporte instrumental: es la sede de saberes que ninguna inteligencia descorporeizada podría replicar.", "zh": "創作者之身體並非單純工具承載，而是某種無身軀化智能皆無法複製之知識之所在。" },
-    { "es": "Pensemos en el escultor cuya mano, sin consulta consciente, sabe cuándo detenerse antes de que el cincel arruine una forma incipiente.", "zh": "試思那位雕塑家，其手未經有意識之諮詢，便已知於鑿刀毀壞初萌形體前停止。" },
-    { "es": "Esa sabiduría háptica no es metáfora poética; es un conocimiento técnicamente preciso, transmisible solo por imitación prolongada.", "zh": "此種觸覺智慧並非詩意之喻，而是一種於技術上精確、唯經長期模仿方可傳遞之知識。" },
-    { "es": "Las epistemologías que reducen el saber a proposiciones discursivas resultan estructuralmente incapaces de dar cuenta de tales fenómenos.", "zh": "將知識化約為論述命題之知識論，於結構上無能處理此類現象。" },
-    { "es": "Una teoría adecuada del trabajo creativo debería, por tanto, recuperar tradiciones filosóficas que tomaron en serio la corporalidad: Merleau-Ponty, ciertamente, pero también filosofías no occidentales menos atendidas.", "zh": "故充分之創造性勞動理論應重訪那些嚴肅看待身軀性的哲學傳統：固然包括梅洛龐蒂，亦包含較少受重視之非西方哲學。" },
-    { "es": "Hablo de pensamientos como los que articulan ciertas estéticas orientales en torno al gesto, la pincelada, la respiración del oficiante.", "zh": "本人所指為某些東方美學圍繞著手勢、筆觸、操作者呼吸所構築之思想。" },
-    { "es": "Su contribución no consiste en exotizar el debate, sino en mostrar que nuestras categorías occidentales son provincianas más a menudo de lo que admitimos.", "zh": "其貢獻不在於使辯論獵奇化，而在於顯示我們之西方範疇較我們所願承認者，更為地方性。" },
-    { "es": "Quisiera abordar, por otro lado, la dimensión afectiva, igualmente desatendida en las teorizaciones dominantes.", "zh": "另一方面，本人欲處理同樣於主流理論中遭忽略之情感面向。" },
-    { "es": "Crear sin afecto es producir, no crear; y producir, por meritorio que sea, no agota la riqueza semántica del verbo crear.", "zh": "無情感而創造者，乃生產而非創造，而生產無論多麼可敬，皆未窮盡「創造」一詞之語義豐富性。" },
-    { "es": "El afecto, entendido aquí en su acepción spinoziana, designa una potencia que orienta sin determinar y que constituye, por ello, el principio dinámico de toda obra viva.", "zh": "情感於此採史賓諾莎義，指一種引導而不決定之力量，並因而構成一切活作品之動力原則。" },
-    { "es": "Sin tal potencia, las obras resultan técnicamente impecables y, sin embargo, profundamente inertes.", "zh": "缺乏此力量，作品於技術上或臻完美，然深層中卻顯遲鈍。" },
-    { "es": "La crítica institucional, demasiado a menudo, no posee categorías para nombrar esa inerteidad y termina celebrando la pericia como si fuera plenitud.", "zh": "機構性批評往往欠缺命名此遲鈍之範疇，最終竟以彷彿那即充盈之姿頌揚技藝。" },
-    { "es": "Una pedagogía consciente debería entrenar precisamente esta sensibilidad para distinguir lo correcto de lo necesario.", "zh": "具自覺之教學法應正是培訓此種敏感度，以辨別正確與必要。" },
-    { "es": "Permítanme cerrar esta intervención esbozando las consecuencias prácticas que se siguen de cuanto he expuesto.", "zh": "請容本人勾勒上述所陳之實踐後果以作結。" },
-    { "es": "En primer lugar, las instituciones de formación deberían reservar tiempos generosos para prácticas cuya rentabilidad inmediata no es demostrable.", "zh": "首先，培育機構應為那些其即時收益難以證明之實踐保留充裕時段。" },
-    { "es": "En segundo lugar, las políticas culturales deberían financiar procesos antes que productos, sin sucumbir a la obsesión entregables.", "zh": "其次，文化政策應資助過程而非產品，毋屈服於對「交付物」之偏執。" },
-    { "es": "En tercer lugar, la evaluación académica de la investigación artística debería abandonar los modelos importados de las ciencias duras.", "zh": "再者，藝術研究之學術評估應放棄自硬科學引進之模型。" },
-    { "es": "Si seguimos estos rumbos, quizá logremos al fin construir un marco intelectual digno de lo que llamamos, con demasiada ligereza, creación.", "zh": "若沿此方向前行，我們或終能為那被以過度輕率稱為「創造」之物，建構無愧其名之思想框架。" }
+    {
+      "es": "Esta ponencia se propone interrogar los fundamentos epistémicos sobre los que descansa, las más de las veces sin examen, nuestra noción de trabajo creativo.",
+      "zh": "本場報告旨在追問支撐我們「創造性勞動」概念的知識論基礎，此一概念多半未經審視。"
+    },
+    {
+      "es": "Asumimos con extraordinaria ligereza que crear consiste en producir algo nuevo, sin reparar en la complejidad ontológica que el término novedad encierra.",
+      "zh": "我們以驚人的輕率假定創造即是生產新事物，卻未察覺「新」一詞所蘊含的本體論複雜性。"
+    },
+    {
+      "es": "Toda creación, examinada con detenimiento, se revela como reconfiguración de materiales preexistentes que el creador ni eligió ni produjo enteramente.",
+      "zh": "凡創造若經審慎檢視，皆顯露為對先在材料的重組，而這些材料既非創作者所選擇，亦非由其完全產出。"
+    },
+    {
+      "es": "El mito romántico del artista ex nihilo persiste en discursos contemporáneos, particularmente en los que celebran la figura del emprendedor disruptivo.",
+      "zh": "「無中生有」的浪漫藝術家神話仍盤踞於當代論述，尤以頌揚顛覆性創業者的論述為然。"
+    },
+    {
+      "es": "Tal mito oblitera la cadena infinita de mediaciones que hace posible cualquier gesto que llamamos original.",
+      "zh": "此神話遮蔽了使任何被稱為原創之舉成為可能的無窮中介鏈。"
+    },
+    {
+      "es": "Conviene, en consecuencia, redefinir el trabajo creativo como una práctica situada, deudora siempre de una tradición que la antecede y la sostiene.",
+      "zh": "因此，我們應將創造性勞動重新定義為一種處境化的實踐，永遠承襲並仰賴於先於其、亦支撐其的傳統。"
+    },
+    {
+      "es": "Esta redefinición no rebaja la dignidad de la obra; al contrario, la inscribe en una red de filiaciones que enriquece su densidad simbólica.",
+      "zh": "此一重新界定並未貶損作品之尊嚴，反而將其銘刻入一張承繼關係之網，豐富其象徵密度。"
+    },
+    {
+      "es": "Distintos epistemólogos han subrayado que el conocimiento tácito desempeña un papel decisivo en los procesos creativos, aunque resista toda formalización.",
+      "zh": "眾多知識論者指出，默會知識在創造過程中扮演決定性角色，儘管其抵抗一切形式化。"
+    },
+    {
+      "es": "Polanyi sostuvo, con razón, que sabemos siempre más de lo que somos capaces de articular discursivamente.",
+      "zh": "波蘭尼有理地主張，我們所知者，恆多於我們能以論述加以闡明者。"
+    },
+    {
+      "es": "Aplicado al ámbito creativo, este principio significa que buena parte del oficio se transmite en una zona refractaria al manual y a la explicitación.",
+      "zh": "套用於創造領域，此原則意味著工藝之相當部分傳承於一片抵抗手冊與明示化的區域。"
+    },
+    {
+      "es": "Surge entonces la pregunta crucial: ¿cómo puede una pedagogía formal hacerse cargo de lo que, por definición, escapa a su lenguaje?",
+      "zh": "於是浮現一關鍵問題：正規教育學要如何處理那依其定義即逃離其語言之物？"
+    },
+    {
+      "es": "La respuesta, a mi entender, no pasa por intentar formalizar lo informalizable, sino por instituir espacios de aprendizaje por convivencia.",
+      "zh": "依本人之見，答案不在於試圖將不可形式化者形式化，而在於建立共處式的學習空間。"
+    },
+    {
+      "es": "El taller, el estudio, el laboratorio: he aquí formas pedagógicas insustituibles que ninguna plataforma virtual puede emular plenamente.",
+      "zh": "工作坊、工作室、實驗室：此皆為任何虛擬平台無法完全模擬的不可替代教學形式。"
+    },
+    {
+      "es": "Otro aspecto descuidado es la temporalidad propia del trabajo creativo, irreductible a las métricas productivistas del calendario industrial.",
+      "zh": "另一被忽略之面向，為創造性勞動所特有之時間性，無法化約為產業日曆的生產主義量度。"
+    },
+    {
+      "es": "Una idea puede gestarse durante años de aparente inactividad, en una latencia que la contabilidad empresarial calificaría de tiempo perdido.",
+      "zh": "一個觀念可能於數年看似停滯之中孕育，於一種企業會計將其判定為「虛擲時光」之潛伏狀態中蘊釀。"
+    },
+    {
+      "es": "Nada empobrece tanto a una cultura como su incapacidad para honrar esos tiempos morosos, esos barbechos cognitivos sin los cuales no hay cosecha digna.",
+      "zh": "莫有何物比無能尊崇此類遲緩時光更使文化貧瘠者，無此等認知休耕，便無值得稱道之收穫。"
+    },
+    {
+      "es": "Conviene asimismo reflexionar sobre la dimensión colectiva de toda creación, persistentemente eclipsada por la firma individual que la signa.",
+      "zh": "我們同樣應反思一切創造之集體面向，此面向恆受到簽署其上之個人署名所遮掩。"
+    },
+    {
+      "es": "Detrás de cada obra aclamada se extiende una constelación de colaboradores, predecesores y condiciones materiales sin los cuales esta no existiría.",
+      "zh": "每一受讚譽作品之後，皆延展著協作者、先行者與物質條件之星座，缺此則作品無從存在。"
+    },
+    {
+      "es": "Reconocer esa constelación no es desmerecer el talento individual, sino devolverlo a su lugar propio dentro de un tejido más vasto.",
+      "zh": "承認此星座非為貶抑個人才華，而是將其歸還於更廣闊織體中所屬之位置。"
+    },
+    {
+      "es": "Sólo desde una epistemología así renovada podremos elaborar políticas culturales que sostengan, sin caricaturizarlas, las condiciones reales de la creación.",
+      "zh": "唯有自此種更新後的知識論出發，我們方能擬定文化政策，以不淪為漫畫式的方式支持創造的真實條件。"
+    },
+    {
+      "es": "Permítanme ahora extender estas reflexiones hacia un terreno todavía poco transitado por la teoría de la creación.",
+      "zh": "請容本人現將上述省思延伸至一塊創造理論尚少涉足之領地。"
+    },
+    {
+      "es": "Me refiero a la dimensión corporal del trabajo creativo, sistemáticamente excluida por epistemologías de raíz cartesiana.",
+      "zh": "本人所指為創造性勞動之身體面向，此面向長期遭笛卡兒系譜之知識論所系統性排除。"
+    },
+    {
+      "es": "El cuerpo del creador no es un mero soporte instrumental: es la sede de saberes que ninguna inteligencia descorporeizada podría replicar.",
+      "zh": "創作者之身體並非單純工具承載，而是某種無身軀化智能皆無法複製之知識之所在。"
+    },
+    {
+      "es": "Pensemos en el escultor cuya mano, sin consulta consciente, sabe cuándo detenerse antes de que el cincel arruine una forma incipiente.",
+      "zh": "試思那位雕塑家，其手未經有意識之諮詢，便已知於鑿刀毀壞初萌形體前停止。"
+    },
+    {
+      "es": "Esa sabiduría háptica no es metáfora poética; es un conocimiento técnicamente preciso, transmisible solo por imitación prolongada.",
+      "zh": "此種觸覺智慧並非詩意之喻，而是一種於技術上精確、唯經長期模仿方可傳遞之知識。"
+    },
+    {
+      "es": "Las epistemologías que reducen el saber a proposiciones discursivas resultan estructuralmente incapaces de dar cuenta de tales fenómenos.",
+      "zh": "將知識化約為論述命題之知識論，於結構上無能處理此類現象。"
+    },
+    {
+      "es": "Una teoría adecuada del trabajo creativo debería, por tanto, recuperar tradiciones filosóficas que tomaron en serio la corporalidad: Merleau-Ponty, ciertamente, pero también filosofías no occidentales menos atendidas.",
+      "zh": "故充分之創造性勞動理論應重訪那些嚴肅看待身軀性的哲學傳統：固然包括梅洛龐蒂，亦包含較少受重視之非西方哲學。"
+    },
+    {
+      "es": "Hablo de pensamientos como los que articulan ciertas estéticas orientales en torno al gesto, la pincelada, la respiración del oficiante.",
+      "zh": "本人所指為某些東方美學圍繞著手勢、筆觸、操作者呼吸所構築之思想。"
+    },
+    {
+      "es": "Su contribución no consiste en exotizar el debate, sino en mostrar que nuestras categorías occidentales son provincianas más a menudo de lo que admitimos.",
+      "zh": "其貢獻不在於使辯論獵奇化，而在於顯示我們之西方範疇較我們所願承認者，更為地方性。"
+    },
+    {
+      "es": "Quisiera abordar, por otro lado, la dimensión afectiva, igualmente desatendida en las teorizaciones dominantes.",
+      "zh": "另一方面，本人欲處理同樣於主流理論中遭忽略之情感面向。"
+    },
+    {
+      "es": "Crear sin afecto es producir, no crear; y producir, por meritorio que sea, no agota la riqueza semántica del verbo crear.",
+      "zh": "無情感而創造者，乃生產而非創造，而生產無論多麼可敬，皆未窮盡「創造」一詞之語義豐富性。"
+    },
+    {
+      "es": "El afecto, entendido aquí en su acepción spinoziana, designa una potencia que orienta sin determinar y que constituye, por ello, el principio dinámico de toda obra viva.",
+      "zh": "情感於此採史賓諾莎義，指一種引導而不決定之力量，並因而構成一切活作品之動力原則。"
+    },
+    {
+      "es": "Sin tal potencia, las obras resultan técnicamente impecables y, sin embargo, profundamente inertes.",
+      "zh": "缺乏此力量，作品於技術上或臻完美，然深層中卻顯遲鈍。"
+    },
+    {
+      "es": "La crítica institucional, demasiado a menudo, no posee categorías para nombrar esa inerteidad y termina celebrando la pericia como si fuera plenitud.",
+      "zh": "機構性批評往往欠缺命名此遲鈍之範疇，最終竟以彷彿那即充盈之姿頌揚技藝。"
+    },
+    {
+      "es": "Una pedagogía consciente debería entrenar precisamente esta sensibilidad para distinguir lo correcto de lo necesario.",
+      "zh": "具自覺之教學法應正是培訓此種敏感度，以辨別正確與必要。"
+    },
+    {
+      "es": "Permítanme cerrar esta intervención esbozando las consecuencias prácticas que se siguen de cuanto he expuesto.",
+      "zh": "請容本人勾勒上述所陳之實踐後果以作結。"
+    },
+    {
+      "es": "En primer lugar, las instituciones de formación deberían reservar tiempos generosos para prácticas cuya rentabilidad inmediata no es demostrable.",
+      "zh": "首先，培育機構應為那些其即時收益難以證明之實踐保留充裕時段。"
+    },
+    {
+      "es": "En segundo lugar, las políticas culturales deberían financiar procesos antes que productos, sin sucumbir a la obsesión entregables.",
+      "zh": "其次，文化政策應資助過程而非產品，毋屈服於對「交付物」之偏執。"
+    },
+    {
+      "es": "En tercer lugar, la evaluación académica de la investigación artística debería abandonar los modelos importados de las ciencias duras.",
+      "zh": "再者，藝術研究之學術評估應放棄自硬科學引進之模型。"
+    },
+    {
+      "es": "Si seguimos estos rumbos, quizá logremos al fin construir un marco intelectual digno de lo que llamamos, con demasiada ligereza, creación.",
+      "zh": "若沿此方向前行，我們或終能為那被以過度輕率稱為「創造」之物，建構無愧其名之思想框架。"
+    },
+    {
+      "es": "Atribuir una obra a la inspiración súbita oculta el laborioso andamiaje de tentativas que la hicieron posible.",
+      "zh": "將一件作品歸功於靈光乍現，掩蓋了使其得以成形的、辛勤搭建的嘗試鷹架。"
+    },
+    {
+      "es": "Lo que llamamos originalidad suele ser una combinatoria insospechada de influencias plenamente reconocibles.",
+      "zh": "我們所謂的原創性，往往是一種對全然可辨之影響的出乎意料的組合。"
+    },
+    {
+      "es": "El acto creador depende de tradiciones, técnicas y materiales que el individuo recibe antes de aportar nada propio.",
+      "zh": "創作行為仰賴於個體在貢獻任何己有之物之前，便已承接的傳統、技藝與材料。"
+    },
+    {
+      "es": "Resulta cuestionable separar tajantemente al genio del artesano, pues ambos comparten la disciplina del oficio.",
+      "zh": "將天才與工匠截然劃分是值得商榷的，因為兩者共享著手藝的紀律。"
+    },
+    {
+      "es": "La idea de propiedad intelectual presupone un origen individual que el examen filosófico difícilmente sostiene.",
+      "zh": "智慧財產的觀念預設了一個個人化的源頭，而這在哲學的審視下難以成立。"
+    },
+    {
+      "es": "Celebrar al innovador solitario invisibiliza las redes colaborativas que sustentan toda producción simbólica.",
+      "zh": "對孤獨創新者的歌頌，使支撐一切象徵生產的協作網絡隱而不顯。"
+    },
+    {
+      "es": "El error fortuito, lejos de arruinar la obra, a menudo abre vías que ninguna intención habría descubierto.",
+      "zh": "偶然的失誤非但不會毀掉作品，反而常常開啟任何意圖都無從發現的路徑。"
+    },
+    {
+      "es": "Conviene desconfiar de los relatos que reducen el proceso creativo a un instante de revelación luminosa.",
+      "zh": "我們應當提防那些將創作過程化約為一瞬靈光啟示的敘事。"
+    },
+    {
+      "es": "La valoración de lo nuevo varía radicalmente según las convenciones de cada época y comunidad interpretativa.",
+      "zh": "對「新」的評價，會隨著各時代與各詮釋社群的慣例而發生根本性的變化。"
+    },
+    {
+      "es": "Pensar el trabajo creativo como reconfiguración nos libera del peso paralizante de la invención absoluta.",
+      "zh": "將創作視為重組，能使我們擺脫絕對發明那令人癱瘓的重負。"
+    }
   ]
 }

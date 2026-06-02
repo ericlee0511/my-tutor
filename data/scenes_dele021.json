@@ -1,45 +1,205 @@
 {
   "title": "En el restaurante",
   "all": [
-    { "es": "Buenas noches, ¿tienen una mesa para dos personas?", "zh": "晚安，請問有兩個人的桌子嗎？" },
-    { "es": "Sí, claro. Síganme, por favor.", "zh": "有的，當然。請跟我來。" },
-    { "es": "¿Esta mesa cerca de la ventana está bien?", "zh": "靠窗的這張桌子可以嗎？" },
-    { "es": "Perfecto, muchas gracias.", "zh": "很好，非常謝謝。" },
-    { "es": "Aquí tienen la carta. ¿Quieren beber algo?", "zh": "這是菜單。要喝點什麼嗎？" },
-    { "es": "Yo quiero un vaso de agua, por favor.", "zh": "我想要一杯水，麻煩你。" },
-    { "es": "Para mí, una copa de vino tinto.", "zh": "我要一杯紅酒。" },
-    { "es": "¿Qué plato me recomienda?", "zh": "你推薦哪一道菜？" },
-    { "es": "La paella de mariscos es nuestra especialidad.", "zh": "海鮮燉飯是我們的招牌菜。" },
-    { "es": "Muy bien, voy a probarla.", "zh": "好的，我要試試看。" },
-    { "es": "Yo quiero una ensalada y pollo asado.", "zh": "我要一份沙拉和烤雞。" },
-    { "es": "¿Algo más para empezar?", "zh": "前菜還要點別的嗎？" },
-    { "es": "No, gracias. Eso es todo.", "zh": "不用，謝謝。這樣就好了。" },
-    { "es": "La comida está deliciosa.", "zh": "這頓飯真好吃。" },
-    { "es": "Me alegro de que les guste.", "zh": "很高興你們喜歡。" },
-    { "es": "¿Nos puede traer la cuenta, por favor?", "zh": "可以幫我們結帳嗎？" },
-    { "es": "En seguida, son cuarenta y cinco euros.", "zh": "馬上來，總共四十五歐元。" },
-    { "es": "¿Aceptan tarjeta de crédito?", "zh": "你們收信用卡嗎？" },
-    { "es": "Sí, por supuesto.", "zh": "是的，當然可以。" },
-    { "es": "Muchas gracias, hasta luego.", "zh": "非常感謝，再見。" },
-    { "es": "Perdone, ¿nos puede traer un poco más de pan?", "zh": "不好意思，可以再給我們一些麵包嗎？" },
-    { "es": "Por supuesto, ahora mismo se lo traigo.", "zh": "當然可以，我馬上拿來。" },
-    { "es": "¿También quieren más agua?", "zh": "也要再來點水嗎？" },
-    { "es": "Sí, una botella grande, por favor.", "zh": "好的，一大瓶，麻煩你。" },
-    { "es": "¿Tienen postres caseros?", "zh": "你們有自家做的甜點嗎？" },
-    { "es": "Sí, hoy tenemos flan, tarta de queso y helado.", "zh": "有的，今天有焦糖布丁、起司蛋糕和冰淇淋。" },
-    { "es": "Yo voy a probar el flan.", "zh": "我要試試焦糖布丁。" },
-    { "es": "Para mí, una tarta de queso, por favor.", "zh": "我要一份起司蛋糕，麻煩你。" },
-    { "es": "¿Quieren un café después del postre?", "zh": "甜點之後要來杯咖啡嗎？" },
-    { "es": "Sí, dos cafés con leche.", "zh": "好，兩杯咖啡牛奶。" },
-    { "es": "El flan está buenísimo.", "zh": "焦糖布丁真的很好吃。" },
-    { "es": "La tarta también está muy rica.", "zh": "蛋糕也非常好吃。" },
-    { "es": "¿Vienen a este restaurante a menudo?", "zh": "你們常來這家餐廳嗎？" },
-    { "es": "Es la primera vez, pero seguro que volveremos.", "zh": "這是第一次，但我們一定會再來。" },
-    { "es": "Aquí tienen la cuenta.", "zh": "這是您的帳單。" },
-    { "es": "¿Puede dividirla en dos, por favor?", "zh": "可以分成兩份結帳嗎？" },
-    { "es": "Sin problema, pago la mitad cada uno.", "zh": "沒問題，一人付一半。" },
-    { "es": "Aquí tiene la propina.", "zh": "這是小費。" },
-    { "es": "Muchas gracias, son ustedes muy amables.", "zh": "非常感謝，你們真親切。" },
-    { "es": "Buenas noches y feliz fin de semana.", "zh": "晚安，週末愉快。" }
+    {
+      "es": "Buenas noches, ¿tienen una mesa para dos personas?",
+      "zh": "晚安，請問有兩個人的桌子嗎？"
+    },
+    {
+      "es": "Sí, claro. Síganme, por favor.",
+      "zh": "有的，當然。請跟我來。"
+    },
+    {
+      "es": "¿Esta mesa cerca de la ventana está bien?",
+      "zh": "靠窗的這張桌子可以嗎？"
+    },
+    {
+      "es": "Perfecto, muchas gracias.",
+      "zh": "很好，非常謝謝。"
+    },
+    {
+      "es": "Aquí tienen la carta. ¿Quieren beber algo?",
+      "zh": "這是菜單。要喝點什麼嗎？"
+    },
+    {
+      "es": "Yo quiero un vaso de agua, por favor.",
+      "zh": "我想要一杯水，麻煩你。"
+    },
+    {
+      "es": "Para mí, una copa de vino tinto.",
+      "zh": "我要一杯紅酒。"
+    },
+    {
+      "es": "¿Qué plato me recomienda?",
+      "zh": "你推薦哪一道菜？"
+    },
+    {
+      "es": "La paella de mariscos es nuestra especialidad.",
+      "zh": "海鮮燉飯是我們的招牌菜。"
+    },
+    {
+      "es": "Muy bien, voy a probarla.",
+      "zh": "好的，我要試試看。"
+    },
+    {
+      "es": "Yo quiero una ensalada y pollo asado.",
+      "zh": "我要一份沙拉和烤雞。"
+    },
+    {
+      "es": "¿Algo más para empezar?",
+      "zh": "前菜還要點別的嗎？"
+    },
+    {
+      "es": "No, gracias. Eso es todo.",
+      "zh": "不用，謝謝。這樣就好了。"
+    },
+    {
+      "es": "La comida está deliciosa.",
+      "zh": "這頓飯真好吃。"
+    },
+    {
+      "es": "Me alegro de que les guste.",
+      "zh": "很高興你們喜歡。"
+    },
+    {
+      "es": "¿Nos puede traer la cuenta, por favor?",
+      "zh": "可以幫我們結帳嗎？"
+    },
+    {
+      "es": "En seguida, son cuarenta y cinco euros.",
+      "zh": "馬上來，總共四十五歐元。"
+    },
+    {
+      "es": "¿Aceptan tarjeta de crédito?",
+      "zh": "你們收信用卡嗎？"
+    },
+    {
+      "es": "Sí, por supuesto.",
+      "zh": "是的，當然可以。"
+    },
+    {
+      "es": "Muchas gracias, hasta luego.",
+      "zh": "非常感謝，再見。"
+    },
+    {
+      "es": "Perdone, ¿nos puede traer un poco más de pan?",
+      "zh": "不好意思，可以再給我們一些麵包嗎？"
+    },
+    {
+      "es": "Por supuesto, ahora mismo se lo traigo.",
+      "zh": "當然可以，我馬上拿來。"
+    },
+    {
+      "es": "¿También quieren más agua?",
+      "zh": "也要再來點水嗎？"
+    },
+    {
+      "es": "Sí, una botella grande, por favor.",
+      "zh": "好的，一大瓶，麻煩你。"
+    },
+    {
+      "es": "¿Tienen postres caseros?",
+      "zh": "你們有自家做的甜點嗎？"
+    },
+    {
+      "es": "Sí, hoy tenemos flan, tarta de queso y helado.",
+      "zh": "有的，今天有焦糖布丁、起司蛋糕和冰淇淋。"
+    },
+    {
+      "es": "Yo voy a probar el flan.",
+      "zh": "我要試試焦糖布丁。"
+    },
+    {
+      "es": "Para mí, una tarta de queso, por favor.",
+      "zh": "我要一份起司蛋糕，麻煩你。"
+    },
+    {
+      "es": "¿Quieren un café después del postre?",
+      "zh": "甜點之後要來杯咖啡嗎？"
+    },
+    {
+      "es": "Sí, dos cafés con leche.",
+      "zh": "好，兩杯咖啡牛奶。"
+    },
+    {
+      "es": "El flan está buenísimo.",
+      "zh": "焦糖布丁真的很好吃。"
+    },
+    {
+      "es": "La tarta también está muy rica.",
+      "zh": "蛋糕也非常好吃。"
+    },
+    {
+      "es": "¿Vienen a este restaurante a menudo?",
+      "zh": "你們常來這家餐廳嗎？"
+    },
+    {
+      "es": "Es la primera vez, pero seguro que volveremos.",
+      "zh": "這是第一次，但我們一定會再來。"
+    },
+    {
+      "es": "Aquí tienen la cuenta.",
+      "zh": "這是您的帳單。"
+    },
+    {
+      "es": "¿Puede dividirla en dos, por favor?",
+      "zh": "可以分成兩份結帳嗎？"
+    },
+    {
+      "es": "Sin problema, pago la mitad cada uno.",
+      "zh": "沒問題，一人付一半。"
+    },
+    {
+      "es": "Aquí tiene la propina.",
+      "zh": "這是小費。"
+    },
+    {
+      "es": "Muchas gracias, son ustedes muy amables.",
+      "zh": "非常感謝，你們真親切。"
+    },
+    {
+      "es": "Buenas noches y feliz fin de semana.",
+      "zh": "晚安，週末愉快。"
+    },
+    {
+      "es": "¿Podría traernos la carta de bebidas, por favor?",
+      "zh": "可以幫我們拿飲料單來嗎？"
+    },
+    {
+      "es": "De primer plato voy a tomar una ensalada mixta.",
+      "zh": "第一道菜我要點一份綜合沙拉。"
+    },
+    {
+      "es": "¿Cuál es el plato del día que recomienda el chef?",
+      "zh": "主廚推薦的今日特餐是哪一道？"
+    },
+    {
+      "es": "El filete, por favor, poco hecho y sin sal.",
+      "zh": "請給我牛排，三分熟而且不加鹽。"
+    },
+    {
+      "es": "¿Este plato lleva algún ingrediente picante?",
+      "zh": "這道菜有放任何辣的食材嗎？"
+    },
+    {
+      "es": "Soy alérgico al marisco, ténganlo en cuenta.",
+      "zh": "我對海鮮過敏，請務必留意。"
+    },
+    {
+      "es": "¿Nos puede recomendar un vino tinto de la casa?",
+      "zh": "可以推薦一款店家的紅酒給我們嗎？"
+    },
+    {
+      "es": "De postre compartiremos un flan casero.",
+      "zh": "甜點我們要分享一份手工焦糖布丁。"
+    },
+    {
+      "es": "Disculpe, creo que se ha equivocado con mi pedido.",
+      "zh": "不好意思，我覺得您把我的餐點弄錯了。"
+    },
+    {
+      "es": "La cuenta, por favor, ¿aceptan tarjeta de crédito?",
+      "zh": "麻煩結帳，請問你們收信用卡嗎？"
+    }
   ]
 }

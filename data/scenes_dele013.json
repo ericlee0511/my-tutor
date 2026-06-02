@@ -124,6 +124,46 @@
     {
       "es": "¡Por fin! Estoy muy contento de viajar a España.",
       "zh": "終於！我非常開心要去西班牙。"
+    },
+    {
+      "es": "Perdone, ¿sabe usted desde qué puerta de embarque sale el vuelo a Sevilla?",
+      "zh": "不好意思，請問您知道飛往塞維利亞的班機從哪個登機門出發嗎？"
+    },
+    {
+      "es": "Prefiero un asiento de ventanilla, si todavía queda alguno disponible, por favor.",
+      "zh": "如果還有空位的話，麻煩您，我想要一個靠窗的座位。"
+    },
+    {
+      "es": "Me temo que llevo un poco de líquido en el equipaje de mano; ¿debo sacarlo en el control de seguridad?",
+      "zh": "恐怕我的手提行李裡帶了一點液體，過安檢時我需要把它拿出來嗎？"
+    },
+    {
+      "es": "El panel indica que mi vuelo se ha retrasado cuarenta minutos por las condiciones meteorológicas.",
+      "zh": "看板上顯示，因天候狀況，我的班機延誤了四十分鐘。"
+    },
+    {
+      "es": "¿Podría decirme dónde está la zona de recogida de equipajes una vez aterricemos?",
+      "zh": "降落之後，能否請您告訴我行李提領區在哪裡？"
+    },
+    {
+      "es": "Tengo una conexión muy ajustada en Madrid y temo no llegar a tiempo a la siguiente puerta.",
+      "zh": "我在馬德里的轉機時間非常緊湊，擔心趕不及到下一個登機門。"
+    },
+    {
+      "es": "Disculpe, necesito cambiar algo de dinero antes de salir; ¿hay una casa de cambio por aquí cerca?",
+      "zh": "抱歉，我出境前需要兌換一些錢，這附近有外幣兌換處嗎？"
+    },
+    {
+      "es": "Por megafonía acaban de anunciar el último aviso para los pasajeros de mi vuelo.",
+      "zh": "廣播剛剛宣布了我這班飛機乘客的最後登機通知。"
+    },
+    {
+      "es": "Quisiera declarar que no transporto ningún producto agrícola ni objetos de valor sin documentar.",
+      "zh": "我想申報，我沒有攜帶任何農產品或未報關的貴重物品。"
+    },
+    {
+      "es": "Muchas gracias por su ayuda; ahora ya sé exactamente adónde debo dirigirme.",
+      "zh": "非常感謝您的協助，現在我清楚知道該往哪裡走了。"
     }
   ]
 }

@@ -1,55 +1,245 @@
 {
   "title": "Llevando el coche al taller",
   "all": [
-    {"es": "Hola, vengo a dejar el coche, hace un ruido raro al frenar.", "zh": "您好，我來送車，煞車時會有怪聲。"},
-    {"es": "Buenas, soy Andrés, el jefe de taller, cuéntame más.", "zh": "您好，我是廠長Andrés，跟我說多一點。"},
-    {"es": "Cuando piso el freno, suena como un chirrido metálico.", "zh": "我踩煞車時，會有金屬磨擦的尖叫聲。"},
-    {"es": "¿Lo notas a baja velocidad o también en autopista?", "zh": "是低速時還是高速公路也會？"},
-    {"es": "Sobre todo en ciudad, cuando voy parando en semáforos.", "zh": "主要是在市區，停紅綠燈的時候。"},
-    {"es": "Eso suena a pastillas de freno gastadas, casi seguro.", "zh": "聽起來很像煞車片磨損了，幾乎可以確定。"},
-    {"es": "¿Es algo urgente o puedo esperar al cobro de fin de mes?", "zh": "這個急嗎，還是可以等到月底發薪？"},
-    {"es": "Frenos no se esperan, podrías quedarte sin sistema.", "zh": "煞車不能等，可能會整個失靈。"},
-    {"es": "Entonces lo arreglamos ahora, mejor no jugar con eso.", "zh": "那就現在修，這個不能拿來開玩笑。"},
-    {"es": "Voy a meterlo al elevador y echar un vistazo completo.", "zh": "我把車推上升降機，整台看一下。"},
-    {"es": "¿Cuánto tiempo me llevaría la revisión preliminar?", "zh": "初步檢查大約要多久？"},
-    {"es": "Unos treinta minutos, puedes esperar en la sala de arriba.", "zh": "大約三十分鐘，您可以在樓上等候室等。"},
-    {"es": "Vale, ¿tenéis café o tengo que ir al bar de enfrente?", "zh": "好的，你們有咖啡嗎，還是我要去對面咖啡店？"},
-    {"es": "Tenemos máquina, primera taza gratis para clientes.", "zh": "我們有機器，客戶第一杯免費。"},
-    {"es": "Genial, me viene de lujo, no he desayunado.", "zh": "太棒了，剛好我沒吃早餐。"},
-    {"es": "Andrés, ya tengo el diagnóstico, baja cuando puedas.", "zh": "Andrés，我有結果了，您方便時下來一下。"},
-    {"es": "Ya estoy aquí, dispárame las malas noticias.", "zh": "我來了，壞消息儘管說。"},
-    {"es": "Pastillas delanteras al límite y discos algo rayados.", "zh": "前輪煞車片磨到極限，碟盤也有刮痕。"},
-    {"es": "¿Los discos hay que cambiarlos o se pueden rectificar?", "zh": "碟盤要換還是可以再加工？"},
-    {"es": "En este caso, recomiendo cambiarlos por seguridad.", "zh": "這個狀況，為了安全建議直接換。"},
-    {"es": "Dime el presupuesto total, sin sorpresas al final.", "zh": "告訴我總價，結帳時別給我驚喜。"},
-    {"es": "Pastillas, discos y mano de obra, trescientos veinte euros.", "zh": "煞車片、碟盤加工錢，320歐元。"},
-    {"es": "¿Eso incluye el IVA o se suma a parte?", "zh": "這含稅嗎還是要另加？"},
-    {"es": "Todo IVA incluido, no hay extras escondidos.", "zh": "都含稅，沒有隱藏費用。"},
-    {"es": "También vi que tenías la batería rondando los cinco años.", "zh": "我也看到您的電瓶用快五年了。"},
-    {"es": "Es verdad, alguna mañana cuesta arrancar en frío.", "zh": "真的，有時候冷天早上不好發。"},
-    {"es": "Si quieres, te hago presupuesto aparte sin compromiso.", "zh": "如果您要，我可以另外報價，不強迫。"},
-    {"es": "Pásamelo por escrito, mejor lo veo con calma.", "zh": "用書面給我，我冷靜看。"},
-    {"es": "Te lo mando por WhatsApp en cuanto vuelva al despacho.", "zh": "我回辦公室就用WhatsApp傳給您。"},
-    {"es": "Otra cosa, el aceite cuándo me toca cambiarlo?", "zh": "另一件事，機油什麼時候要換？"},
-    {"es": "Según el kilometraje, en unos dos mil kilómetros.", "zh": "依里程，大約再兩千公里。"},
-    {"es": "Pues lo programo para la próxima visita.", "zh": "那我安排在下次回廠。"},
-    {"es": "¿Cuándo me quedaría el coche listo para recoger hoy?", "zh": "今天車什麼時候可以取？"},
-    {"es": "Sobre las seis de la tarde, te aviso cuando salga.", "zh": "下午六點左右，出廠時通知您。"},
-    {"es": "Perfecto, paso a buscarlo después del trabajo.", "zh": "好的，我下班過來牽。"},
-    {"es": "Te dejo coche de cortesía si lo necesitas hasta entonces.", "zh": "如果您需要，我可以借您代用車。"},
-    {"es": "No hace falta, voy en metro sin problema.", "zh": "不用，我搭地鐵就好。"},
-    {"es": "Como prefieras, déjame las llaves y la documentación.", "zh": "看您方便，請給我鑰匙和行照。"},
-    {"es": "Toma, ahí van las dos llaves y el permiso.", "zh": "拿去，兩支鑰匙和行照都在這。"},
-    {"es": "Firma aquí la orden de reparación, es estándar.", "zh": "請在維修工單這裡簽名，這是制式的。"},
-    {"es": "Leo rápido las condiciones antes de firmar, no te ofendas.", "zh": "我快速看一下條款再簽，別介意。"},
-    {"es": "Faltaría más, así me gusta que hagan los clientes.", "zh": "當然，我喜歡客戶這樣做。"},
-    {"es": "Todo correcto, aquí tienes la firma.", "zh": "都沒問題，這是我的簽名。"},
-    {"es": "Ahora la copia para ti, guárdala por si acaso.", "zh": "這是您的副本，請收好以防萬一。"},
-    {"es": "¿Aceptáis tarjeta o solo efectivo al recoger?", "zh": "取車時可以刷卡還是只收現金？"},
-    {"es": "Tarjeta, Bizum o transferencia, lo que te venga mejor.", "zh": "刷卡、Bizum或轉帳都可以，看您方便。"},
-    {"es": "Perfecto, pago con tarjeta sin duda.", "zh": "好的，肯定刷卡。"},
-    {"es": "Nos vemos a las seis, conduce con cuidado hasta entonces.", "zh": "六點見，在那之前小心開車。"},
-    {"es": "Voy a pie, que el taller queda cerca de casa.", "zh": "我用走的，修車廠離我家很近。"},
-    {"es": "Mejor todavía, hasta la tarde, Carlos.", "zh": "那更好，傍晚見Carlos。"}
+    {
+      "es": "Hola, vengo a dejar el coche, hace un ruido raro al frenar.",
+      "zh": "您好，我來送車，煞車時會有怪聲。"
+    },
+    {
+      "es": "Buenas, soy Andrés, el jefe de taller, cuéntame más.",
+      "zh": "您好，我是廠長Andrés，跟我說多一點。"
+    },
+    {
+      "es": "Cuando piso el freno, suena como un chirrido metálico.",
+      "zh": "我踩煞車時，會有金屬磨擦的尖叫聲。"
+    },
+    {
+      "es": "¿Lo notas a baja velocidad o también en autopista?",
+      "zh": "是低速時還是高速公路也會？"
+    },
+    {
+      "es": "Sobre todo en ciudad, cuando voy parando en semáforos.",
+      "zh": "主要是在市區，停紅綠燈的時候。"
+    },
+    {
+      "es": "Eso suena a pastillas de freno gastadas, casi seguro.",
+      "zh": "聽起來很像煞車片磨損了，幾乎可以確定。"
+    },
+    {
+      "es": "¿Es algo urgente o puedo esperar al cobro de fin de mes?",
+      "zh": "這個急嗎，還是可以等到月底發薪？"
+    },
+    {
+      "es": "Frenos no se esperan, podrías quedarte sin sistema.",
+      "zh": "煞車不能等，可能會整個失靈。"
+    },
+    {
+      "es": "Entonces lo arreglamos ahora, mejor no jugar con eso.",
+      "zh": "那就現在修，這個不能拿來開玩笑。"
+    },
+    {
+      "es": "Voy a meterlo al elevador y echar un vistazo completo.",
+      "zh": "我把車推上升降機，整台看一下。"
+    },
+    {
+      "es": "¿Cuánto tiempo me llevaría la revisión preliminar?",
+      "zh": "初步檢查大約要多久？"
+    },
+    {
+      "es": "Unos treinta minutos, puedes esperar en la sala de arriba.",
+      "zh": "大約三十分鐘，您可以在樓上等候室等。"
+    },
+    {
+      "es": "Vale, ¿tenéis café o tengo que ir al bar de enfrente?",
+      "zh": "好的，你們有咖啡嗎，還是我要去對面咖啡店？"
+    },
+    {
+      "es": "Tenemos máquina, primera taza gratis para clientes.",
+      "zh": "我們有機器，客戶第一杯免費。"
+    },
+    {
+      "es": "Genial, me viene de lujo, no he desayunado.",
+      "zh": "太棒了，剛好我沒吃早餐。"
+    },
+    {
+      "es": "Andrés, ya tengo el diagnóstico, baja cuando puedas.",
+      "zh": "Andrés，我有結果了，您方便時下來一下。"
+    },
+    {
+      "es": "Ya estoy aquí, dispárame las malas noticias.",
+      "zh": "我來了，壞消息儘管說。"
+    },
+    {
+      "es": "Pastillas delanteras al límite y discos algo rayados.",
+      "zh": "前輪煞車片磨到極限，碟盤也有刮痕。"
+    },
+    {
+      "es": "¿Los discos hay que cambiarlos o se pueden rectificar?",
+      "zh": "碟盤要換還是可以再加工？"
+    },
+    {
+      "es": "En este caso, recomiendo cambiarlos por seguridad.",
+      "zh": "這個狀況，為了安全建議直接換。"
+    },
+    {
+      "es": "Dime el presupuesto total, sin sorpresas al final.",
+      "zh": "告訴我總價，結帳時別給我驚喜。"
+    },
+    {
+      "es": "Pastillas, discos y mano de obra, trescientos veinte euros.",
+      "zh": "煞車片、碟盤加工錢，320歐元。"
+    },
+    {
+      "es": "¿Eso incluye el IVA o se suma a parte?",
+      "zh": "這含稅嗎還是要另加？"
+    },
+    {
+      "es": "Todo IVA incluido, no hay extras escondidos.",
+      "zh": "都含稅，沒有隱藏費用。"
+    },
+    {
+      "es": "También vi que tenías la batería rondando los cinco años.",
+      "zh": "我也看到您的電瓶用快五年了。"
+    },
+    {
+      "es": "Es verdad, alguna mañana cuesta arrancar en frío.",
+      "zh": "真的，有時候冷天早上不好發。"
+    },
+    {
+      "es": "Si quieres, te hago presupuesto aparte sin compromiso.",
+      "zh": "如果您要，我可以另外報價，不強迫。"
+    },
+    {
+      "es": "Pásamelo por escrito, mejor lo veo con calma.",
+      "zh": "用書面給我，我冷靜看。"
+    },
+    {
+      "es": "Te lo mando por WhatsApp en cuanto vuelva al despacho.",
+      "zh": "我回辦公室就用WhatsApp傳給您。"
+    },
+    {
+      "es": "Otra cosa, el aceite cuándo me toca cambiarlo?",
+      "zh": "另一件事，機油什麼時候要換？"
+    },
+    {
+      "es": "Según el kilometraje, en unos dos mil kilómetros.",
+      "zh": "依里程，大約再兩千公里。"
+    },
+    {
+      "es": "Pues lo programo para la próxima visita.",
+      "zh": "那我安排在下次回廠。"
+    },
+    {
+      "es": "¿Cuándo me quedaría el coche listo para recoger hoy?",
+      "zh": "今天車什麼時候可以取？"
+    },
+    {
+      "es": "Sobre las seis de la tarde, te aviso cuando salga.",
+      "zh": "下午六點左右，出廠時通知您。"
+    },
+    {
+      "es": "Perfecto, paso a buscarlo después del trabajo.",
+      "zh": "好的，我下班過來牽。"
+    },
+    {
+      "es": "Te dejo coche de cortesía si lo necesitas hasta entonces.",
+      "zh": "如果您需要，我可以借您代用車。"
+    },
+    {
+      "es": "No hace falta, voy en metro sin problema.",
+      "zh": "不用，我搭地鐵就好。"
+    },
+    {
+      "es": "Como prefieras, déjame las llaves y la documentación.",
+      "zh": "看您方便，請給我鑰匙和行照。"
+    },
+    {
+      "es": "Toma, ahí van las dos llaves y el permiso.",
+      "zh": "拿去，兩支鑰匙和行照都在這。"
+    },
+    {
+      "es": "Firma aquí la orden de reparación, es estándar.",
+      "zh": "請在維修工單這裡簽名，這是制式的。"
+    },
+    {
+      "es": "Leo rápido las condiciones antes de firmar, no te ofendas.",
+      "zh": "我快速看一下條款再簽，別介意。"
+    },
+    {
+      "es": "Faltaría más, así me gusta que hagan los clientes.",
+      "zh": "當然，我喜歡客戶這樣做。"
+    },
+    {
+      "es": "Todo correcto, aquí tienes la firma.",
+      "zh": "都沒問題，這是我的簽名。"
+    },
+    {
+      "es": "Ahora la copia para ti, guárdala por si acaso.",
+      "zh": "這是您的副本，請收好以防萬一。"
+    },
+    {
+      "es": "¿Aceptáis tarjeta o solo efectivo al recoger?",
+      "zh": "取車時可以刷卡還是只收現金？"
+    },
+    {
+      "es": "Tarjeta, Bizum o transferencia, lo que te venga mejor.",
+      "zh": "刷卡、Bizum或轉帳都可以，看您方便。"
+    },
+    {
+      "es": "Perfecto, pago con tarjeta sin duda.",
+      "zh": "好的，肯定刷卡。"
+    },
+    {
+      "es": "Nos vemos a las seis, conduce con cuidado hasta entonces.",
+      "zh": "六點見，在那之前小心開車。"
+    },
+    {
+      "es": "Voy a pie, que el taller queda cerca de casa.",
+      "zh": "我用走的，修車廠離我家很近。"
+    },
+    {
+      "es": "Mejor todavía, hasta la tarde, Carlos.",
+      "zh": "那更好，傍晚見Carlos。"
+    },
+    {
+      "es": "Vamos a hacerle una revisión completa de los frenos.",
+      "zh": "我們來幫車子做一次完整的煞車檢查。"
+    },
+    {
+      "es": "Las pastillas están muy gastadas y hay que cambiarlas.",
+      "zh": "煞車來令片磨損嚴重，必須更換。"
+    },
+    {
+      "es": "El presupuesto rondará los doscientos euros con la mano de obra.",
+      "zh": "含工資的估價大約兩百歐元。"
+    },
+    {
+      "es": "¿Necesita un coche de cortesía mientras lo reparamos?",
+      "zh": "我們維修期間您需要代步車嗎？"
+    },
+    {
+      "es": "Aprovecho y le reviso también el nivel de aceite.",
+      "zh": "我順便也幫您檢查機油的量。"
+    },
+    {
+      "es": "Lo tendrá listo para recoger esta misma tarde.",
+      "zh": "今天下午就可以來取車了。"
+    },
+    {
+      "es": "Conviene pasar la próxima inspección técnica el mes que viene.",
+      "zh": "下個月該去做下一次的車檢了。"
+    },
+    {
+      "es": "Le guardo las piezas viejas por si quiere verlas.",
+      "zh": "我幫您留著舊零件，以免您想看。"
+    },
+    {
+      "es": "La garantía de la reparación es de seis meses.",
+      "zh": "這次維修的保固期是六個月。"
+    },
+    {
+      "es": "Firme aquí para autorizar el arreglo, por favor.",
+      "zh": "請在這裡簽名以授權維修。"
+    }
   ]
 }

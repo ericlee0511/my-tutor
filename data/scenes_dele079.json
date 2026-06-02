@@ -1,55 +1,245 @@
 {
   "title": "Despidiéndose el último día de trabajo",
   "all": [
-    {"es": "Hoy es mi último día, no me lo puedo creer.", "zh": "今天是我最後一天上班，真不敢相信。"},
-    {"es": "Han pasado seis años aquí, y parece que fue ayer.", "zh": "在這裡六年了，感覺像昨天才剛來。"},
-    {"es": "Voy a recoger las cosas de mi mesa con calma.", "zh": "我慢慢收拾桌上的東西。"},
-    {"es": "Tengo una caja, pero al final no he traído tantas cosas.", "zh": "我帶了個箱子，但其實沒帶這麼多東西。"},
-    {"es": "Mira, la foto de mi hijo del primer día.", "zh": "看，這是我兒子第一天上班時的照片。"},
-    {"es": "Y la taza con el lema absurdo que me regaló Mercedes.", "zh": "還有梅塞德絲送我那個圖案很蠢的馬克杯。"},
-    {"es": "Hola Daniela, ¿qué tal llevas el día de hoy?", "zh": "嗨丹妮拉，今天感覺怎麼樣？"},
-    {"es": "Raro, sinceramente, una mezcla de pena y alegría.", "zh": "老實說很奇怪，有點難過又有點開心。"},
-    {"es": "Es normal, después de tantos años se nota mucho.", "zh": "這很正常，過了這麼多年感受會很深。"},
-    {"es": "Hemos vivido de todo aquí, buenos y malos momentos.", "zh": "我們在這裡經歷了好多事，有好有壞。"},
-    {"es": "Acuérdate del lanzamiento de Barcelona, qué locura aquello.", "zh": "還記得巴塞隆納那次發表會嗎，超瘋狂的。"},
-    {"es": "Cómo olvidarlo, dormimos cuatro horas en tres días.", "zh": "怎麼忘得了，我們三天只睡四小時。"},
-    {"es": "Y al final salió todo perfecto, fue un éxito enorme.", "zh": "結果一切都很完美，大成功。"},
-    {"es": "Ese momento me marcó como profesional para siempre.", "zh": "那一刻讓我的職業生涯永遠改變。"},
-    {"es": "Aquí viene Roberto con cara de despedida formal.", "zh": "羅伯托一臉正式告別的樣子過來了。"},
-    {"es": "Daniela, antes de que te vayas quería decirte algo.", "zh": "丹妮拉，妳走之前我想跟妳說幾句話。"},
-    {"es": "Te escucho, Roberto, dime lo que quieras tranquilo.", "zh": "我聽，羅伯托，你慢慢說。"},
-    {"es": "Has sido una pieza fundamental de este equipo siempre.", "zh": "妳一直是這個團隊不可或缺的一員。"},
-    {"es": "Gracias, lo dices con tanto cariño que casi lloro.", "zh": "謝謝，你說得我都快哭了。"},
-    {"es": "Nunca olvidaré cómo me ayudaste cuando empecé.", "zh": "我永遠不會忘記我剛來時妳怎麼幫我。"},
-    {"es": "Fue un placer, eras un junior con muchísimo potencial.", "zh": "那是我的榮幸，你當時是個潛力無限的新人。"},
-    {"es": "Te mereces todo lo bueno que te venga ahora.", "zh": "妳值得接下來所有的好事。"},
-    {"es": "Espero estar a la altura del nuevo reto.", "zh": "希望我能勝任新的挑戰。"},
-    {"es": "Seguro que sí, tienes talento y constancia.", "zh": "一定可以，妳有才華也有毅力。"},
-    {"es": "Mira, el equipo te ha preparado una sorpresita.", "zh": "看，團隊幫妳準備了個小驚喜。"},
-    {"es": "¡Anda, una tarta y un álbum con fotos!", "zh": "哇，蛋糕跟相本耶！"},
-    {"es": "Hemos recogido fotos tuyas de los seis años.", "zh": "我們收集了妳這六年的照片。"},
-    {"es": "Qué detalle tan bonito, no me esperaba esto.", "zh": "好溫馨的心意，我完全沒料到。"},
-    {"es": "Cada uno ha escrito una dedicatoria en una página.", "zh": "每個人都在一頁寫了祝福。"},
-    {"es": "Las leeré en casa con calma esta noche.", "zh": "今晚我在家慢慢看。"},
-    {"es": "Si las leo aquí me pongo a llorar seguro.", "zh": "在這裡看一定會哭出來。"},
-    {"es": "Hay pañuelos en mi mesa por si los necesitas.", "zh": "我桌上有面紙，妳需要就拿。"},
-    {"es": "Cuéntanos un poco, ¿qué vas a hacer ahora?", "zh": "跟我們說一下，妳接下來要做什麼？"},
-    {"es": "Empiezo en una startup de tecnología educativa en septiembre.", "zh": "九月開始到一家教育科技新創上班。"},
-    {"es": "Suena súper interesante, ¿qué cargo vas a tener?", "zh": "聽起來超有趣，妳擔任什麼職位？"},
-    {"es": "Voy de directora de operaciones, un salto grande.", "zh": "營運總監，跳幅蠻大的。"},
-    {"es": "Te has ganado ese puesto con muchísimo esfuerzo.", "zh": "妳是用很多努力換來這個職位的。"},
-    {"es": "Antes voy a tomarme un mes para descansar.", "zh": "之前我會休一個月好好放鬆。"},
-    {"es": "Eso es lo más sano, recargar pilas antes de empezar.", "zh": "這最健康，開始前先充飽電。"},
-    {"es": "Pienso viajar a Portugal con mi familia, sin móvil.", "zh": "我打算跟家人去葡萄牙，不帶手機。"},
-    {"es": "¡Qué envidia sana me das ahora mismo!", "zh": "我現在超羨慕妳的！"},
-    {"es": "Os echaré de menos a todos sinceramente.", "zh": "我會很想念你們，真心的。"},
-    {"es": "No te despidas del todo, ven a vernos cuando quieras.", "zh": "別說再見，想來看我們隨時來。"},
-    {"es": "Lo haré, aún tengo amistades aquí para siempre.", "zh": "我會的，這裡有我一輩子的朋友。"},
-    {"es": "Hagamos una cena pronto fuera de la oficina.", "zh": "我們找一天在外面聚餐吧。"},
-    {"es": "Me apunto, propongo el restaurante japonés de Lavapiés.", "zh": "我參加，我提議拉巴比耶斯那家日本料理。"},
-    {"es": "Cerrado, te escribimos por el grupo de WhatsApp.", "zh": "說定了，我們用 WhatsApp 群組敲妳。"},
-    {"es": "Gracias por todo, ha sido una etapa maravillosa.", "zh": "謝謝這一切，這是一段美好的時光。"},
-    {"es": "Cuídate mucho y mucha suerte en tu camino.", "zh": "好好保重，未來一路順利。"},
-    {"es": "Adiós, equipo, nos vemos pronto, lo prometo.", "zh": "再見，夥伴們，我們很快見，我保證。"}
+    {
+      "es": "Hoy es mi último día, no me lo puedo creer.",
+      "zh": "今天是我最後一天上班，真不敢相信。"
+    },
+    {
+      "es": "Han pasado seis años aquí, y parece que fue ayer.",
+      "zh": "在這裡六年了，感覺像昨天才剛來。"
+    },
+    {
+      "es": "Voy a recoger las cosas de mi mesa con calma.",
+      "zh": "我慢慢收拾桌上的東西。"
+    },
+    {
+      "es": "Tengo una caja, pero al final no he traído tantas cosas.",
+      "zh": "我帶了個箱子，但其實沒帶這麼多東西。"
+    },
+    {
+      "es": "Mira, la foto de mi hijo del primer día.",
+      "zh": "看，這是我兒子第一天上班時的照片。"
+    },
+    {
+      "es": "Y la taza con el lema absurdo que me regaló Mercedes.",
+      "zh": "還有梅塞德絲送我那個圖案很蠢的馬克杯。"
+    },
+    {
+      "es": "Hola Daniela, ¿qué tal llevas el día de hoy?",
+      "zh": "嗨丹妮拉，今天感覺怎麼樣？"
+    },
+    {
+      "es": "Raro, sinceramente, una mezcla de pena y alegría.",
+      "zh": "老實說很奇怪，有點難過又有點開心。"
+    },
+    {
+      "es": "Es normal, después de tantos años se nota mucho.",
+      "zh": "這很正常，過了這麼多年感受會很深。"
+    },
+    {
+      "es": "Hemos vivido de todo aquí, buenos y malos momentos.",
+      "zh": "我們在這裡經歷了好多事，有好有壞。"
+    },
+    {
+      "es": "Acuérdate del lanzamiento de Barcelona, qué locura aquello.",
+      "zh": "還記得巴塞隆納那次發表會嗎，超瘋狂的。"
+    },
+    {
+      "es": "Cómo olvidarlo, dormimos cuatro horas en tres días.",
+      "zh": "怎麼忘得了，我們三天只睡四小時。"
+    },
+    {
+      "es": "Y al final salió todo perfecto, fue un éxito enorme.",
+      "zh": "結果一切都很完美，大成功。"
+    },
+    {
+      "es": "Ese momento me marcó como profesional para siempre.",
+      "zh": "那一刻讓我的職業生涯永遠改變。"
+    },
+    {
+      "es": "Aquí viene Roberto con cara de despedida formal.",
+      "zh": "羅伯托一臉正式告別的樣子過來了。"
+    },
+    {
+      "es": "Daniela, antes de que te vayas quería decirte algo.",
+      "zh": "丹妮拉，妳走之前我想跟妳說幾句話。"
+    },
+    {
+      "es": "Te escucho, Roberto, dime lo que quieras tranquilo.",
+      "zh": "我聽，羅伯托，你慢慢說。"
+    },
+    {
+      "es": "Has sido una pieza fundamental de este equipo siempre.",
+      "zh": "妳一直是這個團隊不可或缺的一員。"
+    },
+    {
+      "es": "Gracias, lo dices con tanto cariño que casi lloro.",
+      "zh": "謝謝，你說得我都快哭了。"
+    },
+    {
+      "es": "Nunca olvidaré cómo me ayudaste cuando empecé.",
+      "zh": "我永遠不會忘記我剛來時妳怎麼幫我。"
+    },
+    {
+      "es": "Fue un placer, eras un junior con muchísimo potencial.",
+      "zh": "那是我的榮幸，你當時是個潛力無限的新人。"
+    },
+    {
+      "es": "Te mereces todo lo bueno que te venga ahora.",
+      "zh": "妳值得接下來所有的好事。"
+    },
+    {
+      "es": "Espero estar a la altura del nuevo reto.",
+      "zh": "希望我能勝任新的挑戰。"
+    },
+    {
+      "es": "Seguro que sí, tienes talento y constancia.",
+      "zh": "一定可以，妳有才華也有毅力。"
+    },
+    {
+      "es": "Mira, el equipo te ha preparado una sorpresita.",
+      "zh": "看，團隊幫妳準備了個小驚喜。"
+    },
+    {
+      "es": "¡Anda, una tarta y un álbum con fotos!",
+      "zh": "哇，蛋糕跟相本耶！"
+    },
+    {
+      "es": "Hemos recogido fotos tuyas de los seis años.",
+      "zh": "我們收集了妳這六年的照片。"
+    },
+    {
+      "es": "Qué detalle tan bonito, no me esperaba esto.",
+      "zh": "好溫馨的心意，我完全沒料到。"
+    },
+    {
+      "es": "Cada uno ha escrito una dedicatoria en una página.",
+      "zh": "每個人都在一頁寫了祝福。"
+    },
+    {
+      "es": "Las leeré en casa con calma esta noche.",
+      "zh": "今晚我在家慢慢看。"
+    },
+    {
+      "es": "Si las leo aquí me pongo a llorar seguro.",
+      "zh": "在這裡看一定會哭出來。"
+    },
+    {
+      "es": "Hay pañuelos en mi mesa por si los necesitas.",
+      "zh": "我桌上有面紙，妳需要就拿。"
+    },
+    {
+      "es": "Cuéntanos un poco, ¿qué vas a hacer ahora?",
+      "zh": "跟我們說一下，妳接下來要做什麼？"
+    },
+    {
+      "es": "Empiezo en una startup de tecnología educativa en septiembre.",
+      "zh": "九月開始到一家教育科技新創上班。"
+    },
+    {
+      "es": "Suena súper interesante, ¿qué cargo vas a tener?",
+      "zh": "聽起來超有趣，妳擔任什麼職位？"
+    },
+    {
+      "es": "Voy de directora de operaciones, un salto grande.",
+      "zh": "營運總監，跳幅蠻大的。"
+    },
+    {
+      "es": "Te has ganado ese puesto con muchísimo esfuerzo.",
+      "zh": "妳是用很多努力換來這個職位的。"
+    },
+    {
+      "es": "Antes voy a tomarme un mes para descansar.",
+      "zh": "之前我會休一個月好好放鬆。"
+    },
+    {
+      "es": "Eso es lo más sano, recargar pilas antes de empezar.",
+      "zh": "這最健康，開始前先充飽電。"
+    },
+    {
+      "es": "Pienso viajar a Portugal con mi familia, sin móvil.",
+      "zh": "我打算跟家人去葡萄牙，不帶手機。"
+    },
+    {
+      "es": "¡Qué envidia sana me das ahora mismo!",
+      "zh": "我現在超羨慕妳的！"
+    },
+    {
+      "es": "Os echaré de menos a todos sinceramente.",
+      "zh": "我會很想念你們，真心的。"
+    },
+    {
+      "es": "No te despidas del todo, ven a vernos cuando quieras.",
+      "zh": "別說再見，想來看我們隨時來。"
+    },
+    {
+      "es": "Lo haré, aún tengo amistades aquí para siempre.",
+      "zh": "我會的，這裡有我一輩子的朋友。"
+    },
+    {
+      "es": "Hagamos una cena pronto fuera de la oficina.",
+      "zh": "我們找一天在外面聚餐吧。"
+    },
+    {
+      "es": "Me apunto, propongo el restaurante japonés de Lavapiés.",
+      "zh": "我參加，我提議拉巴比耶斯那家日本料理。"
+    },
+    {
+      "es": "Cerrado, te escribimos por el grupo de WhatsApp.",
+      "zh": "說定了，我們用 WhatsApp 群組敲妳。"
+    },
+    {
+      "es": "Gracias por todo, ha sido una etapa maravillosa.",
+      "zh": "謝謝這一切，這是一段美好的時光。"
+    },
+    {
+      "es": "Cuídate mucho y mucha suerte en tu camino.",
+      "zh": "好好保重，未來一路順利。"
+    },
+    {
+      "es": "Adiós, equipo, nos vemos pronto, lo prometo.",
+      "zh": "再見，夥伴們，我們很快見，我保證。"
+    },
+    {
+      "es": "Voy a despedirme uno por uno de mis compañeros.",
+      "zh": "我要一個一個跟同事道別。"
+    },
+    {
+      "es": "Aquí aprendí muchísimo y crecí como profesional.",
+      "zh": "在這裡我學到非常多，也在專業上成長了。"
+    },
+    {
+      "es": "Me llevo recuerdos preciosos de cada proyecto.",
+      "zh": "每個專案我都帶走了珍貴的回憶。"
+    },
+    {
+      "es": "Os dejo mi número personal por si necesitáis algo.",
+      "zh": "我留下我的私人號碼，你們需要時可以找我。"
+    },
+    {
+      "es": "Echaré de menos las risas durante el almuerzo.",
+      "zh": "我會懷念午餐時的歡笑。"
+    },
+    {
+      "es": "Empiezo un nuevo desafío en otra ciudad el mes que viene.",
+      "zh": "下個月我會在另一個城市展開新的挑戰。"
+    },
+    {
+      "es": "Gracias por la tarta sorpresa, me habéis emocionado.",
+      "zh": "謝謝你們準備的驚喜蛋糕，我好感動。"
+    },
+    {
+      "es": "Prometo volver a visitaros cuando esté por la zona.",
+      "zh": "我答應只要來這附近就會回來看你們。"
+    },
+    {
+      "es": "Mi sucesor es muy capaz, dejo el puesto en buenas manos.",
+      "zh": "接替我的人很能幹，這個職位交給他我很放心。"
+    },
+    {
+      "es": "Cierro esta etapa con gratitud y mucha ilusión.",
+      "zh": "我帶著感恩和滿滿的期待結束這個階段。"
+    }
   ]
 }

@@ -1,45 +1,205 @@
 {
   "title": "En la recepción del hotel",
   "all": [
-    { "es": "Buenas tardes, bienvenido al Hotel Sol.", "zh": "午安，歡迎來到太陽飯店。" },
-    { "es": "Buenas tardes, tengo una reserva.", "zh": "午安，我有訂房。" },
-    { "es": "¿A qué nombre, por favor?", "zh": "請問訂房人姓名是？" },
-    { "es": "A nombre de Carlos Méndez.", "zh": "卡洛斯·門德斯。" },
-    { "es": "Sí, una habitación doble por tres noches.", "zh": "是的，雙人房，三晚。" },
-    { "es": "Exacto.", "zh": "沒錯。" },
-    { "es": "¿Me deja su pasaporte, por favor?", "zh": "可以給我您的護照嗎？" },
-    { "es": "Aquí tiene.", "zh": "在這裡。" },
-    { "es": "¿La habitación tiene vista al mar?", "zh": "房間有海景嗎？" },
-    { "es": "Sí, una vista preciosa.", "zh": "有，景色很美。" },
-    { "es": "¿A qué hora es el desayuno?", "zh": "早餐是幾點？" },
-    { "es": "De siete a diez en el restaurante del primer piso.", "zh": "從七點到十點，在一樓的餐廳。" },
-    { "es": "¿Hay wifi en la habitación?", "zh": "房間裡有 wifi 嗎？" },
-    { "es": "Sí, es gratis. La contraseña está en esta tarjeta.", "zh": "有，免費的。密碼在這張卡片上。" },
-    { "es": "Su habitación es la doscientos cinco.", "zh": "您的房間是 205。" },
-    { "es": "¿En qué piso está?", "zh": "在哪一層樓？" },
-    { "es": "En el segundo. El ascensor está a la derecha.", "zh": "在二樓。電梯在右邊。" },
-    { "es": "¿A qué hora hay que dejar la habitación?", "zh": "幾點要退房？" },
-    { "es": "Antes de las doce del mediodía.", "zh": "中午十二點以前。" },
-    { "es": "Muchas gracias, disfrute su estancia.", "zh": "非常感謝，祝您住宿愉快。" },
-    { "es": "Una pregunta, ¿el hotel tiene piscina?", "zh": "請問一下，飯店有游泳池嗎？" },
-    { "es": "Sí, está en la azotea y abre hasta las diez.", "zh": "有，在頂樓，開到晚上十點。" },
-    { "es": "¿También tienen gimnasio?", "zh": "也有健身房嗎？" },
-    { "es": "Sí, está abierto las veinticuatro horas.", "zh": "有，二十四小時開放。" },
-    { "es": "¿Pueden despertarme mañana a las siete?", "zh": "明天可以叫我七點起床嗎？" },
-    { "es": "Por supuesto, le llamaremos a la habitación.", "zh": "當然可以，我們會打電話到您房間。" },
-    { "es": "¿Hay servicio de habitaciones?", "zh": "有客房服務嗎？" },
-    { "es": "Sí, hasta la medianoche.", "zh": "有，到半夜十二點。" },
-    { "es": "¿Dónde puedo guardar mi pasaporte?", "zh": "我可以把護照放哪裡？" },
-    { "es": "En la habitación hay una caja fuerte.", "zh": "房間裡有一個保險箱。" },
-    { "es": "¿Me puede recomendar algún restaurante cerca?", "zh": "可以推薦附近的餐廳嗎？" },
-    { "es": "Sí, hay uno muy bueno a dos calles de aquí.", "zh": "可以，離這裡兩條街有一家很棒的。" },
-    { "es": "¿Cómo se llama?", "zh": "叫什麼名字？" },
-    { "es": "Se llama La Bodega, es de cocina tradicional.", "zh": "叫做拉博德加，是傳統菜餐廳。" },
-    { "es": "¿Necesito reservar mesa?", "zh": "需要訂位嗎？" },
-    { "es": "Sí, sobre todo los fines de semana.", "zh": "需要，尤其是週末。" },
-    { "es": "¿Pueden llamar ustedes para reservar?", "zh": "你們可以幫我打電話訂位嗎？" },
-    { "es": "Claro, lo hacemos con mucho gusto.", "zh": "當然，我們很樂意幫您。" },
-    { "es": "Aquí tiene la llave de su habitación.", "zh": "這是您房間的鑰匙。" },
-    { "es": "Muchas gracias por todo, son muy amables.", "zh": "非常感謝你們，真的很親切。" }
+    {
+      "es": "Buenas tardes, bienvenido al Hotel Sol.",
+      "zh": "午安，歡迎來到太陽飯店。"
+    },
+    {
+      "es": "Buenas tardes, tengo una reserva.",
+      "zh": "午安，我有訂房。"
+    },
+    {
+      "es": "¿A qué nombre, por favor?",
+      "zh": "請問訂房人姓名是？"
+    },
+    {
+      "es": "A nombre de Carlos Méndez.",
+      "zh": "卡洛斯·門德斯。"
+    },
+    {
+      "es": "Sí, una habitación doble por tres noches.",
+      "zh": "是的，雙人房，三晚。"
+    },
+    {
+      "es": "Exacto.",
+      "zh": "沒錯。"
+    },
+    {
+      "es": "¿Me deja su pasaporte, por favor?",
+      "zh": "可以給我您的護照嗎？"
+    },
+    {
+      "es": "Aquí tiene.",
+      "zh": "在這裡。"
+    },
+    {
+      "es": "¿La habitación tiene vista al mar?",
+      "zh": "房間有海景嗎？"
+    },
+    {
+      "es": "Sí, una vista preciosa.",
+      "zh": "有，景色很美。"
+    },
+    {
+      "es": "¿A qué hora es el desayuno?",
+      "zh": "早餐是幾點？"
+    },
+    {
+      "es": "De siete a diez en el restaurante del primer piso.",
+      "zh": "從七點到十點，在一樓的餐廳。"
+    },
+    {
+      "es": "¿Hay wifi en la habitación?",
+      "zh": "房間裡有 wifi 嗎？"
+    },
+    {
+      "es": "Sí, es gratis. La contraseña está en esta tarjeta.",
+      "zh": "有，免費的。密碼在這張卡片上。"
+    },
+    {
+      "es": "Su habitación es la doscientos cinco.",
+      "zh": "您的房間是 205。"
+    },
+    {
+      "es": "¿En qué piso está?",
+      "zh": "在哪一層樓？"
+    },
+    {
+      "es": "En el segundo. El ascensor está a la derecha.",
+      "zh": "在二樓。電梯在右邊。"
+    },
+    {
+      "es": "¿A qué hora hay que dejar la habitación?",
+      "zh": "幾點要退房？"
+    },
+    {
+      "es": "Antes de las doce del mediodía.",
+      "zh": "中午十二點以前。"
+    },
+    {
+      "es": "Muchas gracias, disfrute su estancia.",
+      "zh": "非常感謝，祝您住宿愉快。"
+    },
+    {
+      "es": "Una pregunta, ¿el hotel tiene piscina?",
+      "zh": "請問一下，飯店有游泳池嗎？"
+    },
+    {
+      "es": "Sí, está en la azotea y abre hasta las diez.",
+      "zh": "有，在頂樓，開到晚上十點。"
+    },
+    {
+      "es": "¿También tienen gimnasio?",
+      "zh": "也有健身房嗎？"
+    },
+    {
+      "es": "Sí, está abierto las veinticuatro horas.",
+      "zh": "有，二十四小時開放。"
+    },
+    {
+      "es": "¿Pueden despertarme mañana a las siete?",
+      "zh": "明天可以叫我七點起床嗎？"
+    },
+    {
+      "es": "Por supuesto, le llamaremos a la habitación.",
+      "zh": "當然可以，我們會打電話到您房間。"
+    },
+    {
+      "es": "¿Hay servicio de habitaciones?",
+      "zh": "有客房服務嗎？"
+    },
+    {
+      "es": "Sí, hasta la medianoche.",
+      "zh": "有，到半夜十二點。"
+    },
+    {
+      "es": "¿Dónde puedo guardar mi pasaporte?",
+      "zh": "我可以把護照放哪裡？"
+    },
+    {
+      "es": "En la habitación hay una caja fuerte.",
+      "zh": "房間裡有一個保險箱。"
+    },
+    {
+      "es": "¿Me puede recomendar algún restaurante cerca?",
+      "zh": "可以推薦附近的餐廳嗎？"
+    },
+    {
+      "es": "Sí, hay uno muy bueno a dos calles de aquí.",
+      "zh": "可以，離這裡兩條街有一家很棒的。"
+    },
+    {
+      "es": "¿Cómo se llama?",
+      "zh": "叫什麼名字？"
+    },
+    {
+      "es": "Se llama La Bodega, es de cocina tradicional.",
+      "zh": "叫做拉博德加，是傳統菜餐廳。"
+    },
+    {
+      "es": "¿Necesito reservar mesa?",
+      "zh": "需要訂位嗎？"
+    },
+    {
+      "es": "Sí, sobre todo los fines de semana.",
+      "zh": "需要，尤其是週末。"
+    },
+    {
+      "es": "¿Pueden llamar ustedes para reservar?",
+      "zh": "你們可以幫我打電話訂位嗎？"
+    },
+    {
+      "es": "Claro, lo hacemos con mucho gusto.",
+      "zh": "當然，我們很樂意幫您。"
+    },
+    {
+      "es": "Aquí tiene la llave de su habitación.",
+      "zh": "這是您房間的鑰匙。"
+    },
+    {
+      "es": "Muchas gracias por todo, son muy amables.",
+      "zh": "非常感謝你們，真的很親切。"
+    },
+    {
+      "es": "¿A qué hora es la entrada y la salida?",
+      "zh": "請問入住和退房是幾點？"
+    },
+    {
+      "es": "Reservé una habitación doble con vistas al mar.",
+      "zh": "我訂了一間有海景的雙人房。"
+    },
+    {
+      "es": "¿El desayuno está incluido en el precio?",
+      "zh": "早餐有包含在房價裡嗎？"
+    },
+    {
+      "es": "¿Hay conexión wifi gratuita en las habitaciones?",
+      "zh": "房間裡有免費的無線網路嗎？"
+    },
+    {
+      "es": "¿Me podría dar una habitación en una planta alta?",
+      "zh": "可以給我一間高樓層的房間嗎？"
+    },
+    {
+      "es": "Necesito una almohada extra, por favor.",
+      "zh": "麻煩再給我一顆枕頭。"
+    },
+    {
+      "es": "El aire acondicionado de mi cuarto no funciona.",
+      "zh": "我房間的冷氣壞了。"
+    },
+    {
+      "es": "¿Pueden guardarme las maletas hasta la tarde?",
+      "zh": "可以幫我把行李保管到下午嗎？"
+    },
+    {
+      "es": "¿Tienen servicio de habitaciones por la noche?",
+      "zh": "你們晚上有客房服務嗎？"
+    },
+    {
+      "es": "Quisiera pedir el taxi para las ocho de la mañana.",
+      "zh": "我想預約早上八點的計程車。"
+    }
   ]
 }

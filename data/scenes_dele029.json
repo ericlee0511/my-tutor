@@ -1,45 +1,205 @@
 {
   "title": "Hablando del fin de semana con un amigo",
   "all": [
-    { "es": "¡Hola, Daniel! ¿Qué tal el fin de semana?", "zh": "嗨，丹尼爾！週末過得怎樣？" },
-    { "es": "Hola, Sara. La verdad es que lo pasé genial.", "zh": "嗨，莎拉。老實說我過得超棒。" },
-    { "es": "¿Ah, sí? Cuéntame, ¿qué hiciste?", "zh": "是嗎？告訴我，你做了什麼？" },
-    { "es": "El sábado por la mañana fui a la montaña con unos amigos.", "zh": "星期六早上我和幾個朋友去爬山。" },
-    { "es": "¡Qué bien! ¿Hizo buen tiempo?", "zh": "真好！天氣好嗎？" },
-    { "es": "Sí, hizo un día soleado y no demasiado frío.", "zh": "好啊，那天陽光普照，也不會太冷。" },
-    { "es": "¿Y por la tarde qué hicisteis?", "zh": "下午你們做了什麼？" },
-    { "es": "Comimos en un restaurante pequeño cerca del río.", "zh": "我們在河邊的一間小餐廳吃飯。" },
-    { "es": "Suena muy romántico.", "zh": "聽起來好浪漫。" },
-    { "es": "Bueno, éramos un grupo de seis, no tan romántico.", "zh": "嗯，我們有六個人，沒那麼浪漫啦。" },
-    { "es": "¿Y el domingo? ¿Descansaste?", "zh": "那星期天呢？有休息嗎？" },
-    { "es": "Por la mañana sí, dormí hasta tarde.", "zh": "早上有，我睡到很晚。" },
-    { "es": "Yo también. Necesitaba dormir mucho.", "zh": "我也是。我需要好好補眠。" },
-    { "es": "Por la tarde fui al cine con mi hermana.", "zh": "下午我和妹妹去看電影。" },
-    { "es": "¿Qué película visteis?", "zh": "你們看了什麼電影？" },
-    { "es": "Una comedia española muy divertida.", "zh": "一部很搞笑的西班牙喜劇。" },
-    { "es": "Tengo que verla, me han hablado bien de ella.", "zh": "我得去看看，大家都跟我說很棒。" },
-    { "es": "Te la recomiendo, nos reímos muchísimo.", "zh": "我推薦你看，我們笑得超開心。" },
-    { "es": "¿Qué planes tienes para el próximo fin de semana?", "zh": "下個週末你有什麼計畫？" },
-    { "es": "Aún no lo sé, pero podríamos hacer algo juntos.", "zh": "我還不知道，不過我們可以一起做點什麼。" },
-    { "es": "Me parece una buena idea, ¿qué te apetece?", "zh": "我覺得這是個好主意，你想做什麼？" },
-    { "es": "Podríamos ir a la exposición que abrieron el viernes pasado.", "zh": "我們可以去看上週五開幕的那個展覽。" },
-    { "es": "¿La de fotografía en el centro cultural?", "zh": "是文化中心那個攝影展嗎？" },
-    { "es": "Sí, esa misma. Dicen que está muy bien.", "zh": "對，就是那個。聽說很不錯。" },
-    { "es": "¿Cuánto cuesta la entrada?", "zh": "門票多少錢？" },
-    { "es": "Creo que son cinco euros, pero los estudiantes pagan menos.", "zh": "我記得是五歐元，學生比較便宜。" },
-    { "es": "¿Y después podríamos ir a cenar a algún sitio?", "zh": "之後我們可以去哪裡吃晚餐嗎？" },
-    { "es": "Conozco un restaurante italiano que está muy bien de precio.", "zh": "我知道一家義大利餐廳，價格非常實惠。" },
-    { "es": "¿Hace falta reservar?", "zh": "需要訂位嗎？" },
-    { "es": "Sí, los sábados se llena rápido.", "zh": "需要，星期六很快就客滿。" },
-    { "es": "Yo me encargo de llamar, no te preocupes.", "zh": "我來打電話，你別擔心。" },
-    { "es": "Genial. Si quieres, después podemos tomar algo en un bar.", "zh": "太好了。如果你想，之後我們可以去酒吧喝一杯。" },
-    { "es": "¿Conoces alguno tranquilo? No me gustan los sitios con mucho ruido.", "zh": "你知道哪家比較安靜嗎？我不喜歡太吵的地方。" },
-    { "es": "Sí, hay uno cerca de la plaza con buena música en directo.", "zh": "有，廣場附近有一家，現場音樂很棒。" },
-    { "es": "Me apunto. ¿A qué hora quedamos?", "zh": "我加入。我們幾點碰面？" },
-    { "es": "¿Te va bien sobre las siete en la entrada de la exposición?", "zh": "七點在展覽門口好嗎？" },
-    { "es": "Perfecto, entonces nos vemos el sábado.", "zh": "好極了，那我們星期六見。" },
-    { "es": "Si llueve, te llamaré para cambiar los planes.", "zh": "如果下雨，我會打電話改計畫。" },
-    { "es": "De acuerdo, esperemos que haga buen tiempo.", "zh": "好的，希望那天天氣好。" },
-    { "es": "Seguro que sí. ¡Hasta el sábado!", "zh": "一定會的。星期六見！" }
+    {
+      "es": "¡Hola, Daniel! ¿Qué tal el fin de semana?",
+      "zh": "嗨，丹尼爾！週末過得怎樣？"
+    },
+    {
+      "es": "Hola, Sara. La verdad es que lo pasé genial.",
+      "zh": "嗨，莎拉。老實說我過得超棒。"
+    },
+    {
+      "es": "¿Ah, sí? Cuéntame, ¿qué hiciste?",
+      "zh": "是嗎？告訴我，你做了什麼？"
+    },
+    {
+      "es": "El sábado por la mañana fui a la montaña con unos amigos.",
+      "zh": "星期六早上我和幾個朋友去爬山。"
+    },
+    {
+      "es": "¡Qué bien! ¿Hizo buen tiempo?",
+      "zh": "真好！天氣好嗎？"
+    },
+    {
+      "es": "Sí, hizo un día soleado y no demasiado frío.",
+      "zh": "好啊，那天陽光普照，也不會太冷。"
+    },
+    {
+      "es": "¿Y por la tarde qué hicisteis?",
+      "zh": "下午你們做了什麼？"
+    },
+    {
+      "es": "Comimos en un restaurante pequeño cerca del río.",
+      "zh": "我們在河邊的一間小餐廳吃飯。"
+    },
+    {
+      "es": "Suena muy romántico.",
+      "zh": "聽起來好浪漫。"
+    },
+    {
+      "es": "Bueno, éramos un grupo de seis, no tan romántico.",
+      "zh": "嗯，我們有六個人，沒那麼浪漫啦。"
+    },
+    {
+      "es": "¿Y el domingo? ¿Descansaste?",
+      "zh": "那星期天呢？有休息嗎？"
+    },
+    {
+      "es": "Por la mañana sí, dormí hasta tarde.",
+      "zh": "早上有，我睡到很晚。"
+    },
+    {
+      "es": "Yo también. Necesitaba dormir mucho.",
+      "zh": "我也是。我需要好好補眠。"
+    },
+    {
+      "es": "Por la tarde fui al cine con mi hermana.",
+      "zh": "下午我和妹妹去看電影。"
+    },
+    {
+      "es": "¿Qué película visteis?",
+      "zh": "你們看了什麼電影？"
+    },
+    {
+      "es": "Una comedia española muy divertida.",
+      "zh": "一部很搞笑的西班牙喜劇。"
+    },
+    {
+      "es": "Tengo que verla, me han hablado bien de ella.",
+      "zh": "我得去看看，大家都跟我說很棒。"
+    },
+    {
+      "es": "Te la recomiendo, nos reímos muchísimo.",
+      "zh": "我推薦你看，我們笑得超開心。"
+    },
+    {
+      "es": "¿Qué planes tienes para el próximo fin de semana?",
+      "zh": "下個週末你有什麼計畫？"
+    },
+    {
+      "es": "Aún no lo sé, pero podríamos hacer algo juntos.",
+      "zh": "我還不知道，不過我們可以一起做點什麼。"
+    },
+    {
+      "es": "Me parece una buena idea, ¿qué te apetece?",
+      "zh": "我覺得這是個好主意，你想做什麼？"
+    },
+    {
+      "es": "Podríamos ir a la exposición que abrieron el viernes pasado.",
+      "zh": "我們可以去看上週五開幕的那個展覽。"
+    },
+    {
+      "es": "¿La de fotografía en el centro cultural?",
+      "zh": "是文化中心那個攝影展嗎？"
+    },
+    {
+      "es": "Sí, esa misma. Dicen que está muy bien.",
+      "zh": "對，就是那個。聽說很不錯。"
+    },
+    {
+      "es": "¿Cuánto cuesta la entrada?",
+      "zh": "門票多少錢？"
+    },
+    {
+      "es": "Creo que son cinco euros, pero los estudiantes pagan menos.",
+      "zh": "我記得是五歐元，學生比較便宜。"
+    },
+    {
+      "es": "¿Y después podríamos ir a cenar a algún sitio?",
+      "zh": "之後我們可以去哪裡吃晚餐嗎？"
+    },
+    {
+      "es": "Conozco un restaurante italiano que está muy bien de precio.",
+      "zh": "我知道一家義大利餐廳，價格非常實惠。"
+    },
+    {
+      "es": "¿Hace falta reservar?",
+      "zh": "需要訂位嗎？"
+    },
+    {
+      "es": "Sí, los sábados se llena rápido.",
+      "zh": "需要，星期六很快就客滿。"
+    },
+    {
+      "es": "Yo me encargo de llamar, no te preocupes.",
+      "zh": "我來打電話，你別擔心。"
+    },
+    {
+      "es": "Genial. Si quieres, después podemos tomar algo en un bar.",
+      "zh": "太好了。如果你想，之後我們可以去酒吧喝一杯。"
+    },
+    {
+      "es": "¿Conoces alguno tranquilo? No me gustan los sitios con mucho ruido.",
+      "zh": "你知道哪家比較安靜嗎？我不喜歡太吵的地方。"
+    },
+    {
+      "es": "Sí, hay uno cerca de la plaza con buena música en directo.",
+      "zh": "有，廣場附近有一家，現場音樂很棒。"
+    },
+    {
+      "es": "Me apunto. ¿A qué hora quedamos?",
+      "zh": "我加入。我們幾點碰面？"
+    },
+    {
+      "es": "¿Te va bien sobre las siete en la entrada de la exposición?",
+      "zh": "七點在展覽門口好嗎？"
+    },
+    {
+      "es": "Perfecto, entonces nos vemos el sábado.",
+      "zh": "好極了，那我們星期六見。"
+    },
+    {
+      "es": "Si llueve, te llamaré para cambiar los planes.",
+      "zh": "如果下雨，我會打電話改計畫。"
+    },
+    {
+      "es": "De acuerdo, esperemos que haga buen tiempo.",
+      "zh": "好的，希望那天天氣好。"
+    },
+    {
+      "es": "Seguro que sí. ¡Hasta el sábado!",
+      "zh": "一定會的。星期六見！"
+    },
+    {
+      "es": "El domingo me quedé en casa descansando.",
+      "zh": "星期天我待在家休息。"
+    },
+    {
+      "es": "Nosotros fuimos al cine a ver la última película.",
+      "zh": "我們去電影院看了最新的那部片。"
+    },
+    {
+      "es": "¿Qué tal la fiesta de cumpleaños de tu hermana?",
+      "zh": "你姊姊的生日派對怎麼樣？"
+    },
+    {
+      "es": "Hicimos una barbacoa en el jardín de mis padres.",
+      "zh": "我們在我爸媽的院子裡烤肉。"
+    },
+    {
+      "es": "La verdad es que llovió todo el sábado.",
+      "zh": "說真的，整個星期六都在下雨。"
+    },
+    {
+      "es": "Aproveché para visitar a mis abuelos en el pueblo.",
+      "zh": "我趁機去鄉下探望我的祖父母。"
+    },
+    {
+      "es": "Probamos un restaurante nuevo y nos encantó.",
+      "zh": "我們試了一家新餐廳，超喜歡的。"
+    },
+    {
+      "es": "¿Tienes algún plan para el próximo finde?",
+      "zh": "你下週末有什麼計畫嗎？"
+    },
+    {
+      "es": "Estuve estudiando porque tengo un examen el lunes.",
+      "zh": "我一直在唸書，因為星期一有考試。"
+    },
+    {
+      "es": "A ver si quedamos para tomar algo pronto.",
+      "zh": "看我們什麼時候能約出來喝一杯吧。"
+    }
   ]
 }

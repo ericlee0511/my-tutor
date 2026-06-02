@@ -1,55 +1,245 @@
 {
   "title": "En la farmacia con receta",
   "all": [
-    {"es": "Buenas tardes, vengo a recoger esto que me ha mandado el médico.", "zh": "午安，我來領醫生開給我的這些藥。"},
-    {"es": "A ver, déjeme su receta y la tarjeta sanitaria, por favor.", "zh": "好，請給我您的處方箋和健保卡。"},
-    {"es": "Aquí tiene las dos, espero que esté todo en orden.", "zh": "兩樣都在這，希望都沒問題。"},
-    {"es": "Sí, perfecto. Le aviso, su tarjeta caduca el mes que viene.", "zh": "都對。提醒您一下，您的健保卡下個月到期。"},
-    {"es": "Vaya, no me había fijado, tendré que renovarla pronto.", "zh": "天啊，我沒注意到，得趕快去換新。"},
-    {"es": "Puede pedir cita en su centro de salud por internet, es rápido.", "zh": "您可以上網跟健康中心預約，很快。"},
-    {"es": "Gracias por el aviso, lo apunto ahora mismo.", "zh": "謝謝您的提醒，我現在就記下來。"},
-    {"es": "Voy a buscar los medicamentos, son tres en total.", "zh": "我去拿藥，總共三種。"},
-    {"es": "Aquí está el antibiótico, el jarabe y un protector de estómago.", "zh": "這是抗生素、糖漿和一個胃藥。"},
-    {"es": "¿El protector de estómago lo cubre la Seguridad Social?", "zh": "胃藥健保有給付嗎？"},
-    {"es": "Solo en parte, paga usted dos euros con cuarenta.", "zh": "只給付一部分，您要付兩塊四歐元。"},
-    {"es": "Bien, ¿y cómo tomo el antibiótico, mañana y noche?", "zh": "好的，那抗生素怎麼吃，早晚嗎？"},
-    {"es": "Cada doce horas, intente que sea siempre a la misma hora.", "zh": "每十二小時一次，盡量固定同一時間吃。"},
-    {"es": "¿Puedo tomarlo antes de desayunar o mejor después?", "zh": "我可以早餐前吃還是飯後比較好？"},
-    {"es": "Mejor durante la comida para que no le siente mal.", "zh": "最好飯中吃，這樣胃不會不舒服。"},
-    {"es": "¿Y el protector de estómago, en qué momento del día?", "zh": "那胃藥要在一天當中什麼時候吃？"},
-    {"es": "Media hora antes del desayuno, con un vaso de agua.", "zh": "早餐前半小時，配一杯水。"},
-    {"es": "Anoto todo en el móvil, no me quiero hacer un lío.", "zh": "我都記在手機裡，免得搞混。"},
-    {"es": "Si tiene molestias intestinales, es normal con este antibiótico.", "zh": "吃這種抗生素如果有腸胃不適是正常的。"},
-    {"es": "¿Me recomienda algún probiótico para compensar?", "zh": "您建議我吃什麼益生菌來平衡嗎？"},
-    {"es": "Sí, llévese estos sobres, uno al día durante el tratamiento.", "zh": "好，您帶這幾包，療程期間一天一包。"},
-    {"es": "¿Y eso lo paga uno entero o también está subvencionado?", "zh": "這個要全額自費，還是也有補助？"},
-    {"es": "Eso va aparte de la receta, son nueve euros la caja.", "zh": "這個不在處方上，一盒九歐元。"},
-    {"es": "De acuerdo, póngamelos también, prefiero prevenir.", "zh": "好，也幫我裝起來，我寧可預防。"},
-    {"es": "Otra cosa importante, evite el alcohol estos siete días.", "zh": "還有一件重要的事，這七天不要喝酒。"},
-    {"es": "Justo este sábado tengo una cena de cumpleaños, qué mala suerte.", "zh": "偏偏這週六我有生日聚餐，運氣真差。"},
-    {"es": "Pues nada de copas, pida una limonada y disfrute igual.", "zh": "那就別喝酒，點杯檸檬汁一樣可以享受。"},
-    {"es": "Y si me siento peor, ¿vuelvo al médico o llamo aquí?", "zh": "如果情況變糟，我要回去看醫生還是打給你們？"},
-    {"es": "Si aparece sarpullido o dificultad para respirar, vaya a urgencias.", "zh": "如果出現紅疹或呼吸困難，就直接去急診。"},
-    {"es": "Lo mantengo en mente, no me suena haber tenido alergias.", "zh": "我會記得，我不記得自己有過敏。"},
-    {"es": "Por si acaso, conviene tomar la primera dosis en casa tranquila.", "zh": "保險起見，第一劑最好在家裡安靜地吃。"},
-    {"es": "Buena idea, así puedo vigilar cómo reacciono.", "zh": "好主意，這樣我可以觀察自己的反應。"},
-    {"es": "El jarabe es solo si tiene tos persistente, no cada día.", "zh": "糖漿只有持續咳嗽時才吃，不是每天都吃。"},
-    {"es": "¿Una cucharada o dos? Las dosis siempre me confunden.", "zh": "一匙還是兩匙？劑量我一直搞不清。"},
-    {"es": "Una cucharada sopera, máximo tres veces al día.", "zh": "一湯匙，一天最多三次。"},
-    {"es": "Lo dejo en la cocina para acordarme mejor.", "zh": "我把它放在廚房，比較不會忘記。"},
-    {"es": "Acuérdese de agitar el frasco bien antes de cada toma.", "zh": "記得每次吃之前要把瓶子搖一搖。"},
-    {"es": "¿Y cuántos días dura el tratamiento completo?", "zh": "整個療程要吃幾天？"},
-    {"es": "Siete días el antibiótico, aunque se encuentre mejor antes.", "zh": "抗生素吃七天，即使您提早覺得好了也要吃完。"},
-    {"es": "Lo termino entero, sé que es importante no cortarlo.", "zh": "我會吃完，我知道不能中斷很重要。"},
-    {"es": "Muy bien, así evitamos resistencias en el futuro.", "zh": "很好，這樣未來才能避免抗藥性。"},
-    {"es": "¿Pasa algo si una dosis se me olvida por trabajo?", "zh": "如果因為工作忘記吃一劑會怎樣嗎？"},
-    {"es": "Tómela en cuanto se acuerde, salvo que casi sea la siguiente.", "zh": "想起來就馬上吃，除非快到下一劑時間。"},
-    {"es": "Nunca tomar doble dosis para compensar, ¿verdad?", "zh": "千萬不要為了補吃兩倍劑量，對吧？"},
-    {"es": "Exacto, eso podría causarle más efectos secundarios.", "zh": "沒錯，那樣可能引起更多副作用。"},
-    {"es": "¿El ticket me sirve si quiero pedirlo a mi mutua?", "zh": "如果我要跟保險申請，這張收據可以用嗎？"},
-    {"es": "Sí, aquí va con el desglose de cada producto.", "zh": "可以，這張上面有每樣藥的明細。"},
-    {"es": "Perfecto, este mes va a salir caro entre médico y farmacia.", "zh": "好的，這個月看病加藥費要花不少。"},
-    {"es": "Mejórese pronto y cuide la alimentación estos días.", "zh": "祝您早日康復，這幾天注意飲食。"},
-    {"es": "Muchas gracias por las explicaciones, ¡hasta luego!", "zh": "非常感謝您的說明，再見！"}
+    {
+      "es": "Buenas tardes, vengo a recoger esto que me ha mandado el médico.",
+      "zh": "午安，我來領醫生開給我的這些藥。"
+    },
+    {
+      "es": "A ver, déjeme su receta y la tarjeta sanitaria, por favor.",
+      "zh": "好，請給我您的處方箋和健保卡。"
+    },
+    {
+      "es": "Aquí tiene las dos, espero que esté todo en orden.",
+      "zh": "兩樣都在這，希望都沒問題。"
+    },
+    {
+      "es": "Sí, perfecto. Le aviso, su tarjeta caduca el mes que viene.",
+      "zh": "都對。提醒您一下，您的健保卡下個月到期。"
+    },
+    {
+      "es": "Vaya, no me había fijado, tendré que renovarla pronto.",
+      "zh": "天啊，我沒注意到，得趕快去換新。"
+    },
+    {
+      "es": "Puede pedir cita en su centro de salud por internet, es rápido.",
+      "zh": "您可以上網跟健康中心預約，很快。"
+    },
+    {
+      "es": "Gracias por el aviso, lo apunto ahora mismo.",
+      "zh": "謝謝您的提醒，我現在就記下來。"
+    },
+    {
+      "es": "Voy a buscar los medicamentos, son tres en total.",
+      "zh": "我去拿藥，總共三種。"
+    },
+    {
+      "es": "Aquí está el antibiótico, el jarabe y un protector de estómago.",
+      "zh": "這是抗生素、糖漿和一個胃藥。"
+    },
+    {
+      "es": "¿El protector de estómago lo cubre la Seguridad Social?",
+      "zh": "胃藥健保有給付嗎？"
+    },
+    {
+      "es": "Solo en parte, paga usted dos euros con cuarenta.",
+      "zh": "只給付一部分，您要付兩塊四歐元。"
+    },
+    {
+      "es": "Bien, ¿y cómo tomo el antibiótico, mañana y noche?",
+      "zh": "好的，那抗生素怎麼吃，早晚嗎？"
+    },
+    {
+      "es": "Cada doce horas, intente que sea siempre a la misma hora.",
+      "zh": "每十二小時一次，盡量固定同一時間吃。"
+    },
+    {
+      "es": "¿Puedo tomarlo antes de desayunar o mejor después?",
+      "zh": "我可以早餐前吃還是飯後比較好？"
+    },
+    {
+      "es": "Mejor durante la comida para que no le siente mal.",
+      "zh": "最好飯中吃，這樣胃不會不舒服。"
+    },
+    {
+      "es": "¿Y el protector de estómago, en qué momento del día?",
+      "zh": "那胃藥要在一天當中什麼時候吃？"
+    },
+    {
+      "es": "Media hora antes del desayuno, con un vaso de agua.",
+      "zh": "早餐前半小時，配一杯水。"
+    },
+    {
+      "es": "Anoto todo en el móvil, no me quiero hacer un lío.",
+      "zh": "我都記在手機裡，免得搞混。"
+    },
+    {
+      "es": "Si tiene molestias intestinales, es normal con este antibiótico.",
+      "zh": "吃這種抗生素如果有腸胃不適是正常的。"
+    },
+    {
+      "es": "¿Me recomienda algún probiótico para compensar?",
+      "zh": "您建議我吃什麼益生菌來平衡嗎？"
+    },
+    {
+      "es": "Sí, llévese estos sobres, uno al día durante el tratamiento.",
+      "zh": "好，您帶這幾包，療程期間一天一包。"
+    },
+    {
+      "es": "¿Y eso lo paga uno entero o también está subvencionado?",
+      "zh": "這個要全額自費，還是也有補助？"
+    },
+    {
+      "es": "Eso va aparte de la receta, son nueve euros la caja.",
+      "zh": "這個不在處方上，一盒九歐元。"
+    },
+    {
+      "es": "De acuerdo, póngamelos también, prefiero prevenir.",
+      "zh": "好，也幫我裝起來，我寧可預防。"
+    },
+    {
+      "es": "Otra cosa importante, evite el alcohol estos siete días.",
+      "zh": "還有一件重要的事，這七天不要喝酒。"
+    },
+    {
+      "es": "Justo este sábado tengo una cena de cumpleaños, qué mala suerte.",
+      "zh": "偏偏這週六我有生日聚餐，運氣真差。"
+    },
+    {
+      "es": "Pues nada de copas, pida una limonada y disfrute igual.",
+      "zh": "那就別喝酒，點杯檸檬汁一樣可以享受。"
+    },
+    {
+      "es": "Y si me siento peor, ¿vuelvo al médico o llamo aquí?",
+      "zh": "如果情況變糟，我要回去看醫生還是打給你們？"
+    },
+    {
+      "es": "Si aparece sarpullido o dificultad para respirar, vaya a urgencias.",
+      "zh": "如果出現紅疹或呼吸困難，就直接去急診。"
+    },
+    {
+      "es": "Lo mantengo en mente, no me suena haber tenido alergias.",
+      "zh": "我會記得，我不記得自己有過敏。"
+    },
+    {
+      "es": "Por si acaso, conviene tomar la primera dosis en casa tranquila.",
+      "zh": "保險起見，第一劑最好在家裡安靜地吃。"
+    },
+    {
+      "es": "Buena idea, así puedo vigilar cómo reacciono.",
+      "zh": "好主意，這樣我可以觀察自己的反應。"
+    },
+    {
+      "es": "El jarabe es solo si tiene tos persistente, no cada día.",
+      "zh": "糖漿只有持續咳嗽時才吃，不是每天都吃。"
+    },
+    {
+      "es": "¿Una cucharada o dos? Las dosis siempre me confunden.",
+      "zh": "一匙還是兩匙？劑量我一直搞不清。"
+    },
+    {
+      "es": "Una cucharada sopera, máximo tres veces al día.",
+      "zh": "一湯匙，一天最多三次。"
+    },
+    {
+      "es": "Lo dejo en la cocina para acordarme mejor.",
+      "zh": "我把它放在廚房，比較不會忘記。"
+    },
+    {
+      "es": "Acuérdese de agitar el frasco bien antes de cada toma.",
+      "zh": "記得每次吃之前要把瓶子搖一搖。"
+    },
+    {
+      "es": "¿Y cuántos días dura el tratamiento completo?",
+      "zh": "整個療程要吃幾天？"
+    },
+    {
+      "es": "Siete días el antibiótico, aunque se encuentre mejor antes.",
+      "zh": "抗生素吃七天，即使您提早覺得好了也要吃完。"
+    },
+    {
+      "es": "Lo termino entero, sé que es importante no cortarlo.",
+      "zh": "我會吃完，我知道不能中斷很重要。"
+    },
+    {
+      "es": "Muy bien, así evitamos resistencias en el futuro.",
+      "zh": "很好，這樣未來才能避免抗藥性。"
+    },
+    {
+      "es": "¿Pasa algo si una dosis se me olvida por trabajo?",
+      "zh": "如果因為工作忘記吃一劑會怎樣嗎？"
+    },
+    {
+      "es": "Tómela en cuanto se acuerde, salvo que casi sea la siguiente.",
+      "zh": "想起來就馬上吃，除非快到下一劑時間。"
+    },
+    {
+      "es": "Nunca tomar doble dosis para compensar, ¿verdad?",
+      "zh": "千萬不要為了補吃兩倍劑量，對吧？"
+    },
+    {
+      "es": "Exacto, eso podría causarle más efectos secundarios.",
+      "zh": "沒錯，那樣可能引起更多副作用。"
+    },
+    {
+      "es": "¿El ticket me sirve si quiero pedirlo a mi mutua?",
+      "zh": "如果我要跟保險申請，這張收據可以用嗎？"
+    },
+    {
+      "es": "Sí, aquí va con el desglose de cada producto.",
+      "zh": "可以，這張上面有每樣藥的明細。"
+    },
+    {
+      "es": "Perfecto, este mes va a salir caro entre médico y farmacia.",
+      "zh": "好的，這個月看病加藥費要花不少。"
+    },
+    {
+      "es": "Mejórese pronto y cuide la alimentación estos días.",
+      "zh": "祝您早日康復，這幾天注意飲食。"
+    },
+    {
+      "es": "Muchas gracias por las explicaciones, ¡hasta luego!",
+      "zh": "非常感謝您的說明，再見！"
+    },
+    {
+      "es": "Este antibiótico debe tomarlo cada ocho horas con las comidas.",
+      "zh": "這個抗生素必須每八小時隨餐服用一次。"
+    },
+    {
+      "es": "¿Lo quiere en jarabe o en comprimidos para los niños?",
+      "zh": "給小孩您要糖漿還是藥錠？"
+    },
+    {
+      "es": "El genérico es más barato y tiene el mismo principio activo.",
+      "zh": "學名藥比較便宜，而且有效成分相同。"
+    },
+    {
+      "es": "Guarde el medicamento en la nevera una vez abierto.",
+      "zh": "藥開封後請冷藏保存。"
+    },
+    {
+      "es": "No interrumpa el tratamiento aunque se sienta mejor.",
+      "zh": "即使覺得好轉，也不要中斷療程。"
+    },
+    {
+      "es": "¿Necesita algo más sin receta, como vitaminas o tiritas?",
+      "zh": "您還需要其他免處方的東西嗎，例如維他命或OK繃？"
+    },
+    {
+      "es": "Le marco en la caja la pauta para que no se confunda.",
+      "zh": "我在盒子上幫您標好服用方式，以免搞混。"
+    },
+    {
+      "es": "Si aparece sarpullido, suspéndalo y acuda al médico.",
+      "zh": "如果出現疹子，請停藥並就醫。"
+    },
+    {
+      "es": "Puedo pedírselo para mañana si ahora no me queda existencias.",
+      "zh": "如果現在沒庫存，我可以幫您調貨到明天。"
+    },
+    {
+      "es": "Recuerde no mezclar este fármaco con bebidas alcohólicas.",
+      "zh": "請記得這個藥不要和酒精飲料一起服用。"
+    }
   ]
 }

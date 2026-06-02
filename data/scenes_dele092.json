@@ -1,55 +1,245 @@
 {
   "title": "Facturación en el aeropuerto",
   "all": [
-    {"es": "Buenos días, vengo a facturar para el vuelo de las nueve y media a Berlín.", "zh": "早安，我要辦九點半飛柏林那班的登機手續。"},
-    {"es": "Su pasaporte o DNI y la reserva, por favor.", "zh": "請給我您的護照或身分證，還有訂位紀錄。"},
-    {"es": "Aquí tiene el DNI, los billetes los llevo en el móvil.", "zh": "身分證在這裡，機票存在手機裡。"},
-    {"es": "Veo que viaja con una maleta facturada y una pequeña de cabina.", "zh": "我看您有一件託運行李跟一件登機箱。"},
-    {"es": "Exacto, la grande la voy a despachar ahora mismo.", "zh": "沒錯，大的我現在要託運。"},
-    {"es": "Póngala sobre la cinta y suba la balanza con cuidado.", "zh": "請放上輸送帶，小心放上磅秤。"},
-    {"es": "Veintidós kilos y medio, justo dentro del límite permitido.", "zh": "二十二點五公斤，剛好在允許範圍內。"},
-    {"es": "Menos mal, en casa me había salido casi veinticuatro.", "zh": "太好了，我家裡量幾乎二十四公斤。"},
-    {"es": "Le voy a poner la etiqueta con el destino y un código de barras.", "zh": "我幫您貼上目的地標籤跟條碼。"},
-    {"es": "¿Lleva dentro baterías externas o líquidos prohibidos?", "zh": "裡面有行動電源或違禁液體嗎？"},
-    {"es": "No, las baterías y el portátil van conmigo en la mochila.", "zh": "沒有，行動電源跟筆電都在我背包裡。"},
-    {"es": "Muy bien, así debe ser, en bodega no pueden ir.", "zh": "很好，本來就該這樣，不能放貨艙。"},
-    {"es": "¿Tiene alguna preferencia de asiento? Aún quedan ventanillas libres.", "zh": "您有偏好的座位嗎？還有靠窗的位子。"},
-    {"es": "Una ventanilla cerca del ala estaría perfecta para mí.", "zh": "靠窗、靠機翼附近最棒了。"},
-    {"es": "Le doy el quince A, justo a la altura del ala.", "zh": "我給您 15A，剛好在機翼的位置。"},
-    {"es": "¿La salida de emergencia tiene un suplemento?", "zh": "緊急出口的位子要加價嗎？"},
-    {"es": "Sí, son veinte euros más, pero tiene mucho espacio para las piernas.", "zh": "要，多二十歐元，但腿伸展的空間很大。"},
-    {"es": "Mejor lo dejo así, no quiero gastar más en este viaje.", "zh": "算了就這樣，這趟不想再多花錢。"},
-    {"es": "Aquí tiene su tarjeta de embarque, embarque por la puerta B22.", "zh": "這是您的登機證，B22 登機門上機。"},
-    {"es": "¿A qué hora empieza el embarque, más o menos?", "zh": "登機大概幾點開始？"},
-    {"es": "Una hora antes del despegue, sobre las ocho y media.", "zh": "起飛前一小時，大概八點半。"},
-    {"es": "Perfecto, así me da tiempo a tomarme un café tranquilo.", "zh": "完美，這樣有時間悠閒地喝杯咖啡。"},
-    {"es": "El control de seguridad está al fondo a la derecha.", "zh": "安檢在底端右轉。"},
-    {"es": "¿Hay mucha cola a esta hora, lo sabe?", "zh": "您知道這個時間排隊很久嗎？"},
-    {"es": "Hoy está tranquilo, no creo que tarde más de diez minutos.", "zh": "今天人不多，應該不會超過十分鐘。"},
-    {"es": "Mire, ahí lleva el justificante por si pierde la maleta.", "zh": "您看，這張單據是萬一行李遺失用的。"},
-    {"es": "Guárdelo bien hasta que la recoja en el destino.", "zh": "請保管好直到目的地領行李為止。"},
-    {"es": "Lo meto ahora mismo en la funda del pasaporte.", "zh": "我馬上放到護照夾裡。"},
-    {"es": "Que tenga muy buen vuelo y disfrute mucho de Berlín.", "zh": "祝您飛行愉快，好好享受柏林。"},
-    {"es": "Muchas gracias, voy directo al control para no demorarme.", "zh": "非常感謝，我直接去安檢免得耽誤。"},
-    {"es": "Saco el portátil, los líquidos y me quito el cinturón.", "zh": "拿出筆電、液體，把皮帶解掉。"},
-    {"es": "Las botas también, mejor llevar zapatillas en el aeropuerto.", "zh": "靴子也要脫，機場最好穿運動鞋。"},
-    {"es": "Pasa todo por la cinta antes de entrar tú al arco.", "zh": "所有東西先過輸送帶，你再走金屬探測門。"},
-    {"es": "Vale, no llevo nada metálico, debería pasar a la primera.", "zh": "好，我身上沒金屬，應該一次就過。"},
-    {"es": "Ahora a buscar la puerta, dice que está bastante lejos.", "zh": "現在去找登機門，聽說滿遠的。"},
-    {"es": "Lo bueno es que vamos sobrados de tiempo.", "zh": "好處是我們時間很充裕。"},
-    {"es": "¿Pasamos por la zona duty free a ver perfumes?", "zh": "我們順便逛免稅區看香水好嗎？"},
-    {"es": "Solo un momento, no quiero perder la noción del tiempo.", "zh": "只看一下下，我不想忘了時間。"},
-    {"es": "Acaba de aparecer la puerta en pantalla, es la B24, no la B22.", "zh": "登機門剛剛跳出來，是 B24 不是 B22。"},
-    {"es": "Menos mal que lo miramos, sino llegamos al sitio equivocado.", "zh": "幸好有看，不然會走錯地方。"},
-    {"es": "Sigamos las flechas amarillas que indican zona de embarque.", "zh": "跟著黃色箭頭走，那是登機區的指示。"},
-    {"es": "Mira, ahí está nuestro avión por la cristalera.", "zh": "你看，透過玻璃可以看到我們的飛機。"},
-    {"es": "Vamos a sentarnos y esperar a que llamen por filas.", "zh": "我們坐下，等他們按排數叫人登機。"},
-    {"es": "Están empezando por prioritarios y familias con niños.", "zh": "他們先讓 VIP 跟有小孩的家庭上機。"},
-    {"es": "Nosotros somos grupo cuatro, todavía nos toca esperar un rato.", "zh": "我們是第四組，還要等一下。"},
-    {"es": "Te enseño la tarjeta de embarque en el móvil al pasar.", "zh": "經過時我用手機出示登機證。"},
-    {"es": "Recuerda apagar los datos y poner modo avión.", "zh": "記得關掉行動數據，開飛航模式。"},
-    {"es": "Hecho, y también he descargado una serie por si me aburro.", "zh": "好了，我也下載了一部影集備用怕無聊。"},
-    {"es": "Embarcamos ya, nos vemos en el asiento quince.", "zh": "要登機了，十五排座位見。"},
-    {"es": "Buen vuelo, en tres horas estamos pisando Berlín.", "zh": "飛行愉快，三小時後我們就踩在柏林的土地上了。"}
+    {
+      "es": "Buenos días, vengo a facturar para el vuelo de las nueve y media a Berlín.",
+      "zh": "早安，我要辦九點半飛柏林那班的登機手續。"
+    },
+    {
+      "es": "Su pasaporte o DNI y la reserva, por favor.",
+      "zh": "請給我您的護照或身分證，還有訂位紀錄。"
+    },
+    {
+      "es": "Aquí tiene el DNI, los billetes los llevo en el móvil.",
+      "zh": "身分證在這裡，機票存在手機裡。"
+    },
+    {
+      "es": "Veo que viaja con una maleta facturada y una pequeña de cabina.",
+      "zh": "我看您有一件託運行李跟一件登機箱。"
+    },
+    {
+      "es": "Exacto, la grande la voy a despachar ahora mismo.",
+      "zh": "沒錯，大的我現在要託運。"
+    },
+    {
+      "es": "Póngala sobre la cinta y suba la balanza con cuidado.",
+      "zh": "請放上輸送帶，小心放上磅秤。"
+    },
+    {
+      "es": "Veintidós kilos y medio, justo dentro del límite permitido.",
+      "zh": "二十二點五公斤，剛好在允許範圍內。"
+    },
+    {
+      "es": "Menos mal, en casa me había salido casi veinticuatro.",
+      "zh": "太好了，我家裡量幾乎二十四公斤。"
+    },
+    {
+      "es": "Le voy a poner la etiqueta con el destino y un código de barras.",
+      "zh": "我幫您貼上目的地標籤跟條碼。"
+    },
+    {
+      "es": "¿Lleva dentro baterías externas o líquidos prohibidos?",
+      "zh": "裡面有行動電源或違禁液體嗎？"
+    },
+    {
+      "es": "No, las baterías y el portátil van conmigo en la mochila.",
+      "zh": "沒有，行動電源跟筆電都在我背包裡。"
+    },
+    {
+      "es": "Muy bien, así debe ser, en bodega no pueden ir.",
+      "zh": "很好，本來就該這樣，不能放貨艙。"
+    },
+    {
+      "es": "¿Tiene alguna preferencia de asiento? Aún quedan ventanillas libres.",
+      "zh": "您有偏好的座位嗎？還有靠窗的位子。"
+    },
+    {
+      "es": "Una ventanilla cerca del ala estaría perfecta para mí.",
+      "zh": "靠窗、靠機翼附近最棒了。"
+    },
+    {
+      "es": "Le doy el quince A, justo a la altura del ala.",
+      "zh": "我給您 15A，剛好在機翼的位置。"
+    },
+    {
+      "es": "¿La salida de emergencia tiene un suplemento?",
+      "zh": "緊急出口的位子要加價嗎？"
+    },
+    {
+      "es": "Sí, son veinte euros más, pero tiene mucho espacio para las piernas.",
+      "zh": "要，多二十歐元，但腿伸展的空間很大。"
+    },
+    {
+      "es": "Mejor lo dejo así, no quiero gastar más en este viaje.",
+      "zh": "算了就這樣，這趟不想再多花錢。"
+    },
+    {
+      "es": "Aquí tiene su tarjeta de embarque, embarque por la puerta B22.",
+      "zh": "這是您的登機證，B22 登機門上機。"
+    },
+    {
+      "es": "¿A qué hora empieza el embarque, más o menos?",
+      "zh": "登機大概幾點開始？"
+    },
+    {
+      "es": "Una hora antes del despegue, sobre las ocho y media.",
+      "zh": "起飛前一小時，大概八點半。"
+    },
+    {
+      "es": "Perfecto, así me da tiempo a tomarme un café tranquilo.",
+      "zh": "完美，這樣有時間悠閒地喝杯咖啡。"
+    },
+    {
+      "es": "El control de seguridad está al fondo a la derecha.",
+      "zh": "安檢在底端右轉。"
+    },
+    {
+      "es": "¿Hay mucha cola a esta hora, lo sabe?",
+      "zh": "您知道這個時間排隊很久嗎？"
+    },
+    {
+      "es": "Hoy está tranquilo, no creo que tarde más de diez minutos.",
+      "zh": "今天人不多，應該不會超過十分鐘。"
+    },
+    {
+      "es": "Mire, ahí lleva el justificante por si pierde la maleta.",
+      "zh": "您看，這張單據是萬一行李遺失用的。"
+    },
+    {
+      "es": "Guárdelo bien hasta que la recoja en el destino.",
+      "zh": "請保管好直到目的地領行李為止。"
+    },
+    {
+      "es": "Lo meto ahora mismo en la funda del pasaporte.",
+      "zh": "我馬上放到護照夾裡。"
+    },
+    {
+      "es": "Que tenga muy buen vuelo y disfrute mucho de Berlín.",
+      "zh": "祝您飛行愉快，好好享受柏林。"
+    },
+    {
+      "es": "Muchas gracias, voy directo al control para no demorarme.",
+      "zh": "非常感謝，我直接去安檢免得耽誤。"
+    },
+    {
+      "es": "Saco el portátil, los líquidos y me quito el cinturón.",
+      "zh": "拿出筆電、液體，把皮帶解掉。"
+    },
+    {
+      "es": "Las botas también, mejor llevar zapatillas en el aeropuerto.",
+      "zh": "靴子也要脫，機場最好穿運動鞋。"
+    },
+    {
+      "es": "Pasa todo por la cinta antes de entrar tú al arco.",
+      "zh": "所有東西先過輸送帶，你再走金屬探測門。"
+    },
+    {
+      "es": "Vale, no llevo nada metálico, debería pasar a la primera.",
+      "zh": "好，我身上沒金屬，應該一次就過。"
+    },
+    {
+      "es": "Ahora a buscar la puerta, dice que está bastante lejos.",
+      "zh": "現在去找登機門，聽說滿遠的。"
+    },
+    {
+      "es": "Lo bueno es que vamos sobrados de tiempo.",
+      "zh": "好處是我們時間很充裕。"
+    },
+    {
+      "es": "¿Pasamos por la zona duty free a ver perfumes?",
+      "zh": "我們順便逛免稅區看香水好嗎？"
+    },
+    {
+      "es": "Solo un momento, no quiero perder la noción del tiempo.",
+      "zh": "只看一下下，我不想忘了時間。"
+    },
+    {
+      "es": "Acaba de aparecer la puerta en pantalla, es la B24, no la B22.",
+      "zh": "登機門剛剛跳出來，是 B24 不是 B22。"
+    },
+    {
+      "es": "Menos mal que lo miramos, sino llegamos al sitio equivocado.",
+      "zh": "幸好有看，不然會走錯地方。"
+    },
+    {
+      "es": "Sigamos las flechas amarillas que indican zona de embarque.",
+      "zh": "跟著黃色箭頭走，那是登機區的指示。"
+    },
+    {
+      "es": "Mira, ahí está nuestro avión por la cristalera.",
+      "zh": "你看，透過玻璃可以看到我們的飛機。"
+    },
+    {
+      "es": "Vamos a sentarnos y esperar a que llamen por filas.",
+      "zh": "我們坐下，等他們按排數叫人登機。"
+    },
+    {
+      "es": "Están empezando por prioritarios y familias con niños.",
+      "zh": "他們先讓 VIP 跟有小孩的家庭上機。"
+    },
+    {
+      "es": "Nosotros somos grupo cuatro, todavía nos toca esperar un rato.",
+      "zh": "我們是第四組，還要等一下。"
+    },
+    {
+      "es": "Te enseño la tarjeta de embarque en el móvil al pasar.",
+      "zh": "經過時我用手機出示登機證。"
+    },
+    {
+      "es": "Recuerda apagar los datos y poner modo avión.",
+      "zh": "記得關掉行動數據，開飛航模式。"
+    },
+    {
+      "es": "Hecho, y también he descargado una serie por si me aburro.",
+      "zh": "好了，我也下載了一部影集備用怕無聊。"
+    },
+    {
+      "es": "Embarcamos ya, nos vemos en el asiento quince.",
+      "zh": "要登機了，十五排座位見。"
+    },
+    {
+      "es": "Buen vuelo, en tres horas estamos pisando Berlín.",
+      "zh": "飛行愉快，三小時後我們就踩在柏林的土地上了。"
+    },
+    {
+      "es": "¿La puerta de embarque ya está asignada o todavía aparece pendiente?",
+      "zh": "登機門已經分配好了，還是顯示待定？"
+    },
+    {
+      "es": "Disculpe, esta maleta pesa dos kilos de más, tendrá que sacar algo.",
+      "zh": "不好意思，這個行李箱超重兩公斤，您得拿出一些東西。"
+    },
+    {
+      "es": "¿Podría darme un asiento de pasillo si todavía queda alguno libre?",
+      "zh": "如果還有空位，可以給我一個靠走道的座位嗎？"
+    },
+    {
+      "es": "El control de seguridad está justo al fondo, a la derecha.",
+      "zh": "安檢就在最裡面，右手邊。"
+    },
+    {
+      "es": "Tenga cuidado, dentro lleva un portátil que deberá sacar en el escáner.",
+      "zh": "請注意，裡面有一台筆電，過X光機時得拿出來。"
+    },
+    {
+      "es": "El embarque comienza cuarenta minutos antes de la salida.",
+      "zh": "登機在起飛前四十分鐘開始。"
+    },
+    {
+      "es": "Aquí tiene la etiqueta del equipaje, guárdela hasta llegar.",
+      "zh": "這是您的行李條，請保留到抵達為止。"
+    },
+    {
+      "es": "¿Viaja con algún líquido en el bolso de mano?",
+      "zh": "您的手提包裡有帶任何液體嗎？"
+    },
+    {
+      "es": "Le recomiendo dirigirse ya a la zona de embarque, va con el tiempo justo.",
+      "zh": "我建議您現在就前往登機區，時間很趕了。"
+    },
+    {
+      "es": "El vuelo lleva un pequeño retraso, pero la conexión no peligra.",
+      "zh": "班機稍微誤點，不過轉機應該沒問題。"
+    }
   ]
 }

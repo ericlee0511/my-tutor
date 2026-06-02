@@ -1,45 +1,205 @@
 {
   "title": "Buscando un piso de alquiler",
   "all": [
-    { "es": "Buenas tardes, llamo por el anuncio del piso en alquiler.", "zh": "午安，我是看到出租公寓的廣告打來的。" },
-    { "es": "Hola, sí, el piso aún está disponible.", "zh": "你好，是的，房子還沒租出去。" },
-    { "es": "¿Me puede dar más información, por favor?", "zh": "可以給我多一些資訊嗎？" },
-    { "es": "Claro, es un piso de dos habitaciones en el centro.", "zh": "當然，這是市中心的兩房公寓。" },
-    { "es": "¿En qué planta está?", "zh": "在幾樓？" },
-    { "es": "En el tercero, con ascensor.", "zh": "三樓，有電梯。" },
-    { "es": "¿Está amueblado?", "zh": "有附傢俱嗎？" },
-    { "es": "Sí, está totalmente amueblado y tiene electrodomésticos nuevos.", "zh": "有，傢俱齊全，家電都是新的。" },
-    { "es": "¿Cuánto cuesta el alquiler al mes?", "zh": "月租金多少？" },
-    { "es": "Son ochocientos cincuenta euros, gastos incluidos.", "zh": "八百五十歐元，包含管理費。" },
-    { "es": "¿La fianza son dos meses?", "zh": "押金是兩個月嗎？" },
-    { "es": "Sí, hay que pagar dos meses por adelantado.", "zh": "是的，需要先付兩個月。" },
-    { "es": "¿Se admiten animales?", "zh": "可以養寵物嗎？" },
-    { "es": "Tengo un gato pequeño, espero que no sea un problema.", "zh": "我有一隻小貓，希望不是問題。" },
-    { "es": "Los gatos sí se permiten, pero los perros grandes no.", "zh": "貓可以，但大型犬不行。" },
-    { "es": "¿Cuándo podría ir a verlo?", "zh": "我什麼時候可以去看房？" },
-    { "es": "Si quiere, podemos quedar mañana sobre las siete.", "zh": "如果你方便，我們可以約明天大約七點。" },
-    { "es": "Perfecto. ¿Cuál es la dirección exacta?", "zh": "好極了。確切的地址是？" },
-    { "es": "Calle del Olivo, número veinte, portal B.", "zh": "橄欖樹街二十號，B 棟。" },
-    { "es": "Muy bien, nos vemos mañana. Gracias por su tiempo.", "zh": "好的，我們明天見。感謝您撥空。" },
-    { "es": "Una pregunta, ¿el piso tiene calefacción central?", "zh": "再請問一下，公寓有中央暖氣嗎？" },
-    { "es": "Sí, y también aire acondicionado en el salón.", "zh": "有，客廳也有冷氣。" },
-    { "es": "¿La cocina está separada del salón?", "zh": "廚房和客廳是分開的嗎？" },
-    { "es": "Sí, es una cocina independiente con bastante luz.", "zh": "是的，是獨立廚房，採光很好。" },
-    { "es": "¿Cuántos baños tiene?", "zh": "有幾間浴室？" },
-    { "es": "Tiene dos, uno completo y otro más pequeño con ducha.", "zh": "兩間，一間是完整衛浴，另一間比較小，有淋浴。" },
-    { "es": "¿La zona es tranquila por la noche?", "zh": "這一帶晚上安靜嗎？" },
-    { "es": "Sí, aunque hay algunos bares, no se oye ruido en el piso.", "zh": "安靜，雖然有一些酒吧，但在公寓裡聽不到吵雜聲。" },
-    { "es": "¿Hay supermercados cerca?", "zh": "附近有超市嗎？" },
-    { "es": "Sí, tiene dos a menos de cinco minutos andando.", "zh": "有，走路不到五分鐘就有兩家。" },
-    { "es": "¿Y transporte público?", "zh": "那大眾運輸呢？" },
-    { "es": "La estación de metro está justo a la vuelta de la esquina.", "zh": "地鐵站就在街角轉彎處。" },
-    { "es": "¿El contrato sería de un año?", "zh": "合約是一年的嗎？" },
-    { "es": "Sí, mínimo un año, con posibilidad de renovar.", "zh": "對，至少一年，可以續約。" },
-    { "es": "¿Quién paga la comunidad y el agua?", "zh": "管理費和水費由誰負擔？" },
-    { "es": "La comunidad y el agua los pago yo, usted solo la luz y el internet.", "zh": "管理費和水費由我付，您只要付電費和網路費。" },
-    { "es": "Me parece muy razonable.", "zh": "我覺得很合理。" },
-    { "es": "Si todo le gusta mañana, podríamos firmar la semana que viene.", "zh": "如果您明天都滿意，我們下週就可以簽約。" },
-    { "es": "Necesitaré llevar la nómina y el DNI, ¿verdad?", "zh": "我需要帶薪資證明和身分證對吧？" },
-    { "es": "Exacto, con eso y la fianza ya podemos firmar el contrato.", "zh": "沒錯，有那些東西加押金我們就可以簽約了。" }
+    {
+      "es": "Buenas tardes, llamo por el anuncio del piso en alquiler.",
+      "zh": "午安，我是看到出租公寓的廣告打來的。"
+    },
+    {
+      "es": "Hola, sí, el piso aún está disponible.",
+      "zh": "你好，是的，房子還沒租出去。"
+    },
+    {
+      "es": "¿Me puede dar más información, por favor?",
+      "zh": "可以給我多一些資訊嗎？"
+    },
+    {
+      "es": "Claro, es un piso de dos habitaciones en el centro.",
+      "zh": "當然，這是市中心的兩房公寓。"
+    },
+    {
+      "es": "¿En qué planta está?",
+      "zh": "在幾樓？"
+    },
+    {
+      "es": "En el tercero, con ascensor.",
+      "zh": "三樓，有電梯。"
+    },
+    {
+      "es": "¿Está amueblado?",
+      "zh": "有附傢俱嗎？"
+    },
+    {
+      "es": "Sí, está totalmente amueblado y tiene electrodomésticos nuevos.",
+      "zh": "有，傢俱齊全，家電都是新的。"
+    },
+    {
+      "es": "¿Cuánto cuesta el alquiler al mes?",
+      "zh": "月租金多少？"
+    },
+    {
+      "es": "Son ochocientos cincuenta euros, gastos incluidos.",
+      "zh": "八百五十歐元，包含管理費。"
+    },
+    {
+      "es": "¿La fianza son dos meses?",
+      "zh": "押金是兩個月嗎？"
+    },
+    {
+      "es": "Sí, hay que pagar dos meses por adelantado.",
+      "zh": "是的，需要先付兩個月。"
+    },
+    {
+      "es": "¿Se admiten animales?",
+      "zh": "可以養寵物嗎？"
+    },
+    {
+      "es": "Tengo un gato pequeño, espero que no sea un problema.",
+      "zh": "我有一隻小貓，希望不是問題。"
+    },
+    {
+      "es": "Los gatos sí se permiten, pero los perros grandes no.",
+      "zh": "貓可以，但大型犬不行。"
+    },
+    {
+      "es": "¿Cuándo podría ir a verlo?",
+      "zh": "我什麼時候可以去看房？"
+    },
+    {
+      "es": "Si quiere, podemos quedar mañana sobre las siete.",
+      "zh": "如果你方便，我們可以約明天大約七點。"
+    },
+    {
+      "es": "Perfecto. ¿Cuál es la dirección exacta?",
+      "zh": "好極了。確切的地址是？"
+    },
+    {
+      "es": "Calle del Olivo, número veinte, portal B.",
+      "zh": "橄欖樹街二十號，B 棟。"
+    },
+    {
+      "es": "Muy bien, nos vemos mañana. Gracias por su tiempo.",
+      "zh": "好的，我們明天見。感謝您撥空。"
+    },
+    {
+      "es": "Una pregunta, ¿el piso tiene calefacción central?",
+      "zh": "再請問一下，公寓有中央暖氣嗎？"
+    },
+    {
+      "es": "Sí, y también aire acondicionado en el salón.",
+      "zh": "有，客廳也有冷氣。"
+    },
+    {
+      "es": "¿La cocina está separada del salón?",
+      "zh": "廚房和客廳是分開的嗎？"
+    },
+    {
+      "es": "Sí, es una cocina independiente con bastante luz.",
+      "zh": "是的，是獨立廚房，採光很好。"
+    },
+    {
+      "es": "¿Cuántos baños tiene?",
+      "zh": "有幾間浴室？"
+    },
+    {
+      "es": "Tiene dos, uno completo y otro más pequeño con ducha.",
+      "zh": "兩間，一間是完整衛浴，另一間比較小，有淋浴。"
+    },
+    {
+      "es": "¿La zona es tranquila por la noche?",
+      "zh": "這一帶晚上安靜嗎？"
+    },
+    {
+      "es": "Sí, aunque hay algunos bares, no se oye ruido en el piso.",
+      "zh": "安靜，雖然有一些酒吧，但在公寓裡聽不到吵雜聲。"
+    },
+    {
+      "es": "¿Hay supermercados cerca?",
+      "zh": "附近有超市嗎？"
+    },
+    {
+      "es": "Sí, tiene dos a menos de cinco minutos andando.",
+      "zh": "有，走路不到五分鐘就有兩家。"
+    },
+    {
+      "es": "¿Y transporte público?",
+      "zh": "那大眾運輸呢？"
+    },
+    {
+      "es": "La estación de metro está justo a la vuelta de la esquina.",
+      "zh": "地鐵站就在街角轉彎處。"
+    },
+    {
+      "es": "¿El contrato sería de un año?",
+      "zh": "合約是一年的嗎？"
+    },
+    {
+      "es": "Sí, mínimo un año, con posibilidad de renovar.",
+      "zh": "對，至少一年，可以續約。"
+    },
+    {
+      "es": "¿Quién paga la comunidad y el agua?",
+      "zh": "管理費和水費由誰負擔？"
+    },
+    {
+      "es": "La comunidad y el agua los pago yo, usted solo la luz y el internet.",
+      "zh": "管理費和水費由我付，您只要付電費和網路費。"
+    },
+    {
+      "es": "Me parece muy razonable.",
+      "zh": "我覺得很合理。"
+    },
+    {
+      "es": "Si todo le gusta mañana, podríamos firmar la semana que viene.",
+      "zh": "如果您明天都滿意，我們下週就可以簽約。"
+    },
+    {
+      "es": "Necesitaré llevar la nómina y el DNI, ¿verdad?",
+      "zh": "我需要帶薪資證明和身分證對吧？"
+    },
+    {
+      "es": "Exacto, con eso y la fianza ya podemos firmar el contrato.",
+      "zh": "沒錯，有那些東西加押金我們就可以簽約了。"
+    },
+    {
+      "es": "¿De cuántos metros cuadrados es el piso?",
+      "zh": "這間公寓有幾平方公尺？"
+    },
+    {
+      "es": "¿El alquiler incluye los gastos de comunidad?",
+      "zh": "租金有包含社區管理費嗎？"
+    },
+    {
+      "es": "¿Está amueblado o hay que llevar los muebles?",
+      "zh": "是附傢俱還是要自己帶傢俱？"
+    },
+    {
+      "es": "¿En qué planta se encuentra y tiene ascensor?",
+      "zh": "在幾樓，有電梯嗎？"
+    },
+    {
+      "es": "Me gustaría concertar una visita para verlo.",
+      "zh": "我想約時間去看房。"
+    },
+    {
+      "es": "¿Cuánto piden de fianza para entrar a vivir?",
+      "zh": "入住要付多少押金？"
+    },
+    {
+      "es": "¿Se admiten animales de compañía en el edificio?",
+      "zh": "這棟樓可以養寵物嗎？"
+    },
+    {
+      "es": "¿La cocina viene equipada con electrodomésticos?",
+      "zh": "廚房有附家電嗎？"
+    },
+    {
+      "es": "¿Hay buena comunicación con el transporte público?",
+      "zh": "這裡的大眾運輸方便嗎？"
+    },
+    {
+      "es": "¿Cuál es la duración mínima del contrato?",
+      "zh": "合約最短的期限是多久？"
+    }
   ]
 }

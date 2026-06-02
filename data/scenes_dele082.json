@@ -1,55 +1,245 @@
 {
   "title": "Llamando a mamá un sábado por la tarde",
   "all": [
-    {"es": "Hola mamá, ¿qué tal? ¿Te pillo en buen momento?", "zh": "嗨媽，最近怎樣？現在方便講嗎？"},
-    {"es": "Hola, cariño, justo acababa de sentarme en el sofá.", "zh": "嗨寶貝，我剛好坐到沙發上。"},
-    {"es": "Llevaba toda la semana queriendo llamarte, perdona.", "zh": "我整週都想打給你，抱歉。"},
-    {"es": "No pasa nada, ya sé que andas con mucho lío.", "zh": "沒事，我知道你很忙。"},
-    {"es": "¿Cómo está papá? ¿Sigue con el dolor de espalda?", "zh": "爸爸怎樣？背還在痛嗎？"},
-    {"es": "Mucho mejor, fue al fisio el martes y le sentó genial.", "zh": "好多了，週二去看了物理治療，效果很好。"},
-    {"es": "Me alegro, dile que le mando un abrazo muy fuerte.", "zh": "太好了，幫我大力抱抱他。"},
-    {"es": "Se lo digo ahora, está en el jardín regando las plantas.", "zh": "我等下跟他講，他在花園澆花。"},
-    {"es": "¿Y la abuela? Hace siglos que no hablo con ella.", "zh": "那奶奶呢？我好久沒跟她說話了。"},
-    {"es": "La vi el domingo, está muy animada últimamente.", "zh": "我週日去看她，最近精神很好。"},
-    {"es": "Tengo que pasarme a verla pronto, en serio.", "zh": "我真的得趕快去看她。"},
-    {"es": "Le haría mucha ilusión, no te lo pienses tanto.", "zh": "她會超開心的，別想太多直接去。"},
-    {"es": "¿Sabes algo de la tía Carmen? Llevo semanas sin noticias.", "zh": "卡門阿姨有消息嗎？好幾週沒她的消息了。"},
-    {"es": "Sí, me llamó ayer, está con lo de mudarse de piso.", "zh": "有啊，她昨天打給我，正在忙著搬家。"},
-    {"es": "Madre mía, otra vez, si se cambió hace nada.", "zh": "天啊，又搬，她不是才剛搬過嗎。"},
-    {"es": "Ya sabes cómo es, nunca está contenta con el barrio.", "zh": "你也知道她那個性，從沒滿意過哪個社區。"},
-    {"es": "Pues a ver si esta vez se queda más tiempo.", "zh": "希望這次能多待一陣子。"},
-    {"es": "Por cierto, ¿estás comiendo bien? Te noto la voz cansada.", "zh": "對了，你有好好吃飯嗎？聽你聲音好累。"},
-    {"es": "Sí, mamá, no empieces, te lo prometo.", "zh": "有啦媽，別又來，我保證。"},
-    {"es": "Es que la última vez que viniste estabas muy delgado.", "zh": "上次你回來看起來瘦好多。"},
-    {"es": "Te juro que como tres veces al día, sin saltarme nada.", "zh": "我發誓一天吃三餐，一頓都沒漏。"},
-    {"es": "Vale, vale, te creo, pero cuídate, por favor.", "zh": "好啦好啦，我信你，總之要照顧自己。"},
-    {"es": "¿Qué tal el trabajo? ¿Sigues con ese jefe tan pesado?", "zh": "工作如何？還是那個煩人的主管嗎？"},
-    {"es": "Sí, pero ya casi ni le hago caso, paso de él.", "zh": "對，但我幾乎不理他了，懶得管。"},
-    {"es": "Haces bien, no merece la pena enfadarse por esas cosas.", "zh": "你做得對，這種事不值得生氣。"},
-    {"es": "Estoy pensando en pedir unas vacaciones en julio.", "zh": "我在想七月請個假。"},
-    {"es": "¡Qué bien! ¿Te vas a venir al pueblo unos días?", "zh": "太好了！你會回鄉下住幾天嗎？"},
-    {"es": "Esa es la idea, una semana entera con vosotros.", "zh": "就是這個打算，整整一週陪你們。"},
-    {"es": "Voy preparando tu cuarto y haciendo tu comida favorita.", "zh": "我來準備你的房間，做你最愛的菜。"},
-    {"es": "No te molestes mucho, ya sabes que como cualquier cosa.", "zh": "別忙太多，你知道我什麼都能吃。"},
-    {"es": "Eso lo dices ahora, pero luego pides repetir, ya te conozco.", "zh": "你現在這麼說，等下還不是要再來一盤，我太了解你了。"},
-    {"es": "Bueno, en eso tienes razón, no lo voy a negar.", "zh": "好啦這點我不否認。"},
-    {"es": "¿Y de novios o de citas, cómo lo llevas?", "zh": "那感情或約會方面呢，怎麼樣？"},
-    {"es": "Mamá, por favor, no empecemos otra vez con eso.", "zh": "媽，拜託，別又來這個話題。"},
-    {"es": "Solo pregunto, no te enfades, hija mía.", "zh": "只是問問，別生氣，我的寶貝。"},
-    {"es": "Cuando haya algo serio, serás la primera en saberlo.", "zh": "等有正經對象，你會第一個知道。"},
-    {"es": "Eso espero, que tu hermano nunca me cuenta nada.", "zh": "希望喔，你哥從來什麼都不跟我講。"},
-    {"es": "Es que él es más reservado, no se lo tomes a mal.", "zh": "他比較內向，別放在心上。"},
-    {"es": "Ya lo sé, pero a una madre le gusta saber cosas.", "zh": "我知道，但當媽的就是想知道一些事嘛。"},
-    {"es": "Te entiendo, mamá, te entiendo perfectamente.", "zh": "我懂媽，我完全懂。"},
-    {"es": "Oye, ¿te acuerdas de la receta del bizcocho de la abuela?", "zh": "欸，你還記得奶奶那個蛋糕食譜嗎？"},
-    {"es": "Claro, te la apunto y te la mando por WhatsApp.", "zh": "當然，我寫下來用 WhatsApp 傳給你。"},
-    {"es": "Genial, mañana lo hago y te mando una foto.", "zh": "太好了，我明天就做，再傳照片給你。"},
-    {"es": "Que no se te queme como la última vez, eh.", "zh": "別像上次一樣烤焦囉。"},
-    {"es": "Eso fue culpa del horno, no mía, mamá.", "zh": "那是烤箱的問題，不是我的，媽。"},
-    {"es": "Ya, ya, siempre es culpa del horno o de la sartén.", "zh": "對對，永遠都是烤箱或平底鍋的錯。"},
-    {"es": "Bueno, te dejo, que tengo que salir un momento.", "zh": "好啦先這樣，我得出去一下。"},
-    {"es": "Vale, hija, cuídate mucho y abrígate, que refresca.", "zh": "好寶貝，多保重，多穿點，外面有點涼。"},
-    {"es": "Te quiero un montón, dale un beso a papá de mi parte.", "zh": "我超愛你，幫我親爸爸一下。"},
-    {"es": "Y yo a ti, llámame en cuanto puedas otra vez.", "zh": "我也是，有空再打給我。"}
+    {
+      "es": "Hola mamá, ¿qué tal? ¿Te pillo en buen momento?",
+      "zh": "嗨媽，最近怎樣？現在方便講嗎？"
+    },
+    {
+      "es": "Hola, cariño, justo acababa de sentarme en el sofá.",
+      "zh": "嗨寶貝，我剛好坐到沙發上。"
+    },
+    {
+      "es": "Llevaba toda la semana queriendo llamarte, perdona.",
+      "zh": "我整週都想打給你，抱歉。"
+    },
+    {
+      "es": "No pasa nada, ya sé que andas con mucho lío.",
+      "zh": "沒事，我知道你很忙。"
+    },
+    {
+      "es": "¿Cómo está papá? ¿Sigue con el dolor de espalda?",
+      "zh": "爸爸怎樣？背還在痛嗎？"
+    },
+    {
+      "es": "Mucho mejor, fue al fisio el martes y le sentó genial.",
+      "zh": "好多了，週二去看了物理治療，效果很好。"
+    },
+    {
+      "es": "Me alegro, dile que le mando un abrazo muy fuerte.",
+      "zh": "太好了，幫我大力抱抱他。"
+    },
+    {
+      "es": "Se lo digo ahora, está en el jardín regando las plantas.",
+      "zh": "我等下跟他講，他在花園澆花。"
+    },
+    {
+      "es": "¿Y la abuela? Hace siglos que no hablo con ella.",
+      "zh": "那奶奶呢？我好久沒跟她說話了。"
+    },
+    {
+      "es": "La vi el domingo, está muy animada últimamente.",
+      "zh": "我週日去看她，最近精神很好。"
+    },
+    {
+      "es": "Tengo que pasarme a verla pronto, en serio.",
+      "zh": "我真的得趕快去看她。"
+    },
+    {
+      "es": "Le haría mucha ilusión, no te lo pienses tanto.",
+      "zh": "她會超開心的，別想太多直接去。"
+    },
+    {
+      "es": "¿Sabes algo de la tía Carmen? Llevo semanas sin noticias.",
+      "zh": "卡門阿姨有消息嗎？好幾週沒她的消息了。"
+    },
+    {
+      "es": "Sí, me llamó ayer, está con lo de mudarse de piso.",
+      "zh": "有啊，她昨天打給我，正在忙著搬家。"
+    },
+    {
+      "es": "Madre mía, otra vez, si se cambió hace nada.",
+      "zh": "天啊，又搬，她不是才剛搬過嗎。"
+    },
+    {
+      "es": "Ya sabes cómo es, nunca está contenta con el barrio.",
+      "zh": "你也知道她那個性，從沒滿意過哪個社區。"
+    },
+    {
+      "es": "Pues a ver si esta vez se queda más tiempo.",
+      "zh": "希望這次能多待一陣子。"
+    },
+    {
+      "es": "Por cierto, ¿estás comiendo bien? Te noto la voz cansada.",
+      "zh": "對了，你有好好吃飯嗎？聽你聲音好累。"
+    },
+    {
+      "es": "Sí, mamá, no empieces, te lo prometo.",
+      "zh": "有啦媽，別又來，我保證。"
+    },
+    {
+      "es": "Es que la última vez que viniste estabas muy delgado.",
+      "zh": "上次你回來看起來瘦好多。"
+    },
+    {
+      "es": "Te juro que como tres veces al día, sin saltarme nada.",
+      "zh": "我發誓一天吃三餐，一頓都沒漏。"
+    },
+    {
+      "es": "Vale, vale, te creo, pero cuídate, por favor.",
+      "zh": "好啦好啦，我信你，總之要照顧自己。"
+    },
+    {
+      "es": "¿Qué tal el trabajo? ¿Sigues con ese jefe tan pesado?",
+      "zh": "工作如何？還是那個煩人的主管嗎？"
+    },
+    {
+      "es": "Sí, pero ya casi ni le hago caso, paso de él.",
+      "zh": "對，但我幾乎不理他了，懶得管。"
+    },
+    {
+      "es": "Haces bien, no merece la pena enfadarse por esas cosas.",
+      "zh": "你做得對，這種事不值得生氣。"
+    },
+    {
+      "es": "Estoy pensando en pedir unas vacaciones en julio.",
+      "zh": "我在想七月請個假。"
+    },
+    {
+      "es": "¡Qué bien! ¿Te vas a venir al pueblo unos días?",
+      "zh": "太好了！你會回鄉下住幾天嗎？"
+    },
+    {
+      "es": "Esa es la idea, una semana entera con vosotros.",
+      "zh": "就是這個打算，整整一週陪你們。"
+    },
+    {
+      "es": "Voy preparando tu cuarto y haciendo tu comida favorita.",
+      "zh": "我來準備你的房間，做你最愛的菜。"
+    },
+    {
+      "es": "No te molestes mucho, ya sabes que como cualquier cosa.",
+      "zh": "別忙太多，你知道我什麼都能吃。"
+    },
+    {
+      "es": "Eso lo dices ahora, pero luego pides repetir, ya te conozco.",
+      "zh": "你現在這麼說，等下還不是要再來一盤，我太了解你了。"
+    },
+    {
+      "es": "Bueno, en eso tienes razón, no lo voy a negar.",
+      "zh": "好啦這點我不否認。"
+    },
+    {
+      "es": "¿Y de novios o de citas, cómo lo llevas?",
+      "zh": "那感情或約會方面呢，怎麼樣？"
+    },
+    {
+      "es": "Mamá, por favor, no empecemos otra vez con eso.",
+      "zh": "媽，拜託，別又來這個話題。"
+    },
+    {
+      "es": "Solo pregunto, no te enfades, hija mía.",
+      "zh": "只是問問，別生氣，我的寶貝。"
+    },
+    {
+      "es": "Cuando haya algo serio, serás la primera en saberlo.",
+      "zh": "等有正經對象，你會第一個知道。"
+    },
+    {
+      "es": "Eso espero, que tu hermano nunca me cuenta nada.",
+      "zh": "希望喔，你哥從來什麼都不跟我講。"
+    },
+    {
+      "es": "Es que él es más reservado, no se lo tomes a mal.",
+      "zh": "他比較內向，別放在心上。"
+    },
+    {
+      "es": "Ya lo sé, pero a una madre le gusta saber cosas.",
+      "zh": "我知道，但當媽的就是想知道一些事嘛。"
+    },
+    {
+      "es": "Te entiendo, mamá, te entiendo perfectamente.",
+      "zh": "我懂媽，我完全懂。"
+    },
+    {
+      "es": "Oye, ¿te acuerdas de la receta del bizcocho de la abuela?",
+      "zh": "欸，你還記得奶奶那個蛋糕食譜嗎？"
+    },
+    {
+      "es": "Claro, te la apunto y te la mando por WhatsApp.",
+      "zh": "當然，我寫下來用 WhatsApp 傳給你。"
+    },
+    {
+      "es": "Genial, mañana lo hago y te mando una foto.",
+      "zh": "太好了，我明天就做，再傳照片給你。"
+    },
+    {
+      "es": "Que no se te queme como la última vez, eh.",
+      "zh": "別像上次一樣烤焦囉。"
+    },
+    {
+      "es": "Eso fue culpa del horno, no mía, mamá.",
+      "zh": "那是烤箱的問題，不是我的，媽。"
+    },
+    {
+      "es": "Ya, ya, siempre es culpa del horno o de la sartén.",
+      "zh": "對對，永遠都是烤箱或平底鍋的錯。"
+    },
+    {
+      "es": "Bueno, te dejo, que tengo que salir un momento.",
+      "zh": "好啦先這樣，我得出去一下。"
+    },
+    {
+      "es": "Vale, hija, cuídate mucho y abrígate, que refresca.",
+      "zh": "好寶貝，多保重，多穿點，外面有點涼。"
+    },
+    {
+      "es": "Te quiero un montón, dale un beso a papá de mi parte.",
+      "zh": "我超愛你，幫我親爸爸一下。"
+    },
+    {
+      "es": "Y yo a ti, llámame en cuanto puedas otra vez.",
+      "zh": "我也是，有空再打給我。"
+    },
+    {
+      "es": "Cuéntame cómo va el jardín, ¿ya han salido los tomates?",
+      "zh": "跟我說說花園怎麼樣了，番茄長出來了嗎？"
+    },
+    {
+      "es": "Esta semana he tenido un montón de exámenes y apenas he dormido.",
+      "zh": "這禮拜我考試一大堆，幾乎沒怎麼睡。"
+    },
+    {
+      "es": "¿Sigue papá yendo a caminar todas las mañanas con el vecino?",
+      "zh": "爸還是每天早上跟鄰居去散步嗎？"
+    },
+    {
+      "es": "Voy a ir a veros el fin de semana que viene, si os parece bien.",
+      "zh": "如果你們覺得可以，我下個週末去看你們。"
+    },
+    {
+      "es": "Me he acordado de ti porque he hecho tu receta de lentejas.",
+      "zh": "我做了妳的扁豆食譜，所以想起了妳。"
+    },
+    {
+      "es": "Dile a la abuela que la llamo mañana sin falta, que no se me olvida.",
+      "zh": "跟奶奶說我明天一定打給她，我不會忘的。"
+    },
+    {
+      "es": "Estoy ahorrando un poco para cambiarme a un piso más céntrico.",
+      "zh": "我正在存點錢，想搬到比較市中心的公寓。"
+    },
+    {
+      "es": "¿Te has tomado ya las pastillas de la tensión hoy?",
+      "zh": "妳今天血壓的藥吃了沒？"
+    },
+    {
+      "es": "Cuando cuelgue, échate una siesta, que se te nota cansada.",
+      "zh": "掛掉電話後妳去睡個午覺，聽得出妳很累。"
+    },
+    {
+      "es": "Te he mandado por correo unas fotos del viaje, échales un vistazo.",
+      "zh": "我把旅行的照片用 email 寄給妳了，看一下吧。"
+    }
   ]
 }

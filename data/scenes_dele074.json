@@ -1,55 +1,245 @@
 {
   "title": "Pidiendo un día libre al jefe",
   "all": [
-    {"es": "Hola, Roberto, ¿tienes cinco minutos para hablar?", "zh": "嗨，羅伯托，有五分鐘可以聊一下嗎？"},
-    {"es": "Claro, Elena, pasa y cierra la puerta si quieres.", "zh": "當然，艾蓮娜，進來吧，要的話把門關上。"},
-    {"es": "Gracias, quería pedirte un favor algo personal.", "zh": "謝謝，我想拜託你一件比較私人的事。"},
-    {"es": "Dime, ¿en qué puedo ayudarte exactamente?", "zh": "妳說，我能幫妳什麼？"},
-    {"es": "Necesitaría coger el viernes que viene libre.", "zh": "我下週五想請一天假。"},
-    {"es": "El viernes once, ¿no? Déjame mirar el calendario.", "zh": "11 號週五對吧？我看一下行事曆。"},
-    {"es": "Sí, ese mismo, ya sé que entregamos el proyecto el jueves.", "zh": "對就是那天，我知道週四要交專案。"},
-    {"es": "Justo por eso quería estar segura de que no molesto.", "zh": "所以我想確認不會影響到工作。"},
-    {"es": "¿Es algo urgente o tienes algún plan especial?", "zh": "是有急事還是有什麼特別計畫？"},
-    {"es": "Mi hermana se casa el sábado y queremos ir antes.", "zh": "我姊姊週六結婚，我們想提前過去。"},
-    {"es": "Ah, qué bonito, ¿dónde se celebra la boda?", "zh": "好棒喔，婚禮在哪裡舉行？"},
-    {"es": "En Asturias, en un pueblo pequeño cerca de Oviedo.", "zh": "在阿斯圖里亞斯，奧維耶多附近的一個小村。"},
-    {"es": "Entonces lógicamente necesitas salir antes para el viaje.", "zh": "那妳當然要提前出發比較合理。"},
-    {"es": "Exacto, son seis horas en coche desde Madrid.", "zh": "對，從馬德里開車要六小時。"},
-    {"es": "No te preocupes, por mi parte no hay problema.", "zh": "別擔心，我這邊沒問題。"},
-    {"es": "Muchas gracias, Roberto, no sabes cómo te lo agradezco.", "zh": "太感謝了，羅伯托，你不知道我有多感激。"},
-    {"es": "Eso sí, vamos a organizar bien la entrega del jueves.", "zh": "不過我們得把週四的交付處理好。"},
-    {"es": "Por supuesto, lo dejaré todo cerrado ese mismo día.", "zh": "當然，我那天會把所有事情都收尾。"},
-    {"es": "¿Quién puede cubrirte si surge una urgencia el viernes?", "zh": "如果週五有急事，誰可以幫妳處理？"},
-    {"es": "He hablado con Marcos y se ofreció a ayudarme.", "zh": "我跟馬可斯談過了，他願意幫忙。"},
-    {"es": "Perfecto, Marcos conoce el proyecto bastante bien.", "zh": "完美，馬可斯對這個案子相當熟。"},
-    {"es": "Le voy a pasar un resumen por escrito esta semana.", "zh": "我這週會寫一份書面摘要給他。"},
-    {"es": "Buena idea, incluye los contactos de los clientes clave.", "zh": "好主意，把重要客戶的聯絡方式也加進去。"},
-    {"es": "Sí, ya lo tengo pensado, también pondré contraseñas compartidas.", "zh": "好的，我有想到，也會列出共用密碼。"},
-    {"es": "¿Has avisado al cliente de que el viernes no estarás?", "zh": "妳跟客戶說過週五不在嗎？"},
-    {"es": "Le aviso mañana, no quería decirlo antes de hablar contigo.", "zh": "我明天告知他，跟你談過之前不想先講。"},
-    {"es": "Bien hecho, así no hay confusiones innecesarias.", "zh": "做得好，這樣才不會有不必要的混亂。"},
-    {"es": "Pondré una respuesta automática en el correo ese día.", "zh": "我那天會設信箱自動回覆。"},
-    {"es": "Y desviaré las llamadas a Marcos directamente.", "zh": "電話也會直接轉接給馬可斯。"},
-    {"es": "Perfecto, eso evita problemas con clientes impacientes.", "zh": "很好，這樣可以避免急性子客戶不耐煩。"},
-    {"es": "¿Lo cuento como vacaciones o como día personal?", "zh": "要算成年假還是個人假？"},
-    {"es": "Cuéntalo como personal, te quedan días aún disponibles.", "zh": "算個人假吧，妳還有額度。"},
-    {"es": "Genial, así guardo las vacaciones para agosto.", "zh": "太好了，這樣年假可以留到八月。"},
-    {"es": "Acuérdate de meterlo en el sistema antes del miércoles.", "zh": "記得週三前到系統登記。"},
-    {"es": "Lo hago esta tarde, antes de que se me olvide.", "zh": "今天下午就辦，免得忘記。"},
-    {"es": "Por cierto, ¿vuelves el lunes o necesitas más días?", "zh": "對了，妳週一回來嗎還是需要多請幾天？"},
-    {"es": "Vuelvo el lunes, no quiero acumular trabajo atrasado.", "zh": "週一就回來，不想累積太多工作。"},
-    {"es": "Como prefieras, recuerda descansar también un poco.", "zh": "看妳怎麼方便，記得也休息一下。"},
-    {"es": "Lo intentaré, aunque las bodas son agotadoras siempre.", "zh": "我會盡量，雖然婚禮總是讓人很累。"},
-    {"es": "Te entiendo, después de cualquier viaje necesito otro viaje.", "zh": "我懂，每次旅行回來都需要再休息一次。"},
-    {"es": "Ja, ja, exacto, eso digo yo siempre.", "zh": "哈哈，沒錯，我也都這麼說。"},
-    {"es": "Pásalo bien con tu familia, es un día único.", "zh": "好好享受家人的時光，一輩子一次。"},
-    {"es": "Gracias por la flexibilidad, no todos los jefes la dan.", "zh": "謝謝你的彈性，不是每個主管都會這樣。"},
-    {"es": "Aquí intentamos cuidar a la gente, eso es lo importante.", "zh": "我們這邊盡量照顧員工，這才重要。"},
-    {"es": "Se nota mucho y por eso me gusta trabajar aquí.", "zh": "感覺得出來，所以我喜歡在這裡工作。"},
-    {"es": "Cuídate y mándame una foto de la novia.", "zh": "保重，記得傳張新娘的照片給我看。"},
-    {"es": "Lo haré encantada, te mando el ramo si lo cojo.", "zh": "樂意之至，捧花搶到的話寄給你。"},
-    {"es": "Ja, ja, eso lo prefiero quedármelo para mí mismo.", "zh": "哈哈，那個我自己留著就好。"},
-    {"es": "Cierro la puerta al salir, gracias otra vez, Roberto.", "zh": "我出去把門關上，再次謝謝你，羅伯托。"},
-    {"es": "De nada, Elena, hablamos el jueves para los últimos detalles.", "zh": "不客氣，艾蓮娜，週四再對一下最後細節。"}
+    {
+      "es": "Hola, Roberto, ¿tienes cinco minutos para hablar?",
+      "zh": "嗨，羅伯托，有五分鐘可以聊一下嗎？"
+    },
+    {
+      "es": "Claro, Elena, pasa y cierra la puerta si quieres.",
+      "zh": "當然，艾蓮娜，進來吧，要的話把門關上。"
+    },
+    {
+      "es": "Gracias, quería pedirte un favor algo personal.",
+      "zh": "謝謝，我想拜託你一件比較私人的事。"
+    },
+    {
+      "es": "Dime, ¿en qué puedo ayudarte exactamente?",
+      "zh": "妳說，我能幫妳什麼？"
+    },
+    {
+      "es": "Necesitaría coger el viernes que viene libre.",
+      "zh": "我下週五想請一天假。"
+    },
+    {
+      "es": "El viernes once, ¿no? Déjame mirar el calendario.",
+      "zh": "11 號週五對吧？我看一下行事曆。"
+    },
+    {
+      "es": "Sí, ese mismo, ya sé que entregamos el proyecto el jueves.",
+      "zh": "對就是那天，我知道週四要交專案。"
+    },
+    {
+      "es": "Justo por eso quería estar segura de que no molesto.",
+      "zh": "所以我想確認不會影響到工作。"
+    },
+    {
+      "es": "¿Es algo urgente o tienes algún plan especial?",
+      "zh": "是有急事還是有什麼特別計畫？"
+    },
+    {
+      "es": "Mi hermana se casa el sábado y queremos ir antes.",
+      "zh": "我姊姊週六結婚，我們想提前過去。"
+    },
+    {
+      "es": "Ah, qué bonito, ¿dónde se celebra la boda?",
+      "zh": "好棒喔，婚禮在哪裡舉行？"
+    },
+    {
+      "es": "En Asturias, en un pueblo pequeño cerca de Oviedo.",
+      "zh": "在阿斯圖里亞斯，奧維耶多附近的一個小村。"
+    },
+    {
+      "es": "Entonces lógicamente necesitas salir antes para el viaje.",
+      "zh": "那妳當然要提前出發比較合理。"
+    },
+    {
+      "es": "Exacto, son seis horas en coche desde Madrid.",
+      "zh": "對，從馬德里開車要六小時。"
+    },
+    {
+      "es": "No te preocupes, por mi parte no hay problema.",
+      "zh": "別擔心，我這邊沒問題。"
+    },
+    {
+      "es": "Muchas gracias, Roberto, no sabes cómo te lo agradezco.",
+      "zh": "太感謝了，羅伯托，你不知道我有多感激。"
+    },
+    {
+      "es": "Eso sí, vamos a organizar bien la entrega del jueves.",
+      "zh": "不過我們得把週四的交付處理好。"
+    },
+    {
+      "es": "Por supuesto, lo dejaré todo cerrado ese mismo día.",
+      "zh": "當然，我那天會把所有事情都收尾。"
+    },
+    {
+      "es": "¿Quién puede cubrirte si surge una urgencia el viernes?",
+      "zh": "如果週五有急事，誰可以幫妳處理？"
+    },
+    {
+      "es": "He hablado con Marcos y se ofreció a ayudarme.",
+      "zh": "我跟馬可斯談過了，他願意幫忙。"
+    },
+    {
+      "es": "Perfecto, Marcos conoce el proyecto bastante bien.",
+      "zh": "完美，馬可斯對這個案子相當熟。"
+    },
+    {
+      "es": "Le voy a pasar un resumen por escrito esta semana.",
+      "zh": "我這週會寫一份書面摘要給他。"
+    },
+    {
+      "es": "Buena idea, incluye los contactos de los clientes clave.",
+      "zh": "好主意，把重要客戶的聯絡方式也加進去。"
+    },
+    {
+      "es": "Sí, ya lo tengo pensado, también pondré contraseñas compartidas.",
+      "zh": "好的，我有想到，也會列出共用密碼。"
+    },
+    {
+      "es": "¿Has avisado al cliente de que el viernes no estarás?",
+      "zh": "妳跟客戶說過週五不在嗎？"
+    },
+    {
+      "es": "Le aviso mañana, no quería decirlo antes de hablar contigo.",
+      "zh": "我明天告知他，跟你談過之前不想先講。"
+    },
+    {
+      "es": "Bien hecho, así no hay confusiones innecesarias.",
+      "zh": "做得好，這樣才不會有不必要的混亂。"
+    },
+    {
+      "es": "Pondré una respuesta automática en el correo ese día.",
+      "zh": "我那天會設信箱自動回覆。"
+    },
+    {
+      "es": "Y desviaré las llamadas a Marcos directamente.",
+      "zh": "電話也會直接轉接給馬可斯。"
+    },
+    {
+      "es": "Perfecto, eso evita problemas con clientes impacientes.",
+      "zh": "很好，這樣可以避免急性子客戶不耐煩。"
+    },
+    {
+      "es": "¿Lo cuento como vacaciones o como día personal?",
+      "zh": "要算成年假還是個人假？"
+    },
+    {
+      "es": "Cuéntalo como personal, te quedan días aún disponibles.",
+      "zh": "算個人假吧，妳還有額度。"
+    },
+    {
+      "es": "Genial, así guardo las vacaciones para agosto.",
+      "zh": "太好了，這樣年假可以留到八月。"
+    },
+    {
+      "es": "Acuérdate de meterlo en el sistema antes del miércoles.",
+      "zh": "記得週三前到系統登記。"
+    },
+    {
+      "es": "Lo hago esta tarde, antes de que se me olvide.",
+      "zh": "今天下午就辦，免得忘記。"
+    },
+    {
+      "es": "Por cierto, ¿vuelves el lunes o necesitas más días?",
+      "zh": "對了，妳週一回來嗎還是需要多請幾天？"
+    },
+    {
+      "es": "Vuelvo el lunes, no quiero acumular trabajo atrasado.",
+      "zh": "週一就回來，不想累積太多工作。"
+    },
+    {
+      "es": "Como prefieras, recuerda descansar también un poco.",
+      "zh": "看妳怎麼方便，記得也休息一下。"
+    },
+    {
+      "es": "Lo intentaré, aunque las bodas son agotadoras siempre.",
+      "zh": "我會盡量，雖然婚禮總是讓人很累。"
+    },
+    {
+      "es": "Te entiendo, después de cualquier viaje necesito otro viaje.",
+      "zh": "我懂，每次旅行回來都需要再休息一次。"
+    },
+    {
+      "es": "Ja, ja, exacto, eso digo yo siempre.",
+      "zh": "哈哈，沒錯，我也都這麼說。"
+    },
+    {
+      "es": "Pásalo bien con tu familia, es un día único.",
+      "zh": "好好享受家人的時光，一輩子一次。"
+    },
+    {
+      "es": "Gracias por la flexibilidad, no todos los jefes la dan.",
+      "zh": "謝謝你的彈性，不是每個主管都會這樣。"
+    },
+    {
+      "es": "Aquí intentamos cuidar a la gente, eso es lo importante.",
+      "zh": "我們這邊盡量照顧員工，這才重要。"
+    },
+    {
+      "es": "Se nota mucho y por eso me gusta trabajar aquí.",
+      "zh": "感覺得出來，所以我喜歡在這裡工作。"
+    },
+    {
+      "es": "Cuídate y mándame una foto de la novia.",
+      "zh": "保重，記得傳張新娘的照片給我看。"
+    },
+    {
+      "es": "Lo haré encantada, te mando el ramo si lo cojo.",
+      "zh": "樂意之至，捧花搶到的話寄給你。"
+    },
+    {
+      "es": "Ja, ja, eso lo prefiero quedármelo para mí mismo.",
+      "zh": "哈哈，那個我自己留著就好。"
+    },
+    {
+      "es": "Cierro la puerta al salir, gracias otra vez, Roberto.",
+      "zh": "我出去把門關上，再次謝謝你，羅伯托。"
+    },
+    {
+      "es": "De nada, Elena, hablamos el jueves para los últimos detalles.",
+      "zh": "不客氣，艾蓮娜，週四再對一下最後細節。"
+    },
+    {
+      "es": "Necesito ausentarme el próximo lunes por motivos familiares.",
+      "zh": "下週一我因為家裡的事需要請假。"
+    },
+    {
+      "es": "Tengo que acompañar a mi madre a una cita médica.",
+      "zh": "我得陪我媽媽去看醫生。"
+    },
+    {
+      "es": "Ya he dejado mis tareas adelantadas para ese día.",
+      "zh": "我已經把那天的工作預先處理好了。"
+    },
+    {
+      "es": "Una compañera podría cubrirme si surge algo urgente.",
+      "zh": "如果有急事，有位同事可以幫我代班。"
+    },
+    {
+      "es": "Por supuesto, recuperaré las horas la semana siguiente.",
+      "zh": "當然，我下週會把時數補回來。"
+    },
+    {
+      "es": "No quiero que esto afecte al ritmo del proyecto.",
+      "zh": "我不希望這件事影響到專案的進度。"
+    },
+    {
+      "es": "Te avisé con antelación para que pudieras organizarte.",
+      "zh": "我提早通知你，好讓你方便安排。"
+    },
+    {
+      "es": "Tranquila, un día libre no es ningún problema.",
+      "zh": "別擔心，請一天假完全沒問題。"
+    },
+    {
+      "es": "Solo recuerda registrar la ausencia en el sistema.",
+      "zh": "只要記得在系統裡登記這次的請假就好。"
+    },
+    {
+      "es": "Te lo agradezco mucho, me quitas un peso de encima.",
+      "zh": "真的很感謝你，讓我放下心中的大石頭。"
+    }
   ]
 }

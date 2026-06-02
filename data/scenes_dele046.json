@@ -1,45 +1,205 @@
 {
   "title": "Ensayo: la deriva del lenguaje en la era algorítmica",
   "all": [
-    { "es": "Asistimos, sin advertirlo del todo, a una deriva silenciosa del lenguaje cuyo cauce ha sido subrepticiamente reconfigurado por la maquinaria algorítmica.", "zh": "我們在不甚自覺中，正目睹語言一場沉默的漂移，其河道早已被演算法機制悄然重新塑形。" },
-    { "es": "Aquello que parecía la materia más íntima del sujeto hablante ha devenido objeto cuantificable, predecible y, en consecuencia, modulable por intereses ajenos.", "zh": "曾被視為言說主體最私密之質料者，已淪為可量化、可預測，並因而可受外部利益調控之物。" },
-    { "es": "Conviene preguntarse si todavía hablamos como queremos, o si más bien hablamos como las arquitecturas computacionales nos han habituado a hablar.", "zh": "我們應自問，自己是否仍照所願而言說，抑或已是按計算架構所馴化之方式而言說。" },
-    { "es": "Los modelos estadísticos del lenguaje, entrenados sobre corpus inabarcables, devuelven una versión promediada del decir que tiende a borrar las asperezas estilísticas.", "zh": "以浩瀚語料訓練之語言統計模型，回饋給我們一種趨於平均的言說，往往磨平風格上的稜角。" },
-    { "es": "Lo idiosincrásico, lo regional, lo desviado: he ahí precisamente lo que un sistema diseñado para optimizar la probabilidad tiende a marginar como ruido.", "zh": "個人特異性、地域性、偏離常軌之言：正是這些，被以最佳化機率為目標所設計之系統視為雜訊而邊緣化。" },
-    { "es": "Si Walter Benjamin lamentaba la pérdida del aura en la obra de arte reproducible, cabría hoy lamentar la del verbo cuando se vuelve serializable.", "zh": "若班雅明曾哀嘆可複製藝術作品中靈光之逝，今日我們或可哀嘆語詞淪為可序列化產物時所失之靈光。" },
-    { "es": "La conversación humana, despojada de sus titubeos, sus silencios fértiles y sus desvíos retóricos, queda reducida a un intercambio funcional de tokens.", "zh": "人類對話一旦被剝除其支吾、其豐盈沉默與修辭迂迴，便淪為功能性的詞元交換。" },
-    { "es": "Tal empobrecimiento no es accidental: responde a la lógica económica que ha encontrado en la textualidad fluida un yacimiento por explotar.", "zh": "此種貧化絕非偶然，它呼應著一種經濟邏輯，後者在流暢文本性中發現了可供開採的礦藏。" },
-    { "es": "Toda palabra que tecleamos alimenta un dispositivo que aprende a anticiparnos, configurando paulatinamente las condiciones en que nos será dado pensar.", "zh": "我們所敲下的每一字，皆餵養一架學習預測我們之機器，逐步形塑著我們得以思考的條件。" },
-    { "es": "El feedback se torna circular: escribimos sugeridos por modelos que se reentrenan con nuestra escritura ya mediada por aquellas sugerencias.", "zh": "回饋環路於焉閉合：我們依模型所建議而書寫，模型則以早已受其建議所中介的我們之書寫重新訓練。" },
-    { "es": "Quienes celebran esta deriva como mero progreso comunicativo desatienden la dimensión propiamente política de toda economía lingüística.", "zh": "將此種漂移單純頌揚為溝通進步者，忽略了任何語言經濟所固有的政治面向。" },
-    { "es": "Pues hablar nunca fue solo transmitir información: hablar es siempre, también, instituir mundos y disputar el sentido de lo común.", "zh": "因為言說從不僅是傳遞資訊，言說同時亦是建構世界、爭辯共通意義的行動。" },
-    { "es": "Cuando la sintaxis del bien hablar la decide una empresa, también se decide, de un modo opaco pero efectivo, qué pensamientos resultarán pensables.", "zh": "當「善言」之語法由某企業所決定時，亦以隱晦但有效的方式，決定了何種思想將成為可思之物。" },
-    { "es": "Frente a este horizonte, no basta con denunciar; urge cultivar disciplinas de resistencia estilística, geografías expresivas que escapen a la homogeneización.", "zh": "面對此一境況，僅止於指控有所不足，當務之急是培育風格抵抗的修養，培育能逃脫均質化的表達地理學。" },
-    { "es": "La poesía, la jerga, el dialecto, el habla que se permite la opacidad: he aquí refugios que el algoritmo aún no ha sabido domesticar del todo.", "zh": "詩、行話、方言、容許不透明的言說：正是演算法尚未能徹底馴化之庇護所。" },
-    { "es": "Sostener tales refugios exige una pedagogía del decir difícil, que se atreva a privilegiar el matiz sobre la eficiencia.", "zh": "維護此類庇護所需一種困難之言說教學法，敢於將細微優先於效率。" },
-    { "es": "Hace falta, igualmente, una jurisprudencia capaz de reconocer derechos lingüísticos colectivos frente a la captura corporativa del lenguaje.", "zh": "同樣亟需的，是能於企業對語言之擄獲面前承認集體語言權的法理學。" },
-    { "es": "Nada de esto resultará viable si no se asume, además, una crítica de fondo a la métrica con que medimos lo que dignifica una expresión.", "zh": "若不同時對我們衡量何謂尊嚴表達之量度進行根本批判，上述一切皆難以實現。" },
-    { "es": "Pues mientras sigamos juzgando la lengua por su rendimiento, no seremos capaces de defenderla en aquello que la hace propiamente humana.", "zh": "因為只要我們持續以效能評斷語言，便無法捍衛使其真正具人性之所在。" },
-    { "es": "Quizá la tarea más urgente consista, paradójicamente, en aprender a callar de modos que ninguna máquina pueda completar por nosotros.", "zh": "或許最迫切的工作弔詭地在於，學會以任何機器無法替我們完成之方式沉默。" },
-    { "es": "Permítaseme, llegados a este punto, ahondar en algunas figuras de esa resistencia silenciosa que apenas hemos esbozado.", "zh": "行至此處，請容本人深入若干前文僅勉強勾勒之沉默抵抗形象。" },
-    { "es": "Pienso, ante todo, en el silencio premeditado de quien rehúsa producir contenido cada vez que la plataforma se lo demanda.", "zh": "本人首先想到的是那刻意之沉默，屬於每當平台索取內容時皆拒絕產出者。" },
-    { "es": "Tal abstención, lejos de ser inacción, constituye un acto enunciativo que rasga el continuum extractivo de la atención dirigida.", "zh": "此種棄絕絕非無作為，而是構成一言說行為，撕裂受導向之注意力的開採性連續體。" },
-    { "es": "Pienso, asimismo, en quien escribe a mano cartas que ningún modelo ha podido leer durante su gestación íntima.", "zh": "本人亦想到那些手書信函者，於其私密孕育過程中，任何模型皆無從窺讀。" },
-    { "es": "La caligrafía, gesto que parecía obsoleto, recupera súbitamente una densidad política inesperada en este contexto.", "zh": "手寫此一似已過時之舉，於此脈絡中赫然重獲一意料之外之政治密度。" },
-    { "es": "Pienso, sobre todo, en quienes cultivan lenguas minorizadas con la lentitud necesaria para que sigan generando mundos.", "zh": "本人尤念及那些以必要之緩慢培育受壓抑語言者，使之得以繼續孕育世界。" },
-    { "es": "Cada palabra preservada en un idioma minoritario es una posibilidad ontológica que el monolingüismo algorítmico amenaza con clausurar.", "zh": "於少數語言中保存之每一字詞，皆為演算法單語制威脅關閉之本體可能。" },
-    { "es": "Frente a esa amenaza, no caben las medias tintas: las políticas lingüísticas son hoy, ineludiblemente, políticas existenciales.", "zh": "面對此威脅，半調子之姿無從立足：語言政策今日無可迴避地即是存在政治。" },
-    { "es": "Habría que reformular, además, la concepción ingenua según la cual el lenguaje refleja un pensamiento que le sería previo.", "zh": "我們亦應重構那天真的觀念，後者認定語言僅反映某種先於語言之思想。" },
-    { "es": "Si pensar es siempre pensar en una lengua, modificar la lengua equivale a modificar las texturas mismas del pensar.", "zh": "若思考恆於某語言內進行，更動語言便等同於更動思考之肌理本身。" },
-    { "es": "La hegemonía algorítmica no produce, en consecuencia, solo discursos uniformes: produce sujetos cuyo pensamiento adopta la forma de aquellos discursos.", "zh": "演算法之霸權因而非僅生產同質論述，更生產出其思想採取該論述形式之主體。" },
-    { "es": "Diagnosticar este proceso sin ceder al lamento exige, paradójicamente, conservar la capacidad de pensar contra el propio lenguaje recibido.", "zh": "弔詭地，於不耽溺哀嘆下診斷此過程，要求我們保留逆向思考所承襲語言之能力。" },
-    { "es": "Tal capacidad no se improvisa; se cultiva en bibliotecas, en conversaciones extensas, en lecturas que se resisten a ser resumidas.", "zh": "此能力非可即興而得，而於圖書館、漫長對話、拒被概述之閱讀中培育而成。" },
-    { "es": "Allí donde se sostiene esa lentitud, allí persiste, modestamente, la posibilidad de un decir no completamente colonizado.", "zh": "凡此緩慢得以維繫之處，一種未被全然殖民之言說可能性，便謙卑地續存。" },
-    { "es": "Quisiera invocar, antes de cerrar, la figura del traductor, custodio paradigmático de la diferencia lingüística.", "zh": "於收筆前，本人欲召喚譯者之形象，此乃語言差異之典範守護者。" },
-    { "es": "Su oficio consiste, precisamente, en habitar el intersticio donde dos lenguas se rozan sin disolverse, donde la equivalencia confiesa su imposibilidad.", "zh": "其職守正在於棲居於兩語言相觸而不相溶之罅隙，於此等價自承其不可能。" },
-    { "es": "Mientras existan traductores que respeten esa imposibilidad, la lengua conservará una resistencia interna al achatamiento promedio.", "zh": "只要尚有譯者尊重此不可能，語言便將保有對平均扁平化之內在抵抗。" },
-    { "es": "Acaso sea esta la enseñanza más profunda que el oficio traductor puede legar a una era empeñada en suprimir toda fricción.", "zh": "或許此即翻譯職事所能遺贈於一執意消弭一切摩擦時代之最深教誨。" },
-    { "es": "Que el lenguaje vuelva a ser un territorio de fricción es, hoy, un imperativo ético antes que estético.", "zh": "讓語言重新成為摩擦之領域，於今日先是倫理而非美學上之命令。" },
-    { "es": "Sin esa fricción, no habrá pensamiento que merezca tal nombre, sino solo predicciones autocumplidas de un texto sin autor.", "zh": "缺乏此摩擦，便無無愧此名之思想，僅餘一部無作者文本之自我實現預測。" }
+    {
+      "es": "Asistimos, sin advertirlo del todo, a una deriva silenciosa del lenguaje cuyo cauce ha sido subrepticiamente reconfigurado por la maquinaria algorítmica.",
+      "zh": "我們在不甚自覺中，正目睹語言一場沉默的漂移，其河道早已被演算法機制悄然重新塑形。"
+    },
+    {
+      "es": "Aquello que parecía la materia más íntima del sujeto hablante ha devenido objeto cuantificable, predecible y, en consecuencia, modulable por intereses ajenos.",
+      "zh": "曾被視為言說主體最私密之質料者，已淪為可量化、可預測，並因而可受外部利益調控之物。"
+    },
+    {
+      "es": "Conviene preguntarse si todavía hablamos como queremos, o si más bien hablamos como las arquitecturas computacionales nos han habituado a hablar.",
+      "zh": "我們應自問，自己是否仍照所願而言說，抑或已是按計算架構所馴化之方式而言說。"
+    },
+    {
+      "es": "Los modelos estadísticos del lenguaje, entrenados sobre corpus inabarcables, devuelven una versión promediada del decir que tiende a borrar las asperezas estilísticas.",
+      "zh": "以浩瀚語料訓練之語言統計模型，回饋給我們一種趨於平均的言說，往往磨平風格上的稜角。"
+    },
+    {
+      "es": "Lo idiosincrásico, lo regional, lo desviado: he ahí precisamente lo que un sistema diseñado para optimizar la probabilidad tiende a marginar como ruido.",
+      "zh": "個人特異性、地域性、偏離常軌之言：正是這些，被以最佳化機率為目標所設計之系統視為雜訊而邊緣化。"
+    },
+    {
+      "es": "Si Walter Benjamin lamentaba la pérdida del aura en la obra de arte reproducible, cabría hoy lamentar la del verbo cuando se vuelve serializable.",
+      "zh": "若班雅明曾哀嘆可複製藝術作品中靈光之逝，今日我們或可哀嘆語詞淪為可序列化產物時所失之靈光。"
+    },
+    {
+      "es": "La conversación humana, despojada de sus titubeos, sus silencios fértiles y sus desvíos retóricos, queda reducida a un intercambio funcional de tokens.",
+      "zh": "人類對話一旦被剝除其支吾、其豐盈沉默與修辭迂迴，便淪為功能性的詞元交換。"
+    },
+    {
+      "es": "Tal empobrecimiento no es accidental: responde a la lógica económica que ha encontrado en la textualidad fluida un yacimiento por explotar.",
+      "zh": "此種貧化絕非偶然，它呼應著一種經濟邏輯，後者在流暢文本性中發現了可供開採的礦藏。"
+    },
+    {
+      "es": "Toda palabra que tecleamos alimenta un dispositivo que aprende a anticiparnos, configurando paulatinamente las condiciones en que nos será dado pensar.",
+      "zh": "我們所敲下的每一字，皆餵養一架學習預測我們之機器，逐步形塑著我們得以思考的條件。"
+    },
+    {
+      "es": "El feedback se torna circular: escribimos sugeridos por modelos que se reentrenan con nuestra escritura ya mediada por aquellas sugerencias.",
+      "zh": "回饋環路於焉閉合：我們依模型所建議而書寫，模型則以早已受其建議所中介的我們之書寫重新訓練。"
+    },
+    {
+      "es": "Quienes celebran esta deriva como mero progreso comunicativo desatienden la dimensión propiamente política de toda economía lingüística.",
+      "zh": "將此種漂移單純頌揚為溝通進步者，忽略了任何語言經濟所固有的政治面向。"
+    },
+    {
+      "es": "Pues hablar nunca fue solo transmitir información: hablar es siempre, también, instituir mundos y disputar el sentido de lo común.",
+      "zh": "因為言說從不僅是傳遞資訊，言說同時亦是建構世界、爭辯共通意義的行動。"
+    },
+    {
+      "es": "Cuando la sintaxis del bien hablar la decide una empresa, también se decide, de un modo opaco pero efectivo, qué pensamientos resultarán pensables.",
+      "zh": "當「善言」之語法由某企業所決定時，亦以隱晦但有效的方式，決定了何種思想將成為可思之物。"
+    },
+    {
+      "es": "Frente a este horizonte, no basta con denunciar; urge cultivar disciplinas de resistencia estilística, geografías expresivas que escapen a la homogeneización.",
+      "zh": "面對此一境況，僅止於指控有所不足，當務之急是培育風格抵抗的修養，培育能逃脫均質化的表達地理學。"
+    },
+    {
+      "es": "La poesía, la jerga, el dialecto, el habla que se permite la opacidad: he aquí refugios que el algoritmo aún no ha sabido domesticar del todo.",
+      "zh": "詩、行話、方言、容許不透明的言說：正是演算法尚未能徹底馴化之庇護所。"
+    },
+    {
+      "es": "Sostener tales refugios exige una pedagogía del decir difícil, que se atreva a privilegiar el matiz sobre la eficiencia.",
+      "zh": "維護此類庇護所需一種困難之言說教學法，敢於將細微優先於效率。"
+    },
+    {
+      "es": "Hace falta, igualmente, una jurisprudencia capaz de reconocer derechos lingüísticos colectivos frente a la captura corporativa del lenguaje.",
+      "zh": "同樣亟需的，是能於企業對語言之擄獲面前承認集體語言權的法理學。"
+    },
+    {
+      "es": "Nada de esto resultará viable si no se asume, además, una crítica de fondo a la métrica con que medimos lo que dignifica una expresión.",
+      "zh": "若不同時對我們衡量何謂尊嚴表達之量度進行根本批判，上述一切皆難以實現。"
+    },
+    {
+      "es": "Pues mientras sigamos juzgando la lengua por su rendimiento, no seremos capaces de defenderla en aquello que la hace propiamente humana.",
+      "zh": "因為只要我們持續以效能評斷語言，便無法捍衛使其真正具人性之所在。"
+    },
+    {
+      "es": "Quizá la tarea más urgente consista, paradójicamente, en aprender a callar de modos que ninguna máquina pueda completar por nosotros.",
+      "zh": "或許最迫切的工作弔詭地在於，學會以任何機器無法替我們完成之方式沉默。"
+    },
+    {
+      "es": "Permítaseme, llegados a este punto, ahondar en algunas figuras de esa resistencia silenciosa que apenas hemos esbozado.",
+      "zh": "行至此處，請容本人深入若干前文僅勉強勾勒之沉默抵抗形象。"
+    },
+    {
+      "es": "Pienso, ante todo, en el silencio premeditado de quien rehúsa producir contenido cada vez que la plataforma se lo demanda.",
+      "zh": "本人首先想到的是那刻意之沉默，屬於每當平台索取內容時皆拒絕產出者。"
+    },
+    {
+      "es": "Tal abstención, lejos de ser inacción, constituye un acto enunciativo que rasga el continuum extractivo de la atención dirigida.",
+      "zh": "此種棄絕絕非無作為，而是構成一言說行為，撕裂受導向之注意力的開採性連續體。"
+    },
+    {
+      "es": "Pienso, asimismo, en quien escribe a mano cartas que ningún modelo ha podido leer durante su gestación íntima.",
+      "zh": "本人亦想到那些手書信函者，於其私密孕育過程中，任何模型皆無從窺讀。"
+    },
+    {
+      "es": "La caligrafía, gesto que parecía obsoleto, recupera súbitamente una densidad política inesperada en este contexto.",
+      "zh": "手寫此一似已過時之舉，於此脈絡中赫然重獲一意料之外之政治密度。"
+    },
+    {
+      "es": "Pienso, sobre todo, en quienes cultivan lenguas minorizadas con la lentitud necesaria para que sigan generando mundos.",
+      "zh": "本人尤念及那些以必要之緩慢培育受壓抑語言者，使之得以繼續孕育世界。"
+    },
+    {
+      "es": "Cada palabra preservada en un idioma minoritario es una posibilidad ontológica que el monolingüismo algorítmico amenaza con clausurar.",
+      "zh": "於少數語言中保存之每一字詞，皆為演算法單語制威脅關閉之本體可能。"
+    },
+    {
+      "es": "Frente a esa amenaza, no caben las medias tintas: las políticas lingüísticas son hoy, ineludiblemente, políticas existenciales.",
+      "zh": "面對此威脅，半調子之姿無從立足：語言政策今日無可迴避地即是存在政治。"
+    },
+    {
+      "es": "Habría que reformular, además, la concepción ingenua según la cual el lenguaje refleja un pensamiento que le sería previo.",
+      "zh": "我們亦應重構那天真的觀念，後者認定語言僅反映某種先於語言之思想。"
+    },
+    {
+      "es": "Si pensar es siempre pensar en una lengua, modificar la lengua equivale a modificar las texturas mismas del pensar.",
+      "zh": "若思考恆於某語言內進行，更動語言便等同於更動思考之肌理本身。"
+    },
+    {
+      "es": "La hegemonía algorítmica no produce, en consecuencia, solo discursos uniformes: produce sujetos cuyo pensamiento adopta la forma de aquellos discursos.",
+      "zh": "演算法之霸權因而非僅生產同質論述，更生產出其思想採取該論述形式之主體。"
+    },
+    {
+      "es": "Diagnosticar este proceso sin ceder al lamento exige, paradójicamente, conservar la capacidad de pensar contra el propio lenguaje recibido.",
+      "zh": "弔詭地，於不耽溺哀嘆下診斷此過程，要求我們保留逆向思考所承襲語言之能力。"
+    },
+    {
+      "es": "Tal capacidad no se improvisa; se cultiva en bibliotecas, en conversaciones extensas, en lecturas que se resisten a ser resumidas.",
+      "zh": "此能力非可即興而得，而於圖書館、漫長對話、拒被概述之閱讀中培育而成。"
+    },
+    {
+      "es": "Allí donde se sostiene esa lentitud, allí persiste, modestamente, la posibilidad de un decir no completamente colonizado.",
+      "zh": "凡此緩慢得以維繫之處，一種未被全然殖民之言說可能性，便謙卑地續存。"
+    },
+    {
+      "es": "Quisiera invocar, antes de cerrar, la figura del traductor, custodio paradigmático de la diferencia lingüística.",
+      "zh": "於收筆前，本人欲召喚譯者之形象，此乃語言差異之典範守護者。"
+    },
+    {
+      "es": "Su oficio consiste, precisamente, en habitar el intersticio donde dos lenguas se rozan sin disolverse, donde la equivalencia confiesa su imposibilidad.",
+      "zh": "其職守正在於棲居於兩語言相觸而不相溶之罅隙，於此等價自承其不可能。"
+    },
+    {
+      "es": "Mientras existan traductores que respeten esa imposibilidad, la lengua conservará una resistencia interna al achatamiento promedio.",
+      "zh": "只要尚有譯者尊重此不可能，語言便將保有對平均扁平化之內在抵抗。"
+    },
+    {
+      "es": "Acaso sea esta la enseñanza más profunda que el oficio traductor puede legar a una era empeñada en suprimir toda fricción.",
+      "zh": "或許此即翻譯職事所能遺贈於一執意消弭一切摩擦時代之最深教誨。"
+    },
+    {
+      "es": "Que el lenguaje vuelva a ser un territorio de fricción es, hoy, un imperativo ético antes que estético.",
+      "zh": "讓語言重新成為摩擦之領域，於今日先是倫理而非美學上之命令。"
+    },
+    {
+      "es": "Sin esa fricción, no habrá pensamiento que merezca tal nombre, sino solo predicciones autocumplidas de un texto sin autor.",
+      "zh": "缺乏此摩擦，便無無愧此名之思想，僅餘一部無作者文本之自我實現預測。"
+    },
+    {
+      "es": "El corrector automático no se limita a enmendar errores: insinúa, palabra a palabra, lo que deberíamos querer decir.",
+      "zh": "自動校正並不僅止於修正錯誤：它逐字逐句地暗示著我們應當想說什麼。"
+    },
+    {
+      "es": "La urgencia de la comunicación digital comprime la sintaxis hasta despojarla de sus pliegues más sutiles.",
+      "zh": "數位溝通的急迫，將語法壓縮到剝除其最細膩的褶皺。"
+    },
+    {
+      "es": "Cuando delegamos la redacción en una máquina, cedemos también la responsabilidad de habitar nuestras propias palabras.",
+      "zh": "當我們將寫作委託給機器時，也一併讓渡了棲居於自身語言的責任。"
+    },
+    {
+      "es": "Las metáforas inesperadas, esas que resisten la predicción, son justamente las primeras en desaparecer.",
+      "zh": "那些抗拒預測的出人意表的隱喻，恰恰是最先消失的。"
+    },
+    {
+      "es": "El idioma se empobrece no por censura explícita, sino por la lenta erosión de sus posibilidades menos frecuentes.",
+      "zh": "語言的貧乏並非源於明文審查，而是源於其較罕用之可能性的緩慢侵蝕。"
+    },
+    {
+      "es": "Cabe sospechar que la fluidez sugerida por la pantalla encubre una creciente uniformidad del pensamiento.",
+      "zh": "我們有理由懷疑，螢幕所暗示的流暢，掩蓋著思想日益加劇的單一化。"
+    },
+    {
+      "es": "Quien escribe vigilado por una predicción constante acaba escribiendo, sin saberlo, para complacer al algoritmo.",
+      "zh": "受不斷預測監視而書寫的人，最終會在不自知間，為了取悅演算法而寫作。"
+    },
+    {
+      "es": "La diversidad de los acentos y los giros locales se diluye en una norma estadística sin patria.",
+      "zh": "口音與地方慣用語的多樣性，消融於一套無祖國可言的統計規範之中。"
+    },
+    {
+      "es": "Recuperar la torpeza, la duda y el titubeo quizá sea hoy un acto de resistencia estilística.",
+      "zh": "重拾笨拙、遲疑與躊躇，在今日或許是一種風格上的抵抗行動。"
+    },
+    {
+      "es": "Ningún modelo, por vasto que sea su entrenamiento, puede prever la frase que aún no ha sido pensada por nadie.",
+      "zh": "無論訓練得多麼浩瀚，沒有任何模型能預見那句尚未被任何人想過的話。"
+    }
   ]
 }

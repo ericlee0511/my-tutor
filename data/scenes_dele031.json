@@ -1,45 +1,205 @@
 {
   "title": "Una conversación con un compañero de trabajo nuevo",
   "all": [
-    { "es": "El lunes por la mañana entró en la oficina un compañero nuevo que se llamaba Andrés y que venía trasladado desde la sucursal de Valencia.", "zh": "週一早上一位名叫安德烈斯的新同事走進辦公室，他是從瓦倫西亞分公司調過來的。" },
-    { "es": "Como yo había llegado temprano, me acerqué a saludarlo y le ofrecí un café mientras esperábamos a que llegara el resto del equipo.", "zh": "因為我那天到得早，我便走過去打招呼，並在等其他同事到齊時請他喝杯咖啡。" },
-    { "es": "Andrés me contó que llevaba ocho años trabajando en la empresa, pero que nunca había vivido en una ciudad tan grande como esta.", "zh": "安德烈斯告訴我他在這家公司已經工作了八年，但從未住過像這裡這麼大的城市。" },
-    { "es": "Yo le pregunté si le había costado mucho adaptarse y él respondió que, al principio, le abrumaban tanto el tráfico como el ritmo de la gente.", "zh": "我問他適應起來會不會很辛苦，他回答說一開始無論是交通或人們的步調都讓他覺得難以招架。" },
-    { "es": "Mientras hablábamos, me di cuenta de que compartíamos varias aficiones, especialmente el senderismo y la fotografía de paisajes.", "zh": "我們聊著聊著，我發現我們有不少共同興趣，特別是健行和風景攝影。" },
-    { "es": "Le expliqué que cerca de aquí hay rutas preciosas que se pueden hacer el fin de semana sin necesidad de salir muy lejos.", "zh": "我跟他說這附近有幾條很美的路線，週末就能去走，不用跑太遠。" },
-    { "es": "Él pareció muy interesado y me pidió que le enviara los nombres de los senderos por mensaje en cuanto tuviera un rato.", "zh": "他似乎很感興趣，並請我有空時用訊息把那些步道的名字傳給他。" },
-    { "es": "Cuando llegó nuestra jefa, nos presentó formalmente y nos pidió que trabajáramos juntos en el próximo proyecto de innovación.", "zh": "等到我們主管來了，她正式向大家介紹了他，並要求我們兩人一起參與下一個創新專案。" },
-    { "es": "Reconozco que al principio me preocupaba un poco no entendernos, ya que cada oficina tiene sus propias costumbres.", "zh": "說實話一開始我有點擔心彼此會合不來，畢竟每間辦公室都有自己的習慣。" },
-    { "es": "Sin embargo, en la primera reunión Andrés demostró que escuchaba con atención y que aceptaba las críticas sin ponerse a la defensiva.", "zh": "不過在第一次會議上，安德烈斯就展現出他會仔細聆聽、面對批評時也不會擺出防衛姿態。" },
-    { "es": "A la hora de comer, varios compañeros se sumaron y fuimos a un restaurante peruano que acaban de abrir en la esquina.", "zh": "午餐時幾位同事也加入我們，我們一起去街角剛開的一家秘魯餐廳吃飯。" },
-    { "es": "Andrés probó por primera vez el ceviche y, según dijo, no esperaba que el pescado crudo pudiera tener un sabor tan fresco.", "zh": "安德烈斯第一次嘗試檸汁醃魚，他說沒想到生魚的味道能那麼清爽。" },
-    { "es": "Después le mostré dónde estaba la cafetería del barrio en la que solemos hacer reuniones más informales con los clientes.", "zh": "之後我帶他去看我們平常和客戶進行較輕鬆會談的那家社區咖啡店。" },
-    { "es": "Por la tarde, mientras revisábamos los informes pendientes, surgió una duda sobre un cliente difícil del trimestre anterior.", "zh": "下午我們在審核待辦報告時，冒出一個關於上一季棘手客戶的疑問。" },
-    { "es": "Le conté el contexto completo para que entendiera por qué habíamos tomado ciertas decisiones que, fuera del contexto, parecían arriesgadas.", "zh": "我把完整背景告訴他，好讓他理解為何我們做了某些抽離脈絡看似冒險的決定。" },
-    { "es": "Él agradeció la sinceridad y aportó una idea que, sinceramente, a mí no se me habría ocurrido por mi cuenta.", "zh": "他感謝我的坦白，並提出一個想法，老實說那個點子我自己是想不到的。" },
-    { "es": "Al final del día, mientras recogíamos los escritorios, comentó que se sentía más tranquilo que por la mañana.", "zh": "下班前我們在整理桌面時，他說自己比早上要安心許多。" },
-    { "es": "Quedamos en tomar algo el viernes con el resto del equipo, para que pudiera conocer a la gente en un ambiente más relajado.", "zh": "我們約好週五和其他同事一起去喝杯東西，讓他在較輕鬆的氛圍中認識大家。" },
-    { "es": "Volviendo a casa en el metro, pensé que muchas veces los compañeros nuevos aportan más de lo que uno espera al principio.", "zh": "搭地鐵回家的路上，我想到新同事帶來的東西往往超過我們一開始的預期。" },
-    { "es": "Si todos los traslados fueran tan fáciles como este, las empresas se ahorrarían muchos problemas de integración.", "zh": "假如所有調動都能像這次一樣順利，公司就能省下許多人員整合上的麻煩。" },
-    { "es": "Al día siguiente, Andrés llegó incluso antes que yo y ya tenía preparado un esquema con las primeras ideas del proyecto.", "zh": "隔天安德烈斯甚至比我還早到，並已備好一份列出專案初步構想的大綱。" },
-    { "es": "Yo le confesé que normalmente no soy tan madrugadora, pero que su entusiasmo me había contagiado sin querer.", "zh": "我向他坦承自己其實沒那麼早起的習慣，可是他的幹勁不知不覺也感染了我。" },
-    { "es": "Durante la reunión técnica del miércoles, defendimos juntos una propuesta que el departamento de marketing había rechazado dos veces.", "zh": "週三的技術會議上，我們一起力挺一項曾被行銷部門兩次否決的提案。" },
-    { "es": "Esta vez, gracias a los datos que él había recopilado en Valencia, conseguimos que la dirección aceptara reconsiderarla.", "zh": "這一次，靠著他在瓦倫西亞蒐集到的數據，我們成功讓高層願意重新考慮這項提案。" },
-    { "es": "El jueves le pregunté cómo se estaba adaptando al barrio en el que se había mudado el fin de semana anterior.", "zh": "週四我問他週末才搬進去的新社區他適應得如何。" },
-    { "es": "Me respondió que el panadero ya lo saludaba por su nombre, lo cual le parecía un buen indicio de que se sentía en casa.", "zh": "他回答說麵包店老闆已經會直接喊他名字，這在他看來是個自己已開始安頓下來的好兆頭。" },
-    { "es": "Cuando llegó el viernes, todo el equipo nos reunimos en una terraza para celebrar el cierre de la semana.", "zh": "週五一到，整個團隊就到一間露天酒吧聚會，慶祝這一週順利結束。" },
-    { "es": "Andrés contó algunas anécdotas de su antigua oficina y, por primera vez, lo vi reírse sin reservas delante de los demás.", "zh": "安德烈斯分享了一些他以前辦公室的趣事，我也第一次看見他在大家面前毫無顧忌地開懷大笑。" },
-    { "es": "Una compañera del área de diseño aprovechó la ocasión para invitarlo a un grupo de senderismo que organizan algunos domingos.", "zh": "設計部的一位同事趁機邀他加入幾個週日固定出遊的健行小團體。" },
-    { "es": "Él aceptó encantado y comentó que ya tenía pensado comprarse unas botas nuevas para empezar a explorar la zona.", "zh": "他欣然答應，並提到自己已打算買一雙新登山鞋，好開始探索這一帶。" },
-    { "es": "El lunes siguiente, antes de comenzar la jornada, me trajo un libro sobre Valencia que pensaba que me iba a gustar.", "zh": "再下個週一上班前，他帶來一本他認為我會喜歡的瓦倫西亞主題的書送我。" },
-    { "es": "Era un detalle pequeño, pero me hizo darme cuenta de que ya lo consideraba un compañero y no solo a un recién llegado.", "zh": "這雖然只是一個小細節，卻讓我意識到自己已經把他當成同事，而不再只是新來的人。" },
-    { "es": "Esa tarde, mientras presentábamos juntos los avances del proyecto, nuestra jefa nos felicitó delante del comité.", "zh": "那天下午我們一起向委員會報告專案進度時，主管當著眾人面前讚賞了我們。" },
-    { "es": "Dijo que pocas veces había visto a dos personas integrarse con tanta naturalidad en tan poco tiempo.", "zh": "她說她很少看到兩個人能在這麼短的時間內配合得如此自然。" },
-    { "es": "Andrés y yo intercambiamos una mirada cómplice, conscientes de que el camino aún era largo, pero también prometedor.", "zh": "我和安德烈斯交換了一個會心的眼神，知道路還很長，但前景同樣令人期待。" },
-    { "es": "Más adelante surgieron, por supuesto, momentos de tensión, sobre todo cuando los plazos se complicaron y los nervios afloraron.", "zh": "後來當然也出現過緊繃的時刻，特別是進度吃緊、大家都神經緊張的時候。" },
-    { "es": "En esas ocasiones aprendimos a discutir las ideas sin atacar a la persona, algo que no siempre resulta fácil en una oficina.", "zh": "在那些時候我們學會了就事論事，不去攻擊對方本人，這在辦公室裡並不總是容易做到。" },
-    { "es": "Cuando concluyó el proyecto, la dirección nos pidió que compartiéramos nuestra experiencia con otros equipos.", "zh": "專案結束後，高層請我們向其他團隊分享我們的合作經驗。" },
-    { "es": "Preparamos una presentación sencilla y la única conclusión que destacamos fue la importancia de escuchar antes de juzgar.", "zh": "我們準備了一份簡單的簡報，唯一強調的結論就是：判斷之前先聆聽。" },
-    { "es": "Hoy, casi un año después, Andrés sigue siendo uno de los compañeros con los que más cómoda me siento trabajando.", "zh": "如今將近一年過去，安德烈斯仍是我合作起來最自在的同事之一。" }
+    {
+      "es": "El lunes por la mañana entró en la oficina un compañero nuevo que se llamaba Andrés y que venía trasladado desde la sucursal de Valencia.",
+      "zh": "週一早上一位名叫安德烈斯的新同事走進辦公室，他是從瓦倫西亞分公司調過來的。"
+    },
+    {
+      "es": "Como yo había llegado temprano, me acerqué a saludarlo y le ofrecí un café mientras esperábamos a que llegara el resto del equipo.",
+      "zh": "因為我那天到得早，我便走過去打招呼，並在等其他同事到齊時請他喝杯咖啡。"
+    },
+    {
+      "es": "Andrés me contó que llevaba ocho años trabajando en la empresa, pero que nunca había vivido en una ciudad tan grande como esta.",
+      "zh": "安德烈斯告訴我他在這家公司已經工作了八年，但從未住過像這裡這麼大的城市。"
+    },
+    {
+      "es": "Yo le pregunté si le había costado mucho adaptarse y él respondió que, al principio, le abrumaban tanto el tráfico como el ritmo de la gente.",
+      "zh": "我問他適應起來會不會很辛苦，他回答說一開始無論是交通或人們的步調都讓他覺得難以招架。"
+    },
+    {
+      "es": "Mientras hablábamos, me di cuenta de que compartíamos varias aficiones, especialmente el senderismo y la fotografía de paisajes.",
+      "zh": "我們聊著聊著，我發現我們有不少共同興趣，特別是健行和風景攝影。"
+    },
+    {
+      "es": "Le expliqué que cerca de aquí hay rutas preciosas que se pueden hacer el fin de semana sin necesidad de salir muy lejos.",
+      "zh": "我跟他說這附近有幾條很美的路線，週末就能去走，不用跑太遠。"
+    },
+    {
+      "es": "Él pareció muy interesado y me pidió que le enviara los nombres de los senderos por mensaje en cuanto tuviera un rato.",
+      "zh": "他似乎很感興趣，並請我有空時用訊息把那些步道的名字傳給他。"
+    },
+    {
+      "es": "Cuando llegó nuestra jefa, nos presentó formalmente y nos pidió que trabajáramos juntos en el próximo proyecto de innovación.",
+      "zh": "等到我們主管來了，她正式向大家介紹了他，並要求我們兩人一起參與下一個創新專案。"
+    },
+    {
+      "es": "Reconozco que al principio me preocupaba un poco no entendernos, ya que cada oficina tiene sus propias costumbres.",
+      "zh": "說實話一開始我有點擔心彼此會合不來，畢竟每間辦公室都有自己的習慣。"
+    },
+    {
+      "es": "Sin embargo, en la primera reunión Andrés demostró que escuchaba con atención y que aceptaba las críticas sin ponerse a la defensiva.",
+      "zh": "不過在第一次會議上，安德烈斯就展現出他會仔細聆聽、面對批評時也不會擺出防衛姿態。"
+    },
+    {
+      "es": "A la hora de comer, varios compañeros se sumaron y fuimos a un restaurante peruano que acaban de abrir en la esquina.",
+      "zh": "午餐時幾位同事也加入我們，我們一起去街角剛開的一家秘魯餐廳吃飯。"
+    },
+    {
+      "es": "Andrés probó por primera vez el ceviche y, según dijo, no esperaba que el pescado crudo pudiera tener un sabor tan fresco.",
+      "zh": "安德烈斯第一次嘗試檸汁醃魚，他說沒想到生魚的味道能那麼清爽。"
+    },
+    {
+      "es": "Después le mostré dónde estaba la cafetería del barrio en la que solemos hacer reuniones más informales con los clientes.",
+      "zh": "之後我帶他去看我們平常和客戶進行較輕鬆會談的那家社區咖啡店。"
+    },
+    {
+      "es": "Por la tarde, mientras revisábamos los informes pendientes, surgió una duda sobre un cliente difícil del trimestre anterior.",
+      "zh": "下午我們在審核待辦報告時，冒出一個關於上一季棘手客戶的疑問。"
+    },
+    {
+      "es": "Le conté el contexto completo para que entendiera por qué habíamos tomado ciertas decisiones que, fuera del contexto, parecían arriesgadas.",
+      "zh": "我把完整背景告訴他，好讓他理解為何我們做了某些抽離脈絡看似冒險的決定。"
+    },
+    {
+      "es": "Él agradeció la sinceridad y aportó una idea que, sinceramente, a mí no se me habría ocurrido por mi cuenta.",
+      "zh": "他感謝我的坦白，並提出一個想法，老實說那個點子我自己是想不到的。"
+    },
+    {
+      "es": "Al final del día, mientras recogíamos los escritorios, comentó que se sentía más tranquilo que por la mañana.",
+      "zh": "下班前我們在整理桌面時，他說自己比早上要安心許多。"
+    },
+    {
+      "es": "Quedamos en tomar algo el viernes con el resto del equipo, para que pudiera conocer a la gente en un ambiente más relajado.",
+      "zh": "我們約好週五和其他同事一起去喝杯東西，讓他在較輕鬆的氛圍中認識大家。"
+    },
+    {
+      "es": "Volviendo a casa en el metro, pensé que muchas veces los compañeros nuevos aportan más de lo que uno espera al principio.",
+      "zh": "搭地鐵回家的路上，我想到新同事帶來的東西往往超過我們一開始的預期。"
+    },
+    {
+      "es": "Si todos los traslados fueran tan fáciles como este, las empresas se ahorrarían muchos problemas de integración.",
+      "zh": "假如所有調動都能像這次一樣順利，公司就能省下許多人員整合上的麻煩。"
+    },
+    {
+      "es": "Al día siguiente, Andrés llegó incluso antes que yo y ya tenía preparado un esquema con las primeras ideas del proyecto.",
+      "zh": "隔天安德烈斯甚至比我還早到，並已備好一份列出專案初步構想的大綱。"
+    },
+    {
+      "es": "Yo le confesé que normalmente no soy tan madrugadora, pero que su entusiasmo me había contagiado sin querer.",
+      "zh": "我向他坦承自己其實沒那麼早起的習慣，可是他的幹勁不知不覺也感染了我。"
+    },
+    {
+      "es": "Durante la reunión técnica del miércoles, defendimos juntos una propuesta que el departamento de marketing había rechazado dos veces.",
+      "zh": "週三的技術會議上，我們一起力挺一項曾被行銷部門兩次否決的提案。"
+    },
+    {
+      "es": "Esta vez, gracias a los datos que él había recopilado en Valencia, conseguimos que la dirección aceptara reconsiderarla.",
+      "zh": "這一次，靠著他在瓦倫西亞蒐集到的數據，我們成功讓高層願意重新考慮這項提案。"
+    },
+    {
+      "es": "El jueves le pregunté cómo se estaba adaptando al barrio en el que se había mudado el fin de semana anterior.",
+      "zh": "週四我問他週末才搬進去的新社區他適應得如何。"
+    },
+    {
+      "es": "Me respondió que el panadero ya lo saludaba por su nombre, lo cual le parecía un buen indicio de que se sentía en casa.",
+      "zh": "他回答說麵包店老闆已經會直接喊他名字，這在他看來是個自己已開始安頓下來的好兆頭。"
+    },
+    {
+      "es": "Cuando llegó el viernes, todo el equipo nos reunimos en una terraza para celebrar el cierre de la semana.",
+      "zh": "週五一到，整個團隊就到一間露天酒吧聚會，慶祝這一週順利結束。"
+    },
+    {
+      "es": "Andrés contó algunas anécdotas de su antigua oficina y, por primera vez, lo vi reírse sin reservas delante de los demás.",
+      "zh": "安德烈斯分享了一些他以前辦公室的趣事，我也第一次看見他在大家面前毫無顧忌地開懷大笑。"
+    },
+    {
+      "es": "Una compañera del área de diseño aprovechó la ocasión para invitarlo a un grupo de senderismo que organizan algunos domingos.",
+      "zh": "設計部的一位同事趁機邀他加入幾個週日固定出遊的健行小團體。"
+    },
+    {
+      "es": "Él aceptó encantado y comentó que ya tenía pensado comprarse unas botas nuevas para empezar a explorar la zona.",
+      "zh": "他欣然答應，並提到自己已打算買一雙新登山鞋，好開始探索這一帶。"
+    },
+    {
+      "es": "El lunes siguiente, antes de comenzar la jornada, me trajo un libro sobre Valencia que pensaba que me iba a gustar.",
+      "zh": "再下個週一上班前，他帶來一本他認為我會喜歡的瓦倫西亞主題的書送我。"
+    },
+    {
+      "es": "Era un detalle pequeño, pero me hizo darme cuenta de que ya lo consideraba un compañero y no solo a un recién llegado.",
+      "zh": "這雖然只是一個小細節，卻讓我意識到自己已經把他當成同事，而不再只是新來的人。"
+    },
+    {
+      "es": "Esa tarde, mientras presentábamos juntos los avances del proyecto, nuestra jefa nos felicitó delante del comité.",
+      "zh": "那天下午我們一起向委員會報告專案進度時，主管當著眾人面前讚賞了我們。"
+    },
+    {
+      "es": "Dijo que pocas veces había visto a dos personas integrarse con tanta naturalidad en tan poco tiempo.",
+      "zh": "她說她很少看到兩個人能在這麼短的時間內配合得如此自然。"
+    },
+    {
+      "es": "Andrés y yo intercambiamos una mirada cómplice, conscientes de que el camino aún era largo, pero también prometedor.",
+      "zh": "我和安德烈斯交換了一個會心的眼神，知道路還很長，但前景同樣令人期待。"
+    },
+    {
+      "es": "Más adelante surgieron, por supuesto, momentos de tensión, sobre todo cuando los plazos se complicaron y los nervios afloraron.",
+      "zh": "後來當然也出現過緊繃的時刻，特別是進度吃緊、大家都神經緊張的時候。"
+    },
+    {
+      "es": "En esas ocasiones aprendimos a discutir las ideas sin atacar a la persona, algo que no siempre resulta fácil en una oficina.",
+      "zh": "在那些時候我們學會了就事論事，不去攻擊對方本人，這在辦公室裡並不總是容易做到。"
+    },
+    {
+      "es": "Cuando concluyó el proyecto, la dirección nos pidió que compartiéramos nuestra experiencia con otros equipos.",
+      "zh": "專案結束後，高層請我們向其他團隊分享我們的合作經驗。"
+    },
+    {
+      "es": "Preparamos una presentación sencilla y la única conclusión que destacamos fue la importancia de escuchar antes de juzgar.",
+      "zh": "我們準備了一份簡單的簡報，唯一強調的結論就是：判斷之前先聆聽。"
+    },
+    {
+      "es": "Hoy, casi un año después, Andrés sigue siendo uno de los compañeros con los que más cómoda me siento trabajando.",
+      "zh": "如今將近一年過去，安德烈斯仍是我合作起來最自在的同事之一。"
+    },
+    {
+      "es": "Durante el almuerzo, Andrés me preguntó cuáles eran los mejores sitios para comer cerca de la oficina.",
+      "zh": "午餐時，安德烈斯問我辦公室附近哪些地方最適合用餐。"
+    },
+    {
+      "es": "Le presenté al jefe de mi departamento y a los dos diseñadores con quienes íbamos a colaborar.",
+      "zh": "我把他介紹給我們部門的主管，還有將要合作的兩位設計師。"
+    },
+    {
+      "es": "Me ofrecí a enseñarle el funcionamiento del programa interno que usamos para gestionar los proyectos.",
+      "zh": "我主動提議教他使用我們管理專案的內部軟體。"
+    },
+    {
+      "es": "Intercambiamos los números de teléfono por si surgía alguna duda fuera del horario de trabajo.",
+      "zh": "我們交換了電話號碼，以防下班後還有任何疑問。"
+    },
+    {
+      "es": "Él comentó que extrañaba la playa de su antigua ciudad, aunque aquí valoraba las ofertas culturales.",
+      "zh": "他說很想念以前那座城市的海灘，不過他很欣賞這裡豐富的文化活動。"
+    },
+    {
+      "es": "Le recomendé un piso de alquiler asequible en un barrio bien comunicado con el centro.",
+      "zh": "我向他推薦了一間租金合理、與市中心交通便利的公寓。"
+    },
+    {
+      "es": "Por la tarde organizamos una pequeña reunión para que el equipo lo conociera mejor.",
+      "zh": "下午我們安排了一場小型聚會，讓團隊能更認識他。"
+    },
+    {
+      "es": "Andrés confesó que sentía cierta presión por demostrar enseguida su valía en el puesto.",
+      "zh": "安德烈斯坦承，他感到一些壓力，想盡快證明自己勝任這個職位。"
+    },
+    {
+      "es": "Le aseguré que todos cometemos errores al principio y que nadie esperaba la perfección inmediata.",
+      "zh": "我向他保證，大家剛開始都會犯錯，沒有人期待立刻就完美。"
+    },
+    {
+      "es": "Al despedirnos, quedamos en ir juntos a comer un menú del día durante la semana siguiente.",
+      "zh": "道別時，我們約好下週一起去吃份商業午餐。"
+    }
   ]
 }

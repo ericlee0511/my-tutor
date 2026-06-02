@@ -1,55 +1,245 @@
 {
   "title": "Hablando con el entrenador personal",
   "all": [
-    {"es": "Antes de empezar, cuéntame qué esperas conseguir conmigo.", "zh": "開始之前，告訴我你希望透過我達到什麼目標。"},
-    {"es": "Quiero perder unos cinco kilos y sentirme con más energía.", "zh": "我想減五公斤，並且更有活力。"},
-    {"es": "Buen objetivo, pero realista, sin prisa, ¿de acuerdo?", "zh": "好目標，但要實際，不急，好嗎？"},
-    {"es": "De acuerdo, ya intenté dietas rápidas y siempre lo recuperé.", "zh": "好，我以前試過快速節食，總是又胖回去。"},
-    {"es": "Eso pasa cuando se cambian solo cuatro semanas, no el estilo de vida.", "zh": "那是因為只改變了四週，而不是生活方式。"},
-    {"es": "Tienes razón, esta vez quiero algo a largo plazo.", "zh": "你說得對，這次我想要長期的。"},
-    {"es": "Dime, ¿cuántos días puedes entrenar a la semana de forma realista?", "zh": "說說看，你一週實際上能訓練幾天？"},
-    {"es": "Tres días seguros y un cuarto si la semana es tranquila.", "zh": "三天一定可以，第四天看那週順不順利。"},
-    {"es": "Con tres ya planificamos algo sólido y progresivo.", "zh": "三天就足以安排扎實且漸進的計畫了。"},
-    {"es": "¿Mejor por la mañana o por la noche para entrenar?", "zh": "早上還是晚上訓練比較好？"},
-    {"es": "El que vayas a cumplir, el horario perfecto no existe.", "zh": "你做得到的那個，沒有完美的時間。"},
-    {"es": "Por la mañana me cuesta horrores, mejor saliendo del trabajo.", "zh": "早上對我超痛苦，下班後比較好。"},
-    {"es": "Pues fijamos lunes, miércoles y viernes a las seis y media.", "zh": "那我們定週一、三、五六點半。"},
-    {"es": "Hablemos de comida, ¿qué desayunas normalmente?", "zh": "我們聊聊飲食，你早餐通常吃什麼？"},
-    {"es": "Café con leche y dos tostadas con mantequilla casi siempre.", "zh": "幾乎都是咖啡牛奶加兩片抹奶油的吐司。"},
-    {"es": "No está mal, pero falta proteína para llegar bien a la comida.", "zh": "不算差，但缺蛋白質，撐不到午餐。"},
-    {"es": "¿Algo como huevos o yogur griego?", "zh": "像是蛋或希臘優格那種嗎？"},
-    {"es": "Exacto, alterna y notarás menos ganas de picar a media mañana.", "zh": "對，輪流吃，你會發現上午沒那麼想吃零食。"},
-    {"es": "Picotear a las once es mi gran problema, no te imaginas.", "zh": "上午十一點亂吃是我最大的問題，你想像不到。"},
-    {"es": "Lleva fruta y un puñado de almendras como rescate.", "zh": "帶水果和一把杏仁來救急。"},
-    {"es": "Apuntado, almendras y manzana en la mochila siempre.", "zh": "記下了，包包裡一定要放杏仁和蘋果。"},
-    {"es": "Para comer, intenta plato dividido en tres partes iguales.", "zh": "午餐請試著把盤子分成三等分。"},
-    {"es": "¿Qué pongo en cada parte exactamente?", "zh": "每個部分要放什麼？"},
-    {"es": "Verdura, proteína y un hidrato como arroz o patata.", "zh": "蔬菜、蛋白質、和一種碳水如米或馬鈴薯。"},
-    {"es": "¿La pasta también vale o la quito por completo?", "zh": "義大利麵也可以嗎，還是要完全戒掉？"},
-    {"es": "Vale, pero ración pequeña y dos veces por semana máximo.", "zh": "可以，但份量要小，一週最多兩次。"},
-    {"es": "Me quitas un peso enorme, sin pasta no podría vivir.", "zh": "你讓我鬆了一大口氣，沒義大利麵我沒辦法活。"},
-    {"es": "El alcohol es lo que más conviene reducir, sinceramente.", "zh": "酒精是最該減少的，老實說。"},
-    {"es": "Los findes suele caer una cerveza o dos con amigos.", "zh": "週末跟朋友通常會喝一兩杯啤酒。"},
-    {"es": "Permítetelo el sábado, deja el viernes sin alcohol.", "zh": "週六放自己一馬，週五不要碰酒。"},
-    {"es": "Eso lo puedo cumplir, suena razonable.", "zh": "這我做得到，聽起來合理。"},
-    {"es": "Vamos al entrenamiento, hoy te hago la valoración inicial.", "zh": "我們進入訓練，今天先做初評。"},
-    {"es": "¿En qué consiste la valoración exactamente?", "zh": "初評具體要做什麼？"},
-    {"es": "Mediciones, peso, flexibilidad y unas pruebas de fuerza básicas.", "zh": "量身、體重、柔軟度和幾個基本肌力測試。"},
-    {"es": "Lo del peso me da un poco de respeto, no te voy a engañar.", "zh": "量體重讓我有點害怕，我不騙你。"},
-    {"es": "Es solo un dato, no te define como persona.", "zh": "那只是個數據，不能定義你這個人。"},
-    {"es": "Bien dicho, allá vamos entonces.", "zh": "說得好，那我們上吧。"},
-    {"es": "Pesas ochenta y dos kilos y mides uno setenta y cinco.", "zh": "你體重八十二公斤，身高一七五。"},
-    {"es": "Más o menos lo que imaginaba, sin sorpresas.", "zh": "差不多就是我猜的，沒驚喜。"},
-    {"es": "Ahora vamos a probar tu fondo cardiovascular en la bici.", "zh": "現在我們在飛輪上測你的心肺。"},
-    {"es": "Pedalea cinco minutos a ritmo cómodo para empezar.", "zh": "用舒服的節奏踩五分鐘當作開始。"},
-    {"es": "¿Cuánto subo de intensidad después?", "zh": "之後強度要拉多高？"},
-    {"es": "Vamos a niveles seis, ocho y diez, dos minutos cada uno.", "zh": "我們走六、八、十級，每級兩分鐘。"},
-    {"es": "Madre mía, el nivel diez me ha dejado sin aire.", "zh": "我的天啊，第十級讓我喘不過氣。"},
-    {"es": "Buena reacción, sirve para fijar tu zona de quema de grasa.", "zh": "反應很正常，能用來訂出你的燃脂區間。"},
-    {"es": "Cada quince días repasamos cómo vas y ajustamos lo que toque.", "zh": "我們每兩週檢視一次進度，需要時做調整。"},
-    {"es": "¿Vas a controlar también las medidas o solo el peso?", "zh": "你會追蹤圍度還是只看體重？"},
-    {"es": "Las medidas son más fiables que la báscula a la larga.", "zh": "圍度長期看比體重計更可信。"},
-    {"es": "Confío en el plan, prometo no rendirme a la primera.", "zh": "我相信這個計畫，我答應不會一遇挫折就放棄。"},
-    {"es": "Eso es lo único que te pido, lo demás lo trabajamos juntos.", "zh": "這是我唯一的要求，其他我們一起努力。"}
+    {
+      "es": "Antes de empezar, cuéntame qué esperas conseguir conmigo.",
+      "zh": "開始之前，告訴我你希望透過我達到什麼目標。"
+    },
+    {
+      "es": "Quiero perder unos cinco kilos y sentirme con más energía.",
+      "zh": "我想減五公斤，並且更有活力。"
+    },
+    {
+      "es": "Buen objetivo, pero realista, sin prisa, ¿de acuerdo?",
+      "zh": "好目標，但要實際，不急，好嗎？"
+    },
+    {
+      "es": "De acuerdo, ya intenté dietas rápidas y siempre lo recuperé.",
+      "zh": "好，我以前試過快速節食，總是又胖回去。"
+    },
+    {
+      "es": "Eso pasa cuando se cambian solo cuatro semanas, no el estilo de vida.",
+      "zh": "那是因為只改變了四週，而不是生活方式。"
+    },
+    {
+      "es": "Tienes razón, esta vez quiero algo a largo plazo.",
+      "zh": "你說得對，這次我想要長期的。"
+    },
+    {
+      "es": "Dime, ¿cuántos días puedes entrenar a la semana de forma realista?",
+      "zh": "說說看，你一週實際上能訓練幾天？"
+    },
+    {
+      "es": "Tres días seguros y un cuarto si la semana es tranquila.",
+      "zh": "三天一定可以，第四天看那週順不順利。"
+    },
+    {
+      "es": "Con tres ya planificamos algo sólido y progresivo.",
+      "zh": "三天就足以安排扎實且漸進的計畫了。"
+    },
+    {
+      "es": "¿Mejor por la mañana o por la noche para entrenar?",
+      "zh": "早上還是晚上訓練比較好？"
+    },
+    {
+      "es": "El que vayas a cumplir, el horario perfecto no existe.",
+      "zh": "你做得到的那個，沒有完美的時間。"
+    },
+    {
+      "es": "Por la mañana me cuesta horrores, mejor saliendo del trabajo.",
+      "zh": "早上對我超痛苦，下班後比較好。"
+    },
+    {
+      "es": "Pues fijamos lunes, miércoles y viernes a las seis y media.",
+      "zh": "那我們定週一、三、五六點半。"
+    },
+    {
+      "es": "Hablemos de comida, ¿qué desayunas normalmente?",
+      "zh": "我們聊聊飲食，你早餐通常吃什麼？"
+    },
+    {
+      "es": "Café con leche y dos tostadas con mantequilla casi siempre.",
+      "zh": "幾乎都是咖啡牛奶加兩片抹奶油的吐司。"
+    },
+    {
+      "es": "No está mal, pero falta proteína para llegar bien a la comida.",
+      "zh": "不算差，但缺蛋白質，撐不到午餐。"
+    },
+    {
+      "es": "¿Algo como huevos o yogur griego?",
+      "zh": "像是蛋或希臘優格那種嗎？"
+    },
+    {
+      "es": "Exacto, alterna y notarás menos ganas de picar a media mañana.",
+      "zh": "對，輪流吃，你會發現上午沒那麼想吃零食。"
+    },
+    {
+      "es": "Picotear a las once es mi gran problema, no te imaginas.",
+      "zh": "上午十一點亂吃是我最大的問題，你想像不到。"
+    },
+    {
+      "es": "Lleva fruta y un puñado de almendras como rescate.",
+      "zh": "帶水果和一把杏仁來救急。"
+    },
+    {
+      "es": "Apuntado, almendras y manzana en la mochila siempre.",
+      "zh": "記下了，包包裡一定要放杏仁和蘋果。"
+    },
+    {
+      "es": "Para comer, intenta plato dividido en tres partes iguales.",
+      "zh": "午餐請試著把盤子分成三等分。"
+    },
+    {
+      "es": "¿Qué pongo en cada parte exactamente?",
+      "zh": "每個部分要放什麼？"
+    },
+    {
+      "es": "Verdura, proteína y un hidrato como arroz o patata.",
+      "zh": "蔬菜、蛋白質、和一種碳水如米或馬鈴薯。"
+    },
+    {
+      "es": "¿La pasta también vale o la quito por completo?",
+      "zh": "義大利麵也可以嗎，還是要完全戒掉？"
+    },
+    {
+      "es": "Vale, pero ración pequeña y dos veces por semana máximo.",
+      "zh": "可以，但份量要小，一週最多兩次。"
+    },
+    {
+      "es": "Me quitas un peso enorme, sin pasta no podría vivir.",
+      "zh": "你讓我鬆了一大口氣，沒義大利麵我沒辦法活。"
+    },
+    {
+      "es": "El alcohol es lo que más conviene reducir, sinceramente.",
+      "zh": "酒精是最該減少的，老實說。"
+    },
+    {
+      "es": "Los findes suele caer una cerveza o dos con amigos.",
+      "zh": "週末跟朋友通常會喝一兩杯啤酒。"
+    },
+    {
+      "es": "Permítetelo el sábado, deja el viernes sin alcohol.",
+      "zh": "週六放自己一馬，週五不要碰酒。"
+    },
+    {
+      "es": "Eso lo puedo cumplir, suena razonable.",
+      "zh": "這我做得到，聽起來合理。"
+    },
+    {
+      "es": "Vamos al entrenamiento, hoy te hago la valoración inicial.",
+      "zh": "我們進入訓練，今天先做初評。"
+    },
+    {
+      "es": "¿En qué consiste la valoración exactamente?",
+      "zh": "初評具體要做什麼？"
+    },
+    {
+      "es": "Mediciones, peso, flexibilidad y unas pruebas de fuerza básicas.",
+      "zh": "量身、體重、柔軟度和幾個基本肌力測試。"
+    },
+    {
+      "es": "Lo del peso me da un poco de respeto, no te voy a engañar.",
+      "zh": "量體重讓我有點害怕，我不騙你。"
+    },
+    {
+      "es": "Es solo un dato, no te define como persona.",
+      "zh": "那只是個數據，不能定義你這個人。"
+    },
+    {
+      "es": "Bien dicho, allá vamos entonces.",
+      "zh": "說得好，那我們上吧。"
+    },
+    {
+      "es": "Pesas ochenta y dos kilos y mides uno setenta y cinco.",
+      "zh": "你體重八十二公斤，身高一七五。"
+    },
+    {
+      "es": "Más o menos lo que imaginaba, sin sorpresas.",
+      "zh": "差不多就是我猜的，沒驚喜。"
+    },
+    {
+      "es": "Ahora vamos a probar tu fondo cardiovascular en la bici.",
+      "zh": "現在我們在飛輪上測你的心肺。"
+    },
+    {
+      "es": "Pedalea cinco minutos a ritmo cómodo para empezar.",
+      "zh": "用舒服的節奏踩五分鐘當作開始。"
+    },
+    {
+      "es": "¿Cuánto subo de intensidad después?",
+      "zh": "之後強度要拉多高？"
+    },
+    {
+      "es": "Vamos a niveles seis, ocho y diez, dos minutos cada uno.",
+      "zh": "我們走六、八、十級，每級兩分鐘。"
+    },
+    {
+      "es": "Madre mía, el nivel diez me ha dejado sin aire.",
+      "zh": "我的天啊，第十級讓我喘不過氣。"
+    },
+    {
+      "es": "Buena reacción, sirve para fijar tu zona de quema de grasa.",
+      "zh": "反應很正常，能用來訂出你的燃脂區間。"
+    },
+    {
+      "es": "Cada quince días repasamos cómo vas y ajustamos lo que toque.",
+      "zh": "我們每兩週檢視一次進度，需要時做調整。"
+    },
+    {
+      "es": "¿Vas a controlar también las medidas o solo el peso?",
+      "zh": "你會追蹤圍度還是只看體重？"
+    },
+    {
+      "es": "Las medidas son más fiables que la báscula a la larga.",
+      "zh": "圍度長期看比體重計更可信。"
+    },
+    {
+      "es": "Confío en el plan, prometo no rendirme a la primera.",
+      "zh": "我相信這個計畫，我答應不會一遇挫折就放棄。"
+    },
+    {
+      "es": "Eso es lo único que te pido, lo demás lo trabajamos juntos.",
+      "zh": "這是我唯一的要求，其他我們一起努力。"
+    },
+    {
+      "es": "Vamos a medir tu peso y tu porcentaje de grasa hoy.",
+      "zh": "我們今天來量你的體重和體脂率。"
+    },
+    {
+      "es": "Entrenaremos tres veces por semana, combinando fuerza y cardio.",
+      "zh": "我們一週訓練三次，結合肌力和有氧。"
+    },
+    {
+      "es": "La alimentación es la mitad del resultado, no lo olvides.",
+      "zh": "飲食佔成果的一半，別忘了這點。"
+    },
+    {
+      "es": "Anota en esta libreta lo que comes durante la semana.",
+      "zh": "在這本本子裡記下你這週吃了什麼。"
+    },
+    {
+      "es": "Descansar bien por la noche también forma parte del plan.",
+      "zh": "晚上好好睡覺也是計畫的一部分。"
+    },
+    {
+      "es": "Iremos aumentando la carga poco a poco para evitar lesiones.",
+      "zh": "我們會慢慢加重，以避免受傷。"
+    },
+    {
+      "es": "Cada mes revisaremos tus progresos y ajustaremos la rutina.",
+      "zh": "每個月我們會檢視你的進步並調整課表。"
+    },
+    {
+      "es": "El músculo pesa más que la grasa, no te fíes solo de la báscula.",
+      "zh": "肌肉比脂肪重，別只看體重計。"
+    },
+    {
+      "es": "Bebe agua antes, durante y después de cada sesión.",
+      "zh": "每次訓練前、中、後都要喝水。"
+    },
+    {
+      "es": "La motivación baja a veces, por eso yo estaré para empujarte.",
+      "zh": "動力有時會下降，所以我會在這裡推你一把。"
+    }
   ]
 }

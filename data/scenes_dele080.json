@@ -1,55 +1,245 @@
 {
   "title": "Conversación tras una presentación",
   "all": [
-    {"es": "Bueno, por fin terminó la presentación, qué nervios pasé.", "zh": "終於結束簡報了，剛剛超緊張。"},
-    {"es": "No se te notó nada, lo hiciste muy bien.", "zh": "完全看不出來，妳做得超好。"},
-    {"es": "¿En serio? Tenía las manos temblando todo el rato.", "zh": "真的嗎？我剛剛手一直在抖。"},
-    {"es": "Tu voz salió firme y el ritmo fue muy correcto.", "zh": "妳聲音很穩，節奏掌控得不錯。"},
-    {"es": "Gracias por decírmelo, eso me tranquiliza un poco.", "zh": "謝謝你這麼說，我比較安心了。"},
-    {"es": "¿Qué tal viste reaccionar al cliente durante la charla?", "zh": "你看客戶在過程中反應如何？"},
-    {"es": "Atento desde el principio hasta el final, buena señal.", "zh": "從頭到尾都很專注，是好兆頭。"},
-    {"es": "Tomó notas en la parte de los números.", "zh": "他在數字那段有做筆記。"},
-    {"es": "Eso me parece muy positivo, le interesó lo financiero.", "zh": "我覺得是正面訊號，他對財務面有興趣。"},
-    {"es": "Aunque también hizo varias preguntas difíciles al final.", "zh": "不過他最後也問了幾個難題。"},
-    {"es": "Sí, sobre todo la del retorno de inversión.", "zh": "對，特別是投資報酬率那題。"},
-    {"es": "Esa pregunta me pilló un poco desprevenida.", "zh": "那題有點讓我措手不及。"},
-    {"es": "Saliste del paso bastante bien, no te preocupes.", "zh": "妳應付得還不錯，別擔心。"},
-    {"es": "Pero la próxima vez prepararé mejor esa parte.", "zh": "但下次我會把那部分準備得更好。"},
-    {"es": "Te recomiendo añadir una diapositiva extra con ese cálculo.", "zh": "我建議加一張投影片放那個算式。"},
-    {"es": "Es buena idea, así anticipo posibles dudas similares.", "zh": "好主意，這樣可以預防類似疑問。"},
-    {"es": "También vi al jefe técnico del cliente bastante callado.", "zh": "我也注意到客戶的技術主管很安靜。"},
-    {"es": "Eso me preocupa, parecía algo escéptico, ¿no?", "zh": "這讓我擔心，他看起來有點懷疑對吧？"},
-    {"es": "Quizás necesita una demo técnica más detallada.", "zh": "也許他需要更詳細的技術示範。"},
-    {"es": "Podemos ofrecérselo en una segunda reunión.", "zh": "我們可以在第二次會議提供。"},
-    {"es": "Buena estrategia, así separamos comercial y técnico.", "zh": "好策略，這樣商務跟技術分開談。"},
-    {"es": "Hablo mañana con Ramón para que prepare la demo.", "zh": "我明天找拉蒙準備示範。"},
-    {"es": "Recuerda decirle que enfoque en seguridad de datos.", "zh": "記得跟他說重點放在資料安全。"},
-    {"es": "Eso fue lo que más preguntó él durante la sesión.", "zh": "那是他剛剛問最多的部分。"},
-    {"es": "Tienes razón, ese tema es muy sensible para ellos.", "zh": "你說得對，這對他們是很敏感的議題。"},
-    {"es": "¿Qué opinas del precio que les hemos planteado?", "zh": "你覺得我們提的價格如何？"},
-    {"es": "Honestamente, creo que está un poco alto.", "zh": "老實說，我覺得有點高。"},
-    {"es": "Yo también lo pensé al ver sus caras.", "zh": "我看他們表情時也這麼覺得。"},
-    {"es": "Podríamos ofrecer un descuento por compromiso anual.", "zh": "我們可以提供年約折扣。"},
-    {"es": "Sí, pero solo si firman antes de fin de mes.", "zh": "好，但條件是月底前要簽約。"},
-    {"es": "Eso les empujaría a tomar la decisión más rápido.", "zh": "這會推他們快點做決定。"},
-    {"es": "Voy a preparar dos opciones para presentárselas mañana.", "zh": "我來準備兩個方案明天提給他們。"},
-    {"es": "Una con descuento y otra sin él, perfecto.", "zh": "一個有折扣、一個沒有，完美。"},
-    {"es": "También deberíamos enviarles las diapositivas hoy mismo.", "zh": "我們今天也應該把投影片寄給他們。"},
-    {"es": "Sí, mientras todavía tienen la presentación fresca.", "zh": "對，趁他們對簡報還有印象。"},
-    {"es": "Las exporto en PDF antes de irme a comer.", "zh": "我午餐前匯出 PDF。"},
-    {"es": "Añade una nota agradeciéndoles el tiempo dedicado.", "zh": "附上一張感謝他們撥空的便箋。"},
-    {"es": "Por supuesto, las formas siempre importan en estos casos.", "zh": "當然，這種場合禮節很重要。"},
-    {"es": "Hablando de comer, ¿bajamos al italiano de abajo?", "zh": "說到吃飯，我們下樓去那家義式餐廳？"},
-    {"es": "Sí, después del estrés merezco una buena pasta.", "zh": "好，緊張完該犒賞自己一份義大利麵。"},
-    {"es": "Y un vino, hoy nos lo merecemos sin duda.", "zh": "再來杯葡萄酒，我們今天絕對值得。"},
-    {"es": "Solo uno, que por la tarde sigue habiendo curro.", "zh": "只喝一杯，下午還有工作要做。"},
-    {"es": "Por la tarde haremos el seguimiento del cliente clave.", "zh": "下午我們追蹤一下重要客戶。"},
-    {"es": "Voy a llamar a Andrés a las cuatro en punto.", "zh": "我四點整打給安德雷斯。"},
-    {"es": "Avísame cuando termines la llamada, te quiero acompañar.", "zh": "通話結束跟我說，我想一起跟進。"},
-    {"es": "Vale, te paso el resultado y planificamos los siguientes pasos.", "zh": "好，我把結果告訴你，再規劃下一步。"},
-    {"es": "Hemos formado un buen equipo en este proyecto.", "zh": "我們在這個案子合作得很好。"},
-    {"es": "Sí, espero que cerremos esta venta entre los dos.", "zh": "對，希望我們兩個一起把這筆生意拿下。"},
-    {"es": "Lo conseguiremos, tengo bastante confianza después de hoy.", "zh": "我們會成功的，今天之後我有信心。"},
-    {"es": "Vamos a comer, te invito yo por la presentación.", "zh": "走吧吃飯去，這頓我請，恭喜妳簡報順利。"}
+    {
+      "es": "Bueno, por fin terminó la presentación, qué nervios pasé.",
+      "zh": "終於結束簡報了，剛剛超緊張。"
+    },
+    {
+      "es": "No se te notó nada, lo hiciste muy bien.",
+      "zh": "完全看不出來，妳做得超好。"
+    },
+    {
+      "es": "¿En serio? Tenía las manos temblando todo el rato.",
+      "zh": "真的嗎？我剛剛手一直在抖。"
+    },
+    {
+      "es": "Tu voz salió firme y el ritmo fue muy correcto.",
+      "zh": "妳聲音很穩，節奏掌控得不錯。"
+    },
+    {
+      "es": "Gracias por decírmelo, eso me tranquiliza un poco.",
+      "zh": "謝謝你這麼說，我比較安心了。"
+    },
+    {
+      "es": "¿Qué tal viste reaccionar al cliente durante la charla?",
+      "zh": "你看客戶在過程中反應如何？"
+    },
+    {
+      "es": "Atento desde el principio hasta el final, buena señal.",
+      "zh": "從頭到尾都很專注，是好兆頭。"
+    },
+    {
+      "es": "Tomó notas en la parte de los números.",
+      "zh": "他在數字那段有做筆記。"
+    },
+    {
+      "es": "Eso me parece muy positivo, le interesó lo financiero.",
+      "zh": "我覺得是正面訊號，他對財務面有興趣。"
+    },
+    {
+      "es": "Aunque también hizo varias preguntas difíciles al final.",
+      "zh": "不過他最後也問了幾個難題。"
+    },
+    {
+      "es": "Sí, sobre todo la del retorno de inversión.",
+      "zh": "對，特別是投資報酬率那題。"
+    },
+    {
+      "es": "Esa pregunta me pilló un poco desprevenida.",
+      "zh": "那題有點讓我措手不及。"
+    },
+    {
+      "es": "Saliste del paso bastante bien, no te preocupes.",
+      "zh": "妳應付得還不錯，別擔心。"
+    },
+    {
+      "es": "Pero la próxima vez prepararé mejor esa parte.",
+      "zh": "但下次我會把那部分準備得更好。"
+    },
+    {
+      "es": "Te recomiendo añadir una diapositiva extra con ese cálculo.",
+      "zh": "我建議加一張投影片放那個算式。"
+    },
+    {
+      "es": "Es buena idea, así anticipo posibles dudas similares.",
+      "zh": "好主意，這樣可以預防類似疑問。"
+    },
+    {
+      "es": "También vi al jefe técnico del cliente bastante callado.",
+      "zh": "我也注意到客戶的技術主管很安靜。"
+    },
+    {
+      "es": "Eso me preocupa, parecía algo escéptico, ¿no?",
+      "zh": "這讓我擔心，他看起來有點懷疑對吧？"
+    },
+    {
+      "es": "Quizás necesita una demo técnica más detallada.",
+      "zh": "也許他需要更詳細的技術示範。"
+    },
+    {
+      "es": "Podemos ofrecérselo en una segunda reunión.",
+      "zh": "我們可以在第二次會議提供。"
+    },
+    {
+      "es": "Buena estrategia, así separamos comercial y técnico.",
+      "zh": "好策略，這樣商務跟技術分開談。"
+    },
+    {
+      "es": "Hablo mañana con Ramón para que prepare la demo.",
+      "zh": "我明天找拉蒙準備示範。"
+    },
+    {
+      "es": "Recuerda decirle que enfoque en seguridad de datos.",
+      "zh": "記得跟他說重點放在資料安全。"
+    },
+    {
+      "es": "Eso fue lo que más preguntó él durante la sesión.",
+      "zh": "那是他剛剛問最多的部分。"
+    },
+    {
+      "es": "Tienes razón, ese tema es muy sensible para ellos.",
+      "zh": "你說得對，這對他們是很敏感的議題。"
+    },
+    {
+      "es": "¿Qué opinas del precio que les hemos planteado?",
+      "zh": "你覺得我們提的價格如何？"
+    },
+    {
+      "es": "Honestamente, creo que está un poco alto.",
+      "zh": "老實說，我覺得有點高。"
+    },
+    {
+      "es": "Yo también lo pensé al ver sus caras.",
+      "zh": "我看他們表情時也這麼覺得。"
+    },
+    {
+      "es": "Podríamos ofrecer un descuento por compromiso anual.",
+      "zh": "我們可以提供年約折扣。"
+    },
+    {
+      "es": "Sí, pero solo si firman antes de fin de mes.",
+      "zh": "好，但條件是月底前要簽約。"
+    },
+    {
+      "es": "Eso les empujaría a tomar la decisión más rápido.",
+      "zh": "這會推他們快點做決定。"
+    },
+    {
+      "es": "Voy a preparar dos opciones para presentárselas mañana.",
+      "zh": "我來準備兩個方案明天提給他們。"
+    },
+    {
+      "es": "Una con descuento y otra sin él, perfecto.",
+      "zh": "一個有折扣、一個沒有，完美。"
+    },
+    {
+      "es": "También deberíamos enviarles las diapositivas hoy mismo.",
+      "zh": "我們今天也應該把投影片寄給他們。"
+    },
+    {
+      "es": "Sí, mientras todavía tienen la presentación fresca.",
+      "zh": "對，趁他們對簡報還有印象。"
+    },
+    {
+      "es": "Las exporto en PDF antes de irme a comer.",
+      "zh": "我午餐前匯出 PDF。"
+    },
+    {
+      "es": "Añade una nota agradeciéndoles el tiempo dedicado.",
+      "zh": "附上一張感謝他們撥空的便箋。"
+    },
+    {
+      "es": "Por supuesto, las formas siempre importan en estos casos.",
+      "zh": "當然，這種場合禮節很重要。"
+    },
+    {
+      "es": "Hablando de comer, ¿bajamos al italiano de abajo?",
+      "zh": "說到吃飯，我們下樓去那家義式餐廳？"
+    },
+    {
+      "es": "Sí, después del estrés merezco una buena pasta.",
+      "zh": "好，緊張完該犒賞自己一份義大利麵。"
+    },
+    {
+      "es": "Y un vino, hoy nos lo merecemos sin duda.",
+      "zh": "再來杯葡萄酒，我們今天絕對值得。"
+    },
+    {
+      "es": "Solo uno, que por la tarde sigue habiendo curro.",
+      "zh": "只喝一杯，下午還有工作要做。"
+    },
+    {
+      "es": "Por la tarde haremos el seguimiento del cliente clave.",
+      "zh": "下午我們追蹤一下重要客戶。"
+    },
+    {
+      "es": "Voy a llamar a Andrés a las cuatro en punto.",
+      "zh": "我四點整打給安德雷斯。"
+    },
+    {
+      "es": "Avísame cuando termines la llamada, te quiero acompañar.",
+      "zh": "通話結束跟我說，我想一起跟進。"
+    },
+    {
+      "es": "Vale, te paso el resultado y planificamos los siguientes pasos.",
+      "zh": "好，我把結果告訴你，再規劃下一步。"
+    },
+    {
+      "es": "Hemos formado un buen equipo en este proyecto.",
+      "zh": "我們在這個案子合作得很好。"
+    },
+    {
+      "es": "Sí, espero que cerremos esta venta entre los dos.",
+      "zh": "對，希望我們兩個一起把這筆生意拿下。"
+    },
+    {
+      "es": "Lo conseguiremos, tengo bastante confianza después de hoy.",
+      "zh": "我們會成功的，今天之後我有信心。"
+    },
+    {
+      "es": "Vamos a comer, te invito yo por la presentación.",
+      "zh": "走吧吃飯去，這頓我請，恭喜妳簡報順利。"
+    },
+    {
+      "es": "Las diapositivas se veían muy claras desde el fondo.",
+      "zh": "投影片從後面看起來非常清楚。"
+    },
+    {
+      "es": "La pregunta del director me pilló por sorpresa.",
+      "zh": "總監的提問讓我措手不及。"
+    },
+    {
+      "es": "Creo que respondiste con seguridad y buenos ejemplos.",
+      "zh": "我覺得你回答得很有自信，例子也很好。"
+    },
+    {
+      "es": "Quizá podrías acortar un poco la introducción la próxima vez.",
+      "zh": "也許下次你可以把開場稍微縮短一點。"
+    },
+    {
+      "es": "El público se mostró muy interesado en los datos finales.",
+      "zh": "聽眾對最後的數據顯得很感興趣。"
+    },
+    {
+      "es": "Practicar delante del espejo me ayudó muchísimo.",
+      "zh": "對著鏡子練習對我幫助很大。"
+    },
+    {
+      "es": "Por suerte el proyector no falló en ningún momento.",
+      "zh": "幸好投影機從頭到尾都沒有出問題。"
+    },
+    {
+      "es": "Después de esto, me siento mucho más confiada para la próxima.",
+      "zh": "經過這次之後，我對下一次更有信心了。"
+    },
+    {
+      "es": "Deberíamos celebrarlo con una cena todo el grupo.",
+      "zh": "我們應該全組一起吃頓晚餐慶祝一下。"
+    },
+    {
+      "es": "Apunta el comentario del cliente para mejorar el guion.",
+      "zh": "把客戶的意見記下來，好改進講稿。"
+    }
   ]
 }

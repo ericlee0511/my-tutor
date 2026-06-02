@@ -1,55 +1,245 @@
 {
   "title": "El primer día en la oficina nueva",
   "all": [
-    {"es": "Hola, buenos días, soy Daniel, empiezo hoy en marketing.", "zh": "早安，妳好，我是丹尼爾，今天到行銷部報到。"},
-    {"es": "Bienvenido, Daniel, te estábamos esperando, pasa por recepción.", "zh": "歡迎，丹尼爾，我們在等你了，請先到櫃台。"},
-    {"es": "Aquí tienes tu tarjeta de acceso para entrar al edificio.", "zh": "這是你的門禁卡，可以進出大樓。"},
-    {"es": "Gracias, ¿tengo que ponérmela visible todo el tiempo?", "zh": "謝謝，要一直掛在身上看得到的地方嗎？"},
-    {"es": "Sí, sobre todo en las plantas de oficinas y reuniones.", "zh": "對，特別是在辦公樓層和會議區。"},
-    {"es": "Te acompaño al cuarto piso, donde está tu equipo nuevo.", "zh": "我帶你到四樓，你的新團隊在那裡。"},
-    {"es": "Perfecto, llevo el portátil aquí, ¿necesito algo más?", "zh": "好的，筆電我帶了，還需要什麼嗎？"},
-    {"es": "Tranquilo, IT te dará un equipo de empresa enseguida.", "zh": "別擔心，資訊部馬上會給你一台公司配電腦。"},
-    {"es": "Mira, este es el ascensor, normalmente hay que esperar un poco.", "zh": "你看，這是電梯，通常要等一下。"},
-    {"es": "Por suerte hay otro al fondo si este tarda mucho.", "zh": "好在後面還有一台，這台太慢就走那邊。"},
-    {"es": "Cuarto piso, ya llegamos, ven, te presento a todos.", "zh": "四樓到了，來，我介紹大家給你認識。"},
-    {"es": "Chicos, atención un momento, este es Daniel, el nuevo compañero.", "zh": "各位，注意一下，這位是丹尼爾，新來的同事。"},
-    {"es": "Hola Daniel, bienvenido al equipo, soy Lucía, llevo redes sociales.", "zh": "嗨丹尼爾，歡迎加入，我是露西亞，負責社群媒體。"},
-    {"es": "Encantado, Lucía, he visto vuestro Instagram, está genial.", "zh": "很高興認識妳，露西亞，我看過你們的 IG，超讚的。"},
-    {"es": "Yo soy Pablo, llevo SEO, cualquier duda me preguntas.", "zh": "我是巴布羅，負責 SEO，有問題隨時問我。"},
-    {"es": "Mucho gusto, Pablo, seguro que voy a preguntar bastante.", "zh": "幸會，巴布羅，我應該會問你不少問題。"},
-    {"es": "Tu mesa es aquella junto a la ventana, qué suerte tienes.", "zh": "你的位置在那邊靠窗，運氣不錯哦。"},
-    {"es": "Sí, qué bien, hay buena luz natural durante el día.", "zh": "對啊，太棒了，白天自然光很好。"},
-    {"es": "Por cierto, la cocina está al fondo a la derecha.", "zh": "對了，茶水間在最後面右手邊。"},
-    {"es": "Tenemos café gratis y fruta los lunes y miércoles.", "zh": "週一和週三有免費咖啡和水果。"},
-    {"es": "Qué detalle, en mi empresa anterior no había nada así.", "zh": "好貼心喔，我前公司什麼都沒有。"},
-    {"es": "Los baños están al lado del ascensor que acabas de usar.", "zh": "廁所就在你剛剛搭的電梯旁邊。"},
-    {"es": "Mira, este es Hugo, el responsable, ahora viene a saludarte.", "zh": "看，這是雨果，主管，現在過來跟你打招呼。"},
-    {"es": "Hola Daniel, bienvenido, mañana hablamos de tus primeros objetivos.", "zh": "嗨丹尼爾，歡迎，明天我們聊聊你最初的目標。"},
-    {"es": "Hoy tómatelo con calma, conoce a la gente y al entorno.", "zh": "今天你放輕鬆，認識同事跟環境就好。"},
-    {"es": "Gracias, Hugo, intentaré aprender los nombres lo antes posible.", "zh": "謝謝雨果，我會盡快記住大家的名字。"},
-    {"es": "Tienes un manual del empleado en tu correo, échale un ojo.", "zh": "員工手冊已經寄到你信箱了，找時間看一下。"},
-    {"es": "Claro, lo abro ahora mismo cuando configure el ordenador.", "zh": "好，等我把電腦設定好馬上看。"},
-    {"es": "Aquí viene Sandra, de informática, con tu portátil nuevo.", "zh": "資訊部的珊卓拉來了，帶著你的新筆電。"},
-    {"es": "Hola Daniel, tu usuario es tu nombre punto apellido.", "zh": "嗨丹尼爾，你的帳號是名字.姓氏。"},
-    {"es": "Te he dejado una contraseña temporal en este papel.", "zh": "我在這張紙上寫了臨時密碼。"},
-    {"es": "Cámbiala cuando entres por primera vez, por seguridad.", "zh": "為了安全起見，第一次登入時就改掉。"},
-    {"es": "Entendido, Sandra, gracias por la configuración tan rápida.", "zh": "了解，珊卓拉，謝謝妳設定得這麼快。"},
-    {"es": "Si tienes problemas, escríbeme por Teams o llámame al 234.", "zh": "有問題的話用 Teams 找我，或打分機 234。"},
-    {"es": "Daniel, ¿bajamos a comer juntos al mediodía?", "zh": "丹尼爾，中午要一起下樓吃飯嗎？"},
-    {"es": "Sí, por favor, no conozco bien la zona todavía.", "zh": "好啊，麻煩了，我對這一帶還不熟。"},
-    {"es": "Hay un menú del día buenísimo en la esquina.", "zh": "轉角那家的午間套餐超好吃。"},
-    {"es": "Por once euros tienes primero, segundo, postre y bebida.", "zh": "十一歐元就有前菜、主菜、甜點和飲料。"},
-    {"es": "Qué bien, en mi barrio nada cuesta menos de quince.", "zh": "真好，我家那一帶最便宜也要十五歐。"},
-    {"es": "Por las tardes, mucha gente se va sobre las seis.", "zh": "下午六點左右大部分人就下班了。"},
-    {"es": "Aunque tenemos flexibilidad si necesitas entrar más tarde.", "zh": "不過如果需要晚點到，時間是有彈性的。"},
-    {"es": "Eso me viene genial porque vivo bastante lejos.", "zh": "這對我超方便，因為我住得有點遠。"},
-    {"es": "Pues nada, ya casi te lo he enseñado todo.", "zh": "好啦，差不多都介紹完了。"},
-    {"es": "Solo me queda enseñarte la terraza del séptimo piso.", "zh": "就剩七樓的露台還沒帶你看。"},
-    {"es": "¿Hay terraza? ¡Vamos a verla ahora mismo!", "zh": "有露台？我們現在就去看！"},
-    {"es": "Las vistas son espectaculares, sobre todo al atardecer.", "zh": "風景超棒，尤其黃昏時分。"},
-    {"es": "Aquí solemos hacer las cenas de empresa en verano.", "zh": "夏天的公司聚餐我們都在這辦。"},
-    {"es": "Suena divertido, espero estar para la próxima.", "zh": "聽起來很好玩，希望下次我也能參加。"},
-    {"es": "Seguro que sí, vas a encajar muy bien aquí.", "zh": "你一定可以的，你會在這裡很合得來。"},
-    {"es": "Gracias por todo, Lucía, ha sido un primer día estupendo.", "zh": "謝謝妳的招待，露西亞，第一天超棒的。"}
+    {
+      "es": "Hola, buenos días, soy Daniel, empiezo hoy en marketing.",
+      "zh": "早安，妳好，我是丹尼爾，今天到行銷部報到。"
+    },
+    {
+      "es": "Bienvenido, Daniel, te estábamos esperando, pasa por recepción.",
+      "zh": "歡迎，丹尼爾，我們在等你了，請先到櫃台。"
+    },
+    {
+      "es": "Aquí tienes tu tarjeta de acceso para entrar al edificio.",
+      "zh": "這是你的門禁卡，可以進出大樓。"
+    },
+    {
+      "es": "Gracias, ¿tengo que ponérmela visible todo el tiempo?",
+      "zh": "謝謝，要一直掛在身上看得到的地方嗎？"
+    },
+    {
+      "es": "Sí, sobre todo en las plantas de oficinas y reuniones.",
+      "zh": "對，特別是在辦公樓層和會議區。"
+    },
+    {
+      "es": "Te acompaño al cuarto piso, donde está tu equipo nuevo.",
+      "zh": "我帶你到四樓，你的新團隊在那裡。"
+    },
+    {
+      "es": "Perfecto, llevo el portátil aquí, ¿necesito algo más?",
+      "zh": "好的，筆電我帶了，還需要什麼嗎？"
+    },
+    {
+      "es": "Tranquilo, IT te dará un equipo de empresa enseguida.",
+      "zh": "別擔心，資訊部馬上會給你一台公司配電腦。"
+    },
+    {
+      "es": "Mira, este es el ascensor, normalmente hay que esperar un poco.",
+      "zh": "你看，這是電梯，通常要等一下。"
+    },
+    {
+      "es": "Por suerte hay otro al fondo si este tarda mucho.",
+      "zh": "好在後面還有一台，這台太慢就走那邊。"
+    },
+    {
+      "es": "Cuarto piso, ya llegamos, ven, te presento a todos.",
+      "zh": "四樓到了，來，我介紹大家給你認識。"
+    },
+    {
+      "es": "Chicos, atención un momento, este es Daniel, el nuevo compañero.",
+      "zh": "各位，注意一下，這位是丹尼爾，新來的同事。"
+    },
+    {
+      "es": "Hola Daniel, bienvenido al equipo, soy Lucía, llevo redes sociales.",
+      "zh": "嗨丹尼爾，歡迎加入，我是露西亞，負責社群媒體。"
+    },
+    {
+      "es": "Encantado, Lucía, he visto vuestro Instagram, está genial.",
+      "zh": "很高興認識妳，露西亞，我看過你們的 IG，超讚的。"
+    },
+    {
+      "es": "Yo soy Pablo, llevo SEO, cualquier duda me preguntas.",
+      "zh": "我是巴布羅，負責 SEO，有問題隨時問我。"
+    },
+    {
+      "es": "Mucho gusto, Pablo, seguro que voy a preguntar bastante.",
+      "zh": "幸會，巴布羅，我應該會問你不少問題。"
+    },
+    {
+      "es": "Tu mesa es aquella junto a la ventana, qué suerte tienes.",
+      "zh": "你的位置在那邊靠窗，運氣不錯哦。"
+    },
+    {
+      "es": "Sí, qué bien, hay buena luz natural durante el día.",
+      "zh": "對啊，太棒了，白天自然光很好。"
+    },
+    {
+      "es": "Por cierto, la cocina está al fondo a la derecha.",
+      "zh": "對了，茶水間在最後面右手邊。"
+    },
+    {
+      "es": "Tenemos café gratis y fruta los lunes y miércoles.",
+      "zh": "週一和週三有免費咖啡和水果。"
+    },
+    {
+      "es": "Qué detalle, en mi empresa anterior no había nada así.",
+      "zh": "好貼心喔，我前公司什麼都沒有。"
+    },
+    {
+      "es": "Los baños están al lado del ascensor que acabas de usar.",
+      "zh": "廁所就在你剛剛搭的電梯旁邊。"
+    },
+    {
+      "es": "Mira, este es Hugo, el responsable, ahora viene a saludarte.",
+      "zh": "看，這是雨果，主管，現在過來跟你打招呼。"
+    },
+    {
+      "es": "Hola Daniel, bienvenido, mañana hablamos de tus primeros objetivos.",
+      "zh": "嗨丹尼爾，歡迎，明天我們聊聊你最初的目標。"
+    },
+    {
+      "es": "Hoy tómatelo con calma, conoce a la gente y al entorno.",
+      "zh": "今天你放輕鬆，認識同事跟環境就好。"
+    },
+    {
+      "es": "Gracias, Hugo, intentaré aprender los nombres lo antes posible.",
+      "zh": "謝謝雨果，我會盡快記住大家的名字。"
+    },
+    {
+      "es": "Tienes un manual del empleado en tu correo, échale un ojo.",
+      "zh": "員工手冊已經寄到你信箱了，找時間看一下。"
+    },
+    {
+      "es": "Claro, lo abro ahora mismo cuando configure el ordenador.",
+      "zh": "好，等我把電腦設定好馬上看。"
+    },
+    {
+      "es": "Aquí viene Sandra, de informática, con tu portátil nuevo.",
+      "zh": "資訊部的珊卓拉來了，帶著你的新筆電。"
+    },
+    {
+      "es": "Hola Daniel, tu usuario es tu nombre punto apellido.",
+      "zh": "嗨丹尼爾，你的帳號是名字.姓氏。"
+    },
+    {
+      "es": "Te he dejado una contraseña temporal en este papel.",
+      "zh": "我在這張紙上寫了臨時密碼。"
+    },
+    {
+      "es": "Cámbiala cuando entres por primera vez, por seguridad.",
+      "zh": "為了安全起見，第一次登入時就改掉。"
+    },
+    {
+      "es": "Entendido, Sandra, gracias por la configuración tan rápida.",
+      "zh": "了解，珊卓拉，謝謝妳設定得這麼快。"
+    },
+    {
+      "es": "Si tienes problemas, escríbeme por Teams o llámame al 234.",
+      "zh": "有問題的話用 Teams 找我，或打分機 234。"
+    },
+    {
+      "es": "Daniel, ¿bajamos a comer juntos al mediodía?",
+      "zh": "丹尼爾，中午要一起下樓吃飯嗎？"
+    },
+    {
+      "es": "Sí, por favor, no conozco bien la zona todavía.",
+      "zh": "好啊，麻煩了，我對這一帶還不熟。"
+    },
+    {
+      "es": "Hay un menú del día buenísimo en la esquina.",
+      "zh": "轉角那家的午間套餐超好吃。"
+    },
+    {
+      "es": "Por once euros tienes primero, segundo, postre y bebida.",
+      "zh": "十一歐元就有前菜、主菜、甜點和飲料。"
+    },
+    {
+      "es": "Qué bien, en mi barrio nada cuesta menos de quince.",
+      "zh": "真好，我家那一帶最便宜也要十五歐。"
+    },
+    {
+      "es": "Por las tardes, mucha gente se va sobre las seis.",
+      "zh": "下午六點左右大部分人就下班了。"
+    },
+    {
+      "es": "Aunque tenemos flexibilidad si necesitas entrar más tarde.",
+      "zh": "不過如果需要晚點到，時間是有彈性的。"
+    },
+    {
+      "es": "Eso me viene genial porque vivo bastante lejos.",
+      "zh": "這對我超方便，因為我住得有點遠。"
+    },
+    {
+      "es": "Pues nada, ya casi te lo he enseñado todo.",
+      "zh": "好啦，差不多都介紹完了。"
+    },
+    {
+      "es": "Solo me queda enseñarte la terraza del séptimo piso.",
+      "zh": "就剩七樓的露台還沒帶你看。"
+    },
+    {
+      "es": "¿Hay terraza? ¡Vamos a verla ahora mismo!",
+      "zh": "有露台？我們現在就去看！"
+    },
+    {
+      "es": "Las vistas son espectaculares, sobre todo al atardecer.",
+      "zh": "風景超棒，尤其黃昏時分。"
+    },
+    {
+      "es": "Aquí solemos hacer las cenas de empresa en verano.",
+      "zh": "夏天的公司聚餐我們都在這辦。"
+    },
+    {
+      "es": "Suena divertido, espero estar para la próxima.",
+      "zh": "聽起來很好玩，希望下次我也能參加。"
+    },
+    {
+      "es": "Seguro que sí, vas a encajar muy bien aquí.",
+      "zh": "你一定可以的，你會在這裡很合得來。"
+    },
+    {
+      "es": "Gracias por todo, Lucía, ha sido un primer día estupendo.",
+      "zh": "謝謝妳的招待，露西亞，第一天超棒的。"
+    },
+    {
+      "es": "Deja que te presente al resto del equipo creativo.",
+      "zh": "讓我把你介紹給創意團隊的其他成員。"
+    },
+    {
+      "es": "Tu mesa está junto a la ventana, al fondo del pasillo.",
+      "zh": "你的座位在走廊盡頭靠窗的地方。"
+    },
+    {
+      "es": "El ordenador ya tiene instalados todos los programas.",
+      "zh": "電腦已經安裝好所有的軟體了。"
+    },
+    {
+      "es": "La contraseña del correo te llegará por mensaje hoy.",
+      "zh": "信箱的密碼今天會用簡訊傳給你。"
+    },
+    {
+      "es": "La cocina está a la derecha, hay café y té gratis.",
+      "zh": "茶水間在右邊，有免費的咖啡和茶。"
+    },
+    {
+      "es": "El horario flexible empieza entre las ocho y las nueve.",
+      "zh": "彈性上班時間是介於八點到九點之間開始。"
+    },
+    {
+      "es": "Cualquier duda, pregúntame sin ningún problema.",
+      "zh": "有任何疑問，儘管問我沒關係。"
+    },
+    {
+      "es": "Mañana tendrás una formación sobre nuestros procesos.",
+      "zh": "明天你會接受關於我們作業流程的培訓。"
+    },
+    {
+      "es": "Estoy un poco nervioso, pero con muchas ganas de aprender.",
+      "zh": "我有點緊張，但很想趕快學習。"
+    },
+    {
+      "es": "Comeremos juntos al mediodía para que conozcas a todos.",
+      "zh": "中午我們會一起吃飯，讓你認識大家。"
+    }
   ]
 }

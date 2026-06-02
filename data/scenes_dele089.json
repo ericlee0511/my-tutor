@@ -1,55 +1,245 @@
 {
   "title": "Picnic en el parque",
   "all": [
-    {"es": "Qué día tan bueno para hacer el pícnic en el parque.", "zh": "今天天氣這麼好，超適合去公園野餐。"},
-    {"es": "Llevo toda la semana esperando este sábado, en serio.", "zh": "我整週都在等這個禮拜六，真的。"},
-    {"es": "¿Has metido ya la tortilla en la cesta o no?", "zh": "你把烘蛋放進籃子了嗎？"},
-    {"es": "Sí, y también el queso que compramos ayer.", "zh": "放了，還有昨天買的起司。"},
-    {"es": "Yo me encargo de las bebidas y de las servilletas.", "zh": "我負責飲料跟餐巾紙。"},
-    {"es": "No olvides el sacacorchos, que el año pasado pasó.", "zh": "別忘了開瓶器，去年就忘了。"},
-    {"es": "Apuntado, lo dejo encima de la cesta para no olvidarlo.", "zh": "記下了，我放籃子上免得忘記。"},
-    {"es": "¿Llevamos también un poco de fruta para el postre?", "zh": "我們要不要也帶點水果當甜點？"},
-    {"es": "Hay melocotones y unas uvas en la nevera, perfectos.", "zh": "冰箱有桃子跟葡萄，剛剛好。"},
-    {"es": "Pues los meto en un recipiente para que no se aplasten.", "zh": "我用保鮮盒裝，免得壓壞。"},
-    {"es": "Ojo con el sol, coge protector y unas gorras.", "zh": "小心太陽，帶防曬乳跟帽子。"},
-    {"es": "Cojo también la manta grande, esa de cuadros azules.", "zh": "我也拿那條大的，藍格紋那條。"},
-    {"es": "Buena elección, es la más cómoda para tumbarse.", "zh": "好選擇，那條躺起來最舒服。"},
-    {"es": "¿Le decimos a tu hermano que se apunte al final?", "zh": "我們最後要不要叫你弟弟一起來？"},
-    {"es": "Le escribo ahora, pero seguro que ya está de camino.", "zh": "我現在傳訊息，但他應該已經在路上了。"},
-    {"es": "Mejor, así somos más para repartirnos la comida.", "zh": "這樣比較好，人多食物可以分。"},
-    {"es": "¡Mira qué lleno está el parque, parece una fiesta!", "zh": "看公園多滿，像在辦慶典！"},
-    {"es": "Vamos hacia la zona de los árboles grandes, hay sombra.", "zh": "我們往大樹那邊走，有遮蔭。"},
-    {"es": "Aquel hueco junto al chopo está libre, corre.", "zh": "白楊樹旁邊那塊空著，快過去。"},
-    {"es": "Lo cojo yo, suelta la cesta y extiende la manta.", "zh": "我來占位，你放下籃子鋪毯子。"},
-    {"es": "Listo, qué bien se está aquí con esta brisa suave.", "zh": "好了，這裡有微風吹真舒服。"},
-    {"es": "Saco la tortilla y los platos, ¿partes el pan?", "zh": "我拿烘蛋跟盤子，你切麵包？"},
-    {"es": "Voy, lo corto en rebanadas finas como te gusta.", "zh": "好，我切成薄片，你喜歡的那樣。"},
-    {"es": "Brindemos antes de empezar a comer, va.", "zh": "開吃前先乾一杯吧。"},
-    {"es": "Por este día tan tranquilo lejos de la rutina.", "zh": "敬這個遠離日常的悠閒一天。"},
-    {"es": "Por nosotros y por seguir haciendo planes juntos.", "zh": "敬我們，敬繼續一起計畫各種活動。"},
-    {"es": "La tortilla te ha salido espectacular esta vez.", "zh": "你這次烘蛋做得超讚。"},
-    {"es": "Le he puesto cebolla pochada despacito, ese es el truco.", "zh": "我把洋蔥慢慢炒軟，這就是訣竅。"},
-    {"es": "Pues hay que repetirla en casa más a menudo.", "zh": "那家裡要常做這個。"},
-    {"es": "Apuntado, la próxima semana ya, si quieres.", "zh": "記下了，下週就做，你想的話。"},
-    {"es": "Mira a esos niños jugando con la cometa, qué ilusión.", "zh": "你看那些小孩在放風箏，好開心。"},
-    {"es": "A mí cuando era pequeño también me encantaba.", "zh": "我小時候也超愛玩。"},
-    {"es": "Cuéntame, no sabía esa parte de ti.", "zh": "說來聽聽，我不知道你這一面。"},
-    {"es": "Mi padre me hacía una cada verano con cañas.", "zh": "我爸每年夏天都用蘆葦幫我做一個。"},
-    {"es": "Qué bonita historia, deberías hacerla con tu sobrino.", "zh": "好溫馨的故事，你應該跟你姪子一起做。"},
-    {"es": "La haremos este julio, prometido y firmado.", "zh": "我們今年七月就做，保證。"},
-    {"es": "¿Te apetece tumbarte un poco después de comer?", "zh": "吃完後想躺一下嗎？"},
-    {"es": "Encantado, una siestecita al aire libre es lo mejor.", "zh": "好啊，在戶外睡個午覺最棒了。"},
-    {"es": "Cierra los ojos, yo te despierto en media hora.", "zh": "閉上眼睛，半小時後我叫你。"},
-    {"es": "Vale, pero no te olvides, que luego me da la tarde.", "zh": "好，但別忘了，不然我整個下午都睡掉。"},
-    {"es": "Ya despertaste, ¿qué tal? ¿te ha sentado bien?", "zh": "你醒了，怎樣？睡得不錯吧？"},
-    {"es": "Genial, tengo el cuerpo como nuevo otra vez.", "zh": "超棒，全身重生一遍。"},
-    {"es": "Pues vamos recogiendo, que se está nublando un poco.", "zh": "那我們開始收，天空有點陰了。"},
-    {"es": "Yo guardo lo que sobra y tú dobla la manta.", "zh": "我收剩下的食物，你折毯子。"},
-    {"es": "Cuidado con la basura, hay que llevársela toda.", "zh": "小心垃圾，要全部帶走。"},
-    {"es": "Por supuesto, el parque queda como lo encontramos.", "zh": "當然，公園維持原樣。"},
-    {"es": "Echamos los vidrios en el contenedor verde de allí.", "zh": "玻璃丟那邊那個綠色資源桶。"},
-    {"es": "Pues nos volvemos a casa con buen sabor de boca.", "zh": "我們帶著好心情回家。"},
-    {"es": "Hay que repetir esto un domingo de cada mes.", "zh": "每個月得找個禮拜天再來一次。"},
-    {"es": "Hecho, lo metemos en el calendario al llegar.", "zh": "說定了，回家就排進日曆。"}
+    {
+      "es": "Qué día tan bueno para hacer el pícnic en el parque.",
+      "zh": "今天天氣這麼好，超適合去公園野餐。"
+    },
+    {
+      "es": "Llevo toda la semana esperando este sábado, en serio.",
+      "zh": "我整週都在等這個禮拜六，真的。"
+    },
+    {
+      "es": "¿Has metido ya la tortilla en la cesta o no?",
+      "zh": "你把烘蛋放進籃子了嗎？"
+    },
+    {
+      "es": "Sí, y también el queso que compramos ayer.",
+      "zh": "放了，還有昨天買的起司。"
+    },
+    {
+      "es": "Yo me encargo de las bebidas y de las servilletas.",
+      "zh": "我負責飲料跟餐巾紙。"
+    },
+    {
+      "es": "No olvides el sacacorchos, que el año pasado pasó.",
+      "zh": "別忘了開瓶器，去年就忘了。"
+    },
+    {
+      "es": "Apuntado, lo dejo encima de la cesta para no olvidarlo.",
+      "zh": "記下了，我放籃子上免得忘記。"
+    },
+    {
+      "es": "¿Llevamos también un poco de fruta para el postre?",
+      "zh": "我們要不要也帶點水果當甜點？"
+    },
+    {
+      "es": "Hay melocotones y unas uvas en la nevera, perfectos.",
+      "zh": "冰箱有桃子跟葡萄，剛剛好。"
+    },
+    {
+      "es": "Pues los meto en un recipiente para que no se aplasten.",
+      "zh": "我用保鮮盒裝，免得壓壞。"
+    },
+    {
+      "es": "Ojo con el sol, coge protector y unas gorras.",
+      "zh": "小心太陽，帶防曬乳跟帽子。"
+    },
+    {
+      "es": "Cojo también la manta grande, esa de cuadros azules.",
+      "zh": "我也拿那條大的，藍格紋那條。"
+    },
+    {
+      "es": "Buena elección, es la más cómoda para tumbarse.",
+      "zh": "好選擇，那條躺起來最舒服。"
+    },
+    {
+      "es": "¿Le decimos a tu hermano que se apunte al final?",
+      "zh": "我們最後要不要叫你弟弟一起來？"
+    },
+    {
+      "es": "Le escribo ahora, pero seguro que ya está de camino.",
+      "zh": "我現在傳訊息，但他應該已經在路上了。"
+    },
+    {
+      "es": "Mejor, así somos más para repartirnos la comida.",
+      "zh": "這樣比較好，人多食物可以分。"
+    },
+    {
+      "es": "¡Mira qué lleno está el parque, parece una fiesta!",
+      "zh": "看公園多滿，像在辦慶典！"
+    },
+    {
+      "es": "Vamos hacia la zona de los árboles grandes, hay sombra.",
+      "zh": "我們往大樹那邊走，有遮蔭。"
+    },
+    {
+      "es": "Aquel hueco junto al chopo está libre, corre.",
+      "zh": "白楊樹旁邊那塊空著，快過去。"
+    },
+    {
+      "es": "Lo cojo yo, suelta la cesta y extiende la manta.",
+      "zh": "我來占位，你放下籃子鋪毯子。"
+    },
+    {
+      "es": "Listo, qué bien se está aquí con esta brisa suave.",
+      "zh": "好了，這裡有微風吹真舒服。"
+    },
+    {
+      "es": "Saco la tortilla y los platos, ¿partes el pan?",
+      "zh": "我拿烘蛋跟盤子，你切麵包？"
+    },
+    {
+      "es": "Voy, lo corto en rebanadas finas como te gusta.",
+      "zh": "好，我切成薄片，你喜歡的那樣。"
+    },
+    {
+      "es": "Brindemos antes de empezar a comer, va.",
+      "zh": "開吃前先乾一杯吧。"
+    },
+    {
+      "es": "Por este día tan tranquilo lejos de la rutina.",
+      "zh": "敬這個遠離日常的悠閒一天。"
+    },
+    {
+      "es": "Por nosotros y por seguir haciendo planes juntos.",
+      "zh": "敬我們，敬繼續一起計畫各種活動。"
+    },
+    {
+      "es": "La tortilla te ha salido espectacular esta vez.",
+      "zh": "你這次烘蛋做得超讚。"
+    },
+    {
+      "es": "Le he puesto cebolla pochada despacito, ese es el truco.",
+      "zh": "我把洋蔥慢慢炒軟，這就是訣竅。"
+    },
+    {
+      "es": "Pues hay que repetirla en casa más a menudo.",
+      "zh": "那家裡要常做這個。"
+    },
+    {
+      "es": "Apuntado, la próxima semana ya, si quieres.",
+      "zh": "記下了，下週就做，你想的話。"
+    },
+    {
+      "es": "Mira a esos niños jugando con la cometa, qué ilusión.",
+      "zh": "你看那些小孩在放風箏，好開心。"
+    },
+    {
+      "es": "A mí cuando era pequeño también me encantaba.",
+      "zh": "我小時候也超愛玩。"
+    },
+    {
+      "es": "Cuéntame, no sabía esa parte de ti.",
+      "zh": "說來聽聽，我不知道你這一面。"
+    },
+    {
+      "es": "Mi padre me hacía una cada verano con cañas.",
+      "zh": "我爸每年夏天都用蘆葦幫我做一個。"
+    },
+    {
+      "es": "Qué bonita historia, deberías hacerla con tu sobrino.",
+      "zh": "好溫馨的故事，你應該跟你姪子一起做。"
+    },
+    {
+      "es": "La haremos este julio, prometido y firmado.",
+      "zh": "我們今年七月就做，保證。"
+    },
+    {
+      "es": "¿Te apetece tumbarte un poco después de comer?",
+      "zh": "吃完後想躺一下嗎？"
+    },
+    {
+      "es": "Encantado, una siestecita al aire libre es lo mejor.",
+      "zh": "好啊，在戶外睡個午覺最棒了。"
+    },
+    {
+      "es": "Cierra los ojos, yo te despierto en media hora.",
+      "zh": "閉上眼睛，半小時後我叫你。"
+    },
+    {
+      "es": "Vale, pero no te olvides, que luego me da la tarde.",
+      "zh": "好，但別忘了，不然我整個下午都睡掉。"
+    },
+    {
+      "es": "Ya despertaste, ¿qué tal? ¿te ha sentado bien?",
+      "zh": "你醒了，怎樣？睡得不錯吧？"
+    },
+    {
+      "es": "Genial, tengo el cuerpo como nuevo otra vez.",
+      "zh": "超棒，全身重生一遍。"
+    },
+    {
+      "es": "Pues vamos recogiendo, que se está nublando un poco.",
+      "zh": "那我們開始收，天空有點陰了。"
+    },
+    {
+      "es": "Yo guardo lo que sobra y tú dobla la manta.",
+      "zh": "我收剩下的食物，你折毯子。"
+    },
+    {
+      "es": "Cuidado con la basura, hay que llevársela toda.",
+      "zh": "小心垃圾，要全部帶走。"
+    },
+    {
+      "es": "Por supuesto, el parque queda como lo encontramos.",
+      "zh": "當然，公園維持原樣。"
+    },
+    {
+      "es": "Echamos los vidrios en el contenedor verde de allí.",
+      "zh": "玻璃丟那邊那個綠色資源桶。"
+    },
+    {
+      "es": "Pues nos volvemos a casa con buen sabor de boca.",
+      "zh": "我們帶著好心情回家。"
+    },
+    {
+      "es": "Hay que repetir esto un domingo de cada mes.",
+      "zh": "每個月得找個禮拜天再來一次。"
+    },
+    {
+      "es": "Hecho, lo metemos en el calendario al llegar.",
+      "zh": "說定了，回家就排進日曆。"
+    },
+    {
+      "es": "Extendamos la manta a la sombra de aquel árbol tan grande.",
+      "zh": "我們把野餐墊鋪在那棵大樹的樹蔭下吧。"
+    },
+    {
+      "es": "¿Te acordaste de traer el sacacorchos para el vino?",
+      "zh": "你記得帶開瓶器來開酒嗎？"
+    },
+    {
+      "es": "Hay hormigas por todas partes, vigilad la comida.",
+      "zh": "到處都是螞蟻，盯緊食物。"
+    },
+    {
+      "es": "Después de comer podríamos echar una partida a las cartas.",
+      "zh": "吃完飯後我們可以來玩一局牌。"
+    },
+    {
+      "es": "Échate crema solar, que el sol pica más de lo que parece.",
+      "zh": "擦點防曬乳，太陽比看起來還毒。"
+    },
+    {
+      "es": "Los niños están encantados dando de comer a los patos del estanque.",
+      "zh": "孩子們在池塘邊餵鴨子，玩得超開心。"
+    },
+    {
+      "es": "Trajimos un mantel de cuadros que queda genial en las fotos.",
+      "zh": "我們帶了一條格紋桌布，拍照超好看。"
+    },
+    {
+      "es": "Guardemos las sobras antes de que se calienten al sol.",
+      "zh": "趁剩菜還沒被太陽曬熱，先收起來吧。"
+    },
+    {
+      "es": "Qué pena recoger ya, con lo bien que se está aquí tumbados.",
+      "zh": "現在就要收拾真可惜，躺在這裡這麼舒服。"
+    },
+    {
+      "es": "No olvidemos llevarnos toda la basura a la papelera de la salida.",
+      "zh": "別忘了把所有垃圾帶到出口的垃圾桶丟掉。"
+    }
   ]
 }

@@ -1,45 +1,201 @@
 {
   "title": "Una llamada al médico",
   "all": [
-    { "es": "Buenos días, Centro Médico San Rafael, ¿en qué puedo ayudarle?", "zh": "早安，這裡是聖拉斐爾醫療中心，需要什麼服務？" },
-    { "es": "Hola, quería pedir una cita con el doctor Ramírez.", "zh": "你好，我想預約拉米雷斯醫生的看診。" },
-    { "es": "¿Es la primera vez que viene a la clínica?", "zh": "你是第一次來本診所嗎？" },
-    { "es": "No, ya he venido varias veces el año pasado.", "zh": "不是，去年我已經來過好幾次了。" },
-    { "es": "Perfecto. ¿Me puede decir su nombre completo?", "zh": "很好。可以告訴我您的全名嗎？" },
-    { "es": "Me llamo Lucía Fernández Torres.", "zh": "我叫露西亞·費南德斯·托雷斯。" },
-    { "es": "¿Qué síntomas tiene?", "zh": "您有什麼症狀？" },
-    { "es": "Llevo una semana con dolor de espalda y no he podido dormir bien.", "zh": "我背痛已經一個禮拜了，而且都睡不好。" },
-    { "es": "¿Ha tomado algún medicamento?", "zh": "您有吃什麼藥嗎？" },
-    { "es": "Solo unos analgésicos, pero no me han hecho mucho efecto.", "zh": "只吃了一些止痛藥，但效果不太好。" },
-    { "es": "Entiendo. El doctor tiene un hueco el jueves por la tarde.", "zh": "我了解。醫生星期四下午有空檔。" },
-    { "es": "¿A qué hora exactamente?", "zh": "確切是幾點？" },
-    { "es": "Podría ser a las cinco y media, si le viene bien.", "zh": "如果方便的話，可以是五點半。" },
-    { "es": "Sí, esa hora me va perfecta.", "zh": "好的，那個時間對我剛好。" },
-    { "es": "¿Sigue viviendo en la misma dirección?", "zh": "您還住在同一個地址嗎？" },
-    { "es": "Sí, pero he cambiado de número de teléfono.", "zh": "是的，但我換了電話號碼。" },
-    { "es": "Dígame el nuevo, por favor.", "zh": "請告訴我新的號碼。" },
-    { "es": "Es el seis siete ocho, cuatro tres dos, nueve uno cero.", "zh": "是 678-432-910。" },
-    { "es": "Perfecto, queda anotado. Le esperamos el jueves.", "zh": "好的，已記下。星期四等您光臨。" },
-    { "es": "Muchas gracias, hasta el jueves.", "zh": "非常感謝，星期四見。" },
-    { "es": "Una cosa más, ¿debo traer algún informe?", "zh": "還有一件事，我需要帶任何報告嗎？" },
-    { "es": "Sí, si tiene radiografías o análisis recientes, tráigalos.", "zh": "需要，如果您有最近的 X 光或檢驗報告，請帶過來。" },
-    { "es": "Tengo unas radiografías del mes pasado.", "zh": "我有上個月的 X 光片。" },
-    { "es": "Perfecto, así el doctor podrá verlas.", "zh": "太好了，這樣醫生就能看到。" },
-    { "es": "¿Necesito venir en ayunas?", "zh": "我需要空腹來嗎？" },
-    { "es": "No, no será necesario en esta consulta.", "zh": "不用，這次看診不需要。" },
-    { "es": "¿Cuánto suele durar la consulta?", "zh": "看診通常要多久？" },
-    { "es": "Unos veinte o treinta minutos.", "zh": "大約二十到三十分鐘。" },
-    { "es": "¿Puedo aparcar cerca de la clínica?", "zh": "我可以停車在診所附近嗎？" },
-    { "es": "Tenemos un parking propio en el sótano del edificio.", "zh": "我們在大樓地下室有自己的停車場。" },
-    { "es": "¿Es gratuito para los pacientes?", "zh": "對病人來說是免費的嗎？" },
-    { "es": "Sí, solo necesita pedir el ticket en recepción.", "zh": "是的，只要在接待處索取票券即可。" },
-    { "es": "Si no puedo venir, ¿hasta cuándo puedo cancelar?", "zh": "如果我不能來，最晚什麼時候可以取消？" },
-    { "es": "Le agradeceríamos que avisara con al menos un día de antelación.", "zh": "我們希望您至少提前一天通知。" },
-    { "es": "De acuerdo, lo tendré en cuenta.", "zh": "好的，我會記住。" },
-    { "es": "¿Hay alguna farmacia cerca por si necesito comprar algo?", "zh": "附近有藥局嗎？以防我需要買什麼。" },
-    { "es": "Sí, justo en la esquina hay una abierta hasta las diez.", "zh": "有，街角就有一家開到晚上十點。" },
-    { "es": "Es usted muy amable, gracias por la información.", "zh": "你真親切，謝謝你提供的資訊。" },
-    { "es": "Para eso estamos. Que tenga buen día.", "zh": "這是我們應該做的。祝您有美好的一天。" },
-    { "es": "Igualmente, hasta pronto.", "zh": "你也是，再見。" }
+    {
+      "es": "Buenos días, Centro Médico San Rafael, ¿en qué puedo ayudarle?",
+      "zh": "早安，這裡是聖拉斐爾醫療中心，需要什麼服務？"
+    },
+    {
+      "es": "Hola, quería pedir una cita con el doctor Ramírez.",
+      "zh": "你好，我想預約拉米雷斯醫生的看診。"
+    },
+    {
+      "es": "¿Es la primera vez que viene a la clínica?",
+      "zh": "你是第一次來本診所嗎？"
+    },
+    {
+      "es": "No, ya he venido varias veces el año pasado.",
+      "zh": "不是，去年我已經來過好幾次了。"
+    },
+    {
+      "es": "Perfecto. ¿Me puede decir su nombre completo?",
+      "zh": "很好。可以告訴我您的全名嗎？"
+    },
+    {
+      "es": "Me llamo Lucía Fernández Torres.",
+      "zh": "我叫露西亞·費南德斯·托雷斯。"
+    },
+    {
+      "es": "¿Qué síntomas tiene?",
+      "zh": "您有什麼症狀？"
+    },
+    {
+      "es": "Llevo una semana con dolor de espalda y no he podido dormir bien.",
+      "zh": "我背痛已經一個禮拜了，而且都睡不好。"
+    },
+    {
+      "es": "¿Ha tomado algún medicamento?",
+      "zh": "您有吃什麼藥嗎？"
+    },
+    {
+      "es": "Solo unos analgésicos, pero no me han hecho mucho efecto.",
+      "zh": "只吃了一些止痛藥，但效果不太好。"
+    },
+    {
+      "es": "Entiendo. El doctor tiene un hueco el jueves por la tarde.",
+      "zh": "我了解。醫生星期四下午有空檔。"
+    },
+    {
+      "es": "¿A qué hora exactamente?",
+      "zh": "確切是幾點？"
+    },
+    {
+      "es": "Podría ser a las cinco y media, si le viene bien.",
+      "zh": "如果方便的話，可以是五點半。"
+    },
+    {
+      "es": "Sí, esa hora me va perfecta.",
+      "zh": "好的，那個時間對我剛好。"
+    },
+    {
+      "es": "¿Sigue viviendo en la misma dirección?",
+      "zh": "您還住在同一個地址嗎？"
+    },
+    {
+      "es": "Sí, pero he cambiado de número de teléfono.",
+      "zh": "是的，但我換了電話號碼。"
+    },
+    {
+      "es": "Dígame el nuevo, por favor.",
+      "zh": "請告訴我新的號碼。"
+    },
+    {
+      "es": "Es el seis siete ocho, cuatro tres dos, nueve uno cero.",
+      "zh": "是 678-432-910。"
+    },
+    {
+      "es": "Perfecto, queda anotado. Le esperamos el jueves.",
+      "zh": "好的，已記下。星期四等您光臨。"
+    },
+    {
+      "es": "Muchas gracias, hasta el jueves.",
+      "zh": "非常感謝，星期四見。"
+    },
+    {
+      "es": "Una cosa más, ¿debo traer algún informe?",
+      "zh": "還有一件事，我需要帶任何報告嗎？"
+    },
+    {
+      "es": "Sí, si tiene radiografías o análisis recientes, tráigalos.",
+      "zh": "需要，如果您有最近的 X 光或檢驗報告，請帶過來。"
+    },
+    {
+      "es": "Tengo unas radiografías del mes pasado.",
+      "zh": "我有上個月的 X 光片。"
+    },
+    {
+      "es": "Perfecto, así el doctor podrá verlas.",
+      "zh": "太好了，這樣醫生就能看到。"
+    },
+    {
+      "es": "¿Necesito venir en ayunas?",
+      "zh": "我需要空腹來嗎？"
+    },
+    {
+      "es": "No, no será necesario en esta consulta.",
+      "zh": "不用，這次看診不需要。"
+    },
+    {
+      "es": "¿Cuánto suele durar la consulta?",
+      "zh": "看診通常要多久？"
+    },
+    {
+      "es": "Unos veinte o treinta minutos.",
+      "zh": "大約二十到三十分鐘。"
+    },
+    {
+      "es": "¿Puedo aparcar cerca de la clínica?",
+      "zh": "我可以停車在診所附近嗎？"
+    },
+    {
+      "es": "Tenemos un parking propio en el sótano del edificio.",
+      "zh": "我們在大樓地下室有自己的停車場。"
+    },
+    {
+      "es": "¿Es gratuito para los pacientes?",
+      "zh": "對病人來說是免費的嗎？"
+    },
+    {
+      "es": "Sí, solo necesita pedir el ticket en recepción.",
+      "zh": "是的，只要在接待處索取票券即可。"
+    },
+    {
+      "es": "Si no puedo venir, ¿hasta cuándo puedo cancelar?",
+      "zh": "如果我不能來，最晚什麼時候可以取消？"
+    },
+    {
+      "es": "Le agradeceríamos que avisara con al menos un día de antelación.",
+      "zh": "我們希望您至少提前一天通知。"
+    },
+    {
+      "es": "De acuerdo, lo tendré en cuenta.",
+      "zh": "好的，我會記住。"
+    },
+    {
+      "es": "¿Hay alguna farmacia cerca por si necesito comprar algo?",
+      "zh": "附近有藥局嗎？以防我需要買什麼。"
+    },
+    {
+      "es": "Sí, justo en la esquina hay una abierta hasta las diez.",
+      "zh": "有，街角就有一家開到晚上十點。"
+    },
+    {
+      "es": "Es usted muy amable, gracias por la información.",
+      "zh": "你真親切，謝謝你提供的資訊。"
+    },
+    {
+      "es": "Para eso estamos. Que tenga buen día.",
+      "zh": "這是我們應該做的。祝您有美好的一天。"
+    },
+    {
+      "es": "Igualmente, hasta pronto.",
+      "zh": "你也是，再見。"
+    },
+    {
+      "es": "¿Tienen alguna hora libre esta misma semana?",
+      "zh": "這個禮拜還有空的時段嗎？"
+    },
+    {
+      "es": "Prefiero una cita por la tarde si es posible.",
+      "zh": "如果可以的話我比較想要下午的門診。"
+    },
+    {
+      "es": "¿El doctor pasa consulta los miércoles?",
+      "zh": "醫生星期三有看診嗎？"
+    },
+    {
+      "es": "Necesito renovar la receta de mi tratamiento.",
+      "zh": "我需要續開我療程的處方箋。"
+    },
+    {
+      "es": "¿Debo llevar los resultados de los análisis?",
+      "zh": "我需要帶上檢驗報告嗎？"
+    },
+    {
+      "es": "Tengo que cancelar la cita del jueves.",
+      "zh": "我得取消星期四的預約。"
+    },
+    {
+      "es": "¿Atienden con la tarjeta del seguro médico?",
+      "zh": "你們可以用健保卡看診嗎？"
+    },
+    {
+      "es": "Llamo porque me han salido los resultados.",
+      "zh": "我打來是因為我的報告出來了。"
+    },
+    {
+      "es": "¿Me pueden enviar un recordatorio por mensaje?",
+      "zh": "可以用簡訊提醒我嗎？"
+    }
   ]
 }

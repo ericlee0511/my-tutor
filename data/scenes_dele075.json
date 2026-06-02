@@ -1,55 +1,245 @@
 {
   "title": "Negociando un aumento de sueldo",
   "all": [
-    {"es": "Llevo semanas pensando en pedir un aumento de sueldo.", "zh": "我考慮跟公司提加薪已經好幾週了。"},
-    {"es": "Lo voy a hablar con Inés en la reunión del jueves.", "zh": "我打算週四開會時跟伊內絲談。"},
-    {"es": "Antes necesito preparar bien todos mis argumentos.", "zh": "在那之前我要把所有理由準備好。"},
-    {"es": "Llevo tres años aquí y no he subido nunca.", "zh": "我在這裡三年了，從來沒調薪過。"},
-    {"es": "He asumido responsabilidades nuevas sin compensación adicional.", "zh": "我承擔了新責任，但沒拿到額外報酬。"},
-    {"es": "Voy a hacer una lista con todos mis logros recientes.", "zh": "我來列一張清單，寫上最近所有成就。"},
-    {"es": "El año pasado lideré dos lanzamientos importantes con éxito.", "zh": "去年我成功領導了兩個重要的產品發表。"},
-    {"es": "También he formado a dos compañeros nuevos del equipo.", "zh": "我還訓練了團隊兩位新人。"},
-    {"es": "Eso me ahorró tiempo a Inés, debería recordárselo.", "zh": "這幫伊內絲省了時間，我應該提醒她。"},
-    {"es": "Voy a buscar el salario medio del mercado para mi puesto.", "zh": "我來查一下市場上同職位的平均薪水。"},
-    {"es": "Según varias webs, gano un quince por ciento menos.", "zh": "根據幾個網站，我比市場低了百分之十五。"},
-    {"es": "Eso es un dato objetivo que apoya mi petición.", "zh": "這是支持我訴求的客觀數據。"},
-    {"es": "Mejor pediré una cifra concreta, no un porcentaje vago.", "zh": "我會提一個具體數字，而不是模糊的百分比。"},
-    {"es": "Voy a pedir tres mil euros brutos más al año.", "zh": "我會要求年薪稅前再加三千歐元。"},
-    {"es": "Si me ofrecen dos mil, ya estaría satisfecho también.", "zh": "如果他們給我兩千，我也能接受。"},
-    {"es": "Es importante no parecer agresivo durante la conversación.", "zh": "談話過程中重要的是不要太強勢。"},
-    {"es": "Hola Inés, gracias por hacerme un hueco hoy.", "zh": "嗨伊內絲，謝謝妳今天撥空給我。"},
-    {"es": "Hola Sergio, claro, dime, ¿de qué querías hablar?", "zh": "嗨塞吉歐，當然，你說，想聊什麼？"},
-    {"es": "Quería hablar sobre mi situación salarial actual.", "zh": "我想談一下我目前的薪資狀況。"},
-    {"es": "Te escucho, ¿qué tienes pensado exactamente?", "zh": "我聽，你具體有什麼想法？"},
-    {"es": "Llevo tres años en el equipo sin ninguna revisión.", "zh": "我在團隊三年從沒調過薪。"},
-    {"es": "Es verdad, tienes razón en ese punto.", "zh": "確實，這點你說得對。"},
-    {"es": "He asumido la coordinación de junior, además de mi trabajo.", "zh": "我除了本職工作還承擔了新人輔導。"},
-    {"es": "Y los lanzamientos de Berlín y Lyon fueron tuyos.", "zh": "柏林和里昂的產品發表也是你負責的。"},
-    {"es": "Eso supuso muchas horas extra durante varios meses.", "zh": "那段時間我加了好幾個月的班。"},
-    {"es": "Lo reconozco, fue un esfuerzo importante por tu parte.", "zh": "我承認，那是你很大的付出。"},
-    {"es": "He mirado el mercado y los salarios están más altos.", "zh": "我查過市場，行情比我們高很多。"},
-    {"es": "¿Qué cifras concretas estás barajando ahora mismo?", "zh": "你現在考慮的具體數字是多少？"},
-    {"es": "Me gustaría llegar a cuarenta y dos mil brutos.", "zh": "我希望能達到稅前四萬二千歐元。"},
-    {"es": "Eso son tres mil más respecto a tu actual.", "zh": "這比你目前的薪水多三千。"},
-    {"es": "Sé que es un salto, pero está justificado.", "zh": "我知道是個跳幅，但有充分理由。"},
-    {"es": "No puedo darte una respuesta inmediata, lo entiendes, ¿no?", "zh": "我沒辦法立刻給你答案，你能理解吧？"},
-    {"es": "Por supuesto, no esperaba decisión hoy mismo.", "zh": "當然，我也沒指望今天就有答案。"},
-    {"es": "Tengo que hablarlo con dirección y con recursos humanos.", "zh": "我得跟主管和人資討論一下。"},
-    {"es": "¿En cuánto tiempo crees que podrías contestarme?", "zh": "你大概多久可以回覆我？"},
-    {"es": "Dame dos semanas, no más, te prometo.", "zh": "給我兩週時間，不會更久，我保證。"},
-    {"es": "Perfecto, mientras tanto sigo con todo como siempre.", "zh": "好的，這段時間我照常工作。"},
-    {"es": "Aprecio mucho que lo plantees de forma tranquila.", "zh": "我很欣賞你用這麼平和的方式提出來。"},
-    {"es": "Gracias, lo importante para mí es la conversación abierta.", "zh": "謝謝，對我來說重要的是開放溝通。"},
-    {"es": "Hola Sergio, ya tengo respuesta de dirección.", "zh": "嗨塞吉歐，主管給回覆了。"},
-    {"es": "Cuéntame, Inés, estoy un poco nervioso, la verdad.", "zh": "妳說吧，伊內絲，老實說我有點緊張。"},
-    {"es": "No llegamos a los cuarenta y dos, pero ofrecemos cuarenta y uno.", "zh": "達不到四萬二，但我們提四萬一。"},
-    {"es": "Eso supone dos mil más, ¿qué te parece?", "zh": "也就是多兩千，你覺得呢？"},
-    {"es": "Me parece justo, lo acepto con gusto.", "zh": "我覺得公平，我很樂意接受。"},
-    {"es": "Además te incluimos un bono variable por objetivos.", "zh": "另外我們還加上目標達成的變動獎金。"},
-    {"es": "Eso lo hace todavía más interesante, muchas gracias.", "zh": "這就更吸引人了，非常感謝。"},
-    {"es": "El cambio entra en vigor el mes que viene.", "zh": "新條件下個月生效。"},
-    {"es": "Gracias por confiar en mí y valorar mi trabajo.", "zh": "謝謝公司信任並肯定我的努力。"},
-    {"es": "Te lo merecías, Sergio, sigue así de comprometido.", "zh": "你值得的，塞吉歐，繼續保持這份投入。"},
-    {"es": "Lo haré, tienes mi palabra para los próximos retos.", "zh": "我會的，未來的挑戰你放心交給我。"}
+    {
+      "es": "Llevo semanas pensando en pedir un aumento de sueldo.",
+      "zh": "我考慮跟公司提加薪已經好幾週了。"
+    },
+    {
+      "es": "Lo voy a hablar con Inés en la reunión del jueves.",
+      "zh": "我打算週四開會時跟伊內絲談。"
+    },
+    {
+      "es": "Antes necesito preparar bien todos mis argumentos.",
+      "zh": "在那之前我要把所有理由準備好。"
+    },
+    {
+      "es": "Llevo tres años aquí y no he subido nunca.",
+      "zh": "我在這裡三年了，從來沒調薪過。"
+    },
+    {
+      "es": "He asumido responsabilidades nuevas sin compensación adicional.",
+      "zh": "我承擔了新責任，但沒拿到額外報酬。"
+    },
+    {
+      "es": "Voy a hacer una lista con todos mis logros recientes.",
+      "zh": "我來列一張清單，寫上最近所有成就。"
+    },
+    {
+      "es": "El año pasado lideré dos lanzamientos importantes con éxito.",
+      "zh": "去年我成功領導了兩個重要的產品發表。"
+    },
+    {
+      "es": "También he formado a dos compañeros nuevos del equipo.",
+      "zh": "我還訓練了團隊兩位新人。"
+    },
+    {
+      "es": "Eso me ahorró tiempo a Inés, debería recordárselo.",
+      "zh": "這幫伊內絲省了時間，我應該提醒她。"
+    },
+    {
+      "es": "Voy a buscar el salario medio del mercado para mi puesto.",
+      "zh": "我來查一下市場上同職位的平均薪水。"
+    },
+    {
+      "es": "Según varias webs, gano un quince por ciento menos.",
+      "zh": "根據幾個網站，我比市場低了百分之十五。"
+    },
+    {
+      "es": "Eso es un dato objetivo que apoya mi petición.",
+      "zh": "這是支持我訴求的客觀數據。"
+    },
+    {
+      "es": "Mejor pediré una cifra concreta, no un porcentaje vago.",
+      "zh": "我會提一個具體數字，而不是模糊的百分比。"
+    },
+    {
+      "es": "Voy a pedir tres mil euros brutos más al año.",
+      "zh": "我會要求年薪稅前再加三千歐元。"
+    },
+    {
+      "es": "Si me ofrecen dos mil, ya estaría satisfecho también.",
+      "zh": "如果他們給我兩千，我也能接受。"
+    },
+    {
+      "es": "Es importante no parecer agresivo durante la conversación.",
+      "zh": "談話過程中重要的是不要太強勢。"
+    },
+    {
+      "es": "Hola Inés, gracias por hacerme un hueco hoy.",
+      "zh": "嗨伊內絲，謝謝妳今天撥空給我。"
+    },
+    {
+      "es": "Hola Sergio, claro, dime, ¿de qué querías hablar?",
+      "zh": "嗨塞吉歐，當然，你說，想聊什麼？"
+    },
+    {
+      "es": "Quería hablar sobre mi situación salarial actual.",
+      "zh": "我想談一下我目前的薪資狀況。"
+    },
+    {
+      "es": "Te escucho, ¿qué tienes pensado exactamente?",
+      "zh": "我聽，你具體有什麼想法？"
+    },
+    {
+      "es": "Llevo tres años en el equipo sin ninguna revisión.",
+      "zh": "我在團隊三年從沒調過薪。"
+    },
+    {
+      "es": "Es verdad, tienes razón en ese punto.",
+      "zh": "確實，這點你說得對。"
+    },
+    {
+      "es": "He asumido la coordinación de junior, además de mi trabajo.",
+      "zh": "我除了本職工作還承擔了新人輔導。"
+    },
+    {
+      "es": "Y los lanzamientos de Berlín y Lyon fueron tuyos.",
+      "zh": "柏林和里昂的產品發表也是你負責的。"
+    },
+    {
+      "es": "Eso supuso muchas horas extra durante varios meses.",
+      "zh": "那段時間我加了好幾個月的班。"
+    },
+    {
+      "es": "Lo reconozco, fue un esfuerzo importante por tu parte.",
+      "zh": "我承認，那是你很大的付出。"
+    },
+    {
+      "es": "He mirado el mercado y los salarios están más altos.",
+      "zh": "我查過市場，行情比我們高很多。"
+    },
+    {
+      "es": "¿Qué cifras concretas estás barajando ahora mismo?",
+      "zh": "你現在考慮的具體數字是多少？"
+    },
+    {
+      "es": "Me gustaría llegar a cuarenta y dos mil brutos.",
+      "zh": "我希望能達到稅前四萬二千歐元。"
+    },
+    {
+      "es": "Eso son tres mil más respecto a tu actual.",
+      "zh": "這比你目前的薪水多三千。"
+    },
+    {
+      "es": "Sé que es un salto, pero está justificado.",
+      "zh": "我知道是個跳幅，但有充分理由。"
+    },
+    {
+      "es": "No puedo darte una respuesta inmediata, lo entiendes, ¿no?",
+      "zh": "我沒辦法立刻給你答案，你能理解吧？"
+    },
+    {
+      "es": "Por supuesto, no esperaba decisión hoy mismo.",
+      "zh": "當然，我也沒指望今天就有答案。"
+    },
+    {
+      "es": "Tengo que hablarlo con dirección y con recursos humanos.",
+      "zh": "我得跟主管和人資討論一下。"
+    },
+    {
+      "es": "¿En cuánto tiempo crees que podrías contestarme?",
+      "zh": "你大概多久可以回覆我？"
+    },
+    {
+      "es": "Dame dos semanas, no más, te prometo.",
+      "zh": "給我兩週時間，不會更久，我保證。"
+    },
+    {
+      "es": "Perfecto, mientras tanto sigo con todo como siempre.",
+      "zh": "好的，這段時間我照常工作。"
+    },
+    {
+      "es": "Aprecio mucho que lo plantees de forma tranquila.",
+      "zh": "我很欣賞你用這麼平和的方式提出來。"
+    },
+    {
+      "es": "Gracias, lo importante para mí es la conversación abierta.",
+      "zh": "謝謝，對我來說重要的是開放溝通。"
+    },
+    {
+      "es": "Hola Sergio, ya tengo respuesta de dirección.",
+      "zh": "嗨塞吉歐，主管給回覆了。"
+    },
+    {
+      "es": "Cuéntame, Inés, estoy un poco nervioso, la verdad.",
+      "zh": "妳說吧，伊內絲，老實說我有點緊張。"
+    },
+    {
+      "es": "No llegamos a los cuarenta y dos, pero ofrecemos cuarenta y uno.",
+      "zh": "達不到四萬二，但我們提四萬一。"
+    },
+    {
+      "es": "Eso supone dos mil más, ¿qué te parece?",
+      "zh": "也就是多兩千，你覺得呢？"
+    },
+    {
+      "es": "Me parece justo, lo acepto con gusto.",
+      "zh": "我覺得公平，我很樂意接受。"
+    },
+    {
+      "es": "Además te incluimos un bono variable por objetivos.",
+      "zh": "另外我們還加上目標達成的變動獎金。"
+    },
+    {
+      "es": "Eso lo hace todavía más interesante, muchas gracias.",
+      "zh": "這就更吸引人了，非常感謝。"
+    },
+    {
+      "es": "El cambio entra en vigor el mes que viene.",
+      "zh": "新條件下個月生效。"
+    },
+    {
+      "es": "Gracias por confiar en mí y valorar mi trabajo.",
+      "zh": "謝謝公司信任並肯定我的努力。"
+    },
+    {
+      "es": "Te lo merecías, Sergio, sigue así de comprometido.",
+      "zh": "你值得的，塞吉歐，繼續保持這份投入。"
+    },
+    {
+      "es": "Lo haré, tienes mi palabra para los próximos retos.",
+      "zh": "我會的，未來的挑戰你放心交給我。"
+    },
+    {
+      "es": "He asumido nuevas responsabilidades sin que se reflejen en mi nómina.",
+      "zh": "我承擔了新的職責，卻沒有反映在我的薪水上。"
+    },
+    {
+      "es": "Quiero mostrarle datos concretos sobre mis resultados.",
+      "zh": "我想向她展示我業績的具體數據。"
+    },
+    {
+      "es": "El año pasado capté a tres clientes importantes para la empresa.",
+      "zh": "去年我為公司爭取到三個重要客戶。"
+    },
+    {
+      "es": "Mi salario está por debajo de la media del mercado.",
+      "zh": "我的薪水低於市場的平均水準。"
+    },
+    {
+      "es": "Espero que valoren mi compromiso a largo plazo.",
+      "zh": "我希望他們能重視我長期的投入。"
+    },
+    {
+      "es": "Si no es posible ahora, podríamos fijar una fecha para revisarlo.",
+      "zh": "如果現在不行，我們可以訂個日期再來檢討。"
+    },
+    {
+      "es": "Prefiero hablar de cifras con tranquilidad y respeto.",
+      "zh": "我傾向心平氣和、互相尊重地談數字。"
+    },
+    {
+      "es": "Estoy abierto a otros beneficios además del dinero.",
+      "zh": "除了金錢之外，我也願意接受其他福利。"
+    },
+    {
+      "es": "Ensayaré la conversación en voz alta varias veces.",
+      "zh": "我會把這段對話大聲練習好幾遍。"
+    },
+    {
+      "es": "Mantendré la calma aunque la respuesta sea negativa.",
+      "zh": "即使得到否定的回覆，我也會保持冷靜。"
+    }
   ]
 }

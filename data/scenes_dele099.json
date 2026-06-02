@@ -1,55 +1,245 @@
 {
   "title": "Comprando una postal en una librería turística",
   "all": [
-    {"es": "Mira qué librería tan bonita, vamos a entrar un momentito.", "zh": "看這間書店多漂亮，我們進去一下下。"},
-    {"es": "Tiene toda la pared llena de postales, qué pasada.", "zh": "整面牆都是明信片，超驚人。"},
-    {"es": "Me encanta el olor a libros antiguos al entrar.", "zh": "進來那種舊書的味道我超愛。"},
-    {"es": "Buenas tardes, ¿puedo ayudarte a buscar algo en concreto?", "zh": "下午好，需要我幫您找特定的東西嗎？"},
-    {"es": "Estoy mirando postales para enviar a mi familia.", "zh": "我在看明信片，要寄給家人。"},
-    {"es": "Las tienes ordenadas por temas en aquel expositor giratorio.", "zh": "明信片按主題排在那個旋轉架上。"},
-    {"es": "Hay de monumentos, paisajes, gastronomía y vintage.", "zh": "有古蹟、風景、美食跟復古款。"},
-    {"es": "Me gustan mucho las vintage, parecen de otra época.", "zh": "我超喜歡復古款，像另一個時代的東西。"},
-    {"es": "Esas son reproducciones de los años cincuenta y sesenta.", "zh": "那些是 50、60 年代的復刻版。"},
-    {"es": "Voy a coger esta de la plaza mayor en blanco y negro.", "zh": "我選這張主廣場黑白照片的。"},
-    {"es": "Para mi abuela esta de la catedral le va a encantar.", "zh": "給我奶奶的選這張大教堂的，她會超愛。"},
-    {"es": "También tenemos postales con sello incorporado, salen más prácticas.", "zh": "我們也有附郵票的明信片，比較方便。"},
-    {"es": "¿Esas cuánto cuestan respecto a las normales?", "zh": "那些跟一般的相比多少錢？"},
-    {"es": "Las normales son uno cincuenta, con sello incluido tres euros.", "zh": "普通的 1.5 歐元，含郵票的 3 歐元。"},
-    {"es": "Para tres postales sale mejor comprar los sellos sueltos.", "zh": "三張的話分開買郵票比較划算。"},
-    {"es": "Buena cuenta, los sellos los tenemos en la caja.", "zh": "算得好，郵票在櫃台這邊有。"},
-    {"es": "¿A qué países envías? Cambia el precio según destino.", "zh": "您要寄到哪些國家？依目的地價錢不同。"},
-    {"es": "Dos van a España y una a México.", "zh": "兩張寄西班牙，一張寄墨西哥。"},
-    {"es": "Dentro de Europa el sello es uno con sesenta cada uno.", "zh": "歐洲境內每張郵票 1.6 歐元。"},
-    {"es": "Para México internacional son uno con noventa.", "zh": "寄墨西哥國際郵資 1.9 歐元。"},
-    {"es": "Perfecto, deme dos europeos y uno internacional.", "zh": "好，給我兩張歐洲跟一張國際。"},
-    {"es": "Aprovecho y miro este libro de fotografía de la ciudad.", "zh": "我順便看一下這本城市攝影集。"},
-    {"es": "Es una edición limitada con fotos aéreas espectaculares.", "zh": "限量版，有超棒的空拍照。"},
-    {"es": "Cuesta veintidós euros, ¿está dentro de tu presupuesto?", "zh": "二十二歐元，在您預算內嗎？"},
-    {"es": "Me lo pienso, primero termino las postales.", "zh": "我想想，先把明信片搞定。"},
-    {"es": "¿Puedo escribir aquí mismo en la mesa del rincón?", "zh": "我可以直接在角落桌子上寫嗎？"},
-    {"es": "Claro, te dejo un bolígrafo si lo necesitas.", "zh": "當然，需要的話我借你筆。"},
-    {"es": "Mil gracias, llevo el mío justo en la mochila.", "zh": "太感謝，我背包裡剛好有自己的。"},
-    {"es": "¿Cuál escribes primero, la de tu abuela?", "zh": "你先寫哪張，奶奶的嗎？"},
-    {"es": "Sí, ella es la que más ilusión va a hacer al recibirla.", "zh": "對，她收到會最開心。"},
-    {"es": "Le voy a contar lo del mercado de antigüedades.", "zh": "我要跟她講骨董市集的事。"},
-    {"es": "Le va a encantar, le gustan mucho esas historias.", "zh": "她會超愛，她最喜歡這種故事。"},
-    {"es": "La segunda es para mis padres, voy a ser breve.", "zh": "第二張給爸媽，我簡短寫。"},
-    {"es": "Solo un saludo y una foto mental de la catedral.", "zh": "問候一下加大教堂的心情速寫。"},
-    {"es": "La tercera, para mi prima en Ciudad de México.", "zh": "第三張給我表姐在墨西哥城。"},
-    {"es": "A ella le mando la postal con más color.", "zh": "我寄她最有顏色的那張。"},
-    {"es": "Le ha gustado siempre lo vibrante y alegre.", "zh": "她一直喜歡鮮豔活潑的。"},
-    {"es": "Ya está, las tres escritas, voy a pegar los sellos.", "zh": "好了，三張都寫好，我來貼郵票。"},
-    {"es": "Pega bien la esquina derecha arriba, así es lo correcto.", "zh": "右上角貼好，這樣才對。"},
-    {"es": "Lo apretó con el pulgar para que no se despegue.", "zh": "用拇指壓緊，才不會脫落。"},
-    {"es": "¿Las puedes enviar tú o me indicas dónde echarlas?", "zh": "您可以幫我寄還是告訴我去哪寄？"},
-    {"es": "Las recogemos en la librería, paso del correo a diario.", "zh": "我們書店可以收件，郵差每天來。"},
-    {"es": "Eso es comodísimo, déjalas aquí entonces.", "zh": "這超方便，那就放這裡。"},
-    {"es": "Al final me llevo también el libro de fotografía.", "zh": "我最後還是把攝影集帶走。"},
-    {"es": "Me lo envuelves en papel kraft, por favor.", "zh": "請用牛皮紙幫我包起來。"},
-    {"es": "Te pongo un sello del establecimiento en la portada.", "zh": "我在封面蓋一個店家的章。"},
-    {"es": "Eso le da un toque súper especial, gracias.", "zh": "這加分超多，謝謝。"},
-    {"es": "Total son veintiocho con setenta, ¿efectivo o tarjeta?", "zh": "總共 28.7 歐元，現金還是刷卡？"},
-    {"es": "Con tarjeta, así me queda algo de efectivo para el café.", "zh": "刷卡，這樣我留點現金喝咖啡。"},
-    {"es": "Que disfrutes mucho del resto del viaje por la ciudad.", "zh": "祝您接下來的城市之旅愉快。"}
+    {
+      "es": "Mira qué librería tan bonita, vamos a entrar un momentito.",
+      "zh": "看這間書店多漂亮，我們進去一下下。"
+    },
+    {
+      "es": "Tiene toda la pared llena de postales, qué pasada.",
+      "zh": "整面牆都是明信片，超驚人。"
+    },
+    {
+      "es": "Me encanta el olor a libros antiguos al entrar.",
+      "zh": "進來那種舊書的味道我超愛。"
+    },
+    {
+      "es": "Buenas tardes, ¿puedo ayudarte a buscar algo en concreto?",
+      "zh": "下午好，需要我幫您找特定的東西嗎？"
+    },
+    {
+      "es": "Estoy mirando postales para enviar a mi familia.",
+      "zh": "我在看明信片，要寄給家人。"
+    },
+    {
+      "es": "Las tienes ordenadas por temas en aquel expositor giratorio.",
+      "zh": "明信片按主題排在那個旋轉架上。"
+    },
+    {
+      "es": "Hay de monumentos, paisajes, gastronomía y vintage.",
+      "zh": "有古蹟、風景、美食跟復古款。"
+    },
+    {
+      "es": "Me gustan mucho las vintage, parecen de otra época.",
+      "zh": "我超喜歡復古款，像另一個時代的東西。"
+    },
+    {
+      "es": "Esas son reproducciones de los años cincuenta y sesenta.",
+      "zh": "那些是 50、60 年代的復刻版。"
+    },
+    {
+      "es": "Voy a coger esta de la plaza mayor en blanco y negro.",
+      "zh": "我選這張主廣場黑白照片的。"
+    },
+    {
+      "es": "Para mi abuela esta de la catedral le va a encantar.",
+      "zh": "給我奶奶的選這張大教堂的，她會超愛。"
+    },
+    {
+      "es": "También tenemos postales con sello incorporado, salen más prácticas.",
+      "zh": "我們也有附郵票的明信片，比較方便。"
+    },
+    {
+      "es": "¿Esas cuánto cuestan respecto a las normales?",
+      "zh": "那些跟一般的相比多少錢？"
+    },
+    {
+      "es": "Las normales son uno cincuenta, con sello incluido tres euros.",
+      "zh": "普通的 1.5 歐元，含郵票的 3 歐元。"
+    },
+    {
+      "es": "Para tres postales sale mejor comprar los sellos sueltos.",
+      "zh": "三張的話分開買郵票比較划算。"
+    },
+    {
+      "es": "Buena cuenta, los sellos los tenemos en la caja.",
+      "zh": "算得好，郵票在櫃台這邊有。"
+    },
+    {
+      "es": "¿A qué países envías? Cambia el precio según destino.",
+      "zh": "您要寄到哪些國家？依目的地價錢不同。"
+    },
+    {
+      "es": "Dos van a España y una a México.",
+      "zh": "兩張寄西班牙，一張寄墨西哥。"
+    },
+    {
+      "es": "Dentro de Europa el sello es uno con sesenta cada uno.",
+      "zh": "歐洲境內每張郵票 1.6 歐元。"
+    },
+    {
+      "es": "Para México internacional son uno con noventa.",
+      "zh": "寄墨西哥國際郵資 1.9 歐元。"
+    },
+    {
+      "es": "Perfecto, deme dos europeos y uno internacional.",
+      "zh": "好，給我兩張歐洲跟一張國際。"
+    },
+    {
+      "es": "Aprovecho y miro este libro de fotografía de la ciudad.",
+      "zh": "我順便看一下這本城市攝影集。"
+    },
+    {
+      "es": "Es una edición limitada con fotos aéreas espectaculares.",
+      "zh": "限量版，有超棒的空拍照。"
+    },
+    {
+      "es": "Cuesta veintidós euros, ¿está dentro de tu presupuesto?",
+      "zh": "二十二歐元，在您預算內嗎？"
+    },
+    {
+      "es": "Me lo pienso, primero termino las postales.",
+      "zh": "我想想，先把明信片搞定。"
+    },
+    {
+      "es": "¿Puedo escribir aquí mismo en la mesa del rincón?",
+      "zh": "我可以直接在角落桌子上寫嗎？"
+    },
+    {
+      "es": "Claro, te dejo un bolígrafo si lo necesitas.",
+      "zh": "當然，需要的話我借你筆。"
+    },
+    {
+      "es": "Mil gracias, llevo el mío justo en la mochila.",
+      "zh": "太感謝，我背包裡剛好有自己的。"
+    },
+    {
+      "es": "¿Cuál escribes primero, la de tu abuela?",
+      "zh": "你先寫哪張，奶奶的嗎？"
+    },
+    {
+      "es": "Sí, ella es la que más ilusión va a hacer al recibirla.",
+      "zh": "對，她收到會最開心。"
+    },
+    {
+      "es": "Le voy a contar lo del mercado de antigüedades.",
+      "zh": "我要跟她講骨董市集的事。"
+    },
+    {
+      "es": "Le va a encantar, le gustan mucho esas historias.",
+      "zh": "她會超愛，她最喜歡這種故事。"
+    },
+    {
+      "es": "La segunda es para mis padres, voy a ser breve.",
+      "zh": "第二張給爸媽，我簡短寫。"
+    },
+    {
+      "es": "Solo un saludo y una foto mental de la catedral.",
+      "zh": "問候一下加大教堂的心情速寫。"
+    },
+    {
+      "es": "La tercera, para mi prima en Ciudad de México.",
+      "zh": "第三張給我表姐在墨西哥城。"
+    },
+    {
+      "es": "A ella le mando la postal con más color.",
+      "zh": "我寄她最有顏色的那張。"
+    },
+    {
+      "es": "Le ha gustado siempre lo vibrante y alegre.",
+      "zh": "她一直喜歡鮮豔活潑的。"
+    },
+    {
+      "es": "Ya está, las tres escritas, voy a pegar los sellos.",
+      "zh": "好了，三張都寫好，我來貼郵票。"
+    },
+    {
+      "es": "Pega bien la esquina derecha arriba, así es lo correcto.",
+      "zh": "右上角貼好，這樣才對。"
+    },
+    {
+      "es": "Lo apretó con el pulgar para que no se despegue.",
+      "zh": "用拇指壓緊，才不會脫落。"
+    },
+    {
+      "es": "¿Las puedes enviar tú o me indicas dónde echarlas?",
+      "zh": "您可以幫我寄還是告訴我去哪寄？"
+    },
+    {
+      "es": "Las recogemos en la librería, paso del correo a diario.",
+      "zh": "我們書店可以收件，郵差每天來。"
+    },
+    {
+      "es": "Eso es comodísimo, déjalas aquí entonces.",
+      "zh": "這超方便，那就放這裡。"
+    },
+    {
+      "es": "Al final me llevo también el libro de fotografía.",
+      "zh": "我最後還是把攝影集帶走。"
+    },
+    {
+      "es": "Me lo envuelves en papel kraft, por favor.",
+      "zh": "請用牛皮紙幫我包起來。"
+    },
+    {
+      "es": "Te pongo un sello del establecimiento en la portada.",
+      "zh": "我在封面蓋一個店家的章。"
+    },
+    {
+      "es": "Eso le da un toque súper especial, gracias.",
+      "zh": "這加分超多，謝謝。"
+    },
+    {
+      "es": "Total son veintiocho con setenta, ¿efectivo o tarjeta?",
+      "zh": "總共 28.7 歐元，現金還是刷卡？"
+    },
+    {
+      "es": "Con tarjeta, así me queda algo de efectivo para el café.",
+      "zh": "刷卡，這樣我留點現金喝咖啡。"
+    },
+    {
+      "es": "Que disfrutes mucho del resto del viaje por la ciudad.",
+      "zh": "祝您接下來的城市之旅愉快。"
+    },
+    {
+      "es": "¿Tenéis postales con vistas antiguas de la plaza mayor?",
+      "zh": "你們有舊時主廣場景色的明信片嗎？"
+    },
+    {
+      "es": "Me llevo estas tres y un sello para enviarlas al extranjero.",
+      "zh": "我買這三張，再加一張寄到國外的郵票。"
+    },
+    {
+      "es": "¿Sabe dónde cae el buzón más cercano para echarlas hoy?",
+      "zh": "您知道最近的郵筒在哪嗎？我想今天就寄。"
+    },
+    {
+      "es": "Busco un pequeño marcapáginas de recuerdo para mi abuela.",
+      "zh": "我想找一個小書籤當紀念品給我奶奶。"
+    },
+    {
+      "es": "¿Cuánto cuesta la postal grande con relieve dorado?",
+      "zh": "那張有燙金浮雕的大明信片多少錢？"
+    },
+    {
+      "es": "¿Tienen alguna guía de bolsillo de la ciudad en mi idioma?",
+      "zh": "你們有我母語版本的口袋城市指南嗎？"
+    },
+    {
+      "es": "Me encantaría un mapa ilustrado para colgar en la pared.",
+      "zh": "我很想要一張可以掛在牆上的插畫地圖。"
+    },
+    {
+      "es": "¿Me lo puede envolver para regalo, por favor?",
+      "zh": "可以幫我包成禮物的樣子嗎，麻煩您？"
+    },
+    {
+      "es": "Esta edición está agotada, pero llega otra remesa el lunes.",
+      "zh": "這個版本售完了，不過星期一會再進一批貨。"
+    },
+    {
+      "es": "Pago con tarjeta, ¿hay un importe mínimo para usarla?",
+      "zh": "我用卡付款，刷卡有最低消費金額嗎？"
+    }
   ]
 }

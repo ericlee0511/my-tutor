@@ -1,45 +1,205 @@
 {
   "title": "Reportaje: el auge de la cocina sostenible",
   "all": [
-    { "es": "En los últimos años, el concepto de cocina sostenible ha pasado de ser una preocupación de unos pocos chefs visionarios a convertirse en un movimiento que atraviesa toda la cadena alimentaria.", "zh": "近年來，永續料理的概念已從少數具前瞻性主廚的個別關切，演變為貫穿整個食物鏈的運動。" },
-    { "es": "Lejos de tratarse de una moda pasajera, los datos del sector indican que cada vez más restaurantes incorporan criterios de proximidad y temporalidad a la hora de elaborar sus cartas.", "zh": "與其說這只是過渡性的流行，產業數據顯示愈來愈多餐廳在設計菜單時納入了在地與時令的考量。" },
-    { "es": "Si bien hace una década se asociaba lo sostenible con un coste inalcanzable, hoy en día numerosos cocineros demuestran que es posible ser responsable sin renunciar a la rentabilidad.", "zh": "雖然十年前永續仍被視為遙不可及的高成本，如今眾多廚師證明了在不犧牲利潤的前提下也能負起責任。" },
-    { "es": "El cambio se ha visto impulsado por consumidores que exigen información clara sobre el origen de los ingredientes y las condiciones laborales de quienes los producen.", "zh": "推動這項轉變的，是要求清楚揭示食材來源與生產者勞動條件的消費者。" },
-    { "es": "Según un informe reciente de la asociación Slow Food, casi el sesenta por ciento de los jóvenes urbanos estaría dispuesto a pagar más por un menú elaborado con productos de kilómetro cero.", "zh": "根據慢食協會近期報告，將近六成的都市青年願意為使用零公里食材烹調的菜單支付更高的價格。" },
-    { "es": "Esta predisposición ha hecho que muchos pequeños productores hayan recuperado variedades autóctonas que estaban a punto de desaparecer por falta de demanda.", "zh": "這樣的意願讓許多小農重新栽種了原先因需求不足而瀕臨消失的在地品種。" },
-    { "es": "No obstante, no todo el sector recibe con entusiasmo estas transformaciones, pues algunas grandes cadenas consideran que las nuevas exigencias encarecen su modelo de negocio.", "zh": "然而並非整個產業都熱烈擁抱這些變革，部分大型連鎖業者認為這些新要求推高了他們的營運成本。" },
-    { "es": "Frente a esa resistencia, varios gobiernos autonómicos han aprobado ayudas dirigidas a aquellos restaurantes que opten por proveedores certificados como ecológicos.", "zh": "面對這樣的抵抗，多個自治區政府已通過補助方案，獎勵選用通過生態認證供應商的餐廳。" },
-    { "es": "Es importante recordar que la sostenibilidad no se limita al producto, sino que abarca también la gestión del agua, la energía y los residuos que se generan en cocina.", "zh": "值得提醒的是，永續並不僅止於食材本身，還涵蓋廚房裡水、能源與廢棄物的管理。" },
-    { "es": "Algunos establecimientos pioneros han llegado a reciclar el aceite usado para producir biocombustible y a compostar los restos orgánicos en huertos urbanos.", "zh": "部分先驅店家甚至已將用過的油回收製成生質燃料，並將有機廚餘堆肥送到都市菜園。" },
-    { "es": "Habría que destacar igualmente el papel de las escuelas de hostelería, que han comenzado a integrar la sostenibilidad como asignatura troncal desde el primer curso.", "zh": "同樣值得指出的是餐旅學校所扮演的角色，它們已開始從一年級起將永續納入必修科目。" },
-    { "es": "De este modo, los futuros profesionales serán formados con una mirada crítica que les permita cuestionar las prácticas heredadas de generaciones anteriores.", "zh": "如此一來，未來的從業者將以批判性的眼光受訓，得以質疑沿襲自前幾代的舊有作法。" },
-    { "es": "Sería ingenuo, sin embargo, pensar que la transición se llevará a cabo sin tensiones entre quienes defienden la tradición y quienes apuestan por la innovación.", "zh": "然而若認為這場轉型不會在守傳統與求創新兩派之間出現張力，未免太過天真。" },
-    { "es": "Lo realmente prometedor es que, por primera vez, ambas posturas comparten un mismo objetivo: garantizar que la gastronomía siga teniendo sentido en un planeta cada vez más frágil.", "zh": "真正令人期待的是，兩種立場第一次共享同一個目標：確保在一個日益脆弱的地球上，美食依然能保有其意義。" },
-    { "es": "En ciudades como Bilbao o Valencia, han surgido foros ciudadanos donde productores, cocineros y consumidores debaten conjuntamente sobre el futuro de la alimentación.", "zh": "在畢爾包、瓦倫西亞等城市，已陸續出現由生產者、廚師與消費者共同辯論飲食未來的市民論壇。" },
-    { "es": "De estos encuentros han surgido manifiestos que, aunque no son vinculantes, sí han influido en políticas públicas locales relacionadas con los mercados municipales.", "zh": "這些聚會催生出多份宣言，雖然不具法律效力，卻已實際影響了與市政市場相關的地方公共政策。" },
-    { "es": "Algunos críticos advierten, con razón, de que el etiquetado de sostenible puede convertirse en un reclamo publicitario vacío si no se acompaña de mecanismos de control rigurosos.", "zh": "部分評論者合理地警告：若沒有嚴謹的稽核機制，永續標章可能淪為一句空洞的行銷口號。" },
-    { "es": "Por eso varias asociaciones reclaman una ley estatal que defina con claridad qué requisitos debe cumplir un restaurante para autodenominarse así.", "zh": "正因如此，多個協會呼籲制定全國性法規，明確界定餐廳要自稱永續所需具備的條件。" },
-    { "es": "Mientras esta normativa no llegue, lo más sensato será que cada cliente investigue por su cuenta y exija transparencia a los locales que frecuenta.", "zh": "在這項規範到位之前，最務實的做法是消費者自行查證，並要求自己常光顧的店家做到資訊透明。" },
-    { "es": "Sea como fuere, el camino emprendido difícilmente tendrá marcha atrás, porque comer hoy es también, lo queramos o no, un acto profundamente político.", "zh": "無論如何，這條已啟程的路幾乎不可能回頭，因為無論我們是否願意，今日進食已是一個深具政治意涵的行為。" },
-    { "es": "Conviene señalar, asimismo, que la dimensión cultural de la cocina sostenible ha sido a menudo eclipsada por los aspectos puramente medioambientales.", "zh": "同樣值得指出的是，永續料理的文化面向時常被純粹的環境議題所遮蔽。" },
-    { "es": "Detrás de cada receta tradicional se encierra un saber acumulado durante generaciones que merecería protegerse con el mismo cuidado que un paisaje rural.", "zh": "每一道傳統食譜背後都凝聚著世代累積的知識，應該享有與鄉村景觀同等程度的保護。" },
-    { "es": "En ese sentido, algunas universidades han comenzado a documentar testimonios orales de cocineras mayores antes de que dicho patrimonio desaparezca.", "zh": "在這層意義上，部分大學已著手記錄年長女廚師的口述資料，以免這份遺產徒然消逝。" },
-    { "es": "Las grabaciones obtenidas se ponen, además, a disposición pública para que cualquier interesado pueda consultarlas sin restricciones.", "zh": "這些採集到的錄音也對公眾開放，任何有興趣的人都能自由查閱。" },
-    { "es": "Otro frente en el que se ha avanzado considerablemente es el del aprovechamiento integral del producto, conocido coloquialmente como cocina del aprovechamiento.", "zh": "另一個進展顯著的面向是食材的完整利用，俗稱「不浪費的料理」。" },
-    { "es": "Restaurantes de alta gama han logrado convertir cáscaras, tallos y huesos en platos sofisticados que reivindican el valor de lo desechado.", "zh": "高端餐廳已將果皮、菜梗和骨頭轉化為精緻菜餚，重新賦予被丟棄之物應有的價值。" },
-    { "es": "Estos ejercicios de creatividad, lejos de ser anecdóticos, han influido en las prácticas cotidianas de los hogares interesados en reducir el desperdicio.", "zh": "這些創意嘗試遠非偶然個例，它們已影響了希望減少廚餘的家庭日常作法。" },
-    { "es": "Las redes sociales, a pesar de su mala fama, han desempeñado un papel destacado en la difusión de recetas sostenibles entre el público joven.", "zh": "社群媒體儘管名聲不佳，在向年輕族群推廣永續食譜方面卻發揮了關鍵作用。" },
-    { "es": "Vídeos breves protagonizados por cocineros independientes consiguen, en pocos minutos, lo que campañas institucionales no logran en años.", "zh": "由獨立廚師主導的短影片往往能在幾分鐘內，達成官方宣傳數年才見成效的成果。" },
-    { "es": "Sin embargo, cabría preguntarse si esa exposición no termina banalizando un debate que requeriría mayor profundidad analítica.", "zh": "然而我們也應追問，這種曝光是否最終會把一個本應深入分析的辯論變得過於膚淺。" },
-    { "es": "Algunos investigadores señalan que la cocina sostenible corre el riesgo de quedar reducida a una estética cuidada en una pantalla.", "zh": "部分研究者指出，永續料理可能淪為螢幕上一種精心經營的視覺風格。" },
-    { "es": "Para evitarlo, recomiendan acompañar cualquier contenido divulgativo con datos verificables sobre el impacto real de las elecciones gastronómicas.", "zh": "為避免如此，他們建議任何推廣內容都應附上可驗證的數據，說明飲食選擇所造成的實際影響。" },
-    { "es": "Por su parte, los chefs comprometidos insisten en que el cambio no se sostendrá sin una transformación paralela en la producción agrícola.", "zh": "投身其中的主廚們則強調，若農業生產端不同步轉型，這場改變將難以為繼。" },
-    { "es": "De nada serviría una carta impecable si los campos de los que proviene la materia prima siguen agotando sus suelos y sus acuíferos.", "zh": "若食材來源的田地仍在耗盡土壤與含水層，再無懈可擊的菜單也毫無意義。" },
-    { "es": "Por ello, varias cooperativas agrarias han firmado acuerdos directos con grupos de restaurantes para garantizar precios estables y prácticas regenerativas.", "zh": "正因如此，多個農業合作社已與餐廳聯盟直接簽約，以保障穩定價格與再生農法的實施。" },
-    { "es": "Estos acuerdos, aún incipientes, podrían convertirse en un modelo replicable si lograran demostrar resultados sostenidos en el tiempo.", "zh": "這些尚屬萌芽階段的協議若能展現長期成效，極可能發展成可複製的模式。" },
-    { "es": "En definitiva, la cocina sostenible ya no se discute como una opción más, sino como un horizonte hacia el que avanzar de manera decidida.", "zh": "總而言之，永續料理已不再被視為眾多選項之一，而是必須堅定朝其前進的方向。" },
-    { "es": "Las preguntas que quedan abiertas se refieren al ritmo de esa transición y a quién pagará los costes que dicha transformación necesariamente conllevará.", "zh": "尚待回答的問題在於這場轉型的速度，以及這場轉變必然帶來的成本將由誰承擔。" },
-    { "es": "Si las administraciones, el sector y la ciudadanía consiguen un pacto duradero, es razonable confiar en que se logre un nuevo equilibrio.", "zh": "若行政部門、產業與公民能達成長期共識，我們便有理由相信新的平衡終能達成。" },
-    { "es": "En caso contrario, se corre el riesgo de que el discurso se vacíe de contenido y que la sostenibilidad acabe siendo otra etiqueta más en el mostrador.", "zh": "否則，這套論述便可能逐漸空洞化，永續最終淪為櫃台上另一張無實質意義的標籤。" }
+    {
+      "es": "En los últimos años, el concepto de cocina sostenible ha pasado de ser una preocupación de unos pocos chefs visionarios a convertirse en un movimiento que atraviesa toda la cadena alimentaria.",
+      "zh": "近年來，永續料理的概念已從少數具前瞻性主廚的個別關切，演變為貫穿整個食物鏈的運動。"
+    },
+    {
+      "es": "Lejos de tratarse de una moda pasajera, los datos del sector indican que cada vez más restaurantes incorporan criterios de proximidad y temporalidad a la hora de elaborar sus cartas.",
+      "zh": "與其說這只是過渡性的流行，產業數據顯示愈來愈多餐廳在設計菜單時納入了在地與時令的考量。"
+    },
+    {
+      "es": "Si bien hace una década se asociaba lo sostenible con un coste inalcanzable, hoy en día numerosos cocineros demuestran que es posible ser responsable sin renunciar a la rentabilidad.",
+      "zh": "雖然十年前永續仍被視為遙不可及的高成本，如今眾多廚師證明了在不犧牲利潤的前提下也能負起責任。"
+    },
+    {
+      "es": "El cambio se ha visto impulsado por consumidores que exigen información clara sobre el origen de los ingredientes y las condiciones laborales de quienes los producen.",
+      "zh": "推動這項轉變的，是要求清楚揭示食材來源與生產者勞動條件的消費者。"
+    },
+    {
+      "es": "Según un informe reciente de la asociación Slow Food, casi el sesenta por ciento de los jóvenes urbanos estaría dispuesto a pagar más por un menú elaborado con productos de kilómetro cero.",
+      "zh": "根據慢食協會近期報告，將近六成的都市青年願意為使用零公里食材烹調的菜單支付更高的價格。"
+    },
+    {
+      "es": "Esta predisposición ha hecho que muchos pequeños productores hayan recuperado variedades autóctonas que estaban a punto de desaparecer por falta de demanda.",
+      "zh": "這樣的意願讓許多小農重新栽種了原先因需求不足而瀕臨消失的在地品種。"
+    },
+    {
+      "es": "No obstante, no todo el sector recibe con entusiasmo estas transformaciones, pues algunas grandes cadenas consideran que las nuevas exigencias encarecen su modelo de negocio.",
+      "zh": "然而並非整個產業都熱烈擁抱這些變革，部分大型連鎖業者認為這些新要求推高了他們的營運成本。"
+    },
+    {
+      "es": "Frente a esa resistencia, varios gobiernos autonómicos han aprobado ayudas dirigidas a aquellos restaurantes que opten por proveedores certificados como ecológicos.",
+      "zh": "面對這樣的抵抗，多個自治區政府已通過補助方案，獎勵選用通過生態認證供應商的餐廳。"
+    },
+    {
+      "es": "Es importante recordar que la sostenibilidad no se limita al producto, sino que abarca también la gestión del agua, la energía y los residuos que se generan en cocina.",
+      "zh": "值得提醒的是，永續並不僅止於食材本身，還涵蓋廚房裡水、能源與廢棄物的管理。"
+    },
+    {
+      "es": "Algunos establecimientos pioneros han llegado a reciclar el aceite usado para producir biocombustible y a compostar los restos orgánicos en huertos urbanos.",
+      "zh": "部分先驅店家甚至已將用過的油回收製成生質燃料，並將有機廚餘堆肥送到都市菜園。"
+    },
+    {
+      "es": "Habría que destacar igualmente el papel de las escuelas de hostelería, que han comenzado a integrar la sostenibilidad como asignatura troncal desde el primer curso.",
+      "zh": "同樣值得指出的是餐旅學校所扮演的角色，它們已開始從一年級起將永續納入必修科目。"
+    },
+    {
+      "es": "De este modo, los futuros profesionales serán formados con una mirada crítica que les permita cuestionar las prácticas heredadas de generaciones anteriores.",
+      "zh": "如此一來，未來的從業者將以批判性的眼光受訓，得以質疑沿襲自前幾代的舊有作法。"
+    },
+    {
+      "es": "Sería ingenuo, sin embargo, pensar que la transición se llevará a cabo sin tensiones entre quienes defienden la tradición y quienes apuestan por la innovación.",
+      "zh": "然而若認為這場轉型不會在守傳統與求創新兩派之間出現張力，未免太過天真。"
+    },
+    {
+      "es": "Lo realmente prometedor es que, por primera vez, ambas posturas comparten un mismo objetivo: garantizar que la gastronomía siga teniendo sentido en un planeta cada vez más frágil.",
+      "zh": "真正令人期待的是，兩種立場第一次共享同一個目標：確保在一個日益脆弱的地球上，美食依然能保有其意義。"
+    },
+    {
+      "es": "En ciudades como Bilbao o Valencia, han surgido foros ciudadanos donde productores, cocineros y consumidores debaten conjuntamente sobre el futuro de la alimentación.",
+      "zh": "在畢爾包、瓦倫西亞等城市，已陸續出現由生產者、廚師與消費者共同辯論飲食未來的市民論壇。"
+    },
+    {
+      "es": "De estos encuentros han surgido manifiestos que, aunque no son vinculantes, sí han influido en políticas públicas locales relacionadas con los mercados municipales.",
+      "zh": "這些聚會催生出多份宣言，雖然不具法律效力，卻已實際影響了與市政市場相關的地方公共政策。"
+    },
+    {
+      "es": "Algunos críticos advierten, con razón, de que el etiquetado de sostenible puede convertirse en un reclamo publicitario vacío si no se acompaña de mecanismos de control rigurosos.",
+      "zh": "部分評論者合理地警告：若沒有嚴謹的稽核機制，永續標章可能淪為一句空洞的行銷口號。"
+    },
+    {
+      "es": "Por eso varias asociaciones reclaman una ley estatal que defina con claridad qué requisitos debe cumplir un restaurante para autodenominarse así.",
+      "zh": "正因如此，多個協會呼籲制定全國性法規，明確界定餐廳要自稱永續所需具備的條件。"
+    },
+    {
+      "es": "Mientras esta normativa no llegue, lo más sensato será que cada cliente investigue por su cuenta y exija transparencia a los locales que frecuenta.",
+      "zh": "在這項規範到位之前，最務實的做法是消費者自行查證，並要求自己常光顧的店家做到資訊透明。"
+    },
+    {
+      "es": "Sea como fuere, el camino emprendido difícilmente tendrá marcha atrás, porque comer hoy es también, lo queramos o no, un acto profundamente político.",
+      "zh": "無論如何，這條已啟程的路幾乎不可能回頭，因為無論我們是否願意，今日進食已是一個深具政治意涵的行為。"
+    },
+    {
+      "es": "Conviene señalar, asimismo, que la dimensión cultural de la cocina sostenible ha sido a menudo eclipsada por los aspectos puramente medioambientales.",
+      "zh": "同樣值得指出的是，永續料理的文化面向時常被純粹的環境議題所遮蔽。"
+    },
+    {
+      "es": "Detrás de cada receta tradicional se encierra un saber acumulado durante generaciones que merecería protegerse con el mismo cuidado que un paisaje rural.",
+      "zh": "每一道傳統食譜背後都凝聚著世代累積的知識，應該享有與鄉村景觀同等程度的保護。"
+    },
+    {
+      "es": "En ese sentido, algunas universidades han comenzado a documentar testimonios orales de cocineras mayores antes de que dicho patrimonio desaparezca.",
+      "zh": "在這層意義上，部分大學已著手記錄年長女廚師的口述資料，以免這份遺產徒然消逝。"
+    },
+    {
+      "es": "Las grabaciones obtenidas se ponen, además, a disposición pública para que cualquier interesado pueda consultarlas sin restricciones.",
+      "zh": "這些採集到的錄音也對公眾開放，任何有興趣的人都能自由查閱。"
+    },
+    {
+      "es": "Otro frente en el que se ha avanzado considerablemente es el del aprovechamiento integral del producto, conocido coloquialmente como cocina del aprovechamiento.",
+      "zh": "另一個進展顯著的面向是食材的完整利用，俗稱「不浪費的料理」。"
+    },
+    {
+      "es": "Restaurantes de alta gama han logrado convertir cáscaras, tallos y huesos en platos sofisticados que reivindican el valor de lo desechado.",
+      "zh": "高端餐廳已將果皮、菜梗和骨頭轉化為精緻菜餚，重新賦予被丟棄之物應有的價值。"
+    },
+    {
+      "es": "Estos ejercicios de creatividad, lejos de ser anecdóticos, han influido en las prácticas cotidianas de los hogares interesados en reducir el desperdicio.",
+      "zh": "這些創意嘗試遠非偶然個例，它們已影響了希望減少廚餘的家庭日常作法。"
+    },
+    {
+      "es": "Las redes sociales, a pesar de su mala fama, han desempeñado un papel destacado en la difusión de recetas sostenibles entre el público joven.",
+      "zh": "社群媒體儘管名聲不佳，在向年輕族群推廣永續食譜方面卻發揮了關鍵作用。"
+    },
+    {
+      "es": "Vídeos breves protagonizados por cocineros independientes consiguen, en pocos minutos, lo que campañas institucionales no logran en años.",
+      "zh": "由獨立廚師主導的短影片往往能在幾分鐘內，達成官方宣傳數年才見成效的成果。"
+    },
+    {
+      "es": "Sin embargo, cabría preguntarse si esa exposición no termina banalizando un debate que requeriría mayor profundidad analítica.",
+      "zh": "然而我們也應追問，這種曝光是否最終會把一個本應深入分析的辯論變得過於膚淺。"
+    },
+    {
+      "es": "Algunos investigadores señalan que la cocina sostenible corre el riesgo de quedar reducida a una estética cuidada en una pantalla.",
+      "zh": "部分研究者指出，永續料理可能淪為螢幕上一種精心經營的視覺風格。"
+    },
+    {
+      "es": "Para evitarlo, recomiendan acompañar cualquier contenido divulgativo con datos verificables sobre el impacto real de las elecciones gastronómicas.",
+      "zh": "為避免如此，他們建議任何推廣內容都應附上可驗證的數據，說明飲食選擇所造成的實際影響。"
+    },
+    {
+      "es": "Por su parte, los chefs comprometidos insisten en que el cambio no se sostendrá sin una transformación paralela en la producción agrícola.",
+      "zh": "投身其中的主廚們則強調，若農業生產端不同步轉型，這場改變將難以為繼。"
+    },
+    {
+      "es": "De nada serviría una carta impecable si los campos de los que proviene la materia prima siguen agotando sus suelos y sus acuíferos.",
+      "zh": "若食材來源的田地仍在耗盡土壤與含水層，再無懈可擊的菜單也毫無意義。"
+    },
+    {
+      "es": "Por ello, varias cooperativas agrarias han firmado acuerdos directos con grupos de restaurantes para garantizar precios estables y prácticas regenerativas.",
+      "zh": "正因如此，多個農業合作社已與餐廳聯盟直接簽約，以保障穩定價格與再生農法的實施。"
+    },
+    {
+      "es": "Estos acuerdos, aún incipientes, podrían convertirse en un modelo replicable si lograran demostrar resultados sostenidos en el tiempo.",
+      "zh": "這些尚屬萌芽階段的協議若能展現長期成效，極可能發展成可複製的模式。"
+    },
+    {
+      "es": "En definitiva, la cocina sostenible ya no se discute como una opción más, sino como un horizonte hacia el que avanzar de manera decidida.",
+      "zh": "總而言之，永續料理已不再被視為眾多選項之一，而是必須堅定朝其前進的方向。"
+    },
+    {
+      "es": "Las preguntas que quedan abiertas se refieren al ritmo de esa transición y a quién pagará los costes que dicha transformación necesariamente conllevará.",
+      "zh": "尚待回答的問題在於這場轉型的速度，以及這場轉變必然帶來的成本將由誰承擔。"
+    },
+    {
+      "es": "Si las administraciones, el sector y la ciudadanía consiguen un pacto duradero, es razonable confiar en que se logre un nuevo equilibrio.",
+      "zh": "若行政部門、產業與公民能達成長期共識，我們便有理由相信新的平衡終能達成。"
+    },
+    {
+      "es": "En caso contrario, se corre el riesgo de que el discurso se vacíe de contenido y que la sostenibilidad acabe siendo otra etiqueta más en el mostrador.",
+      "zh": "否則，這套論述便可能逐漸空洞化，永續最終淪為櫃台上另一張無實質意義的標籤。"
+    },
+    {
+      "es": "Numerosos establecimientos han optado por reducir el desperdicio reaprovechando partes del producto antes desechadas.",
+      "zh": "許多店家選擇透過重新利用過去被丟棄的食材部位來減少浪費。"
+    },
+    {
+      "es": "La trazabilidad del pescado capturado en lonjas locales se ha convertido en un argumento de venta.",
+      "zh": "在地漁市捕撈魚獲的可追溯性，已成為一項銷售訴求。"
+    },
+    {
+      "es": "Diversos agricultores ecológicos suministran directamente a los fogones, eliminando intermediarios innecesarios.",
+      "zh": "多家有機農戶直接供貨給廚房，省去了不必要的中間商。"
+    },
+    {
+      "es": "El recurso a envases compostables responde a una creciente conciencia ambiental de la clientela.",
+      "zh": "採用可堆肥的包裝，回應了顧客日益增強的環保意識。"
+    },
+    {
+      "es": "Algunos expertos advierten del riesgo de un uso meramente publicitario de la etiqueta verde.",
+      "zh": "部分專家警告，環保標籤恐有淪為純粹宣傳手段的風險。"
+    },
+    {
+      "es": "El aprovechamiento integral de las verduras permite elaborar caldos a partir de pieles y tallos.",
+      "zh": "蔬菜的全料利用讓人們得以用菜皮與菜梗熬製高湯。"
+    },
+    {
+      "es": "La formación del personal en gestión de residuos resulta indispensable para sostener este modelo.",
+      "zh": "對員工進行廢棄物管理的培訓，對於維繫這套模式而言不可或缺。"
+    },
+    {
+      "es": "Las instituciones públicas comienzan a premiar a quienes acreditan prácticas verdaderamente respetuosas.",
+      "zh": "公部門開始獎勵那些能證明確實採行友善作為的業者。"
+    },
+    {
+      "es": "El ahorro energético en las cocinas industriales repercute tanto en el planeta como en las cuentas.",
+      "zh": "工業廚房的節能成效，對地球與帳本都同樣有益。"
+    },
+    {
+      "es": "El reto pendiente consiste en lograr que estas iniciativas dejen de ser excepción y se generalicen.",
+      "zh": "尚待克服的挑戰，在於讓這些倡議不再只是例外，而能普及開來。"
+    }
   ]
 }
