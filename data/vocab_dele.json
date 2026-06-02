@@ -6773,6 +6773,138 @@
       "meaning_zh": "(動詞片語) 必須",
       "example_es": "Tuve que aceptar el error.",
       "example_zh": "我必須接受這個錯誤。"
+    },
+    {
+      "word": "quien",
+      "meaning_zh": "(代名詞) 誰；那個人",
+      "example_es": "No sé quién llamó anoche a la puerta.",
+      "example_zh": "我不知道昨晚是誰敲門。"
+    },
+    {
+      "word": "mamá",
+      "meaning_zh": "(名詞) 媽媽",
+      "example_es": "Mi mamá prepara una sopa deliciosa.",
+      "example_zh": "我媽媽煮的湯很好喝。"
+    },
+    {
+      "word": "vacación",
+      "meaning_zh": "(名詞) 假期（常用複數 vacaciones）",
+      "example_es": "En verano nos vamos de vacaciones a la playa.",
+      "example_zh": "夏天我們去海邊度假。"
+    },
+    {
+      "word": "veinticuatro",
+      "meaning_zh": "二十四",
+      "example_es": "Mi hermano cumple veinticuatro años hoy.",
+      "example_zh": "我弟弟今天滿二十四歲。"
+    },
+    {
+      "word": "veintidós",
+      "meaning_zh": "二十二",
+      "example_es": "En la clase somos veintidós alumnos.",
+      "example_zh": "我們班上有二十二名學生。"
+    },
+    {
+      "word": "malo",
+      "meaning_zh": "壞的；不好的",
+      "example_es": "Hoy hace muy mal tiempo.",
+      "example_zh": "今天天氣很糟。"
+    },
+    {
+      "word": "juego",
+      "meaning_zh": "遊戲；一組",
+      "example_es": "Los niños inventaron un juego nuevo en el parque.",
+      "example_zh": "孩子們在公園裡發明了一個新遊戲。"
+    },
+    {
+      "word": "sur",
+      "meaning_zh": "南方；南部",
+      "example_es": "Mi familia vive en el sur del país.",
+      "example_zh": "我的家人住在這個國家的南部。"
+    },
+    {
+      "word": "debajo",
+      "meaning_zh": "在下面",
+      "example_es": "El gato se escondió debajo de la cama.",
+      "example_zh": "貓躲在床底下。"
+    },
+    {
+      "word": "anoche",
+      "meaning_zh": "昨晚",
+      "example_es": "Anoche dormí muy mal.",
+      "example_zh": "昨晚我睡得很差。"
+    },
+    {
+      "word": "francés",
+      "meaning_zh": "法國的；法語",
+      "example_es": "Estudio francés desde hace dos años.",
+      "example_zh": "我學法語已經兩年了。"
+    },
+    {
+      "word": "veintitrés",
+      "meaning_zh": "二十三",
+      "example_es": "Mi hermano cumple veintitrés años en mayo.",
+      "example_zh": "我哥哥五月滿二十三歲。"
+    },
+    {
+      "word": "apartamento",
+      "meaning_zh": "公寓",
+      "example_es": "Vivimos en un apartamento pequeño cerca del parque.",
+      "example_zh": "我們住在公園附近一間小公寓。"
+    },
+    {
+      "word": "bici",
+      "meaning_zh": "腳踏車（口語）",
+      "example_es": "Voy al trabajo en bici todos los días.",
+      "example_zh": "我每天騎腳踏車上班。"
+    },
+    {
+      "word": "tele",
+      "meaning_zh": "電視（口語）",
+      "example_es": "Por la noche vemos la tele en el sofá.",
+      "example_zh": "晚上我們坐在沙發上看電視。"
+    },
+    {
+      "word": "tercer",
+      "meaning_zh": "第三的（陽性單數縮短形）",
+      "example_es": "Vivo en el tercer piso del edificio.",
+      "example_zh": "我住在這棟大樓的三樓。"
+    },
+    {
+      "word": "piscina",
+      "meaning_zh": "游泳池",
+      "example_es": "Los niños juegan en la piscina del hotel.",
+      "example_zh": "孩子們在飯店的游泳池裡玩耍。"
+    },
+    {
+      "word": "periódico",
+      "meaning_zh": "報紙；定期的",
+      "example_es": "Mi abuelo lee el periódico cada mañana.",
+      "example_zh": "我爺爺每天早上看報紙。"
+    },
+    {
+      "word": "actividad",
+      "meaning_zh": "活動",
+      "example_es": "El hotel organiza actividades para los niños.",
+      "example_zh": "這家旅館為孩子們安排活動。"
+    },
+    {
+      "word": "dieciséis",
+      "meaning_zh": "十六",
+      "example_es": "Mi hermana cumple dieciséis años mañana.",
+      "example_zh": "我妹妹明天滿十六歲。"
+    },
+    {
+      "word": "dormitorio",
+      "meaning_zh": "臥室",
+      "example_es": "Mi dormitorio tiene una ventana muy grande.",
+      "example_zh": "我的臥室有一扇很大的窗戶。"
+    },
+    {
+      "word": "veinticinco",
+      "meaning_zh": "二十五",
+      "example_es": "Mi hermano cumple veinticinco años hoy.",
+      "example_zh": "我哥哥今天滿二十五歲。"
     }
   ],
   "da2": [
@@ -14413,6 +14545,498 @@
       "meaning_zh": "(名詞) 交通；流量",
       "example_es": "Había mucho tráfico.",
       "example_zh": "塞車很嚴重。"
+    },
+    {
+      "word": "lista",
+      "meaning_zh": "(名詞) 清單；名單（亦為形容詞 listo 陰性「準備好的、聰明的」）",
+      "example_es": "Hice una lista de la compra antes de salir.",
+      "example_zh": "出門前我列了一張購物清單。"
+    },
+    {
+      "word": "perdido",
+      "meaning_zh": "(形容詞) 迷路的；遺失的（perder 的分詞）",
+      "example_es": "Estoy perdido, ¿me puede indicar el camino?",
+      "example_zh": "我迷路了，您可以告訴我怎麼走嗎？"
+    },
+    {
+      "word": "llenar",
+      "meaning_zh": "(動詞) 裝滿；填滿（llena＝它滿了／你填）",
+      "example_es": "Por favor, llena la jarra de agua.",
+      "example_zh": "請把水壺裝滿水。"
+    },
+    {
+      "word": "durar",
+      "meaning_zh": "(動詞) 持續；維持（時間）",
+      "example_es": "La reunión duró casi tres horas.",
+      "example_zh": "那場會議持續了將近三個小時。"
+    },
+    {
+      "word": "cansar",
+      "meaning_zh": "(動詞) 使疲倦；厭煩（cansado＝累的）",
+      "example_es": "Subir tantas escaleras me cansa mucho.",
+      "example_zh": "爬這麼多樓梯讓我很累。"
+    },
+    {
+      "word": "caer",
+      "meaning_zh": "(動詞) 掉落；跌倒；（日期）落在",
+      "example_es": "Ten cuidado, no te vayas a caer en el hielo.",
+      "example_zh": "小心，別在冰上滑倒了。"
+    },
+    {
+      "word": "practicar",
+      "meaning_zh": "(動詞) 練習；從事（運動等）",
+      "example_es": "Practico el piano una hora cada día.",
+      "example_zh": "我每天練一個小時的鋼琴。"
+    },
+    {
+      "word": "parar",
+      "meaning_zh": "(動詞) 停止；停下；阻止",
+      "example_es": "El autobús para justo enfrente de mi casa.",
+      "example_zh": "公車就停在我家對面。"
+    },
+    {
+      "word": "preparado",
+      "meaning_zh": "(形容詞) 準備好的；有準備的（preparar 的分詞）",
+      "example_es": "Ya estoy preparado para salir, podemos irnos.",
+      "example_zh": "我已經準備好出門了，我們可以走了。"
+    },
+    {
+      "word": "precioso",
+      "meaning_zh": "(形容詞) 漂亮的；珍貴的",
+      "example_es": "Desde aquí se ve un atardecer precioso.",
+      "example_zh": "從這裡可以看到美麗的夕陽。"
+    },
+    {
+      "word": "sorpresa",
+      "meaning_zh": "驚喜；意外",
+      "example_es": "Le preparamos una fiesta de sorpresa.",
+      "example_zh": "我們為他準備了一場驚喜派對。"
+    },
+    {
+      "word": "saco",
+      "meaning_zh": "袋子；麻袋",
+      "example_es": "Llevé un saco lleno de patatas a casa.",
+      "example_zh": "我把一袋滿滿的馬鈴薯帶回家。"
+    },
+    {
+      "word": "gasto",
+      "meaning_zh": "花費；開銷",
+      "example_es": "Este mes hemos tenido muchos gastos.",
+      "example_zh": "這個月我們有很多開銷。"
+    },
+    {
+      "word": "moderno",
+      "meaning_zh": "現代的；時髦的",
+      "example_es": "Vivimos en un edificio muy moderno.",
+      "example_zh": "我們住在一棟很現代的大樓裡。"
+    },
+    {
+      "word": "vaquero",
+      "meaning_zh": "牛仔褲；牛仔",
+      "example_es": "Me he comprado unos vaqueros nuevos.",
+      "example_zh": "我買了一條新的牛仔褲。"
+    },
+    {
+      "word": "favorito",
+      "meaning_zh": "最喜愛的",
+      "example_es": "El chocolate es mi postre favorito.",
+      "example_zh": "巧克力是我最喜愛的甜點。"
+    },
+    {
+      "word": "peor",
+      "meaning_zh": "更糟的；最差的",
+      "example_es": "Hoy me siento peor que ayer.",
+      "example_zh": "我今天感覺比昨天更糟。"
+    },
+    {
+      "word": "paseo",
+      "meaning_zh": "散步；漫步",
+      "example_es": "Damos un paseo por el parque cada tarde.",
+      "example_zh": "我們每天下午在公園散步。"
+    },
+    {
+      "word": "levantar",
+      "meaning_zh": "舉起；抬起",
+      "example_es": "Levanta la mano si tienes una duda.",
+      "example_zh": "如果有疑問就舉手。"
+    },
+    {
+      "word": "fijo",
+      "meaning_zh": "固定的",
+      "example_es": "Tengo un horario fijo de nueve a cinco.",
+      "example_zh": "我有固定的工作時間，從九點到五點。"
+    },
+    {
+      "word": "dueño",
+      "meaning_zh": "主人；老闆",
+      "example_es": "El dueño del restaurante nos saludó con una sonrisa.",
+      "example_zh": "餐廳老闆微笑著向我們打招呼。"
+    },
+    {
+      "word": "mover",
+      "meaning_zh": "移動",
+      "example_es": "No puedo mover este armario yo solo.",
+      "example_zh": "我一個人搬不動這個衣櫃。"
+    },
+    {
+      "word": "romper",
+      "meaning_zh": "打破；弄壞",
+      "example_es": "Ten cuidado, no vayas a romper el vaso.",
+      "example_zh": "小心，別把杯子打破了。"
+    },
+    {
+      "word": "ciencia",
+      "meaning_zh": "科學",
+      "example_es": "La ciencia avanza gracias a la curiosidad.",
+      "example_zh": "科學因好奇心而進步。"
+    },
+    {
+      "word": "educación",
+      "meaning_zh": "教育；禮貌",
+      "example_es": "Siempre saluda con mucha educación.",
+      "example_zh": "他總是很有禮貌地打招呼。"
+    },
+    {
+      "word": "peligroso",
+      "meaning_zh": "危險的",
+      "example_es": "Es peligroso cruzar la calle sin mirar.",
+      "example_zh": "不看路就過馬路很危險。"
+    },
+    {
+      "word": "interesado",
+      "meaning_zh": "感興趣的",
+      "example_es": "Estoy muy interesado en aprender a cocinar.",
+      "example_zh": "我對學做菜非常有興趣。"
+    },
+    {
+      "word": "web",
+      "meaning_zh": "網站；網路",
+      "example_es": "Encontré la receta en una web de cocina.",
+      "example_zh": "我在一個烹飪網站上找到了這份食譜。"
+    },
+    {
+      "word": "risa",
+      "meaning_zh": "笑；笑聲",
+      "example_es": "Su risa contagiosa alegró toda la sala.",
+      "example_zh": "他富感染力的笑聲讓整個房間都歡樂起來。"
+    },
+    {
+      "word": "club",
+      "meaning_zh": "俱樂部",
+      "example_es": "Me apunté a un club de lectura los jueves.",
+      "example_zh": "我報名參加了週四的讀書俱樂部。"
+    },
+    {
+      "word": "roto",
+      "meaning_zh": "壞掉的；破的",
+      "example_es": "El reloj está roto y ya no funciona.",
+      "example_zh": "這隻錶壞了，已經不能用了。"
+    },
+    {
+      "word": "base",
+      "meaning_zh": "基礎；底座",
+      "example_es": "El respeto es la base de cualquier amistad.",
+      "example_zh": "尊重是任何友誼的基礎。"
+    },
+    {
+      "word": "sumar",
+      "meaning_zh": "加；加總",
+      "example_es": "Si sumas estos números, el total es cien.",
+      "example_zh": "如果你把這些數字加起來，總共是一百。"
+    },
+    {
+      "word": "torre",
+      "meaning_zh": "塔；高樓",
+      "example_es": "Desde la torre se ve toda la ciudad.",
+      "example_zh": "從塔上可以看到整座城市。"
+    },
+    {
+      "word": "nacer",
+      "meaning_zh": "出生；誕生",
+      "example_es": "Mi hermana nació en primavera.",
+      "example_zh": "我妹妹在春天出生。"
+    },
+    {
+      "word": "manga",
+      "meaning_zh": "袖子",
+      "example_es": "Prefiero las camisas de manga corta en verano.",
+      "example_zh": "夏天我比較喜歡短袖襯衫。"
+    },
+    {
+      "word": "blusa",
+      "meaning_zh": "女用上衣；襯衫",
+      "example_es": "Esa blusa blanca te queda muy bien.",
+      "example_zh": "那件白色上衣很適合你。"
+    },
+    {
+      "word": "súper",
+      "meaning_zh": "超級的；超棒",
+      "example_es": "La fiesta de anoche estuvo súper divertida.",
+      "example_zh": "昨晚的派對超級好玩。"
+    },
+    {
+      "word": "pegar",
+      "meaning_zh": "黏貼；打；相配",
+      "example_es": "Voy a pegar la foto en el álbum.",
+      "example_zh": "我要把照片貼到相簿裡。"
+    },
+    {
+      "word": "piloto",
+      "meaning_zh": "飛行員；指示燈",
+      "example_es": "El piloto anunció que aterrizaríamos pronto.",
+      "example_zh": "機長宣布我們很快就要降落了。"
+    },
+    {
+      "word": "quitar",
+      "meaning_zh": "拿走；去除",
+      "example_es": "Por favor, quita los platos de la mesa.",
+      "example_zh": "請把桌上的盤子收走。"
+    },
+    {
+      "word": "ordenar",
+      "meaning_zh": "整理；命令",
+      "example_es": "Voy a ordenar mi habitación esta tarde.",
+      "example_zh": "我今天下午要整理我的房間。"
+    },
+    {
+      "word": "mediano",
+      "meaning_zh": "中等的；中號的",
+      "example_es": "Quiero un café de tamaño mediano.",
+      "example_zh": "我要一杯中杯咖啡。"
+    },
+    {
+      "word": "séptimo",
+      "meaning_zh": "第七的",
+      "example_es": "Vivo en el séptimo piso del edificio.",
+      "example_zh": "我住在這棟大樓的七樓。"
+    },
+    {
+      "word": "volumen",
+      "meaning_zh": "音量；體積；卷",
+      "example_es": "Baja el volumen de la televisión, por favor.",
+      "example_zh": "請把電視的音量調小。"
+    },
+    {
+      "word": "dividir",
+      "meaning_zh": "分割；劃分",
+      "example_es": "Vamos a dividir la tarta en ocho partes.",
+      "example_zh": "我們要把蛋糕分成八份。"
+    },
+    {
+      "word": "alcohol",
+      "meaning_zh": "酒精；酒",
+      "example_es": "No bebo alcohol entre semana.",
+      "example_zh": "我平日不喝酒。"
+    },
+    {
+      "word": "elemento",
+      "meaning_zh": "元素；要素",
+      "example_es": "El agua es un elemento esencial para la vida.",
+      "example_zh": "水是生命不可或缺的要素。"
+    },
+    {
+      "word": "positivo",
+      "meaning_zh": "正面的；積極的",
+      "example_es": "Tu actitud positiva nos ayuda mucho.",
+      "example_zh": "你的積極態度幫了我們很多。"
+    },
+    {
+      "word": "utilizar",
+      "meaning_zh": "使用；利用",
+      "example_es": "Utilizo el móvil para tomar notas.",
+      "example_zh": "我用手機來做筆記。"
+    },
+    {
+      "word": "princesa",
+      "meaning_zh": "公主",
+      "example_es": "La niña se disfrazó de princesa.",
+      "example_zh": "那個小女孩扮成了公主。"
+    },
+    {
+      "word": "agradable",
+      "meaning_zh": "宜人的；愉快的",
+      "example_es": "El clima de hoy es muy agradable.",
+      "example_zh": "今天的天氣很宜人。"
+    },
+    {
+      "word": "vocabulario",
+      "meaning_zh": "詞彙；單字",
+      "example_es": "Cada día aprendo cinco palabras de vocabulario nuevo.",
+      "example_zh": "我每天學五個新單字。"
+    },
+    {
+      "word": "multiplicar",
+      "meaning_zh": "乘；使倍增",
+      "example_es": "En clase aprendimos a multiplicar números grandes.",
+      "example_zh": "我們在課堂上學會了大數字的乘法。"
+    },
+    {
+      "word": "aparcamiento",
+      "meaning_zh": "停車場；停車",
+      "example_es": "Dejé el coche en el aparcamiento del hospital.",
+      "example_zh": "我把車停在醫院的停車場。"
+    },
+    {
+      "word": "muro",
+      "meaning_zh": "牆；牆壁",
+      "example_es": "Pintamos el muro del jardín de blanco.",
+      "example_zh": "我們把花園的牆漆成白色。"
+    },
+    {
+      "word": "oído",
+      "meaning_zh": "耳朵；聽覺",
+      "example_es": "Me duele el oído desde ayer.",
+      "example_zh": "我的耳朵從昨天開始就痛。"
+    },
+    {
+      "word": "copia",
+      "meaning_zh": "副本；複製",
+      "example_es": "Haz una copia de este documento, por favor.",
+      "example_zh": "請把這份文件複印一份。"
+    },
+    {
+      "word": "rueda",
+      "meaning_zh": "輪子；車輪",
+      "example_es": "Una rueda del coche está pinchada.",
+      "example_zh": "車子有一個輪胎漏氣了。"
+    },
+    {
+      "word": "muerto",
+      "meaning_zh": "死的；死亡的；死者",
+      "example_es": "Estoy muerto de cansancio después del viaje.",
+      "example_zh": "旅行之後我累得要死。"
+    },
+    {
+      "word": "millón",
+      "meaning_zh": "百萬",
+      "example_es": "La ciudad tiene más de un millón de habitantes.",
+      "example_zh": "這座城市有超過一百萬居民。"
+    },
+    {
+      "word": "adónde",
+      "meaning_zh": "往哪裡（疑問副詞）",
+      "example_es": "¿Adónde vamos a cenar esta noche?",
+      "example_zh": "我們今晚要去哪裡吃晚餐？"
+    },
+    {
+      "word": "sillón",
+      "meaning_zh": "扶手椅；單人沙發",
+      "example_es": "Mi abuelo se quedó dormido en el sillón.",
+      "example_zh": "我祖父在扶手椅上睡著了。"
+    },
+    {
+      "word": "mueble",
+      "meaning_zh": "傢俱",
+      "example_es": "Compramos un mueble nuevo para el salón.",
+      "example_zh": "我們為客廳買了一件新傢俱。"
+    },
+    {
+      "word": "alemán",
+      "meaning_zh": "德語；德國的；德國人",
+      "example_es": "Estoy aprendiendo alemán por las tardes.",
+      "example_zh": "我每天下午學德語。"
+    },
+    {
+      "word": "arroba",
+      "meaning_zh": "小老鼠符號（@）",
+      "example_es": "Mi correo lleva mi nombre y luego la arroba.",
+      "example_zh": "我的電子信箱是我的名字後面加上小老鼠符號。"
+    },
+    {
+      "word": "dragón",
+      "meaning_zh": "龍",
+      "example_es": "En el cuento, el dragón guardaba un tesoro.",
+      "example_zh": "故事裡，那條龍守護著一份寶藏。"
+    },
+    {
+      "word": "sonido",
+      "meaning_zh": "聲音；音效",
+      "example_es": "Me encanta el sonido de la lluvia por la noche.",
+      "example_zh": "我很喜歡夜裡雨聲的聲音。"
+    },
+    {
+      "word": "coreano",
+      "meaning_zh": "韓語；韓國的；韓國人",
+      "example_es": "Mi vecino es coreano y cocina muy bien.",
+      "example_zh": "我的鄰居是韓國人，廚藝很好。"
+    },
+    {
+      "word": "navidad",
+      "meaning_zh": "聖誕節",
+      "example_es": "En Navidad toda la familia se reúne.",
+      "example_zh": "聖誕節時全家人會團聚。"
+    },
+    {
+      "word": "popular",
+      "meaning_zh": "受歡迎的；通俗的",
+      "example_es": "Esta canción es muy popular entre los jóvenes.",
+      "example_zh": "這首歌在年輕人之間很受歡迎。"
+    },
+    {
+      "word": "querido",
+      "meaning_zh": "親愛的；心愛的",
+      "example_es": "Querido amigo, gracias por tu carta.",
+      "example_zh": "親愛的朋友，謝謝你的來信。"
+    },
+    {
+      "word": "traducir",
+      "meaning_zh": "翻譯",
+      "example_es": "¿Puedes traducir esta carta al inglés?",
+      "example_zh": "你能把這封信翻譯成英文嗎？"
+    },
+    {
+      "word": "negativo",
+      "meaning_zh": "負面的；否定的",
+      "example_es": "Tu comentario fue un poco negativo.",
+      "example_zh": "你的評語有點負面。"
+    },
+    {
+      "word": "elegante",
+      "meaning_zh": "優雅的；別緻的",
+      "example_es": "Llevaba un vestido muy elegante en la fiesta.",
+      "example_zh": "她在派對上穿了一件很優雅的洋裝。"
+    },
+    {
+      "word": "accidente",
+      "meaning_zh": "意外；事故",
+      "example_es": "Tuvo un pequeño accidente de coche.",
+      "example_zh": "他出了一場小車禍。"
+    },
+    {
+      "word": "turístico",
+      "meaning_zh": "觀光的；旅遊的",
+      "example_es": "El centro turístico estaba lleno de gente.",
+      "example_zh": "觀光區裡擠滿了人。"
+    },
+    {
+      "word": "programar",
+      "meaning_zh": "安排；設定；編寫程式",
+      "example_es": "Voy a programar la cita para el próximo lunes.",
+      "example_zh": "我要把約會安排在下週一。"
+    },
+    {
+      "word": "pronunciar",
+      "meaning_zh": "發音；說出",
+      "example_es": "Me cuesta pronunciar bien esta palabra.",
+      "example_zh": "我很難把這個字發音正確。"
+    },
+    {
+      "word": "centímetro",
+      "meaning_zh": "公分；釐米",
+      "example_es": "La mesa mide ochenta centímetros de ancho.",
+      "example_zh": "這張桌子寬八十公分。"
+    },
+    {
+      "word": "electrónico",
+      "meaning_zh": "電子的",
+      "example_es": "Te envío el documento por correo electrónico.",
+      "example_zh": "我用電子郵件把文件寄給你。"
+    },
+    {
+      "word": "rápidamente",
+      "meaning_zh": "迅速地；很快地",
+      "example_es": "El niño aprendió a leer rápidamente.",
+      "example_zh": "那孩子很快就學會了閱讀。"
     }
   ],
   "db1": [
@@ -33111,6 +33735,1854 @@
       "meaning_zh": "(形容詞/名詞) 外部的；外面",
       "example_es": "Paseamos por el jardín exterior.",
       "example_zh": "我們在外面的花園散步。"
+    },
+    {
+      "word": "gracia",
+      "meaning_zh": "(名詞) 優雅；恩典；趣味（複數 gracias 為「謝謝」）",
+      "example_es": "El niño cuenta chistes con mucha gracia.",
+      "example_zh": "這個小孩講笑話很有趣味。"
+    },
+    {
+      "word": "cualquiera",
+      "meaning_zh": "(代名詞／形容詞) 任何一個；任何的",
+      "example_es": "Cualquiera puede aprender a cocinar si practica.",
+      "example_zh": "任何人只要練習都能學會做菜。"
+    },
+    {
+      "word": "sentar",
+      "meaning_zh": "(動詞) 使坐下；（衣物或事物）適合、合身",
+      "example_es": "Ese color le sienta muy bien.",
+      "example_zh": "那個顏色很適合他。"
+    },
+    {
+      "word": "unir",
+      "meaning_zh": "(動詞) 結合；連接；團結",
+      "example_es": "Vamos a unir las dos mesas para la fiesta.",
+      "example_zh": "我們把兩張桌子併起來辦派對。"
+    },
+    {
+      "word": "variar",
+      "meaning_zh": "(動詞) 變化；改變；使多樣",
+      "example_es": "El menú varía cada semana en este restaurante.",
+      "example_zh": "這家餐廳的菜單每週都會變化。"
+    },
+    {
+      "word": "cuanto",
+      "meaning_zh": "(代名詞／連接詞) 多少；一……就……（en cuanto）",
+      "example_es": "Te llamaré en cuanto llegue a casa.",
+      "example_zh": "我一到家就打電話給你。"
+    },
+    {
+      "word": "escrito",
+      "meaning_zh": "(形容詞／名詞) 寫下的；書面文件（escribir 的分詞）",
+      "example_es": "Necesito el informe por escrito antes del lunes.",
+      "example_zh": "我需要在週一之前拿到書面報告。"
+    },
+    {
+      "word": "insistir",
+      "meaning_zh": "(動詞) 堅持；再三強調",
+      "example_es": "Insisto en pagar yo la cena de hoy.",
+      "example_zh": "我堅持今天的晚餐由我來付。"
+    },
+    {
+      "word": "demás",
+      "meaning_zh": "(形容詞／代名詞) 其餘的；其他的（人或物）",
+      "example_es": "Yo recojo la mesa y tú haces lo demás.",
+      "example_zh": "我來收拾桌子，剩下的你來做。"
+    },
+    {
+      "word": "indicar",
+      "meaning_zh": "(動詞) 指出；指示；表明",
+      "example_es": "¿Me puede indicar dónde está la salida?",
+      "example_zh": "您可以告訴我出口在哪裡嗎？"
+    },
+    {
+      "word": "interesar",
+      "meaning_zh": "(動詞) 使感興趣；關係到",
+      "example_es": "Me interesa mucho la historia del arte.",
+      "example_zh": "我對藝術史很感興趣。"
+    },
+    {
+      "word": "complicar",
+      "meaning_zh": "(動詞) 使複雜；使麻煩",
+      "example_es": "No quiero complicar más las cosas.",
+      "example_zh": "我不想把事情弄得更複雜。"
+    },
+    {
+      "word": "entrevistar",
+      "meaning_zh": "(動詞) 面試；訪問",
+      "example_es": "Mañana van a entrevistar a tres candidatos.",
+      "example_zh": "明天他們要面試三位應徵者。"
+    },
+    {
+      "word": "cultivar",
+      "meaning_zh": "(動詞) 耕種；栽培；培養（關係、能力）",
+      "example_es": "En el jardín cultivamos hierbas aromáticas.",
+      "example_zh": "我們在花園裡種香草。"
+    },
+    {
+      "word": "combinar",
+      "meaning_zh": "(動詞) 搭配；結合",
+      "example_es": "Esa camisa combina bien con los pantalones grises.",
+      "example_zh": "那件襯衫和灰色長褲很搭。"
+    },
+    {
+      "word": "entendido",
+      "meaning_zh": "(形容詞／感嘆) 明白了；了解的（entender 的分詞）",
+      "example_es": "Entendido, lo haré tal como me ha pedido.",
+      "example_zh": "明白了，我會照您的要求去做。"
+    },
+    {
+      "word": "marcar",
+      "meaning_zh": "(動詞) 標記；撥（號碼）；進球",
+      "example_es": "Marca el número y espera el tono.",
+      "example_zh": "撥那個號碼然後等待撥號音。"
+    },
+    {
+      "word": "enterar",
+      "meaning_zh": "(動詞) 使知道；得知（enterarse de）",
+      "example_es": "Me enteré de la noticia por la radio.",
+      "example_zh": "我是從廣播得知這個消息的。"
+    },
+    {
+      "word": "formar",
+      "meaning_zh": "(動詞) 組成；形成；培訓",
+      "example_es": "Los niños forman un círculo para jugar.",
+      "example_zh": "孩子們圍成一個圈來玩遊戲。"
+    },
+    {
+      "word": "privado",
+      "meaning_zh": "(形容詞) 私人的；私立的",
+      "example_es": "Es una reunión privada, no se permite la entrada.",
+      "example_zh": "這是私人會議，不准進入。"
+    },
+    {
+      "word": "cercano",
+      "meaning_zh": "(形容詞) 鄰近的；親近的",
+      "example_es": "El supermercado más cercano está a dos calles.",
+      "example_zh": "最近的超市離這裡兩條街。"
+    },
+    {
+      "word": "mostrar",
+      "meaning_zh": "(動詞) 展示；表現出",
+      "example_es": "El guía nos mostró los cuadros más famosos.",
+      "example_zh": "導覽員向我們展示了最有名的畫作。"
+    },
+    {
+      "word": "limitar",
+      "meaning_zh": "(動詞) 限制；接壤",
+      "example_es": "Debemos limitar el uso del móvil por la noche.",
+      "example_zh": "我們晚上應該限制手機的使用。"
+    },
+    {
+      "word": "conectar",
+      "meaning_zh": "(動詞) 連接；接通；連線",
+      "example_es": "No consigo conectar el ordenador a internet.",
+      "example_zh": "我沒辦法把電腦連上網路。"
+    },
+    {
+      "word": "llevarse",
+      "meaning_zh": "(動詞) 帶走；拿走；（與人）相處",
+      "example_es": "Me llevo muy bien con mis compañeros de trabajo.",
+      "example_zh": "我和同事相處得很好。"
+    },
+    {
+      "word": "emocionar",
+      "meaning_zh": "(動詞) 使感動；激動",
+      "example_es": "La canción me emocionó hasta las lágrimas.",
+      "example_zh": "這首歌感動得我掉淚。"
+    },
+    {
+      "word": "habla",
+      "meaning_zh": "(名詞) 言語；說話能力（亦為 hablar 變位「他說」）",
+      "example_es": "Visitamos varios países de habla hispana.",
+      "example_zh": "我們造訪了好幾個西語系國家。"
+    },
+    {
+      "word": "volar",
+      "meaning_zh": "(動詞) 飛；飛行；（時間）飛逝",
+      "example_es": "Los pájaros vuelan hacia el sur en invierno.",
+      "example_zh": "鳥兒在冬天飛往南方。"
+    },
+    {
+      "word": "notar",
+      "meaning_zh": "(動詞) 注意到；察覺",
+      "example_es": "Noto que estás un poco preocupado hoy.",
+      "example_zh": "我察覺你今天有點擔心。"
+    },
+    {
+      "word": "fijar",
+      "meaning_zh": "(動詞) 固定；確定；注意（fijarse en 留意）",
+      "example_es": "Fíjate bien en la señal antes de cruzar.",
+      "example_zh": "過馬路前好好注意號誌。"
+    },
+    {
+      "word": "objeto",
+      "meaning_zh": "(名詞) 物品；目標；對象",
+      "example_es": "Encontré un objeto extraño debajo de la cama.",
+      "example_zh": "我在床底下找到一個奇怪的物品。"
+    },
+    {
+      "word": "cargar",
+      "meaning_zh": "(動詞) 裝載；背負；充電",
+      "example_es": "Tengo que cargar el móvil antes de salir.",
+      "example_zh": "出門前我得幫手機充電。"
+    },
+    {
+      "word": "clásico",
+      "meaning_zh": "(形容詞／名詞) 經典的；古典的",
+      "example_es": "Prefiero la música clásica para concentrarme.",
+      "example_zh": "我比較喜歡用古典音樂來幫助專注。"
+    },
+    {
+      "word": "extender",
+      "meaning_zh": "(動詞) 展開；延伸；擴展",
+      "example_es": "Extiende el mantel sobre la hierba.",
+      "example_zh": "把桌布鋪在草地上。"
+    },
+    {
+      "word": "completar",
+      "meaning_zh": "完成；補足",
+      "example_es": "Tienes que completar el formulario antes del viernes.",
+      "example_zh": "你必須在星期五前填完表格。"
+    },
+    {
+      "word": "ramo",
+      "meaning_zh": "花束",
+      "example_es": "Le regalé un ramo de flores a mi madre.",
+      "example_zh": "我送了一束花給我媽媽。"
+    },
+    {
+      "word": "rincón",
+      "meaning_zh": "角落",
+      "example_es": "El gato duerme en un rincón de la sala.",
+      "example_zh": "貓睡在客廳的一個角落。"
+    },
+    {
+      "word": "apretar",
+      "meaning_zh": "按壓；擠壓；勒緊",
+      "example_es": "Aprieta el botón para encender la luz.",
+      "example_zh": "按下按鈕來開燈。"
+    },
+    {
+      "word": "enfadar",
+      "meaning_zh": "使生氣；惹惱",
+      "example_es": "No te enfades, solo era una broma.",
+      "example_zh": "別生氣，那只是個玩笑。"
+    },
+    {
+      "word": "observar",
+      "meaning_zh": "觀察；注意到",
+      "example_es": "Me gusta observar las estrellas por la noche.",
+      "example_zh": "我喜歡在夜裡觀察星星。"
+    },
+    {
+      "word": "equivocar",
+      "meaning_zh": "弄錯；搞混",
+      "example_es": "Perdón, me he equivocado de puerta.",
+      "example_zh": "抱歉，我走錯門了。"
+    },
+    {
+      "word": "frecuencia",
+      "meaning_zh": "頻率；頻繁",
+      "example_es": "Voy al gimnasio con frecuencia.",
+      "example_zh": "我經常去健身房。"
+    },
+    {
+      "word": "desconocido",
+      "meaning_zh": "陌生的；陌生人",
+      "example_es": "No debes hablar con desconocidos.",
+      "example_zh": "你不應該跟陌生人說話。"
+    },
+    {
+      "word": "recomendado",
+      "meaning_zh": "被推薦的",
+      "example_es": "Este libro es muy recomendado por los profesores.",
+      "example_zh": "這本書很受老師推薦。"
+    },
+    {
+      "word": "tono",
+      "meaning_zh": "色調；語氣；音調",
+      "example_es": "Me gusta el tono azul de esa pared.",
+      "example_zh": "我喜歡那面牆的藍色調。"
+    },
+    {
+      "word": "capa",
+      "meaning_zh": "層；外層",
+      "example_es": "Pinté la pared con dos capas.",
+      "example_zh": "我給牆刷了兩層漆。"
+    },
+    {
+      "word": "pisar",
+      "meaning_zh": "踩；踏",
+      "example_es": "Cuidado, no pises el suelo mojado.",
+      "example_zh": "小心，別踩到濕地板。"
+    },
+    {
+      "word": "fruto",
+      "meaning_zh": "果實；成果",
+      "example_es": "Este premio es el fruto de su esfuerzo.",
+      "example_zh": "這個獎是他努力的成果。"
+    },
+    {
+      "word": "punta",
+      "meaning_zh": "尖端；末端",
+      "example_es": "Me corté con la punta del cuchillo.",
+      "example_zh": "我被刀尖割傷了。"
+    },
+    {
+      "word": "cubrir",
+      "meaning_zh": "覆蓋；涵蓋",
+      "example_es": "El seguro cubre los gastos médicos.",
+      "example_zh": "保險涵蓋醫療費用。"
+    },
+    {
+      "word": "cartel",
+      "meaning_zh": "海報；招牌",
+      "example_es": "Hay un cartel grande en la entrada.",
+      "example_zh": "入口處有一張大海報。"
+    },
+    {
+      "word": "pulsar",
+      "meaning_zh": "按下；觸按",
+      "example_es": "Pulsa la tecla verde para empezar.",
+      "example_zh": "按下綠色按鍵開始。"
+    },
+    {
+      "word": "semanal",
+      "meaning_zh": "每週的",
+      "example_es": "Tenemos una reunión semanal los lunes.",
+      "example_zh": "我們每週一有一次會議。"
+    },
+    {
+      "word": "candado",
+      "meaning_zh": "掛鎖",
+      "example_es": "Cerré la bicicleta con un candado.",
+      "example_zh": "我用掛鎖把腳踏車鎖上了。"
+    },
+    {
+      "word": "resolver",
+      "meaning_zh": "解決；解答",
+      "example_es": "Vamos a resolver este problema juntos.",
+      "example_zh": "我們一起解決這個問題。"
+    },
+    {
+      "word": "divertir",
+      "meaning_zh": "使開心；娛樂",
+      "example_es": "Los niños se divierten en el parque.",
+      "example_zh": "孩子們在公園裡玩得很開心。"
+    },
+    {
+      "word": "alérgico",
+      "meaning_zh": "過敏的",
+      "example_es": "Soy alérgico al polen en primavera.",
+      "example_zh": "我在春天對花粉過敏。"
+    },
+    {
+      "word": "argentino",
+      "meaning_zh": "阿根廷的；阿根廷人",
+      "example_es": "Probé un asado argentino delicioso.",
+      "example_zh": "我嚐了美味的阿根廷烤肉。"
+    },
+    {
+      "word": "auricular",
+      "meaning_zh": "耳機；聽筒",
+      "example_es": "Escucho música con los auriculares.",
+      "example_zh": "我用耳機聽音樂。"
+    },
+    {
+      "word": "desaparecer",
+      "meaning_zh": "消失；不見",
+      "example_es": "El sol desapareció tras las montañas.",
+      "example_zh": "太陽消失在群山之後。"
+    },
+    {
+      "word": "caña",
+      "meaning_zh": "小杯生啤酒；甘蔗；管",
+      "example_es": "Nos tomamos una caña en la terraza del bar.",
+      "example_zh": "我們在酒吧的露台喝了一杯生啤酒。"
+    },
+    {
+      "word": "optar",
+      "meaning_zh": "選擇",
+      "example_es": "Decidí optar por el camino más corto.",
+      "example_zh": "我決定選擇較短的路。"
+    },
+    {
+      "word": "plano",
+      "meaning_zh": "平面圖；地圖；平坦的",
+      "example_es": "Miramos el plano de la ciudad para no perdernos.",
+      "example_zh": "我們看城市地圖以免迷路。"
+    },
+    {
+      "word": "susto",
+      "meaning_zh": "驚嚇",
+      "example_es": "El ruido repentino me dio un buen susto.",
+      "example_zh": "突然的聲響把我嚇了一跳。"
+    },
+    {
+      "word": "reunir",
+      "meaning_zh": "召集；聚集",
+      "example_es": "El profesor quiere reunir a todos los alumnos mañana.",
+      "example_zh": "老師想在明天召集所有學生。"
+    },
+    {
+      "word": "unidad",
+      "meaning_zh": "單位；單元；團結",
+      "example_es": "Cada unidad del curso dura una semana.",
+      "example_zh": "課程的每個單元持續一週。"
+    },
+    {
+      "word": "sólido",
+      "meaning_zh": "堅固的；固體的",
+      "example_es": "Necesitamos un plan sólido antes de empezar.",
+      "example_zh": "開始之前我們需要一個穩固的計畫。"
+    },
+    {
+      "word": "ocupar",
+      "meaning_zh": "佔據；佔用",
+      "example_es": "Ese sillón ocupa demasiado espacio en la sala.",
+      "example_zh": "那張扶手椅在客廳佔了太多空間。"
+    },
+    {
+      "word": "caries",
+      "meaning_zh": "蛀牙",
+      "example_es": "El dentista me encontró una caries pequeña.",
+      "example_zh": "牙醫發現我有一顆小蛀牙。"
+    },
+    {
+      "word": "dirigir",
+      "meaning_zh": "指揮；引導；管理",
+      "example_es": "Ella va a dirigir el nuevo proyecto.",
+      "example_zh": "她將領導這個新專案。"
+    },
+    {
+      "word": "acercar",
+      "meaning_zh": "使靠近；拉近",
+      "example_es": "¿Me puedes acercar la sal, por favor?",
+      "example_zh": "可以把鹽遞給我嗎？"
+    },
+    {
+      "word": "encargo",
+      "meaning_zh": "委託；訂購",
+      "example_es": "Recogí tu encargo en la tienda esta tarde.",
+      "example_zh": "我今天下午在店裡取了你訂的東西。"
+    },
+    {
+      "word": "escapar",
+      "meaning_zh": "逃脫",
+      "example_es": "El gato logró escapar por la ventana.",
+      "example_zh": "貓成功從窗戶逃了出去。"
+    },
+    {
+      "word": "injusto",
+      "meaning_zh": "不公平的",
+      "example_es": "Me parece injusto que él no reciba nada.",
+      "example_zh": "我覺得他什麼都得不到很不公平。"
+    },
+    {
+      "word": "captura",
+      "meaning_zh": "擷取；捕獲；截圖",
+      "example_es": "Te mando una captura de la pantalla ahora.",
+      "example_zh": "我現在傳一張螢幕截圖給你。"
+    },
+    {
+      "word": "vistazo",
+      "meaning_zh": "瀏覽；一瞥",
+      "example_es": "Échale un vistazo al informe cuando puedas.",
+      "example_zh": "有空時瞄一下那份報告。"
+    },
+    {
+      "word": "volverse",
+      "meaning_zh": "變得；轉身",
+      "example_es": "Con los años se volvió más paciente.",
+      "example_zh": "隨著歲月，他變得更有耐心了。"
+    },
+    {
+      "word": "prohibir",
+      "meaning_zh": "禁止",
+      "example_es": "Está prohibido fumar dentro del edificio.",
+      "example_zh": "建築物內禁止吸菸。"
+    },
+    {
+      "word": "gratuito",
+      "meaning_zh": "免費的",
+      "example_es": "La entrada al museo es gratuita los domingos.",
+      "example_zh": "博物館週日免費入場。"
+    },
+    {
+      "word": "infinito",
+      "meaning_zh": "無限的",
+      "example_es": "Desde la cima el paisaje parecía infinito.",
+      "example_zh": "從山頂望去，風景彷彿無邊無際。"
+    },
+    {
+      "word": "original",
+      "meaning_zh": "原始的；獨創的；原件",
+      "example_es": "Conserva siempre el documento original.",
+      "example_zh": "請務必保留原始文件。"
+    },
+    {
+      "word": "respecto",
+      "meaning_zh": "關於；相較於",
+      "example_es": "No tengo nada que decir respecto a ese tema.",
+      "example_zh": "關於那個話題我沒什麼好說的。"
+    },
+    {
+      "word": "prometido",
+      "meaning_zh": "承諾的；已約定的",
+      "example_es": "Lo haremos en verano, queda prometido.",
+      "example_zh": "我們夏天會做，說定了。"
+    },
+    {
+      "word": "aerolínea",
+      "meaning_zh": "航空公司",
+      "example_es": "La aerolínea retrasó nuestro vuelo dos horas.",
+      "example_zh": "航空公司把我們的班機延誤了兩小時。"
+    },
+    {
+      "word": "solicitar",
+      "meaning_zh": "申請；要求",
+      "example_es": "Voy a solicitar una beca para estudiar fuera.",
+      "example_zh": "我要申請獎學金去國外讀書。"
+    },
+    {
+      "word": "trimestre",
+      "meaning_zh": "季度；學季",
+      "example_es": "Las ventas mejoraron mucho este trimestre.",
+      "example_zh": "這一季的銷售額大幅提升。"
+    },
+    {
+      "word": "oscuridad",
+      "meaning_zh": "黑暗",
+      "example_es": "En la oscuridad apenas veía el camino.",
+      "example_zh": "在黑暗中我幾乎看不見路。"
+    },
+    {
+      "word": "comercial",
+      "meaning_zh": "商業的；業務員",
+      "example_es": "Abrieron un nuevo centro comercial cerca de casa.",
+      "example_zh": "他們在我家附近開了一家新的購物中心。"
+    },
+    {
+      "word": "domicilio",
+      "meaning_zh": "住所；住址",
+      "example_es": "Pedimos la comida a domicilio anoche.",
+      "example_zh": "昨晚我們叫了外送。"
+    },
+    {
+      "word": "beneficio",
+      "meaning_zh": "好處；利潤",
+      "example_es": "El ejercicio aporta muchos beneficios para la salud.",
+      "example_zh": "運動對健康有許多好處。"
+    },
+    {
+      "word": "traductor",
+      "meaning_zh": "翻譯者",
+      "example_es": "Trabaja como traductor de libros franceses.",
+      "example_zh": "他擔任法文書籍的翻譯。"
+    },
+    {
+      "word": "bienvenida",
+      "meaning_zh": "歡迎（詞）",
+      "example_es": "Nos dieron una cálida bienvenida al llegar.",
+      "example_zh": "我們抵達時受到熱烈的歡迎。"
+    },
+    {
+      "word": "estacionar",
+      "meaning_zh": "停車",
+      "example_es": "No se puede estacionar delante de la entrada.",
+      "example_zh": "門口前不能停車。"
+    },
+    {
+      "word": "reaccionar",
+      "meaning_zh": "反應",
+      "example_es": "No supo cómo reaccionar ante la noticia.",
+      "example_zh": "面對那個消息，他不知該如何反應。"
+    },
+    {
+      "word": "industrial",
+      "meaning_zh": "工業的",
+      "example_es": "La zona industrial está a las afueras de la ciudad.",
+      "example_zh": "工業區位於城市外圍。"
+    },
+    {
+      "word": "configurar",
+      "meaning_zh": "設定；配置",
+      "example_es": "Tengo que configurar el correo en el móvil nuevo.",
+      "example_zh": "我得在新手機上設定電子郵件。"
+    },
+    {
+      "word": "automático",
+      "meaning_zh": "自動的",
+      "example_es": "La puerta del garaje es automática.",
+      "example_zh": "車庫的門是自動的。"
+    },
+    {
+      "word": "concentrar",
+      "meaning_zh": "集中",
+      "example_es": "Necesito silencio para concentrarme en el trabajo.",
+      "example_zh": "我需要安靜才能專心工作。"
+    },
+    {
+      "word": "desarrollo",
+      "meaning_zh": "發展；開發",
+      "example_es": "El desarrollo de la aplicación tardó varios meses.",
+      "example_zh": "這個應用程式的開發花了好幾個月。"
+    },
+    {
+      "word": "solucionar",
+      "meaning_zh": "解決",
+      "example_es": "Vamos a solucionar este problema entre todos.",
+      "example_zh": "我們大家一起來解決這個問題。"
+    },
+    {
+      "word": "impresionante",
+      "meaning_zh": "令人印象深刻的",
+      "example_es": "La vista desde la montaña es impresionante.",
+      "example_zh": "從山上看到的景色令人驚嘆。"
+    },
+    {
+      "word": "extraordinario",
+      "meaning_zh": "非凡的；特別的",
+      "example_es": "Hizo un esfuerzo extraordinario para terminar a tiempo.",
+      "example_zh": "他付出了非凡的努力才準時完成。"
+    },
+    {
+      "word": "electrodoméstico",
+      "meaning_zh": "家用電器",
+      "example_es": "Compramos un electrodoméstico nuevo para la cocina.",
+      "example_zh": "我們為廚房買了一台新的家電。"
+    },
+    {
+      "word": "sanar",
+      "meaning_zh": "痊癒；治癒",
+      "example_es": "La herida tardó dos semanas en sanar.",
+      "example_zh": "傷口花了兩個星期才痊癒。"
+    },
+    {
+      "word": "flash",
+      "meaning_zh": "閃光燈",
+      "example_es": "No uses el flash dentro del museo.",
+      "example_zh": "在博物館裡不要使用閃光燈。"
+    },
+    {
+      "word": "colar",
+      "meaning_zh": "過濾；溜進",
+      "example_es": "Voy a colar el café antes de servirlo.",
+      "example_zh": "我要先把咖啡過濾再倒出來。"
+    },
+    {
+      "word": "curry",
+      "meaning_zh": "咖哩",
+      "example_es": "Prepararé un curry de pollo para la cena.",
+      "example_zh": "我晚餐會做雞肉咖哩。"
+    },
+    {
+      "word": "jurar",
+      "meaning_zh": "發誓；宣誓",
+      "example_es": "Te juro que no fue culpa mía.",
+      "example_zh": "我發誓那不是我的錯。"
+    },
+    {
+      "word": "lanzar",
+      "meaning_zh": "投擲；推出",
+      "example_es": "La empresa va a lanzar un nuevo producto.",
+      "example_zh": "公司要推出一項新產品。"
+    },
+    {
+      "word": "mental",
+      "meaning_zh": "心理的；精神的",
+      "example_es": "El descanso es importante para la salud mental.",
+      "example_zh": "休息對心理健康很重要。"
+    },
+    {
+      "word": "mágico",
+      "meaning_zh": "魔法的；神奇的",
+      "example_es": "El espectáculo de magia tuvo un final mágico.",
+      "example_zh": "那場魔術表演有個神奇的結尾。"
+    },
+    {
+      "word": "alarma",
+      "meaning_zh": "警報；鬧鐘",
+      "example_es": "Puse la alarma a las siete de la mañana.",
+      "example_zh": "我把鬧鐘設在早上七點。"
+    },
+    {
+      "word": "rodear",
+      "meaning_zh": "包圍；繞行",
+      "example_es": "Un alto muro rodea todo el jardín.",
+      "example_zh": "一道高牆環繞著整座花園。"
+    },
+    {
+      "word": "teoría",
+      "meaning_zh": "理論",
+      "example_es": "En teoría es fácil, pero en la práctica no tanto.",
+      "example_zh": "理論上很簡單，但實際上沒那麼簡單。"
+    },
+    {
+      "word": "visual",
+      "meaning_zh": "視覺的",
+      "example_es": "El diseño visual de la página es muy atractivo.",
+      "example_zh": "這個頁面的視覺設計很吸引人。"
+    },
+    {
+      "word": "educar",
+      "meaning_zh": "教育；教養",
+      "example_es": "Los padres se esfuerzan por educar bien a sus hijos.",
+      "example_zh": "父母努力把孩子教育好。"
+    },
+    {
+      "word": "timbre",
+      "meaning_zh": "門鈴；音色",
+      "example_es": "Alguien llamó al timbre mientras cenábamos.",
+      "example_zh": "我們吃晚餐時有人按了門鈴。"
+    },
+    {
+      "word": "lavado",
+      "meaning_zh": "洗滌；清洗",
+      "example_es": "El lavado del coche cuesta diez euros.",
+      "example_zh": "洗車要十歐元。"
+    },
+    {
+      "word": "charla",
+      "meaning_zh": "閒聊；談話；講座",
+      "example_es": "Tuvimos una charla muy agradable en el café.",
+      "example_zh": "我們在咖啡館聊得很愉快。"
+    },
+    {
+      "word": "suelto",
+      "meaning_zh": "鬆開的；零錢",
+      "example_es": "Llevo el pelo suelto hoy.",
+      "example_zh": "我今天頭髮放下來。"
+    },
+    {
+      "word": "cabina",
+      "meaning_zh": "機艙；座艙；小隔間",
+      "example_es": "Solo llevo una maleta de cabina.",
+      "example_zh": "我只帶了一個機艙行李。"
+    },
+    {
+      "word": "aparato",
+      "meaning_zh": "裝置；器具",
+      "example_es": "Este aparato sirve para medir la temperatura.",
+      "example_zh": "這個裝置是用來測量溫度的。"
+    },
+    {
+      "word": "partida",
+      "meaning_zh": "一局；出發；項目",
+      "example_es": "Echamos una partida de ajedrez después de cenar.",
+      "example_zh": "晚餐後我們下了一局西洋棋。"
+    },
+    {
+      "word": "promesa",
+      "meaning_zh": "承諾；諾言",
+      "example_es": "Cumplió su promesa de visitarnos.",
+      "example_zh": "他履行了來看我們的承諾。"
+    },
+    {
+      "word": "materia",
+      "meaning_zh": "物質；題材；科目",
+      "example_es": "Es un experto en materia de economía.",
+      "example_zh": "他是經濟領域的專家。"
+    },
+    {
+      "word": "dominar",
+      "meaning_zh": "掌握；支配",
+      "example_es": "Quiere dominar el inglés antes de viajar.",
+      "example_zh": "他想在旅行前精通英語。"
+    },
+    {
+      "word": "temblar",
+      "meaning_zh": "顫抖；發抖",
+      "example_es": "Me temblaban las manos por el frío.",
+      "example_zh": "我的手因為寒冷而發抖。"
+    },
+    {
+      "word": "libreta",
+      "meaning_zh": "小筆記本",
+      "example_es": "Apunto mis ideas en una libreta pequeña.",
+      "example_zh": "我把想法記在一本小筆記本上。"
+    },
+    {
+      "word": "activar",
+      "meaning_zh": "啟動；激活",
+      "example_es": "Tienes que activar la cuenta desde el correo.",
+      "example_zh": "你必須從電子郵件啟用帳戶。"
+    },
+    {
+      "word": "reflejo",
+      "meaning_zh": "倒影；反射；反應",
+      "example_es": "Vi mi reflejo en el cristal de la ventana.",
+      "example_zh": "我在窗玻璃上看到自己的倒影。"
+    },
+    {
+      "word": "obtener",
+      "meaning_zh": "獲得；取得",
+      "example_es": "Obtuvo muy buenas notas en el examen.",
+      "example_zh": "他在考試中取得了很好的成績。"
+    },
+    {
+      "word": "oficial",
+      "meaning_zh": "官方的；正式的",
+      "example_es": "Necesito una respuesta oficial de la empresa.",
+      "example_zh": "我需要公司的正式答覆。"
+    },
+    {
+      "word": "relajar",
+      "meaning_zh": "放鬆",
+      "example_es": "Un baño caliente me ayuda a relajar los músculos.",
+      "example_zh": "泡個熱水澡有助於我放鬆肌肉。"
+    },
+    {
+      "word": "símbolo",
+      "meaning_zh": "符號；象徵",
+      "example_es": "La paloma es un símbolo de la paz.",
+      "example_zh": "鴿子是和平的象徵。"
+    },
+    {
+      "word": "planeta",
+      "meaning_zh": "行星；星球",
+      "example_es": "Debemos cuidar el planeta para las futuras generaciones.",
+      "example_zh": "我們必須為未來的世代愛護這顆星球。"
+    },
+    {
+      "word": "referir",
+      "meaning_zh": "提及；指涉",
+      "example_es": "Me refiero al problema que comentamos ayer.",
+      "example_zh": "我指的是我們昨天談到的那個問題。"
+    },
+    {
+      "word": "visible",
+      "meaning_zh": "可見的；明顯的",
+      "example_es": "La luna es claramente visible esta noche.",
+      "example_zh": "今晚月亮清晰可見。"
+    },
+    {
+      "word": "sección",
+      "meaning_zh": "部門；區域；章節",
+      "example_es": "La sección de frutas está al fondo del supermercado.",
+      "example_zh": "水果區在超市的最裡面。"
+    },
+    {
+      "word": "almacén",
+      "meaning_zh": "倉庫；庫房",
+      "example_es": "Guardan las cajas en un almacén grande.",
+      "example_zh": "他們把箱子存放在一個大倉庫裡。"
+    },
+    {
+      "word": "abrigar",
+      "meaning_zh": "使保暖；給…穿暖",
+      "example_es": "Abriga bien al bebé antes de salir.",
+      "example_zh": "出門前把寶寶包暖一點。"
+    },
+    {
+      "word": "asustar",
+      "meaning_zh": "使害怕；嚇",
+      "example_es": "El ruido asustó al gato.",
+      "example_zh": "那聲響嚇到了貓。"
+    },
+    {
+      "word": "manejar",
+      "meaning_zh": "操作；處理；（拉美）開車",
+      "example_es": "Sé manejar bien este programa.",
+      "example_zh": "我很會操作這個程式。"
+    },
+    {
+      "word": "rollito",
+      "meaning_zh": "春捲；小卷狀食物",
+      "example_es": "Pedimos unos rollitos de primavera.",
+      "example_zh": "我們點了一些春捲。"
+    },
+    {
+      "word": "vivienda",
+      "meaning_zh": "住房；住宅",
+      "example_es": "Buscamos una vivienda cerca del trabajo.",
+      "example_zh": "我們在找靠近公司的住處。"
+    },
+    {
+      "word": "contener",
+      "meaning_zh": "包含；容納；克制",
+      "example_es": "Esta caja contiene varios libros.",
+      "example_zh": "這個箱子裡裝著好幾本書。"
+    },
+    {
+      "word": "extrañar",
+      "meaning_zh": "想念；覺得奇怪",
+      "example_es": "Extraño mucho a mi familia.",
+      "example_zh": "我很想念我的家人。"
+    },
+    {
+      "word": "catálogo",
+      "meaning_zh": "目錄；型錄",
+      "example_es": "Hojeé el catálogo antes de comprar.",
+      "example_zh": "我買之前先翻了型錄。"
+    },
+    {
+      "word": "informal",
+      "meaning_zh": "非正式的；隨意的",
+      "example_es": "Es una reunión informal entre amigos.",
+      "example_zh": "這是朋友之間的非正式聚會。"
+    },
+    {
+      "word": "explorar",
+      "meaning_zh": "探索；勘查",
+      "example_es": "Nos gusta explorar barrios nuevos.",
+      "example_zh": "我們喜歡探索新的街區。"
+    },
+    {
+      "word": "juventud",
+      "meaning_zh": "青春；年輕時期",
+      "example_es": "Pasó su juventud en un pueblo pequeño.",
+      "example_zh": "他在一個小村莊度過了青春。"
+    },
+    {
+      "word": "eliminar",
+      "meaning_zh": "消除；刪除",
+      "example_es": "Debes eliminar los archivos viejos.",
+      "example_zh": "你應該刪掉那些舊檔案。"
+    },
+    {
+      "word": "limpieza",
+      "meaning_zh": "清潔；打掃",
+      "example_es": "Hacemos la limpieza los sábados.",
+      "example_zh": "我們週六打掃。"
+    },
+    {
+      "word": "inferior",
+      "meaning_zh": "下方的；較低的；次等的",
+      "example_es": "Firma en la parte inferior de la hoja.",
+      "example_zh": "請在紙的下方簽名。"
+    },
+    {
+      "word": "reflejar",
+      "meaning_zh": "反映；反射",
+      "example_es": "El espejo refleja la luz del sol.",
+      "example_zh": "鏡子反射著陽光。"
+    },
+    {
+      "word": "iluminar",
+      "meaning_zh": "照亮；照明",
+      "example_es": "Una lámpara ilumina toda la sala.",
+      "example_zh": "一盞燈照亮了整個房間。"
+    },
+    {
+      "word": "enchufar",
+      "meaning_zh": "插上插頭；接通電源",
+      "example_es": "Enchufa el cargador, por favor.",
+      "example_zh": "請把充電器插上。"
+    },
+    {
+      "word": "realmente",
+      "meaning_zh": "真正地；確實",
+      "example_es": "Realmente no sé qué decir.",
+      "example_zh": "我真的不知道該說什麼。"
+    },
+    {
+      "word": "encendido",
+      "meaning_zh": "點亮的；開著的",
+      "example_es": "Dejaste la luz encendida toda la noche.",
+      "example_zh": "你整晚都讓燈開著。"
+    },
+    {
+      "word": "invisible",
+      "meaning_zh": "看不見的；隱形的",
+      "example_es": "El viento es invisible pero se siente.",
+      "example_zh": "風看不見，但感覺得到。"
+    },
+    {
+      "word": "conversar",
+      "meaning_zh": "交談；聊天",
+      "example_es": "Nos quedamos conversando hasta tarde.",
+      "example_zh": "我們聊到很晚。"
+    },
+    {
+      "word": "visitante",
+      "meaning_zh": "訪客；參觀者",
+      "example_es": "El museo recibe muchos visitantes en verano.",
+      "example_zh": "夏天博物館接待許多參觀者。"
+    },
+    {
+      "word": "mostrador",
+      "meaning_zh": "櫃台",
+      "example_es": "Pregunta en el mostrador de información.",
+      "example_zh": "到服務櫃台問一下。"
+    },
+    {
+      "word": "frecuente",
+      "meaning_zh": "頻繁的；常見的",
+      "example_es": "Es un error muy frecuente entre principiantes.",
+      "example_zh": "這是初學者很常見的錯誤。"
+    },
+    {
+      "word": "auténtico",
+      "meaning_zh": "正宗的；真正的",
+      "example_es": "Esta es una receta auténtica de la abuela.",
+      "example_zh": "這是奶奶的正宗食譜。"
+    },
+    {
+      "word": "registrar",
+      "meaning_zh": "登記；記錄；搜查",
+      "example_es": "Debes registrar tu llegada en recepción.",
+      "example_zh": "你必須在櫃台登記抵達。"
+    },
+    {
+      "word": "mensajero",
+      "meaning_zh": "送貨員；信使",
+      "example_es": "El mensajero dejó el paquete en portería.",
+      "example_zh": "快遞員把包裹留在門房了。"
+    },
+    {
+      "word": "reiniciar",
+      "meaning_zh": "重新啟動",
+      "example_es": "Reinicia el ordenador y vuelve a probar.",
+      "example_zh": "重新開機後再試一次。"
+    },
+    {
+      "word": "estantería",
+      "meaning_zh": "書架；置物架",
+      "example_es": "Coloca los libros en la estantería.",
+      "example_zh": "把書放到書架上。"
+    },
+    {
+      "word": "reparación",
+      "meaning_zh": "修理；維修",
+      "example_es": "La reparación del coche costó mucho.",
+      "example_zh": "修車花了很多錢。"
+    },
+    {
+      "word": "mascarilla",
+      "meaning_zh": "口罩；面膜",
+      "example_es": "Lleva la mascarilla en el autobús.",
+      "example_zh": "在公車上戴著口罩。"
+    },
+    {
+      "word": "relacionar",
+      "meaning_zh": "使相關聯；聯繫",
+      "example_es": "Conviene relacionar las dos ideas.",
+      "example_zh": "最好把這兩個概念聯繫起來。"
+    },
+    {
+      "word": "claramente",
+      "meaning_zh": "清楚地；明顯地",
+      "example_es": "Habla más claramente, por favor.",
+      "example_zh": "請說得清楚一點。"
+    },
+    {
+      "word": "observación",
+      "meaning_zh": "觀察；備註",
+      "example_es": "Anota cualquier observación importante en la ficha.",
+      "example_zh": "把任何重要的備註寫在表格上。"
+    },
+    {
+      "word": "institución",
+      "meaning_zh": "機構；制度",
+      "example_es": "La universidad es una institución muy antigua.",
+      "example_zh": "這所大學是一個歷史悠久的機構。"
+    },
+    {
+      "word": "fundamental",
+      "meaning_zh": "基本的；根本的",
+      "example_es": "Descansar bien es fundamental para estudiar.",
+      "example_zh": "好好休息對學習來說是根本的。"
+    },
+    {
+      "word": "comerciante",
+      "meaning_zh": "商人；店家",
+      "example_es": "El comerciante abre su tienda muy temprano.",
+      "example_zh": "那位商人很早就開店。"
+    },
+    {
+      "word": "preferencia",
+      "meaning_zh": "偏好；優先",
+      "example_es": "¿Tienes alguna preferencia para la cena?",
+      "example_zh": "晚餐你有什麼偏好嗎？"
+    },
+    {
+      "word": "telefonillo",
+      "meaning_zh": "對講機（門口電話）",
+      "example_es": "Llama al telefonillo y te abro la puerta.",
+      "example_zh": "按對講機，我幫你開門。"
+    },
+    {
+      "word": "obligatorio",
+      "meaning_zh": "強制的；必須的",
+      "example_es": "El uso del casco es obligatorio en la obra.",
+      "example_zh": "在工地必須戴安全帽。"
+    },
+    {
+      "word": "recordatorio",
+      "meaning_zh": "提醒；提示通知",
+      "example_es": "Te envío un recordatorio antes de la cita.",
+      "example_zh": "我會在約會前傳個提醒給你。"
+    },
+    {
+      "word": "confirmación",
+      "meaning_zh": "確認",
+      "example_es": "Recibí un correo de confirmación de la reserva.",
+      "example_zh": "我收到了一封訂位確認的電子郵件。"
+    },
+    {
+      "word": "asa",
+      "meaning_zh": "把手；提把",
+      "example_es": "El asa de la taza está rota.",
+      "example_zh": "杯子的把手破了。"
+    },
+    {
+      "word": "ágil",
+      "meaning_zh": "敏捷的；靈活的",
+      "example_es": "El gato es muy ágil al saltar.",
+      "example_zh": "這隻貓跳躍時非常敏捷。"
+    },
+    {
+      "word": "cura",
+      "meaning_zh": "治療；（陽性）神父",
+      "example_es": "El médico buscó una cura para la enfermedad.",
+      "example_zh": "醫生尋找這種疾病的療法。"
+    },
+    {
+      "word": "oral",
+      "meaning_zh": "口頭的；口語的",
+      "example_es": "Mañana tengo el examen oral de inglés.",
+      "example_zh": "我明天有英語口試。"
+    },
+    {
+      "word": "fiel",
+      "meaning_zh": "忠實的；忠誠的",
+      "example_es": "El perro es un amigo fiel.",
+      "example_zh": "狗是忠實的朋友。"
+    },
+    {
+      "word": "tela",
+      "meaning_zh": "布；布料",
+      "example_es": "Compré una tela azul para hacer cortinas.",
+      "example_zh": "我買了藍色的布來做窗簾。"
+    },
+    {
+      "word": "bote",
+      "meaning_zh": "罐子；小船；彈跳",
+      "example_es": "Guarda las galletas en ese bote de cristal.",
+      "example_zh": "把餅乾放進那個玻璃罐裡。"
+    },
+    {
+      "word": "hilo",
+      "meaning_zh": "線；細線",
+      "example_es": "Necesito hilo y aguja para coser el botón.",
+      "example_zh": "我需要針和線來縫鈕扣。"
+    },
+    {
+      "word": "atar",
+      "meaning_zh": "綁；繫",
+      "example_es": "Voy a atar los cordones de los zapatos.",
+      "example_zh": "我要綁鞋帶。"
+    },
+    {
+      "word": "signo",
+      "meaning_zh": "符號；徵兆",
+      "example_es": "Una sonrisa es un buen signo.",
+      "example_zh": "微笑是個好的徵兆。"
+    },
+    {
+      "word": "recto",
+      "meaning_zh": "直的；筆直的",
+      "example_es": "Siga todo recto hasta la plaza.",
+      "example_zh": "一直直走到廣場。"
+    },
+    {
+      "word": "girar",
+      "meaning_zh": "轉；轉彎；旋轉",
+      "example_es": "Gira a la izquierda en la próxima esquina.",
+      "example_zh": "在下一個轉角向左轉。"
+    },
+    {
+      "word": "reina",
+      "meaning_zh": "女王；王后",
+      "example_es": "La reina saludó a la gente desde el balcón.",
+      "example_zh": "女王在陽台上向人群揮手致意。"
+    },
+    {
+      "word": "táper",
+      "meaning_zh": "保鮮盒；便當盒",
+      "example_es": "Me llevo la comida al trabajo en un táper.",
+      "example_zh": "我用保鮮盒帶午餐去上班。"
+    },
+    {
+      "word": "peque",
+      "meaning_zh": "小孩；小傢伙（口語）",
+      "example_es": "Los peques ya están durmiendo.",
+      "example_zh": "小傢伙們已經睡了。"
+    },
+    {
+      "word": "borde",
+      "meaning_zh": "邊緣；邊",
+      "example_es": "No dejes el vaso en el borde de la mesa.",
+      "example_zh": "別把杯子放在桌子邊緣。"
+    },
+    {
+      "word": "cuero",
+      "meaning_zh": "皮革；皮",
+      "example_es": "Me compré una cartera de cuero.",
+      "example_zh": "我買了一個皮革錢包。"
+    },
+    {
+      "word": "salto",
+      "meaning_zh": "跳；跳躍",
+      "example_es": "El niño dio un salto sobre el charco.",
+      "example_zh": "小男孩跳過了水坑。"
+    },
+    {
+      "word": "neutro",
+      "meaning_zh": "中性的；中立的",
+      "example_es": "Prefiero pintar la pared de un color neutro.",
+      "example_zh": "我比較喜歡把牆漆成中性色。"
+    },
+    {
+      "word": "grabar",
+      "meaning_zh": "錄製；錄音；雕刻",
+      "example_es": "Quiero grabar un vídeo para mi familia.",
+      "example_zh": "我想為家人錄一段影片。"
+    },
+    {
+      "word": "causar",
+      "meaning_zh": "造成；引起；導致",
+      "example_es": "La tormenta causó muchos daños en el pueblo.",
+      "example_zh": "暴風雨對村莊造成了許多損害。"
+    },
+    {
+      "word": "filete",
+      "meaning_zh": "肉排；魚排；菲力",
+      "example_es": "De segundo voy a pedir un filete con patatas.",
+      "example_zh": "第二道菜我要點一份牛排配薯條。"
+    },
+    {
+      "word": "obrero",
+      "meaning_zh": "工人；勞工",
+      "example_es": "Los obreros terminaron la obra antes de tiempo.",
+      "example_zh": "工人們提前完成了工程。"
+    },
+    {
+      "word": "soltar",
+      "meaning_zh": "放開；鬆開；釋放",
+      "example_es": "No sueltes la cuerda hasta que te avise.",
+      "example_zh": "在我提醒你之前別放開繩子。"
+    },
+    {
+      "word": "nativo",
+      "meaning_zh": "母語的；本地的；原生的",
+      "example_es": "Practico inglés con un hablante nativo.",
+      "example_zh": "我和一位母語人士練習英語。"
+    },
+    {
+      "word": "trampa",
+      "meaning_zh": "陷阱；圈套；作弊",
+      "example_es": "Cayó en la trampa sin darse cuenta.",
+      "example_zh": "他不知不覺掉進了陷阱。"
+    },
+    {
+      "word": "excusa",
+      "meaning_zh": "藉口；理由；託辭",
+      "example_es": "Siempre tiene una excusa para llegar tarde.",
+      "example_zh": "他遲到總是有藉口。"
+    },
+    {
+      "word": "eterno",
+      "meaning_zh": "永恆的；無止盡的",
+      "example_es": "Aquel verano nos pareció eterno y feliz.",
+      "example_zh": "那個夏天對我們來說既漫長又快樂。"
+    },
+    {
+      "word": "acción",
+      "meaning_zh": "行動；行為；股票",
+      "example_es": "Es momento de pasar a la acción.",
+      "example_zh": "是時候採取行動了。"
+    },
+    {
+      "word": "plural",
+      "meaning_zh": "複數的；多元的",
+      "example_es": "Vivimos en una sociedad cada vez más plural.",
+      "example_zh": "我們生活在一個日益多元的社會。"
+    },
+    {
+      "word": "inicio",
+      "meaning_zh": "開始；起始；開端",
+      "example_es": "Desde el inicio supe que sería difícil.",
+      "example_zh": "從一開始我就知道這會很困難。"
+    },
+    {
+      "word": "editar",
+      "meaning_zh": "編輯；剪輯；出版",
+      "example_es": "Tengo que editar el vídeo antes de subirlo.",
+      "example_zh": "我得先剪輯影片再上傳。"
+    },
+    {
+      "word": "nación",
+      "meaning_zh": "國家；民族",
+      "example_es": "Toda la nación celebró la victoria.",
+      "example_zh": "全國上下都慶祝這場勝利。"
+    },
+    {
+      "word": "físico",
+      "meaning_zh": "身體的；物理的；實體的；物理學家",
+      "example_es": "Prefiero comprar el libro en formato físico.",
+      "example_zh": "我比較喜歡買實體書。"
+    },
+    {
+      "word": "chocar",
+      "meaning_zh": "碰撞；相撞；令人震驚；不搭調",
+      "example_es": "Dos coches chocaron en el cruce esta mañana.",
+      "example_zh": "今早兩輛車在路口相撞。"
+    },
+    {
+      "word": "horror",
+      "meaning_zh": "恐怖；恐懼；極為（口語強調）",
+      "example_es": "Me da horror entrar en una casa oscura.",
+      "example_zh": "走進黑暗的房子讓我感到恐懼。"
+    },
+    {
+      "word": "gluten",
+      "meaning_zh": "麩質；麵筋",
+      "example_es": "Este pan está hecho sin gluten.",
+      "example_zh": "這款麵包是無麩質製成的。"
+    },
+    {
+      "word": "prenda",
+      "meaning_zh": "衣物；服飾單品",
+      "example_es": "Lava esta prenda con agua fría.",
+      "example_zh": "這件衣物要用冷水洗。"
+    },
+    {
+      "word": "dental",
+      "meaning_zh": "牙齒的；牙科的",
+      "example_es": "Tengo una revisión dental la próxima semana.",
+      "example_zh": "我下週有一次牙科檢查。"
+    },
+    {
+      "word": "bloque",
+      "meaning_zh": "街區；大樓；區塊",
+      "example_es": "Vivo en el último piso de este bloque.",
+      "example_zh": "我住在這棟大樓的頂樓。"
+    },
+    {
+      "word": "locura",
+      "meaning_zh": "瘋狂；發瘋；瘋狂的事",
+      "example_es": "Comprar ese coche fue una auténtica locura.",
+      "example_zh": "買那輛車真是太瘋狂了。"
+    },
+    {
+      "word": "bajito",
+      "meaning_zh": "矮矮的；輕聲地；小聲地",
+      "example_es": "Habló muy bajito para no despertar al bebé.",
+      "example_zh": "他很小聲地說話，以免吵醒寶寶。"
+    },
+    {
+      "word": "tejado",
+      "meaning_zh": "屋頂；屋瓦",
+      "example_es": "Un gato dormía al sol sobre el tejado.",
+      "example_zh": "一隻貓在屋頂上曬著太陽睡覺。"
+    },
+    {
+      "word": "típico",
+      "meaning_zh": "典型的；道地的；常見的",
+      "example_es": "La paella es un plato típico de Valencia.",
+      "example_zh": "西班牙海鮮飯是瓦倫西亞的道地菜餚。"
+    },
+    {
+      "word": "parado",
+      "meaning_zh": "停住的；靜止的；失業的；停下的",
+      "example_es": "El reloj lleva parado desde ayer.",
+      "example_zh": "這個時鐘從昨天起就停了。"
+    },
+    {
+      "word": "flecha",
+      "meaning_zh": "箭；箭頭",
+      "example_es": "Sigue la flecha verde hasta la salida.",
+      "example_zh": "順著綠色箭頭走到出口。"
+    },
+    {
+      "word": "valija",
+      "meaning_zh": "行李箱；手提箱（拉美用法）",
+      "example_es": "Subí la valija al maletero del auto.",
+      "example_zh": "我把行李箱放進車子的後車廂。"
+    },
+    {
+      "word": "bastón",
+      "meaning_zh": "拐杖；手杖",
+      "example_es": "Mi abuela camina con un bastón de madera.",
+      "example_zh": "我祖母拄著一根木製拐杖走路。"
+    },
+    {
+      "word": "tostado",
+      "meaning_zh": "烤過的；烘焙的；曬黑的",
+      "example_es": "Me gusta el pan tostado con mantequilla.",
+      "example_zh": "我喜歡塗奶油的烤吐司。"
+    },
+    {
+      "word": "emoción",
+      "meaning_zh": "情感；激動；感動",
+      "example_es": "No pudo contener la emoción al verla.",
+      "example_zh": "見到她時他無法抑制自己的激動。"
+    },
+    {
+      "word": "gigante",
+      "meaning_zh": "巨大的；巨人",
+      "example_es": "Construyeron un castillo gigante de arena.",
+      "example_zh": "他們堆了一座巨大的沙堡。"
+    },
+    {
+      "word": "extraño",
+      "meaning_zh": "奇怪的；陌生的；陌生人",
+      "example_es": "Hoy me siento extraño, no sé por qué.",
+      "example_zh": "今天我覺得怪怪的，不知道為什麼。"
+    },
+    {
+      "word": "anciano",
+      "meaning_zh": "年長的；老人",
+      "example_es": "Ayudé a un anciano a cruzar la calle.",
+      "example_zh": "我幫一位老人過馬路。"
+    },
+    {
+      "word": "defecto",
+      "meaning_zh": "缺陷；瑕疵；缺點",
+      "example_es": "El jersey tenía un pequeño defecto en la manga.",
+      "example_zh": "這件毛衣的袖子有一個小瑕疵。"
+    },
+    {
+      "word": "peruano",
+      "meaning_zh": "祕魯的；祕魯人",
+      "example_es": "Mi vecino es peruano y cocina muy bien.",
+      "example_zh": "我的鄰居是祕魯人，廚藝很好。"
+    },
+    {
+      "word": "llamado",
+      "meaning_zh": "叫做……的；名為",
+      "example_es": "Vivo en un pueblo llamado Sol.",
+      "example_zh": "我住在一個叫做太陽的小鎮。"
+    },
+    {
+      "word": "igualar",
+      "meaning_zh": "使相等；追平",
+      "example_es": "Hay que igualar las dos porciones.",
+      "example_zh": "必須把這兩份分得一樣大。"
+    },
+    {
+      "word": "pasarse",
+      "meaning_zh": "過頭；順道過去",
+      "example_es": "Pásate por casa cuando quieras.",
+      "example_zh": "你想來就隨時過來家裡。"
+    },
+    {
+      "word": "escolar",
+      "meaning_zh": "學校的；學童的",
+      "example_es": "El autobús escolar llega a las ocho.",
+      "example_zh": "校車八點到。"
+    },
+    {
+      "word": "extremo",
+      "meaning_zh": "極端的；末端",
+      "example_es": "Vivimos en el extremo norte de la ciudad.",
+      "example_zh": "我們住在城市的最北端。"
+    },
+    {
+      "word": "aumento",
+      "meaning_zh": "增加；加薪",
+      "example_es": "Pedí un aumento a mi jefe.",
+      "example_zh": "我向老闆要求加薪。"
+    },
+    {
+      "word": "inmenso",
+      "meaning_zh": "巨大的；廣闊的",
+      "example_es": "Desde la cima se ve un mar inmenso.",
+      "example_zh": "從山頂可以看到一片廣闊的大海。"
+    },
+    {
+      "word": "intento",
+      "meaning_zh": "嘗試；企圖",
+      "example_es": "Aprobó el examen al primer intento.",
+      "example_zh": "她第一次嘗試就通過了考試。"
+    },
+    {
+      "word": "colocar",
+      "meaning_zh": "放置；安放",
+      "example_es": "Coloca los libros en el estante, por favor.",
+      "example_zh": "請把書放到架子上。"
+    },
+    {
+      "word": "resumir",
+      "meaning_zh": "概括；總結",
+      "example_es": "¿Puedes resumir la reunión en tres puntos?",
+      "example_zh": "你能把會議總結成三個要點嗎？"
+    },
+    {
+      "word": "virtual",
+      "meaning_zh": "虛擬的",
+      "example_es": "La clase de hoy será virtual.",
+      "example_zh": "今天的課將在線上進行。"
+    },
+    {
+      "word": "incapaz",
+      "meaning_zh": "無能力的；做不到的",
+      "example_es": "Soy incapaz de dormir con ruido.",
+      "example_zh": "我沒辦法在吵雜中入睡。"
+    },
+    {
+      "word": "impedir",
+      "meaning_zh": "阻止；妨礙",
+      "example_es": "La lluvia nos impidió salir.",
+      "example_zh": "雨阻止了我們外出。"
+    },
+    {
+      "word": "acabado",
+      "meaning_zh": "用完的；完成的；成品",
+      "example_es": "Se ha acabado el pan.",
+      "example_zh": "麵包用完了。"
+    },
+    {
+      "word": "enviado",
+      "meaning_zh": "已寄出的；使者",
+      "example_es": "El paquete ya está enviado.",
+      "example_zh": "包裹已經寄出了。"
+    },
+    {
+      "word": "apartar",
+      "meaning_zh": "移開；挪開",
+      "example_es": "Aparta el plato del borde de la mesa.",
+      "example_zh": "把盤子從桌邊挪開。"
+    },
+    {
+      "word": "campeón",
+      "meaning_zh": "冠軍",
+      "example_es": "Nuestro equipo es campeón de la liga.",
+      "example_zh": "我們的隊伍是聯賽冠軍。"
+    },
+    {
+      "word": "echarse",
+      "meaning_zh": "躺下；塗抹（在自己身上）",
+      "example_es": "Échate un rato si estás cansado.",
+      "example_zh": "如果你累了就躺一會兒。"
+    },
+    {
+      "word": "premium",
+      "meaning_zh": "高級的；優質的",
+      "example_es": "Pagué por la versión premium de la aplicación.",
+      "example_zh": "我付費買了這個應用程式的高級版。"
+    },
+    {
+      "word": "asiático",
+      "meaning_zh": "亞洲的；亞洲人",
+      "example_es": "Me encanta la comida asiática.",
+      "example_zh": "我很喜歡亞洲料理。"
+    },
+    {
+      "word": "regional",
+      "meaning_zh": "地區的；區域的",
+      "example_es": "Probamos varios platos de la cocina regional.",
+      "example_zh": "我們嘗了幾道地方料理。"
+    },
+    {
+      "word": "retrasar",
+      "meaning_zh": "延遲；推遲",
+      "example_es": "El vuelo se ha retrasado una hora.",
+      "example_zh": "班機延誤了一個小時。"
+    },
+    {
+      "word": "anunciar",
+      "meaning_zh": "宣布；廣告",
+      "example_es": "Anunciaron el resultado por la radio.",
+      "example_zh": "他們透過廣播宣布了結果。"
+    },
+    {
+      "word": "obedecer",
+      "meaning_zh": "服從；遵守",
+      "example_es": "El perro obedece todas las órdenes.",
+      "example_zh": "這隻狗服從所有指令。"
+    },
+    {
+      "word": "femenino",
+      "meaning_zh": "女性的；陰性的",
+      "example_es": "El equipo femenino ganó el torneo.",
+      "example_zh": "女子隊贏得了錦標賽。"
+    },
+    {
+      "word": "realizar",
+      "meaning_zh": "實現；進行",
+      "example_es": "Vamos a realizar una encuesta entre los clientes.",
+      "example_zh": "我們要在客戶間進行一項問卷調查。"
+    },
+    {
+      "word": "indígena",
+      "meaning_zh": "原住民的；原住民",
+      "example_es": "En esa región viven varios pueblos indígenas.",
+      "example_zh": "那個地區住著好幾個原住民族。"
+    },
+    {
+      "word": "comienzo",
+      "meaning_zh": "開始；起點",
+      "example_es": "El comienzo de la película fue muy emocionante.",
+      "example_zh": "這部電影的開頭非常精彩。"
+    },
+    {
+      "word": "variedad",
+      "meaning_zh": "多樣性；種類",
+      "example_es": "Esta tienda ofrece una gran variedad de quesos.",
+      "example_zh": "這家店提供各式各樣的起司。"
+    },
+    {
+      "word": "claridad",
+      "meaning_zh": "清晰；明亮",
+      "example_es": "Explicó la idea con mucha claridad.",
+      "example_zh": "他把這個想法解釋得非常清楚。"
+    },
+    {
+      "word": "conjunto",
+      "meaning_zh": "整體；一套",
+      "example_es": "Compré un conjunto de tazas para la cocina.",
+      "example_zh": "我買了一套杯子放在廚房。"
+    },
+    {
+      "word": "infancia",
+      "meaning_zh": "童年",
+      "example_es": "Guardo buenos recuerdos de mi infancia.",
+      "example_zh": "我保留著童年的美好回憶。"
+    },
+    {
+      "word": "luminoso",
+      "meaning_zh": "明亮的；發光的",
+      "example_es": "El salón es muy luminoso por la mañana.",
+      "example_zh": "客廳早上非常明亮。"
+    },
+    {
+      "word": "resbalar",
+      "meaning_zh": "滑倒；打滑",
+      "example_es": "Ten cuidado, el suelo mojado resbala mucho.",
+      "example_zh": "小心，濕地板很滑。"
+    },
+    {
+      "word": "metálico",
+      "meaning_zh": "金屬的；金屬般的",
+      "example_es": "El reloj tiene una correa metálica.",
+      "example_zh": "這支手錶有金屬錶帶。"
+    },
+    {
+      "word": "agresivo",
+      "meaning_zh": "有攻擊性的；激進的",
+      "example_es": "Ese tono suena demasiado agresivo.",
+      "example_zh": "那種語氣聽起來太有攻擊性了。"
+    },
+    {
+      "word": "enterado",
+      "meaning_zh": "知情的；得知的",
+      "example_es": "¿Estás enterado de la nueva norma?",
+      "example_zh": "你知道新規定了嗎？"
+    },
+    {
+      "word": "croqueta",
+      "meaning_zh": "可樂餅；炸丸子",
+      "example_es": "En el bar sirven unas croquetas riquísimas.",
+      "example_zh": "那家酒吧供應超好吃的炸丸子。"
+    },
+    {
+      "word": "céntrico",
+      "meaning_zh": "市中心的；位置便利的",
+      "example_es": "Buscamos un hotel céntrico y barato.",
+      "example_zh": "我們在找一家位於市中心又便宜的旅館。"
+    },
+    {
+      "word": "rebanada",
+      "meaning_zh": "（麵包等的）一片",
+      "example_es": "Desayuno una rebanada de pan con mermelada.",
+      "example_zh": "我早餐吃一片塗果醬的麵包。"
+    },
+    {
+      "word": "refrescar",
+      "meaning_zh": "使涼爽；變涼",
+      "example_es": "Por la noche refresca bastante en la montaña.",
+      "example_zh": "山上晚上會變得相當涼。"
+    },
+    {
+      "word": "autoridad",
+      "meaning_zh": "權威；當局",
+      "example_es": "Habló con la autoridad de la voz de un experto.",
+      "example_zh": "他以專家的權威口吻發言。"
+    },
+    {
+      "word": "alimentar",
+      "meaning_zh": "餵養；提供養分",
+      "example_es": "Hay que alimentar al bebé cada tres horas.",
+      "example_zh": "每三小時要餵一次寶寶。"
+    },
+    {
+      "word": "relajante",
+      "meaning_zh": "令人放鬆的",
+      "example_es": "Tomar un baño caliente es muy relajante.",
+      "example_zh": "泡個熱水澡非常放鬆。"
+    },
+    {
+      "word": "finalizar",
+      "meaning_zh": "結束；完成",
+      "example_es": "El curso finaliza en junio.",
+      "example_zh": "課程在六月結束。"
+    },
+    {
+      "word": "excepción",
+      "meaning_zh": "例外",
+      "example_es": "Todos vinieron, sin excepción.",
+      "example_zh": "所有人都來了，無一例外。"
+    },
+    {
+      "word": "potencial",
+      "meaning_zh": "潛力；潛在的",
+      "example_es": "Esa jugadora tiene mucho potencial para el futuro.",
+      "example_zh": "那位選手未來很有潛力。"
+    },
+    {
+      "word": "facilidad",
+      "meaning_zh": "容易；便利；天分",
+      "example_es": "Aprende idiomas con mucha facilidad.",
+      "example_zh": "他學語言非常輕鬆。"
+    },
+    {
+      "word": "tailandés",
+      "meaning_zh": "泰國的；泰國人；泰語",
+      "example_es": "Esta noche cenamos en un restaurante tailandés.",
+      "example_zh": "今晚我們在一家泰國餐廳吃飯。"
+    },
+    {
+      "word": "higiénico",
+      "meaning_zh": "衛生的",
+      "example_es": "Necesitamos comprar más papel higiénico.",
+      "example_zh": "我們需要多買一些衛生紙。"
+    },
+    {
+      "word": "calentito",
+      "meaning_zh": "暖呼呼的；熱乎乎的",
+      "example_es": "Me encanta tomar un café calentito por la mañana.",
+      "example_zh": "我喜歡早上喝一杯熱熱的咖啡。"
+    },
+    {
+      "word": "historial",
+      "meaning_zh": "履歷；病歷；記錄",
+      "example_es": "El médico revisó mi historial antes de la consulta.",
+      "example_zh": "醫生在看診前查看了我的病歷。"
+    },
+    {
+      "word": "presionar",
+      "meaning_zh": "施壓；按壓",
+      "example_es": "No quiero presionar a mi hijo con los estudios.",
+      "example_zh": "我不想在學業上給兒子施壓。"
+    },
+    {
+      "word": "parmesano",
+      "meaning_zh": "帕馬森乾酪",
+      "example_es": "Le puse un poco de parmesano rallado a la pasta.",
+      "example_zh": "我在義大利麵上撒了一點帕馬森乾酪。"
+    },
+    {
+      "word": "lejísimos",
+      "meaning_zh": "非常遠；遠得很",
+      "example_es": "El hotel está lejísimos del centro de la ciudad.",
+      "example_zh": "這家旅館離市中心非常遠。"
+    },
+    {
+      "word": "intermedio",
+      "meaning_zh": "中間的；中級的",
+      "example_es": "Este curso es de nivel intermedio.",
+      "example_zh": "這門課程是中級程度的。"
+    },
+    {
+      "word": "beneficiar",
+      "meaning_zh": "使受益；有益於",
+      "example_es": "El nuevo horario beneficia a todos los trabajadores.",
+      "example_zh": "新的時間表對所有員工都有好處。"
+    },
+    {
+      "word": "amabilidad",
+      "meaning_zh": "親切；和藹",
+      "example_es": "Le agradezco mucho su amabilidad conmigo.",
+      "example_zh": "我非常感謝您對我的親切。"
+    },
+    {
+      "word": "protección",
+      "meaning_zh": "保護；防護",
+      "example_es": "Usa crema solar para la protección de la piel.",
+      "example_zh": "請使用防曬乳來保護皮膚。"
+    },
+    {
+      "word": "influencia",
+      "meaning_zh": "影響；影響力",
+      "example_es": "Mi profesor tuvo una gran influencia en mi vida.",
+      "example_zh": "我的老師對我的人生有很大的影響。"
+    },
+    {
+      "word": "madrugador",
+      "meaning_zh": "早起的（人）",
+      "example_es": "Mi padre es muy madrugador y se levanta a las cinco.",
+      "example_zh": "我爸爸很早起，五點就起床了。"
+    },
+    {
+      "word": "aficionado",
+      "meaning_zh": "業餘愛好者；愛好的",
+      "example_es": "Mi tío es un fotógrafo aficionado muy entusiasta.",
+      "example_zh": "我叔叔是個非常熱情的業餘攝影師。"
+    },
+    {
+      "word": "movimiento",
+      "meaning_zh": "運動；動作；社會運動",
+      "example_es": "El movimiento de las olas me relaja mucho.",
+      "example_zh": "海浪的起伏讓我感到很放鬆。"
+    },
+    {
+      "word": "repetición",
+      "meaning_zh": "重複；反覆",
+      "example_es": "La repetición ayuda mucho a memorizar palabras.",
+      "example_zh": "重複對於記憶單字很有幫助。"
+    },
+    {
+      "word": "pertenecer",
+      "meaning_zh": "屬於；歸屬",
+      "example_es": "Este libro pertenece a la biblioteca del barrio.",
+      "example_zh": "這本書屬於社區圖書館。"
+    },
+    {
+      "word": "nacimiento",
+      "meaning_zh": "出生；誕生",
+      "example_es": "Anota la fecha de nacimiento en el formulario.",
+      "example_zh": "在表格上填寫出生日期。"
+    },
+    {
+      "word": "planificar",
+      "meaning_zh": "規劃；計劃",
+      "example_es": "Vamos a planificar bien las vacaciones de verano.",
+      "example_zh": "我們要好好規劃暑假的假期。"
+    },
+    {
+      "word": "maravilloso",
+      "meaning_zh": "美妙的；極好的",
+      "example_es": "Pasamos un fin de semana maravilloso en la playa.",
+      "example_zh": "我們在海邊度過了一個美妙的週末。"
+    },
+    {
+      "word": "inolvidable",
+      "meaning_zh": "難忘的",
+      "example_es": "El concierto de anoche fue inolvidable.",
+      "example_zh": "昨晚的演唱會令人難忘。"
+    },
+    {
+      "word": "interesarse",
+      "meaning_zh": "對...感興趣；關心",
+      "example_es": "Empezó a interesarse por la música clásica.",
+      "example_zh": "他開始對古典音樂感興趣。"
+    },
+    {
+      "word": "simplemente",
+      "meaning_zh": "僅僅；只是",
+      "example_es": "Solo quería simplemente saludarte.",
+      "example_zh": "我只是想跟你打個招呼而已。"
+    },
+    {
+      "word": "innecesario",
+      "meaning_zh": "不必要的；多餘的",
+      "example_es": "Es innecesario comprar tantas bolsas.",
+      "example_zh": "買這麼多袋子是多餘的。"
     }
   ],
   "db2": [
@@ -47261,6 +49733,1632 @@
       "meaning_zh": "(動詞) 持續；堅持",
       "example_es": "Persiste el riesgo de exclusión.",
       "example_zh": "排除的風險依然存在。"
+    },
+    {
+      "word": "lucir",
+      "meaning_zh": "(動詞) 展現；穿戴得好看；閃耀",
+      "example_es": "Ese vestido te luce muy elegante.",
+      "example_zh": "那件洋裝讓你看起來很優雅。"
+    },
+    {
+      "word": "disponer",
+      "meaning_zh": "(動詞) 擁有、備有（disponer de）；安排；佈置",
+      "example_es": "El hotel dispone de piscina y gimnasio.",
+      "example_zh": "這家飯店設有游泳池和健身房。"
+    },
+    {
+      "word": "preguntarse",
+      "meaning_zh": "(動詞) 自問；納悶；思索",
+      "example_es": "Me pregunto si llegará a tiempo al aeropuerto.",
+      "example_zh": "我在想他能不能準時到機場。"
+    },
+    {
+      "word": "agotar",
+      "meaning_zh": "(動詞) 使精疲力竭；耗盡",
+      "example_es": "La caminata por la montaña me agotó por completo.",
+      "example_zh": "爬山的健行讓我筋疲力盡。"
+    },
+    {
+      "word": "concluir",
+      "meaning_zh": "(動詞) 結束；下結論；推斷",
+      "example_es": "La charla concluyó con una ronda de preguntas.",
+      "example_zh": "演講以一輪問答作為結束。"
+    },
+    {
+      "word": "pasada",
+      "meaning_zh": "(名詞) 極棒的事物（口語 una pasada）；過往的；經過一次",
+      "example_es": "El concierto de anoche fue una pasada.",
+      "example_zh": "昨晚的演唱會真是太棒了。"
+    },
+    {
+      "word": "ampliar",
+      "meaning_zh": "(動詞) 擴大；擴充；放大",
+      "example_es": "La empresa quiere ampliar su oficina este año.",
+      "example_zh": "公司想在今年擴大辦公室。"
+    },
+    {
+      "word": "cotidiano",
+      "meaning_zh": "(形容詞) 日常的；每天的",
+      "example_es": "Leer un rato es parte de mi rutina cotidiana.",
+      "example_zh": "讀一會兒書是我日常作息的一部分。"
+    },
+    {
+      "word": "huerta",
+      "meaning_zh": "(名詞) 菜園；灌溉園地",
+      "example_es": "En la huerta crecen lechugas y tomates.",
+      "example_zh": "菜園裡長著生菜和番茄。"
+    },
+    {
+      "word": "resistir",
+      "meaning_zh": "(動詞) 抵抗；忍受；經得起",
+      "example_es": "No pude resistir la tentación de comer otro dulce.",
+      "example_zh": "我忍不住又吃了一塊甜點。"
+    },
+    {
+      "word": "acumular",
+      "meaning_zh": "(動詞) 累積；堆積",
+      "example_es": "Con la tarjeta acumulas puntos en cada compra.",
+      "example_zh": "用這張卡每次購物都能累積點數。"
+    },
+    {
+      "word": "lamentar",
+      "meaning_zh": "(動詞) 遺憾；惋惜；對……感到抱歉",
+      "example_es": "Lamento mucho no poder asistir a tu boda.",
+      "example_zh": "我很遺憾無法參加你的婚禮。"
+    },
+    {
+      "word": "autorizar",
+      "meaning_zh": "授權；准許",
+      "example_es": "El jefe autorizó mis vacaciones de verano.",
+      "example_zh": "老闆批准了我的暑假。"
+    },
+    {
+      "word": "modificar",
+      "meaning_zh": "修改；變更",
+      "example_es": "Voy a modificar un poco el plan original.",
+      "example_zh": "我要稍微修改一下原本的計畫。"
+    },
+    {
+      "word": "transformar",
+      "meaning_zh": "轉變；改造",
+      "example_es": "El sol transforma el paisaje cada mañana.",
+      "example_zh": "陽光每天早晨改變了這片風景。"
+    },
+    {
+      "word": "mensual",
+      "meaning_zh": "每月的",
+      "example_es": "El pago del alquiler es mensual.",
+      "example_zh": "房租是按月支付的。"
+    },
+    {
+      "word": "afectar",
+      "meaning_zh": "影響；損及",
+      "example_es": "La lluvia afectó al tráfico de la ciudad.",
+      "example_zh": "這場雨影響了城市的交通。"
+    },
+    {
+      "word": "valioso",
+      "meaning_zh": "珍貴的；有價值的",
+      "example_es": "Tu ayuda ha sido muy valiosa para mí.",
+      "example_zh": "你的幫助對我來說非常珍貴。"
+    },
+    {
+      "word": "creador",
+      "meaning_zh": "創作者；創造者",
+      "example_es": "El creador de este juego es muy joven.",
+      "example_zh": "這款遊戲的創作者非常年輕。"
+    },
+    {
+      "word": "obligado",
+      "meaning_zh": "被迫的；必須的",
+      "example_es": "Me vi obligado a salir bajo la lluvia.",
+      "example_zh": "我被迫冒著雨出門。"
+    },
+    {
+      "word": "afectado",
+      "meaning_zh": "受影響的；受波及的",
+      "example_es": "Los vecinos afectados pidieron una solución.",
+      "example_zh": "受影響的居民要求一個解決辦法。"
+    },
+    {
+      "word": "confesar",
+      "meaning_zh": "坦承；承認",
+      "example_es": "Confieso que no había estudiado nada.",
+      "example_zh": "我承認我根本沒讀書。"
+    },
+    {
+      "word": "adelantar",
+      "meaning_zh": "提前；超前",
+      "example_es": "Vamos a adelantar la reunión una hora.",
+      "example_zh": "我們把會議提前一個小時。"
+    },
+    {
+      "word": "producción",
+      "meaning_zh": "生產；製作",
+      "example_es": "La fábrica aumentó su producción este año.",
+      "example_zh": "工廠今年增加了產量。"
+    },
+    {
+      "word": "hondo",
+      "meaning_zh": "深的",
+      "example_es": "Respira hondo y relájate.",
+      "example_zh": "深呼吸然後放鬆。"
+    },
+    {
+      "word": "atraer",
+      "meaning_zh": "吸引",
+      "example_es": "Las flores atraen a las abejas.",
+      "example_zh": "花朵吸引蜜蜂。"
+    },
+    {
+      "word": "adaptar",
+      "meaning_zh": "適應；改編",
+      "example_es": "Me adapto fácilmente a los cambios.",
+      "example_zh": "我很容易適應改變。"
+    },
+    {
+      "word": "ocultar",
+      "meaning_zh": "隱藏；遮掩",
+      "example_es": "No puedes ocultar la verdad para siempre.",
+      "example_zh": "你無法永遠隱藏真相。"
+    },
+    {
+      "word": "ajustar",
+      "meaning_zh": "調整；使吻合",
+      "example_es": "Tengo que ajustar el reloj a la hora local.",
+      "example_zh": "我得把手錶調成當地時間。"
+    },
+    {
+      "word": "detectar",
+      "meaning_zh": "偵測；察覺",
+      "example_es": "El sensor detecta el movimiento al instante.",
+      "example_zh": "感應器立刻偵測到動作。"
+    },
+    {
+      "word": "nocturno",
+      "meaning_zh": "夜間的",
+      "example_es": "Tomamos un tren nocturno hasta la costa.",
+      "example_zh": "我們搭夜車到海邊。"
+    },
+    {
+      "word": "sospechar",
+      "meaning_zh": "懷疑",
+      "example_es": "Sospecho que va a llover esta tarde.",
+      "example_zh": "我懷疑今天下午會下雨。"
+    },
+    {
+      "word": "enfrentar",
+      "meaning_zh": "面對；對抗",
+      "example_es": "Hay que enfrentar los problemas con calma.",
+      "example_zh": "面對問題要冷靜。"
+    },
+    {
+      "word": "introducir",
+      "meaning_zh": "引入；插入",
+      "example_es": "Introduce la tarjeta en la ranura.",
+      "example_zh": "把卡片插進插槽裡。"
+    },
+    {
+      "word": "particular",
+      "meaning_zh": "特別的；私人的",
+      "example_es": "Tengo un interés particular en la historia.",
+      "example_zh": "我對歷史有特別的興趣。"
+    },
+    {
+      "word": "científico",
+      "meaning_zh": "科學的；科學家",
+      "example_es": "El científico presentó su nuevo estudio.",
+      "example_zh": "這位科學家發表了他的新研究。"
+    },
+    {
+      "word": "estructura",
+      "meaning_zh": "結構；架構",
+      "example_es": "La estructura del puente es muy sólida.",
+      "example_zh": "這座橋的結構非常堅固。"
+    },
+    {
+      "word": "lanzamiento",
+      "meaning_zh": "發行；發射；推出",
+      "example_es": "El lanzamiento del producto fue un éxito.",
+      "example_zh": "產品的發行非常成功。"
+    },
+    {
+      "word": "comprometer",
+      "meaning_zh": "承諾；使承擔；連累",
+      "example_es": "Me comprometo a entregarlo mañana.",
+      "example_zh": "我承諾明天交出來。"
+    },
+    {
+      "word": "cinematográfico",
+      "meaning_zh": "電影的",
+      "example_es": "Asistimos a un festival cinematográfico el fin de semana.",
+      "example_zh": "我們週末參加了一個電影節。"
+    },
+    {
+      "word": "vos",
+      "meaning_zh": "你（中南美洲第二人稱）",
+      "example_es": "Vos sabés bien lo que pasó esa noche.",
+      "example_zh": "你很清楚那天晚上發生了什麼。"
+    },
+    {
+      "word": "temor",
+      "meaning_zh": "恐懼；擔憂",
+      "example_es": "Sentía un gran temor antes del examen.",
+      "example_zh": "考試前我感到非常害怕。"
+    },
+    {
+      "word": "ritual",
+      "meaning_zh": "儀式",
+      "example_es": "Tomar café por la mañana es un ritual para mí.",
+      "example_zh": "早上喝咖啡對我來說是一種儀式。"
+    },
+    {
+      "word": "situar",
+      "meaning_zh": "放置；定位",
+      "example_es": "Vamos a situar la mesa junto a la ventana.",
+      "example_zh": "我們把桌子放在窗戶旁邊。"
+    },
+    {
+      "word": "térmico",
+      "meaning_zh": "熱的；保溫的",
+      "example_es": "Llevamos las bebidas en una bolsa térmica.",
+      "example_zh": "我們把飲料裝在保溫袋裡。"
+    },
+    {
+      "word": "recargo",
+      "meaning_zh": "附加費",
+      "example_es": "Pagar con tarjeta tiene un pequeño recargo aquí.",
+      "example_zh": "這裡用卡付款要加收一筆小額費用。"
+    },
+    {
+      "word": "vintage",
+      "meaning_zh": "復古的",
+      "example_es": "Compró una chaqueta vintage en el mercadillo.",
+      "example_zh": "他在跳蚤市場買了一件復古夾克。"
+    },
+    {
+      "word": "posponer",
+      "meaning_zh": "延後",
+      "example_es": "Tuvimos que posponer la reunión hasta el lunes.",
+      "example_zh": "我們不得不把會議延到星期一。"
+    },
+    {
+      "word": "implicar",
+      "meaning_zh": "意味著；牽涉",
+      "example_es": "Este trabajo implica viajar a menudo.",
+      "example_zh": "這份工作意味著要經常出差。"
+    },
+    {
+      "word": "sanitario",
+      "meaning_zh": "衛生的；醫療的",
+      "example_es": "Lleva siempre tu tarjeta sanitaria al médico.",
+      "example_zh": "看醫生時記得帶健保卡。"
+    },
+    {
+      "word": "mecanismo",
+      "meaning_zh": "機制；機械裝置",
+      "example_es": "No entiendo bien el mecanismo de este reloj.",
+      "example_zh": "我不太懂這只手錶的機械結構。"
+    },
+    {
+      "word": "creciente",
+      "meaning_zh": "漸增的",
+      "example_es": "Hay un interés creciente por la comida sana.",
+      "example_zh": "人們對健康飲食的興趣日益增加。"
+    },
+    {
+      "word": "clientela",
+      "meaning_zh": "顧客群",
+      "example_es": "El nuevo café ya tiene una clientela fiel.",
+      "example_zh": "這家新咖啡館已經有了忠實的顧客群。"
+    },
+    {
+      "word": "desplazar",
+      "meaning_zh": "移動；使遷移",
+      "example_es": "Tuvimos que desplazar el sofá hacia la pared.",
+      "example_zh": "我們不得不把沙發移向牆邊。"
+    },
+    {
+      "word": "conciencia",
+      "meaning_zh": "意識；良心",
+      "example_es": "Estudió a conciencia para el examen final.",
+      "example_zh": "他為期末考認真讀書。"
+    },
+    {
+      "word": "proximidad",
+      "meaning_zh": "鄰近；接近",
+      "example_es": "Elegimos el piso por su proximidad al metro.",
+      "example_zh": "我們選這間公寓是因為它離地鐵很近。"
+    },
+    {
+      "word": "satisfacer",
+      "meaning_zh": "滿足",
+      "example_es": "El resultado logró satisfacer a todo el equipo.",
+      "example_zh": "這個結果讓整個團隊都很滿意。"
+    },
+    {
+      "word": "tranquilizar",
+      "meaning_zh": "使平靜；安撫",
+      "example_es": "Sus palabras lograron tranquilizar a los niños.",
+      "example_zh": "他的話成功安撫了孩子們。"
+    },
+    {
+      "word": "establecimiento",
+      "meaning_zh": "店家；場所；設立",
+      "example_es": "Este establecimiento abre todos los días hasta las diez.",
+      "example_zh": "這家店每天營業到十點。"
+    },
+    {
+      "word": "fiar",
+      "meaning_zh": "信任；賒帳",
+      "example_es": "No me fío de las noticias que no tienen fuente.",
+      "example_zh": "我不信任沒有來源的新聞。"
+    },
+    {
+      "word": "ético",
+      "meaning_zh": "道德的；倫理的",
+      "example_es": "Plantea un dilema ético muy difícil de resolver.",
+      "example_zh": "這提出了一個很難解決的道德困境。"
+    },
+    {
+      "word": "mecha",
+      "meaning_zh": "挑染；燭芯",
+      "example_es": "Se hizo unas mechas rubias en la peluquería.",
+      "example_zh": "她在髮廊做了金色挑染。"
+    },
+    {
+      "word": "bruto",
+      "meaning_zh": "毛額的；粗魯的",
+      "example_es": "El salario bruto es mayor que el neto.",
+      "example_zh": "毛薪資比淨薪資高。"
+    },
+    {
+      "word": "velar",
+      "meaning_zh": "守夜；守護",
+      "example_es": "Los padres velan por el bienestar de sus hijos.",
+      "example_zh": "父母守護著孩子的福祉。"
+    },
+    {
+      "word": "apunte",
+      "meaning_zh": "筆記；記錄",
+      "example_es": "Tomé apuntes durante toda la clase.",
+      "example_zh": "整堂課我都在做筆記。"
+    },
+    {
+      "word": "rígido",
+      "meaning_zh": "僵硬的；嚴格的",
+      "example_es": "El horario del colegio es muy rígido.",
+      "example_zh": "學校的時間表非常嚴格。"
+    },
+    {
+      "word": "metido",
+      "meaning_zh": "放進的；捲入的",
+      "example_es": "Está muy metido en su trabajo últimamente.",
+      "example_zh": "他最近非常投入工作。"
+    },
+    {
+      "word": "extenso",
+      "meaning_zh": "廣大的；冗長的",
+      "example_es": "El informe es demasiado extenso para leerlo hoy.",
+      "example_zh": "這份報告太長了，今天讀不完。"
+    },
+    {
+      "word": "externo",
+      "meaning_zh": "外部的；外來的",
+      "example_es": "Contrataron a un asesor externo para el proyecto.",
+      "example_zh": "他們為這個專案聘請了一位外部顧問。"
+    },
+    {
+      "word": "retorno",
+      "meaning_zh": "回報；返回",
+      "example_es": "Esperamos un buen retorno de la inversión.",
+      "example_zh": "我們期待投資有良好的回報。"
+    },
+    {
+      "word": "cordial",
+      "meaning_zh": "親切的；誠摯的",
+      "example_es": "Nos recibió con un saludo muy cordial.",
+      "example_zh": "他以非常親切的問候迎接我們。"
+    },
+    {
+      "word": "figurar",
+      "meaning_zh": "列於；出現",
+      "example_es": "Su nombre figura en la lista de invitados.",
+      "example_zh": "他的名字出現在賓客名單上。"
+    },
+    {
+      "word": "textura",
+      "meaning_zh": "質地；紋理",
+      "example_es": "Me encanta la textura suave de esta tela.",
+      "example_zh": "我很喜歡這塊布料柔軟的質地。"
+    },
+    {
+      "word": "juvenil",
+      "meaning_zh": "青少年的；年輕的",
+      "example_es": "Participa en la liga juvenil de fútbol.",
+      "example_zh": "他參加了青少年足球聯賽。"
+    },
+    {
+      "word": "aliviar",
+      "meaning_zh": "減輕；緩解",
+      "example_es": "Esta pastilla ayuda a aliviar el dolor.",
+      "example_zh": "這顆藥有助於緩解疼痛。"
+    },
+    {
+      "word": "aliento",
+      "meaning_zh": "呼吸；氣息；鼓勵",
+      "example_es": "Después de correr me faltaba el aliento.",
+      "example_zh": "跑步之後我喘不過氣。"
+    },
+    {
+      "word": "disparar",
+      "meaning_zh": "開槍；發射；（價格）飆升",
+      "example_es": "Los precios se han disparado este año.",
+      "example_zh": "今年物價飆漲了。"
+    },
+    {
+      "word": "capturar",
+      "meaning_zh": "捕獲；捕捉",
+      "example_es": "La cámara logró capturar el momento exacto.",
+      "example_zh": "相機成功捕捉到那一瞬間。"
+    },
+    {
+      "word": "amueblar",
+      "meaning_zh": "為…配置家具",
+      "example_es": "Vamos a amueblar el salón poco a poco.",
+      "example_zh": "我們要慢慢把客廳的家具添齊。"
+    },
+    {
+      "word": "anécdota",
+      "meaning_zh": "軼事；趣聞",
+      "example_es": "Nos contó una anécdota muy divertida.",
+      "example_zh": "他給我們講了一個很有趣的軼事。"
+    },
+    {
+      "word": "parrilla",
+      "meaning_zh": "烤架；烤肉店",
+      "example_es": "Pusimos la carne en la parrilla.",
+      "example_zh": "我們把肉放上烤架。"
+    },
+    {
+      "word": "hablante",
+      "meaning_zh": "說某語言的人；母語者",
+      "example_es": "Hay muchos hablantes de español en el mundo.",
+      "example_zh": "世界上有很多說西班牙語的人。"
+    },
+    {
+      "word": "integral",
+      "meaning_zh": "全麥的；整體的",
+      "example_es": "Prefiero el pan integral por la mañana.",
+      "example_zh": "我早上比較喜歡吃全麥麵包。"
+    },
+    {
+      "word": "dinámica",
+      "meaning_zh": "動態；運作方式",
+      "example_es": "La dinámica del grupo cambió mucho.",
+      "example_zh": "這個團隊的運作方式變了很多。"
+    },
+    {
+      "word": "arrancar",
+      "meaning_zh": "啟動；拔起；開始",
+      "example_es": "El coche no quiere arrancar esta mañana.",
+      "example_zh": "車子今早發不動。"
+    },
+    {
+      "word": "detallar",
+      "meaning_zh": "詳細說明；列舉細節",
+      "example_es": "¿Puede detallar los gastos del viaje?",
+      "example_zh": "您可以詳列旅行的費用嗎？"
+    },
+    {
+      "word": "tremendo",
+      "meaning_zh": "巨大的；驚人的",
+      "example_es": "Hizo un calor tremendo ayer.",
+      "example_zh": "昨天熱得不得了。"
+    },
+    {
+      "word": "obstáculo",
+      "meaning_zh": "障礙；阻礙",
+      "example_es": "Superamos cada obstáculo poco a poco.",
+      "example_zh": "我們一步步克服每個障礙。"
+    },
+    {
+      "word": "ambiental",
+      "meaning_zh": "環境的；環保的",
+      "example_es": "Nos preocupa el impacto ambiental.",
+      "example_zh": "我們很關心環境的影響。"
+    },
+    {
+      "word": "analítica",
+      "meaning_zh": "血液檢驗；分析報告",
+      "example_es": "Mañana me hago una analítica de sangre.",
+      "example_zh": "我明天要做血液檢驗。"
+    },
+    {
+      "word": "individuo",
+      "meaning_zh": "個人；個體",
+      "example_es": "Cada individuo tiene sus propias ideas.",
+      "example_zh": "每個人都有自己的想法。"
+    },
+    {
+      "word": "favorecer",
+      "meaning_zh": "有利於；使更好看",
+      "example_es": "Ese color te favorece mucho.",
+      "example_zh": "那個顏色很襯你。"
+    },
+    {
+      "word": "ilimitado",
+      "meaning_zh": "無限的；不限量的",
+      "example_es": "El plan ofrece datos ilimitados.",
+      "example_zh": "這個方案提供無限流量。"
+    },
+    {
+      "word": "escritura",
+      "meaning_zh": "書寫；寫作；契約",
+      "example_es": "La escritura a mano mejora la memoria.",
+      "example_zh": "手寫有助於增強記憶。"
+    },
+    {
+      "word": "reproducir",
+      "meaning_zh": "播放；複製；繁殖",
+      "example_es": "Pulsa aquí para reproducir el vídeo.",
+      "example_zh": "按這裡播放影片。"
+    },
+    {
+      "word": "inspección",
+      "meaning_zh": "檢查；視察",
+      "example_es": "Pasamos la inspección del coche sin problemas.",
+      "example_zh": "我們順利通過了車輛檢查。"
+    },
+    {
+      "word": "determinar",
+      "meaning_zh": "決定；確定",
+      "example_es": "El médico no pudo determinar la causa.",
+      "example_zh": "醫生無法確定原因。"
+    },
+    {
+      "word": "apariencia",
+      "meaning_zh": "外表；外觀",
+      "example_es": "No te fíes solo de la apariencia.",
+      "example_zh": "別只憑外表判斷。"
+    },
+    {
+      "word": "secundario",
+      "meaning_zh": "次要的；副的",
+      "example_es": "Este medicamento tiene efectos secundarios.",
+      "example_zh": "這種藥有副作用。"
+    },
+    {
+      "word": "inesperado",
+      "meaning_zh": "出乎意料的；意外的",
+      "example_es": "Recibimos una visita inesperada.",
+      "example_zh": "我們迎來了一位意外的訪客。"
+    },
+    {
+      "word": "justamente",
+      "meaning_zh": "正好；恰恰",
+      "example_es": "Justamente eso era lo que buscaba.",
+      "example_zh": "那正是我在找的東西。"
+    },
+    {
+      "word": "occidental",
+      "meaning_zh": "西方的",
+      "example_es": "Estudia la historia del mundo occidental.",
+      "example_zh": "他研究西方世界的歷史。"
+    },
+    {
+      "word": "predicción",
+      "meaning_zh": "預測；預言",
+      "example_es": "La predicción del tiempo falló hoy.",
+      "example_zh": "今天的天氣預報失準了。"
+    },
+    {
+      "word": "empresarial",
+      "meaning_zh": "企業的；商業的",
+      "example_es": "Mi prima estudia gestión empresarial en la universidad.",
+      "example_zh": "我表姊在大學讀企業管理。"
+    },
+    {
+      "word": "impresionar",
+      "meaning_zh": "使印象深刻；打動",
+      "example_es": "La vista desde la montaña me impresionó mucho.",
+      "example_zh": "從山上看到的景色讓我印象深刻。"
+    },
+    {
+      "word": "atentamente",
+      "meaning_zh": "專心地；（信末）敬上",
+      "example_es": "El alumno escuchó atentamente las instrucciones.",
+      "example_zh": "那名學生專心地聽著指示。"
+    },
+    {
+      "word": "deficiencia",
+      "meaning_zh": "缺陷；不足",
+      "example_es": "El médico detectó una deficiencia de hierro en la sangre.",
+      "example_zh": "醫生發現血液中鐵質不足。"
+    },
+    {
+      "word": "historiador",
+      "meaning_zh": "歷史學家",
+      "example_es": "El historiador escribió un libro sobre la guerra.",
+      "example_zh": "那位歷史學家寫了一本關於戰爭的書。"
+    },
+    {
+      "word": "persistente",
+      "meaning_zh": "持續的；頑固的",
+      "example_es": "Tengo una tos persistente desde la semana pasada.",
+      "example_zh": "我從上週開始一直咳嗽，怎麼都好不了。"
+    },
+    {
+      "word": "visibilidad",
+      "meaning_zh": "能見度；曝光度",
+      "example_es": "Con la niebla, la visibilidad en la carretera era escasa.",
+      "example_zh": "起霧時，路上的能見度很低。"
+    },
+    {
+      "word": "kilometraje",
+      "meaning_zh": "里程數",
+      "example_es": "Este coche usado tiene poco kilometraje.",
+      "example_zh": "這輛二手車的里程數很低。"
+    },
+    {
+      "word": "inmobiliaria",
+      "meaning_zh": "房地產公司",
+      "example_es": "Fuimos a una inmobiliaria para alquilar un piso.",
+      "example_zh": "我們去一家房地產公司租房子。"
+    },
+    {
+      "word": "considerable",
+      "meaning_zh": "相當大的；可觀的",
+      "example_es": "Ahorró una cantidad considerable de dinero este año.",
+      "example_zh": "他今年存了一筆可觀的錢。"
+    },
+    {
+      "word": "procedimiento",
+      "meaning_zh": "程序；步驟",
+      "example_es": "El médico me explicó el procedimiento paso a paso.",
+      "example_zh": "醫生一步步向我說明這個程序。"
+    },
+    {
+      "word": "originalmente",
+      "meaning_zh": "原本地；起初地",
+      "example_es": "Originalmente, esta casa era una escuela.",
+      "example_zh": "這棟房子原本是一間學校。"
+    },
+    {
+      "word": "funcionamiento",
+      "meaning_zh": "運作；運轉",
+      "example_es": "Me explicaron el funcionamiento de la máquina.",
+      "example_zh": "他們向我說明了這台機器的運作方式。"
+    },
+    {
+      "word": "particularmente",
+      "meaning_zh": "特別地；尤其",
+      "example_es": "Este verano ha sido particularmente caluroso.",
+      "example_zh": "今年夏天特別熱。"
+    },
+    {
+      "word": "sorprendentemente",
+      "meaning_zh": "令人驚訝地",
+      "example_es": "El examen fue sorprendentemente fácil.",
+      "example_zh": "這次考試出乎意料地簡單。"
+    },
+    {
+      "word": "eco",
+      "meaning_zh": "回聲；迴響",
+      "example_es": "Mi voz produjo un eco dentro de la cueva.",
+      "example_zh": "我的聲音在洞穴裡產生了回音。"
+    },
+    {
+      "word": "fuga",
+      "meaning_zh": "逃跑；外流；洩漏",
+      "example_es": "Hay una fuga de agua debajo del fregadero.",
+      "example_zh": "水槽下面在漏水。"
+    },
+    {
+      "word": "mate",
+      "meaning_zh": "馬黛茶；霧面的",
+      "example_es": "Por la mañana siempre tomo un mate amargo.",
+      "example_zh": "我每天早上都喝一杯不加糖的馬黛茶。"
+    },
+    {
+      "word": "cabo",
+      "meaning_zh": "結尾；海角；下士",
+      "example_es": "Al cabo de una hora, por fin llegó el autobús.",
+      "example_zh": "過了一個小時，公車終於來了。"
+    },
+    {
+      "word": "mito",
+      "meaning_zh": "神話；迷思",
+      "example_es": "Es un mito que las zanahorias mejoren la vista.",
+      "example_zh": "胡蘿蔔能改善視力是個迷思。"
+    },
+    {
+      "word": "alma",
+      "meaning_zh": "靈魂；心靈",
+      "example_es": "Cantó esa canción con toda el alma.",
+      "example_zh": "他全心全意地唱了那首歌。"
+    },
+    {
+      "word": "leve",
+      "meaning_zh": "輕微的；輕的",
+      "example_es": "Solo tuvo una herida leve en el brazo.",
+      "example_zh": "他手臂上只有輕微的傷。"
+    },
+    {
+      "word": "mega",
+      "meaning_zh": "MB（兆位元組，口語）",
+      "example_es": "Esta foto ocupa varios megas de memoria.",
+      "example_zh": "這張照片佔了好幾MB的記憶體。"
+    },
+    {
+      "word": "demo",
+      "meaning_zh": "試用版；示範版",
+      "example_es": "Probamos la demo del videojuego antes de comprarlo.",
+      "example_zh": "我們在購買前先試玩了這款電玩的試用版。"
+    },
+    {
+      "word": "aroma",
+      "meaning_zh": "香氣；芳香",
+      "example_es": "Me encanta el aroma del café recién hecho.",
+      "example_zh": "我很喜歡剛煮好的咖啡香。"
+    },
+    {
+      "word": "salvo",
+      "meaning_zh": "除……之外；安然無恙的",
+      "example_es": "Vienen todos, salvo Marta, que está enferma.",
+      "example_zh": "大家都來，只有生病的瑪塔除外。"
+    },
+    {
+      "word": "guiar",
+      "meaning_zh": "引導；帶領",
+      "example_es": "Una señora amable nos guió hasta la estación.",
+      "example_zh": "一位親切的女士帶我們到車站。"
+    },
+    {
+      "word": "tallo",
+      "meaning_zh": "莖；梗",
+      "example_es": "Corta el tallo de las flores antes de ponerlas en agua.",
+      "example_zh": "把花插進水裡前先剪掉花莖。"
+    },
+    {
+      "word": "ciclo",
+      "meaning_zh": "週期；循環",
+      "example_es": "El ciclo de las estaciones se repite cada año.",
+      "example_zh": "四季的循環每年都會重複。"
+    },
+    {
+      "word": "moral",
+      "meaning_zh": "道德的；道德；士氣",
+      "example_es": "Tomó la decisión por un deber moral.",
+      "example_zh": "他出於道德責任做了這個決定。"
+    },
+    {
+      "word": "aéreo",
+      "meaning_zh": "空中的；航空的",
+      "example_es": "Reservé el billete aéreo por internet.",
+      "example_zh": "我在網路上訂了機票。"
+    },
+    {
+      "word": "teñir",
+      "meaning_zh": "染色",
+      "example_es": "Mi hermana se quiere teñir el pelo de rojo.",
+      "example_zh": "我妹妹想把頭髮染成紅色。"
+    },
+    {
+      "word": "arder",
+      "meaning_zh": "燃燒；發燙",
+      "example_es": "La leña empezó a arder en la chimenea.",
+      "example_zh": "柴火在壁爐裡燒了起來。"
+    },
+    {
+      "word": "cobro",
+      "meaning_zh": "收款；收費",
+      "example_es": "El cobro se hará a final de mes.",
+      "example_zh": "費用將於月底收取。"
+    },
+    {
+      "word": "ronda",
+      "meaning_zh": "巡邏；一輪（飲料等）",
+      "example_es": "Pago yo esta ronda de cervezas.",
+      "example_zh": "這一輪啤酒我請。"
+    },
+    {
+      "word": "finca",
+      "meaning_zh": "莊園；田產；房地產",
+      "example_es": "Mis abuelos tienen una finca con árboles frutales.",
+      "example_zh": "我祖父母有一座種著果樹的莊園。"
+    },
+    {
+      "word": "parir",
+      "meaning_zh": "分娩；生產；產下",
+      "example_es": "La gata va a parir dentro de unos días.",
+      "example_zh": "這隻母貓再過幾天就要生產了。"
+    },
+    {
+      "word": "rayar",
+      "meaning_zh": "刮傷；劃線；畫條紋",
+      "example_es": "Ten cuidado de no rayar la mesa nueva.",
+      "example_zh": "小心別刮傷新桌子。"
+    },
+    {
+      "word": "basar",
+      "meaning_zh": "以……為基礎；根據；建立於",
+      "example_es": "Debes basar tus conclusiones en datos reales.",
+      "example_zh": "你應該根據真實數據得出結論。"
+    },
+    {
+      "word": "dilema",
+      "meaning_zh": "兩難；困境；進退維谷",
+      "example_es": "Estoy ante un dilema difícil de resolver.",
+      "example_zh": "我面臨一個難以解決的兩難。"
+    },
+    {
+      "word": "fértil",
+      "meaning_zh": "肥沃的；豐饒的；多產的",
+      "example_es": "Esta tierra es muy fértil para el cultivo.",
+      "example_zh": "這片土地非常適合耕種，十分肥沃。"
+    },
+    {
+      "word": "hallar",
+      "meaning_zh": "找到；發現；尋得",
+      "example_es": "No logré hallar las llaves por ninguna parte.",
+      "example_zh": "我哪裡都找不到鑰匙。"
+    },
+    {
+      "word": "brotar",
+      "meaning_zh": "發芽；萌發；湧出",
+      "example_es": "En primavera las flores empiezan a brotar.",
+      "example_zh": "春天時花朵開始發芽。"
+    },
+    {
+      "word": "oponer",
+      "meaning_zh": "使對立；反對；對抗",
+      "example_es": "No quiero oponer ninguna objeción a tu plan.",
+      "example_zh": "我不想對你的計畫提出任何反對。"
+    },
+    {
+      "word": "ayunar",
+      "meaning_zh": "禁食；齋戒；空腹",
+      "example_es": "El médico me pidió ayunar antes del análisis.",
+      "example_zh": "醫生要我在驗血前空腹。"
+    },
+    {
+      "word": "vaciar",
+      "meaning_zh": "倒空；清空；掏空",
+      "example_es": "Hay que vaciar la papelera antes de salir.",
+      "example_zh": "出門前要把垃圾桶清空。"
+    },
+    {
+      "word": "severo",
+      "meaning_zh": "嚴厲的；嚴重的；嚴格的",
+      "example_es": "El profesor es severo pero muy justo.",
+      "example_zh": "這位老師很嚴格但非常公正。"
+    },
+    {
+      "word": "sopero",
+      "meaning_zh": "湯用的；喝湯的（如湯匙、湯盤）",
+      "example_es": "Añade una cucharada sopera de aceite.",
+      "example_zh": "加入一大湯匙的油。"
+    },
+    {
+      "word": "rondar",
+      "meaning_zh": "徘徊；接近；大約",
+      "example_es": "El precio ronda los cincuenta euros.",
+      "example_zh": "價格大約在五十歐元上下。"
+    },
+    {
+      "word": "junior",
+      "meaning_zh": "資淺的；初級的；年輕的",
+      "example_es": "Contrataron a un programador junior este mes.",
+      "example_zh": "他們這個月聘了一位資淺工程師。"
+    },
+    {
+      "word": "pillar",
+      "meaning_zh": "抓住；逮到；趕上；領會（口語）",
+      "example_es": "La pregunta me pilló por sorpresa.",
+      "example_zh": "這個問題讓我措手不及。"
+    },
+    {
+      "word": "acertar",
+      "meaning_zh": "猜對；答對；選對；命中",
+      "example_es": "Acertaste con el regalo, le encantó.",
+      "example_zh": "你這禮物選對了，他很喜歡。"
+    },
+    {
+      "word": "asociar",
+      "meaning_zh": "聯想；聯繫；結合；使合夥",
+      "example_es": "Asocio ese olor con mi infancia.",
+      "example_zh": "我把那種氣味和我的童年聯想在一起。"
+    },
+    {
+      "word": "remedio",
+      "meaning_zh": "辦法；補救；藥方",
+      "example_es": "No tuve más remedio que aceptar.",
+      "example_zh": "我別無選擇只能接受。"
+    },
+    {
+      "word": "radical",
+      "meaning_zh": "激進的；徹底的；根本的",
+      "example_es": "Propusieron un cambio radical en la empresa.",
+      "example_zh": "他們提出對公司進行徹底的改變。"
+    },
+    {
+      "word": "sumarse",
+      "meaning_zh": "加入；參與；附和",
+      "example_es": "Muchos quisieron sumarse a la iniciativa.",
+      "example_zh": "許多人想加入這項倡議。"
+    },
+    {
+      "word": "equipar",
+      "meaning_zh": "配備；裝備；裝設",
+      "example_es": "La cocina viene equipada con horno y nevera.",
+      "example_zh": "廚房已配備烤箱和冰箱。"
+    },
+    {
+      "word": "influir",
+      "meaning_zh": "影響",
+      "example_es": "El clima influye en mi estado de ánimo.",
+      "example_zh": "天氣會影響我的心情。"
+    },
+    {
+      "word": "reclamo",
+      "meaning_zh": "要求；申訴；招攬",
+      "example_es": "Presenté un reclamo por el mal servicio.",
+      "example_zh": "我針對糟糕的服務提出了申訴。"
+    },
+    {
+      "word": "sensato",
+      "meaning_zh": "明智的；理智的",
+      "example_es": "Tomar un taxi de noche es lo más sensato.",
+      "example_zh": "晚上搭計程車是最明智的做法。"
+    },
+    {
+      "word": "nórdico",
+      "meaning_zh": "北歐的",
+      "example_es": "Me gusta el diseño nórdico de los muebles.",
+      "example_zh": "我喜歡家具的北歐設計風格。"
+    },
+    {
+      "word": "exhibir",
+      "meaning_zh": "展示；炫耀",
+      "example_es": "El museo va a exhibir obras nuevas.",
+      "example_zh": "博物館將展出新作品。"
+    },
+    {
+      "word": "parcela",
+      "meaning_zh": "地塊；小塊土地",
+      "example_es": "Compraron una parcela para construir su casa.",
+      "example_zh": "他們買了一塊地來蓋房子。"
+    },
+    {
+      "word": "saturar",
+      "meaning_zh": "使飽和；使擁擠",
+      "example_es": "Los anuncios saturan la televisión.",
+      "example_zh": "廣告塞滿了電視。"
+    },
+    {
+      "word": "teórico",
+      "meaning_zh": "理論的",
+      "example_es": "El examen tiene una parte teórica y otra práctica.",
+      "example_zh": "考試分理論部分和實作部分。"
+    },
+    {
+      "word": "alterar",
+      "meaning_zh": "改變；擾亂",
+      "example_es": "No quiero alterar nuestros planes.",
+      "example_zh": "我不想打亂我們的計畫。"
+    },
+    {
+      "word": "desviar",
+      "meaning_zh": "使轉向；改道",
+      "example_es": "La policía desvió el tráfico por otra calle.",
+      "example_zh": "警察把車流引導到另一條街。"
+    },
+    {
+      "word": "borroso",
+      "meaning_zh": "模糊的",
+      "example_es": "La foto salió un poco borrosa.",
+      "example_zh": "這張照片拍得有點模糊。"
+    },
+    {
+      "word": "canario",
+      "meaning_zh": "加那利的；金絲雀",
+      "example_es": "El plátano canario es muy dulce.",
+      "example_zh": "加那利香蕉非常甜。"
+    },
+    {
+      "word": "bordado",
+      "meaning_zh": "刺繡",
+      "example_es": "La blusa tiene un bordado de flores.",
+      "example_zh": "這件上衣有花朵刺繡。"
+    },
+    {
+      "word": "castaño",
+      "meaning_zh": "栗色的；栗樹",
+      "example_es": "Tiene el pelo castaño y los ojos verdes.",
+      "example_zh": "她有栗色的頭髮和綠色的眼睛。"
+    },
+    {
+      "word": "retocar",
+      "meaning_zh": "修飾；潤色（照片等）",
+      "example_es": "Voy a retocar la foto antes de subirla.",
+      "example_zh": "我要先修圖再上傳。"
+    },
+    {
+      "word": "cálculo",
+      "meaning_zh": "計算；估算",
+      "example_es": "Según mis cálculos, llegaremos a las cinco.",
+      "example_zh": "根據我的計算，我們五點會到。"
+    },
+    {
+      "word": "lateral",
+      "meaning_zh": "側面的；旁邊的",
+      "example_es": "Salimos por la puerta lateral.",
+      "example_zh": "我們從側門出去。"
+    },
+    {
+      "word": "bárbaro",
+      "meaning_zh": "野蠻的；（口語）超棒的",
+      "example_es": "Pasamos un fin de semana bárbaro.",
+      "example_zh": "我們度過了一個超棒的週末。"
+    },
+    {
+      "word": "empinado",
+      "meaning_zh": "陡峭的",
+      "example_es": "La calle hacia la iglesia es muy empinada.",
+      "example_zh": "通往教堂的那條街很陡。"
+    },
+    {
+      "word": "rotación",
+      "meaning_zh": "輪替；旋轉；流動率",
+      "example_es": "La empresa tiene mucha rotación de personal.",
+      "example_zh": "這家公司的人員流動率很高。"
+    },
+    {
+      "word": "derivado",
+      "meaning_zh": "衍生的；衍生物",
+      "example_es": "Este producto es un derivado de la leche.",
+      "example_zh": "這個產品是牛奶的衍生物。"
+    },
+    {
+      "word": "percibir",
+      "meaning_zh": "察覺；感知",
+      "example_es": "Percibo cierta tristeza en su voz.",
+      "example_zh": "我察覺到他聲音裡有些悲傷。"
+    },
+    {
+      "word": "paralelo",
+      "meaning_zh": "平行的",
+      "example_es": "Las dos calles son paralelas.",
+      "example_zh": "這兩條街是平行的。"
+    },
+    {
+      "word": "renuncia",
+      "meaning_zh": "放棄；辭職",
+      "example_es": "Presentó su renuncia al director.",
+      "example_zh": "他向主管遞交了辭呈。"
+    },
+    {
+      "word": "cerrarse",
+      "meaning_zh": "關閉；癒合",
+      "example_es": "La herida tarda en cerrarse.",
+      "example_zh": "傷口需要時間才能癒合。"
+    },
+    {
+      "word": "operador",
+      "meaning_zh": "操作員；電信業者",
+      "example_es": "Cambié de operador para pagar menos.",
+      "example_zh": "我換了電信業者以節省費用。"
+    },
+    {
+      "word": "voluntad",
+      "meaning_zh": "意志；意願",
+      "example_es": "Lo hizo por su propia voluntad.",
+      "example_zh": "他是出於自己的意願做的。"
+    },
+    {
+      "word": "pedalear",
+      "meaning_zh": "踩踏板；騎車",
+      "example_es": "Pedaleamos toda la mañana por el parque.",
+      "example_zh": "我們整個早上在公園裡騎車。"
+    },
+    {
+      "word": "expulsar",
+      "meaning_zh": "驅逐；排出",
+      "example_es": "Lo expulsaron del partido por una falta grave.",
+      "example_zh": "他因嚴重犯規被逐出比賽。"
+    },
+    {
+      "word": "estricto",
+      "meaning_zh": "嚴格的",
+      "example_es": "Mi profesor es muy estricto con la puntualidad.",
+      "example_zh": "我的老師對守時非常嚴格。"
+    },
+    {
+      "word": "multitud",
+      "meaning_zh": "人群；眾多",
+      "example_es": "Una multitud esperaba en la plaza.",
+      "example_zh": "一群人在廣場上等候。"
+    },
+    {
+      "word": "dialogar",
+      "meaning_zh": "對話；協商",
+      "example_es": "Es mejor dialogar que discutir.",
+      "example_zh": "對話比爭吵更好。"
+    },
+    {
+      "word": "disolver",
+      "meaning_zh": "溶解；解散",
+      "example_es": "Disuelve el azúcar en el agua caliente.",
+      "example_zh": "把糖溶解在熱水裡。"
+    },
+    {
+      "word": "recogida",
+      "meaning_zh": "收集；領取",
+      "example_es": "La recogida de equipajes está en la planta baja.",
+      "example_zh": "行李提領處在一樓。"
+    },
+    {
+      "word": "agrícola",
+      "meaning_zh": "農業的",
+      "example_es": "La región tiene una fuerte actividad agrícola.",
+      "example_zh": "這個地區農業活動很興盛。"
+    },
+    {
+      "word": "promedio",
+      "meaning_zh": "平均；平均值",
+      "example_es": "El promedio de la clase fue muy alto.",
+      "example_zh": "全班的平均分數很高。"
+    },
+    {
+      "word": "imprenta",
+      "meaning_zh": "印刷；印刷廠",
+      "example_es": "Llevamos los carteles a la imprenta.",
+      "example_zh": "我們把海報送去印刷廠。"
+    },
+    {
+      "word": "cumplido",
+      "meaning_zh": "已完成的；恭維話",
+      "example_es": "Me hizo un cumplido sobre mi vestido.",
+      "example_zh": "他誇讚了我的洋裝。"
+    },
+    {
+      "word": "discreto",
+      "meaning_zh": "謹慎的；低調的",
+      "example_es": "Es muy discreto y nunca habla de más.",
+      "example_zh": "他很謹慎，從不多嘴。"
+    },
+    {
+      "word": "contorno",
+      "meaning_zh": "輪廓；周邊",
+      "example_es": "Dibuja el contorno de la figura.",
+      "example_zh": "畫出圖形的輪廓。"
+    },
+    {
+      "word": "archivar",
+      "meaning_zh": "歸檔；存檔",
+      "example_es": "Archivé los documentos por fecha.",
+      "example_zh": "我按日期把文件歸檔。"
+    },
+    {
+      "word": "atrevido",
+      "meaning_zh": "大膽的；冒失的",
+      "example_es": "Llevaba un vestido muy atrevido a la fiesta.",
+      "example_zh": "她穿了一件很大膽的洋裝去派對。"
+    },
+    {
+      "word": "orientar",
+      "meaning_zh": "引導；定位",
+      "example_es": "El guía nos orientó por la ciudad.",
+      "example_zh": "導遊帶我們認識了這座城市。"
+    },
+    {
+      "word": "procesar",
+      "meaning_zh": "處理；加工",
+      "example_es": "El ordenador tarda en procesar los datos.",
+      "example_zh": "電腦處理這些資料需要一些時間。"
+    },
+    {
+      "word": "impartir",
+      "meaning_zh": "教授；傳授",
+      "example_es": "Mi tía imparte clases de música los sábados.",
+      "example_zh": "我阿姨週六教音樂課。"
+    },
+    {
+      "word": "encerrar",
+      "meaning_zh": "關起來；包含",
+      "example_es": "No es bueno encerrar al perro todo el día.",
+      "example_zh": "把狗整天關著並不好。"
+    },
+    {
+      "word": "asamblea",
+      "meaning_zh": "大會；集會",
+      "example_es": "La asamblea del barrio se reúne cada mes.",
+      "example_zh": "社區大會每個月開一次。"
+    },
+    {
+      "word": "conceder",
+      "meaning_zh": "給予；承認",
+      "example_es": "El banco le concedió un préstamo.",
+      "example_zh": "銀行批准給了他一筆貸款。"
+    },
+    {
+      "word": "explotar",
+      "meaning_zh": "開發利用；爆炸",
+      "example_es": "La empresa quiere explotar esa mina de oro.",
+      "example_zh": "那家公司想開採那座金礦。"
+    },
+    {
+      "word": "circuito",
+      "meaning_zh": "迴路；環線",
+      "example_es": "El circuito de carreras está cerca del pueblo.",
+      "example_zh": "賽車跑道就在村子附近。"
+    },
+    {
+      "word": "educador",
+      "meaning_zh": "教育者",
+      "example_es": "Un buen educador escucha a sus alumnos.",
+      "example_zh": "一位好的教育者會傾聽學生。"
+    },
+    {
+      "word": "arruinar",
+      "meaning_zh": "毀掉；使破產",
+      "example_es": "La lluvia arruinó nuestro picnic.",
+      "example_zh": "那場雨毀了我們的野餐。"
+    },
+    {
+      "word": "ejecutar",
+      "meaning_zh": "執行；演奏",
+      "example_es": "El programa ejecuta la tarea en pocos segundos.",
+      "example_zh": "這個程式在幾秒內就執行完任務。"
+    },
+    {
+      "word": "espacial",
+      "meaning_zh": "空間的；太空的",
+      "example_es": "La estación espacial orbita la Tierra.",
+      "example_zh": "太空站繞著地球運行。"
+    },
+    {
+      "word": "sospecha",
+      "meaning_zh": "懷疑；猜疑",
+      "example_es": "Tengo la sospecha de que algo va mal.",
+      "example_zh": "我懷疑有什麼不對勁。"
+    },
+    {
+      "word": "aplastar",
+      "meaning_zh": "壓扁；壓垮",
+      "example_es": "No pongas el pan abajo, que se aplasta.",
+      "example_zh": "別把麵包放在下面，會壓扁。"
+    },
+    {
+      "word": "catering",
+      "meaning_zh": "外燴；餐飲服務",
+      "example_es": "Contratamos un catering para la boda.",
+      "example_zh": "我們為婚禮請了外燴服務。"
+    },
+    {
+      "word": "despegue",
+      "meaning_zh": "起飛；起步",
+      "example_es": "El despegue del avión se retrasó una hora.",
+      "example_zh": "飛機起飛延誤了一個小時。"
+    },
+    {
+      "word": "desigual",
+      "meaning_zh": "不平等的；不均勻的",
+      "example_es": "El reparto del dinero fue muy desigual.",
+      "example_zh": "錢的分配非常不平等。"
+    },
+    {
+      "word": "proyectar",
+      "meaning_zh": "投射；規劃",
+      "example_es": "Vamos a proyectar la película en el patio.",
+      "example_zh": "我們要在院子裡放映這部電影。"
+    },
+    {
+      "word": "literario",
+      "meaning_zh": "文學的",
+      "example_es": "Ganó un premio literario muy importante.",
+      "example_zh": "他得了一個很重要的文學獎。"
+    },
+    {
+      "word": "académico",
+      "meaning_zh": "學術的；學業的",
+      "example_es": "Publicó su trabajo en una revista académica.",
+      "example_zh": "他把研究發表在一本學術期刊上。"
+    },
+    {
+      "word": "notificar",
+      "meaning_zh": "通知；告知",
+      "example_es": "Debes notificar el cambio de dirección.",
+      "example_zh": "你必須通報地址的變更。"
+    },
+    {
+      "word": "semejante",
+      "meaning_zh": "相似的；如此的",
+      "example_es": "Nunca había visto algo semejante.",
+      "example_zh": "我從沒看過這樣的東西。"
+    },
+    {
+      "word": "exclusivo",
+      "meaning_zh": "獨家的；專屬的",
+      "example_es": "Es un club exclusivo para socios.",
+      "example_zh": "這是一間只對會員開放的俱樂部。"
+    },
+    {
+      "word": "residente",
+      "meaning_zh": "居民；住院醫師",
+      "example_es": "Los residentes del edificio pagan una cuota mensual.",
+      "example_zh": "這棟樓的住戶每月繳一筆費用。"
+    },
+    {
+      "word": "posterior",
+      "meaning_zh": "後來的；後面的",
+      "example_es": "Hablaremos de eso en una reunión posterior.",
+      "example_zh": "我們會在之後的會議談這件事。"
+    },
+    {
+      "word": "depositar",
+      "meaning_zh": "存放；寄託",
+      "example_es": "Voy a depositar el dinero en el banco.",
+      "example_zh": "我要把錢存進銀行。"
+    },
+    {
+      "word": "dominante",
+      "meaning_zh": "占主導的；支配的",
+      "example_es": "El inglés es la lengua dominante en internet.",
+      "example_zh": "英文是網路上的主導語言。"
+    },
+    {
+      "word": "apresurar",
+      "meaning_zh": "加快；催促",
+      "example_es": "No te apresures, tenemos tiempo de sobra.",
+      "example_zh": "別急，我們時間很充裕。"
+    },
+    {
+      "word": "descontar",
+      "meaning_zh": "折扣；扣除",
+      "example_es": "Te van a descontar el importe del recibo.",
+      "example_zh": "他們會從帳單裡扣掉那筆金額。"
+    },
+    {
+      "word": "expresivo",
+      "meaning_zh": "富有表現力的",
+      "example_es": "Tiene una cara muy expresiva.",
+      "example_zh": "他的臉很有表情。"
+    },
+    {
+      "word": "apasionar",
+      "meaning_zh": "使熱衷；使著迷",
+      "example_es": "Le apasiona la astronomía desde niño.",
+      "example_zh": "他從小就對天文學著迷。"
+    },
+    {
+      "word": "contraste",
+      "meaning_zh": "對比；對照",
+      "example_es": "Hay un gran contraste entre las dos ciudades.",
+      "example_zh": "這兩座城市之間有很大的對比。"
+    },
+    {
+      "word": "llamativo",
+      "meaning_zh": "引人注目的；醒目的",
+      "example_es": "Llevaba un sombrero muy llamativo.",
+      "example_zh": "他戴著一頂非常醒目的帽子。"
+    },
+    {
+      "word": "sustituto",
+      "meaning_zh": "替代品；代理人",
+      "example_es": "El azúcar moreno es un buen sustituto del blanco.",
+      "example_zh": "黑糖是白糖的好替代品。"
+    },
+    {
+      "word": "electoral",
+      "meaning_zh": "選舉的",
+      "example_es": "La campaña electoral empieza la semana que viene.",
+      "example_zh": "選舉造勢活動下週開始。"
+    },
+    {
+      "word": "comprimir",
+      "meaning_zh": "壓縮；擠壓",
+      "example_es": "Comprimí la ropa para que cupiera en la maleta.",
+      "example_zh": "我把衣服壓緊好讓它塞進行李箱。"
+    },
+    {
+      "word": "dispersar",
+      "meaning_zh": "驅散；使分散",
+      "example_es": "El viento dispersó las hojas por todo el jardín.",
+      "example_zh": "風把樹葉吹散到整個花園裡。"
+    },
+    {
+      "word": "silenciar",
+      "meaning_zh": "使沉默；消音；隱瞞",
+      "example_es": "Por favor, silencia el móvil antes de la reunión.",
+      "example_zh": "開會前請把手機調成靜音。"
+    },
+    {
+      "word": "optimizar",
+      "meaning_zh": "優化；使最佳化",
+      "example_es": "La empresa quiere optimizar el uso del tiempo.",
+      "example_zh": "公司想要優化時間的運用。"
+    },
+    {
+      "word": "explícito",
+      "meaning_zh": "明確的；清楚表明的",
+      "example_es": "Dame un permiso explícito antes de usar tus fotos.",
+      "example_zh": "在使用你的照片前，請給我明確的許可。"
+    },
+    {
+      "word": "aplicable",
+      "meaning_zh": "適用的；可應用的",
+      "example_es": "Esta norma es aplicable a todos los empleados.",
+      "example_zh": "這項規定適用於所有員工。"
+    },
+    {
+      "word": "localizar",
+      "meaning_zh": "找到；定位",
+      "example_es": "No consigo localizar mis llaves esta mañana.",
+      "example_zh": "今天早上我找不到我的鑰匙。"
+    },
+    {
+      "word": "partidario",
+      "meaning_zh": "支持者；擁護的",
+      "example_es": "Soy partidario de viajar en tren cuando es posible.",
+      "example_zh": "只要可能，我都贊成搭火車旅行。"
+    },
+    {
+      "word": "reescribir",
+      "meaning_zh": "重寫；改寫",
+      "example_es": "El autor decidió reescribir el final de la novela.",
+      "example_zh": "作者決定重寫這部小說的結尾。"
+    },
+    {
+      "word": "disolverse",
+      "meaning_zh": "溶解；解散",
+      "example_es": "El azúcar tarda poco en disolverse en el agua caliente.",
+      "example_zh": "糖在熱水裡很快就溶解了。"
+    },
+    {
+      "word": "coordenada",
+      "meaning_zh": "座標",
+      "example_es": "Apunta las coordenadas exactas en el mapa.",
+      "example_zh": "把確切的座標標在地圖上。"
+    },
+    {
+      "word": "dificultar",
+      "meaning_zh": "使困難；妨礙",
+      "example_es": "La lluvia puede dificultar mucho el viaje.",
+      "example_zh": "下雨可能會大大增加旅途的困難。"
+    },
+    {
+      "word": "analgésico",
+      "meaning_zh": "止痛藥；止痛的",
+      "example_es": "El médico me recetó un analgésico para el dolor.",
+      "example_zh": "醫生開了一種止痛藥給我緩解疼痛。"
+    },
+    {
+      "word": "prometedor",
+      "meaning_zh": "有前途的；有希望的",
+      "example_es": "El joven cantante tiene un futuro muy prometedor.",
+      "example_zh": "這位年輕歌手有著非常光明的前途。"
+    },
+    {
+      "word": "proporción",
+      "meaning_zh": "比例；比重",
+      "example_es": "Mezcla la harina y el agua en la misma proporción.",
+      "example_zh": "把麵粉和水以相同的比例混合。"
+    },
+    {
+      "word": "sostenerse",
+      "meaning_zh": "支撐自己；維持",
+      "example_es": "El anciano apenas podía sostenerse de pie.",
+      "example_zh": "那位老人幾乎站不穩。"
+    },
+    {
+      "word": "intensidad",
+      "meaning_zh": "強度；強烈程度",
+      "example_es": "La lluvia cayó con gran intensidad toda la noche.",
+      "example_zh": "雨整夜都下得很大。"
+    },
+    {
+      "word": "revolución",
+      "meaning_zh": "革命；劇變；旋轉",
+      "example_es": "Internet supuso una verdadera revolución social.",
+      "example_zh": "網際網路帶來了一場真正的社會革命。"
+    },
+    {
+      "word": "fabricante",
+      "meaning_zh": "製造商；廠商",
+      "example_es": "El fabricante ofrece dos años de garantía.",
+      "example_zh": "製造商提供兩年的保固。"
+    },
+    {
+      "word": "comprimido",
+      "meaning_zh": "藥片；壓縮的",
+      "example_es": "Toma un comprimido después de cada comida.",
+      "example_zh": "每餐飯後服用一顆藥片。"
+    },
+    {
+      "word": "antigüedad",
+      "meaning_zh": "古董；古老；年資",
+      "example_es": "En este mercado venden muebles de antigüedad.",
+      "example_zh": "這個市場販售古董家具。"
+    },
+    {
+      "word": "competitivo",
+      "meaning_zh": "競爭的；有競爭力的",
+      "example_es": "El mercado de los móviles es muy competitivo.",
+      "example_zh": "手機市場競爭非常激烈。"
+    },
+    {
+      "word": "provisional",
+      "meaning_zh": "暫時的；臨時的",
+      "example_es": "El dentista me puso un empaste provisional.",
+      "example_zh": "牙醫幫我做了一個臨時的補牙。"
+    },
+    {
+      "word": "mentalmente",
+      "meaning_zh": "在心裡；精神上地",
+      "example_es": "Calculé el precio mentalmente antes de pagar.",
+      "example_zh": "付錢前我在心裡算了一下價錢。"
+    },
+    {
+      "word": "fabricación",
+      "meaning_zh": "製造；生產",
+      "example_es": "La fabricación de este coche tarda varios días.",
+      "example_zh": "這款車的製造需要好幾天。"
+    },
+    {
+      "word": "conveniente",
+      "meaning_zh": "適當的；合適的",
+      "example_es": "Sería conveniente llegar pronto a la estación.",
+      "example_zh": "提早到車站會比較合適。"
+    },
+    {
+      "word": "formalmente",
+      "meaning_zh": "正式地",
+      "example_es": "La jefa nos presentó formalmente al nuevo equipo.",
+      "example_zh": "主管正式地向新團隊介紹了我們。"
+    },
+    {
+      "word": "sentimental",
+      "meaning_zh": "感傷的；情感的",
+      "example_es": "Mi abuela guarda un valor sentimental en esas cartas.",
+      "example_zh": "我奶奶把那些信當作情感上的珍寶。"
+    },
+    {
+      "word": "naturalidad",
+      "meaning_zh": "自然；不做作",
+      "example_es": "Habló con mucha naturalidad delante del público.",
+      "example_zh": "他在觀眾面前說話非常自然。"
+    },
+    {
+      "word": "descubierto",
+      "meaning_zh": "被發現的；裸露的",
+      "example_es": "El tesoro fue descubierto bajo el viejo árbol.",
+      "example_zh": "那寶藏在老樹底下被發現了。"
+    },
+    {
+      "word": "cooperativa",
+      "meaning_zh": "合作社",
+      "example_es": "Los agricultores formaron una cooperativa para vender sus frutas.",
+      "example_zh": "農民們成立了一個合作社來賣他們的水果。"
+    },
+    {
+      "word": "prohibición",
+      "meaning_zh": "禁止；禁令",
+      "example_es": "Hay una prohibición de fumar en el parque.",
+      "example_zh": "公園裡禁止吸菸。"
+    },
+    {
+      "word": "exploración",
+      "meaning_zh": "探索；探查",
+      "example_es": "El médico empezó la exploración del abdomen.",
+      "example_zh": "醫生開始檢查腹部。"
+    },
+    {
+      "word": "preocupante",
+      "meaning_zh": "令人擔憂的",
+      "example_es": "La falta de lluvia este año es preocupante.",
+      "example_zh": "今年缺雨的情況令人擔憂。"
     }
   ],
   "dc1": [
@@ -56725,6 +60823,1062 @@
       "meaning_zh": "(動詞) 延長；拉長",
       "example_es": "Queríamos prolongar la sensación de calma.",
       "example_zh": "我們想延長那份平靜的感覺。"
+    },
+    {
+      "word": "cabrío",
+      "meaning_zh": "(形容詞) 山羊的（ganado cabrío 山羊群）",
+      "example_es": "En esa granja crían ganado cabrío para hacer queso.",
+      "example_zh": "那座農場養山羊用來做起司。"
+    },
+    {
+      "word": "doliente",
+      "meaning_zh": "(形容詞／名詞) 哀痛的；居喪的人",
+      "example_es": "El doliente recibió el apoyo de toda su familia.",
+      "example_zh": "這位居喪者得到了全家人的支持。"
+    },
+    {
+      "word": "retomar",
+      "meaning_zh": "重新開始；接續",
+      "example_es": "Después del descanso retomamos la reunión.",
+      "example_zh": "休息之後我們繼續開會。"
+    },
+    {
+      "word": "ingenuo",
+      "meaning_zh": "天真的；單純的",
+      "example_es": "Es un poco ingenuo y se cree todo.",
+      "example_zh": "他有點天真，什麼都相信。"
+    },
+    {
+      "word": "constar",
+      "meaning_zh": "確知；記載於",
+      "example_es": "Me consta que ella llegó a tiempo.",
+      "example_zh": "我確知她準時到了。"
+    },
+    {
+      "word": "genética",
+      "meaning_zh": "遺傳學",
+      "example_es": "La genética estudia cómo heredamos los rasgos.",
+      "example_zh": "遺傳學研究我們如何遺傳特徵。"
+    },
+    {
+      "word": "ajeno",
+      "meaning_zh": "他人的；不相干的",
+      "example_es": "No te metas en asuntos ajenos.",
+      "example_zh": "別插手別人的事。"
+    },
+    {
+      "word": "antaño",
+      "meaning_zh": "昔日；從前",
+      "example_es": "Antaño este pueblo era muy próspero.",
+      "example_zh": "從前這個村莊非常繁榮。"
+    },
+    {
+      "word": "vecinal",
+      "meaning_zh": "鄰里的；社區的",
+      "example_es": "La asociación vecinal organiza una fiesta.",
+      "example_zh": "社區協會舉辦了一場派對。"
+    },
+    {
+      "word": "carecer",
+      "meaning_zh": "缺乏；沒有",
+      "example_es": "El piso carece de calefacción.",
+      "example_zh": "這間公寓沒有暖氣。"
+    },
+    {
+      "word": "formular",
+      "meaning_zh": "提出；陳述（問題等）",
+      "example_es": "Quiero formular una pregunta al profesor.",
+      "example_zh": "我想向老師提一個問題。"
+    },
+    {
+      "word": "legítimo",
+      "meaning_zh": "合法的；正當的",
+      "example_es": "Tienes un derecho legítimo a protestar.",
+      "example_zh": "你有正當的權利去抗議。"
+    },
+    {
+      "word": "documentar",
+      "meaning_zh": "記錄；提供文件證明",
+      "example_es": "El periodista documentó todo el viaje.",
+      "example_zh": "記者記錄了整趟旅程。"
+    },
+    {
+      "word": "testimonio",
+      "meaning_zh": "證詞；見證",
+      "example_es": "Su testimonio fue clave en el juicio.",
+      "example_zh": "他的證詞在審判中至關重要。"
+    },
+    {
+      "word": "implicación",
+      "meaning_zh": "牽連；含意；參與",
+      "example_es": "Esta decisión tiene muchas implicaciones.",
+      "example_zh": "這個決定有許多含意。"
+    },
+    {
+      "word": "reconstruir",
+      "meaning_zh": "重建；重構",
+      "example_es": "Van a reconstruir el viejo teatro.",
+      "example_zh": "他們要重建這座舊劇院。"
+    },
+    {
+      "word": "especializar",
+      "meaning_zh": "使專精；專攻",
+      "example_es": "Se especializó en medicina infantil.",
+      "example_zh": "她專攻兒科醫學。"
+    },
+    {
+      "word": "publicitario",
+      "meaning_zh": "廣告的",
+      "example_es": "La campaña publicitaria del coche apareció en todos los canales.",
+      "example_zh": "那輛車的廣告活動出現在所有頻道上。"
+    },
+    {
+      "word": "yodo",
+      "meaning_zh": "碘",
+      "example_es": "El médico me limpió la herida con yodo.",
+      "example_zh": "醫生用碘幫我清理傷口。"
+    },
+    {
+      "word": "recaer",
+      "meaning_zh": "落到（責任）；復發",
+      "example_es": "Toda la responsabilidad recae sobre ella.",
+      "example_zh": "所有的責任都落在她身上。"
+    },
+    {
+      "word": "reabrir",
+      "meaning_zh": "重新開啟",
+      "example_es": "La tienda va a reabrir tras las reformas.",
+      "example_zh": "商店整修後將重新開業。"
+    },
+    {
+      "word": "adecuar",
+      "meaning_zh": "使適應；調整",
+      "example_es": "Hay que adecuar el horario a las clases.",
+      "example_zh": "必須把時間表調整成配合課程。"
+    },
+    {
+      "word": "pliegue",
+      "meaning_zh": "褶皺",
+      "example_es": "La falda tenía pliegues muy elegantes.",
+      "example_zh": "那條裙子有非常優雅的褶皺。"
+    },
+    {
+      "word": "jurídico",
+      "meaning_zh": "法律的",
+      "example_es": "Necesitamos asesoramiento jurídico para el contrato.",
+      "example_zh": "我們需要法律諮詢來處理這份合約。"
+    },
+    {
+      "word": "revertir",
+      "meaning_zh": "逆轉；恢復",
+      "example_es": "Es difícil revertir los daños del medio ambiente.",
+      "example_zh": "要逆轉環境的損害很困難。"
+    },
+    {
+      "word": "afectivo",
+      "meaning_zh": "情感的",
+      "example_es": "El vínculo afectivo entre ellos es muy fuerte.",
+      "example_zh": "他們之間的情感連結非常深厚。"
+    },
+    {
+      "word": "disolución",
+      "meaning_zh": "解散；溶解",
+      "example_es": "Anunciaron la disolución de la empresa el lunes.",
+      "example_zh": "他們在星期一宣布公司解散。"
+    },
+    {
+      "word": "comunitario",
+      "meaning_zh": "社區的；共同體的",
+      "example_es": "Organizan un huerto comunitario en el barrio.",
+      "example_zh": "他們在社區裡經營一座共享菜園。"
+    },
+    {
+      "word": "estilístico",
+      "meaning_zh": "風格的",
+      "example_es": "El autor hizo un cambio estilístico en su última novela.",
+      "example_zh": "作者在最新的小說中做了風格上的轉變。"
+    },
+    {
+      "word": "sonoro",
+      "meaning_zh": "響亮的；聲音的",
+      "example_es": "La sala tiene un aislamiento sonoro excelente.",
+      "example_zh": "這個房間有極佳的隔音效果。"
+    },
+    {
+      "word": "inédito",
+      "meaning_zh": "未發表的；前所未有的",
+      "example_es": "Publicaron un poema inédito del autor.",
+      "example_zh": "他們發表了這位作者一首從未出版的詩。"
+    },
+    {
+      "word": "pionero",
+      "meaning_zh": "先驅；開拓者",
+      "example_es": "Fue un pionero en la investigación médica.",
+      "example_zh": "他是醫學研究的先驅。"
+    },
+    {
+      "word": "embrión",
+      "meaning_zh": "胚胎；萌芽",
+      "example_es": "El proyecto está todavía en estado de embrión.",
+      "example_zh": "這個專案還處於萌芽階段。"
+    },
+    {
+      "word": "métrica",
+      "meaning_zh": "指標；度量",
+      "example_es": "Analizamos las métricas de ventas cada mes.",
+      "example_zh": "我們每個月分析銷售指標。"
+    },
+    {
+      "word": "textual",
+      "meaning_zh": "文本的；逐字的",
+      "example_es": "Hizo una cita textual del discurso.",
+      "example_zh": "他逐字引用了那段演說。"
+    },
+    {
+      "word": "enunciar",
+      "meaning_zh": "陳述；表述",
+      "example_es": "El profesor enunció la regla con claridad.",
+      "example_zh": "老師清楚地陳述了規則。"
+    },
+    {
+      "word": "insinuar",
+      "meaning_zh": "暗示；影射",
+      "example_es": "No quise insinuar nada con eso.",
+      "example_zh": "我那樣說沒有任何暗示的意思。"
+    },
+    {
+      "word": "accionar",
+      "meaning_zh": "啟動；操作（裝置）",
+      "example_es": "Para abrir, hay que accionar esta palanca.",
+      "example_zh": "要打開的話，得扳動這根操縱桿。"
+    },
+    {
+      "word": "seriedad",
+      "meaning_zh": "嚴肅；認真",
+      "example_es": "Trata el asunto con mucha seriedad.",
+      "example_zh": "他非常認真地對待這件事。"
+    },
+    {
+      "word": "salarial",
+      "meaning_zh": "薪資的；工資的",
+      "example_es": "Pidieron una subida salarial.",
+      "example_zh": "他們要求調漲薪資。"
+    },
+    {
+      "word": "cineasta",
+      "meaning_zh": "電影工作者；導演",
+      "example_es": "Es un cineasta muy reconocido.",
+      "example_zh": "他是一位很受認可的電影導演。"
+    },
+    {
+      "word": "fricción",
+      "meaning_zh": "摩擦；衝突",
+      "example_es": "Hubo cierta fricción entre los dos equipos.",
+      "example_zh": "兩個團隊之間有些摩擦。"
+    },
+    {
+      "word": "someterse",
+      "meaning_zh": "服從；接受（檢查、程序）",
+      "example_es": "Tuvo que someterse a una operación.",
+      "example_zh": "他不得不接受一場手術。"
+    },
+    {
+      "word": "consultor",
+      "meaning_zh": "顧問",
+      "example_es": "Contrataron a un consultor externo.",
+      "example_zh": "他們聘請了一位外部顧問。"
+    },
+    {
+      "word": "desbordar",
+      "meaning_zh": "溢出；超出（限度）",
+      "example_es": "El río se desbordó tras la tormenta.",
+      "example_zh": "暴風雨後河水氾濫了。"
+    },
+    {
+      "word": "enunciado",
+      "meaning_zh": "陳述（句）；題目敘述",
+      "example_es": "Lee bien el enunciado del problema.",
+      "example_zh": "仔細讀題目的敘述。"
+    },
+    {
+      "word": "habitable",
+      "meaning_zh": "可居住的；宜居的",
+      "example_es": "La casa ya está habitable tras la reforma.",
+      "example_zh": "整修後這間房子已經可以住人了。"
+    },
+    {
+      "word": "parpadear",
+      "meaning_zh": "眨眼；（燈光）閃爍",
+      "example_es": "La luz del router parpadea sin parar.",
+      "example_zh": "路由器的燈一直閃個不停。"
+    },
+    {
+      "word": "impecable",
+      "meaning_zh": "無可挑剔的；完美的",
+      "example_es": "Llevaba un traje impecable.",
+      "example_zh": "他穿著一套無可挑剔的西裝。"
+    },
+    {
+      "word": "redefinir",
+      "meaning_zh": "重新定義",
+      "example_es": "La empresa quiere redefinir su estrategia.",
+      "example_zh": "公司想重新定義它的策略。"
+    },
+    {
+      "word": "salvación",
+      "meaning_zh": "拯救；救贖",
+      "example_es": "Esa idea fue su salvación.",
+      "example_zh": "那個點子救了他。"
+    },
+    {
+      "word": "suministro",
+      "meaning_zh": "供應；供給",
+      "example_es": "Cortaron el suministro de agua una hora.",
+      "example_zh": "他們把供水中斷了一小時。"
+    },
+    {
+      "word": "reputación",
+      "meaning_zh": "名聲；聲譽",
+      "example_es": "La empresa cuida mucho su reputación.",
+      "example_zh": "這家公司很重視自己的聲譽。"
+    },
+    {
+      "word": "preliminar",
+      "meaning_zh": "初步的；預備的",
+      "example_es": "Hicimos un análisis preliminar de los datos.",
+      "example_zh": "我們對資料做了初步分析。"
+    },
+    {
+      "word": "cicatrizar",
+      "meaning_zh": "癒合；結痂",
+      "example_es": "La herida tardó en cicatrizar.",
+      "example_zh": "傷口過了一陣子才癒合。"
+    },
+    {
+      "word": "saturación",
+      "meaning_zh": "飽和；過剩",
+      "example_es": "Hay saturación de tiendas en esta calle.",
+      "example_zh": "這條街上的商店過多了。"
+    },
+    {
+      "word": "comparable",
+      "meaning_zh": "可比較的；相當的",
+      "example_es": "Su talento no es comparable con el de nadie.",
+      "example_zh": "他的才華無人能比。"
+    },
+    {
+      "word": "procedente",
+      "meaning_zh": "來自…的；起源於…的",
+      "example_es": "Llega el vuelo procedente de Madrid.",
+      "example_zh": "來自馬德里的航班即將抵達。"
+    },
+    {
+      "word": "empobrecer",
+      "meaning_zh": "使貧窮；使貧乏",
+      "example_es": "La crisis empobreció a muchas familias.",
+      "example_zh": "這場危機使許多家庭變得貧困。"
+    },
+    {
+      "word": "filosófico",
+      "meaning_zh": "哲學的",
+      "example_es": "Mantuvimos un debate filosófico interesante.",
+      "example_zh": "我們進行了一場有趣的哲學辯論。"
+    },
+    {
+      "word": "modernidad",
+      "meaning_zh": "現代性；現代",
+      "example_es": "El museo refleja la modernidad de la ciudad.",
+      "example_zh": "這座博物館反映了這座城市的現代感。"
+    },
+    {
+      "word": "corporativo",
+      "meaning_zh": "公司的；企業的",
+      "example_es": "Todos llevamos el uniforme corporativo en las reuniones.",
+      "example_zh": "開會時我們都穿公司的制服。"
+    },
+    {
+      "word": "generalizar",
+      "meaning_zh": "概括；推廣；一般化",
+      "example_es": "No conviene generalizar a partir de un solo caso.",
+      "example_zh": "不該只根據單一案例就一概而論。"
+    },
+    {
+      "word": "minoritario",
+      "meaning_zh": "少數的；占少數的",
+      "example_es": "Esa opinión es minoritaria dentro del grupo.",
+      "example_zh": "那個意見在團體中屬於少數。"
+    },
+    {
+      "word": "contradecir",
+      "meaning_zh": "反駁；與……矛盾",
+      "example_es": "No quiero contradecir a mi jefe delante de todos.",
+      "example_zh": "我不想在大家面前反駁我的老闆。"
+    },
+    {
+      "word": "reconocible",
+      "meaning_zh": "可辨認的；易認出的",
+      "example_es": "Su voz es reconocible al instante por teléfono.",
+      "example_zh": "他的聲音在電話裡一聽就認得出來。"
+    },
+    {
+      "word": "inestabilidad",
+      "meaning_zh": "不穩定",
+      "example_es": "La inestabilidad del puente nos asustó.",
+      "example_zh": "橋的不穩讓我們很害怕。"
+    },
+    {
+      "word": "imposibilidad",
+      "meaning_zh": "不可能；無法做到",
+      "example_es": "La lluvia nos obligó a aceptar la imposibilidad de salir.",
+      "example_zh": "大雨讓我們不得不接受無法外出的事實。"
+    },
+    {
+      "word": "digitalización",
+      "meaning_zh": "數位化",
+      "example_es": "La digitalización ha cambiado la forma de trabajar.",
+      "example_zh": "數位化改變了工作的方式。"
+    },
+    {
+      "word": "aprovechamiento",
+      "meaning_zh": "利用；善用",
+      "example_es": "El aprovechamiento del agua de lluvia ahorra dinero.",
+      "example_zh": "善用雨水可以省錢。"
+    },
+    {
+      "word": "che",
+      "meaning_zh": "（阿根廷）喂；欸（呼喚語）",
+      "example_es": "Che, ¿vamos a tomar algo después?",
+      "example_zh": "欸，等一下要不要去喝點東西？"
+    },
+    {
+      "word": "rogar",
+      "meaning_zh": "懇求；請求",
+      "example_es": "Te ruego que me escuches un momento.",
+      "example_zh": "我請求你聽我說一下。"
+    },
+    {
+      "word": "ruego",
+      "meaning_zh": "請求；懇求",
+      "example_es": "El director atendió nuestro ruego.",
+      "example_zh": "主任接受了我們的請求。"
+    },
+    {
+      "word": "sutil",
+      "meaning_zh": "微妙的；細緻的",
+      "example_es": "El perfume tiene un aroma muy sutil.",
+      "example_zh": "這款香水的氣味十分細緻。"
+    },
+    {
+      "word": "urgir",
+      "meaning_zh": "急需；催促",
+      "example_es": "Me urge encontrar una solución hoy mismo.",
+      "example_zh": "我急需在今天就找到解決辦法。"
+    },
+    {
+      "word": "vigor",
+      "meaning_zh": "活力；效力",
+      "example_es": "La nueva ley entra en vigor el lunes.",
+      "example_zh": "新法律將於週一生效。"
+    },
+    {
+      "word": "rozar",
+      "meaning_zh": "輕觸；擦過",
+      "example_es": "La rama me rozó la cara al pasar.",
+      "example_zh": "經過時樹枝擦過了我的臉。"
+    },
+    {
+      "word": "rumbo",
+      "meaning_zh": "方向；航向",
+      "example_es": "El barco puso rumbo al sur.",
+      "example_zh": "船朝南方航行。"
+    },
+    {
+      "word": "flujo",
+      "meaning_zh": "流動；流量",
+      "example_es": "A esta hora hay un gran flujo de coches.",
+      "example_zh": "這個時段車流量很大。"
+    },
+    {
+      "word": "tregua",
+      "meaning_zh": "休戰；停戰；喘息；間歇",
+      "example_es": "La lluvia no nos dio tregua en todo el día.",
+      "example_zh": "雨一整天都沒有停歇。"
+    },
+    {
+      "word": "cesión",
+      "meaning_zh": "讓與；轉讓；割讓",
+      "example_es": "Firmaron la cesión de los derechos de autor.",
+      "example_zh": "他們簽署了著作權的轉讓。"
+    },
+    {
+      "word": "poblar",
+      "meaning_zh": "使有人居住；棲居；佈滿",
+      "example_es": "Muchas familias vinieron a poblar el valle.",
+      "example_zh": "許多家庭來到這個山谷定居。"
+    },
+    {
+      "word": "lustro",
+      "meaning_zh": "五年（一個時期）",
+      "example_es": "Hace ya un lustro que vivimos en esta casa.",
+      "example_zh": "我們住在這棟房子已經五年了。"
+    },
+    {
+      "word": "tácito",
+      "meaning_zh": "默許的；心照不宣的；隱含的",
+      "example_es": "Entre ellos había un acuerdo tácito de silencio.",
+      "example_zh": "他們之間有一種心照不宣的沉默默契。"
+    },
+    {
+      "word": "acelga",
+      "meaning_zh": "甜菜葉；牛皮菜",
+      "example_es": "En el huerto plantamos acelgas y tomates.",
+      "example_zh": "我們在菜園裡種了甜菜葉和番茄。"
+    },
+    {
+      "word": "velada",
+      "meaning_zh": "晚會；夜間聚會",
+      "example_es": "Pasamos una velada muy agradable con amigos.",
+      "example_zh": "我們和朋友度過了一個非常愉快的夜晚。"
+    },
+    {
+      "word": "poroso",
+      "meaning_zh": "多孔的；滲透性的；界線模糊的",
+      "example_es": "La frontera entre ambos campos es muy porosa.",
+      "example_zh": "兩個領域之間的界線非常模糊。"
+    },
+    {
+      "word": "diluir",
+      "meaning_zh": "稀釋；沖淡；溶解",
+      "example_es": "Hay que diluir el concentrado en agua.",
+      "example_zh": "要把濃縮液用水稀釋。"
+    },
+    {
+      "word": "lineal",
+      "meaning_zh": "線性的；直線的；貨架（陳列）",
+      "example_es": "El crecimiento de la empresa no fue lineal.",
+      "example_zh": "這家公司的成長並非直線式的。"
+    },
+    {
+      "word": "barajar",
+      "meaning_zh": "考慮（多種選項）；洗牌",
+      "example_es": "Estamos barajando varias opciones para las vacaciones.",
+      "example_zh": "我們正在考慮幾個度假的選項。"
+    },
+    {
+      "word": "fecundo",
+      "meaning_zh": "豐饒的；多產的；富有成果的",
+      "example_es": "Fue un periodo muy fecundo para el artista.",
+      "example_zh": "那是這位藝術家極為多產的時期。"
+    },
+    {
+      "word": "indicio",
+      "meaning_zh": "跡象；徵兆；線索",
+      "example_es": "No hay ningún indicio de que vaya a llover.",
+      "example_zh": "沒有任何要下雨的跡象。"
+    },
+    {
+      "word": "otorgar",
+      "meaning_zh": "授予；給予；頒發",
+      "example_es": "Le otorgaron un premio por su trabajo.",
+      "example_zh": "他們因他的工作頒給他一個獎項。"
+    },
+    {
+      "word": "omisión",
+      "meaning_zh": "省略；遺漏；疏忽",
+      "example_es": "Un pequeño error de omisión cambió el resultado.",
+      "example_zh": "一個小小的遺漏改變了結果。"
+    },
+    {
+      "word": "padecer",
+      "meaning_zh": "罹患；遭受；忍受",
+      "example_es": "Mi tío padece una enfermedad crónica.",
+      "example_zh": "我叔叔患有一種慢性病。"
+    },
+    {
+      "word": "docente",
+      "meaning_zh": "教學的；教師",
+      "example_es": "El personal docente recibió una nueva formación.",
+      "example_zh": "教學人員接受了新的培訓。"
+    },
+    {
+      "word": "milonga",
+      "meaning_zh": "米隆加（探戈舞會或舞曲）",
+      "example_es": "El sábado fuimos a una milonga en el centro.",
+      "example_zh": "星期六我們去市中心的一場探戈舞會。"
+    },
+    {
+      "word": "inercia",
+      "meaning_zh": "慣性；惰性",
+      "example_es": "Seguimos esa ruta por pura inercia.",
+      "example_zh": "我們純粹出於慣性走那條路線。"
+    },
+    {
+      "word": "titubeo",
+      "meaning_zh": "猶豫；遲疑",
+      "example_es": "Respondió sin titubeo a todas las preguntas.",
+      "example_zh": "他毫不遲疑地回答了所有問題。"
+    },
+    {
+      "word": "campero",
+      "meaning_zh": "鄉村的；野地的（鞋靴等）",
+      "example_es": "Se puso unas botas camperas para el campo.",
+      "example_zh": "他穿上一雙鄉村靴去鄉下。"
+    },
+    {
+      "word": "tétanos",
+      "meaning_zh": "破傷風",
+      "example_es": "Me puse la vacuna del tétanos.",
+      "example_zh": "我打了破傷風疫苗。"
+    },
+    {
+      "word": "rellano",
+      "meaning_zh": "樓梯平台",
+      "example_es": "Dejé las bolsas en el rellano de la escalera.",
+      "example_zh": "我把袋子放在樓梯平台上。"
+    },
+    {
+      "word": "reiterar",
+      "meaning_zh": "重申",
+      "example_es": "Quiero reiterar mi agradecimiento a todos.",
+      "example_zh": "我想再次重申對大家的感謝。"
+    },
+    {
+      "word": "murmullo",
+      "meaning_zh": "低語；潺潺聲",
+      "example_es": "Se oía el murmullo del río a lo lejos.",
+      "example_zh": "遠處可以聽見河水的潺潺聲。"
+    },
+    {
+      "word": "inacción",
+      "meaning_zh": "無作為；不作為",
+      "example_es": "La inacción del gobierno generó protestas.",
+      "example_zh": "政府的不作為引發了抗議。"
+    },
+    {
+      "word": "edificar",
+      "meaning_zh": "建造；建立",
+      "example_es": "Van a edificar un colegio en ese terreno.",
+      "example_zh": "他們要在那塊地上蓋一所學校。"
+    },
+    {
+      "word": "perpetuo",
+      "meaning_zh": "永久的；不斷的",
+      "example_es": "Le dedicaron un recuerdo perpetuo.",
+      "example_zh": "他們獻上了永久的紀念。"
+    },
+    {
+      "word": "bullicio",
+      "meaning_zh": "喧鬧；嘈雜",
+      "example_es": "Me cansa el bullicio del centro comercial.",
+      "example_zh": "購物中心的喧鬧讓我覺得累。"
+    },
+    {
+      "word": "promotor",
+      "meaning_zh": "推動者；開發商",
+      "example_es": "El promotor inmobiliario presentó el proyecto.",
+      "example_zh": "房地產開發商介紹了這個案子。"
+    },
+    {
+      "word": "impulsor",
+      "meaning_zh": "推動者；推進的",
+      "example_es": "Ella fue la principal impulsora del proyecto.",
+      "example_zh": "她是這個專案的主要推動者。"
+    },
+    {
+      "word": "venidero",
+      "meaning_zh": "未來的；即將到來的",
+      "example_es": "Debemos pensar en las generaciones venideras.",
+      "example_zh": "我們必須為未來的世代著想。"
+    },
+    {
+      "word": "mutación",
+      "meaning_zh": "突變；變異",
+      "example_es": "El virus sufrió una mutación inesperada.",
+      "example_zh": "這個病毒發生了意料之外的突變。"
+    },
+    {
+      "word": "espinoso",
+      "meaning_zh": "棘手的；多刺的",
+      "example_es": "Hablar de dinero es un tema espinoso.",
+      "example_zh": "談錢是個棘手的話題。"
+    },
+    {
+      "word": "coartada",
+      "meaning_zh": "不在場證明；藉口",
+      "example_es": "El sospechoso tenía una coartada perfecta.",
+      "example_zh": "嫌疑人有完美的不在場證明。"
+    },
+    {
+      "word": "inculcar",
+      "meaning_zh": "灌輸；教導",
+      "example_es": "Sus padres le inculcaron el amor por la lectura.",
+      "example_zh": "他的父母從小培養他對閱讀的熱愛。"
+    },
+    {
+      "word": "retórico",
+      "meaning_zh": "修辭的；華而不實的",
+      "example_es": "Su discurso estaba lleno de recursos retóricos.",
+      "example_zh": "他的演說充滿了修辭手法。"
+    },
+    {
+      "word": "sintaxis",
+      "meaning_zh": "語法；句法",
+      "example_es": "La sintaxis del alemán me parece difícil.",
+      "example_zh": "德文的句法對我來說很難。"
+    },
+    {
+      "word": "ligereza",
+      "meaning_zh": "輕盈；輕率",
+      "example_es": "Habló del tema con demasiada ligereza.",
+      "example_zh": "他談這個話題時太過輕率。"
+    },
+    {
+      "word": "afilador",
+      "meaning_zh": "磨刀器；磨刀匠",
+      "example_es": "Necesito un afilador para los cuchillos.",
+      "example_zh": "我需要一個磨刀器來磨刀。"
+    },
+    {
+      "word": "pigmento",
+      "meaning_zh": "色素；顏料",
+      "example_es": "Estos cuadros usan pigmentos naturales.",
+      "example_zh": "這些畫作使用天然顏料。"
+    },
+    {
+      "word": "chirrido",
+      "meaning_zh": "刺耳的尖叫聲；摩擦聲",
+      "example_es": "La puerta hizo un chirrido al abrirse.",
+      "example_zh": "門打開時發出刺耳的聲音。"
+    },
+    {
+      "word": "empastar",
+      "meaning_zh": "（牙齒）補牙",
+      "example_es": "El dentista tuvo que empastar la muela.",
+      "example_zh": "牙醫得幫那顆臼齒補牙。"
+    },
+    {
+      "word": "amoníaco",
+      "meaning_zh": "氨；阿摩尼亞",
+      "example_es": "Este producto de limpieza huele a amoníaco.",
+      "example_zh": "這款清潔劑有阿摩尼亞的味道。"
+    },
+    {
+      "word": "quilombo",
+      "meaning_zh": "（拉美口語）混亂；亂局",
+      "example_es": "Hay un quilombo tremendo en la calle a esta hora.",
+      "example_zh": "這個時間街上亂成一團。"
+    },
+    {
+      "word": "debilitar",
+      "meaning_zh": "削弱；使虛弱",
+      "example_es": "La enfermedad lo debilitó mucho.",
+      "example_zh": "這場病讓他變得很虛弱。"
+    },
+    {
+      "word": "normativo",
+      "meaning_zh": "規範的；標準的",
+      "example_es": "Hay que cumplir el marco normativo vigente.",
+      "example_zh": "必須遵守現行的規範架構。"
+    },
+    {
+      "word": "prematuro",
+      "meaning_zh": "過早的；早產的",
+      "example_es": "Sacar conclusiones ahora sería prematuro.",
+      "example_zh": "現在就下結論還太早。"
+    },
+    {
+      "word": "custodiar",
+      "meaning_zh": "看守；保管",
+      "example_es": "Dos guardias custodian la entrada del museo.",
+      "example_zh": "兩名警衛看守著博物館入口。"
+    },
+    {
+      "word": "dinamismo",
+      "meaning_zh": "活力；動感",
+      "example_es": "El barrio ha recuperado su dinamismo económico.",
+      "example_zh": "這個社區重新找回了經濟活力。"
+    },
+    {
+      "word": "transitar",
+      "meaning_zh": "通行；經過",
+      "example_es": "Por esta calle no se puede transitar en coche.",
+      "example_zh": "這條街禁止汽車通行。"
+    },
+    {
+      "word": "narrativo",
+      "meaning_zh": "敘事的",
+      "example_es": "Me gusta el estilo narrativo de esta autora.",
+      "example_zh": "我喜歡這位作家的敘事風格。"
+    },
+    {
+      "word": "autóctono",
+      "meaning_zh": "本土的；原生的",
+      "example_es": "Plantaron árboles autóctonos en el parque.",
+      "example_zh": "他們在公園裡種了原生樹種。"
+    },
+    {
+      "word": "puramente",
+      "meaning_zh": "純粹地；僅僅",
+      "example_es": "Fue una decisión puramente económica.",
+      "example_zh": "那純粹是個經濟上的決定。"
+    },
+    {
+      "word": "meramente",
+      "meaning_zh": "僅僅；只不過",
+      "example_es": "Es meramente un detalle sin importancia.",
+      "example_zh": "那只不過是個無關緊要的細節。"
+    },
+    {
+      "word": "maximizar",
+      "meaning_zh": "使最大化",
+      "example_es": "Queremos maximizar el rendimiento del equipo.",
+      "example_zh": "我們想讓團隊的效能最大化。"
+    },
+    {
+      "word": "idealizar",
+      "meaning_zh": "理想化",
+      "example_es": "Tendemos a idealizar el pasado.",
+      "example_zh": "我們傾向於把過去理想化。"
+    },
+    {
+      "word": "reflexivo",
+      "meaning_zh": "深思的；反思的",
+      "example_es": "Es una persona tranquila y reflexiva.",
+      "example_zh": "他是個冷靜又愛思考的人。"
+    },
+    {
+      "word": "revelador",
+      "meaning_zh": "揭示性的；發人深省的",
+      "example_es": "El informe contenía datos muy reveladores.",
+      "example_zh": "這份報告含有很多發人深省的數據。"
+    },
+    {
+      "word": "desmentir",
+      "meaning_zh": "否認；闢謠",
+      "example_es": "El portavoz desmintió los rumores.",
+      "example_zh": "發言人否認了那些謠言。"
+    },
+    {
+      "word": "instituir",
+      "meaning_zh": "設立；建立（制度）",
+      "example_es": "El gobierno decidió instituir un nuevo día festivo.",
+      "example_zh": "政府決定設立一個新的節日。"
+    },
+    {
+      "word": "relectura",
+      "meaning_zh": "重讀；再次閱讀",
+      "example_es": "La relectura del libro me ayudó a entenderlo mejor.",
+      "example_zh": "重讀這本書幫助我更理解它。"
+    },
+    {
+      "word": "condensar",
+      "meaning_zh": "濃縮；凝結；概括",
+      "example_es": "Intentó condensar toda la historia en una página.",
+      "example_zh": "他試著把整個故事濃縮在一頁裡。"
+    },
+    {
+      "word": "descorche",
+      "meaning_zh": "開瓶費；開瓶（動作）",
+      "example_es": "El restaurante cobra un pequeño descorche por el vino.",
+      "example_zh": "這家餐廳對自帶的酒收取少許開瓶費。"
+    },
+    {
+      "word": "obstinarse",
+      "meaning_zh": "固執；堅持",
+      "example_es": "Se obstina en hacerlo todo solo.",
+      "example_zh": "他固執地堅持要獨自完成一切。"
+    },
+    {
+      "word": "domesticar",
+      "meaning_zh": "馴服；馴養",
+      "example_es": "No es fácil domesticar a un caballo salvaje.",
+      "example_zh": "要馴服一匹野馬並不容易。"
+    },
+    {
+      "word": "recomponer",
+      "meaning_zh": "重新組合；修復",
+      "example_es": "Tardó horas en recomponer el jarrón roto.",
+      "example_zh": "他花了好幾個小時才把破碎的花瓶拼回去。"
+    },
+    {
+      "word": "impensable",
+      "meaning_zh": "難以想像的；無法設想的",
+      "example_es": "Hace años, un teléfono así era impensable.",
+      "example_zh": "幾年前，這樣的手機是無法想像的。"
+    },
+    {
+      "word": "reaprender",
+      "meaning_zh": "重新學習",
+      "example_es": "Tras el accidente, tuvo que reaprender a caminar.",
+      "example_zh": "事故之後，他必須重新學習走路。"
+    },
+    {
+      "word": "equitativo",
+      "meaning_zh": "公平的；公正的",
+      "example_es": "Buscamos un reparto equitativo de las tareas.",
+      "example_zh": "我們尋求一個公平的工作分配。"
+    },
+    {
+      "word": "pretensión",
+      "meaning_zh": "意圖；奢望；自負",
+      "example_es": "No tengo la pretensión de saberlo todo.",
+      "example_zh": "我沒有自以為什麼都懂的奢望。"
+    },
+    {
+      "word": "implacable",
+      "meaning_zh": "無情的；不留情的",
+      "example_es": "El calor del verano fue implacable este año.",
+      "example_zh": "今年夏天的炎熱毫不留情。"
+    },
+    {
+      "word": "amplificar",
+      "meaning_zh": "放大；增強",
+      "example_es": "El altavoz sirve para amplificar el sonido.",
+      "example_zh": "這個喇叭是用來放大聲音的。"
+    },
+    {
+      "word": "ideológico",
+      "meaning_zh": "意識形態的；思想上的",
+      "example_es": "Tienen un fuerte desacuerdo ideológico.",
+      "example_zh": "他們在意識形態上有著嚴重的分歧。"
+    },
+    {
+      "word": "repertorio",
+      "meaning_zh": "曲目；劇目；庫存",
+      "example_es": "La orquesta amplió su repertorio este año.",
+      "example_zh": "樂團今年擴充了演奏曲目。"
+    },
+    {
+      "word": "prescribir",
+      "meaning_zh": "開（藥方）；規定；失效",
+      "example_es": "El médico decidió prescribir reposo absoluto.",
+      "example_zh": "醫生決定開出完全臥床休息的處方。"
+    },
+    {
+      "word": "nostálgico",
+      "meaning_zh": "懷舊的；惆悵的",
+      "example_es": "Esa canción me pone un poco nostálgico.",
+      "example_zh": "那首歌讓我有點懷舊。"
+    },
+    {
+      "word": "fundamento",
+      "meaning_zh": "基礎；根據",
+      "example_es": "Sus críticas carecen de fundamento real.",
+      "example_zh": "他的批評缺乏真正的根據。"
+    },
+    {
+      "word": "planetario",
+      "meaning_zh": "行星的；全球性的；天文館",
+      "example_es": "El cambio climático es un problema planetario.",
+      "example_zh": "氣候變遷是一個全球性的問題。"
+    },
+    {
+      "word": "desatender",
+      "meaning_zh": "忽視；疏忽",
+      "example_es": "No debemos desatender la salud por el trabajo.",
+      "example_zh": "我們不該為了工作而忽視健康。"
+    },
+    {
+      "word": "superponer",
+      "meaning_zh": "疊加；重疊",
+      "example_es": "El diseñador supo superponer las dos imágenes.",
+      "example_zh": "設計師懂得把兩張圖像疊在一起。"
+    },
+    {
+      "word": "franquicia",
+      "meaning_zh": "加盟；自付額（保險）",
+      "example_es": "El seguro del coche tiene una franquicia alta.",
+      "example_zh": "這份車險的自付額很高。"
+    },
+    {
+      "word": "intermediar",
+      "meaning_zh": "居中調解；做中介",
+      "example_es": "Un amigo común ayudó a intermediar en la disputa.",
+      "example_zh": "一位共同的朋友幫忙調解了這場爭執。"
+    },
+    {
+      "word": "debidamente",
+      "meaning_zh": "適當地；妥善地",
+      "example_es": "Rellene el formulario debidamente, por favor.",
+      "example_zh": "請妥善填寫這份表格。"
+    },
+    {
+      "word": "estructurar",
+      "meaning_zh": "建構；組織安排",
+      "example_es": "Hay que estructurar bien el discurso.",
+      "example_zh": "演講必須好好地組織安排。"
+    },
+    {
+      "word": "verificable",
+      "meaning_zh": "可驗證的；可查證的",
+      "example_es": "Necesitamos datos verificables para decidir.",
+      "example_zh": "我們需要可查證的資料才能做決定。"
+    },
+    {
+      "word": "aseguradora",
+      "meaning_zh": "保險公司",
+      "example_es": "La aseguradora cubrió todos los gastos del accidente.",
+      "example_zh": "保險公司支付了事故的所有費用。"
+    },
+    {
+      "word": "inquietante",
+      "meaning_zh": "令人不安的",
+      "example_es": "La casa vacía tenía un silencio inquietante.",
+      "example_zh": "那間空屋有著令人不安的寂靜。"
+    },
+    {
+      "word": "urbanístico",
+      "meaning_zh": "都市規劃的",
+      "example_es": "El ayuntamiento aprobó un nuevo plan urbanístico.",
+      "example_zh": "市政府通過了一項新的都市規劃方案。"
+    },
+    {
+      "word": "precariedad",
+      "meaning_zh": "不穩定；困窘（處境）",
+      "example_es": "Muchos jóvenes sufren la precariedad laboral.",
+      "example_zh": "許多年輕人正承受著工作的不穩定。"
+    },
+    {
+      "word": "inadmisible",
+      "meaning_zh": "不可接受的；不容許的",
+      "example_es": "Llegar tarde cada día es totalmente inadmisible.",
+      "example_zh": "每天遲到是完全不可接受的。"
+    },
+    {
+      "word": "irreparable",
+      "meaning_zh": "無法修復的；無法彌補的",
+      "example_es": "El accidente causó un daño irreparable al coche.",
+      "example_zh": "那場事故對車子造成了無法修復的損害。"
+    },
+    {
+      "word": "somnolencia",
+      "meaning_zh": "睏倦；嗜睡",
+      "example_es": "Después de comer siento mucha somnolencia.",
+      "example_zh": "吃完飯後我覺得非常睏。"
+    },
+    {
+      "word": "paralizante",
+      "meaning_zh": "使癱瘓的；使人無法行動的",
+      "example_es": "Sintió un miedo paralizante antes del examen.",
+      "example_zh": "考試前他感到一種令人動彈不得的恐懼。"
+    },
+    {
+      "word": "automatizar",
+      "meaning_zh": "使自動化",
+      "example_es": "La empresa decidió automatizar el proceso de pago.",
+      "example_zh": "公司決定將付款流程自動化。"
+    },
+    {
+      "word": "desconexión",
+      "meaning_zh": "斷線；脫離",
+      "example_es": "Necesito una desconexión total de las pantallas este fin de semana.",
+      "example_zh": "這個週末我需要完全遠離螢幕。"
+    },
+    {
+      "word": "cuantificar",
+      "meaning_zh": "量化；計算數量",
+      "example_es": "No es fácil cuantificar el valor de una amistad.",
+      "example_zh": "友誼的價值不容易量化。"
     }
   ],
   "dc2": [
@@ -66753,6 +71907,252 @@
       "meaning_zh": "(形容詞) 不可避免的",
       "example_es": "El paso del tiempo y sus efectos resultan ineluctables.",
       "example_zh": "時間的流逝及其影響不可避免。"
+    },
+    {
+      "word": "irreductible",
+      "meaning_zh": "無法化約的；不可削減的",
+      "example_es": "Su voluntad de seguir era irreductible pese a las dificultades.",
+      "example_zh": "儘管困難重重，他繼續下去的意志不可動搖。"
+    },
+    {
+      "word": "invocar",
+      "meaning_zh": "援引；呼喚",
+      "example_es": "El abogado decidió invocar una ley antigua.",
+      "example_zh": "律師決定援引一條古老的法律。"
+    },
+    {
+      "word": "detractor",
+      "meaning_zh": "反對者；批評者",
+      "example_es": "El plan tiene tanto defensores como detractores.",
+      "example_zh": "這個計畫有支持者也有反對者。"
+    },
+    {
+      "word": "degenerar",
+      "meaning_zh": "退化；惡化",
+      "example_es": "La discusión degeneró en una pelea.",
+      "example_zh": "那場爭論演變成了一場爭吵。"
+    },
+    {
+      "word": "difuminar",
+      "meaning_zh": "使模糊；淡化（界線）",
+      "example_es": "El teletrabajo difumina los horarios.",
+      "example_zh": "遠距工作模糊了上下班的時間界線。"
+    },
+    {
+      "word": "concernir",
+      "meaning_zh": "關係到；涉及",
+      "example_es": "Este asunto concierne a todos.",
+      "example_zh": "這件事關係到每一個人。"
+    },
+    {
+      "word": "clausurar",
+      "meaning_zh": "關閉；封閉；閉幕",
+      "example_es": "El alcalde clausuró el festival.",
+      "example_zh": "市長為這個節慶閉幕。"
+    },
+    {
+      "word": "imperativo",
+      "meaning_zh": "當務之急；命令的",
+      "example_es": "Ahorrar agua es un imperativo hoy en día.",
+      "example_zh": "節約用水是當今的當務之急。"
+    },
+    {
+      "word": "repercutir",
+      "meaning_zh": "產生影響；波及",
+      "example_es": "La subida del petróleo repercute en los precios.",
+      "example_zh": "油價上漲會反映在物價上。"
+    },
+    {
+      "word": "extractivo",
+      "meaning_zh": "開採的；採掘的",
+      "example_es": "La economía local depende de la industria extractiva.",
+      "example_zh": "當地經濟仰賴採礦業。"
+    },
+    {
+      "word": "ontológico",
+      "meaning_zh": "本體論的；存在論的",
+      "example_es": "Plantea un problema ontológico complejo.",
+      "example_zh": "這提出了一個複雜的本體論問題。"
+    },
+    {
+      "word": "intersticio",
+      "meaning_zh": "縫隙；間隙",
+      "example_es": "El agua se filtraba por los intersticios de la pared.",
+      "example_zh": "水從牆壁的縫隙滲了進來。"
+    },
+    {
+      "word": "privilegiar",
+      "meaning_zh": "優先考慮；給予優待",
+      "example_es": "La empresa decidió privilegiar la calidad sobre el precio.",
+      "example_zh": "公司決定把品質置於價格之上。"
+    },
+    {
+      "word": "insospechado",
+      "meaning_zh": "意想不到的；料想不到的",
+      "example_es": "El viaje tuvo un final insospechado.",
+      "example_zh": "這趟旅行有個意想不到的結局。"
+    },
+    {
+      "word": "insustituible",
+      "meaning_zh": "無可取代的",
+      "example_es": "Para mí, su amistad es insustituible.",
+      "example_zh": "對我來說，他的友誼是無可取代的。"
+    },
+    {
+      "word": "colectivamente",
+      "meaning_zh": "集體地；共同地",
+      "example_es": "Decidimos colectivamente cambiar de horario.",
+      "example_zh": "我們共同決定更改時間。"
+    },
+    {
+      "word": "canon",
+      "meaning_zh": "典範；準則；經典作品集",
+      "example_es": "Esa novela forma parte del canon literario.",
+      "example_zh": "那部小說是文學經典的一部分。"
+    },
+    {
+      "word": "legar",
+      "meaning_zh": "遺贈；留傳",
+      "example_es": "Mi abuela me legó su anillo de oro.",
+      "example_zh": "我奶奶把她的金戒指留給了我。"
+    },
+    {
+      "word": "vasto",
+      "meaning_zh": "廣闊的；廣大的",
+      "example_es": "Ante nosotros se extendía un vasto desierto.",
+      "example_zh": "我們眼前展開一片廣闊的沙漠。"
+    },
+    {
+      "word": "elipsis",
+      "meaning_zh": "省略（修辭法）；省略號",
+      "example_es": "El relato usa la elipsis para crear misterio.",
+      "example_zh": "這篇故事運用省略手法製造懸念。"
+    },
+    {
+      "word": "sulfato",
+      "meaning_zh": "硫酸鹽",
+      "example_es": "Este champú no contiene sulfatos.",
+      "example_zh": "這款洗髮精不含硫酸鹽。"
+    },
+    {
+      "word": "bursátil",
+      "meaning_zh": "證券交易的；股市的",
+      "example_es": "El mercado bursátil cerró a la baja.",
+      "example_zh": "股市以下跌收盤。"
+    },
+    {
+      "word": "barbecho",
+      "meaning_zh": "休耕（地）",
+      "example_es": "Dejaron el campo en barbecho un año.",
+      "example_zh": "他們讓那塊田休耕了一年。"
+    },
+    {
+      "word": "recoleto",
+      "meaning_zh": "幽靜的；隱蔽的",
+      "example_es": "Encontramos un café recoleto y tranquilo.",
+      "example_zh": "我們找到一家幽靜安寧的咖啡館。"
+    },
+    {
+      "word": "acepción",
+      "meaning_zh": "（詞的）義項；含義",
+      "example_es": "Esta palabra tiene varias acepciones.",
+      "example_zh": "這個詞有好幾個義項。"
+    },
+    {
+      "word": "fecundar",
+      "meaning_zh": "使受精；使豐饒",
+      "example_es": "Las abejas fecundan las flores del huerto.",
+      "example_zh": "蜜蜂為果園的花朵授粉。"
+    },
+    {
+      "word": "mendocino",
+      "meaning_zh": "門多薩的（阿根廷門多薩省）",
+      "example_es": "Probamos un vino mendocino excelente.",
+      "example_zh": "我們嚐了一款很棒的門多薩葡萄酒。"
+    },
+    {
+      "word": "inmutable",
+      "meaning_zh": "不變的；不動聲色的",
+      "example_es": "Su expresión permaneció inmutable.",
+      "example_zh": "他的表情始終不變。"
+    },
+    {
+      "word": "cortesano",
+      "meaning_zh": "宮廷的；廷臣",
+      "example_es": "El pintor retrató la vida cortesana de la época.",
+      "example_zh": "這位畫家描繪了那個時代的宮廷生活。"
+    },
+    {
+      "word": "fugacidad",
+      "meaning_zh": "短暫；轉瞬即逝",
+      "example_es": "La fugacidad del verano nos hace disfrutarlo más.",
+      "example_zh": "夏天的短暫讓我們更加珍惜它。"
+    },
+    {
+      "word": "reticular",
+      "meaning_zh": "網狀的；網絡式的",
+      "example_es": "El cerebro tiene una estructura reticular muy compleja.",
+      "example_zh": "大腦有著非常複雜的網狀結構。"
+    },
+    {
+      "word": "desarraigo",
+      "meaning_zh": "失根；背井離鄉之感",
+      "example_es": "Sintió un profundo desarraigo al mudarse de país.",
+      "example_zh": "搬到另一個國家後，他感到深深的失根感。"
+    },
+    {
+      "word": "dignificar",
+      "meaning_zh": "使有尊嚴；提升價值",
+      "example_es": "Su trabajo busca dignificar la vida de los mayores.",
+      "example_zh": "他的工作旨在讓長者的生活更有尊嚴。"
+    },
+    {
+      "word": "anecdótico",
+      "meaning_zh": "軼事的；微不足道的",
+      "example_es": "Ese detalle es solo anecdótico y no cambia nada.",
+      "example_zh": "那個細節只是趣聞軼事，並不影響什麼。"
+    },
+    {
+      "word": "sedimentar",
+      "meaning_zh": "沉積；沉澱",
+      "example_es": "Con el tiempo, los recuerdos se van sedimentando.",
+      "example_zh": "隨著時間，回憶慢慢沉澱下來。"
+    },
+    {
+      "word": "desdibujar",
+      "meaning_zh": "使模糊；使輪廓不清",
+      "example_es": "La niebla desdibujaba las montañas a lo lejos.",
+      "example_zh": "霧氣使遠方的山巒變得模糊。"
+    },
+    {
+      "word": "atencional",
+      "meaning_zh": "注意力的；與專注相關的",
+      "example_es": "El móvil provoca una gran fatiga atencional.",
+      "example_zh": "手機會造成嚴重的注意力疲乏。"
+    },
+    {
+      "word": "prefigurar",
+      "meaning_zh": "預示；預先描繪",
+      "example_es": "Aquellos inventos prefiguraban el mundo de hoy.",
+      "example_zh": "那些發明預示了今日的世界。"
+    },
+    {
+      "word": "inabarcable",
+      "meaning_zh": "無法盡覽的；廣闊無邊的",
+      "example_es": "Desde la cima se veía un paisaje inabarcable.",
+      "example_zh": "從山頂望去是一片一眼望不盡的風景。"
+    },
+    {
+      "word": "vertebrador",
+      "meaning_zh": "起核心結構作用的；貫穿主軸的",
+      "example_es": "La familia es el eje vertebrador de esta novela.",
+      "example_zh": "家庭是這部小說的核心主軸。"
+    },
+    {
+      "word": "dimensionar",
+      "meaning_zh": "衡量規模；估算大小",
+      "example_es": "Es difícil dimensionar el impacto de esta crisis.",
+      "example_zh": "很難衡量這場危機的影響規模。"
     }
   ]
 }
