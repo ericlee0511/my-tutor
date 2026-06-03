@@ -1530,7 +1530,7 @@ function fmtWord(item) {
   return `<div class="headword">📖${ttsBtn(item.kanji, "ja-JP")}${escapeHTML(item.kanji)}</div>` +
     `<div class="kana">かな: ${escapeHTML(item.kana)}</div>` +
     `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
-    `<div class="ex">例: ${escapeHTML(item.example_ja)}<br>` +
+    `<div class="ex">例: ${ttsBtn(item.example_ja, "ja-JP")} ${escapeHTML(item.example_ja)}<br>` +
     `   → ${escapeHTML(trans)}</div>`;
 }
 
@@ -1573,7 +1573,7 @@ function fmtWordKo(item) {
     html += `<div><span class="label">漢字:</span><span class="label-text">${escapeHTML(item.hanja)}</span></div>`;
   }
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(displayMeaning(item.meaning_zh))}</span></div>` +
-    `<div class="ex">例: ${escapeHTML(item.example_ko)}<br>` +
+    `<div class="ex">例: ${ttsBtn(item.example_ko, "ko-KR")} ${escapeHTML(item.example_ko)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
 }
@@ -1631,7 +1631,7 @@ function fmtSceneKo(item, num, title) {
 function fmtWordToeic(item) {
   let html = `<div class="headword">📖${ttsBtn(item.word, "en-US")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
-    `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
+    `<div class="ex">例: ${ttsBtn(item.example_en, "en-US")} ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
 }
@@ -1679,7 +1679,7 @@ function fmtSceneToeic(item, num, title) {
 function fmtWordGept(item) {
   let html = `<div class="headword">📖${ttsBtn(item.word, "en-US")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
-    `<div class="ex">例: ${escapeHTML(item.example_en)}<br>` +
+    `<div class="ex">例: ${ttsBtn(item.example_en, "en-US")} ${escapeHTML(item.example_en)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
 }
@@ -1727,7 +1727,7 @@ function fmtSceneGept(item, num, title) {
 function fmtWordDele(item) {
   let html = `<div class="headword">📖${ttsBtn(item.word, "es-ES")}${escapeHTML(item.word)}</div>`;
   html += `<div><span class="label">意思:</span><span class="label-text">${escapeHTML(item.meaning_zh)}</span></div>` +
-    `<div class="ex">例: ${escapeHTML(item.example_es)}<br>` +
+    `<div class="ex">例: ${ttsBtn(item.example_es, "es-ES")} ${escapeHTML(item.example_es)}<br>` +
     `   → ${escapeHTML(item.example_zh)}</div>`;
   return html;
 }
