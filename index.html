@@ -144,13 +144,11 @@
         <button class="stats-close" id="lookup-search-close" aria-label="關閉">✕</button>
       </div>
       <div class="lookup-search-body">
-        <div class="lookup-search-row">
-          <div class="lookup-input-wrap">
-            <input type="text" id="lookup-input" class="lookup-input" autocomplete="off"
-                   placeholder="輸入單字，或中文意思">
-            <ul id="lookup-suggest" class="lookup-suggest" hidden></ul>
-          </div>
-          <button class="chip" id="lookup-go" aria-label="查詢">🔍</button>
+        <div class="lookup-input-wrap">
+          <input type="text" id="lookup-input" class="lookup-input" autocomplete="off"
+                 placeholder="輸入單字，或中文意思">
+          <button id="lookup-go" class="lookup-go-inline" aria-label="查詢">🔍</button>
+          <ul id="lookup-suggest" class="lookup-suggest" hidden></ul>
         </div>
         <div id="lookup-results" class="lookup-results"></div>
       </div>

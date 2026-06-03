@@ -648,15 +648,9 @@ main {
 }
 
 /* ===== 查單字 popup（#lookup-search overlay） ===== */
-.lookup-search-row {
-  display: flex;
-  gap: 8px;
-  align-items: stretch;
-}
 .lookup-input-wrap {
   position: relative;
-  flex: 1 1 auto;
-  min-width: 0;
+  width: 100%;
 }
 .lookup-input {
   width: 100%;
@@ -664,7 +658,7 @@ main {
   background: var(--accent-soft);
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 10px 12px;
+  padding: 10px 44px 10px 12px;   /* 右側留白給內嵌的 🔍 */
   font-family: inherit;
   font-size: 15px;
   color: var(--text);
@@ -673,14 +667,29 @@ main {
   outline: none;
   border-color: var(--accent);
 }
-#lookup-go {
-  flex: 0 0 auto;
-  width: 46px;
-  height: auto;
-  border-radius: 10px;
-  border-color: var(--accent);
+/* 內嵌於輸入框最右側的查詢鈕（無邊框、透明底） */
+.lookup-go-inline {
+  position: absolute;
+  top: 50%;
+  right: 6px;
+  transform: translateY(-50%);
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: inherit;
   font-size: 18px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
 }
+.lookup-go-inline:hover { background: var(--accent-soft); }
+.lookup-go-inline:active { transform: translateY(-50%) scale(0.92); }
 .lookup-suggest {
   position: absolute;
   top: calc(100% + 4px);
