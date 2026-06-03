@@ -2332,7 +2332,8 @@ function searchVocab(rawQ) {
       results = collectFwd();                            // 含假名 → 正向
     } else {
       results = collectFwd();                            // 純漢字 → 先正向查日語
-      if (results.length === 0) results = collectRev();  // 查無 → 反向查中文
+      // 查無 → 反向查中文；但「純拉丁 <2 字」情況不 fallback（與韓文一致：直接空白）
+      if (results.length === 0 && !blockShortLatin) results = collectRev();
     }
   } else {
     results = HAS_HAN.test(q) ? collectRev() : collectFwd();  // 含中文 → 反向；否則正向
