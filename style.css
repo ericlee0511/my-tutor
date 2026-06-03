@@ -648,6 +648,12 @@ main {
 }
 
 /* ===== 查單字 popup（#lookup-search overlay） ===== */
+/* 與學習成就 .stats-body 相同內距，讓卡片 var(--card) 背景露出、外觀一致。 */
+.lookup-search-body {
+  padding: 12px 16px 16px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
 .lookup-input-wrap {
   position: relative;
   width: 100%;
