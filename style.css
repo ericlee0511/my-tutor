@@ -288,18 +288,19 @@ main {
 .actions {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 10px;
+  gap: 6px;
 }
 .action {
   background: var(--card);
   border: 1px solid var(--muted);
   border-radius: 14px;
-  padding: 18px 12px;
+  padding: 18px 6px;
   font-size: 16px;
   font-weight: 600;
   color: var(--text);
   cursor: pointer;
   font-family: inherit;
+  white-space: nowrap;
   transition: transform 0.05s, background 0.15s;
 }
 .action:active {
