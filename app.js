@@ -2257,6 +2257,9 @@ const LOOKUP_SUGGEST_MAX = 20;
 const HAS_KANA = /[぀-ヿ]/;                 // 平假名 + 片假名
 const HAS_HAN  = /[㐀-鿿豈-﫿]/;    // CJK 漢字（含相容區）
 
+// 任一「東亞文字」（假名／CJK 漢字／諺文）；用來判斷查詢是否「純拉丁」。
+const CJK_OR_KANA = /[぀-ヿ㐀-鿿豈-﫿가-힣]/;
+
 // 將 {level:[...]} 形式的 vocab 物件攤平成單一陣列。
 function flattenVocab(obj) {
   if (!obj) return [];
@@ -2275,13 +2278,14 @@ function lookupSearchPool() {
 }
 
 // 正向比對：0=完全相符、1=開頭相符、2=包含、null=不符（數字越小越優先）。
-function rankForward(entry, q, fields, latin) {
-  const ql = latin ? q.toLowerCase() : q;
+// 一律大小寫不分（假名/CJK/諺文無大小寫，不受影響；只讓拉丁字 dna→DNA 也能命中）。
+function rankForward(entry, q, fields) {
+  const ql = q.toLowerCase();
   let best = null;
   for (const f of fields) {
-    let v = entry[f];
-    if (!v) continue;
-    v = latin ? String(v).toLowerCase() : String(v);
+    const raw = entry[f];
+    if (!raw) continue;
+    const v = String(raw).toLowerCase();
     const r = v === ql ? 0 : v.startsWith(ql) ? 1 : v.includes(ql) ? 2 : null;
     if (r !== null && (best === null || r < best)) best = r;
   }
@@ -2312,9 +2316,14 @@ function headWordOf(entry, lang) {
 function searchVocab(rawQ) {
   const q = (rawQ || "").trim();
   if (!q) return [];
-  const { lang, pool, latin, fwd } = lookupSearchPool();
-  const collectFwd = () => pool.map(e => ({ entry: e, rank: rankForward(e, q, fwd, latin) }))
-                               .filter(x => x.rank !== null);
+  const { lang, pool, fwd } = lookupSearchPool();
+  // 韓/日不支援羅馬拼音：純拉丁（無假名/漢字/諺文）查詢需 ≥2 字才做正向比對，
+  // 避免單一字母撈到少數含拉丁字的詞（대상 a、DNA…）。
+  const latinOnly = !CJK_OR_KANA.test(q);
+  const blockShortLatin = (lang === "ja" || lang === "ko") && latinOnly && q.length < 2;
+  const collectFwd = () => blockShortLatin ? []
+    : pool.map(e => ({ entry: e, rank: rankForward(e, q, fwd) }))
+          .filter(x => x.rank !== null);
   const collectRev = () => pool.map(e => ({ entry: e, rank: rankReverse(e, q) }))
                                .filter(x => x.rank !== null);
   let results;
