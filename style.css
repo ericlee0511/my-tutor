@@ -294,8 +294,9 @@ main {
   background: var(--card);
   border: 1px solid var(--muted);
   border-radius: 14px;
-  padding: 18px 6px;
+  padding: 4px 6px;
   font-size: 16px;
+  line-height: 1.25;
   font-weight: 600;
   color: var(--text);
   cursor: pointer;
