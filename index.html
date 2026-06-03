@@ -137,6 +137,26 @@
     </div>
   </div>
 
+  <div id="lookup-search" class="picker-overlay" hidden>
+    <div class="picker-card stats-card">
+      <div class="stats-header">
+        <h2 class="stats-title">🔍 查單字</h2>
+        <button class="stats-close" id="lookup-search-close" aria-label="關閉">✕</button>
+      </div>
+      <div class="lookup-search-body">
+        <div class="lookup-search-row">
+          <div class="lookup-input-wrap">
+            <input type="text" id="lookup-input" class="lookup-input" autocomplete="off"
+                   placeholder="輸入單字，或中文意思">
+            <ul id="lookup-suggest" class="lookup-suggest" hidden></ul>
+          </div>
+          <button class="chip" id="lookup-go" aria-label="查詢">🔍</button>
+        </div>
+        <div id="lookup-results" class="lookup-results"></div>
+      </div>
+    </div>
+  </div>
+
   <script src="vendor/kuromoji/kuromoji.js"></script>
   <script src="app.js"></script>
 </body>

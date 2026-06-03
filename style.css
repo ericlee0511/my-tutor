@@ -250,6 +250,8 @@ header h1 {
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
+  /* 底色 = 上排其他按鈕底色（.chip 的 --accent-soft）；邊框 = enable 鮮靛色。 */
+  border-color: var(--accent);
 }
 /* The lookup button can only toggle enable/disable when on a scene under
    他國語→中 direction. Every other state is "permanently disabled". User wants
@@ -643,6 +645,121 @@ main {
   margin-top: 10px;
   border-top: 1px dashed var(--border);
   padding-top: 8px;
+}
+
+/* ===== 查單字 popup（#lookup-search overlay） ===== */
+.lookup-search-row {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+.lookup-input-wrap {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.lookup-input {
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-family: inherit;
+  font-size: 15px;
+  color: var(--text);
+}
+.lookup-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+#lookup-go {
+  flex: 0 0 auto;
+  width: 46px;
+  height: auto;
+  border-radius: 10px;
+  border-color: var(--accent);
+  font-size: 18px;
+}
+.lookup-suggest {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 4px;
+  list-style: none;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  max-height: 300px;        /* ~20 列後出現捲軸 */
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  z-index: 10;
+}
+.lookup-suggest[hidden] { display: none; }
+.lookup-suggest li {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  padding: 7px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.lookup-suggest li:hover { background: var(--accent-soft); }
+.lookup-suggest .ls-word {
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+.lookup-suggest .ls-reading {
+  color: var(--muted);
+  font-size: 12px;
+  white-space: nowrap;
+}
+.lookup-suggest .ls-mean {
+  color: var(--text);
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.lookup-results {
+  margin-top: 14px;
+  font-size: 14px;
+  line-height: 1.5;
+  max-height: 50vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.lookup-results:empty { display: none; }
+.lookup-results .lookup-empty {
+  color: var(--muted);
+  text-align: center;
+  padding: 16px 0;
+}
+/* 結果卡結構（與點詞 popup 同樣式，但作用域在 #lookup-results） */
+#lookup-results .lookup-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+#lookup-results .lookup-head strong { font-size: 16px; color: var(--accent); }
+#lookup-results .lookup-reading { color: var(--muted); font-size: 13px; }
+#lookup-results .lookup-meaning { margin-top: 6px; }
+#lookup-results .lookup-example {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 6px;
+}
+#lookup-results .lookup-group .lookup-entry + .lookup-entry {
+  margin-top: 10px;
+  border-top: 1px dashed var(--border);
+  padding-top: 8px;
+}
+#lookup-results .lookup-group + .lookup-group {
+  margin-top: 14px;
+  border-top: 2px solid color-mix(in srgb, var(--accent-soft) 80%, var(--accent) 20%);
+  padding-top: 12px;
 }
 
 footer {

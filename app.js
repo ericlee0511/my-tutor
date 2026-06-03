@@ -2231,13 +2231,14 @@ function lookupAllowed() {
   return true;
 }
 
+// 放大鏡按鈕現在永遠可用（點擊開啟「查單字」popup），不再有 disable／active 狀態。
+// 舊呼叫點（cycleDir、render 等）保留，但本函式改為 no-op；lookupAllowed/toggleLookup
+// 已不再接線，僅留作歷史參考。
 function updateLookupBtn() {
   const btn = document.getElementById("lookup-btn");
   if (!btn) return;
-  const allowed = lookupAllowed();
-  btn.classList.toggle("disabled", !allowed);
-  btn.classList.toggle("active", allowed && state.lookup);
-  btn.disabled = !allowed;
+  btn.disabled = false;
+  btn.classList.remove("disabled", "active");
 }
 
 function toggleLookup() {
@@ -2247,6 +2248,176 @@ function toggleLookup() {
   updateLookupBtn();
   const entry = state.timeline[state.timelinePos];
   if (entry) displayEntry(entry);
+}
+
+// ===================== 查單字 popup =====================
+// 直接掃描「當前模式語言」的 vocab 陣列（非 lookup.index——後者 ja 只用 kanji 當 key，
+// 無法用 kana 正向查），可同時比對 kanji/kana/word（正向）與 meaning_zh（反向）。
+const LOOKUP_SUGGEST_MAX = 20;
+const HAS_KANA = /[぀-ヿ]/;                 // 平假名 + 片假名
+const HAS_HAN  = /[㐀-鿿豈-﫿]/;    // CJK 漢字（含相容區）
+
+// 將 {level:[...]} 形式的 vocab 物件攤平成單一陣列。
+function flattenVocab(obj) {
+  if (!obj) return [];
+  return Object.values(obj).filter(Array.isArray).flat();
+}
+
+// 依當前模式解析 → {lang, pool, latin, fwd}。lang 為 lookupEntryHtml 期望的 key
+// （'ja' 顯示 kanji+kana；'ko' 顯示 romanization；其餘顯示 word）。
+function lookupSearchPool() {
+  const lang = lookupSceneLang();
+  if (lang === "es")       return { lang, pool: flattenVocab(DATA.vocab_dele),  latin: true,  fwd: ["word"] };
+  if (lang === "en_gept")  return { lang, pool: flattenVocab(DATA.vocab_gept),  latin: true,  fwd: ["word"] };
+  if (lang === "en_toeic") return { lang, pool: flattenVocab(DATA.vocab_toeic), latin: true,  fwd: ["word"] };
+  if (lang === "ko")       return { lang, pool: flattenVocab(DATA.vocab_ko),    latin: false, fwd: ["word"] };
+  return { lang: "ja", pool: flattenVocab(DATA.vocab), latin: false, fwd: ["kanji", "kana"] };
+}
+
+// 正向比對：0=完全相符、1=開頭相符、2=包含、null=不符（數字越小越優先）。
+function rankForward(entry, q, fields, latin) {
+  const ql = latin ? q.toLowerCase() : q;
+  let best = null;
+  for (const f of fields) {
+    let v = entry[f];
+    if (!v) continue;
+    v = latin ? String(v).toLowerCase() : String(v);
+    const r = v === ql ? 0 : v.startsWith(ql) ? 1 : v.includes(ql) ? 2 : null;
+    if (r !== null && (best === null || r < best)) best = r;
+  }
+  return best;
+}
+
+// 反向比對：比對中文意思。先去掉開頭詞類前綴「（…）」/「(...)」，再用 、，；;／/ 拆義項，
+// 排序：義項完全相符 > 義項開頭相符 > 整串包含。
+function rankReverse(entry, q) {
+  let m = displayMeaning(entry.meaning_zh || "");
+  m = m.replace(/^[（(][^）)]*[）)]\s*/, "");
+  if (!m) return null;
+  const senses = m.split(/[、，;；/／]/).map(s => s.trim()).filter(Boolean);
+  let best = null;
+  for (const s of senses) {
+    const r = s === q ? 0 : s.startsWith(q) ? 1 : null;
+    if (r !== null && (best === null || r < best)) best = r;
+  }
+  if (best === null && m.includes(q)) best = 2;
+  return best;
+}
+
+function headWordOf(entry, lang) {
+  return (lang === "ja" ? entry.kanji : entry.word) || "";
+}
+
+// 核心查詢 → 依排序回傳 entry 陣列；正/反向方向自動偵測。
+function searchVocab(rawQ) {
+  const q = (rawQ || "").trim();
+  if (!q) return [];
+  const { lang, pool, latin, fwd } = lookupSearchPool();
+  const collectFwd = () => pool.map(e => ({ entry: e, rank: rankForward(e, q, fwd, latin) }))
+                               .filter(x => x.rank !== null);
+  const collectRev = () => pool.map(e => ({ entry: e, rank: rankReverse(e, q) }))
+                               .filter(x => x.rank !== null);
+  let results;
+  if (lang === "ja") {
+    if (HAS_KANA.test(q)) {
+      results = collectFwd();                            // 含假名 → 正向
+    } else {
+      results = collectFwd();                            // 純漢字 → 先正向查日語
+      if (results.length === 0) results = collectRev();  // 查無 → 反向查中文
+    }
+  } else {
+    results = HAS_HAN.test(q) ? collectRev() : collectFwd();  // 含中文 → 反向；否則正向
+  }
+  results.sort((a, b) => {
+    if (a.rank !== b.rank) return a.rank - b.rank;
+    const la = headWordOf(a.entry, lang), lb = headWordOf(b.entry, lang);
+    if (la.length !== lb.length) return la.length - lb.length;
+    return la < lb ? -1 : la > lb ? 1 : 0;
+  });
+  return results.map(x => x.entry);
+}
+
+function lookupShortMeaning(entry) {
+  return displayMeaning(entry.meaning_zh || "").replace(/^[（(][^）)]*[）)]\s*/, "");
+}
+
+// autocomplete：輸入框正下方顯示「外語字＋讀音＋簡短中文義」，上限 20 筆，超過捲動。
+function renderLookupSuggest(query) {
+  const ul = document.getElementById("lookup-suggest");
+  if (!ul) return;
+  const q = (query || "").trim();
+  if (!q) { ul.hidden = true; ul.innerHTML = ""; return; }
+  const { lang } = lookupSearchPool();
+  const results = searchVocab(q).slice(0, LOOKUP_SUGGEST_MAX);
+  if (results.length === 0) { ul.hidden = true; ul.innerHTML = ""; return; }
+  ul.innerHTML = results.map(e => {
+    const word = headWordOf(e, lang);
+    const reading = lang === "ja" && e.kana ? e.kana
+                  : lang === "ko" && e.romanization ? e.romanization : "";
+    return `<li data-word="${encodeURIComponent(word)}">` +
+           `<span class="ls-word">${escapeHTML(word)}</span>` +
+           (reading ? `<span class="ls-reading">${escapeHTML(reading)}</span>` : "") +
+           `<span class="ls-mean">${escapeHTML(lookupShortMeaning(e))}</span></li>`;
+  }).join("");
+  ul.hidden = false;
+}
+
+// 渲染結果卡（重用 groupAndDedupEntries + lookupEntryHtml，外觀同點詞 popup）。
+function renderLookupResults(entries) {
+  const box = document.getElementById("lookup-results");
+  if (!box) return;
+  const { lang } = lookupSearchPool();
+  if (!entries || entries.length === 0) {
+    box.innerHTML = `<div class="lookup-empty">查無此字</div>`;
+    return;
+  }
+  const groups = groupAndDedupEntries(entries);
+  box.innerHTML = groups.map(group =>
+    `<div class="lookup-group">${group.map(e => lookupEntryHtml(e, lang)).join("")}</div>`
+  ).join("");
+}
+
+// 點建議 = 直接出該字的卡（列出同字所有義項／同形異義）。
+function showLookupWord(word) {
+  const input = document.getElementById("lookup-input");
+  if (input) input.value = word;
+  const ul = document.getElementById("lookup-suggest");
+  if (ul) { ul.hidden = true; ul.innerHTML = ""; }
+  const { lang, pool } = lookupSearchPool();
+  const entries = pool.filter(e => headWordOf(e, lang) === word);
+  renderLookupResults(entries.length ? entries : searchVocab(word));
+}
+
+// 按 🔍 / Enter：空輸入顯示提示，否則出結果卡。
+function runLookupSearch() {
+  const input = document.getElementById("lookup-input");
+  const box = document.getElementById("lookup-results");
+  const ul = document.getElementById("lookup-suggest");
+  if (ul) { ul.hidden = true; ul.innerHTML = ""; }
+  const q = (input?.value || "").trim();
+  if (!q) {
+    if (box) box.innerHTML = `<div class="lookup-empty">請輸入要查的單字，或中文意思</div>`;
+    return;
+  }
+  renderLookupResults(searchVocab(q));
+}
+
+function openLookupSearch() {
+  const ov = document.getElementById("lookup-search");
+  if (!ov) return;
+  const input = document.getElementById("lookup-input");
+  const box = document.getElementById("lookup-results");
+  const ul = document.getElementById("lookup-suggest");
+  if (input) input.value = "";
+  if (box) box.innerHTML = "";
+  if (ul) { ul.hidden = true; ul.innerHTML = ""; }
+  ov.hidden = false;
+  if (input) setTimeout(() => input.focus(), 0);
+}
+
+function closeLookupSearch() {
+  const ov = document.getElementById("lookup-search");
+  if (ov) ov.hidden = true;
 }
 
 window.addEventListener("DOMContentLoaded", async () => {
@@ -2264,8 +2435,32 @@ window.addEventListener("DOMContentLoaded", async () => {
   });
   document.getElementById("lang-btn").addEventListener("click", cycleLang);
   document.getElementById("dir-btn").addEventListener("click", cycleDir);
-  document.getElementById("lookup-btn").addEventListener("click", toggleLookup);
+  document.getElementById("lookup-btn").addEventListener("click", openLookupSearch);
   updateLookupBtn();
+
+  // 查單字 popup 接線
+  document.getElementById("lookup-search-close")?.addEventListener("click", closeLookupSearch);
+  document.getElementById("lookup-search")?.addEventListener("click", e => {
+    if (e.target.id === "lookup-search") closeLookupSearch();
+  });
+  document.getElementById("lookup-go")?.addEventListener("click", runLookupSearch);
+  const lookupInput = document.getElementById("lookup-input");
+  if (lookupInput) {
+    lookupInput.addEventListener("input", () => renderLookupSuggest(lookupInput.value));
+    lookupInput.addEventListener("keydown", e => {
+      if (e.key === "Enter") { e.preventDefault(); runLookupSearch(); }
+    });
+  }
+  document.getElementById("lookup-suggest")?.addEventListener("click", e => {
+    const li = e.target.closest("li[data-word]");
+    if (li) showLookupWord(decodeURIComponent(li.dataset.word));
+  });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") {
+      const ov = document.getElementById("lookup-search");
+      if (ov && !ov.hidden) closeLookupSearch();
+    }
+  });
 
   // Streak UI wiring
   document.getElementById("streak-fire")?.addEventListener("click", openStreakPicker);
