@@ -1317,7 +1317,8 @@ function buildLookupIndex() {
 }
 
 function highlightSentence(text, lang) {
-  if (!state.lookup) return escapeHTML(text);
+  // 情境句「他國語→中」狀態下，外語句一律顯示可查單字（不再由放大鏡 state.lookup 控制）。
+  // highlightSentence 僅用於情境句外語側（非 reversed 分支），故此處不需再判斷 state.lookup。
   if (lang === "ja" && jaTokenizer) return highlightJaWithTokenizer(text);
   if (lang === "ko" && lookup.index.ko) return highlightKoBySplit(text);
   if (!lookup.regex[lang]) return escapeHTML(text);
