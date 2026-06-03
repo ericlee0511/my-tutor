@@ -648,11 +648,11 @@ main {
 }
 
 /* ===== 查單字 popup（#lookup-search overlay） ===== */
-/* 與學習成就 .stats-body 相同內距，讓卡片 var(--card) 背景露出、外觀一致。 */
+/* 與學習成就 .stats-body 相同內距，讓卡片 var(--card) 背景露出、外觀一致。
+   注意：不要在此設 overflow，否則會裁切 position:absolute 的 autocomplete 下拉
+   （結果區 .lookup-results 已自帶 max-height + overflow，毋需 body 再捲動）。 */
 .lookup-search-body {
   padding: 12px 16px 16px;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
 }
 .lookup-input-wrap {
   position: relative;
