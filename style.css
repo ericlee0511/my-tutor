@@ -294,9 +294,13 @@ main {
   background: var(--card);
   border: 1px solid var(--muted);
   border-radius: 14px;
-  padding: 4px 6px;
+  box-sizing: border-box;
+  height: 34.8px;            /* 與最上排 .chip 同高：13px×1.6 行高 + 6px×2 padding + 1px×2 border */
+  padding: 0 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 16px;
-  line-height: 1.25;
   font-weight: 600;
   color: var(--text);
   cursor: pointer;
