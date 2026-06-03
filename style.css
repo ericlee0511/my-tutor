@@ -287,12 +287,12 @@ main {
 
 .actions {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 10px;
 }
 .action {
   background: var(--card);
-  border: 1px solid var(--accent);
+  border: 1px solid var(--muted);
   border-radius: 14px;
   padding: 18px 12px;
   font-size: 16px;
