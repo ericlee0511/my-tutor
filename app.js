@@ -850,12 +850,14 @@ function importBackup(file) {
       if (!confirm("匯入備份會覆蓋目前本機資料，確定繼續嗎？")) return;
       Object.assign(state, imported);
       state.streak = Object.assign({ count: 0, lastDay: null, todayCount: 0, history: {} }, state.streak || {});
+      ensureSrs();
       saveState();
       updateStreakUI();
       renderHeatmap();
-      alert("匯入成功！");
+      updateMemBar();
+      showToast("匯入成功 ✓");
     } catch (e) {
-      alert("匯入失敗：" + e.message);
+      showToast("匯入失敗：" + e.message, false);
     }
   };
   reader.readAsText(file);
