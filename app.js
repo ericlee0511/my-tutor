@@ -2633,7 +2633,7 @@ function updateMemBar() {
   fill.style.width = Math.min(100, Math.round(X / Y * 100)) + "%";
   if (txt) txt.textContent = `${X} / ${Y}`;
   const memFire = document.getElementById("mem-fire");
-  if (memFire) memFire.classList.toggle("streak-active", X > 0);
+  if (memFire) { memFire.classList.toggle("streak-active", X > 0); memFire.classList.toggle("streak-dim", X <= 0); }
 }
 
 // ---- 記憶複習分頁內容 ----

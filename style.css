@@ -1052,3 +1052,8 @@ footer {
 #streak-picker .stats-card { height: 85vh; }
 #streak-picker .stats-body { flex: 1 1 auto; min-height: 0; }
 .srs-tabs { flex-shrink: 0; }
+
+/* 進度條圖示（SVG，可 currentColor 上色）*/
+.hicon { width: 17px; height: 17px; vertical-align: -3px; display: inline-block; }
+/* active 顏色（先用青綠，非紫；要改改這裡即可，或設成 var(--accent)）*/
+#streak-fire.streak-active, #mem-fire.streak-active { color: #0d9488; }
