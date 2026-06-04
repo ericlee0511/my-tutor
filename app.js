@@ -625,6 +625,8 @@ let state = {
   },
 };
 const DAILY_GOAL = 30;
+// 熱力圖徽章門檻（句子練習 / 記憶複習兩頁統一）：當日數量達標即得徽章。
+const BADGE_STAR = 15, BADGE_FIRE = 30, BADGE_CROWN = 50;
 const MAX_TIMELINE = 50;
 
 function loadState() {
@@ -714,9 +716,9 @@ function heatmapTier(n) {
 
 // Milestone symbol overlaid on a day cell, based on multiples of the daily goal (30).
 function heatmapSymbol(n) {
-  if (n >= DAILY_GOAL * 3) return "👑"; // 爆發 90+
-  if (n >= DAILY_GOAL * 2) return "🔥"; // 雙倍 60+
-  if (n >= DAILY_GOAL) return "⭐";      // 達標 30+
+  if (n >= BADGE_CROWN) return "👑"; // 爆發 50+
+  if (n >= BADGE_FIRE) return "🔥";  // 雙倍 30+
+  if (n >= BADGE_STAR) return "⭐";   // 達標 15+
   return "";
 }
 
@@ -771,9 +773,9 @@ function renderHeatmap() {
     `</div>`;
   const symLegend =
     `<div class="hm-legend hm-sym-legend">` +
-      `<span>⭐ 達標 30</span>` +
-      `<span>🔥 雙倍 60</span>` +
-      `<span>👑 爆發 90</span>` +
+      `<span>⭐ 達標 15</span>` +
+      `<span>🔥 雙倍 30</span>` +
+      `<span>👑 爆發 50</span>` +
     `</div>`;
   root.innerHTML = intro + `<div class="hm-grid">` + dayHeader + rows.join("") + `</div>` + legend + symLegend;
 
@@ -782,9 +784,9 @@ function renderHeatmap() {
   if (badges) {
     let star = 0, fire = 0, crown = 0;
     Object.values(hist).forEach(n => {
-      if (n >= DAILY_GOAL * 3) crown++;
-      else if (n >= DAILY_GOAL * 2) fire++;
-      else if (n >= DAILY_GOAL) star++;
+      if (n >= BADGE_CROWN) crown++;
+      else if (n >= BADGE_FIRE) fire++;
+      else if (n >= BADGE_STAR) star++;
     });
     badges.innerHTML = `<span>⭐ ${star}</span><span>🔥 ${fire}</span><span>👑 ${crown}</span>`;
   }
@@ -2698,7 +2700,7 @@ function buildHeatmapGrid(cntFn, intro) {
     `<span class="hm-cell hm-2"></span><span class="hm-cell hm-3"></span><span>多</span>` +
     `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span></div>`;
   const symLegend =
-    `<div class="hm-legend hm-sym-legend"><span>⭐ 達標 30</span><span>🔥 雙倍 60</span><span>👑 爆發 90</span></div>`;
+    `<div class="hm-legend hm-sym-legend"><span>⭐ 達標 15</span><span>🔥 雙倍 30</span><span>👑 爆發 50</span></div>`;
   return `<div class="hm-intro">${intro}</div><div class="hm-grid">${dow}${rows.join("")}</div>${legend}${symLegend}`;
 }
 function memStatCard(label, num, unit) {
@@ -2736,9 +2738,9 @@ function renderMemoryTab() {
     let star = 0, fire = 0, crown = 0;
     for (const k in s.history) {
       const e = s.history[k]; const c = e ? (e.reviewed + e.new) : 0;
-      if (c >= DAILY_GOAL * 3) crown++;
-      else if (c >= DAILY_GOAL * 2) fire++;
-      else if (c >= DAILY_GOAL) star++;
+      if (c >= BADGE_CROWN) crown++;
+      else if (c >= BADGE_FIRE) fire++;
+      else if (c >= BADGE_STAR) star++;
     }
     mbEl.innerHTML = `<span>⭐ ${star}</span><span>🔥 ${fire}</span><span>👑 ${crown}</span>`;
   }
