@@ -2737,7 +2737,7 @@ function renderMemoryTab() {
   const retEl = document.getElementById("mem-retention");
   if (retEl) {
     const rate = s.stats.answered ? Math.round((s.stats.answered - s.stats.again) / s.stats.answered * 100) : 0;
-    retEl.innerHTML = `<div class="mem-retention">答對率 <strong>${rate}%</strong><small>(普通+熟了 ÷ 全部作答)</small></div>`;
+    retEl.innerHTML = `<div class="mem-sec-title">答對率</div><div class="mem-retention"><strong>${rate}%</strong><small>(普通+熟了 ÷ 全部作答)</small></div>`;
   }
 }
 function showStreakTab(tab) {
