@@ -1009,7 +1009,7 @@ footer {
 .mem-lang-num { font-size: 12px; color: var(--muted); min-width: 70px; text-align: right; font-variant-numeric: tabular-nums; }
 .mem-retention { margin-top: 16px; text-align: center; font-size: 15px; }
 .mem-retention strong { color: var(--accent); font-size: 18px; }
-.mem-retention small { color: var(--muted); font-size: 12px; margin-left: 6px; }
+.mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
 
 /* 單字 popup（card-picker）*/
 .srs-deck-top { display: flex; justify-content: center; margin-bottom: 8px; }
