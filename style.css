@@ -1057,3 +1057,8 @@ footer {
 .hicon { width: 17px; height: 17px; vertical-align: -3px; display: inline-block; }
 /* active 顏色（先用青綠，非紫；要改改這裡即可，或設成 var(--accent)）*/
 #streak-fire.streak-active, #mem-fire.streak-active { color: #0d9488; }
+
+/* 口說與疊卡圖示顏色統一：兩者所有狀態都用同一青綠，未達標只降透明度（不變灰）*/
+#streak-fire, #mem-fire { color: #0d9488; }
+#streak-fire.streak-dim, #mem-fire.streak-dim { color: #0d9488; opacity: 0.4; }
+#streak-fire.streak-active, #mem-fire.streak-active { color: #0d9488; opacity: 1; }
