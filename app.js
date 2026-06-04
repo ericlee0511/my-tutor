@@ -758,7 +758,7 @@ function renderHeatmap() {
   }
   const dayHeader = ["日","一","二","三","四","五","六"]
     .map(d => `<div class="hm-dow">${d}</div>`).join("");
-  const intro = `<div class="mem-sec-title">句子練習熱力圖</div><div class="hm-intro">最近 30 天學習記錄，顏色越鮮明表示那天翻越多張卡。</div>`;
+  const intro = `<div class="mem-sec-title">句子練習熱力圖</div><div class="hm-intro">最近 30 天學習記錄，顏色越鮮明表示練習越多。</div>`;
   const legend =
     `<div class="hm-legend">` +
       `<span>少</span>` +
@@ -2639,8 +2639,8 @@ function closeSrsReview() {
 // ---- 進度條（記憶複習，全牌組加總）----
 function srsTodayProgress() {
   const s = ensureSrs();
-  // 分子：今日按「普通/熟了」的張數（忘了不算），上限 = newPerDay；分母：固定 newPerDay(50)
-  return { X: Math.min(s.daily.passed || 0, s.newPerDay), Y: s.newPerDay };
+  // 分子：今日按「普通/熟了」的張數（忘了不算）；分母：每日目標 DAILY_GOAL(30)，與句子練習條一致
+  return { X: s.daily.passed || 0, Y: DAILY_GOAL };
 }
 function updateMemBar() {
   const fill = document.getElementById("mem-bar-fill"), txt = document.getElementById("mem-bar-text");
@@ -2678,11 +2678,23 @@ function buildHeatmapGrid(cntFn, intro) {
     for (let d = 0; d < 7; d++) {
       const day = new Date(ws); day.setDate(ws.getDate() + d); const key = dateKey(day);
       if (day > today || key < earliestK) rows.push(`<div class="hm-cell hm-empty"></div>`);
-      else { const c = cntFn(key); rows.push(`<div class="hm-cell ${heatmapTier(c)}${key === todayK ? " hm-today" : ""}" title="${key} · ${c} 張"></div>`); }
+      else {
+        const c = cntFn(key);
+        const sym = heatmapSymbol(c);
+        const symHtml = sym ? `<span class="hm-sym">${sym}</span>` : "";
+        rows.push(`<div class="hm-cell ${heatmapTier(c)}${key === todayK ? " hm-today" : ""}" title="${key} · ${c} 張">${symHtml}</div>`);
+      }
     }
   }
   const dow = ["日","一","二","三","四","五","六"].map(x => `<div class="hm-dow">${x}</div>`).join("");
-  return `<div class="hm-intro">${intro}</div><div class="hm-grid">${dow}${rows.join("")}</div>`;
+  const legend =
+    `<div class="hm-legend"><span>少</span>` +
+    `<span class="hm-cell hm-0"></span><span class="hm-cell hm-1"></span>` +
+    `<span class="hm-cell hm-2"></span><span class="hm-cell hm-3"></span><span>多</span>` +
+    `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span></div>`;
+  const symLegend =
+    `<div class="hm-legend hm-sym-legend"><span>⭐ 達標 30</span><span>🔥 雙倍 60</span><span>👑 爆發 90</span></div>`;
+  return `<div class="hm-intro">${intro}</div><div class="hm-grid">${dow}${rows.join("")}</div>${legend}${symLegend}`;
 }
 function memStatCard(label, num, unit) {
   return `<div class="mem-card"><div class="mem-card-num">${num}<small>${unit}</small></div><div class="mem-card-label">${label}</div></div>`;
