@@ -696,7 +696,7 @@ function updateStreakUI() {
   if (!fire) return;
   const { n, active } = effectiveStreak();
   if (num) num.textContent = String(n);
-  else fire.textContent = `🔥 ${n}`;
+  else fire.textContent = `🗣️ ${n}`;
   fire.classList.toggle("streak-active", active);
   fire.classList.toggle("streak-dim", !active);
   const todayCount = state.streak.lastDay === todayKey() ? (state.streak.todayCount || 0) : 0;
