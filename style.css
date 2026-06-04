@@ -997,8 +997,8 @@ footer {
 
 /* 記憶複習分頁內容 */
 .mem-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
-.mem-card { background: var(--accent-soft); border-radius: 10px; padding: 10px 4px; text-align: center; }
-.mem-card-num { font-size: 20px; font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; }
+.mem-card { background: var(--accent-soft); border-radius: 10px; padding: 10px 4px; text-align: center; min-width: 0; }
+.mem-card-num { font-size: clamp(15px, 4.6vw, 20px); font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .mem-card-num small { font-size: 11px; margin-left: 1px; color: var(--muted); }
 .mem-card-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .mem-sec-title { font-size: 14px; font-weight: 600; color: var(--accent); margin: 16px 0 8px; }
