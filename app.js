@@ -758,7 +758,7 @@ function renderHeatmap() {
   }
   const dayHeader = ["日","一","二","三","四","五","六"]
     .map(d => `<div class="hm-dow">${d}</div>`).join("");
-  const intro = `<div class="hm-intro">最近 30 天學習記錄，顏色越鮮明表示那天翻越多張卡。</div>`;
+  const intro = `<div class="mem-sec-title">句子練習熱力圖</div><div class="hm-intro">最近 30 天學習記錄，顏色越鮮明表示那天翻越多張卡。</div>`;
   const legend =
     `<div class="hm-legend">` +
       `<span>少</span>` +
@@ -2704,7 +2704,7 @@ function renderMemoryTab() {
   const retEl = document.getElementById("mem-retention");
   if (retEl) {
     const rate = s.stats.answered ? Math.round((s.stats.answered - s.stats.again) / s.stats.answered * 100) : 0;
-    retEl.innerHTML = `<div class="mem-retention">保留率 <strong>${rate}%</strong>　<small>(普通+熟了 ÷ 全部作答)</small></div>`;
+    retEl.innerHTML = `<div class="mem-retention">保留率 <strong>${rate}%</strong><small>(普通+熟了 ÷ 全部作答)</small></div>`;
   }
 }
 function showStreakTab(tab) {
