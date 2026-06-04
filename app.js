@@ -2564,7 +2564,12 @@ function srsRenderCard() {
   document.getElementById("srs-rev-title").textContent = ses.label;
   { const tp = srsTodayProgress(); document.getElementById("srs-rev-progress").textContent = `${tp.X} / ${tp.Y}`; }
   if (ses.totalInitial === 0) {
-    card.innerHTML = `<div class="srs-done">這個方向今天沒有要複習的卡了 🎉<br>（到期複習已完成，或今日新卡額度已用完；可切換另一個方向）</div>`;
+    const s = ensureSrs();
+    const budgetLeft = (s.newPerDay - (s.daily.newToday || 0)) > 0;
+    const msg = budgetLeft
+      ? `這個方向今天的卡都做完了 🎉`
+      : `今日新卡額度 (${s.newPerDay} 張) 已用完 🎉<br>這個方向也沒有到期複習的卡了，明天會再出新卡。`;
+    card.innerHTML = `<div class="srs-done">${msg}</div>`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
   }
