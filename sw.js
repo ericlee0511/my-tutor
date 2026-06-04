@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v405";
+const CACHE = "jp-tutor-v406";
 const ASSETS = [
   "./",
   "./index.html",
@@ -639,7 +639,16 @@ const ASSETS = [
 ];
 
 self.addEventListener("install", e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
+  // 會變動的檔（html/js/css/json/md）強制繞過 HTTP 快取抓最新，避免新版 SW 仍快取到
+  // 瀏覽器 HTTP 快取裡的舊檔；不變的大檔（vendor/kuromoji 辭典）維持一般抓取省流量。
+  e.waitUntil(caches.open(CACHE).then(c => {
+    const fresh = ASSETS.filter(u => !u.includes("/vendor/"));
+    const normal = ASSETS.filter(u => u.includes("/vendor/"));
+    return Promise.all([
+      c.addAll(normal),
+      c.addAll(fresh.map(u => new Request(u, { cache: "reload" }))),
+    ]);
+  }));
   self.skipWaiting();
 });
 
