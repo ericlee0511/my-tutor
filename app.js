@@ -2727,10 +2727,9 @@ function renderMemoryTab() {
     for (const [set, label] of order) {
       const total = srsSetTotalWords(set), got = learnedBySet[set] ? learnedBySet[set].size : 0;
       const pct = total ? Math.min(100, Math.round(got / total * 100)) : 0;
-      html += `<div class="mem-lang">` +
-        `<div class="mem-lang-top"><span class="mem-lang-label">${label}</span>` +
-        `<span class="mem-lang-bar"><span style="width:${pct}%"></span></span></div>` +
-        `<div class="mem-lang-num">${got}/${total}</div></div>`;
+      html += `<div class="mem-lang"><span class="mem-lang-label">${label}</span>` +
+        `<span class="mem-lang-bar"><span style="width:${pct}%"></span></span>` +
+        `<span class="mem-lang-num">${got}/${total}</span></div>`;
     }
     langsEl.innerHTML = html;
   }

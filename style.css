@@ -1002,13 +1002,12 @@ footer {
 .mem-card-num small { font-size: 11px; margin-left: 1px; color: var(--muted); }
 .mem-card-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .mem-sec-title { font-size: 14px; font-weight: 600; color: var(--accent); margin: 16px 0 8px; }
-.mem-lang { display: flex; flex-direction: column; gap: 3px; margin: 10px 0; }
-.mem-lang-top { display: flex; align-items: center; gap: 8px; }
+.mem-lang { display: flex; align-items: center; gap: 8px; margin: 8px 0; position: relative; }
 .mem-lang-label { width: 42px; font-size: 13px; }
 .mem-lang-bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
 .mem-lang-bar > span { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
-/* 數字置於進度條下一行、居中對齊進度條（padding-left = 標籤寬42 + gap8）。 */
-.mem-lang-num { font-size: 12px; color: var(--muted); text-align: center; padding-left: 50px; font-variant-numeric: tabular-nums; }
+/* 數字疊在進度條右端、與進度條同行重疊；小底色確保填滿(靛色)時仍可讀。 */
+.mem-lang-num { position: absolute; right: 2px; top: 50%; transform: translateY(-50%); font-size: 11px; color: var(--muted); background: var(--card); padding: 0 4px; border-radius: 6px; line-height: 1.5; font-variant-numeric: tabular-nums; }
 .mem-retention { text-align: center; font-size: 15px; }
 .mem-retention strong { color: var(--accent); font-size: 18px; }
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
