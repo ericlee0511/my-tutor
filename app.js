@@ -2900,10 +2900,25 @@ window.addEventListener("DOMContentLoaded", async () => {
     navigator.serviceWorker.addEventListener("controllerchange", () => {
       if (reloading) return;
       reloading = true;
-      window.location.reload();
+      window.location.reload();   // 新版 SW 接手 → 自動重載一次套用新檔
     });
     navigator.serviceWorker.register("sw.js", { updateViaCache: "none" })
-      .then(reg => reg.update())
+      .then(reg => {
+        // 自動強制檢查更新：載入時 + 每次切回前景時（手機「開啟」常是 resume，不會重新載入）。
+        // 節流 20 秒避免頻繁切換時重複檢查；檢查只重抓 ~21KB sw.js（多半 304），流量可忽略。
+        let last = 0;
+        const check = () => {
+          const now = Date.now();
+          if (now - last < 20000) return;
+          last = now;
+          reg.update().catch(() => {});
+        };
+        check();
+        document.addEventListener("visibilitychange", () => {
+          if (document.visibilityState === "visible") check();
+        });
+        window.addEventListener("focus", check);
+      })
       .catch(() => {});
   }
 });
