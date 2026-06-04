@@ -2683,7 +2683,7 @@ function renderMemoryTab() {
   const statsEl = document.getElementById("mem-stats");
   if (statsEl) statsEl.innerHTML = `<div class="mem-cards">` +
     memStatCard("已學", bases.size, "組") + memStatCard("熟練", mature, "卡") +
-    memStatCard("今日複習", h.reviewed + h.new, "") + memStatCard("連續", srsReviewStreak(), "天") + `</div>`;
+    memStatCard("今日複習", h.reviewed + h.new, "張") + memStatCard("連續", srsReviewStreak(), "天") + `</div>`;
   const langsEl = document.getElementById("mem-langs");
   if (langsEl) {
     const order = [["dele","西語"],["ko","韓語"],["jap","日語"],["toeic","多益"],["gept","英檢"]];
