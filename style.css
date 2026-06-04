@@ -1045,7 +1045,7 @@ footer {
 .srs-grade { flex: 1; padding: 13px 4px; border-radius: 10px; border: 1px solid var(--border); font-size: 15px; font-weight: 600; cursor: pointer; font-family: inherit; }
 .srs-grade:active { transform: scale(0.96); }
 .srs-again { background: #fdecec; color: #c0392b; }
-.srs-ok { background: var(--accent-soft); color: var(--accent); }
+.srs-ok { background: #fef3c7; color: #b45309; }
 .srs-easy { background: #e8f7ee; color: #1e7e44; }
 
 /* 學習成就 popup：固定高度，切換分頁不跳動、上緣對齊 */
@@ -1056,9 +1056,9 @@ footer {
 /* 進度條圖示（SVG，可 currentColor 上色）*/
 .hicon { width: 17px; height: 17px; vertical-align: -3px; display: inline-block; }
 /* active 顏色（先用青綠，非紫；要改改這裡即可，或設成 var(--accent)）*/
-#streak-fire.streak-active, #mem-fire.streak-active { color: #0d9488; }
+#streak-fire.streak-active, #mem-fire.streak-active { color: #f59e0b; }
 
 /* 口說與疊卡圖示顏色統一：兩者所有狀態都用同一青綠，未達標只降透明度（不變灰）*/
-#streak-fire, #mem-fire { color: #0d9488; }
-#streak-fire.streak-dim, #mem-fire.streak-dim { color: #0d9488; opacity: 0.4; }
-#streak-fire.streak-active, #mem-fire.streak-active { color: #0d9488; opacity: 1; }
+#streak-fire, #mem-fire { color: #f59e0b; }
+#streak-fire.streak-dim, #mem-fire.streak-dim { color: #f59e0b; opacity: 0.4; }
+#streak-fire.streak-active, #mem-fire.streak-active { color: #f59e0b; opacity: 1; }
