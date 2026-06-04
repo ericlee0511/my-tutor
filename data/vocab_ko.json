@@ -1017,14 +1017,6 @@
       "example_zh": "初次見面，我是金民秀。"
     },
     {
-      "word": "잘 부탁드립니다",
-      "hanja": "",
-      "romanization": "jal butakdeurimnida",
-      "meaning_zh": "請多關照",
-      "example_ko": "앞으로 잘 부탁드립니다.",
-      "example_zh": "今後請多關照。"
-    },
-    {
       "word": "죄송합니다",
       "hanja": "罪悚",
       "romanization": "joesonghamnida",
@@ -1263,22 +1255,6 @@
       "meaning_zh": "可愛",
       "example_ko": "아기가 귀여워요.",
       "example_zh": "寶寶很可愛。"
-    },
-    {
-      "word": "키가 크다",
-      "hanja": "",
-      "romanization": "kiga keuda",
-      "meaning_zh": "個子高",
-      "example_ko": "오빠가 키가 커요.",
-      "example_zh": "哥哥個子高。"
-    },
-    {
-      "word": "키가 작다",
-      "hanja": "",
-      "romanization": "kiga jakda",
-      "meaning_zh": "個子矮",
-      "example_ko": "동생이 키가 작아요.",
-      "example_zh": "弟弟個子矮。"
     },
     {
       "word": "아프다",
@@ -3457,22 +3433,6 @@
       "example_zh": "對消息感到驚訝。"
     },
     {
-      "word": "기분이 좋다",
-      "hanja": "氣分",
-      "romanization": "gibuni jota",
-      "meaning_zh": "心情好",
-      "example_ko": "오늘 기분이 좋아요.",
-      "example_zh": "今天心情好。"
-    },
-    {
-      "word": "기분이 나쁘다",
-      "hanja": "氣分",
-      "romanization": "gibuni nappeuda",
-      "meaning_zh": "心情不好",
-      "example_ko": "비가 와서 기분이 나빠요.",
-      "example_zh": "下雨所以心情不好。"
-    },
-    {
       "word": "무겁다",
       "hanja": "",
       "romanization": "mugeopda",
@@ -4353,14 +4313,6 @@
       "example_zh": "因為不認識路，所以問了路過的人。"
     },
     {
-      "word": "옷을 입다",
-      "hanja": "",
-      "romanization": "oseul ipda",
-      "meaning_zh": "穿衣服",
-      "example_ko": "두꺼운 옷을 입으니까 안 추워요.",
-      "example_zh": "穿了厚衣服所以不冷。"
-    },
-    {
       "word": "약",
       "hanja": "藥",
       "romanization": "yak",
@@ -4465,30 +4417,6 @@
       "example_zh": "鞋子尺寸剛剛好。"
     },
     {
-      "word": "입어 보다",
-      "hanja": "",
-      "romanization": "ibeo boda",
-      "meaning_zh": "試穿（衣服）",
-      "example_ko": "한번 입어 봐도 돼요?",
-      "example_zh": "我可以試穿一下嗎？"
-    },
-    {
-      "word": "신어 보다",
-      "hanja": "",
-      "romanization": "sineo boda",
-      "meaning_zh": "試穿（鞋子）",
-      "example_ko": "이 신발 신어 봐도 돼요?",
-      "example_zh": "我可以試穿這雙鞋嗎？"
-    },
-    {
-      "word": "써 보다",
-      "hanja": "",
-      "romanization": "sseo boda",
-      "meaning_zh": "試用、試戴",
-      "example_ko": "이 모자를 써 보세요.",
-      "example_zh": "請試戴看看這頂帽子。"
-    },
-    {
       "word": "온라인",
       "hanja": "",
       "romanization": "ollain",
@@ -4567,14 +4495,6 @@
       "meaning_zh": "付（錢）",
       "example_ko": "제가 낼게요.",
       "example_zh": "我來付。"
-    },
-    {
-      "word": "돈을 쓰다",
-      "hanja": "",
-      "romanization": "doneul sseuda",
-      "meaning_zh": "花錢",
-      "example_ko": "돈을 너무 많이 썼어요.",
-      "example_zh": "我花了太多錢。"
     },
     {
       "word": "사인",
@@ -4697,14 +4617,6 @@
       "example_zh": "謝謝，歡迎再來。"
     },
     {
-      "word": "보여 주다",
-      "hanja": "",
-      "romanization": "boyeo juda",
-      "meaning_zh": "給看",
-      "example_ko": "이거 좀 보여 주세요.",
-      "example_zh": "請給我看看這個。"
-    },
-    {
       "word": "넣다",
       "hanja": "",
       "romanization": "neota",
@@ -4759,14 +4671,6 @@
       "meaning_zh": "確認",
       "example_ko": "확인 부탁드려요.",
       "example_zh": "請幫我確認。"
-    },
-    {
-      "word": "지금 사다",
-      "hanja": "",
-      "romanization": "jigeum sada",
-      "meaning_zh": "現在買",
-      "example_ko": "지금 사면 더 싸요.",
-      "example_zh": "現在買比較便宜。"
     },
     {
       "word": "다음에",
@@ -4967,30 +4871,6 @@
       "meaning_zh": "悲傷",
       "example_ko": "그 영화가 너무 슬펐어요.",
       "example_zh": "那部電影太悲傷了。"
-    },
-    {
-      "word": "보고 싶다",
-      "hanja": "",
-      "romanization": "bogo sipda",
-      "meaning_zh": "想念、想見",
-      "example_ko": "엄마가 보고 싶어요.",
-      "example_zh": "想媽媽了。"
-    },
-    {
-      "word": "비가 오다",
-      "hanja": "",
-      "romanization": "biga oda",
-      "meaning_zh": "下雨",
-      "example_ko": "아침부터 비가 와요.",
-      "example_zh": "從早上開始就下雨。"
-    },
-    {
-      "word": "눈이 오다",
-      "hanja": "",
-      "romanization": "nuni oda",
-      "meaning_zh": "下雪",
-      "example_ko": "어제 처음으로 눈이 왔어요.",
-      "example_zh": "昨天第一次下雪了。"
     },
     {
       "word": "동물",
@@ -9035,14 +8915,6 @@
       "example_zh": "昨晚做了奇怪的夢。"
     },
     {
-      "word": "이를 닦다",
-      "hanja": "",
-      "romanization": "ireul dakda",
-      "meaning_zh": "刷牙",
-      "example_ko": "자기 전에 꼭 이를 닦으세요.",
-      "example_zh": "睡前一定要刷牙。"
-    },
-    {
       "word": "세수하다",
       "hanja": "洗手",
       "romanization": "sesuhada",
@@ -9067,12 +8939,11 @@
       "example_zh": "因為太累所以用熱水泡了澡。"
     },
     {
-      "word": "옷을 갈아입다",
-      "hanja": "",
-      "romanization": "oseul garaipda",
-      "meaning_zh": "換衣服",
-      "example_ko": "집에 가서 편한 옷으로 갈아입었어요.",
-      "example_zh": "回家後換了舒服的衣服。"
+      "word": "갈아입다",
+      "romanization": "garaipda",
+      "meaning_zh": "換穿（衣服）",
+      "example_ko": "운동을 마치고 깨끗한 옷으로 갈아입었다.",
+      "example_zh": "運動結束後換上了乾淨的衣服。"
     },
     {
       "word": "밥솥",
@@ -9193,14 +9064,6 @@
       "meaning_zh": "閱讀",
       "example_ko": "독서는 오랜 시간 즐겨 온 취미예요.",
       "example_zh": "閱讀是我長久以來的興趣。"
-    },
-    {
-      "word": "낮잠 자다",
-      "hanja": "",
-      "romanization": "natjam jada",
-      "meaning_zh": "睡午覺",
-      "example_ko": "주말에는 두 시간 정도 낮잠을 자요.",
-      "example_zh": "週末會睡兩個小時左右的午覺。"
     },
     {
       "word": "리모컨",
@@ -9449,14 +9312,6 @@
       "meaning_zh": "水龍頭",
       "example_ko": "수도꼭지에서 물이 새요.",
       "example_zh": "水龍頭在漏水。"
-    },
-    {
-      "word": "물을 틀다",
-      "hanja": "",
-      "romanization": "mureul teulda",
-      "meaning_zh": "開水",
-      "example_ko": "물을 틀고 손을 씻었어요.",
-      "example_zh": "打開水洗了手。"
     },
     {
       "word": "냉수",
@@ -9795,14 +9650,6 @@
       "example_zh": "我做了新的嘗試。"
     },
     {
-      "word": "마음에 들다",
-      "hanja": "",
-      "romanization": "ma-eume deulda",
-      "meaning_zh": "中意、滿意",
-      "example_ko": "이 가방이 마음에 들어요.",
-      "example_zh": "我很喜歡這個包包。"
-    },
-    {
       "word": "어울리다",
       "hanja": "",
       "romanization": "eoullida",
@@ -9817,22 +9664,6 @@
       "meaning_zh": "寬鬆",
       "example_ko": "바지가 헐렁해요.",
       "example_zh": "褲子很寬鬆。"
-    },
-    {
-      "word": "꽉 끼다",
-      "hanja": "",
-      "romanization": "kkwak kkida",
-      "meaning_zh": "緊繃",
-      "example_ko": "이 청바지는 꽉 껴요.",
-      "example_zh": "這條牛仔褲很緊。"
-    },
-    {
-      "word": "끼워 보다",
-      "hanja": "",
-      "romanization": "kkiwo boda",
-      "meaning_zh": "試戴（戒指等）",
-      "example_ko": "반지를 끼워 봤어요.",
-      "example_zh": "我試戴了戒指。"
     },
     {
       "word": "살까 말까",
@@ -10065,14 +9896,6 @@
       "meaning_zh": "支付",
       "example_ko": "현금으로 지불했어요.",
       "example_zh": "我用現金支付了。"
-    },
-    {
-      "word": "돈을 모으다",
-      "hanja": "",
-      "romanization": "doneul moeuda",
-      "meaning_zh": "存錢",
-      "example_ko": "여행 가려고 돈을 모아요.",
-      "example_zh": "我為了旅行在存錢。"
     },
     {
       "word": "용돈",
@@ -10499,14 +10322,6 @@
       "example_zh": "可以修改訂單嗎？"
     },
     {
-      "word": "마음에 안 들다",
-      "hanja": "",
-      "romanization": "ma-eume an deulda",
-      "meaning_zh": "不喜歡",
-      "example_ko": "색이 마음에 안 들어요.",
-      "example_zh": "我不喜歡這個顏色。"
-    },
-    {
       "word": "후회하다",
       "hanja": "後悔",
       "romanization": "huhoehada",
@@ -10537,14 +10352,6 @@
       "meaning_zh": "預購",
       "example_ko": "콘서트 표를 예매했어요.",
       "example_zh": "我預購了演唱會的票。"
-    },
-    {
-      "word": "줄을 서다",
-      "hanja": "",
-      "romanization": "jureul seoda",
-      "meaning_zh": "排隊",
-      "example_ko": "줄을 서서 기다렸어요.",
-      "example_zh": "我排隊等了。"
     },
     {
       "word": "관광",
@@ -10977,14 +10784,6 @@
       "meaning_zh": "指引方向",
       "example_ko": "길 안내를 부탁드려요.",
       "example_zh": "請幫我指路。"
-    },
-    {
-      "word": "길 잃다",
-      "hanja": "",
-      "romanization": "gil ilta",
-      "meaning_zh": "迷路",
-      "example_ko": "관광지에서 길을 잃었어요.",
-      "example_zh": "在景點迷路了。"
     },
     {
       "word": "직진",
@@ -11803,14 +11602,6 @@
       "example_zh": "我們從去年開始交往。"
     },
     {
-      "word": "잘 지내다",
-      "hanja": "",
-      "romanization": "jal jinaeda",
-      "meaning_zh": "過得好、相處融洽",
-      "example_ko": "요즘 잘 지내고 있어요.",
-      "example_zh": "最近過得很好。"
-    },
-    {
       "word": "싸우다",
       "hanja": "",
       "romanization": "ssauda",
@@ -11995,22 +11786,6 @@
       "example_zh": "兩個人的關係看起來很好。"
     },
     {
-      "word": "사이가 좋다",
-      "hanja": "",
-      "romanization": "saiga jota",
-      "meaning_zh": "關係好",
-      "example_ko": "형제 사이가 아주 좋아요.",
-      "example_zh": "兄弟之間關係很好。"
-    },
-    {
-      "word": "사이가 나쁘다",
-      "hanja": "",
-      "romanization": "saiga nappeuda",
-      "meaning_zh": "關係不好",
-      "example_ko": "두 사람은 사이가 나빠요.",
-      "example_zh": "兩個人關係不好。"
-    },
-    {
       "word": "걱정",
       "hanja": "",
       "romanization": "geokjeong",
@@ -12033,22 +11808,6 @@
       "meaning_zh": "煩惱",
       "example_ko": "친구에게 고민을 털어놓았어요.",
       "example_zh": "向朋友傾訴了煩惱。"
-    },
-    {
-      "word": "스트레스를 받다",
-      "hanja": "",
-      "romanization": "seuteureseureul batda",
-      "meaning_zh": "感到壓力",
-      "example_ko": "일 때문에 스트레스를 받아요.",
-      "example_zh": "因為工作感到壓力。"
-    },
-    {
-      "word": "스트레스를 풀다",
-      "hanja": "",
-      "romanization": "seuteureseureul pulda",
-      "meaning_zh": "紓解壓力",
-      "example_ko": "운동으로 스트레스를 풀어요.",
-      "example_zh": "用運動紓解壓力。"
     },
     {
       "word": "기대하다",
@@ -12147,14 +11906,6 @@
       "example_zh": "很久沒見很高興見到你。"
     },
     {
-      "word": "좋아 죽겠다",
-      "hanja": "",
-      "romanization": "joa jukgetda",
-      "meaning_zh": "喜歡得不得了",
-      "example_ko": "새 가방이 좋아 죽겠어요.",
-      "example_zh": "新包包喜歡得不得了。"
-    },
-    {
       "word": "신나다",
       "hanja": "",
       "romanization": "sinnada",
@@ -12193,14 +11944,6 @@
       "meaning_zh": "加油、支持",
       "example_ko": "항상 너를 응원할게.",
       "example_zh": "我會一直支持你。"
-    },
-    {
-      "word": "인기가 많다",
-      "hanja": "人氣",
-      "romanization": "ingiga manta",
-      "meaning_zh": "受歡迎",
-      "example_ko": "그 선배는 인기가 많아요.",
-      "example_zh": "那個學長很受歡迎。"
     },
     {
       "word": "매력",
@@ -12267,38 +12010,6 @@
       "example_zh": "在韓國生活的同時，深深感受到了韓國人的人情味。"
     },
     {
-      "word": "마음이 아프다",
-      "hanja": "",
-      "romanization": "maeumi apeuda",
-      "meaning_zh": "心痛",
-      "example_ko": "그 소식을 듣고 마음이 아팠어요.",
-      "example_zh": "聽到那消息心很痛。"
-    },
-    {
-      "word": "마음이 편하다",
-      "hanja": "",
-      "romanization": "maeumi pyeonhada",
-      "meaning_zh": "心情輕鬆",
-      "example_ko": "가족과 있을 때 마음이 편해요.",
-      "example_zh": "和家人在一起心情很輕鬆。"
-    },
-    {
-      "word": "성격이 좋다",
-      "hanja": "性格",
-      "romanization": "seonggyeogi jota",
-      "meaning_zh": "個性好",
-      "example_ko": "그 친구는 성격이 정말 좋아요.",
-      "example_zh": "那個朋友個性真的很好。"
-    },
-    {
-      "word": "성격이 나쁘다",
-      "hanja": "性格",
-      "romanization": "seonggyeogi nappeuda",
-      "meaning_zh": "個性壞",
-      "example_ko": "성격이 나쁘면 친구를 잃어요.",
-      "example_zh": "個性壞會失去朋友。"
-    },
-    {
       "word": "분위기",
       "hanja": "雰圍氣",
       "romanization": "bunwigi",
@@ -12345,14 +12056,6 @@
       "meaning_zh": "晴朗",
       "example_ko": "하늘이 아주 맑아요.",
       "example_zh": "天空非常晴朗。"
-    },
-    {
-      "word": "바람이 불다",
-      "hanja": "",
-      "romanization": "barami bulda",
-      "meaning_zh": "颳風",
-      "example_ko": "바람이 세게 불어요.",
-      "example_zh": "風颳得很大。"
     },
     {
       "word": "태풍",
@@ -12425,22 +12128,6 @@
       "meaning_zh": "落葉",
       "example_ko": "길에 낙엽이 가득해요.",
       "example_zh": "路上滿是落葉。"
-    },
-    {
-      "word": "꽃이 피다",
-      "hanja": "",
-      "romanization": "kkochi pida",
-      "meaning_zh": "開花",
-      "example_ko": "벚꽃이 활짝 피었어요.",
-      "example_zh": "櫻花盛開了。"
-    },
-    {
-      "word": "꽃이 지다",
-      "hanja": "",
-      "romanization": "kkochi jida",
-      "meaning_zh": "花謝",
-      "example_ko": "벌써 꽃이 지기 시작했어요.",
-      "example_zh": "花已經開始凋謝了。"
     },
     {
       "word": "얼다",
@@ -12859,14 +12546,6 @@
       "example_zh": "白天越來越熱。"
     },
     {
-      "word": "비가 그치다",
-      "hanja": "",
-      "romanization": "biga geuchida",
-      "meaning_zh": "雨停",
-      "example_ko": "비가 그치고 무지개가 떴어요.",
-      "example_zh": "雨停了出現了彩虹。"
-    },
-    {
       "word": "그림자",
       "hanja": "",
       "romanization": "geurimja",
@@ -13059,22 +12738,6 @@
       "example_zh": "孩子們都喜歡果凍。"
     },
     {
-      "word": "직접 만들다",
-      "hanja": "直接",
-      "romanization": "jikjeop mandeulda",
-      "meaning_zh": "親手做",
-      "example_ko": "빵을 직접 만들어서 친구에게 선물했어요.",
-      "example_zh": "親手做了麵包送給朋友。"
-    },
-    {
-      "word": "다시 데우다",
-      "hanja": "",
-      "romanization": "dasi deuda",
-      "meaning_zh": "再加熱",
-      "example_ko": "식은 국을 다시 데워 먹었어요.",
-      "example_zh": "把涼掉的湯再加熱來吃。"
-    },
-    {
       "word": "외식하다",
       "hanja": "外食",
       "romanization": "oesikhada",
@@ -13083,36 +12746,18 @@
       "example_zh": "每個週末全家人一起出去吃飯。"
     },
     {
-      "word": "아침을 거르다",
-      "hanja": "",
-      "romanization": "achimeul georeuda",
-      "meaning_zh": "沒吃早餐、跳過早餐",
-      "example_ko": "아침을 거르면 건강에 안 좋아요.",
-      "example_zh": "不吃早餐對健康不好。"
+      "word": "거르다",
+      "romanization": "georeuda",
+      "meaning_zh": "跳過、略過、間隔",
+      "example_ko": "바빠서 점심을 거르고 일했다.",
+      "example_zh": "因為太忙，沒吃午餐就工作了。"
     },
     {
-      "word": "점심을 먹다",
-      "hanja": "點心",
-      "romanization": "jeomsimeul meokda",
-      "meaning_zh": "吃午餐",
-      "example_ko": "동료들과 함께 점심을 먹었어요.",
-      "example_zh": "和同事們一起吃了午餐。"
-    },
-    {
-      "word": "저녁을 함께하다",
-      "hanja": "",
-      "romanization": "jeonyeogeul hamkkehada",
-      "meaning_zh": "一起吃晚餐",
-      "example_ko": "오랜만에 가족과 저녁을 함께했어요.",
-      "example_zh": "久違地和家人一起吃了晚餐。"
-    },
-    {
-      "word": "입맛이 없다",
-      "hanja": "",
-      "romanization": "immasi eopda",
-      "meaning_zh": "沒胃口",
-      "example_ko": "날씨가 더워서 입맛이 없어요.",
-      "example_zh": "天氣熱所以沒胃口。"
+      "word": "함께하다",
+      "romanization": "hamkkehada",
+      "meaning_zh": "一起做、共度、相伴",
+      "example_ko": "좋은 사람들과 시간을 함께해서 행복했다.",
+      "example_zh": "和好的人一起共度時光，感到很幸福。"
     },
     {
       "word": "음식 사진",
@@ -13379,14 +13024,6 @@
       "example_zh": "運動時腳踝受傷了。"
     },
     {
-      "word": "피가 나다",
-      "hanja": "",
-      "romanization": "pi-ga na-da",
-      "meaning_zh": "流血",
-      "example_ko": "코에서 피가 나요.",
-      "example_zh": "鼻子流血了。"
-    },
-    {
       "word": "붓다",
       "hanja": "",
       "romanization": "but-da",
@@ -13467,30 +13104,6 @@
       "example_zh": "因為灰塵一直打噴嚏。"
     },
     {
-      "word": "열이 나다",
-      "hanja": "",
-      "romanization": "yeo-ri na-da",
-      "meaning_zh": "發燒",
-      "example_ko": "어제부터 열이 나요.",
-      "example_zh": "從昨天開始發燒。"
-    },
-    {
-      "word": "잠이 안 오다",
-      "hanja": "",
-      "romanization": "ja-mi an o-da",
-      "meaning_zh": "睡不著",
-      "example_ko": "커피를 마시면 잠이 안 와요.",
-      "example_zh": "喝咖啡就睡不著。"
-    },
-    {
-      "word": "잠이 부족하다",
-      "hanja": "",
-      "romanization": "ja-mi bu-jok-ha-da",
-      "meaning_zh": "睡眠不足",
-      "example_ko": "요즘 잠이 부족해서 피곤해요.",
-      "example_zh": "最近睡眠不足很累。"
-    },
-    {
       "word": "엉덩이",
       "hanja": "",
       "romanization": "eong-deong-i",
@@ -13513,30 +13126,6 @@
       "meaning_zh": "減肥",
       "example_ko": "건강한 다이어트가 중요해요.",
       "example_zh": "健康的減肥很重要。"
-    },
-    {
-      "word": "살을 빼다",
-      "hanja": "",
-      "romanization": "sa-reul ppae-da",
-      "meaning_zh": "減肥、減重",
-      "example_ko": "여름까지 살을 빼고 싶어요.",
-      "example_zh": "想在夏天前減肥。"
-    },
-    {
-      "word": "살이 빠지다",
-      "hanja": "",
-      "romanization": "sa-ri ppa-ji-da",
-      "meaning_zh": "變瘦",
-      "example_ko": "운동해서 살이 빠졌어요.",
-      "example_zh": "運動後變瘦了。"
-    },
-    {
-      "word": "살이 찌다",
-      "hanja": "",
-      "romanization": "sa-ri jji-da",
-      "meaning_zh": "變胖",
-      "example_ko": "겨울에는 살이 잘 쪄요.",
-      "example_zh": "冬天容易變胖。"
     },
     {
       "word": "체중",
@@ -13787,12 +13376,11 @@
       "example_zh": "在眼鏡行做了視力檢查。"
     },
     {
-      "word": "시력이 나빠지다",
-      "hanja": "",
-      "romanization": "si-ryeo-gi na-ppa-ji-da",
-      "meaning_zh": "視力變差",
-      "example_ko": "휴대폰을 많이 보면 시력이 나빠져요.",
-      "example_zh": "看太多手機視力會變差。"
+      "word": "나빠지다",
+      "romanization": "nappajida",
+      "meaning_zh": "變壞、變差、惡化",
+      "example_ko": "날씨가 갑자기 나빠져서 등산을 포기했다.",
+      "example_zh": "天氣突然變差，放棄了登山。"
     },
     {
       "word": "체온",
@@ -13809,14 +13397,6 @@
       "meaning_zh": "打針、注射",
       "example_ko": "주사를 맞고 나서 좀 어지러워요.",
       "example_zh": "打針之後有點頭暈。"
-    },
-    {
-      "word": "주사를 맞다",
-      "hanja": "",
-      "romanization": "ju-sa-reul mat-da",
-      "meaning_zh": "打針",
-      "example_ko": "아이가 주사를 맞고 울었어요.",
-      "example_zh": "小孩打針後哭了。"
     },
     {
       "word": "백신",
@@ -13889,38 +13469,6 @@
       "meaning_zh": "結束通話",
       "example_ko": "통화 종료 버튼을 누르세요.",
       "example_zh": "請按結束通話按鈕。"
-    },
-    {
-      "word": "전화를 걸다",
-      "hanja": "電話",
-      "romanization": "jeonhwareul geolda",
-      "meaning_zh": "打電話",
-      "example_ko": "회사에 전화를 걸었어요.",
-      "example_zh": "打了電話給公司。"
-    },
-    {
-      "word": "전화를 받다",
-      "hanja": "電話",
-      "romanization": "jeonhwareul batda",
-      "meaning_zh": "接電話",
-      "example_ko": "전화를 빨리 받으세요.",
-      "example_zh": "請快接電話。"
-    },
-    {
-      "word": "전화를 끊다",
-      "hanja": "電話",
-      "romanization": "jeonhwareul kkeunta",
-      "meaning_zh": "掛電話",
-      "example_ko": "갑자기 전화를 끊었어요.",
-      "example_zh": "突然掛了電話。"
-    },
-    {
-      "word": "다시 걸다",
-      "hanja": "",
-      "romanization": "dasi geolda",
-      "meaning_zh": "再撥打一次",
-      "example_ko": "이따 다시 걸게요.",
-      "example_zh": "我等等再打過去。"
     },
     {
       "word": "데이터",
@@ -14171,22 +13719,6 @@
       "example_zh": "有很多留言。"
     },
     {
-      "word": "댓글을 달다",
-      "hanja": "",
-      "romanization": "daetgeureul dalda",
-      "meaning_zh": "留言",
-      "example_ko": "친구 글에 댓글을 달았어요.",
-      "example_zh": "在朋友的貼文留言了。"
-    },
-    {
-      "word": "좋아요를 누르다",
-      "hanja": "",
-      "romanization": "joayoreul nureuda",
-      "meaning_zh": "按讚",
-      "example_ko": "친구 글에 좋아요를 눌렀어요.",
-      "example_zh": "幫朋友的貼文按了讚。"
-    },
-    {
       "word": "공유",
       "hanja": "共有",
       "romanization": "gongyu",
@@ -14201,22 +13733,6 @@
       "meaning_zh": "分享",
       "example_ko": "친구에게 공유했어요.",
       "example_zh": "分享給朋友了。"
-    },
-    {
-      "word": "사진을 올리다",
-      "hanja": "寫眞",
-      "romanization": "sajineul ollida",
-      "meaning_zh": "上傳照片",
-      "example_ko": "여행 사진을 올렸어요.",
-      "example_zh": "上傳了旅行照片。"
-    },
-    {
-      "word": "동영상을 올리다",
-      "hanja": "動映像",
-      "romanization": "dongyeongsangeul ollida",
-      "meaning_zh": "上傳影片",
-      "example_ko": "유튜브에 동영상을 올렸어요.",
-      "example_zh": "在YouTube上傳了影片。"
     },
     {
       "word": "셀카",
@@ -14283,22 +13799,6 @@
       "example_zh": "改了通知設定。"
     },
     {
-      "word": "알림 끄다",
-      "hanja": "",
-      "romanization": "allim kkeuda",
-      "meaning_zh": "關閉通知",
-      "example_ko": "회의 중에는 알림을 꺼요.",
-      "example_zh": "開會時關閉通知。"
-    },
-    {
-      "word": "알림을 받다",
-      "hanja": "",
-      "romanization": "allimeul batda",
-      "meaning_zh": "收到通知",
-      "example_ko": "메시지 알림을 받았어요.",
-      "example_zh": "收到訊息通知。"
-    },
-    {
       "word": "진동",
       "hanja": "振動",
       "romanization": "jindong",
@@ -14353,14 +13853,6 @@
       "meaning_zh": "電量不足",
       "example_ko": "배터리 부족 알림이 떴어요.",
       "example_zh": "出現電量不足的通知。"
-    },
-    {
-      "word": "배터리가 떨어지다",
-      "hanja": "",
-      "romanization": "baeteoriga tteoreojida",
-      "meaning_zh": "電池沒電",
-      "example_ko": "배터리가 다 떨어졌어요.",
-      "example_zh": "電池完全沒電了。"
     },
     {
       "word": "어플",
@@ -14867,14 +14359,6 @@
       "example_zh": "我做了重要的決定。"
     },
     {
-      "word": "계획을 세우다",
-      "hanja": "計劃",
-      "romanization": "gyehoegeul seuda",
-      "meaning_zh": "訂計劃",
-      "example_ko": "여행 계획을 세웠어요.",
-      "example_zh": "我訂了旅行計劃。"
-    },
-    {
       "word": "마감일",
       "hanja": "-日",
       "romanization": "magamil",
@@ -14889,14 +14373,6 @@
       "meaning_zh": "面試",
       "example_ko": "내일 면접이 있어요.",
       "example_zh": "明天有面試。"
-    },
-    {
-      "word": "면접을 보다",
-      "hanja": "面接",
-      "romanization": "myeonjeobeul boda",
-      "meaning_zh": "面試",
-      "example_ko": "오후에 면접을 봐요.",
-      "example_zh": "下午要去面試。"
     },
     {
       "word": "이력서",
@@ -15227,22 +14703,6 @@
       "example_zh": "成績單出來了。"
     },
     {
-      "word": "성적이 좋다",
-      "hanja": "成績",
-      "romanization": "seongjeogi jota",
-      "meaning_zh": "成績好",
-      "example_ko": "우리 언니는 성적이 좋아요.",
-      "example_zh": "我姊姊成績很好。"
-    },
-    {
-      "word": "성적이 나쁘다",
-      "hanja": "成績",
-      "romanization": "seongjeogi nappeuda",
-      "meaning_zh": "成績差",
-      "example_ko": "성적이 나빠서 속상해요.",
-      "example_zh": "成績差所以很傷心。"
-    },
-    {
       "word": "통과",
       "hanja": "通過",
       "romanization": "tonggwa",
@@ -15353,14 +14813,6 @@
       "meaning_zh": "獎學金",
       "example_ko": "장학금을 받게 됐어요.",
       "example_zh": "我獲得了獎學金。"
-    },
-    {
-      "word": "장학금을 받다",
-      "hanja": "奬學金",
-      "romanization": "janghakgeumeul batda",
-      "meaning_zh": "領獎學金",
-      "example_ko": "이번 학기에 장학금을 받았어요.",
-      "example_zh": "我這學期領了獎學金。"
     },
     {
       "word": "등록금",
@@ -15561,14 +15013,6 @@
       "meaning_zh": "KTV、練歌房",
       "example_ko": "주말에 노래방에 가요.",
       "example_zh": "週末去 KTV。"
-    },
-    {
-      "word": "노래방에 가다",
-      "hanja": "—房",
-      "romanization": "noraebang-e gada",
-      "meaning_zh": "去 KTV",
-      "example_ko": "친구하고 노래방에 가요.",
-      "example_zh": "和朋友去 KTV。"
     },
     {
       "word": "아이돌",
@@ -15891,14 +15335,6 @@
       "example_zh": "喜歡畫畫。"
     },
     {
-      "word": "그림 그리다",
-      "hanja": "",
-      "romanization": "geurim geurida",
-      "meaning_zh": "畫畫",
-      "example_ko": "공원에서 그림을 그려요.",
-      "example_zh": "在公園畫畫。"
-    },
-    {
       "word": "색연필",
       "hanja": "色鉛筆",
       "romanization": "saegyeonpil",
@@ -15937,14 +15373,6 @@
       "meaning_zh": "拍照",
       "example_ko": "사진 찍기를 좋아해요.",
       "example_zh": "喜歡拍照。"
-    },
-    {
-      "word": "사진을 찍다",
-      "hanja": "寫眞",
-      "romanization": "sajin-eul jjikda",
-      "meaning_zh": "拍照",
-      "example_ko": "여행 가서 사진을 찍어요.",
-      "example_zh": "去旅行拍照。"
     },
     {
       "word": "유튜버",
@@ -20845,12 +20273,11 @@
       "example_zh": "因為惡夢沒睡好。"
     },
     {
-      "word": "코를 골다",
-      "hanja": "",
-      "romanization": "koreul golda",
+      "word": "골다",
+      "romanization": "golda",
       "meaning_zh": "打呼",
-      "example_ko": "남편이 코를 골아서 시끄러워요.",
-      "example_zh": "老公打呼很吵。"
+      "example_ko": "옆 사람이 너무 크게 골아서 잠을 못 잤다.",
+      "example_zh": "旁邊的人打呼太大聲，害我睡不著。"
     },
     {
       "word": "안방",
@@ -20899,22 +20326,6 @@
       "meaning_zh": "門鈴",
       "example_ko": "초인종 소리가 들려서 나가 봤어요.",
       "example_zh": "聽到門鈴聲就出去看了一下。"
-    },
-    {
-      "word": "장을 보다",
-      "hanja": "場",
-      "romanization": "jangeul boda",
-      "meaning_zh": "買菜",
-      "example_ko": "오늘 저녁에 장을 보러 가요.",
-      "example_zh": "今天晚上要去買菜。"
-    },
-    {
-      "word": "음식 시키다",
-      "hanja": "飮食",
-      "romanization": "eumsik sikida",
-      "meaning_zh": "點餐外送",
-      "example_ko": "오늘은 피곤해서 음식을 시킬 거예요.",
-      "example_zh": "今天太累所以會叫外送。"
     },
     {
       "word": "야식",
@@ -21741,14 +21152,6 @@
       "example_zh": "我比較內向。"
     },
     {
-      "word": "겁이 많다",
-      "hanja": "怯",
-      "romanization": "geobi manta",
-      "meaning_zh": "膽小",
-      "example_ko": "저는 겁이 많아서 무서운 영화를 못 봐요.",
-      "example_zh": "我很膽小，看不了恐怖片。"
-    },
-    {
       "word": "성실하다",
       "hanja": "誠實",
       "romanization": "seongsilhada",
@@ -21763,14 +21166,6 @@
       "meaning_zh": "自私的",
       "example_ko": "이기적인 행동은 하지 맙시다.",
       "example_zh": "我們不要做自私的行為。"
-    },
-    {
-      "word": "예의 바르다",
-      "hanja": "禮儀",
-      "romanization": "yeui bareuda",
-      "meaning_zh": "有禮貌",
-      "example_ko": "그 학생은 정말 예의 바릅니다.",
-      "example_zh": "那個學生真的很有禮貌。"
     },
     {
       "word": "버릇없다",
@@ -21869,14 +21264,6 @@
       "example_zh": "一見鍾情了。"
     },
     {
-      "word": "첫눈에 반하다",
-      "hanja": "",
-      "romanization": "cheonnune banhada",
-      "meaning_zh": "一見鍾情",
-      "example_ko": "저는 그에게 첫눈에 반했어요.",
-      "example_zh": "我對他一見鍾情。"
-    },
-    {
       "word": "짝사랑",
       "hanja": "",
       "romanization": "jjaksarang",
@@ -21933,14 +21320,6 @@
       "example_zh": "因為擔心而嘆氣。"
     },
     {
-      "word": "성격이 급하다",
-      "hanja": "性格-急",
-      "romanization": "seonggyeogi geuphada",
-      "meaning_zh": "性子急",
-      "example_ko": "저는 성격이 좀 급해요.",
-      "example_zh": "我的性子有點急。"
-    },
-    {
       "word": "느긋하다",
       "hanja": "",
       "romanization": "neugeuthada",
@@ -21965,28 +21344,11 @@
       "example_zh": "粗心大意把東西弄丟了。"
     },
     {
-      "word": "고집이 세다",
-      "hanja": "固執",
-      "romanization": "gojibi seda",
-      "meaning_zh": "固執",
-      "example_ko": "우리 아버지는 고집이 세요.",
-      "example_zh": "我爸爸很固執。"
-    },
-    {
-      "word": "마음이 넓다",
-      "hanja": "",
-      "romanization": "maeumi neopda",
-      "meaning_zh": "心胸寬大",
-      "example_ko": "마음이 넓은 사람이 되고 싶어요.",
-      "example_zh": "我想成為心胸寬大的人。"
-    },
-    {
-      "word": "마음이 좁다",
-      "hanja": "",
-      "romanization": "maeumi jopda",
-      "meaning_zh": "心胸狹窄",
-      "example_ko": "마음이 좁으면 행복하지 않아요.",
-      "example_zh": "心胸狹窄就不會幸福。"
+      "word": "세다",
+      "romanization": "seda",
+      "meaning_zh": "強；強烈",
+      "example_ko": "오늘은 바람이 무척 세다.",
+      "example_zh": "今天風很強。"
     },
     {
       "word": "정",
@@ -21995,22 +21357,6 @@
       "meaning_zh": "情、情誼",
       "example_ko": "한국 사람들은 정이 많아요.",
       "example_zh": "韓國人很有情誼。"
-    },
-    {
-      "word": "정이 들다",
-      "hanja": "情",
-      "romanization": "jeongi deulda",
-      "meaning_zh": "產生感情",
-      "example_ko": "이 동네에 정이 들었어요.",
-      "example_zh": "對這個社區產生感情了。"
-    },
-    {
-      "word": "정이 떨어지다",
-      "hanja": "情",
-      "romanization": "jeongi tteoreojida",
-      "meaning_zh": "感情冷淡、心冷",
-      "example_ko": "그 행동을 보고 정이 떨어졌어요.",
-      "example_zh": "看了那行為心都冷了。"
     },
     {
       "word": "속상하다",
@@ -22077,14 +21423,6 @@
       "example_zh": "男朋友求婚了。"
     },
     {
-      "word": "수다 떨다",
-      "hanja": "",
-      "romanization": "suda tteolda",
-      "meaning_zh": "閒聊、聊天",
-      "example_ko": "카페에서 친구와 수다 떨었어요.",
-      "example_zh": "在咖啡廳和朋友閒聊。"
-    },
-    {
       "word": "상담하다",
       "hanja": "相談",
       "romanization": "sangdamhada",
@@ -22117,68 +21455,12 @@
       "example_zh": "很難隱藏感情。"
     },
     {
-      "word": "마음을 열다",
-      "hanja": "",
-      "romanization": "maeumeul yeolda",
-      "meaning_zh": "敞開心扉",
-      "example_ko": "친구에게 마음을 열었어요.",
-      "example_zh": "向朋友敞開了心扉。"
-    },
-    {
-      "word": "마음을 닫다",
-      "hanja": "",
-      "romanization": "maeumeul datda",
-      "meaning_zh": "關閉心扉",
-      "example_ko": "상처 때문에 마음을 닫았어요.",
-      "example_zh": "因為受傷而關閉了心扉。"
-    },
-    {
       "word": "상처받다",
       "hanja": "傷處",
       "romanization": "sangcheobatda",
       "meaning_zh": "受傷(心理)",
       "example_ko": "그 말에 상처받았어요.",
       "example_zh": "那句話讓我受傷。"
-    },
-    {
-      "word": "상처를 주다",
-      "hanja": "傷處",
-      "romanization": "sangcheoreul juda",
-      "meaning_zh": "傷害(別人)",
-      "example_ko": "친구에게 상처를 주지 마세요.",
-      "example_zh": "請不要傷害朋友。"
-    },
-    {
-      "word": "마음에 두다",
-      "hanja": "",
-      "romanization": "maeume duda",
-      "meaning_zh": "放在心上、在意",
-      "example_ko": "제 말을 너무 마음에 두지 마세요.",
-      "example_zh": "請不要太把我的話放在心上。"
-    },
-    {
-      "word": "화가 풀리다",
-      "hanja": "火",
-      "romanization": "hwaga pullida",
-      "meaning_zh": "消氣",
-      "example_ko": "사과를 받고 화가 풀렸어요.",
-      "example_zh": "接受道歉後氣消了。"
-    },
-    {
-      "word": "기분을 풀다",
-      "hanja": "氣分",
-      "romanization": "gibuneul pulda",
-      "meaning_zh": "解開心情",
-      "example_ko": "맛있는 거 먹으면서 기분을 풀어요.",
-      "example_zh": "吃好吃的東西放鬆心情。"
-    },
-    {
-      "word": "마음을 잡다",
-      "hanja": "",
-      "romanization": "maeumeul japda",
-      "meaning_zh": "下定決心",
-      "example_ko": "이번에는 마음을 잡고 공부할 거예요.",
-      "example_zh": "這次要下定決心讀書。"
     },
     {
       "word": "진심",
@@ -22195,14 +21477,6 @@
       "meaning_zh": "察言觀色、眼力見",
       "example_ko": "그는 눈치가 빨라요.",
       "example_zh": "他很有眼力見。"
-    },
-    {
-      "word": "눈치 보다",
-      "hanja": "",
-      "romanization": "nunchi boda",
-      "meaning_zh": "看臉色",
-      "example_ko": "항상 부모님 눈치를 봐요.",
-      "example_zh": "總是看父母的臉色。"
     },
     {
       "word": "양보하다",
@@ -22267,22 +21541,6 @@
       "meaning_zh": "晴朗和煦",
       "example_ko": "날씨가 화창해서 소풍을 갔어요.",
       "example_zh": "天氣晴朗所以去郊遊了。"
-    },
-    {
-      "word": "구름이 끼다",
-      "hanja": "",
-      "romanization": "gureumi kkida",
-      "meaning_zh": "起雲",
-      "example_ko": "하늘에 구름이 많이 꼈어요.",
-      "example_zh": "天空中起了很多雲。"
-    },
-    {
-      "word": "안개가 끼다",
-      "hanja": "",
-      "romanization": "angaega kkida",
-      "meaning_zh": "起霧",
-      "example_ko": "아침에 안개가 많이 꼈어요.",
-      "example_zh": "早上起了很濃的霧。"
     },
     {
       "word": "번개",
@@ -22371,22 +21629,6 @@
       "meaning_zh": "新芽",
       "example_ko": "봄이 되니 새싹이 돋아났어요.",
       "example_zh": "春天到了新芽冒出來了。"
-    },
-    {
-      "word": "단풍이 들다",
-      "hanja": "丹楓",
-      "romanization": "dangpungi deulda",
-      "meaning_zh": "葉子變紅、變黃",
-      "example_ko": "산이 온통 단풍이 들었어요.",
-      "example_zh": "整座山都染上了紅葉。"
-    },
-    {
-      "word": "눈이 쌓이다",
-      "hanja": "",
-      "romanization": "nuni ssaida",
-      "meaning_zh": "積雪",
-      "example_ko": "지붕에 눈이 많이 쌓였어요.",
-      "example_zh": "屋頂上積了很多雪。"
     },
     {
       "word": "오염",
@@ -22901,44 +22143,11 @@
       "example_zh": "把肉調味後醃製大約30分鐘。"
     },
     {
-      "word": "간이 맞다",
-      "hanja": "",
-      "romanization": "gani matda",
-      "meaning_zh": "鹹淡適中",
-      "example_ko": "국의 간이 딱 맞아서 맛있어요.",
-      "example_zh": "湯的鹹淡剛好,很好喝。"
-    },
-    {
-      "word": "간을 보다",
-      "hanja": "",
-      "romanization": "ganeul boda",
-      "meaning_zh": "嘗鹹淡、試味道",
-      "example_ko": "요리할 때 자주 간을 봐야 해요.",
-      "example_zh": "做菜時要常常試味道。"
-    },
-    {
-      "word": "맛이 진하다",
-      "hanja": "",
-      "romanization": "masi jinhada",
-      "meaning_zh": "味道濃",
-      "example_ko": "이 곰탕은 맛이 진해서 좋아요.",
-      "example_zh": "這個牛骨湯味道很濃,我很喜歡。"
-    },
-    {
-      "word": "맛이 강하다",
-      "hanja": "",
-      "romanization": "masi ganghada",
-      "meaning_zh": "味道強烈",
-      "example_ko": "향신료 맛이 강해서 호불호가 갈려요.",
-      "example_zh": "香料味道很強,所以喜好因人而異。"
-    },
-    {
-      "word": "맛이 연하다",
-      "hanja": "",
-      "romanization": "masi yeonhada",
-      "meaning_zh": "味道清淡",
-      "example_ko": "이 차는 맛이 연해서 부담 없이 마실 수 있어요.",
-      "example_zh": "這種茶味道清淡,可以輕鬆地喝。"
+      "word": "연하다",
+      "romanization": "yeonhada",
+      "meaning_zh": "清淡；柔嫩",
+      "example_ko": "고기가 아주 연해서 씹기 좋았다.",
+      "example_zh": "肉很嫩，很好咀嚼。"
     },
     {
       "word": "데우다",
@@ -22971,14 +22180,6 @@
       "meaning_zh": "醃漬",
       "example_ko": "배추를 소금에 절여서 김치를 담급니다.",
       "example_zh": "把白菜用鹽醃過後再做泡菜。"
-    },
-    {
-      "word": "채 썰다",
-      "hanja": "",
-      "romanization": "chae sseolda",
-      "meaning_zh": "切絲",
-      "example_ko": "오이를 채 썰어 비빔국수에 넣어요.",
-      "example_zh": "把小黃瓜切絲放入拌麵中。"
     },
     {
       "word": "멸치",
@@ -23229,52 +22430,12 @@
       "example_zh": "羊肉串配青島啤酒很合適。"
     },
     {
-      "word": "음식을 차리다",
-      "hanja": "飮食",
-      "romanization": "eumsigeul charida",
-      "meaning_zh": "準備飯菜",
-      "example_ko": "손님이 오셔서 음식을 차렸어요.",
-      "example_zh": "客人來了所以準備了飯菜。"
-    },
-    {
-      "word": "식탁을 차리다",
-      "hanja": "食卓",
-      "romanization": "siktageul charida",
-      "meaning_zh": "擺桌、佈置餐桌",
-      "example_ko": "가족이 모여서 식탁을 차렸어요.",
-      "example_zh": "全家人聚在一起佈置餐桌。"
-    },
-    {
-      "word": "음식을 내다",
-      "hanja": "飮食",
-      "romanization": "eumsigeul naeda",
-      "meaning_zh": "上菜、端出食物",
-      "example_ko": "식당에서 음식을 빨리 내 주셨어요.",
-      "example_zh": "餐廳很快就上了菜。"
-    },
-    {
       "word": "회식",
       "hanja": "會食",
       "romanization": "hoesik",
       "meaning_zh": "聚餐(公司)",
       "example_ko": "오늘 저녁에 부서 회식이 있어요.",
       "example_zh": "今天晚上有部門聚餐。"
-    },
-    {
-      "word": "끼니를 챙기다",
-      "hanja": "",
-      "romanization": "kkinireul chaenggida",
-      "meaning_zh": "按時用餐",
-      "example_ko": "바빠도 끼니는 챙겨 드세요.",
-      "example_zh": "再忙也要按時吃飯。"
-    },
-    {
-      "word": "입맛이 까다롭다",
-      "hanja": "",
-      "romanization": "immasi kkadaropda",
-      "meaning_zh": "口味挑剔",
-      "example_ko": "우리 아이는 입맛이 까다로워요.",
-      "example_zh": "我家孩子口味很挑剔。"
     },
     {
       "word": "음식 솜씨",
@@ -23355,14 +22516,6 @@
       "meaning_zh": "豐盛",
       "example_ko": "상이 푸짐하게 차려져 있어요.",
       "example_zh": "桌上擺得很豐盛。"
-    },
-    {
-      "word": "한 상 차리다",
-      "hanja": "床",
-      "romanization": "han sang charida",
-      "meaning_zh": "擺一桌菜",
-      "example_ko": "손님을 위해 한 상 거하게 차렸어요.",
-      "example_zh": "為客人擺了豐盛的一桌。"
     },
     {
       "word": "밥상",
@@ -23685,30 +22838,6 @@
       "example_zh": "腿上打了一個月的石膏。"
     },
     {
-      "word": "깁스를 하다",
-      "hanja": "",
-      "romanization": "gip-seu-reul ha-da",
-      "meaning_zh": "打石膏",
-      "example_ko": "팔이 부러져서 깁스를 했어요.",
-      "example_zh": "手臂斷了，打了石膏。"
-    },
-    {
-      "word": "부상을 입다",
-      "hanja": "",
-      "romanization": "bu-sang-eul ip-da",
-      "meaning_zh": "受傷",
-      "example_ko": "교통사고로 부상을 입었어요.",
-      "example_zh": "因交通事故受傷了。"
-    },
-    {
-      "word": "멍이 들다",
-      "hanja": "",
-      "romanization": "meong-i deul-da",
-      "meaning_zh": "瘀青",
-      "example_ko": "부딪쳐서 팔에 멍이 들었어요.",
-      "example_zh": "撞到了，手臂瘀青了。"
-    },
-    {
       "word": "따갑다",
       "hanja": "",
       "romanization": "tta-gap-da",
@@ -23987,14 +23116,6 @@
       "meaning_zh": "免疫力",
       "example_ko": "면역력이 떨어지면 감기에 잘 걸려요.",
       "example_zh": "免疫力下降就容易感冒。"
-    },
-    {
-      "word": "면역력을 키우다",
-      "hanja": "",
-      "romanization": "myeo-nyeong-nyeo-geul ki-u-da",
-      "meaning_zh": "提升免疫力",
-      "example_ko": "운동으로 면역력을 키워야 해요.",
-      "example_zh": "要透過運動提升免疫力。"
     },
     {
       "word": "필라테스",
@@ -25149,14 +24270,6 @@
       "example_zh": "今天會議的議題有三項。"
     },
     {
-      "word": "의견을 제시하다",
-      "hanja": "意見을 提示",
-      "romanization": "uigyeoneul jesihada",
-      "meaning_zh": "提出意見",
-      "example_ko": "회의에서 새로운 의견을 제시했어요.",
-      "example_zh": "我在會議上提出了新的意見。"
-    },
-    {
       "word": "일정 조정",
       "hanja": "日程 調整",
       "romanization": "iljeong jojeong",
@@ -25171,22 +24284,6 @@
       "meaning_zh": "截止期限",
       "example_ko": "데드라인 안에 끝낼 수 있어요.",
       "example_zh": "我能在截止期限前完成。"
-    },
-    {
-      "word": "마감을 지키다",
-      "hanja": "",
-      "romanization": "magameul jikida",
-      "meaning_zh": "遵守期限",
-      "example_ko": "마감을 꼭 지켜야 해요.",
-      "example_zh": "一定要遵守截止期限。"
-    },
-    {
-      "word": "출장 가다",
-      "hanja": "出張",
-      "romanization": "chuljang gada",
-      "meaning_zh": "去出差",
-      "example_ko": "내일 일본으로 출장 가요.",
-      "example_zh": "明天要去日本出差。"
     },
     {
       "word": "출장비",
@@ -25243,14 +24340,6 @@
       "meaning_zh": "辭呈",
       "example_ko": "사표를 준비하고 있어요.",
       "example_zh": "我正在準備辭呈。"
-    },
-    {
-      "word": "사표를 내다",
-      "hanja": "辭表",
-      "romanization": "sapyoreul naeda",
-      "meaning_zh": "遞辭呈",
-      "example_ko": "어제 사표를 냈어요.",
-      "example_zh": "我昨天遞了辭呈。"
     },
     {
       "word": "퇴사",
@@ -25341,12 +24430,11 @@
       "example_zh": "招聘公告刊登在網路上。"
     },
     {
-      "word": "채용 공고를 보다",
-      "hanja": "採用 公告",
-      "romanization": "chaeyong gonggoreul boda",
-      "meaning_zh": "看招聘公告",
-      "example_ko": "매일 채용 공고를 봐요.",
-      "example_zh": "我每天看招聘公告。"
+      "word": "공고",
+      "romanization": "gonggo",
+      "meaning_zh": "公告、告示",
+      "example_ko": "회사 홈페이지에 채용 공고가 올라왔다.",
+      "example_zh": "公司官網上貼出了招聘公告。"
     },
     {
       "word": "불합격",
@@ -25963,14 +25051,6 @@
       "meaning_zh": "觀眾",
       "example_ko": "시청자들이 많은 의견을 보냈습니다.",
       "example_zh": "觀眾們提出了很多意見。"
-    },
-    {
-      "word": "평점이 높다",
-      "hanja": "評點",
-      "romanization": "pyeongjeom-i nopda",
-      "meaning_zh": "評分很高",
-      "example_ko": "이 영화는 평점이 높아요.",
-      "example_zh": "這部電影評分很高。"
     },
     {
       "word": "등산복",
@@ -26819,14 +25899,6 @@
       "meaning_zh": "實力",
       "example_ko": "실력을 키우기 위해 매일 공부합니다.",
       "example_zh": "為了培養實力每天都讀書。"
-    },
-    {
-      "word": "실력 있다",
-      "hanja": "實力",
-      "romanization": "sillyeok itda",
-      "meaning_zh": "有實力",
-      "example_ko": "그는 정말 실력 있는 디자이너예요.",
-      "example_zh": "他真的是一位有實力的設計師。"
     },
     {
       "word": "전문",
@@ -30325,14 +29397,6 @@
       "example_zh": "含早餐的價格雖然貴一點，但比較方便。"
     },
     {
-      "word": "짐을 맡기다",
-      "hanja": "",
-      "romanization": "jimeul matgida",
-      "meaning_zh": "寄放行李",
-      "example_ko": "프런트에 짐을 맡기고 시내 구경을 다녀왔어요.",
-      "example_zh": "把行李寄放在櫃台後就去市區逛了一圈。"
-    },
-    {
       "word": "픽업 서비스",
       "hanja": "",
       "romanization": "pigeop seobiseu",
@@ -31517,12 +30581,11 @@
       "example_zh": "黃豆芽湯很清爽，所以我喜歡。"
     },
     {
-      "word": "속이 더부룩하다",
-      "hanja": "",
-      "romanization": "sogi deoburukhada",
-      "meaning_zh": "肚子脹脹的",
-      "example_ko": "과식해서 속이 더부룩해요.",
-      "example_zh": "吃太多所以肚子脹脹的。"
+      "word": "더부룩하다",
+      "romanization": "deobureukada",
+      "meaning_zh": "（肚子）脹脹的",
+      "example_ko": "과식했더니 속이 더부룩하다.",
+      "example_zh": "吃太多，肚子脹脹的。"
     },
     {
       "word": "과식",
@@ -40303,14 +39366,6 @@
       "example_zh": "感冒時喝辣湯最棒了。"
     },
     {
-      "word": "살살 녹다",
-      "hanja": "",
-      "romanization": "salsal nokda",
-      "meaning_zh": "入口即化",
-      "example_ko": "이 초콜릿은 입에서 살살 녹아요.",
-      "example_zh": "這塊巧克力在嘴裡入口即化。"
-    },
-    {
       "word": "건더기",
       "hanja": "",
       "romanization": "geondeogi",
@@ -44381,14 +43436,6 @@
       "meaning_zh": "祭祖供桌",
       "example_ko": "차례상에 음식을 정성껏 차렸어요.",
       "example_zh": "用心地擺好了祭祖供桌的食物。"
-    },
-    {
-      "word": "차례를 지내다",
-      "hanja": "茶禮",
-      "romanization": "charyereul jinaeda",
-      "meaning_zh": "進行祭禮",
-      "example_ko": "명절 아침에 차례를 지냅니다.",
-      "example_zh": "節日早上進行祭禮。"
     },
     {
       "word": "관습",
