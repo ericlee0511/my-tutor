@@ -2731,6 +2731,17 @@ function renderMemoryTab() {
     }
     langsEl.innerHTML = html;
   }
+  const mbEl = document.getElementById("mem-badges");
+  if (mbEl) {
+    let star = 0, fire = 0, crown = 0;
+    for (const k in s.history) {
+      const e = s.history[k]; const c = e ? (e.reviewed + e.new) : 0;
+      if (c >= DAILY_GOAL * 3) crown++;
+      else if (c >= DAILY_GOAL * 2) fire++;
+      else if (c >= DAILY_GOAL) star++;
+    }
+    mbEl.innerHTML = `<span>⭐ ${star}</span><span>🔥 ${fire}</span><span>👑 ${crown}</span>`;
+  }
   const hmEl = document.getElementById("mem-heatmap");
   if (hmEl) hmEl.innerHTML = `<div class="mem-sec-title">記憶複習熱力圖</div>` +
     buildHeatmapGrid(k => { const e = s.history[k]; return e ? (e.reviewed + e.new) : 0; }, "最近 30 天記憶複習，顏色越鮮明表示複習越多。");
