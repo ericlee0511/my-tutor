@@ -2551,10 +2551,10 @@ function srsRenderCard() {
     card.innerHTML = `<div class="srs-front">${front}</div>`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-show">顯示答案</button>`;
   } else {
-    let h = `<div class="srs-back"><div class="srs-bhead">${escapeHTML(head)}${ttsBtn(head, meta.lang)}</div>`;
+    let h = `<div class="srs-back"><div class="srs-bhead">${ttsBtn(head, meta.lang)}${escapeHTML(head)}</div>`;
     if (reading) h += `<div class="srs-breading">[${escapeHTML(reading)}]</div>`;
     h += `<div class="srs-bmean">${escapeHTML(meaning)}</div>`;
-    if (exF) { h += `<div class="srs-bex">${escapeHTML(exF)}${ttsBtn(exF, meta.lang)}`; if (exT) h += `<br>→ ${escapeHTML(exT)}`; h += `</div>`; }
+    if (exF) { h += `<div class="srs-bex">${ttsBtn(exF, meta.lang)}${escapeHTML(exF)}`; if (exT) h += `<br>→ ${escapeHTML(exT)}`; h += `</div>`; }
     h += `</div>`;
     card.innerHTML = h;
     ctrl.innerHTML =
