@@ -758,7 +758,7 @@ function renderHeatmap() {
   }
   const dayHeader = ["日","一","二","三","四","五","六"]
     .map(d => `<div class="hm-dow">${d}</div>`).join("");
-  const intro = `<div class="mem-sec-title">句子練習熱力圖</div><div class="hm-intro">最近 30 天學習記錄，顏色越鮮明表示練習越多。</div>`;
+  const intro = `<div class="mem-sec-title">句子練習熱力圖</div><div class="hm-intro">最近 30 天句子練習，顏色越鮮明表示練習越多。</div>`;
   const legend =
     `<div class="hm-legend">` +
       `<span>少</span>` +
