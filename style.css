@@ -1065,3 +1065,15 @@ footer {
 
 /* 進度條不顯示連續/累計天數數字（保留圖示與進度條）*/
 #streak-num { display: none; }
+
+/* Toast 提示（匯出成功/失敗等，5 秒自動消失）*/
+.toast {
+  position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%) translateY(16px);
+  background: var(--text); color: var(--bg);
+  padding: 10px 18px; border-radius: 999px;
+  font-size: 14px; font-weight: 600; box-shadow: 0 6px 20px rgba(0,0,0,0.28);
+  opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s; z-index: 2000;
+  max-width: 80vw; text-align: center;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+.toast.toast-err { background: #c0392b; color: #fff; }

@@ -813,17 +813,32 @@ function closeStreakPicker() {
   if (ov) ov.hidden = true;
 }
 
+let toastTimer = null;
+function showToast(msg, ok = true) {
+  let t = document.getElementById("toast");
+  if (!t) { t = document.createElement("div"); t.id = "toast"; document.body.appendChild(t); }
+  t.textContent = msg;
+  t.className = "toast show" + (ok ? "" : " toast-err");
+  if (toastTimer) clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.className = "toast"; }, 5000);  // 5 秒後自動消失
+}
+
 function exportBackup() {
-  const data = JSON.stringify(state, null, 2);
-  const blob = new Blob([data], { type: "application/json" });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = "tutor_backup.json";
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  setTimeout(() => URL.revokeObjectURL(url), 100);
+  try {
+    const data = JSON.stringify(state, null, 2);
+    const blob = new Blob([data], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "tutor_backup.json";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 100);
+    showToast("匯出成功 ✓");
+  } catch (e) {
+    showToast("匯出失敗", false);
+  }
 }
 
 function importBackup(file) {
