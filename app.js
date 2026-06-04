@@ -2874,10 +2874,8 @@ window.addEventListener("DOMContentLoaded", async () => {
     if (btn) srsStartDeck(btn.dataset.deck);
   });
   const srsReview = document.getElementById("srs-review");
-  if (srsReview) srsReview.addEventListener("click", e => {
-    if (e.target === srsReview) { closeSrsReview(); return; }
-    srsHandleClick(e);
-  });
+  // 只有按叉叉(#srs-rev-close)或「結束」鈕才關閉；點背景不關，避免複習中誤觸。
+  if (srsReview) srsReview.addEventListener("click", e => { srsHandleClick(e); });
   document.getElementById("srs-rev-close")?.addEventListener("click", closeSrsReview);
   document.querySelectorAll("#streak-picker .srs-tab").forEach(t =>
     t.addEventListener("click", () => showStreakTab(t.dataset.tab)));
