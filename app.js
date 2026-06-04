@@ -793,12 +793,12 @@ function renderHeatmap() {
   const allKeys = Object.keys(hist);
   const totalCards = allKeys.reduce((s, k) => s + (hist[k] || 0), 0);
   const totalDays = allKeys.filter(k => (hist[k] || 0) > 0).length;
-  const { n, active } = effectiveStreak();
-  if (summary) {
-    summary.innerHTML =
-      `連續練習句子 <strong>${n}</strong> 天 ${active ? "(今日已完成)" : "(今日尚未打卡)"}<br>` +
-      `累計學習 <strong>${totalDays}</strong> 天，共翻牌 <strong>${totalCards}</strong> 張`;
-  }
+  const { n } = effectiveStreak();
+  const todayCnt = state.streak.lastDay === todayK ? (state.streak.todayCount || 0) : 0;
+  const statsEl = document.getElementById("streak-stats");
+  if (statsEl) statsEl.innerHTML = `<div class="mem-cards">` +
+    memStatCard("已學", totalCards, "句") + memStatCard("累計", totalDays, "天") +
+    memStatCard("今日練習", todayCnt, "句") + memStatCard("連續", n, "天") + `</div>`;
 }
 
 function openStreakPicker(tab) {
