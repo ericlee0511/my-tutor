@@ -1,4 +1,4 @@
-const CACHE = "jp-tutor-v416";
+const CACHE = "jp-tutor-v417";
 const ASSETS = [
   "./",
   "./index.html",

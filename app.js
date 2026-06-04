@@ -2568,7 +2568,7 @@ function srsRenderCard() {
     const budgetLeft = (s.newPerDay - (s.daily.newToday || 0)) > 0;
     const msg = budgetLeft
       ? `這個方向今天的卡都做完了 🎉`
-      : `今日新卡額度 (${s.newPerDay} 張) 已用完 🎉<br>這個方向也沒有到期複習的卡了，明天會再出新卡。`;
+      : `今日新卡額度 (${s.newPerDay} 張) 已用完 🎉<br>這個方向也沒有到期可複習的卡了<br>明天會再出新卡`;
     card.innerHTML = `<div class="srs-done">${msg}</div>`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
