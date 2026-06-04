@@ -795,7 +795,7 @@ function renderHeatmap() {
   const { n, active } = effectiveStreak();
   if (summary) {
     summary.innerHTML =
-      `連續打卡 <strong>${n}</strong> 天 ${active ? "(今日已完成)" : "(今日尚未打卡)"}<br>` +
+      `連續練習句子 <strong>${n}</strong> 天 ${active ? "(今日已完成)" : "(今日尚未打卡)"}<br>` +
       `累計學習 <strong>${totalDays}</strong> 天，共翻牌 <strong>${totalCards}</strong> 張`;
   }
 }
