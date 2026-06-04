@@ -25,9 +25,16 @@
     </div>
     <div class="streak-row">
       <button id="streak-fire" class="streak-dim" title="學習成就">🔥<span id="streak-num">0</span></button>
-      <div class="streak-bar">
+      <div class="streak-bar" id="sentence-bar" title="句子練習">
         <div class="streak-bar-track"><div id="streak-bar-fill"></div></div>
         <span id="streak-bar-text">0 / 30</span>
+      </div>
+    </div>
+    <div class="streak-row mem-row">
+      <button id="mem-fire" class="streak-dim" title="記憶複習">🧠</button>
+      <div class="streak-bar" id="mem-bar" title="記憶複習">
+        <div class="streak-bar-track"><div id="mem-bar-fill"></div></div>
+        <span id="mem-bar-text">0 / 0</span>
       </div>
     </div>
   </header>
@@ -123,10 +130,22 @@
         <div class="streak-avatar">🧑‍💼</div>
         <button class="stats-close" id="streak-close" aria-label="關閉">✕</button>
       </div>
-      <div class="streak-badges" id="streak-badges"></div>
+      <div class="srs-tabs">
+        <button class="srs-tab active" data-tab="sentence">句子練習</button>
+        <button class="srs-tab" data-tab="memory">記憶複習</button>
+      </div>
       <div class="stats-body">
-        <div id="streak-summary"></div>
-        <div id="streak-heatmap"></div>
+        <div id="tab-sentence" class="srs-panel">
+          <div class="streak-badges" id="streak-badges"></div>
+          <div id="streak-summary"></div>
+          <div id="streak-heatmap"></div>
+        </div>
+        <div id="tab-memory" class="srs-panel" hidden>
+          <div id="mem-stats"></div>
+          <div id="mem-langs"></div>
+          <div id="mem-heatmap"></div>
+          <div id="mem-retention"></div>
+        </div>
         <div class="streak-backup-row">
           <button class="chip" id="export-btn" title="匯出備份">📤 匯出</button>
           <button class="chip" id="import-btn" title="匯入備份">📥 匯入</button>
@@ -151,6 +170,65 @@
           <ul id="lookup-suggest" class="lookup-suggest" hidden></ul>
         </div>
         <div id="lookup-results" class="lookup-results"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="card-picker" class="picker-overlay" hidden>
+    <div class="picker-card">
+      <div class="srs-deck-top">
+        <button class="picker-btn srs-study-btn" id="srs-study-btn">📖 單字</button>
+      </div>
+      <div class="srs-deck-divider"></div>
+      <div class="picker-row picker-row-dele">
+        <button class="picker-btn" data-deck="dele:da1">DELE A1</button>
+        <button class="picker-btn" data-deck="dele:da2">DELE A2</button>
+        <button class="picker-btn" data-deck="dele:db1">DELE B1</button>
+        <button class="picker-btn" data-deck="dele:db2">DELE B2</button>
+        <button class="picker-btn" data-deck="dele:dc1">DELE C1</button>
+        <button class="picker-btn" data-deck="dele:dc2">DELE C2</button>
+      </div>
+      <div class="picker-row">
+        <button class="picker-btn" data-deck="ko:t1">TOPIK 1</button>
+        <button class="picker-btn" data-deck="ko:t2">TOPIK 2</button>
+        <button class="picker-btn" data-deck="ko:t3">TOPIK 3</button>
+        <button class="picker-btn" data-deck="ko:t4">TOPIK 4</button>
+        <button class="picker-btn" data-deck="ko:t5">TOPIK 5</button>
+        <button class="picker-btn" data-deck="ko:t6">TOPIK 6</button>
+      </div>
+      <div class="picker-row picker-row-n">
+        <button class="picker-btn" data-deck="jap:n5">N5</button>
+        <button class="picker-btn" data-deck="jap:n4">N4</button>
+        <button class="picker-btn" data-deck="jap:n3">N3</button>
+        <button class="picker-btn" data-deck="jap:n2">N2</button>
+        <button class="picker-btn" data-deck="jap:n1">N1</button>
+      </div>
+      <div class="picker-row picker-row-toeic-sub">
+        <button class="picker-btn srs-2line" data-deck="toeic:基礎生活級"><span class="d1">TOEIC</span><span class="d2">基礎生活</span></button>
+        <button class="picker-btn srs-2line" data-deck="toeic:職場日常級"><span class="d1">TOEIC</span><span class="d2">職場日常</span></button>
+        <button class="picker-btn srs-2line" data-deck="toeic:進階商務級"><span class="d1">TOEIC</span><span class="d2">進階商務</span></button>
+        <button class="picker-btn srs-2line" data-deck="toeic:專業頂尖級"><span class="d1">TOEIC</span><span class="d2">專業頂尖</span></button>
+      </div>
+      <div class="picker-row picker-row-gept-sub">
+        <button class="picker-btn srs-2line" data-deck="gept:初級"><span class="d1">GEPT</span><span class="d2">初級</span></button>
+        <button class="picker-btn srs-2line" data-deck="gept:中級"><span class="d1">GEPT</span><span class="d2">中級</span></button>
+        <button class="picker-btn srs-2line" data-deck="gept:中高級"><span class="d1">GEPT</span><span class="d2">中高級</span></button>
+        <button class="picker-btn srs-2line" data-deck="gept:高級"><span class="d1">GEPT</span><span class="d2">高級</span></button>
+        <button class="picker-btn srs-2line" data-deck="gept:優級"><span class="d1">GEPT</span><span class="d2">優級</span></button>
+      </div>
+    </div>
+  </div>
+
+  <div id="srs-review" class="picker-overlay" hidden>
+    <div class="picker-card stats-card srs-review-card">
+      <div class="stats-header">
+        <span id="srs-rev-title" class="stats-title">複習</span>
+        <span id="srs-rev-progress" class="srs-rev-progress">0 / 0</span>
+        <button class="stats-close" id="srs-rev-close" aria-label="關閉">✕</button>
+      </div>
+      <div class="srs-review-body">
+        <div id="srs-card" class="srs-card"></div>
+        <div id="srs-controls" class="srs-controls"></div>
       </div>
     </div>
   </div>

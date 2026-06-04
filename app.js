@@ -634,6 +634,7 @@ function loadState() {
   } catch {}
   state.history = state.history || {};
   state.streak = Object.assign({ count: 0, lastDay: null, todayCount: 0, history: {} }, state.streak || {});
+  ensureSrs();
   // Migrate: if a previous build stored g1-g5 as the main level, fold back to "gept"
   if (state.level && /^g[1-5]$/.test(state.level)) state.level = "gept";
   // Migrate legacy gept sub-level keys (g1-g5) → Chinese labels
@@ -800,10 +801,11 @@ function renderHeatmap() {
   }
 }
 
-function openStreakPicker() {
+function openStreakPicker(tab) {
   const ov = document.getElementById("streak-picker");
   if (!ov) return;
   renderHeatmap();
+  showStreakTab(tab === "memory" ? "memory" : "sentence");
   ov.hidden = false;
 }
 function closeStreakPicker() {
@@ -2430,6 +2432,280 @@ function closeLookupSearch() {
   if (ov) ov.hidden = true;
 }
 
+// ===================== 記憶複習（Anki SRS）=====================
+const SRS_NEW_PER_DAY = 100;   // 全牌組共用每日新卡上限（=50 組）
+const SRS_MATURE_IVL = 21;     // 間隔≥21 天視為「熟練」
+let srsSession = null;
+
+function ensureSrs() {
+  if (!state.srs) state.srs = {};
+  const s = state.srs;
+  if (typeof s.newPerDay !== "number") s.newPerDay = SRS_NEW_PER_DAY;
+  s.cards = s.cards || {};
+  s.history = s.history || {};
+  s.stats = s.stats || { answered: 0, again: 0 };
+  const today = todayKey();
+  if (!s.daily || s.daily.date !== today) s.daily = { date: today, newToday: 0, reviewedToday: 0 };
+  return s;
+}
+
+function srsSetMeta(set) {
+  switch (set) {
+    case "jap": return { lang: "ja-JP", head: e => e.kanji, reading: e => e.kana || "" };
+    case "ko":  return { lang: "ko-KR", head: e => e.word,  reading: e => e.romanization || "" };
+    case "dele":return { lang: "es-ES", head: e => e.word,  reading: e => "" };
+    default:    return { lang: "en-US", head: e => e.word,  reading: e => "" }; // toeic/gept
+  }
+}
+function srsForeignExample(e) { return e.example_ja || e.example_ko || e.example_es || e.example_en || ""; }
+function srsExampleTrans(set, e) { return set === "jap" ? (e.example_en || "") : (e.example_zh || ""); }
+function srsBaseKey(set, e) {
+  if (set === "jap") return `jap|${e.kanji}|${e.kana}`;
+  if (set === "ko")  return `ko|${e.word}|${e.hanja || ""}`;
+  return `${set}|${e.word}`;
+}
+function srsDeckLabel(deck) {
+  const [set, lv] = deck.split(":");
+  if (set === "jap")   return lv.toUpperCase();
+  if (set === "ko")    return "TOPIK " + lv.slice(1);
+  if (set === "dele")  return "DELE " + lv.slice(1).toUpperCase();
+  if (set === "toeic") return "TOEIC " + lv.replace("級", "");
+  if (set === "gept")  return "GEPT " + lv;
+  return deck;
+}
+function srsDeckWords(deck) {
+  const [set, lv] = deck.split(":");
+  if (set === "jap")   return (DATA.vocab && DATA.vocab[lv]) || [];
+  if (set === "ko")    return (DATA.vocab_ko && DATA.vocab_ko[lv]) || [];
+  if (set === "dele")  return (DATA.vocab_dele && DATA.vocab_dele[lv]) || [];
+  if (set === "toeic") return ((DATA.vocab_toeic && DATA.vocab_toeic.toeic) || []).filter(e => e.level === lv);
+  if (set === "gept")  return ((DATA.vocab_gept && DATA.vocab_gept.gept) || []).filter(e => e.level === lv);
+  return [];
+}
+function srsAddDays(n) { const d = new Date(); d.setDate(d.getDate() + n); return dateKey(d); }
+
+// grade: 'again' | 'ok' | 'easy'。回傳 {requeue} 表示本回合稍後是否再考。
+function srsGrade(key, isNew, grade) {
+  const s = ensureSrs();
+  const today = todayKey();
+  s.history[today] = s.history[today] || { reviewed: 0, new: 0 };
+  s.stats.answered++; if (grade === "again") s.stats.again++;
+  if (isNew && grade === "again") {        // 新卡忘了：不畢業、不持久化，本回合再考
+    saveState();
+    return { requeue: true };
+  }
+  const c = s.cards[key] || { ivl: 0, reps: 0, lapses: 0 };
+  let off;
+  if (grade === "again") { c.lapses = (c.lapses || 0) + 1; c.ivl = 1; off = 1; }
+  else if (grade === "ok") { c.ivl = c.ivl >= 1 ? Math.round(c.ivl * 2) : 1; off = c.ivl; }
+  else { c.ivl = c.ivl >= 1 ? Math.min(365, Math.round(c.ivl * 2.5)) : 2; off = c.ivl; }
+  c.reps = (c.reps || 0) + 1;
+  c.due = srsAddDays(off);
+  s.cards[key] = c;
+  if (isNew) { s.daily.newToday++; s.history[today].new++; }
+  else { s.daily.reviewedToday++; s.history[today].reviewed++; }
+  saveState();
+  return { requeue: grade === "again" };
+}
+
+function srsBuildSession(deck) {
+  const s = ensureSrs();
+  const [set] = deck.split(":");
+  const words = srsDeckWords(deck);
+  const today = todayKey();
+  const due = [], fresh = [];
+  for (const e of words) {
+    const base = srsBaseKey(set, e);
+    for (const dir of ["f", "r"]) {
+      const key = `${base}|${dir}`;
+      const card = s.cards[key];
+      const item = { key, set, entry: e, dir, isNew: !card };
+      if (card) { if (card.due <= today) due.push(item); }
+      else fresh.push(item);
+    }
+  }
+  const remaining = Math.max(0, s.newPerDay - s.daily.newToday);
+  const queue = due.concat(fresh.slice(0, remaining));
+  return { deck, label: srsDeckLabel(deck), queue, pos: 0, flipped: false, cleared: 0, totalInitial: queue.length };
+}
+
+function srsRenderCard() {
+  const ses = srsSession; if (!ses) return;
+  const card = document.getElementById("srs-card");
+  const ctrl = document.getElementById("srs-controls");
+  document.getElementById("srs-rev-progress").textContent = `${ses.cleared} / ${ses.totalInitial}`;
+  if (ses.pos >= ses.queue.length) {
+    document.getElementById("srs-rev-title").textContent = ses.label;
+    card.innerHTML = `<div class="srs-done">🎉 本回合完成！<br>共複習 ${ses.cleared} 張卡</div>`;
+    ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
+    return;
+  }
+  const it = ses.queue[ses.pos];
+  const meta = srsSetMeta(it.set), e = it.entry;
+  document.getElementById("srs-rev-title").textContent = `${ses.label}　${it.dir === "f" ? "外→中" : "中→外"}`;
+  const head = meta.head(e) || "", reading = meta.reading(e);
+  const meaning = displayMeaning(e.meaning_zh || "");
+  const exF = srsForeignExample(e), exT = srsExampleTrans(it.set, e);
+  if (!ses.flipped) {
+    const front = it.dir === "f" ? escapeHTML(head) : escapeHTML(meaning);
+    card.innerHTML = `<div class="srs-front">${front}</div>`;
+    ctrl.innerHTML = `<button class="srs-show" id="srs-show">顯示答案</button>`;
+  } else {
+    let h = `<div class="srs-back"><div class="srs-bhead">${escapeHTML(head)}${ttsBtn(head, meta.lang)}</div>`;
+    if (reading) h += `<div class="srs-breading">[${escapeHTML(reading)}]</div>`;
+    h += `<div class="srs-bmean">${escapeHTML(meaning)}</div>`;
+    if (exF) { h += `<div class="srs-bex">${escapeHTML(exF)}${ttsBtn(exF, meta.lang)}`; if (exT) h += `<br>→ ${escapeHTML(exT)}`; h += `</div>`; }
+    h += `</div>`;
+    card.innerHTML = h;
+    ctrl.innerHTML =
+      `<button class="srs-grade srs-again" data-g="again">忘了</button>` +
+      `<button class="srs-grade srs-ok" data-g="ok">普通</button>` +
+      `<button class="srs-grade srs-easy" data-g="easy">熟了</button>`;
+  }
+}
+
+function srsStartDeck(deck) {
+  closeCardPicker();
+  ensureSrs();
+  srsSession = srsBuildSession(deck);
+  document.getElementById("srs-review").hidden = false;
+  if (srsSession.totalInitial === 0) {
+    document.getElementById("srs-rev-title").textContent = srsSession.label;
+    document.getElementById("srs-rev-progress").textContent = "0 / 0";
+    document.getElementById("srs-card").innerHTML = `<div class="srs-done">這個牌組今天沒有要複習的卡了 🎉<br>（到期複習已完成，或今日新卡額度已用完）</div>`;
+    document.getElementById("srs-controls").innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
+  } else {
+    srsRenderCard();
+  }
+}
+
+function srsHandleClick(e) {
+  if (e.target.closest("#srs-show")) { srsSession.flipped = true; srsRenderCard(); return; }
+  if (e.target.closest("#srs-finish")) { closeSrsReview(); return; }
+  const g = e.target.closest(".srs-grade");
+  if (g && srsSession) {
+    const it = srsSession.queue[srsSession.pos];
+    const res = srsGrade(it.key, it.isNew, g.dataset.g);
+    if (g.dataset.g !== "again") srsSession.cleared++;
+    srsSession.pos++;
+    if (res.requeue) {
+      const at = Math.min(srsSession.queue.length, srsSession.pos + 3);
+      srsSession.queue.splice(at, 0, it);
+    }
+    srsSession.flipped = false;
+    updateMemBar();
+    srsRenderCard();
+  }
+}
+
+function openCardPicker() { ensureSrs(); const ov = document.getElementById("card-picker"); if (ov) ov.hidden = false; }
+function closeCardPicker() { const ov = document.getElementById("card-picker"); if (ov) ov.hidden = true; }
+function closeSrsReview() {
+  const ov = document.getElementById("srs-review"); if (ov) ov.hidden = true;
+  srsSession = null;
+  updateMemBar();
+  if (document.getElementById("streak-picker") && !document.getElementById("streak-picker").hidden
+      && document.getElementById("tab-memory") && !document.getElementById("tab-memory").hidden) renderMemoryTab();
+}
+
+// ---- 進度條（記憶複習，全牌組加總）----
+function srsTodayProgress() {
+  const s = ensureSrs(); const today = todayKey();
+  let due = 0; for (const k in s.cards) if (s.cards[k].due <= today) due++;
+  const h = s.history[today] || { reviewed: 0, new: 0 };
+  const Y = (due + h.reviewed) + s.newPerDay;   // 今日到期(剩+已做) + 新卡額度
+  const X = h.reviewed + h.new;                 // 今日已完成複習 + 已學新卡
+  return { X, Y: Math.max(Y, 1) };
+}
+function updateMemBar() {
+  const fill = document.getElementById("mem-bar-fill"), txt = document.getElementById("mem-bar-text");
+  if (!fill) return;
+  const { X, Y } = srsTodayProgress();
+  fill.style.width = Math.min(100, Math.round(X / Y * 100)) + "%";
+  if (txt) txt.textContent = `${X} / ${Y}`;
+  const memFire = document.getElementById("mem-fire");
+  if (memFire) memFire.classList.toggle("streak-active", X > 0);
+}
+
+// ---- 記憶複習分頁內容 ----
+function srsReviewStreak() {
+  const h = ensureSrs().history; const d = new Date();
+  const has = k => { const e = h[k]; return e && (e.reviewed + e.new) > 0; };
+  if (!has(dateKey(d))) d.setDate(d.getDate() - 1);
+  let n = 0; while (has(dateKey(d))) { n++; d.setDate(d.getDate() - 1); } return n;
+}
+function countDictWords(d) { let n = 0; if (d) for (const k in d) if (Array.isArray(d[k])) n += d[k].length; return n; }
+function srsSetTotalWords(set) {
+  if (set === "jap")   return countDictWords(DATA.vocab);
+  if (set === "ko")    return countDictWords(DATA.vocab_ko);
+  if (set === "dele")  return countDictWords(DATA.vocab_dele);
+  if (set === "toeic") return ((DATA.vocab_toeic && DATA.vocab_toeic.toeic) || []).length;
+  if (set === "gept")  return ((DATA.vocab_gept && DATA.vocab_gept.gept) || []).length;
+  return 0;
+}
+function buildHeatmapGrid(cntFn, intro) {
+  const today = new Date(); today.setHours(0, 0, 0, 0); const todayK = todayKey();
+  const earliest = new Date(today); earliest.setDate(today.getDate() - 29); const earliestK = dateKey(earliest);
+  const sunday = new Date(today); sunday.setDate(today.getDate() - today.getDay());
+  const rows = [];
+  for (let w = 4; w >= 0; w--) {
+    const ws = new Date(sunday); ws.setDate(sunday.getDate() - 7 * w);
+    for (let d = 0; d < 7; d++) {
+      const day = new Date(ws); day.setDate(ws.getDate() + d); const key = dateKey(day);
+      if (day > today || key < earliestK) rows.push(`<div class="hm-cell hm-empty"></div>`);
+      else { const c = cntFn(key); rows.push(`<div class="hm-cell ${heatmapTier(c)}${key === todayK ? " hm-today" : ""}" title="${key} · ${c} 張"></div>`); }
+    }
+  }
+  const dow = ["日","一","二","三","四","五","六"].map(x => `<div class="hm-dow">${x}</div>`).join("");
+  return `<div class="hm-intro">${intro}</div><div class="hm-grid">${dow}${rows.join("")}</div>`;
+}
+function memStatCard(label, num, unit) {
+  return `<div class="mem-card"><div class="mem-card-num">${num}<small>${unit}</small></div><div class="mem-card-label">${label}</div></div>`;
+}
+function renderMemoryTab() {
+  const s = ensureSrs();
+  const bases = new Set(); let mature = 0;
+  const learnedBySet = {};
+  for (const k in s.cards) {
+    const base = k.slice(0, k.lastIndexOf("|")); bases.add(base);
+    if (s.cards[k].ivl >= SRS_MATURE_IVL) mature++;
+    const set = k.split("|")[0]; (learnedBySet[set] = learnedBySet[set] || new Set()).add(base);
+  }
+  const h = s.history[todayKey()] || { reviewed: 0, new: 0 };
+  const statsEl = document.getElementById("mem-stats");
+  if (statsEl) statsEl.innerHTML = `<div class="mem-cards">` +
+    memStatCard("已學", bases.size, "組") + memStatCard("熟練", mature, "卡") +
+    memStatCard("今日複習", h.reviewed + h.new, "") + memStatCard("連續", srsReviewStreak(), "天") + `</div>`;
+  const langsEl = document.getElementById("mem-langs");
+  if (langsEl) {
+    const order = [["dele","西語"],["ko","韓語"],["jap","日語"],["toeic","多益"],["gept","英檢"]];
+    let html = `<div class="mem-sec-title">各語言進度</div>`;
+    for (const [set, label] of order) {
+      const total = srsSetTotalWords(set), got = learnedBySet[set] ? learnedBySet[set].size : 0;
+      const pct = total ? Math.min(100, Math.round(got / total * 100)) : 0;
+      html += `<div class="mem-lang"><span class="mem-lang-label">${label}</span>` +
+        `<span class="mem-lang-bar"><span style="width:${pct}%"></span></span>` +
+        `<span class="mem-lang-num">${got}/${total}</span></div>`;
+    }
+    langsEl.innerHTML = html;
+  }
+  const hmEl = document.getElementById("mem-heatmap");
+  if (hmEl) hmEl.innerHTML = `<div class="mem-sec-title">記憶複習熱力圖</div>` +
+    buildHeatmapGrid(k => { const e = s.history[k]; return e ? (e.reviewed + e.new) : 0; }, "最近 30 天記憶複習，顏色越鮮明表示複習越多。");
+  const retEl = document.getElementById("mem-retention");
+  if (retEl) {
+    const rate = s.stats.answered ? Math.round((s.stats.answered - s.stats.again) / s.stats.answered * 100) : 0;
+    retEl.innerHTML = `<div class="mem-retention">保留率 <strong>${rate}%</strong>　<small>(普通+熟了 ÷ 全部作答)</small></div>`;
+  }
+}
+function showStreakTab(tab) {
+  document.querySelectorAll(".srs-tab").forEach(b => b.classList.toggle("active", b.dataset.tab === tab));
+  const sent = document.getElementById("tab-sentence"), mem = document.getElementById("tab-memory");
+  if (sent) sent.hidden = tab !== "sentence";
+  if (mem) mem.hidden = tab !== "memory";
+  if (tab === "memory") renderMemoryTab();
+}
+
 window.addEventListener("DOMContentLoaded", async () => {
   loadState();
   document.getElementById("level-btn").textContent = levelLabel(state.level);
@@ -2528,8 +2804,32 @@ window.addEventListener("DOMContentLoaded", async () => {
     else if (!document.getElementById("level-picker").hidden) closeLevelPicker();
   });
   document.querySelectorAll(".action").forEach(b =>
-    b.addEventListener("click", () => render(b.dataset.action))
+    b.addEventListener("click", () => {
+      if (b.dataset.action === "word") openCardPicker();   // 單字 → 開卡牌 popup
+      else render(b.dataset.action);
+    })
   );
+
+  // ===== 記憶複習（SRS）接線 =====
+  document.getElementById("srs-study-btn")?.addEventListener("click", () => { closeCardPicker(); render("word"); });
+  const cardPicker = document.getElementById("card-picker");
+  if (cardPicker) cardPicker.addEventListener("click", e => {
+    if (e.target === cardPicker) { closeCardPicker(); return; }
+    const btn = e.target.closest(".picker-btn[data-deck]");
+    if (btn) srsStartDeck(btn.dataset.deck);
+  });
+  const srsReview = document.getElementById("srs-review");
+  if (srsReview) srsReview.addEventListener("click", e => {
+    if (e.target === srsReview) { closeSrsReview(); return; }
+    srsHandleClick(e);
+  });
+  document.getElementById("srs-rev-close")?.addEventListener("click", closeSrsReview);
+  document.querySelectorAll(".srs-tab").forEach(t =>
+    t.addEventListener("click", () => showStreakTab(t.dataset.tab)));
+  document.getElementById("mem-fire")?.addEventListener("click", () => openStreakPicker("memory"));
+  document.getElementById("mem-bar")?.addEventListener("click", () => openStreakPicker("memory"));
+  document.getElementById("sentence-bar")?.addEventListener("click", () => openStreakPicker("sentence"));
+  updateMemBar();
 
   document.addEventListener("click", e => {
     // 🔊 TTS button — toggle: click to speak, click again (or the ⏹ icon) to stop

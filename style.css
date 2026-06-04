@@ -971,3 +971,79 @@ footer {
   color: var(--muted);
   font-size: 12px;
 }
+
+/* ===== 記憶複習（Anki SRS）===== */
+.mem-row { margin-top: 4px; }
+.streak-bar { cursor: pointer; }
+#mem-fire {
+  background: none; border: none; font-size: 14px; padding: 2px 6px;
+  cursor: pointer; font-family: inherit; border-radius: 4px;
+  color: var(--muted); opacity: 0.55;
+}
+#mem-fire.streak-active { color: var(--accent); opacity: 1; }
+#mem-fire:active { transform: scale(0.95); }
+#mem-bar-fill { height: 100%; width: 0%; background: var(--accent); border-radius: 3px; transition: width 0.3s; }
+#mem-bar-text { font-size: 12px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 學習成就 分頁 */
+.srs-tabs { display: flex; gap: 6px; padding: 8px 16px 0; }
+.srs-tab {
+  flex: 1; padding: 8px; border: none; background: none; font-family: inherit;
+  font-size: 14px; font-weight: 600; color: var(--muted); cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+.srs-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+.srs-panel[hidden] { display: none; }
+
+/* 記憶複習分頁內容 */
+.mem-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.mem-card { background: var(--accent-soft); border-radius: 10px; padding: 10px 4px; text-align: center; }
+.mem-card-num { font-size: 20px; font-weight: 700; color: var(--accent); font-variant-numeric: tabular-nums; }
+.mem-card-num small { font-size: 11px; margin-left: 1px; color: var(--muted); }
+.mem-card-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.mem-sec-title { font-size: 14px; font-weight: 600; color: var(--accent); margin: 16px 0 8px; }
+.mem-lang { display: flex; align-items: center; gap: 8px; margin: 6px 0; }
+.mem-lang-label { width: 42px; font-size: 13px; }
+.mem-lang-bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
+.mem-lang-bar > span { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
+.mem-lang-num { font-size: 12px; color: var(--muted); min-width: 70px; text-align: right; font-variant-numeric: tabular-nums; }
+.mem-retention { margin-top: 16px; text-align: center; font-size: 15px; }
+.mem-retention strong { color: var(--accent); font-size: 18px; }
+.mem-retention small { color: var(--muted); font-size: 12px; }
+
+/* 單字 popup（card-picker）*/
+.srs-deck-top { display: flex; justify-content: center; margin-bottom: 8px; }
+.srs-study-btn { min-width: 140px; }
+.srs-deck-divider {
+  border-top: 2px solid color-mix(in srgb, var(--accent-soft) 80%, var(--accent) 20%);
+  margin: 0 0 10px;
+}
+.picker-btn.srs-2line {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  line-height: 1.2; padding: 6px 0; gap: 1px;
+}
+.srs-2line .d1 { font-size: 10px; opacity: 0.8; }
+.srs-2line .d2 { font-size: 12px; font-weight: 700; }
+
+/* 複習畫面 */
+.srs-rev-progress { margin-left: auto; margin-right: 8px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.srs-review-body { padding: 18px 16px; display: flex; flex-direction: column; gap: 16px; }
+.srs-card {
+  min-height: 170px; display: flex; align-items: center; justify-content: center; text-align: center;
+  background: var(--accent-soft); border-radius: 12px; padding: 16px;
+}
+.srs-front { font-size: 30px; font-weight: 700; color: var(--text); word-break: break-word; }
+.srs-back { text-align: center; }
+.srs-bhead { font-size: 26px; font-weight: 700; color: var(--accent); }
+.srs-breading { color: var(--muted); margin-top: 4px; font-size: 14px; }
+.srs-bmean { margin-top: 8px; font-size: 16px; color: var(--text); }
+.srs-bex { margin-top: 12px; font-size: 14px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; line-height: 1.6; }
+.srs-done { text-align: center; font-size: 18px; line-height: 1.9; color: var(--text); }
+.srs-controls { display: flex; gap: 10px; }
+.srs-show { width: 100%; padding: 13px; border: none; border-radius: 10px; background: var(--accent); color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; font-family: inherit; }
+.srs-show:active { transform: scale(0.98); }
+.srs-grade { flex: 1; padding: 13px 4px; border-radius: 10px; border: 1px solid var(--border); font-size: 15px; font-weight: 600; cursor: pointer; font-family: inherit; }
+.srs-grade:active { transform: scale(0.96); }
+.srs-again { background: #fdecec; color: #c0392b; }
+.srs-ok { background: var(--accent-soft); color: var(--accent); }
+.srs-easy { background: #e8f7ee; color: #1e7e44; }
