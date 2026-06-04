@@ -1047,3 +1047,8 @@ footer {
 .srs-again { background: #fdecec; color: #c0392b; }
 .srs-ok { background: var(--accent-soft); color: var(--accent); }
 .srs-easy { background: #e8f7ee; color: #1e7e44; }
+
+/* 學習成就 popup：固定高度，切換分頁不跳動、上緣對齊 */
+#streak-picker .stats-card { height: 85vh; }
+#streak-picker .stats-body { flex: 1 1 auto; min-height: 0; }
+.srs-tabs { flex-shrink: 0; }
