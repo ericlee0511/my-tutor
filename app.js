@@ -2436,6 +2436,7 @@ function closeLookupSearch() {
 const SRS_NEW_PER_DAY = 100;   // 全牌組共用每日新卡上限（=50 組）
 const SRS_MATURE_IVL = 21;     // 間隔≥21 天視為「熟練」
 let srsSession = null;
+let srsDir = "f";              // 目前複習方向：'f' 外→中 / 'r' 中→外（一次一個方向）
 
 function ensureSrs() {
   if (!state.srs) state.srs = {};
@@ -2508,41 +2509,53 @@ function srsGrade(key, isNew, grade) {
   return { requeue: grade === "again" };
 }
 
-function srsBuildSession(deck) {
+function srsBuildSession(deck, dir) {
   const s = ensureSrs();
   const [set] = deck.split(":");
   const words = srsDeckWords(deck);
   const today = todayKey();
   const due = [], fresh = [];
   for (const e of words) {
-    const base = srsBaseKey(set, e);
-    for (const dir of ["f", "r"]) {
-      const key = `${base}|${dir}`;
-      const card = s.cards[key];
-      const item = { key, set, entry: e, dir, isNew: !card };
-      if (card) { if (card.due <= today) due.push(item); }
-      else fresh.push(item);
-    }
+    const key = `${srsBaseKey(set, e)}|${dir}`;   // 只取目前方向
+    const card = s.cards[key];
+    const item = { key, set, entry: e, dir, isNew: !card };
+    if (card) { if (card.due <= today) due.push(item); }
+    else fresh.push(item);
   }
   const remaining = Math.max(0, s.newPerDay - s.daily.newToday);
   const queue = due.concat(fresh.slice(0, remaining));
-  return { deck, label: srsDeckLabel(deck), queue, pos: 0, flipped: false, cleared: 0, totalInitial: queue.length };
+  return { deck, dir, label: srsDeckLabel(deck), queue, pos: 0, flipped: false, cleared: 0, totalInitial: queue.length };
+}
+function srsUpdateDirTabs() {
+  document.querySelectorAll("#srs-review [data-dir]").forEach(b => b.classList.toggle("active", b.dataset.dir === srsDir));
+}
+function srsSwitchDir(dir) {
+  srsDir = dir;
+  srsUpdateDirTabs();
+  if (srsSession && srsSession.dir !== dir) {
+    srsSession = srsBuildSession(srsSession.deck, dir);
+    srsRenderCard();
+  }
 }
 
 function srsRenderCard() {
   const ses = srsSession; if (!ses) return;
   const card = document.getElementById("srs-card");
   const ctrl = document.getElementById("srs-controls");
+  document.getElementById("srs-rev-title").textContent = ses.label;
   document.getElementById("srs-rev-progress").textContent = `${ses.cleared} / ${ses.totalInitial}`;
+  if (ses.totalInitial === 0) {
+    card.innerHTML = `<div class="srs-done">這個方向今天沒有要複習的卡了 🎉<br>（到期複習已完成，或今日新卡額度已用完；可切換另一個方向）</div>`;
+    ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
+    return;
+  }
   if (ses.pos >= ses.queue.length) {
-    document.getElementById("srs-rev-title").textContent = ses.label;
     card.innerHTML = `<div class="srs-done">🎉 本回合完成！<br>共複習 ${ses.cleared} 張卡</div>`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
   }
   const it = ses.queue[ses.pos];
   const meta = srsSetMeta(it.set), e = it.entry;
-  document.getElementById("srs-rev-title").textContent = `${ses.label}　${it.dir === "f" ? "外→中" : "中→外"}`;
   const head = meta.head(e) || "", reading = meta.reading(e);
   const meaning = displayMeaning(e.meaning_zh || "");
   const exF = srsForeignExample(e), exT = srsExampleTrans(it.set, e);
@@ -2567,19 +2580,15 @@ function srsRenderCard() {
 function srsStartDeck(deck) {
   closeCardPicker();
   ensureSrs();
-  srsSession = srsBuildSession(deck);
+  srsSession = srsBuildSession(deck, srsDir);
   document.getElementById("srs-review").hidden = false;
-  if (srsSession.totalInitial === 0) {
-    document.getElementById("srs-rev-title").textContent = srsSession.label;
-    document.getElementById("srs-rev-progress").textContent = "0 / 0";
-    document.getElementById("srs-card").innerHTML = `<div class="srs-done">這個牌組今天沒有要複習的卡了 🎉<br>（到期複習已完成，或今日新卡額度已用完）</div>`;
-    document.getElementById("srs-controls").innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
-  } else {
-    srsRenderCard();
-  }
+  srsUpdateDirTabs();
+  srsRenderCard();
 }
 
 function srsHandleClick(e) {
+  const dt = e.target.closest("[data-dir]");
+  if (dt) { srsSwitchDir(dt.dataset.dir); return; }
   if (e.target.closest("#srs-show")) { srsSession.flipped = true; srsRenderCard(); return; }
   if (e.target.closest("#srs-finish")) { closeSrsReview(); return; }
   const g = e.target.closest(".srs-grade");
@@ -2824,7 +2833,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     srsHandleClick(e);
   });
   document.getElementById("srs-rev-close")?.addEventListener("click", closeSrsReview);
-  document.querySelectorAll(".srs-tab").forEach(t =>
+  document.querySelectorAll("#streak-picker .srs-tab").forEach(t =>
     t.addEventListener("click", () => showStreakTab(t.dataset.tab)));
   document.getElementById("mem-fire")?.addEventListener("click", () => openStreakPicker("memory"));
   document.getElementById("mem-bar")?.addEventListener("click", () => openStreakPicker("memory"));
