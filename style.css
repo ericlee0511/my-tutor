@@ -1006,7 +1006,7 @@ footer {
 .mem-lang-label { width: 42px; font-size: 13px; }
 .mem-lang-bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
 .mem-lang-bar > span { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
-.mem-lang-num { font-size: 12px; color: var(--muted); min-width: 70px; text-align: right; font-variant-numeric: tabular-nums; }
+.mem-lang-num { font-size: 12px; color: var(--muted); width: 88px; flex: none; text-align: right; font-variant-numeric: tabular-nums; }
 .mem-retention { text-align: center; font-size: 15px; }
 .mem-retention strong { color: var(--accent); font-size: 18px; }
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
