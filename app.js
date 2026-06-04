@@ -2446,7 +2446,8 @@ function ensureSrs() {
   s.history = s.history || {};
   s.stats = s.stats || { answered: 0, again: 0 };
   const today = todayKey();
-  if (!s.daily || s.daily.date !== today) s.daily = { date: today, newToday: 0, reviewedToday: 0 };
+  if (!s.daily || s.daily.date !== today) s.daily = { date: today, newToday: 0, reviewedToday: 0, passed: 0 };
+  if (typeof s.daily.passed !== "number") s.daily.passed = 0;
   return s;
 }
 
@@ -2505,6 +2506,7 @@ function srsGrade(key, isNew, grade) {
   s.cards[key] = c;
   if (isNew) { s.daily.newToday++; s.history[today].new++; }
   else { s.daily.reviewedToday++; s.history[today].reviewed++; }
+  if (grade === "ok" || grade === "easy") s.daily.passed = (s.daily.passed || 0) + 1;  // 進度分子：普通/熟了才 +1
   saveState();
   return { requeue: grade === "again" };
 }
@@ -2543,7 +2545,7 @@ function srsRenderCard() {
   const card = document.getElementById("srs-card");
   const ctrl = document.getElementById("srs-controls");
   document.getElementById("srs-rev-title").textContent = ses.label;
-  document.getElementById("srs-rev-progress").textContent = `${ses.cleared} / ${ses.totalInitial}`;
+  { const tp = srsTodayProgress(); document.getElementById("srs-rev-progress").textContent = `${tp.X} / ${tp.Y}`; }
   if (ses.totalInitial === 0) {
     card.innerHTML = `<div class="srs-done">這個方向今天沒有要複習的卡了 🎉<br>（到期複習已完成，或今日新卡額度已用完；可切換另一個方向）</div>`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
@@ -2619,12 +2621,9 @@ function closeSrsReview() {
 
 // ---- 進度條（記憶複習，全牌組加總）----
 function srsTodayProgress() {
-  const s = ensureSrs(); const today = todayKey();
-  let due = 0; for (const k in s.cards) if (s.cards[k].due <= today) due++;
-  const h = s.history[today] || { reviewed: 0, new: 0 };
-  const Y = (due + h.reviewed) + s.newPerDay;   // 今日到期(剩+已做) + 新卡額度
-  const X = h.reviewed + h.new;                 // 今日已完成複習 + 已學新卡
-  return { X, Y: Math.max(Y, 1) };
+  const s = ensureSrs();
+  // 分子：今日按「普通/熟了」的張數（忘了不算），上限 = newPerDay；分母：固定 newPerDay(50)
+  return { X: Math.min(s.daily.passed || 0, s.newPerDay), Y: s.newPerDay };
 }
 function updateMemBar() {
   const fill = document.getElementById("mem-bar-fill"), txt = document.getElementById("mem-bar-text");
