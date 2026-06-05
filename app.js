@@ -2577,7 +2577,7 @@ function srsRenderCard() {
     return;
   }
   if (ses.pos >= ses.queue.length) {
-    card.innerHTML = `<div class="srs-done">🎉 本回合完成！<br>共複習 ${ses.cleared} 張卡</div>${srsHint}`;
+    card.innerHTML = `<div class="srs-done">本回合完成！🎉<br>共複習 ${ses.cleared} 張卡</div>${srsHint}`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
   }
