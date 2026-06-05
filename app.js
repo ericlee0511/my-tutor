@@ -2879,6 +2879,26 @@ window.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("srs-rev-close")?.addEventListener("click", closeSrsReview);
   document.querySelectorAll("#streak-picker .srs-tab").forEach(t =>
     t.addEventListener("click", () => showStreakTab(t.dataset.tab)));
+  // 學習成就頁：左右滑動切換句子練習／記憶複習分頁
+  {
+    const sp = document.querySelector("#streak-picker .stats-body");
+    if (sp) {
+      let sx = 0, sy = 0, tracking = false;
+      sp.addEventListener("touchstart", e => {
+        if (e.touches.length !== 1) { tracking = false; return; }
+        sx = e.touches[0].clientX; sy = e.touches[0].clientY; tracking = true;
+      }, { passive: true });
+      sp.addEventListener("touchend", e => {
+        if (!tracking) return; tracking = false;
+        const t = e.changedTouches[0];
+        const dx = t.clientX - sx, dy = t.clientY - sy;
+        if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // 需明顯水平滑動
+        const cur = document.getElementById("tab-memory").hidden ? "sentence" : "memory";
+        if (dx < 0 && cur === "sentence") showStreakTab("memory");      // 左滑 → 記憶複習
+        else if (dx > 0 && cur === "memory") showStreakTab("sentence"); // 右滑 → 句子練習
+      }, { passive: true });
+    }
+  }
   document.getElementById("mem-fire")?.addEventListener("click", () => openStreakPicker("memory"));
   document.getElementById("mem-bar")?.addEventListener("click", () => openStreakPicker("memory"));
   document.getElementById("sentence-bar")?.addEventListener("click", () => openStreakPicker("sentence"));
