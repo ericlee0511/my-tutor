@@ -2565,18 +2565,19 @@ function srsRenderCard() {
   const ctrl = document.getElementById("srs-controls");
   document.getElementById("srs-rev-title").textContent = ses.label;
   { const tp = srsTodayProgress(); document.getElementById("srs-rev-progress").textContent = `${tp.X} / ${tp.Y}`; }
+  const srsHint = `<div class="srs-hint">可切換另一個方向看看；其他牌組／語言可能也還有卡</div>`;
   if (ses.totalInitial === 0) {
     const s = ensureSrs();
     const budgetLeft = (s.newPerDay - (s.daily.newToday || 0)) > 0;
     const msg = budgetLeft
       ? `這個方向今天的卡都做完了 🎉`
       : `今日新卡額度 (${s.newPerDay} 張) 已用完 🎉<br>這個方向沒有到期可複習的卡了<br>明天會再出新卡`;
-    card.innerHTML = `<div class="srs-done">${msg}</div>`;
+    card.innerHTML = `<div class="srs-done">${msg}</div>${srsHint}`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
   }
   if (ses.pos >= ses.queue.length) {
-    card.innerHTML = `<div class="srs-done">🎉 本回合完成！<br>共複習 ${ses.cleared} 張卡</div>`;
+    card.innerHTML = `<div class="srs-done">🎉 本回合完成！<br>共複習 ${ses.cleared} 張卡</div>${srsHint}`;
     ctrl.innerHTML = `<button class="srs-show" id="srs-finish">結束</button>`;
     return;
   }
