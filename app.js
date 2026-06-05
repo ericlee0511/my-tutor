@@ -2894,8 +2894,9 @@ window.addEventListener("DOMContentLoaded", async () => {
         const dx = t.clientX - sx, dy = t.clientY - sy;
         if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // 需明顯水平滑動
         const cur = document.getElementById("tab-memory").hidden ? "sentence" : "memory";
-        if (dx < 0 && cur === "sentence") showStreakTab("memory");      // 左滑 → 記憶複習
-        else if (dx > 0 && cur === "memory") showStreakTab("sentence"); // 右滑 → 句子練習
+        // 版面：左=單字複習(memory)、右=句子練習(sentence)
+        if (dx < 0 && cur === "memory") showStreakTab("sentence");      // 左滑：左→右
+        else if (dx > 0 && cur === "sentence") showStreakTab("memory"); // 右滑：右→左
       }, { passive: true });
     }
   }
