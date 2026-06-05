@@ -1582,7 +1582,7 @@ function fmtQuiz(item) {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });
   html += `</div>` +
-    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `<div><span class="spoiler quiz-spoiler" onclick="this.classList.toggle('revealed')">` +
     `Answer: ${ansLetter} — ${escapeHTML(exp)}</span></div>`;
   return html;
 }
@@ -1618,7 +1618,7 @@ function fmtQuizKo(item) {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });
   html += `</div>` +
-    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `<div><span class="spoiler quiz-spoiler" onclick="this.classList.toggle('revealed')">` +
     `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
   return html;
 }
@@ -1676,7 +1676,7 @@ function fmtQuizToeic(item) {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });
   html += `</div>` +
-    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `<div><span class="spoiler quiz-spoiler" onclick="this.classList.toggle('revealed')">` +
     `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
   return html;
 }
@@ -1724,7 +1724,7 @@ function fmtQuizGept(item) {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });
   html += `</div>` +
-    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `<div><span class="spoiler quiz-spoiler" onclick="this.classList.toggle('revealed')">` +
     `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
   return html;
 }
@@ -1772,7 +1772,7 @@ function fmtQuizDele(item) {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });
   html += `</div>` +
-    `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
+    `<div><span class="spoiler quiz-spoiler" onclick="this.classList.toggle('revealed')">` +
     `答案: ${ansLetter} — ${escapeHTML(item.explanation_zh)}</span></div>`;
   return html;
 }
@@ -2936,9 +2936,10 @@ window.addEventListener("DOMContentLoaded", async () => {
       return;
     }
 
-    // Normal spoiler (inline onclick already toggled) — count first reveal
+    // Normal spoiler (inline onclick already toggled) — count first reveal.
+    // 選擇題答案(.quiz-spoiler)不計入句子練習(已學/今日練習/進度條)。
     const sp = e.target.closest(".spoiler");
-    if (sp && !sp.classList.contains("revealed-counted") && sp.classList.contains("revealed")) {
+    if (sp && !sp.classList.contains("quiz-spoiler") && !sp.classList.contains("revealed-counted") && sp.classList.contains("revealed")) {
       sp.classList.add("revealed-counted");
       recordReveal();
     }
