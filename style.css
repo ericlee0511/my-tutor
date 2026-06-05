@@ -1002,12 +1002,13 @@ footer {
 .mem-card-num small { font-size: 11px; margin-left: 1px; color: var(--muted); }
 .mem-card-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .mem-sec-title { font-size: 14px; font-weight: 600; color: var(--accent); margin: 16px 0 8px; }
-.mem-lang { display: flex; align-items: center; gap: 8px; margin: 8px 0; position: relative; }
+.mem-lang { display: flex; align-items: center; gap: 8px; margin: 8px 0; }
 .mem-lang-label { width: 42px; font-size: 13px; }
-.mem-lang-bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
+/* 進度條 flex:1 + min-width:0 → 動態縮短，讓右側數字永遠放得下、不被擠壓。 */
+.mem-lang-bar { flex: 1; min-width: 0; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
 .mem-lang-bar > span { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
-/* 數字疊在進度條右端、與進度條同行重疊（純文字、無底色）。 */
-.mem-lang-num { position: absolute; right: 4px; top: 50%; transform: translateY(-50%); font-size: 12px; color: var(--muted); line-height: 1.5; font-variant-numeric: tabular-nums; }
+/* 數字在進度條右側、自然寬度不換行、flex:none 不被壓縮（同上方兩條進度條模式）。 */
+.mem-lang-num { flex: none; white-space: nowrap; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .mem-retention { text-align: center; font-size: 15px; }
 .mem-retention strong { color: var(--accent); font-size: 18px; }
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
