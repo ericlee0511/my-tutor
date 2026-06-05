@@ -2452,7 +2452,7 @@ function closeLookupSearch() {
 }
 
 // ===================== 記憶複習（Anki SRS）=====================
-const SRS_NEW_PER_DAY = 50;    // 全牌組共用每日新卡上限（張）
+const SRS_NEW_PER_DAY = 100;    // 全牌組共用每日新卡上限（張）
 const SRS_MATURE_IVL = 21;     // 間隔≥21 天視為「熟練」
 let srsSession = null;
 let srsDir = "f";              // 目前複習方向：'f' 外→中 / 'r' 中→外（一次一個方向）
