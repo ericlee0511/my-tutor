@@ -1031,7 +1031,7 @@ footer {
 .srs-rev-progress { margin-left: auto; margin-right: 8px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .srs-review-body { padding: 18px 16px; display: flex; flex-direction: column; gap: 16px; }
 .srs-card {
-  min-height: 170px; display: flex; align-items: center; justify-content: center; text-align: center;
+  min-height: 170px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;
   background: var(--accent-soft); border-radius: 12px; padding: 16px;
 }
 .srs-front { font-size: 30px; font-weight: 700; color: var(--text); word-break: break-word; }
