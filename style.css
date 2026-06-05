@@ -1040,7 +1040,7 @@ footer {
 .srs-breading { color: var(--muted); margin-top: 4px; font-size: 14px; }
 .srs-bmean { margin-top: 8px; font-size: 16px; color: var(--text); }
 .srs-bex { margin-top: 12px; font-size: 14px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; line-height: 1.6; }
-.srs-done { text-align: center; font-size: 18px; line-height: 1.9; color: var(--text); }
+.srs-done { text-align: center; font-size: 16px; line-height: 1.9; color: var(--text); }
 .srs-hint { text-align: center; font-size: 13px; line-height: 1.6; color: var(--muted); margin-top: 12px; }
 .srs-controls { display: flex; gap: 10px; }
 .srs-show { width: 100%; padding: 13px; border: none; border-radius: 10px; background: var(--accent); color: #fff; font-size: 15px; font-weight: 600; cursor: pointer; font-family: inherit; }

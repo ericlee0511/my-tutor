@@ -2565,7 +2565,7 @@ function srsRenderCard() {
   const ctrl = document.getElementById("srs-controls");
   document.getElementById("srs-rev-title").textContent = ses.label;
   { const tp = srsTodayProgress(); document.getElementById("srs-rev-progress").textContent = `${tp.X} / ${tp.Y}`; }
-  const srsHint = `<div class="srs-hint">可切換另一個方向看看；其他牌組／語言可能也還有卡</div>`;
+  const srsHint = `<div class="srs-hint">可換方向；別的牌組也可能有卡</div>`;
   if (ses.totalInitial === 0) {
     const s = ensureSrs();
     const budgetLeft = (s.newPerDay - (s.daily.newToday || 0)) > 0;
