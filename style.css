@@ -973,7 +973,7 @@ footer {
 }
 
 /* ===== 記憶複習（Anki SRS）===== */
-.mem-row { margin-top: 4px; }
+.mem-row + .streak-row { margin-top: 4px; }
 .streak-bar { cursor: pointer; }
 #mem-fire {
   background: none; border: none; font-size: 14px; padding: 2px 6px;
