@@ -724,7 +724,6 @@ function heatmapSymbol(n) {
 
 function renderHeatmap() {
   const root = document.getElementById("streak-heatmap");
-  const summary = document.getElementById("streak-summary");
   if (!root) return;
   const hist = state.streak.history || {};
   const today = new Date();
@@ -2746,8 +2745,8 @@ function renderMemoryTab() {
     mbEl.innerHTML = `<span>⭐ ${star}</span><span>🔥 ${fire}</span><span>👑 ${crown}</span>`;
   }
   const hmEl = document.getElementById("mem-heatmap");
-  if (hmEl) hmEl.innerHTML = `<div class="mem-sec-title">記憶複習熱力圖</div>` +
-    buildHeatmapGrid(k => { const e = s.history[k]; return e ? (e.reviewed + e.new) : 0; }, "最近 30 天記憶複習，顏色越鮮明表示複習越多。");
+  if (hmEl) hmEl.innerHTML = `<div class="mem-sec-title">單字複習熱力圖</div>` +
+    buildHeatmapGrid(k => { const e = s.history[k]; return e ? (e.reviewed + e.new) : 0; }, "最近 30 天單字複習，顏色越鮮明表示複習越多。");
   const retEl = document.getElementById("mem-retention");
   if (retEl) {
     const rate = s.stats.answered ? Math.round((s.stats.answered - s.stats.again) / s.stats.answered * 100) : 0;
