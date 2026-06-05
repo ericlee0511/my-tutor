@@ -709,7 +709,7 @@ function updateStreakUI() {
 
 function heatmapTier(n) {
   if (!n) return "hm-0";
-  if (n <= 10) return "hm-1";
+  if (n <= 15) return "hm-1";
   if (n <= 30) return "hm-2";
   return "hm-3";
 }
@@ -768,7 +768,7 @@ function renderHeatmap() {
       `<span class="hm-cell hm-2"></span>` +
       `<span class="hm-cell hm-3"></span>` +
       `<span>多</span>` +
-      `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span>` +
+      `<span class="hm-legend-detail">（沒學 / 1–15 / 16–30 / 31+ 張）</span>` +
     `</div>`;
   const symLegend =
     `<div class="hm-legend hm-sym-legend">` +
@@ -2698,7 +2698,7 @@ function buildHeatmapGrid(cntFn, intro) {
     `<div class="hm-legend"><span>少</span>` +
     `<span class="hm-cell hm-0"></span><span class="hm-cell hm-1"></span>` +
     `<span class="hm-cell hm-2"></span><span class="hm-cell hm-3"></span><span>多</span>` +
-    `<span class="hm-legend-detail">（沒學 / 1–10 / 11–30 / 31+ 張）</span></div>`;
+    `<span class="hm-legend-detail">（沒學 / 1–15 / 16–30 / 31+ 張）</span></div>`;
   const symLegend =
     `<div class="hm-legend hm-sym-legend"><span>⭐ 達標 15</span><span>🔥 雙倍 30</span><span>👑 爆發 50</span></div>`;
   return `<div class="hm-intro">${intro}</div><div class="hm-grid">${dow}${rows.join("")}</div>${legend}${symLegend}`;
