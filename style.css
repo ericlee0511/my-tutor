@@ -1007,7 +1007,7 @@ footer {
 .mem-lang-bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
 .mem-lang-bar > span { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
 /* 數字疊在進度條右端、與進度條同行重疊（純文字、無底色）。 */
-.mem-lang-num { position: absolute; right: 4px; top: 50%; transform: translateY(-50%); font-size: 11px; color: var(--muted); line-height: 1.5; font-variant-numeric: tabular-nums; }
+.mem-lang-num { position: absolute; right: 4px; top: 50%; transform: translateY(-50%); font-size: 12px; color: var(--muted); line-height: 1.5; font-variant-numeric: tabular-nums; }
 .mem-retention { text-align: center; font-size: 15px; }
 .mem-retention strong { color: var(--accent); font-size: 18px; }
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
