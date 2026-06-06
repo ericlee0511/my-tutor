@@ -2484,6 +2484,29 @@ function srsBaseKey(set, e) {
   if (set === "ko")  return `ko|${e.word}|${e.hanja || ""}`;
   return `${set}|${e.word}`;
 }
+
+// 孤兒清理：移除 state.srs.cards 中對不到任何現有單字的進度鍵（單字被刪除/改寫後殘留）。
+// 已學/熟練為即時由 cards 計算，清掉後自動修正。務必在 loadData 完成後呼叫。
+function srsPruneOrphans() {
+  if (!state.srs || !state.srs.cards) return 0;
+  const valid = new Set();
+  const sets = [["jap", DATA.vocab], ["ko", DATA.vocab_ko], ["toeic", DATA.vocab_toeic], ["dele", DATA.vocab_dele], ["gept", DATA.vocab_gept]];
+  for (const [set, data] of sets) {
+    if (!data) continue;
+    for (const lvl in data) {
+      const arr = data[lvl];
+      if (!Array.isArray(arr)) continue;
+      for (const e of arr) { const b = srsBaseKey(set, e); valid.add(b + "|f"); valid.add(b + "|r"); }
+    }
+  }
+  if (valid.size === 0) return 0;   // 資料未載入時保險不清，避免誤刪全部
+  let removed = 0;
+  for (const k of Object.keys(state.srs.cards)) {
+    if (!valid.has(k)) { delete state.srs.cards[k]; removed++; }
+  }
+  if (removed) saveState();
+  return removed;
+}
 function srsDeckLabel(deck) {
   const [set, lv] = deck.split(":");
   if (set === "jap")   return lv.toUpperCase();
@@ -2957,6 +2980,9 @@ window.addEventListener("DOMContentLoaded", async () => {
       `<div class="hint">資料載入失敗：${escapeHTML(e.message)}</div>`;
     return;
   }
+
+  ensureSrs();
+  srsPruneOrphans();   // 清掉對不到現有單字的孤兒進度鍵（已學/熟練自動修正）
 
   // Restore last viewed card (timeline + position are persisted in localStorage)
   const lastEntry = state.timeline[state.timelinePos];
