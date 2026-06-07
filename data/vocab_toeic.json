@@ -79,7 +79,7 @@
     },
     {
       "word": "retain",
-      "meaning_zh": "(動詞) 保留、留住",
+      "meaning_zh": "(動詞) 保留、留住；聘請（律師、顧問等）",
       "example_en": "The firm offers competitive benefits in order to retain top talent.",
       "example_zh": "該公司提供具競爭力的福利以留住頂尖人才。",
       "level": "進階商務級"
@@ -149,7 +149,7 @@
     },
     {
       "word": "accommodate",
-      "meaning_zh": "(動詞) 容納；適應、配合",
+      "meaning_zh": "(動詞) 容納；適應、配合；提供住宿",
       "example_en": "The new conference room can accommodate up to fifty participants.",
       "example_zh": "新會議室最多可容納五十位與會者。",
       "level": "進階商務級"
@@ -191,7 +191,7 @@
     },
     {
       "word": "premise",
-      "meaning_zh": "(名詞) 前提；(複數 premises) 房屋、營業場所",
+      "meaning_zh": "(名詞) 前提；(複數 premises) 房屋、營業場所；(動詞) 以……為前提",
       "example_en": "Smoking is strictly prohibited on the company premises.",
       "example_zh": "公司營業場所內嚴禁吸菸。",
       "level": "專業頂尖級"
@@ -254,7 +254,7 @@
     },
     {
       "word": "appointment",
-      "meaning_zh": "(名詞) 約會、預約；任命",
+      "meaning_zh": "(名詞) 約會、預約；任命、職位",
       "example_en": "I would like to schedule an appointment with the dental clinic for next Tuesday.",
       "example_zh": "我想預約下週二到牙科診所看診。",
       "level": "職場日常級"
@@ -289,7 +289,7 @@
     },
     {
       "word": "branch",
-      "meaning_zh": "(名詞) 分行、分公司",
+      "meaning_zh": "(名詞) 分行、分公司；樹枝；(學科、機構的)分支、部門",
       "example_en": "Our company plans to open a new branch in Singapore next year.",
       "example_zh": "我們公司計畫明年在新加坡開設新分公司。",
       "level": "職場日常級"
@@ -303,7 +303,7 @@
     },
     {
       "word": "capacity",
-      "meaning_zh": "(名詞) 容量；能力；身分",
+      "meaning_zh": "(名詞) 容量、容納量；能力；身分",
       "example_en": "The factory is currently operating at full capacity to meet rising demand.",
       "example_zh": "工廠目前正以全產能運轉以滿足不斷上升的需求。",
       "level": "進階商務級"
@@ -338,7 +338,7 @@
     },
     {
       "word": "conduct",
-      "meaning_zh": "(動詞) 進行、執行；(名詞) 行為",
+      "meaning_zh": "(動詞) 進行、執行；指揮(樂團)；傳導；(名詞) 行為、舉止",
       "example_en": "The research team will conduct a survey on customer satisfaction.",
       "example_zh": "研究團隊將進行一項關於顧客滿意度的調查。",
       "level": "基礎生活級"
@@ -408,7 +408,7 @@
     },
     {
       "word": "current",
-      "meaning_zh": "(形容詞) 目前的、現行的",
+      "meaning_zh": "(形容詞) 目前的、現行的；(名詞) 水流、電流；潮流、趨勢",
       "example_en": "Please refer to the current price list when preparing the quotation.",
       "example_zh": "準備報價單時，請參考目前的價目表。",
       "level": "基礎生活級"
@@ -429,7 +429,7 @@
     },
     {
       "word": "deliberate",
-      "meaning_zh": "(形容詞) 故意的、深思熟慮的；(動詞) 商議",
+      "meaning_zh": "(形容詞) 故意的；緩慢從容的；(動詞) 仔細考慮、商議",
       "example_en": "The committee will deliberate the proposal before making a final decision.",
       "example_zh": "委員會將會仔細商議該提案後再做出最終決定。",
       "level": "專業頂尖級"
@@ -450,7 +450,7 @@
     },
     {
       "word": "deposit",
-      "meaning_zh": "(名詞) 訂金、存款；(動詞) 存入",
+      "meaning_zh": "(名詞) 訂金、押金、存款；(地質)礦床、沉積物；(動詞) 存入、放置",
       "example_en": "A 20 percent deposit is required to confirm your booking.",
       "example_zh": "需支付百分之二十的訂金以確認您的預訂。",
       "level": "基礎生活級"
@@ -478,14 +478,14 @@
     },
     {
       "word": "document",
-      "meaning_zh": "(名詞) 文件；(動詞) 記錄",
+      "meaning_zh": "(名詞) 文件、文檔；(動詞) 記錄、用文件證明",
       "example_en": "Please attach the relevant documents to your application form.",
       "example_zh": "請將相關文件附加在您的申請表上。",
       "level": "基礎生活級"
     },
     {
       "word": "draft",
-      "meaning_zh": "(名詞) 草稿；(動詞) 起草",
+      "meaning_zh": "(名詞) 草稿、草案；匯票；(動詞) 起草；徵召(入伍)",
       "example_en": "I have prepared a draft of the proposal for your review.",
       "example_zh": "我已準備好提案的草稿供您審閱。",
       "level": "基礎生活級"
@@ -611,7 +611,7 @@
     },
     {
       "word": "extension",
-      "meaning_zh": "(名詞) 延期；分機號碼",
+      "meaning_zh": "(名詞) 延期、延長；分機號碼；擴充、延伸部分",
       "example_en": "The team requested a one-week extension to complete the report.",
       "example_zh": "團隊要求延期一週以完成報告。",
       "level": "職場日常級"
@@ -639,7 +639,7 @@
     },
     {
       "word": "forward",
-      "meaning_zh": "(動詞) 轉寄、轉交",
+      "meaning_zh": "(動詞) 轉寄、轉交；(形容詞/副詞) 向前的、向前地",
       "example_en": "Could you please forward this email to the entire sales team?",
       "example_zh": "可以請您將這封電子郵件轉寄給整個業務團隊嗎？",
       "level": "基礎生活級"
@@ -695,7 +695,7 @@
     },
     {
       "word": "host",
-      "meaning_zh": "(動詞) 主辦；(名詞) 主人",
+      "meaning_zh": "(名詞) 主人、東道主；主持人；(主機)伺服器；大量、許多(a host of)；(動詞) 主辦、主持",
       "example_en": "Our city will host the international trade conference this autumn.",
       "example_zh": "本市今秋將主辦國際貿易會議。",
       "level": "基礎生活級"
@@ -786,7 +786,7 @@
     },
     {
       "word": "issue",
-      "meaning_zh": "(名詞) 議題、問題；(動詞) 發行",
+      "meaning_zh": "(名詞) 議題、問題；(雜誌)期號；(動詞) 發行、發布、核發",
       "example_en": "The supervisor will address the issue of overtime pay at the next meeting.",
       "example_zh": "主管將在下次會議上處理加班費的議題。",
       "level": "基礎生活級"
@@ -856,7 +856,7 @@
     },
     {
       "word": "monitor",
-      "meaning_zh": "(動詞) 監控、監督",
+      "meaning_zh": "(動詞) 監控、監督；(名詞) 螢幕、顯示器；監視器",
       "example_en": "Managers monitor production levels on a daily basis.",
       "example_zh": "經理每天監控生產水準。",
       "level": "職場日常級"
@@ -933,7 +933,7 @@
     },
     {
       "word": "premium",
-      "meaning_zh": "(名詞) 保險費；(形容詞) 高級的",
+      "meaning_zh": "(名詞) 保險費；額外費用、溢價；(形容詞) 高級的、優質的",
       "example_en": "Customers are willing to pay a premium for high-quality service.",
       "example_zh": "顧客願意為高品質的服務支付額外費用。",
       "level": "專業頂尖級"
@@ -947,7 +947,7 @@
     },
     {
       "word": "principal",
-      "meaning_zh": "(形容詞) 主要的；(名詞) 校長、本金",
+      "meaning_zh": "(形容詞) 主要的；(名詞) 校長；本金；當事人、委託人",
       "example_en": "The principal reason for the delay was a shortage of raw materials.",
       "example_zh": "延誤的主要原因是原料短缺。",
       "level": "進階商務級"
@@ -982,7 +982,7 @@
     },
     {
       "word": "prompt",
-      "meaning_zh": "(形容詞) 迅速的；(動詞) 促使",
+      "meaning_zh": "(形容詞) 迅速的、準時的；(動詞) 促使、提示；(名詞) 提示",
       "example_en": "Thank you for your prompt response to our inquiry.",
       "example_zh": "感謝您對我們詢問的迅速回覆。",
       "level": "職場日常級"
@@ -1143,7 +1143,7 @@
     },
     {
       "word": "retail",
-      "meaning_zh": "(名詞/形容詞) 零售；零售的",
+      "meaning_zh": "(名詞) 零售；(形容詞) 零售的；(動詞) 零售、零賣",
       "example_en": "The new product will be available at retail stores nationwide next month.",
       "example_zh": "這項新產品將於下個月在全國零售商店上市。",
       "level": "職場日常級"
@@ -1171,21 +1171,21 @@
     },
     {
       "word": "sample",
-      "meaning_zh": "(名詞) 樣品、樣本；(動詞) 取樣",
+      "meaning_zh": "(名詞) 樣品、樣本；(動詞) 取樣、品嚐、試用",
       "example_en": "Visitors can request a free sample of the new skincare product.",
       "example_zh": "訪客可以索取新護膚產品的免費樣品。",
       "level": "基礎生活級"
     },
     {
       "word": "secure",
-      "meaning_zh": "(動詞) 取得、確保；(形容詞) 安全的",
+      "meaning_zh": "(動詞) 取得、確保；使安全、固定；(形容詞) 安全的、牢固的、安心的",
       "example_en": "The firm managed to secure a major contract with the government.",
       "example_zh": "該公司成功取得了一份與政府簽訂的重大合約。",
       "level": "進階商務級"
     },
     {
       "word": "settle",
-      "meaning_zh": "(動詞) 解決、結算",
+      "meaning_zh": "(動詞) 解決、結算；定居、安頓；平靜下來",
       "example_en": "Both parties hope to settle the dispute without going to court.",
       "example_zh": "雙方都希望不必上法庭就能解決爭議。",
       "level": "職場日常級"
@@ -1276,7 +1276,7 @@
     },
     {
       "word": "supplement",
-      "meaning_zh": "(名詞/動詞) 補充、補充物",
+      "meaning_zh": "(名詞) 補充物、增刊；營養補充品；(動詞) 補充",
       "example_en": "The company supplements employee salaries with quarterly bonuses.",
       "example_zh": "公司以每季獎金補充員工的薪資。",
       "level": "職場日常級"
@@ -1290,14 +1290,14 @@
     },
     {
       "word": "survey",
-      "meaning_zh": "(名詞/動詞) 調查、問卷",
+      "meaning_zh": "(名詞) 調查、問卷；(土地)勘測、測量；(動詞) 調查、勘測、環視",
       "example_en": "The recent survey revealed that 80 percent of customers are satisfied.",
       "example_zh": "最近的調查顯示百分之八十的顧客感到滿意。",
       "level": "基礎生活級"
     },
     {
       "word": "sustain",
-      "meaning_zh": "(動詞) 維持、承受",
+      "meaning_zh": "(動詞) 維持、支撐、承受；遭受(損失、傷害)",
       "example_en": "It is difficult to sustain such rapid growth in a competitive market.",
       "example_zh": "在競爭激烈的市場中很難維持如此快速的成長。",
       "level": "專業頂尖級"
@@ -1332,7 +1332,7 @@
     },
     {
       "word": "term",
-      "meaning_zh": "(名詞) 條款；期間；用語",
+      "meaning_zh": "(名詞) 條款；期間、學期、任期；用語、術語",
       "example_en": "Please review the terms of the agreement before signing.",
       "example_zh": "請在簽署前仔細閱讀協議的條款。",
       "level": "職場日常級"
@@ -4118,7 +4118,7 @@
     },
     {
       "word": "advocate",
-      "meaning_zh": "(名詞) 倡議者",
+      "meaning_zh": "(名詞) 倡議者；擁護者；(法律) 辯護律師；(動詞) 提倡；主張；擁護",
       "example_en": "Having a senior advocate can accelerate career development significantly.",
       "example_zh": "擁有資深倡議者能顯著加速職涯發展。",
       "level": "專業頂尖級"
@@ -5217,7 +5217,7 @@
     },
     {
       "word": "draw",
-      "meaning_zh": "(名詞) 預支薪資 (業務常用)",
+      "meaning_zh": "(名詞) 預支薪資 (業務常用)；平手；抽籤；吸引力；(動詞) 畫；拉；抽出；提取",
       "example_en": "A draw provides guaranteed income during the first months of ramp-up.",
       "example_zh": "預支薪資在上手的前幾個月提供保證收入。",
       "level": "專業頂尖級"
@@ -6344,7 +6344,7 @@
     },
     {
       "word": "embargo",
-      "meaning_zh": "(名詞) 新聞禁令",
+      "meaning_zh": "(名詞) 新聞禁令；禁運；貿易禁令；(動詞) 對…實施禁運",
       "example_en": "The press release is under embargo until Monday morning.",
       "example_zh": "新聞稿在週一上午前都受禁令限制。",
       "level": "專業頂尖級"
@@ -6617,7 +6617,7 @@
     },
     {
       "word": "territory",
-      "meaning_zh": "(名詞) 銷售區域",
+      "meaning_zh": "(名詞) 銷售區域；領土；領地；勢力範圍；領域",
       "example_en": "Sales territories are rebalanced at the start of each year.",
       "example_zh": "銷售區域在每年年初重新分配。",
       "level": "職場日常級"
@@ -6827,7 +6827,7 @@
     },
     {
       "word": "hospitality",
-      "meaning_zh": "(名詞) 待客之道",
+      "meaning_zh": "(名詞) 待客之道；好客；款待；餐旅服務業",
       "example_en": "Genuine hospitality creates memorable customer experiences.",
       "example_zh": "真誠的待客之道創造難忘的顧客體驗。",
       "level": "專業頂尖級"
@@ -6932,7 +6932,7 @@
     },
     {
       "word": "queue",
-      "meaning_zh": "(名詞) 等候佇列",
+      "meaning_zh": "(名詞) 等候佇列；隊伍；行列；(動詞) 排隊；排成行列",
       "example_en": "Average queue times dropped after we added more agents.",
       "example_zh": "在我們增加更多客服人員後平均等候時間下降。",
       "level": "基礎生活級"
@@ -7303,7 +7303,7 @@
     },
     {
       "word": "quote",
-      "meaning_zh": "(名詞/動詞) 報價",
+      "meaning_zh": "(名詞) 報價；引言、引述；(動詞) 報價；引用、引述",
       "example_en": "Please send a detailed quote by the end of the week.",
       "example_zh": "請在週末前寄送詳細報價。",
       "level": "進階商務級"
@@ -7317,7 +7317,7 @@
     },
     {
       "word": "tender",
-      "meaning_zh": "(名詞/動詞) 招標",
+      "meaning_zh": "(名詞) 招標；投標書；(動詞) 招標；正式提出；(形容詞) 溫柔的；柔嫩的；觸之疼痛的",
       "example_en": "The government tender attracted bids from over 20 companies.",
       "example_zh": "政府招標吸引了超過 20 家公司投標。",
       "level": "進階商務級"
@@ -7408,7 +7408,7 @@
     },
     {
       "word": "vision",
-      "meaning_zh": "(名詞) 願景",
+      "meaning_zh": "(名詞) 願景；視力、視覺；想像、洞察力",
       "example_en": "The company vision inspires both employees and customers.",
       "example_zh": "公司願景激勵員工與顧客。",
       "level": "進階商務級"
@@ -7828,7 +7828,7 @@
     },
     {
       "word": "sunset",
-      "meaning_zh": "(名詞/動詞) 產品下架",
+      "meaning_zh": "(名詞) 日落、夕陽；產品下架；(動詞) 使逐步停用、淘汰",
       "example_en": "We will sunset the legacy product line next year.",
       "example_zh": "我們明年將下架舊產品線。",
       "level": "專業頂尖級"
@@ -7849,7 +7849,7 @@
     },
     {
       "word": "migration",
-      "meaning_zh": "(名詞) 遷移",
+      "meaning_zh": "(名詞) 遷移；移民；（動物的）遷徙",
       "example_en": "Customer migration to the new platform was completed smoothly.",
       "example_zh": "顧客遷移至新平台的過程順利完成。",
       "level": "進階商務級"
@@ -8073,7 +8073,7 @@
     },
     {
       "word": "champion",
-      "meaning_zh": "(名詞) 內部支持者",
+      "meaning_zh": "(名詞) 內部支持者；冠軍、優勝者；擁護者；(動詞) 擁護、支持",
       "example_en": "A strong internal champion advocates for the deal.",
       "example_zh": "強而有力的內部支持者為交易發聲。",
       "level": "專業頂尖級"
@@ -8192,7 +8192,7 @@
     },
     {
       "word": "guidance",
-      "meaning_zh": "(名詞) 財測指引",
+      "meaning_zh": "(名詞) 財測指引；指導、引導；輔導",
       "example_en": "Strong marketing results lifted our full-year guidance.",
       "example_zh": "強勁的行銷成果提升了我們的全年財測指引。",
       "level": "進階商務級"
@@ -8640,7 +8640,7 @@
     },
     {
       "word": "refresh",
-      "meaning_zh": "(名詞/動詞) 品牌煥新",
+      "meaning_zh": "(名詞) 品牌煥新；刷新；提神；(動詞) 品牌煥新；刷新（畫面）；使恢復精神、使提神",
       "example_en": "The visual refresh modernized our look without losing heritage.",
       "example_zh": "視覺煥新讓我們的外觀現代化但不失傳承。",
       "level": "進階商務級"
@@ -8955,7 +8955,7 @@
     },
     {
       "word": "authority",
-      "meaning_zh": "(名詞) 權威",
+      "meaning_zh": "(名詞) 權威；權威人士、專家；（複數）當局、官方",
       "example_en": "Expert authority increases trust in the brand message.",
       "example_zh": "專家權威提升對品牌訊息的信任。",
       "level": "進階商務級"
@@ -9074,7 +9074,7 @@
     },
     {
       "word": "lift",
-      "meaning_zh": "(名詞) 提升幅度",
+      "meaning_zh": "(名詞) 提升幅度；電梯（英式）；搭便車；(動詞) 舉起、抬起；提高",
       "example_en": "The new design produced a 15 percent lift in conversion rate.",
       "example_zh": "新設計讓轉換率提升了 15%。",
       "level": "進階商務級"
@@ -9732,14 +9732,14 @@
     },
     {
       "word": "hook",
-      "meaning_zh": "(名詞) 吸引點",
+      "meaning_zh": "(名詞) 吸引點；鉤子、掛鉤；(動詞) 鉤住；吸引",
       "example_en": "The opening hook captures attention within the first three seconds.",
       "example_zh": "開頭吸引點在前三秒內就抓住注意力。",
       "level": "進階商務級"
     },
     {
       "word": "angle",
-      "meaning_zh": "(名詞) 切入角度",
+      "meaning_zh": "(名詞) 切入角度；角、角度（幾何）；(動詞) 使傾斜；（從特定角度）寫作或呈現",
       "example_en": "Each creative variation tests a different marketing angle.",
       "example_zh": "每個創意版本測試不同的行銷切入角度。",
       "level": "進階商務級"
@@ -10691,14 +10691,14 @@
     },
     {
       "word": "impression",
-      "meaning_zh": "(名詞) 曝光次數，廣告被顯示的次數",
+      "meaning_zh": "(名詞) 曝光次數，廣告被顯示的次數；印象，對人事物的觀感",
       "example_en": "The campaign generated over one million impressions in a week.",
       "example_zh": "該活動一週內產生了超過一百萬次曝光。",
       "level": "職場日常級"
     },
     {
       "word": "reach",
-      "meaning_zh": "(名詞) 觸及人數，看過廣告的不重複用戶數",
+      "meaning_zh": "(名詞) 觸及人數，看過廣告的不重複用戶數；可及範圍。(動詞) 到達、抵達；伸手；聯絡到",
       "example_en": "The reach of our social media campaign exceeded expectations.",
       "example_zh": "我們社群媒體活動的觸及人數超出預期。",
       "level": "職場日常級"
@@ -10733,14 +10733,14 @@
     },
     {
       "word": "pipeline",
-      "meaning_zh": "(名詞) 銷售管道，潛在交易的流程清單",
+      "meaning_zh": "(名詞) 銷售管道，潛在交易的流程清單；管線、輸送管；進行中的一連串流程",
       "example_en": "We have over fifty deals in the pipeline this quarter.",
       "example_zh": "我們本季銷售管道中有超過五十筆交易。",
       "level": "職場日常級"
     },
     {
       "word": "prospect",
-      "meaning_zh": "(名詞) 潛在客戶，可能購買的對象",
+      "meaning_zh": "(名詞) 潛在客戶，可能購買的對象；前景、展望。(動詞) 勘探、探尋",
       "example_en": "Each sales rep is expected to contact ten new prospects daily.",
       "example_zh": "每位業務代表每天應聯繫十位新潛在客戶。",
       "level": "進階商務級"
@@ -11097,7 +11097,7 @@
     },
     {
       "word": "ticket",
-      "meaning_zh": "(名詞) 工單，紀錄客服請求的編號",
+      "meaning_zh": "(名詞) 工單，紀錄客服請求的編號；票券、入場券；罰單",
       "example_en": "A support ticket has been created for your issue.",
       "example_zh": "已為您的問題建立服務工單。",
       "level": "職場日常級"
@@ -11139,7 +11139,7 @@
     },
     {
       "word": "assembly",
-      "meaning_zh": "(名詞) 組裝；裝配作業",
+      "meaning_zh": "(名詞) 組裝、裝配作業；集會、聚集；議會",
       "example_en": "Final assembly takes place at the Vietnam plant before global distribution.",
       "example_zh": "最終組裝在越南廠進行，之後再進行全球配送。",
       "level": "進階商務級"
@@ -11216,7 +11216,7 @@
     },
     {
       "word": "recall",
-      "meaning_zh": "(名詞/動詞) 召回；廠商收回有問題產品",
+      "meaning_zh": "(名詞/動詞) 召回，廠商收回有問題產品；回想、記起",
       "example_en": "The automaker issued a recall for 80,000 vehicles due to a faulty airbag sensor.",
       "example_zh": "該車廠因氣囊感測器瑕疵召回 8 萬輛車。",
       "level": "進階商務級"
@@ -11440,7 +11440,7 @@
     },
     {
       "word": "container",
-      "meaning_zh": "(名詞) 貨櫃；標準化的運輸容器",
+      "meaning_zh": "(名詞) 貨櫃，標準化的運輸容器；容器、盛裝物品的器具",
       "example_en": "A standard 40-foot container holds roughly 26 metric tons of cargo.",
       "example_zh": "一個標準 40 呎貨櫃約可承載 26 公噸貨物。",
       "level": "職場日常級"
@@ -11713,14 +11713,14 @@
     },
     {
       "word": "settlement",
-      "meaning_zh": "(名詞) 和解；當事人達成協議解決糾紛",
+      "meaning_zh": "(名詞) 和解，當事人達成協議解決糾紛；結算、清償；定居、聚落",
       "example_en": "Both parties reached an out-of-court settlement to avoid further legal costs.",
       "example_zh": "雙方達成庭外和解以避免更多法律成本。",
       "level": "進階商務級"
     },
     {
       "word": "judgment",
-      "meaning_zh": "(名詞) 判決；法院的正式裁定",
+      "meaning_zh": "(名詞) 判決，法院的正式裁定；判斷力、見解",
       "example_en": "The court issued a judgment in favor of the plaintiff with damages of $2 million.",
       "example_zh": "法院作出有利於原告的判決並判賠 200 萬美元。",
       "level": "進階商務級"
@@ -12021,7 +12021,7 @@
     },
     {
       "word": "consideration",
-      "meaning_zh": "(名詞) 對價；契約中雙方交換之有價物",
+      "meaning_zh": "(名詞) 對價，契約中雙方交換之有價物；考慮、考量；體諒、顧及",
       "example_en": "Consideration of $50,000 was paid in exchange for the consulting services.",
       "example_zh": "支付 50,000 美元作為顧問服務的對價。",
       "level": "專業頂尖級"
@@ -12063,7 +12063,7 @@
     },
     {
       "word": "yield",
-      "meaning_zh": "(名詞) 良率；合格產出比率",
+      "meaning_zh": "(名詞) 良率，合格產出比率；產量、收益。(動詞) 出產、產生；讓步、屈服；讓路",
       "example_en": "Process improvements lifted yield on the new wafer line to 92 percent.",
       "example_zh": "製程改善使新晶圓線的良率提升至 92%。",
       "level": "進階商務級"
@@ -12231,7 +12231,7 @@
     },
     {
       "word": "shift",
-      "meaning_zh": "(名詞) 輪班；工作時段",
+      "meaning_zh": "(名詞) 輪班，工作時段；轉變、變化。(動詞) 移動、轉移；改變",
       "example_en": "Night shift operators receive a 15 percent pay differential.",
       "example_zh": "夜班操作員可獲得 15% 的加成津貼。",
       "level": "職場日常級"
@@ -12301,7 +12301,7 @@
     },
     {
       "word": "redundancy",
-      "meaning_zh": "(名詞) 冗餘配置；備援系統以防失效",
+      "meaning_zh": "(名詞) 冗餘配置，備援系統以防失效；裁員、資遣",
       "example_en": "Built-in redundancy ensures uninterrupted power to the data center.",
       "example_zh": "內建的冗餘配置確保資料中心不中斷供電。",
       "level": "進階商務級"
@@ -12469,7 +12469,7 @@
     },
     {
       "word": "manifest",
-      "meaning_zh": "(名詞) 艙單；列出運輸貨物詳情的清單",
+      "meaning_zh": "(名詞) 艙單，列出運輸貨物詳情的清單。(形容詞) 明顯的、明白的。(動詞) 顯現、表露",
       "example_en": "The cargo manifest lists all items aboard the vessel for customs review.",
       "example_zh": "貨物艙單列出船上所有貨品供海關查核。",
       "level": "專業頂尖級"
@@ -13442,7 +13442,7 @@
     },
     {
       "word": "claim",
-      "meaning_zh": "(名詞) 理賠；要求賠償的請求",
+      "meaning_zh": "(名詞) 理賠，要求賠償的請求；主張、聲稱；權利主張。(動詞) 聲稱、主張；索賠、申領",
       "example_en": "Insurance claims for damaged shipments must be filed within 30 days.",
       "example_zh": "受損貨物的保險理賠必須於 30 日內提出。",
       "level": "進階商務級"
@@ -13680,7 +13680,7 @@
     },
     {
       "word": "closing",
-      "meaning_zh": "(名詞) 交割；交易最終完成",
+      "meaning_zh": "(名詞) 交割，交易最終完成；結束、終結；收盤；打烊、結束營業",
       "example_en": "Closing is conditional on regulatory approval and financing.",
       "example_zh": "交割以取得法規核准與融資為條件。",
       "level": "進階商務級"
@@ -13757,7 +13757,7 @@
     },
     {
       "word": "discovery",
-      "meaning_zh": "(名詞) 證據開示；訴訟前交換證據的程序",
+      "meaning_zh": "(名詞) 證據開示；訴訟前交換證據的程序；發現、發掘；被發現的事物",
       "example_en": "Discovery in the litigation will continue for the next six months.",
       "example_zh": "本訴訟的證據開示將持續未來六個月。",
       "level": "專業頂尖級"
@@ -13799,7 +13799,7 @@
     },
     {
       "word": "royalty",
-      "meaning_zh": "(名詞) 權利金；使用他人智財所付費用",
+      "meaning_zh": "(名詞) 權利金；使用他人智財所付費用；版稅；王室、皇室成員",
       "example_en": "Royalty payments are calculated as 5 percent of net sales.",
       "example_zh": "權利金按淨銷售額的 5% 計算。",
       "level": "進階商務級"
@@ -14380,14 +14380,14 @@
     },
     {
       "word": "debit",
-      "meaning_zh": "(名詞) 借方，會計分錄左方記載的金額",
+      "meaning_zh": "(名詞) 借方，會計分錄左方記載的金額；(動詞) 從帳戶扣款、記入借方",
       "example_en": "A debit to the cash account reflects an increase in cash.",
       "example_zh": "現金科目的借方反映現金的增加。",
       "level": "進階商務級"
     },
     {
       "word": "credit",
-      "meaning_zh": "(名詞) 貸方，會計分錄右方記載的金額",
+      "meaning_zh": "(名詞) 貸方，會計分錄右方記載的金額；信用、賒帳；功勞、讚揚；學分；（影視）演職員名單；(動詞) 將…記入貸方；歸功於",
       "example_en": "Sales revenue is recorded as a credit in the income account.",
       "example_zh": "銷貨收入記錄於收入科目的貸方。",
       "level": "進階商務級"
@@ -15255,7 +15255,7 @@
     },
     {
       "word": "overhead",
-      "meaning_zh": "(名詞) 間接費用，與生產間接相關的營運成本",
+      "meaning_zh": "(名詞) 間接費用，與生產間接相關的營運成本；(形容詞/副詞) 在頭頂上方的、頭頂上方地",
       "example_en": "Reducing overhead is essential to improve profitability.",
       "example_zh": "降低間接費用是提升獲利的關鍵。",
       "level": "專業頂尖級"
@@ -15577,7 +15577,7 @@
     },
     {
       "word": "default",
-      "meaning_zh": "(名詞/動詞) 違約，未按時履行債務義務",
+      "meaning_zh": "(名詞/動詞) 違約，未按時履行債務義務；(名詞) （電腦）預設值；(形容詞) 預設的",
       "example_en": "The borrower default triggered immediate legal action.",
       "example_zh": "借款人違約引發立即的法律行動。",
       "level": "進階商務級"
@@ -15717,7 +15717,7 @@
     },
     {
       "word": "withdrawal",
-      "meaning_zh": "(名詞) 提款，從帳戶領出資金",
+      "meaning_zh": "(名詞) 提款，從帳戶領出資金；撤回、撤退、退出；（藥物）戒斷",
       "example_en": "There is a daily limit on ATM withdrawals.",
       "example_zh": "提款機每日提款金額有上限。",
       "level": "進階商務級"
@@ -15745,14 +15745,14 @@
     },
     {
       "word": "stock",
-      "meaning_zh": "(名詞) 股票，代表公司所有權的證券",
+      "meaning_zh": "(名詞) 股票，代表公司所有權的證券；存貨、庫存；（烹飪）高湯；(動詞) 進貨、備貨、上架",
       "example_en": "She bought one hundred shares of stock in the tech company.",
       "example_zh": "她買了該科技公司一百股股票。",
       "level": "職場日常級"
     },
     {
       "word": "share",
-      "meaning_zh": "(名詞) 股份，公司股本的單位",
+      "meaning_zh": "(名詞) 股份，公司股本的單位；一份、份額；佔有率；(動詞) 分享、共用、分擔",
       "example_en": "Each share entitles the holder to one vote.",
       "example_zh": "每股賦予持有人一票投票權。",
       "level": "進階商務級"
@@ -15920,7 +15920,7 @@
     },
     {
       "word": "correction",
-      "meaning_zh": "(名詞) 回檔，股價短期下跌約一成的修正",
+      "meaning_zh": "(名詞) 回檔，股價短期下跌約一成的修正；改正、修正、校正",
       "example_en": "A market correction created a buying opportunity for long-term investors.",
       "example_zh": "市場回檔為長期投資人創造買進機會。",
       "level": "專業頂尖級"
@@ -16039,7 +16039,7 @@
     },
     {
       "word": "bond",
-      "meaning_zh": "(名詞) 債券，借款人發行的固定收益證券",
+      "meaning_zh": "(名詞) 債券，借款人發行的固定收益證券；結合、聯繫、紐帶；保釋金；(動詞) 黏合、使結合",
       "example_en": "The corporate bond pays semiannual interest to investors.",
       "example_zh": "該公司債每半年支付投資人利息。",
       "level": "進階商務級"
@@ -16123,7 +16123,7 @@
     },
     {
       "word": "duration",
-      "meaning_zh": "(名詞) 存續期間，衡量債券價格對利率敏感度的指標",
+      "meaning_zh": "(名詞) 存續期間，衡量債券價格對利率敏感度的指標；持續時間、期間",
       "example_en": "Bonds with longer duration are more sensitive to rate changes.",
       "example_zh": "存續期間較長的債券對利率變動更為敏感。",
       "level": "專業頂尖級"
@@ -16207,7 +16207,7 @@
     },
     {
       "word": "option",
-      "meaning_zh": "(名詞) 選擇權，賦予買賣標的資產權利的合約",
+      "meaning_zh": "(名詞) 選擇權，賦予買賣標的資產權利的合約；選擇、選項、可選方案",
       "example_en": "She purchased a call option on the technology stock.",
       "example_zh": "她買了一份該科技股的買權選擇權。",
       "level": "進階商務級"
@@ -16249,7 +16249,7 @@
     },
     {
       "word": "swap",
-      "meaning_zh": "(名詞) 交換契約，雙方交換現金流的合約",
+      "meaning_zh": "(名詞) 交換契約，雙方交換現金流的合約；(動詞/名詞) 交換、調換",
       "example_en": "An interest rate swap can convert fixed rates to floating rates.",
       "example_zh": "利率交換可將固定利率轉換為浮動利率。",
       "level": "專業頂尖級"
@@ -16270,7 +16270,7 @@
     },
     {
       "word": "warrant",
-      "meaning_zh": "(名詞) 權證，賦予買進股票權利的長期憑證",
+      "meaning_zh": "(名詞) 權證，賦予買進股票權利的長期憑證；授權令、搜索令、逮捕令；正當理由；(動詞) 使有必要、保證",
       "example_en": "Warrants give holders the right to purchase shares at a set price.",
       "example_zh": "權證讓持有人有權以約定價格買入股票。",
       "level": "專業頂尖級"
@@ -17656,7 +17656,7 @@
     },
     {
       "word": "mute",
-      "meaning_zh": "(名詞/動詞) 靜音",
+      "meaning_zh": "(動詞) 靜音；消音；(名詞) 靜音（鍵）；(形容詞) 不出聲的；無聲的",
       "example_en": "Please remember to mute your microphone when you are not speaking.",
       "example_zh": "請記得在您未發言時將麥克風靜音。",
       "level": "職場日常級"
@@ -17677,7 +17677,7 @@
     },
     {
       "word": "tone",
-      "meaning_zh": "(名詞) 語氣",
+      "meaning_zh": "(名詞) 語氣；音調；色調",
       "example_en": "Adjusting the tone of your message can prevent misunderstandings with clients.",
       "example_zh": "調整您訊息的語氣可以避免與客戶產生誤解。",
       "level": "職場日常級"
@@ -17712,7 +17712,7 @@
     },
     {
       "word": "address",
-      "meaning_zh": "(動詞) 處理；致詞",
+      "meaning_zh": "(名詞) 地址；致詞；演說；(動詞) 處理；對…講話；寫地址",
       "example_en": "The CEO will address employee concerns at the town hall meeting.",
       "example_zh": "執行長將在員工大會上處理員工的疑慮。",
       "level": "職場日常級"
@@ -18104,7 +18104,7 @@
     },
     {
       "word": "objective",
-      "meaning_zh": "(名詞) 目標",
+      "meaning_zh": "(名詞) 目標；(形容詞) 客觀的",
       "example_en": "State the meeting objective clearly so participants can prepare accordingly.",
       "example_zh": "請清楚陳述會議目標，讓參與者能據此準備。",
       "level": "職場日常級"
@@ -20155,7 +20155,7 @@
     },
     {
       "word": "grid",
-      "meaning_zh": "(名詞) 電網",
+      "meaning_zh": "(名詞) 電網；格子；網格",
       "example_en": "Smart grid technology balances electricity supply and demand across the entire regional network.",
       "example_zh": "智慧電網技術在整個區域網絡中平衡電力供需。",
       "level": "專業頂尖級"
@@ -20659,14 +20659,14 @@
     },
     {
       "word": "runway",
-      "meaning_zh": "(名詞) 營運餘裕、可維持營運的時間",
+      "meaning_zh": "(名詞) 跑道（機場）；伸展台（時尚走秀）；營運餘裕、可維持營運的時間",
       "example_en": "After the latest funding round, the company has about eighteen months of runway before needing more capital.",
       "example_zh": "在最近一輪融資後，公司大約還有十八個月的營運餘裕才需要再籌資。",
       "level": "進階商務級"
     },
     {
       "word": "moonlight",
-      "meaning_zh": "(動詞) 兼職、做副業（多指夜間）",
+      "meaning_zh": "(名詞) 月光；(動詞) 兼職、做副業（多指夜間）",
       "example_en": "Some employees moonlight as consultants in the evenings, which is permitted under our HR policy.",
       "example_zh": "部分員工晚上會兼職擔任顧問，這在我們的人資政策下是被允許的。",
       "level": "專業頂尖級"
@@ -20722,7 +20722,7 @@
     },
     {
       "word": "perk",
-      "meaning_zh": "(名詞) 福利、額外津貼",
+      "meaning_zh": "(名詞) 福利、額外津貼；(動詞) 振作、使有精神（常作 perk up）",
       "example_en": "Free meals and gym memberships are popular perks offered by many tech companies.",
       "example_zh": "免費餐點和健身房會員是許多科技公司提供的熱門福利。",
       "level": "進階商務級"
@@ -20890,7 +20890,7 @@
     },
     {
       "word": "rider",
-      "meaning_zh": "(名詞) 附加條款、附件",
+      "meaning_zh": "(名詞) 騎乘者、騎士；附加條款、附件",
       "example_en": "Please include a rider in the insurance policy to cover overseas business travel.",
       "example_zh": "請在保單中加入附加條款，以涵蓋海外商務旅行。",
       "level": "進階商務級"
@@ -21268,7 +21268,7 @@
     },
     {
       "word": "presence",
-      "meaning_zh": "(名詞) 存在感、市場版圖",
+      "meaning_zh": "(名詞) 存在、在場、出席；風範、台風；存在感、市場版圖",
       "example_en": "We aim to strengthen our presence in Southeast Asia by opening three new offices.",
       "example_zh": "我們計畫透過開設三個新辦公室，加強在東南亞的存在感。",
       "level": "進階商務級"
@@ -21604,7 +21604,7 @@
     },
     {
       "word": "endowment",
-      "meaning_zh": "(名詞) 捐贈基金、捐助",
+      "meaning_zh": "(名詞) 捐贈基金、捐助；天賦、稟賦、天資",
       "example_en": "The university's endowment grew by twelve percent thanks to strong investment returns.",
       "example_zh": "由於投資報酬亮眼，這所大學的捐贈基金成長了百分之十二。",
       "level": "專業頂尖級"
@@ -22486,7 +22486,7 @@
     },
     {
       "word": "deck",
-      "meaning_zh": "(名詞) 簡報投影片",
+      "meaning_zh": "(名詞) 簡報投影片；（船、橋的）甲板、平台",
       "example_en": "Please send me the latest version of the deck so I can review it before the board meeting.",
       "example_zh": "請寄給我最新版的簡報投影片，我才能在董事會議前審閱。",
       "level": "職場日常級"
@@ -24068,7 +24068,7 @@
     },
     {
       "word": "appreciate",
-      "meaning_zh": "(動詞) 增值；升值",
+      "meaning_zh": "(動詞) 增值；升值；感激；感謝；欣賞；理解",
       "example_en": "Real estate in the metropolitan area continued to appreciate despite rising interest rates and slower transaction volumes.",
       "example_zh": "儘管利率上升且交易量放緩，都會區的不動產持續增值。",
       "level": "進階商務級"
@@ -24082,7 +24082,7 @@
     },
     {
       "word": "reconcile",
-      "meaning_zh": "(動詞) 對帳；調節",
+      "meaning_zh": "(動詞) 對帳；調節；使一致；使和解",
       "example_en": "Accountants reconcile bank statements with general ledger balances at the end of each accounting period.",
       "example_zh": "會計師在每個會計期間結束時將銀行對帳單與總帳餘額進行對帳。",
       "level": "進階商務級"
@@ -24642,7 +24642,7 @@
     },
     {
       "word": "provision",
-      "meaning_zh": "(名詞) 提撥；準備金",
+      "meaning_zh": "(名詞) 提撥；準備金；供應；提供；條款；規定",
       "example_en": "The bank recorded a substantial loan loss provision in anticipation of higher defaults during the economic slowdown.",
       "example_zh": "因應經濟放緩期間違約率可能上升，銀行提列了大額的呆帳準備。",
       "level": "進階商務級"
@@ -25447,14 +25447,14 @@
     },
     {
       "word": "fine",
-      "meaning_zh": "(名詞) 罰款；罰金",
+      "meaning_zh": "(名詞) 罰款；罰金；(動詞) 處以罰款；(形容詞) 好的；優質的；細微的；晴朗的",
       "example_en": "Regulators imposed a record fine on the broker-dealer for misleading retail investors about complex structured products.",
       "example_zh": "監管機關對該券商商開出創紀錄罰款，因其就複雜的結構性商品誤導散戶投資人。",
       "level": "職場日常級"
     },
     {
       "word": "sanction",
-      "meaning_zh": "(名詞) 制裁",
+      "meaning_zh": "(名詞) 制裁；批准；認可；(動詞) 批准；認可；制裁",
       "example_en": "Economic sanctions restricted the bank from clearing transactions involving designated counterparties in the sanctioned country.",
       "example_zh": "經濟制裁限制該銀行清算涉及受制裁國家指定交易對手的交易。",
       "level": "進階商務級"
@@ -25524,7 +25524,7 @@
     },
     {
       "word": "bump",
-      "meaning_zh": "(動詞) 拒絕登機；改搭其他航班",
+      "meaning_zh": "(動詞) 拒絕登機；改搭其他航班；碰撞；撞到；(名詞) 碰撞；腫塊；隆起",
       "example_en": "Three volunteers agreed to be bumped from the flight in exchange for travel vouchers and meal credits.",
       "example_zh": "三名自願者同意改搭其他班機，以換取旅遊禮券與餐飲抵用金。",
       "level": "職場日常級"
@@ -26175,7 +26175,7 @@
     },
     {
       "word": "showcase",
-      "meaning_zh": "(動詞) 展示；陳列",
+      "meaning_zh": "(動詞) 展示；陳列；(名詞) 展示櫃；陳列櫥；典範",
       "example_en": "The pavilion will showcase emerging culinary trends and local artisanal products from the surrounding wine region.",
       "example_zh": "展館將展示新興餐飲趨勢，以及周邊葡萄酒產區的在地手工產品。",
       "level": "職場日常級"
@@ -26196,7 +26196,7 @@
     },
     {
       "word": "garnish",
-      "meaning_zh": "(動詞) 裝飾 (菜餚)",
+      "meaning_zh": "(動詞) 裝飾 (菜餚)；(名詞) 裝飾配菜；(動詞) 扣押 (薪資)",
       "example_en": "The chef likes to garnish each plate with edible flowers grown in the rooftop greenhouse above the kitchen.",
       "example_zh": "主廚喜歡以廚房上方頂樓溫室所種的食用花裝飾每道料理。",
       "level": "進階商務級"
@@ -26315,7 +26315,7 @@
     },
     {
       "word": "toast",
-      "meaning_zh": "(名詞) 祝酒詞",
+      "meaning_zh": "(名詞) 祝酒詞；烤吐司；(動詞) 烘烤；舉杯祝賀",
       "example_en": "The chief executive offered a heartfelt toast to recognize the team behind the successful product launch.",
       "example_zh": "執行長致上真摯的祝酒詞，表彰促成成功新品發表的團隊。",
       "level": "職場日常級"
@@ -29017,7 +29017,7 @@
     },
     {
       "word": "stretch",
-      "meaning_zh": "(動詞) 伸展；伸懶腰",
+      "meaning_zh": "(動詞) 伸展；伸懶腰；延伸；拉長；(名詞) 一段時間；一段路程",
       "example_en": "I stretch my arms and legs before getting out of bed.",
       "example_zh": "我下床前會伸展我的手臂和腿。",
       "level": "基礎生活級"
@@ -29087,7 +29087,7 @@
     },
     {
       "word": "blind",
-      "meaning_zh": "(名詞) 百葉窗",
+      "meaning_zh": "(名詞) 百葉窗；(形容詞) 失明的；盲目的；(動詞) 使失明",
       "example_en": "He lowered the blind to block the strong afternoon sunlight.",
       "example_zh": "他放下百葉窗以擋住強烈的午後陽光。",
       "level": "基礎生活級"
@@ -29101,7 +29101,7 @@
     },
     {
       "word": "shower",
-      "meaning_zh": "(動詞) 淋浴；沖澡",
+      "meaning_zh": "(動詞) 淋浴；沖澡；(名詞) 淋浴；陣雨；(婚禮/嬰兒)送禮會",
       "example_en": "I shower for about ten minutes before breakfast every day.",
       "example_zh": "我每天早餐前淋浴大約十分鐘。",
       "level": "基礎生活級"
@@ -29248,7 +29248,7 @@
     },
     {
       "word": "sink",
-      "meaning_zh": "(名詞) 洗手台；水槽",
+      "meaning_zh": "(名詞) 洗手台；水槽；(動詞) 下沉；沉沒；使下沉",
       "example_en": "Please rinse the dishes in the sink before placing them aside.",
       "example_zh": "請先在水槽裡沖洗碗盤再把它們放到一旁。",
       "level": "基礎生活級"
@@ -29479,14 +29479,14 @@
     },
     {
       "word": "key",
-      "meaning_zh": "(名詞) 鑰匙",
+      "meaning_zh": "(名詞) 鑰匙；關鍵；(鋼琴/鍵盤的)鍵；(形容詞) 關鍵的；重要的",
       "example_en": "I always hang my house key on a hook by the door.",
       "example_zh": "我總是把家裡鑰匙掛在門邊的掛鉤上。",
       "level": "基礎生活級"
     },
     {
       "word": "lock",
-      "meaning_zh": "(動詞) 鎖上",
+      "meaning_zh": "(動詞) 鎖上；(名詞) 鎖",
       "example_en": "Please lock the front door before you go to bed.",
       "example_zh": "睡覺前請把前門鎖上。",
       "level": "基礎生活級"
@@ -29675,7 +29675,7 @@
     },
     {
       "word": "iron",
-      "meaning_zh": "(動詞) 熨燙",
+      "meaning_zh": "(動詞) 熨燙；(名詞) 鐵；熨斗",
       "example_en": "He needs to iron his shirt before the office party.",
       "example_zh": "他得在公司派對前燙好襯衫。",
       "level": "基礎生活級"
@@ -29920,7 +29920,7 @@
     },
     {
       "word": "steam",
-      "meaning_zh": "(動詞) 蒸",
+      "meaning_zh": "(動詞) 蒸；(名詞) 蒸氣；水蒸氣",
       "example_en": "We often steam fish with ginger and green onions.",
       "example_zh": "我們常用薑和青蔥蒸魚。",
       "level": "基礎生活級"
@@ -29941,14 +29941,14 @@
     },
     {
       "word": "slice",
-      "meaning_zh": "(動詞) 切片",
+      "meaning_zh": "(動詞) 切片；切開；(名詞) 一片；一份",
       "example_en": "Slice the bread thinly for the morning sandwiches.",
       "example_zh": "把麵包薄薄切片用來做早上的三明治。",
       "level": "基礎生活級"
     },
     {
       "word": "peel",
-      "meaning_zh": "(動詞) 削皮；剝皮",
+      "meaning_zh": "(動詞) 削皮；剝皮；(名詞) 果皮；外皮",
       "example_en": "Could you please peel the apples for the fruit salad?",
       "example_zh": "你可以幫忙幫水果沙拉削蘋果皮嗎？",
       "level": "基礎生活級"
@@ -30032,7 +30032,7 @@
     },
     {
       "word": "jam",
-      "meaning_zh": "(名詞) 果醬",
+      "meaning_zh": "(名詞) 果醬；(動詞) 塞滿；卡住；(名詞) 堵塞；(交通)阻塞",
       "example_en": "Spread some strawberry jam on the warm toast for breakfast.",
       "example_zh": "在溫熱的吐司上塗一些草莓醬當早餐。",
       "level": "基礎生活級"
@@ -30249,7 +30249,7 @@
     },
     {
       "word": "orange",
-      "meaning_zh": "(名詞) 柳橙",
+      "meaning_zh": "(名詞) 柳橙；(名詞) 橙色；(形容詞) 橙色的",
       "example_en": "Peel the orange and share the slices with your sister.",
       "example_zh": "把柳橙剝皮然後跟妹妹分著吃。",
       "level": "基礎生活級"
@@ -30900,7 +30900,7 @@
     },
     {
       "word": "fish",
-      "meaning_zh": "(名詞) 魚",
+      "meaning_zh": "(名詞) 魚；(動詞) 釣魚；捕魚",
       "example_en": "Fresh fish from the morning market always tastes the best.",
       "example_zh": "早市的新鮮魚總是最好吃。",
       "level": "基礎生活級"
@@ -30935,7 +30935,7 @@
     },
     {
       "word": "oil",
-      "meaning_zh": "(名詞) 油",
+      "meaning_zh": "(名詞) 油；石油",
       "example_en": "Heat some olive oil in the pan before adding the garlic.",
       "example_zh": "在加入大蒜前，先在鍋裡熱一些橄欖油。",
       "level": "基礎生活級"
@@ -30970,7 +30970,7 @@
     },
     {
       "word": "water",
-      "meaning_zh": "(名詞) 水",
+      "meaning_zh": "(名詞) 水；(動詞) 澆水",
       "example_en": "Could I have a glass of cold water please?",
       "example_zh": "可以給我一杯冰水嗎？",
       "level": "基礎生活級"
@@ -31152,7 +31152,7 @@
     },
     {
       "word": "cook",
-      "meaning_zh": "(動詞) 烹煮；做菜",
+      "meaning_zh": "(名詞) 廚師；(動詞) 烹煮；做菜",
       "example_en": "I will cook dinner for the family tomorrow evening.",
       "example_zh": "我明天晚上會為家人做晚餐。",
       "level": "基礎生活級"
@@ -31194,21 +31194,21 @@
     },
     {
       "word": "spread",
-      "meaning_zh": "(動詞) 塗抹",
+      "meaning_zh": "(動詞) 塗抹；散播；蔓延；(名詞) 傳播",
       "example_en": "Please spread some peanut butter on this slice of bread.",
       "example_zh": "請在這片麵包上塗一些花生醬。",
       "level": "基礎生活級"
     },
     {
       "word": "taste",
-      "meaning_zh": "(動詞) 嚐；品嚐",
+      "meaning_zh": "(動詞) 嚐；品嚐；(名詞) 味道；品味",
       "example_en": "Could you taste the soup and tell me if it needs salt?",
       "example_zh": "你可以嚐一下湯，告訴我需不需要加鹽嗎？",
       "level": "基礎生活級"
     },
     {
       "word": "smell",
-      "meaning_zh": "(動詞) 聞；嗅",
+      "meaning_zh": "(動詞) 聞；嗅；(名詞) 氣味；味道",
       "example_en": "The freshly baked bread smells absolutely wonderful in the kitchen.",
       "example_zh": "剛烤好的麵包在廚房裡聞起來棒極了。",
       "level": "基礎生活級"
@@ -31222,14 +31222,14 @@
     },
     {
       "word": "drink",
-      "meaning_zh": "(動詞) 喝",
+      "meaning_zh": "(動詞) 喝；(名詞) 飲料",
       "example_en": "Doctors say adults should drink eight glasses of water daily.",
       "example_zh": "醫生說成人每天應該喝八杯水。",
       "level": "基礎生活級"
     },
     {
       "word": "order",
-      "meaning_zh": "(動詞) 點餐；訂購",
+      "meaning_zh": "(動詞) 點餐；訂購；命令；(名詞) 順序；秩序；命令",
       "example_en": "Are you ready to order or do you need more time?",
       "example_zh": "您準備好點餐了，還是需要更多時間？",
       "level": "基礎生活級"
@@ -31257,14 +31257,14 @@
     },
     {
       "word": "heat",
-      "meaning_zh": "(動詞) 加熱",
+      "meaning_zh": "(動詞) 加熱；(名詞) 熱；高溫",
       "example_en": "Heat the pizza in the oven for five minutes.",
       "example_zh": "把披薩放進烤箱加熱五分鐘。",
       "level": "基礎生活級"
     },
     {
       "word": "cool",
-      "meaning_zh": "(動詞) 冷卻；放涼",
+      "meaning_zh": "(動詞) 冷卻；放涼；(形容詞) 涼的；酷的",
       "example_en": "Let the cake cool completely before you slice it.",
       "example_zh": "切蛋糕之前讓它完全放涼。",
       "level": "基礎生活級"
@@ -31292,7 +31292,7 @@
     },
     {
       "word": "glass",
-      "meaning_zh": "(名詞) 玻璃杯",
+      "meaning_zh": "(名詞) 玻璃杯；玻璃",
       "example_en": "Could you bring me a glass of cold lemon water?",
       "example_zh": "可以麻煩給我一杯冰檸檬水嗎？",
       "level": "基礎生活級"
@@ -31306,7 +31306,7 @@
     },
     {
       "word": "straw",
-      "meaning_zh": "(名詞) 吸管",
+      "meaning_zh": "(名詞) 吸管；稻草",
       "example_en": "I usually carry a reusable metal straw with me everywhere.",
       "example_zh": "我通常隨身帶著一支可重複使用的金屬吸管。",
       "level": "基礎生活級"
@@ -31369,7 +31369,7 @@
     },
     {
       "word": "bitter",
-      "meaning_zh": "(形容詞) 苦的",
+      "meaning_zh": "(形容詞) 苦的；痛苦的；難受的",
       "example_en": "Black coffee tastes a bit bitter without any sugar.",
       "example_zh": "黑咖啡沒加糖嚐起來有點苦。",
       "level": "基礎生活級"
@@ -31439,14 +31439,14 @@
     },
     {
       "word": "hot",
-      "meaning_zh": "(形容詞) 熱的",
+      "meaning_zh": "(形容詞) 熱的；辣的",
       "example_en": "Be careful, the soup is still very hot in the bowl.",
       "example_zh": "小心，碗裡的湯還非常燙。",
       "level": "基礎生活級"
     },
     {
       "word": "cold",
-      "meaning_zh": "(形容詞) 冷的",
+      "meaning_zh": "(形容詞) 冷的；(名詞) 感冒",
       "example_en": "I would like a cold drink with lots of ice please.",
       "example_zh": "我想要一杯冰飲，加很多冰塊，謝謝。",
       "level": "基礎生活級"
@@ -31481,7 +31481,7 @@
     },
     {
       "word": "full",
-      "meaning_zh": "(形容詞) 飽的",
+      "meaning_zh": "(形容詞) 飽的；滿的；完整的",
       "example_en": "No more cake for me, thank you, I am very full.",
       "example_zh": "我不要再吃蛋糕了，謝謝，我已經很飽了。",
       "level": "基礎生活級"
@@ -31495,28 +31495,28 @@
     },
     {
       "word": "tip",
-      "meaning_zh": "(名詞) 小費",
+      "meaning_zh": "(名詞) 小費；尖端；訣竅；提示",
       "example_en": "Remember to leave a tip for the friendly waiter.",
       "example_zh": "記得留小費給那位親切的服務生。",
       "level": "基礎生活級"
     },
     {
       "word": "check",
-      "meaning_zh": "(名詞) 帳單",
+      "meaning_zh": "(名詞) 帳單；支票；(動詞) 檢查；核對",
       "example_en": "Could we have the check please? We are ready to leave.",
       "example_zh": "可以麻煩給我們帳單嗎？我們準備要離開了。",
       "level": "基礎生活級"
     },
     {
       "word": "bill",
-      "meaning_zh": "(名詞) 帳單；費用",
+      "meaning_zh": "(名詞) 帳單；費用；鈔票；法案",
       "example_en": "The total bill came to about thirty dollars for everyone.",
       "example_zh": "總共的帳單大約是每個人三十塊錢。",
       "level": "基礎生活級"
     },
     {
       "word": "table",
-      "meaning_zh": "(名詞) 桌子",
+      "meaning_zh": "(名詞) 桌子；表格",
       "example_en": "Could we please get a table near the window?",
       "example_zh": "可以麻煩給我們一個靠窗的桌子嗎？",
       "level": "基礎生活級"
@@ -31642,7 +31642,7 @@
     },
     {
       "word": "can",
-      "meaning_zh": "(名詞) 罐子；罐頭",
+      "meaning_zh": "(名詞) 罐子；罐頭；(助動詞) 能夠；可以",
       "example_en": "Open the can of tuna for the salad please.",
       "example_zh": "麻煩打開那罐鮪魚罐頭做沙拉。",
       "level": "基礎生活級"
@@ -31656,7 +31656,7 @@
     },
     {
       "word": "pack",
-      "meaning_zh": "(名詞) 包裝；一包",
+      "meaning_zh": "(名詞) 包裝；一包；(動詞) 打包；裝箱",
       "example_en": "Buy a pack of dumplings on your way home please.",
       "example_zh": "你回家的路上請買一包水餃。",
       "level": "基礎生活級"
@@ -31929,7 +31929,7 @@
     },
     {
       "word": "store",
-      "meaning_zh": "(名詞) 商店",
+      "meaning_zh": "(名詞) 商店；(動詞) 儲存；存放",
       "example_en": "The store on the corner sells fresh bread every morning.",
       "example_zh": "街角那家商店每天早上賣新鮮麵包。",
       "level": "基礎生活級"
@@ -32020,21 +32020,21 @@
     },
     {
       "word": "label",
-      "meaning_zh": "(名詞) 標籤；標示",
+      "meaning_zh": "(名詞) 標籤；標示；(動詞) 貼標籤；歸類",
       "example_en": "Read the label carefully to see how much sugar is inside.",
       "example_zh": "仔細閱讀標籤以查看裡面有多少糖。",
       "level": "基礎生活級"
     },
     {
       "word": "sale",
-      "meaning_zh": "(名詞) 拍賣；特賣",
+      "meaning_zh": "(名詞) 拍賣；特賣；銷售",
       "example_en": "The shoes are on sale this weekend at half the normal price.",
       "example_zh": "這個週末鞋子半價特賣。",
       "level": "基礎生活級"
     },
     {
       "word": "bargain",
-      "meaning_zh": "(名詞) 便宜貨；划算的交易",
+      "meaning_zh": "(名詞) 便宜貨；划算的交易；(動詞) 討價還價",
       "example_en": "This jacket is a real bargain for only twenty dollars.",
       "example_zh": "這件外套只賣二十美元，真是划算。",
       "level": "基礎生活級"
@@ -32083,7 +32083,7 @@
     },
     {
       "word": "change",
-      "meaning_zh": "(名詞) 零錢；找零",
+      "meaning_zh": "(名詞) 零錢；找零；(動詞) 改變；更換",
       "example_en": "Here is your change and your receipt. Have a nice day.",
       "example_zh": "這是您的零錢和收據，祝您有美好的一天。",
       "level": "基礎生活級"
@@ -32181,7 +32181,7 @@
     },
     {
       "word": "fit",
-      "meaning_zh": "(動詞) 合身；適合",
+      "meaning_zh": "(動詞) 合身；適合；(形容詞) 健康的；強健的",
       "example_en": "These jeans fit me perfectly. I will take them today.",
       "example_zh": "這條牛仔褲非常合身，我今天就要買。",
       "level": "基礎生活級"
@@ -32258,7 +32258,7 @@
     },
     {
       "word": "free",
-      "meaning_zh": "(形容詞) 免費的",
+      "meaning_zh": "(形容詞) 免費的；自由的；有空的",
       "example_en": "Buy two boxes and get the third one for free.",
       "example_zh": "買兩盒，第三盒免費。",
       "level": "基礎生活級"
@@ -32335,7 +32335,7 @@
     },
     {
       "word": "floor",
-      "meaning_zh": "(名詞) 樓層",
+      "meaning_zh": "(名詞) 樓層；地板",
       "example_en": "The children's clothes are on the third floor near the toys.",
       "example_zh": "兒童服飾在三樓靠近玩具區。",
       "level": "基礎生活級"
@@ -32356,7 +32356,7 @@
     },
     {
       "word": "produce",
-      "meaning_zh": "(名詞) 農產品；蔬果",
+      "meaning_zh": "(名詞) 農產品；蔬果；(動詞) 生產；製造",
       "example_en": "The produce section has lots of fresh fruit and vegetables.",
       "example_zh": "蔬果區有許多新鮮的水果和蔬菜。",
       "level": "基礎生活級"
@@ -32370,7 +32370,7 @@
     },
     {
       "word": "list",
-      "meaning_zh": "(名詞) 清單",
+      "meaning_zh": "(名詞) 清單；(動詞) 列出；列舉",
       "example_en": "Do not forget the shopping list on the kitchen table.",
       "example_zh": "不要忘了廚房桌上的購物清單。",
       "level": "基礎生活級"
@@ -32412,7 +32412,7 @@
     },
     {
       "word": "total",
-      "meaning_zh": "(名詞) 總計",
+      "meaning_zh": "(名詞) 總計；(形容詞) 全部的；完全的",
       "example_en": "Your total today comes to thirty-two dollars and fifty cents.",
       "example_zh": "您今天的總金額是三十二元五十分。",
       "level": "基礎生活級"
@@ -32454,7 +32454,7 @@
     },
     {
       "word": "pin",
-      "meaning_zh": "(名詞) 密碼",
+      "meaning_zh": "(名詞) 密碼；別針；大頭針",
       "example_en": "Please enter your PIN to confirm the payment.",
       "example_zh": "請輸入您的密碼以確認付款。",
       "level": "基礎生活級"
@@ -32482,7 +32482,7 @@
     },
     {
       "word": "line",
-      "meaning_zh": "(名詞) 隊伍",
+      "meaning_zh": "(名詞) 隊伍；線；線條",
       "example_en": "The line at the bakery is very long this morning.",
       "example_zh": "今天早上麵包店的隊伍很長。",
       "level": "基礎生活級"
@@ -32510,7 +32510,7 @@
     },
     {
       "word": "train",
-      "meaning_zh": "(名詞) 火車",
+      "meaning_zh": "(名詞) 火車；(動詞) 訓練；培訓",
       "example_en": "The train to the airport leaves every twenty minutes.",
       "example_zh": "往機場的火車每二十分鐘一班。",
       "level": "基礎生活級"
@@ -32566,7 +32566,7 @@
     },
     {
       "word": "stop",
-      "meaning_zh": "(名詞) 站",
+      "meaning_zh": "(名詞) 站；(動詞) 停止；停下",
       "example_en": "Get off at the next stop, and the museum is right there.",
       "example_zh": "在下一站下車，博物館就在那裡。",
       "level": "基礎生活級"
@@ -32594,14 +32594,14 @@
     },
     {
       "word": "track",
-      "meaning_zh": "(名詞) 軌道",
+      "meaning_zh": "(名詞) 軌道；跑道；曲目；(動詞) 追蹤",
       "example_en": "Please stand behind the yellow line near the track.",
       "example_zh": "請站在軌道旁的黃線後面。",
       "level": "基礎生活級"
     },
     {
       "word": "schedule",
-      "meaning_zh": "(名詞) 時刻表",
+      "meaning_zh": "(名詞) 時刻表；行程表；(動詞) 安排；排定",
       "example_en": "Check the schedule to see when the next bus arrives.",
       "example_zh": "查看時刻表，看下一班公車什麼時候到。",
       "level": "基礎生活級"
@@ -32622,14 +32622,14 @@
     },
     {
       "word": "transfer",
-      "meaning_zh": "(動詞) 轉乘",
+      "meaning_zh": "(動詞) 轉乘；轉移；(名詞) 轉移；轉帳",
       "example_en": "You must transfer to the green line at the next station.",
       "example_zh": "您必須在下一站轉乘綠線。",
       "level": "基礎生活級"
     },
     {
       "word": "board",
-      "meaning_zh": "(動詞) 上(車/船/飛機)",
+      "meaning_zh": "(動詞) 上(車/船/飛機)；(名詞) 板子；董事會",
       "example_en": "Please board the bus at the front door, not the back.",
       "example_zh": "請從前門上公車，不要從後門。",
       "level": "基礎生活級"
@@ -32657,7 +32657,7 @@
     },
     {
       "word": "late",
-      "meaning_zh": "(形容詞) 遲到的",
+      "meaning_zh": "(形容詞/副詞) 遲到的；晚的；(形容詞) 已故的",
       "example_en": "I was late for school because the bus was delayed.",
       "example_zh": "我上學遲到了，因為公車誤點了。",
       "level": "基礎生活級"
@@ -32678,7 +32678,7 @@
     },
     {
       "word": "rush",
-      "meaning_zh": "(名詞) 尖峰時段；急忙",
+      "meaning_zh": "(名詞) 尖峰時段；急忙；(動詞) 趕；衝",
       "example_en": "Avoid driving during the morning rush hour if possible.",
       "example_zh": "如果可以的話，請避開早上的尖峰時段開車。",
       "level": "基礎生活級"
@@ -32734,7 +32734,7 @@
     },
     {
       "word": "block",
-      "meaning_zh": "(名詞) 街區",
+      "meaning_zh": "(名詞) 街區；積木；(動詞) 阻擋；堵住",
       "example_en": "Walk two blocks and the bank will be on your right.",
       "example_zh": "走兩個街區，銀行就會在您的右邊。",
       "level": "基礎生活級"
@@ -32769,7 +32769,7 @@
     },
     {
       "word": "light",
-      "meaning_zh": "(名詞) 燈；紅綠燈",
+      "meaning_zh": "(名詞) 燈；紅綠燈；光線；(形容詞) 輕的；明亮的",
       "example_en": "Turn left at the next light, and you will see the hotel.",
       "example_zh": "在下一個紅綠燈左轉，您就會看到飯店。",
       "level": "基礎生活級"
@@ -32783,7 +32783,7 @@
     },
     {
       "word": "sign",
-      "meaning_zh": "(名詞) 標誌",
+      "meaning_zh": "(名詞) 標誌；跡象；(動詞) 簽名",
       "example_en": "Follow the green sign to find the train station.",
       "example_zh": "跟著綠色的標誌走就能找到火車站。",
       "level": "基礎生活級"
@@ -32839,14 +32839,14 @@
     },
     {
       "word": "right",
-      "meaning_zh": "(形容詞/副詞) 右邊",
+      "meaning_zh": "(形容詞/副詞) 右邊；(形容詞) 對的；正確的；(名詞) 權利",
       "example_en": "The pharmacy is on the right side of the street.",
       "example_zh": "藥房在街道的右側。",
       "level": "基礎生活級"
     },
     {
       "word": "straight",
-      "meaning_zh": "(副詞) 直走",
+      "meaning_zh": "(副詞) 直走；(形容詞) 直的；筆直的",
       "example_en": "Go straight ahead for two blocks and you will see it.",
       "example_zh": "直走兩個街區您就會看到它。",
       "level": "基礎生活級"
@@ -32923,14 +32923,14 @@
     },
     {
       "word": "post",
-      "meaning_zh": "(名詞) 郵件；郵政",
+      "meaning_zh": "(名詞) 郵件；郵政；職位；(動詞) 張貼；郵寄",
       "example_en": "I need to send this small package by post tomorrow.",
       "example_zh": "我明天需要把這個小包裹寄出去。",
       "level": "基礎生活級"
     },
     {
       "word": "mail",
-      "meaning_zh": "(名詞) 郵件",
+      "meaning_zh": "(名詞) 郵件；(動詞) 郵寄；寄出",
       "example_en": "The mail usually comes around eleven in the morning.",
       "example_zh": "郵件通常在早上十一點左右送達。",
       "level": "基礎生活級"
@@ -32944,14 +32944,14 @@
     },
     {
       "word": "stamp",
-      "meaning_zh": "(名詞) 郵票",
+      "meaning_zh": "(名詞) 郵票；印章；(動詞) 蓋章；跺腳",
       "example_en": "I need one more stamp for this letter to send overseas.",
       "example_zh": "這封信要寄到國外，我還需要一張郵票。",
       "level": "基礎生活級"
     },
     {
       "word": "letter",
-      "meaning_zh": "(名詞) 信",
+      "meaning_zh": "(名詞) 信；字母",
       "example_en": "She wrote a letter to her aunt who lives in another city.",
       "example_zh": "她寫了一封信給住在另一個城市的姑姑。",
       "level": "基礎生活級"
@@ -32993,7 +32993,7 @@
     },
     {
       "word": "load",
-      "meaning_zh": "(動詞) 裝載",
+      "meaning_zh": "(動詞) 裝載；(名詞) 負載；負荷",
       "example_en": "Let us load the groceries into the car and drive home.",
       "example_zh": "我們把雜貨裝上車然後開回家吧。",
       "level": "基礎生活級"
@@ -33007,7 +33007,7 @@
     },
     {
       "word": "trunk",
-      "meaning_zh": "(名詞) 後車廂",
+      "meaning_zh": "(名詞) 後車廂；樹幹；象鼻",
       "example_en": "Put the heavy box in the trunk of my car.",
       "example_zh": "把那個重箱子放在我車子的後車廂裡。",
       "level": "基礎生活級"
@@ -33035,7 +33035,7 @@
     },
     {
       "word": "park",
-      "meaning_zh": "(動詞) 停車",
+      "meaning_zh": "(動詞) 停車；(名詞) 公園",
       "example_en": "You can park your car behind the small shopping mall.",
       "example_zh": "您可以把車停在小型購物中心的後面。",
       "level": "基礎生活級"
@@ -33049,14 +33049,14 @@
     },
     {
       "word": "lot",
-      "meaning_zh": "(名詞) 停車場",
+      "meaning_zh": "(名詞) 停車場；許多(a lot)；一批",
       "example_en": "The parking lot is full, so we need to find another one.",
       "example_zh": "停車場滿了，所以我們得找另一個。",
       "level": "基礎生活級"
     },
     {
       "word": "meter",
-      "meaning_zh": "(名詞) 計費表",
+      "meaning_zh": "(名詞) 計費表；公尺；儀表",
       "example_en": "Do not forget to put some coins in the parking meter.",
       "example_zh": "別忘了在停車計費表裡投幾枚硬幣。",
       "level": "基礎生活級"
@@ -33070,7 +33070,7 @@
     },
     {
       "word": "gas",
-      "meaning_zh": "(名詞) 汽油",
+      "meaning_zh": "(名詞) 汽油；氣體；瓦斯",
       "example_en": "Stop at the next gas station to fill up the tank.",
       "example_zh": "在下一個加油站停車把油箱加滿。",
       "level": "基礎生活級"
@@ -33091,7 +33091,7 @@
     },
     {
       "word": "wheel",
-      "meaning_zh": "(名詞) 輪子；方向盤",
+      "meaning_zh": "(名詞) 輪子；方向盤；(動詞) 推(有輪之物)",
       "example_en": "Keep both hands on the wheel while you are driving.",
       "example_zh": "開車時雙手要握在方向盤上。",
       "level": "基礎生活級"
@@ -33105,7 +33105,7 @@
     },
     {
       "word": "horn",
-      "meaning_zh": "(名詞) 喇叭",
+      "meaning_zh": "(名詞) 喇叭；(動物的)角",
       "example_en": "Do not use the horn unless it is really necessary.",
       "example_zh": "除非真的有必要，否則不要按喇叭。",
       "level": "基礎生活級"
@@ -33126,7 +33126,7 @@
     },
     {
       "word": "turn",
-      "meaning_zh": "(動詞) 轉彎",
+      "meaning_zh": "(動詞) 轉彎；(名詞) 輪流；輪到的順序",
       "example_en": "Turn left at the next traffic light, please.",
       "example_zh": "麻煩在下一個紅綠燈左轉。",
       "level": "基礎生活級"
@@ -33245,7 +33245,7 @@
     },
     {
       "word": "run",
-      "meaning_zh": "(動詞) 跑",
+      "meaning_zh": "(動詞) 跑；經營；運轉；運行",
       "example_en": "I had to run to catch the last train home.",
       "example_zh": "我得用跑的才趕上最後一班回家的火車。",
       "level": "基礎生活級"
@@ -33693,7 +33693,7 @@
     },
     {
       "word": "degree",
-      "meaning_zh": "(名詞) 度",
+      "meaning_zh": "(名詞) 度；學位；程度",
       "example_en": "The room temperature is around twenty-five degrees, which feels just right.",
       "example_zh": "室內溫度大約二十五度，感覺剛剛好。",
       "level": "基礎生活級"
@@ -33728,7 +33728,7 @@
     },
     {
       "word": "spring",
-      "meaning_zh": "(名詞) 春天",
+      "meaning_zh": "(名詞) 春天；彈簧；泉水",
       "example_en": "Many baby animals are born in spring when the weather gets warmer.",
       "example_zh": "許多動物寶寶在天氣變暖的春天出生。",
       "level": "基礎生活級"
@@ -34141,7 +34141,7 @@
     },
     {
       "word": "fat",
-      "meaning_zh": "(名詞) 脂肪",
+      "meaning_zh": "(名詞) 脂肪；(形容詞) 肥胖的；胖的",
       "example_en": "Some foods have healthy fat, like nuts, fish, and a little olive oil.",
       "example_zh": "有些食物含有健康脂肪，例如堅果、魚類和少量橄欖油。",
       "level": "基礎生活級"
@@ -34162,7 +34162,7 @@
     },
     {
       "word": "rest",
-      "meaning_zh": "(名詞) 休息；(動詞) 休息",
+      "meaning_zh": "(名詞) 休息；(動詞) 休息；其餘；剩下的部分",
       "example_en": "You should rest at home for a few days until you feel stronger.",
       "example_zh": "你應該在家休息幾天，直到感覺比較有力氣。",
       "level": "基礎生活級"
@@ -34386,7 +34386,7 @@
     },
     {
       "word": "gum",
-      "meaning_zh": "(名詞) 牙齦",
+      "meaning_zh": "(名詞) 牙齦；口香糖",
       "example_en": "Floss every day to keep your gum healthy and free of food.",
       "example_zh": "每天用牙線清潔，讓牙齦保持健康且沒有食物殘渣。",
       "level": "基礎生活級"
@@ -34603,7 +34603,7 @@
     },
     {
       "word": "back",
-      "meaning_zh": "(名詞) 背部",
+      "meaning_zh": "(名詞) 背部；後面；(形容詞) 後面的；(副詞) 向後；回原處",
       "example_en": "My back hurts from carrying the heavy shopping bag for too long.",
       "example_zh": "我提那個重重的購物袋太久，背都痛了。",
       "level": "基礎生活級"
@@ -34722,7 +34722,7 @@
     },
     {
       "word": "cap",
-      "meaning_zh": "(名詞) 鴨舌帽；泳帽",
+      "meaning_zh": "(名詞) 鴨舌帽；泳帽；瓶蓋；蓋子",
       "example_en": "He wears a cap to protect his head from the strong sun.",
       "example_zh": "他戴著鴨舌帽來保護頭部不被強烈陽光曬到。",
       "level": "基礎生活級"
@@ -34764,7 +34764,7 @@
     },
     {
       "word": "scale",
-      "meaning_zh": "(名詞) 體重計",
+      "meaning_zh": "(名詞) 體重計；磅秤；規模；比例尺；音階",
       "example_en": "Step on the scale at the same time of day for fair results.",
       "example_zh": "在每天同一個時間量體重，結果才公平。",
       "level": "基礎生活級"
@@ -34890,7 +34890,7 @@
     },
     {
       "word": "fan",
-      "meaning_zh": "(名詞) 電風扇",
+      "meaning_zh": "(名詞) 電風扇；(球迷、影迷等的)迷、粉絲",
       "example_en": "Please switch on the fan because this room feels very hot now.",
       "example_zh": "請開電風扇，因為這個房間現在很熱。",
       "level": "基礎生活級"
@@ -34988,14 +34988,14 @@
     },
     {
       "word": "play",
-      "meaning_zh": "(動詞) 玩；玩耍",
+      "meaning_zh": "(動詞) 玩；玩耍；播放；演奏；(名詞) 戲劇",
       "example_en": "The kids play soccer in the backyard after school almost every day.",
       "example_zh": "孩子們幾乎每天放學後都會在後院踢足球。",
       "level": "基礎生活級"
     },
     {
       "word": "watch",
-      "meaning_zh": "(動詞) 觀看",
+      "meaning_zh": "(動詞) 觀看；注意；(名詞) 手錶",
       "example_en": "We watch the sunset from the hill near our house on weekends.",
       "example_zh": "週末我們會在房子附近的小山上看日落。",
       "level": "基礎生活級"
@@ -35184,7 +35184,7 @@
     },
     {
       "word": "band",
-      "meaning_zh": "(名詞) 樂團；樂隊",
+      "meaning_zh": "(名詞) 樂團；樂隊；帶子；橡皮筋",
       "example_en": "My brother plays guitar in a rock band with his three best friends.",
       "example_zh": "我哥哥在搖滾樂團裡和他三個最好的朋友一起彈吉他。",
       "level": "基礎生活級"
@@ -35268,14 +35268,14 @@
     },
     {
       "word": "ball",
-      "meaning_zh": "(名詞) 球",
+      "meaning_zh": "(名詞) 球；舞會",
       "example_en": "Throw the ball to me and I will throw it back to you again.",
       "example_zh": "把球丟給我，我會再把它丟回給你。",
       "level": "基礎生活級"
     },
     {
       "word": "bat",
-      "meaning_zh": "(名詞) 球棒",
+      "meaning_zh": "(名詞) 球棒；蝙蝠",
       "example_en": "He swung the bat hard and the ball flew over the back fence.",
       "example_zh": "他用力揮棒，球飛過後面的圍欄。",
       "level": "基礎生活級"
@@ -35296,7 +35296,7 @@
     },
     {
       "word": "goal",
-      "meaning_zh": "(名詞) 球門；得分",
+      "meaning_zh": "(名詞) 球門；得分；目標",
       "example_en": "Our team scored three goals in the second half of the soccer game.",
       "example_zh": "我們的球隊在足球比賽下半場進了三球。",
       "level": "基礎生活級"
@@ -35310,14 +35310,14 @@
     },
     {
       "word": "match",
-      "meaning_zh": "(名詞) 比賽",
+      "meaning_zh": "(名詞) 比賽；火柴；(動詞) 相配；匹配",
       "example_en": "The tennis match lasted almost four hours under the hot afternoon sun.",
       "example_zh": "這場網球比賽在炎熱的午後陽光下持續了將近四個小時。",
       "level": "基礎生活級"
     },
     {
       "word": "race",
-      "meaning_zh": "(名詞) 賽跑；競賽",
+      "meaning_zh": "(名詞) 賽跑；競賽；種族",
       "example_en": "She finished first in the school race and won a small gold medal.",
       "example_zh": "她在學校賽跑中拿到第一名，贏得一面小金牌。",
       "level": "基礎生活級"
@@ -35331,14 +35331,14 @@
     },
     {
       "word": "court",
-      "meaning_zh": "(名詞) 球場",
+      "meaning_zh": "(名詞) 球場；法院；法庭",
       "example_en": "We reserved the tennis court for two hours next Saturday afternoon.",
       "example_zh": "我們預訂了下星期六下午兩小時的網球場。",
       "level": "基礎生活級"
     },
     {
       "word": "field",
-      "meaning_zh": "(名詞) 場地；田野",
+      "meaning_zh": "(名詞) 場地；田野；領域",
       "example_en": "The children played soccer on the large green field behind the school.",
       "example_zh": "孩子們在學校後面綠油油的大場地上踢足球。",
       "level": "基礎生活級"
@@ -35618,14 +35618,14 @@
     },
     {
       "word": "shoot",
-      "meaning_zh": "(動詞) 射；投籃",
+      "meaning_zh": "(動詞) 射；投籃；拍攝",
       "example_en": "The player shoots the basketball into the net from the three-point line.",
       "example_zh": "球員從三分線把籃球投進籃網。",
       "level": "基礎生活級"
     },
     {
       "word": "pass",
-      "meaning_zh": "(動詞) 傳遞；傳球",
+      "meaning_zh": "(動詞) 傳遞；傳球；通過；及格；(名詞) 通行證",
       "example_en": "The forward passed the ball to his teammate near the corner of the field.",
       "example_zh": "前鋒把球傳給場地角落附近的隊友。",
       "level": "基礎生活級"
@@ -35653,7 +35653,7 @@
     },
     {
       "word": "row",
-      "meaning_zh": "(動詞) 划船",
+      "meaning_zh": "(動詞) 划船；(名詞) 一排；一列",
       "example_en": "We rented a small boat and rowed across the calm lake last Saturday.",
       "example_zh": "我們上星期六租了一艘小船划過平靜的湖面。",
       "level": "基礎生活級"
@@ -35807,7 +35807,7 @@
     },
     {
       "word": "view",
-      "meaning_zh": "(名詞) 景色；風景",
+      "meaning_zh": "(名詞) 景色；風景；看法；觀點",
       "example_en": "The view from the top of the hill was absolutely breathtaking that morning.",
       "example_zh": "那天早上從山頂看到的景色真是令人嘆為觀止。",
       "level": "基礎生活級"
@@ -35898,7 +35898,7 @@
     },
     {
       "word": "present",
-      "meaning_zh": "(名詞) 禮物",
+      "meaning_zh": "(名詞) 禮物；現在；(形容詞) 出席的；現在的；(動詞) 呈現；頒發",
       "example_en": "She opened her birthday present and was very happy with the new book.",
       "example_zh": "她打開生日禮物，對新書非常開心。",
       "level": "基礎生活級"
@@ -36122,7 +36122,7 @@
     },
     {
       "word": "speaker",
-      "meaning_zh": "(名詞) 音響；揚聲器",
+      "meaning_zh": "(名詞) 音響；揚聲器；說話者；演講者",
       "example_en": "She bought a small wireless speaker for music at her weekend beach picnics.",
       "example_zh": "她買了一個小無線喇叭給她週末的海灘野餐放音樂用。",
       "level": "基礎生活級"
@@ -36304,7 +36304,7 @@
     },
     {
       "word": "model",
-      "meaning_zh": "(名詞) 模型",
+      "meaning_zh": "(名詞) 模型；模特兒；型號；模範",
       "example_en": "He builds model airplanes in his garage on rainy weekends for relaxation.",
       "example_zh": "他在下雨的週末在車庫裡組裝飛機模型來放鬆。",
       "level": "基礎生活級"
@@ -36346,7 +36346,7 @@
     },
     {
       "word": "stream",
-      "meaning_zh": "(動詞) 串流播放",
+      "meaning_zh": "(動詞) 串流播放；(名詞) 溪流；小河",
       "example_en": "We stream our favorite shows online instead of watching regular television channels.",
       "example_zh": "我們線上串流我們最喜歡的節目，而不是看傳統電視頻道。",
       "level": "基礎生活級"
@@ -36367,7 +36367,7 @@
     },
     {
       "word": "like",
-      "meaning_zh": "(名詞/動詞) 喜歡；按讚",
+      "meaning_zh": "(名詞/動詞) 喜歡；按讚；(介系詞) 像；如同",
       "example_en": "My latest weekend photo got many likes and friendly comments from old friends.",
       "example_zh": "我最近的週末照片得到許多讚和老朋友的友善留言。",
       "level": "基礎生活級"
@@ -36598,7 +36598,7 @@
     },
     {
       "word": "treat",
-      "meaning_zh": "(名詞) 享受；款待",
+      "meaning_zh": "(名詞) 享受；款待；(動詞) 對待；款待；治療",
       "example_en": "A small piece of chocolate cake is a nice treat after a long busy week.",
       "example_zh": "在忙碌的一週後吃一小塊巧克力蛋糕是個不錯的享受。",
       "level": "基礎生活級"
@@ -36836,7 +36836,7 @@
     },
     {
       "word": "bow",
-      "meaning_zh": "(名詞/動詞) 鞠躬",
+      "meaning_zh": "(名詞/動詞) 鞠躬；(名詞) 弓；蝴蝶結",
       "example_en": "In Japan, people often bow when they say hello or goodbye.",
       "example_zh": "在日本，人們打招呼或道別時常常會鞠躬。",
       "level": "基礎生活級"
@@ -36983,7 +36983,7 @@
     },
     {
       "word": "ring",
-      "meaning_zh": "(動詞) 電話響",
+      "meaning_zh": "(動詞) 電話響；鈴響；打電話；(名詞) 戒指",
       "example_en": "The phone began to ring just when I started to eat dinner.",
       "example_zh": "我才剛開始吃晚餐，電話就響了。",
       "level": "基礎生活級"
@@ -37039,7 +37039,7 @@
     },
     {
       "word": "charge",
-      "meaning_zh": "(動詞) 充電",
+      "meaning_zh": "(動詞) 充電；收費；控告；(名詞) 費用；責任",
       "example_en": "Please charge your phone before we leave for the long trip.",
       "example_zh": "在我們出發長途旅行前，請先把手機充電。",
       "level": "基礎生活級"
@@ -37060,7 +37060,7 @@
     },
     {
       "word": "press",
-      "meaning_zh": "(動詞) 按",
+      "meaning_zh": "(動詞) 按；壓；(名詞) 新聞界；媒體",
       "example_en": "Please press one for English and two for Chinese on the menu.",
       "example_zh": "請按 1 選英文，按 2 選中文。",
       "level": "基礎生活級"
@@ -37179,14 +37179,14 @@
     },
     {
       "word": "subject",
-      "meaning_zh": "(名詞) 主旨",
+      "meaning_zh": "(名詞) 主旨；主題；科目；(文法)主詞",
       "example_en": "Please write a short and clear subject for every email you send.",
       "example_zh": "你寄的每封信都請寫上簡短清楚的主旨。",
       "level": "職場日常級"
     },
     {
       "word": "body",
-      "meaning_zh": "(名詞) 正文；信件內容",
+      "meaning_zh": "(名詞) 正文；信件內容；身體；屍體",
       "example_en": "Keep the body of the email short and friendly for your client.",
       "example_zh": "信的正文要寫得簡短、語氣友善，給你的客戶看。",
       "level": "職場日常級"
@@ -37802,7 +37802,7 @@
     },
     {
       "word": "miss",
-      "meaning_zh": "(名詞) 小姐",
+      "meaning_zh": "(動詞) 想念；錯過；未趕上；沒擊中；(名詞) 小姐",
       "example_en": "Miss Lin, your taxi is waiting for you at the front door.",
       "example_zh": "林小姐，您的計程車在前門等您。",
       "level": "職場日常級"
@@ -37851,7 +37851,7 @@
     },
     {
       "word": "title",
-      "meaning_zh": "(名詞) 職稱",
+      "meaning_zh": "(名詞) 職稱；標題；書名；頭銜；(動詞) 給…加標題",
       "example_en": "Please write your title under your name on the email signature.",
       "example_zh": "請在電子郵件簽名檔的名字下方寫上你的職稱。",
       "level": "職場日常級"
@@ -37865,7 +37865,7 @@
     },
     {
       "word": "night",
-      "meaning_zh": "(名詞) 夜晚",
+      "meaning_zh": "(名詞) 夜晚；晚上",
       "example_en": "Please do not call late at night, the children are sleeping.",
       "example_zh": "請不要太晚打來，孩子們在睡覺。",
       "level": "職場日常級"
@@ -37935,14 +37935,14 @@
     },
     {
       "word": "minute",
-      "meaning_zh": "(名詞) 分鐘",
+      "meaning_zh": "(名詞) 分鐘；一會兒；(會議)紀錄",
       "example_en": "Please wait a minute, my mother is just outside the door.",
       "example_zh": "請等一分鐘，我媽就在門外。",
       "level": "基礎生活級"
     },
     {
       "word": "second",
-      "meaning_zh": "(名詞) 秒；一下",
+      "meaning_zh": "(名詞) 秒；一下；(形容詞) 第二的；(動詞) 附議",
       "example_en": "Hold on a second, I have to write down the address.",
       "example_zh": "等我一下，我要把地址寫下來。",
       "level": "基礎生活級"
@@ -38005,7 +38005,7 @@
     },
     {
       "word": "accept",
-      "meaning_zh": "(動詞) 接受",
+      "meaning_zh": "(動詞) 接受；認可；承認",
       "example_en": "I will accept your invitation to dinner this Friday evening.",
       "example_zh": "我會接受你這個星期五晚上的晚餐邀請。",
       "level": "職場日常級"
@@ -38068,7 +38068,7 @@
     },
     {
       "word": "lesson",
-      "meaning_zh": "(名詞) 課程；一堂課",
+      "meaning_zh": "(名詞) 課程；一堂課；教訓",
       "example_en": "Today's English lesson is about asking for directions in a new city.",
       "example_zh": "今天的英文課是關於在新城市問路。",
       "level": "基礎生活級"
@@ -38103,7 +38103,7 @@
     },
     {
       "word": "pen",
-      "meaning_zh": "(名詞) 原子筆；鋼筆",
+      "meaning_zh": "(名詞) 原子筆；鋼筆；(動詞) 書寫；圈養",
       "example_en": "Please use a black pen to fill in the form on this paper.",
       "example_zh": "請用黑色筆在這張紙上填寫表格。",
       "level": "基礎生活級"
@@ -38152,7 +38152,7 @@
     },
     {
       "word": "marker",
-      "meaning_zh": "(名詞) 麥克筆；簽字筆",
+      "meaning_zh": "(名詞) 麥克筆；簽字筆；記號；標記",
       "example_en": "Use a red marker to circle the wrong answers on your test paper.",
       "example_zh": "用紅色麥克筆把考卷上的錯誤答案圈起來。",
       "level": "基礎生活級"
@@ -38313,7 +38313,7 @@
     },
     {
       "word": "grade",
-      "meaning_zh": "(名詞) 成績；年級",
+      "meaning_zh": "(名詞) 成績；年級；等級；(動詞) 評分；分級",
       "example_en": "She got a good grade on her English test because she studied hard.",
       "example_zh": "她英文考試拿到了好成績，因為她認真讀書。",
       "level": "基礎生活級"
@@ -38348,7 +38348,7 @@
     },
     {
       "word": "copy",
-      "meaning_zh": "(名詞/動詞) 抄寫；複本",
+      "meaning_zh": "(名詞) 複本；一份；(動詞) 抄寫；複製；模仿",
       "example_en": "Please copy the new words from the blackboard into your notebook now.",
       "example_zh": "請現在把黑板上的新單字抄到你的筆記本裡。",
       "level": "基礎生活級"
@@ -38369,14 +38369,14 @@
     },
     {
       "word": "glue",
-      "meaning_zh": "(名詞/動詞) 膠水；黏貼",
+      "meaning_zh": "(名詞) 膠水；(動詞) 黏貼；緊盯不放",
       "example_en": "Use a little bit of glue to stick the photo onto the page.",
       "example_zh": "用一點膠水把照片貼在這頁上。",
       "level": "基礎生活級"
     },
     {
       "word": "tape",
-      "meaning_zh": "(名詞) 膠帶",
+      "meaning_zh": "(名詞) 膠帶；錄音帶；(動詞) 用膠帶黏；錄音",
       "example_en": "I used tape to fix the torn page in my old picture book.",
       "example_zh": "我用膠帶修補了我舊圖畫書中撕破的那一頁。",
       "level": "基礎生活級"
@@ -38439,7 +38439,7 @@
     },
     {
       "word": "page",
-      "meaning_zh": "(名詞) 頁",
+      "meaning_zh": "(名詞) 頁；(動詞) 用呼叫器/廣播呼叫",
       "example_en": "Turn to page seven and read the small poem at the top.",
       "example_zh": "翻到第七頁，朗讀最上面的小詩。",
       "level": "基礎生活級"
@@ -38467,21 +38467,21 @@
     },
     {
       "word": "word",
-      "meaning_zh": "(名詞) 單字；字",
+      "meaning_zh": "(名詞) 單字；字；話語；消息；承諾",
       "example_en": "Please write each new word three times in your English notebook tonight.",
       "example_zh": "請今晚把每個新單字在你的英文筆記本裡寫三次。",
       "level": "基礎生活級"
     },
     {
       "word": "number",
-      "meaning_zh": "(名詞) 數字",
+      "meaning_zh": "(名詞) 數字；號碼；數量；(動詞) 編號；共計",
       "example_en": "Please write your phone number clearly on the top of this short form.",
       "example_zh": "請在這張短表格的最上方清楚地寫下你的電話號碼。",
       "level": "基礎生活級"
     },
     {
       "word": "class",
-      "meaning_zh": "(名詞) 班級；課",
+      "meaning_zh": "(名詞) 班級；課；等級；種類",
       "example_en": "There are twenty-eight friendly students in our English class this new term.",
       "example_zh": "這個新學期我們英文班上有二十八位友善的學生。",
       "level": "基礎生活級"
@@ -38523,7 +38523,7 @@
     },
     {
       "word": "bell",
-      "meaning_zh": "(名詞) 鐘；鈴",
+      "meaning_zh": "(名詞) 鐘；鈴；門鈴",
       "example_en": "When the school bell rings, please put your books away and stand up.",
       "example_zh": "當學校的鈴聲響起時，請收好書本然後站起來。",
       "level": "基礎生活級"
@@ -38586,7 +38586,7 @@
     },
     {
       "word": "award",
-      "meaning_zh": "(名詞) 獎項；獎",
+      "meaning_zh": "(名詞) 獎項；獎；(動詞) 頒發；授予",
       "example_en": "He got a small award for his hard work in the math competition.",
       "example_zh": "他在數學比賽中因為努力而獲得一個小獎。",
       "level": "基礎生活級"
@@ -38670,7 +38670,7 @@
     },
     {
       "word": "circle",
-      "meaning_zh": "(名詞/動詞) 圈出；圓圈",
+      "meaning_zh": "(動詞) 圈出；環繞；盤旋；(名詞) 圓圈；圈子",
       "example_en": "Please circle the correct answer for each question on the test paper.",
       "example_zh": "請在考卷上每題圈出正確的答案。",
       "level": "基礎生活級"
@@ -38684,7 +38684,7 @@
     },
     {
       "word": "correct",
-      "meaning_zh": "(動詞/形容詞) 正確的；改正",
+      "meaning_zh": "(形容詞) 正確的；(動詞) 改正；糾正",
       "example_en": "Please write the correct answer next to each wrong word on your paper.",
       "example_zh": "請在你紙上每個錯誤單字旁邊寫上正確的答案。",
       "level": "基礎生活級"
@@ -38712,7 +38712,7 @@
     },
     {
       "word": "hard",
-      "meaning_zh": "(形容詞) 困難的；努力的",
+      "meaning_zh": "(形容詞) 困難的；硬的；(副詞) 努力地；用力地",
       "example_en": "Science is hard for me but I keep trying every single day.",
       "example_zh": "自然科對我來說很難，但我每天都持續努力。",
       "level": "基礎生活級"
@@ -38733,7 +38733,7 @@
     },
     {
       "word": "smart",
-      "meaning_zh": "(形容詞) 聰明的",
+      "meaning_zh": "(形容詞) 聰明的；漂亮俐落的；(動詞) 刺痛",
       "example_en": "My brother is smart and he reads many books during the weekend.",
       "example_zh": "我哥哥很聰明，他在週末讀許多書。",
       "level": "基礎生活級"
@@ -38894,14 +38894,14 @@
     },
     {
       "word": "project",
-      "meaning_zh": "(名詞) 專題；課題",
+      "meaning_zh": "(名詞) 專題；課題；計劃；(動詞) 投射；預估",
       "example_en": "We are working on a group project about animals in the ocean now.",
       "example_zh": "我們正在做一個關於海洋動物的小組專題。",
       "level": "基礎生活級"
     },
     {
       "word": "report",
-      "meaning_zh": "(名詞) 報告",
+      "meaning_zh": "(名詞) 報告；報導；(動詞) 報告；舉報；報到",
       "example_en": "She wrote a short report about the moon for her science homework.",
       "example_zh": "她為自然作業寫了一份關於月亮的短報告。",
       "level": "基礎生活級"
@@ -39230,7 +39230,7 @@
     },
     {
       "word": "interest",
-      "meaning_zh": "(名詞) 興趣",
+      "meaning_zh": "(名詞) 興趣；利息；利益；(動詞) 使感興趣",
       "example_en": "She has a strong interest in learning English and asks many good questions.",
       "example_zh": "她對學英文有濃厚的興趣，問了很多好問題。",
       "level": "基礎生活級"
@@ -39286,14 +39286,14 @@
     },
     {
       "word": "support",
-      "meaning_zh": "(名詞/動詞) 支持",
+      "meaning_zh": "(名詞) 支持；支撐；(動詞) 支持；支撐；扶養",
       "example_en": "My family will support me when I take the big English speaking test.",
       "example_zh": "當我參加重要的英文口說測驗時，我的家人會支持我。",
       "level": "基礎生活級"
     },
     {
       "word": "raise",
-      "meaning_zh": "(動詞) 舉起；提升",
+      "meaning_zh": "(動詞) 舉起；提升；提高；籌募；養育；(名詞) 加薪",
       "example_en": "Please raise your right hand if you know the answer to my question.",
       "example_zh": "如果你知道我問題的答案，請舉起你的右手。",
       "level": "基礎生活級"
@@ -39482,14 +39482,14 @@
     },
     {
       "word": "example",
-      "meaning_zh": "(名詞) 例子",
+      "meaning_zh": "(名詞) 例子；榜樣；範例",
       "example_en": "Can you give me an example sentence with the new word from class?",
       "example_zh": "你能給我一個用課堂上新單字造的例句嗎？",
       "level": "基礎生活級"
     },
     {
       "word": "reason",
-      "meaning_zh": "(名詞) 原因；理由",
+      "meaning_zh": "(名詞) 原因；理由；理性；(動詞) 推理；論證",
       "example_en": "Please tell me one good reason why you like this short story best.",
       "example_zh": "請告訴我一個你最喜歡這個短篇故事的好理由。",
       "level": "基礎生活級"
@@ -39734,7 +39734,7 @@
     },
     {
       "word": "break",
-      "meaning_zh": "(名詞) 休息時間",
+      "meaning_zh": "(名詞) 休息時間；(動詞) 打破；折斷；損壞；違反",
       "example_en": "I take a short break around three every afternoon.",
       "example_zh": "我每天下午三點左右會休息一下。",
       "level": "職場日常級"
@@ -39776,14 +39776,14 @@
     },
     {
       "word": "note",
-      "meaning_zh": "(名詞/動詞) 筆記；做筆記",
+      "meaning_zh": "(名詞) 筆記；便條；音符；語氣；(動詞) 做筆記；注意到",
       "example_en": "I take a quick note during every team meeting at work.",
       "example_zh": "我每次團隊會議都會做快速筆記。",
       "level": "職場日常級"
     },
     {
       "word": "guide",
-      "meaning_zh": "(名詞) 指南",
+      "meaning_zh": "(名詞) 指南；導遊；(動詞) 引導；帶領",
       "example_en": "There is a simple guide for using the office printer.",
       "example_zh": "有一份簡單的指南教你使用辦公室印表機。",
       "level": "職場日常級"
@@ -39832,7 +39832,7 @@
     },
     {
       "word": "end",
-      "meaning_zh": "(名詞/動詞) 結尾；結束",
+      "meaning_zh": "(名詞) 結尾；末端；終點；(動詞) 結束",
       "example_en": "The end of the work day is five thirty on Fridays.",
       "example_zh": "星期五的下班時間是五點半。",
       "level": "基礎生活級"
@@ -39874,21 +39874,21 @@
     },
     {
       "word": "bank",
-      "meaning_zh": "(名詞) 銀行",
+      "meaning_zh": "(名詞) 銀行；河岸；堤；(動詞) 把錢存入銀行",
       "example_en": "The small bank near the office is open until five.",
       "example_zh": "辦公室附近的小銀行開到五點。",
       "level": "職場日常級"
     },
     {
       "word": "date",
-      "meaning_zh": "(名詞) 日期",
+      "meaning_zh": "(名詞) 日期；約會；棗子；(動詞) 約會；註明日期",
       "example_en": "Please write the date on every form before you sign.",
       "example_zh": "簽名前請在每份表格上寫日期。",
       "level": "基礎生活級"
     },
     {
       "word": "day",
-      "meaning_zh": "(名詞) 日子；天",
+      "meaning_zh": "(名詞) 日子；天；白天；時代",
       "example_en": "Today is my first day at this small company.",
       "example_zh": "今天是我在這家小公司上班的第一天。",
       "level": "基礎生活級"
@@ -39930,14 +39930,14 @@
     },
     {
       "word": "new",
-      "meaning_zh": "(形容詞) 新的",
+      "meaning_zh": "(形容詞) 新的；初次的；不熟悉的",
       "example_en": "I am the new person on the office support team.",
       "example_zh": "我是辦公室支援團隊的新人。",
       "level": "基礎生活級"
     },
     {
       "word": "old",
-      "meaning_zh": "(形容詞) 舊的",
+      "meaning_zh": "(形容詞) 舊的；老的；年老的；…歲的",
       "example_en": "My old desk had a small broken drawer on the side.",
       "example_zh": "我舊桌子側邊有一個壞掉的小抽屜。",
       "level": "基礎生活級"
@@ -39951,7 +39951,7 @@
     },
     {
       "word": "big",
-      "meaning_zh": "(形容詞) 大的",
+      "meaning_zh": "(形容詞) 大的；(副詞) 大規模地",
       "example_en": "The big room near the lobby is for new staff classes.",
       "example_zh": "大廳旁那間大房間是給新員工上課用的。",
       "level": "基礎生活級"
@@ -39972,7 +39972,7 @@
     },
     {
       "word": "nice",
-      "meaning_zh": "(形容詞) 友善的；好的",
+      "meaning_zh": "(形容詞) 友善的；好的；美好的；宜人的",
       "example_en": "My new co-workers are very nice and helpful.",
       "example_zh": "我的新同事很友善又樂於助人。",
       "level": "基礎生活級"
@@ -40056,7 +40056,7 @@
     },
     {
       "word": "plug",
-      "meaning_zh": "(名詞/動詞) 插上；插頭",
+      "meaning_zh": "(名詞) 插頭；(動詞) 插上；堵塞；推銷宣傳",
       "example_en": "Please plug in your computer near the small desk light.",
       "example_zh": "請把你的電腦插在小檯燈旁的插座。",
       "level": "職場日常級"
@@ -40070,7 +40070,7 @@
     },
     {
       "word": "type",
-      "meaning_zh": "(動詞) 打字",
+      "meaning_zh": "(動詞) 打字；(名詞) 類型；種類；典型",
       "example_en": "Please type your full name in the first box.",
       "example_zh": "請在第一個欄位打你的全名。",
       "level": "職場日常級"
@@ -40126,7 +40126,7 @@
     },
     {
       "word": "way",
-      "meaning_zh": "(名詞) 路；方式",
+      "meaning_zh": "(名詞) 路；方式；方法；方向",
       "example_en": "Can you show me the way to the team lunch room?",
       "example_zh": "你可以告訴我團隊午餐室怎麼走嗎?",
       "level": "基礎生活級"
@@ -40161,7 +40161,7 @@
     },
     {
       "word": "front",
-      "meaning_zh": "(名詞) 前面",
+      "meaning_zh": "(名詞) 前面；(形容詞) 前面的；(動詞) 面向",
       "example_en": "Please wait at the front of the office near the door.",
       "example_zh": "請在辦公室前面門邊等。",
       "level": "基礎生活級"
@@ -40203,7 +40203,7 @@
     },
     {
       "word": "next",
-      "meaning_zh": "(形容詞) 下一個",
+      "meaning_zh": "(形容詞) 下一個；(副詞) 接下來；其次",
       "example_en": "Please see me about your next task after lunch today.",
       "example_zh": "今天午餐後請來找我談你下一個任務。",
       "level": "基礎生活級"
@@ -40259,7 +40259,7 @@
     },
     {
       "word": "hang",
-      "meaning_zh": "(動詞) 掛",
+      "meaning_zh": "(動詞) 掛；懸掛；絞死；(電話)掛斷",
       "example_en": "Please hang your wet umbrella by the office door.",
       "example_zh": "請把你的濕雨傘掛在辦公室門邊。",
       "level": "基礎生活級"
@@ -40280,14 +40280,14 @@
     },
     {
       "word": "see",
-      "meaning_zh": "(動詞) 看見；見面",
+      "meaning_zh": "(動詞) 看見；見面；明白；理解",
       "example_en": "I will see my new boss again at three this afternoon.",
       "example_zh": "我今天下午三點會再見到我的新老闆。",
       "level": "基礎生活級"
     },
     {
       "word": "look",
-      "meaning_zh": "(動詞) 看",
+      "meaning_zh": "(動詞) 看；看起來；(名詞) 看；外表；神情",
       "example_en": "Please look at this short list of simple safety rules.",
       "example_zh": "請看這份簡單的安全規定短清單。",
       "level": "基礎生活級"
@@ -40378,7 +40378,7 @@
     },
     {
       "word": "bar",
-      "meaning_zh": "(名詞) 酒吧",
+      "meaning_zh": "(名詞) 酒吧；條；桿；橫木；障礙",
       "example_en": "We went to a quiet bar after work for one drink.",
       "example_zh": "下班後我們去一間安靜的酒吧喝了一杯。",
       "level": "基礎生活級"
@@ -40469,7 +40469,7 @@
     },
     {
       "word": "home",
-      "meaning_zh": "(名詞) 家",
+      "meaning_zh": "(名詞) 家；(副詞) 回家；在家",
       "example_en": "Welcome to our home and please make yourself completely comfortable inside.",
       "example_zh": "歡迎來到我們家，請放輕鬆自在。",
       "level": "基礎生活級"
@@ -40511,7 +40511,7 @@
     },
     {
       "word": "clear",
-      "meaning_zh": "(動詞) 清理",
+      "meaning_zh": "(動詞) 清理；(形容詞) 清楚的；清澈的；晴朗的",
       "example_en": "The kids helped clear the dishes after the holiday family dinner.",
       "example_zh": "節日家庭晚餐後孩子們幫忙清理盤子。",
       "level": "基礎生活級"
@@ -40553,14 +40553,14 @@
     },
     {
       "word": "surprise",
-      "meaning_zh": "(名詞) 驚喜",
+      "meaning_zh": "(名詞) 驚喜；驚訝；意外；(動詞) 使驚訝",
       "example_en": "What a wonderful surprise to see so many old college friends.",
       "example_zh": "看到這麼多大學老朋友真是個美好的驚喜。",
       "level": "基礎生活級"
     },
     {
       "word": "secret",
-      "meaning_zh": "(名詞) 秘密",
+      "meaning_zh": "(名詞) 秘密；(形容詞) 秘密的；隱密的",
       "example_en": "Don't tell her about the party because it's a big secret.",
       "example_zh": "別告訴她派對的事，這是個大秘密。",
       "level": "基礎生活級"
@@ -40665,7 +40665,7 @@
     },
     {
       "word": "favor",
-      "meaning_zh": "(名詞) 幫忙；小禮物",
+      "meaning_zh": "(名詞) 幫忙；恩惠；偏愛；(動詞) 偏袒；贊成",
       "example_en": "We gave each guest a small favor as they left the party.",
       "example_zh": "我們在客人離開派對時送給他們每人一份小禮物。",
       "level": "基礎生活級"
@@ -40707,7 +40707,7 @@
     },
     {
       "word": "dress",
-      "meaning_zh": "(名詞) 洋裝",
+      "meaning_zh": "(名詞) 洋裝；服裝；(動詞) 穿衣；打扮",
       "example_en": "She bought a new dress for the special dinner tomorrow night.",
       "example_zh": "她為明晚的特別晚餐買了一件新洋裝。",
       "level": "基礎生活級"
@@ -40721,7 +40721,7 @@
     },
     {
       "word": "fancy",
-      "meaning_zh": "(形容詞) 花俏的；華麗的",
+      "meaning_zh": "(形容詞) 花俏的；華麗的；(動詞) 想要；自以為",
       "example_en": "She wore a fancy dress to the new year's eve dinner.",
       "example_zh": "她穿了一件華麗的洋裝去除夕晚餐。",
       "level": "基礎生活級"
@@ -40861,14 +40861,14 @@
     },
     {
       "word": "compliment",
-      "meaning_zh": "(名詞) 讚美",
+      "meaning_zh": "(名詞) 讚美；恭維；(動詞) 讚美；恭維",
       "example_en": "She gave a compliment about the lovely flowers on the table.",
       "example_zh": "她讚美了桌上美麗的花朵。",
       "level": "基礎生活級"
     },
     {
       "word": "memory",
-      "meaning_zh": "(名詞) 回憶",
+      "meaning_zh": "(名詞) 回憶；記憶力；記憶",
       "example_en": "We shared sweet memories of our college days late into night.",
       "example_zh": "我們分享大學時光的甜蜜回憶到深夜。",
       "level": "基礎生活級"
@@ -40903,7 +40903,7 @@
     },
     {
       "word": "balance",
-      "meaning_zh": "(名詞) 餘額；結餘",
+      "meaning_zh": "(名詞) 餘額；結餘；平衡；(動詞) 使平衡；權衡",
       "example_en": "What is the balance of my savings at the moment?",
       "example_zh": "我目前儲蓄的餘額是多少？",
       "level": "職場日常級"
@@ -40917,14 +40917,14 @@
     },
     {
       "word": "enter",
-      "meaning_zh": "(動詞) 輸入；進入",
+      "meaning_zh": "(動詞) 輸入；進入；參加；登記",
       "example_en": "Please enter your four-digit PIN to continue the transaction.",
       "example_zh": "請輸入您的四位數密碼以繼續交易。",
       "level": "職場日常級"
     },
     {
       "word": "fill",
-      "meaning_zh": "(動詞) 填寫；裝滿",
+      "meaning_zh": "(動詞) 填寫；裝滿；填補；擔任",
       "example_en": "Please fill in your name and address on this form.",
       "example_zh": "請在這張表格上填寫您的姓名和地址。",
       "level": "職場日常級"
@@ -40959,7 +40959,7 @@
     },
     {
       "word": "country",
-      "meaning_zh": "(名詞) 國家",
+      "meaning_zh": "(名詞) 國家；鄉下；鄉間",
       "example_en": "The package is going to another country, so use airmail.",
       "example_zh": "這個包裹要寄到另一個國家，請用航空郵件。",
       "level": "職場日常級"
@@ -41036,7 +41036,7 @@
     },
     {
       "word": "tick",
-      "meaning_zh": "(動詞) 打勾；劃記",
+      "meaning_zh": "(動詞) 打勾；劃記；(名詞) 勾號；滴答聲",
       "example_en": "Tick the boxes that apply and skip the rest.",
       "example_zh": "在符合的格子打勾，其他的跳過。",
       "level": "職場日常級"
@@ -41050,7 +41050,7 @@
     },
     {
       "word": "string",
-      "meaning_zh": "(名詞) 細繩；繩子",
+      "meaning_zh": "(名詞) 細繩；繩子；一串；弦；(動詞) 串起",
       "example_en": "Tie the package with string so it stays closed.",
       "example_zh": "用繩子把包裹綁起來，這樣才不會散開。",
       "level": "基礎生活級"
@@ -41099,21 +41099,21 @@
     },
     {
       "word": "get",
-      "meaning_zh": "(動詞) 拿到；取得",
+      "meaning_zh": "(動詞) 拿到；取得；變得；到達；理解",
       "example_en": "You will get your new bank card in about a week.",
       "example_zh": "您大約一週後會拿到新的銀行卡。",
       "level": "基礎生活級"
     },
     {
       "word": "come",
-      "meaning_zh": "(動詞) 來",
+      "meaning_zh": "(動詞) 來；到來；變得；出現",
       "example_en": "Please come back tomorrow with a copy of your ID.",
       "example_zh": "請明天帶身分證影本再過來。",
       "level": "基礎生活級"
     },
     {
       "word": "go",
-      "meaning_zh": "(動詞) 去",
+      "meaning_zh": "(動詞) 去；走；變得；運轉；(名詞) 嘗試",
       "example_en": "I have to go to the post office before lunch.",
       "example_zh": "我中午前要去一趟郵局。",
       "level": "基礎生活級"
@@ -41155,7 +41155,7 @@
     },
     {
       "word": "record",
-      "meaning_zh": "(名詞) 紀錄",
+      "meaning_zh": "(名詞) 紀錄；唱片；(動詞) 記錄；錄音；錄影",
       "example_en": "Your passbook keeps a record of every transaction.",
       "example_zh": "您的存摺會記錄每一筆交易。",
       "level": "職場日常級"
@@ -41183,14 +41183,14 @@
     },
     {
       "word": "express",
-      "meaning_zh": "(形容詞) 快遞；快速的",
+      "meaning_zh": "(形容詞) 快遞的；快速的；(動詞) 表達；(名詞) 快車；快遞",
       "example_en": "Express mail will arrive within one day.",
       "example_zh": "快遞郵件一天內就會送達。",
       "level": "職場日常級"
     },
     {
       "word": "regular",
-      "meaning_zh": "(形容詞) 普通的；一般的",
+      "meaning_zh": "(形容詞) 普通的；一般的；定期的；(名詞) 常客",
       "example_en": "Regular mail is cheaper but a little bit slower.",
       "example_zh": "普通郵件比較便宜，但有點慢。",
       "level": "職場日常級"
@@ -41302,7 +41302,7 @@
     },
     {
       "word": "rate",
-      "meaning_zh": "(名詞) 利率；費率",
+      "meaning_zh": "(名詞) 利率；費率；速度；(動詞) 評等；評價",
       "example_en": "The rate on this account is two percent per year.",
       "example_zh": "這個帳戶的利率是每年百分之二。",
       "level": "職場日常級"
@@ -41477,7 +41477,7 @@
     },
     {
       "word": "found",
-      "meaning_zh": "(動詞) 找到（find 的過去式）",
+      "meaning_zh": "(動詞) 找到（find 的過去式）；創立；成立",
       "example_en": "I finally found my missing card under the sofa.",
       "example_zh": "我終於在沙發底下找到我不見的卡片。",
       "level": "職場日常級"
@@ -41603,7 +41603,7 @@
     },
     {
       "word": "decline",
-      "meaning_zh": "(動詞) 婉拒",
+      "meaning_zh": "(動詞) 婉拒；下降；衰退；(名詞) 下滑；衰退",
       "example_en": "I had to decline the meeting because it overlaps with another call.",
       "example_zh": "我只好婉拒這場會議，因為時間和另一通電話重疊。",
       "level": "職場日常級"
@@ -41841,7 +41841,7 @@
     },
     {
       "word": "flag",
-      "meaning_zh": "(動詞) 標記為重要",
+      "meaning_zh": "(動詞) 標記為重要；(名詞) 旗子；標記",
       "example_en": "I will flag the email so I remember to follow up next week.",
       "example_zh": "我會把這封信標記為重要，下週才記得跟進。",
       "level": "職場日常級"
@@ -42625,7 +42625,7 @@
     },
     {
       "word": "admit",
-      "meaning_zh": "(動詞) 允許進入",
+      "meaning_zh": "(動詞) 允許進入；承認；准許入學（入院）",
       "example_en": "Please admit anyone with a company email into the call.",
       "example_zh": "請允許所有使用公司電郵的人進入通話。",
       "level": "職場日常級"
@@ -43052,7 +43052,7 @@
     },
     {
       "word": "moderate",
-      "meaning_zh": "(動詞) 主持；居中協調",
+      "meaning_zh": "(動詞) 主持；居中協調；(形容詞) 適度的；中等的",
       "example_en": "I will moderate the discussion so we stay within the hour.",
       "example_zh": "我來主持這場討論，確保我們能在一小時內結束。",
       "level": "職場日常級"
@@ -45236,7 +45236,7 @@
     },
     {
       "word": "patient",
-      "meaning_zh": "(形容詞) 有耐心的",
+      "meaning_zh": "(形容詞) 有耐心的；(名詞) 病人；患者",
       "example_en": "Please be patient while I check the inventory in our back room for you.",
       "example_zh": "請耐心等候，我會到後方庫房幫您查詢庫存。",
       "level": "基礎生活級"
@@ -45306,28 +45306,28 @@
     },
     {
       "word": "feature",
-      "meaning_zh": "(名詞) 特色；功能",
+      "meaning_zh": "(名詞) 特色；功能；專題報導；(動詞) 以…為特色；由…主演",
       "example_en": "Let me walk you through the main features of this coffee machine.",
       "example_zh": "讓我為您介紹這台咖啡機的主要功能。",
       "level": "基礎生活級"
     },
     {
       "word": "benefit",
-      "meaning_zh": "(名詞) 好處；益處",
+      "meaning_zh": "(名詞) 好處；益處；福利；(動詞) 獲益；有益於",
       "example_en": "One key benefit of this fabric is that it dries very quickly after washing.",
       "example_zh": "這種布料的一個主要好處是洗後乾得非常快。",
       "level": "基礎生活級"
     },
     {
       "word": "demonstration",
-      "meaning_zh": "(名詞) 示範",
+      "meaning_zh": "(名詞) 示範；示威遊行",
       "example_en": "We are giving a product demonstration of the new blender at three o'clock today.",
       "example_zh": "我們今天三點會進行新款攪拌機的產品示範。",
       "level": "職場日常級"
     },
     {
       "word": "trial",
-      "meaning_zh": "(名詞) 試用",
+      "meaning_zh": "(名詞) 試用；審判；試煉；考驗",
       "example_en": "Customers can take a thirty-day trial before deciding to keep the mattress.",
       "example_zh": "顧客可以先試用三十天，再決定是否要留下這張床墊。",
       "level": "基礎生活級"
@@ -45432,7 +45432,7 @@
     },
     {
       "word": "promotion",
-      "meaning_zh": "(名詞) 促銷活動",
+      "meaning_zh": "(名詞) 促銷活動；升遷；晉升",
       "example_en": "Our weekend promotion offers fifteen percent off all winter coats and boots.",
       "example_zh": "我們週末的促銷活動所有冬季外套和靴子打八五折。",
       "level": "基礎生活級"
@@ -45446,7 +45446,7 @@
     },
     {
       "word": "clearance",
-      "meaning_zh": "(名詞) 清倉",
+      "meaning_zh": "(名詞) 清倉；許可；批准；通關放行",
       "example_en": "All clearance items are final sale and cannot be returned after purchase.",
       "example_zh": "所有清倉商品為最終特賣，購買後不可退貨。",
       "level": "職場日常級"
@@ -46412,7 +46412,7 @@
     },
     {
       "word": "reload",
-      "meaning_zh": "(動詞) 儲值；加值",
+      "meaning_zh": "(動詞) 儲值；加值；重新載入；重新裝填",
       "example_en": "Would you like to reload your gift card with an additional twenty dollars?",
       "example_zh": "您想為您的禮品卡再加值二十元嗎？",
       "level": "基礎生活級"
@@ -46475,7 +46475,7 @@
     },
     {
       "word": "till",
-      "meaning_zh": "(名詞) 收銀台；錢櫃",
+      "meaning_zh": "(名詞) 收銀台；錢櫃；(介系詞/連接詞) 直到",
       "example_en": "Please count the till carefully before opening the store each morning.",
       "example_zh": "每天早上開店前請仔細清點錢櫃。",
       "level": "職場日常級"
@@ -48792,7 +48792,7 @@
     },
     {
       "word": "crash",
-      "meaning_zh": "(動詞) 當機；崩潰",
+      "meaning_zh": "(動詞) 當機；崩潰；撞毀；(股市)暴跌；(名詞) 當機；撞車事故；暴跌",
       "example_en": "The application keeps crashing after this morning's update.",
       "example_zh": "今天早上更新後，這個應用程式持續當機。",
       "level": "基礎生活級"
@@ -48806,7 +48806,7 @@
     },
     {
       "word": "bug",
-      "meaning_zh": "(名詞) 程式錯誤",
+      "meaning_zh": "(名詞) 程式錯誤；蟲子；(動詞) 煩擾；(暗中)竊聽",
       "example_en": "Please describe the bug step by step in the ticket.",
       "example_zh": "請在工單中逐步描述這個程式錯誤。",
       "level": "職場日常級"
@@ -49135,7 +49135,7 @@
     },
     {
       "word": "extract",
-      "meaning_zh": "(動詞) 解壓縮",
+      "meaning_zh": "(動詞) 解壓縮；提取；萃取；摘錄；(名詞) 摘錄；萃取物",
       "example_en": "Right-click the archive to extract the contents into a new folder.",
       "example_zh": "對著壓縮檔右鍵點擊就能解壓縮到新資料夾。",
       "level": "職場日常級"
@@ -49296,7 +49296,7 @@
     },
     {
       "word": "echo",
-      "meaning_zh": "(名詞) 回音",
+      "meaning_zh": "(名詞) 回音；迴響；(動詞) 發出回聲；附和；重複",
       "example_en": "There is a strong echo whenever two people in the same room join.",
       "example_zh": "同房間有兩個人加入時就會出現很強的回音。",
       "level": "職場日常級"
@@ -49527,7 +49527,7 @@
     },
     {
       "word": "session",
-      "meaning_zh": "(名詞) 工作階段",
+      "meaning_zh": "(名詞) 工作階段；場次；會期；(會議)會議；療程",
       "example_en": "Your session was disconnected due to extended inactivity.",
       "example_zh": "你的工作階段因為長時間閒置而中斷。",
       "level": "專業頂尖級"
@@ -49576,7 +49576,7 @@
     },
     {
       "word": "escalate",
-      "meaning_zh": "(動詞) 升級處理",
+      "meaning_zh": "(動詞) 升級處理；(情勢/衝突)升高；逐步惡化",
       "example_en": "Please escalate the issue if no reply arrives by tomorrow.",
       "example_zh": "如果明天還沒收到回覆，請升級處理這個問題。",
       "level": "專業頂尖級"
@@ -49702,7 +49702,7 @@
     },
     {
       "word": "shred",
-      "meaning_zh": "(動詞) 碎紙",
+      "meaning_zh": "(動詞) 碎紙；撕碎；切成細絲",
       "example_en": "Please shred any document that contains personal data.",
       "example_zh": "請把任何含有個人資料的文件碎紙處理。",
       "level": "職場日常級"
@@ -49821,7 +49821,7 @@
     },
     {
       "word": "navigation",
-      "meaning_zh": "(名詞) 導覽；網站結構",
+      "meaning_zh": "(名詞) 導覽；網站結構；航行；導航",
       "example_en": "Updated navigation makes it easier to find policy documents.",
       "example_zh": "更新後的導覽讓政策文件更容易尋找。",
       "level": "職場日常級"
@@ -49968,7 +49968,7 @@
     },
     {
       "word": "highlight",
-      "meaning_zh": "(動詞) 反白標記",
+      "meaning_zh": "(動詞) 反白標記；強調；突顯；(名詞) 最精彩的部分；亮點",
       "example_en": "Highlight key terms before sending the contract for review.",
       "example_zh": "把合約送審前先反白標記關鍵條款。",
       "level": "職場日常級"
@@ -50045,7 +50045,7 @@
     },
     {
       "word": "mention",
-      "meaning_zh": "(動詞) 標記提及",
+      "meaning_zh": "(動詞) 標記提及；提到；談及；(名詞) 提及；表揚",
       "example_en": "Mention the responsible owner so they get a direct notification.",
       "example_zh": "請標記提及負責人，他才會直接收到通知。",
       "level": "職場日常級"
@@ -52390,7 +52390,7 @@
     },
     {
       "word": "reel",
-      "meaning_zh": "(名詞) 短影音；小短片",
+      "meaning_zh": "(名詞) 短影音；小短片；捲軸；捲盤（線、膠卷等）；(動詞) 蹣跚；踉蹌",
       "example_en": "Each weekly reel shows one customer using our kitchen tool to make a simple meal.",
       "example_zh": "每週的短影音展示一位顧客使用我們的廚房工具做一頓簡單的料理。",
       "level": "職場日常級"
@@ -52663,7 +52663,7 @@
     },
     {
       "word": "buzz",
-      "meaning_zh": "(名詞) 話題；口碑討論",
+      "meaning_zh": "(名詞) 話題；口碑討論；嗡嗡聲；(動詞) 發出嗡嗡聲",
       "example_en": "The teaser video created a lot of buzz online weeks before the official product launch.",
       "example_zh": "在產品正式發表前數週，預告影片就在網路上掀起許多話題。",
       "level": "專業頂尖級"
@@ -52684,7 +52684,7 @@
     },
     {
       "word": "stunt",
-      "meaning_zh": "(名詞) 噱頭活動",
+      "meaning_zh": "(名詞) 噱頭活動；特技（驚險動作）",
       "example_en": "The marketing team planned a fun stunt downtown to attract media attention to the launch.",
       "example_zh": "行銷團隊在市中心策劃了一場有趣的噱頭活動，為產品發表吸引媒體關注。",
       "level": "專業頂尖級"
@@ -53090,7 +53090,7 @@
     },
     {
       "word": "engagement",
-      "meaning_zh": "(名詞) 互動；參與度",
+      "meaning_zh": "(名詞) 互動；參與度；訂婚；約定",
       "example_en": "Engagement on our weekend posts is usually higher than on weekday posts in this region.",
       "example_zh": "在這個地區，我們週末貼文的互動通常比平日貼文高。",
       "level": "進階商務級"
@@ -53580,7 +53580,7 @@
     },
     {
       "word": "catalog",
-      "meaning_zh": "(名詞) 商品目錄",
+      "meaning_zh": "(名詞) 商品目錄；(動詞) 編入目錄；分類列入",
       "example_en": "Our spring catalog features over two hundred new products with photos and easy ordering instructions.",
       "example_zh": "我們的春季商品目錄收錄超過兩百項新商品，附有照片和簡單的訂購說明。",
       "level": "職場日常級"
@@ -54007,7 +54007,7 @@
     },
     {
       "word": "opener",
-      "meaning_zh": "(名詞) 開場白；開場銷售語",
+      "meaning_zh": "(名詞) 開場白；開場銷售語；開瓶器；開罐器",
       "example_en": "A strong opener mentioning the prospect's recent funding round usually buys you another minute of attention.",
       "example_zh": "強而有力的開場白若提及潛在客戶最近的募資輪，通常能多爭取一分鐘的關注。",
       "level": "進階商務級"
@@ -55337,7 +55337,7 @@
     },
     {
       "word": "throttle",
-      "meaning_zh": "(動詞) 限制傳送速率",
+      "meaning_zh": "(動詞) 限制傳送速率；扼住喉嚨；使窒息；節流（控制油門/流量）；(名詞) 節流閥；油門",
       "example_en": "Throttle daily email volume to one hundred per inbox to maintain a healthy sender reputation over time.",
       "example_zh": "把每個信箱的每日寄信量限制傳送速率在一百封，以長期維持健康的寄件人信譽。",
       "level": "專業頂尖級"
@@ -55813,7 +55813,7 @@
     },
     {
       "word": "exhibit",
-      "meaning_zh": "(名詞/動詞) 展示；展品",
+      "meaning_zh": "(名詞) 展品；(動詞) 展示；展出；表現、顯露（情緒/特質）；(名詞) (法庭)證物",
       "example_en": "Our team will exhibit three new software products at the booth located near the main entrance.",
       "example_zh": "我們團隊將在靠近主入口處的攤位展示三款新軟體產品。",
       "level": "職場日常級"
@@ -56576,7 +56576,7 @@
     },
     {
       "word": "spotlight",
-      "meaning_zh": "(名詞) 聚光燈",
+      "meaning_zh": "(名詞) 聚光燈；(比喻)公眾注目焦點；(動詞) 使突顯、聚焦於",
       "example_en": "A focused spotlight on the speaker creates a sense of importance and naturally draws audience attention forward.",
       "example_zh": "聚焦於講者的聚光燈營造重要感，自然將觀眾的注意力吸引到前方。",
       "level": "職場日常級"
@@ -57528,7 +57528,7 @@
     },
     {
       "word": "visibility",
-      "meaning_zh": "(名詞) 能見度；可見度",
+      "meaning_zh": "(名詞) 能見度；可見度；(企業/品牌的)知名度、曝光度",
       "example_en": "Sharing weekly updates increases your visibility with leadership when you rarely come into the office.",
       "example_zh": "分享每週更新可在您鮮少進辦公室時提升您對高層的能見度。",
       "level": "進階商務級"
@@ -57577,7 +57577,7 @@
     },
     {
       "word": "burnout",
-      "meaning_zh": "(名詞) 職業倦怠；過勞",
+      "meaning_zh": "(名詞) 職業倦怠；過勞；(動詞) 燒壞、燒盡；精疲力竭",
       "example_en": "Manager Lin watches for early signs of burnout such as quiet withdrawal or missed weekly check-ins.",
       "example_zh": "林經理會留意過勞的早期徵兆，例如安靜退縮或錯過每週進度報告。",
       "level": "進階商務級"
@@ -57598,7 +57598,7 @@
     },
     {
       "word": "unplug",
-      "meaning_zh": "(動詞) 切斷工作；放下工作",
+      "meaning_zh": "(動詞) 切斷工作；放下工作；拔掉插頭（斷電）；放鬆休息",
       "example_en": "It is healthy to unplug from email completely during weekends and personal vacation days.",
       "example_zh": "在週末和個人休假日完全脫離電子郵件是健康的做法。",
       "level": "進階商務級"
@@ -58060,7 +58060,7 @@
     },
     {
       "word": "recording",
-      "meaning_zh": "(名詞) 錄影；錄音",
+      "meaning_zh": "(名詞) 錄影；錄音；錄製內容；(唱片/樂曲的)錄音作品",
       "example_en": "We posted the recording of the all-hands so teammates in Asia could watch when convenient.",
       "example_zh": "我們將全員大會的錄影發布出來，讓亞洲隊友能在方便時觀看。",
       "level": "職場日常級"
@@ -58102,7 +58102,7 @@
     },
     {
       "word": "dropout",
-      "meaning_zh": "(名詞) 掉線；中斷",
+      "meaning_zh": "(名詞) 掉線；中斷；輟學者；退出者",
       "example_en": "Frequent dropouts during the demo embarrassed the team in front of the very important enterprise customer.",
       "example_zh": "示範期間頻繁掉線，讓團隊在非常重要的企業客戶面前難堪。",
       "level": "進階商務級"
@@ -58200,7 +58200,7 @@
     },
     {
       "word": "ownership",
-      "meaning_zh": "(名詞) 負責性；主導意識",
+      "meaning_zh": "(名詞) 負責性；主導意識；所有權；擁有",
       "example_en": "Strong ownership lets remote teams move fast because nobody waits for permission to fix obvious problems.",
       "example_zh": "強烈的負責性讓遠端團隊能快速行動，因為沒人會等待許可才修正明顯問題。",
       "level": "進階商務級"
@@ -58228,14 +58228,14 @@
     },
     {
       "word": "autonomy",
-      "meaning_zh": "(名詞) 自主性",
+      "meaning_zh": "(名詞) 自主性；自治權；自治",
       "example_en": "Many engineers join remote companies because autonomy over schedule and method matters more than free office snacks.",
       "example_zh": "許多工程師加入遠端公司，因為對日程和方法的自主性比免費辦公室點心重要。",
       "level": "專業頂尖級"
     },
     {
       "word": "discretion",
-      "meaning_zh": "(名詞) 自由裁量；自行決定",
+      "meaning_zh": "(名詞) 自由裁量；自行決定；謹慎；判斷力",
       "example_en": "Use your own discretion on tool choices as long as the team can still review your final output.",
       "example_zh": "工具選擇可由您自行決定，只要團隊仍能審閱您的最終產出。",
       "level": "進階商務級"
@@ -58270,7 +58270,7 @@
     },
     {
       "word": "isolation",
-      "meaning_zh": "(名詞) 孤立感；隔絕",
+      "meaning_zh": "(名詞) 孤立感；隔絕；隔離（醫療/物理）",
       "example_en": "Long stretches of isolation can quietly hurt motivation, so check in regularly with colleagues you trust.",
       "example_zh": "長時間的孤立感會悄悄削弱動力，請定期與您信任的同事保持聯繫。",
       "level": "進階商務級"
@@ -60174,7 +60174,7 @@
     },
     {
       "word": "mold",
-      "meaning_zh": "(名詞) 黴菌",
+      "meaning_zh": "(名詞) 黴菌；模具、鑄模",
       "example_en": "After the leak was fixed, the cleaning team removed visible mold from the corner of the ceiling.",
       "example_zh": "漏水修好後，清潔團隊清除了天花板角落可見的黴菌。",
       "level": "進階商務級"
@@ -60188,7 +60188,7 @@
     },
     {
       "word": "leak",
-      "meaning_zh": "(名詞) 漏水；滲漏",
+      "meaning_zh": "(名詞) 漏水、滲漏；（機密、消息的）洩漏",
       "example_en": "A small leak from the ceiling pipe formed a damp stain that staff reported to the building office.",
       "example_zh": "天花板水管的小漏水形成潮濕污漬，員工已通報大樓辦公室。",
       "level": "職場日常級"
@@ -62953,7 +62953,7 @@
     },
     {
       "word": "capitalize",
-      "meaning_zh": "(動詞) 資本化；列為資產",
+      "meaning_zh": "(動詞) 資本化；列為資產；把(字母)大寫；利用、善加把握(on)",
       "example_en": "The firm chose to capitalize the software development costs over a five-year period.",
       "example_zh": "公司選擇將軟體開發成本在五年期間內資本化。",
       "level": "進階商務級"
@@ -64115,7 +64115,7 @@
     },
     {
       "word": "curtailment",
-      "meaning_zh": "(名詞) 縮減",
+      "meaning_zh": "(名詞) (退休金計畫的)縮減；削減、縮短",
       "example_en": "A curtailment occurs when the plan freezes future accruals for active employees.",
       "example_zh": "當計畫凍結在職員工未來權益累積時，即構成縮減。",
       "level": "專業頂尖級"
@@ -64290,7 +64290,7 @@
     },
     {
       "word": "posting",
-      "meaning_zh": "(名詞) 過帳",
+      "meaning_zh": "(名詞) (會計)過帳；張貼、貼文；職位、派駐職務",
       "example_en": "Daily posting from the journal updates each affected general ledger account.",
       "example_zh": "每日從日記簿過帳會更新每個受影響的總帳科目。",
       "level": "專業頂尖級"
@@ -66621,7 +66621,7 @@
     },
     {
       "word": "stake",
-      "meaning_zh": "(名詞) 股份;利害關係",
+      "meaning_zh": "(名詞) 股份;利害關係;賭注;樁柱",
       "example_en": "The pension fund took a minority stake in the renewable energy infrastructure project.",
       "example_zh": "該退休基金在這項再生能源基礎設施計畫中取得了少數股份。",
       "level": "進階商務級"
@@ -66719,7 +66719,7 @@
     },
     {
       "word": "syndicate",
-      "meaning_zh": "(名詞) 承銷團",
+      "meaning_zh": "(名詞) 承銷團;(犯罪/利益)集團；(動詞) 聯合經營;組成承銷團",
       "example_en": "A syndicate of six global banks shared the risk of distributing the massive offering.",
       "example_zh": "由六家全球性銀行組成的承銷團共同承擔配售這檔大型發行案的風險。",
       "level": "專業頂尖級"
@@ -66754,14 +66754,14 @@
     },
     {
       "word": "allotment",
-      "meaning_zh": "(名詞) 配額;配股",
+      "meaning_zh": "(名詞) 配額;配股;分配",
       "example_en": "Each qualified investor received a proportional allotment based on their original subscription amount.",
       "example_zh": "每位合格投資人都依其原始認購金額按比例獲得配股。",
       "level": "專業頂尖級"
     },
     {
       "word": "listing",
-      "meaning_zh": "(名詞) 掛牌上市",
+      "meaning_zh": "(名詞) 掛牌上市;列表;清單;名單",
       "example_en": "The company is preparing for a dual listing on both the Tokyo and London exchanges.",
       "example_zh": "該公司正準備在東京與倫敦兩大交易所進行雙重掛牌上市。",
       "level": "專業頂尖級"
@@ -66817,7 +66817,7 @@
     },
     {
       "word": "rally",
-      "meaning_zh": "(名詞/動詞) 反彈",
+      "meaning_zh": "(名詞/動詞) 反彈;集會;集結",
       "example_en": "Technology shares led the broad market rally following the central bank rate cut.",
       "example_zh": "在央行降息後,科技類股領銜了整體市場的反彈走勢。",
       "level": "專業頂尖級"
@@ -66964,7 +66964,7 @@
     },
     {
       "word": "specialist",
-      "meaning_zh": "(名詞) 專責造市商",
+      "meaning_zh": "(名詞) 專責造市商;專家;專科醫生",
       "example_en": "The specialist on the trading floor maintains orderly markets in his assigned securities.",
       "example_zh": "交易大廳的專責造市商負責維持其所負責證券市場的有序運作。",
       "level": "專業頂尖級"
@@ -67860,7 +67860,7 @@
     },
     {
       "word": "stewardship",
-      "meaning_zh": "(名詞) 盡職管理",
+      "meaning_zh": "(名詞) 盡職管理;管理(職責);管家身分",
       "example_en": "Effective stewardship requires active engagement with portfolio companies on governance and sustainability issues.",
       "example_zh": "有效的盡職管理需要就治理與永續議題積極與投資組合公司互動。",
       "level": "專業頂尖級"
@@ -68070,7 +68070,7 @@
     },
     {
       "word": "skew",
-      "meaning_zh": "(名詞) 偏態",
+      "meaning_zh": "(名詞) 偏態;偏斜;(動詞) 使歪斜;扭曲(數據)",
       "example_en": "Persistent option skew reveals that investors typically pay more for downside protection than upside speculation.",
       "example_zh": "持續性的選擇權偏態顯示投資人通常願意為下檔保護支付高於上檔投機的代價。",
       "level": "專業頂尖級"
@@ -68602,14 +68602,14 @@
     },
     {
       "word": "straddle",
-      "meaning_zh": "(名詞) 跨式策略",
+      "meaning_zh": "(名詞) 跨式策略；(動詞) 跨坐；橫跨；騎跨",
       "example_en": "A long straddle profits significantly when the underlying makes sharp moves in either direction.",
       "example_zh": "買進跨式策略在標的朝任一方向大幅變動時可顯著獲利。",
       "level": "專業頂尖級"
     },
     {
       "word": "strangle",
-      "meaning_zh": "(名詞) 勒式策略",
+      "meaning_zh": "(名詞) 勒式策略；(動詞) 勒死；掐死",
       "example_en": "A strangle costs less than a comparable straddle but requires larger underlying moves to profit.",
       "example_zh": "勒式策略成本低於相當的跨式策略,但需要標的更大幅度的變動才能獲利。",
       "level": "專業頂尖級"
@@ -72452,7 +72452,7 @@
     },
     {
       "word": "solicitation",
-      "meaning_zh": "(名詞) 招標邀請；徵求提案",
+      "meaning_zh": "(名詞) 招標邀請；徵求提案；懇求；招攬",
       "example_en": "The procurement team issued a formal solicitation to twelve qualified vendors last Friday.",
       "example_zh": "採購團隊於上週五向十二家合格供應商發出正式招標邀請。",
       "level": "專業頂尖級"
@@ -72466,7 +72466,7 @@
     },
     {
       "word": "bidder",
-      "meaning_zh": "(名詞) 投標者；競標人",
+      "meaning_zh": "(名詞) 投標者；競標人；（拍賣）出價者；喊價者",
       "example_en": "Each bidder received a detailed specification document outlining the technical requirements.",
       "example_zh": "每位投標者都收到一份詳列技術要求的規格文件。",
       "level": "專業頂尖級"
@@ -75175,7 +75175,7 @@
     },
     {
       "word": "enact",
-      "meaning_zh": "(動詞) 制定（法律）；頒布",
+      "meaning_zh": "(動詞) 制定（法律）；頒布；扮演；上演",
       "example_en": "Parliament enacted sweeping reforms to enhance corporate transparency and curb tax evasion schemes.",
       "example_zh": "國會制定了全面改革以提升企業透明度並遏止避稅手段。",
       "level": "專業頂尖級"
@@ -75210,7 +75210,7 @@
     },
     {
       "word": "precedent",
-      "meaning_zh": "(名詞) 先例；判例",
+      "meaning_zh": "(名詞) 先例；判例；(形容詞) 在先的；先前的",
       "example_en": "The appellate ruling sets a binding precedent for how regulators must handle whistleblower retaliation claims.",
       "example_zh": "上訴法院的裁決為監管機關處理舉報人報復申訴設立了具拘束力的判例。",
       "level": "專業頂尖級"
@@ -75826,7 +75826,7 @@
     },
     {
       "word": "graft",
-      "meaning_zh": "(名詞) 貪污；舞弊",
+      "meaning_zh": "(名詞) 貪污；舞弊；(醫) 移植組織；接枝；(動詞) 移植；嫁接",
       "example_en": "Investigators uncovered widespread graft involving inflated invoices submitted in collusion with corrupt government procurement officials abroad.",
       "example_zh": "調查人員揭露涉及虛報發票之大規模貪污，與境外腐敗政府採購官員串通進行。",
       "level": "專業頂尖級"
@@ -76386,14 +76386,14 @@
     },
     {
       "word": "spoofing",
-      "meaning_zh": "(名詞) 幌騙交易（市場操縱手法）",
+      "meaning_zh": "(名詞) 幌騙交易（市場操縱手法）；(資安) 欺騙；偽冒（如IP、電子郵件偽冒）",
       "example_en": "Spoofing involves placing orders without intent to execute, aiming to create false impressions of market interest to manipulate prices.",
       "example_zh": "幌騙交易涉及下達無意成交之委託單，旨在製造虛假市場興趣印象以操縱價格。",
       "level": "專業頂尖級"
     },
     {
       "word": "layering",
-      "meaning_zh": "(名詞) 分層委託（市場操縱手法）",
+      "meaning_zh": "(名詞) 分層委託（市場操縱手法）；分層；層疊",
       "example_en": "Layering manipulates the order book by entering nonbona fide orders on one side to influence prices for opposite executions.",
       "example_zh": "分層委託藉由在一方輸入非善意委託單以影響另一方執行之價格，從而操縱委託簿。",
       "level": "專業頂尖級"
@@ -78444,7 +78444,7 @@
     },
     {
       "word": "prevalence",
-      "meaning_zh": "(名詞) 盛行率",
+      "meaning_zh": "(名詞) 盛行率；普遍；盛行；流行",
       "example_en": "Rising prevalence of metabolic dysfunction underscores the urgency of population-level prevention strategies.",
       "example_zh": "代謝功能障礙盛行率上升凸顯族群層級預防策略的迫切性。",
       "level": "專業頂尖級"
@@ -80810,7 +80810,7 @@
     },
     {
       "word": "chest",
-      "meaning_zh": "(名詞) 胸部",
+      "meaning_zh": "(名詞) 胸部；箱子；櫃子",
       "example_en": "The runner felt a sharp pain in his chest after the long marathon race.",
       "example_zh": "在漫長的馬拉松比賽後，跑者感覺到胸部一陣劇痛。",
       "level": "基礎生活級"
@@ -80824,7 +80824,7 @@
     },
     {
       "word": "hip",
-      "meaning_zh": "(名詞) 臀部；髖部",
+      "meaning_zh": "(名詞) 臀部；髖部；(形容詞) 時髦的",
       "example_en": "The little girl put her hands on her hips and pouted at her older brother.",
       "example_zh": "小女孩把手放在臀部上，對哥哥噘起了嘴。",
       "level": "基礎生活級"
@@ -80845,7 +80845,7 @@
     },
     {
       "word": "palm",
-      "meaning_zh": "(名詞) 手掌",
+      "meaning_zh": "(名詞) 手掌；棕櫚樹",
       "example_en": "He held the tiny seed in the palm of his hand before planting it carefully.",
       "example_zh": "他把小種子握在手掌中，然後小心地種下。",
       "level": "基礎生活級"
@@ -80880,7 +80880,7 @@
     },
     {
       "word": "mole",
-      "meaning_zh": "(名詞) 痣",
+      "meaning_zh": "(名詞) 痣；鼴鼠；內奸",
       "example_en": "She has a small dark mole just above her upper lip on the right side.",
       "example_zh": "她的右上唇上方有一顆小小的黑痣。",
       "level": "基礎生活級"
@@ -81258,7 +81258,7 @@
     },
     {
       "word": "stain",
-      "meaning_zh": "(名詞) 污漬",
+      "meaning_zh": "(名詞) 污漬；(動詞) 弄髒；染色",
       "example_en": "There is a small coffee stain on the front of his new white shirt.",
       "example_zh": "他新買的白襯衫前面有一個小咖啡漬。",
       "level": "基礎生活級"
@@ -81307,14 +81307,14 @@
     },
     {
       "word": "tank",
-      "meaning_zh": "(名詞) 背心",
+      "meaning_zh": "(名詞) 背心；坦克；(水/油)箱",
       "example_en": "He wore a plain white tank under his open button-up summer shirt.",
       "example_zh": "他在敞開的夏季扣襯衫裡穿了一件素白色背心。",
       "level": "基礎生活級"
     },
     {
       "word": "polo",
-      "meaning_zh": "(名詞) POLO衫",
+      "meaning_zh": "(名詞) POLO衫；馬球",
       "example_en": "The school uniform includes a navy polo with the small school logo on it.",
       "example_zh": "學校制服包括一件深藍色POLO衫，上面有小小的校徽。",
       "level": "基礎生活級"
@@ -81328,7 +81328,7 @@
     },
     {
       "word": "vest",
-      "meaning_zh": "(名詞) 背心",
+      "meaning_zh": "(名詞) 背心；(美)汗衫",
       "example_en": "He wore a warm puffy vest to keep his chest warm on the cold morning.",
       "example_zh": "在寒冷的早晨，他穿了一件溫暖的蓬鬆背心來保持胸部溫暖。",
       "level": "職場日常級"
@@ -81531,7 +81531,7 @@
     },
     {
       "word": "cape",
-      "meaning_zh": "(名詞) 斗篷",
+      "meaning_zh": "(名詞) 斗篷；海角；岬",
       "example_en": "The little boy wore a red superhero cape and ran around the back garden.",
       "example_zh": "小男孩穿著紅色超級英雄斗篷在後花園裡跑來跑去。",
       "level": "基礎生活級"
@@ -81552,7 +81552,7 @@
     },
     {
       "word": "clutch",
-      "meaning_zh": "(名詞) 手拿包",
+      "meaning_zh": "(名詞) 手拿包；離合器；(動詞) 緊抓",
       "example_en": "She held a small silver clutch in her hand at the elegant evening party.",
       "example_zh": "在優雅的晚宴派對上，她手裡拿著一個小銀色手拿包。",
       "level": "基礎生活級"
@@ -81650,7 +81650,7 @@
     },
     {
       "word": "diamond",
-      "meaning_zh": "(名詞) 鑽石",
+      "meaning_zh": "(名詞) 鑽石；菱形",
       "example_en": "He gave her a tiny diamond ring when he asked her to marry him.",
       "example_zh": "他向她求婚時，送了她一枚小小的鑽戒。",
       "level": "基礎生活級"
@@ -81755,14 +81755,14 @@
     },
     {
       "word": "fringe",
-      "meaning_zh": "(名詞) 流蘇邊；瀏海",
+      "meaning_zh": "(名詞) 流蘇邊；瀏海；邊緣",
       "example_en": "Her vintage jacket had a long brown fringe along the bottom of the back.",
       "example_zh": "她的復古夾克後襬有長長的棕色流蘇邊。",
       "level": "基礎生活級"
     },
     {
       "word": "snap",
-      "meaning_zh": "(名詞) 按扣",
+      "meaning_zh": "(名詞) 按扣；快照；(動詞) 啪地折斷；厲聲說",
       "example_en": "The baby's tiny shirt had soft snaps instead of small hard plastic buttons.",
       "example_zh": "嬰兒小襯衫上用的是柔軟的按扣，而不是堅硬的小塑膠鈕扣。",
       "level": "基礎生活級"
@@ -81783,7 +81783,7 @@
     },
     {
       "word": "elastic",
-      "meaning_zh": "(名詞) 鬆緊帶",
+      "meaning_zh": "(名詞) 鬆緊帶；(形容詞) 有彈性的",
       "example_en": "The elastic on her old shorts is too loose, so she needs a new pair soon.",
       "example_zh": "她舊短褲上的鬆緊帶太鬆了，所以她很快就需要一條新的。",
       "level": "基礎生活級"
@@ -81860,7 +81860,7 @@
     },
     {
       "word": "tear",
-      "meaning_zh": "(名詞/動詞) 撕裂；裂口",
+      "meaning_zh": "(名詞/動詞) 撕裂；裂口；(名詞) 眼淚",
       "example_en": "There is a small tear in the back of his old jeans near the right pocket.",
       "example_zh": "他舊牛仔褲後面靠近右口袋的地方有一個小裂口。",
       "level": "基礎生活級"
@@ -81888,7 +81888,7 @@
     },
     {
       "word": "rough",
-      "meaning_zh": "(形容詞) 粗糙的",
+      "meaning_zh": "(形容詞) 粗糙的；粗略的；艱難的",
       "example_en": "The fabric of the old shirt felt very rough against his sensitive young skin.",
       "example_zh": "那件舊襯衫的布料貼在他敏感的年輕皮膚上感覺很粗糙。",
       "level": "基礎生活級"
@@ -81986,7 +81986,7 @@
     },
     {
       "word": "solid",
-      "meaning_zh": "(形容詞) 純色的",
+      "meaning_zh": "(形容詞) 純色的；固體的；堅固的；可靠的；(名詞) 固體",
       "example_en": "He prefers solid color shirts over busy patterns for his office work clothes.",
       "example_zh": "他工作服偏愛純色襯衫，而不是花俏的圖案。",
       "level": "基礎生活級"
@@ -82014,7 +82014,7 @@
     },
     {
       "word": "navy",
-      "meaning_zh": "(形容詞) 海軍藍的",
+      "meaning_zh": "(形容詞) 海軍藍的；(名詞) 海軍",
       "example_en": "He wore a navy suit with a white shirt and a thin black necktie.",
       "example_zh": "他穿著一套海軍藍西裝，配白襯衫和一條細黑領帶。",
       "level": "基礎生活級"
@@ -82063,7 +82063,7 @@
     },
     {
       "word": "coral",
-      "meaning_zh": "(名詞/形容詞) 珊瑚色的",
+      "meaning_zh": "(名詞/形容詞) 珊瑚色的；(名詞) 珊瑚",
       "example_en": "She wore a coral colored lipstick that matched her bright summer dress nicely.",
       "example_zh": "她塗了珊瑚色的口紅，跟她明亮的夏日洋裝搭配得很好。",
       "level": "基礎生活級"
@@ -82098,21 +82098,21 @@
     },
     {
       "word": "rust",
-      "meaning_zh": "(形容詞) 鐵鏽色的",
+      "meaning_zh": "(形容詞) 鐵鏽色的；(名詞) 鐵鏽；(動詞) 生鏽",
       "example_en": "She bought a rust colored sweater that looks great with her brown leather boots.",
       "example_zh": "她買了一件鐵鏽色的毛衣，搭配她棕色皮靴看起來很棒。",
       "level": "基礎生活級"
     },
     {
       "word": "copper",
-      "meaning_zh": "(形容詞) 銅色的",
+      "meaning_zh": "(形容詞) 銅色的；(名詞) 銅",
       "example_en": "Her shiny copper hair caught the warm sunlight during the late afternoon walk.",
       "example_zh": "在傍晚散步時，她閃亮的銅色頭髮反射著溫暖的陽光。",
       "level": "基礎生活級"
     },
     {
       "word": "bronze",
-      "meaning_zh": "(形容詞) 古銅色的",
+      "meaning_zh": "(形容詞) 古銅色的；(名詞) 青銅；銅牌",
       "example_en": "She had a beautiful bronze tan after her long summer beach vacation last month.",
       "example_zh": "她上個月結束漫長的夏日海灘度假後，曬出了美麗的古銅色皮膚。",
       "level": "基礎生活級"
@@ -82147,14 +82147,14 @@
     },
     {
       "word": "mint",
-      "meaning_zh": "(形容詞) 薄荷綠的",
+      "meaning_zh": "(形容詞) 薄荷綠的；(名詞) 薄荷；造幣廠",
       "example_en": "She painted her kitchen walls a soft mint green color last summer vacation.",
       "example_zh": "去年暑假，她把廚房的牆壁漆成了柔和的薄荷綠色。",
       "level": "基礎生活級"
     },
     {
       "word": "sage",
-      "meaning_zh": "(形容詞) 鼠尾草綠的",
+      "meaning_zh": "(形容詞) 鼠尾草綠的；(名詞) 鼠尾草；賢人",
       "example_en": "She chose a sage green color for the walls of her cozy reading room.",
       "example_zh": "她為舒適的閱讀室牆壁選了鼠尾草綠的顏色。",
       "level": "基礎生活級"
@@ -82168,7 +82168,7 @@
     },
     {
       "word": "silver",
-      "meaning_zh": "(形容詞) 銀色的",
+      "meaning_zh": "(形容詞) 銀色的；(名詞) 銀；銀牌；銀器",
       "example_en": "She bought a small silver necklace with a tiny heart for her daughter's birthday.",
       "example_zh": "她為女兒的生日買了一條有小愛心的小銀項鍊。",
       "level": "基礎生活級"
@@ -82287,7 +82287,7 @@
     },
     {
       "word": "pupil",
-      "meaning_zh": "(名詞) 瞳孔",
+      "meaning_zh": "(名詞) 瞳孔；學生",
       "example_en": "The pupil of his eye looked very small under the bright office light.",
       "example_zh": "在明亮的辦公室燈光下，他的瞳孔看起來很小。",
       "level": "職場日常級"
@@ -82301,7 +82301,7 @@
     },
     {
       "word": "blush",
-      "meaning_zh": "(名詞) 腮紅",
+      "meaning_zh": "(名詞) 腮紅；(動詞) 臉紅",
       "example_en": "She put a little pink blush on her cheeks before going to the family photo session.",
       "example_zh": "在去家庭攝影前，她在臉頰上塗了一點粉色腮紅。",
       "level": "職場日常級"
@@ -82322,7 +82322,7 @@
     },
     {
       "word": "shadow",
-      "meaning_zh": "(名詞) 眼影；陰影",
+      "meaning_zh": "(名詞) 眼影；陰影；(動詞) 跟蹤，尾隨",
       "example_en": "She used a soft pink eye shadow to match her pretty pastel evening dress.",
       "example_zh": "她使用柔和的粉色眼影來搭配她漂亮的粉彩晚禮服。",
       "level": "基礎生活級"
@@ -82336,7 +82336,7 @@
     },
     {
       "word": "groom",
-      "meaning_zh": "(動詞) 修飾儀容",
+      "meaning_zh": "(名詞) 新郎；馬伕；(動詞) 修飾儀容，梳理（毛髮）",
       "example_en": "He likes to groom himself carefully before going to any important social event.",
       "example_zh": "在參加任何重要社交活動前，他喜歡仔細地整理自己的儀容。",
       "level": "職場日常級"
@@ -82378,14 +82378,14 @@
     },
     {
       "word": "flat",
-      "meaning_zh": "(名詞) 平底鞋",
+      "meaning_zh": "(名詞) 平底鞋；公寓（英式）；(形容詞) 平的，扁平的",
       "example_en": "She wore black flats to walk comfortably around the city all morning today.",
       "example_zh": "她今天穿著黑色平底鞋舒服地在城裡走了一整個早上。",
       "level": "基礎生活級"
     },
     {
       "word": "pump",
-      "meaning_zh": "(名詞) 高跟鞋",
+      "meaning_zh": "(名詞) 高跟鞋；幫浦，泵；(動詞) 抽（水），打（氣）",
       "example_en": "She wore black pumps with her gray skirt to the very important office meeting.",
       "example_zh": "她穿著黑色高跟鞋配灰色短裙去參加非常重要的辦公室會議。",
       "level": "基礎生活級"
@@ -82406,7 +82406,7 @@
     },
     {
       "word": "sole",
-      "meaning_zh": "(名詞) 鞋底",
+      "meaning_zh": "(名詞) 鞋底；(形容詞) 唯一的，單獨的",
       "example_en": "The sole of his old running shoe started to peel off after the long race.",
       "example_zh": "他舊跑鞋的鞋底在長距離比賽後開始脫落。",
       "level": "基礎生活級"
@@ -82434,7 +82434,7 @@
     },
     {
       "word": "clip",
-      "meaning_zh": "(名詞) 髮夾",
+      "meaning_zh": "(名詞) 髮夾；夾子，迴紋針；短片；(動詞) 剪，夾住",
       "example_en": "She used a small black clip to keep her bangs away from her tired eyes.",
       "example_zh": "她用一個小小的黑色髮夾，把瀏海從疲倦的眼睛上撥開。",
       "level": "基礎生活級"
@@ -82497,7 +82497,7 @@
     },
     {
       "word": "build",
-      "meaning_zh": "(名詞) 體型",
+      "meaning_zh": "(名詞) 體型，身材；(動詞) 建造，建立",
       "example_en": "His friend has a strong athletic build from years of regular sports training.",
       "example_zh": "他的朋友因多年規律的運動訓練而擁有強健運動員的體型。",
       "level": "基礎生活級"
@@ -82868,7 +82868,7 @@
     },
     {
       "word": "swallow",
-      "meaning_zh": "(名詞) 燕子",
+      "meaning_zh": "(名詞) 燕子；(動詞) 吞，嚥",
       "example_en": "Many swallow birds fly low over the pond before the warm spring rain.",
       "example_zh": "許多燕子在溫暖春雨來臨前低飛掠過池塘。",
       "level": "基礎生活級"
@@ -83141,7 +83141,7 @@
     },
     {
       "word": "bark",
-      "meaning_zh": "(名詞) 樹皮",
+      "meaning_zh": "(名詞) 樹皮；(動詞) （狗）吠叫；(名詞) 吠聲",
       "example_en": "The thick brown bark of the old oak feels rough under my fingers.",
       "example_zh": "老橡樹厚厚的棕色樹皮在我手指下感覺粗糙。",
       "level": "基礎生活級"
@@ -83155,7 +83155,7 @@
     },
     {
       "word": "log",
-      "meaning_zh": "(名詞) 木頭，原木",
+      "meaning_zh": "(名詞) 木頭，原木；日誌，記錄；(動詞) 記錄",
       "example_en": "We sat on a big log near the campfire and told funny stories.",
       "example_zh": "我們坐在營火旁的大原木上，講有趣的故事。",
       "level": "基礎生活級"
@@ -83526,7 +83526,7 @@
     },
     {
       "word": "plant",
-      "meaning_zh": "(名詞/動詞) 種植，植物",
+      "meaning_zh": "(名詞) 植物；工廠；(動詞) 種植",
       "example_en": "We plant new flowers in the front yard at the start of every spring.",
       "example_zh": "我們每年春天初在前院種新的花。",
       "level": "基礎生活級"
@@ -83603,7 +83603,7 @@
     },
     {
       "word": "shed",
-      "meaning_zh": "(名詞) 小屋，工具棚",
+      "meaning_zh": "(名詞) 小屋，工具棚；(動詞) 脫落，掉（毛）；流（淚）；散發",
       "example_en": "We keep all the garden tools inside the small wooden shed near the gate.",
       "example_zh": "我們把所有園藝工具都放在門邊的小木工具棚裡。",
       "level": "基礎生活級"
@@ -83911,7 +83911,7 @@
     },
     {
       "word": "shade",
-      "meaning_zh": "(名詞) 陰涼處",
+      "meaning_zh": "(名詞) 陰涼處；色調，濃淡；遮光簾；(動詞) 遮蔽",
       "example_en": "We rested in the cool shade of a large old tree at noon.",
       "example_zh": "我們中午在一棵大老樹的涼爽陰影下休息。",
       "level": "基礎生活級"
@@ -83932,7 +83932,7 @@
     },
     {
       "word": "earth",
-      "meaning_zh": "(名詞) 泥土，土地",
+      "meaning_zh": "(名詞) 泥土，土地；地球",
       "example_en": "She dug a small hole in the soft brown earth and planted three seeds.",
       "example_zh": "她在柔軟的棕色泥土裡挖了一個小洞，種下了三顆種子。",
       "level": "基礎生活級"
@@ -84114,7 +84114,7 @@
     },
     {
       "word": "harness",
-      "meaning_zh": "(名詞) 牽繩背帶",
+      "meaning_zh": "(名詞) 牽繩背帶；(動詞) 利用，駕馭（資源、能量）",
       "example_en": "A soft harness fits the small dog better than a tight neck collar.",
       "example_zh": "柔軟的牽繩背帶比緊的項圈更適合小狗。",
       "level": "基礎生活級"
@@ -84310,7 +84310,7 @@
     },
     {
       "word": "content",
-      "meaning_zh": "(形容詞) 滿足的；心安的",
+      "meaning_zh": "(形容詞) 滿足的，心安的；(名詞) 內容，目錄",
       "example_en": "He felt content after a nice dinner with friends.",
       "example_zh": "和朋友吃完美好的晚餐後，他感到滿足。",
       "level": "基礎生活級"
@@ -84373,7 +84373,7 @@
     },
     {
       "word": "upset",
-      "meaning_zh": "(形容詞) 沮喪的；不開心的",
+      "meaning_zh": "(形容詞) 沮喪的，不開心的；(動詞) 使心煩，使不安；打翻",
       "example_en": "She was upset when her plans got cancelled on Sunday.",
       "example_zh": "當她的計畫在星期日被取消時，她很沮喪。",
       "level": "基礎生活級"
@@ -84583,7 +84583,7 @@
     },
     {
       "word": "mad",
-      "meaning_zh": "(形容詞) 生氣的",
+      "meaning_zh": "(形容詞) 生氣的；瘋狂的，發瘋的",
       "example_en": "Do not get mad at me for telling the truth.",
       "example_zh": "不要因為我說實話而生我的氣。",
       "level": "基礎生活級"
@@ -84716,7 +84716,7 @@
     },
     {
       "word": "alert",
-      "meaning_zh": "(形容詞) 警覺的；機敏的",
+      "meaning_zh": "(形容詞) 警覺的，機敏的；(名詞) 警報；(動詞) 警示，使警覺",
       "example_en": "Drivers must stay alert during long evening trips.",
       "example_zh": "在長時間的夜間行程中，駕駛必須保持警覺。",
       "level": "職場日常級"
