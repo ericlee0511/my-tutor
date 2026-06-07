@@ -392,7 +392,7 @@
     },
     {
       "word": "café",
-      "meaning_zh": "(名詞) 咖啡；咖啡館",
+      "meaning_zh": "(名詞) 咖啡；咖啡館；(形容詞) 咖啡色的、棕色的",
       "example_es": "Me gusta el café con leche caliente.",
       "example_zh": "我喜歡熱的咖啡牛奶。"
     },
@@ -1622,7 +1622,7 @@
     },
     {
       "word": "rico",
-      "meaning_zh": "(形容詞) 好吃的；美味的",
+      "meaning_zh": "(形容詞) 好吃的、美味的；富有的、有錢的",
       "example_es": "Esta comida está muy rica.",
       "example_zh": "這道菜很好吃。"
     },
@@ -2762,7 +2762,7 @@
     },
     {
       "word": "segundo",
-      "meaning_zh": "(名詞) 秒",
+      "meaning_zh": "(名詞) 秒；(形容詞/數詞) 第二的、第二",
       "example_es": "Espera un segundo, por favor.",
       "example_zh": "請等一下。"
     },
@@ -3026,7 +3026,7 @@
     },
     {
       "word": "medio",
-      "meaning_zh": "(形容詞) 一半的",
+      "meaning_zh": "(形容詞) 一半的；(陽性名詞) 手段、方法；環境（medio ambiente）；中間",
       "example_es": "Bebo medio vaso de agua.",
       "example_zh": "我喝半杯水。"
     },
@@ -3098,7 +3098,7 @@
     },
     {
       "word": "clase",
-      "meaning_zh": "(名詞) 課；教室",
+      "meaning_zh": "(名詞) 課；教室；種類、類別",
       "example_es": "Mi clase de español empieza a las nueve.",
       "example_zh": "我的西班牙語課九點開始。"
     },
@@ -3206,7 +3206,7 @@
     },
     {
       "word": "bienvenido",
-      "meaning_zh": "(形容詞) 受歡迎的",
+      "meaning_zh": "(形容詞) 受歡迎的；(感嘆詞) 歡迎！",
       "example_es": "Bienvenido a nuestra casa.",
       "example_zh": "歡迎來到我們家。"
     },
@@ -4064,7 +4064,7 @@
     },
     {
       "word": "fresco",
-      "meaning_zh": "(形容詞) 新鮮的；(陽性名詞) 壁畫、濕壁畫",
+      "meaning_zh": "(形容詞) 新鮮的；涼爽的；(陽性名詞) 壁畫、濕壁畫",
       "example_es": "El pan está fresco.",
       "example_zh": "麵包很新鮮。"
     },
@@ -4976,7 +4976,7 @@
     },
     {
       "word": "solo",
-      "meaning_zh": "(形容詞) 孤單的",
+      "meaning_zh": "(形容詞) 孤單的；單獨的、獨自的；(副詞) 只、僅",
       "example_es": "Vivo solo en la ciudad.",
       "example_zh": "我一個人住在城市。"
     },
@@ -5288,7 +5288,7 @@
     },
     {
       "word": "listo",
-      "meaning_zh": "(形容詞) 聰明的、機靈的",
+      "meaning_zh": "(形容詞) 聰明的、機靈的；準備好的（estar listo）",
       "example_es": "Mi hermano pequeño es muy listo.",
       "example_zh": "我的小弟很聰明。"
     },
@@ -5408,7 +5408,7 @@
     },
     {
       "word": "nota",
-      "meaning_zh": "(陰性名詞) 成績、分數",
+      "meaning_zh": "(陰性名詞) 成績、分數；便條、字條；筆記；(音樂) 音符",
       "example_es": "Tengo una buena nota en matemáticas.",
       "example_zh": "我的數學分數很好。"
     },
@@ -5498,7 +5498,7 @@
     },
     {
       "word": "banco",
-      "meaning_zh": "(陽性名詞) 銀行",
+      "meaning_zh": "(陽性名詞) 銀行；長椅、板凳",
       "example_es": "El banco abre a las nueve.",
       "example_zh": "銀行九點開門。"
     },
@@ -5516,7 +5516,7 @@
     },
     {
       "word": "tienda",
-      "meaning_zh": "(陰性名詞) 商店",
+      "meaning_zh": "(陰性名詞) 商店；帳篷",
       "example_es": "Esta tienda vende ropa.",
       "example_zh": "這家店賣衣服。"
     },
@@ -5678,7 +5678,7 @@
     },
     {
       "word": "billete",
-      "meaning_zh": "(陽性名詞) 車票、機票、票券",
+      "meaning_zh": "(陽性名詞) 車票、機票、票券；鈔票、紙鈔",
       "example_es": "Compro un billete de tren.",
       "example_zh": "我買一張火車票。"
     },
@@ -5858,7 +5858,7 @@
     },
     {
       "word": "cuarto",
-      "meaning_zh": "(形容詞) 第四",
+      "meaning_zh": "(形容詞) 第四；(陽性名詞) 房間；四分之一",
       "example_es": "Es la cuarta vez que vengo.",
       "example_zh": "這是我第四次來。"
     },
@@ -7264,7 +7264,7 @@
     },
     {
       "word": "planta",
-      "meaning_zh": "(名詞) 植物",
+      "meaning_zh": "(陰性名詞) 植物；(建築) 樓層",
       "example_es": "Tengo muchas plantas verdes en casa.",
       "example_zh": "我家裡有很多綠色植物。"
     },
@@ -7780,7 +7780,7 @@
     },
     {
       "word": "cola",
-      "meaning_zh": "(名詞) 排隊的隊伍",
+      "meaning_zh": "(陰性名詞) 排隊的隊伍；尾巴",
       "example_es": "Hay mucha cola para pagar en el supermercado.",
       "example_zh": "超市結帳排了很長的隊。"
     },
@@ -8068,7 +8068,7 @@
     },
     {
       "word": "mecánico",
-      "meaning_zh": "(名詞) 技工；汽車修理工",
+      "meaning_zh": "(名詞) 技工、汽車修理工；(形容詞) 機械的",
       "example_es": "El mecánico arregló mi coche en una hora.",
       "example_zh": "技工一個小時就修好了我的車。"
     },
@@ -8086,7 +8086,7 @@
     },
     {
       "word": "policía",
-      "meaning_zh": "(名詞) 警察",
+      "meaning_zh": "(名詞) 警察（人員）；(陰性名詞) 警方、警察機關",
       "example_es": "El policía me explicó cómo llegar a la estación.",
       "example_zh": "警察告訴我怎麼去車站。"
     },
@@ -8200,7 +8200,7 @@
     },
     {
       "word": "sobre",
-      "meaning_zh": "(名詞) 信封",
+      "meaning_zh": "(陽性名詞) 信封；(介系詞) 關於；在…之上",
       "example_es": "Pongo la carta dentro del sobre y la cierro.",
       "example_zh": "我把信放進信封裡然後封起來。"
     },
@@ -10054,7 +10054,7 @@
     },
     {
       "word": "pista",
-      "meaning_zh": "(名詞) 場地；跑道",
+      "meaning_zh": "(陰性名詞) 場地；跑道；線索",
       "example_es": "La pista de tenis está cerrada por la lluvia.",
       "example_zh": "網球場因為下雨關閉了。"
     },
@@ -11518,7 +11518,7 @@
     },
     {
       "word": "capital",
-      "meaning_zh": "(陰性名詞) 首都",
+      "meaning_zh": "(陰性名詞) 首都；(陽性名詞) 資金、資本",
       "example_es": "Lima es la capital de Perú.",
       "example_zh": "利馬是秘魯的首都。"
     },
@@ -11632,7 +11632,7 @@
     },
     {
       "word": "altavoz",
-      "meaning_zh": "(陽性名詞) 喇叭；揚聲器",
+      "meaning_zh": "(陽性名詞) 喇叭；揚聲器；播音員、廣播員",
       "example_es": "Pongo el altavoz para escuchar música en la fiesta.",
       "example_zh": "我打開喇叭在派對上聽音樂。"
     },
@@ -11698,7 +11698,7 @@
     },
     {
       "word": "contacto",
-      "meaning_zh": "(陽性名詞) 聯絡人",
+      "meaning_zh": "(陽性名詞) 聯絡人；接觸、聯繫；人脈",
       "example_es": "Guardé tu número en mis contactos.",
       "example_zh": "我把你的號碼存在我的聯絡人裡了。"
     },
@@ -11812,7 +11812,7 @@
     },
     {
       "word": "perfil",
-      "meaning_zh": "(陽性名詞) 個人檔案；個人簡介；側寫",
+      "meaning_zh": "(陽性名詞) 個人檔案；個人簡介；側臉、輪廓",
       "example_es": "He actualizado mi perfil con una foto nueva.",
       "example_zh": "我用新照片更新了我的個人檔案。"
     },
@@ -12184,7 +12184,7 @@
     },
     {
       "word": "sello",
-      "meaning_zh": "(陽性名詞) 印章；郵票；郵戳；印記、標誌",
+      "meaning_zh": "(陽性名詞) 印章；郵票；郵戳；唱片公司、廠牌",
       "example_es": "Necesito un sello para validar el documento.",
       "example_zh": "我需要一個印章來認證文件。"
     },
@@ -12592,7 +12592,7 @@
     },
     {
       "word": "verdad",
-      "meaning_zh": "(名詞) 真相、真實",
+      "meaning_zh": "(陰性名詞) 真相、真實；(¿verdad?) 對吧、是不是",
       "example_es": "Dime la verdad, por favor.",
       "example_zh": "請告訴我真相。"
     },
@@ -12628,7 +12628,7 @@
     },
     {
       "word": "fin",
-      "meaning_zh": "(名詞) 結束、目的",
+      "meaning_zh": "(陽性名詞) 結束、目的；(por fin) 終於",
       "example_es": "Al fin de la película todos lloraron.",
       "example_zh": "電影結尾大家都哭了。"
     },
@@ -12742,7 +12742,7 @@
     },
     {
       "word": "fondo",
-      "meaning_zh": "(名詞) 底部、深處",
+      "meaning_zh": "(陽性名詞) 底部、深處；背景；基金、資金",
       "example_es": "El baño está al fondo del pasillo.",
       "example_zh": "洗手間在走廊盡頭。"
     },
@@ -12916,7 +12916,7 @@
     },
     {
       "word": "total",
-      "meaning_zh": "(名詞) 總計；(形容詞) 總的",
+      "meaning_zh": "(陽性名詞) 總計；(形容詞) 總的、完全的；(口語) 總之、反正",
       "example_es": "En total son ciento ochenta y cinco euros.",
       "example_zh": "總共是一百八十五歐元。"
     },
@@ -13132,7 +13132,7 @@
     },
     {
       "word": "orden",
-      "meaning_zh": "(名詞) 順序、命令、秩序",
+      "meaning_zh": "(陽性名詞) 順序、秩序；(陰性名詞) 命令、訂單",
       "example_es": "Aquí tiene las dos, espero que esté todo en orden.",
       "example_zh": "兩份在這裡，希望一切都正確。"
     },
@@ -13198,7 +13198,7 @@
     },
     {
       "word": "fuerza",
-      "meaning_zh": "(名詞) 力量；力氣",
+      "meaning_zh": "(陰性名詞) 力量；力氣；(a la fuerza) 強迫地、不得不",
       "example_es": "Ese símbolo adquiere una fuerza política.",
       "example_zh": "那個符號獲得了一種政治力量。"
     },
@@ -13222,7 +13222,7 @@
     },
     {
       "word": "gana",
-      "meaning_zh": "(名詞) 想要；意願；食慾",
+      "meaning_zh": "(陰性名詞) 想要、意願；食慾；(de buena/mala gana) 心甘情願／不情願",
       "example_es": "No tengo ganas de cocinar hoy.",
       "example_zh": "我今天不想做飯。"
     },
@@ -13516,7 +13516,7 @@
     },
     {
       "word": "interesado",
-      "meaning_zh": "(形容詞) 感興趣的",
+      "meaning_zh": "(形容詞) 感興趣的；自私的、有私心的",
       "example_es": "Estoy muy interesado en aprender a cocinar.",
       "example_zh": "我對學做菜非常有興趣。"
     },
@@ -13534,7 +13534,7 @@
     },
     {
       "word": "club",
-      "meaning_zh": "(陽性名詞) 俱樂部",
+      "meaning_zh": "(陽性名詞) 俱樂部；球隊、球會",
       "example_es": "Me apunté a un club de lectura los jueves.",
       "example_zh": "我報名參加了週四的讀書俱樂部。"
     },
@@ -13570,7 +13570,7 @@
     },
     {
       "word": "manga",
-      "meaning_zh": "(陰性名詞) 袖子",
+      "meaning_zh": "(陰性名詞) 袖子；(陽性名詞) 日本漫畫",
       "example_es": "Prefiero las camisas de manga corta en verano.",
       "example_zh": "夏天我比較喜歡短袖襯衫。"
     },
@@ -14028,7 +14028,7 @@
     },
     {
       "word": "director",
-      "meaning_zh": "(名詞) 主任；負責人",
+      "meaning_zh": "(名詞) 主任；負責人；導演",
       "example_es": "El director de marketing presentó una nueva estrategia el viernes.",
       "example_zh": "行銷主任星期五提出了新的策略。"
     },
@@ -14232,7 +14232,7 @@
     },
     {
       "word": "carrera",
-      "meaning_zh": "(名詞) 大學科系；事業",
+      "meaning_zh": "(名詞) 大學科系；事業；賽跑、競賽",
       "example_es": "Estudió la carrera de medicina durante seis años intensos.",
       "example_zh": "她讀了六年艱辛的醫學系。"
     },
@@ -14400,7 +14400,7 @@
     },
     {
       "word": "cita",
-      "meaning_zh": "(名詞) 預約；約會",
+      "meaning_zh": "(名詞) 預約；約會；引用、引述",
       "example_es": "Tengo cita con el oftalmólogo el jueves por la mañana.",
       "example_zh": "我星期四早上和眼科醫生有預約。"
     },
@@ -15270,7 +15270,7 @@
     },
     {
       "word": "canal",
-      "meaning_zh": "(名詞) 頻道",
+      "meaning_zh": "(名詞) 頻道；運河、水道",
       "example_es": "En este canal ponen series extranjeras por las noches.",
       "example_zh": "這個頻道晚上會播放外國影集。"
     },
@@ -15312,7 +15312,7 @@
     },
     {
       "word": "diario",
-      "meaning_zh": "(名詞) 日報；日記",
+      "meaning_zh": "(名詞) 日報；日記；(形容詞) 每日的",
       "example_es": "Mi padre lee el diario en el café cada mañana.",
       "example_zh": "我父親每天早上都在咖啡店看日報。"
     },
@@ -15384,7 +15384,7 @@
     },
     {
       "word": "derecho",
-      "meaning_zh": "(名詞) 權利；法律",
+      "meaning_zh": "(名詞) 權利；法律；(形容詞/副詞) 直的、筆直地",
       "example_es": "La educación es un derecho básico de todos los niños.",
       "example_zh": "教育是所有兒童的基本權利。"
     },
@@ -16062,7 +16062,7 @@
     },
     {
       "word": "público",
-      "meaning_zh": "(名詞) 觀眾；大眾",
+      "meaning_zh": "(名詞) 觀眾；大眾；(形容詞) 公共的、公開的",
       "example_es": "El público aplaudió durante varios minutos al terminar la última actuación.",
       "example_zh": "最後一場演出結束時，觀眾鼓掌了好幾分鐘。"
     },
@@ -16632,7 +16632,7 @@
     },
     {
       "word": "pena",
-      "meaning_zh": "(名詞) 悲傷、可惜",
+      "meaning_zh": "(陰性名詞) 悲傷；可惜；刑罰、懲罰",
       "example_es": "Me da mucha pena ver a mi abuela tan triste.",
       "example_zh": "看到祖母這麼難過讓我很心痛。"
     },
@@ -18378,7 +18378,7 @@
     },
     {
       "word": "acta",
-      "meaning_zh": "(陰性名詞) 會議記錄",
+      "meaning_zh": "(陰性名詞) 會議記錄；證明文件、證書",
       "example_es": "Escribí el acta de la reunión de ayer.",
       "example_zh": "我寫了昨天會議的記錄。"
     },
@@ -19248,13 +19248,13 @@
     },
     {
       "word": "variable",
-      "meaning_zh": "(陰性名詞) 變項；變數",
+      "meaning_zh": "(陰性名詞) 變項；變數；(形容詞) 易變的；多變的；可變的",
       "example_es": "Esta variable influye en el resultado final.",
       "example_zh": "這個變項影響最終結果。"
     },
     {
       "word": "gráfico",
-      "meaning_zh": "(陽性名詞) 圖表",
+      "meaning_zh": "(陽性名詞) 圖表；(形容詞) 圖像的；生動的；露骨的",
       "example_es": "El gráfico muestra el aumento de matrículas.",
       "example_zh": "這個圖表顯示註冊人數的增加。"
     },
@@ -19560,7 +19560,7 @@
     },
     {
       "word": "manual",
-      "meaning_zh": "(陽性名詞) 手冊;教材手冊",
+      "meaning_zh": "(陽性名詞) 手冊；教材手冊；(形容詞) 手動的；手工的",
       "example_es": "Compré el manual recomendado por el profesor.",
       "example_zh": "我買了老師推薦的手冊。"
     },
@@ -20574,7 +20574,7 @@
     },
     {
       "word": "resistencia",
-      "meaning_zh": "(名詞) 耐力",
+      "meaning_zh": "(陰性名詞) 耐力；抵抗；阻力；電阻",
       "example_es": "Mejora su resistencia corriendo cada día.",
       "example_zh": "她每天跑步以提升耐力。"
     },
@@ -20646,7 +20646,7 @@
     },
     {
       "word": "mineral",
-      "meaning_zh": "(名詞) 礦物質",
+      "meaning_zh": "(陽性名詞) 礦物質；(形容詞) 礦物的",
       "example_es": "Las verduras aportan minerales esenciales.",
       "example_zh": "蔬菜能提供必需的礦物質。"
     },
@@ -20916,7 +20916,7 @@
     },
     {
       "word": "vuelta",
-      "meaning_zh": "(名詞) 環遊；返程",
+      "meaning_zh": "(陰性名詞) 環遊；返程；轉彎；圈；找零",
       "example_es": "Soñamos con dar la vuelta al mundo en velero.",
       "example_zh": "我們夢想坐帆船環遊世界。"
     },
@@ -21000,7 +21000,7 @@
     },
     {
       "word": "registro",
-      "meaning_zh": "(名詞) 入住登記",
+      "meaning_zh": "(陽性名詞) 入住登記；登記；紀錄；登記簿",
       "example_es": "El registro se realiza a partir de las tres de la tarde.",
       "example_zh": "下午三點起辦理入住登記。"
     },
@@ -21348,7 +21348,7 @@
     },
     {
       "word": "acento",
-      "meaning_zh": "(名詞) 口音",
+      "meaning_zh": "(陽性名詞) 口音；重音；重音符號",
       "example_es": "Es difícil perder el acento de tu lengua materna.",
       "example_zh": "很難消除母語的口音。"
     },
@@ -21438,7 +21438,7 @@
     },
     {
       "word": "potencia",
-      "meaning_zh": "(名詞) 強國",
+      "meaning_zh": "(陰性名詞) 強國；功率；power（電力）；力量",
       "example_es": "China se ha convertido en una potencia económica.",
       "example_zh": "中國已成為一個經濟強國。"
     },
@@ -21450,7 +21450,7 @@
     },
     {
       "word": "cumbre",
-      "meaning_zh": "(名詞) 高峰會",
+      "meaning_zh": "(陰性名詞) 高峰會；山頂；頂峰；巔峰",
       "example_es": "La cumbre sobre el clima se celebra en Madrid.",
       "example_zh": "氣候高峰會在馬德里舉行。"
     },
@@ -21690,7 +21690,7 @@
     },
     {
       "word": "girasol",
-      "meaning_zh": "(陽性名詞) 葵花（油用）",
+      "meaning_zh": "(陽性名詞) 向日葵；葵花（油用）",
       "example_es": "Frío las patatas con aceite de girasol.",
       "example_zh": "我用葵花油炸馬鈴薯。"
     },
@@ -21798,7 +21798,7 @@
     },
     {
       "word": "lima",
-      "meaning_zh": "(陰性名詞) 萊姆",
+      "meaning_zh": "(陰性名詞) 萊姆；銼刀",
       "example_es": "El mojito se prepara con lima y menta.",
       "example_zh": "莫吉托是用萊姆和薄荷調製的。"
     },
@@ -21906,7 +21906,7 @@
     },
     {
       "word": "procesador",
-      "meaning_zh": "(陽性名詞) 食物處理機",
+      "meaning_zh": "(陽性名詞) 食物處理機；(電腦)處理器",
       "example_es": "El procesador de alimentos pica las verduras muy fino.",
       "example_zh": "食物處理機可以把蔬菜切得很細。"
     },
@@ -21972,7 +21972,7 @@
     },
     {
       "word": "suave",
-      "meaning_zh": "(形容詞) 滑順的",
+      "meaning_zh": "(形容詞) 滑順的；柔軟的；溫和的、輕柔的",
       "example_es": "La crema tiene una textura muy suave.",
       "example_zh": "這道濃湯口感非常滑順。"
     },
@@ -22074,7 +22074,7 @@
     },
     {
       "word": "servicio",
-      "meaning_zh": "(陽性名詞) 服務",
+      "meaning_zh": "(陽性名詞) 服務；廁所、洗手間",
       "example_es": "El servicio del restaurante fue excelente.",
       "example_zh": "那家餐廳的服務很棒。"
     },
@@ -22524,7 +22524,7 @@
     },
     {
       "word": "cable",
-      "meaning_zh": "(陽性名詞) 連接線",
+      "meaning_zh": "(陽性名詞) 連接線；纜繩、電纜",
       "example_es": "Se me rompió el cable del cargador del móvil.",
       "example_zh": "我手機充電線的線材壞了。"
     },
@@ -22662,7 +22662,7 @@
     },
     {
       "word": "directo",
-      "meaning_zh": "(陽性名詞) 直播",
+      "meaning_zh": "(陽性名詞) 直播；(形容詞) 直接的；(交通)直達的",
       "example_es": "Esta noche voy a hacer un directo en redes.",
       "example_zh": "今晚我會在社群上開直播。"
     },
@@ -23028,7 +23028,7 @@
     },
     {
       "word": "carga",
-      "meaning_zh": "(陰性名詞) 上傳",
+      "meaning_zh": "(陰性名詞) 上傳；負載、裝載；貨物；負擔",
       "example_es": "La carga del vídeo está al setenta por ciento.",
       "example_zh": "影片上傳進度到了百分之七十。"
     },
@@ -23526,7 +23526,7 @@
     },
     {
       "word": "régimen",
-      "meaning_zh": "(陽性名詞) 政權、體制",
+      "meaning_zh": "(陽性名詞) 政權、體制；(飲食)規律、飲食療法",
       "example_es": "El régimen actual respeta las libertades individuales.",
       "example_zh": "現行體制尊重個人自由。"
     },
@@ -23688,7 +23688,7 @@
     },
     {
       "word": "circular",
-      "meaning_zh": "(動詞) 流通、傳播",
+      "meaning_zh": "(動詞) 流通、傳播；(形容詞) 圓形的；(陰性名詞) 通告、通函",
       "example_es": "Esa noticia falsa circuló rápidamente por las redes.",
       "example_zh": "那則假新聞在網路上迅速傳播。"
     },
@@ -23922,7 +23922,7 @@
     },
     {
       "word": "militar",
-      "meaning_zh": "(形容詞) 軍事的",
+      "meaning_zh": "(形容詞) 軍事的；(陽性名詞/陰性名詞) 軍人",
       "example_es": "El servicio militar es obligatorio en algunos países.",
       "example_zh": "兵役在某些國家是強制性的。"
     },
@@ -23958,7 +23958,7 @@
     },
     {
       "word": "defensa",
-      "meaning_zh": "(陰性名詞) 辯護",
+      "meaning_zh": "(陰性名詞) 辯護；防禦、防守；國防",
       "example_es": "La defensa pidió la absolución del acusado.",
       "example_zh": "辯護方要求宣判被告無罪。"
     },
@@ -24264,7 +24264,7 @@
     },
     {
       "word": "columna",
-      "meaning_zh": "(陰性名詞) 專欄",
+      "meaning_zh": "(陰性名詞) 專欄；柱子；(表格)欄；脊柱",
       "example_es": "Escribe una columna semanal en un diario nacional.",
       "example_zh": "他每週在全國性報紙上寫一個專欄。"
     },
@@ -24276,7 +24276,7 @@
     },
     {
       "word": "editorial",
-      "meaning_zh": "(陽性名詞) 社論",
+      "meaning_zh": "(陽性名詞) 社論；(陰性名詞) 出版社",
       "example_es": "El editorial de hoy habla de las elecciones.",
       "example_zh": "今天的社論在談選舉。"
     },
@@ -24486,7 +24486,7 @@
     },
     {
       "word": "embargo",
-      "meaning_zh": "(陽性名詞) 禁運；查封、扣押",
+      "meaning_zh": "(陽性名詞) 禁運；查封、扣押；（sin embargo）然而、不過",
       "example_es": "El embargo afectó gravemente a la economía del país.",
       "example_zh": "禁運嚴重影響了該國的經濟。"
     },
@@ -24582,7 +24582,7 @@
     },
     {
       "word": "paleta",
-      "meaning_zh": "(名詞) 調色盤；色調",
+      "meaning_zh": "(陰性名詞) 調色盤；色調；（料理）抹刀、鏟",
       "example_es": "El pintor mezcla los colores en su paleta de madera.",
       "example_zh": "畫家在他的木製調色盤上混合顏色。"
     },
@@ -25362,7 +25362,7 @@
     },
     {
       "word": "fan",
-      "meaning_zh": "(名詞) 粉絲",
+      "meaning_zh": "(陽性名詞/陰性名詞) 粉絲；(陽性名詞) 風扇、電風扇",
       "example_es": "Soy fan de este grupo desde hace diez años.",
       "example_zh": "我十年來都是這個樂團的粉絲。"
     },
@@ -25398,7 +25398,7 @@
     },
     {
       "word": "modelo",
-      "meaning_zh": "(名詞) 模特兒；型號；模型；典範",
+      "meaning_zh": "(通性名詞) 模特兒；(陽性名詞) 型號、模型、款式；典範、榜樣",
       "example_es": "La modelo posó para varios fotógrafos.",
       "example_zh": "這位模特兒為多位攝影師擺姿勢拍照。"
     },
@@ -25896,7 +25896,7 @@
     },
     {
       "word": "presa",
-      "meaning_zh": "(陰性名詞) 獵物",
+      "meaning_zh": "(陰性名詞) 獵物；水壩、堤壩",
       "example_es": "El lobo persigue a su presa por el bosque.",
       "example_zh": "狼在森林裡追捕牠的獵物。"
     },
@@ -26166,7 +26166,7 @@
     },
     {
       "word": "central",
-      "meaning_zh": "(陰性名詞) 發電廠",
+      "meaning_zh": "(陰性名詞) 發電廠；總部、總行；(形容詞) 中央的、核心的、主要的",
       "example_es": "La central nuclear genera mucha controversia.",
       "example_zh": "核電廠引發很大爭議。"
     },
@@ -26370,7 +26370,7 @@
     },
     {
       "word": "corriente",
-      "meaning_zh": "(陰性名詞) 洋流、水流",
+      "meaning_zh": "(陰性名詞) 洋流、水流；電流；(形容詞) 普通的、一般的、現行的",
       "example_es": "La corriente marina influye en el clima.",
       "example_zh": "海流會影響氣候。"
     },
@@ -27336,7 +27336,7 @@
     },
     {
       "word": "falta",
-      "meaning_zh": "(名詞) 缺少、缺乏",
+      "meaning_zh": "(陰性名詞) 缺少、缺乏；過失、錯誤；(運動)犯規",
       "example_es": "Hay falta de personal en la empresa.",
       "example_zh": "公司缺乏人手。"
     },
@@ -27390,7 +27390,7 @@
     },
     {
       "word": "sentido",
-      "meaning_zh": "(名詞) 意義、感覺",
+      "meaning_zh": "(陽性名詞) 意義、感覺；方向",
       "example_es": "Esta frase no tiene sentido.",
       "example_zh": "這句話沒有意義。"
     },
@@ -27402,7 +27402,7 @@
     },
     {
       "word": "menudo",
-      "meaning_zh": "(片語) a menudo 經常、時常",
+      "meaning_zh": "(片語) a menudo 經常、時常；(形容詞) menudo 細小的、瑣碎的",
       "example_es": "A menudo voy al cine los sábados.",
       "example_zh": "我週六常常去看電影。"
     },
@@ -27858,7 +27858,7 @@
     },
     {
       "word": "pieza",
-      "meaning_zh": "(名詞) 一件、零件、樂曲",
+      "meaning_zh": "(陰性名詞) 一件、零件、樂曲；房間",
       "example_es": "Es una pieza sencilla pero llena de emoción.",
       "example_zh": "這是一首簡單卻充滿情感的樂曲。"
     },
@@ -30042,7 +30042,7 @@
     },
     {
       "word": "borde",
-      "meaning_zh": "(陽性名詞) 邊緣；邊",
+      "meaning_zh": "(陽性名詞/形容詞) 邊緣；邊；（口語形容詞）沒禮貌的、粗魯的",
       "example_es": "No dejes el vaso en el borde de la mesa.",
       "example_zh": "別把杯子放在桌子邊緣。"
     },
@@ -30150,7 +30150,7 @@
     },
     {
       "word": "físico",
-      "meaning_zh": "(形容詞/陽性名詞) 身體的；物理的；實體的；物理學家",
+      "meaning_zh": "(形容詞/陽性名詞) 身體的；物理的；實體的；物理學家；體格、外貌",
       "example_es": "Prefiero comprar el libro en formato físico.",
       "example_zh": "我比較喜歡買實體書。"
     },
@@ -32864,7 +32864,7 @@
     },
     {
       "word": "margen",
-      "meaning_zh": "(名詞) 利潤；邊際",
+      "meaning_zh": "(陽性名詞) 利潤；邊際；(陽性名詞) 邊緣、頁邊空白",
       "example_es": "El margen de beneficio de este producto es bastante reducido este año.",
       "example_zh": "這個產品今年的利潤空間相當有限。"
     },
@@ -34304,7 +34304,7 @@
     },
     {
       "word": "constante",
-      "meaning_zh": "(形容詞) 持之以恆的；穩定的",
+      "meaning_zh": "(形容詞) 持之以恆的；穩定的；(陰性名詞) 常數",
       "example_es": "Es un estudiante constante que mejora cada trimestre.",
       "example_zh": "她是一位持之以恆的學生，每學期都在進步。"
     },
@@ -36602,7 +36602,7 @@
     },
     {
       "word": "lobby",
-      "meaning_zh": "(陽性名詞) 遊說團體",
+      "meaning_zh": "(陽性名詞) 遊說團體；(飯店、劇院)大廳、門廳",
       "example_es": "El lobby farmacéutico ejerce una influencia considerable sobre la legislación sanitaria.",
       "example_zh": "製藥業遊說團體對衛生立法具有相當大的影響力。"
     },
@@ -36788,7 +36788,7 @@
     },
     {
       "word": "solvente",
-      "meaning_zh": "(名詞) 溶劑",
+      "meaning_zh": "(陽性名詞) 溶劑；(形容詞) 有償付能力的、有清償能力的",
       "example_es": "El agua es el solvente universal en química.",
       "example_zh": "水是化學中的通用溶劑。"
     },
@@ -37334,7 +37334,7 @@
     },
     {
       "word": "cometa",
-      "meaning_zh": "(名詞) 彗星",
+      "meaning_zh": "(陽性名詞) 彗星；(陰性名詞 la cometa) 風箏",
       "example_es": "El cometa Halley regresa cada setenta y seis años.",
       "example_zh": "哈雷彗星每七十六年回歸一次。"
     },
@@ -37946,7 +37946,7 @@
     },
     {
       "word": "vanguardia",
-      "meaning_zh": "(陰性名詞) 前衛藝術",
+      "meaning_zh": "(陰性名詞) 前衛藝術；前鋒、先鋒（走在最前面者）",
       "example_es": "Las vanguardias del siglo XX rompieron con la tradición académica.",
       "example_zh": "二十世紀的前衛藝術打破了學院傳統。"
     },
@@ -38036,7 +38036,7 @@
     },
     {
       "word": "composición",
-      "meaning_zh": "(陰性名詞) 構圖",
+      "meaning_zh": "(陰性名詞) 構圖；組成、構成；作文；作曲（樂曲）",
       "example_es": "Una composición equilibrada dirige la mirada del espectador.",
       "example_zh": "平衡的構圖能引導觀者的視線。"
     },
@@ -38060,7 +38060,7 @@
     },
     {
       "word": "soporte",
-      "meaning_zh": "(陽性名詞) 畫材底材",
+      "meaning_zh": "(陽性名詞) 畫材底材；支撐、支架；支持；載體、媒介",
       "example_es": "El soporte de lino es preferido por su durabilidad.",
       "example_zh": "亞麻底材因耐久性受到青睞。"
     },
@@ -38732,7 +38732,7 @@
     },
     {
       "word": "mestizaje",
-      "meaning_zh": "(陽性名詞) 文化混血",
+      "meaning_zh": "(陽性名詞) 文化混血；（種族）混血、混血人口",
       "example_es": "El mestizaje cultural se aprecia en la música popular caribeña.",
       "example_zh": "文化混血在加勒比流行音樂中清晰可見。"
     },
@@ -39254,7 +39254,7 @@
     },
     {
       "word": "remesa",
-      "meaning_zh": "(陰性名詞) 海外匯款",
+      "meaning_zh": "(陰性名詞) 海外匯款；一批（貨物）、批次",
       "example_es": "La remesa familiar sostiene la economía de muchos pueblos.",
       "example_zh": "海外匯款支撐著許多村莊的經濟。"
     },
@@ -39458,7 +39458,7 @@
     },
     {
       "word": "paridad",
-      "meaning_zh": "(陰性名詞) 男女平等比例",
+      "meaning_zh": "(陰性名詞) 男女平等比例；對等、同等；平價",
       "example_es": "Las nuevas listas electorales respetan la paridad.",
       "example_zh": "新的選舉名單遵守男女平等比例的原則。"
     },
@@ -41372,7 +41372,7 @@
     },
     {
       "word": "inconsciente",
-      "meaning_zh": "(陽性名詞) 潛意識",
+      "meaning_zh": "(陽性名詞) 潛意識；(形容詞) 無意識的、不省人事的、失去知覺的",
       "example_es": "Freud sostenía que el inconsciente guía gran parte de la conducta.",
       "example_zh": "佛洛伊德認為潛意識主導大部分行為。"
     },
@@ -42416,7 +42416,7 @@
     },
     {
       "word": "conllevar",
-      "meaning_zh": "(動詞) 帶來、伴隨而來",
+      "meaning_zh": "(動詞) 帶來、伴隨而來；招致、需承擔（後果、刑罰）",
       "example_es": "Cualquier cambio importante conlleva ciertos riesgos.",
       "example_zh": "任何重大變革都會伴隨一定的風險。"
     },
@@ -42686,7 +42686,7 @@
     },
     {
       "word": "poseer",
-      "meaning_zh": "(動詞) 擁有、佔有",
+      "meaning_zh": "(動詞) 擁有、具備；佔有",
       "example_es": "El duelo posee mapas y fronteras invisibles.",
       "example_zh": "哀悼擁有自己的地圖與看不見的邊界。"
     },
@@ -42872,7 +42872,7 @@
     },
     {
       "word": "apostar",
-      "meaning_zh": "(動詞) 押注；支持",
+      "meaning_zh": "(動詞) 押注、下注；支持、看好、投入（apostar por）",
       "example_es": "Algunos directivos apuestan por la flexibilidad.",
       "example_zh": "一些主管支持彈性制度。"
     },
@@ -43010,7 +43010,7 @@
     },
     {
       "word": "franja",
-      "meaning_zh": "(名詞) 時段；條帶",
+      "meaning_zh": "(陰性名詞) 時段；條帶、帶狀物（如布條、地帶）",
       "example_es": "Le doy cita en franja de mañana.",
       "example_zh": "我幫您約上午的時段。"
     },
@@ -45082,7 +45082,7 @@
     },
     {
       "word": "rezar",
-      "meaning_zh": "(動詞) 寫著；陳述（正式文本）",
+      "meaning_zh": "(動詞) 祈禱；禱告；（正式文本）寫著、陳述",
       "example_es": "El reglamento reza que ningún funcionario podrá aceptar dádivas.",
       "example_zh": "規定明文寫著公務員不得收受饋贈。"
     },
@@ -46654,7 +46654,7 @@
     },
     {
       "word": "escollo",
-      "meaning_zh": "(陽性名詞) 障礙；難關",
+      "meaning_zh": "(陽性名詞) 障礙；難關；暗礁",
       "example_es": "El principal escollo del acuerdo es la financiación de las medidas propuestas.",
       "example_zh": "該協議的主要障礙是所提措施的財源問題。"
     },
@@ -46960,7 +46960,7 @@
     },
     {
       "word": "giro",
-      "meaning_zh": "(陽性名詞) 轉折；轉向（學術/政治用法）",
+      "meaning_zh": "(陽性名詞) 轉折；轉向（學術/政治用法）；匯款；匯票",
       "example_es": "La política exterior dio un giro inesperado tras las elecciones generales.",
       "example_zh": "大選後外交政策出現意料之外的轉向。"
     },
@@ -47008,7 +47008,7 @@
     },
     {
       "word": "caudal",
-      "meaning_zh": "(陽性名詞) 豐富累積；資源量",
+      "meaning_zh": "(陽性名詞) 豐富累積；資源量；（河川）流量、水量",
       "example_es": "Posee un caudal de conocimientos técnicos difícilmente igualable en el sector.",
       "example_zh": "他在業界擁有難以匹敵的技術知識累積。"
     },
@@ -47056,7 +47056,7 @@
     },
     {
       "word": "calar",
-      "meaning_zh": "(動詞) 深入；滲透（思想/觀念）",
+      "meaning_zh": "(動詞) 深入；滲透（思想/觀念）；看穿（某人）；浸濕、淋濕",
       "example_es": "Su mensaje calado hondamente entre los sectores juveniles más críticos.",
       "example_zh": "他的訊息在最具批判性的青年群體中深入人心。"
     },
@@ -48652,7 +48652,7 @@
     },
     {
       "word": "fallar",
-      "meaning_zh": "(動詞) 判決；失敗",
+      "meaning_zh": "(動詞) 判決；失敗；故障；（記憶、機器等）失靈",
       "example_es": "El tribunal falló a favor del demandante tras analizar todas las pruebas aportadas.",
       "example_zh": "法院在分析了所有提交的證據後判決原告勝訴。"
     },
@@ -49150,7 +49150,7 @@
     },
     {
       "word": "alternar",
-      "meaning_zh": "(動詞) 交替；輪流",
+      "meaning_zh": "(動詞) 交替；輪流；（與人）交際往來",
       "example_es": "Los investigadores deben alternar trabajo de campo con análisis exhaustivo de los datos recogidos.",
       "example_zh": "研究人員必須交替進行田野工作和對收集數據的詳盡分析。"
     },
@@ -49456,7 +49456,7 @@
     },
     {
       "word": "paliativos",
-      "meaning_zh": "(名詞) 安寧療護",
+      "meaning_zh": "(名詞) 安寧療護；緩和（治標）措施、權宜之計",
       "example_es": "Los cuidados paliativos pretenden aliviar el sufrimiento del enfermo terminal.",
       "example_zh": "安寧療護旨在減輕末期病人的痛苦。"
     },
@@ -50590,7 +50590,7 @@
     },
     {
       "word": "brusco",
-      "meaning_zh": "(形容詞) 粗魯的；唐突的",
+      "meaning_zh": "(形容詞) 粗魯的；唐突的；（動作或變化）急遽的、陡然的",
       "example_es": "Su tono brusco durante la entrevista incomodó al periodista que lo interrogaba.",
       "example_zh": "他在訪談中的粗魯語氣讓詢問他的記者感到不安。"
     },
@@ -50626,7 +50626,7 @@
     },
     {
       "word": "devenir",
-      "meaning_zh": "(動詞) 變成；演變",
+      "meaning_zh": "(動詞) 變成；演變；(陽性名詞) 演變過程、發展歷程",
       "example_es": "Aquel pequeño taller terminó por devenir en una empresa multinacional de gran prestigio.",
       "example_zh": "那家小工作坊最終演變為一家享有盛譽的跨國企業。"
     },
@@ -50866,7 +50866,7 @@
     },
     {
       "word": "porte",
-      "meaning_zh": "(名詞) 儀表；風度",
+      "meaning_zh": "(陽性名詞) 儀表；風度；運費、搬運費",
       "example_es": "El porte aristocrático del anciano contrastaba con la sencillez de su vivienda actual.",
       "example_zh": "老人貴族般的儀表與他目前住所的樸素形成鮮明對比。"
     },
@@ -52708,7 +52708,7 @@
     },
     {
       "word": "doliente",
-      "meaning_zh": "(形容詞/名詞) 哀痛的；居喪的人",
+      "meaning_zh": "(形容詞) 哀痛的；(名詞) 居喪的人、家屬；病人、患者",
       "example_es": "El doliente recibió el apoyo de toda su familia.",
       "example_zh": "這位居喪者得到了全家人的支持。"
     },
@@ -54138,7 +54138,7 @@
     },
     {
       "word": "pesar",
-      "meaning_zh": "(名詞) 悲傷；遺憾；哀痛",
+      "meaning_zh": "(名詞) 悲傷；遺憾；哀痛；(動詞) 稱重；秤量；有…重量；使後悔",
       "example_es": "Le manifestó su más sincero pesar por la irreparable pérdida sufrida.",
       "example_zh": "他向他表達了對這無可彌補損失最誠摯的哀痛。"
     },
@@ -54720,7 +54720,7 @@
     },
     {
       "word": "apetecer",
-      "meaning_zh": "(動詞) 渴望；嚮往",
+      "meaning_zh": "(動詞) 渴望；嚮往；想要（做某事）；（食物等）合胃口、想吃",
       "example_es": "Apetecía un retiro tranquilo lejos del bullicio incesante de la urbe.",
       "example_zh": "他嚮往遠離都市不息喧囂的寧靜隱居。"
     },
@@ -55398,7 +55398,7 @@
     },
     {
       "word": "agudo",
-      "meaning_zh": "(形容詞) 急性的；劇烈的",
+      "meaning_zh": "(形容詞) 急性的；劇烈的；尖銳的；（感官、頭腦）敏銳的；（聲音）尖高的；（角）銳角的",
       "example_es": "Un dolor abdominal agudo en la fosa ilíaca derecha sugiere una apendicitis quirúrgica inminente.",
       "example_zh": "右髂窩急性腹痛提示須立即手術的闌尾炎。"
     },
@@ -57258,7 +57258,7 @@
     },
     {
       "word": "embargar",
-      "meaning_zh": "(動詞) 籠罩、深深感染（情感）",
+      "meaning_zh": "(動詞) 籠罩、深深感染（情感）；查封、扣押（財產）",
       "example_es": "Una emoción honda lo embargó al contemplar el lienzo postrero del maestro.",
       "example_zh": "凝視大師最後的畫作時，一種深沉的情感籠罩了他。"
     },
@@ -57402,7 +57402,7 @@
     },
     {
       "word": "gravedad",
-      "meaning_zh": "(名詞) 莊重、嚴肅（語氣、舉止）",
+      "meaning_zh": "(名詞) 莊重、嚴肅（語氣、舉止）；重力；嚴重性",
       "example_es": "Habló con la gravedad propia de quien anuncia una desgracia inminente.",
       "example_zh": "他以宣告即將到來不幸者該有的莊重口吻說話。"
     },
@@ -57912,7 +57912,7 @@
     },
     {
       "word": "diligencia",
-      "meaning_zh": "(名詞) 勤勉、勤奮",
+      "meaning_zh": "(名詞) 勤勉、勤奮；（行政、司法）手續、調查程序",
       "example_es": "Procedió con diligencia ejemplar a la resolución del asunto urgente.",
       "example_zh": "他以模範的勤勉處理了那件緊急事務。"
     },
@@ -59550,7 +59550,7 @@
     },
     {
       "word": "fetiche",
-      "meaning_zh": "(陽性名詞) 陽性名詞｜物神迷信物",
+      "meaning_zh": "(陽性名詞) 物神迷信物；癖好物、戀物癖對象",
       "example_es": "El antropólogo describió cómo el fetiche encarnaba la mediación entre los vivos y las potencias ctónicas.",
       "example_zh": "人類學家描述該物神如何體現生者與地府力量之間的中介。"
     },
@@ -59688,7 +59688,7 @@
     },
     {
       "word": "tirano",
-      "meaning_zh": "(陽性名詞) 陽性名詞｜暴君獨裁者",
+      "meaning_zh": "(陽性名詞/陰性名詞) 暴君獨裁者；(形容詞) 暴虐專橫的",
       "example_es": "El tirano cayó víctima de las propias artimañas que había prodigado para perpetuarse en el poder.",
       "example_zh": "暴君死於他為永攬大權而濫用的詭計。"
     },
@@ -59928,7 +59928,7 @@
     },
     {
       "word": "cortejo",
-      "meaning_zh": "(陽性名詞) 陽性名詞｜送葬隊伍隨從",
+      "meaning_zh": "(陽性名詞) 送葬隊伍隨從；求愛、追求",
       "example_es": "El cortejo fúnebre atravesó la villa con paso pausado bajo el tañido grave de las campanas conventuales.",
       "example_zh": "送葬隊伍在修道院鐘聲低沉的迴響下緩步穿越小城。"
     },
@@ -60888,7 +60888,7 @@
     },
     {
       "word": "limbo",
-      "meaning_zh": "(陽性名詞) 邊緣境地；介於兩界之間的懸置狀態",
+      "meaning_zh": "(陽性名詞) 靈薄獄(地獄邊緣)；邊緣境地、懸置狀態",
       "example_es": "El expediente quedó en un limbo administrativo durante años.",
       "example_zh": "該卷宗於行政邊緣境地中懸置多年。"
     },
@@ -62400,7 +62400,7 @@
     },
     {
       "word": "imperativo",
-      "meaning_zh": "(陽性名詞/形容詞) 當務之急；命令的",
+      "meaning_zh": "(陽性名詞/形容詞) 當務之急；（語法）命令式、祈使語氣；命令的、強制的",
       "example_es": "Ahorrar agua es un imperativo hoy en día.",
       "example_zh": "節約用水是當今的當務之急。"
     },
