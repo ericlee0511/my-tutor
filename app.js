@@ -2658,7 +2658,8 @@ function srsHandleClick(e) {
 
 // 卡牌 popup 兩個分頁：'study'=字卡(到該級別單字頁) / 'review'=複習(SRS)。預設開在「字卡」。
 let cardPickerTab = "study";
-// 牌組(set:lv) → 單字頁級別(右上角級別選單的值)。TOEIC/GEPT 無子級別，皆對應單一 toeic/gept。
+// 牌組(set:lv) → 單字頁級別(右上角級別選單的值)。TOEIC/GEPT 對應單一 toeic/gept，
+// 其子級別(基礎生活級/初級…)另存於 state.toeicSubLevel / state.geptSubLevel。
 function deckToLevel(deck) {
   const [set, lv] = deck.split(":");
   if (set === "toeic") return "toeic";
@@ -2913,7 +2914,13 @@ window.addEventListener("DOMContentLoaded", async () => {
     if (cardPickerTab === "review") {
       srsStartDeck(btn.dataset.deck);            // 複習 → 該級別 SRS 字卡複習
     } else {
-      setLevel(deckToLevel(btn.dataset.deck));    // 字卡 → 切到該級別的單字頁
+      // 字卡 → 切到該級別單字頁（TOEIC/GEPT 另把子級別設好，等同 單字+級別+子級別）
+      const deck = btn.dataset.deck, [set, lv] = deck.split(":");
+      if (set === "toeic") state.toeicSubLevel = lv;
+      else if (set === "gept") state.geptSubLevel = lv;
+      saveState();
+      setLevel(deckToLevel(deck));
+      updateModeToggles();   // 級別未變時也刷新子級別鈕標籤
       closeCardPicker();
       render("word");
     }
