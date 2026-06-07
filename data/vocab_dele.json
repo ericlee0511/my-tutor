@@ -13849,6 +13849,24 @@
       "meaning_zh": "(副詞) 迅速地；很快地",
       "example_es": "El niño aprendió a leer rápidamente.",
       "example_zh": "那孩子很快就學會了閱讀。"
+    },
+    {
+      "word": "riquísimo",
+      "meaning_zh": "(形容詞) 非常美味的；極富有的（rico 的最高級）",
+      "example_es": "Mi abuela prepara un arroz riquísimo.",
+      "example_zh": "我奶奶做的米飯非常好吃。"
+    },
+    {
+      "word": "inmediatamente",
+      "meaning_zh": "(副詞) 立刻，馬上",
+      "example_es": "Llámame inmediatamente si hay algún problema.",
+      "example_zh": "如果有任何問題，馬上打給我。"
+    },
+    {
+      "word": "pronunciación",
+      "meaning_zh": "(陰性名詞) 發音",
+      "example_es": "Practico todos los días para mejorar mi pronunciación.",
+      "example_zh": "我每天練習以改善我的發音。"
     }
   ],
   "db1": [
@@ -30711,6 +30729,108 @@
       "meaning_zh": "(形容詞) 不必要的；多餘的",
       "example_es": "Es innecesario comprar tantas bolsas.",
       "example_zh": "買這麼多袋子是多餘的。"
+    },
+    {
+      "word": "crear",
+      "meaning_zh": "(動詞) 創造；建立",
+      "example_es": "Quiero crear mi propia empresa algún día.",
+      "example_zh": "我希望有一天能創立自己的公司。"
+    },
+    {
+      "word": "vestir",
+      "meaning_zh": "(動詞) 穿衣；給…穿衣",
+      "example_es": "Le gusta vestir de colores claros en verano.",
+      "example_zh": "他夏天喜歡穿淺色的衣服。"
+    },
+    {
+      "word": "azulado",
+      "meaning_zh": "(形容詞) 帶藍色的，淡藍的",
+      "example_es": "El cielo del amanecer tenía un tono azulado.",
+      "example_zh": "黎明的天空帶著一抹淡藍。"
+    },
+    {
+      "word": "despierto",
+      "meaning_zh": "(形容詞) 醒著的；機靈的，聰明的",
+      "example_es": "A medianoche aún seguía despierto leyendo.",
+      "example_zh": "半夜時他還醒著在看書。"
+    },
+    {
+      "word": "profesionalmente",
+      "meaning_zh": "(副詞) 在職業上，專業地",
+      "example_es": "Quiero crecer profesionalmente en esta empresa.",
+      "example_zh": "我想在這家公司於職業上有所成長。"
+    },
+    {
+      "word": "representación",
+      "meaning_zh": "(陰性名詞) 代表，代理；演出，表演",
+      "example_es": "Asistió a la reunión en representación de su empresa.",
+      "example_zh": "他代表公司出席了會議。"
+    },
+    {
+      "word": "constantemente",
+      "meaning_zh": "(副詞) 不斷地，持續地",
+      "example_es": "El teléfono sonaba constantemente toda la mañana.",
+      "example_zh": "整個早上電話響個不停。"
+    },
+    {
+      "word": "representante",
+      "meaning_zh": "(陽性名詞／陰性名詞) 代表，代理人",
+      "example_es": "El representante de los trabajadores presentó las quejas.",
+      "example_zh": "工人代表提出了申訴。"
+    },
+    {
+      "word": "adolescencia",
+      "meaning_zh": "(陰性名詞) 青春期，青少年時期",
+      "example_es": "Pasó su adolescencia en un pueblo de la costa.",
+      "example_zh": "他的青少年時期是在一個海邊小鎮度過的。"
+    },
+    {
+      "word": "prácticamente",
+      "meaning_zh": "(副詞) 幾乎；實際上",
+      "example_es": "El trabajo está prácticamente terminado.",
+      "example_zh": "工作幾乎完成了。"
+    },
+    {
+      "word": "democrático",
+      "meaning_zh": "(形容詞) 民主的",
+      "example_es": "Vivimos en un sistema democrático con elecciones libres.",
+      "example_zh": "我們生活在有自由選舉的民主體制中。"
+    },
+    {
+      "word": "alternativa",
+      "meaning_zh": "(陰性名詞) 替代方案；選擇",
+      "example_es": "El tren es una buena alternativa al avión.",
+      "example_zh": "火車是搭飛機之外的好選擇。"
+    },
+    {
+      "word": "intelectual",
+      "meaning_zh": "(形容詞) 智力的；知識的；(名詞) 知識份子",
+      "example_es": "El ajedrez es un reto intelectual apasionante.",
+      "example_zh": "西洋棋是個令人著迷的智力挑戰。"
+    },
+    {
+      "word": "tranquilamente",
+      "meaning_zh": "(副詞) 平靜地；從容地；輕鬆地",
+      "example_es": "Podemos hablar tranquilamente mientras tomamos un café.",
+      "example_zh": "我們可以邊喝咖啡邊從容地聊。"
+    },
+    {
+      "word": "majo",
+      "meaning_zh": "(形容詞) 討人喜歡的；親切的；好看的（西班牙口語）",
+      "example_es": "El camarero es muy majo y siempre nos saluda.",
+      "example_zh": "那個服務生很親切，總是跟我們打招呼。"
+    },
+    {
+      "word": "sacacorchos",
+      "meaning_zh": "(陽性名詞) 開瓶器；拔軟木塞器",
+      "example_es": "No encuentro el sacacorchos para abrir el vino.",
+      "example_zh": "我找不到開紅酒的開瓶器。"
+    },
+    {
+      "word": "oficialmente",
+      "meaning_zh": "(副詞) 正式地；官方地",
+      "example_es": "La empresa abrirá oficialmente el lunes.",
+      "example_zh": "公司將於週一正式開幕。"
     }
   ],
   "db2": [
@@ -44645,6 +44765,144 @@
       "meaning_zh": "(形容詞) 令人擔憂的",
       "example_es": "La falta de lluvia este año es preocupante.",
       "example_zh": "今年缺雨的情況令人擔憂。"
+    },
+    {
+      "word": "implicado",
+      "meaning_zh": "(形容詞) 涉及的，牽連的；(陽性名詞) 涉案者",
+      "example_es": "Todas las personas implicadas en el proyecto asistieron a la reunión.",
+      "example_zh": "所有涉及這個專案的人都出席了會議。"
+    },
+    {
+      "word": "lamento",
+      "meaning_zh": "(陽性名詞) 哀嘆，悲歎",
+      "example_es": "Se oía el lamento del viento entre los árboles.",
+      "example_zh": "樹叢間傳來風的悲鳴。"
+    },
+    {
+      "word": "intensificar",
+      "meaning_zh": "(動詞) 加強，強化",
+      "example_es": "La empresa decidió intensificar sus esfuerzos de venta.",
+      "example_zh": "公司決定加強銷售力度。"
+    },
+    {
+      "word": "significativo",
+      "meaning_zh": "(形容詞) 顯著的，有意義的",
+      "example_es": "Se observó una mejora significativa en los resultados.",
+      "example_zh": "結果出現了顯著的改善。"
+    },
+    {
+      "word": "infraestructura",
+      "meaning_zh": "(陰性名詞) 基礎設施",
+      "example_es": "El gobierno invertirá en infraestructura de transporte.",
+      "example_zh": "政府將投資交通基礎設施。"
+    },
+    {
+      "word": "administrativo",
+      "meaning_zh": "(形容詞) 行政的；(陽性名詞) 行政人員",
+      "example_es": "Tengo que resolver unos trámites administrativos.",
+      "example_zh": "我得處理一些行政手續。"
+    },
+    {
+      "word": "penalización",
+      "meaning_zh": "(陰性名詞) 處罰，罰款；扣分",
+      "example_es": "El contrato prevé una penalización por retraso.",
+      "example_zh": "合約規定延遲交付須繳罰款。"
+    },
+    {
+      "word": "satisfactorio",
+      "meaning_zh": "(形容詞) 令人滿意的",
+      "example_es": "Los resultados del examen fueron muy satisfactorios.",
+      "example_zh": "考試結果令人非常滿意。"
+    },
+    {
+      "word": "hispanohablante",
+      "meaning_zh": "(形容詞) 講西班牙語的；(陽性名詞／陰性名詞) 西語使用者",
+      "example_es": "México es el país hispanohablante más poblado.",
+      "example_zh": "墨西哥是人口最多的西語國家。"
+    },
+    {
+      "word": "tiritar",
+      "meaning_zh": "(動詞) 發抖，打哆嗦",
+      "example_es": "Tiritaba de frío esperando el autobús.",
+      "example_zh": "他在等公車時冷得發抖。"
+    },
+    {
+      "word": "considerablemente",
+      "meaning_zh": "(副詞) 相當地；大幅地",
+      "example_es": "Los precios han subido considerablemente este año.",
+      "example_zh": "今年物價大幅上漲。"
+    },
+    {
+      "word": "necesariamente",
+      "meaning_zh": "(副詞) 必然地；一定",
+      "example_es": "Ser rico no significa necesariamente ser feliz.",
+      "example_zh": "有錢不一定就代表幸福。"
+    },
+    {
+      "word": "dirigirse",
+      "meaning_zh": "(代動詞) 前往；向某人說話／講話對象指向",
+      "example_es": "El presidente se dirigió a los ciudadanos por televisión.",
+      "example_zh": "總統透過電視向民眾發表談話。"
+    },
+    {
+      "word": "estimulante",
+      "meaning_zh": "(形容詞) 激勵的；刺激的；(陽性名詞) 興奮劑",
+      "example_es": "Es un trabajo muy estimulante para la mente.",
+      "example_zh": "這是一份對頭腦很有激勵作用的工作。"
+    },
+    {
+      "word": "enormemente",
+      "meaning_zh": "(副詞) 極大地；非常",
+      "example_es": "Su ayuda me facilitó enormemente la tarea.",
+      "example_zh": "他的協助大大減輕了我的工作。"
+    },
+    {
+      "word": "característico",
+      "meaning_zh": "(形容詞) 特有的；典型的",
+      "example_es": "El olor a café es característico de esta cafetería.",
+      "example_zh": "咖啡香是這家咖啡館的特色。"
+    },
+    {
+      "word": "honestamente",
+      "meaning_zh": "(副詞) 誠實地；坦白說",
+      "example_es": "Honestamente, no creo que sea una buena idea.",
+      "example_zh": "老實說，我不認為這是個好主意。"
+    },
+    {
+      "word": "técnicamente",
+      "meaning_zh": "(副詞) 技術上；嚴格來說",
+      "example_es": "Técnicamente, el plazo terminó ayer.",
+      "example_zh": "嚴格來說，期限昨天就到了。"
+    },
+    {
+      "word": "ciertamente",
+      "meaning_zh": "(副詞) 確實地；的確",
+      "example_es": "Ciertamente, fue una decisión difícil.",
+      "example_zh": "那的確是個艱難的決定。"
+    },
+    {
+      "word": "hispanoamericano",
+      "meaning_zh": "(形容詞) 西班牙語美洲的；(陽性名詞) 西語美洲人",
+      "example_es": "La literatura hispanoamericana del siglo XX es riquísima.",
+      "example_zh": "二十世紀的西語美洲文學非常豐富。"
+    },
+    {
+      "word": "aparentemente",
+      "meaning_zh": "(副詞) 表面上；看似",
+      "example_es": "Era un problema aparentemente sencillo.",
+      "example_zh": "那是個表面上看似簡單的問題。"
+    },
+    {
+      "word": "disponibilidad",
+      "meaning_zh": "(陰性名詞) 可用性；空檔；時間配合度",
+      "example_es": "¿Tiene disponibilidad para una reunión el jueves?",
+      "example_zh": "您週四有空開會嗎？"
+    },
+    {
+      "word": "desinfectar",
+      "meaning_zh": "(及物動詞) 消毒；殺菌",
+      "example_es": "Desinfecta la herida antes de ponerte la tirita.",
+      "example_zh": "貼OK繃之前先把傷口消毒。"
     }
   ],
   "dc1": [
@@ -53755,6 +54013,162 @@
       "meaning_zh": "(動詞) 量化；計算數量",
       "example_es": "No es fácil cuantificar el valor de una amistad.",
       "example_zh": "友誼的價值不容易量化。"
+    },
+    {
+      "word": "sumo",
+      "meaning_zh": "(形容詞) 最高的，極大的；(片語) en suma 總而言之",
+      "example_es": "Trató el asunto con sumo cuidado.",
+      "example_zh": "他極為謹慎地處理了這件事。"
+    },
+    {
+      "word": "sincerar",
+      "meaning_zh": "(動詞) 坦白，吐露真心（常用反身 sincerarse）",
+      "example_es": "Al final decidió sincerarse con su mejor amiga.",
+      "example_zh": "最後他決定向最好的朋友坦白心事。"
+    },
+    {
+      "word": "medioambiental",
+      "meaning_zh": "(形容詞) 環境的，與環境有關的",
+      "example_es": "El proyecto pasó una evaluación medioambiental rigurosa.",
+      "example_zh": "這個專案通過了嚴格的環境評估。"
+    },
+    {
+      "word": "injustificado",
+      "meaning_zh": "(形容詞) 無正當理由的，無端的",
+      "example_es": "Su ausencia injustificada le costó el empleo.",
+      "example_zh": "他無故缺席讓他丟了工作。"
+    },
+    {
+      "word": "revitalización",
+      "meaning_zh": "(陰性名詞) 振興，重新活化",
+      "example_es": "El plan busca la revitalización del centro histórico.",
+      "example_zh": "這項計畫旨在振興歷史城區。"
+    },
+    {
+      "word": "coproducción",
+      "meaning_zh": "(陰性名詞) 合作製作，合拍",
+      "example_es": "La película es una coproducción entre España y Argentina.",
+      "example_zh": "這部電影是西班牙與阿根廷的合拍片。"
+    },
+    {
+      "word": "confinamiento",
+      "meaning_zh": "(陽性名詞) 禁閉，封鎖（如疫情封城）",
+      "example_es": "Durante el confinamiento aprendí a cocinar.",
+      "example_zh": "封城期間我學會了做菜。"
+    },
+    {
+      "word": "prioritariamente",
+      "meaning_zh": "(副詞) 優先地",
+      "example_es": "Los fondos se destinarán prioritariamente a la educación.",
+      "example_zh": "這些資金將優先用於教育。"
+    },
+    {
+      "word": "imprevisible",
+      "meaning_zh": "(形容詞) 無法預測的；難以預料的",
+      "example_es": "El tiempo en la montaña es completamente imprevisible.",
+      "example_zh": "山上的天氣完全無法預測。"
+    },
+    {
+      "word": "predisposición",
+      "meaning_zh": "(陰性名詞) 傾向；素質；先天易感性",
+      "example_es": "Tiene una clara predisposición a la música desde pequeño.",
+      "example_zh": "他從小就明顯有音樂天分。"
+    },
+    {
+      "word": "intermediario",
+      "meaning_zh": "(陽性名詞) 中間人；仲介；(形容詞) 中間的",
+      "example_es": "Compramos directamente al agricultor, sin intermediarios.",
+      "example_zh": "我們直接向農民購買，沒有中間商。"
+    },
+    {
+      "word": "culpabilizar",
+      "meaning_zh": "(及物動詞) 歸咎於；使有罪惡感",
+      "example_es": "No deberíamos culpabilizar a los jóvenes de todos los problemas.",
+      "example_zh": "我們不該把所有問題都怪在年輕人身上。"
+    },
+    {
+      "word": "contraproducente",
+      "meaning_zh": "(形容詞) 適得其反的；反效果的",
+      "example_es": "Gritarle al niño suele ser contraproducente.",
+      "example_zh": "對小孩大吼通常會適得其反。"
+    },
+    {
+      "word": "intergeneracional",
+      "meaning_zh": "(形容詞) 跨世代的；不同世代之間的",
+      "example_es": "El centro organiza actividades intergeneracionales entre niños y ancianos.",
+      "example_zh": "這個中心舉辦兒童與長者之間的跨世代活動。"
+    },
+    {
+      "word": "equitativamente",
+      "meaning_zh": "(副詞) 公平地；平均地",
+      "example_es": "Repartimos las ganancias equitativamente entre todos.",
+      "example_zh": "我們把收益公平地分給每個人。"
+    },
+    {
+      "word": "reconstruirse",
+      "meaning_zh": "(代動詞) 重建；恢復原狀",
+      "example_es": "La confianza, una vez perdida, tarda mucho en reconstruirse.",
+      "example_zh": "信任一旦失去，要重建得花很長時間。"
+    },
+    {
+      "word": "generacional",
+      "meaning_zh": "(形容詞) 世代的；代際的",
+      "example_es": "Existe una clara brecha generacional respecto a la tecnología.",
+      "example_zh": "在科技方面存在明顯的世代差距。"
+    },
+    {
+      "word": "conflictivo",
+      "meaning_zh": "(形容詞) 衝突的；好爭執的；麻煩的",
+      "example_es": "Es un tema conflictivo que divide a la familia.",
+      "example_zh": "這是個讓家人意見分歧的爭議性話題。"
+    },
+    {
+      "word": "simbólicamente",
+      "meaning_zh": "(副詞) 象徵性地",
+      "example_es": "Plantaron un árbol para celebrar simbólicamente el acuerdo.",
+      "example_zh": "他們種下一棵樹，象徵性地慶祝這項協議。"
+    },
+    {
+      "word": "cosmopolita",
+      "meaning_zh": "(形容詞) 世界性的；國際化的；(名詞) 四海為家的人",
+      "example_es": "Barcelona es una ciudad muy cosmopolita.",
+      "example_zh": "巴塞隆納是一座非常國際化的城市。"
+    },
+    {
+      "word": "terapéutico",
+      "meaning_zh": "(形容詞) 治療的；療效的",
+      "example_es": "El ejercicio tiene un efecto terapéutico sobre el estrés.",
+      "example_zh": "運動對壓力有療癒的效果。"
+    },
+    {
+      "word": "simultáneamente",
+      "meaning_zh": "(副詞) 同時地",
+      "example_es": "La conferencia se tradujo simultáneamente a tres idiomas.",
+      "example_zh": "這場演講同時被翻譯成三種語言。"
+    },
+    {
+      "word": "radicalmente",
+      "meaning_zh": "(副詞) 徹底地；根本地",
+      "example_es": "Su opinión cambió radicalmente tras el viaje.",
+      "example_zh": "那趟旅行之後，他的看法徹底改變了。"
+    },
+    {
+      "word": "superviviente",
+      "meaning_zh": "(名詞) 倖存者；生還者；(形容詞) 倖存的",
+      "example_es": "Los supervivientes del accidente fueron trasladados al hospital.",
+      "example_zh": "事故的生還者被送往醫院。"
+    },
+    {
+      "word": "sistemáticamente",
+      "meaning_zh": "(副詞) 有系統地；一貫地",
+      "example_es": "Ignoró sistemáticamente todas mis advertencias.",
+      "example_zh": "他一貫地無視我所有的警告。"
+    },
+    {
+      "word": "modestamente",
+      "meaning_zh": "(副詞) 謙遜地；簡樸地",
+      "example_es": "Vive modestamente a pesar de su fortuna.",
+      "example_zh": "儘管富有，他生活得很簡樸。"
     }
   ],
   "dc2": [
@@ -62601,6 +63015,36 @@
       "meaning_zh": "(動詞) 衡量規模；估算大小",
       "example_es": "Es difícil dimensionar el impacto de esta crisis.",
       "example_zh": "很難衡量這場危機的影響規模。"
+    },
+    {
+      "word": "recogimiento",
+      "meaning_zh": "(陽性名詞) 沉靜，內省，靜修",
+      "example_es": "Buscaba un lugar de recogimiento lejos del ruido.",
+      "example_zh": "他尋找一處遠離喧囂、可以靜心的地方。"
+    },
+    {
+      "word": "bienintencionado",
+      "meaning_zh": "(形容詞) 出於善意的；好心的",
+      "example_es": "Fue un consejo bienintencionado, aunque poco útil.",
+      "example_zh": "那是出於善意的建議，雖然不太有用。"
+    },
+    {
+      "word": "instrumentalizar",
+      "meaning_zh": "(及物動詞) 利用（為達目的的工具）；操弄利用",
+      "example_es": "Algunos políticos instrumentalizan el miedo de la gente.",
+      "example_zh": "有些政客利用民眾的恐懼。"
+    },
+    {
+      "word": "redefinición",
+      "meaning_zh": "(陰性名詞) 重新定義",
+      "example_es": "El proyecto exige una redefinición completa de nuestras prioridades.",
+      "example_zh": "這個專案需要徹底重新定義我們的優先順序。"
+    },
+    {
+      "word": "reconfiguración",
+      "meaning_zh": "(陰性名詞) 重新配置；重組",
+      "example_es": "La empresa anunció una reconfiguración de sus equipos.",
+      "example_zh": "公司宣布重組各個團隊。"
     }
   ]
 }
