@@ -865,14 +865,6 @@
       "example_zh": "臉很漂亮。"
     },
     {
-      "word": "눈",
-      "hanja": "",
-      "romanization": "nun",
-      "meaning_zh": "眼睛；雪",
-      "example_ko": "눈이 커요.",
-      "example_zh": "眼睛很大。"
-    },
-    {
       "word": "코",
       "hanja": "",
       "romanization": "ko",
@@ -1820,7 +1812,7 @@
       "word": "차갑다",
       "hanja": "",
       "romanization": "chagapda",
-      "meaning_zh": "冰涼",
+      "meaning_zh": "冰涼、冰冷；冷淡、冷漠",
       "example_ko": "물이 차가워요.",
       "example_zh": "水很冰。"
     },
@@ -1868,7 +1860,7 @@
       "word": "포크",
       "hanja": "",
       "romanization": "pokeu",
-      "meaning_zh": "叉子",
+      "meaning_zh": "叉子；民謠（Folk）",
       "example_ko": "포크를 써요.",
       "example_zh": "我用叉子。"
     },
@@ -4260,7 +4252,7 @@
       "word": "눈",
       "hanja": "",
       "romanization": "nun",
-      "meaning_zh": "雪（也指眼睛）",
+      "meaning_zh": "眼睛；雪",
       "example_ko": "겨울에 눈이 많이 오면 길이 미끄러워요.",
       "example_zh": "冬天雪下得多，路會很滑。"
     },
@@ -4775,14 +4767,6 @@
       "meaning_zh": "自行車",
       "example_ko": "자전거로 출퇴근하는 사람이 늘고 있어요.",
       "example_zh": "騎自行車通勤的人越來越多。"
-    },
-    {
-      "word": "다리",
-      "hanja": "",
-      "romanization": "dari",
-      "meaning_zh": "橋；腿",
-      "example_ko": "다리를 건너서 가요.",
-      "example_zh": "過橋去。"
     },
     {
       "word": "마음",
@@ -6076,7 +6060,7 @@
       "word": "코트",
       "hanja": "",
       "romanization": "koteu",
-      "meaning_zh": "外套、大衣",
+      "meaning_zh": "外套、大衣；球場",
       "example_ko": "새 코트를 샀다.",
       "example_zh": "買了新大衣。"
     },
@@ -6143,14 +6127,6 @@
       "meaning_zh": "事情、工作",
       "example_ko": "오늘은 일이 많아요.",
       "example_zh": "今天工作很多。"
-    },
-    {
-      "word": "배",
-      "hanja": "",
-      "romanization": "bae",
-      "meaning_zh": "船；梨；肚子；倍",
-      "example_ko": "배를 타고 제주도에 갔어요.",
-      "example_zh": "我搭船去濟州島。"
     },
     {
       "word": "병",
@@ -10421,7 +10397,7 @@
       "word": "코스",
       "hanja": "",
       "romanization": "koseu",
-      "meaning_zh": "路線、課程",
+      "meaning_zh": "路線、課程；套餐",
       "example_ko": "이 여행 코스가 제일 인기 있어요.",
       "example_zh": "這條旅遊路線最受歡迎。"
     },
@@ -10901,7 +10877,7 @@
       "word": "플랫폼",
       "hanja": "",
       "romanization": "peullaetpom",
-      "meaning_zh": "月台",
+      "meaning_zh": "月台；平台",
       "example_ko": "플랫폼에서 기차를 기다려요.",
       "example_zh": "在月台等火車。"
     },
@@ -11581,7 +11557,7 @@
       "word": "미팅",
       "hanja": "",
       "romanization": "miting",
-      "meaning_zh": "聯誼",
+      "meaning_zh": "聯誼；會議、會面",
       "example_ko": "대학교 때 미팅을 자주 했어요.",
       "example_zh": "大學時常常參加聯誼。"
     },
@@ -11640,14 +11616,6 @@
       "meaning_zh": "秘密",
       "example_ko": "이건 우리 둘만의 비밀이에요.",
       "example_zh": "這是我們兩個人的秘密。"
-    },
-    {
-      "word": "차갑다",
-      "hanja": "",
-      "romanization": "chagapda",
-      "meaning_zh": "冰冷、涼（물이 차갑다）；冷淡、冷漠",
-      "example_ko": "그녀는 첫인상이 좀 차가워요.",
-      "example_zh": "她的第一印象有點冷淡。"
     },
     {
       "word": "성격",
@@ -12549,7 +12517,7 @@
       "word": "그림자",
       "hanja": "",
       "romanization": "geurimja",
-      "meaning_zh": "影子",
+      "meaning_zh": "影子；陰影（榮格心理學）",
       "example_ko": "내 그림자가 길어요.",
       "example_zh": "我的影子很長。"
     },
@@ -14143,14 +14111,6 @@
       "example_zh": "常用YouTube Music。"
     },
     {
-      "word": "멜론",
-      "hanja": "",
-      "romanization": "mellon",
-      "meaning_zh": "Melon（音樂App）",
-      "example_ko": "멜론에서 노래를 들어요.",
-      "example_zh": "在Melon聽歌。"
-    },
-    {
       "word": "지니",
       "hanja": "",
       "romanization": "jini",
@@ -15055,14 +15015,6 @@
       "example_zh": "成功預訂演唱會門票。"
     },
     {
-      "word": "팬",
-      "hanja": "",
-      "romanization": "paen",
-      "meaning_zh": "粉絲",
-      "example_ko": "저는 그 가수의 팬이에요.",
-      "example_zh": "我是那位歌手的粉絲。"
-    },
-    {
       "word": "앨범",
       "hanja": "",
       "romanization": "aelbeom",
@@ -15093,14 +15045,6 @@
       "meaning_zh": "老歌",
       "example_ko": "옛날 노래도 좋아해요.",
       "example_zh": "我也喜歡老歌。"
-    },
-    {
-      "word": "댄스",
-      "hanja": "",
-      "romanization": "daenseu",
-      "meaning_zh": "舞曲",
-      "example_ko": "댄스 음악이 신나요.",
-      "example_zh": "舞曲很帶勁。"
     },
     {
       "word": "케이팝",
@@ -16319,14 +16263,6 @@
       "example_zh": "把櫛瓜切絲加進煎餅裡。"
     },
     {
-      "word": "가지",
-      "hanja": "",
-      "romanization": "gaji",
-      "meaning_zh": "茄子",
-      "example_ko": "가지나물을 만들어 봤어요.",
-      "example_zh": "嘗試做了涼拌茄子。"
-    },
-    {
       "word": "미역",
       "hanja": "",
       "romanization": "miyeok",
@@ -16762,7 +16698,7 @@
       "word": "댄스",
       "hanja": "",
       "romanization": "daen-seu",
-      "meaning_zh": "舞蹈、跳舞",
+      "meaning_zh": "舞蹈、跳舞；舞曲",
       "example_ko": "K-팝 댄스 수업을 듣고 있어요.",
       "example_zh": "正在上K-pop舞蹈課。"
     },
@@ -18399,14 +18335,6 @@
       "example_zh": "接下來做了什麼？"
     },
     {
-      "word": "배",
-      "hanja": "",
-      "romanization": "bae",
-      "meaning_zh": "梨、梨子；船；肚子；倍",
-      "example_ko": "가을에 배가 맛있어요.",
-      "example_zh": "秋天的梨很好吃。"
-    },
-    {
       "word": "공",
       "hanja": "空",
       "romanization": "gong",
@@ -18586,17 +18514,9 @@
       "word": "팬",
       "hanja": "",
       "romanization": "paen",
-      "meaning_zh": "平底鍋",
+      "meaning_zh": "粉絲；平底鍋",
       "example_ko": "팬에 기름을 두르세요.",
       "example_zh": "請在平底鍋裡倒油。"
-    },
-    {
-      "word": "풀",
-      "hanja": "",
-      "romanization": "pul",
-      "meaning_zh": "漿糊、膠水；草",
-      "example_ko": "풀로 종이를 붙여요.",
-      "example_zh": "用漿糊把紙黏起來。"
     },
     {
       "word": "피",
@@ -25120,7 +25040,7 @@
       "word": "스노보드",
       "hanja": "",
       "romanization": "seunobodeu",
-      "meaning_zh": "單板滑雪",
+      "meaning_zh": "單板滑雪、滑雪板",
       "example_ko": "스노보드를 배웠어요.",
       "example_zh": "學了單板滑雪。"
     },
@@ -26107,14 +26027,6 @@
       "meaning_zh": "合約書",
       "example_ko": "계약서를 꼼꼼히 검토해야 한다.",
       "example_zh": "應仔細審閱合約書。"
-    },
-    {
-      "word": "미팅",
-      "hanja": "",
-      "romanization": "miting",
-      "meaning_zh": "會議、會面",
-      "example_ko": "오후에 거래처와 미팅이 있어요.",
-      "example_zh": "下午要和客戶開會。"
     },
     {
       "word": "해외 출장",
@@ -30459,14 +30371,6 @@
       "meaning_zh": "白飯（一碗）",
       "example_ko": "공깃밥 하나 더 주세요.",
       "example_zh": "請再給我一碗白飯。"
-    },
-    {
-      "word": "코스",
-      "hanja": "",
-      "romanization": "koseu",
-      "meaning_zh": "套餐",
-      "example_ko": "점심 코스를 주문했어요.",
-      "example_zh": "點了午餐套餐。"
     },
     {
       "word": "넉넉하다",
@@ -37290,14 +37194,6 @@
       "meaning_zh": "鎮靜、冷靜",
       "example_ko": "흥분하지 말고 진정하세요.",
       "example_zh": "別激動，請冷靜下來。"
-    },
-    {
-      "word": "코트",
-      "hanja": "",
-      "romanization": "koteu",
-      "meaning_zh": "球場；大衣、外套",
-      "example_ko": "테니스 코트를 예약했어요.",
-      "example_zh": "我預約了網球場。"
     },
     {
       "word": "통상",
@@ -45030,14 +44926,6 @@
       "example_zh": "溜直排輪需要護具。"
     },
     {
-      "word": "스노보드",
-      "hanja": "",
-      "romanization": "seu-no-bo-deu",
-      "meaning_zh": "滑雪板",
-      "example_ko": "스노보드는 스키보다 배우기 어려워요.",
-      "example_zh": "滑雪板比滑雪更難學。"
-    },
-    {
       "word": "요트",
       "hanja": "",
       "romanization": "yo-teu",
@@ -45412,14 +45300,6 @@
       "meaning_zh": "暴露、外洩",
       "example_ko": "카드 번호 노출에 주의하세요.",
       "example_zh": "請小心信用卡號被外洩。"
-    },
-    {
-      "word": "플랫폼",
-      "hanja": "",
-      "romanization": "peullaetpom",
-      "meaning_zh": "平台",
-      "example_ko": "이 플랫폼은 다양한 콘텐츠를 제공합니다.",
-      "example_zh": "這個平台提供各種內容。"
     },
     {
       "word": "신호",
@@ -52132,14 +52012,6 @@
       "meaning_zh": "清州（地名）",
       "example_ko": "청주는 충청북도의 도청 소재지예요.",
       "example_zh": "清州是忠清北道的道廳所在地。"
-    },
-    {
-      "word": "포크",
-      "hanja": "",
-      "romanization": "pokeu",
-      "meaning_zh": "民謠、Folk；叉子",
-      "example_ko": "포크 음악을 좋아해요.",
-      "example_zh": "我喜歡民謠音樂。"
     },
     {
       "word": "한시",
@@ -70104,14 +69976,6 @@
       "meaning_zh": "人格面具",
       "example_ko": "우리는 상황에 따라 다양한 페르소나를 사용한다.",
       "example_zh": "我們會根據情況使用不同的人格面具。"
-    },
-    {
-      "word": "그림자",
-      "hanja": "",
-      "romanization": "geurimja",
-      "meaning_zh": "陰影(榮格心理學)",
-      "example_ko": "융이 말한 그림자는 자아가 거부하는 측면을 의미한다.",
-      "example_zh": "榮格所說的陰影意指自我所拒絕的一面。"
     },
     {
       "word": "개성화",
