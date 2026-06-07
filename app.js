@@ -2656,7 +2656,21 @@ function srsHandleClick(e) {
   }
 }
 
-function openCardPicker() { ensureSrs(); const ov = document.getElementById("card-picker"); if (ov) ov.hidden = false; }
+// 卡牌 popup 兩個分頁：'study'=字卡(到該級別單字頁) / 'review'=複習(SRS)。預設開在「字卡」。
+let cardPickerTab = "study";
+// 牌組(set:lv) → 單字頁級別(右上角級別選單的值)。TOEIC/GEPT 無子級別，皆對應單一 toeic/gept。
+function deckToLevel(deck) {
+  const [set, lv] = deck.split(":");
+  if (set === "toeic") return "toeic";
+  if (set === "gept") return "gept";
+  return lv;   // jap:n5→n5、ko:t1→t1、dele:da1→da1
+}
+function setCardPickerTab(tab) {
+  cardPickerTab = tab;
+  document.querySelectorAll("#card-picker .srs-tab[data-ptab]")
+    .forEach(b => b.classList.toggle("active", b.dataset.ptab === tab));
+}
+function openCardPicker() { ensureSrs(); setCardPickerTab("study"); const ov = document.getElementById("card-picker"); if (ov) ov.hidden = false; }
 function closeCardPicker() { const ov = document.getElementById("card-picker"); if (ov) ov.hidden = true; }
 function closeSrsReview() {
   const ov = document.getElementById("srs-review"); if (ov) ov.hidden = true;
@@ -2888,13 +2902,21 @@ window.addEventListener("DOMContentLoaded", async () => {
     })
   );
 
-  // ===== 記憶複習（SRS）接線 =====
-  document.getElementById("srs-study-btn")?.addEventListener("click", () => { closeCardPicker(); render("word"); });
+  // ===== 卡牌 popup（字卡 / 複習）接線 =====
   const cardPicker = document.getElementById("card-picker");
   if (cardPicker) cardPicker.addEventListener("click", e => {
     if (e.target === cardPicker) { closeCardPicker(); return; }
+    const tab = e.target.closest(".srs-tab[data-ptab]");
+    if (tab) { setCardPickerTab(tab.dataset.ptab); return; }
     const btn = e.target.closest(".picker-btn[data-deck]");
-    if (btn) srsStartDeck(btn.dataset.deck);
+    if (!btn) return;
+    if (cardPickerTab === "review") {
+      srsStartDeck(btn.dataset.deck);            // 複習 → 該級別 SRS 字卡複習
+    } else {
+      setLevel(deckToLevel(btn.dataset.deck));    // 字卡 → 切到該級別的單字頁
+      closeCardPicker();
+      render("word");
+    }
   });
   const srsReview = document.getElementById("srs-review");
   // 只有按叉叉(#srs-rev-close)或「結束」鈕才關閉；點背景不關，避免複習中誤觸。

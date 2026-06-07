@@ -1014,8 +1014,7 @@ footer {
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
 
 /* 單字 popup（card-picker）*/
-.srs-deck-top { display: flex; justify-content: center; margin-bottom: 8px; }
-.srs-study-btn { min-width: 140px; }
+.card-picker-tabs { padding: 0 0 8px; }
 .srs-deck-divider {
   border-top: 2px solid color-mix(in srgb, var(--accent-soft) 80%, var(--accent) 20%);
   margin: 0 0 10px;
