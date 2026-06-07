@@ -1546,7 +1546,7 @@ function fmtWord(item) {
   const meaning = item[`meaning_${lang}`] ?? item.meaning_en;
   const meaningExtra = lang === "ja" && item.meaning_zh
     ? `<br>${escapeHTML(item.meaning_zh)}` : "";
-  const trans = lang === "ja" ? (item.example_kana || item.example_en) : item.example_en;
+  const trans = lang === "ja" ? (item.example_zh || item.example_kana || item.example_en) : item.example_en;
   return `<div class="headword">📖${ttsBtn(item.kanji, "ja-JP")}${escapeHTML(item.kanji)}</div>` +
     `<div class="kana">かな: ${escapeHTML(item.kana)}</div>` +
     `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
