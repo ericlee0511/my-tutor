@@ -22,7 +22,7 @@
     {
       "pattern": "Presente regular -ar/-er/-ir",
       "meaning_zh": "規則動詞的現在式變化：依結尾分三類，依主詞變化字尾。",
-      "structure": "hablar→hablo/hablas/habla/hablamos/habláis/hablan；comer→como/comes/come/comemos/coméis/comen；vivir→vivo/vives/vive/vivimos/vivís/viven",
+      "structure": "hablar→hablo/hablas/habla/hablamos/habláis/hablan ; comer→como/comes/come/comemos/coméis/comen ; vivir→vivo/vives/vive/vivimos/vivís/viven",
       "examples": [
         {
           "es": "Hablo español todos los días.",
@@ -37,7 +37,7 @@
     {
       "pattern": "冠詞 el/la/los/las 與 un/una/unos/unas",
       "meaning_zh": "西班牙語名詞分陽性／陰性，冠詞需與名詞性別與單複數一致。定冠詞用於特指，不定冠詞用於泛指。",
-      "structure": "el/un + 陽性單數；la/una + 陰性單數；los/unos + 陽性複數；las/unas + 陰性複數",
+      "structure": "el/un + 陽性單數 ; la/una + 陰性單數 ; los/unos + 陽性複數 ; las/unas + 陰性複數",
       "examples": [
         {
           "es": "El coche es nuevo, pero la bicicleta es vieja.",
@@ -86,7 +86,7 @@
     {
       "pattern": "Hay vs Estar (存在與位置)",
       "meaning_zh": "Hay 用於介紹「有什麼東西存在」，後面接不定冠詞或數量詞；estar 用於說明已知事物「位於何處」，後面接定冠詞。",
-      "structure": "Hay + un/una/unos/unas/數字 + sustantivo ／ El/La + sustantivo + está + lugar",
+      "structure": "Hay + un/una/unos/unas/número + sustantivo / El/La + sustantivo + está + lugar",
       "examples": [
         {
           "es": "Hay un libro en la mesa.",
@@ -143,7 +143,7 @@
     {
       "pattern": "Contracciones al / del (縮約形)",
       "meaning_zh": "西班牙文中介系詞 a 和 de 遇到陽性單數定冠詞 el 時必須縮寫成 al 與 del；其他冠詞 (la, los, las) 不縮寫。",
-      "structure": "a + el = al；de + el = del；其他組合不縮：a la, de los, a las…",
+      "structure": "a + el = al ; de + el = del ; 其他組合不縮：a la, de los, a las…",
       "examples": [
         {
           "es": "Voy al supermercado todos los sábados.",
@@ -162,7 +162,7 @@
     {
       "pattern": "Verbos irregulares comunes en presente: tener / hacer / ir (常見不規則現在式)",
       "meaning_zh": "tener (有)、hacer (做/製造)、ir (去) 是 A1 階段必背的高頻不規則動詞，第一人稱和語幹變化都不規則。",
-      "structure": "tener: tengo, tienes, tiene, tenemos, tenéis, tienen；hacer: hago, haces, hace…；ir: voy, vas, va, vamos, vais, van",
+      "structure": "tener: tengo, tienes, tiene, tenemos, tenéis, tienen ; hacer: hago, haces, hace… ; ir: voy, vas, va, vamos, vais, van",
       "examples": [
         {
           "es": "Tengo dos hermanos y una hermana.",
@@ -181,7 +181,7 @@
     {
       "pattern": "Género y plural de los sustantivos (名詞的陰陽性與複數)",
       "meaning_zh": "西班牙文名詞分陰陽性：多以 -o 結尾為陽性，-a 結尾為陰性；複數時母音結尾加 -s，子音結尾加 -es。",
-      "structure": "el libro → los libros；la mesa → las mesas；el papel → los papeles；la ciudad → las ciudades",
+      "structure": "el libro → los libros ; la mesa → las mesas ; el papel → los papeles ; la ciudad → las ciudades",
       "examples": [
         {
           "es": "El libro está sobre la mesa.",
@@ -200,7 +200,7 @@
     {
       "pattern": "Expresiones con tener: hambre / sed / frío / calor (tener 慣用語)",
       "meaning_zh": "中文用「我很餓／渴／冷／熱」搭配 be 動詞，但西班牙文用 tener (有) 加無冠詞名詞，邏輯類似「擁有飢餓」。",
-      "structure": "tener + hambre / sed / frío / calor / sueño / miedo / prisa / años；強調用 mucho/mucha 而非 muy",
+      "structure": "tener + hambre / sed / frío / calor / sueño / miedo / prisa / años ; 強調用 mucho/mucha 而非 muy",
       "examples": [
         {
           "es": "Tengo mucha hambre, vamos a comer.",
@@ -2461,7 +2461,7 @@
     {
       "pattern": "Adjetivo «otro / otra» sin artículo",
       "meaning_zh": "西班牙語的 otro（另一個）前面不加不定冠詞 un/una，這與英文不同。",
-      "structure": "otro/otra + sustantivo（不加 un/una）",
+      "structure": "otro/otra + sustantivo(不加 un/una)",
       "examples": [
         {
           "es": "Quiero otro café, por favor.",
@@ -2746,7 +2746,7 @@
     {
       "pattern": "Días de la semana con «el» y «los»",
       "meaning_zh": "說某一天用 el lunes，說「每逢星期幾」用複數 los lunes。",
-      "structure": "el + día (一次) / los + día+s (習慣)",
+      "structure": "el + día (一次) / los + día + s (習慣)",
       "examples": [
         {
           "es": "El lunes voy al médico.",
@@ -2841,7 +2841,7 @@
     {
       "pattern": "Tiempo: «llueve» y «nieva»",
       "meaning_zh": "下雨用動詞 llueve，下雪用 nieva，兩者都是無人稱動詞。",
-      "structure": "llueve / nieva（無主詞）",
+      "structure": "llueve / nieva(無主詞)",
       "examples": [
         {
           "es": "Hoy llueve mucho.",
@@ -2900,7 +2900,7 @@
     {
       "pattern": "Pretérito Indefinido (規則式過去簡單式)",
       "meaning_zh": "用於描述過去已完成的單一動作或具體時間點的事件。常與 ayer, anoche, el lunes pasado 等時間副詞連用。",
-      "structure": "hablar→hablé/hablaste/habló/hablamos/hablasteis/hablaron；comer→comí/comiste/comió/comimos/comisteis/comieron",
+      "structure": "hablar→hablé/hablaste/habló/hablamos/hablasteis/hablaron ; comer→comí/comiste/comió/comimos/comisteis/comieron",
       "examples": [
         {
           "es": "Ayer hablé con mi madre por teléfono.",
@@ -2915,7 +2915,7 @@
     {
       "pattern": "Pretérito Imperfecto (過去未完成式)",
       "meaning_zh": "描述過去的習慣、背景、持續中的狀態，或同時發生的動作。常與 antes, siempre, todos los días 連用。",
-      "structure": "hablar→hablaba/hablabas/hablaba/hablábamos/hablabais/hablaban；vivir→vivía/vivías/vivía/vivíamos/vivíais/vivían",
+      "structure": "hablar→hablaba/hablabas/hablaba/hablábamos/hablabais/hablaban ; vivir→vivía/vivías/vivía/vivíamos/vivíais/vivían",
       "examples": [
         {
           "es": "Cuando era pequeño, vivía en un pueblo.",
@@ -2945,7 +2945,7 @@
     {
       "pattern": "Por vs Para",
       "meaning_zh": "兩個介系詞容易混淆：por 表示原因、經過、交換、時間段；para 表示目的、對象、目的地、期限。",
-      "structure": "por + 原因/時段/方式；para + 目的/對象/期限",
+      "structure": "por + 原因/時段/方式 ; para + 目的/對象/期限",
       "examples": [
         {
           "es": "Gracias por tu ayuda.",
@@ -3036,7 +3036,7 @@
     {
       "pattern": "Muy vs Mucho (程度副詞區分)",
       "meaning_zh": "muy 用於修飾形容詞或副詞，意思是「很」；mucho 用於修飾動詞或名詞，意思是「很多」，並要與名詞陰陽性複數一致。",
-      "structure": "muy + adjetivo / adverbio；verbo + mucho；mucho/mucha/muchos/muchas + sustantivo",
+      "structure": "muy + adjetivo / adverbio ; verbo + mucho ; mucho/mucha/muchos/muchas + sustantivo",
       "examples": [
         {
           "es": "Esta paella está muy rica.",
@@ -3055,7 +3055,7 @@
     {
       "pattern": "También / Tampoco (附和肯定與否定)",
       "meaning_zh": "también 用於附和肯定句，意為「也」；tampoco 用於附和否定句，意為「也不」，常配合間接受詞代名詞使用。",
-      "structure": "肯定附和: A mí también；否定附和: A mí tampoco；句中亦可: Yo también voy / Yo tampoco voy",
+      "structure": "肯定附和: A mí también ; 否定附和: A mí tampoco ; 句中亦可: Yo también voy / Yo tampoco voy",
       "examples": [
         {
           "es": "Me gusta el chocolate. — A mí también.",
@@ -3074,7 +3074,7 @@
     {
       "pattern": "Preposiciones de lugar (位置介系詞)",
       "meaning_zh": "西班牙文用來描述物體相對位置的常用介系詞，掌握 en, sobre, debajo de, delante de, detrás de, al lado de, entre 等。",
-      "structure": "en / sobre / debajo de / encima de / delante de / detrás de / al lado de / cerca de / lejos de / entre + 名詞",
+      "structure": "en / sobre / debajo de / encima de / delante de / detrás de / al lado de / cerca de / lejos de / entre + sustantivo",
       "examples": [
         {
           "es": "El gato está debajo de la mesa.",
@@ -3093,7 +3093,7 @@
     {
       "pattern": "Saber vs Conocer (兩種「知道／認識」)",
       "meaning_zh": "saber 表示「知道事實、訊息」或「會做某事」；conocer 表示「認識人、地方」或「初次接觸」。",
-      "structure": "saber + 從句 / 事實 / infinitivo；conocer + 人 / 地方 / 事物 (需要介系詞 a 接人)",
+      "structure": "saber + 從句 / 事實 / infinitivo ; conocer + 人 / 地方 / 事物 (需要介系詞 a 接人)",
       "examples": [
         {
           "es": "¿Sabes dónde está la estación de tren?",
@@ -3644,7 +3644,7 @@
     {
       "pattern": "Pronombres con verbo + infinitivo",
       "meaning_zh": "代名詞可放在動詞前，或附加在原形動詞之後：「Quiero verlo」或「Lo quiero ver」。",
-      "structure": "(pron) + verbo + infinitivo / verbo + infinitivo+pron",
+      "structure": "(pron) + verbo + infinitivo / verbo + infinitivo + pron",
       "examples": [
         {
           "es": "Quiero verte mañana.",
@@ -6152,7 +6152,7 @@
     {
       "pattern": "Pronombres con perífrasis — posición doble",
       "meaning_zh": "在「動詞+不定詞」結構中，受詞代名詞可放在變位動詞前，或黏在不定詞後：lo voy a hacer / voy a hacerlo。",
-      "structure": "lo + verbo + infinitivo / verbo + infinitivo+lo",
+      "structure": "lo + verbo + infinitivo / verbo + infinitivo + lo",
       "examples": [
         {
           "es": "Te voy a llamar esta noche. / Voy a llamarte esta noche.",
@@ -6465,7 +6465,7 @@
     {
       "pattern": "Comparativos y superlativos (比較級與最高級)",
       "meaning_zh": "más/menos…que 用於比較；el/la más…de 表達最高級；tan…como 表達同等比較。",
-      "structure": "más/menos + adj/adv + que；tan + adj + como；el/la más + adj + de",
+      "structure": "más/menos + adj/adv + que ; tan + adj + como ; el/la más + adj + de",
       "examples": [
         {
           "es": "Madrid es más grande que Valencia.",
@@ -6480,7 +6480,7 @@
     {
       "pattern": "Imperativo afirmativo y negativo (肯定與否定命令式)",
       "meaning_zh": "肯定命令式 tú 形用第三人稱單數動詞，否定命令式則使用現在虛擬式；受詞代名詞在肯定式後黏接，在否定式前置。",
-      "structure": "Afirmativo: ¡Verbo + pronombre! ／ Negativo: ¡No + pronombre + subjuntivo!",
+      "structure": "Afirmativo: ¡Verbo + pronombre! / Negativo: ¡No + pronombre + subjuntivo!",
       "examples": [
         {
           "es": "¡Dímelo ahora!",
@@ -6537,7 +6537,7 @@
     {
       "pattern": "Hace + tiempo + que (時間表達)",
       "meaning_zh": "用來表示「持續多久」或「多久以前發生」，搭配現在式表示持續至今，搭配過去式表示時間距離。",
-      "structure": "Hace + período + que + presente／pretérito indefinido",
+      "structure": "Hace + período + que + presente/pretérito indefinido",
       "examples": [
         {
           "es": "Hace tres años que vivo en Taipéi.",
@@ -6575,7 +6575,7 @@
     {
       "pattern": "Ser + adjetivo vs Estar + adjetivo (語意改變的形容詞)",
       "meaning_zh": "部分形容詞與 ser 或 estar 搭配時意思會明顯改變，例如 listo (聰明／準備好)、aburrido (無聊的人／覺得無聊)、rico (有錢／好吃)。",
-      "structure": "ser + listo = 聰明；estar + listo = 準備好；ser + aburrido = 令人乏味；estar + aburrido = 感到無聊",
+      "structure": "ser + listo = 聰明 ; estar + listo = 準備好 ; ser + aburrido = 令人乏味 ; estar + aburrido = 感到無聊",
       "examples": [
         {
           "es": "Mi sobrino es muy listo, aprende rápido.",
@@ -6594,7 +6594,7 @@
     {
       "pattern": "Oraciones temporales con cuando / mientras + indicativo (時間從句配陳述式)",
       "meaning_zh": "當 cuando 或 mientras 描述過去或習慣性同時發生的動作時，使用陳述式 (indicativo) 而不是虛擬式；指未來時才用虛擬式。",
-      "structure": "Cuando / Mientras + indicativo (過去 / 習慣)；vs Cuando + subjuntivo (未來)",
+      "structure": "Cuando / Mientras + indicativo (過去 / 習慣) ; vs Cuando + subjuntivo (未來)",
       "examples": [
         {
           "es": "Cuando era niño, vivía en un pueblo pequeño.",
@@ -6613,7 +6613,7 @@
     {
       "pattern": "Verbos de cambio: ponerse / volverse / convertirse en (表示變化的動詞)",
       "meaning_zh": "西班牙文沒有單一的「變成」動詞，依照變化性質選擇：ponerse 表暫時情緒或外觀；volverse 表性格的持久轉變；convertirse en 表身分或本質的徹底改變。",
-      "structure": "ponerse + adjetivo (情緒)；volverse + adjetivo (性格)；convertirse en + sustantivo (身分)",
+      "structure": "ponerse + adjetivo (情緒) ; volverse + adjetivo (性格) ; convertirse en + sustantivo (身分)",
       "examples": [
         {
           "es": "Mi madre se puso muy contenta con la noticia.",
@@ -7411,7 +7411,7 @@
     {
       "pattern": "Voz pasiva con ser + participio",
       "meaning_zh": "被動語態結構：ser + 過去分詞，過去分詞性別與數需與主詞一致，動作執行者可用 por 引出。",
-      "structure": "Sujeto + ser + participio (+ por + agente)",
+      "structure": "Sujeto + ser + participio ( + por + agente)",
       "examples": [
         {
           "es": "La casa fue construida por mi abuelo.",
@@ -8722,7 +8722,7 @@
     {
       "pattern": "Construcciones con resultar / acabar (resultar ser / acabar siendo)",
       "meaning_zh": "「結果是…、最後成為…」描述結局或最終狀態，常與 ser、+ adj. 搭配。",
-      "structure": "Resultar / Acabar + ser/estar/+ adj.",
+      "structure": "Resultar / Acabar + ser/estar/ + adj.",
       "examples": [
         {
           "es": "Resultó ser un buen amigo.",
@@ -8796,7 +8796,7 @@
     {
       "pattern": "Oraciones condicionales (Si 條件句三型)",
       "meaning_zh": "可能型 (si + 現在式, 現在/未來/命令)；非真實型 (si + 過去虛擬, 條件式)；過去非真實 (si + 過去完成虛擬, 完成條件式)。",
-      "structure": "si + presente, futuro；si + imperfecto de subjuntivo, condicional；si + pluscuamperfecto de subjuntivo, condicional compuesto",
+      "structure": "si + presente, futuro ; si + imperfecto de subjuntivo, condicional ; si + pluscuamperfecto de subjuntivo, condicional compuesto",
       "examples": [
         {
           "es": "Si estudias, aprobarás el examen.",
@@ -8811,7 +8811,7 @@
     {
       "pattern": "Voz pasiva (ser, estar, se 三種被動)",
       "meaning_zh": "ser + p.p. 強調動作；estar + p.p. 強調狀態；se + 第三人稱動詞是無人稱被動，最常用。",
-      "structure": "ser/estar + participio (concordancia)；se + verbo en 3ª persona",
+      "structure": "ser/estar + participio (concordancia) ; se + verbo en 3ª persona",
       "examples": [
         {
           "es": "El acuerdo fue firmado ayer.",
@@ -8860,7 +8860,7 @@
     {
       "pattern": "Usos del gerundio (副動詞用法)",
       "meaning_zh": "副動詞 -ando/-iendo 可表示同時動作、方式、原因或進行；不可用於表示後續或單純名詞功能。",
-      "structure": "Verbo principal + gerundio (manera/causa/simultaneidad) ／ estar + gerundio (progresivo)",
+      "structure": "Verbo principal + gerundio (manera/causa/simultaneidad) / estar + gerundio (progresivo)",
       "examples": [
         {
           "es": "Estoy estudiando para el examen.",
@@ -8879,7 +8879,7 @@
     {
       "pattern": "Pero vs Sino (轉折連接詞)",
       "meaning_zh": "pero 表一般轉折「但是」；sino 用在前句為否定、且後面是與前項對立的詞或子句（sino que 接動詞）。",
-      "structure": "Frase afirmativa/negativa + pero + ... ／ No ... sino (que) + ...",
+      "structure": "Frase afirmativa/negativa + pero + ... / No ... sino (que) + ...",
       "examples": [
         {
           "es": "Estoy cansado, pero voy a salir.",
@@ -8936,7 +8936,7 @@
     {
       "pattern": "Conectores causales avanzados: debido a / ya que / dado que (進階因果連接詞)",
       "meaning_zh": "比 porque 更正式的因果連接詞：debido a 後接名詞；ya que 與 dado que 後接陳述式從句，多用於書面或正式語體。",
-      "structure": "debido a + sustantivo / infinitivo；ya que / dado que / puesto que + oración (indicativo)",
+      "structure": "debido a + sustantivo / infinitivo ; ya que / dado que / puesto que + oración (indicativo)",
       "examples": [
         {
           "es": "El vuelo se canceló debido al mal tiempo.",
@@ -8955,7 +8955,7 @@
     {
       "pattern": "Perífrasis durativas: seguir / continuar + gerundio, llevar + tiempo + gerundio (持續性動詞迂迴)",
       "meaning_zh": "seguir / continuar + 副動詞 表示「繼續做」；llevar + 時間 + 副動詞 表示「已經做了多久」，等同於英文的 have been doing。",
-      "structure": "seguir / continuar + gerundio；llevar + 時間長度 + gerundio",
+      "structure": "seguir / continuar + gerundio ; llevar + 時間長度 + gerundio",
       "examples": [
         {
           "es": "A pesar de todo, sigue trabajando en el mismo proyecto.",
@@ -8974,7 +8974,7 @@
     {
       "pattern": "Modalizadores de probabilidad: quizá(s) / tal vez / probablemente (推測副詞配陳述式或虛擬式)",
       "meaning_zh": "quizá(s), tal vez, probablemente 等推測副詞，可依說話者確信程度選擇陳述式 (較肯定) 或虛擬式 (較不確定)；a lo mejor 則一律配陳述式。",
-      "structure": "quizá(s) / tal vez / probablemente + indicativo (較肯定) / + subjuntivo (較不確定)；a lo mejor + indicativo",
+      "structure": "quizá(s) / tal vez / probablemente + indicativo (較肯定) / + subjuntivo (較不確定) ; a lo mejor + indicativo",
       "examples": [
         {
           "es": "Quizá venga Pedro a la fiesta, no estoy seguro.",
@@ -11202,7 +11202,7 @@
     {
       "pattern": "Aunque + indicativo vs subjuntivo (讓步從句)",
       "meaning_zh": "aunque 接陳述式表示「儘管（事實如此）」，接虛擬式表示「即使（假設或不確定）」或「即使（已知但不在意）」。",
-      "structure": "Aunque + indicativo (hecho conocido) ／ Aunque + subjuntivo (hipótesis o irrelevancia)",
+      "structure": "Aunque + indicativo (hecho conocido) / Aunque + subjuntivo (hipótesis o irrelevancia)",
       "examples": [
         {
           "es": "Aunque llueve, voy a salir.",
@@ -11240,7 +11240,7 @@
     {
       "pattern": "Que enfático y exclamativo (強調與感嘆 que)",
       "meaning_zh": "que 可用於強烈祈使（¡Que + 虛擬式!）、感嘆（¡Qué + 形容詞/名詞!），以及引出對前文的解釋說明（強調語氣）。",
-      "structure": "¡Qué + adjetivo/sustantivo (+ más/tan + adj)! ／ ¡Que + presente de subjuntivo!",
+      "structure": "¡Qué + adjetivo/sustantivo ( + más/tan + adj)! / ¡Que + presente de subjuntivo!",
       "examples": [
         {
           "es": "¡Qué día tan bonito!",
@@ -11278,7 +11278,7 @@
     {
       "pattern": "Oraciones concesivas: aun cuando / por más que / por mucho que (進階讓步從句)",
       "meaning_zh": "比 aunque 更強調的讓步連接詞，aun cuando 強調極端假設，por más que / por mucho que 強調「不管多麼…也」。視語義真實性選陳述式或虛擬式。",
-      "structure": "aun cuando + indicativo / subjuntivo；por más que / por mucho que + indicativo / subjuntivo",
+      "structure": "aun cuando + indicativo / subjuntivo ; por más que / por mucho que + indicativo / subjuntivo",
       "examples": [
         {
           "es": "Aun cuando tuviera dinero, no compraría esa casa.",
@@ -11449,7 +11449,7 @@
     {
       "pattern": "Así + presente/imperfecto de subjuntivo — maldición o deseo intenso",
       "meaning_zh": "Así 引導獨立虛擬式表達強烈詛咒、不滿或反諷的願望，語氣激烈，屬於書面或正式口語。",
-      "structure": "Así + verbo en subjuntivo (+ complementos)",
+      "structure": "Así + verbo en subjuntivo ( + complementos)",
       "examples": [
         {
           "es": "Así te parta un rayo por traidor.",
@@ -11791,7 +11791,7 @@
     {
       "pattern": "Deber + infinitivo vs Deber de + infinitivo — obligación vs suposición C1",
       "meaning_zh": "deber + 不定詞表義務或建議；deber de + 不定詞表推測，C1 強調兩者語意微差與正式區別。",
-      "structure": "Deber (+ de) + infinitivo",
+      "structure": "Deber ( + de) + infinitivo",
       "examples": [
         {
           "es": "Debes estudiar más para aprobar.",
@@ -13549,7 +13549,7 @@
     {
       "pattern": "Pasiva refleja vs pasiva con ser — matiz de agente",
       "meaning_zh": "「se」被動式強調動作本身而隱去施事者；「ser+過分」可明示施事者並具書面正式色彩。",
-      "structure": "Se + verbo activo (3.ª pers.) / Ser + participio (+ por agente)",
+      "structure": "Se + verbo activo (3.ª pers.) / Ser + participio ( + por agente)",
       "examples": [
         {
           "es": "Se vendieron mil entradas en una hora.",
@@ -13958,7 +13958,7 @@
     {
       "pattern": "Hacer + infinitivo — causativo de un solo agente",
       "meaning_zh": "「讓／使…做」直接由主語使另一人或物產生動作，主語與被使動者構成單一行為單位。",
-      "structure": "Hacer + infinitivo (+ a alguien)",
+      "structure": "Hacer + infinitivo ( + a alguien)",
       "examples": [
         {
           "es": "Su comentario me hizo reflexionar.",
@@ -14315,7 +14315,7 @@
     {
       "pattern": "Subjuntivo en concesivas con valor general: lo que sea, donde sea, como sea",
       "meaning_zh": "雙倍虛擬式的廣義讓步：「無論是什麼／哪裡／怎樣」表達不限定的接受度。",
-      "structure": "Lo que sea / Donde sea / Como sea (+ oración principal)",
+      "structure": "Lo que sea / Donde sea / Como sea ( + oración principal)",
       "examples": [
         {
           "es": "Comeré lo que sea, tengo hambre.",
@@ -14657,7 +14657,7 @@
     {
       "pattern": "Registros estilísticos (文體層次切換)",
       "meaning_zh": "區別正式／非正式／文學語體：詞彙選擇、句法複雜度、被動式比例、subjuntivo 使用密度都會變化。",
-      "structure": "選詞與句法配合語境（口語 / 中性 / 正式 / 文學）",
+      "structure": "選詞與句法配合語境(口語 / 中性 / 正式 / 文學)",
       "examples": [
         {
           "es": "Coloquial: Le dije que se diera prisa. Formal: Le insté a que se apresurase.",
@@ -14721,7 +14721,7 @@
     {
       "pattern": "Voz media y construcciones con se (中動語態與 se 的多重用法)",
       "meaning_zh": "中動語態用 se 將事件「自然發生化」，淡化施事者；同時 se 也可用於非預期事件（se me cayó），及一般化主詞。",
-      "structure": "Se + verbo (3ª persona) ／ Se + me/te/le/nos/os/les + verbo + sujeto involuntario",
+      "structure": "Se + verbo (3ª persona) / Se + me/te/le/nos/os/les + verbo + sujeto involuntario",
       "examples": [
         {
           "es": "Se me ha roto el móvil.",
@@ -14740,7 +14740,7 @@
     {
       "pattern": "Focalización con lo que / es ... el que (lo que 與分裂結構的焦點化)",
       "meaning_zh": "透過 lo que、es ... el/la que、es ... cuando/donde 等結構把句中某個成分「拉到焦點」，強調該元素，常見於書面與口語修辭。",
-      "structure": "Lo que + verbo + es + sustantivo ／ Es + elemento focal + el/la que / cuando / donde + verbo",
+      "structure": "Lo que + verbo + es + sustantivo / Es + elemento focal + el/la que / cuando / donde + verbo",
       "examples": [
         {
           "es": "Lo que más me molesta es su actitud.",
@@ -14759,7 +14759,7 @@
     {
       "pattern": "Elipsis y registros formales (省略與正式語體)",
       "meaning_zh": "在正式書面語中，可省略已知主詞、動詞或重複成分，並使用較高層次的連接詞與被動結構，使文意凝練；口語則傾向冗贅或重述。",
-      "structure": "Coordinación con elementos elididos ／ uso de construcciones nominalizadas y pasivas",
+      "structure": "Coordinación con elementos elididos / uso de construcciones nominalizadas y pasivas",
       "examples": [
         {
           "es": "Unos llegaron a tiempo; otros, tarde.",
@@ -14778,7 +14778,7 @@
     {
       "pattern": "Subjuntivo en relativas: antecedente conocido vs desconocido (關係子句先行詞已知／未知)",
       "meaning_zh": "關係子句中若先行詞是已知、具體的人事物則用陳述式；若是未知、不存在或不確定的對象，則使用虛擬式以表達「假設性」。",
-      "structure": "Antecedente conocido + que + indicativo；antecedente desconocido / hipotético + que + subjuntivo",
+      "structure": "Antecedente conocido + que + indicativo ; antecedente desconocido / hipotético + que + subjuntivo",
       "examples": [
         {
           "es": "Busco un piso que tenga balcón y mucha luz.",
@@ -14797,7 +14797,7 @@
     {
       "pattern": "Construcciones absolutas: participio / gerundio absoluto (絕對結構)",
       "meaning_zh": "絕對結構由分詞或副動詞引導，其主詞不同於主句，前置表達「一旦…之後」或「在…的情況下」，屬於高階書面正式用法。",
-      "structure": "Participio absoluto + (sujeto) + …, oración principal；Gerundio absoluto + (sujeto) + …, oración principal",
+      "structure": "Participio absoluto + (sujeto) + …, oración principal ; Gerundio absoluto + (sujeto) + …, oración principal",
       "examples": [
         {
           "es": "Terminada la reunión, todos se marcharon a casa.",
@@ -14816,7 +14816,7 @@
     {
       "pattern": "Oraciones de relativo explicativas vs especificativas (解釋性與限定性關係子句)",
       "meaning_zh": "限定性 (especificativa) 不加逗號，限定先行詞範圍；解釋性 (explicativa) 用逗號隔開，僅補充說明，刪除後不影響主要意思。",
-      "structure": "Antecedente + que + … (especificativa)；antecedente, que + …, (explicativa, 有逗號)",
+      "structure": "Antecedente + que + … (especificativa) ; antecedente, que + …, (explicativa, 有逗號)",
       "examples": [
         {
           "es": "Los estudiantes que estudian mucho aprueban el examen.",
@@ -14835,7 +14835,7 @@
     {
       "pattern": "Marcadores epistémicos sofisticados: a tenor de / por lo que se ve / al parecer (高階推斷標記)",
       "meaning_zh": "正式書面語中用來表示推論依據或外觀判斷：a tenor de 意為「依據…」；por lo que se ve 與 al parecer 表「就看起來」「顯然」。",
-      "structure": "A tenor de + sustantivo, oración；Por lo que se ve / Al parecer, + oración (indicativo)",
+      "structure": "A tenor de + sustantivo, oración ; Por lo que se ve / Al parecer, + oración (indicativo)",
       "examples": [
         {
           "es": "A tenor de los últimos datos, la economía se recupera lentamente.",
@@ -14911,7 +14911,7 @@
     {
       "pattern": "Llevar + participio (累積完成貌)",
       "meaning_zh": "「llevar + 過去分詞」表示「截至目前已累積完成的動作量」，分詞需與直接受詞性數一致。",
-      "structure": "Llevar + participio (+ complemento)",
+      "structure": "Llevar + participio ( + complemento)",
       "examples": [
         {
           "es": "Llevo leídas más de doscientas páginas del informe.",
@@ -15918,7 +15918,7 @@
     {
       "pattern": "Subjuntivo en cláusula sustantiva con verbos psicológicos (estilo culto)",
       "meaning_zh": "心理動詞 sorprender、extrañar、indignar 後加 que 子句須用虛擬式，書面語體還可省略 que 或前置。",
-      "structure": "Verbo psicológico (+ a mí me) + que + subjuntivo",
+      "structure": "Verbo psicológico ( + a mí me) + que + subjuntivo",
       "examples": [
         {
           "es": "Me sorprende que aún no haya llegado nadie.",
@@ -17552,7 +17552,7 @@
     {
       "pattern": "Ya sea X, ya sea Y — disyuntivo distributivo",
       "meaning_zh": "用以列舉兩個或多個可能的選項，屬於書面語體的選擇連接結構，常見於正式文書與論述。",
-      "structure": "Ya sea + X, ya sea + Y (+ ya sea + Z)",
+      "structure": "Ya sea + X, ya sea + Y ( + ya sea + Z)",
       "examples": [
         {
           "es": "Acudirán todos, ya sea por curiosidad, ya sea por compromiso.",
@@ -17799,7 +17799,7 @@
     {
       "pattern": "Mandar + infinitivo — causativo con orden",
       "meaning_zh": "mandar+不定詞表「命令／指示他人去做某事」，主語透過命令使動作發生，常用於正式文體。",
-      "structure": "Mandar + infinitivo (+ a alguien)",
+      "structure": "Mandar + infinitivo ( + a alguien)",
       "examples": [
         {
           "es": "El rey mandó construir un palacio.",
