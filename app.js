@@ -2289,7 +2289,7 @@ function flattenVocab(obj) {
 // 依當前模式解析 → {lang, pool, latin, fwd}。lang 為 lookupEntryHtml 期望的 key
 // （'ja' 顯示 kanji+kana；'ko' 顯示 romanization；其餘顯示 word）。
 function lookupSearchPool() {
-  const lang = lookupSceneLang();
+  const lang = lookupLang || lookupSceneLang();
   if (lang === "es")       return { lang, pool: flattenVocab(DATA.vocab_dele),  latin: true,  fwd: ["word"] };
   if (lang === "en_gept")  return { lang, pool: flattenVocab(DATA.vocab_gept),  latin: true,  fwd: ["word"] };
   if (lang === "en_toeic") return { lang, pool: flattenVocab(DATA.vocab_toeic), latin: true,  fwd: ["word"] };
@@ -2432,6 +2432,15 @@ function runLookupSearch() {
   renderLookupResults(searchVocab(q));
 }
 
+// 查單字「語言覆寫」：popup 內可獨立切換查詢語言，不影響右上角 state.level。
+// null = 尚未設定（lookupSearchPool 會退回 lookupSceneLang()）；開窗時設為當前級別對應語言。
+let lookupLang = null;
+function setLookupLang(lang) {
+  lookupLang = lang;
+  document.querySelectorAll("#lookup-search .lookup-lang[data-llang]")
+    .forEach(b => b.classList.toggle("active", b.dataset.llang === lang));
+}
+
 function openLookupSearch() {
   const ov = document.getElementById("lookup-search");
   if (!ov) return;
@@ -2441,6 +2450,7 @@ function openLookupSearch() {
   if (input) input.value = "";
   if (box) box.innerHTML = "";
   if (ul) { ul.hidden = true; ul.innerHTML = ""; }
+  setLookupLang(lookupSceneLang());   // 預設＝右上角級別對應語言（被選取，顯示外框）
   ov.hidden = false;
   if (input) setTimeout(() => input.focus(), 0);
 }
@@ -2823,6 +2833,19 @@ window.addEventListener("DOMContentLoaded", async () => {
     if (e.target.id === "lookup-search") closeLookupSearch();
   });
   document.getElementById("lookup-go")?.addEventListener("click", runLookupSearch);
+  // 語言切換鈕：改查該語言的單字池（不動右上角級別）
+  document.querySelectorAll("#lookup-search .lookup-lang[data-llang]").forEach(b => {
+    b.addEventListener("click", () => {
+      setLookupLang(b.dataset.llang);
+      const inp = document.getElementById("lookup-input");
+      const box = document.getElementById("lookup-results");
+      const ul = document.getElementById("lookup-suggest");
+      if (ul) { ul.hidden = true; ul.innerHTML = ""; }
+      if (inp && inp.value.trim()) runLookupSearch();   // 有輸入則用新語言重查
+      else if (box) box.innerHTML = "";
+      if (inp) inp.focus();
+    });
+  });
   const lookupInput = document.getElementById("lookup-input");
   if (lookupInput) {
     lookupInput.addEventListener("input", () => renderLookupSuggest(lookupInput.value));

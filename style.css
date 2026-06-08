@@ -1014,6 +1014,15 @@ footer {
 .mem-retention small { color: var(--muted); font-size: 12px; display: block; margin-top: 3px; }
 
 /* 單字 popup（card-picker）*/
+/* 查單字：語言切換鈕（置中；選到的外框＝放大鏡鈕邊框色 var(--accent)）*/
+.lookup-langs { display: flex; justify-content: center; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.lookup-lang {
+  padding: 5px 12px; border: 2px solid transparent; border-radius: 999px;
+  background: var(--accent-soft); color: var(--text);
+  font-family: inherit; font-size: 13px; font-weight: 600; cursor: pointer;
+}
+.lookup-lang.active { border-color: var(--accent); }
+
 .card-picker-tabs { padding: 0 0 8px; }
 .srs-deck-divider {
   border-top: 2px solid color-mix(in srgb, var(--accent-soft) 80%, var(--accent) 20%);
