@@ -33,7 +33,7 @@
     {
       "pattern": "Present Perfect Continuous",
       "meaning_zh": "用於強調一個從過去開始並持續到現在（且可能仍在進行）的動作，著重動作的持續性與過程。常與 for, since, all day, lately 連用。",
-      "structure": "S + have/has + been + V-ing + for/since + time",
+      "structure": "S + have/has + been + V-ing + for/since + 時間",
       "examples": [
         {
           "en": "The engineers have been working on the new prototype for six months.",
@@ -48,7 +48,7 @@
     {
       "pattern": "Future Continuous",
       "meaning_zh": "用於表達在未來某一特定時間點正在進行的動作，常用於商務行程描述。",
-      "structure": "S + will + be + V-ing + at/this time + future time",
+      "structure": "S + will + be + V-ing + at/this time + 未來時間",
       "examples": [
         {
           "en": "This time next week, we will be presenting our proposal in Tokyo.",
@@ -63,7 +63,7 @@
     {
       "pattern": "Future Perfect",
       "meaning_zh": "用於表達在未來某一時間點之前將已完成的動作，常與 by + 未來時間 連用。",
-      "structure": "S + will + have + p.p. + by + future time",
+      "structure": "S + will + have + p.p. + by + 未來時間",
       "examples": [
         {
           "en": "By the end of this quarter, we will have launched three new products.",
@@ -78,7 +78,7 @@
     {
       "pattern": "Passive Voice (Present Simple)",
       "meaning_zh": "當動作的執行者不重要、未知或不需提及時使用被動語態，強調動作本身或受詞。常見於商業報告、公告與流程說明。",
-      "structure": "S + am/is/are + p.p. (+ by + agent)",
+      "structure": "S + am/is/are + p.p. (+ by + 行為者)",
       "examples": [
         {
           "en": "All invoices are processed within five business days.",
@@ -123,7 +123,7 @@
     {
       "pattern": "Conditional Type 0 (Zero Conditional)",
       "meaning_zh": "用於陳述普遍真理、科學事實或一般規律，主從句皆使用現在式。",
-      "structure": "If + S + V (present), S + V (present)",
+      "structure": "If + S + V (現在式), S + V (現在式)",
       "examples": [
         {
           "en": "If customers pay within ten days, they receive a 5 percent discount.",
@@ -138,7 +138,7 @@
     {
       "pattern": "Conditional Type 1 (First Conditional)",
       "meaning_zh": "用於描述未來可能發生的真實情況及其結果，if 子句用現在式，主句用 will 或情態動詞。",
-      "structure": "If + S + V (present), S + will/can/may + V",
+      "structure": "If + S + V (現在式), S + will/can/may + V",
       "examples": [
         {
           "en": "If we sign the contract today, the shipment will arrive next week.",
@@ -183,7 +183,7 @@
     {
       "pattern": "Mixed Conditional",
       "meaning_zh": "混合條件句，用於表達過去條件對現在結果的影響（或反之），結合第二與第三條件句的結構。",
-      "structure": "If + S + had + p.p., S + would + V (now)",
+      "structure": "If + S + had + p.p., S + would + V (現在)",
       "examples": [
         {
           "en": "If we had hired more engineers last year, we would have a competitive product now.",
@@ -198,7 +198,7 @@
     {
       "pattern": "Reported Speech (Statements)",
       "meaning_zh": "間接引述他人話語，須將時態往後推一級（現在→過去、過去→過去完成），並調整代名詞與時間副詞。",
-      "structure": "S + said/told (+ O) + that + S + V (back-shifted)",
+      "structure": "S + said/told (+ O) + that + S + V (時態後移)",
       "examples": [
         {
           "en": "The director said that the merger would be finalized by June.",
@@ -243,7 +243,7 @@
     {
       "pattern": "Subjunctive Mood (that-clause)",
       "meaning_zh": "在 recommend, suggest, request, demand, insist, propose, require 及 important/essential/necessary that 之後，子句須使用原形動詞（不論主詞或時態）。",
-      "structure": "S + recommend/suggest/request/demand + that + S + V (base form)",
+      "structure": "S + recommend/suggest/request/demand + that + S + V (原形)",
       "examples": [
         {
           "en": "The board recommended that the CEO postpone the announcement.",
@@ -333,7 +333,7 @@
     {
       "pattern": "Verbs with Gerund or Infinitive (different meaning)",
       "meaning_zh": "remember, forget, stop, regret, try 等動詞可接動名詞或不定詞，但意義不同：V-ing 多指過去動作，to V 多指未來/目的。",
-      "structure": "S + remember/forget/stop + V-ing (past) / to V (future)",
+      "structure": "S + remember/forget/stop + V-ing (過去) / to V (未來)",
       "examples": [
         {
           "en": "Please remember to send the invoice before leaving the office.",
@@ -348,7 +348,7 @@
     {
       "pattern": "Participle Adjectives (-ing vs -ed)",
       "meaning_zh": "-ing 形容詞描述事物的特性（令人…的），-ed 形容詞描述人的感受（感到…的）。例如 interesting/interested, confusing/confused, exciting/excited。",
-      "structure": "Thing + is + V-ing (characteristic) / Person + is + V-ed (feeling)",
+      "structure": "Thing + is + V-ing (特性) / Person + is + V-ed (感受)",
       "examples": [
         {
           "en": "The training session was very informative, and all participants were satisfied.",
@@ -393,7 +393,7 @@
     {
       "pattern": "Parallel Structure (not only...but also)",
       "meaning_zh": "對等連接詞前後須使用相同詞性或結構。not only...but also, both...and, either...or, neither...nor 須維持對稱。",
-      "structure": "not only + X + but also + X (X = same part of speech)",
+      "structure": "not only + X + but also + X (X = 同詞性)",
       "examples": [
         {
           "en": "The new software is not only user-friendly but also cost-effective.",
@@ -453,7 +453,7 @@
     {
       "pattern": "Prepositions of Time (in/on/at)",
       "meaning_zh": "in 用於月份、年份、季節、世紀；on 用於日期、星期；at 用於確切時間點。是 TOEIC 高頻測驗點。",
-      "structure": "in + month/year/season ; on + day/date ; at + clock time",
+      "structure": "in + 月份/年份/季節 ; on + 日子/日期 ; at + 時刻",
       "examples": [
         {
           "en": "The shareholders' meeting will be held on March 15 at 10 a.m.",
@@ -468,7 +468,7 @@
     {
       "pattern": "Prepositions: by vs until",
       "meaning_zh": "by 表「在…之前完成」（單次動作的截止時間）；until/till 表「直到…為止」（動作持續到該時間點）。",
-      "structure": "by + deadline (one-time action) / until + ending time (continuous action)",
+      "structure": "by + 截止時間 (一次性動作) / until + 結束時間 (持續動作)",
       "examples": [
         {
           "en": "Please submit your expense report by Friday.",
@@ -483,7 +483,7 @@
     {
       "pattern": "Prepositions: for vs since",
       "meaning_zh": "for 後接一段時間（持續多久）；since 後接時間起點（從何時開始）。常與完成式連用。",
-      "structure": "for + duration / since + starting point",
+      "structure": "for + 期間 / since + 起始點",
       "examples": [
         {
           "en": "Mr. Wang has worked at this firm for over twenty years.",
@@ -513,7 +513,7 @@
     {
       "pattern": "Articles (a/an/the/zero)",
       "meaning_zh": "a/an 用於可數名詞單數的初次提及；the 用於特定指稱或第二次提及；零冠詞用於不可數或泛指複數。",
-      "structure": "a/an + singular countable (first mention) ; the + specific noun ; zero + general plural/uncountable",
+      "structure": "a/an + 單數可數名詞 (首次提及) ; the + 特定名詞 ; zero + 一般複數/不可數",
       "examples": [
         {
           "en": "We received an email from a new client; the email contained an urgent request.",
@@ -573,7 +573,7 @@
     {
       "pattern": "Quantifiers (much/many, few/little)",
       "meaning_zh": "much 與 little 修飾不可數名詞，many 與 few 修飾可數名詞複數。a few/a little 表「有一些」（肯定），few/little 表「幾乎沒有」（否定）。",
-      "structure": "much/(a) little + uncountable ; many/(a) few + plural countable",
+      "structure": "much/(a) little + 不可數名詞 ; many/(a) few + 複數可數名詞",
       "examples": [
         {
           "en": "We have very little time to finalize the budget proposal.",
@@ -603,7 +603,7 @@
     {
       "pattern": "Cleft Sentences (It-cleft / Wh-cleft)",
       "meaning_zh": "用於強調句中某一成分。It is/was + 強調部分 + that/who + 其餘子句；What + S + V + is + 強調部分。",
-      "structure": "It is/was + emphasized part + that/who + S + V / What + S + V + is + N",
+      "structure": "It is/was + 強調部分 + that/who + S + V / What + S + V + is + N",
       "examples": [
         {
           "en": "It was the marketing director who proposed the new branding strategy.",
@@ -618,7 +618,7 @@
     {
       "pattern": "Causative Verbs (have/get something done)",
       "meaning_zh": "have/get + 物 + p.p. 表「請人做某事」（被動使役），強調事情被完成而非執行者。",
-      "structure": "S + have/get + thing + p.p. (+ by someone)",
+      "structure": "S + have/get + 事物 + p.p. (+ by + 某人)",
       "examples": [
         {
           "en": "We had the office repainted over the weekend.",
@@ -633,7 +633,7 @@
     {
       "pattern": "Causative Verbs (make/let/have someone do)",
       "meaning_zh": "make/let/have + 人 + 原形動詞 表「使/讓/請某人做某事」；help 後可接原形動詞或不定詞；其他使役則用 get + 人 + to V。",
-      "structure": "S + make/let/have + O + V (base) / get + O + to V",
+      "structure": "S + make/let/have + O + V (原形) / get + O + to V",
       "examples": [
         {
           "en": "The supervisor had the new hires complete the orientation forms.",
@@ -678,7 +678,7 @@
     {
       "pattern": "Tag Questions",
       "meaning_zh": "附加問句的助動詞與主詞須與主句一致；肯定句配否定附加，否定句配肯定附加。",
-      "structure": "Affirmative S + V, + negative aux + pronoun? / Negative S + V, + affirmative aux + pronoun?",
+      "structure": "肯定 S + V, + 否定助動詞 + 代名詞? / 否定 S + V, + 肯定助動詞 + 代名詞?",
       "examples": [
         {
           "en": "You have already filed the tax documents, haven't you?",
@@ -693,7 +693,7 @@
     {
       "pattern": "Word Formation (success/successful/successfully)",
       "meaning_zh": "TOEIC 常測驗同一字根的不同詞性。名詞、形容詞、副詞、動詞之間須根據句中位置與功能選擇正確形式。",
-      "structure": "noun (-tion/-ment/-ity) / adjective (-ful/-ive/-ous) / adverb (-ly) / verb",
+      "structure": "名詞 (-tion/-ment/-ity) / 形容詞 (-ful/-ive/-ous) / 副詞 (-ly) / 動詞",
       "examples": [
         {
           "en": "The product launch was a tremendous success and was managed successfully by the new team.",
@@ -708,7 +708,7 @@
     {
       "pattern": "Tricky Pairs: affect vs effect",
       "meaning_zh": "affect 通常為動詞，意為「影響」；effect 通常為名詞，意為「影響、效果」。effect 偶爾作動詞表「使產生、實現」（如 effect change）。",
-      "structure": "affect (v.) = to influence ; effect (n.) = result/influence",
+      "structure": "affect (動詞) = 影響 ; effect (名詞) = 結果/影響",
       "examples": [
         {
           "en": "The new tax policy will affect every small business in the region.",
@@ -723,7 +723,7 @@
     {
       "pattern": "Tricky Pairs: fewer vs less",
       "meaning_zh": "fewer 修飾可數名詞複數（fewer employees）；less 修飾不可數名詞（less time, less money）。為 TOEIC Part 5 高頻測驗點。",
-      "structure": "fewer + countable plural noun ; less + uncountable noun",
+      "structure": "fewer + 可數複數名詞 ; less + 不可數名詞",
       "examples": [
         {
           "en": "Fewer customers visited the store this month due to the renovation.",
@@ -738,7 +738,7 @@
     {
       "pattern": "Tricky Pairs: in time vs on time",
       "meaning_zh": "on time 表「準時、按時」（不早不晚）；in time 表「及時、來得及」（在期限之前留有餘裕）。",
-      "structure": "on time = punctual ; in time (for sth / to V) = early enough",
+      "structure": "on time = 準時 ; in time (for sth / to V) = 及時",
       "examples": [
         {
           "en": "The conference began exactly on time at 9 a.m.",
@@ -1083,7 +1083,7 @@
     {
       "pattern": "Passive Voice (Simple Present)",
       "meaning_zh": "強調動作的承受者，或當動作者不重要、不明、不想提及時使用，多益常見於流程與政策說明。",
-      "structure": "S + am/is/are + p.p. (+ by + agent)",
+      "structure": "S + am/is/are + p.p. (+ by + 行為者)",
       "examples": [
         {
           "en": "All invoices are processed by the finance department.",
@@ -1098,7 +1098,7 @@
     {
       "pattern": "Passive Voice (Simple Past)",
       "meaning_zh": "強調過去動作的承受者，多益常用於公告事件、決議與結果。",
-      "structure": "S + was/were + p.p. (+ by + agent)",
+      "structure": "S + was/were + p.p. (+ by + 行為者)",
       "examples": [
         {
           "en": "The proposal was approved by the board last Friday.",
@@ -1203,7 +1203,7 @@
     {
       "pattern": "Present Participle vs. Past Participle as Adjective",
       "meaning_zh": "V-ing 形容詞修飾「使人產生感覺的事物」；V-ed 形容詞描述「人本身的感覺或被動狀態」。",
-      "structure": "V-ing (active/cause) vs. V-ed (passive/feeling)",
+      "structure": "V-ing (主動/原因) vs. V-ed (被動/感受)",
       "examples": [
         {
           "en": "The keynote speech was inspiring, and all the attendees felt inspired.",
@@ -1218,7 +1218,7 @@
     {
       "pattern": "Zero Conditional (Type 0)",
       "meaning_zh": "用於表達科學事實、一般真理或必然結果，if 可換成 when，多益常見於操作流程說明。",
-      "structure": "If + S + V (present), S + V (present)",
+      "structure": "If + S + V (現在式), S + V (現在式)",
       "examples": [
         {
           "en": "If you press this button, the printer automatically starts scanning.",
@@ -1233,7 +1233,7 @@
     {
       "pattern": "First Conditional (Type 1: Real Future)",
       "meaning_zh": "用於表達未來可能實現的條件與結果，多益常見於商業承諾與決策。",
-      "structure": "If + S + V (present), S + will + V",
+      "structure": "If + S + V (現在式), S + will + V",
       "examples": [
         {
           "en": "If we sign the contract today, the supplier will offer a ten percent discount.",
@@ -1248,7 +1248,7 @@
     {
       "pattern": "Second Conditional (Type 2: Unreal Present)",
       "meaning_zh": "用於與現在事實相反的假設或不太可能發生的未來情況，多益常見於假想策略討論。",
-      "structure": "If + S + V (past), S + would + V",
+      "structure": "If + S + V (過去式), S + would + V",
       "examples": [
         {
           "en": "If our budget were larger, we would hire two more designers.",
@@ -1278,7 +1278,7 @@
     {
       "pattern": "Mixed Conditional (Past Condition, Present Result)",
       "meaning_zh": "混合條件句，過去未發生的條件造成現在的結果，常用於反省過去決策對現況的影響。",
-      "structure": "If + S + had + p.p., S + would + V (now)",
+      "structure": "If + S + had + p.p., S + would + V (現在)",
       "examples": [
         {
           "en": "If we had invested in automation last year, we would not be facing a labor shortage now.",
@@ -1323,7 +1323,7 @@
     {
       "pattern": "Inverted Conditional with Should (Type 1)",
       "meaning_zh": "用 should 倒裝開頭，表達「萬一」或「若有」，語氣禮貌正式，常見於商業書信。",
-      "structure": "Should + S + V, S + will / imperative",
+      "structure": "Should + S + V, S + will / 祈使句",
       "examples": [
         {
           "en": "Should you have any questions, please contact our support team.",
@@ -1353,7 +1353,7 @@
     {
       "pattern": "Wish + Past (Regret About Present)",
       "meaning_zh": "表達對現在情況不滿的願望，動詞使用過去式，與第二條件句的時態邏輯相同。",
-      "structure": "S + wish (that) + S + V (past)",
+      "structure": "S + wish (that) + S + V (過去式)",
       "examples": [
         {
           "en": "I wish our office were closer to the train station.",
@@ -1398,7 +1398,7 @@
     {
       "pattern": "If Only (Stronger Wish)",
       "meaning_zh": "比 wish 語氣更強烈的遺憾或願望，可搭配過去式（現在遺憾）或 had + p.p.（過去遺憾）。",
-      "structure": "If only + S + V (past) / had + p.p.",
+      "structure": "If only + S + V (過去式) / had + p.p.",
       "examples": [
         {
           "en": "If only we had more qualified candidates to interview.",
@@ -1413,7 +1413,7 @@
     {
       "pattern": "Subjunctive in Noun Clauses (Suggest / Recommend / Insist)",
       "meaning_zh": "建議、要求、堅持類動詞後的 that 子句中，動詞使用原形（虛擬語氣），主詞無人稱變化。",
-      "structure": "S + suggest / recommend / insist + that + S + V (base form)",
+      "structure": "S + suggest / recommend / insist + that + S + V (原形)",
       "examples": [
         {
           "en": "The consultant recommended that the company restructure its sales team.",
@@ -1428,7 +1428,7 @@
     {
       "pattern": "Subjunctive with Demand / Request / Propose / Urge / Ask",
       "meaning_zh": "要求、請求、提議類動詞後接 that 子句時，主動或被動皆需使用原形動詞。",
-      "structure": "S + demand / request / propose / urge / ask + that + S + V (base form)",
+      "structure": "S + demand / request / propose / urge / ask + that + S + V (原形)",
       "examples": [
         {
           "en": "The auditor demanded that all financial records be made available immediately.",
@@ -1443,7 +1443,7 @@
     {
       "pattern": "Subjunctive with Important / Essential / Necessary That",
       "meaning_zh": "重要性形容詞 + that 子句時，動詞需使用原形，表達建議或必要的虛擬語氣。",
-      "structure": "It is + important / essential / necessary / vital + that + S + V (base form)",
+      "structure": "It is + important / essential / necessary / vital + that + S + V (原形)",
       "examples": [
         {
           "en": "It is essential that every employee complete the compliance training.",
@@ -1488,7 +1488,7 @@
     {
       "pattern": "Prepositions of Time: in / on / at",
       "meaning_zh": "時間介系詞的基本用法：at 用於明確時間點，on 用於日期或星期，in 用於月份、年份、世紀或較長時段。",
-      "structure": "at + clock time / on + day or date / in + month, year, or longer period",
+      "structure": "at + 時刻 / on + 日子或日期 / in + 月份、年份或更長的時段",
       "examples": [
         {
           "en": "The board meeting starts at 9:00 a.m. on Monday in October.",
@@ -1503,7 +1503,7 @@
     {
       "pattern": "by vs until",
       "meaning_zh": "by 表示「在某時點之前完成」的截止期限；until 表示「持續到某時點為止」的延續動作。",
-      "structure": "by + deadline (one-time action) / until + endpoint (continuous action)",
+      "structure": "by + 截止時間 (一次性動作) / until + 結束點 (持續動作)",
       "examples": [
         {
           "en": "Please submit the expense report by Friday afternoon.",
@@ -1518,7 +1518,7 @@
     {
       "pattern": "for vs since",
       "meaning_zh": "for 後接「時間長度」；since 後接「起始時間點」，兩者常與完成式連用。",
-      "structure": "for + duration / since + point in time, both with present perfect",
+      "structure": "for + 期間 / since + 時間點，兩者皆搭配現在完成式",
       "examples": [
         {
           "en": "Ms. Chen has worked for the firm for over fifteen years.",
@@ -1533,7 +1533,7 @@
     {
       "pattern": "within (Preposition of Time Limit)",
       "meaning_zh": "within 表示「在某段時間內」，強調時限範圍。",
-      "structure": "within + period of time",
+      "structure": "within + 一段時間",
       "examples": [
         {
           "en": "All refund requests will be processed within five business days.",
@@ -1548,7 +1548,7 @@
     {
       "pattern": "Prepositions of Place: in / on / at",
       "meaning_zh": "at 用於明確地點，on 用於表面或樓層，in 用於封閉空間或大範圍區域。",
-      "structure": "at + specific point / on + surface or floor / in + enclosed space or area",
+      "structure": "at + 特定點 / on + 表面或樓層 / in + 封閉空間或區域",
       "examples": [
         {
           "en": "The conference will be held at the Grand Hotel on the fourth floor.",
@@ -1563,7 +1563,7 @@
     {
       "pattern": "Spatial Prepositions: over / under / between / among",
       "meaning_zh": "over 在上方覆蓋，under 在下方，between 用於兩者之間，among 用於三者或以上之中。",
-      "structure": "between + two entities / among + three or more / over and under for vertical position",
+      "structure": "between + 兩個對象 / among + 三個以上 / over 與 under 表垂直位置",
       "examples": [
         {
           "en": "Profits were divided between the two co-founders, while bonuses were distributed among the staff.",
@@ -1578,7 +1578,7 @@
     {
       "pattern": "Verb + Preposition: depend on / rely on",
       "meaning_zh": "depend on 與 rely on 皆表示「依賴、依靠」，必須搭配介系詞 on。",
-      "structure": "depend / rely + on + noun or gerund",
+      "structure": "depend / rely + on + 名詞或動名詞",
       "examples": [
         {
           "en": "The success of the launch depends on accurate market research.",
@@ -1593,7 +1593,7 @@
     {
       "pattern": "Verb + Preposition: refer to / account for",
       "meaning_zh": "refer to 表示「提及、參照」；account for 表示「說明原因、佔比例」。",
-      "structure": "refer to + source / account for + percentage or reason",
+      "structure": "refer to + 來源 / account for + 百分比或原因",
       "examples": [
         {
           "en": "Please refer to the appendix for detailed financial projections.",
@@ -1608,7 +1608,7 @@
     {
       "pattern": "Verb + Preposition: comply with / consist of",
       "meaning_zh": "comply with 表示「遵守規定」；consist of 表示「由……組成」，兩者皆為固定搭配。",
-      "structure": "comply with + rule or standard / consist of + components",
+      "structure": "comply with + 規則或標準 / consist of + 組成部分",
       "examples": [
         {
           "en": "All suppliers must comply with the new environmental regulations.",
@@ -1623,7 +1623,7 @@
     {
       "pattern": "Verb + Preposition: result in / result from",
       "meaning_zh": "result in 表示「導致某結果」；result from 表示「起因於某原因」，方向相反。",
-      "structure": "cause + result in + effect / effect + result from + cause",
+      "structure": "原因 + result in + 結果 / 結果 + result from + 原因",
       "examples": [
         {
           "en": "The marketing overhaul resulted in a 25 percent increase in leads.",
@@ -1638,7 +1638,7 @@
     {
       "pattern": "Verb + Preposition: succeed in / focus on / insist on",
       "meaning_zh": "這些動詞後接介系詞時，須使用動名詞 (V-ing) 作為受詞。",
-      "structure": "succeed / focus / insist + in or on + V-ing",
+      "structure": "succeed / focus / insist + in 或 on + V-ing",
       "examples": [
         {
           "en": "The startup succeeded in securing Series B funding last quarter.",
@@ -1653,7 +1653,7 @@
     {
       "pattern": "look forward to / contribute to + V-ing",
       "meaning_zh": "look forward to 與 contribute to 中的 to 是介系詞，後面必須接名詞或動名詞，而非原形動詞。",
-      "structure": "look forward to / contribute to + noun or V-ing",
+      "structure": "look forward to / contribute to + 名詞或 V-ing",
       "examples": [
         {
           "en": "We look forward to receiving your signed contract by the end of the week.",
@@ -1668,7 +1668,7 @@
     {
       "pattern": "Noun + Preposition: interest in / demand for / need for",
       "meaning_zh": "特定名詞與固定介系詞搭配，TOEIC 常考。",
-      "structure": "interest in + topic / demand for + product / need for + resource",
+      "structure": "interest in + 主題 / demand for + 產品 / need for + 資源",
       "examples": [
         {
           "en": "There is growing interest in renewable energy investments among institutional clients.",
@@ -1683,7 +1683,7 @@
     {
       "pattern": "Noun + Preposition: increase in / decrease in",
       "meaning_zh": "表示「在某方面增加或減少」時，使用介系詞 in；表示「增減幅度」時使用 of。",
-      "structure": "an increase / decrease + in + area, of + amount",
+      "structure": "an increase / decrease + in + 領域, of + 數量",
       "examples": [
         {
           "en": "The company reported a 12 percent increase in quarterly profits.",
@@ -1698,7 +1698,7 @@
     {
       "pattern": "Adjective + Preposition: responsible for / eligible for / capable of",
       "meaning_zh": "形容詞與固定介系詞的搭配，須整組記憶。",
-      "structure": "responsible / eligible + for + noun, capable + of + V-ing",
+      "structure": "responsible / eligible + for + 名詞, capable + of + V-ing",
       "examples": [
         {
           "en": "The new hire will be responsible for coordinating cross-functional projects.",
@@ -1713,7 +1713,7 @@
     {
       "pattern": "Adjective + Preposition: aware of / familiar with / concerned about / satisfied with",
       "meaning_zh": "與心理狀態相關的形容詞，各自搭配不同介系詞，TOEIC 高頻考點。",
-      "structure": "aware of, familiar with, concerned about, satisfied with + noun",
+      "structure": "aware of, familiar with, concerned about, satisfied with + 名詞",
       "examples": [
         {
           "en": "Please make sure all staff are aware of the updated safety protocols.",
@@ -1728,7 +1728,7 @@
     {
       "pattern": "regarding / concerning / with regard to",
       "meaning_zh": "皆為「關於、就……而言」的正式商務介系詞，用於書信與報告。",
-      "structure": "regarding / concerning / with regard to + noun",
+      "structure": "regarding / concerning / with regard to + 名詞",
       "examples": [
         {
           "en": "Please contact HR regarding any questions about your benefits package.",
@@ -1743,7 +1743,7 @@
     {
       "pattern": "on behalf of",
       "meaning_zh": "表示「代表某人或某團體」發言或行動。",
-      "structure": "on behalf of + person or organization",
+      "structure": "on behalf of + 人或組織",
       "examples": [
         {
           "en": "On behalf of the entire team, I would like to thank our keynote speaker.",
@@ -1758,7 +1758,7 @@
     {
       "pattern": "in light of / in view of",
       "meaning_zh": "表示「鑒於、考量到」某種情況，用於說明決策依據。",
-      "structure": "in light of / in view of + noun phrase",
+      "structure": "in light of / in view of + 名詞片語",
       "examples": [
         {
           "en": "In light of recent market trends, we are revising our pricing strategy.",
@@ -1773,7 +1773,7 @@
     {
       "pattern": "despite / in spite of",
       "meaning_zh": "兩者皆為介系詞，表示「儘管」，後接名詞或動名詞，不可接子句。",
-      "structure": "despite / in spite of + noun or V-ing",
+      "structure": "despite / in spite of + 名詞或 V-ing",
       "examples": [
         {
           "en": "Despite the heavy rain, the outdoor product launch proceeded as planned.",
@@ -1788,7 +1788,7 @@
     {
       "pattern": "due to / owing to / because of / thanks to",
       "meaning_zh": "皆為表示「原因」的介系詞片語，後接名詞或動名詞。thanks to 通常用於正面結果。",
-      "structure": "due to / owing to / because of / thanks to + noun phrase",
+      "structure": "due to / owing to / because of / thanks to + 名詞片語",
       "examples": [
         {
           "en": "The flight was delayed due to severe weather conditions.",
@@ -1803,7 +1803,7 @@
     {
       "pattern": "prior to / pending / pursuant to",
       "meaning_zh": "皆為正式商務或法律文件中的介系詞：prior to 等於 before；pending 表示「待……期間」；pursuant to 表示「依據」。",
-      "structure": "prior to / pending / pursuant to + noun",
+      "structure": "prior to / pending / pursuant to + 名詞",
       "examples": [
         {
           "en": "All visitors must register at the front desk prior to entering the facility.",
@@ -1818,7 +1818,7 @@
     {
       "pattern": "according to / in accordance with / in compliance with",
       "meaning_zh": "according to 表「根據（某來源）」；in accordance with 與 in compliance with 表「依照、遵守（規定）」。",
-      "structure": "according to + source / in accordance with / in compliance with + regulation",
+      "structure": "according to + 來源 / in accordance with / in compliance with + 規範",
       "examples": [
         {
           "en": "According to the latest survey, customer satisfaction has improved significantly.",
@@ -1833,7 +1833,7 @@
     {
       "pattern": "in conjunction with / with the exception of / in addition to",
       "meaning_zh": "in conjunction with 表「與……一同」；with the exception of 表「除……之外」；in addition to 表「除……之外還有」。",
-      "structure": "in conjunction with / with the exception of / in addition to + noun",
+      "structure": "in conjunction with / with the exception of / in addition to + 名詞",
       "examples": [
         {
           "en": "The seminar will be held in conjunction with the annual trade fair.",
@@ -1848,7 +1848,7 @@
     {
       "pattern": "apart from / aside from / given",
       "meaning_zh": "apart from 與 aside from 表「除了」；given 表「考量到」，作為介系詞使用。",
-      "structure": "apart from / aside from + noun (exception or addition) / given + noun (consideration)",
+      "structure": "apart from / aside from + 名詞 (例外或附加) / given + 名詞 (考量)",
       "examples": [
         {
           "en": "Aside from a minor formatting issue, the report is ready for distribution.",
@@ -1863,7 +1863,7 @@
     {
       "pattern": "Conjunctions of Contrast: although / even though / though / whereas / while",
       "meaning_zh": "皆為對比連接詞，後接完整子句。although / even though / though 表「儘管」；whereas / while 表「然而、相對地」。",
-      "structure": "although / even though / though / whereas / while + subject + verb",
+      "structure": "although / even though / though / whereas / while + 主詞 + 動詞",
       "examples": [
         {
           "en": "Although the deadline was tight, the team delivered the project on time.",
@@ -1878,7 +1878,7 @@
     {
       "pattern": "Conjunctions of Reason: because / since / as / given that / now that",
       "meaning_zh": "皆為原因連接詞，後接子句。now that 強調「既然現在……」。",
-      "structure": "because / since / as / given that / now that + subject + verb",
+      "structure": "because / since / as / given that / now that + 主詞 + 動詞",
       "examples": [
         {
           "en": "Given that the budget has been approved, we can begin recruitment immediately.",
@@ -1893,7 +1893,7 @@
     {
       "pattern": "Conjunctions of Purpose: so that / in order that / in order to / so as to",
       "meaning_zh": "so that 與 in order that 後接子句；in order to 與 so as to 後接原形動詞，表「為了」。",
-      "structure": "so that / in order that + clause / in order to / so as to + base verb",
+      "structure": "so that / in order that + 子句 / in order to / so as to + 原形動詞",
       "examples": [
         {
           "en": "We upgraded the server so that customers could access the portal more quickly.",
@@ -1908,7 +1908,7 @@
     {
       "pattern": "Conjunction of Negative Purpose: lest",
       "meaning_zh": "lest 為正式用法，表「以免、唯恐」，後接 should + 原形動詞或虛擬式。",
-      "structure": "lest + subject + (should) + base verb",
+      "structure": "lest + 主詞 + (should) + 原形動詞",
       "examples": [
         {
           "en": "Please double-check the figures lest any errors appear in the final report.",
@@ -1923,7 +1923,7 @@
     {
       "pattern": "Conjunctions of Result: so...that / such...that",
       "meaning_zh": "so + 形容詞/副詞 + that；such + (a/an) + 形容詞 + 名詞 + that，皆表「如此……以致於」。",
-      "structure": "so + adj or adv + that + clause / such + (a/an) + adj + noun + that + clause",
+      "structure": "so + adj 或 adv + that + 子句 / such + (a/an) + adj + 名詞 + that + 子句",
       "examples": [
         {
           "en": "The presentation was so persuasive that the client signed the contract immediately.",
@@ -1938,7 +1938,7 @@
     {
       "pattern": "Conjunctions of Condition: provided that / as long as / in case / unless",
       "meaning_zh": "provided that 與 as long as 表「只要」；in case 表「以防」；unless 表「除非」。",
-      "structure": "provided that / as long as / in case / unless + clause",
+      "structure": "provided that / as long as / in case / unless + 子句",
       "examples": [
         {
           "en": "You may work from home provided that you remain reachable during business hours.",
@@ -1953,7 +1953,7 @@
     {
       "pattern": "Conjunctions of Time: as soon as / by the time / once",
       "meaning_zh": "as soon as 表「一……就」；by the time 表「到……時候」常搭配完成式；once 表「一旦」。",
-      "structure": "as soon as / by the time / once + clause",
+      "structure": "as soon as / by the time / once + 子句",
       "examples": [
         {
           "en": "We will notify you as soon as your order has been shipped.",
@@ -1968,7 +1968,7 @@
     {
       "pattern": "Correlative Conjunction: not only...but also",
       "meaning_zh": "「不但……而且……」，須遵守平行結構，前後詞性相同。",
-      "structure": "not only + X + but also + X (parallel form)",
+      "structure": "not only + X + but also + X (平行結構)",
       "examples": [
         {
           "en": "The new software is not only user-friendly but also highly secure.",
@@ -1983,7 +1983,7 @@
     {
       "pattern": "Correlative Conjunctions: both...and / either...or / neither...nor",
       "meaning_zh": "both...and 必為複數動詞；either...or 與 neither...nor 採就近原則決定動詞單複數。",
-      "structure": "both A and B + plural verb / either A or B / neither A nor B + verb agrees with B",
+      "structure": "both A and B + 複數動詞 / either A or B / neither A nor B + 動詞與 B 一致",
       "examples": [
         {
           "en": "Both the CEO and the CFO are attending the shareholder meeting.",
@@ -2013,7 +2013,7 @@
     {
       "pattern": "no sooner...than / hardly...when (Inversion)",
       "meaning_zh": "表「一……就……」，置於句首時須倒裝，使用過去完成式。",
-      "structure": "No sooner had + S + p.p. + than + S + past / Hardly had + S + p.p. + when + S + past",
+      "structure": "No sooner had + S + p.p. + than + S + 過去式 / Hardly had + S + p.p. + when + S + 過去式",
       "examples": [
         {
           "en": "No sooner had the manager announced the bonus than the employees began applauding.",
@@ -2028,7 +2028,7 @@
     {
       "pattern": "Defining vs Non-defining Relative Clauses",
       "meaning_zh": "限定子句不加逗號，提供必要訊息；非限定子句以逗號隔開，提供補充訊息，且不可用 that。",
-      "structure": "Noun + (that/who/which) + clause / Noun, who/which + clause,",
+      "structure": "Noun + (that/who/which) + 子句 / Noun, who/which + 子句,",
       "examples": [
         {
           "en": "The employees who completed the training will receive certificates next week.",
@@ -2043,7 +2043,7 @@
     {
       "pattern": "Reduced Relative Clauses",
       "meaning_zh": "當關係子句中動詞為主動時，可化簡為現在分詞 (V-ing)；被動時則化簡為過去分詞 (p.p.)。",
-      "structure": "Noun + V-ing (active) / Noun + p.p. (passive)",
+      "structure": "Noun + V-ing (主動) / Noun + p.p. (被動)",
       "examples": [
         {
           "en": "The candidates applying for the position must submit a portfolio.",
@@ -2058,7 +2058,7 @@
     {
       "pattern": "Relative Adverbs: whose / where / when / why",
       "meaning_zh": "whose 表所屬；where 修飾地點；when 修飾時間；why 修飾原因。",
-      "structure": "Noun + whose / where / when / why + clause",
+      "structure": "Noun + whose / where / when / why + 子句",
       "examples": [
         {
           "en": "The applicant whose resume impressed the panel will be invited for a second interview.",
@@ -2088,7 +2088,7 @@
     {
       "pattern": "Gerunds vs Infinitives: Different Meanings (remember / forget / stop / regret)",
       "meaning_zh": "remember/forget + to V 指未做之事；+ V-ing 指已做之事。stop + to V 指停下來去做；+ V-ing 指停止做某事。",
-      "structure": "remember / forget / stop / regret + to V (future) or V-ing (past or ongoing)",
+      "structure": "remember / forget / stop / regret + to V (未來) 或 V-ing (過去或持續)",
       "examples": [
         {
           "en": "Please remember to forward the meeting minutes to all attendees.",
@@ -2103,7 +2103,7 @@
     {
       "pattern": "Infinitive of Purpose / Bare Infinitive after make / let / help",
       "meaning_zh": "to V 表目的；使役動詞 make/let 及助動詞 help 後接原形動詞 (bare infinitive)。",
-      "structure": "S + V + to V (purpose) / make / let / help + O + base verb",
+      "structure": "S + V + to V (目的) / make / let / help + O + 原形動詞",
       "examples": [
         {
           "en": "We organized a workshop to help employees develop leadership skills.",
@@ -2118,7 +2118,7 @@
     {
       "pattern": "Participial Phrases and Dangling Modifiers",
       "meaning_zh": "句首分詞片語的邏輯主詞必須與主要子句主詞一致，否則即為懸垂修飾語 (錯誤)。",
-      "structure": "V-ing or p.p. phrase + , + matching subject + verb",
+      "structure": "V-ing 或 p.p. 片語 + , + 對應主詞 + 動詞",
       "examples": [
         {
           "en": "Reviewing the quarterly figures, the analyst identified several cost-saving opportunities.",
@@ -2133,7 +2133,7 @@
     {
       "pattern": "Articles: a / an / the / Zero Article",
       "meaning_zh": "a/an 指不特定單數可數名詞；the 指特定名詞；抽象名詞、專有名詞、泛指複數通常不加冠詞。",
-      "structure": "a / an + singular countable / the + specific noun / zero article + abstract or general plural",
+      "structure": "a / an + 單數可數名詞 / the + 特定名詞 / zero article + 抽象或一般複數名詞",
       "examples": [
         {
           "en": "An applicant submitted a portfolio yesterday, and the portfolio was outstanding.",
@@ -2148,7 +2148,7 @@
     {
       "pattern": "Quantifiers: much / many / few / little / a few / a little",
       "meaning_zh": "much/little 修飾不可數名詞；many/few 修飾可數名詞。a few/a little 表「有一些」（肯定），few/little 表「幾乎沒有」（否定）。",
-      "structure": "much / little / a little + uncountable / many / few / a few + plural countable",
+      "structure": "much / little / a little + 不可數名詞 / many / few / a few + 複數可數名詞",
       "examples": [
         {
           "en": "We have received many inquiries but very little feedback on the new design.",
@@ -2163,7 +2163,7 @@
     {
       "pattern": "Quantifiers: each / every / all / both / none",
       "meaning_zh": "each/every 後接單數名詞與單數動詞；both 接複數；all 視名詞而定；none 可單可複。",
-      "structure": "each / every + singular noun + singular verb / both / all + plural / none of + noun",
+      "structure": "each / every + 單數名詞 + 單數動詞 / both / all + 複數 / none of + 名詞",
       "examples": [
         {
           "en": "Every employee is required to complete the annual compliance training.",
@@ -2223,7 +2223,7 @@
     {
       "pattern": "Easily-Confused Word Pairs (affect/effect, fewer/less, raise/rise, accept/except, etc.)",
       "meaning_zh": "TOEIC 常考易混淆詞：affect 動詞影響、effect 名詞效果；fewer 修飾可數、less 修飾不可數；raise 及物、rise 不及物；accept 接受、except 除外；ensure 確保、insure 投保、assure 使放心；principal 主要的/校長、principle 原則。",
-      "structure": "Choose the correct word based on part of speech and context",
+      "structure": "根據詞性與語境選擇正確的字",
       "examples": [
         {
           "en": "The new tariffs will significantly affect our import costs and have a noticeable effect on retail prices.",

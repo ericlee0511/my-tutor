@@ -1617,7 +1617,7 @@
     {
       "pattern": "關係代名詞 who（指人，作主詞）",
       "meaning_zh": "用來引導形容詞子句修飾「人」，並在子句中當主詞。",
-      "structure": "先行詞（人）＋ who ＋ 動詞 …",
+      "structure": "先行詞(人) + who + 動詞 …",
       "examples": [
         {
           "en": "The teacher who teaches us English is very kind.",
@@ -1632,7 +1632,7 @@
     {
       "pattern": "關係代名詞 whom（指人，作受詞）",
       "meaning_zh": "指「人」並在子句中當受詞，較正式；口語常以 who 或省略代替。",
-      "structure": "先行詞（人）＋ whom ＋ 主詞 ＋ 動詞 …",
+      "structure": "先行詞(人) + whom + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "The man whom you met yesterday is my uncle.",
@@ -1647,7 +1647,7 @@
     {
       "pattern": "關係代名詞 whose（所有格）",
       "meaning_zh": "表示「某人/某物的」，用來連接擁有關係。",
-      "structure": "先行詞 ＋ whose ＋ 名詞 ＋ 動詞 …",
+      "structure": "先行詞 + whose + 名詞 + 動詞 …",
       "examples": [
         {
           "en": "I have a friend whose father is a doctor.",
@@ -1662,7 +1662,7 @@
     {
       "pattern": "關係代名詞 which（指物或事）",
       "meaning_zh": "用來引導修飾「事物或動物」的形容詞子句。",
-      "structure": "先行詞（物）＋ which ＋ 動詞/主詞 …",
+      "structure": "先行詞(物) + which + 動詞/主詞 …",
       "examples": [
         {
           "en": "The book which is on the desk is mine.",
@@ -1677,7 +1677,7 @@
     {
       "pattern": "關係代名詞 that（人或物皆可）",
       "meaning_zh": "可代替 who 或 which，常用於限定用法，前面不加逗號。",
-      "structure": "先行詞 ＋ that ＋ 動詞/主詞 …",
+      "structure": "先行詞 + that + 動詞/主詞 …",
       "examples": [
         {
           "en": "This is the cake that I baked this morning.",
@@ -1692,7 +1692,7 @@
     {
       "pattern": "省略關係代名詞（作受詞時可省略）",
       "meaning_zh": "當關係代名詞在子句中作受詞時，可以直接省略。",
-      "structure": "先行詞 ＋（that/which/whom 省略）＋ 主詞 ＋ 動詞 …",
+      "structure": "先行詞 + (that/which/whom 省略) + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "The movie I watched last night was boring.",
@@ -1707,7 +1707,7 @@
     {
       "pattern": "關係副詞 where（地點）",
       "meaning_zh": "修飾「地點」的先行詞，等同於 in/at/on which。",
-      "structure": "地點先行詞 ＋ where ＋ 主詞 ＋ 動詞 …",
+      "structure": "地點先行詞 + where + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "This is the park where we first met.",
@@ -1722,7 +1722,7 @@
     {
       "pattern": "關係副詞 when（時間）",
       "meaning_zh": "修飾「時間」的先行詞，等同於 in/on/at which。",
-      "structure": "時間先行詞 ＋ when ＋ 主詞 ＋ 動詞 …",
+      "structure": "時間先行詞 + when + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "I will never forget the day when I graduated.",
@@ -1737,7 +1737,7 @@
     {
       "pattern": "關係副詞 why（原因）",
       "meaning_zh": "修飾 reason 等「原因」名詞，等同於 for which。",
-      "structure": "the reason ＋ why ＋ 主詞 ＋ 動詞 …",
+      "structure": "the reason + why + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "That's the reason why she was late.",
@@ -1752,7 +1752,7 @@
     {
       "pattern": "限定用法 vs 非限定用法（有無逗號）",
       "meaning_zh": "非限定用法以逗號分隔，提供附加資訊；限定用法則是不可省略的關鍵訊息。",
-      "structure": "…, who/which …, … vs … who/which … without commas",
+      "structure": "…, who/which …, … 對比 … who/which … 不加逗號",
       "examples": [
         {
           "en": "My brother, who lives in Japan, is a doctor.",
@@ -1767,7 +1767,7 @@
     {
       "pattern": "非限定用法不能用 that",
       "meaning_zh": "在加逗號的非限定形容詞子句中，不可用 that 取代 who/which。",
-      "structure": "…, who/which …（不可用 that）",
+      "structure": "…, who/which …(不可用 that)",
       "examples": [
         {
           "en": "My laptop, which I bought last year, is broken.",
@@ -1782,7 +1782,7 @@
     {
       "pattern": "分詞片語簡化形容詞子句（主動 V-ing）",
       "meaning_zh": "省略關係代名詞與 be 動詞，主動意義用 V-ing。",
-      "structure": "先行詞 ＋ V-ing 片語 …",
+      "structure": "先行詞 + V-ing 片語 …",
       "examples": [
         {
           "en": "The man standing over there is my father.",
@@ -1797,7 +1797,7 @@
     {
       "pattern": "分詞片語簡化形容詞子句（被動 V-p.p.）",
       "meaning_zh": "被動意義時，省略關係代名詞與 be 後直接用過去分詞。",
-      "structure": "先行詞 ＋ V-p.p. 片語 …",
+      "structure": "先行詞 + V-p.p. 片語 …",
       "examples": [
         {
           "en": "The letter written in French is hard to read.",
@@ -1812,7 +1812,7 @@
     {
       "pattern": "介系詞 ＋ whom / which",
       "meaning_zh": "正式用法中，介系詞可置於 whom/which 之前。",
-      "structure": "介系詞 ＋ whom/which ＋ 主詞 ＋ 動詞 …",
+      "structure": "介系詞 + whom/which + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "The man with whom I spoke is a professor.",
@@ -1827,7 +1827,7 @@
     {
       "pattern": "quantifier ＋ of which/whom",
       "meaning_zh": "用 some/many/none/all 等量詞接 of which/whom 帶出補充資訊。",
-      "structure": "…, some/many/none/all of which/whom ＋ 動詞 …",
+      "structure": "…, some/many/none/all of which/whom + 動詞 …",
       "examples": [
         {
           "en": "He has many books, some of which are very old.",
@@ -1842,7 +1842,7 @@
     {
       "pattern": "動名詞當主詞",
       "meaning_zh": "V-ing 可當句子主詞，視為單數。",
-      "structure": "V-ing ＋ 單數動詞 …",
+      "structure": "V-ing + 單數動詞 …",
       "examples": [
         {
           "en": "Swimming is good for your health.",
@@ -1857,7 +1857,7 @@
     {
       "pattern": "動名詞當受詞",
       "meaning_zh": "某些動詞後必須接 V-ing 當受詞。",
-      "structure": "主詞 ＋ 動詞 ＋ V-ing …",
+      "structure": "主詞 + 動詞 + V-ing …",
       "examples": [
         {
           "en": "I enjoy reading novels.",
@@ -1872,7 +1872,7 @@
     {
       "pattern": "動名詞置於介系詞後",
       "meaning_zh": "介系詞後若接動詞，必須改為 V-ing。",
-      "structure": "介系詞 ＋ V-ing …",
+      "structure": "介系詞 + V-ing …",
       "examples": [
         {
           "en": "He is good at playing the piano.",
@@ -1887,7 +1887,7 @@
     {
       "pattern": "接動名詞的動詞（enjoy, finish, mind, avoid, suggest）",
       "meaning_zh": "這些動詞之後只能接 V-ing。",
-      "structure": "enjoy / finish / mind / avoid / suggest ＋ V-ing",
+      "structure": "enjoy / finish / mind / avoid / suggest + V-ing",
       "examples": [
         {
           "en": "Would you mind opening the window?",
@@ -1902,7 +1902,7 @@
     {
       "pattern": "接不定詞的動詞（want, decide, hope, plan）",
       "meaning_zh": "這些動詞之後只能接 to V。",
-      "structure": "want / decide / hope / plan ＋ to V",
+      "structure": "want / decide / hope / plan + to V",
       "examples": [
         {
           "en": "I want to learn French.",
@@ -1917,7 +1917,7 @@
     {
       "pattern": "remember / forget ＋ V-ing vs to V",
       "meaning_zh": "remember/forget ＋ V-ing 指「記得做過/忘了做過」；＋ to V 指「記得/忘了要去做」。",
-      "structure": "remember/forget ＋ V-ing（過去）／to V（未做）",
+      "structure": "remember/forget + V-ing(已做過)/to V(尚未做)",
       "examples": [
         {
           "en": "I remember meeting her last year.",
@@ -1932,7 +1932,7 @@
     {
       "pattern": "stop ＋ V-ing vs to V",
       "meaning_zh": "stop ＋ V-ing「停止做某事」；stop to V「停下來去做另一件事」。",
-      "structure": "stop ＋ V-ing／to V",
+      "structure": "stop + V-ing/to V",
       "examples": [
         {
           "en": "He stopped smoking last year.",
@@ -1947,7 +1947,7 @@
     {
       "pattern": "try ＋ V-ing vs to V",
       "meaning_zh": "try ＋ V-ing「試試看某方法」；try to V「努力嘗試去做」。",
-      "structure": "try ＋ V-ing／to V",
+      "structure": "try + V-ing/to V",
       "examples": [
         {
           "en": "Try opening the window for some fresh air.",
@@ -1962,7 +1962,7 @@
     {
       "pattern": "regret ＋ V-ing vs to V",
       "meaning_zh": "regret ＋ V-ing「後悔做過」；regret to V「遺憾地告知」。",
-      "structure": "regret ＋ V-ing／to V",
+      "structure": "regret + V-ing/to V",
       "examples": [
         {
           "en": "I regret telling him the truth.",
@@ -1977,7 +1977,7 @@
     {
       "pattern": "完成動名詞 having ＋ V-p.p.",
       "meaning_zh": "表示動名詞動作發生在主要動詞之前。",
-      "structure": "having ＋ V-p.p.",
+      "structure": "having + V-p.p.",
       "examples": [
         {
           "en": "He denied having stolen the money.",
@@ -1992,7 +1992,7 @@
     {
       "pattern": "完成不定詞 to have ＋ V-p.p.",
       "meaning_zh": "表示不定詞動作發生在主要動詞之前。",
-      "structure": "主詞 ＋ 動詞 ＋ to have ＋ V-p.p.",
+      "structure": "主詞 + 動詞 + to have + V-p.p.",
       "examples": [
         {
           "en": "He seems to have finished his homework.",
@@ -2007,7 +2007,7 @@
     {
       "pattern": "make / let ＋ O ＋ 原形動詞",
       "meaning_zh": "使役動詞 make/let 後接受詞與原形動詞。",
-      "structure": "make/let ＋ O ＋ V（原形）",
+      "structure": "make/let + O + V(原形)",
       "examples": [
         {
           "en": "The teacher made us clean the classroom.",
@@ -2022,7 +2022,7 @@
     {
       "pattern": "help ＋ O ＋（to）V",
       "meaning_zh": "help 後可接帶 to 或不帶 to 的不定詞，意思相同。",
-      "structure": "help ＋ O ＋（to）V",
+      "structure": "help + O + (to)V",
       "examples": [
         {
           "en": "She helped me carry the bags.",
@@ -2037,7 +2037,7 @@
     {
       "pattern": "情態動詞 ＋ 原形動詞",
       "meaning_zh": "can/will/must/should 等情態動詞後接動詞原形。",
-      "structure": "主詞 ＋ 情態動詞 ＋ V（原形）",
+      "structure": "主詞 + 情態動詞 + V(原形)",
       "examples": [
         {
           "en": "You should drink more water.",
@@ -2052,7 +2052,7 @@
     {
       "pattern": "不定詞表目的（to / in order to / so as to）",
       "meaning_zh": "以 to V、in order to、so as to 表「為了」。",
-      "structure": "主詞 ＋ 動詞 …, to / in order to / so as to V",
+      "structure": "主詞 + 動詞 …, to / in order to / so as to V",
       "examples": [
         {
           "en": "He studies hard in order to pass the exam.",
@@ -2067,7 +2067,7 @@
     {
       "pattern": "形容詞 ＋ 不定詞",
       "meaning_zh": "某些形容詞後接 to V 表示原因或評論。",
-      "structure": "主詞 ＋ be ＋ 形容詞 ＋ to V",
+      "structure": "主詞 + be + 形容詞 + to V",
       "examples": [
         {
           "en": "I am happy to help you.",
@@ -2082,7 +2082,7 @@
     {
       "pattern": "too ＋ 形容詞/副詞 ＋ to V",
       "meaning_zh": "表示「太……以致於不能……」。",
-      "structure": "too ＋ adj./adv. ＋ to V",
+      "structure": "too + adj./adv. + to V",
       "examples": [
         {
           "en": "He is too young to drive.",
@@ -2097,7 +2097,7 @@
     {
       "pattern": "形容詞/副詞 ＋ enough ＋ to V",
       "meaning_zh": "表示「足夠……可以……」，enough 置於形容詞或副詞之後。",
-      "structure": "adj./adv. ＋ enough ＋ to V",
+      "structure": "adj./adv. + enough + to V",
       "examples": [
         {
           "en": "She is old enough to vote.",
@@ -2112,7 +2112,7 @@
     {
       "pattern": "使役動詞 have ＋ O ＋ V（原形）",
       "meaning_zh": "主動使役：have ＋ 受詞 ＋ 動詞原形。",
-      "structure": "have ＋ O ＋ V（原形）",
+      "structure": "have + O + V(原形)",
       "examples": [
         {
           "en": "I had the mechanic check my car.",
@@ -2127,7 +2127,7 @@
     {
       "pattern": "使役動詞 have ＋ O ＋ V-p.p.",
       "meaning_zh": "被動使役：have ＋ 受詞 ＋ 過去分詞，表示「請人做某事」。",
-      "structure": "have ＋ O ＋ V-p.p.",
+      "structure": "have + O + V-p.p.",
       "examples": [
         {
           "en": "I had my hair cut yesterday.",
@@ -2142,7 +2142,7 @@
     {
       "pattern": "使役動詞 get ＋ O ＋ to V／V-p.p.",
       "meaning_zh": "get 作使役時主動形式為 get ＋ O ＋ to V；被動為 get ＋ O ＋ V-p.p.。",
-      "structure": "get ＋ O ＋ to V／V-p.p.",
+      "structure": "get + O + to V/V-p.p.",
       "examples": [
         {
           "en": "I got him to wash the dishes.",
@@ -2157,7 +2157,7 @@
     {
       "pattern": "比較級 -er／more",
       "meaning_zh": "單音節形容詞加 -er，多音節用 more，比較兩者用 than。",
-      "structure": "主詞 ＋ be ＋ adj.-er / more adj. ＋ than …",
+      "structure": "主詞 + be + adj.-er / more adj. + than …",
       "examples": [
         {
           "en": "My brother is taller than me.",
@@ -2172,7 +2172,7 @@
     {
       "pattern": "最高級 -est／most",
       "meaning_zh": "表示三者以上中「最……」，前面通常加 the。",
-      "structure": "主詞 ＋ be ＋ the ＋ adj.-est / most adj. …",
+      "structure": "主詞 + be + the + adj.-est / most adj. …",
       "examples": [
         {
           "en": "He is the tallest boy in the class.",
@@ -2187,7 +2187,7 @@
     {
       "pattern": "less / least（程度較少）",
       "meaning_zh": "表示程度較少或最少。",
-      "structure": "less ＋ adj. ＋ than … / the least ＋ adj. …",
+      "structure": "less + adj. + than … / the least + adj. …",
       "examples": [
         {
           "en": "This problem is less difficult than I thought.",
@@ -2202,7 +2202,7 @@
     {
       "pattern": "as ＋ 形容詞/副詞 ＋ as（同等比較）",
       "meaning_zh": "表示「和……一樣……」；否定為 not as/so ... as。",
-      "structure": "as ＋ adj./adv. ＋ as …",
+      "structure": "as + adj./adv. + as …",
       "examples": [
         {
           "en": "She is as smart as her sister.",
@@ -2217,7 +2217,7 @@
     {
       "pattern": "the same ＋ N ＋ as",
       "meaning_zh": "表示「和……相同」。",
-      "structure": "the same ＋ 名詞 ＋ as …",
+      "structure": "the same + 名詞 + as …",
       "examples": [
         {
           "en": "I have the same bag as yours.",
@@ -2232,7 +2232,7 @@
     {
       "pattern": "the ＋ 比較級, the ＋ 比較級",
       "meaning_zh": "表示「越……就越……」的平行結構。",
-      "structure": "The ＋ 比較級 …, the ＋ 比較級 …",
+      "structure": "The + 比較級 …, the + 比較級 …",
       "examples": [
         {
           "en": "The more you practice, the better you get.",
@@ -2247,7 +2247,7 @@
     {
       "pattern": "比較級 ＋ and ＋ 比較級",
       "meaning_zh": "表示「越來越……」的漸進變化。",
-      "structure": "主詞 ＋ be / become ＋ 比較級 ＋ and ＋ 比較級",
+      "structure": "主詞 + be / become + 比較級 + and + 比較級",
       "examples": [
         {
           "en": "It is getting colder and colder.",
@@ -2262,7 +2262,7 @@
     {
       "pattern": "間接引述：直述句的時態退一格",
       "meaning_zh": "轉述他人話語時，主要動詞為過去式，附屬子句的時態要往過去退一格。",
-      "structure": "主詞 ＋ said (that) ＋ 主詞 ＋ 過去式動詞 …",
+      "structure": "主詞 + said (that) + 主詞 + 過去式動詞 …",
       "examples": [
         {
           "en": "He said that he was tired.",
@@ -2277,7 +2277,7 @@
     {
       "pattern": "間接引述：人稱與時間/地點副詞變化",
       "meaning_zh": "轉述時 today→that day、tomorrow→the next day、here→there 等需調整。",
-      "structure": "主詞 ＋ said (that) ＋ 主詞 ＋ 動詞 …（副詞替換）",
+      "structure": "主詞 + said (that) + 主詞 + 動詞 …(副詞替換)",
       "examples": [
         {
           "en": "He said he would come the next day.",
@@ -2292,7 +2292,7 @@
     {
       "pattern": "間接問句：yes/no 問句以 if/whether 引導",
       "meaning_zh": "轉述 yes/no 問句時，用 if 或 whether 接陳述句語序。",
-      "structure": "主詞 ＋ asked ＋ if/whether ＋ 主詞 ＋ 動詞 …",
+      "structure": "主詞 + asked + if/whether + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "He asked me if I was tired.",
@@ -2307,7 +2307,7 @@
     {
       "pattern": "間接問句：wh- 問句保留疑問詞",
       "meaning_zh": "轉述 wh- 問句時保留疑問詞，並改為陳述句語序。",
-      "structure": "主詞 ＋ asked ＋ 疑問詞 ＋ 主詞 ＋ 動詞 …",
+      "structure": "主詞 + asked + 疑問詞 + 主詞 + 動詞 …",
       "examples": [
         {
           "en": "She asked me where I lived.",
@@ -2322,7 +2322,7 @@
     {
       "pattern": "間接命令：tell / ask ＋ O ＋ to V",
       "meaning_zh": "轉述命令或請求時，用 tell/ask 加受詞與不定詞。",
-      "structure": "主詞 ＋ told/asked ＋ O ＋（not）to V",
+      "structure": "主詞 + told/asked + O + (not)to V",
       "examples": [
         {
           "en": "The teacher told us to be quiet.",
@@ -2337,7 +2337,7 @@
     {
       "pattern": "間接建議：suggest ＋ V-ing / that ＋ 子句",
       "meaning_zh": "轉述建議用 suggest 後接 V-ing 或 that 子句（that 子句中動詞用原形）。",
-      "structure": "suggest ＋ V-ing / suggest that ＋ S ＋（should）＋ V",
+      "structure": "suggest + V-ing / suggest that + S + (should) + V",
       "examples": [
         {
           "en": "He suggested going to the beach.",
@@ -2352,7 +2352,7 @@
     {
       "pattern": "say vs tell 的用法區別",
       "meaning_zh": "say 後直接接話語，不接間接受詞；tell 後必須接人作受詞。",
-      "structure": "say (to sb) that … / tell sb that …",
+      "structure": "say (to 某人) that … / tell 某人 that …",
       "examples": [
         {
           "en": "He said that he was hungry.",
@@ -2367,7 +2367,7 @@
     {
       "pattern": "at + 時間點",
       "meaning_zh": "用於確切的時間點（鐘點、節日時刻）",
-      "structure": "at + clock time / noon / night / weekend",
+      "structure": "at + 鐘點時刻 / noon / night / weekend",
       "examples": [
         {
           "en": "The meeting starts at 9 o'clock.",
@@ -2382,7 +2382,7 @@
     {
       "pattern": "on + 日期／星期",
       "meaning_zh": "用於特定日子或星期幾",
-      "structure": "on + day / date",
+      "structure": "on + 星期 / 日期",
       "examples": [
         {
           "en": "We have class on Monday.",
@@ -2397,7 +2397,7 @@
     {
       "pattern": "in + 月份／年份／季節",
       "meaning_zh": "用於較長的時間區段",
-      "structure": "in + month / year / season",
+      "structure": "in + 月份 / 年份 / 季節",
       "examples": [
         {
           "en": "He moved to Taipei in 2020.",
@@ -2412,7 +2412,7 @@
     {
       "pattern": "by + 時間（之前）",
       "meaning_zh": "表示在某時間之前完成",
-      "structure": "by + time point",
+      "structure": "by + 時間點",
       "examples": [
         {
           "en": "Please finish the report by Friday.",
@@ -2427,7 +2427,7 @@
     {
       "pattern": "since + 起點時間",
       "meaning_zh": "從某時間點以來，常與完成式連用",
-      "structure": "since + point in time",
+      "structure": "since + 起點時間",
       "examples": [
         {
           "en": "I have lived here since 2015.",
@@ -2442,7 +2442,7 @@
     {
       "pattern": "for + 一段時間",
       "meaning_zh": "持續一段時間",
-      "structure": "for + duration",
+      "structure": "for + 一段時間",
       "examples": [
         {
           "en": "We have been friends for ten years.",
@@ -2457,7 +2457,7 @@
     {
       "pattern": "during + 名詞",
       "meaning_zh": "在某段期間之中",
-      "structure": "during + noun",
+      "structure": "during + 名詞",
       "examples": [
         {
           "en": "He fell asleep during the movie.",
@@ -2472,7 +2472,7 @@
     {
       "pattern": "at + 地點（小／點狀）",
       "meaning_zh": "在某個點狀位置",
-      "structure": "at + specific point",
+      "structure": "at + 特定點",
       "examples": [
         {
           "en": "I'll meet you at the bus stop.",
@@ -2487,7 +2487,7 @@
     {
       "pattern": "on + 表面",
       "meaning_zh": "在某個表面上",
-      "structure": "on + surface",
+      "structure": "on + 表面",
       "examples": [
         {
           "en": "The book is on the table.",
@@ -2502,7 +2502,7 @@
     {
       "pattern": "in + 空間內",
       "meaning_zh": "在某個空間或容器內",
-      "structure": "in + enclosed space",
+      "structure": "in + 封閉空間",
       "examples": [
         {
           "en": "The keys are in my bag.",
@@ -2517,7 +2517,7 @@
     {
       "pattern": "between vs. among",
       "meaning_zh": "between 用於兩者之間；among 用於三者或更多",
-      "structure": "between A and B / among + plural",
+      "structure": "between A and B / among + 複數",
       "examples": [
         {
           "en": "Sit between your sister and me.",
@@ -2532,7 +2532,7 @@
     {
       "pattern": "to / from（方向）",
       "meaning_zh": "到／從",
-      "structure": "to / from + place",
+      "structure": "to / from + 地點",
       "examples": [
         {
           "en": "She drove from Taipei to Kaohsiung.",
@@ -2547,7 +2547,7 @@
     {
       "pattern": "through / over / under",
       "meaning_zh": "穿過／越過／在下方",
-      "structure": "through / over / under + noun",
+      "structure": "through / over / under + 名詞",
       "examples": [
         {
           "en": "The train went through a tunnel.",
@@ -2562,7 +2562,7 @@
     {
       "pattern": "because of / due to",
       "meaning_zh": "由於、因為（後接名詞）",
-      "structure": "because of / due to + noun",
+      "structure": "because of / due to + 名詞",
       "examples": [
         {
           "en": "The game was canceled because of the rain.",
@@ -2577,7 +2577,7 @@
     {
       "pattern": "depend / rely on",
       "meaning_zh": "依靠、取決於",
-      "structure": "depend / rely on + noun",
+      "structure": "depend / rely on + 名詞",
       "examples": [
         {
           "en": "Children depend on their parents.",
@@ -2592,7 +2592,7 @@
     {
       "pattern": "consist of",
       "meaning_zh": "由……組成",
-      "structure": "consist of + noun",
+      "structure": "consist of + 名詞",
       "examples": [
         {
           "en": "The team consists of ten players.",
@@ -2607,7 +2607,7 @@
     {
       "pattern": "accuse / suspect of",
       "meaning_zh": "指控／懷疑某人……",
-      "structure": "accuse / suspect sb. of + N/V-ing",
+      "structure": "accuse / suspect 某人 of + 名詞/V-ing",
       "examples": [
         {
           "en": "They accused him of lying.",
@@ -2622,7 +2622,7 @@
     {
       "pattern": "afraid of / interested in",
       "meaning_zh": "形容詞＋介系詞固定搭配",
-      "structure": "adj. + prep. + N/V-ing",
+      "structure": "adj. + 介系詞 + 名詞/V-ing",
       "examples": [
         {
           "en": "She is afraid of spiders.",
@@ -2637,7 +2637,7 @@
     {
       "pattern": "phrasal verb（可分離）",
       "meaning_zh": "可分離片語動詞，受詞為代名詞時必置中",
-      "structure": "V + pronoun + particle",
+      "structure": "V + 代名詞 + 介副詞",
       "examples": [
         {
           "en": "Please turn it off.",
@@ -2652,7 +2652,7 @@
     {
       "pattern": "phrasal verb（不可分離）",
       "meaning_zh": "不可分離片語動詞，受詞必置最後",
-      "structure": "V + particle + object",
+      "structure": "V + 介副詞 + 受詞",
       "examples": [
         {
           "en": "I look after my brother.",
@@ -2667,7 +2667,7 @@
     {
       "pattern": "the（特指、唯一）",
       "meaning_zh": "定冠詞，用於特定、唯一或第二次提及",
-      "structure": "the + noun",
+      "structure": "the + 名詞",
       "examples": [
         {
           "en": "The sun rises in the east.",
@@ -2697,7 +2697,7 @@
     {
       "pattern": "零冠詞（複數泛指）",
       "meaning_zh": "複數名詞作泛指、抽象名詞不加冠詞",
-      "structure": "Ø + plural / abstract noun",
+      "structure": "Ø + 複數 / 抽象名詞",
       "examples": [
         {
           "en": "Dogs are loyal animals.",
@@ -2712,7 +2712,7 @@
     {
       "pattern": "some / any",
       "meaning_zh": "some 用於肯定，any 用於否定／疑問",
-      "structure": "some / any + noun",
+      "structure": "some / any + 名詞",
       "examples": [
         {
           "en": "I have some money.",
@@ -2862,7 +2862,7 @@
     {
       "pattern": "否定副詞倒裝",
       "meaning_zh": "否定副詞置句首，主詞與助動詞倒裝",
-      "structure": "Never/Rarely/Seldom/Hardly + aux + S + V",
+      "structure": "Never/Rarely/Seldom/Hardly + 助動詞 + S + V",
       "examples": [
         {
           "en": "Never have I seen such a sight.",
@@ -2892,7 +2892,7 @@
     {
       "pattern": "Only + 副詞片語倒裝",
       "meaning_zh": "Only 開頭時主詞助動詞倒裝",
-      "structure": "Only then/if/when + aux + S + V",
+      "structure": "Only then/if/when + 助動詞 + S + V",
       "examples": [
         {
           "en": "Only then did I realize my mistake.",
@@ -2952,7 +2952,7 @@
     {
       "pattern": "主詞動詞一致：集合名詞",
       "meaning_zh": "集合名詞可單可複，視整體或個體而定",
-      "structure": "collective noun + is/are",
+      "structure": "集合名詞 + is/are",
       "examples": [
         {
           "en": "My family is large.",
@@ -2997,7 +2997,7 @@
     {
       "pattern": "附加問句（question tag）",
       "meaning_zh": "前肯後否、前否後肯",
-      "structure": "主句, aux + (n't) + pron?",
+      "structure": "主句, 助動詞 + (n't) + 代名詞?",
       "examples": [
         {
           "en": "You're a student, aren't you?",
@@ -3027,7 +3027,7 @@
     {
       "pattern": "副詞位置（頻率副詞）",
       "meaning_zh": "頻率副詞置 be 動詞後、一般動詞前",
-      "structure": "S + (aux/be) + adv + V",
+      "structure": "S + (助動詞/be) + adv + V",
       "examples": [
         {
           "en": "She always arrives early.",
@@ -3057,7 +3057,7 @@
     {
       "pattern": "連續形容詞順序",
       "meaning_zh": "多形容詞依大小／形狀／顏色／材料順序",
-      "structure": "opinion + size + age + shape + color + origin + material + N",
+      "structure": "意見 + 大小 + 年齡 + 形狀 + 顏色 + 來源 + 材質 + N",
       "examples": [
         {
           "en": "a beautiful small old round wooden table",
@@ -3102,7 +3102,7 @@
     {
       "pattern": "複合形容詞連字號",
       "meaning_zh": "修飾名詞的複合形容詞用連字號",
-      "structure": "adj-N / N-V-ed + noun",
+      "structure": "adj-N / N-V-ed + 名詞",
       "examples": [
         {
           "en": "a well-known author",
