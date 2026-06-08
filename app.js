@@ -1563,7 +1563,7 @@ function fmtGrammar(item) {
     `<div><span class="label">Meaning:</span><span class="label-text">${escapeHTML(meaning)}${meaningExtra}</span></div>` +
     `<div><span class="label">Structure:</span><span class="label-text">${escapeHTML(item.structure)}</span></div>`;
   (item.examples || []).forEach((ex, i) => {
-    const t = lang === "ja" ? (ex.kana || ex.en) : ex.en;
+    const t = lang === "ja" ? (ex.zh || ex.kana || ex.en) : ex.en;
     html += `<div class="ex">例${i + 1}: ${escapeHTML(ex.ja)}<br>` +
       `   → ${escapeHTML(t)}</div>`;
   });
