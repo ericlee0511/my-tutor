@@ -2459,7 +2459,7 @@
       "question_es": "Mañana por la mañana ___ con tu profesor para hablar del proyecto.",
       "options": [
         "te reuniste",
-        "te reuniste",
+        "te reunías",
         "te reúnes",
         "te reunirás"
       ],
@@ -2725,7 +2725,7 @@
         "bueno",
         "buen",
         "bien",
-        "bueno"
+        "buena"
       ],
       "answer": 1,
       "explanation_zh": "bueno 置於陽性單數名詞前縮短為 buen，故選 (B) buen。(A)(D) 為完整形通常後置、(C) bien 為副詞，皆不符位置與詞性。"
