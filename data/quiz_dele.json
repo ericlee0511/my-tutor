@@ -1310,17 +1310,6 @@
       "explanation_zh": "主詞 yo 搭配 -er 動詞 beber 變化為 bebo，故選 (A)。(B) bebes 為 tú、(C) bebe 為 él/ella、(D) bebemos 為 nosotros。"
     },
     {
-      "question_es": "¿De quién es este libro? Es ___ libro.",
-      "options": [
-        "mi",
-        "mí",
-        "yo",
-        "me"
-      ],
-      "answer": 0,
-      "explanation_zh": "表達「我的」用所有格形容詞 mi（後接名詞），故選 (A) mi。(B) mí 為介系詞後的受格代名詞、(C) yo 為主格、(D) me 為受格代名詞，皆不符。"
-    },
-    {
       "question_es": "Hoy ___ mucho calor, vamos a la playa.",
       "options": [
         "está",
@@ -1816,17 +1805,6 @@
       ],
       "answer": 2,
       "explanation_zh": "«esta mañana» 屬尚未結束的時間範圍，西班牙西語常用 pretérito perfecto，故選 (C) he desayunado。(A) desayuné 為 indefinido 適用於已結束的過去、(B) desayunaba 表習慣或背景、(D) desayunaré 為未來式，皆不符。"
-    },
-    {
-      "question_es": "Cuando ___ pequeña, mi abuela me contaba cuentos cada noche.",
-      "options": [
-        "fui",
-        "estaba",
-        "soy",
-        "era"
-      ],
-      "answer": 3,
-      "explanation_zh": "描述過去的年齡、特徵屬背景描述，需用 ser 的 imperfecto，故選 (D) era。(A) fui 為 indefinido 表單次完成、(C) soy 為現在式、(B) estaba 表暫時狀態而非身分，皆不符。"
     },
     {
       "question_es": "Mientras yo cocinaba, mi hijo ___ los deberes en el salón.",
