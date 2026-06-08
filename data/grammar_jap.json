@@ -80,7 +80,7 @@
       "meaning_en": "there is (object / living thing)",
       "meaning_ja": "存在を表す。物：あります、人/動物：います",
       "meaning_zh": "表示存在：無生命用あります，人或動物用います",
-      "structure": "名詞 が あります／います",
+      "structure": "名詞 が あります/います",
       "examples": [
         {
           "ja": "机の上に本があります。",
@@ -4484,7 +4484,7 @@
       "meaning_en": "for the sake of ~",
       "meaning_ja": "目的を表す",
       "meaning_zh": "表示目的「為了⋯」",
-      "structure": "動詞辞書形／名詞 の + ために",
+      "structure": "動詞辞書形/名詞 の + ために",
       "examples": [
         {
           "ja": "家族のために働きます。",
@@ -4679,7 +4679,7 @@
       "meaning_en": "everywhere/nowhere",
       "meaning_ja": "どこも〜",
       "meaning_zh": "與否定／肯定搭配「到處都⋯／哪裡都⋯」",
-      "structure": "どこも + 動詞（肯定形／ない形）",
+      "structure": "どこも + 動詞(肯定形/ない形)",
       "examples": [
         {
           "ja": "どこも行きませんでした。",
@@ -4694,7 +4694,7 @@
       "meaning_en": "no one / everyone",
       "meaning_ja": "誰も〜",
       "meaning_zh": "與否定／肯定搭配「誰都⋯／沒有人⋯」",
-      "structure": "誰も + 動詞（肯定形／ない形）",
+      "structure": "誰も + 動詞(肯定形/ない形)",
       "examples": [
         {
           "ja": "誰もいません。",
@@ -4726,7 +4726,7 @@
       "meaning_en": "be able to (do)",
       "meaning_ja": "可能を表す",
       "meaning_zh": "表示能力或可能性",
-      "structure": "動詞（辞書形） + ことができる",
+      "structure": "動詞(辞書形) + ことができる",
       "examples": [
         {
           "ja": "日本語を話すことができます。",
@@ -4741,7 +4741,7 @@
       "meaning_en": "must do, have to do",
       "meaning_ja": "義務を表す",
       "meaning_zh": "表示義務，必須做某事",
-      "structure": "動詞（ない形） + なければなりません",
+      "structure": "動詞(ない形) + なければなりません",
       "examples": [
         {
           "ja": "明日早く起きなければなりません。",
@@ -4786,7 +4786,7 @@
       "meaning_en": "have experience doing",
       "meaning_ja": "過去の経験を表す",
       "meaning_zh": "表示過去曾有的經驗",
-      "structure": "動詞（た形） + ことがある",
+      "structure": "動詞(た形) + ことがある",
       "examples": [
         {
           "ja": "日本に行ったことがあります。",
@@ -4801,7 +4801,7 @@
       "meaning_en": "intend to (do)",
       "meaning_ja": "意志・予定を表す",
       "meaning_zh": "表達意志或預定計畫",
-      "structure": "動詞（辞書形） + つもりです",
+      "structure": "動詞(辞書形) + つもりです",
       "examples": [
         {
           "ja": "来年留学するつもりです。",
@@ -4846,7 +4846,7 @@
       "meaning_en": "easy / hard to (do)",
       "meaning_ja": "しやすい・しにくい",
       "meaning_zh": "表示動作的難易度",
-      "structure": "動詞ます形(語幹) + やすい／にくい",
+      "structure": "動詞ます形(語幹) + やすい/にくい",
       "examples": [
         {
           "ja": "この本は読みやすいです。",
@@ -4882,7 +4882,7 @@
       "meaning_en": "if (conditional)",
       "meaning_ja": "仮定条件を表す古典的な形。",
       "meaning_zh": "表示假定條件的古典形式",
-      "structure": "動詞ば形／イ形容詞ければ",
+      "structure": "動詞ば形/イ形容詞ければ",
       "examples": [
         {
           "ja": "安ければ、買います。",
@@ -5002,7 +5002,7 @@
       "meaning_en": "don't have to",
       "meaning_ja": "義務がないことを表す。",
       "meaning_zh": "表示沒有義務，不做也行",
-      "structure": "動詞ない形（いを取る） + くてもいい",
+      "structure": "動詞ない形(いを取る) + くてもいい",
       "examples": [
         {
           "ja": "明日来なくてもいいです。",
@@ -5137,7 +5137,7 @@
       "meaning_en": "must (casual)",
       "meaning_ja": "「〜なくては」のくだけた形。",
       "meaning_zh": "「〜なくては」的口語縮略形",
-      "structure": "動詞ない形（いを取る） + くちゃ",
+      "structure": "動詞ない形(いを取る) + くちゃ",
       "examples": [
         {
           "ja": "もう行かなくちゃ。",
@@ -5152,7 +5152,7 @@
       "meaning_en": "have to (casual)",
       "meaning_ja": "「〜なければ」のくだけた形。",
       "meaning_zh": "「〜なければ」的口語縮略形",
-      "structure": "動詞ない形（いを取る） + きゃ",
+      "structure": "動詞ない形(いを取る) + きゃ",
       "examples": [
         {
           "ja": "宿題しなきゃ。",
@@ -5257,7 +5257,7 @@
       "meaning_en": "as it is/while still",
       "meaning_ja": "状態が変わらないことを表す。",
       "meaning_zh": "維持某狀態不變地進行",
-      "structure": "動詞た形／名詞の + まま",
+      "structure": "動詞た形/名詞の + まま",
       "examples": [
         {
           "ja": "電気をつけたまま寝ました。",
@@ -5317,7 +5317,7 @@
       "meaning_en": "just did/only",
       "meaning_ja": "「〜したばかり」で直後を表す。",
       "meaning_zh": "「剛剛做完」或限定範圍",
-      "structure": "動詞た形 + ばかり／名詞 + ばかり",
+      "structure": "動詞た形 + ばかり/名詞 + ばかり",
       "examples": [
         {
           "ja": "日本に来たばかりです。",
@@ -5377,7 +5377,7 @@
       "meaning_en": "seems/I heard",
       "meaning_ja": "伝聞や推測を表す。",
       "meaning_zh": "表示傳聞或推測",
-      "structure": "普通形／名詞 + らしい",
+      "structure": "普通形/名詞 + らしい",
       "examples": [
         {
           "ja": "明日は雨らしいです。",
@@ -5392,7 +5392,7 @@
       "meaning_en": "looks like/seems",
       "meaning_ja": "話し言葉的な比喩や推測。",
       "meaning_zh": "口語化的比喻或推測",
-      "structure": "普通形／名詞 + みたい",
+      "structure": "普通形/名詞 + みたい",
       "examples": [
         {
           "ja": "彼は疲れているみたいです。",
@@ -5422,7 +5422,7 @@
       "meaning_en": "looks like/appears",
       "meaning_ja": "見た目の印象を表す。",
       "meaning_zh": "根據外觀的印象表達",
-      "structure": "動詞ます形(語幹)／形容詞語幹 + そうだ",
+      "structure": "動詞ます形(語幹)/形容詞語幹 + そうだ",
       "examples": [
         {
           "ja": "このケーキはおいしそうです。",
@@ -5482,7 +5482,7 @@
       "meaning_en": "until",
       "meaning_ja": "動作の継続の終点を表す。",
       "meaning_zh": "表示動作持續到某個終點",
-      "structure": "動詞普通形／名詞 + まで",
+      "structure": "動詞普通形/名詞 + まで",
       "examples": [
         {
           "ja": "5時まで働きます。",
@@ -5497,7 +5497,7 @@
       "meaning_en": "by (a deadline)",
       "meaning_ja": "期限を表す。",
       "meaning_zh": "表示完成的期限",
-      "structure": "動詞普通形／名詞 + までに",
+      "structure": "動詞普通形/名詞 + までに",
       "examples": [
         {
           "ja": "金曜日までに出してください。",
@@ -5527,7 +5527,7 @@
       "meaning_en": "during the time",
       "meaning_ja": "ある期間の途中での動作を表す。",
       "meaning_zh": "某段期間內進行的動作",
-      "structure": "普通形／名詞の + あいだに",
+      "structure": "普通形/名詞の + あいだに",
       "examples": [
         {
           "ja": "夏休みのあいだに旅行しました。",
@@ -5542,7 +5542,7 @@
       "meaning_en": "during/while",
       "meaning_ja": "二つの動作の同時継続を表す。",
       "meaning_zh": "兩個動作同時持續進行",
-      "structure": "普通形／名詞の + あいだ",
+      "structure": "普通形/名詞の + あいだ",
       "examples": [
         {
           "ja": "母が寝ているあいだ、静かにしました。",
@@ -5572,7 +5572,7 @@
       "meaning_en": "end up doing (casual)",
       "meaning_ja": "「〜てしまう」のくだけた形。",
       "meaning_zh": "「〜てしまう」的口語縮略",
-      "structure": "動詞て形（てをちゃうに変える）",
+      "structure": "動詞て形(てをちゃうに変える)",
       "examples": [
         {
           "ja": "全部食べちゃった。",
@@ -5587,7 +5587,7 @@
       "meaning_en": "end up doing (casual)",
       "meaning_ja": "「〜でしまう」のくだけた形。",
       "meaning_zh": "「〜でしまう」的口語縮略",
-      "structure": "動詞で形（でをじゃうに変える）",
+      "structure": "動詞で形(でをじゃうに変える)",
       "examples": [
         {
           "ja": "本を読んじゃった。",
@@ -5617,7 +5617,7 @@
       "meaning_en": "do in advance (casual)",
       "meaning_ja": "「〜ておく」のくだけた形。",
       "meaning_zh": "「〜ておく」的口語縮略形",
-      "structure": "動詞て形（てをとくに変える）",
+      "structure": "動詞て形(てをとくに変える)",
       "examples": [
         {
           "ja": "ビールを買っとくね。",
@@ -5722,7 +5722,7 @@
       "meaning_en": "must do",
       "meaning_ja": "義務を表す表現。",
       "meaning_zh": "表示義務的表達",
-      "structure": "動詞ない形（いを取る） + くてはいけない",
+      "structure": "動詞ない形(いを取る) + くてはいけない",
       "examples": [
         {
           "ja": "薬を飲まなくてはいけません。",
@@ -5737,7 +5737,7 @@
       "meaning_en": "must (formal)",
       "meaning_ja": "義務を表す書き言葉的表現。",
       "meaning_zh": "書面語的義務表達",
-      "structure": "動詞ない形（いを取る） + くてはならない",
+      "structure": "動詞ない形(いを取る) + くてはならない",
       "examples": [
         {
           "ja": "規則を守らなくてはならない。",
@@ -5752,7 +5752,7 @@
       "meaning_en": "without doing",
       "meaning_ja": "「〜ないで」の文語的形。",
       "meaning_zh": "「〜ないで」的文言形式",
-      "structure": "動詞ない形（ないを取る） + ずに",
+      "structure": "動詞ない形(ないを取る) + ずに",
       "examples": [
         {
           "ja": "朝ご飯を食べずに出かけた。",
@@ -5782,7 +5782,7 @@
       "meaning_en": "it's because/explanatory",
       "meaning_ja": "理由や事情を説明する。",
       "meaning_zh": "說明理由或情況",
-      "structure": "普通形 + のだ／んだ",
+      "structure": "普通形 + のだ/んだ",
       "examples": [
         {
           "ja": "頭が痛いんです。",
@@ -5887,7 +5887,7 @@
       "meaning_en": "every time",
       "meaning_ja": "そのたびごとにを表す。",
       "meaning_zh": "表示每次都會發生",
-      "structure": "動詞普通形／名詞の + たびに",
+      "structure": "動詞普通形/名詞の + たびに",
       "examples": [
         {
           "ja": "見るたびに思い出します。",
@@ -6022,7 +6022,7 @@
       "meaning_en": "become (noun/na-adj)",
       "meaning_ja": "状態の変化を表す。",
       "meaning_zh": "表示變化為某狀態（名詞、な形）",
-      "structure": "名詞／ナ形容詞 + になる",
+      "structure": "名詞/ナ形容詞 + になる",
       "examples": [
         {
           "ja": "先生になりたいです。",
@@ -6082,7 +6082,7 @@
       "meaning_en": "for/in order to",
       "meaning_ja": "目的や理由を表す。",
       "meaning_zh": "表示目的或理由",
-      "structure": "動詞普通形／名詞の + ために",
+      "structure": "動詞普通形/名詞の + ために",
       "examples": [
         {
           "ja": "家族のために働きます。",
@@ -6157,7 +6157,7 @@
       "meaning_en": "say that/called",
       "meaning_ja": "引用や名前を表す。",
       "meaning_zh": "引用或稱呼名稱",
-      "structure": "普通形／名詞 + と言う",
+      "structure": "普通形/名詞 + と言う",
       "examples": [
         {
           "ja": "彼は来ると言いました。",
@@ -6367,7 +6367,7 @@
       "meaning_en": "to be/go/come (honorific)",
       "meaning_ja": "「いる・行く・来る」の尊敬語。",
       "meaning_zh": "「在／去／來」的尊敬語",
-      "structure": "動詞（尊敬語）",
+      "structure": "動詞(尊敬語)",
       "examples": [
         {
           "ja": "社長がいらっしゃいました。",
@@ -6382,7 +6382,7 @@
       "meaning_en": "to say (honorific)",
       "meaning_ja": "「言う」の尊敬語。",
       "meaning_zh": "「言う」的尊敬語",
-      "structure": "動詞（尊敬語）",
+      "structure": "動詞(尊敬語)",
       "examples": [
         {
           "ja": "先生がおっしゃいました。",
@@ -6397,7 +6397,7 @@
       "meaning_en": "to look (honorific)",
       "meaning_ja": "「見る」の尊敬語。",
       "meaning_zh": "「見る」的尊敬語",
-      "structure": "動詞（尊敬語）",
+      "structure": "動詞(尊敬語)",
       "examples": [
         {
           "ja": "こちらをご覧ください。",
@@ -6412,7 +6412,7 @@
       "meaning_en": "to eat (honorific)",
       "meaning_ja": "「食べる・飲む」の尊敬語。",
       "meaning_zh": "「吃／喝」的尊敬語",
-      "structure": "動詞（尊敬語）",
+      "structure": "動詞(尊敬語)",
       "examples": [
         {
           "ja": "どうぞ召し上がってください。",
@@ -6427,7 +6427,7 @@
       "meaning_en": "say (humble)",
       "meaning_ja": "「言う」の謙譲語。",
       "meaning_zh": "「言う」的謙讓語",
-      "structure": "動詞（謙譲語）",
+      "structure": "動詞(謙譲語)",
       "examples": [
         {
           "ja": "田中と申します。",
@@ -6442,7 +6442,7 @@
       "meaning_en": "receive/eat (humble)",
       "meaning_ja": "「もらう・食べる」の謙譲語。",
       "meaning_zh": "「もらう／食べる」的謙讓語",
-      "structure": "動詞（謙譲語）",
+      "structure": "動詞(謙譲語)",
       "examples": [
         {
           "ja": "ご飯をいただきます。",
@@ -6457,7 +6457,7 @@
       "meaning_en": "to see (humble)",
       "meaning_ja": "「見る」の謙譲語。",
       "meaning_zh": "「見る」的謙讓語",
-      "structure": "動詞（謙譲語）",
+      "structure": "動詞(謙譲語)",
       "examples": [
         {
           "ja": "お写真を拝見しました。",
@@ -6472,7 +6472,7 @@
       "meaning_en": "to know (humble)",
       "meaning_ja": "「知る・思う」の謙譲語。",
       "meaning_zh": "「知る／思う」的謙讓語",
-      "structure": "動詞（謙譲語）",
+      "structure": "動詞(謙譲語)",
       "examples": [
         {
           "ja": "よく存じております。",
@@ -6487,7 +6487,7 @@
       "meaning_en": "visit/ask (humble)",
       "meaning_ja": "「訪ねる・聞く」の謙譲語。",
       "meaning_zh": "「訪問／詢問」的謙讓語",
-      "structure": "動詞（謙譲語）",
+      "structure": "動詞(謙譲語)",
       "examples": [
         {
           "ja": "明日うかがいます。",
@@ -6577,7 +6577,7 @@
       "meaning_en": "about/approximately",
       "meaning_ja": "おおよその量や程度を表す。",
       "meaning_zh": "表示大約的數量或程度",
-      "structure": "数詞／名詞 + くらい／ぐらい",
+      "structure": "数詞/名詞 + くらい/ぐらい",
       "examples": [
         {
           "ja": "10分ぐらい待ちました。",
@@ -6607,7 +6607,7 @@
       "meaning_en": "only/just",
       "meaning_ja": "限定を表す。",
       "meaning_zh": "表示限定，只有",
-      "structure": "名詞／普通形 + だけ",
+      "structure": "名詞/普通形 + だけ",
       "examples": [
         {
           "ja": "水だけ飲みました。",
@@ -6637,7 +6637,7 @@
       "meaning_en": "nothing but/always",
       "meaning_ja": "そればかりすることを表す。",
       "meaning_zh": "表示老是只做某事",
-      "structure": "名詞／動詞て形 + ばかり",
+      "structure": "名詞/動詞て形 + ばかり",
       "examples": [
         {
           "ja": "テレビばかり見ています。",
@@ -6667,7 +6667,7 @@
       "meaning_en": "things like (dismissive)",
       "meaning_ja": "軽蔑や謙遜を表す。",
       "meaning_zh": "帶輕視或謙遜的語氣",
-      "structure": "名詞 + なんか／なんて",
+      "structure": "名詞 + なんか/なんて",
       "examples": [
         {
           "ja": "私なんかできません。",
@@ -6787,7 +6787,7 @@
       "meaning_en": "like (adverbial)",
       "meaning_ja": "比喩的に動詞を修飾する。",
       "meaning_zh": "副詞化的比喻表達",
-      "structure": "名詞 + のように + 動詞／形容詞",
+      "structure": "名詞 + のように + 動詞/形容詞",
       "examples": [
         {
           "ja": "鳥のように飛びたい。",
@@ -6817,7 +6817,7 @@
       "meaning_en": "to the extent of",
       "meaning_ja": "程度や量を表す。",
       "meaning_zh": "表示程度或數量",
-      "structure": "名詞／動詞普通形 + ほど",
+      "structure": "名詞/動詞普通形 + ほど",
       "examples": [
         {
           "ja": "山ほどある。",
@@ -6832,7 +6832,7 @@
       "meaning_en": "not only",
       "meaning_ja": "「だけでなく」と同じ意味。",
       "meaning_zh": "「不僅…而且」的意思",
-      "structure": "名詞／普通形 + ばかりでなく",
+      "structure": "名詞/普通形 + ばかりでなく",
       "examples": [
         {
           "ja": "勉強ばかりでなく運動もする。",
@@ -6847,7 +6847,7 @@
       "meaning_en": "not only",
       "meaning_ja": "範囲を広げる表現。",
       "meaning_zh": "不僅…的範圍擴展",
-      "structure": "名詞／普通形 + だけでなく",
+      "structure": "名詞/普通形 + だけでなく",
       "examples": [
         {
           "ja": "英語だけでなく中国語も話せる。",
@@ -6892,7 +6892,7 @@
       "meaning_en": "too much",
       "meaning_ja": "過剰を表す。",
       "meaning_zh": "表示程度過頭",
-      "structure": "動詞ます形(語幹)／形容詞語幹 + すぎる",
+      "structure": "動詞ます形(語幹)/形容詞語幹 + すぎる",
       "examples": [
         {
           "ja": "食べすぎました。",
@@ -7027,7 +7027,7 @@
       "meaning_en": "come/go to do",
       "meaning_ja": "目的を持って動くことを表す。",
       "meaning_zh": "帶有目的的移動",
-      "structure": "動詞ます形(語幹) + に来る／行く",
+      "structure": "動詞ます形(語幹) + に来る/行く",
       "examples": [
         {
           "ja": "友達と遊びに行きます。",
@@ -7417,7 +7417,7 @@
       "meaning_en": "although/while",
       "meaning_ja": "逆説的同時を表す。",
       "meaning_zh": "逆接同時進行",
-      "structure": "動詞ます形(語幹)／形容詞 + ながらも",
+      "structure": "動詞ます形(語幹)/形容詞 + ながらも",
       "examples": [
         {
           "ja": "小さいながらも幸せだ。",
@@ -7672,7 +7672,7 @@
       "meaning_en": "and (linking, na-adj)",
       "meaning_ja": "な形容詞・名詞の連結形。",
       "meaning_zh": "な形容詞、名詞的連接形",
-      "structure": "ナ形容詞／名詞 + で",
+      "structure": "ナ形容詞/名詞 + で",
       "examples": [
         {
           "ja": "静かできれいな町。",
@@ -7687,7 +7687,7 @@
       "meaning_en": "not...and (i-adj)",
       "meaning_ja": "い形容詞否定の連結形。",
       "meaning_zh": "い形容詞否定的連接形",
-      "structure": "イ形容詞ない形（いを取る） + くなくて",
+      "structure": "イ形容詞ない形(いを取る) + くなくて",
       "examples": [
         {
           "ja": "高くなくて、よかった。",
@@ -7702,7 +7702,7 @@
       "meaning_en": "not...but rather",
       "meaning_ja": "否定して別を示す。",
       "meaning_zh": "否定並指出另一個選項",
-      "structure": "名詞／ナ形容詞 + ではなくて",
+      "structure": "名詞/ナ形容詞 + ではなくて",
       "examples": [
         {
           "ja": "犬ではなくて猫です。",
@@ -7717,7 +7717,7 @@
       "meaning_en": "far from/not only",
       "meaning_ja": "予想を超える対比を表す。",
       "meaning_zh": "超出預期的對比",
-      "structure": "普通形／名詞 + どころか",
+      "structure": "普通形/名詞 + どころか",
       "examples": [
         {
           "ja": "難しいどころか簡単だ。",
@@ -7732,7 +7732,7 @@
       "meaning_en": "not only...but also",
       "meaning_ja": "範囲を広げて並列する。",
       "meaning_zh": "不僅…而且的並列",
-      "structure": "普通形／名詞 + ばかりか",
+      "structure": "普通形/名詞 + ばかりか",
       "examples": [
         {
           "ja": "雨ばかりか雪も降った。",
@@ -7762,7 +7762,7 @@
       "meaning_en": "although/despite",
       "meaning_ja": "逆接的同時を表す。",
       "meaning_zh": "逆接的同時進行",
-      "structure": "動詞ます形(語幹)／形容詞 + ながら",
+      "structure": "動詞ます形(語幹)/形容詞 + ながら",
       "examples": [
         {
           "ja": "残念ながらできません。",
@@ -8122,7 +8122,7 @@
       "meaning_en": "thanks to",
       "meaning_ja": "良い結果の原因を表す。",
       "meaning_zh": "表示好結果的原因",
-      "structure": "普通形 / 名詞＋の + おかげで",
+      "structure": "普通形 / 名詞 + の + おかげで",
       "examples": [
         {
           "ja": "先生のおかげで合格した。",
@@ -8137,7 +8137,7 @@
       "meaning_en": "because of (bad result)",
       "meaning_ja": "悪い結果の原因を表す。",
       "meaning_zh": "表示壞結果的原因",
-      "structure": "普通形 / 名詞＋の + せいで",
+      "structure": "普通形 / 名詞 + の + せいで",
       "examples": [
         {
           "ja": "雨のせいで遅れた。",
@@ -8257,7 +8257,7 @@
       "meaning_en": "after (formal)",
       "meaning_ja": "「あとで」の改まった形。",
       "meaning_zh": "「あとで」的正式形",
-      "structure": "動詞た形 / 名詞＋の + 後",
+      "structure": "動詞た形 / 名詞 + の + 後",
       "examples": [
         {
           "ja": "会議の後で話します。",
@@ -8272,7 +8272,7 @@
       "meaning_en": "on the way",
       "meaning_ja": "途中の状態を表す。",
       "meaning_zh": "表示在過程當中",
-      "structure": "名詞＋の / 動詞普通形 + 途中で",
+      "structure": "名詞 + の / 動詞普通形 + 途中で",
       "examples": [
         {
           "ja": "学校へ行く途中で会った。",
@@ -8302,7 +8302,7 @@
       "meaning_en": "instead of",
       "meaning_ja": "代用や交換を表す。",
       "meaning_zh": "表示代替或交換",
-      "structure": "普通形 / 名詞＋の + 代わりに",
+      "structure": "普通形 / 名詞 + の + 代わりに",
       "examples": [
         {
           "ja": "コーヒーの代わりにお茶を飲んだ。",
@@ -8317,7 +8317,7 @@
       "meaning_en": "just as/exactly like",
       "meaning_ja": "そのままを表す。",
       "meaning_zh": "表示與某事相同的方式",
-      "structure": "動詞普通形 / 名詞＋の + とおり",
+      "structure": "動詞普通形 / 名詞 + の + とおり",
       "examples": [
         {
           "ja": "言ったとおりにしてください。",
@@ -8332,7 +8332,7 @@
       "meaning_en": "as it is",
       "meaning_ja": "変えずにそのまま。",
       "meaning_zh": "維持原狀不變",
-      "structure": "動詞た形 / 名詞＋の + まま",
+      "structure": "動詞た形 / 名詞 + の + まま",
       "examples": [
         {
           "ja": "そのままにしてください。",
@@ -10327,7 +10327,7 @@
       "meaning_en": "between/during",
       "meaning_ja": "二つの時点の間に。",
       "meaning_zh": "兩個時點之間",
-      "structure": "名詞＋の + 間に",
+      "structure": "名詞 + の + 間に",
       "examples": [
         {
           "ja": "二人の間に問題がある。",
@@ -10342,7 +10342,7 @@
       "meaning_en": "in the middle of",
       "meaning_ja": "途中の出来事を示す。",
       "meaning_zh": "表示在過程當中",
-      "structure": "名詞＋の + 途中で",
+      "structure": "名詞 + の + 途中で",
       "examples": [
         {
           "ja": "旅行の途中で病気になった。",
@@ -10642,7 +10642,7 @@
       "meaning_en": "didn't have to",
       "meaning_ja": "しなくてもよかったの過去形。",
       "meaning_zh": "過去其實不必做",
-      "structure": "動詞ない形（いを取る） + くてもよかった",
+      "structure": "動詞ない形(いを取る) + くてもよかった",
       "examples": [
         {
           "ja": "行かなくてもよかった。",
@@ -11002,7 +11002,7 @@
       "meaning_en": "must do (polite)",
       "meaning_ja": "丁寧な義務表現。",
       "meaning_zh": "禮貌的義務表達",
-      "structure": "動詞ない形（いを取る） + くてはいけません",
+      "structure": "動詞ない形(いを取る) + くてはいけません",
       "examples": [
         {
           "ja": "勉強しなくてはいけません。",
@@ -11499,7 +11499,7 @@
       "meaning_en": "while; before something changes",
       "meaning_ja": "〜の間に",
       "meaning_zh": "趁著某段時間之內",
-      "structure": "動詞辞書形/動詞ない形/イ形容詞/ナ形容詞＋な/名詞＋の + うちに",
+      "structure": "動詞辞書形/動詞ない形/イ形容詞/ナ形容詞 + な/名詞 + の + うちに",
       "examples": [
         {
           "ja": "明るいうちに帰りましょう。",
@@ -11529,7 +11529,7 @@
       "meaning_en": "on the occasion of; when",
       "meaning_ja": "〜のとき",
       "meaning_zh": "在某個時刻、場合",
-      "structure": "動詞辞書形/動詞た形/名詞＋の + 際に",
+      "structure": "動詞辞書形/動詞た形/名詞 + の + 際に",
       "examples": [
         {
           "ja": "ご利用の際にご注意ください。",
@@ -11544,7 +11544,7 @@
       "meaning_en": "every time; whenever",
       "meaning_ja": "〜するときはいつも",
       "meaning_zh": "每當做某事的時候都會",
-      "structure": "動詞辞書形/名詞＋の + たびに",
+      "structure": "動詞辞書形/名詞 + の + たびに",
       "examples": [
         {
           "ja": "母に会うたびに元気をもらう。",
@@ -12564,7 +12564,7 @@
       "meaning_en": "as it is; unchanged",
       "meaning_ja": "〜の状態で",
       "meaning_zh": "保持原狀不變",
-      "structure": "動詞た形/形容詞/名詞＋の + まま",
+      "structure": "動詞た形/形容詞/名詞 + の + まま",
       "examples": [
         {
           "ja": "靴を履いたまま入った。",
@@ -12789,7 +12789,7 @@
       "meaning_en": "just as; according to",
       "meaning_ja": "〜と同じように",
       "meaning_zh": "完全按照某事去做",
-      "structure": "動詞辞書形/動詞た形/名詞＋の + とおりに",
+      "structure": "動詞辞書形/動詞た形/名詞 + の + とおりに",
       "examples": [
         {
           "ja": "先生の言うとおりにしてください。",
@@ -12849,7 +12849,7 @@
       "meaning_en": "out of; due to too much",
       "meaning_ja": "〜すぎて",
       "meaning_zh": "因為太過於某狀態而導致",
-      "structure": "動詞辞書形/名詞＋の + あまり",
+      "structure": "動詞辞書形/名詞 + の + あまり",
       "examples": [
         {
           "ja": "驚きのあまり声が出なかった。",
@@ -12894,7 +12894,7 @@
       "meaning_en": "after; upon doing",
       "meaning_ja": "〜してから",
       "meaning_zh": "做完某事之後再進行下一步",
-      "structure": "動詞た形/名詞＋の + 上で",
+      "structure": "動詞た形/名詞 + の + 上で",
       "examples": [
         {
           "ja": "確認した上でお返事します。",
@@ -13704,7 +13704,7 @@
       "meaning_en": "instead of; in exchange",
       "meaning_ja": "〜のかわりに",
       "meaning_zh": "代替、取而代之地",
-      "structure": "動詞辞書形/名詞＋の + 代わりに",
+      "structure": "動詞辞書形/名詞 + の + 代わりに",
       "examples": [
         {
           "ja": "私の代わりに行ってください。",
@@ -13719,7 +13719,7 @@
       "meaning_en": "while doing; on the way",
       "meaning_ja": "〜の機会に",
       "meaning_zh": "趁某個機會順便做",
-      "structure": "動詞辞書形/動詞た形/名詞＋の + ついでに",
+      "structure": "動詞辞書形/動詞た形/名詞 + の + ついでに",
       "examples": [
         {
           "ja": "買い物のついでに本屋へ寄った。",
@@ -13884,7 +13884,7 @@
       "meaning_en": "during; while",
       "meaning_ja": "〜の期間",
       "meaning_zh": "在某段期間內",
-      "structure": "動詞ている/名詞＋の + あいだ",
+      "structure": "動詞ている/名詞 + の + あいだ",
       "examples": [
         {
           "ja": "夏休みのあいだ旅行した。",
@@ -13899,7 +13899,7 @@
       "meaning_en": "while; during (one-time)",
       "meaning_ja": "〜の間に",
       "meaning_zh": "趁某期間做了某件事",
-      "structure": "動詞ている/名詞＋の + あいだに",
+      "structure": "動詞ている/名詞 + の + あいだに",
       "examples": [
         {
           "ja": "寝ているあいだに地震があった。",
@@ -13914,7 +13914,7 @@
       "meaning_en": "in the middle of",
       "meaning_ja": "ちょうど〜の時",
       "meaning_zh": "正在某事進行當中時",
-      "structure": "動詞ている/名詞＋の + 最中に",
+      "structure": "動詞ている/名詞 + の + 最中に",
       "examples": [
         {
           "ja": "食事の最中に電話が鳴った。",
@@ -14004,7 +14004,7 @@
       "meaning_en": "after",
       "meaning_ja": "〜の後",
       "meaning_zh": "某事之後再做",
-      "structure": "動詞た形/名詞＋の + 後で",
+      "structure": "動詞た形/名詞 + の + 後で",
       "examples": [
         {
           "ja": "食事の後で散歩する。",
@@ -14019,7 +14019,7 @@
       "meaning_en": "before doing",
       "meaning_ja": "〜の前",
       "meaning_zh": "某事之前先做",
-      "structure": "動詞辞書形/名詞＋の + 前に",
+      "structure": "動詞辞書形/名詞 + の + 前に",
       "examples": [
         {
           "ja": "寝る前に歯を磨く。",
@@ -14079,7 +14079,7 @@
       "meaning_en": "each and every time",
       "meaning_ja": "〜のたび",
       "meaning_zh": "每一次都會如此",
-      "structure": "動詞辞書形/名詞＋の + たびごとに",
+      "structure": "動詞辞書形/名詞 + の + たびごとに",
       "examples": [
         {
           "ja": "会うたびごとに彼は変わる。",
@@ -15641,7 +15641,7 @@
       "meaning_en": "in addition to; on top of",
       "meaning_ja": "〜だけでなくさらに",
       "meaning_zh": "不僅如此還加上其他",
-      "structure": "動詞／形容詞 普通形 + 上に",
+      "structure": "動詞/形容詞 普通形 + 上に",
       "examples": [
         {
           "ja": "雨が降っている上に、風も強い。",
@@ -15656,7 +15656,7 @@
       "meaning_en": "while; before it changes",
       "meaning_ja": "〜の状態が続く間に",
       "meaning_zh": "趁著某狀態持續期間進行",
-      "structure": "動詞辞書形／動詞ない形／イ形容詞／名詞 の + うちに",
+      "structure": "動詞辞書形/動詞ない形/イ形容詞/名詞 の + うちに",
       "examples": [
         {
           "ja": "若いうちに色々経験すべきだ。",
@@ -15686,7 +15686,7 @@
       "meaning_en": "there is a fear that",
       "meaning_ja": "悪いことが起こる可能性",
       "meaning_zh": "恐怕會發生不好的事",
-      "structure": "動詞辞書形 ／ 名詞 の + 恐れがある",
+      "structure": "動詞辞書形 / 名詞 の + 恐れがある",
       "examples": [
         {
           "ja": "台風が上陸する恐れがある。",
@@ -15746,7 +15746,7 @@
       "meaning_en": "as if; as though",
       "meaning_ja": "まるで〜みたいだ",
       "meaning_zh": "就好像、彷彿",
-      "structure": "動詞／形容詞 普通形 + かのようだ",
+      "structure": "動詞/形容詞 普通形 + かのようだ",
       "examples": [
         {
           "ja": "彼はすべてを知っているかのように話す。",
@@ -15806,7 +15806,7 @@
       "meaning_en": "since; only",
       "meaning_ja": "〜したまま、〜だけ",
       "meaning_zh": "自從之後就一直、只有",
-      "structure": "動詞た形 ／ 名詞 + きり",
+      "structure": "動詞た形 / 名詞 + きり",
       "examples": [
         {
           "ja": "彼は出かけたきり帰ってこない。",
@@ -15821,7 +15821,7 @@
       "meaning_en": "even though (criticism)",
       "meaning_ja": "〜のに(非難)",
       "meaning_zh": "明明是某身分卻如此（帶責備）",
-      "structure": "動詞／形容詞 普通形 + くせに",
+      "structure": "動詞/形容詞 普通形 + くせに",
       "examples": [
         {
           "ja": "知らないくせに偉そうに話す。",
@@ -15851,7 +15851,7 @@
       "meaning_en": "how very; how much",
       "meaning_ja": "とても〜だ(感情)",
       "meaning_zh": "表達強烈感情，多麼地",
-      "structure": "動詞／形容詞 普通形 + ことか",
+      "structure": "動詞/形容詞 普通形 + ことか",
       "examples": [
         {
           "ja": "どんなに嬉しかったことか。",
@@ -15866,7 +15866,7 @@
       "meaning_en": "should; it's important to",
       "meaning_ja": "〜するのがよい(忠告)",
       "meaning_zh": "應該要做、勸告對方",
-      "structure": "動詞辞書形／動詞ない形 + ことだ",
+      "structure": "動詞辞書形/動詞ない形 + ことだ",
       "examples": [
         {
           "ja": "健康のためには運動することだ。",
@@ -15881,7 +15881,7 @@
       "meaning_en": "to one's surprise/joy",
       "meaning_ja": "〜なことに(感情)",
       "meaning_zh": "帶有某種情緒地，令人感到",
-      "structure": "イ形容詞／ナ形容詞な／動詞た形 + ことに",
+      "structure": "イ形容詞/ナ形容詞な/動詞た形 + ことに",
       "examples": [
         {
           "ja": "驚いたことに、彼は社長になった。",
@@ -15971,7 +15971,7 @@
       "meaning_en": "after much; in the end",
       "meaning_ja": "長い〜の結果",
       "meaning_zh": "經過長時間努力後的結果",
-      "structure": "動詞た形 ／ 名詞 の + 末に",
+      "structure": "動詞た形 / 名詞 の + 末に",
       "examples": [
         {
           "ja": "悩んだ末に、留学を決めた。",
@@ -16001,7 +16001,7 @@
       "meaning_en": "every time",
       "meaning_ja": "〜するときはいつも",
       "meaning_zh": "每次做某事的時候都會",
-      "structure": "動詞辞書形 ／ 名詞 の + たびに",
+      "structure": "動詞辞書形 / 名詞 の + たびに",
       "examples": [
         {
           "ja": "この曲を聞くたびに彼を思い出す。",
@@ -16016,7 +16016,7 @@
       "meaning_en": "while you're at it",
       "meaning_ja": "〜の機会を利用して",
       "meaning_zh": "趁某機會順便做另一件事",
-      "structure": "動詞辞書形／動詞た形 ／ 名詞 の + ついでに",
+      "structure": "動詞辞書形/動詞た形 / 名詞 の + ついでに",
       "examples": [
         {
           "ja": "買い物のついでに郵便局に寄った。",
@@ -16091,7 +16091,7 @@
       "meaning_en": "far from; on the contrary",
       "meaning_ja": "〜ではなく逆に",
       "meaning_zh": "非但不是反而相反",
-      "structure": "名詞 ／ 動詞普通形 + どころか",
+      "structure": "名詞 / 動詞普通形 + どころか",
       "examples": [
         {
           "ja": "謝るどころか、笑っていた。",
@@ -16106,7 +16106,7 @@
       "meaning_en": "not the time for",
       "meaning_ja": "〜できる状況ではない",
       "meaning_zh": "不是能做某事的狀況",
-      "structure": "名詞 ／ 動詞辞書形 + どころではない",
+      "structure": "名詞 / 動詞辞書形 + どころではない",
       "examples": [
         {
           "ja": "忙しくて旅行どころではない。",
@@ -16121,7 +16121,7 @@
       "meaning_en": "although; even though",
       "meaning_ja": "〜のに、〜けれども",
       "meaning_zh": "雖然是某情況卻仍然",
-      "structure": "動詞ます形(語幹) ／ 形容詞 ／ 名詞 + ながらも",
+      "structure": "動詞ます形(語幹) / 形容詞 / 名詞 + ながらも",
       "examples": [
         {
           "ja": "狭いながらも快適な部屋だ。",
@@ -16136,7 +16136,7 @@
       "meaning_en": "on the occasion of",
       "meaning_ja": "〜の特別な時に",
       "meaning_zh": "在某特殊時機或場合",
-      "structure": "名詞 ／ 動詞辞書形 + にあたって",
+      "structure": "名詞 / 動詞辞書形 + にあたって",
       "examples": [
         {
           "ja": "卒業にあたって、お礼を言いたい。",
@@ -16196,7 +16196,7 @@
       "meaning_en": "prior to",
       "meaning_ja": "〜の前に",
       "meaning_zh": "在某事之前先做準備",
-      "structure": "名詞 ／ 動詞辞書形 + に先立って",
+      "structure": "名詞 / 動詞辞書形 + に先立って",
       "examples": [
         {
           "ja": "出発に先立って、点検を行う。",
@@ -16211,7 +16211,7 @@
       "meaning_en": "for; considering",
       "meaning_ja": "〜の割に意外",
       "meaning_zh": "以該條件來說顯得意外",
-      "structure": "名詞 ／ 動詞普通形 + にしては",
+      "structure": "名詞 / 動詞普通形 + にしては",
       "examples": [
         {
           "ja": "初心者にしては上手だ。",
@@ -16226,7 +16226,7 @@
       "meaning_en": "even if; even so",
       "meaning_ja": "〜と仮定しても",
       "meaning_zh": "即使假設為某情況也",
-      "structure": "名詞 ／ 動詞普通形 + にしても",
+      "structure": "名詞 / 動詞普通形 + にしても",
       "examples": [
         {
           "ja": "忙しいにしても連絡くらいできるだろう。",
@@ -16241,7 +16241,7 @@
       "meaning_en": "nothing more than",
       "meaning_ja": "ただ〜だけだ",
       "meaning_zh": "只不過是、僅僅而已",
-      "structure": "名詞 ／ 動詞普通形 + に過ぎない",
+      "structure": "名詞 / 動詞普通形 + に過ぎない",
       "examples": [
         {
           "ja": "それは噂に過ぎない。",
@@ -16256,7 +16256,7 @@
       "meaning_en": "must be; no doubt",
       "meaning_ja": "きっと〜だ",
       "meaning_zh": "肯定是、一定沒錯",
-      "structure": "名詞 ／ 動詞／形容詞 普通形 + に違いない",
+      "structure": "名詞 / 動詞/形容詞 普通形 + に違いない",
       "examples": [
         {
           "ja": "彼は嘘をついているに違いない。",
@@ -16301,7 +16301,7 @@
       "meaning_en": "as; along with",
       "meaning_ja": "〜と一緒に変化する",
       "meaning_zh": "隨著某事一同變化",
-      "structure": "名詞 ／ 動詞辞書形 + につれて",
+      "structure": "名詞 / 動詞辞書形 + につれて",
       "examples": [
         {
           "ja": "年を取るにつれて記憶力が落ちる。",
@@ -16571,7 +16571,7 @@
       "meaning_en": "together with; as",
       "meaning_ja": "〜と一緒に",
       "meaning_zh": "與某事物一同、隨之",
-      "structure": "名詞 ／ 動詞辞書形 + とともに",
+      "structure": "名詞 / 動詞辞書形 + とともに",
       "examples": [
         {
           "ja": "時代の変化とともに価値観も変わる。",
@@ -16586,7 +16586,7 @@
       "meaning_en": "at the same time as",
       "meaning_ja": "〜と同じときに",
       "meaning_zh": "與某事同時發生",
-      "structure": "名詞 ／ 動詞辞書形 + と同時に",
+      "structure": "名詞 / 動詞辞書形 + と同時に",
       "examples": [
         {
           "ja": "ベルが鳴ると同時に席を立った。",
@@ -16646,7 +16646,7 @@
       "meaning_en": "rather than; more like",
       "meaning_ja": "〜より、むしろ",
       "meaning_zh": "與其說是不如說更像",
-      "structure": "名詞 ／ 動詞／形容詞 普通形 + というより",
+      "structure": "名詞 / 動詞/形容詞 普通形 + というより",
       "examples": [
         {
           "ja": "怒っているというより悲しんでいる。",
@@ -16661,7 +16661,7 @@
       "meaning_en": "even though; although",
       "meaning_ja": "〜とはいえ",
       "meaning_zh": "即便如此、雖說是",
-      "structure": "名詞 ／ 動詞普通形 + といえども",
+      "structure": "名詞 / 動詞普通形 + といえども",
       "examples": [
         {
           "ja": "子供といえども油断できない。",
@@ -16766,7 +16766,7 @@
       "meaning_en": "as; in accordance with",
       "meaning_ja": "〜と一緒に変化",
       "meaning_zh": "隨著某事而一同變化",
-      "structure": "名詞 ／ 動詞辞書形 + にしたがって",
+      "structure": "名詞 / 動詞辞書形 + にしたがって",
       "examples": [
         {
           "ja": "年を取るにしたがって体力が落ちる。",
@@ -16961,7 +16961,7 @@
       "meaning_en": "after much; in the end",
       "meaning_ja": "長い〜の結果",
       "meaning_zh": "經過長時間後的最終結果",
-      "structure": "動詞た形 ／ 名詞 の + あげく",
+      "structure": "動詞た形 / 名詞 の + あげく",
       "examples": [
         {
           "ja": "悩んだあげく辞職した。",
@@ -17126,7 +17126,7 @@
       "meaning_en": "right in the middle of",
       "meaning_ja": "〜している途中で",
       "meaning_zh": "正當做某事的過程中",
-      "structure": "動詞ている ／ 名詞 の + 最中に",
+      "structure": "動詞ている / 名詞 の + 最中に",
       "examples": [
         {
           "ja": "食事の最中に電話が鳴った。",
@@ -17141,7 +17141,7 @@
       "meaning_en": "at the time of",
       "meaning_ja": "〜のとき",
       "meaning_zh": "在某時候、某場合",
-      "structure": "名詞 の ／ 動詞普通形 + 際に",
+      "structure": "名詞 の / 動詞普通形 + 際に",
       "examples": [
         {
           "ja": "ご利用の際にはご注意ください。",
@@ -17351,7 +17351,7 @@
       "meaning_en": "there is something",
       "meaning_ja": "確かに〜だ",
       "meaning_zh": "確實有某種價值或感覺",
-      "structure": "動詞／形容詞 普通形 + ものがある",
+      "structure": "動詞/形容詞 普通形 + ものがある",
       "examples": [
         {
           "ja": "彼の演技には感動的なものがある。",
@@ -17531,7 +17531,7 @@
       "meaning_en": "alongside; while",
       "meaning_ja": "〜と同時に",
       "meaning_zh": "做某事的同時也兼做另一事",
-      "structure": "動詞辞書形 ／ 名詞 の + かたわら",
+      "structure": "動詞辞書形 / 名詞 の + かたわら",
       "examples": [
         {
           "ja": "仕事のかたわら大学に通っている。",
@@ -17576,7 +17576,7 @@
       "meaning_en": "tends to (negative)",
       "meaning_ja": "〜する傾向がある",
       "meaning_zh": "有某種不好的傾向",
-      "structure": "動詞普通形 ／ 名詞 の + きらいがある",
+      "structure": "動詞普通形 / 名詞 の + きらいがある",
       "examples": [
         {
           "ja": "彼は飲み過ぎるきらいがある。",
@@ -17741,7 +17741,7 @@
       "meaning_en": "extremely; can't help",
       "meaning_ja": "とても〜だ",
       "meaning_zh": "非常地、忍不住地",
-      "structure": "動詞て形 ／ イ形容詞く形くて + しょうがない",
+      "structure": "動詞て形 / イ形容詞く形くて + しょうがない",
       "examples": [
         {
           "ja": "眠くてしょうがない。",
@@ -17756,7 +17756,7 @@
       "meaning_en": "unbearably; very",
       "meaning_ja": "我慢できないほど",
       "meaning_zh": "到無法忍受的程度",
-      "structure": "動詞て形 ／ イ形容詞く形くて + たまらない",
+      "structure": "動詞て形 / イ形容詞く形くて + たまらない",
       "examples": [
         {
           "ja": "暑くてたまらない。",
@@ -17771,7 +17771,7 @@
       "meaning_en": "extremely; can't help",
       "meaning_ja": "とても〜だ",
       "meaning_zh": "強烈地、不由自主地",
-      "structure": "動詞て形 ／ イ形容詞く形くて + ならない",
+      "structure": "動詞て形 / イ形容詞く形くて + ならない",
       "examples": [
         {
           "ja": "心配でならない。",
@@ -17831,7 +17831,7 @@
       "meaning_en": "reach the point of",
       "meaning_ja": "〜まで達する",
       "meaning_zh": "到達某種程度或境地",
-      "structure": "名詞 ／ 動詞辞書形 + に至る",
+      "structure": "名詞 / 動詞辞書形 + に至る",
       "examples": [
         {
           "ja": "話し合いは合意に至った。",
@@ -17981,7 +17981,7 @@
       "meaning_en": "worth doing; endure",
       "meaning_ja": "〜する価値がある",
       "meaning_zh": "值得做、能夠承受",
-      "structure": "動詞辞書形 ／ 名詞 + にたえる",
+      "structure": "動詞辞書形 / 名詞 + にたえる",
       "examples": [
         {
           "ja": "鑑賞にたえる作品だ。",
@@ -18011,7 +18011,7 @@
       "meaning_en": "no need to; not as good as",
       "meaning_ja": "〜する必要はない",
       "meaning_zh": "沒必要、比不上",
-      "structure": "動詞辞書形 ／ 名詞 + には及ばない",
+      "structure": "動詞辞書形 / 名詞 + には及ばない",
       "examples": [
         {
           "ja": "わざわざ来るには及ばない。",
@@ -18176,7 +18176,7 @@
       "meaning_en": "therefore; because of",
       "meaning_ja": "〜のために",
       "meaning_zh": "因此、由於某原因",
-      "structure": "名詞 ／ 普通形 + ゆえに",
+      "structure": "名詞 / 普通形 + ゆえに",
       "examples": [
         {
           "ja": "貧しさゆえに学校へ行けなかった。",
@@ -18341,7 +18341,7 @@
       "meaning_en": "just as; according to",
       "meaning_ja": "〜のように",
       "meaning_zh": "照著某樣子那樣做",
-      "structure": "動詞普通形 ／ 名詞 の + とおりに",
+      "structure": "動詞普通形 / 名詞 の + とおりに",
       "examples": [
         {
           "ja": "説明書のとおりに組み立てた。",
@@ -18461,7 +18461,7 @@
       "meaning_en": "not limited to",
       "meaning_ja": "〜だけでなく広く",
       "meaning_zh": "不僅限於還擴及其他",
-      "structure": "名詞 ／ 動詞辞書形 + にとどまらず",
+      "structure": "名詞 / 動詞辞書形 + にとどまらず",
       "examples": [
         {
           "ja": "影響は国内にとどまらず世界に広がった。",
@@ -18686,7 +18686,7 @@
       "meaning_en": "not impossible; somewhat",
       "meaning_ja": "少しは〜だ",
       "meaning_zh": "也並非完全沒有、多少有",
-      "structure": "動詞ない形 ／ 形容詞ない形 + こともない",
+      "structure": "動詞ない形 / 形容詞ない形 + こともない",
       "examples": [
         {
           "ja": "行けなくはないが面倒だ。",
@@ -18776,7 +18776,7 @@
       "meaning_en": "feeling slightly",
       "meaning_ja": "少し〜の感じ",
       "meaning_zh": "略帶某種感覺或傾向",
-      "structure": "名詞 ／ 動詞ます形(語幹) + 気味",
+      "structure": "名詞 / 動詞ます形(語幹) + 気味",
       "examples": [
         {
           "ja": "最近疲れ気味だ。",
@@ -18791,7 +18791,7 @@
       "meaning_en": "tends to be; -ish",
       "meaning_ja": "〜の傾向がある",
       "meaning_zh": "帶有某種傾向或味道",
-      "structure": "名詞 ／ 動詞ます形(語幹) + っぽい",
+      "structure": "名詞 / 動詞ます形(語幹) + っぽい",
       "examples": [
         {
           "ja": "彼は怒りっぽい性格だ。",
@@ -18806,7 +18806,7 @@
       "meaning_en": "tends to; often",
       "meaning_ja": "〜することが多い",
       "meaning_zh": "常常會、容易發生",
-      "structure": "名詞 ／ 動詞ます形(語幹) + がち",
+      "structure": "名詞 / 動詞ます形(語幹) + がち",
       "examples": [
         {
           "ja": "冬は風邪をひきがちだ。",
@@ -19016,7 +19016,7 @@
       "meaning_en": "in contrast to",
       "meaning_ja": "〜と反対に",
       "meaning_zh": "與某事形成對比相反",
-      "structure": "名詞 ／ 普通形 + にひきかえ",
+      "structure": "名詞 / 普通形 + にひきかえ",
       "examples": [
         {
           "ja": "兄にひきかえ弟は静かだ。",
@@ -19331,7 +19331,7 @@
       "meaning_en": "not as much as",
       "meaning_ja": "〜ほどひどくない",
       "meaning_zh": "還不到那種程度",
-      "structure": "名詞 ／ 普通形 + ほどではない",
+      "structure": "名詞 / 普通形 + ほどではない",
       "examples": [
         {
           "ja": "心配するほどではない。",
@@ -19433,7 +19433,7 @@
       "meaning_en": "gradually; little by little",
       "meaning_ja": "時間の経過とともに少しずつ変化していくことを表す。",
       "meaning_zh": "漸漸地；逐漸（隨時間慢慢變化）。",
-      "structure": "次第に + 動詞／形容詞",
+      "structure": "次第に + 動詞/形容詞",
       "examples": [
         {
           "ja": "雨は次第に小降りになっていった。",
@@ -19454,7 +19454,7 @@
       "meaning_en": "only when; it was not until",
       "meaning_ja": "極端な事態になってようやく～する、という遅さを表す。",
       "meaning_zh": "事到如今才…；到了…的地步才…。",
-      "structure": "名詞 ／ 動詞辞書形 + にいたって",
+      "structure": "名詞 / 動詞辞書形 + にいたって",
       "examples": [
         {
           "ja": "事件が公になるにいたって、会社はようやく謝罪した。",
@@ -19469,7 +19469,7 @@
       "meaning_en": "while still in (state); the prime of",
       "meaning_ja": "その状態の間が最もよい、一番だ、と評価する表現。",
       "meaning_zh": "趁…的時候才是最…；…的時候才是…。",
-      "structure": "動詞ている ／ 名詞 の + うちが",
+      "structure": "動詞ている / 名詞 の + うちが",
       "examples": [
         {
           "ja": "桜は満開のうちが一番美しい。",
@@ -19490,7 +19490,7 @@
       "meaning_en": "on the occasion of; when",
       "meaning_ja": "ある機会・場面に、丁寧で改まった言い方で用いる。",
       "meaning_zh": "在…的時候；趁…的機會（鄭重表達）。",
-      "structure": "名詞 の ／ 動詞辞書形・た形 + 折に",
+      "structure": "名詞 の / 動詞辞書形・た形 + 折に",
       "examples": [
         {
           "ja": "東京へお越しの折には、ぜひお立ち寄りください。",
@@ -19574,7 +19574,7 @@
       "meaning_en": "for the first time in (period)",
       "meaning_ja": "ある動作・状態がそれだけの時間を経て再び起こることを表す。",
       "meaning_zh": "隔了…（時間）（再次發生）。",
-      "structure": "名詞（時間） + ぶり",
+      "structure": "名詞(時間) + ぶり",
       "examples": [
         {
           "ja": "十年ぶりに故郷の友人に再会した。",
@@ -19805,7 +19805,7 @@
       "meaning_en": "just before; immediately prior to",
       "meaning_ja": "ある出来事のごく直前の時点を示す。",
       "meaning_zh": "在…即將發生之前；正要…的時候。",
-      "structure": "名詞＋の / 動詞辞書形 + 直前に",
+      "structure": "名詞 + の / 動詞辞書形 + 直前に",
       "examples": [
         {
           "ja": "試験の直前になって、教科書を開いてもむだだ。",
@@ -19868,7 +19868,7 @@
       "meaning_en": "(I'm sorry to bother you) at a time when",
       "meaning_ja": "相手がある状態である場面に介入する、配慮を示す表現。",
       "meaning_zh": "在您…的時候（鄭重打擾的客套表達）。",
-      "structure": "名詞＋の / 動詞辞書形・ている + ところを",
+      "structure": "名詞 + の / 動詞辞書形・ている + ところを",
       "examples": [
         {
           "ja": "お忙しいところをお邪魔いたします。",
@@ -20093,7 +20093,7 @@
       "meaning_en": "right before; on the verge of",
       "meaning_ja": "ある出来事が起こる直前の、緊迫した時点を示す。",
       "meaning_zh": "在…即將發生的緊要關頭；眼看…要…的時候。",
-      "structure": "名詞＋の / 動詞辞書形 + 間際に",
+      "structure": "名詞 + の / 動詞辞書形 + 間際に",
       "examples": [
         {
           "ja": "出発間際に忘れ物に気づいた。",
@@ -20150,7 +20150,7 @@
       "meaning_en": "when; at the time of (formal)",
       "meaning_ja": "ある時節・機会に、と改まって述べる書き言葉。手紙によく使う。",
       "meaning_zh": "在…的時節（書信常用，鄭重）。",
-      "structure": "名詞＋の + 折",
+      "structure": "名詞 + の + 折",
       "examples": [
         {
           "ja": "猛暑の折、くれぐれもご自愛ください。",
@@ -20207,7 +20207,7 @@
       "meaning_en": "right in the middle of",
       "meaning_ja": "ある動作・出来事が今まさに進行している状況を示す名詞句。",
       "meaning_zh": "正在…的當中；…的最高潮。",
-      "structure": "名詞＋の / 動詞ている + 最中",
+      "structure": "名詞 + の / 動詞ている + 最中",
       "examples": [
         {
           "ja": "会議の最中に携帯電話が鳴ってしまった。",
@@ -20249,7 +20249,7 @@
       "meaning_en": "when ... is realized; once it comes true",
       "meaning_ja": "願望や計画が実現したそのときには、と未来を述べる書き言葉。",
       "meaning_zh": "等到…實現的時候；…成功之日（書面語、莊重）。",
-      "structure": "名詞＋の / 動詞た形 + 暁には",
+      "structure": "名詞 + の / 動詞た形 + 暁には",
       "examples": [
         {
           "ja": "当選した暁には、必ず公約を実現します。",
@@ -20399,7 +20399,7 @@
       "meaning_en": "as a result of",
       "meaning_ja": "～した結果として",
       "meaning_zh": "…的結果；…之後（最終結果）",
-      "structure": "動詞た形 / 名詞＋の + 結果",
+      "structure": "動詞た形 / 名詞 + の + 結果",
       "examples": [
         {
           "ja": "話し合った結果、計画を変更することになった。",
@@ -20459,7 +20459,7 @@
       "meaning_en": "because of; as it is (apologetic, formal)",
       "meaning_ja": "～のことだから（言い訳・お詫びで使う古風な表現）",
       "meaning_zh": "因為是…（道歉、辯解時的古風用法）",
-      "structure": "名詞＋の / 普通形 + こととて",
+      "structure": "名詞 + の / 普通形 + こととて",
       "examples": [
         {
           "ja": "慣れぬこととて、失礼があったらお許しください。",
@@ -20939,7 +20939,7 @@
       "meaning_en": "as a means to",
       "meaning_ja": "～する方法として",
       "meaning_zh": "作為…的手段",
-      "structure": "名詞＋の / 動詞辞書形 + 手段として",
+      "structure": "名詞 + の / 動詞辞書形 + 手段として",
       "examples": [
         {
           "ja": "ストレスを発散する手段として、運動が効果的だ。",
@@ -20969,7 +20969,7 @@
       "meaning_en": "for the purpose of",
       "meaning_ja": "～する目的のために",
       "meaning_zh": "以…為目的；為了…",
-      "structure": "名詞＋の / 動詞辞書形 + 目的で",
+      "structure": "名詞 + の / 動詞辞書形 + 目的で",
       "examples": [
         {
           "ja": "研究目的で、海外の資料を集めた。",
@@ -20999,7 +20999,7 @@
       "meaning_en": "when ~ takes it on; in the hands of",
       "meaning_ja": "～がやれば、特別な結果になる",
       "meaning_zh": "若由…來做的話（會有特別效果）",
-      "structure": "名詞＋の + 手にかかると",
+      "structure": "名詞 + の + 手にかかると",
       "examples": [
         {
           "ja": "彼の手にかかると、難しい問題も簡単に解ける。",
@@ -22933,7 +22933,7 @@
       "meaning_en": "worth doing",
       "meaning_ja": "〜した価値がある",
       "meaning_zh": "做了有價值、付出有回報",
-      "structure": "動詞た形/名詞＋の + かいがある",
+      "structure": "動詞た形/名詞 + の + かいがある",
       "examples": [
         {
           "ja": "努力したかいがあった。",
@@ -22978,7 +22978,7 @@
       "meaning_en": "while; alongside",
       "meaning_ja": "主に〜をしながら別に",
       "meaning_zh": "一邊做主要事情一邊兼做另一件事",
-      "structure": "動詞辞書形/名詞＋の + かたわら",
+      "structure": "動詞辞書形/名詞 + の + かたわら",
       "examples": [
         {
           "ja": "仕事のかたわら小説を書く。",
@@ -23128,7 +23128,7 @@
       "meaning_en": "because (excuse)",
       "meaning_ja": "〜なので(言い訳)",
       "meaning_zh": "因為是某情況所以情有可原（辯解語氣）",
-      "structure": "動詞/形容詞/名詞＋の + こととて",
+      "structure": "動詞/形容詞/名詞 + の + こととて",
       "examples": [
         {
           "ja": "慣れぬこととてお許しを。",
@@ -24628,7 +24628,7 @@
       "meaning_en": "given that it's; since",
       "meaning_ja": "〜だから当然",
       "meaning_zh": "既然是那種人事、依其特性",
-      "structure": "名詞＋の + ことだから",
+      "structure": "名詞 + の + ことだから",
       "examples": [
         {
           "ja": "彼のことだから遅れるだろう。",
@@ -24643,7 +24643,7 @@
       "meaning_en": "exactly as",
       "meaning_ja": "〜と同じように",
       "meaning_zh": "完全按照、和某事一模一樣",
-      "structure": "動詞/名詞＋の + とおりに",
+      "structure": "動詞/名詞 + の + とおりに",
       "examples": [
         {
           "ja": "指示のとおりに動く。",
@@ -24718,7 +24718,7 @@
       "meaning_en": "out of (too much)",
       "meaning_ja": "あまりに〜したので",
       "meaning_zh": "過於、由於太過如此而",
-      "structure": "動詞辞書形/名詞＋の + あまり",
+      "structure": "動詞辞書形/名詞 + の + あまり",
       "examples": [
         {
           "ja": "悲しみのあまり泣いた。",
@@ -24898,7 +24898,7 @@
       "meaning_en": "given that; since",
       "meaning_ja": "〜の手前",
       "meaning_zh": "礙於、考慮到自己的立場不得不",
-      "structure": "動詞/名詞＋の + 手前",
+      "structure": "動詞/名詞 + の + 手前",
       "examples": [
         {
           "ja": "約束した手前断れない。",
@@ -24913,7 +24913,7 @@
       "meaning_en": "on the occasion of",
       "meaning_ja": "〜の時に",
       "meaning_zh": "在某時候、值此之際",
-      "structure": "動詞辞書形/名詞＋の + 際",
+      "structure": "動詞辞書形/名詞 + の + 際",
       "examples": [
         {
           "ja": "ご利用の際はご注意を。",
@@ -25258,7 +25258,7 @@
       "meaning_en": "there is risk of",
       "meaning_ja": "〜の心配がある",
       "meaning_zh": "有疑慮、有發生壞事的可能",
-      "structure": "動詞辞書形/名詞＋の + 恐れがある",
+      "structure": "動詞辞書形/名詞 + の + 恐れがある",
       "examples": [
         {
           "ja": "雨の恐れがある。",
@@ -25348,7 +25348,7 @@
       "meaning_en": "as a result of; after",
       "meaning_ja": "〜の結果",
       "meaning_zh": "經過某過程後最終、結果",
-      "structure": "動詞た形/名詞＋の + 末",
+      "structure": "動詞た形/名詞 + の + 末",
       "examples": [
         {
           "ja": "悩んだ末に決めた。",
@@ -25423,7 +25423,7 @@
       "meaning_en": "while; before",
       "meaning_ja": "〜の間に",
       "meaning_zh": "趁著還、在某狀態尚未改變之前",
-      "structure": "動詞辞書形/名詞＋の + うちに",
+      "structure": "動詞辞書形/名詞 + の + うちに",
       "examples": [
         {
           "ja": "暗くならないうちに帰ろう。",
@@ -25768,7 +25768,7 @@
       "meaning_en": "after; upon",
       "meaning_ja": "〜してから",
       "meaning_zh": "做完某事之後再、在的基礎上",
-      "structure": "動詞た形/名詞＋の + 上で",
+      "structure": "動詞た形/名詞 + の + 上で",
       "examples": [
         {
           "ja": "考えた上で決める。",
@@ -25843,7 +25843,7 @@
       "meaning_en": "each time",
       "meaning_ja": "〜のたびにいつも",
       "meaning_zh": "每當、每一次都",
-      "structure": "動詞辞書形/名詞＋の + たびに",
+      "structure": "動詞辞書形/名詞 + の + たびに",
       "examples": [
         {
           "ja": "会うたびに思い出す。",
@@ -26533,7 +26533,7 @@
       "meaning_en": "after; for",
       "meaning_ja": "〜してから",
       "meaning_zh": "做完某事之後再、為了",
-      "structure": "動詞た形/名詞＋の + うえで",
+      "structure": "動詞た形/名詞 + の + うえで",
       "examples": [
         {
           "ja": "相談したうえで決める。",
@@ -27673,7 +27673,7 @@
       "meaning_en": "cannot suppress (emotion)",
       "meaning_ja": "〜という感情を抑えることができない",
       "meaning_zh": "禁不住…；不禁…",
-      "structure": "名詞（感情）+ を禁じえない",
+      "structure": "名詞(感情)+ を禁じえない",
       "examples": [
         {
           "ja": "被災地の惨状に涙を禁じえなかった。",
@@ -28993,7 +28993,7 @@
       "meaning_en": "cannot help but (dialectal/literary)",
       "meaning_ja": "どうしても〜してしまう",
       "meaning_zh": "不…不行；情不自禁地…",
-      "structure": "動詞ない形（ないを取る）+ ずにはおれない",
+      "structure": "動詞ない形(ないを取る)+ ずにはおれない",
       "examples": [
         {
           "ja": "あの光景を見て涙を流さずにはおれなかった。",
@@ -29203,7 +29203,7 @@
       "meaning_en": "depending on (the case); in some cases",
       "meaning_ja": "～次第では",
       "meaning_zh": "依…的情況可能會…",
-      "structure": "名詞（の）+ いかんでは",
+      "structure": "名詞(の)+ いかんでは",
       "examples": [
         {
           "ja": "結果いかんでは、計画を全面的に見直すことになる。",
@@ -29218,7 +29218,7 @@
       "meaning_en": "depending on; in accordance with",
       "meaning_ja": "～の状態次第で",
       "meaning_zh": "依…的情況；視…而定",
-      "structure": "名詞（の）+ いかんによって",
+      "structure": "名詞(の)+ いかんによって",
       "examples": [
         {
           "ja": "成績いかんによって、奨学金の支給額が決まる。",
@@ -29233,7 +29233,7 @@
       "meaning_en": "irrespective of; no matter what",
       "meaning_ja": "～の如何に関係なく",
       "meaning_zh": "無論…與否都…",
-      "structure": "名詞（の）+ いかんにかかわらず",
+      "structure": "名詞(の)+ いかんにかかわらず",
       "examples": [
         {
           "ja": "結果のいかんにかかわらず、最善を尽くしたい。",
@@ -29248,7 +29248,7 @@
       "meaning_en": "best to do while one can; X is the prime time",
       "meaning_ja": "～時期が最も価値がある",
       "meaning_zh": "趁…的時候才有意思（過了就沒了）",
-      "structure": "動詞辞書形 / 名詞＋の + うちが花",
+      "structure": "動詞辞書形 / 名詞 + の + うちが花",
       "examples": [
         {
           "ja": "若いうちが花だから、いろんなことに挑戦すべきだ。",
@@ -29428,7 +29428,7 @@
       "meaning_en": "no sooner ... than (emphasis)",
       "meaning_ja": "～した瞬間に即座に次の動作",
       "meaning_zh": "前項才剛發生，後項立刻接著…",
-      "structure": "動詞辞書形 + が早いか + 動詞（た形）",
+      "structure": "動詞辞書形 + が早いか + 動詞(た形)",
       "examples": [
         {
           "ja": "席に着くが早いか、彼は資料を広げて説明し始めた。",
@@ -29848,7 +29848,7 @@
       "meaning_en": "what more can be said; need I say more",
       "meaning_ja": "もう言うまでもなく明らかだ",
       "meaning_zh": "夫復何言；還有什麼好說的（文言）",
-      "structure": "普通形 + （に対し）何をか言わんや",
+      "structure": "普通形 + (に対し)何をか言わんや",
       "examples": [
         {
           "ja": "教師がそんな発言をするとは、何をか言わんやだ。",
@@ -30298,7 +30298,7 @@
       "meaning_en": "there is no way it could be; it cannot possibly be",
       "meaning_ja": "そのような状況や事実が成り立つことは絶対にないと強く断定する言い方。",
       "meaning_zh": "絕對不可能是…；斷然否定某種情況存在的可能性。",
-      "structure": "名詞/ナ形容詞 + であろうはずがない；普通形（動詞・イ形容詞）+ はずがない の強調形",
+      "structure": "名詞/ナ形容詞 + であろうはずがない；普通形(動詞・イ形容詞)+ はずがない の強調形",
       "examples": [
         {
           "ja": "彼ほど誠実な人間が、そんな卑劣な裏切りをするであろうはずがない。",
@@ -30313,7 +30313,7 @@
       "meaning_en": "even (a single); not even one",
       "meaning_ja": "たとえ一つ・一人といった最小の存在であってもという意味で、後に否定を伴うことが多い。",
       "meaning_zh": "即便是…（一個、一人之類最小單位）也…；後接否定，強調毫無例外。",
-      "structure": "名詞（一人・一日・一瞬など最小単位を表す語）+ たりとて",
+      "structure": "名詞(一人・一日・一瞬など最小単位を表す語)+ たりとて",
       "examples": [
         {
           "ja": "戦時下にあっては、子供一人たりとて飢えから逃れることはできなかった。",
@@ -30343,7 +30343,7 @@
       "meaning_en": "even at the cost of forcing oneself through (difficulty)",
       "meaning_ja": "病気や反対などの困難を承知のうえで、無理を押し切ってでも行うことを表す。",
       "meaning_zh": "即使勉強克服…（病痛、反對等）也要…；表示不顧困難硬要去做。",
-      "structure": "名詞（病・反対・無理など）+ を押してでも",
+      "structure": "名詞(病・反対・無理など)+ を押してでも",
       "examples": [
         {
           "ja": "彼女は高熱を押してでも、観客との約束だった舞台に立とうとした。",
@@ -30358,7 +30358,7 @@
       "meaning_en": "without regard for; in disregard of",
       "meaning_ja": "本来気にかけるべき事柄を考慮に入れず、それを無視して行動することを表す。",
       "meaning_zh": "不顧…；無視本應在意的事物而採取行動。",
-      "structure": "名詞（危険・身・家庭など）+ を顧みず",
+      "structure": "名詞(危険・身・家庭など)+ を顧みず",
       "examples": [
         {
           "ja": "消防士たちは我が身の危険を顧みず、燃えさかる建物へ突入していった。",
@@ -30388,7 +30388,7 @@
       "meaning_en": "not to mention; needless to say, let alone",
       "meaning_ja": "前のことは当然なので言うまでもなく、後ろのことまでそうだと強調する言い方。",
       "meaning_zh": "前項自不待言，連後項也是如此，用以強調範圍之廣。",
-      "structure": "名詞＋は言うに及ばず",
+      "structure": "名詞 + は言うに及ばず",
       "examples": [
         {
           "ja": "この温泉宿は料理は言うに及ばず、接客の心遣いも見事だった。",
@@ -30403,7 +30403,7 @@
       "meaning_en": "lavishing (money/time); making full use of",
       "meaning_ja": "金や時間などを惜しまず、ふんだんに使って何かをすることを表す。",
       "meaning_zh": "不惜花費金錢或時間，盡情地、大手筆地用以做某事。",
-      "structure": "名詞（金・時間・暇など）＋にあかせて",
+      "structure": "名詞(金・時間・暇など) + にあかせて",
       "examples": [
         {
           "ja": "彼は金にあかせて世界中の珍しい美術品を買い集めた。",
@@ -30418,7 +30418,7 @@
       "meaning_en": "there is no guarantee that ... won't; it is not impossible that",
       "meaning_ja": "そうならない可能性も否定できない、起こりうると述べて注意を促す言い方。",
       "meaning_zh": "也不見得不會…、難保不會…，表示某種可能性無法完全排除。",
-      "structure": "動詞ない形／い形容詞・な形容詞・名詞のない形＋とも限らない",
+      "structure": "動詞ない形/い形容詞・な形容詞・名詞のない形 + とも限らない",
       "examples": [
         {
           "ja": "今は晴れているが、夕方には雨が降らないとも限らない。",
@@ -30433,7 +30433,7 @@
       "meaning_en": "do not hesitate to; have no qualms about (saying/doing)",
       "meaning_ja": "周囲を気にせず、遠慮なく堂々と言ったり行ったりすることを表す。",
       "meaning_zh": "毫不顧忌、毫不客氣地公然說出或做出某事。",
-      "structure": "動詞て形＋はばからない",
+      "structure": "動詞て形 + はばからない",
       "examples": [
         {
           "ja": "その政治家は自分こそ国を救えると公言してはばからない。",
