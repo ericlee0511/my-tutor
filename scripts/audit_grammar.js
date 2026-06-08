@@ -33,6 +33,7 @@ const CHECKS = {
     for (const mm of s.matchAll(/陽性母音\(ㅏ\/ㅗ\)/g)) { if (!s.slice(0, mm.index).endsWith("末音節為")) { v.push(["母音和諧非標準式", s]); break; } }
     if (s.includes("陽性母音(ㅏ/ㅗ)語幹")) v.push(["母音和諧:語幹後置", s]);
     for (const mm of s.matchAll(/語幹/g)) { if (!/(動詞|形容詞)$/.test(s.slice(0, mm.index))) { v.push(["光禿語幹(前無詞性)", s]); break; } }
+    if (/動\/形|形\/動/.test(s)) v.push(["詞性縮寫(動/形 漏「詞」字)", s]);  // 動/形容詞→動詞/形容詞(避開「動物」)
     if (FULLWIDTH.test(s)) v.push(["structure 全形符號（）／＋", s]);
     if (ONE_SIDE_SLASH(s)) v.push(["structure / 單側空格", s]);
     if (m.includes("/")) v.push(["meaning_zh 半形 /(應全形／)", m]);
