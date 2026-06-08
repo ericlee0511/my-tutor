@@ -1750,7 +1750,7 @@
       ]
     },
     {
-      "pattern": "〜い（い形容詞）",
+      "pattern": "〜い (い形容詞)",
       "meaning_en": "i-adjective",
       "meaning_ja": "い形容詞",
       "meaning_zh": "い形容詞的基本形",
@@ -1810,7 +1810,7 @@
       ]
     },
     {
-      "pattern": "〜くて（い形容詞）",
+      "pattern": "〜くて (い形容詞)",
       "meaning_en": "i-adj te-form (and)",
       "meaning_ja": "い形容詞の連用形",
       "meaning_zh": "い形容詞的て形，用於連接「⋯而且⋯」",
@@ -1825,7 +1825,7 @@
       ]
     },
     {
-      "pattern": "〜く（い形容詞・副詞化）",
+      "pattern": "〜く (い形容詞・副詞化)",
       "meaning_en": "adverbial form of i-adj",
       "meaning_ja": "い形容詞の副詞化",
       "meaning_zh": "い形容詞的副詞化形式",
@@ -1840,7 +1840,7 @@
       ]
     },
     {
-      "pattern": "〜な（な形容詞）",
+      "pattern": "〜な (な形容詞)",
       "meaning_en": "na-adj attributive",
       "meaning_ja": "な形容詞の連体形",
       "meaning_zh": "な形容詞修飾名詞時的連體形",
@@ -1855,7 +1855,7 @@
       ]
     },
     {
-      "pattern": "〜じゃない（な形容詞・否定）",
+      "pattern": "〜じゃない (な形容詞・否定)",
       "meaning_en": "na-adj negative",
       "meaning_ja": "な形容詞の否定",
       "meaning_zh": "な形容詞的否定形",
@@ -1870,7 +1870,7 @@
       ]
     },
     {
-      "pattern": "〜でした（な形容詞／名詞・過去）",
+      "pattern": "〜でした (な形容詞／名詞・過去)",
       "meaning_en": "was (polite past)",
       "meaning_ja": "な形容詞・名詞の過去",
       "meaning_zh": "な形容詞或名詞的丁寧過去式「曾是⋯」",
@@ -1900,7 +1900,7 @@
       ]
     },
     {
-      "pattern": "〜で（な形容詞・て形）",
+      "pattern": "〜で (な形容詞・て形)",
       "meaning_en": "na-adj te-form (and)",
       "meaning_ja": "な形容詞の連用形",
       "meaning_zh": "な形容詞的て形，用於連接句子",
@@ -1915,7 +1915,7 @@
       ]
     },
     {
-      "pattern": "〜に（な形容詞・副詞化）",
+      "pattern": "〜に (な形容詞・副詞化)",
       "meaning_en": "na-adj adverbial",
       "meaning_ja": "な形容詞の副詞化",
       "meaning_zh": "な形容詞的副詞化形式",
@@ -1930,7 +1930,7 @@
       ]
     },
     {
-      "pattern": "〜ない（動詞普通形・否定）",
+      "pattern": "〜ない (動詞普通形・否定)",
       "meaning_en": "verb plain negative",
       "meaning_ja": "動詞の否定形",
       "meaning_zh": "動詞普通形的否定",
@@ -1945,7 +1945,7 @@
       ]
     },
     {
-      "pattern": "〜た（動詞普通形・過去）",
+      "pattern": "〜た (動詞普通形・過去)",
       "meaning_en": "verb plain past",
       "meaning_ja": "動詞の過去形",
       "meaning_zh": "動詞普通形的過去式",
@@ -1975,7 +1975,7 @@
       ]
     },
     {
-      "pattern": "〜て（動詞て形）",
+      "pattern": "〜て (動詞て形)",
       "meaning_en": "te-form (connect)",
       "meaning_ja": "動詞のて形",
       "meaning_zh": "動詞て形，用於連接動作或句子",
@@ -2980,7 +2980,7 @@
       ]
     },
     {
-      "pattern": "〜があります（持つ）",
+      "pattern": "〜があります (持つ)",
       "meaning_en": "have / possess",
       "meaning_ja": "所有を表す",
       "meaning_zh": "表示擁有物品",
@@ -2995,7 +2995,7 @@
       ]
     },
     {
-      "pattern": "〜がいます（家族）",
+      "pattern": "〜がいます (家族)",
       "meaning_en": "have (people/family)",
       "meaning_ja": "家族・人を持つ",
       "meaning_zh": "表示擁有家人或人際關係",
@@ -3145,7 +3145,7 @@
       ]
     },
     {
-      "pattern": "〜になる（時間）",
+      "pattern": "〜になる (時間)",
       "meaning_en": "become (time)",
       "meaning_ja": "時間になる",
       "meaning_zh": "表示時間的到來「到了⋯時候」",
@@ -3160,7 +3160,7 @@
       ]
     },
     {
-      "pattern": "〜ながら（同時動作）",
+      "pattern": "〜ながら (同時動作)",
       "meaning_en": "while doing two actions",
       "meaning_ja": "二つの動作を同時に",
       "meaning_zh": "表示兩個動作同時進行（N5 限定用法）",
@@ -3205,7 +3205,7 @@
       ]
     },
     {
-      "pattern": "〜にする（決定）",
+      "pattern": "〜にする (決定)",
       "meaning_en": "decide on ~",
       "meaning_ja": "選択を決める",
       "meaning_zh": "決定選擇某項",
@@ -4090,7 +4090,7 @@
       ]
     },
     {
-      "pattern": "〜で（期間）",
+      "pattern": "〜で (期間)",
       "meaning_en": "within (time)",
       "meaning_ja": "期間内に",
       "meaning_zh": "表示在某段時間內完成",
@@ -4105,7 +4105,7 @@
       ]
     },
     {
-      "pattern": "〜で（材料・道具）",
+      "pattern": "〜で (材料・道具)",
       "meaning_en": "made of / with",
       "meaning_ja": "材料・道具",
       "meaning_zh": "表示材料或道具「用⋯」",
@@ -4120,7 +4120,7 @@
       ]
     },
     {
-      "pattern": "〜で（原因・理由）",
+      "pattern": "〜で (原因・理由)",
       "meaning_en": "because of / due to",
       "meaning_ja": "原因・理由",
       "meaning_zh": "表示原因或理由「因為⋯」",
@@ -4135,7 +4135,7 @@
       ]
     },
     {
-      "pattern": "〜で（言語）",
+      "pattern": "〜で (言語)",
       "meaning_en": "in (language)",
       "meaning_ja": "言語の手段",
       "meaning_zh": "表示使用的語言「用⋯語」",
@@ -4150,7 +4150,7 @@
       ]
     },
     {
-      "pattern": "〜で（合計）",
+      "pattern": "〜で (合計)",
       "meaning_en": "in total",
       "meaning_ja": "合計で",
       "meaning_zh": "表示合計「總共⋯」",
@@ -4165,7 +4165,7 @@
       ]
     },
     {
-      "pattern": "〜で（状態）",
+      "pattern": "〜で (状態)",
       "meaning_en": "in (a state)",
       "meaning_ja": "状態で",
       "meaning_zh": "表示處於某種狀態「以⋯狀態」",
@@ -4240,7 +4240,7 @@
       ]
     },
     {
-      "pattern": "〜くらい（概数）",
+      "pattern": "〜くらい (概数)",
       "meaning_en": "about (similar to ぐらい)",
       "meaning_ja": "概数",
       "meaning_zh": "表示概略的數量（與ぐらい同義）",
@@ -4255,7 +4255,7 @@
       ]
     },
     {
-      "pattern": "〜じゃ（口語）",
+      "pattern": "〜じゃ (口語)",
       "meaning_en": "isn't (casual)",
       "meaning_ja": "では＋ない",
       "meaning_zh": "口語中「では」的縮約形",
@@ -4345,7 +4345,7 @@
       ]
     },
     {
-      "pattern": "〜ください（名詞）",
+      "pattern": "〜ください (名詞)",
       "meaning_en": "please give me",
       "meaning_ja": "物の依頼",
       "meaning_zh": "向對方索取物品「請給我⋯」",
@@ -4495,7 +4495,7 @@
       ]
     },
     {
-      "pattern": "〜ように（目的・希望）",
+      "pattern": "〜ように (目的・希望)",
       "meaning_en": "so that ~",
       "meaning_ja": "目的・希望",
       "meaning_zh": "N5 階段表示目的或希望「希望⋯／以便⋯」",
@@ -4555,7 +4555,7 @@
       ]
     },
     {
-      "pattern": "〜と（必然的結果）",
+      "pattern": "〜と (必然的結果)",
       "meaning_en": "when/if (natural consequence)",
       "meaning_ja": "必然的結果",
       "meaning_zh": "表示必然或自然結果「一⋯就⋯」",
@@ -4570,7 +4570,7 @@
       ]
     },
     {
-      "pattern": "〜ので（丁寧な原因）",
+      "pattern": "〜ので (丁寧な原因)",
       "meaning_en": "because (polite cause)",
       "meaning_ja": "丁寧な原因",
       "meaning_zh": "禮貌地表達原因「由於⋯」",
@@ -4600,7 +4600,7 @@
       ]
     },
     {
-      "pattern": "〜く（副詞化）",
+      "pattern": "〜く (副詞化)",
       "meaning_en": "adverbially (い-adj)",
       "meaning_ja": "い形容詞の副詞化",
       "meaning_zh": "い形容詞副詞化的形式",
@@ -4630,7 +4630,7 @@
       ]
     },
     {
-      "pattern": "〜って（口語の引用）",
+      "pattern": "〜って (口語の引用)",
       "meaning_en": "(casual quote marker)",
       "meaning_ja": "口語の引用",
       "meaning_zh": "口語中的引用標記「⋯說／⋯這樣」",
@@ -5013,7 +5013,7 @@
       ]
     },
     {
-      "pattern": "〜られる（受身）",
+      "pattern": "〜られる (受身)",
       "meaning_en": "passive form",
       "meaning_ja": "受身を表す動詞形。",
       "meaning_zh": "表示被動的動詞變化形",
@@ -5403,7 +5403,7 @@
       ]
     },
     {
-      "pattern": "〜そうだ（伝聞）",
+      "pattern": "〜そうだ (伝聞)",
       "meaning_en": "I heard that",
       "meaning_ja": "他人から聞いた情報を伝える。",
       "meaning_zh": "傳達從他人聽到的訊息",
@@ -5418,7 +5418,7 @@
       ]
     },
     {
-      "pattern": "〜そうだ（様態）",
+      "pattern": "〜そうだ (様態)",
       "meaning_en": "looks like/appears",
       "meaning_ja": "見た目の印象を表す。",
       "meaning_zh": "根據外觀的印象表達",
@@ -5853,7 +5853,7 @@
       ]
     },
     {
-      "pattern": "〜よう（意向形）",
+      "pattern": "〜よう (意向形)",
       "meaning_en": "let's/I will",
       "meaning_ja": "意志や勧誘を表す形。",
       "meaning_zh": "表達意志或邀請",
@@ -6138,7 +6138,7 @@
       ]
     },
     {
-      "pattern": "〜って（口語の引用）",
+      "pattern": "〜って (口語の引用)",
       "meaning_en": "said that (casual)",
       "meaning_ja": "「と」のくだけた引用形。",
       "meaning_zh": "「と」的口語引用形式",
@@ -6228,7 +6228,7 @@
       ]
     },
     {
-      "pattern": "〜な（禁止）",
+      "pattern": "〜な (禁止)",
       "meaning_en": "don't (strong)",
       "meaning_ja": "強い禁止を表す。",
       "meaning_zh": "表示強烈禁止",
@@ -6243,7 +6243,7 @@
       ]
     },
     {
-      "pattern": "〜ろ／〜よ（命令形）",
+      "pattern": "〜ろ／〜よ (命令形)",
       "meaning_en": "do! (command)",
       "meaning_ja": "強い命令を表す形。",
       "meaning_zh": "表示強烈命令的動詞形",
@@ -6633,7 +6633,7 @@
       ]
     },
     {
-      "pattern": "〜ばかり（限定）",
+      "pattern": "〜ばかり (限定)",
       "meaning_en": "nothing but/always",
       "meaning_ja": "そればかりすることを表す。",
       "meaning_zh": "表示老是只做某事",
@@ -6993,7 +6993,7 @@
       ]
     },
     {
-      "pattern": "〜方（方法）",
+      "pattern": "〜方 (方法)",
       "meaning_en": "way of doing",
       "meaning_ja": "動作の方法を表す。",
       "meaning_zh": "表示做某事的方法",
@@ -7593,7 +7593,7 @@
       ]
     },
     {
-      "pattern": "〜にする（変化）",
+      "pattern": "〜にする (変化)",
       "meaning_en": "make into/turn into",
       "meaning_ja": "状態に変化させることを表す。",
       "meaning_zh": "使其變成某種狀態",
@@ -7653,7 +7653,7 @@
       ]
     },
     {
-      "pattern": "〜くて（い形容詞・て形）",
+      "pattern": "〜くて (い形容詞・て形)",
       "meaning_en": "and (linking)",
       "meaning_ja": "い形容詞の連結形。",
       "meaning_zh": "い形容詞的連接形",
@@ -7668,7 +7668,7 @@
       ]
     },
     {
-      "pattern": "〜で（な形容詞・て形）",
+      "pattern": "〜で (な形容詞・て形)",
       "meaning_en": "and (linking, na-adj)",
       "meaning_ja": "な形容詞・名詞の連結形。",
       "meaning_zh": "な形容詞、名詞的連接形",
@@ -7758,7 +7758,7 @@
       ]
     },
     {
-      "pattern": "〜ながら（逆接）",
+      "pattern": "〜ながら (逆接)",
       "meaning_en": "although/despite",
       "meaning_ja": "逆接的同時を表す。",
       "meaning_zh": "逆接的同時進行",
@@ -7953,7 +7953,7 @@
       ]
     },
     {
-      "pattern": "〜の（疑問終助詞）",
+      "pattern": "〜の (疑問終助詞)",
       "meaning_en": "question (casual)",
       "meaning_ja": "カジュアルな疑問終助詞。",
       "meaning_zh": "口語化的疑問終助詞",
@@ -8328,7 +8328,7 @@
       ]
     },
     {
-      "pattern": "〜まま（状態の継続）",
+      "pattern": "〜まま (状態の継続)",
       "meaning_en": "as it is",
       "meaning_ja": "変えずにそのまま。",
       "meaning_zh": "維持原狀不變",
@@ -8868,7 +8868,7 @@
       ]
     },
     {
-      "pattern": "〜では（動作の場所）",
+      "pattern": "〜では (動作の場所)",
       "meaning_en": "at (action place)",
       "meaning_ja": "動作の場所を示す。",
       "meaning_zh": "表示動作發生的場所",
@@ -8883,7 +8883,7 @@
       ]
     },
     {
-      "pattern": "〜から（理由）",
+      "pattern": "〜から (理由)",
       "meaning_en": "because",
       "meaning_ja": "主観的な理由を表す。",
       "meaning_zh": "表達主觀的理由",
@@ -8898,7 +8898,7 @@
       ]
     },
     {
-      "pattern": "〜って（口語の主題）",
+      "pattern": "〜って (口語の主題)",
       "meaning_en": "as for (casual)",
       "meaning_ja": "「〜は」のくだけた形。",
       "meaning_zh": "「〜は」的口語形",
@@ -8973,7 +8973,7 @@
       ]
     },
     {
-      "pattern": "〜が（逆接）",
+      "pattern": "〜が (逆接)",
       "meaning_en": "but (formal)",
       "meaning_ja": "丁寧な逆接接続。",
       "meaning_zh": "正式禮貌的逆接連接",
@@ -9048,7 +9048,7 @@
       ]
     },
     {
-      "pattern": "〜にする（習慣）",
+      "pattern": "〜にする (習慣)",
       "meaning_en": "make habit of",
       "meaning_ja": "選び続ける習慣を表す。",
       "meaning_zh": "養成某種選擇習慣",
@@ -9513,7 +9513,7 @@
       ]
     },
     {
-      "pattern": "〜あんまり（口語）",
+      "pattern": "〜あんまり (口語)",
       "meaning_en": "not very (casual)",
       "meaning_ja": "「あまり」のくだけた形。",
       "meaning_zh": "「あまり」的口語形",
@@ -10578,7 +10578,7 @@
       ]
     },
     {
-      "pattern": "〜らしい（典型）",
+      "pattern": "〜らしい (典型)",
       "meaning_en": "typical of/like",
       "meaning_ja": "それらしい特徴を表す。",
       "meaning_zh": "表示具有典型特徵",
@@ -10593,7 +10593,7 @@
       ]
     },
     {
-      "pattern": "〜のく（躊躇の口語）",
+      "pattern": "〜のく (躊躇の口語)",
       "meaning_en": "be hesitant (informal)",
       "meaning_ja": "「のく」短縮や口語。",
       "meaning_zh": "表示猶豫的口語表達",
@@ -11043,7 +11043,7 @@
       ]
     },
     {
-      "pattern": "〜やすい（傾向）",
+      "pattern": "〜やすい (傾向)",
       "meaning_en": "tend to (likely)",
       "meaning_ja": "起こりやすいことを表す。",
       "meaning_zh": "表示容易發生的傾向",
@@ -11058,7 +11058,7 @@
       ]
     },
     {
-      "pattern": "〜にくい（困難）",
+      "pattern": "〜にくい (困難)",
       "meaning_en": "hard to do",
       "meaning_ja": "起こりにくいことを表す。",
       "meaning_zh": "表示不容易發生",
@@ -11073,7 +11073,7 @@
       ]
     },
     {
-      "pattern": "〜事（抽象名詞）",
+      "pattern": "〜事 (抽象名詞)",
       "meaning_en": "thing/matter",
       "meaning_ja": "事柄を表す抽象名詞。",
       "meaning_zh": "表示事項的抽象名詞",
@@ -11088,7 +11088,7 @@
       ]
     },
     {
-      "pattern": "〜物（具体名詞）",
+      "pattern": "〜物 (具体名詞)",
       "meaning_en": "thing (concrete)",
       "meaning_ja": "物理的な対象を表す。",
       "meaning_zh": "表示物理對象的名詞",
@@ -11103,7 +11103,7 @@
       ]
     },
     {
-      "pattern": "〜所（場所）",
+      "pattern": "〜所 (場所)",
       "meaning_en": "place/spot",
       "meaning_ja": "場所を表す名詞。",
       "meaning_zh": "表示場所的名詞",
@@ -11118,7 +11118,7 @@
       ]
     },
     {
-      "pattern": "〜方（丁寧な人）",
+      "pattern": "〜方 (丁寧な人)",
       "meaning_en": "person (polite)",
       "meaning_ja": "人を丁寧に表す名詞。",
       "meaning_zh": "禮貌地表示人的名詞",
@@ -15335,7 +15335,7 @@
       ]
     },
     {
-      "pattern": "〜ようと(意志)",
+      "pattern": "〜ようと (意志)",
       "meaning_en": "intending to; deciding to",
       "meaning_ja": "あることをしようという話し手の意志や決意を表す",
       "meaning_zh": "表示說話者打算做某事的意志或決心，「打算…、想要…」",
@@ -15350,7 +15350,7 @@
       ]
     },
     {
-      "pattern": "〜こと(指示・規則)",
+      "pattern": "〜こと (指示・規則)",
       "meaning_en": "must; be sure to (written rule)",
       "meaning_ja": "規則や注意書きなどで、そうしなければならない指示を簡潔に伝える",
       "meaning_zh": "用於規則或注意事項中，簡潔地傳達必須這麼做的指示，「應…、務必…」",
@@ -15365,7 +15365,7 @@
       ]
     },
     {
-      "pattern": "〜ことか(嘆き・感嘆)",
+      "pattern": "〜ことか (嘆き・感嘆)",
       "meaning_en": "how very ... !; how much ... !",
       "meaning_ja": "感動や驚き、嘆きの気持ちを込めて程度がはなはだしいことを強調する",
       "meaning_zh": "帶著感嘆、驚訝或感慨的心情，強調程度之深，「多麼…啊」",
@@ -15440,7 +15440,7 @@
       ]
     },
     {
-      "pattern": "〜ことから(根拠)",
+      "pattern": "〜ことから (根拠)",
       "meaning_en": "from the fact that; because of",
       "meaning_ja": "ある事実を根拠として、判断や結論、名前の由来などを述べる",
       "meaning_zh": "以某事實為根據，說明判斷、結論或名稱由來，「由於…、從…來看」",
@@ -15455,7 +15455,7 @@
       ]
     },
     {
-      "pattern": "〜ことだから(人物の性格を根拠に)",
+      "pattern": "〜ことだから (人物の性格を根拠に)",
       "meaning_en": "because it's (a person we know well), surely",
       "meaning_ja": "よく知っている人の性格や習慣を理由に、当然そうなるだろうと推測する",
       "meaning_zh": "以熟知對象的個性或習慣為由，推測理所當然會如此，「因為是…，所以一定…」",
@@ -15470,7 +15470,7 @@
       ]
     },
     {
-      "pattern": "〜うえで(まず〜してから)",
+      "pattern": "〜うえで (まず〜してから)",
       "meaning_en": "after; upon; in the course of",
       "meaning_ja": "まずあることをして、その結果をふまえて次のことをすることを表す",
       "meaning_zh": "先做某事，再以其結果為基礎進行下一步，「在…之後（再）、…的基礎上」",
@@ -22342,7 +22342,7 @@
       ]
     },
     {
-      "pattern": "〜たって(=ても)",
+      "pattern": "〜たって (=ても)",
       "meaning_en": "even if (casual)",
       "meaning_ja": "「〜ても」のくだけた言い方で、逆接の仮定を表す",
       "meaning_zh": "就算…也（「〜ても」的口語說法）",
