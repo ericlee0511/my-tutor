@@ -2119,7 +2119,7 @@
     {
       "pattern": "Verbo «estar» — conjugación en presente",
       "meaning_zh": "動詞 estar 在現在式的六個人稱變化：estoy, estás, está, estamos, estáis, están。",
-      "structure": "sujeto + estoy/estás/está/estamos/estáis/están",
+      "structure": "Sujeto + estoy/estás/está/estamos/estáis/están",
       "examples": [
         {
           "es": "Yo estoy en casa ahora.",
@@ -2138,7 +2138,7 @@
     {
       "pattern": "Verbo «ser» — conjugación en presente",
       "meaning_zh": "動詞 ser 在現在式的六個人稱變化：soy, eres, es, somos, sois, son。",
-      "structure": "sujeto + soy/eres/es/somos/sois/son",
+      "structure": "Sujeto + soy/eres/es/somos/sois/son",
       "examples": [
         {
           "es": "Yo soy estudiante.",
@@ -6556,7 +6556,7 @@
     {
       "pattern": "Pronombres reflexivos con valor recíproco (反身代名詞的相互用法)",
       "meaning_zh": "複數的反身代名詞 (nos, os, se) 除了表達反身動作外，也可以表示「互相」的意思，常加 el uno al otro 或 mutuamente 強調。",
-      "structure": "sujeto plural + se / nos / os + verbo + (el uno al otro / mutuamente)",
+      "structure": "Sujeto plural + se / nos / os + verbo + (el uno al otro / mutuamente)",
       "examples": [
         {
           "es": "Carlos y Ana se quieren mucho.",
