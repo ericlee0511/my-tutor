@@ -2977,25 +2977,6 @@
       ]
     },
     {
-      "pattern": "Ir a + infinitivo (近未來式)",
-      "meaning_zh": "用現在式的 ir 加 a 加原形動詞，表示「即將要做」的計畫或預測，相當於英文 be going to。",
-      "structure": "Sujeto + ir (voy/vas/va/vamos/vais/van) + a + infinitivo",
-      "examples": [
-        {
-          "es": "Voy a estudiar esta noche.",
-          "zh": "我今晚要讀書。"
-        },
-        {
-          "es": "Vamos a viajar a México el verano que viene.",
-          "zh": "我們明年夏天要去墨西哥旅行。"
-        },
-        {
-          "es": "Va a llover esta tarde.",
-          "zh": "今天下午會下雨。"
-        }
-      ]
-    },
-    {
       "pattern": "Pronombres de OD y OI (直接與間接受詞代名詞)",
       "meaning_zh": "直接受詞回答 qué 或 a quién，間接受詞回答 a quién；兩者一起用時，間接 le/les 在直接 lo/la/los/las 前要變成 se。",
       "structure": "(OI me/te/le/nos/os/les) + (OD lo/la/los/las) + verbo conjugado",
@@ -3030,25 +3011,6 @@
         {
           "es": "La sopa está fría, ¿la caliento?",
           "zh": "湯涼了，要我加熱嗎？"
-        }
-      ]
-    },
-    {
-      "pattern": "Muy vs Mucho (程度副詞區分)",
-      "meaning_zh": "muy 用於修飾形容詞或副詞，意思是「很」；mucho 用於修飾動詞或名詞，意思是「很多」，並要與名詞陰陽性複數一致。",
-      "structure": "muy + adjetivo / adverbio ; verbo + mucho ; mucho/mucha/muchos/muchas + sustantivo",
-      "examples": [
-        {
-          "es": "Esta paella está muy rica.",
-          "zh": "這道海鮮飯非常好吃。"
-        },
-        {
-          "es": "Estudio mucho los fines de semana.",
-          "zh": "我週末讀很多書。"
-        },
-        {
-          "es": "Hay muchas personas en la plaza.",
-          "zh": "廣場上有很多人。"
         }
       ]
     },
@@ -4288,25 +4250,6 @@
       ]
     },
     {
-      "pattern": "Estar + gerundio (acción en progreso)",
-      "meaning_zh": "現在進行式：estar 的現在式 + gerundio (-ando/-iendo)，強調正在進行。",
-      "structure": "estoy/estás… + gerundio",
-      "examples": [
-        {
-          "es": "Estoy estudiando español.",
-          "zh": "我正在學西班牙語。"
-        },
-        {
-          "es": "Está comiendo ahora.",
-          "zh": "他現在正在吃飯。"
-        },
-        {
-          "es": "Estamos viendo una película.",
-          "zh": "我們正在看電影。"
-        }
-      ]
-    },
-    {
       "pattern": "Gerundios irregulares (leyendo, durmiendo, pidiendo)",
       "meaning_zh": "某些動詞的副動詞不規則：leer→leyendo, dormir→durmiendo, pedir→pidiendo, ir→yendo。",
       "structure": "Verbo irregular: -yendo (leer/oír) / -u- (dormir) / -i- (pedir)",
@@ -4322,25 +4265,6 @@
         {
           "es": "Están pidiendo más comida.",
           "zh": "他們在點更多食物。"
-        }
-      ]
-    },
-    {
-      "pattern": "Acabar de + infinitivo",
-      "meaning_zh": "「剛剛…」結構：acabar 的現在式 + de + 原形動詞，表達不久前完成的動作。",
-      "structure": "Acabar (presente) + de + infinitivo",
-      "examples": [
-        {
-          "es": "Acabo de comer.",
-          "zh": "我剛吃完飯。"
-        },
-        {
-          "es": "Acaba de llegar el tren.",
-          "zh": "火車剛到。"
-        },
-        {
-          "es": "Acabamos de verla.",
-          "zh": "我們剛看到她。"
         }
       ]
     },
@@ -4816,25 +4740,6 @@
         {
           "es": "Llegó tranquilamente.",
           "zh": "他冷靜地到達。"
-        }
-      ]
-    },
-    {
-      "pattern": "Adverbios de frecuencia (siempre, a veces, nunca)",
-      "meaning_zh": "siempre 總是；a veces 有時；nunca 從不；casi nunca 幾乎不；a menudo 經常。",
-      "structure": "siempre / a veces / nunca + verbo",
-      "examples": [
-        {
-          "es": "Siempre desayuno café.",
-          "zh": "我總是早餐喝咖啡。"
-        },
-        {
-          "es": "A veces voy al cine.",
-          "zh": "我有時去看電影。"
-        },
-        {
-          "es": "Nunca como carne.",
-          "zh": "我從不吃肉。"
         }
       ]
     },
@@ -5481,25 +5386,6 @@
         {
           "es": "Estos zapatos están recién comprados.",
           "zh": "這雙鞋剛買的。"
-        }
-      ]
-    },
-    {
-      "pattern": "Estar + lugar (ubicación temporal)",
-      "meaning_zh": "estar 用於表達位置，無論是人、物或暫時情況：Estoy en casa。",
-      "structure": "Estar + en/sobre/cerca de + lugar",
-      "examples": [
-        {
-          "es": "Estoy en la oficina.",
-          "zh": "我在辦公室。"
-        },
-        {
-          "es": "El libro está sobre la mesa.",
-          "zh": "書在桌上。"
-        },
-        {
-          "es": "Madrid está en España.",
-          "zh": "馬德里在西班牙。"
         }
       ]
     },
@@ -6516,44 +6402,6 @@
       ]
     },
     {
-      "pattern": "Futuro de probabilidad (未來式表推測)",
-      "meaning_zh": "未來簡單式除了表未來事件，也可表達「對現在的推測」，相當於中文「大概、應該是」。",
-      "structure": "Sujeto + verbo en futuro simple (推測現在情況)",
-      "examples": [
-        {
-          "es": "¿Qué hora es? — Serán las diez.",
-          "zh": "幾點了？應該十點了吧。"
-        },
-        {
-          "es": "Está cansada; tendrá mucho trabajo.",
-          "zh": "她很累，大概工作很多。"
-        },
-        {
-          "es": "No contesta; estará durmiendo.",
-          "zh": "他沒接，應該在睡覺。"
-        }
-      ]
-    },
-    {
-      "pattern": "Hace + tiempo + que (時間表達)",
-      "meaning_zh": "用來表示「持續多久」或「多久以前發生」，搭配現在式表示持續至今，搭配過去式表示時間距離。",
-      "structure": "Hace + período + que + presente/pretérito indefinido",
-      "examples": [
-        {
-          "es": "Hace tres años que vivo en Taipéi.",
-          "zh": "我住在台北已經三年了。"
-        },
-        {
-          "es": "Hace dos semanas que no veo a María.",
-          "zh": "我已經兩個星期沒見到瑪麗亞了。"
-        },
-        {
-          "es": "Hace mucho que terminé la carrera.",
-          "zh": "我畢業已經很久了。"
-        }
-      ]
-    },
-    {
       "pattern": "Pronombres reflexivos con valor recíproco (反身代名詞的相互用法)",
       "meaning_zh": "複數的反身代名詞 (nos, os, se) 除了表達反身動作外，也可以表示「互相」的意思，常加 el uno al otro 或 mutuamente 強調。",
       "structure": "Sujeto plural + se / nos / os + verbo + (el uno al otro / mutuamente)",
@@ -7447,25 +7295,6 @@
       ]
     },
     {
-      "pattern": "Estar + participio (resultado de una acción)",
-      "meaning_zh": "estar + 過去分詞描述動作之後的狀態或結果，而非動作本身。",
-      "structure": "Estar + participio (concordancia)",
-      "examples": [
-        {
-          "es": "La puerta está cerrada.",
-          "zh": "門是關著的。"
-        },
-        {
-          "es": "Los deberes ya están hechos.",
-          "zh": "作業已經做好了。"
-        },
-        {
-          "es": "La carta está escrita en alemán.",
-          "zh": "這封信是用德文寫的。"
-        }
-      ]
-    },
-    {
       "pattern": "Ser pasiva vs Estar resultativo",
       "meaning_zh": "ser + 分詞強調動作過程與執行者；estar + 分詞強調動作完成後的狀態結果。",
       "structure": "Ser/Estar + participio",
@@ -7481,25 +7310,6 @@
         {
           "es": "La carta fue escrita ayer. / La carta ya está escrita.",
           "zh": "這封信昨天被寫好。/ 信已經寫好了。"
-        }
-      ]
-    },
-    {
-      "pattern": "Se impersonal (sin sujeto definido)",
-      "meaning_zh": "用 se + 動詞單數三人稱表示泛指「人們、大家」，無特定主詞。",
-      "structure": "Se + verbo 3ª pers. sing.",
-      "examples": [
-        {
-          "es": "Se come muy bien en este restaurante.",
-          "zh": "這家餐廳吃得很好。"
-        },
-        {
-          "es": "Aquí se vive tranquilo.",
-          "zh": "這裡生活很平靜。"
-        },
-        {
-          "es": "En España se cena tarde.",
-          "zh": "在西班牙人們很晚吃晚餐。"
         }
       ]
     },
@@ -7694,25 +7504,6 @@
       ]
     },
     {
-      "pattern": "Lo + adjetivo (sustantivación abstracta)",
-      "meaning_zh": "用中性冠詞 lo + 形容詞（陽性單數）表達抽象概念，相當於「…的部分／事」。",
-      "structure": "Lo + adjetivo masculino singular",
-      "examples": [
-        {
-          "es": "Lo mejor de la fiesta fue la música.",
-          "zh": "派對最棒的是音樂。"
-        },
-        {
-          "es": "Lo difícil es empezar.",
-          "zh": "難的是開始。"
-        },
-        {
-          "es": "Lo importante es que estés bien.",
-          "zh": "重要的是你健康。"
-        }
-      ]
-    },
-    {
       "pattern": "Lo + adverbio + que (intensidad)",
       "meaning_zh": "用 lo + 副詞/形容詞 + que 表達「多麼…」，常與 ver/saber 一起表示驚訝或強調程度。",
       "structure": "Lo + adj/adv + que + verbo",
@@ -7728,25 +7519,6 @@
         {
           "es": "Es increíble lo rápido que aprende.",
           "zh": "他學得多快真不可思議。"
-        }
-      ]
-    },
-    {
-      "pattern": "Lo que (relativo neutro)",
-      "meaning_zh": "中性關係代名詞，指前文所述整體事件，可譯為「…的事、所…的」。",
-      "structure": "Lo que + verbo",
-      "examples": [
-        {
-          "es": "No entendí lo que dijo.",
-          "zh": "我沒聽懂他說的。"
-        },
-        {
-          "es": "Lo que más me gusta es leer.",
-          "zh": "我最喜歡的事是閱讀。"
-        },
-        {
-          "es": "Eso es lo que pensaba.",
-          "zh": "那正是我想的。"
         }
       ]
     },
@@ -8911,25 +8683,6 @@
         {
           "es": "Se necesitan camareros con experiencia.",
           "zh": "徵有經驗的服務生。"
-        }
-      ]
-    },
-    {
-      "pattern": "Lo + adjetivo (中性冠詞 lo 抽象化)",
-      "meaning_zh": "中性冠詞 lo 加形容詞可以把性質名詞化，相當於中文「…的事／…的部分」，常用於評論或下結論。",
-      "structure": "Lo + adjetivo (masc. sg.) + (es que…) / + de + sustantivo",
-      "examples": [
-        {
-          "es": "Lo importante es no rendirse nunca.",
-          "zh": "重要的是永遠不要放棄。"
-        },
-        {
-          "es": "Lo malo de este trabajo es el horario.",
-          "zh": "這份工作不好的地方是工時。"
-        },
-        {
-          "es": "Lo bueno es que hemos llegado a tiempo.",
-          "zh": "好消息是我們準時到了。"
         }
       ]
     },
@@ -10412,25 +10165,6 @@
         {
           "es": "Se preparó bien, de modo que ganó la beca.",
           "zh": "他準備充分，所以拿到獎學金。"
-        }
-      ]
-    },
-    {
-      "pattern": "Conector temporal — al + infinitivo",
-      "meaning_zh": "「一…就／在…時」結構：al + 不定詞用以表達時間點上的同步動作。",
-      "structure": "Al + infinitivo (simultaneidad)",
-      "examples": [
-        {
-          "es": "Al entrar en casa, encendí la luz.",
-          "zh": "我一進家門就把燈打開。"
-        },
-        {
-          "es": "Al ver el accidente, llamó a la ambulancia.",
-          "zh": "他一看到車禍就打電話叫救護車。"
-        },
-        {
-          "es": "Al escuchar la noticia, no pude creerlo.",
-          "zh": "聽到消息時我無法相信。"
         }
       ]
     },
@@ -13824,40 +13558,6 @@
       ]
     },
     {
-      "pattern": "Estilo indirecto — presente → imperfecto (backshift completo)",
-      "meaning_zh": "間接引語完整時態後移：直接引語的現在式在過去引述動詞後變為過去未完成式。",
-      "structure": "Verbo de comunicación en pasado + que + imperfecto de indicativo",
-      "examples": [
-        {
-          "es": "Me dijo: «Vivo en Madrid.» → Me dijo que vivía en Madrid.",
-          "zh": "他告訴我：「我住在馬德里。」→ 他告訴我他住在馬德里。"
-        },
-        {
-          "es": "Aseguró que conocía bien la ciudad.",
-          "zh": "他斷言他熟悉這座城市。"
-        },
-        {
-          "es": "Comentó que el plan funcionaba a la perfección.",
-          "zh": "他評論說計畫運作得非常完美。"
-        }
-      ]
-    },
-    {
-      "pattern": "Estilo indirecto — indefinido → pluscuamperfecto (backshift completo)",
-      "meaning_zh": "完整時態後移：直接引語的簡單過去式在過去引述後變為過去完成式。",
-      "structure": "Verbo de comunicación en pasado + que + pluscuamperfecto",
-      "examples": [
-        {
-          "es": "Confesó: «Robé el dinero.» → Confesó que había robado el dinero.",
-          "zh": "他承認：「我偷了錢。」→ 他承認他偷了錢。"
-        },
-        {
-          "es": "Me contó que ya había viajado a México el año anterior.",
-          "zh": "他告訴我前一年他已到過墨西哥。"
-        }
-      ]
-    },
-    {
       "pattern": "Estilo indirecto — futuro → condicional simple (backshift completo)",
       "meaning_zh": "時態完整後移：直接引語的未來簡單式在過去引述動詞之後，必須轉變為簡單條件式以對應參照時間的延後。",
       "structure": "Verbo de comunicación en pasado + que + condicional simple",
@@ -14890,44 +14590,6 @@
       ]
     },
     {
-      "pattern": "Ir + gerundio (漸進變化貌)",
-      "meaning_zh": "「ir + 副動詞」強調動作或狀態的逐步發展與漸進變化，常翻譯為「漸漸地…」或「慢慢地…」。",
-      "structure": "Ir + gerundio",
-      "examples": [
-        {
-          "es": "La situación va mejorando poco a poco.",
-          "zh": "情況正逐漸好轉。"
-        },
-        {
-          "es": "Iba sintiéndose más cómoda en su nuevo trabajo.",
-          "zh": "她在新工作中漸漸感到更自在。"
-        },
-        {
-          "es": "Ve preparando los documentos mientras yo termino esto.",
-          "zh": "你先慢慢準備文件，我把這個收尾。"
-        }
-      ]
-    },
-    {
-      "pattern": "Llevar + participio (累積完成貌)",
-      "meaning_zh": "「llevar + 過去分詞」表示「截至目前已累積完成的動作量」，分詞需與直接受詞性數一致。",
-      "structure": "Llevar + participio ( + complemento)",
-      "examples": [
-        {
-          "es": "Llevo leídas más de doscientas páginas del informe.",
-          "zh": "我已經讀完報告中超過兩百頁了。"
-        },
-        {
-          "es": "Llevamos vendidos diez mil ejemplares en un mes.",
-          "zh": "我們在一個月內已賣出一萬冊。"
-        },
-        {
-          "es": "Lleva dichas mil veces las mismas excusas.",
-          "zh": "他已經把同樣的藉口說了一千次。"
-        }
-      ]
-    },
-    {
       "pattern": "Ser de + infinitivo (應然／可預期)",
       "meaning_zh": "「ser de + 不定詞」屬書面語體，表示「值得…」「應該…」或「可預期…」，常見於評論與正式表達。",
       "structure": "Ser de + infinitivo",
@@ -15593,25 +15255,6 @@
       ]
     },
     {
-      "pattern": "Cuanto más… (tanto) más… (連動遞進)",
-      "meaning_zh": "「cuanto más X (tanto) más Y」表「越…就越…」，省略 tanto 屬慣常用法，正式語體常保留 tanto。",
-      "structure": "Cuanto más + verbo/adj, (tanto) más + verbo/adj",
-      "examples": [
-        {
-          "es": "Cuanto más lo conozco, más lo admiro.",
-          "zh": "我越認識他，就越敬佩他。"
-        },
-        {
-          "es": "Cuanto más insistes, tanto más se aleja.",
-          "zh": "你越堅持，他就越疏遠你。"
-        },
-        {
-          "es": "Cuanto menos hables del tema, mejor para todos.",
-          "zh": "你越少提這件事，對大家越好。"
-        }
-      ]
-    },
-    {
       "pattern": "No es para menos (合理化評語)",
       "meaning_zh": "「no es para menos」屬慣用評語，意為「也不為過、本應如此」，肯定他人反應或情緒的合理性。",
       "structure": "(Frase contextual) + no es para menos",
@@ -16254,25 +15897,6 @@
         {
           "es": "Siendo tan importante el tema, deberíamos analizarlo más a fondo.",
           "zh": "鑑於此議題如此重要，我們應該更深入分析。"
-        }
-      ]
-    },
-    {
-      "pattern": "De + infinitivo (假設精簡)",
-      "meaning_zh": "「de + 不定詞」是條件子句的簡化形式，相當於「si + 動詞」，常見於書面語體。",
-      "structure": "De + infinitivo, + oración principal",
-      "examples": [
-        {
-          "es": "De saberlo antes, te habría llamado.",
-          "zh": "要是早知道，我會打給你的。"
-        },
-        {
-          "es": "De llover mañana, suspenderemos la excursión.",
-          "zh": "明天若下雨，我們就取消郊遊。"
-        },
-        {
-          "es": "De no encontrar plaza, dormiremos en el coche.",
-          "zh": "要是找不到位子，我們就睡車上。"
         }
       ]
     },
@@ -18215,25 +17839,6 @@
       ]
     },
     {
-      "pattern": "Lo + adjetivo (nominalización abstracta)",
-      "meaning_zh": "lo 加形容詞構成抽象名詞，表達某種特質或概念，常用於評論、思想表達。",
-      "structure": "Lo + adjetivo",
-      "examples": [
-        {
-          "es": "Lo bueno es que aún hay tiempo.",
-          "zh": "好的是，還有時間。"
-        },
-        {
-          "es": "Lo difícil no es empezar, sino continuar.",
-          "zh": "難的不是開始，而是堅持。"
-        },
-        {
-          "es": "Lo inesperado siempre llega cuando menos lo esperas.",
-          "zh": "意外總在你最沒預期時降臨。"
-        }
-      ]
-    },
-    {
       "pattern": "Lo de + sustantivo / infinitivo — mención impersonal",
       "meaning_zh": "lo de + 名詞或不定詞，用以模糊指代某話題或事件，常見於口語與書面語。",
       "structure": "Lo de + sustantivo / infinitivo",
@@ -18249,25 +17854,6 @@
         {
           "es": "No quiero hablar de lo de ayer.",
           "zh": "我不想談昨天的那件事。"
-        }
-      ]
-    },
-    {
-      "pattern": "Lo + posesivo (lo mío, lo tuyo, lo suyo)",
-      "meaning_zh": "結合 lo 與所有格的中性結構，表示「我（你/他）的事／本分／東西」。",
-      "structure": "Lo + mío/tuyo/suyo/nuestro",
-      "examples": [
-        {
-          "es": "Lo mío es la música, no las matemáticas.",
-          "zh": "我擅長的是音樂，不是數學。"
-        },
-        {
-          "es": "Cada uno a lo suyo.",
-          "zh": "各做各的事。"
-        },
-        {
-          "es": "Lo tuyo es escribir, deberías intentarlo.",
-          "zh": "你擅長的是寫作，應該嘗試一下。"
         }
       ]
     },

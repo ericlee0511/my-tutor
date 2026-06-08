@@ -856,21 +856,6 @@
       ]
     },
     {
-      "pattern": "Present Perfect Continuous (Duration of Recent Action)",
-      "meaning_zh": "強調動作從過去持續到現在的時間長度，並可能仍在進行，常與 for、since、all day 搭配。",
-      "structure": "S + have/has + been + V-ing",
-      "examples": [
-        {
-          "en": "The marketing team has been preparing the launch campaign for two months.",
-          "zh": "行銷團隊已籌備發布活動兩個月了。"
-        },
-        {
-          "en": "I have been waiting for the supplier's reply since Monday.",
-          "zh": "我從週一就一直在等供應商的回覆。"
-        }
-      ]
-    },
-    {
       "pattern": "Past Perfect (Action Before Another Past Action)",
       "meaning_zh": "用於表達在另一個過去動作之前已完成的動作，常與 by the time、before、after 搭配。",
       "structure": "S + had + p.p.",
@@ -912,36 +897,6 @@
         {
           "en": "The board will announce the results next Friday.",
           "zh": "董事會將於下週五公布結果。"
-        }
-      ]
-    },
-    {
-      "pattern": "Future Continuous (Action in Progress in the Future)",
-      "meaning_zh": "用於描述未來某時刻正在進行的動作，多益常用於行程安排與商務行程預告。",
-      "structure": "S + will + be + V-ing",
-      "examples": [
-        {
-          "en": "At this time tomorrow, our delegation will be flying to Frankfurt.",
-          "zh": "明天此時，我們的代表團將正在飛往法蘭克福。"
-        },
-        {
-          "en": "The interns will be attending orientation throughout next week.",
-          "zh": "實習生們下週整週都將參加新人訓練。"
-        }
-      ]
-    },
-    {
-      "pattern": "Future Perfect (Action Completed by a Future Point)",
-      "meaning_zh": "用於表示在未來某個時間點之前將完成的動作，常與 by + 未來時間 搭配，多益常考截止日。",
-      "structure": "S + will + have + p.p.",
-      "examples": [
-        {
-          "en": "By next month, we will have launched the updated mobile application.",
-          "zh": "到下個月，我們將已推出更新版的行動應用程式。"
-        },
-        {
-          "en": "The renovation will have finished by the time the new tenants move in.",
-          "zh": "新房客搬入前，裝修就會完工。"
         }
       ]
     },
@@ -1077,21 +1032,6 @@
         {
           "en": "Our team is used to working under tight deadlines.",
           "zh": "我們團隊已習慣在緊迫的截止期限下工作。"
-        }
-      ]
-    },
-    {
-      "pattern": "Passive Voice (Simple Present)",
-      "meaning_zh": "強調動作的承受者，或當動作者不重要、不明、不想提及時使用，多益常見於流程與政策說明。",
-      "structure": "S + am/is/are + p.p. (+ by + 行為者)",
-      "examples": [
-        {
-          "en": "All invoices are processed by the finance department.",
-          "zh": "所有發票都由財務部處理。"
-        },
-        {
-          "en": "The conference room is cleaned every evening.",
-          "zh": "會議室每晚都會清潔。"
         }
       ]
     },
@@ -1272,21 +1212,6 @@
         {
           "en": "If the manager had checked the figures, the error would not have occurred.",
           "zh": "如果經理當時核對過數字，這個錯誤就不會發生。"
-        }
-      ]
-    },
-    {
-      "pattern": "Mixed Conditional (Past Condition, Present Result)",
-      "meaning_zh": "混合條件句，過去未發生的條件造成現在的結果，常用於反省過去決策對現況的影響。",
-      "structure": "If + S + had + p.p., S + would + V (現在)",
-      "examples": [
-        {
-          "en": "If we had invested in automation last year, we would not be facing a labor shortage now.",
-          "zh": "如果我們去年投資自動化，現在就不會面臨人力短缺。"
-        },
-        {
-          "en": "If she had accepted the offer, she would be working in London today.",
-          "zh": "如果她當初接受了這份工作，現在就會在倫敦上班。"
         }
       ]
     },

@@ -1225,21 +1225,6 @@
       ]
     },
     {
-      "pattern": "Zero Conditional (general truth)",
-      "meaning_zh": "表達普遍真理或科學事實。",
-      "structure": "If + 主詞 + 現在簡單式, 主詞 + 現在簡單式",
-      "examples": [
-        {
-          "en": "If you heat water to 100 degrees, it boils.",
-          "zh": "如果你把水加熱到一百度，水就會沸騰。"
-        },
-        {
-          "en": "If it rains, the ground gets wet.",
-          "zh": "如果下雨，地面就會濕。"
-        }
-      ]
-    },
-    {
       "pattern": "First Conditional (real future)",
       "meaning_zh": "表達未來可能發生的事。",
       "structure": "If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
@@ -1566,21 +1551,6 @@
         {
           "en": "He got fired for being late too often.",
           "zh": "他因為太常遲到被開除了。"
-        }
-      ]
-    },
-    {
-      "pattern": "Get-passive (negative event)",
-      "meaning_zh": "get-passive 常用於不幸事件，如被搶、受傷。",
-      "structure": "主詞 + got + 過去分詞",
-      "examples": [
-        {
-          "en": "She got robbed on her way home.",
-          "zh": "她在回家路上被搶了。"
-        },
-        {
-          "en": "My phone got stolen at the station.",
-          "zh": "我的手機在車站被偷了。"
         }
       ]
     },
