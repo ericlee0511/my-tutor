@@ -384,14 +384,25 @@ main {
 }
 
 .picker-hint {
-  position: sticky;        /* 捲動時固定在 #content 頂端，「選擇一個故事：」永遠可見 */
-  top: 0;
-  z-index: 2;
-  background: var(--card); /* 不透明，蓋住下方捲過的故事按鈕 */
   color: var(--muted);
   font-size: 14px;
-  padding-bottom: 10px;    /* 用 padding 取代 margin，背景延伸蓋住與第一個按鈕間的縫 */
-  margin-bottom: 2px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--border);  /* 自成一塊，與下方清單分隔 */
+}
+/* 故事選單頁：#content 改 flex 直欄、自己不捲；標題固定，清單在自己的區塊內捲動 */
+#content.scene-picker-mode {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+#content.scene-picker-mode .picker-hint { flex: 0 0 auto; }
+#content.scene-picker-mode .story-list {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-top: 10px;
 }
 .story-list {
   display: flex;

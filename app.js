@@ -1998,7 +1998,9 @@ function renderNav() {
 }
 
 function displayEntry(entry) {
-  document.getElementById("content").innerHTML = formatEntry(entry) + renderNav();
+  const cEl = document.getElementById("content");
+  cEl.classList.remove("scene-picker-mode");   // 離開故事選單，回復一般捲動版面
+  cEl.innerHTML = formatEntry(entry) + renderNav();
   if (entry.kind === "scene") {
     document.querySelector(".story-switch")?.addEventListener("click", () => {
       state.story = null;
@@ -2052,6 +2054,7 @@ function nextTimeline() {
 
 function renderStoryPicker() {
   const c = document.getElementById("content");
+  c.classList.add("scene-picker-mode");   // 標題固定區塊 + 清單獨立捲動
   const stories = activeStories();
   const scenesData = activeScenes();
   let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
