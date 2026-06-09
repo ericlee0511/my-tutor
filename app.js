@@ -2909,7 +2909,21 @@ function showStreakTab(tab) {
   if (tab === "memory") renderMemoryTab();
 }
 
+// 申請持久化儲存：降低快取/進度在裝置空間不足或長期未使用時被瀏覽器自動回收的機率。
+// 已安裝的 PWA 通常直接核准；使用者手動清資料/解除安裝仍會清除（無法擋）。
+async function requestPersistentStorage() {
+  try {
+    if (!navigator.storage || !navigator.storage.persist) return;
+    if (await navigator.storage.persisted()) { console.log("[storage] 已是持久化儲存"); return; }
+    const granted = await navigator.storage.persist();
+    console.log(granted ? "[storage] 已核准持久化儲存" : "[storage] 未核准持久化（仍為 best-effort）");
+  } catch (e) {
+    console.log("[storage] persist 申請失敗:", e);
+  }
+}
+
 window.addEventListener("DOMContentLoaded", async () => {
+  requestPersistentStorage();   // fire-and-forget，不阻塞啟動
   loadState();
   document.getElementById("level-btn").textContent = levelLabel(state.level);
   document.getElementById("lang-btn").textContent = state.lang.toUpperCase();
