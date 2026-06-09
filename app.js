@@ -2078,7 +2078,15 @@ function renderStoryPicker() {
   c.innerHTML = html;
   c.querySelector(".title-toggle")?.addEventListener("click", () => {
     storyTitleZh = !storyTitleZh;
-    renderStoryPicker();
+    // 就地更新標題文字與鈕字，不重繪清單 → 捲動位置維持不動
+    const btn = c.querySelector(".title-toggle");
+    if (btn) btn.textContent = storyTitleZh ? "原文" : "中文";
+    const titleMap = {};
+    activeStories().forEach(s => { titleMap[s.key] = storyTitleZh ? (s.title_zh || s.title) : s.title; });
+    c.querySelectorAll(".story-option").forEach(opt => {
+      const txt = opt.querySelector(".story-option-text");
+      if (txt && titleMap[opt.dataset.key] != null) txt.textContent = titleMap[opt.dataset.key];
+    });
   });
   c.querySelectorAll(".story-option").forEach(b => {
     b.addEventListener("click", () => {
