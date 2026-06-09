@@ -384,12 +384,29 @@ main {
 }
 
 .picker-hint {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;          /* 文字靠左、切換鈕靠最右 */
+  gap: 8px;
   color: var(--muted);
   font-size: 14px;
   padding-bottom: 10px;
   margin-bottom: 0;
   border-bottom: 1px solid var(--border);  /* 自成一塊，與下方清單分隔 */
 }
+.title-toggle {
+  flex: none;
+  border: 1px solid var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 3px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.title-toggle:active { transform: scale(0.96); }
 /* 故事選單頁：#content 改 flex 直欄、自己不捲；標題固定，清單在自己的區塊內捲動 */
 #content.scene-picker-mode {
   display: flex;

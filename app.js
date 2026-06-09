@@ -2052,25 +2052,34 @@ function nextTimeline() {
   }
 }
 
+let storyTitleZh = false;   // 故事清單標題：false=原文(預設) / true=中文翻譯。只影響清單，不影響閱讀頁
+
 function renderStoryPicker() {
   const c = document.getElementById("content");
   c.classList.add("scene-picker-mode");   // 標題固定區塊 + 清單獨立捲動
   const stories = activeStories();
   const scenesData = activeScenes();
-  let html = `<div class="picker-hint">選擇一個故事：</div><div class="story-list">`;
+  const toggleLabel = storyTitleZh ? "原文" : "中文";   // 顯示原文時鈕為「中文」，反之
+  let html = `<div class="picker-hint"><span>選擇一個故事：</span>` +
+    `<button class="title-toggle" type="button">${toggleLabel}</button></div><div class="story-list">`;
   stories.forEach((s, i) => {
     const num = String(i + 1).padStart(3, "0");
     const count = (scenesData?.[s.key] || []).length;
+    const titleText = storyTitleZh ? (s.title_zh || s.title) : s.title;
     html += `<button class="story-option" type="button" data-key="${s.key}">` +
       `<span class="story-option-title">` +
         `<span class="story-option-num">${num}.</span>` +
-        `<span class="story-option-text">${escapeHTML(s.title)}</span>` +
+        `<span class="story-option-text">${escapeHTML(titleText)}</span>` +
       `</span>` +
       `<span class="story-option-count">${count} 句</span>` +
       `</button>`;
   });
   html += `</div>`;
   c.innerHTML = html;
+  c.querySelector(".title-toggle")?.addEventListener("click", () => {
+    storyTitleZh = !storyTitleZh;
+    renderStoryPicker();
+  });
   c.querySelectorAll(".story-option").forEach(b => {
     b.addEventListener("click", () => {
       state.story = b.dataset.key;
