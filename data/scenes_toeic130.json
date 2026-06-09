@@ -1,5 +1,6 @@
 {
   "title": "Network Outage Incident Postmortem",
+  "title_zh": "網路中斷事件檢討報告",
   "all": [
     {"en": "Incident Report Number INC dash twenty twenty-six dash zero one nine seven.", "zh": "事件報告編號 INC-2026-0197。"},
     {"en": "Subject: Companywide network outage on Tuesday, May twenty-seventh.", "zh": "主旨：五月二十七日週二全公司網路中斷事件。"},

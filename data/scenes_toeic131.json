@@ -1,5 +1,6 @@
 {
   "title": "Cloud Storage Quota Warning",
+  "title_zh": "雲端儲存容量警告",
   "all": [
     {"en": "Hi team, this is a friendly reminder from your IT Cloud Services group.", "zh": "團隊您好，這是來自 IT 雲端服務小組的友善提醒。"},
     {"en": "Recent telemetry shows our OneDrive storage capacity is approaching its limit.", "zh": "近期遙測資料顯示我們的 OneDrive 儲存容量即將達到上限。"},
