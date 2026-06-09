@@ -2057,6 +2057,7 @@ let storyTitleZh = false;   // 故事清單標題：false=原文(預設) / true=
 function renderStoryPicker() {
   const c = document.getElementById("content");
   c.classList.add("scene-picker-mode");   // 標題固定區塊 + 清單獨立捲動
+  storyTitleZh = false;   // 每次進「換故事」清單都重置：永遠原文 +「中文」鈕，不沿用上次切換
   const stories = activeStories();
   const scenesData = activeScenes();
   const toggleLabel = storyTitleZh ? "原文" : "中文";   // 顯示原文時鈕為「中文」，反之
