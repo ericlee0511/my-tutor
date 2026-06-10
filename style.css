@@ -409,12 +409,13 @@ main {
 .title-toggle .seg {
   border: none;
   background: none;
-  width: 38px;                 /* 固定寬(置中):粗體/放大在框內長大,不推擠旁邊 → 無位移 */
+  width: 44px;                 /* 固定寬(置中):粗體/放大在框內長大,不推擠旁邊 → 無位移 */
   text-align: center;
+  white-space: nowrap;         /* 不折行:14px 粗體也維持單行 */
   font-family: inherit;
   font-size: 13px;
   font-weight: 400;            /* 非作用中:細體 */
-  line-height: 20px;           /* 固定行高:放大 0.5px 不改高度 → 垂直無位移 */
+  line-height: 20px;           /* 固定行高:放大不改高度 → 垂直無位移 */
   color: var(--accent);        /* 兩段同色 = 按鈕文字色 */
   cursor: pointer;
 }
