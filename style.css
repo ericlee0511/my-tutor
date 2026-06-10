@@ -409,14 +409,16 @@ main {
 .title-toggle .seg {
   border: none;
   background: none;
-  padding: 0 2px;
+  width: 38px;                 /* 固定寬(置中):粗體/放大在框內長大,不推擠旁邊 → 無位移 */
+  text-align: center;
   font-family: inherit;
   font-size: 13px;
   font-weight: 400;            /* 非作用中:細體 */
+  line-height: 20px;           /* 固定行高:放大 0.5px 不改高度 → 垂直無位移 */
   color: var(--accent);        /* 兩段同色 = 按鈕文字色 */
   cursor: pointer;
 }
-.title-toggle .seg.active { font-weight: 700; }   /* 作用中:純粗體區別 */
+.title-toggle .seg.active { font-weight: 700; font-size: 13.5px; }   /* 作用中:粗體 + 0.5px */
 .title-toggle .seg:active { transform: scale(0.94); }
 .title-toggle .seg-sep {
   color: var(--accent);
