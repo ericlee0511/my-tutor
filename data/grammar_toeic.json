@@ -616,7 +616,7 @@
       ]
     },
     {
-      "pattern": "Causative verbs: have or get something done (使役動詞：have/get something done)",
+      "pattern": "Causative verbs: have or get something done (使役動詞：have / get something done)",
       "meaning_zh": "have/get + 物 + p.p. 表「請人做某事」（被動使役），強調事情被完成而非執行者。",
       "structure": "S + have/get + 事物 + p.p. (+ by + 某人)",
       "examples": [
@@ -1726,7 +1726,7 @@
       ]
     },
     {
-      "pattern": "According to / in accordance with / in compliance with (根據／依照)",
+      "pattern": "According to / in accordance with / in compliance with (根據 / 依照)",
       "meaning_zh": "according to 表「根據（某來源）」；in accordance with 與 in compliance with 表「依照、遵守（規定）」。",
       "structure": "according to + 來源 / in accordance with / in compliance with + 規範",
       "examples": [
@@ -1741,7 +1741,7 @@
       ]
     },
     {
-      "pattern": "In conjunction with / with the exception of / in addition to (連同／除外／此外)",
+      "pattern": "In conjunction with / with the exception of / in addition to (連同 / 除外 / 此外)",
       "meaning_zh": "in conjunction with 表「與……一同」；with the exception of 表「除……之外」；in addition to 表「除……之外還有」。",
       "structure": "in conjunction with / with the exception of / in addition to + 名詞",
       "examples": [
@@ -1756,7 +1756,7 @@
       ]
     },
     {
-      "pattern": "Apart from / aside from / given (除了／考量到)",
+      "pattern": "Apart from / aside from / given (除了 / 考量到)",
       "meaning_zh": "apart from 與 aside from 表「除了」；given 表「考量到」，作為介系詞使用。",
       "structure": "apart from / aside from + 名詞 (例外或附加) / given + 名詞 (考量)",
       "examples": [
@@ -2086,7 +2086,7 @@
       ]
     },
     {
-      "pattern": "Comparison: comparative / superlative / equality (比較級／最高級／同等比較)",
+      "pattern": "Comparison: comparative / superlative / equality (比較級 / 最高級 / 同等比較)",
       "meaning_zh": "比較級用 -er/more + than；最高級用 the -est/the most + in/of；同等比較用 as + adj + as。",
       "structure": "X + comparative + than Y / the + superlative + in / of / as + adj + as",
       "examples": [
@@ -2416,7 +2416,7 @@
       ]
     },
     {
-      "pattern": "Such + a/an + adj + N + that (如此的以致於)",
+      "pattern": "Such + a / an + adj + N + that (如此的以致於)",
       "meaning_zh": "such + 名詞片語 + that 表示「如此的…以致於…」。",
       "structure": "S + be + such + (a/an) + adj + N + that + 子句",
       "examples": [
@@ -2776,7 +2776,7 @@
       ]
     },
     {
-      "pattern": "Appositive with the idea / belief that... (同位語：the idea/belief that)",
+      "pattern": "Appositive with the idea / belief that... (同位語：the idea / belief that)",
       "meaning_zh": "the idea/belief 後接 that 子句說明其內容。",
       "structure": "the idea/belief + that + S + V",
       "examples": [
@@ -2836,7 +2836,7 @@
       ]
     },
     {
-      "pattern": "Conjunctive adverb: consequently (連接副詞：因此／結果)",
+      "pattern": "Conjunctive adverb: consequently (連接副詞：因此 / 結果)",
       "meaning_zh": "consequently 表示因果關係，比 therefore 語氣更正式。",
       "structure": "S + V; consequently, + S + V",
       "examples": [
@@ -3271,7 +3271,7 @@
       ]
     },
     {
-      "pattern": "May/might as well + V (不妨做某事)",
+      "pattern": "May / might as well + V (不妨做某事)",
       "meaning_zh": "may/might as well 表示「不妨、倒不如」。",
       "structure": "S + may/might as well + V(原形)",
       "examples": [
@@ -3376,7 +3376,7 @@
       ]
     },
     {
-      "pattern": "Historic / narrative present (歷史現在式／敘事現在式)",
+      "pattern": "Historic / narrative present (歷史現在式 / 敘事現在式)",
       "meaning_zh": "用現在簡單式敘述過去已發生的事件以增添臨場感,常見於簡報、案例分享與新聞標題式陳述。",
       "structure": "S + V(現在式)+ ... (描述過去事件)",
       "examples": [
@@ -3466,7 +3466,7 @@
       ]
     },
     {
-      "pattern": "Modal can / could for theoretical possibility (can／could 表理論上可能性)",
+      "pattern": "Modal can / could for theoretical possibility (can / could 表理論上可能性)",
       "meaning_zh": "can 表示一般理論上可能發生的情況 (普遍性),could 則指特定情境下的可能性,二者語氣不同。",
       "structure": "S + can / could + V(原形)(可能性)",
       "examples": [
@@ -3691,7 +3691,7 @@
       ]
     },
     {
-      "pattern": "Reported speech: yes/no questions with if/whether (轉述是非問句用 if/whether)",
+      "pattern": "Reported speech: yes / no questions with if / whether (轉述是非問句用 if / whether)",
       "meaning_zh": "轉述是非問句時用 ask + if/whether 引導,並還原成肯定句語序 (主詞在前、動詞在後),不用問號。",
       "structure": "S + asked + if / whether + S + V(陳述語序)",
       "examples": [
@@ -3736,7 +3736,7 @@
       ]
     },
     {
-      "pattern": "Subjunctive were after as if / as though (as if/as though 後接 were 假設語氣)",
+      "pattern": "Subjunctive were after as if / as though (as if / as though 後接 were 假設語氣)",
       "meaning_zh": "as if/as though 後接 were (含 I/he/she/it) 表示與現實不符的比擬,屬假設語氣,而非陳述真實情況。",
       "structure": "S + V + as if / as though + S + were(假設)",
       "examples": [
@@ -3856,7 +3856,7 @@
       ]
     },
     {
-      "pattern": "Modal may / might for concession (may／might 表讓步)",
+      "pattern": "Modal may / might for concession (may / might 表讓步)",
       "meaning_zh": "may/might 可表示讓步 (= 雖然),常與 but 連用構成 may...but... 句型,先承認一點再轉折。",
       "structure": "S + may / might + V(原形)..., but + S + V(讓步)",
       "examples": [
@@ -3916,7 +3916,7 @@
       ]
     },
     {
-      "pattern": "Either/neither/none as subject: verb agreement (either/neither/none 作主詞之動詞一致)",
+      "pattern": "Either / neither / none as subject: verb agreement (either / neither / none 作主詞之動詞一致)",
       "meaning_zh": "either/neither 當主詞接單數動詞;none of 後接不可數或視角不同時可單可複,正式商務多用單數。",
       "structure": "Neither / Either (+ of + N) + 單數V (正式用單數)",
       "examples": [
@@ -3946,7 +3946,7 @@
       ]
     },
     {
-      "pattern": "Indefinite pronouns as subject: everyone/someone/each (不定代名詞作主詞之動詞一致)",
+      "pattern": "Indefinite pronouns as subject: everyone / someone / each (不定代名詞作主詞之動詞一致)",
       "meaning_zh": "everyone, someone, anybody, each, every 等不定代名詞當主詞時一律接單數動詞。",
       "structure": "Everyone / Each / Somebody + 單數V (一律單數)",
       "examples": [
@@ -3961,7 +3961,7 @@
       ]
     },
     {
-      "pattern": "Noun clause with question word: how/why/when (疑問詞引導之名詞子句)",
+      "pattern": "Noun clause with question word: how / why / when (疑問詞引導之名詞子句)",
       "meaning_zh": "以疑問詞(how, why, when, where)引導的名詞子句作受詞時,使用直述語序而非疑問語序。",
       "structure": "S + V + how / why / when + S + V(直述語序) (間接問句不倒裝)",
       "examples": [
@@ -4021,7 +4021,7 @@
       ]
     },
     {
-      "pattern": "Adverbs of degree with adjectives: highly/deeply/widely (程度副詞與形容詞搭配)",
+      "pattern": "Adverbs of degree with adjectives: highly / deeply / widely (程度副詞與形容詞搭配)",
       "meaning_zh": "特定強調副詞與固定形容詞搭配(highly skilled, widely known, deeply concerned),屬商務常見搭配。",
       "structure": "degree Adv + Adj(固定搭配) (副詞與形容詞搭配)",
       "examples": [
@@ -4066,7 +4066,7 @@
       ]
     },
     {
-      "pattern": "Reflexive pronouns: myself/themselves (反身代名詞)",
+      "pattern": "Reflexive pronouns: myself / themselves (反身代名詞)",
       "meaning_zh": "當動作主受詞相同時用反身代名詞,亦可表強調(親自)。",
       "structure": "S + V + 反身代名詞(主受同一) / S + 反身代名詞(強調) (反身/強調)",
       "examples": [
@@ -4081,7 +4081,7 @@
       ]
     },
     {
-      "pattern": "Demonstratives: this/that/these/those for reference (指示詞作指涉)",
+      "pattern": "Demonstratives: this / that / these / those for reference (指示詞作指涉)",
       "meaning_zh": "指示詞除指物外,在商務寫作中常用 that of / those of 避免名詞重複。",
       "structure": "that of + N(單數替代) / those of + N(複數替代) (避免名詞重複)",
       "examples": [
@@ -4096,7 +4096,7 @@
       ]
     },
     {
-      "pattern": "One / ones as substitute pronoun (one／ones 替代代名詞)",
+      "pattern": "One / ones as substitute pronoun (one / ones 替代代名詞)",
       "meaning_zh": "one/ones 替代前面提過的可數名詞,避免重複,常與形容詞搭配。",
       "structure": "Adj + one / ones(替代可數名詞) (替代名詞)",
       "examples": [
@@ -4126,7 +4126,7 @@
       ]
     },
     {
-      "pattern": "Countable vs uncountable nouns: information/equipment/advice (可數與不可數名詞)",
+      "pattern": "Countable vs uncountable nouns: information / equipment / advice (可數與不可數名詞)",
       "meaning_zh": "部分商務名詞(information, equipment, advice, furniture, luggage)為不可數,無複數且接單數動詞。",
       "structure": "a piece of / some + 不可數N + 單數V (不可數名詞)",
       "examples": [
@@ -4141,7 +4141,7 @@
       ]
     },
     {
-      "pattern": "Determiner agreement: this/these with noun number (限定詞與名詞數一致)",
+      "pattern": "Determiner agreement: this / these with noun number (限定詞與名詞數一致)",
       "meaning_zh": "限定詞 this/that 配單數名詞,these/those 配複數名詞,須與名詞數一致。",
       "structure": "this / that + 單數N;these / those + 複數N (限定詞配名詞數)",
       "examples": [
@@ -4156,7 +4156,7 @@
       ]
     },
     {
-      "pattern": "Comparative with modifiers: much/far/slightly + comparative (比較級的程度修飾語)",
+      "pattern": "Comparative with modifiers: much / far / slightly + comparative (比較級的程度修飾語)",
       "meaning_zh": "程度副詞(much, far, slightly, considerably, a lot)可修飾比較級加強或減弱程度。",
       "structure": "much / far / slightly + 比較級 + than (修飾比較級)",
       "examples": [
@@ -4246,7 +4246,7 @@
       ]
     },
     {
-      "pattern": "Such / so with noun and adjective (such／so 接名詞與形容詞)",
+      "pattern": "Such / so with noun and adjective (such / so 接名詞與形容詞)",
       "meaning_zh": "so + 形容詞/副詞;such + (a/an) + 形容詞 + 名詞,表程度強調。",
       "structure": "so + adj / adv;such + (a/an) + adj + N (程度強調)",
       "examples": [
@@ -4321,7 +4321,7 @@
       ]
     },
     {
-      "pattern": "Distributives: every vs each vs all (分配詞 every／each／all)",
+      "pattern": "Distributives: every vs each vs all (分配詞 every / each / all)",
       "meaning_zh": "each 強調個別(接單數),every 強調全體中的每一(接單數),all 指整體(接複數/不可數)。",
       "structure": "each / every + 單數N + 單數V;all + 複數N + 複數V (個別/整體)",
       "examples": [
@@ -4336,7 +4336,7 @@
       ]
     },
     {
-      "pattern": "Both / either / neither: two items (兩者用之 both／either／neither)",
+      "pattern": "Both / either / neither: two items (兩者用之 both / either / neither)",
       "meaning_zh": "指兩者時:both 兩者皆(複數動詞)、either 任一(單數)、neither 兩者皆不(單數)。",
       "structure": "both + 複數V;either / neither + 單數V (限兩者)",
       "examples": [
@@ -4411,7 +4411,7 @@
       ]
     },
     {
-      "pattern": "Verb + object + infinitive: want/expect/advise sb to do (動詞接受詞加不定詞)",
+      "pattern": "Verb + object + infinitive: want / expect / advise sb to do (動詞接受詞加不定詞)",
       "meaning_zh": "特定動詞接「受詞 + to 不定詞」結構表期望某人做某事(advise, encourage, expect, allow)。",
       "structure": "V + 受詞 + to + V(原形) (受詞+不定詞)",
       "examples": [
@@ -4426,7 +4426,7 @@
       ]
     },
     {
-      "pattern": "Verb + that-clause vs verb + to-infinitive: decide/agree/hope (動詞接 that 子句與不定詞)",
+      "pattern": "Verb + that-clause vs verb + to-infinitive: decide / agree / hope (動詞接 that 子句與不定詞)",
       "meaning_zh": "部分動詞可接 that 子句或 to 不定詞,語意略異(hope to do / hope that S V)。",
       "structure": "V + to + V(原形) / V + that + S + V (接不定詞或子句)",
       "examples": [
@@ -4441,7 +4441,7 @@
       ]
     },
     {
-      "pattern": "It as preparatory subject: it is + adj + to/that (虛主詞 it)",
+      "pattern": "It as preparatory subject: it is + adj + to / that (虛主詞 it)",
       "meaning_zh": "用虛主詞 it 代替真正的不定詞或 that 子句主語,使句子結構平衡。",
       "structure": "It + be + adj + to + V / that + S + V (虛主詞)",
       "examples": [
@@ -4456,7 +4456,7 @@
       ]
     },
     {
-      "pattern": "It as preparatory object: find/make/consider it + adj (虛受詞 it)",
+      "pattern": "It as preparatory object: find / make / consider it + adj (虛受詞 it)",
       "meaning_zh": "動詞後用虛受詞 it 代替後面的不定詞或子句(find it difficult to do)。",
       "structure": "V + it + adj + to + V (虛受詞)",
       "examples": [
@@ -4471,7 +4471,7 @@
       ]
     },
     {
-      "pattern": "Bare infinitive after perception verbs: see/hear/watch sb do (感官動詞接原形動詞)",
+      "pattern": "Bare infinitive after perception verbs: see / hear / watch sb do (感官動詞接原形動詞)",
       "meaning_zh": "感官動詞 see/hear/watch/feel 接受詞後用原形動詞表完整動作,用 V-ing 表進行中。",
       "structure": "V(感官) + 受詞 + V(原形/V-ing) (原形=完整動作)",
       "examples": [
@@ -4576,7 +4576,7 @@
       ]
     },
     {
-      "pattern": "Negative adverb frequency word order: rarely/seldom/hardly (頻率副詞語序)",
+      "pattern": "Negative adverb frequency word order: rarely / seldom / hardly (頻率副詞語序)",
       "meaning_zh": "頻率與程度副詞(rarely, seldom, hardly, often, always)通常置於主要動詞前、be 動詞後。",
       "structure": "S + (rarely / often) + V;S + be + (rarely) + ... (副詞位置)",
       "examples": [
@@ -4621,7 +4621,7 @@
       ]
     },
     {
-      "pattern": "Emphasis with do/does/did: emphatic verb (do/does/did 強調語氣)",
+      "pattern": "Emphasis with do / does / did: emphatic verb (do / does / did 強調語氣)",
       "meaning_zh": "在肯定句中加入助動詞 do/does/did 於原形動詞前,以強調語氣。",
       "structure": "S + do / does / did + V(原形) (強調動作)",
       "examples": [
@@ -4636,7 +4636,7 @@
       ]
     },
     {
-      "pattern": "Fronting for emphasis: object/adverbial fronting (受詞或副詞前置強調)",
+      "pattern": "Fronting for emphasis: object / adverbial fronting (受詞或副詞前置強調)",
       "meaning_zh": "將受詞或副詞片語移至句首以強調,常見於正式商務語境。",
       "structure": "受詞/副詞片語 + S + V (成分前置強調)",
       "examples": [
@@ -4681,7 +4681,7 @@
       ]
     },
     {
-      "pattern": "Verb patterns: spend/waste + time/money + V-ing (spend/waste 接動名詞)",
+      "pattern": "Verb patterns: spend / waste + time / money + V-ing (spend / waste 接動名詞)",
       "meaning_zh": "spend/waste + 時間或金錢 + (in) V-ing,表花費於某事。",
       "structure": "spend / waste + 時間/金錢 + (in) + V-ing (花費於)",
       "examples": [
@@ -4756,7 +4756,7 @@
       ]
     },
     {
-      "pattern": "Future time clause: present tense after when/as soon as (未來時間子句用現在式)",
+      "pattern": "Future time clause: present tense after when / as soon as (未來時間子句用現在式)",
       "meaning_zh": "表未來的時間副詞子句中(when, as soon as, before, until)用現在式代替未來式。",
       "structure": "S + will + V, when / as soon as + S + V(現在式) (時間子句用現在式)",
       "examples": [
@@ -4771,7 +4771,7 @@
       ]
     },
     {
-      "pattern": "So / neither for agreement: so do I / neither does he (so／neither 表附和)",
+      "pattern": "So / neither for agreement: so do I / neither does he (so / neither 表附和)",
       "meaning_zh": "附和肯定用 so + 助動詞 + 主詞;附和否定用 neither/nor + 助動詞 + 主詞,須倒裝。",
       "structure": "So + 助動詞 + S(肯定附和);Neither + 助動詞 + S(否定附和) (附和倒裝)",
       "examples": [
@@ -4786,7 +4786,7 @@
       ]
     },
     {
-      "pattern": "Adjective clauses reduced to phrases: which is/who are omission (關係子句簡化為片語)",
+      "pattern": "Adjective clauses reduced to phrases: which is / who are omission (關係子句簡化為片語)",
       "meaning_zh": "關係代名詞 + be 動詞可省略,留下分詞或介系詞片語修飾名詞。",
       "structure": "N + (which/who + be 省略) + p.p. / prep 片語 (關係子句精簡)",
       "examples": [

@@ -1780,7 +1780,7 @@
       ]
     },
     {
-      "pattern": "Preposition + whom / which (介系詞加 whom/which)",
+      "pattern": "Preposition + whom / which (介系詞加 whom / which)",
       "meaning_zh": "正式用法中，介系詞可置於 whom/which 之前。",
       "structure": "介系詞 + whom/which + 主詞 + 動詞 …",
       "examples": [
@@ -1795,7 +1795,7 @@
       ]
     },
     {
-      "pattern": "Quantifier + of which / whom (量詞加 of which/whom)",
+      "pattern": "Quantifier + of which / whom (量詞加 of which / whom)",
       "meaning_zh": "用 some/many/none/all 等量詞接 of which/whom 帶出補充資訊。",
       "structure": "…, some/many/none/all of which/whom + 動詞 …",
       "examples": [
@@ -1885,7 +1885,7 @@
       ]
     },
     {
-      "pattern": "Remember / forget + V-ing vs to V (remember/forget 接動名詞與不定詞)",
+      "pattern": "Remember / forget + V-ing vs to V (remember / forget 接動名詞與不定詞)",
       "meaning_zh": "remember/forget ＋ V-ing 指「記得做過/忘了做過」；＋ to V 指「記得/忘了要去做」。",
       "structure": "remember/forget + V-ing(已做過)/to V(尚未做)",
       "examples": [
@@ -1975,7 +1975,7 @@
       ]
     },
     {
-      "pattern": "Make / let + O + bare infinitive (使役動詞 make/let 加受詞加原形動詞)",
+      "pattern": "Make / let + O + bare infinitive (使役動詞 make / let 加受詞加原形動詞)",
       "meaning_zh": "使役動詞 make/let 後接受詞與原形動詞。",
       "structure": "make/let + O + V(原形)",
       "examples": [
@@ -2050,7 +2050,7 @@
       ]
     },
     {
-      "pattern": "Too + adjective/adverb + to V (太……以致於不能……)",
+      "pattern": "Too + adjective / adverb + to V (太……以致於不能……)",
       "meaning_zh": "表示「太……以致於不能……」。",
       "structure": "too + adj./adv. + to V",
       "examples": [
@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "pattern": "Adjective/adverb + enough + to V (足夠……可以……)",
+      "pattern": "Adjective / adverb + enough + to V (足夠……可以……)",
       "meaning_zh": "表示「足夠……可以……」，enough 置於形容詞或副詞之後。",
       "structure": "adj./adv. + enough + to V",
       "examples": [
@@ -2125,7 +2125,7 @@
       ]
     },
     {
-      "pattern": "Comparative: -er / more (比較級 -er/more)",
+      "pattern": "Comparative: -er / more (比較級 -er / more)",
       "meaning_zh": "單音節形容詞加 -er，多音節用 more，比較兩者用 than。",
       "structure": "主詞 + be + adj.-er / more adj. + than …",
       "examples": [
@@ -2140,7 +2140,7 @@
       ]
     },
     {
-      "pattern": "Superlative: -est / most (最高級 -est/most)",
+      "pattern": "Superlative: -est / most (最高級 -est / most)",
       "meaning_zh": "表示三者以上中「最……」，前面通常加 the。",
       "structure": "主詞 + be + the + adj.-est / most adj. …",
       "examples": [
@@ -2155,7 +2155,7 @@
       ]
     },
     {
-      "pattern": "Less / least (less/least,程度較少)",
+      "pattern": "Less / least (less / least,程度較少)",
       "meaning_zh": "表示程度較少或最少。",
       "structure": "less + adj. + than … / the least + adj. …",
       "examples": [
@@ -2170,7 +2170,7 @@
       ]
     },
     {
-      "pattern": "As + adjective/adverb + as (同等比較)",
+      "pattern": "As + adjective / adverb + as (同等比較)",
       "meaning_zh": "表示「和……一樣……」；否定為 not as/so ... as。",
       "structure": "as + adj./adv. + as …",
       "examples": [
@@ -2245,7 +2245,7 @@
       ]
     },
     {
-      "pattern": "Reported speech: pronoun and time/place adverb changes (間接引述,人稱與時間地點副詞變化)",
+      "pattern": "Reported speech: pronoun and time / place adverb changes (間接引述,人稱與時間地點副詞變化)",
       "meaning_zh": "轉述時 today→that day、tomorrow→the next day、here→there 等需調整。",
       "structure": "主詞 + said (that) + 主詞 + 動詞 …(副詞替換)",
       "examples": [
@@ -2260,7 +2260,7 @@
       ]
     },
     {
-      "pattern": "Reported question: yes/no with if / whether (間接問句,yes/no 問句以 if/whether 引導)",
+      "pattern": "Reported question: yes / no with if / whether (間接問句,yes / no 問句以 if / whether 引導)",
       "meaning_zh": "轉述 yes/no 問句時，用 if 或 whether 接陳述句語序。",
       "structure": "主詞 + asked + if/whether + 主詞 + 動詞 …",
       "examples": [
@@ -2290,7 +2290,7 @@
       ]
     },
     {
-      "pattern": "Reported command: tell / ask + O + to V (間接命令,tell/ask 加受詞加不定詞)",
+      "pattern": "Reported command: tell / ask + O + to V (間接命令,tell / ask 加受詞加不定詞)",
       "meaning_zh": "轉述命令或請求時，用 tell/ask 加受詞與不定詞。",
       "structure": "主詞 + told/asked + O + (not)to V",
       "examples": [
@@ -2515,7 +2515,7 @@
       ]
     },
     {
-      "pattern": "Through / over / under (穿過/越過/在下方)",
+      "pattern": "Through / over / under (穿過 / 越過 / 在下方)",
       "meaning_zh": "穿過／越過／在下方",
       "structure": "through / over / under + 名詞",
       "examples": [
@@ -2650,7 +2650,7 @@
       ]
     },
     {
-      "pattern": "A / an: first mention (不定冠詞 a/an,第一次提及)",
+      "pattern": "A / an: first mention (不定冠詞 a / an,第一次提及)",
       "meaning_zh": "不定冠詞，首次提及或一個（任一）",
       "structure": "a + 子音音 / an + 母音音",
       "examples": [
@@ -2695,7 +2695,7 @@
       ]
     },
     {
-      "pattern": "Few / a few / little / a little (數量詞 few/a few/little/a little)",
+      "pattern": "Few / a few / little / a little (數量詞 few / a few / little / a little)",
       "meaning_zh": "幾乎沒有／一些（few 可數、little 不可數）",
       "structure": "few / a few + 複可 ; little / a little + 不可數",
       "examples": [
@@ -2785,7 +2785,7 @@
       ]
     },
     {
-      "pattern": "Either ... or / neither ... nor (不是就是/既不也不)",
+      "pattern": "Either ... or / neither ... nor (不是就是 / 既不也不)",
       "meaning_zh": "不是……就是／既不……也不",
       "structure": "either A or B / neither A nor B",
       "examples": [
@@ -2815,7 +2815,7 @@
       ]
     },
     {
-      "pattern": "However / therefore / furthermore (連接副詞,然而/因此/再者)",
+      "pattern": "However / therefore / furthermore (連接副詞,然而 / 因此 / 再者)",
       "meaning_zh": "連接副詞：然而／因此／再者",
       "structure": "S1 V1. However/Therefore, S2 V2.",
       "examples": [
@@ -2935,7 +2935,7 @@
       ]
     },
     {
-      "pattern": "Neither / either of + plural (neither/either of 加複數)",
+      "pattern": "Neither / either of + plural (neither / either of 加複數)",
       "meaning_zh": "neither/either of 後接複數名詞，動詞用單數",
       "structure": "Neither/Either of + the + Ns + V(s)",
       "examples": [
@@ -3256,7 +3256,7 @@
       ]
     },
     {
-      "pattern": "Future in the past: was/were going to (過去看未來,原本打算)",
+      "pattern": "Future in the past: was / were going to (過去看未來,原本打算)",
       "meaning_zh": "用 was/were going to 表達過去某時間點原本打算做、但未必實現的事。",
       "structure": "S + was / were + going to + V-原形 (過去視角的未來)",
       "examples": [
@@ -3617,7 +3617,7 @@
       ]
     },
     {
-      "pattern": "Reported speech: this/here to that/there (轉述句,指示詞與地點副詞轉換)",
+      "pattern": "Reported speech: this / here to that / there (轉述句,指示詞與地點副詞轉換)",
       "meaning_zh": "轉述時近指詞與地方副詞通常改為遠指：this→that、here→there。",
       "structure": "this → that / these → those / here → there (轉述時轉換)",
       "examples": [
@@ -3997,7 +3997,7 @@
       ]
     },
     {
-      "pattern": "Modal: should / shall in formal rules (助動詞,規章中的 shall/should)",
+      "pattern": "Modal: should / shall in formal rules (助動詞,規章中的 shall / should)",
       "meaning_zh": "在規章、合約或正式說明中，shall / should 用來表規定或義務。",
       "structure": "S + shall / should + V-原形 (規定義務)",
       "examples": [
@@ -4092,7 +4092,7 @@
       ]
     },
     {
-      "pattern": "Inversion: so / such ... that (倒裝句,So/Such 置句首倒裝)",
+      "pattern": "Inversion: so / such ... that (倒裝句,So / Such 置句首倒裝)",
       "meaning_zh": "So + 形容詞 / Such + 名詞置於句首表強調時，須部分倒裝。",
       "structure": "So + adj + 助動詞 + S + that... / Such + N + 助動詞 + S + that...",
       "examples": [
@@ -4111,7 +4111,7 @@
       ]
     },
     {
-      "pattern": "Inversion: little / never / rarely (倒裝句,否定/半否定副詞置句首)",
+      "pattern": "Inversion: little / never / rarely (倒裝句,否定 / 半否定副詞置句首)",
       "meaning_zh": "little、never、rarely、seldom 等否定或半否定副詞置句首時須倒裝。",
       "structure": "Little / Never / Rarely + 助動詞 + S + V",
       "examples": [
@@ -4130,7 +4130,7 @@
       ]
     },
     {
-      "pattern": "Emphasis: it was ... that cleft for time/place (分裂句,強調時間或地點)",
+      "pattern": "Emphasis: it was ... that cleft for time / place (分裂句,強調時間或地點)",
       "meaning_zh": "It was + 時間/地點 + that 用來強調句中的時間或地點成分。",
       "structure": "It + be + 時間/地點 + that + S + V",
       "examples": [
@@ -4244,7 +4244,7 @@
       ]
     },
     {
-      "pattern": "Adverbial clause of time: while/as/as soon as (時間副詞子句)",
+      "pattern": "Adverbial clause of time: while / as / as soon as (時間副詞子句)",
       "meaning_zh": "以 while、as、as soon as 等連接詞引導,說明主要動作發生的時間。",
       "structure": "S + V, as soon as / while / as + S + V (時間連接詞引導)",
       "examples": [
@@ -4263,7 +4263,7 @@
       ]
     },
     {
-      "pattern": "Adverbial clause of reason: as/now that (原因副詞子句)",
+      "pattern": "Adverbial clause of reason: as / now that (原因副詞子句)",
       "meaning_zh": "以 as、now that、seeing that 引導表原因,now that 強調「既然(現況)」。",
       "structure": "As / Now that / Seeing that + S + V, S + V",
       "examples": [
@@ -4339,7 +4339,7 @@
       ]
     },
     {
-      "pattern": "Adverbial clause of concession: while/whereas (讓步副詞子句,對比)",
+      "pattern": "Adverbial clause of concession: while / whereas (讓步副詞子句,對比)",
       "meaning_zh": "while、whereas 引導對比子句,表「然而、反之」,強調前後事實相反。",
       "structure": "While / Whereas + S + V, S + V (前後對比)",
       "examples": [
@@ -4377,7 +4377,7 @@
       ]
     },
     {
-      "pattern": "-ever clause: whatever/whoever/whenever (-ever 子句)",
+      "pattern": "-ever clause: whatever / whoever / whenever (-ever 子句)",
       "meaning_zh": "whatever、whoever、whenever 等表「任何…/無論…」,可當名詞子句或讓步子句。",
       "structure": "whatever / whoever / whenever / wherever + S + V",
       "examples": [
@@ -4586,7 +4586,7 @@
       ]
     },
     {
-      "pattern": "spend / waste + time/money + V-ing (花時間/錢做…)",
+      "pattern": "spend / waste + time / money + V-ing (花時間 / 錢做…)",
       "meaning_zh": "spend / waste + 時間或金錢 + 動名詞,表「花/浪費…做某事」。",
       "structure": "S + spend / waste + 時間/金錢 + (on) + V-ing",
       "examples": [
@@ -4662,7 +4662,7 @@
       ]
     },
     {
-      "pattern": "It + adj + for/of + sb + to V (虛主詞 it 接不定詞)",
+      "pattern": "It + adj + for / of + sb + to V (虛主詞 it 接不定詞)",
       "meaning_zh": "it 當虛主詞,真主詞為不定詞;客觀難易用 for sb,品格評價用 of sb。",
       "structure": "It + be + adj + for sb + to V (客觀); It + be + adj + of sb + to V (品格)",
       "examples": [
@@ -4700,7 +4700,7 @@
       ]
     },
     {
-      "pattern": "Bare infinitive after verbs of perception (感官動詞 + 原形/V-ing)",
+      "pattern": "Bare infinitive after verbs of perception (感官動詞 + 原形 / V-ing)",
       "meaning_zh": "see/hear/watch/feel 等感官動詞 + 受詞 + 原形動詞(看全程)或 V-ing(看片段、進行中)。",
       "structure": "see/hear/watch/feel + O + V(原形) / V-ing",
       "examples": [
@@ -4757,7 +4757,7 @@
       ]
     },
     {
-      "pattern": "not as/so ... as (不如…那麼)",
+      "pattern": "not as / so ... as (不如…那麼)",
       "meaning_zh": "not as/so + 形容詞/副詞 + as,表「不如…那麼」的同等否定比較。",
       "structure": "not as / so + adj/adv + as + 比較對象",
       "examples": [
@@ -4776,7 +4776,7 @@
       ]
     },
     {
-      "pattern": "by far / much + 比較級/最高級 (大幅程度修飾)",
+      "pattern": "by far / much + 比較級 / 最高級 (大幅程度修飾)",
       "meaning_zh": "by far、much、a lot、even 等可修飾比較級或最高級,加強程度。",
       "structure": "much / a lot / even + 比較級; by far + the + 最高級",
       "examples": [
@@ -4947,7 +4947,7 @@
       ]
     },
     {
-      "pattern": "Demonstratives this/that/these/those (指示詞)",
+      "pattern": "Demonstratives this / that / these / those (指示詞)",
       "meaning_zh": "this/these 指近、that/those 指遠,單複數須與名詞一致;those 可後接片語替代名詞。",
       "structure": "this/that + 單數N; these/those + 複數N",
       "examples": [
@@ -4985,7 +4985,7 @@
       ]
     },
     {
-      "pattern": "It-cleft for time/place (it 分裂句強調時間或地點)",
+      "pattern": "It-cleft for time / place (it 分裂句強調時間或地點)",
       "meaning_zh": "It is/was + 被強調部分 + that/when/where + 其餘,可強調時間或地點狀語。",
       "structure": "It is/was + 時間/地點 + that/when/where + S + V",
       "examples": [
@@ -5004,7 +5004,7 @@
       ]
     },
     {
-      "pattern": "What S V is/are ... (What 引導的分裂句強調)",
+      "pattern": "What S V is / are ... (What 引導的分裂句強調)",
       "meaning_zh": "以 What 引導的名詞子句作主詞,強調動作的內容或結果。",
       "structure": "What + S + V + is/are + 被強調部分",
       "examples": [
@@ -5099,7 +5099,7 @@
       ]
     },
     {
-      "pattern": "There + appear/seem/exist (there 句型延伸)",
+      "pattern": "There + appear / seem / exist (there 句型延伸)",
       "meaning_zh": "there 句型除 be 動詞外,也可接 seem/appear/exist/remain 等,表存在。",
       "structure": "There + seem/appear/exist/remain + to be / 名詞",
       "examples": [
@@ -5156,7 +5156,7 @@
       ]
     },
     {
-      "pattern": "few/little vs a few/a little (差別,否定 vs 肯定)",
+      "pattern": "few / little vs a few / a little (差別,否定 vs 肯定)",
       "meaning_zh": "few/little 帶否定意味(幾乎沒有),a few/a little 帶肯定意味(有一些);few/a few 接可數,little/a little 接不可數。",
       "structure": "few / a few + 可數複數N; little / a little + 不可數N",
       "examples": [
