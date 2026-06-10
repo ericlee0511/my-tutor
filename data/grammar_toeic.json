@@ -2146,7 +2146,7 @@
       ]
     },
     {
-      "pattern": "Subjunctive after recommend: recommend that S + should V (recommend 後的假設語氣, should 可省略)",
+      "pattern": "Subjunctive after recommend: recommend that S + should V (recommend 後的假設語氣，should 可省略)",
       "meaning_zh": "在 recommend 之後接 that 子句時，動詞使用原形（should 可省略），表示建議。",
       "structure": "S + recommend + that + S + (should) + V (原形)",
       "examples": [
@@ -2161,7 +2161,7 @@
       ]
     },
     {
-      "pattern": "Subjunctive after insist: insist that S + should V (insist 後的假設語氣, should 可省略)",
+      "pattern": "Subjunctive after insist: insist that S + should V (insist 後的假設語氣，should 可省略)",
       "meaning_zh": "在 insist 之後接 that 子句時，動詞使用原形，強調堅持要求。",
       "structure": "S + insist + that + S + (should) + V (原形)",
       "examples": [
@@ -2176,7 +2176,7 @@
       ]
     },
     {
-      "pattern": "Subjunctive after suggest: suggest that S + should V (suggest 後的假設語氣, should 可省略)",
+      "pattern": "Subjunctive after suggest: suggest that S + should V (suggest 後的假設語氣，should 可省略)",
       "meaning_zh": "在 suggest 之後的 that 子句中使用動詞原形，表示提議。",
       "structure": "S + suggest + that + S + (should) + V (原形)",
       "examples": [
@@ -2191,7 +2191,7 @@
       ]
     },
     {
-      "pattern": "Subjunctive after demand: demand that S + should V (demand 後的假設語氣, should 可省略)",
+      "pattern": "Subjunctive after demand: demand that S + should V (demand 後的假設語氣，should 可省略)",
       "meaning_zh": "demand 後接 that 子句，動詞用原形，表強烈要求。",
       "structure": "S + demand + that + S + (should) + V (原形)",
       "examples": [
@@ -2626,7 +2626,7 @@
       ]
     },
     {
-      "pattern": "Help sb do (幫助某人做某事, to 可省略)",
+      "pattern": "Help sb do (幫助某人做某事，to 可省略)",
       "meaning_zh": "help + 受詞 + (to) + 原形動詞，表示「幫助某人做某事」。",
       "structure": "S + help + O + (to) + V (原形)",
       "examples": [
@@ -3166,7 +3166,7 @@
       ]
     },
     {
-      "pattern": "Spend + time / money + in V-ing (花費時間或金錢做某事, in 可省略)",
+      "pattern": "Spend + time / money + in V-ing (花費時間或金錢做某事，in 可省略)",
       "meaning_zh": "spend + 時間/金錢 + (in) + V-ing，表示花費。",
       "structure": "S + spend + 時間 / 金錢 + (in) + V-ing",
       "examples": [

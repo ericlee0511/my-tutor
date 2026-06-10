@@ -71,8 +71,13 @@ const CHECKS = {
     if (!/\([^()]*[一-鿿][^()]*\)\s*$/.test(p)) v.push(["pattern 非「English (中文)」格式", p]);
     if (/[（）／]/.test(p)) v.push(["pattern 全形（）／(應半形)", p]);
     if (/\S\/|\/\S/.test(p)) v.push(["pattern 斜線兩側需各留一空白", p]);
-    if (/，/.test(p)) v.push(["pattern 全形逗號，(應半形,)", p]);
-    if (/,\S/.test(p)) v.push(["pattern 逗號後需留一空白", p]);
+    {  // 逗號分段:英文部分半形(後留空白)、結尾中文說明用全形「，」
+      const ann = (p.match(/\([^()]*[一-鿿][^()]*\)\s*$/) || [""])[0];
+      const head = p.slice(0, p.length - ann.length);
+      if (/，/.test(head)) v.push(["pattern 英文部分全形逗號(應半形,)", p]);
+      if (/,\S/.test(head)) v.push(["pattern 英文部分逗號後需留一空白", p]);
+      if (/,/.test(ann)) v.push(["pattern 中文說明逗號應全形「，」", p]);
+    }
     // 句首式:英文部分除首字外不應有多個一般首字大寫字(縮寫/專有名詞除外)
     {
       const eng = p.replace(/\s*\([^()]*[一-鿿][^()]*\)\s*$/, "");
