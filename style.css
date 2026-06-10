@@ -225,6 +225,8 @@ header h1 {
   font-family: inherit;
 }
 .chip:active { transform: scale(0.95); }
+/* 上方 header 按鈕(級別/語言/方向/放大鏡等)統一邊框色 = 放大鏡的鮮靛色 var(--accent) */
+header .chip { border-color: var(--accent); }
 .chip.active {
   background: var(--accent);
   color: var(--bg, #fff);
