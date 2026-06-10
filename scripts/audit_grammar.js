@@ -62,6 +62,11 @@ const CHECKS = {
     const v = [];
     if (/;/.test(m)) v.push(["meaning_zh 半形分號;(應全形；)", m]);
     if (/,/.test(m.replace(/\d,\d/g, ""))) v.push(["meaning_zh 半形逗號,(應全形，;數字千分位除外)", m]);
+    if (/[一-鿿]:|:\s?[一-鿿]/.test(m)) v.push(["meaning_zh 中文相鄰冒號應全形：", m]);  // 句號用全形。;但英文縮寫/省略號/數字不動
+    if (/[（）／]/.test(m)) v.push(["meaning_zh 全形（）／(應半形)", m]);
+    if (/\S\/|\/\S/.test(m)) v.push(["meaning_zh 斜線兩側需各留一空白", m]);
+    if (/\S\(/.test(m)) v.push(["meaning_zh ( 前需留一空白", m]);
+    if (/\)[A-Za-z0-9一-鿿]/.test(m)) v.push(["meaning_zh ) 後接文字需留一空白", m]);
     if (FULLWIDTH.test(s)) v.push(["structure 全形符號（）／＋", s]);
     if (EN_META.test(s)) v.push(["structure 英文後設標註(應中文)", s]);
     if (/\S\/|\/\S/.test(s)) v.push(["structure 斜線兩側需各留一空白", s]);  // 比 ONE_SIDE 更嚴:含完全無空白
