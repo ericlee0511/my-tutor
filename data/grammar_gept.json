@@ -671,7 +671,7 @@
     },
     {
       "pattern": "Time markers: last, ago, yesterday (過去式時間標誌)",
-      "meaning_zh": "last week、yesterday、in 2010、... ago 等明確過去時間，需搭配過去簡單式。",
+      "meaning_zh": "last week、yesterday、in 2010、… ago 等明確過去時間，需搭配過去簡單式。",
       "structure": "S + V-ed + last / yesterday / ago",
       "examples": [
         {
@@ -2171,7 +2171,7 @@
     },
     {
       "pattern": "As + adjective / adverb + as (同等比較)",
-      "meaning_zh": "表示「和……一樣……」；否定為 not as / so ... as。",
+      "meaning_zh": "表示「和……一樣……」；否定為 not as / so … as。",
       "structure": "as + adj. / adv. + as …",
       "examples": [
         {
@@ -2756,7 +2756,7 @@
     },
     {
       "pattern": "Unless (除非)",
-      "meaning_zh": "除非＝if...not",
+      "meaning_zh": "除非＝if…not",
       "structure": "unless + S + V (現在式)",
       "examples": [
         {
@@ -2891,7 +2891,7 @@
     },
     {
       "pattern": "It-cleft (It 強調句)",
-      "meaning_zh": "用 It is / was...that / who 強調某成分",
+      "meaning_zh": "用 It is / was…that / who 強調某成分",
       "structure": "It is / was + 強調部分 + that / who + 其餘",
       "examples": [
         {
@@ -5119,7 +5119,7 @@
     },
     {
       "pattern": "So far / so good (程度與範圍副詞片語)",
-      "meaning_zh": "so far 表「到目前為止」，常搭配完成式；區別於 so...that 的結果用法。",
+      "meaning_zh": "so far 表「到目前為止」，常搭配完成式；區別於 so…that 的結果用法。",
       "structure": "S + 完成式 + so far (= until now)",
       "examples": [
         {
@@ -5138,7 +5138,7 @@
     },
     {
       "pattern": "Enough as determiner (enough 當限定詞)",
-      "meaning_zh": "enough 修飾名詞時置於名詞前；修飾形容詞 / 副詞時置於其後 (與 too...to 對照)。",
+      "meaning_zh": "enough 修飾名詞時置於名詞前；修飾形容詞 / 副詞時置於其後 (與 too…to 對照)。",
       "structure": "enough + N; adj / adv + enough",
       "examples": [
         {
@@ -5214,7 +5214,7 @@
     },
     {
       "pattern": "As ... as possible / as ... as one can (盡可能…)",
-      "meaning_zh": "as + 形容詞 / 副詞 + as possible 或 as...as + 主詞 + can，表「盡可能地…」。",
+      "meaning_zh": "as + 形容詞 / 副詞 + as possible 或 as…as + 主詞 + can，表「盡可能地…」。",
       "structure": "as + adj / adv + as possible; as + adj / adv + as + S + can",
       "examples": [
         {
@@ -5290,7 +5290,7 @@
     },
     {
       "pattern": "Too ... to V vs so ... that (過於…無法，互換)",
-      "meaning_zh": "too + 形容詞 / 副詞 + to V 表「太…以致於不能」，可與 so...that...not 互換。",
+      "meaning_zh": "too + 形容詞 / 副詞 + to V 表「太…以致於不能」，可與 so…that…not 互換。",
       "structure": "too + adj / adv + (for sb) + to V (= so + adj / adv + that + S + can't)",
       "examples": [
         {
@@ -5366,7 +5366,7 @@
     },
     {
       "pattern": "The more ... the more (越…越…)",
-      "meaning_zh": "the + 比較級...，the + 比較級...，表「越…就越…」的相關變化。",
+      "meaning_zh": "the + 比較級…，the + 比較級…，表「越…就越…」的相關變化。",
       "structure": "The + 比較級 + S + V, the + 比較級 + S + V",
       "examples": [
         {

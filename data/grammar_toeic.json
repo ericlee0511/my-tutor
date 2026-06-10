@@ -392,7 +392,7 @@
     },
     {
       "pattern": "Parallel structure: not only...but also (對等結構：not only...but also)",
-      "meaning_zh": "對等連接詞前後須使用相同詞性或結構。not only...but also，both...and，either...or，neither...nor 須維持對稱。",
+      "meaning_zh": "對等連接詞前後須使用相同詞性或結構。not only…but also，both…and，either…or，neither…nor 須維持對稱。",
       "structure": "not only + X + but also + X (X = 同詞性)",
       "examples": [
         {
@@ -1892,7 +1892,7 @@
     },
     {
       "pattern": "Correlative conjunctions: both...and / either...or / neither...nor (相關連接詞)",
-      "meaning_zh": "both...and 必為複數動詞；either...or 與 neither...nor 採就近原則決定動詞單複數。",
+      "meaning_zh": "both…and 必為複數動詞；either…or 與 neither…nor 採就近原則決定動詞單複數。",
       "structure": "both A and B + 複數動詞 / either A or B / neither A nor B + 動詞與 B 一致",
       "examples": [
         {
@@ -1907,7 +1907,7 @@
     },
     {
       "pattern": "Correlative conjunction: whether...or (相關連接詞：不論是或是)",
-      "meaning_zh": "whether...or 表「不論是……或是……」，可用於名詞子句或副詞子句。",
+      "meaning_zh": "whether…or 表「不論是……或是……」，可用於名詞子句或副詞子句。",
       "structure": "whether + A + or + B",
       "examples": [
         {
@@ -2117,7 +2117,7 @@
     },
     {
       "pattern": "Conditional inversion / cleft sentences: it-cleft and wh-cleft (條件倒裝與分裂句)",
-      "meaning_zh": "省略 if 時可用倒裝 (Had / Were / Should + S)；強調句型 It is...that... 與 What...is... 用於突顯特定資訊。",
+      "meaning_zh": "省略 if 時可用倒裝 (Had / Were / Should + S)；強調句型 It is…that… 與 What…is… 用於突顯特定資訊。",
       "structure": "Had / Were / Should + S + V... / It is + X + that + clause / What + S + V + is + X",
       "examples": [
         {
@@ -2372,7 +2372,7 @@
     },
     {
       "pattern": "Cleft sentence: it was X that... (分裂句強調)",
-      "meaning_zh": "分裂句強調特定成分，常用 It was / is...that... 結構。",
+      "meaning_zh": "分裂句強調特定成分，常用 It was / is…that… 結構。",
       "structure": "It + be + 強調部分 + that / who + 其餘子句",
       "examples": [
         {
@@ -3857,7 +3857,7 @@
     },
     {
       "pattern": "Modal may / might for concession (may / might 表讓步)",
-      "meaning_zh": "may / might 可表示讓步 (= 雖然)，常與 but 連用構成 may...but... 句型，先承認一點再轉折。",
+      "meaning_zh": "may / might 可表示讓步 (= 雖然)，常與 but 連用構成 may…but… 句型，先承認一點再轉折。",
       "structure": "S + may / might + V (原形)..., but + S + V (讓步)",
       "examples": [
         {
@@ -4187,7 +4187,7 @@
     },
     {
       "pattern": "Comparison: as + adjective + as for equality (as...as 表同等比較)",
-      "meaning_zh": "as + 原級形容詞 / 副詞 + as 表兩者相等；否定 not as...as 表不及。",
+      "meaning_zh": "as + 原級形容詞 / 副詞 + as 表兩者相等；否定 not as…as 表不及。",
       "structure": "as + 原級 + as; not as / so + 原級 + as (否定) (同級比較)",
       "examples": [
         {
@@ -4592,7 +4592,7 @@
     },
     {
       "pattern": "Conjunction: whether...or not for choice (whether...or not 表無論是否)",
-      "meaning_zh": "whether...or not 引導表「無論是否」的名詞或副詞子句。",
+      "meaning_zh": "whether…or not 引導表「無論是否」的名詞或副詞子句。",
       "structure": "whether + S + V + or not (無論是否)",
       "examples": [
         {
@@ -4697,7 +4697,7 @@
     },
     {
       "pattern": "Comparative parallelism: more A than B / less A than B (比較級平行結構)",
-      "meaning_zh": "比較兩個性質時 more...than / less...than 兩側結構須平行對等。",
+      "meaning_zh": "比較兩個性質時 more…than / less…than 兩側結構須平行對等。",
       "structure": "more + A + than + B (結構對等) (平行比較)",
       "examples": [
         {
@@ -4817,7 +4817,7 @@
     },
     {
       "pattern": "Indirect question word order in requests (請求中間接問句語序)",
-      "meaning_zh": "禮貌請求中嵌入間接問句 (Could you tell me where...)，內部用直述語序。",
+      "meaning_zh": "禮貌請求中嵌入間接問句 (Could you tell me where…)，內部用直述語序。",
       "structure": "Could you tell me + 疑問詞 + S + V (直述語序) (間接問句語序)",
       "examples": [
         {

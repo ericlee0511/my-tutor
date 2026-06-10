@@ -62,7 +62,9 @@ const CHECKS = {
     const v = [];
     if (/;/.test(m)) v.push(["meaning_zh 半形分號;(應全形；)", m]);
     if (/,/.test(m.replace(/\d,\d/g, ""))) v.push(["meaning_zh 半形逗號,(應全形，;數字千分位除外)", m]);
-    if (/[一-鿿]:|:\s?[一-鿿]/.test(m)) v.push(["meaning_zh 中文相鄰冒號應全形：", m]);  // 句號用全形。;但英文縮寫/省略號/數字不動
+    if (/[一-鿿]:|:\s?[一-鿿]/.test(m)) v.push(["meaning_zh 中文相鄰冒號應全形：", m]);  // 句號用全形。;但英文縮寫/數字不動
+    if (/\.{2,}/.test(m)) v.push(["meaning_zh 連續半形點(應全形省略號…)", m]);
+    if (/\?/.test(m)) v.push(["meaning_zh 半形問號?(應全形？)", m]);
     if (/[（）／]/.test(m)) v.push(["meaning_zh 全形（）／(應半形)", m]);
     if (/\S\/|\/\S/.test(m)) v.push(["meaning_zh 斜線兩側需各留一空白", m]);
     if (/\S\(/.test(m)) v.push(["meaning_zh ( 前需留一空白", m]);
