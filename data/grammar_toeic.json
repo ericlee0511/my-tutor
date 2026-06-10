@@ -918,7 +918,7 @@
     {
       "pattern": "Going to vs will: plan vs decision (going to 與 will：計畫與當下決定)",
       "meaning_zh": "going to 用於已計畫好的未來或有跡象的預測；will 用於當下決定、承諾或無根據的推測。",
-      "structure": "S + am/is/are + going to + V  /  S + will + V",
+      "structure": "S + am/is/are + going to + V / S + will + V",
       "examples": [
         {
           "en": "We are going to expand into Vietnam next year, as the budget has been approved.",
@@ -993,7 +993,7 @@
     {
       "pattern": "Used to vs would: past habits (used to 與 would：過去習慣)",
       "meaning_zh": "used to 可表過去習慣或過去狀態；would 僅表過去重複動作，不能用於狀態。",
-      "structure": "S + used to + V  /  S + would + V",
+      "structure": "S + used to + V / S + would + V",
       "examples": [
         {
           "en": "Our department used to be located on the fifth floor before the relocation.",
@@ -4143,7 +4143,7 @@
     {
       "pattern": "Determiner agreement: this / these with noun number (限定詞與名詞數一致)",
       "meaning_zh": "限定詞 this/that 配單數名詞,these/those 配複數名詞,須與名詞數一致。",
-      "structure": "this / that + 單數N;these / those + 複數N (限定詞配名詞數)",
+      "structure": "this / that + 單數N; these / those + 複數N (限定詞配名詞數)",
       "examples": [
         {
           "en": "This document requires the director's signature.",
@@ -4188,7 +4188,7 @@
     {
       "pattern": "Comparison: as + adjective + as for equality (as...as 表同等比較)",
       "meaning_zh": "as + 原級形容詞/副詞 + as 表兩者相等;否定 not as...as 表不及。",
-      "structure": "as + 原級 + as;not as / so + 原級 + as(否定) (同級比較)",
+      "structure": "as + 原級 + as; not as / so + 原級 + as(否定) (同級比較)",
       "examples": [
         {
           "en": "This year's revenue is as strong as last year's.",
@@ -4203,7 +4203,7 @@
     {
       "pattern": "Comparison: prefer A to B / prefer to do rather than (prefer 表偏好)",
       "meaning_zh": "prefer 表偏好:prefer A to B(名詞)、prefer to do rather than do(動作)。",
-      "structure": "prefer + N + to + N;prefer to + V + rather than + V(原形) (偏好結構)",
+      "structure": "prefer + N + to + N; prefer to + V + rather than + V(原形) (偏好結構)",
       "examples": [
         {
           "en": "Most clients prefer email to phone calls for updates.",
@@ -4248,7 +4248,7 @@
     {
       "pattern": "Such / so with noun and adjective (such / so 接名詞與形容詞)",
       "meaning_zh": "so + 形容詞/副詞;such + (a/an) + 形容詞 + 名詞,表程度強調。",
-      "structure": "so + adj / adv;such + (a/an) + adj + N (程度強調)",
+      "structure": "so + adj / adv; such + (a/an) + adj + N (程度強調)",
       "examples": [
         {
           "en": "The response was so positive that we extended the promotion.",
@@ -4263,7 +4263,7 @@
     {
       "pattern": "Articles with proper and institutional nouns (專有與機構名詞的冠詞)",
       "meaning_zh": "特定機構、地理名稱、報紙等須用 the(the United Nations, the Times),國名單數一般不加。",
-      "structure": "the + 機構/海洋/報刊;zero article + 國名/街名 (專有名詞冠詞)",
+      "structure": "the + 機構/海洋/報刊; zero article + 國名/街名 (專有名詞冠詞)",
       "examples": [
         {
           "en": "The board reported the findings to the United Nations committee.",
@@ -4293,7 +4293,7 @@
     {
       "pattern": "Quantifier: a number of vs the amount of (a number of 與 the amount of)",
       "meaning_zh": "a number of + 可數複數名詞(接複數動詞);the amount of + 不可數名詞(接單數動詞)。",
-      "structure": "a number of + 複數N + 複數V;the amount of + 不可數N + 單數V (可數/不可數)",
+      "structure": "a number of + 複數N + 複數V; the amount of + 不可數N + 單數V (可數/不可數)",
       "examples": [
         {
           "en": "A number of employees have requested flexible hours.",
@@ -4308,7 +4308,7 @@
     {
       "pattern": "Quantifier: most / most of / almost all (數量詞 most 的用法)",
       "meaning_zh": "most + 名詞(泛指);most of the + 名詞(特指);almost 修飾 all/every 而非直接接名詞。",
-      "structure": "most + N;most of the + N;almost all + N (泛指/特指)",
+      "structure": "most + N; most of the + N; almost all + N (泛指/特指)",
       "examples": [
         {
           "en": "Most customers value fast delivery over low prices.",
@@ -4323,7 +4323,7 @@
     {
       "pattern": "Distributives: every vs each vs all (分配詞 every / each / all)",
       "meaning_zh": "each 強調個別(接單數),every 強調全體中的每一(接單數),all 指整體(接複數/不可數)。",
-      "structure": "each / every + 單數N + 單數V;all + 複數N + 複數V (個別/整體)",
+      "structure": "each / every + 單數N + 單數V; all + 複數N + 複數V (個別/整體)",
       "examples": [
         {
           "en": "Every applicant must complete an online assessment.",
@@ -4338,7 +4338,7 @@
     {
       "pattern": "Both / either / neither: two items (兩者用之 both / either / neither)",
       "meaning_zh": "指兩者時:both 兩者皆(複數動詞)、either 任一(單數)、neither 兩者皆不(單數)。",
-      "structure": "both + 複數V;either / neither + 單數V (限兩者)",
+      "structure": "both + 複數V; either / neither + 單數V (限兩者)",
       "examples": [
         {
           "en": "Both candidates are qualified for the position.",
@@ -4353,7 +4353,7 @@
     {
       "pattern": "Preposition vs conjunction: because of vs because (because of 與 because 辨析)",
       "meaning_zh": "because of/due to + 名詞片語;because + 完整子句。TOEIC 常考空格後接名詞或子句的判斷。",
-      "structure": "because of + N;because + S + V (後接名詞/子句)",
+      "structure": "because of + N; because + S + V (後接名詞/子句)",
       "examples": [
         {
           "en": "The flight was delayed because of severe weather.",
@@ -4383,7 +4383,7 @@
     {
       "pattern": "Conditional connector: in case vs in case of (in case 與 in case of)",
       "meaning_zh": "in case + 子句(以防);in case of + 名詞(萬一發生…時)。",
-      "structure": "in case + S + V;in case of + N (後接子句/名詞)",
+      "structure": "in case + S + V; in case of + N (後接子句/名詞)",
       "examples": [
         {
           "en": "Keep a backup copy in case the system crashes.",
@@ -4398,7 +4398,7 @@
     {
       "pattern": "Phrasal verbs: separable vs inseparable (可分與不可分片語動詞)",
       "meaning_zh": "可分式片語動詞受詞為代名詞時須置於動副之間(turn it off);不可分式不可拆開。",
-      "structure": "V + 代名詞 + adv(可分式);V + prep + N(不可分式) (可分/不可分)",
+      "structure": "V + 代名詞 + adv(可分式); V + prep + N(不可分式) (可分/不可分)",
       "examples": [
         {
           "en": "Please fill out the form and hand it in by noon.",
@@ -4578,7 +4578,7 @@
     {
       "pattern": "Negative adverb frequency word order: rarely / seldom / hardly (頻率副詞語序)",
       "meaning_zh": "頻率與程度副詞(rarely, seldom, hardly, often, always)通常置於主要動詞前、be 動詞後。",
-      "structure": "S + (rarely / often) + V;S + be + (rarely) + ... (副詞位置)",
+      "structure": "S + (rarely / often) + V; S + be + (rarely) + ... (副詞位置)",
       "examples": [
         {
           "en": "The director rarely approves last-minute requests.",
@@ -4713,7 +4713,7 @@
     {
       "pattern": "Range and approximation expressions: between...and / from...to (範圍與約略表達)",
       "meaning_zh": "表數值範圍用 between X and Y、from X to Y、ranging from,商務報表常見。",
-      "structure": "between + X + and + Y;from + X + to + Y (範圍表達)",
+      "structure": "between + X + and + Y; from + X + to + Y (範圍表達)",
       "examples": [
         {
           "en": "Delivery usually takes between three and five business days.",
@@ -4773,7 +4773,7 @@
     {
       "pattern": "So / neither for agreement: so do I / neither does he (so / neither 表附和)",
       "meaning_zh": "附和肯定用 so + 助動詞 + 主詞;附和否定用 neither/nor + 助動詞 + 主詞,須倒裝。",
-      "structure": "So + 助動詞 + S(肯定附和);Neither + 助動詞 + S(否定附和) (附和倒裝)",
+      "structure": "So + 助動詞 + S(肯定附和); Neither + 助動詞 + S(否定附和) (附和倒裝)",
       "examples": [
         {
           "en": "Our supplier raised prices, and so did our competitors.",
