@@ -2060,7 +2060,7 @@ function renderStoryPicker() {
   storyTitleZh = false;   // 每次進「換故事」清單都重置：永遠原文 +「中文」鈕，不沿用上次切換
   const stories = activeStories();
   const scenesData = activeScenes();
-  const toggleLabel = storyTitleZh ? "原文" : "中文";   // 顯示原文時鈕為「中文」，反之
+  const toggleLabel = storyTitleZh ? "切換成原文" : "切換成中文";   // 動作標籤：描述按下後會變成的語言
   let html = `<div class="picker-hint"><span>選擇一個故事：</span>` +
     `<button class="title-toggle" type="button">${toggleLabel}</button></div><div class="story-list">`;
   stories.forEach((s, i) => {
@@ -2081,7 +2081,7 @@ function renderStoryPicker() {
     storyTitleZh = !storyTitleZh;
     // 就地更新標題文字與鈕字，不重繪清單 → 捲動位置維持不動
     const btn = c.querySelector(".title-toggle");
-    if (btn) btn.textContent = storyTitleZh ? "原文" : "中文";
+    if (btn) btn.textContent = storyTitleZh ? "切換成原文" : "切換成中文";
     const titleMap = {};
     activeStories().forEach(s => { titleMap[s.key] = storyTitleZh ? (s.title_zh || s.title) : s.title; });
     c.querySelectorAll(".story-option").forEach(opt => {
