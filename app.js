@@ -1692,7 +1692,9 @@ function fmtGrammarKo(item) {
 function fmtQuizKo(item) {
   const letters = ["A", "B", "C", "D"];
   const ansLetter = letters[item.answer];
-  let html = `<div class="headword">❓ ${escapeHTML(item.question_ko)}</div><div class="options">`;
+  // 題目轉義後還原 <u> 底線標籤（TOPIK「밑줄 친 부분」用；只放行 u 標籤，其餘仍轉義）
+  const qHtml = escapeHTML(item.question_ko).replace(/&lt;u&gt;/g, "<u>").replace(/&lt;\/u&gt;/g, "</u>");
+  let html = `<div class="headword">❓ ${qHtml}</div><div class="options">`;
   item.options.forEach((opt, i) => {
     html += `<div class="opt">${letters[i]}) ${escapeHTML(opt)}</div>`;
   });

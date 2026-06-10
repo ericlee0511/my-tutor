@@ -32,8 +32,13 @@ for (const [file, spec] of Object.entries(SPEC)) {
       const v = String(it[f] ?? "");
       if (!v.trim()) push(`缺/空題目 ${f}`, tag);
       if (LEAD_DASH.test(v)) push(`題目開頭破折號 ${f}`, v.slice(0, 45));
+      if (/&lt;|&gt;|&amp;|&quot;|&#\d/.test(v)) push(`HTML實體殘留 ${f}(應還原<u>等或去除)`, v.slice(0, 50));
     }
-    for (const f of spec.expl) if (!String(it[f] ?? "").trim()) push(`缺/空解說 ${f}`, tag);
+    for (const f of spec.expl) {
+      const v = String(it[f] ?? "");
+      if (!v.trim()) push(`缺/空解說 ${f}`, tag);
+      if (/&lt;|&gt;|&amp;|&quot;|&#\d/.test(v)) push(`HTML實體殘留 ${f}`, v.slice(0, 50));
+    }
     const o = it.options, a = it.answer;
     if (!Array.isArray(o) || o.length < 2) push("選項缺/不足", tag);
     else {
