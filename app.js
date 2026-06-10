@@ -2060,9 +2060,14 @@ function renderStoryPicker() {
   storyTitleZh = false;   // 每次進「換故事」清單都重置：永遠原文 +「中文」鈕，不沿用上次切換
   const stories = activeStories();
   const scenesData = activeScenes();
-  const toggleLabel = storyTitleZh ? "切換成原文" : "切換成中文";   // 動作標籤：描述按下後會變成的語言
+  const aOrig = storyTitleZh ? "" : " active";   // 作用中段:字=清單標題色;非作用中:字=按鈕色
+  const aZh = storyTitleZh ? " active" : "";
   let html = `<div class="picker-hint"><span>選擇一個故事：</span>` +
-    `<button class="title-toggle" type="button">${toggleLabel}</button></div><div class="story-list">`;
+    `<span class="title-toggle">` +
+      `<button type="button" class="seg${aOrig}" data-zh="0">原文</button>` +
+      `<span class="seg-sep">|</span>` +
+      `<button type="button" class="seg${aZh}" data-zh="1">中文</button>` +
+    `</span></div><div class="story-list">`;
   stories.forEach((s, i) => {
     const num = String(i + 1).padStart(3, "0");
     const count = (scenesData?.[s.key] || []).length;
@@ -2077,16 +2082,21 @@ function renderStoryPicker() {
   });
   html += `</div>`;
   c.innerHTML = html;
-  c.querySelector(".title-toggle")?.addEventListener("click", () => {
-    storyTitleZh = !storyTitleZh;
-    // 就地更新標題文字與鈕字，不重繪清單 → 捲動位置維持不動
-    const btn = c.querySelector(".title-toggle");
-    if (btn) btn.textContent = storyTitleZh ? "切換成原文" : "切換成中文";
-    const titleMap = {};
-    activeStories().forEach(s => { titleMap[s.key] = storyTitleZh ? (s.title_zh || s.title) : s.title; });
-    c.querySelectorAll(".story-option").forEach(opt => {
-      const txt = opt.querySelector(".story-option-text");
-      if (txt && titleMap[opt.dataset.key] != null) txt.textContent = titleMap[opt.dataset.key];
+  c.querySelectorAll(".title-toggle .seg").forEach(seg => {
+    seg.addEventListener("click", () => {
+      const wantZh = seg.dataset.zh === "1";
+      if (wantZh === storyTitleZh) return;   // 已是該狀態
+      storyTitleZh = wantZh;
+      // 更新作用中段樣式
+      c.querySelectorAll(".title-toggle .seg").forEach(s =>
+        s.classList.toggle("active", (s.dataset.zh === "1") === storyTitleZh));
+      // 就地更新清單標題，不重繪 → 捲動位置維持不動
+      const titleMap = {};
+      activeStories().forEach(s => { titleMap[s.key] = storyTitleZh ? (s.title_zh || s.title) : s.title; });
+      c.querySelectorAll(".story-option").forEach(opt => {
+        const txt = opt.querySelector(".story-option-text");
+        if (txt && titleMap[opt.dataset.key] != null) txt.textContent = titleMap[opt.dataset.key];
+      });
     });
   });
   c.querySelectorAll(".story-option").forEach(b => {

@@ -394,19 +394,33 @@ main {
   margin-bottom: 0;
   border-bottom: 1px solid var(--border);  /* 自成一塊，與下方清單分隔 */
 }
-.title-toggle {
+.title-toggle {                /* 雙段切換鈕：原文 | 中文 */
   flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   border: 1px solid var(--accent);
   background: var(--accent-soft);
-  color: var(--accent);
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+.title-toggle .seg {
+  border: none;
+  background: none;
+  padding: 0 2px;
   font-family: inherit;
   font-size: 13px;
   font-weight: 600;
-  padding: 3px 12px;
-  border-radius: 999px;
+  color: var(--accent);        /* 非作用中 = 按鈕文字色 */
   cursor: pointer;
 }
-.title-toggle:active { transform: scale(0.96); }
+.title-toggle .seg.active { color: var(--text); }   /* 作用中 = 清單標題色 */
+.title-toggle .seg:active { transform: scale(0.94); }
+.title-toggle .seg-sep {
+  color: var(--accent);
+  opacity: .45;
+  font-weight: 400;
+}
 /* 故事選單頁：#content 改 flex 直欄、自己不捲；標題固定，清單在自己的區塊內捲動 */
 #content.scene-picker-mode {
   display: flex;
