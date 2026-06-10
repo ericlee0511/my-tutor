@@ -418,7 +418,7 @@ main {
   color: var(--accent);        /* 兩段同色 = 按鈕文字色 */
   cursor: pointer;
 }
-.title-toggle .seg.active { font-weight: 700; font-size: 13.5px; }   /* 作用中:粗體 + 0.5px */
+.title-toggle .seg.active { font-weight: 700; font-size: 14px; }   /* 作用中:粗體 + 14px */
 .title-toggle .seg:active { transform: scale(0.94); }
 .title-toggle .seg-sep {
   color: var(--accent);
