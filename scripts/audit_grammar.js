@@ -68,6 +68,8 @@ const CHECKS = {
     if (!/\([^()]*[一-鿿][^()]*\)\s*$/.test(p)) v.push(["pattern 非「English (中文)」格式", p]);
     if (/[（）／]/.test(p)) v.push(["pattern 全形（）／(應半形)", p]);
     if (/\S\/|\/\S/.test(p)) v.push(["pattern 斜線兩側需各留一空白", p]);
+    if (/，/.test(p)) v.push(["pattern 全形逗號，(應半形,)", p]);
+    if (/,\S/.test(p)) v.push(["pattern 逗號後需留一空白", p]);
     return v;
   },
 };
