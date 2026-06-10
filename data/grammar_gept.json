@@ -1,7 +1,7 @@
 {
   "gept": [
     {
-      "pattern": "Present Perfect Tense (現在完成式)",
+      "pattern": "Present perfect tense (現在完成式)",
       "meaning_zh": "表示從過去持續到現在的動作或狀態，或對現在仍有影響的過去經驗。常與 for, since, already, yet, ever, just 等副詞連用。",
       "structure": "S + have/has + p.p. (+ for/since/already/yet ...)",
       "examples": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "pattern": "Comparatives and Superlatives (比較級與最高級)",
+      "pattern": "Comparatives and superlatives (比較級與最高級)",
       "meaning_zh": "用來比較兩者或三者以上的人事物。短形容詞加 -er/-est，長形容詞用 more/most，並注意 good-better-best 等不規則變化。",
       "structure": "S + V + adj-er + than + N ; S + V + the + adj-est + (N) ; S + V + more/most + adj (+ than ...)",
       "examples": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "pattern": "Conditional Sentences: Type 1 and Type 2 (條件句第一型與第二型)",
+      "pattern": "Conditional sentences: type 1 and type 2 (條件句第一型與第二型)",
       "meaning_zh": "Type 1 表示未來可能發生的條件 (if + 現在式, will + V)；Type 2 表示與現在事實相反的假設 (if + 過去式, would + V)。",
       "structure": "Type 1: If + S + V(現在式), S + will + V. ; Type 2: If + S + V(過去式), S + would + V.",
       "examples": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "pattern": "Passive Voice (被動語態)",
+      "pattern": "Passive voice (被動語態)",
       "meaning_zh": "強調動作的承受者而非動作的執行者，由 be 動詞加上過去分詞構成。執行者可用 by 帶出，必要時可省略。",
       "structure": "S + be + p.p. (+ by + 行為者)",
       "examples": [
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronouns (關係代名詞)",
+      "pattern": "Relative pronouns (關係代名詞)",
       "meaning_zh": "用來引導形容詞子句以修飾前面的先行詞。who 指人，which 指物，that 兩者皆可，whose 表示所有格。",
       "structure": "N (先行詞) + who/which/that/whose + V ...",
       "examples": [
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "pattern": "Gerunds and Infinitives (動名詞與不定詞)",
+      "pattern": "Gerunds and infinitives (動名詞與不定詞)",
       "meaning_zh": "某些動詞後接動名詞 (V-ing)，如 enjoy, finish, avoid, mind；某些動詞後接不定式 (to V)，如 decide, hope, plan, want。",
       "structure": "S + V + V-ing ; S + V + to + V",
       "examples": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "pattern": "Simple Present Tense - habits (現在簡單式, 習慣)",
+      "pattern": "Simple present tense - habits (現在簡單式, 習慣)",
       "meaning_zh": "用來描述日常習慣或經常做的事情，常搭配 always、usually、often、sometimes 等頻率副詞。",
       "structure": "S + V(s/es) + O",
       "examples": [
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "pattern": "Simple Present Tense - general truths (現在簡單式, 一般真理)",
+      "pattern": "Simple present tense - general truths (現在簡單式, 一般真理)",
       "meaning_zh": "用來表達不變的事實、科學定律或普遍真理。",
       "structure": "S + V(s/es)",
       "examples": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "pattern": "Simple Present Tense - scheduled future (現在簡單式, 時刻表未來)",
+      "pattern": "Simple present tense - scheduled future (現在簡單式, 時刻表未來)",
       "meaning_zh": "用於表達依照時刻表或行程安排的未來事件，常見於交通、節目時刻。",
       "structure": "S + V(s/es) + 未來時間",
       "examples": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "pattern": "Simple Present Tense - states and facts (現在簡單式, 狀態事實)",
+      "pattern": "Simple present tense - states and facts (現在簡單式, 狀態事實)",
       "meaning_zh": "用來陳述目前的狀態、身分或事實。",
       "structure": "S + be / V(s/es)",
       "examples": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "pattern": "Present Continuous Tense (現在進行式)",
+      "pattern": "Present continuous tense (現在進行式)",
       "meaning_zh": "用來表達說話當下正在進行的動作，搭配 now、right now、at the moment 等。",
       "structure": "S + am/is/are + V-ing",
       "examples": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "pattern": "Present Continuous Tense - arranged future (現在進行式, 已安排未來)",
+      "pattern": "Present continuous tense - arranged future (現在進行式, 已安排未來)",
       "meaning_zh": "用來表達已經安排或計畫好的未來行程，通常有明確時間。",
       "structure": "S + am/is/are + V-ing + 未來時間",
       "examples": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "pattern": "Present Continuous Tense - temporary situations (現在進行式, 暫時狀況)",
+      "pattern": "Present continuous tense - temporary situations (現在進行式, 暫時狀況)",
       "meaning_zh": "用來描述目前一段時間正在進行、但屬於暫時性的動作或情況。",
       "structure": "S + am/is/are + V-ing",
       "examples": [
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "pattern": "Present Continuous Tense - changing situations (現在進行式, 變化中)",
+      "pattern": "Present continuous tense - changing situations (現在進行式, 變化中)",
       "meaning_zh": "表達正在改變或發展中的情況，常與 get、become、grow、change 等動詞連用。",
       "structure": "S + am/is/are + getting/becoming + adj",
       "examples": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "pattern": "Stative Verbs - no continuous (狀態動詞, 不用進行式)",
+      "pattern": "Stative verbs - no continuous (狀態動詞, 不用進行式)",
       "meaning_zh": "表示感受、思想、擁有等狀態的動詞通常不使用進行式，例如 know、believe、like、own、belong。",
       "structure": "S + 狀態動詞 (現在簡單式)",
       "examples": [
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "pattern": "Simple Past Tense - completed action (過去簡單式, 已完成動作)",
+      "pattern": "Simple past tense - completed action (過去簡單式, 已完成動作)",
       "meaning_zh": "用來描述過去某個明確時間點完成的動作，常搭配 yesterday、last week、ago 等時間詞。",
       "structure": "S + V-ed / 不規則過去式",
       "examples": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "pattern": "Simple Past Tense - historical facts (過去簡單式, 歷史事實)",
+      "pattern": "Simple past tense - historical facts (過去簡單式, 歷史事實)",
       "meaning_zh": "用來描述歷史上發生過的事件或人物的事蹟。",
       "structure": "S + V-ed (過去式)",
       "examples": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "pattern": "Simple Past Tense - past habits (過去簡單式, 過去習慣)",
+      "pattern": "Simple past tense - past habits (過去簡單式, 過去習慣)",
       "meaning_zh": "用來描述過去經常發生、現在不一定持續的習慣，可搭配頻率副詞。",
       "structure": "S + V-ed + 頻率副詞",
       "examples": [
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "pattern": "Past Continuous Tense (過去進行式)",
+      "pattern": "Past continuous tense (過去進行式)",
       "meaning_zh": "用來表達過去某個時間點正在進行的動作。",
       "structure": "S + was/were + V-ing",
       "examples": [
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "pattern": "Past Continuous Tense - interrupted action (過去進行式, 動作被打斷)",
+      "pattern": "Past continuous tense - interrupted action (過去進行式, 動作被打斷)",
       "meaning_zh": "用來表達一個過去正在進行的動作被另一個短暫動作打斷，常與 when 搭配。",
       "structure": "S + was/were + V-ing + when + S + V-ed",
       "examples": [
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "pattern": "Past Continuous Tense - two parallel actions (過去進行式, 同時發生)",
+      "pattern": "Past continuous tense - two parallel actions (過去進行式, 同時發生)",
       "meaning_zh": "用來描述過去同一時間兩個動作同時進行，常與 while 連用。",
       "structure": "S + was/were + V-ing + while + S + was/were + V-ing",
       "examples": [
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Tense - experience (現在完成式, 經驗)",
+      "pattern": "Present perfect tense - experience (現在完成式, 經驗)",
       "meaning_zh": "用來表達到目前為止的人生經驗，常搭配 ever、never、before。",
       "structure": "S + have/has + p.p.",
       "examples": [
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Tense - unfinished period (現在完成式, 持續至今)",
+      "pattern": "Present perfect tense - unfinished period (現在完成式, 持續至今)",
       "meaning_zh": "用來表達從過去某時間開始持續到現在的狀態或動作，常搭配 for、since。",
       "structure": "S + have/has + p.p. + for/since + 時間",
       "examples": [
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Tense - recent past (現在完成式, 剛完成)",
+      "pattern": "Present perfect tense - recent past (現在完成式, 剛完成)",
       "meaning_zh": "用來表達剛剛完成或最近完成的動作，常搭配 just、already、recently、lately。",
       "structure": "S + have/has + just/already + p.p.",
       "examples": [
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Tense - with yet (現在完成式, yet 否定與疑問)",
+      "pattern": "Present perfect tense - with yet (現在完成式, yet 否定與疑問)",
       "meaning_zh": "yet 用於否定句和疑問句，表達某動作尚未發生或詢問是否已完成。",
       "structure": "S + haven't/hasn't + p.p. + yet / Have/Has + S + p.p. + yet?",
       "examples": [
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Tense - result in present (現在完成式, 過去動作影響現在)",
+      "pattern": "Present perfect tense - result in present (現在完成式, 過去動作影響現在)",
       "meaning_zh": "用來強調過去發生的動作對現在造成的結果或影響。",
       "structure": "S + have/has + p.p.",
       "examples": [
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "pattern": "Simple Past vs Present Perfect (過去式與現在完成式比較)",
+      "pattern": "Simple past vs present perfect (過去式與現在完成式比較)",
       "meaning_zh": "過去式用於明確過去時間的動作；現在完成式用於不指明確時間或仍與現在相關的動作。",
       "structure": "S + V-ed (具體時間) / S + have/has + p.p. (不指明時間)",
       "examples": [
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "pattern": "Present Perfect Continuous Tense (現在完成進行式)",
+      "pattern": "Present perfect continuous tense (現在完成進行式)",
       "meaning_zh": "用來強調某動作從過去持續進行到現在，並可能仍在進行，常搭配 for、since。",
       "structure": "S + have/has + been + V-ing",
       "examples": [
@@ -445,7 +445,7 @@
       ]
     },
     {
-      "pattern": "Past Perfect Tense (過去完成式)",
+      "pattern": "Past perfect tense (過去完成式)",
       "meaning_zh": "用來表達過去某時間點之前已經完成的動作，常用於描述過去兩件事的先後順序。",
       "structure": "S + had + p.p.",
       "examples": [
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "pattern": "Past Perfect Tense - sequence (過去完成式, 過去事件順序)",
+      "pattern": "Past perfect tense - sequence (過去完成式, 過去事件順序)",
       "meaning_zh": "用來明確指出在過去兩個動作中，哪一個先發生，先發生的用過去完成式。",
       "structure": "S + had + p.p. + before/when + S + V-ed",
       "examples": [
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "pattern": "Past Perfect Continuous Tense (過去完成進行式)",
+      "pattern": "Past perfect continuous tense (過去完成進行式)",
       "meaning_zh": "表達過去某時間點之前，已持續進行一段時間的動作。",
       "structure": "S + had + been + V-ing",
       "examples": [
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "pattern": "Simple Future Tense - will for predictions (未來簡單式, 預測)",
+      "pattern": "Simple future tense - will for predictions (未來簡單式, 預測)",
       "meaning_zh": "will 用來表達對未來的預測或推測，常搭配 think、believe、probably。",
       "structure": "S + will + V",
       "examples": [
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "pattern": "Simple Future Tense - will for decisions (未來簡單式, 當下決定)",
+      "pattern": "Simple future tense - will for decisions (未來簡單式, 當下決定)",
       "meaning_zh": "will 用於說話當下臨時做出的決定，表達自願或承諾。",
       "structure": "S + will + V",
       "examples": [
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "pattern": "Be Going To - plans (be going to, 計畫)",
+      "pattern": "Be going to - plans (be going to, 計畫)",
       "meaning_zh": "用來表達說話前已經想好或計畫好的未來打算。",
       "structure": "S + am/is/are + going to + V",
       "examples": [
@@ -535,7 +535,7 @@
       ]
     },
     {
-      "pattern": "Be Going To - evidence-based prediction (be going to, 有跡象的預測)",
+      "pattern": "Be going to - evidence-based prediction (be going to, 有跡象的預測)",
       "meaning_zh": "當有明顯跡象顯示某事即將發生時，用 be going to 表示預測。",
       "structure": "S + am/is/are + going to + V",
       "examples": [
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "pattern": "Will vs Be Going To (will 與 be going to 的差異)",
+      "pattern": "Will vs be going to (will 與 be going to 的差異)",
       "meaning_zh": "will 多用於當下決定或單純預測；be going to 用於事先計畫或基於現有跡象的預測。",
       "structure": "S + will / be going to + V",
       "examples": [
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "pattern": "Be About To (即將要做)",
+      "pattern": "Be about to (即將要做)",
       "meaning_zh": "用來表達非常接近、立刻要發生的動作，通常在幾分鐘內。",
       "structure": "S + am/is/are + about to + V",
       "examples": [
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "pattern": "Future Continuous Tense (未來進行式)",
+      "pattern": "Future continuous tense (未來進行式)",
       "meaning_zh": "表達未來某個時間點正在進行的動作。",
       "structure": "S + will + be + V-ing",
       "examples": [
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "pattern": "Future Perfect Tense (未來完成式)",
+      "pattern": "Future perfect tense (未來完成式)",
       "meaning_zh": "表達在未來某個時間點之前已完成的動作，常搭配 by + 時間。",
       "structure": "S + will + have + p.p. + by + 時間",
       "examples": [
@@ -610,7 +610,7 @@
       ]
     },
     {
-      "pattern": "Future Perfect Continuous Tense (未來完成進行式)",
+      "pattern": "Future perfect continuous tense (未來完成進行式)",
       "meaning_zh": "用來表達到未來某時間點，動作已持續進行了多久。",
       "structure": "S + will + have + been + V-ing + for + 時間",
       "examples": [
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "pattern": "Used To (過去經常)",
+      "pattern": "Used to (過去經常)",
       "meaning_zh": "used to 用來表達過去經常或習慣做、但現在不再做的事，或過去存在現在不存在的狀態。",
       "structure": "S + used to + V (原形)",
       "examples": [
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "pattern": "Would for Past Habits (would 表過去習慣)",
+      "pattern": "Would for past habits (would 表過去習慣)",
       "meaning_zh": "would 用來表達過去重複發生的動作習慣，但不能用於過去的狀態。",
       "structure": "S + would + V (原形)",
       "examples": [
@@ -655,7 +655,7 @@
       ]
     },
     {
-      "pattern": "Used To vs Would (used to 與 would 的差異)",
+      "pattern": "Used to vs would (used to 與 would 的差異)",
       "meaning_zh": "used to 可用於動作和狀態；would 只能用於重複動作，不能用於狀態。",
       "structure": "S + used to / would + V",
       "examples": [
@@ -670,7 +670,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: last, ago, yesterday (過去式時間標誌)",
+      "pattern": "Time markers: last, ago, yesterday (過去式時間標誌)",
       "meaning_zh": "last week、yesterday、in 2010、... ago 等明確過去時間，需搭配過去簡單式。",
       "structure": "S + V-ed + last / yesterday / ago",
       "examples": [
@@ -685,7 +685,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: for, since (現在完成式時間標誌)",
+      "pattern": "Time markers: for, since (現在完成式時間標誌)",
       "meaning_zh": "for 接時間長度（如 for two years）；since 接時間起點（如 since 2020），搭配現在完成式。",
       "structure": "S + have/has + p.p. + for/since + 時間",
       "examples": [
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: already, yet, just (現在完成式副詞)",
+      "pattern": "Time markers: already, yet, just (現在完成式副詞)",
       "meaning_zh": "already 用於肯定句強調已完成；yet 用於否定/疑問句表尚未；just 表剛剛。",
       "structure": "have/has + already/just + p.p. / haven't + p.p. + yet",
       "examples": [
@@ -715,7 +715,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: ever, never (現在完成式經驗副詞)",
+      "pattern": "Time markers: ever, never (現在完成式經驗副詞)",
       "meaning_zh": "ever 用於疑問句問經驗；never 用於否定表示從未做過。",
       "structure": "Have/Has + S + ever + p.p.? / S + have/has + never + p.p.",
       "examples": [
@@ -730,7 +730,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: by plus future time (未來完成式時間標誌)",
+      "pattern": "Time markers: by plus future time (未來完成式時間標誌)",
       "meaning_zh": "by + 未來時間表達截至某時間點之前；常與未來完成式搭配。",
       "structure": "S + will + have + p.p. + by + 時間",
       "examples": [
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "pattern": "Time Markers: lately, recently (近期完成式副詞)",
+      "pattern": "Time markers: lately, recently (近期完成式副詞)",
       "meaning_zh": "lately 和 recently 表達最近一段時間，常與現在完成式或現在完成進行式搭配。",
       "structure": "S + have/has + (been) + p.p./V-ing + lately/recently",
       "examples": [
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "pattern": "Reported Speech - tense backshift (轉述句, 時態後移)",
+      "pattern": "Reported speech - tense backshift (轉述句, 時態後移)",
       "meaning_zh": "轉述他人話語時，動詞時態通常向過去後移一格，例如現在式變過去式。",
       "structure": "主要動詞過去式 + that + 子句 (時態後移)",
       "examples": [
@@ -775,7 +775,7 @@
       ]
     },
     {
-      "pattern": "Reported Speech - no backshift (轉述句, 不需後移)",
+      "pattern": "Reported speech - no backshift (轉述句, 不需後移)",
       "meaning_zh": "若敘述為普遍真理或情況仍然成立，轉述時可不後移時態。",
       "structure": "主要動詞過去式 + that + 現在式",
       "examples": [
@@ -790,7 +790,7 @@
       ]
     },
     {
-      "pattern": "Zero Conditional (條件句零型, 一般真理)",
+      "pattern": "Zero conditional (條件句零型, 一般真理)",
       "meaning_zh": "用來表達一般真理、科學事實或自然法則，兩個子句都用現在簡單式。",
       "structure": "If + S + V (現在式), S + V (現在式)",
       "examples": [
@@ -805,7 +805,7 @@
       ]
     },
     {
-      "pattern": "Frequency Adverbs with Present Tense (頻率副詞加現在式)",
+      "pattern": "Frequency adverbs with present tense (頻率副詞加現在式)",
       "meaning_zh": "always、usually、often、sometimes、rarely、never 等頻率副詞通常放在一般動詞前、be 動詞後。",
       "structure": "S + 頻率副詞 + V / S + be + 頻率副詞",
       "examples": [
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "pattern": "Time Clauses: when, after, before plus present for future (時間子句用現在式表未來)",
+      "pattern": "Time clauses: when, after, before plus present for future (時間子句用現在式表未來)",
       "meaning_zh": "在 when、after、before、until、as soon as 等時間連接詞引導的子句中，用現在式表達未來意義。",
       "structure": "主句 will + V, when/after/before + S + V (現在式)",
       "examples": [
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "pattern": "Time Clauses: until plus present for future (until 子句用現在式表未來)",
+      "pattern": "Time clauses: until plus present for future (until 子句用現在式表未來)",
       "meaning_zh": "until 引導的時間子句即使表達未來，也使用現在式。",
       "structure": "主句 will + V, until + S + V (現在式)",
       "examples": [
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "pattern": "Tense Consistency in Subordinate Clauses (從屬子句時態一致)",
+      "pattern": "Tense consistency in subordinate clauses (從屬子句時態一致)",
       "meaning_zh": "主句為過去式時，從屬子句通常也使用過去式或過去完成式，保持時態一致。",
       "structure": "主句 V-ed + that + S + V-ed / had p.p.",
       "examples": [
@@ -895,7 +895,7 @@
       ]
     },
     {
-      "pattern": "Can and Could: permission (Can 與 Could 表許可)",
+      "pattern": "Can and could: permission (Can 與 Could 表許可)",
       "meaning_zh": "請求或給予許可，could 較有禮貌。",
       "structure": "Can / Could + 主詞 + 原形動詞？",
       "examples": [
@@ -925,7 +925,7 @@
       ]
     },
     {
-      "pattern": "May and Might: possibility (May 與 Might 表可能性)",
+      "pattern": "May and might: possibility (May 與 Might 表可能性)",
       "meaning_zh": "表達可能性，might 通常較不確定。",
       "structure": "主詞 + may / might + 原形動詞",
       "examples": [
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "pattern": "Should and Ought To: advice (Should 與 Ought To 表建議)",
+      "pattern": "Should and ought to: advice (Should 與 Ought To 表建議)",
       "meaning_zh": "給予建議，「應該」。",
       "structure": "主詞 + should / ought to + 原形動詞",
       "examples": [
@@ -1075,7 +1075,7 @@
       ]
     },
     {
-      "pattern": "Must Have + p.p.: past deduction (Must Have 過去分詞, 過去推論)",
+      "pattern": "Must have + p.p.: past deduction (Must Have 過去分詞, 過去推論)",
       "meaning_zh": "對過去事件的強烈推論，「一定已經」。",
       "structure": "主詞 + must have + 過去分詞",
       "examples": [
@@ -1090,7 +1090,7 @@
       ]
     },
     {
-      "pattern": "Should Have + p.p.: past regret (Should Have 過去分詞, 過去遺憾)",
+      "pattern": "Should have + p.p.: past regret (Should Have 過去分詞, 過去遺憾)",
       "meaning_zh": "對過去未做之事的遺憾，「早該」。",
       "structure": "主詞 + should have + 過去分詞",
       "examples": [
@@ -1105,7 +1105,7 @@
       ]
     },
     {
-      "pattern": "Could Have + p.p.: past possibility (Could Have 過去分詞, 過去可能)",
+      "pattern": "Could have + p.p.: past possibility (Could Have 過去分詞, 過去可能)",
       "meaning_zh": "過去可能但沒發生的事，「本來可以」。",
       "structure": "主詞 + could have + 過去分詞",
       "examples": [
@@ -1120,7 +1120,7 @@
       ]
     },
     {
-      "pattern": "Might Have + p.p.: past uncertainty (Might Have 過去分詞, 過去不確定)",
+      "pattern": "Might have + p.p.: past uncertainty (Might Have 過去分詞, 過去不確定)",
       "meaning_zh": "對過去的不確定推論，「也許已經」。",
       "structure": "主詞 + might have + 過去分詞",
       "examples": [
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "pattern": "Have To: necessity (Have To 表必要)",
+      "pattern": "Have to: necessity (Have To 表必要)",
       "meaning_zh": "表達外在的必要性，「必須」。",
       "structure": "主詞 + have / has to + 原形動詞",
       "examples": [
@@ -1150,7 +1150,7 @@
       ]
     },
     {
-      "pattern": "Don't Have To: no necessity (Don't Have To 表不必)",
+      "pattern": "Don't have to: no necessity (Don't Have To 表不必)",
       "meaning_zh": "沒有必要，「不必」。",
       "structure": "主詞 + don't / doesn't have to + 原形動詞",
       "examples": [
@@ -1165,7 +1165,7 @@
       ]
     },
     {
-      "pattern": "Need To (Need To 表需要)",
+      "pattern": "Need to (Need To 表需要)",
       "meaning_zh": "表達需要做某事。",
       "structure": "主詞 + need to + 原形動詞",
       "examples": [
@@ -1180,7 +1180,7 @@
       ]
     },
     {
-      "pattern": "Used To (過去習慣或狀態)",
+      "pattern": "Used to (過去習慣或狀態)",
       "meaning_zh": "表示過去的習慣或狀態，現已不再。",
       "structure": "主詞 + used to + 原形動詞",
       "examples": [
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "pattern": "Be Able To (Be Able To 表能力)",
+      "pattern": "Be able to (Be Able To 表能力)",
       "meaning_zh": "表達能力，可用於各種時態。",
       "structure": "主詞 + be 動詞 + able to + 原形動詞",
       "examples": [
@@ -1210,7 +1210,7 @@
       ]
     },
     {
-      "pattern": "Had Better (Had Better 表強烈建議)",
+      "pattern": "Had better (Had Better 表強烈建議)",
       "meaning_zh": "提出強烈建議或警告，「最好」。",
       "structure": "主詞 + had better (+ not) + 原形動詞",
       "examples": [
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "pattern": "First Conditional - real future (第一條件句, 真實未來)",
+      "pattern": "First conditional - real future (第一條件句, 真實未來)",
       "meaning_zh": "表達未來可能發生的事。",
       "structure": "If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
       "examples": [
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "pattern": "Second Conditional - unreal present (第二條件句, 與現在相反)",
+      "pattern": "Second conditional - unreal present (第二條件句, 與現在相反)",
       "meaning_zh": "表達與現在事實相反的假設。",
       "structure": "If + 主詞 + 過去簡單式, 主詞 + would + 原形動詞",
       "examples": [
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "pattern": "Third Conditional - unreal past (第三條件句, 與過去相反)",
+      "pattern": "Third conditional - unreal past (第三條件句, 與過去相反)",
       "meaning_zh": "表達與過去事實相反的假設。",
       "structure": "If + 主詞 + 過去完成式, 主詞 + would have + 過去分詞",
       "examples": [
@@ -1270,7 +1270,7 @@
       ]
     },
     {
-      "pattern": "Mixed Conditional - past to present (混合條件句, 過去影響現在)",
+      "pattern": "Mixed conditional - past to present (混合條件句, 過去影響現在)",
       "meaning_zh": "過去的假設影響現在的結果。",
       "structure": "If + 主詞 + 過去完成式, 主詞 + would + 原形動詞",
       "examples": [
@@ -1285,7 +1285,7 @@
       ]
     },
     {
-      "pattern": "Mixed Conditional - present to past (混合條件句, 現在影響過去)",
+      "pattern": "Mixed conditional - present to past (混合條件句, 現在影響過去)",
       "meaning_zh": "現在的狀況影響過去的結果。",
       "structure": "If + 主詞 + 過去簡單式, 主詞 + would have + 過去分詞",
       "examples": [
@@ -1315,7 +1315,7 @@
       ]
     },
     {
-      "pattern": "As Long As and Provided That (As Long As 與 Provided That 表只要)",
+      "pattern": "As long as and provided that (As Long As 與 Provided That 表只要)",
       "meaning_zh": "表達「只要」、「假如」的條件。",
       "structure": "主詞 + will + 原形動詞 + as long as / provided that + 子句",
       "examples": [
@@ -1330,7 +1330,7 @@
       ]
     },
     {
-      "pattern": "Suppose and What If (Suppose 與 What If 表假設)",
+      "pattern": "Suppose and what if (Suppose 與 What If 表假設)",
       "meaning_zh": "提出假設情境，「假設…呢？」。",
       "structure": "Suppose / What if + 主詞 + 過去簡單式？",
       "examples": [
@@ -1345,7 +1345,7 @@
       ]
     },
     {
-      "pattern": "Inversion: Had I Known (倒裝, 第三條件句省略 if)",
+      "pattern": "Inversion: had I known (倒裝, 第三條件句省略 if)",
       "meaning_zh": "第三條件句倒裝，省略 if 後將 had 提前。",
       "structure": "Had + 主詞 + 過去分詞, 主詞 + would have + 過去分詞",
       "examples": [
@@ -1360,7 +1360,7 @@
       ]
     },
     {
-      "pattern": "Inversion: Were I To (倒裝, 第二條件句假設語氣)",
+      "pattern": "Inversion: were I to (倒裝, 第二條件句假設語氣)",
       "meaning_zh": "第二條件句倒裝，強調假設語氣。",
       "structure": "Were + 主詞 + to + 原形動詞, 主詞 + would + 原形動詞",
       "examples": [
@@ -1375,7 +1375,7 @@
       ]
     },
     {
-      "pattern": "Inversion: Should You (倒裝, 第一條件句正式表達)",
+      "pattern": "Inversion: should you (倒裝, 第一條件句正式表達)",
       "meaning_zh": "第一條件句倒裝，用於正式表達。",
       "structure": "Should + 主詞 + 原形動詞, 主詞 + will / would + 原形動詞",
       "examples": [
@@ -1495,7 +1495,7 @@
       ]
     },
     {
-      "pattern": "Passive with Modal Verbs (情態動詞被動)",
+      "pattern": "Passive with modal verbs (情態動詞被動)",
       "meaning_zh": "被動語態搭配情態動詞。",
       "structure": "主詞 + 情態動詞 + be + 過去分詞",
       "examples": [
@@ -1510,7 +1510,7 @@
       ]
     },
     {
-      "pattern": "Passive Reporting: It Is Said That (被動報導句, 泛指傳聞)",
+      "pattern": "Passive reporting: it is said that (被動報導句, 泛指傳聞)",
       "meaning_zh": "被動式報導句型，傳達一般傳聞或意見。",
       "structure": "It + is / was + 過去分詞 + that + 子句",
       "examples": [
@@ -1525,7 +1525,7 @@
       ]
     },
     {
-      "pattern": "Passive Reporting: She Is Said To (被動報導句, 主詞開頭)",
+      "pattern": "Passive reporting: she is said to (被動報導句, 主詞開頭)",
       "meaning_zh": "以主詞開頭的被動報導句型。",
       "structure": "主詞 + is / was + 過去分詞 + to 不定詞",
       "examples": [
@@ -1555,7 +1555,7 @@
       ]
     },
     {
-      "pattern": "Causative: Have Something Done (使役, 請他人做某事)",
+      "pattern": "Causative: have something done (使役, 請他人做某事)",
       "meaning_zh": "請他人為自己做某事，「使／讓某物被…」。",
       "structure": "主詞 + have + 受詞 + 過去分詞",
       "examples": [
@@ -1570,7 +1570,7 @@
       ]
     },
     {
-      "pattern": "Passive with Two Objects (雙賓動詞被動)",
+      "pattern": "Passive with two objects (雙賓動詞被動)",
       "meaning_zh": "雙賓動詞的被動式，可由人或物當主詞。",
       "structure": "間接受詞 + be + 過去分詞 + 直接受詞 (或 直接受詞 + be + 過去分詞 + to + 間接受詞)",
       "examples": [
@@ -1585,7 +1585,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronoun: who (關係代名詞 who, 指人作主詞)",
+      "pattern": "Relative pronoun: who (關係代名詞 who, 指人作主詞)",
       "meaning_zh": "用來引導形容詞子句修飾「人」，並在子句中當主詞。",
       "structure": "先行詞(人) + who + 動詞 …",
       "examples": [
@@ -1600,7 +1600,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronoun: whom (關係代名詞 whom, 指人作受詞)",
+      "pattern": "Relative pronoun: whom (關係代名詞 whom, 指人作受詞)",
       "meaning_zh": "指「人」並在子句中當受詞，較正式；口語常以 who 或省略代替。",
       "structure": "先行詞(人) + whom + 主詞 + 動詞 …",
       "examples": [
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronoun: whose (關係代名詞 whose, 所有格)",
+      "pattern": "Relative pronoun: whose (關係代名詞 whose, 所有格)",
       "meaning_zh": "表示「某人/某物的」，用來連接擁有關係。",
       "structure": "先行詞 + whose + 名詞 + 動詞 …",
       "examples": [
@@ -1630,7 +1630,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronoun: which (關係代名詞 which, 指物或事)",
+      "pattern": "Relative pronoun: which (關係代名詞 which, 指物或事)",
       "meaning_zh": "用來引導修飾「事物或動物」的形容詞子句。",
       "structure": "先行詞(物) + which + 動詞/主詞 …",
       "examples": [
@@ -1645,7 +1645,7 @@
       ]
     },
     {
-      "pattern": "Relative Pronoun: that (關係代名詞 that, 人或物皆可)",
+      "pattern": "Relative pronoun: that (關係代名詞 that, 人或物皆可)",
       "meaning_zh": "可代替 who 或 which，常用於限定用法，前面不加逗號。",
       "structure": "先行詞 + that + 動詞/主詞 …",
       "examples": [
@@ -1660,7 +1660,7 @@
       ]
     },
     {
-      "pattern": "Omitting Relative Pronoun (省略關係代名詞, 作受詞時可省略)",
+      "pattern": "Omitting relative pronoun (省略關係代名詞, 作受詞時可省略)",
       "meaning_zh": "當關係代名詞在子句中作受詞時，可以直接省略。",
       "structure": "先行詞 + (that/which/whom 省略) + 主詞 + 動詞 …",
       "examples": [
@@ -2905,7 +2905,7 @@
       ]
     },
     {
-      "pattern": "Wh-cleft: What emphasis (What 強調句)",
+      "pattern": "Wh-cleft: what emphasis (What 強調句)",
       "meaning_zh": "用 What 子句強調主詞或受詞",
       "structure": "What + S + V + is/was + 強調部分",
       "examples": [
@@ -4320,7 +4320,7 @@
       ]
     },
     {
-      "pattern": "so + adj vs such + N (so 與 such 的差異)",
+      "pattern": "So + adj vs such + N (so 與 such 的差異)",
       "meaning_zh": "so 後接形容詞或副詞;such 後接(冠詞+)名詞片語。兩者皆表強調「如此」。",
       "structure": "so + adj/adv; such + (a/an) + (adj +) N",
       "examples": [
@@ -4377,7 +4377,7 @@
       ]
     },
     {
-      "pattern": "-ever clause: whatever / whoever / whenever (-ever 子句)",
+      "pattern": "-Ever clause: whatever / whoever / whenever (-ever 子句)",
       "meaning_zh": "whatever、whoever、whenever 等表「任何…/無論…」,可當名詞子句或讓步子句。",
       "structure": "whatever / whoever / whenever / wherever + S + V",
       "examples": [
@@ -4396,7 +4396,7 @@
       ]
     },
     {
-      "pattern": "as if / as though (好像…一樣)",
+      "pattern": "As if / as though (好像…一樣)",
       "meaning_zh": "as if、as though 引導表「好像」;用過去式表與事實相反的假想。",
       "structure": "S + V + as if / as though + S + (過去式,表與現實相反)",
       "examples": [
@@ -4415,7 +4415,7 @@
       ]
     },
     {
-      "pattern": "in case (以防萬一)",
+      "pattern": "In case (以防萬一)",
       "meaning_zh": "in case 引導預防性子句,表「以防、萬一」;子句多用現在式,不用 will。",
       "structure": "S + V + in case + S + V (現在式,表預防)",
       "examples": [
@@ -4548,7 +4548,7 @@
       ]
     },
     {
-      "pattern": "be worth + V-ing (值得做)",
+      "pattern": "Be worth + V-ing (值得做)",
       "meaning_zh": "be worth 後接動名詞,表「值得做某事」,動名詞為主動形但含被動意義。",
       "structure": "S + be worth + V-ing",
       "examples": [
@@ -4567,7 +4567,7 @@
       ]
     },
     {
-      "pattern": "have difficulty / trouble in + V-ing (做…有困難)",
+      "pattern": "Have difficulty / trouble in + V-ing (做…有困難)",
       "meaning_zh": "have difficulty / trouble + (in) + 動名詞,表「做某事有困難」,in 常省略。",
       "structure": "have difficulty / trouble + (in) + V-ing",
       "examples": [
@@ -4586,7 +4586,7 @@
       ]
     },
     {
-      "pattern": "spend / waste + time / money + V-ing (花時間 / 錢做…)",
+      "pattern": "Spend / waste + time / money + V-ing (花時間 / 錢做…)",
       "meaning_zh": "spend / waste + 時間或金錢 + 動名詞,表「花/浪費…做某事」。",
       "structure": "S + spend / waste + 時間/金錢 + (on) + V-ing",
       "examples": [
@@ -4605,7 +4605,7 @@
       ]
     },
     {
-      "pattern": "can't help + V-ing (忍不住做…)",
+      "pattern": "Can't help + V-ing (忍不住做…)",
       "meaning_zh": "can't help + 動名詞,表「忍不住做某事、不得不」。",
       "structure": "S + can't help + V-ing",
       "examples": [
@@ -4624,7 +4624,7 @@
       ]
     },
     {
-      "pattern": "feel like + V-ing (想要做…)",
+      "pattern": "Feel like + V-ing (想要做…)",
       "meaning_zh": "feel like + 動名詞,表「想要做某事」。",
       "structure": "S + feel like + V-ing",
       "examples": [
@@ -4719,7 +4719,7 @@
       ]
     },
     {
-      "pattern": "prefer A to B / prefer to V rather than V (偏好 A 勝於 B)",
+      "pattern": "Prefer A to B / prefer to V rather than V (偏好 A 勝於 B)",
       "meaning_zh": "prefer 表偏好;比較名詞/動名詞用 prefer A to B,比較不定詞用 prefer to V rather than V。",
       "structure": "prefer + N/V-ing + to + N/V-ing; prefer + to V + rather than + V(原形)",
       "examples": [
@@ -4738,7 +4738,7 @@
       ]
     },
     {
-      "pattern": "would rather + V: rather than (寧願做…)",
+      "pattern": "Would rather + V: rather than (寧願做…)",
       "meaning_zh": "would rather + 原形動詞,表「寧願」;比較對象用 rather than + 原形。",
       "structure": "S + would rather + V(原形) + (rather than + V原形)",
       "examples": [
@@ -4757,7 +4757,7 @@
       ]
     },
     {
-      "pattern": "not as / so ... as (不如…那麼)",
+      "pattern": "Not as / so ... as (不如…那麼)",
       "meaning_zh": "not as/so + 形容詞/副詞 + as,表「不如…那麼」的同等否定比較。",
       "structure": "not as / so + adj/adv + as + 比較對象",
       "examples": [
@@ -4776,7 +4776,7 @@
       ]
     },
     {
-      "pattern": "by far / much + 比較級 / 最高級 (大幅程度修飾)",
+      "pattern": "By far / much + 比較級 / 最高級 (大幅程度修飾)",
       "meaning_zh": "by far、much、a lot、even 等可修飾比較級或最高級,加強程度。",
       "structure": "much / a lot / even + 比較級; by far + the + 最高級",
       "examples": [
@@ -4795,7 +4795,7 @@
       ]
     },
     {
-      "pattern": "one of the + 最高級 + 複數名詞 (最…之一)",
+      "pattern": "One of the + 最高級 + 複數名詞 (最…之一)",
       "meaning_zh": "one of the + 最高級 + 複數名詞,表「最…的…之一」,名詞用複數。",
       "structure": "one of the + 最高級 + 複數N",
       "examples": [
@@ -4814,7 +4814,7 @@
       ]
     },
     {
-      "pattern": "so + aux + S / neither + aux + S (附和, 也…)",
+      "pattern": "So + aux + S / neither + aux + S (附和, 也…)",
       "meaning_zh": "表「…也是」:肯定用 so + 助動詞 + 主詞,否定用 neither/nor + 助動詞 + 主詞,且主詞動詞倒裝。",
       "structure": "So + 助動詞 + S (肯定附和); Neither/Nor + 助動詞 + S (否定附和)",
       "examples": [
@@ -4852,7 +4852,7 @@
       ]
     },
     {
-      "pattern": "all / both / half + of + the (整體數量詞 + of)",
+      "pattern": "All / both / half + of + the (整體數量詞 + of)",
       "meaning_zh": "all、both、half、most 等修飾特定名詞時用「+ of + the/所有格 + 名詞」。",
       "structure": "all / both / half / most + of + the/所有格 + N",
       "examples": [
@@ -4871,7 +4871,7 @@
       ]
     },
     {
-      "pattern": "each / every (每一個的差異)",
+      "pattern": "Each / every (每一個的差異)",
       "meaning_zh": "each、every 後接單數名詞與單數動詞;each 強調個別,every 強調整體全部。",
       "structure": "each / every + 單數N + 單數V",
       "examples": [
@@ -4890,7 +4890,7 @@
       ]
     },
     {
-      "pattern": "much / many / a lot of (可數與不可數的量詞)",
+      "pattern": "Much / many / a lot of (可數與不可數的量詞)",
       "meaning_zh": "many + 可數複數;much + 不可數;a lot of / lots of 兩者皆可,肯定句常用。",
       "structure": "many + 可數複數N; much + 不可數N; a lot of + 可數/不可數N",
       "examples": [
@@ -4909,7 +4909,7 @@
       ]
     },
     {
-      "pattern": "a number of vs the number of (數量 vs 數目)",
+      "pattern": "A number of vs the number of (數量 vs 數目)",
       "meaning_zh": "a number of + 複數名詞,意為「許多」,動詞用複數;the number of 意為「…的數目」,動詞用單數。",
       "structure": "A number of + 複數N + 複數V; The number of + 複數N + 單數V",
       "examples": [
@@ -4928,7 +4928,7 @@
       ]
     },
     {
-      "pattern": "too much / too many / too little / too few (過多過少)",
+      "pattern": "Too much / too many / too little / too few (過多過少)",
       "meaning_zh": "too much/little 修飾不可數,too many/few 修飾可數複數,表數量過多或過少。",
       "structure": "too much / too little + 不可數N; too many / too few + 可數複數N",
       "examples": [
@@ -4966,7 +4966,7 @@
       ]
     },
     {
-      "pattern": "another / other / others / the other (其他的區別)",
+      "pattern": "Another / other / others / the other (其他的區別)",
       "meaning_zh": "another + 單數(另一個);other + 複數;others 代替複數名詞;the other(s) 指剩下的特定者。",
       "structure": "another + 單數N; other + 複數N; (the) others = (the) other + 複數N",
       "examples": [
@@ -5023,7 +5023,7 @@
       ]
     },
     {
-      "pattern": "the way in which / how (方式子句)",
+      "pattern": "The way in which / how (方式子句)",
       "meaning_zh": "表「…的方式」用 the way、the way that 或 the way in which;the way 與 how 不可同時並用。",
       "structure": "the way (that / in which) + S + V",
       "examples": [
@@ -5042,7 +5042,7 @@
       ]
     },
     {
-      "pattern": "the reason why / for which (原因子句)",
+      "pattern": "The reason why / for which (原因子句)",
       "meaning_zh": "表「…的原因」用 the reason why、the reason that 或 the reason for which。",
       "structure": "the reason why / that / for which + S + V",
       "examples": [
@@ -5061,7 +5061,7 @@
       ]
     },
     {
-      "pattern": "such as / like (舉例用法)",
+      "pattern": "Such as / like (舉例用法)",
       "meaning_zh": "such as、like 用於舉例,表「例如」,後接名詞或名詞片語。",
       "structure": "N + such as / like + 例子(名詞)",
       "examples": [
@@ -5080,7 +5080,7 @@
       ]
     },
     {
-      "pattern": "as well as (除…之外也, 主詞動詞一致)",
+      "pattern": "As well as (除…之外也, 主詞動詞一致)",
       "meaning_zh": "as well as 連接兩者,意為「以及、也」;主詞動詞依 as well as 前的主詞決定。",
       "structure": "A + as well as + B + V (動詞依 A 決定)",
       "examples": [
@@ -5118,7 +5118,7 @@
       ]
     },
     {
-      "pattern": "so far / so good (程度與範圍副詞片語)",
+      "pattern": "So far / so good (程度與範圍副詞片語)",
       "meaning_zh": "so far 表「到目前為止」,常搭配完成式;區別於 so...that 的結果用法。",
       "structure": "S + 完成式 + so far (= until now)",
       "examples": [
@@ -5137,7 +5137,7 @@
       ]
     },
     {
-      "pattern": "enough as determiner (enough 當限定詞)",
+      "pattern": "Enough as determiner (enough 當限定詞)",
       "meaning_zh": "enough 修飾名詞時置於名詞前;修飾形容詞/副詞時置於其後(與 too...to 對照)。",
       "structure": "enough + N; adj/adv + enough",
       "examples": [
@@ -5156,7 +5156,7 @@
       ]
     },
     {
-      "pattern": "few / little vs a few / a little (差別, 否定 vs 肯定)",
+      "pattern": "Few / little vs a few / a little (差別, 否定 vs 肯定)",
       "meaning_zh": "few/little 帶否定意味(幾乎沒有),a few/a little 帶肯定意味(有一些);few/a few 接可數,little/a little 接不可數。",
       "structure": "few / a few + 可數複數N; little / a little + 不可數N",
       "examples": [
@@ -5175,7 +5175,7 @@
       ]
     },
     {
-      "pattern": "so that 與 such that 的位置差異 (對照)",
+      "pattern": "So that 與 such that 的位置差異 (對照)",
       "meaning_zh": "so 接形容詞/副詞、such 接名詞片語;結果子句皆用 + that;區別在 so 後無名詞、such 後有名詞。",
       "structure": "so + adj/adv + (a N) + that...; such + (a/an) adj + N + that...",
       "examples": [
@@ -5194,7 +5194,7 @@
       ]
     },
     {
-      "pattern": "the + 比較級 of the two (兩者中較…的)",
+      "pattern": "The + 比較級 of the two (兩者中較…的)",
       "meaning_zh": "比較兩者時,「較…的那一個」用 the + 比較級 + of the two。",
       "structure": "the + 比較級 + of the two",
       "examples": [
@@ -5213,7 +5213,7 @@
       ]
     },
     {
-      "pattern": "as ... as possible / as ... as one can (盡可能…)",
+      "pattern": "As ... as possible / as ... as one can (盡可能…)",
       "meaning_zh": "as + 形容詞/副詞 + as possible 或 as...as + 主詞 + can,表「盡可能地…」。",
       "structure": "as + adj/adv + as possible; as + adj/adv + as + S + can",
       "examples": [
@@ -5289,7 +5289,7 @@
       ]
     },
     {
-      "pattern": "too ... to V vs so ... that (過於…無法, 互換)",
+      "pattern": "Too ... to V vs so ... that (過於…無法, 互換)",
       "meaning_zh": "too + 形容詞/副詞 + to V 表「太…以致於不能」,可與 so...that...not 互換。",
       "structure": "too + adj/adv + (for sb) + to V (= so + adj/adv + that + S + can't)",
       "examples": [
@@ -5308,7 +5308,7 @@
       ]
     },
     {
-      "pattern": "in spite of / despite + N (儘管, 接名詞)",
+      "pattern": "In spite of / despite + N (儘管, 接名詞)",
       "meaning_zh": "in spite of、despite 後接名詞或動名詞,表讓步「儘管」,不可直接接子句。",
       "structure": "in spite of / despite + N / V-ing, S + V",
       "examples": [
@@ -5327,7 +5327,7 @@
       ]
     },
     {
-      "pattern": "due to / because of vs because (介系詞 vs 連接詞)",
+      "pattern": "Due to / because of vs because (介系詞 vs 連接詞)",
       "meaning_zh": "due to、because of 後接名詞片語;because 後接完整子句,兩者不可混用。",
       "structure": "due to / because of + N; because + S + V",
       "examples": [
@@ -5346,7 +5346,7 @@
       ]
     },
     {
-      "pattern": "on / upon + V-ing (一…就…)",
+      "pattern": "On / upon + V-ing (一…就…)",
       "meaning_zh": "on / upon + 動名詞,表「一…就…」,等於 as soon as 引導的時間子句。",
       "structure": "On / Upon + V-ing, S + V",
       "examples": [
@@ -5365,7 +5365,7 @@
       ]
     },
     {
-      "pattern": "the more ... the more (越…越…)",
+      "pattern": "The more ... the more (越…越…)",
       "meaning_zh": "the + 比較級..., the + 比較級...,表「越…就越…」的相關變化。",
       "structure": "The + 比較級 + S + V, the + 比較級 + S + V",
       "examples": [
@@ -5384,7 +5384,7 @@
       ]
     },
     {
-      "pattern": "so / such 置句首倒裝 (強調倒裝)",
+      "pattern": "So / such 置句首倒裝 (強調倒裝)",
       "meaning_zh": "以 So + 形容詞/副詞或 Such 置句首加強語氣時,主句須部分倒裝。",
       "structure": "So + adj/adv + 助動詞/be + S + that...; Such + be + S + that...",
       "examples": [
@@ -5403,7 +5403,7 @@
       ]
     },
     {
-      "pattern": "the same ... as / such ... as (相同與這類的比較)",
+      "pattern": "The same ... as / such ... as (相同與這類的比較)",
       "meaning_zh": "the same + 名詞 + as 表「和…一樣」;such + 名詞 + as 表「像…這樣的」。",
       "structure": "the same + N + as + 比較對象; such + N + as + 比較對象",
       "examples": [

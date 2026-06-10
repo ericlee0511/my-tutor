@@ -70,6 +70,13 @@ const CHECKS = {
     if (/\S\/|\/\S/.test(p)) v.push(["pattern 斜線兩側需各留一空白", p]);
     if (/，/.test(p)) v.push(["pattern 全形逗號，(應半形,)", p]);
     if (/,\S/.test(p)) v.push(["pattern 逗號後需留一空白", p]);
+    // 句首式:英文部分除首字外不應有多個一般首字大寫字(縮寫/專有名詞除外)
+    {
+      const eng = p.replace(/\s*\([^()]*[一-鿿][^()]*\)\s*$/, "");
+      const KEEP = new Set(["English", "Chinese", "British", "American", "I", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]);
+      const caps = (eng.match(/[A-Za-z][A-Za-z'.\-]*/g) || []).filter(w => /^[A-Z][a-z]+$/.test(w) && !KEEP.has(w));
+      if (caps.length > 1) v.push(["pattern 疑 Title Case(應句首式)", `${p} :: ${caps}`]);
+    }
     return v;
   },
 };
