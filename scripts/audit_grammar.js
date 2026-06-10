@@ -58,8 +58,10 @@ const CHECKS = {
     if (ONE_SIDE_SLASH(s)) v.push(["structure / 單側空格", s]);
     return v;
   },
-  _en: ({ pattern: p, structure: s }) => {                     // TOEIC / GEPT 共用
+  _en: ({ pattern: p, structure: s, meaning_zh: m }) => {       // TOEIC / GEPT 共用
     const v = [];
+    if (/;/.test(m)) v.push(["meaning_zh 半形分號;(應全形；)", m]);
+    if (/,/.test(m.replace(/\d,\d/g, ""))) v.push(["meaning_zh 半形逗號,(應全形，;數字千分位除外)", m]);
     if (FULLWIDTH.test(s)) v.push(["structure 全形符號（）／＋", s]);
     if (EN_META.test(s)) v.push(["structure 英文後設標註(應中文)", s]);
     if (/\S\/|\/\S/.test(s)) v.push(["structure 斜線兩側需各留一空白", s]);  // 比 ONE_SIDE 更嚴:含完全無空白

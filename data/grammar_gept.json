@@ -4226,7 +4226,7 @@
     },
     {
       "pattern": "Whether ... or (whether 名詞子句)",
-      "meaning_zh": "whether 引導名詞子句表「是否」，可加 or not;比 if 更正式且可當主詞。",
+      "meaning_zh": "whether 引導名詞子句表「是否」，可加 or not；比 if 更正式且可當主詞。",
       "structure": "whether (or not) + S + V; S + V + whether + S + V (or not)",
       "examples": [
         {
@@ -4321,7 +4321,7 @@
     },
     {
       "pattern": "So + adj vs such + N (so 與 such 的差異)",
-      "meaning_zh": "so 後接形容詞或副詞;such 後接(冠詞+)名詞片語。兩者皆表強調「如此」。",
+      "meaning_zh": "so 後接形容詞或副詞；such 後接(冠詞+)名詞片語。兩者皆表強調「如此」。",
       "structure": "so + adj / adv; such + (a / an) + (adj +) N",
       "examples": [
         {
@@ -4397,7 +4397,7 @@
     },
     {
       "pattern": "As if / as though (好像…一樣)",
-      "meaning_zh": "as if、as though 引導表「好像」;用過去式表與事實相反的假想。",
+      "meaning_zh": "as if、as though 引導表「好像」；用過去式表與事實相反的假想。",
       "structure": "S + V + as if / as though + S + (過去式,表與現實相反)",
       "examples": [
         {
@@ -4416,7 +4416,7 @@
     },
     {
       "pattern": "In case (以防萬一)",
-      "meaning_zh": "in case 引導預防性子句，表「以防、萬一」;子句多用現在式，不用 will。",
+      "meaning_zh": "in case 引導預防性子句，表「以防、萬一」；子句多用現在式，不用 will。",
       "structure": "S + V + in case + S + V (現在式,表預防)",
       "examples": [
         {
@@ -4663,7 +4663,7 @@
     },
     {
       "pattern": "It + adj + for / of + sb + to V (虛主詞 it 接不定詞)",
-      "meaning_zh": "it 當虛主詞，真主詞為不定詞;客觀難易用 for sb，品格評價用 of sb。",
+      "meaning_zh": "it 當虛主詞，真主詞為不定詞；客觀難易用 for sb，品格評價用 of sb。",
       "structure": "It + be + adj + for sb + to V (客觀); It + be + adj + of sb + to V (品格)",
       "examples": [
         {
@@ -4720,7 +4720,7 @@
     },
     {
       "pattern": "Prefer A to B / prefer to V rather than V (偏好 A 勝於 B)",
-      "meaning_zh": "prefer 表偏好;比較名詞/動名詞用 prefer A to B，比較不定詞用 prefer to V rather than V。",
+      "meaning_zh": "prefer 表偏好；比較名詞/動名詞用 prefer A to B，比較不定詞用 prefer to V rather than V。",
       "structure": "prefer + N / V-ing + to + N / V-ing; prefer + to V + rather than + V (原形)",
       "examples": [
         {
@@ -4739,7 +4739,7 @@
     },
     {
       "pattern": "Would rather + V: rather than (寧願做…)",
-      "meaning_zh": "would rather + 原形動詞，表「寧願」;比較對象用 rather than + 原形。",
+      "meaning_zh": "would rather + 原形動詞，表「寧願」；比較對象用 rather than + 原形。",
       "structure": "S + would rather + V (原形) + (rather than + V原形)",
       "examples": [
         {
@@ -4872,7 +4872,7 @@
     },
     {
       "pattern": "Each / every (每一個的差異)",
-      "meaning_zh": "each、every 後接單數名詞與單數動詞;each 強調個別，every 強調整體全部。",
+      "meaning_zh": "each、every 後接單數名詞與單數動詞；each 強調個別，every 強調整體全部。",
       "structure": "each / every + 單數N + 單數V",
       "examples": [
         {
@@ -4891,7 +4891,7 @@
     },
     {
       "pattern": "Much / many / a lot of (可數與不可數的量詞)",
-      "meaning_zh": "many + 可數複數;much + 不可數;a lot of / lots of 兩者皆可，肯定句常用。",
+      "meaning_zh": "many + 可數複數；much + 不可數；a lot of / lots of 兩者皆可，肯定句常用。",
       "structure": "many + 可數複數N; much + 不可數N; a lot of + 可數 / 不可數N",
       "examples": [
         {
@@ -4910,7 +4910,7 @@
     },
     {
       "pattern": "A number of vs the number of (數量 vs 數目)",
-      "meaning_zh": "a number of + 複數名詞，意為「許多」，動詞用複數;the number of 意為「…的數目」，動詞用單數。",
+      "meaning_zh": "a number of + 複數名詞，意為「許多」，動詞用複數；the number of 意為「…的數目」，動詞用單數。",
       "structure": "A number of + 複數N + 複數V; The number of + 複數N + 單數V",
       "examples": [
         {
@@ -4948,7 +4948,7 @@
     },
     {
       "pattern": "Demonstratives this / that / these / those (指示詞)",
-      "meaning_zh": "this/these 指近、that/those 指遠，單複數須與名詞一致;those 可後接片語替代名詞。",
+      "meaning_zh": "this/these 指近、that/those 指遠，單複數須與名詞一致；those 可後接片語替代名詞。",
       "structure": "this / that + 單數N; these / those + 複數N",
       "examples": [
         {
@@ -4967,7 +4967,7 @@
     },
     {
       "pattern": "Another / other / others / the other (其他的區別)",
-      "meaning_zh": "another + 單數(另一個);other + 複數;others 代替複數名詞;the other(s) 指剩下的特定者。",
+      "meaning_zh": "another + 單數(另一個)；other + 複數；others 代替複數名詞；the other(s) 指剩下的特定者。",
       "structure": "another + 單數N; other + 複數N; (the) others = (the) other + 複數N",
       "examples": [
         {
@@ -5024,7 +5024,7 @@
     },
     {
       "pattern": "The way in which / how (方式子句)",
-      "meaning_zh": "表「…的方式」用 the way、the way that 或 the way in which;the way 與 how 不可同時並用。",
+      "meaning_zh": "表「…的方式」用 the way、the way that 或 the way in which；the way 與 how 不可同時並用。",
       "structure": "the way (that / in which) + S + V",
       "examples": [
         {
@@ -5081,7 +5081,7 @@
     },
     {
       "pattern": "As well as (除…之外也，主詞動詞一致)",
-      "meaning_zh": "as well as 連接兩者，意為「以及、也」;主詞動詞依 as well as 前的主詞決定。",
+      "meaning_zh": "as well as 連接兩者，意為「以及、也」；主詞動詞依 as well as 前的主詞決定。",
       "structure": "A + as well as + B + V (動詞依 A 決定)",
       "examples": [
         {
@@ -5119,7 +5119,7 @@
     },
     {
       "pattern": "So far / so good (程度與範圍副詞片語)",
-      "meaning_zh": "so far 表「到目前為止」，常搭配完成式;區別於 so...that 的結果用法。",
+      "meaning_zh": "so far 表「到目前為止」，常搭配完成式；區別於 so...that 的結果用法。",
       "structure": "S + 完成式 + so far (= until now)",
       "examples": [
         {
@@ -5138,7 +5138,7 @@
     },
     {
       "pattern": "Enough as determiner (enough 當限定詞)",
-      "meaning_zh": "enough 修飾名詞時置於名詞前;修飾形容詞/副詞時置於其後(與 too...to 對照)。",
+      "meaning_zh": "enough 修飾名詞時置於名詞前；修飾形容詞/副詞時置於其後(與 too...to 對照)。",
       "structure": "enough + N; adj / adv + enough",
       "examples": [
         {
@@ -5157,7 +5157,7 @@
     },
     {
       "pattern": "Few / little vs a few / a little (差別，否定 vs 肯定)",
-      "meaning_zh": "few/little 帶否定意味(幾乎沒有)，a few/a little 帶肯定意味(有一些);few/a few 接可數，little/a little 接不可數。",
+      "meaning_zh": "few/little 帶否定意味(幾乎沒有)，a few/a little 帶肯定意味(有一些)；few/a few 接可數，little/a little 接不可數。",
       "structure": "few / a few + 可數複數N; little / a little + 不可數N",
       "examples": [
         {
@@ -5176,7 +5176,7 @@
     },
     {
       "pattern": "So that 與 such that 的位置差異 (對照)",
-      "meaning_zh": "so 接形容詞/副詞、such 接名詞片語;結果子句皆用 + that;區別在 so 後無名詞、such 後有名詞。",
+      "meaning_zh": "so 接形容詞/副詞、such 接名詞片語；結果子句皆用 + that；區別在 so 後無名詞、such 後有名詞。",
       "structure": "so + adj / adv + (a N) + that...; such + (a / an) adj + N + that...",
       "examples": [
         {
@@ -5233,7 +5233,7 @@
     },
     {
       "pattern": "Possessive of / 's (無生命所有格用法區別)",
-      "meaning_zh": "有生命名詞多用 's;無生命名詞多用 of 片語表所有關係。",
+      "meaning_zh": "有生命名詞多用 's；無生命名詞多用 of 片語表所有關係。",
       "structure": "有生命N + 's + N; the + N + of + 無生命N",
       "examples": [
         {
@@ -5328,7 +5328,7 @@
     },
     {
       "pattern": "Due to / because of vs because (介系詞 vs 連接詞)",
-      "meaning_zh": "due to、because of 後接名詞片語;because 後接完整子句，兩者不可混用。",
+      "meaning_zh": "due to、because of 後接名詞片語；because 後接完整子句，兩者不可混用。",
       "structure": "due to / because of + N; because + S + V",
       "examples": [
         {
@@ -5404,7 +5404,7 @@
     },
     {
       "pattern": "The same ... as / such ... as (相同與這類的比較)",
-      "meaning_zh": "the same + 名詞 + as 表「和…一樣」;such + 名詞 + as 表「像…這樣的」。",
+      "meaning_zh": "the same + 名詞 + as 表「和…一樣」；such + 名詞 + as 表「像…這樣的」。",
       "structure": "the same + N + as + 比較對象; such + N + as + 比較對象",
       "examples": [
         {

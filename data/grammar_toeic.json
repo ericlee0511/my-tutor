@@ -3437,7 +3437,7 @@
     },
     {
       "pattern": "Modal need not vs don't have to (need not 與 don't have to 表無必要)",
-      "meaning_zh": "need not / don't have to 皆表示沒有必要 (無義務)，與 must not (禁止) 意義截然不同;need 作助動詞時後接原形且無 to。",
+      "meaning_zh": "need not / don't have to 皆表示沒有必要 (無義務)，與 must not (禁止) 意義截然不同；need 作助動詞時後接原形且無 to。",
       "structure": "S + need not + V (原形) / S + don't have to + V (原形) (無必要)",
       "examples": [
         {
@@ -3662,7 +3662,7 @@
     },
     {
       "pattern": "Reported speech with modal backshift (間接引述情態助動詞往後推)",
-      "meaning_zh": "間接引述中情態助動詞會往後推:will→would、can→could、may→might;而 should/would/could/might 通常維持不變。",
+      "meaning_zh": "間接引述中情態助動詞會往後推:will→would、can→could、may→might；而 should/would/could/might 通常維持不變。",
       "structure": "S + said (that) + S + would / could / might + V (原形)",
       "examples": [
         {
@@ -3812,7 +3812,7 @@
     },
     {
       "pattern": "Present perfect vs simple past: time reference (現在完成式與過去簡單式之時間參照)",
-      "meaning_zh": "未指明明確過去時間或與現在有關連用現在完成式;附有 yesterday/last week/ago 等明確過去時間則用簡單過去式，二者不可混用。",
+      "meaning_zh": "未指明明確過去時間或與現在有關連用現在完成式；附有 yesterday/last week/ago 等明確過去時間則用簡單過去式，二者不可混用。",
       "structure": "S + have / has + p.p. (無明確時間) vs S + 過去式 V + 過去時間副詞",
       "examples": [
         {
@@ -3917,7 +3917,7 @@
     },
     {
       "pattern": "Either / neither / none as subject: verb agreement (either / neither / none 作主詞之動詞一致)",
-      "meaning_zh": "either/neither 當主詞接單數動詞;none of 後接不可數或視角不同時可單可複，正式商務多用單數。",
+      "meaning_zh": "either/neither 當主詞接單數動詞；none of 後接不可數或視角不同時可單可複，正式商務多用單數。",
       "structure": "Neither / Either (+ of + N) + 單數V (正式用單數)",
       "examples": [
         {
@@ -4007,7 +4007,7 @@
     },
     {
       "pattern": "Distinguishing adjective vs adverb placement (形容詞與副詞位置辨析)",
-      "meaning_zh": "形容詞修飾名詞、副詞修飾動詞/形容詞/副詞;TOEIC 常考空格詞性判斷。",
+      "meaning_zh": "形容詞修飾名詞、副詞修飾動詞/形容詞/副詞；TOEIC 常考空格詞性判斷。",
       "structure": "Adj + N (修飾名詞) / V + Adv (修飾動詞) (詞性對應)",
       "examples": [
         {
@@ -4052,7 +4052,7 @@
     },
     {
       "pattern": "Possessive form: apostrophe vs of-phrase (所有格：撇號與 of 片語)",
-      "meaning_zh": "有生命/組織用 's 表所有格，無生命物多用 of-phrase;商務文件常見 company's policy 與 the cost of。",
+      "meaning_zh": "有生命/組織用 's 表所有格，無生命物多用 of-phrase；商務文件常見 company's policy 與 the cost of。",
       "structure": "N's + N (有生命 / 組織) / the + N + of + N (無生命) (所有格選擇)",
       "examples": [
         {
@@ -4187,7 +4187,7 @@
     },
     {
       "pattern": "Comparison: as + adjective + as for equality (as...as 表同等比較)",
-      "meaning_zh": "as + 原級形容詞/副詞 + as 表兩者相等;否定 not as...as 表不及。",
+      "meaning_zh": "as + 原級形容詞/副詞 + as 表兩者相等；否定 not as...as 表不及。",
       "structure": "as + 原級 + as; not as / so + 原級 + as (否定) (同級比較)",
       "examples": [
         {
@@ -4247,7 +4247,7 @@
     },
     {
       "pattern": "Such / so with noun and adjective (such / so 接名詞與形容詞)",
-      "meaning_zh": "so + 形容詞/副詞;such + (a/an) + 形容詞 + 名詞，表程度強調。",
+      "meaning_zh": "so + 形容詞/副詞；such + (a/an) + 形容詞 + 名詞，表程度強調。",
       "structure": "so + adj / adv; such + (a / an) + adj + N (程度強調)",
       "examples": [
         {
@@ -4292,7 +4292,7 @@
     },
     {
       "pattern": "Quantifier: a number of vs the amount of (a number of 與 the amount of)",
-      "meaning_zh": "a number of + 可數複數名詞(接複數動詞);the amount of + 不可數名詞(接單數動詞)。",
+      "meaning_zh": "a number of + 可數複數名詞(接複數動詞)；the amount of + 不可數名詞(接單數動詞)。",
       "structure": "a number of + 複數N + 複數V; the amount of + 不可數N + 單數V (可數 / 不可數)",
       "examples": [
         {
@@ -4307,7 +4307,7 @@
     },
     {
       "pattern": "Quantifier: most / most of / almost all (數量詞 most 的用法)",
-      "meaning_zh": "most + 名詞(泛指);most of the + 名詞(特指);almost 修飾 all/every 而非直接接名詞。",
+      "meaning_zh": "most + 名詞(泛指)；most of the + 名詞(特指)；almost 修飾 all/every 而非直接接名詞。",
       "structure": "most + N; most of the + N; almost all + N (泛指 / 特指)",
       "examples": [
         {
@@ -4352,7 +4352,7 @@
     },
     {
       "pattern": "Preposition vs conjunction: because of vs because (because of 與 because 辨析)",
-      "meaning_zh": "because of/due to + 名詞片語;because + 完整子句。TOEIC 常考空格後接名詞或子句的判斷。",
+      "meaning_zh": "because of/due to + 名詞片語；because + 完整子句。TOEIC 常考空格後接名詞或子句的判斷。",
       "structure": "because of + N; because + S + V (後接名詞 / 子句)",
       "examples": [
         {
@@ -4382,7 +4382,7 @@
     },
     {
       "pattern": "Conditional connector: in case vs in case of (in case 與 in case of)",
-      "meaning_zh": "in case + 子句(以防);in case of + 名詞(萬一發生…時)。",
+      "meaning_zh": "in case + 子句(以防)；in case of + 名詞(萬一發生…時)。",
       "structure": "in case + S + V; in case of + N (後接子句 / 名詞)",
       "examples": [
         {
@@ -4397,7 +4397,7 @@
     },
     {
       "pattern": "Phrasal verbs: separable vs inseparable (可分與不可分片語動詞)",
-      "meaning_zh": "可分式片語動詞受詞為代名詞時須置於動副之間(turn it off);不可分式不可拆開。",
+      "meaning_zh": "可分式片語動詞受詞為代名詞時須置於動副之間(turn it off)；不可分式不可拆開。",
       "structure": "V + 代名詞 + adv (可分式); V + prep + N (不可分式) (可分 / 不可分)",
       "examples": [
         {
@@ -4772,7 +4772,7 @@
     },
     {
       "pattern": "So / neither for agreement: so do I / neither does he (so / neither 表附和)",
-      "meaning_zh": "附和肯定用 so + 助動詞 + 主詞;附和否定用 neither/nor + 助動詞 + 主詞，須倒裝。",
+      "meaning_zh": "附和肯定用 so + 助動詞 + 主詞；附和否定用 neither/nor + 助動詞 + 主詞，須倒裝。",
       "structure": "So + 助動詞 + S (肯定附和); Neither + 助動詞 + S (否定附和) (附和倒裝)",
       "examples": [
         {
