@@ -68,6 +68,7 @@ const CHECKS = {
     if (/\S\(/.test(s)) v.push(["structure ( 前需留一空白", s]);
     if (/\)[A-Za-z0-9一-鿿]/.test(s)) v.push(["structure ) 後接文字需留一空白", s]);
     if (/;\S/.test(s)) v.push(["structure 分號;後需留一空白", s]);
+    if (/[一-鿿]\s*,|,\s*[一-鿿]/.test(s)) v.push(["structure 中文相鄰逗號應全形「，」", s]);
     if (/後設標註中文/.test(s)) v.push(["structure 殘留指示字「後設標註中文」", s]);
     // pattern 命名統一為「English name (繁中名)」:結尾須為含中文的半形括號
     if (!/\([^()]*[一-鿿][^()]*\)\s*$/.test(p)) v.push(["pattern 非「English (中文)」格式", p]);

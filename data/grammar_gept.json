@@ -1227,7 +1227,7 @@
     {
       "pattern": "First conditional - real future (第一條件句，真實未來)",
       "meaning_zh": "表達未來可能發生的事。",
-      "structure": "If + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
+      "structure": "If + 主詞 + 現在簡單式，主詞 + will + 原形動詞",
       "examples": [
         {
           "en": "If it rains tomorrow, we will stay home.",
@@ -1242,7 +1242,7 @@
     {
       "pattern": "Second conditional - unreal present (第二條件句，與現在相反)",
       "meaning_zh": "表達與現在事實相反的假設。",
-      "structure": "If + 主詞 + 過去簡單式, 主詞 + would + 原形動詞",
+      "structure": "If + 主詞 + 過去簡單式，主詞 + would + 原形動詞",
       "examples": [
         {
           "en": "If I were you, I would tell the truth.",
@@ -1257,7 +1257,7 @@
     {
       "pattern": "Third conditional - unreal past (第三條件句，與過去相反)",
       "meaning_zh": "表達與過去事實相反的假設。",
-      "structure": "If + 主詞 + 過去完成式, 主詞 + would have + 過去分詞",
+      "structure": "If + 主詞 + 過去完成式，主詞 + would have + 過去分詞",
       "examples": [
         {
           "en": "If I had known, I would have helped you.",
@@ -1272,7 +1272,7 @@
     {
       "pattern": "Mixed conditional - past to present (混合條件句，過去影響現在)",
       "meaning_zh": "過去的假設影響現在的結果。",
-      "structure": "If + 主詞 + 過去完成式, 主詞 + would + 原形動詞",
+      "structure": "If + 主詞 + 過去完成式，主詞 + would + 原形動詞",
       "examples": [
         {
           "en": "If I had studied medicine, I would be a doctor now.",
@@ -1287,7 +1287,7 @@
     {
       "pattern": "Mixed conditional - present to past (混合條件句，現在影響過去)",
       "meaning_zh": "現在的狀況影響過去的結果。",
-      "structure": "If + 主詞 + 過去簡單式, 主詞 + would have + 過去分詞",
+      "structure": "If + 主詞 + 過去簡單式，主詞 + would have + 過去分詞",
       "examples": [
         {
           "en": "If I were taller, I would have joined the basketball team.",
@@ -1302,7 +1302,7 @@
     {
       "pattern": "Unless: equals if not (Unless 表除非)",
       "meaning_zh": "表達「除非」，相當於 if not。",
-      "structure": "Unless + 主詞 + 現在簡單式, 主詞 + will + 原形動詞",
+      "structure": "Unless + 主詞 + 現在簡單式，主詞 + will + 原形動詞",
       "examples": [
         {
           "en": "Unless you hurry, you will miss the bus.",
@@ -1347,7 +1347,7 @@
     {
       "pattern": "Inversion: had I known (倒裝，第三條件句省略 if)",
       "meaning_zh": "第三條件句倒裝，省略 if 後將 had 提前。",
-      "structure": "Had + 主詞 + 過去分詞, 主詞 + would have + 過去分詞",
+      "structure": "Had + 主詞 + 過去分詞，主詞 + would have + 過去分詞",
       "examples": [
         {
           "en": "Had I known about the meeting, I would have come.",
@@ -1362,7 +1362,7 @@
     {
       "pattern": "Inversion: were I to (倒裝，第二條件句假設語氣)",
       "meaning_zh": "第二條件句倒裝，強調假設語氣。",
-      "structure": "Were + 主詞 + to + 原形動詞, 主詞 + would + 原形動詞",
+      "structure": "Were + 主詞 + to + 原形動詞，主詞 + would + 原形動詞",
       "examples": [
         {
           "en": "Were I to win the lottery, I would travel the world.",
@@ -1377,7 +1377,7 @@
     {
       "pattern": "Inversion: should you (倒裝，第一條件句正式表達)",
       "meaning_zh": "第一條件句倒裝，用於正式表達。",
-      "structure": "Should + 主詞 + 原形動詞, 主詞 + will / would + 原形動詞",
+      "structure": "Should + 主詞 + 原形動詞，主詞 + will / would + 原形動詞",
       "examples": [
         {
           "en": "Should you need help, please call me.",
@@ -2967,7 +2967,7 @@
     {
       "pattern": "Question tag (附加問句)",
       "meaning_zh": "前肯後否、前否後肯",
-      "structure": "主句, 助動詞 + (n't) + 代名詞?",
+      "structure": "主句，助動詞 + (n't) + 代名詞?",
       "examples": [
         {
           "en": "You're a student, aren't you?",
@@ -3657,7 +3657,7 @@
     {
       "pattern": "Conditional: implied / otherwise conditional (條件句，隱含條件 otherwise)",
       "meaning_zh": "用 otherwise / or 隱含一個條件，表達「否則就會…」的假設結果。",
-      "structure": "祈使句 / 直述句, otherwise + S + would / will + V",
+      "structure": "祈使句 / 直述句，otherwise + S + would / will + V",
       "examples": [
         {
           "en": "Write down the address; otherwise you'll forget it.",
@@ -4037,7 +4037,7 @@
     {
       "pattern": "Subjunctive: were to (假設語氣，were to 表純粹假想)",
       "meaning_zh": "if S were to + V 用於假設一個純屬想像或可能性較低的未來情況。",
-      "structure": "If + S + were to + V-原形, S + would + V-原形",
+      "structure": "If + S + were to + V-原形，S + would + V-原形",
       "examples": [
         {
           "en": "If you were to win the lottery, what would you do first?",
@@ -4208,7 +4208,7 @@
     {
       "pattern": "Wh- noun clause (wh- 名詞子句)",
       "meaning_zh": "what/who/where/how 等引導的名詞子句可當主詞或受詞，子句內用直述語序。",
-      "structure": "S + V + what / who / where / how + S + V (直述語序,非問句語序)",
+      "structure": "S + V + what / who / where / how + S + V (直述語序，非問句語序)",
       "examples": [
         {
           "en": "I don't know what he wants.",
@@ -4398,7 +4398,7 @@
     {
       "pattern": "As if / as though (好像…一樣)",
       "meaning_zh": "as if、as though 引導表「好像」；用過去式表與事實相反的假想。",
-      "structure": "S + V + as if / as though + S + (過去式,表與現實相反)",
+      "structure": "S + V + as if / as though + S + (過去式，表與現實相反)",
       "examples": [
         {
           "en": "He talks as if he knew everything.",
@@ -4417,7 +4417,7 @@
     {
       "pattern": "In case (以防萬一)",
       "meaning_zh": "in case 引導預防性子句，表「以防、萬一」；子句多用現在式，不用 will。",
-      "structure": "S + V + in case + S + V (現在式,表預防)",
+      "structure": "S + V + in case + S + V (現在式，表預防)",
       "examples": [
         {
           "en": "Take an umbrella in case it rains.",
@@ -4436,7 +4436,7 @@
     {
       "pattern": "Participial construction - active (分詞構句，主動 V-ing)",
       "meaning_zh": "當兩句主詞相同，可把表時間/原因的副詞子句簡化為現在分詞片語(主動)。",
-      "structure": "V-ing + ..., S + V (主詞與主句相同,主動關係)",
+      "structure": "V-ing + ..., S + V (主詞與主句相同，主動關係)",
       "examples": [
         {
           "en": "Hearing the news, she burst into tears.",
@@ -4455,7 +4455,7 @@
     {
       "pattern": "Participial construction - passive (分詞構句，被動 V-p.p.)",
       "meaning_zh": "當主詞與動作為被動關係時，分詞構句用過去分詞(p.p.)開頭。",
-      "structure": "V-p.p. + ..., S + V (被動關係,可由 Being p.p. 省略 Being)",
+      "structure": "V-p.p. + ..., S + V (被動關係，可由 Being p.p. 省略 Being)",
       "examples": [
         {
           "en": "Written in simple English, the book is easy to read.",

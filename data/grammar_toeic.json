@@ -1593,7 +1593,7 @@
     {
       "pattern": "Noun + preposition: increase in, decrease in (名詞加介系詞：increase in、decrease in)",
       "meaning_zh": "表示「在某方面增加或減少」時，使用介系詞 in；表示「增減幅度」時使用 of。",
-      "structure": "an increase / decrease + in + 領域, of + 數量",
+      "structure": "an increase / decrease + in + 領域，of + 數量",
       "examples": [
         {
           "en": "The company reported a 12 percent increase in quarterly profits.",
@@ -1608,7 +1608,7 @@
     {
       "pattern": "Adjective + preposition: responsible for, eligible for, capable of (形容詞加介系詞：responsible for、eligible for、capable of)",
       "meaning_zh": "形容詞與固定介系詞的搭配，須整組記憶。",
-      "structure": "responsible / eligible + for + 名詞, capable + of + V-ing",
+      "structure": "responsible / eligible + for + 名詞，capable + of + V-ing",
       "examples": [
         {
           "en": "The new hire will be responsible for coordinating cross-functional projects.",
@@ -1938,7 +1938,7 @@
     {
       "pattern": "Defining vs non-defining relative clauses (限定與非限定關係子句)",
       "meaning_zh": "限定子句不加逗號，提供必要訊息；非限定子句以逗號隔開，提供補充訊息，且不可用 that。",
-      "structure": "Noun + (that / who / which) + 子句 / Noun, who / which + 子句,",
+      "structure": "Noun + (that / who / which) + 子句 / Noun, who / which + 子句，",
       "examples": [
         {
           "en": "The employees who completed the training will receive certificates next week.",
@@ -3708,7 +3708,7 @@
     {
       "pattern": "Reported speech: wh-questions (轉述 wh-問句)",
       "meaning_zh": "轉述 wh-問句時保留疑問詞，但改成陳述句語序、去掉助動詞 do/does/did，並隨主句時態做時態後推。",
-      "structure": "S + asked + 疑問詞 + S + V (陳述語序,無 do / does / did)",
+      "structure": "S + asked + 疑問詞 + S + V (陳述語序，無 do / does / did)",
       "examples": [
         {
           "en": "The client asked when the final invoice would be issued.",
