@@ -416,7 +416,7 @@ main {
   color: var(--accent);        /* 非作用中 = 按鈕文字色 */
   cursor: pointer;
 }
-.title-toggle .seg.active { color: var(--text); }   /* 作用中 = 清單標題色 */
+.title-toggle .seg.active { font-size: 15px; }   /* 作用中:同色(var(--accent))、字大 2px 以區別 */
 .title-toggle .seg:active { transform: scale(0.94); }
 .title-toggle .seg-sep {
   color: var(--accent);
