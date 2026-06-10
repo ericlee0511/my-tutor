@@ -412,11 +412,11 @@ main {
   padding: 0 2px;
   font-family: inherit;
   font-size: 13px;
-  font-weight: 600;
-  color: var(--accent);        /* 非作用中 = 按鈕文字色 */
+  font-weight: 400;            /* 非作用中:細體 */
+  color: var(--accent);        /* 兩段同色 = 按鈕文字色 */
   cursor: pointer;
 }
-.title-toggle .seg.active { font-size: 15px; }   /* 作用中:同色(var(--accent))、字大 2px 以區別 */
+.title-toggle .seg.active { font-weight: 700; }   /* 作用中:純粗體區別 */
 .title-toggle .seg:active { transform: scale(0.94); }
 .title-toggle .seg-sep {
   color: var(--accent);
