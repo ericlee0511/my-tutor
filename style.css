@@ -419,7 +419,7 @@ main {
   color: var(--muted);         /* 非作用中:淡灰 */
   cursor: pointer;
 }
-.title-toggle .seg.active { font-weight: 700; font-size: 13.5px; color: var(--accent); }   /* 作用中:靛色粗體 + 13.5px */
+.title-toggle .seg.active { font-weight: 700; font-size: 14px; color: var(--accent); }   /* 作用中:靛色粗體 + 14px */
 .title-toggle .seg:active { transform: scale(0.94); }
 .title-toggle .seg-sep {
   color: var(--accent);
