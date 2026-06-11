@@ -2005,6 +2005,7 @@ function displayEntry(entry) {
   cEl.innerHTML = formatEntry(entry) + renderNav();
   if (entry.kind === "scene") {
     document.querySelector(".story-switch")?.addEventListener("click", () => {
+      prevStory = state.story;   // 記住目前故事，故事選單可點標題列關閉返回
       state.story = null;
       saveState();
       renderStoryPicker();
@@ -2055,6 +2056,7 @@ function nextTimeline() {
 }
 
 let storyTitleZh = false;   // 故事清單標題：false=原文(預設) / true=中文翻譯。只影響清單，不影響閱讀頁
+let prevStory = null;       // 開故事選單前在讀的故事，點標題列(切換鈕除外)可關閉返回
 
 function renderStoryPicker() {
   const c = document.getElementById("content");
@@ -2084,6 +2086,19 @@ function renderStoryPicker() {
   });
   html += `</div>`;
   c.innerHTML = html;
+  // 點「選擇一個故事：」標題列空白處(切換鈕除外)→ 關閉選單、回到原本在讀的故事
+  const hintEl = c.querySelector(".picker-hint");
+  if (hintEl) {
+    hintEl.style.cursor = "pointer";
+    hintEl.addEventListener("click", (e) => {
+      if (e.target.closest(".title-toggle")) return;   // 切換鈕除外
+      if (prevStory && activeScenes()?.[prevStory]) {
+        state.story = prevStory;
+        saveState();
+        renderScene();
+      }
+    });
+  }
   c.querySelectorAll(".title-toggle .seg").forEach(seg => {
     seg.addEventListener("click", () => {
       const wantZh = seg.dataset.zh === "1";
