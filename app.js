@@ -2095,7 +2095,13 @@ function renderStoryPicker() {
       if (prevStory && activeScenes()?.[prevStory]) {
         state.story = prevStory;
         saveState();
-        renderScene();
+        // 回到原本那一句(還原 timeline 當前項),而非重抽新句
+        const cur = state.timeline[state.timelinePos];
+        if (cur && cur.kind === "scene" && cur.key === prevStory) {
+          displayEntry(cur);
+        } else {
+          renderScene();
+        }
       }
     });
   }
