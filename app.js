@@ -1721,7 +1721,7 @@ function fmtSceneKo(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.ko)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${highlightSentence(item.ko, "ko")}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.ko, "ko")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1769,7 +1769,7 @@ function fmtSceneToeic(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.en)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${highlightSentence(item.en, "en_toeic")}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_toeic")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1817,7 +1817,7 @@ function fmtSceneGept(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.en)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${highlightSentence(item.en, "en_gept")}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.en, "en_gept")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1865,7 +1865,7 @@ function fmtSceneDele(item, num, title) {
   if (reversed) {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
     html += `<div><span class="spoiler scene-spoiler">` +
-      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.es)}</span></span></div>`;
+      `<span class="scene-foreign"><span class="scene-noflip">🎭</span>${tts}${highlightSentence(item.es, "es")}</span></span></div>`;
   } else {
     html += `<div class="headword">🎭${tts}${highlightSentence(item.es, "es")}</div>`;
     html += `<div><span class="spoiler" onclick="this.classList.toggle('revealed')">` +
@@ -1885,7 +1885,7 @@ function fmtScene(item, num, title) {
       `💬 ${escapeHTML(item.zh)}</span></div>`;
   } else {
     html += `<div class="headword">💬 ${escapeHTML(item.zh)}</div>`;
-    let inner = `<span class="scene-noflip">🎭</span>${tts}${escapeHTML(item.ja)}`;
+    let inner = `<span class="scene-noflip">🎭</span>${tts}${highlightSentence(item.ja, "ja")}`;
     if (item.kana) inner += `<br>かな: ${escapeHTML(item.kana)}`;
     html += `<div><span class="spoiler scene-spoiler">` +
       `<span class="scene-foreign">${inner}</span></span></div>`;
