@@ -1097,9 +1097,9 @@ footer {
 .srs-front { font-size: 30px; font-weight: 700; color: var(--text); word-break: break-word; }
 .srs-back { text-align: center; }
 .srs-bhead { font-size: 26px; font-weight: 700; color: var(--accent); }
-.srs-breading { color: var(--muted); margin-top: 4px; font-size: 14px; }
-.srs-bmean { margin-top: 8px; font-size: 17px; color: var(--text); }
-.srs-bex { margin-top: 12px; font-size: 15px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; line-height: 1.6; }
+.srs-breading { color: var(--muted); margin-top: 4px; font-size: 15px; }
+.srs-bmean { margin-top: 8px; font-size: 18px; color: var(--text); }
+.srs-bex { margin-top: 12px; font-size: 16px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px; line-height: 1.6; }
 .srs-done { text-align: center; font-size: 16px; line-height: 1.9; color: var(--text); }
 .srs-hint { text-align: center; font-size: 14px; line-height: 1.6; color: var(--muted); margin-top: 12px; }
 .srs-controls { display: flex; gap: 10px; }
