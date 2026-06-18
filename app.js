@@ -3147,6 +3147,9 @@ window.addEventListener("DOMContentLoaded", async () => {
     // surrounding area does re-hide.
     const sceneSp = e.target.closest(".scene-spoiler");
     if (sceneSp) {
+      // 單字卡開著時,點翻譯/顯示翻譯區塊先關閉單字卡(不切換翻譯顯示狀態)
+      const popOpen = document.getElementById("lookup-popup");
+      if (popOpen && !popOpen.hidden) { hideLookupPopup(); return; }
       if (!sceneSp.classList.contains("revealed")) {
         sceneSp.classList.add("revealed");
       } else if (!e.target.closest(".scene-noflip")) {
